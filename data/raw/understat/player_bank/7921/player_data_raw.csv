@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+7921,Felipe,16,1427,0,1.246483264490962,1,1.5024280175566673,13,7,4,0,D S,Nottingham Forest,0,1.246483264490962,2.322425527498126,2.1818392034620047,2022
+7921,Felipe,7,369,0,0.17141835950315,0,0.03801676072180271,3,2,3,0,D S,Nottingham Forest,0,0.17141835950315,1.4830044843256474,1.4425167199224234,2023

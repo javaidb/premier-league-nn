@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+287313,82,MissedShots,0.9309999847412109,0.5940000152587891,0.049745600670576096,Neeskens Kebano,h,6840,OpenPlay,2018,Head,9512,Fulham,Manchester City,0,2,2019-03-30 12:30:00,Cyrus Christie,Aerial,6840
+376481,9,BlockedShot,0.9330000305175781,0.34200000762939453,0.045429401099681854,Neeskens Kebano,h,6840,OpenPlay,2020,RightFoot,14086,Fulham,Arsenal,0,3,2020-09-12 11:30:00,Ivan Cavaleiro,Cross,6840
+377538,68,ShotOnPost,0.865,0.6809999847412109,0.05262820050120354,Neeskens Kebano,a,6840,OpenPlay,2020,RightFoot,14097,Leeds,Fulham,4,3,2020-09-19 14:00:00,Franck Zambo,Pass,6840
+379968,83,BlockedShot,0.7440000152587891,0.5979999923706054,0.013419900089502335,Neeskens Kebano,h,6840,OpenPlay,2020,RightFoot,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,Ivan Cavaleiro,Pass,6840
+381232,83,MissedShots,0.9390000152587891,0.6790000152587891,0.06695529818534851,Neeskens Kebano,a,6840,OpenPlay,2020,LeftFoot,14474,Wolverhampton Wanderers,Fulham,1,0,2020-10-04 13:00:00,Ademola Lookman,Pass,6840
+381233,86,BlockedShot,0.7330000305175781,0.43599998474121093,0.051285699009895325,Neeskens Kebano,a,6840,DirectFreekick,2020,RightFoot,14474,Wolverhampton Wanderers,Fulham,1,0,2020-10-04 13:00:00,,Standard,6840
+381235,88,MissedShots,0.8180000305175781,0.6270000076293946,0.042711298912763596,Neeskens Kebano,a,6840,OpenPlay,2020,LeftFoot,14474,Wolverhampton Wanderers,Fulham,1,0,2020-10-04 13:00:00,Aleksandar Mitrovic,Pass,6840
+479069,56,ShotOnPost,0.8930000305175781,0.295,0.06615830212831497,Neeskens Kebano,h,6840,OpenPlay,2022,RightFoot,18203,Fulham,Liverpool,2,2,2022-08-06 11:30:00,Harrison Reed,Pass,6840
+480364,52,MissedShots,0.8440000152587891,0.7180000305175781,0.02143869921565056,Neeskens Kebano,a,6840,FromCorner,2022,RightFoot,18216,Wolverhampton Wanderers,Fulham,0,0,2022-08-13 14:00:00,,None,6840
+480367,68,SavedShot,0.8690000152587891,0.735999984741211,0.023516200482845306,Neeskens Kebano,a,6840,OpenPlay,2022,RightFoot,18216,Wolverhampton Wanderers,Fulham,0,0,2022-08-13 14:00:00,Harrison Reed,Chipped,6840
+484831,47,MissedShots,0.8780000305175781,0.6890000152587891,0.029784899204969406,Neeskens Kebano,h,6840,FromCorner,2022,LeftFoot,18242,Fulham,Brighton,2,1,2022-08-30 18:30:00,Tosin Adarabioyo,Chipped,6840
+484835,61,MissedShots,0.9230000305175782,0.3370000076293945,0.34154900908470154,Neeskens Kebano,h,6840,OpenPlay,2022,RightFoot,18242,Fulham,Brighton,2,1,2022-08-30 18:30:00,,None,6840
+485889,23,MissedShots,0.9119999694824219,0.654000015258789,0.06366579979658127,Neeskens Kebano,a,6840,OpenPlay,2022,RightFoot,18255,Tottenham,Fulham,2,1,2022-09-03 14:00:00,,None,6840
+488411,90,BlockedShot,0.7959999847412109,0.6559999847412109,0.03682269901037216,Neeskens Kebano,a,6840,OpenPlay,2022,RightFoot,18273,Nottingham Forest,Fulham,2,3,2022-09-16 19:00:00,Daniel James,Pass,6840
+493093,14,MissedShots,0.9309999847412109,0.6459999847412109,0.05118609964847565,Neeskens Kebano,h,6840,OpenPlay,2022,LeftFoot,18304,Fulham,Bournemouth,2,2,2022-10-15 14:00:00,Harrison Reed,Cross,6840
+494599,37,SavedShot,0.924000015258789,0.6580000305175782,0.12109500169754028,Neeskens Kebano,h,6840,OpenPlay,2022,LeftFoot,18316,Fulham,Aston Villa,3,0,2022-10-20 18:30:00,Willian,Pass,6840

@@ -1,0 +1,156 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14444,4,MissedShots,0.9269999694824219,0.5459999847412109,0.09982489794492722,Branislav Ivanovic,a,682,FromCorner,2014,Head,4758,Burnley,Chelsea,1,3,2014-08-18 20:00:00,Eden Hazard,Cross,682
+14452,33,Goal,0.97,0.500999984741211,0.564732015132904,Branislav Ivanovic,a,682,FromCorner,2014,RightFoot,4758,Burnley,Chelsea,1,3,2014-08-18 20:00:00,Cesc Fàbregas,Cross,682
+14682,47,SavedShot,0.889000015258789,0.45599998474121095,0.034809499979019165,Branislav Ivanovic,h,682,OpenPlay,2014,Head,4760,Chelsea,Leicester,2,0,2014-08-23 15:00:00,César Azpilicueta,Aerial,682
+14686,53,SavedShot,0.7669999694824219,0.37099998474121093,0.01623309962451458,Branislav Ivanovic,h,682,OpenPlay,2014,RightFoot,4760,Chelsea,Leicester,2,0,2014-08-23 15:00:00,,Rebound,682
+14698,84,MissedShots,0.8630000305175781,0.5690000152587891,0.03628940135240555,Branislav Ivanovic,h,682,SetPiece,2014,Head,4760,Chelsea,Leicester,2,0,2014-08-23 15:00:00,Cesc Fàbregas,Chipped,682
+14922,2,Goal,0.885,0.4540000152587891,0.4059250056743622,Branislav Ivanovic,a,682,OpenPlay,2014,RightFoot,4775,Everton,Chelsea,3,6,2014-08-30 17:30:00,Ramires,Throughball,682
+14930,30,BlockedShot,0.8780000305175781,0.524000015258789,0.08256550133228302,Branislav Ivanovic,a,682,FromCorner,2014,LeftFoot,4775,Everton,Chelsea,3,6,2014-08-30 17:30:00,,None,682
+14937,57,MissedShots,0.885,0.23100000381469726,0.05923309922218323,Branislav Ivanovic,a,682,OpenPlay,2014,RightFoot,4775,Everton,Chelsea,3,6,2014-08-30 17:30:00,Diego Costa,Pass,682
+15198,51,MissedShots,0.9330000305175781,0.52,0.119657002389431,Branislav Ivanovic,h,682,FromCorner,2014,RightFoot,4720,Chelsea,Swansea,4,2,2014-09-13 15:00:00,Diego Costa,None,682
+15204,64,BlockedShot,0.8540000152587891,0.41200000762939454,0.0729260966181755,Branislav Ivanovic,h,682,OpenPlay,2014,LeftFoot,4720,Chelsea,Swansea,4,2,2014-09-13 15:00:00,,Rebound,682
+15209,70,MissedShots,0.9009999847412109,0.38599998474121094,0.08056829869747162,Branislav Ivanovic,h,682,OpenPlay,2014,RightFoot,4720,Chelsea,Swansea,4,2,2014-09-13 15:00:00,,Rebound,682
+15703,35,MissedShots,0.9169999694824219,0.529000015258789,0.03798979893326759,Branislav Ivanovic,h,682,FromCorner,2014,Head,4742,Chelsea,Aston Villa,3,0,2014-09-27 15:00:00,Cesc Fàbregas,Aerial,682
+17490,68,MissedShots,0.97,0.345,0.05349760130047798,Branislav Ivanovic,a,682,OpenPlay,2014,RightFoot,4717,Manchester United,Chelsea,1,1,2014-10-26 16:00:00,Willian,TakeOn,682
+17020,10,MissedShots,0.97,0.4420000076293945,0.5579890012741089,Branislav Ivanovic,h,682,OpenPlay,2014,RightFoot,4653,Chelsea,Queens Park Rangers,2,1,2014-11-01 15:00:00,Willian,Cross,682
+16276,40,MissedShots,0.925,0.46299999237060546,0.04593899846076965,Branislav Ivanovic,h,682,FromCorner,2014,Head,4674,Chelsea,West Bromwich Albion,2,0,2014-11-22 15:00:00,Cesc Fàbregas,Aerial,682
+18291,30,SavedShot,0.9269999694824219,0.27899999618530275,0.04899359866976738,Branislav Ivanovic,a,682,OpenPlay,2014,RightFoot,4686,Sunderland,Chelsea,0,0,2014-11-29 17:30:00,Willian,Pass,682
+20071,89,SavedShot,0.9219999694824219,0.49599998474121093,0.10646100342273712,Branislav Ivanovic,a,682,OpenPlay,2014,Head,4599,Newcastle United,Chelsea,2,1,2014-12-06 12:45:00,Diego Costa,Cross,682
+20073,93,MissedShots,0.7609999847412109,0.40400001525878904,0.020605700090527534,Branislav Ivanovic,a,682,OpenPlay,2014,RightFoot,4599,Newcastle United,Chelsea,2,1,2014-12-06 12:45:00,Didier Drogba,HeadPass,682
+17836,77,MissedShots,0.8109999847412109,0.30200000762939455,0.031439799815416336,Branislav Ivanovic,h,682,OpenPlay,2014,RightFoot,4610,Chelsea,Hull,2,0,2014-12-13 15:00:00,Diego Costa,Pass,682
+19373,1,BlockedShot,0.8159999847412109,0.315,0.028529100120067596,Branislav Ivanovic,a,682,OpenPlay,2014,RightFoot,4628,Stoke,Chelsea,0,2,2014-12-22 20:00:00,Eden Hazard,Pass,682
+19379,25,MissedShots,0.794000015258789,0.5,0.04891670122742653,Branislav Ivanovic,a,682,OpenPlay,2014,LeftFoot,4628,Stoke,Chelsea,0,2,2014-12-22 20:00:00,Eden Hazard,Pass,682
+19882,51,MissedShots,0.89,0.33,0.06046159937977791,Branislav Ivanovic,h,682,OpenPlay,2014,RightFoot,4629,Chelsea,West Ham,2,0,2014-12-26 12:45:00,,Rebound,682
+18920,73,MissedShots,0.7130000305175781,0.46900001525878904,0.015473299659788609,Branislav Ivanovic,a,682,OpenPlay,2014,RightFoot,4640,Southampton,Chelsea,1,1,2014-12-28 14:05:00,Nemanja Matic,Pass,682
+20035,86,MissedShots,0.9569999694824218,0.41700000762939454,0.12660500407218933,Branislav Ivanovic,a,682,SetPiece,2014,RightFoot,4560,Tottenham,Chelsea,5,3,2015-01-01 17:30:00,Eden Hazard,Pass,682
+19151,86,MissedShots,0.8980000305175782,0.3579999923706055,0.021731199696660042,Branislav Ivanovic,a,682,OpenPlay,2014,Head,4575,Swansea,Chelsea,0,5,2015-01-17 15:00:00,André Schürrle,Cross,682
+24000,65,Goal,0.855999984741211,0.42900001525878906,0.0563586987555027,Branislav Ivanovic,a,682,OpenPlay,2014,LeftFoot,4516,Aston Villa,Chelsea,1,2,2015-02-07 15:00:00,César Azpilicueta,Cross,682
+24002,72,MissedShots,0.915,0.49,0.0916794016957283,Branislav Ivanovic,a,682,FromCorner,2014,Head,4516,Aston Villa,Chelsea,1,2,2015-02-07 15:00:00,Willian,Cross,682
+23293,30,BlockedShot,0.794000015258789,0.33099998474121095,0.02381410077214241,Branislav Ivanovic,h,682,OpenPlay,2014,RightFoot,4529,Chelsea,Everton,1,0,2015-02-11 19:45:00,Eden Hazard,Pass,682
+23297,54,SavedShot,0.8469999694824218,0.43099998474121093,0.012053299695253372,Branislav Ivanovic,h,682,OpenPlay,2014,Head,4529,Chelsea,Everton,1,0,2015-02-11 19:45:00,Nemanja Matic,Cross,682
+23697,13,Goal,0.965999984741211,0.475,0.718455970287323,Branislav Ivanovic,h,682,OpenPlay,2014,RightFoot,4536,Chelsea,Burnley,1,1,2015-02-21 15:00:00,Eden Hazard,Pass,682
+23701,31,BlockedShot,0.8180000305175781,0.35900001525878905,0.043583400547504425,Branislav Ivanovic,h,682,OpenPlay,2014,RightFoot,4536,Chelsea,Burnley,1,1,2015-02-21 15:00:00,Juan Cuadrado,Pass,682
+23705,52,MissedShots,0.9340000152587891,0.5520000076293945,0.10561499744653702,Branislav Ivanovic,h,682,FromCorner,2014,Head,4536,Chelsea,Burnley,1,1,2015-02-21 15:00:00,Cesc Fàbregas,Cross,682
+20659,85,BlockedShot,0.7869999694824219,0.5529999923706055,0.06500670313835144,Branislav Ivanovic,a,682,OpenPlay,2014,RightFoot,4485,West Ham,Chelsea,0,1,2015-03-04 19:45:00,Diego Costa,Pass,682
+21242,55,SavedShot,0.87,0.40700000762939453,0.053999099880456924,Branislav Ivanovic,h,682,FromCorner,2014,RightFoot,4446,Chelsea,Stoke,2,1,2015-04-04 17:30:00,Cesc Fàbregas,Pass,682
+20572,58,MissedShots,0.9590000152587891,0.5029999923706054,0.059946101158857346,Branislav Ivanovic,a,682,FromCorner,2014,Head,4458,Queens Park Rangers,Chelsea,0,1,2015-04-12 13:30:00,Didier Drogba,Card,682
+20576,67,MissedShots,0.775,0.285,0.017301300540566444,Branislav Ivanovic,a,682,OpenPlay,2014,RightFoot,4458,Queens Park Rangers,Chelsea,0,1,2015-04-12 13:30:00,Willian,Pass,682
+23240,13,BlockedShot,0.7190000152587891,0.5879999923706055,0.013129699975252151,Branislav Ivanovic,a,682,OpenPlay,2014,RightFoot,4479,Leicester,Chelsea,1,3,2015-04-29 19:45:00,Eden Hazard,Pass,682
+20720,55,MissedShots,0.715999984741211,0.24299999237060546,0.013672100380063057,Branislav Ivanovic,h,682,OpenPlay,2014,RightFoot,4406,Chelsea,Crystal Palace,1,0,2015-05-03 13:30:00,Cesc Fàbregas,Pass,682
+20725,79,MissedShots,0.8969999694824219,0.3629999923706055,0.06557650119066238,Branislav Ivanovic,h,682,SetPiece,2014,LeftFoot,4406,Chelsea,Crystal Palace,1,0,2015-05-03 13:30:00,,Rebound,682
+22317,2,MissedShots,0.919000015258789,0.49599998474121093,0.1001719981431961,Branislav Ivanovic,h,682,FromCorner,2014,Head,4431,Chelsea,Sunderland,3,1,2015-05-24 15:00:00,Willian,Cross,682
+22320,15,SavedShot,0.754000015258789,0.28299999237060547,0.00797353032976389,Branislav Ivanovic,h,682,OpenPlay,2014,RightFoot,4431,Chelsea,Sunderland,3,1,2015-05-24 15:00:00,Eden Hazard,Chipped,682
+22329,46,MissedShots,0.789000015258789,0.3390000152587891,0.024981899186968803,Branislav Ivanovic,h,682,OpenPlay,2014,RightFoot,4431,Chelsea,Sunderland,3,1,2015-05-24 15:00:00,Eden Hazard,Pass,682
+22334,51,MissedShots,0.9180000305175782,0.4809999847412109,0.09579599648714066,Branislav Ivanovic,h,682,FromCorner,2014,Head,4431,Chelsea,Sunderland,3,1,2015-05-24 15:00:00,Willian,Cross,682
+22337,55,MissedShots,0.9019999694824219,0.49599998474121093,0.02360060065984726,Branislav Ivanovic,h,682,FromCorner,2014,Head,4431,Chelsea,Sunderland,3,1,2015-05-24 15:00:00,Willian,Aerial,682
+51525,10,MissedShots,0.7609999847412109,0.225,0.01549530029296875,Branislav Ivanovic,h,682,OpenPlay,2015,RightFoot,86,Chelsea,Swansea,2,2,2015-08-08 20:30:00,Willian,Pass,682
+51546,65,MissedShots,0.9159999847412109,0.504000015258789,0.12053699791431427,Branislav Ivanovic,h,682,SetPiece,2015,Head,86,Chelsea,Swansea,2,2,2015-08-08 20:30:00,Cesc Fàbregas,Cross,682
+51550,75,BlockedShot,0.785,0.295,0.016777699813246727,Branislav Ivanovic,h,682,OpenPlay,2015,RightFoot,86,Chelsea,Swansea,2,2,2015-08-08 20:30:00,Willian,Pass,682
+51801,29,BlockedShot,0.720999984741211,0.41200000762939454,0.015697099268436432,Branislav Ivanovic,a,682,OpenPlay,2015,RightFoot,99,Manchester City,Chelsea,3,0,2015-08-16 19:00:00,Eden Hazard,Pass,682
+57477,3,MissedShots,0.7909999847412109,0.245,0.016064800322055817,Branislav Ivanovic,h,682,OpenPlay,2015,LeftFoot,115,Chelsea,Crystal Palace,1,2,2015-08-29 18:00:00,Eden Hazard,Rebound,682
+57496,61,BlockedShot,0.795,0.37200000762939456,0.022395899519324303,Branislav Ivanovic,h,682,SetPiece,2015,RightFoot,115,Chelsea,Crystal Palace,1,2,2015-08-29 18:00:00,,None,682
+57511,88,BlockedShot,0.884000015258789,0.45599998474121095,0.07820270210504532,Branislav Ivanovic,h,682,SetPiece,2015,RightFoot,115,Chelsea,Crystal Palace,1,2,2015-08-29 18:00:00,,None,682
+57859,42,BlockedShot,0.889000015258789,0.47400001525878904,0.1023159995675087,Branislav Ivanovic,a,682,FromCorner,2015,LeftFoot,121,Everton,Chelsea,3,1,2015-09-12 15:45:00,Eden Hazard,Rebound,682
+58106,42,BlockedShot,0.7169999694824218,0.38599998474121094,0.01408469956368208,Branislav Ivanovic,h,682,OpenPlay,2015,RightFoot,131,Chelsea,Arsenal,2,0,2015-09-19 15:45:00,Pedro,Pass,682
+58127,94,BlockedShot,0.7140000152587891,0.27100000381469724,0.015332600101828575,Branislav Ivanovic,h,682,OpenPlay,2015,RightFoot,131,Chelsea,Arsenal,2,0,2015-09-19 15:45:00,Nemanja Matic,Pass,682
+58436,37,MissedShots,0.9069999694824219,0.5829999923706055,0.039677198976278305,Branislav Ivanovic,a,682,FromCorner,2015,Head,148,Newcastle United,Chelsea,2,2,2015-09-26 20:30:00,Cesc Fàbregas,Cross,682
+53750,84,MissedShots,0.7280000305175781,0.33599998474121096,0.015196200460195541,Branislav Ivanovic,h,682,OpenPlay,2015,RightFoot,228,Chelsea,Bournemouth,0,1,2015-12-05 21:30:00,Pedro,Pass,682
+53818,61,BlockedShot,0.975999984741211,0.42700000762939455,0.35354098677635193,Branislav Ivanovic,a,682,FromCorner,2015,RightFoot,240,Leicester,Chelsea,2,1,2015-12-15 00:00:00,,Interception,682
+53817,61,MissedShots,0.975999984741211,0.4470000076293945,0.6006190180778503,Branislav Ivanovic,a,682,FromCorner,2015,RightFoot,240,Leicester,Chelsea,2,1,2015-12-15 00:00:00,,None,682
+55693,4,Goal,0.91,0.485,0.03168199956417084,Branislav Ivanovic,h,682,FromCorner,2015,Head,244,Chelsea,Sunderland,3,1,2015-12-19 19:00:00,Willian,Aerial,682
+55697,14,MissedShots,0.895,0.575,0.044074300676584244,Branislav Ivanovic,h,682,FromCorner,2015,Head,244,Chelsea,Sunderland,3,1,2015-12-19 19:00:00,Oscar,Cross,682
+54179,6,BlockedShot,0.8030000305175782,0.29399999618530276,0.019812999293208122,Branislav Ivanovic,h,682,OpenPlay,2015,LeftFoot,256,Chelsea,Watford,2,2,2015-12-26 19:00:00,Willian,Pass,682
+54193,48,BlockedShot,0.9830000305175781,0.34799999237060547,0.047759998589754105,Branislav Ivanovic,h,682,FromCorner,2015,RightFoot,256,Chelsea,Watford,2,2,2015-12-26 19:00:00,,None,682
+53609,42,BlockedShot,0.9130000305175782,0.435,0.02026420086622238,Branislav Ivanovic,a,682,FromCorner,2015,Head,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Willian,Aerial,682
+54260,77,SavedShot,0.925,0.41200000762939454,0.398501992225647,Branislav Ivanovic,a,682,OpenPlay,2015,RightFoot,320,Watford,Chelsea,0,0,2016-02-03 23:45:00,Eden Hazard,Pass,682
+56005,67,SavedShot,0.895,0.6029999923706054,0.051034700125455856,Branislav Ivanovic,h,682,OpenPlay,2015,LeftFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,César Azpilicueta,HeadPass,682
+54966,24,BlockedShot,0.855,0.45599998474121095,0.11817199736833572,Branislav Ivanovic,h,682,OpenPlay,2015,LeftFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Pedro,Pass,682
+54967,25,MissedShots,0.919000015258789,0.59,0.015653999522328377,Branislav Ivanovic,h,682,FromCorner,2015,Head,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Willian,Aerial,682
+59908,88,Goal,0.919000015258789,0.45799999237060546,0.03579980134963989,Branislav Ivanovic,a,682,FromCorner,2015,Head,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Willian,Aerial,682
+59947,21,MissedShots,0.874000015258789,0.5179999923706055,0.04270460084080696,Branislav Ivanovic,h,682,FromCorner,2015,Head,376,Chelsea,West Ham,2,2,2016-03-19 19:00:00,Cesc Fàbregas,Cross,682
+61091,78,SavedShot,0.7280000305175781,0.740999984741211,0.03237669914960861,Branislav Ivanovic,a,682,DirectFreekick,2015,RightFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,,Standard,682
+57192,25,BlockedShot,0.7280000305175781,0.51,0.05055969953536987,Branislav Ivanovic,a,682,DirectFreekick,2015,RightFoot,422,Bournemouth,Chelsea,1,4,2016-04-23 18:00:00,,Standard,682
+56962,69,MissedShots,0.845999984741211,0.47900001525878905,0.02126150019466877,Branislav Ivanovic,h,682,SetPiece,2015,Head,436,Chelsea,Tottenham,2,2,2016-05-02 23:00:00,Cesc Fàbregas,Cross,682
+112161,11,SavedShot,0.9230000305175782,0.33099998474121095,0.07774859666824341,Branislav Ivanovic,h,682,OpenPlay,2016,LeftFoot,470,Chelsea,West Ham,2,1,2016-08-15 23:00:00,Oscar,TakeOn,682
+112165,43,BlockedShot,0.909000015258789,0.5179999923706055,0.03332880139350891,Branislav Ivanovic,h,682,FromCorner,2016,Head,470,Chelsea,West Ham,2,1,2016-08-15 23:00:00,Oscar,Aerial,682
+112872,6,MissedShots,0.7230000305175781,0.3890000152587891,0.015110500156879425,Branislav Ivanovic,h,682,OpenPlay,2016,RightFoot,485,Chelsea,Burnley,3,0,2016-08-27 18:00:00,Eden Hazard,Pass,682
+113374,7,MissedShots,0.9209999847412109,0.5420000076293945,0.07994870096445084,Branislav Ivanovic,a,682,SetPiece,2016,Head,499,Swansea,Chelsea,2,2,2016-09-11 19:00:00,Willian,Chipped,682
+113399,80,BlockedShot,0.9359999847412109,0.32599998474121095,0.04249349981546402,Branislav Ivanovic,a,682,OpenPlay,2016,RightFoot,499,Swansea,Chelsea,2,2,2016-09-11 19:00:00,Oscar,TakeOn,682
+113452,43,SavedShot,0.9330000305175781,0.5329999923706055,0.06532260030508041,Branislav Ivanovic,h,682,FromCorner,2016,Head,501,Chelsea,Liverpool,1,2,2016-09-16 23:00:00,Diego Costa,HeadPass,682
+113722,66,MissedShots,0.725999984741211,0.33299999237060546,0.010125200264155865,Branislav Ivanovic,a,682,OpenPlay,2016,RightFoot,518,Arsenal,Chelsea,3,0,2016-09-24 20:30:00,Willian,Pass,682
+122628,67,MissedShots,0.889000015258789,0.5270000076293946,0.015034699812531471,Branislav Ivanovic,h,682,FromCorner,2016,Head,4318,Zenit St. Petersburg,Arsenal Tula,2,0,2017-03-19 16:30:00,Domenico Criscito,Aerial,682
+123945,85,Goal,0.98,0.46599998474121096,0.7450720071792603,Branislav Ivanovic,h,682,SetPiece,2016,Head,4343,Zenit St. Petersburg,Ural,2,0,2017-04-22 12:00:00,Domenico Criscito,Cross,682
+124148,4,BlockedShot,0.9469999694824218,0.43900001525878907,0.13808399438858032,Branislav Ivanovic,a,682,FromCorner,2016,LeftFoot,4375,Krylya Sovetov Samara,Zenit St. Petersburg,1,3,2017-05-13 14:00:00,,Rebound,682
+124155,26,MissedShots,0.9119999694824219,0.40900001525878904,0.013733400031924248,Branislav Ivanovic,a,682,FromCorner,2016,Head,4375,Krylya Sovetov Samara,Zenit St. Petersburg,1,3,2017-05-13 14:00:00,Danny,Aerial,682
+124165,54,OwnGoal,0.04300000190734863,0.509000015258789,0,Branislav Ivanovic,a,682,OpenPlay,2016,OtherBodyPart,4375,Krylya Sovetov Samara,Zenit St. Petersburg,1,3,2017-05-13 14:00:00,,Save,682
+154626,49,MissedShots,0.8969999694824219,0.4759999847412109,0.06520140171051025,Branislav Ivanovic,h,682,OpenPlay,2017,Head,6475,Zenit St. Petersburg,Rubin Kazan,2,1,2017-07-22 15:30:00,Igor Smolnikov,Cross,682
+154837,74,SavedShot,0.9330000305175781,0.48200000762939454,0.1160300001502037,Branislav Ivanovic,a,682,FromCorner,2017,Head,6491,Tosno,Zenit St. Petersburg,0,1,2017-07-30 18:00:00,Leandro Paredes,Cross,682
+155310,9,MissedShots,0.9119999694824219,0.42700000762939455,0.017289599403738976,Branislav Ivanovic,h,682,FromCorner,2017,Head,6514,Zenit St. Petersburg,FK Akhmat,4,0,2017-08-13 18:00:00,Leandro Paredes,Aerial,682
+155312,18,SavedShot,0.89,0.5129999923706055,0.04060870036482811,Branislav Ivanovic,h,682,FromCorner,2017,Head,6514,Zenit St. Petersburg,FK Akhmat,4,0,2017-08-13 18:00:00,Emanuel Mammana,Pass,682
+156097,39,MissedShots,0.9619999694824218,0.5220000076293946,0.4984090030193329,Branislav Ivanovic,h,682,FromCorner,2017,Head,6548,Zenit St. Petersburg,FC Ufa,3,0,2017-09-18 18:00:00,Christian Noboa,Cross,682
+156441,5,BlockedShot,0.874000015258789,0.6519999694824219,0.042945899069309235,Branislav Ivanovic,a,682,OpenPlay,2017,LeftFoot,6555,FC Krasnodar,Zenit St. Petersburg,0,2,2017-09-24 17:00:00,Emanuel Mammana,Cross,682
+156508,48,MissedShots,0.93,0.534000015258789,0.0958779975771904,Branislav Ivanovic,a,682,OpenPlay,2017,Head,6557,Anzhi Makhachkala,Zenit St. Petersburg,2,2,2017-10-01 17:00:00,Leandro Paredes,Cross,682
+157667,70,MissedShots,0.6730000305175782,0.4209999847412109,0.010116499848663807,Branislav Ivanovic,h,682,OpenPlay,2017,RightFoot,6572,Zenit St. Petersburg,Arsenal Tula,0,1,2017-10-15 17:00:00,Matías Kranevitter,Pass,682
+157396,42,SavedShot,0.850999984741211,0.3029999923706055,0.03250909969210625,Branislav Ivanovic,h,682,OpenPlay,2017,RightFoot,6582,Zenit St. Petersburg,Lokomotiv Moscow,0,3,2017-10-29 13:30:00,Miha Mevlja,TakeOn,682
+157049,37,SavedShot,0.9009999847412109,0.47299999237060547,0.056485000997781754,Branislav Ivanovic,a,682,FromCorner,2017,Head,6591,Rubin Kazan,Zenit St. Petersburg,0,0,2017-11-05 16:00:00,Leandro Paredes,Cross,682
+157050,37,MissedShots,0.9209999847412109,0.5459999847412109,0.12770499289035797,Branislav Ivanovic,a,682,FromCorner,2017,LeftFoot,6591,Rubin Kazan,Zenit St. Petersburg,0,0,2017-11-05 16:00:00,,Rebound,682
+157053,40,SavedShot,0.9159999847412109,0.525,0.10815300047397614,Branislav Ivanovic,a,682,SetPiece,2017,Head,6591,Rubin Kazan,Zenit St. Petersburg,0,0,2017-11-05 16:00:00,Leandro Paredes,Cross,682
+157056,45,BlockedShot,0.894000015258789,0.6029999923706054,0.014000399969518185,Branislav Ivanovic,a,682,SetPiece,2017,Head,6591,Rubin Kazan,Zenit St. Petersburg,0,0,2017-11-05 16:00:00,Leandro Paredes,End,682
+157569,63,Goal,0.9630000305175781,0.5059999847412109,0.211667001247406,Branislav Ivanovic,h,682,FromCorner,2017,Head,6599,Zenit St. Petersburg,Tosno,5,0,2017-11-19 16:00:00,Leandro Paredes,End,682
+157678,21,SavedShot,0.91,0.5659999847412109,0.017198799178004265,Branislav Ivanovic,h,682,FromCorner,2017,Head,6617,Zenit St. Petersburg,Ural,2,1,2017-12-02 11:00:00,Leandro Paredes,Aerial,682
+178492,55,MissedShots,0.9219999694824219,0.5420000076293945,0.08544030040502548,Branislav Ivanovic,a,682,FromCorner,2017,Head,6625,FK Akhmat,Zenit St. Petersburg,0,0,2017-12-11 16:30:00,Leandro Paredes,Cross,682
+203912,16,Goal,0.9619999694824218,0.3390000152587891,0.05611030012369156,Branislav Ivanovic,a,682,SetPiece,2017,RightFoot,6659,FC Ufa,Zenit St. Petersburg,1,2,2018-04-01 14:30:00,Sebastián Driussi,Pass,682
+203919,42,SavedShot,0.6980000305175781,0.34599998474121096,0.015865400433540344,Branislav Ivanovic,a,682,OpenPlay,2017,RightFoot,6659,FC Ufa,Zenit St. Petersburg,1,2,2018-04-01 14:30:00,Matías Kranevitter,Pass,682
+206725,30,MissedShots,0.9469999694824218,0.4929999923706055,0.12653900682926178,Branislav Ivanovic,h,682,FromCorner,2017,Head,6668,Zenit St. Petersburg,FC Krasnodar,1,2,2018-04-07 13:30:00,Leandro Paredes,Cross,682
+206736,78,SavedShot,0.955,0.4929999923706055,0.14656800031661987,Branislav Ivanovic,h,682,FromCorner,2017,RightFoot,6668,Zenit St. Petersburg,FC Krasnodar,1,2,2018-04-07 13:30:00,Emiliano Rigoni,Cross,682
+208318,86,SavedShot,0.925,0.54,0.27854499220848083,Branislav Ivanovic,h,682,FromCorner,2017,Head,6669,Zenit St. Petersburg,Anzhi Makhachkala,1,0,2018-04-14 13:30:00,Leandro Paredes,Cross,682
+208319,87,SavedShot,0.909000015258789,0.51,0.07376039773225784,Branislav Ivanovic,h,682,FromCorner,2017,Head,6669,Zenit St. Petersburg,Anzhi Makhachkala,1,0,2018-04-14 13:30:00,Leandro Paredes,Cross,682
+209667,53,MissedShots,0.905,0.5279999923706055,0.10501900315284729,Branislav Ivanovic,h,682,OpenPlay,2017,Head,6651,Zenit St. Petersburg,Dinamo Moscow,2,1,2018-04-18 16:30:00,Domenico Criscito,Cross,682
+219029,41,MissedShots,0.9340000152587891,0.49400001525878906,0.11823999881744385,Branislav Ivanovic,a,682,FromCorner,2018,Head,8948,FC Yenisey Krasnoyarsk,Zenit St. Petersburg,0,2,2018-07-29 14:00:00,Leandro Paredes,Cross,682
+219387,35,BlockedShot,0.7930000305175782,0.37,0.01081290002912283,Branislav Ivanovic,a,682,FromCorner,2018,LeftFoot,8967,Rubin Kazan,Zenit St. Petersburg,0,1,2018-08-13 20:00:00,Artem Dzyuba,HeadPass,682
+219629,18,MissedShots,0.9490000152587891,0.44299999237060544,0.11103399842977524,Branislav Ivanovic,h,682,FromCorner,2018,Head,8974,Zenit St. Petersburg,Ural,4,1,2018-08-19 19:00:00,Leandro Paredes,Cross,682
+222790,23,MissedShots,0.9519999694824218,0.539000015258789,0.1247899979352951,Branislav Ivanovic,a,682,FromCorner,2018,Head,8982,FC Ufa,Zenit St. Petersburg,0,2,2018-08-26 16:30:00,Aleksandr Erokhin,Cross,682
+222795,49,SavedShot,0.8919999694824219,0.6170000076293946,0.2818340063095093,Branislav Ivanovic,a,682,SetPiece,2018,LeftFoot,8982,FC Ufa,Zenit St. Petersburg,0,2,2018-08-26 16:30:00,Leandro Paredes,Pass,682
+227150,54,MissedShots,0.9259999847412109,0.49700000762939456,0.05117600038647652,Branislav Ivanovic,h,682,FromCorner,2018,Head,9007,Zenit St. Petersburg,Lokomotiv Moscow,5,3,2018-09-23 13:30:00,Leandro Paredes,Aerial,682
+230777,15,SavedShot,0.919000015258789,0.4640000152587891,0.09428270161151886,Branislav Ivanovic,a,682,SetPiece,2018,RightFoot,9010,Anzhi Makhachkala,Zenit St. Petersburg,2,1,2018-09-30 11:00:00,,None,682
+230796,87,BlockedShot,0.91,0.49900001525878906,0.0841602012515068,Branislav Ivanovic,a,682,FromCorner,2018,Head,9010,Anzhi Makhachkala,Zenit St. Petersburg,2,1,2018-09-30 11:00:00,Leandro Paredes,Cross,682
+231011,11,MissedShots,0.8780000305175781,0.525,0.014523900113999844,Branislav Ivanovic,h,682,SetPiece,2018,Head,9024,Zenit St. Petersburg,FC Krasnodar,2,1,2018-10-07 13:30:00,Leandro Paredes,Aerial,682
+238155,63,MissedShots,0.855999984741211,0.4209999847412109,0.008336069993674755,Branislav Ivanovic,a,682,SetPiece,2018,Head,9029,Dinamo Moscow,Zenit St. Petersburg,1,0,2018-10-21 11:00:00,Claudio Marchisio,Aerial,682
+240240,84,BlockedShot,0.7219999694824218,0.5220000076293946,0.009864670224487782,Branislav Ivanovic,a,682,OpenPlay,2018,RightFoot,9053,CSKA Moscow,Zenit St. Petersburg,2,0,2018-11-11 16:00:00,,None,682
+240242,86,BlockedShot,0.7819999694824219,0.33099998474121095,0.01521770004183054,Branislav Ivanovic,a,682,OpenPlay,2018,RightFoot,9053,CSKA Moscow,Zenit St. Petersburg,2,0,2018-11-11 16:00:00,Sebastián Driussi,Pass,682
+263048,83,SavedShot,0.909000015258789,0.43099998474121093,0.09721679985523224,Branislav Ivanovic,h,682,FromCorner,2018,RightFoot,9077,Zenit St. Petersburg,Rubin Kazan,1,2,2018-12-09 16:00:00,,None,682
+288529,11,BlockedShot,0.894000015258789,0.6,0.04829910025000572,Branislav Ivanovic,h,682,FromCorner,2018,RightFoot,9110,Zenit St. Petersburg,FC Orenburg,3,1,2019-03-31 12:00:00,Emiliano Rigoni,Cross,682
+294182,8,Goal,0.874000015258789,0.41,0.3494040071964264,Branislav Ivanovic,h,682,FromCorner,2018,LeftFoot,9127,Zenit St. Petersburg,Anzhi Makhachkala,5,0,2019-04-14 14:30:00,Sardar Azmoun,None,682
+294184,14,SavedShot,0.8980000305175782,0.5479999923706055,0.062262099236249924,Branislav Ivanovic,h,682,FromCorner,2018,RightFoot,9127,Zenit St. Petersburg,Anzhi Makhachkala,5,0,2019-04-14 14:30:00,Sebastián Driussi,Cross,682
+294189,22,BlockedShot,0.9,0.5120000076293946,0.05833150073885918,Branislav Ivanovic,h,682,FromCorner,2018,Head,9127,Zenit St. Petersburg,Anzhi Makhachkala,5,0,2019-04-14 14:30:00,Sebastián Driussi,Cross,682
+296944,34,SavedShot,0.9159999847412109,0.4490000152587891,0.025812000036239624,Branislav Ivanovic,h,682,FromCorner,2018,Head,9142,Zenit St. Petersburg,Dinamo Moscow,2,0,2019-04-24 19:00:00,Sebastián Driussi,Aerial,682
+307233,65,SavedShot,0.8430000305175781,0.46,0.07675310224294662,Branislav Ivanovic,h,682,SetPiece,2019,RightFoot,11028,Zenit St. Petersburg,FC Tambov,2,1,2019-07-14 16:00:00,Sebastián Driussi,Pass,682
+307539,83,MissedShots,0.8930000305175781,0.42200000762939455,0.01286850031465292,Branislav Ivanovic,a,682,FromCorner,2019,Head,11038,PFC Sochi,Zenit St. Petersburg,0,2,2019-07-21 18:30:00,Douglas Santos,Aerial,682
+307697,90,MissedShots,0.7119999694824218,0.654000015258789,0.03395859897136688,Branislav Ivanovic,a,682,DirectFreekick,2019,RightFoot,11043,FC Orenburg,Zenit St. Petersburg,0,2,2019-07-28 11:00:00,,Standard,682
+308175,5,MissedShots,0.9209999847412109,0.4279999923706055,0.02384289912879467,Branislav Ivanovic,a,682,FromCorner,2019,Head,11057,Dinamo Moscow,Zenit St. Petersburg,0,2,2019-08-10 17:00:00,Yaroslav Rakitskiy,Aerial,682
+309194,45,SavedShot,0.9230000305175782,0.6079999923706054,0.013533299788832664,Branislav Ivanovic,h,682,FromCorner,2019,Head,11066,Zenit St. Petersburg,FK Akhmat,0,0,2019-08-17 17:00:00,Igor Smolnikov,Aerial,682
+316438,7,MissedShots,0.9259999847412109,0.6609999847412109,0.010562100447714329,Branislav Ivanovic,a,682,FromCorner,2019,Head,11086,Spartak Moscow,Zenit St. Petersburg,0,1,2019-09-01 17:00:00,Emiliano Rigoni,Cross,682
+320571,57,Goal,0.904000015258789,0.4879999923706055,0.28730499744415283,Branislav Ivanovic,h,682,SetPiece,2019,Head,11102,Zenit St. Petersburg,Rubin Kazan,5,0,2019-09-21 16:00:00,Oleg Shatov,Chipped,682
+324507,2,Goal,0.97,0.46599998474121096,0.7120779752731323,Branislav Ivanovic,a,682,FromCorner,2019,RightFoot,11114,Ural,Zenit St. Petersburg,1,3,2019-10-06 09:30:00,Artem Dzyuba,Rebound,682
+325779,69,MissedShots,0.889000015258789,0.4490000152587891,0.017880799248814583,Branislav Ivanovic,h,682,SetPiece,2019,Head,11125,Zenit St. Petersburg,FC Rostov,6,1,2019-10-19 17:00:00,Douglas Santos,Aerial,682
+327602,18,SavedShot,0.9169999694824219,0.5729999923706055,0.01894720084965229,Branislav Ivanovic,a,682,FromCorner,2019,Head,11133,Krylya Sovetov Samara,Zenit St. Petersburg,0,2,2019-10-27 11:00:00,Douglas Santos,Aerial,682
+327627,88,MissedShots,0.8640000152587891,0.549000015258789,0.012609800323843956,Branislav Ivanovic,a,682,FromCorner,2019,Head,11133,Krylya Sovetov Samara,Zenit St. Petersburg,0,2,2019-10-27 11:00:00,Douglas Santos,Aerial,682
+329324,23,MissedShots,0.9319999694824219,0.6040000152587891,0.015192699618637562,Branislav Ivanovic,h,682,FromCorner,2019,Head,11138,Zenit St. Petersburg,CSKA Moscow,1,1,2019-11-02 16:00:00,Sebastián Driussi,Aerial,682
+329328,31,MissedShots,0.9130000305175782,0.5479999923706055,0.0253456998616457,Branislav Ivanovic,h,682,FromCorner,2019,Head,11138,Zenit St. Petersburg,CSKA Moscow,1,1,2019-11-02 16:00:00,Douglas Santos,Aerial,682
+329338,54,SavedShot,0.9080000305175782,0.5970000076293945,0.013874799944460392,Branislav Ivanovic,h,682,SetPiece,2019,Head,11138,Zenit St. Petersburg,CSKA Moscow,1,1,2019-11-02 16:00:00,Douglas Santos,Aerial,682
+329351,83,MissedShots,0.91,0.5820000076293945,0.09410910308361053,Branislav Ivanovic,h,682,OpenPlay,2019,RightFoot,11138,Zenit St. Petersburg,CSKA Moscow,1,1,2019-11-02 16:00:00,Magomed Ozdoev,Cross,682
+331081,14,SavedShot,0.9769999694824218,0.485,0.9089810252189636,Branislav Ivanovic,a,682,FromCorner,2019,RightFoot,11146,Arsenal Tula,Zenit St. Petersburg,0,1,2019-11-10 11:00:00,,Rebound,682
+331092,55,MissedShots,0.9059999847412109,0.43900001525878907,0.03827060014009476,Branislav Ivanovic,a,682,FromCorner,2019,Head,11146,Arsenal Tula,Zenit St. Petersburg,0,1,2019-11-10 11:00:00,,None,682
+335251,34,Goal,0.9009999847412109,0.4370000076293945,0.015970200300216675,Branislav Ivanovic,h,682,FromCorner,2019,Head,11172,Zenit St. Petersburg,Dinamo Moscow,3,0,2019-12-06 16:30:00,Oleg Shatov,Aerial,682
+360846,7,MissedShots,0.7040000152587891,0.26799999237060546,0.009929650463163853,Branislav Ivanovic,h,682,OpenPlay,2019,RightFoot,11175,Zenit St. Petersburg,Lokomotiv Moscow,0,0,2020-02-29 16:00:00,Wilmar Barrios,Pass,682
+360859,50,MissedShots,0.899000015258789,0.5609999847412109,0.03989339992403984,Branislav Ivanovic,h,682,FromCorner,2019,Head,11175,Zenit St. Petersburg,Lokomotiv Moscow,0,0,2020-02-29 16:00:00,Douglas Santos,Cross,682
+362754,81,MissedShots,0.7280000305175781,0.3390000152587891,0.01351619977504015,Branislav Ivanovic,h,682,OpenPlay,2019,RightFoot,11191,Zenit St. Petersburg,Ural,7,1,2020-03-14 13:30:00,,Rebound,682
+365529,1,Goal,0.9309999847412109,0.5840000152587891,0.06713409721851349,Branislav Ivanovic,a,682,FromCorner,2019,Head,11200,CSKA Moscow,Zenit St. Petersburg,0,4,2020-06-20 16:00:00,Vyacheslav Karavayev,Cross,682
+365553,54,MissedShots,0.9480000305175781,0.639000015258789,0.012979700230062008,Branislav Ivanovic,a,682,FromCorner,2019,Head,11200,CSKA Moscow,Zenit St. Petersburg,0,4,2020-06-20 16:00:00,Wilmar Barrios,Cross,682
+366706,56,MissedShots,0.9540000152587891,0.575999984741211,0.10298799723386765,Branislav Ivanovic,h,682,FromCorner,2019,LeftFoot,11207,Zenit St. Petersburg,Krylya Sovetov Samara,2,1,2020-06-26 17:30:00,Douglas Santos,Cross,682
+366714,84,MissedShots,0.82,0.5509999847412109,0.036897800862789154,Branislav Ivanovic,h,682,FromCorner,2019,RightFoot,11207,Zenit St. Petersburg,Krylya Sovetov Samara,2,1,2020-06-26 17:30:00,,None,682
+367888,69,MissedShots,0.8819999694824219,0.555,0.035016901791095734,Branislav Ivanovic,a,682,FromCorner,2019,Head,11216,FC Tambov,Zenit St. Petersburg,1,2,2020-07-01 14:30:00,,None,682
+382889,35,MissedShots,0.92,0.5029999923706054,0.10612700134515762,Branislav Ivanovic,h,682,FromCorner,2020,LeftFoot,14484,West Bromwich Albion,Burnley,0,0,2020-10-19 16:30:00,Matheus Pereira,Cross,682
+382896,57,SavedShot,0.9740000152587891,0.585,0.1247749999165535,Branislav Ivanovic,h,682,FromCorner,2020,LeftFoot,14484,West Bromwich Albion,Burnley,0,0,2020-10-19 16:30:00,,Rebound,682
+382893,57,BlockedShot,0.919000015258789,0.5420000076293945,0.13018499314785004,Branislav Ivanovic,h,682,FromCorner,2020,LeftFoot,14484,West Bromwich Albion,Burnley,0,0,2020-10-19 16:30:00,Karlan Grant,Rebound,682
+387636,20,MissedShots,0.9230000305175782,0.54,0.09838250279426575,Branislav Ivanovic,a,682,FromCorner,2020,Head,14520,Manchester United,West Bromwich Albion,1,0,2020-11-21 20:00:00,Matheus Pereira,Cross,682

@@ -1,0 +1,8 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,15,Sub,Aston Villa,Southampton,1,1,2014-11-24,4678,2014,18916,0,0,0,0,0,0,0,4508
+0,0,0,1,Sub,Aston Villa,Tottenham,1,2,2014-11-02,4657,2014,19606,0,0,0,0,0,0,0,4508
+0,0,0,18,Sub,Queens Park Rangers,Aston Villa,2,0,2014-10-27,4718,2014,20390,0.008217819966375828,0,1,0,0,0.008217819966375828,0,4508
+0,0,0,19,Sub,Chelsea,Aston Villa,3,0,2014-09-27,4742,2014,18462,0,0,0,0,0,0,0,4508
+0,0,0,1,Sub,Liverpool,Aston Villa,0,1,2014-09-13,4726,2014,17992,0,0,0,0,0,0,0,4508
+0,1,0.05773089826107025,3,Sub,Aston Villa,Hull,2,1,2014-08-31,4776,2014,17591,0,0,0,0,0.05773089826107025,0.05773089826107025,0,4508
+0,0,0,13,Sub,Aston Villa,Newcastle United,0,0,2014-08-23,4759,2014,17312,0,0,0,0,0,0,0,4508

@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+568081,69,MissedShots,0.860999984741211,0.5479999923706055,0.06610322743654251,Daiki Hashioka,a,12509,FromCorner,2023,RightFoot,22170,Crystal Palace,Luton,1,1,2024-03-09 15:00:00,,None,12509
+571877,43,OwnGoal,0.03799999952316284,0.495,0,Daiki Hashioka,a,12509,OpenPlay,2023,RightFoot,22196,Arsenal,Luton,2,0,2024-04-03 18:30:00,,None,12509
+571880,86,BlockedShot,0.8240000152587891,0.3890000152587891,0.03410990163683891,Daiki Hashioka,a,12509,OpenPlay,2023,RightFoot,22196,Arsenal,Luton,2,0,2024-04-03 18:30:00,,None,12509
+573732,1,OwnGoal,0.10699999809265137,0.5220000076293946,0,Daiki Hashioka,a,12509,OpenPlay,2023,Head,22221,Manchester City,Luton,5,1,2024-04-13 14:00:00,,Challenge,12509

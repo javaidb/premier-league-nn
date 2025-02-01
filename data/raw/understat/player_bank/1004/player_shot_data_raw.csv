@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+17332,8,BlockedShot,0.8630000305175781,0.5690000152587891,0.07770410180091858,Joe Cole,a,1004,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Aly Cissokho,HeadPass,1004
+17344,37,Goal,0.95,0.415,0.13209399580955505,Joe Cole,a,1004,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Andreas Weimann,Pass,1004
+17924,43,MissedShots,0.75,0.5670000076293945,0.022426100447773933,Joe Cole,a,1004,OpenPlay,2014,LeftFoot,4567,Leicester,Aston Villa,1,0,2015-01-10 15:00:00,Christian Benteke,LayOff,1004
+22289,92,MissedShots,0.960999984741211,0.3529999923706055,0.04473059996962547,Joe Cole,h,1004,OpenPlay,2014,RightFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Matthew Lowton,Cross,1004

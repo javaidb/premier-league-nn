@@ -1,0 +1,180 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+119495,12,MissedShots,0.7919999694824219,0.32099998474121094,0.06885120272636414,Luka Milivojevic,a,5549,DirectFreekick,2016,RightFoot,3447,Southampton,Crystal Palace,3,1,2017-04-05 19:45:00,,Standard,5549
+119522,74,BlockedShot,0.87,0.46,0.023220600560307503,Luka Milivojevic,a,5549,FromCorner,2016,Head,3447,Southampton,Crystal Palace,3,1,2017-04-05 19:45:00,Andros Townsend,Cross,5549
+119795,6,MissedShots,0.74,0.62,0.015131199732422829,Luka Milivojevic,h,5549,OpenPlay,2016,LeftFoot,3459,Crystal Palace,Arsenal,3,0,2017-04-10 20:00:00,Andros Townsend,Pass,5549
+119816,67,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,h,5549,Penalty,2016,RightFoot,3459,Crystal Palace,Arsenal,3,0,2017-04-10 20:00:00,,Standard,5549
+120712,35,MissedShots,0.764000015258789,0.49900001525878906,0.025468099862337112,Luka Milivojevic,h,5549,OpenPlay,2016,RightFoot,3468,Crystal Palace,Leicester,2,2,2017-04-15 15:00:00,,None,5549
+120725,75,BlockedShot,0.82,0.44799999237060545,0.056692998856306076,Luka Milivojevic,h,5549,OpenPlay,2016,RightFoot,3468,Crystal Palace,Leicester,2,2,2017-04-15 15:00:00,Andros Townsend,Pass,5549
+120902,2,MissedShots,0.8569999694824219,0.6079999923706054,0.013023599982261658,Luka Milivojevic,h,5549,FromCorner,2016,Head,3480,Crystal Palace,Burnley,0,2,2017-04-29 17:30:00,Wilfried Zaha,Chipped,5549
+120912,35,MissedShots,0.8830000305175781,0.47299999237060547,0.08641540259122849,Luka Milivojevic,h,5549,FromCorner,2016,RightFoot,3480,Crystal Palace,Burnley,0,2,2017-04-29 17:30:00,,None,5549
+120914,54,SavedShot,0.750999984741211,0.675,0.018032200634479523,Luka Milivojevic,h,5549,OpenPlay,2016,RightFoot,3480,Crystal Palace,Burnley,0,2,2017-04-29 17:30:00,Jason Puncheon,HeadPass,5549
+121583,37,BlockedShot,0.7219999694824218,0.5320000076293945,0.014063499867916107,Luka Milivojevic,a,5549,OpenPlay,2016,RightFoot,3497,Manchester City,Crystal Palace,5,0,2017-05-06 12:30:00,,None,5549
+121761,84,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,h,5549,Penalty,2016,RightFoot,3501,Crystal Palace,Hull,4,0,2017-05-14 12:00:00,,Standard,5549
+112540,37,BlockedShot,0.7759999847412109,0.6790000152587891,0.05913339927792549,Luka Milivojevic,a,5549,DirectFreekick,2016,RightFoot,3516,Manchester United,Crystal Palace,2,0,2017-05-21 15:00:00,,Standard,5549
+112546,73,MissedShots,0.8180000305175781,0.5479999923706055,0.01989779993891716,Luka Milivojevic,a,5549,FromCorner,2016,LeftFoot,3516,Manchester United,Crystal Palace,2,0,2017-05-21 15:00:00,,Aerial,5549
+112548,76,SavedShot,0.759000015258789,0.40799999237060547,0.06515210121870041,Luka Milivojevic,a,5549,DirectFreekick,2016,RightFoot,3516,Manchester United,Crystal Palace,2,0,2017-05-21 15:00:00,,Standard,5549
+158488,18,BlockedShot,0.73,0.6430000305175781,0.042771100997924805,Luka Milivojevic,a,5549,DirectFreekick,2017,RightFoot,7134,Liverpool,Crystal Palace,1,0,2017-08-19 15:00:00,,Standard,5549
+160469,87,SavedShot,0.7040000152587891,0.4470000076293945,0.038643401116132736,Luka Milivojevic,h,5549,DirectFreekick,2017,RightFoot,7191,Crystal Palace,Chelsea,2,1,2017-10-14 15:00:00,,Standard,5549
+159551,35,BlockedShot,0.9330000305175781,0.34900001525878904,0.05901220068335533,Luka Milivojevic,a,5549,FromCorner,2017,RightFoot,7203,Newcastle United,Crystal Palace,1,0,2017-10-21 15:00:00,,None,5549
+159554,40,BlockedShot,0.6609999847412109,0.42200000762939455,0.010390499606728554,Luka Milivojevic,a,5549,OpenPlay,2017,RightFoot,7203,Newcastle United,Crystal Palace,1,0,2017-10-21 15:00:00,,BallRecovery,5549
+159923,49,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,h,5549,Penalty,2017,RightFoot,7213,Crystal Palace,West Ham,2,2,2017-10-28 15:00:00,,Standard,5549
+159931,81,MissedShots,0.8230000305175781,0.545,0.05140480026602745,Luka Milivojevic,h,5549,FromCorner,2017,LeftFoot,7213,Crystal Palace,West Ham,2,2,2017-10-28 15:00:00,,TakeOn,5549
+161339,59,SavedShot,0.9669999694824218,0.5629999923706055,0.3487190008163452,Luka Milivojevic,a,5549,FromCorner,2017,Head,7226,Tottenham,Crystal Palace,1,0,2017-11-05 12:00:00,,None,5549
+160705,64,BlockedShot,0.78,0.715,0.05282910168170929,Luka Milivojevic,h,5549,DirectFreekick,2017,RightFoot,7234,Crystal Palace,Everton,2,2,2017-11-18 15:00:00,,Standard,5549
+160714,93,SavedShot,0.8019999694824219,0.34,0.02411689981818199,Luka Milivojevic,h,5549,OpenPlay,2017,RightFoot,7234,Crystal Palace,Everton,2,2,2017-11-18 15:00:00,Ruben Loftus-Cheek,Pass,5549
+161151,24,MissedShots,0.6919999694824219,0.5370000076293945,0.011930599808692932,Luka Milivojevic,h,5549,OpenPlay,2017,RightFoot,7246,Crystal Palace,Stoke,2,1,2017-11-25 15:00:00,James McArthur,Pass,5549
+160844,41,MissedShots,0.95,0.6329999923706054,0.012725500389933586,Luka Milivojevic,a,5549,FromCorner,2017,Head,7250,Brighton,Crystal Palace,0,0,2017-11-28 19:45:00,Andros Townsend,Aerial,5549
+160848,59,MissedShots,0.7469999694824219,0.6909999847412109,0.01550660002976656,Luka Milivojevic,a,5549,FromCorner,2017,LeftFoot,7250,Brighton,Crystal Palace,0,0,2017-11-28 19:45:00,,Dispossessed,5549
+179172,40,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,h,5549,Penalty,2017,RightFoot,7273,Crystal Palace,Bournemouth,2,2,2017-12-09 15:00:00,,Standard,5549
+179189,86,MissedShots,0.894000015258789,0.53,0.09513510018587112,Luka Milivojevic,h,5549,FromCorner,2017,LeftFoot,7273,Crystal Palace,Bournemouth,2,2,2017-12-09 15:00:00,,None,5549
+179194,94,SavedShot,0.8959999847412109,0.629000015258789,0.07197929918766022,Luka Milivojevic,h,5549,SetPiece,2017,RightFoot,7273,Crystal Palace,Bournemouth,2,2,2017-12-09 15:00:00,,Tackle,5549
+179193,94,BlockedShot,0.905,0.6580000305175782,0.05566510185599327,Luka Milivojevic,h,5549,SetPiece,2017,RightFoot,7273,Crystal Palace,Bournemouth,2,2,2017-12-09 15:00:00,Jeffrey Schlupp,Pass,5549
+182865,41,BlockedShot,0.9469999694824218,0.6270000076293946,0.030697699636220932,Luka Milivojevic,h,5549,SetPiece,2017,Head,7282,Crystal Palace,Watford,2,1,2017-12-12 20:00:00,Yohan Cabaye,Cross,5549
+182866,47,BlockedShot,0.78,0.5309999847412109,0.0944167971611023,Luka Milivojevic,h,5549,DirectFreekick,2017,RightFoot,7282,Crystal Palace,Watford,2,1,2017-12-12 20:00:00,,Standard,5549
+182646,58,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,a,5549,Penalty,2017,RightFoot,7299,Swansea,Crystal Palace,1,1,2017-12-23 15:00:00,,Standard,5549
+186201,91,SavedShot,0.885,0.5,0.761132001876831,Luka Milivojevic,h,5549,Penalty,2017,RightFoot,7321,Crystal Palace,Manchester City,0,0,2017-12-31 12:00:00,,Standard,5549
+186412,78,MissedShots,0.8780000305175781,0.47299999237060547,0.0739704966545105,Luka Milivojevic,a,5549,FromCorner,2017,RightFoot,7336,Southampton,Crystal Palace,1,2,2018-01-02 19:45:00,Martin Kelly,Pass,5549
+186413,79,Goal,0.7580000305175781,0.46900001525878904,0.023862499743700027,Luka Milivojevic,a,5549,OpenPlay,2017,RightFoot,7336,Southampton,Crystal Palace,1,2,2018-01-02 19:45:00,Andros Townsend,Pass,5549
+187379,8,BlockedShot,0.7340000152587891,0.355,0.01899310015141964,Luka Milivojevic,h,5549,FromCorner,2017,RightFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Patrick van Aanholt,Cross,5549
+188734,77,Goal,0.9280000305175782,0.5670000076293945,0.10911300033330917,Luka Milivojevic,a,5549,FromCorner,2017,RightFoot,7349,Arsenal,Crystal Palace,4,1,2018-01-20 15:00:00,Christian Benteke,HeadPass,5549
+194106,30,MissedShots,0.7319999694824219,0.5379999923706055,0.01396199967712164,Luka Milivojevic,a,5549,OpenPlay,2017,RightFoot,7360,West Ham,Crystal Palace,1,1,2018-01-30 19:45:00,,Aerial,5549
+194111,50,MissedShots,0.769000015258789,0.415,0.016732700169086456,Luka Milivojevic,a,5549,OpenPlay,2017,RightFoot,7360,West Ham,Crystal Palace,1,1,2018-01-30 19:45:00,Christian Benteke,HeadPass,5549
+193694,45,MissedShots,0.789000015258789,0.6,0.030568299815058708,Luka Milivojevic,h,5549,OpenPlay,2017,LeftFoot,7373,Crystal Palace,Newcastle United,1,1,2018-02-04 14:15:00,,None,5549
+193697,54,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,h,5549,Penalty,2017,RightFoot,7373,Crystal Palace,Newcastle United,1,1,2018-02-04 14:15:00,,Standard,5549
+193851,12,BlockedShot,0.7180000305175781,0.629000015258789,0.012120099738240242,Luka Milivojevic,a,5549,OpenPlay,2017,LeftFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Christian Benteke,Pass,5549
+193873,82,Goal,0.885,0.5,0.7610949873924255,Luka Milivojevic,a,5549,Penalty,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,,Standard,5549
+200156,57,BlockedShot,0.9019999694824219,0.7969999694824219,0.06911469995975494,Luka Milivojevic,a,5549,DirectFreekick,2017,RightFoot,7411,Chelsea,Crystal Palace,2,1,2018-03-10 17:30:00,,Standard,5549
+201448,6,MissedShots,0.775,0.4329999923706055,0.08337560296058655,Luka Milivojevic,a,5549,DirectFreekick,2017,RightFoot,7421,Huddersfield,Crystal Palace,0,2,2018-03-17 15:00:00,,Standard,5549
+201456,67,Goal,0.885,0.5,0.761132001876831,Luka Milivojevic,a,5549,Penalty,2017,RightFoot,7421,Huddersfield,Crystal Palace,0,2,2018-03-17 15:00:00,,Standard,5549
+204118,12,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,h,5549,Penalty,2017,RightFoot,7432,Crystal Palace,Liverpool,1,2,2018-03-31 12:30:00,,Standard,5549
+206913,46,Goal,0.7709999847412109,0.4520000076293945,0.08184830099344254,Luka Milivojevic,a,5549,DirectFreekick,2017,RightFoot,7440,Bournemouth,Crystal Palace,2,2,2018-04-07 14:00:00,,Standard,5549
+208446,4,SavedShot,0.9569999694824218,0.27299999237060546,0.04326619952917099,Luka Milivojevic,h,5549,FromCorner,2017,RightFoot,7450,Crystal Palace,Brighton,3,2,2018-04-14 14:00:00,Ruben Loftus-Cheek,Pass,5549
+208461,46,SavedShot,0.7909999847412109,0.7469999694824219,0.0238352008163929,Luka Milivojevic,h,5549,OpenPlay,2017,RightFoot,7450,Crystal Palace,Brighton,3,2,2018-04-14 14:00:00,Andros Townsend,Pass,5549
+208465,62,MissedShots,0.9219999694824219,0.82,0.06290759891271591,Luka Milivojevic,h,5549,DirectFreekick,2017,RightFoot,7450,Crystal Palace,Brighton,3,2,2018-04-14 14:00:00,,Standard,5549
+210431,61,ShotOnPost,0.8519999694824218,0.7969999694824219,0.056569501757621765,Luka Milivojevic,a,5549,DirectFreekick,2017,RightFoot,7467,Watford,Crystal Palace,0,0,2018-04-21 14:00:00,,Standard,5549
+213027,54,BlockedShot,0.7269999694824218,0.6519999694824219,0.012794500216841698,Luka Milivojevic,a,5549,OpenPlay,2017,RightFoot,7481,Stoke,Crystal Palace,1,2,2018-05-05 12:30:00,,None,5549
+213030,63,MissedShots,0.7809999847412109,0.6669999694824219,0.014860499650239944,Luka Milivojevic,a,5549,SetPiece,2017,LeftFoot,7481,Stoke,Crystal Palace,1,2,2018-05-05 12:30:00,,None,5549
+215687,6,MissedShots,0.750999984741211,0.47200000762939454,0.021547900512814522,Luka Milivojevic,h,5549,OpenPlay,2017,RightFoot,7493,Crystal Palace,West Bromwich Albion,2,0,2018-05-13 15:00:00,Yohan Cabaye,Pass,5549
+233044,52,SavedShot,0.784000015258789,0.3160000038146973,0.062460899353027344,Luka Milivojevic,h,5549,DirectFreekick,2018,RightFoot,9216,Crystal Palace,Liverpool,0,2,2018-08-20 22:00:00,,Standard,5549
+233599,45,SavedShot,0.6990000152587891,0.639000015258789,0.006895999889820814,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9230,Crystal Palace,Southampton,0,2,2018-09-01 14:00:00,Andros Townsend,Chipped,5549
+234103,15,SavedShot,0.7819999694824219,0.740999984741211,0.047952599823474884,Luka Milivojevic,h,5549,DirectFreekick,2018,RightFoot,9251,Crystal Palace,Newcastle United,0,0,2018-09-22 14:00:00,,Standard,5549
+234107,24,SavedShot,0.845999984741211,0.8140000152587891,0.049862198531627655,Luka Milivojevic,h,5549,DirectFreekick,2018,RightFoot,9251,Crystal Palace,Newcastle United,0,0,2018-09-22 14:00:00,,Standard,5549
+234111,39,BlockedShot,0.745,0.720999984741211,0.038765501230955124,Luka Milivojevic,h,5549,DirectFreekick,2018,RightFoot,9251,Crystal Palace,Newcastle United,0,0,2018-09-22 14:00:00,,Standard,5549
+248942,7,BlockedShot,0.8059999847412109,0.765,0.05107950046658516,Luka Milivojevic,a,5549,DirectFreekick,2018,RightFoot,9266,Bournemouth,Crystal Palace,2,1,2018-10-01 19:00:00,,Standard,5549
+248946,25,BlockedShot,0.7819999694824219,0.5179999923706055,0.026523800566792488,Luka Milivojevic,a,5549,OpenPlay,2018,RightFoot,9266,Bournemouth,Crystal Palace,2,1,2018-10-01 19:00:00,Max Meyer,Pass,5549
+249068,43,SavedShot,0.7130000305175781,0.509000015258789,0.043144699186086655,Luka Milivojevic,h,5549,DirectFreekick,2018,RightFoot,9271,Crystal Palace,Wolverhampton Wanderers,0,1,2018-10-06 14:00:00,,Standard,5549
+249070,53,BlockedShot,0.7769999694824219,0.38599998474121094,0.024417899549007416,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9271,Crystal Palace,Wolverhampton Wanderers,0,1,2018-10-06 14:00:00,,None,5549
+249426,25,MissedShots,0.759000015258789,0.68,0.014455599710345268,Luka Milivojevic,a,5549,OpenPlay,2018,RightFoot,9285,Everton,Crystal Palace,2,0,2018-10-21 15:00:00,Andros Townsend,Pass,5549
+249430,34,SavedShot,0.700999984741211,0.4759999847412109,0.03821510076522827,Luka Milivojevic,a,5549,DirectFreekick,2018,RightFoot,9285,Everton,Crystal Palace,2,0,2018-10-21 15:00:00,,Standard,5549
+249439,59,SavedShot,0.885,0.5,0.7611690163612366,Luka Milivojevic,a,5549,Penalty,2018,RightFoot,9285,Everton,Crystal Palace,2,0,2018-10-21 15:00:00,,Standard,5549
+249642,16,MissedShots,0.7090000152587891,0.6930000305175781,0.011108499951660633,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9294,Crystal Palace,Arsenal,2,2,2018-10-28 12:30:00,Wilfried Zaha,Pass,5549
+249647,45,Goal,0.885,0.5,0.761132001876831,Luka Milivojevic,h,5549,Penalty,2018,RightFoot,9294,Crystal Palace,Arsenal,2,2,2018-10-28 12:30:00,,Standard,5549
+249656,69,MissedShots,0.7519999694824219,0.515,0.027751699090003967,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9294,Crystal Palace,Arsenal,2,2,2018-10-28 12:30:00,Cheikhou Kouyaté,HeadPass,5549
+249659,82,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,h,5549,Penalty,2018,RightFoot,9294,Crystal Palace,Arsenal,2,2,2018-10-28 12:30:00,,Standard,5549
+250154,90,BlockedShot,0.7180000305175781,0.6140000152587891,0.015173899941146374,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,Jeffrey Schlupp,Pass,5549
+250619,11,BlockedShot,0.7330000305175781,0.7019999694824218,0.03743939846754074,Luka Milivojevic,h,5549,DirectFreekick,2018,RightFoot,9333,Crystal Palace,Burnley,2,0,2018-12-01 15:00:00,,Standard,5549
+250625,44,BlockedShot,0.7069999694824218,0.509000015258789,0.01610570028424263,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9333,Crystal Palace,Burnley,2,0,2018-12-01 15:00:00,,None,5549
+250630,56,MissedShots,0.909000015258789,0.5979999923706054,0.31355801224708557,Luka Milivojevic,h,5549,FromCorner,2018,LeftFoot,9333,Crystal Palace,Burnley,2,0,2018-12-01 15:00:00,Patrick van Aanholt,Pass,5549
+250642,72,BlockedShot,0.7659999847412109,0.40400001525878904,0.025801900774240494,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9333,Crystal Palace,Burnley,2,0,2018-12-01 15:00:00,Andros Townsend,Pass,5549
+250767,35,BlockedShot,0.86,0.47200000762939454,0.09645940363407135,Luka Milivojevic,a,5549,OpenPlay,2018,RightFoot,9337,Brighton,Crystal Palace,3,1,2018-12-04 19:45:00,Wilfried Zaha,Pass,5549
+250777,51,MissedShots,0.7,0.5420000076293945,0.009527239948511124,Luka Milivojevic,a,5549,OpenPlay,2018,RightFoot,9337,Brighton,Crystal Palace,3,1,2018-12-04 19:45:00,Wilfried Zaha,Pass,5549
+250783,71,BlockedShot,0.7630000305175781,0.6719999694824219,0.05366950109601021,Luka Milivojevic,a,5549,DirectFreekick,2018,RightFoot,9337,Brighton,Crystal Palace,3,1,2018-12-04 19:45:00,,Standard,5549
+250785,80,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,a,5549,Penalty,2018,RightFoot,9337,Brighton,Crystal Palace,3,1,2018-12-04 19:45:00,,Standard,5549
+251029,46,ShotOnPost,0.74,0.5279999923706055,0.05738940089941025,Luka Milivojevic,a,5549,DirectFreekick,2018,RightFoot,9347,West Ham,Crystal Palace,3,2,2018-12-08 15:00:00,,Standard,5549
+251035,57,BlockedShot,0.774000015258789,0.46900001525878904,0.028204699978232384,Luka Milivojevic,a,5549,OpenPlay,2018,RightFoot,9347,West Ham,Crystal Palace,3,2,2018-12-08 15:00:00,James McArthur,Pass,5549
+251360,38,Goal,0.77,0.27700000762939453,0.015021800063550472,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9365,Crystal Palace,Leicester,1,0,2018-12-15 15:00:00,Andros Townsend,Pass,5549
+251367,57,MissedShots,0.8180000305175781,0.5459999847412109,0.03038810007274151,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9365,Crystal Palace,Leicester,1,0,2018-12-15 15:00:00,Andros Townsend,Chipped,5549
+251580,51,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,a,5549,Penalty,2018,RightFoot,9370,Manchester City,Crystal Palace,2,3,2018-12-22 15:00:00,,Standard,5549
+251820,15,SavedShot,0.7819999694824219,0.4279999923706055,0.03126030042767525,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9384,Crystal Palace,Cardiff,0,0,2018-12-26 15:00:00,Andros Townsend,Pass,5549
+251846,76,ShotOnPost,0.7669999694824219,0.6170000076293946,0.06682539731264114,Luka Milivojevic,h,5549,DirectFreekick,2018,RightFoot,9384,Crystal Palace,Cardiff,0,0,2018-12-26 15:00:00,,Standard,5549
+251851,83,BlockedShot,0.8040000152587891,0.35400001525878905,0.039946798235177994,Luka Milivojevic,h,5549,FromCorner,2018,RightFoot,9384,Crystal Palace,Cardiff,0,0,2018-12-26 15:00:00,Patrick van Aanholt,Pass,5549
+274211,19,SavedShot,0.8090000152587891,0.534000015258789,0.0570015013217926,Luka Milivojevic,a,5549,OpenPlay,2018,RightFoot,9397,Wolverhampton Wanderers,Crystal Palace,0,2,2019-01-02 19:45:00,Andros Townsend,Pass,5549
+274225,70,MissedShots,0.784000015258789,0.649000015258789,0.023450899869203568,Luka Milivojevic,a,5549,OpenPlay,2018,LeftFoot,9397,Wolverhampton Wanderers,Crystal Palace,0,2,2019-01-02 19:45:00,,None,5549
+274235,94,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,a,5549,Penalty,2018,RightFoot,9397,Wolverhampton Wanderers,Crystal Palace,0,2,2019-01-02 19:45:00,,Standard,5549
+274396,27,BlockedShot,0.7609999847412109,0.30100000381469727,0.015992900356650352,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9412,Crystal Palace,Watford,1,2,2019-01-12 15:00:00,Andros Townsend,Pass,5549
+274403,46,SavedShot,0.7819999694824219,0.5870000076293945,0.04423860087990761,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9412,Crystal Palace,Watford,1,2,2019-01-12 15:00:00,,None,5549
+274407,61,SavedShot,0.6780000305175782,0.27600000381469725,0.011829200200736523,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9412,Crystal Palace,Watford,1,2,2019-01-12 15:00:00,,BallRecovery,5549
+275053,12,MissedShots,0.7730000305175782,0.3340000152587891,0.01883460022509098,Luka Milivojevic,a,5549,OpenPlay,2018,RightFoot,9433,Southampton,Crystal Palace,1,1,2019-01-30 19:45:00,Andros Townsend,Pass,5549
+275075,82,SavedShot,0.755,0.46299999237060546,0.017663899809122086,Luka Milivojevic,a,5549,FromCorner,2018,LeftFoot,9433,Southampton,Crystal Palace,1,1,2019-01-30 19:45:00,,None,5549
+275252,24,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,h,5549,Penalty,2018,RightFoot,9442,Crystal Palace,Fulham,2,0,2019-02-02 15:00:00,,Standard,5549
+275255,48,BlockedShot,0.8130000305175781,0.5729999923706055,0.13971300423145294,Luka Milivojevic,h,5549,DirectFreekick,2018,RightFoot,9442,Crystal Palace,Fulham,2,0,2019-02-02 15:00:00,,Standard,5549
+275445,88,BlockedShot,0.779000015258789,0.6359999847412109,0.07168970257043839,Luka Milivojevic,h,5549,DirectFreekick,2018,RightFoot,9448,Crystal Palace,West Ham,1,1,2019-02-09 15:00:00,,Standard,5549
+275822,80,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,a,5549,Penalty,2018,RightFoot,9460,Leicester,Crystal Palace,1,4,2019-02-23 17:30:00,,Standard,5549
+276107,73,MissedShots,0.740999984741211,0.3609999847412109,0.0480009987950325,Luka Milivojevic,h,5549,DirectFreekick,2018,RightFoot,9471,Crystal Palace,Manchester United,1,3,2019-02-27 20:00:00,,Standard,5549
+284331,49,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,h,5549,Penalty,2018,RightFoot,9493,Crystal Palace,Brighton,1,2,2019-03-09 12:30:00,,Standard,5549
+284335,71,MissedShots,0.754000015258789,0.5790000152587891,0.019943900406360626,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9493,Crystal Palace,Brighton,1,2,2019-03-09 12:30:00,Wilfried Zaha,Pass,5549
+287593,75,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,h,5549,Penalty,2018,RightFoot,9513,Crystal Palace,Huddersfield,2,0,2019-03-30 15:00:00,,Standard,5549
+291968,80,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,a,5549,Penalty,2018,RightFoot,9521,Newcastle United,Crystal Palace,0,1,2019-04-06 15:00:00,,Standard,5549
+294153,4,MissedShots,0.720999984741211,0.40099998474121096,0.014375800266861916,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9534,Crystal Palace,Manchester City,1,3,2019-04-14 14:05:00,Andros Townsend,Pass,5549
+294177,80,Goal,0.8119999694824219,0.5,0.15620599687099457,Luka Milivojevic,h,5549,DirectFreekick,2018,RightFoot,9534,Crystal Palace,Manchester City,1,3,2019-04-14 14:05:00,,Standard,5549
+297452,26,MissedShots,0.759000015258789,0.549000015258789,0.0238840002566576,Luka Milivojevic,h,5549,OpenPlay,2018,LeftFoot,9554,Crystal Palace,Everton,0,0,2019-04-27 15:00:00,,None,5549
+299495,48,BlockedShot,0.8480000305175781,0.5109999847412109,0.09431710094213486,Luka Milivojevic,a,5549,OpenPlay,2018,RightFoot,9564,Cardiff,Crystal Palace,2,3,2019-05-04 16:30:00,Wilfried Zaha,Pass,5549
+299503,66,BlockedShot,0.7019999694824218,0.5629999923706055,0.03760970011353493,Luka Milivojevic,a,5549,DirectFreekick,2018,RightFoot,9564,Cardiff,Crystal Palace,2,3,2019-05-04 16:30:00,,Standard,5549
+301266,3,ShotOnPost,0.784000015258789,0.6609999847412109,0.022592799738049507,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Max Meyer,Pass,5549
+301271,28,MissedShots,0.765,0.62,0.02144389972090721,Luka Milivojevic,h,5549,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,,Rebound,5549
+311088,35,BlockedShot,0.7290000152587891,0.29200000762939454,0.035698600113391876,Luka Milivojevic,a,5549,DirectFreekick,2019,RightFoot,11660,Sheffield United,Crystal Palace,1,0,2019-08-18 14:00:00,,Standard,5549
+315805,40,SavedShot,0.7580000305175781,0.669000015258789,0.0517146997153759,Luka Milivojevic,h,5549,DirectFreekick,2019,RightFoot,11676,Crystal Palace,Aston Villa,1,0,2019-08-31 15:00:00,,Standard,5549
+315812,57,SavedShot,0.735999984741211,0.5790000152587891,0.016321800649166107,Luka Milivojevic,h,5549,OpenPlay,2019,RightFoot,11676,Crystal Palace,Aston Villa,1,0,2019-08-31 15:00:00,Cheikhou Kouyaté,Pass,5549
+321498,55,BlockedShot,0.7619999694824219,0.37,0.028738699853420258,Luka Milivojevic,h,5549,OpenPlay,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,,None,5549
+321505,71,MissedShots,0.7609999847412109,0.4879999923706055,0.036932699382305145,Luka Milivojevic,h,5549,OpenPlay,2019,LeftFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,,None,5549
+322725,20,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,h,5549,Penalty,2019,RightFoot,11709,Crystal Palace,Norwich,2,0,2019-09-28 14:00:00,,Standard,5549
+325880,32,BlockedShot,0.7269999694824218,0.6140000152587891,0.04432959854602814,Luka Milivojevic,h,5549,DirectFreekick,2019,RightFoot,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,,Standard,5549
+327983,31,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,a,5549,Penalty,2019,RightFoot,11733,Arsenal,Crystal Palace,2,2,2019-10-27 16:30:00,,Standard,5549
+329755,40,BlockedShot,0.8090000152587891,0.7269999694824218,0.018665200099349022,Luka Milivojevic,h,5549,FromCorner,2019,RightFoot,11747,Crystal Palace,Leicester,0,2,2019-11-03 14:00:00,,Dispossessed,5549
+332256,11,SavedShot,0.749000015258789,0.545,0.011801600456237793,Luka Milivojevic,h,5549,OpenPlay,2019,RightFoot,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,,Aerial,5549
+332268,54,MissedShots,0.730999984741211,0.5429999923706055,0.016303399577736855,Luka Milivojevic,h,5549,SetPiece,2019,RightFoot,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,Jordan Ayew,Pass,5549
+332270,57,SavedShot,0.7219999694824218,0.375,0.015113400295376778,Luka Milivojevic,h,5549,OpenPlay,2019,RightFoot,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,,Rebound,5549
+332276,83,SavedShot,0.7269999694824218,0.34599998474121096,0.013679999858140945,Luka Milivojevic,h,5549,OpenPlay,2019,RightFoot,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,,BallTouch,5549
+333595,1,MissedShots,0.85,0.8269999694824218,0.04729609936475754,Luka Milivojevic,a,5549,DirectFreekick,2019,RightFoot,11773,Burnley,Crystal Palace,0,2,2019-11-30 15:00:00,,Standard,5549
+334830,2,MissedShots,0.7759999847412109,0.74,0.045973099768161774,Luka Milivojevic,h,5549,DirectFreekick,2019,RightFoot,11791,Crystal Palace,Bournemouth,1,0,2019-12-03 19:30:00,,Standard,5549
+338626,42,MissedShots,0.735,0.6359999847412109,0.04562319815158844,Luka Milivojevic,a,5549,DirectFreekick,2019,RightFoot,11818,Newcastle United,Crystal Palace,1,0,2019-12-21 15:00:00,,Standard,5549
+338627,44,BlockedShot,0.7340000152587891,0.5459999847412109,0.01701599918305874,Luka Milivojevic,a,5549,OpenPlay,2019,RightFoot,11818,Newcastle United,Crystal Palace,1,0,2019-12-21 15:00:00,James McArthur,Pass,5549
+338634,71,BlockedShot,0.7519999694824219,0.5790000152587891,0.016577599570155144,Luka Milivojevic,a,5549,FromCorner,2019,LeftFoot,11818,Newcastle United,Crystal Palace,1,0,2019-12-21 15:00:00,,None,5549
+339553,53,MissedShots,0.7559999847412109,0.5690000152587891,0.017290199175477028,Luka Milivojevic,h,5549,FromCorner,2019,LeftFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,,None,5549
+339554,55,MissedShots,0.855999984741211,0.634000015258789,0.07005350291728973,Luka Milivojevic,h,5549,OpenPlay,2019,RightFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Patrick van Aanholt,Pass,5549
+339795,52,MissedShots,0.6990000152587891,0.6170000076293946,0.015172000043094158,Luka Milivojevic,a,5549,OpenPlay,2019,RightFoot,11840,Southampton,Crystal Palace,1,1,2019-12-28 15:00:00,,BallRecovery,5549
+351541,1,BlockedShot,0.7730000305175782,0.515,0.021671999245882034,Luka Milivojevic,a,5549,SetPiece,2019,RightFoot,11850,Norwich,Crystal Palace,1,1,2020-01-01 17:30:00,,None,5549
+352479,19,MissedShots,0.784000015258789,0.645,0.023354899138212204,Luka Milivojevic,h,5549,OpenPlay,2019,LeftFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,,None,5549
+352662,56,BlockedShot,0.715,0.43,0.013509700074791908,Luka Milivojevic,a,5549,FromCorner,2019,RightFoot,11897,Everton,Crystal Palace,3,1,2020-02-08 12:30:00,,None,5549
+365629,11,Goal,0.7869999694824219,0.65,0.07407630234956741,Luka Milivojevic,a,5549,DirectFreekick,2019,RightFoot,11942,Bournemouth,Crystal Palace,0,2,2020-06-20 18:45:00,,Standard,5549
+365632,18,MissedShots,0.7240000152587891,0.6480000305175782,0.01755489967763424,Luka Milivojevic,a,5549,OpenPlay,2019,RightFoot,11942,Bournemouth,Crystal Palace,0,2,2020-06-20 18:45:00,,BallTouch,5549
+367602,12,MissedShots,0.775,0.7030000305175781,0.05321110039949417,Luka Milivojevic,h,5549,DirectFreekick,2019,RightFoot,11957,Crystal Palace,Burnley,0,1,2020-06-29 19:00:00,,Standard,5549
+367614,59,BlockedShot,0.8069999694824219,0.6990000152587891,0.07188770174980164,Luka Milivojevic,h,5549,DirectFreekick,2019,RightFoot,11957,Crystal Palace,Burnley,0,1,2020-06-29 19:00:00,,Standard,5549
+367616,70,BlockedShot,0.8159999847412109,0.6780000305175782,0.021434899419546127,Luka Milivojevic,h,5549,FromCorner,2019,RightFoot,11957,Crystal Palace,Burnley,0,1,2020-06-29 19:00:00,,None,5549
+368586,31,MissedShots,0.769000015258789,0.645,0.06251449882984161,Luka Milivojevic,a,5549,DirectFreekick,2019,RightFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,,Standard,5549
+372187,48,SavedShot,0.8130000305175781,0.779000015258789,0.049860499799251556,Luka Milivojevic,h,5549,DirectFreekick,2019,RightFoot,11996,Crystal Palace,Manchester United,0,2,2020-07-16 19:15:00,,Standard,5549
+383341,46,MissedShots,0.775,0.6229999923706054,0.07170149683952332,Luka Milivojevic,a,5549,DirectFreekick,2020,RightFoot,14489,Fulham,Crystal Palace,1,2,2020-10-24 14:00:00,,Standard,5549
+384370,64,MissedShots,0.7469999694824219,0.5270000076293946,0.06225049868226051,Luka Milivojevic,a,5549,DirectFreekick,2020,RightFoot,14504,Wolverhampton Wanderers,Crystal Palace,2,0,2020-10-30 20:00:00,,Standard,5549
+390568,37,MissedShots,0.7609999847412109,0.4209999847412109,0.024942899122834206,Luka Milivojevic,a,5549,FromCorner,2020,LeftFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,,Rebound,5549
+392191,40,BlockedShot,0.799000015258789,0.31,0.020493999123573303,Luka Milivojevic,h,5549,OpenPlay,2020,RightFoot,14545,Crystal Palace,Tottenham,1,1,2020-12-13 14:15:00,Jeffrey Schlupp,Pass,5549
+392198,70,BlockedShot,0.7440000152587891,0.5109999847412109,0.019752299413084984,Luka Milivojevic,h,5549,OpenPlay,2020,LeftFoot,14545,Crystal Palace,Tottenham,1,1,2020-12-13 14:15:00,,None,5549
+393481,40,MissedShots,0.7780000305175782,0.6719999694824219,0.029575500637292862,Luka Milivojevic,a,5549,OpenPlay,2020,RightFoot,14561,West Ham,Crystal Palace,1,1,2020-12-16 20:00:00,,BallTouch,5549
+393802,16,SavedShot,0.5370000076293945,0.59,0.007613339927047491,Luka Milivojevic,h,5549,OpenPlay,2020,RightFoot,14568,Crystal Palace,Liverpool,0,7,2020-12-19 12:30:00,,TakeOn,5549
+395638,30,SavedShot,0.7559999847412109,0.49700000762939456,0.06995180249214172,Luka Milivojevic,a,5549,DirectFreekick,2020,RightFoot,14576,Aston Villa,Crystal Palace,3,0,2020-12-26 15:00:00,,Standard,5549
+395643,46,SavedShot,0.8009999847412109,0.5540000152587891,0.01547630038112402,Luka Milivojevic,a,5549,SetPiece,2020,RightFoot,14576,Aston Villa,Crystal Palace,3,0,2020-12-26 15:00:00,,Aerial,5549
+395649,63,BlockedShot,0.740999984741211,0.7380000305175781,0.0356329008936882,Luka Milivojevic,a,5549,DirectFreekick,2020,RightFoot,14576,Aston Villa,Crystal Palace,3,0,2020-12-26 15:00:00,,Standard,5549
+401705,66,SavedShot,0.7980000305175782,0.7630000305175781,0.04878079891204834,Luka Milivojevic,h,5549,DirectFreekick,2020,RightFoot,14638,Crystal Palace,Wolverhampton Wanderers,1,0,2021-01-30 15:00:00,,Standard,5549
+407060,4,BlockedShot,0.815,0.46,0.0505794994533062,Luka Milivojevic,h,5549,OpenPlay,2020,RightFoot,14687,Crystal Palace,Fulham,0,0,2021-02-28 12:00:00,,None,5549
+408212,58,BlockedShot,0.7609999847412109,0.5159999847412109,0.07418949902057648,Luka Milivojevic,h,5549,DirectFreekick,2020,RightFoot,14717,Crystal Palace,Manchester United,0,0,2021-03-03 20:15:00,,Standard,5549
+409968,36,Goal,0.885,0.5,0.7611690163612366,Luka Milivojevic,h,5549,Penalty,2020,RightFoot,14706,Crystal Palace,West Bromwich Albion,1,0,2021-03-13 15:00:00,,Standard,5549
+418503,79,SavedShot,0.8159999847412109,0.6229999923706054,0.03277219831943512,Luka Milivojevic,h,5549,OpenPlay,2020,RightFoot,14768,Crystal Palace,Manchester City,0,2,2021-05-01 11:30:00,Wilfried Zaha,Pass,5549
+418509,92,MissedShots,0.7819999694824219,0.35900001525878905,0.0172582995146513,Luka Milivojevic,h,5549,OpenPlay,2020,RightFoot,14768,Crystal Palace,Manchester City,0,2,2021-05-01 11:30:00,,None,5549
+420080,26,MissedShots,0.795,0.2989999961853027,0.016875799745321274,Luka Milivojevic,a,5549,FromCorner,2020,RightFoot,14782,Sheffield United,Crystal Palace,0,2,2021-05-08 14:00:00,,None,5549
+421154,40,SavedShot,0.885,0.5,0.7611690163612366,Luka Milivojevic,a,5549,Penalty,2020,RightFoot,14753,Southampton,Crystal Palace,3,1,2021-05-11 21:00:00,,Standard,5549
+421160,54,BlockedShot,0.8,0.63,0.09327629953622818,Luka Milivojevic,a,5549,DirectFreekick,2020,RightFoot,14753,Southampton,Crystal Palace,3,1,2021-05-11 21:00:00,,Standard,5549
+434492,16,BlockedShot,0.7680000305175781,0.5220000076293946,0.02256469987332821,Luka Milivojevic,h,5549,OpenPlay,2021,RightFoot,16435,Crystal Palace,Brighton,1,1,2021-09-27 19:00:00,Jordan Ayew,Pass,5549
+434494,24,MissedShots,0.7719999694824219,0.235,0.040234100073575974,Luka Milivojevic,h,5549,DirectFreekick,2021,RightFoot,16435,Crystal Palace,Brighton,1,1,2021-09-27 19:00:00,,Standard,5549
+437764,71,BlockedShot,0.7469999694824219,0.4370000076293945,0.015097199939191341,Luka Milivojevic,h,5549,OpenPlay,2021,RightFoot,16460,Crystal Palace,Newcastle United,1,1,2021-10-23 14:00:00,,Rebound,5549
+442557,32,MissedShots,0.785,0.675,0.06548939645290375,Luka Milivojevic,a,5549,DirectFreekick,2021,RightFoot,16487,Burnley,Crystal Palace,3,3,2021-11-20 15:00:00,,Standard,5549
+442576,81,BlockedShot,0.8059999847412109,0.38599998474121094,0.03504180163145065,Luka Milivojevic,a,5549,OpenPlay,2021,RightFoot,16487,Burnley,Crystal Palace,3,3,2021-11-20 15:00:00,Jeffrey Schlupp,Pass,5549
+450990,6,MissedShots,0.7780000305175782,0.7119999694824218,0.052606500685214996,Luka Milivojevic,h,5549,DirectFreekick,2021,RightFoot,16579,Crystal Palace,West Ham,2,3,2022-01-01 17:30:00,,Standard,5549
+450995,15,MissedShots,0.774000015258789,0.6930000305175781,0.016181500628590584,Luka Milivojevic,h,5549,OpenPlay,2021,RightFoot,16579,Crystal Palace,West Ham,2,3,2022-01-01 17:30:00,,None,5549
+459819,30,BlockedShot,0.7219999694824218,0.385,0.04215509817004204,Luka Milivojevic,h,5549,DirectFreekick,2021,RightFoot,16640,Crystal Palace,Burnley,1,1,2022-02-26 15:00:00,,Standard,5549
+459821,45,OwnGoal,0.03299999952316284,0.5790000152587891,0,Luka Milivojevic,h,5549,OpenPlay,2021,LeftFoot,16640,Crystal Palace,Burnley,1,1,2022-02-26 15:00:00,,None,5549
+492867,63,MissedShots,0.8330000305175781,0.43400001525878906,0.045194998383522034,Luka Milivojevic,a,5549,FromCorner,2022,RightFoot,18306,Leicester,Crystal Palace,0,0,2022-10-15 11:30:00,,None,5549
+495036,12,MissedShots,0.765,0.6919999694824219,0.01744139939546585,Luka Milivojevic,a,5549,OpenPlay,2022,RightFoot,18324,Everton,Crystal Palace,3,0,2022-10-22 14:00:00,Eberechi Eze,Pass,5549
+496479,3,MissedShots,0.7980000305175782,0.6830000305175781,0.07158409804105759,Luka Milivojevic,h,5549,DirectFreekick,2022,RightFoot,18336,Crystal Palace,Southampton,1,0,2022-10-29 14:00:00,,Standard,5549
+496480,9,BlockedShot,0.7869999694824219,0.4540000152587891,0.03188779950141907,Luka Milivojevic,h,5549,OpenPlay,2022,RightFoot,18336,Crystal Palace,Southampton,1,0,2022-10-29 14:00:00,Jeffrey Schlupp,Pass,5549
+496501,66,MissedShots,0.710999984741211,0.5609999847412109,0.017203500494360924,Luka Milivojevic,h,5549,OpenPlay,2022,RightFoot,18336,Crystal Palace,Southampton,1,0,2022-10-29 14:00:00,Wilfried Zaha,Pass,5549
+520861,84,BlockedShot,0.8090000152587891,0.38,0.036728981882333755,Luka Milivojevic,h,5549,OpenPlay,2022,RightFoot,18516,Crystal Palace,Everton,0,0,2023-04-22 14:00:00,Tyrick Mitchell,Pass,5549
+521932,38,MissedShots,0.7609999847412109,0.5270000076293946,0.02159465290606022,Luka Milivojevic,a,5549,OpenPlay,2022,LeftFoot,18527,Wolverhampton Wanderers,Crystal Palace,2,0,2023-04-25 18:30:00,Eberechi Eze,Pass,5549

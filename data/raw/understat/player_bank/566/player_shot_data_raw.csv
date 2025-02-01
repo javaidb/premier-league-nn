@@ -1,0 +1,65 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+24693,37,BlockedShot,0.9,0.5990000152587891,0.011628099717199802,Sebastian Prödl,h,566,SetPiece,2014,Head,5457,Werder Bremen,Hoffenheim,1,1,2014-08-30 14:30:00,Izet Hajrovic,Aerial,566
+24706,73,MissedShots,0.8130000305175781,0.48200000762939454,0.03930550068616867,Sebastian Prödl,h,566,FromCorner,2014,RightFoot,5457,Werder Bremen,Hoffenheim,1,1,2014-08-30 14:30:00,,None,566
+24861,84,Goal,0.9159999847412109,0.5379999923706055,0.46021899580955505,Sebastian Prödl,a,566,OpenPlay,2014,LeftFoot,5411,Bayer Leverkusen,Werder Bremen,3,3,2014-09-12 19:30:00,Nils Petersen,HeadPass,566
+25537,59,MissedShots,0.899000015258789,0.6179999923706054,0.009212720207870007,Sebastian Prödl,a,566,SetPiece,2014,Head,5444,Wolfsburg,Werder Bremen,2,1,2014-09-27 17:30:00,Zlatko Junuzovic,Aerial,566
+25542,70,MissedShots,0.8330000305175781,0.575,0.03976869955658913,Sebastian Prödl,a,566,OpenPlay,2014,RightFoot,5444,Wolfsburg,Werder Bremen,2,1,2014-09-27 17:30:00,Davie Selke,Cross,566
+26854,29,Goal,0.9490000152587891,0.5070000076293946,0.13315099477767944,Sebastian Prödl,h,566,FromCorner,2014,Head,5362,Werder Bremen,VfB Stuttgart,2,0,2014-11-08 17:30:00,Zlatko Junuzovic,Cross,566
+27143,23,MissedShots,0.9319999694824219,0.4229999923706055,0.0770677998661995,Sebastian Prödl,h,566,FromCorner,2014,Head,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Zlatko Junuzovic,Cross,566
+27172,87,SavedShot,0.8230000305175781,0.5,0.048915501683950424,Sebastian Prödl,h,566,FromCorner,2014,RightFoot,5379,Werder Bremen,Paderborn,4,0,2014-11-29 14:30:00,Zlatko Junuzovic,Pass,566
+27352,13,SavedShot,0.9130000305175782,0.5259999847412109,0.036584701389074326,Sebastian Prödl,a,566,FromCorner,2014,Head,5320,Eintracht Frankfurt,Werder Bremen,5,2,2014-12-07 16:30:00,Zlatko Junuzovic,Aerial,566
+28946,88,SavedShot,0.915,0.3629999923706055,0.013061299920082092,Sebastian Prödl,a,566,OpenPlay,2014,Head,5293,Schalke 04,Werder Bremen,1,1,2015-02-21 14:30:00,Santiago García,Aerial,566
+28948,91,Goal,0.975,0.4929999923706055,0.7245420217514038,Sebastian Prödl,a,566,SetPiece,2014,Head,5293,Schalke 04,Werder Bremen,1,1,2015-02-21 14:30:00,Zlatko Junuzovic,Aerial,566
+30121,5,MissedShots,0.93,0.47200000762939454,0.05326550081372261,Sebastian Prödl,a,566,FromCorner,2014,Head,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Zlatko Junuzovic,CornerAwarded,566
+30127,18,MissedShots,0.6759999847412109,0.5429999923706055,0.008726920001208782,Sebastian Prödl,a,566,OpenPlay,2014,RightFoot,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,,None,566
+30147,78,MissedShots,0.94,0.5840000152587891,0.07733680307865143,Sebastian Prödl,a,566,FromCorner,2014,Head,5237,Freiburg,Werder Bremen,0,1,2015-03-07 14:30:00,Zlatko Junuzovic,Cross,566
+32108,9,MissedShots,0.7530000305175781,0.725999984741211,0.009924620389938354,Sebastian Prödl,h,566,OpenPlay,2014,LeftFoot,5220,Werder Bremen,Hamburger SV,1,0,2015-04-19 14:30:00,,Aerial,566
+31112,54,SavedShot,0.9390000152587891,0.45799999237060546,0.3716300129890442,Sebastian Prödl,h,566,FromCorner,2014,Head,5163,Werder Bremen,Eintracht Frankfurt,1,0,2015-05-02 14:30:00,Zlatko Junuzovic,Cross,566
+31120,75,MissedShots,0.9419999694824219,0.48200000762939454,0.08616189658641815,Sebastian Prödl,h,566,FromCorner,2014,Head,5163,Werder Bremen,Eintracht Frankfurt,1,0,2015-05-02 14:30:00,Assani Lukimya,Aerial,566
+30707,63,MissedShots,0.775,0.2620000076293945,0.01359929982572794,Sebastian Prödl,h,566,OpenPlay,2014,RightFoot,5182,Werder Bremen,Borussia M.Gladbach,0,2,2015-05-16 14:30:00,,None,566
+30711,76,MissedShots,0.9130000305175782,0.46799999237060547,0.03416699916124344,Sebastian Prödl,h,566,FromCorner,2014,Head,5182,Werder Bremen,Borussia M.Gladbach,0,2,2015-05-16 14:30:00,Zlatko Junuzovic,Aerial,566
+57590,13,BlockedShot,0.9109999847412109,0.5940000152587891,0.09363710135221481,Sebastian Prödl,a,566,FromCorner,2015,RightFoot,117,Manchester City,Watford,2,0,2015-08-29 18:00:00,,Rebound,566
+57969,10,MissedShots,0.8140000152587891,0.46900001525878904,0.04668549820780754,Sebastian Prödl,h,566,SetPiece,2015,RightFoot,124,Watford,Swansea,1,0,2015-09-12 18:00:00,Almen Abdi,Pass,566
+58203,35,MissedShots,0.885,0.445,0.029643099755048752,Sebastian Prödl,a,566,FromCorner,2015,Head,132,Newcastle United,Watford,1,2,2015-09-19 18:00:00,Almen Abdi,Cross,566
+58539,4,MissedShots,0.9430000305175781,0.5670000076293945,0.10204099863767624,Sebastian Prödl,h,566,FromCorner,2015,Head,149,Watford,Crystal Palace,0,1,2015-09-27 19:00:00,Almen Abdi,Cross,566
+54247,26,SavedShot,0.889000015258789,0.51,0.046216901391744614,Sebastian Prödl,h,566,FromCorner,2015,Head,320,Watford,Chelsea,0,0,2016-02-03 23:45:00,Ben Watson,Cross,566
+61220,23,MissedShots,0.860999984741211,0.45599998474121095,0.07594239711761475,Sebastian Prödl,a,566,SetPiece,2015,RightFoot,358,Manchester United,Watford,1,0,2016-03-03 00:00:00,Odion Ighalo,BallTouch,566
+61228,50,BlockedShot,0.9640000152587891,0.595999984741211,0.059115201234817505,Sebastian Prödl,a,566,FromCorner,2015,Head,358,Manchester United,Watford,1,0,2016-03-03 00:00:00,Ben Watson,Cross,566
+61238,78,MissedShots,0.9619999694824218,0.4520000076293945,0.45256200432777405,Sebastian Prödl,a,566,FromCorner,2015,Head,358,Manchester United,Watford,1,0,2016-03-03 00:00:00,Ben Watson,Cross,566
+60982,55,BlockedShot,0.9269999694824219,0.529000015258789,0.06805860251188278,Sebastian Prödl,a,566,SetPiece,2015,Head,385,Arsenal,Watford,4,0,2016-04-02 18:00:00,Troy Deeney,HeadPass,566
+59877,63,Goal,0.874000015258789,0.5259999847412109,0.06889569759368896,Sebastian Prödl,a,566,SetPiece,2015,LeftFoot,416,West Ham,Watford,3,1,2016-04-20 22:45:00,Steven Berghuis,Cross,566
+56433,29,BlockedShot,0.92,0.48,0.09904950112104416,Sebastian Prödl,a,566,FromCorner,2015,Head,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,Jurado,Cross,566
+52194,22,MissedShots,0.9269999694824219,0.5420000076293945,0.10152699798345566,Sebastian Prödl,h,566,FromCorner,2015,Head,458,Watford,Sunderland,2,2,2016-05-15 18:00:00,Adlène Guédioura,Cross,566
+52205,47,Goal,0.914000015258789,0.49900001525878906,0.2904750108718872,Sebastian Prödl,h,566,FromCorner,2015,Head,458,Watford,Sunderland,2,2,2016-05-15 18:00:00,Adlène Guédioura,Cross,566
+114577,27,BlockedShot,0.8230000305175781,0.48700000762939455,0.0578542985022068,Sebastian Prödl,h,566,OpenPlay,2016,RightFoot,525,Watford,Bournemouth,2,2,2016-10-01 18:00:00,Troy Deeney,Pass,566
+114584,46,MissedShots,0.8540000152587891,0.4640000152587891,0.024261999875307083,Sebastian Prödl,h,566,SetPiece,2016,Head,525,Watford,Bournemouth,2,2,2016-10-01 18:00:00,José Holebas,Cross,566
+115012,36,MissedShots,0.89,0.524000015258789,0.035207100212574005,Sebastian Prödl,h,566,OpenPlay,2016,Head,2679,Watford,Hull,1,0,2016-10-29 18:00:00,Nordin Amrabat,Aerial,566
+115932,71,MissedShots,0.9180000305175782,0.524000015258789,0.040877699851989746,Sebastian Prödl,h,566,FromCorner,2016,Head,2701,Watford,Leicester,2,1,2016-11-19 19:00:00,Etienne Capoue,Aerial,566
+115443,36,MissedShots,0.9280000305175782,0.5870000076293945,0.03327009826898575,Sebastian Prödl,h,566,SetPiece,2016,Head,2713,Watford,Stoke,0,1,2016-11-27 16:00:00,Etienne Capoue,Aerial,566
+116064,59,MissedShots,0.9030000305175782,0.5609999847412109,0.02704080007970333,Sebastian Prödl,a,566,FromCorner,2016,Head,3110,West Bromwich Albion,Watford,3,1,2016-12-03 19:00:00,Adlène Guédioura,Goal,566
+117445,57,MissedShots,0.91,0.534000015258789,0.10896900296211243,Sebastian Prödl,h,566,SetPiece,2016,Head,3115,Watford,Everton,3,2,2016-12-10 16:30:00,Adlène Guédioura,Cross,566
+117446,58,Goal,0.9259999847412109,0.5029999923706054,0.40731799602508545,Sebastian Prödl,h,566,SetPiece,2016,Head,3115,Watford,Everton,3,2,2016-12-10 16:30:00,José Holebas,Cross,566
+118156,9,SavedShot,0.654000015258789,0.41700000762939454,0.00796142965555191,Sebastian Prödl,a,566,OpenPlay,2016,RightFoot,3132,Manchester City,Watford,2,0,2016-12-15 00:00:00,,None,566
+115780,29,SavedShot,0.9059999847412109,0.495,0.10503900051116943,Sebastian Prödl,a,566,SetPiece,2016,Head,3139,Sunderland,Watford,1,0,2016-12-17 19:00:00,José Holebas,Cross,566
+116906,60,MissedShots,0.7069999694824218,0.629000015258789,0.014231200329959393,Sebastian Prödl,h,566,OpenPlay,2016,RightFoot,3145,Watford,Crystal Palace,1,1,2016-12-26 16:30:00,,Rebound,566
+116673,19,MissedShots,0.9369999694824219,0.31,0.060534700751304626,Sebastian Prödl,a,566,OpenPlay,2016,RightFoot,3338,Stoke,Watford,2,0,2017-01-04 00:00:00,,BlockedPass,566
+116689,76,MissedShots,0.91,0.5270000076293946,0.08256050199270248,Sebastian Prödl,a,566,FromCorner,2016,Head,3338,Stoke,Watford,2,0,2017-01-04 00:00:00,Etienne Capoue,Cross,566
+117960,87,SavedShot,0.965,0.46299999237060546,0.1322370022535324,Sebastian Prödl,h,566,FromCorner,2016,Head,3341,Watford,Middlesbrough,0,0,2017-01-14 19:00:00,Etienne Capoue,Cross,566
+118811,33,SavedShot,0.879000015258789,0.45799999237060546,0.03223780170083046,Sebastian Prödl,a,566,OpenPlay,2016,Head,3360,Arsenal,Watford,1,2,2017-01-31 22:45:00,Etienne Capoue,Cross,566
+117167,74,BlockedShot,0.764000015258789,0.6780000305175782,0.01803640089929104,Sebastian Prödl,h,566,OpenPlay,2016,RightFoot,3374,Watford,Burnley,2,1,2017-02-04 15:00:00,,None,566
+121510,26,BlockedShot,0.9519999694824218,0.47900001525878905,0.1317179948091507,Sebastian Prödl,h,566,FromCorner,2016,Head,3466,Watford,Swansea,1,0,2017-04-15 15:00:00,José Holebas,Cross,566
+120759,30,SavedShot,0.9369999694824219,0.475,0.06438379734754562,Sebastian Prödl,a,566,FromCorner,2016,Head,3474,Hull,Watford,2,0,2017-04-22 15:00:00,José Holebas,Aerial,566
+120764,44,MissedShots,0.9309999847412109,0.46700000762939453,0.053550299257040024,Sebastian Prödl,a,566,FromCorner,2016,OtherBodyPart,3474,Hull,Watford,2,0,2017-04-22 15:00:00,José Holebas,Aerial,566
+121143,93,ShotOnPost,0.9019999694824219,0.635,0.2571220099925995,Sebastian Prödl,h,566,OpenPlay,2016,LeftFoot,3488,Watford,Liverpool,0,1,2017-05-01 20:00:00,Stefano Okaka,Rebound,566
+121495,76,SavedShot,0.8969999694824219,0.5370000076293945,0.017619499936699867,Sebastian Prödl,a,566,FromCorner,2016,Head,3495,Leicester,Watford,3,0,2017-05-06 15:00:00,Tom Cleverley,Aerial,566
+121770,10,BlockedShot,0.9209999847412109,0.5059999847412109,0.13645200431346893,Sebastian Prödl,a,566,FromCorner,2016,RightFoot,3502,Everton,Watford,1,0,2017-05-12 19:45:00,Troy Deeney,Rebound,566
+182783,12,MissedShots,0.884000015258789,0.525,0.01501620002090931,Sebastian Prödl,h,566,FromCorner,2017,Head,7296,Watford,Huddersfield,1,4,2017-12-16 15:00:00,José Holebas,Aerial,566
+182794,65,MissedShots,0.9130000305175782,0.53,0.03169649839401245,Sebastian Prödl,h,566,FromCorner,2017,Head,7296,Watford,Huddersfield,1,4,2017-12-16 15:00:00,José Holebas,Aerial,566
+194242,0,SavedShot,0.8690000152587891,0.39,0.061573900282382965,Sebastian Prödl,a,566,SetPiece,2017,LeftFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,,None,566
+194055,75,MissedShots,0.95,0.4809999847412109,0.46953800320625305,Sebastian Prödl,a,566,FromCorner,2017,Head,7388,West Ham,Watford,2,0,2018-02-10 15:00:00,José Holebas,Cross,566
+197526,46,MissedShots,0.924000015258789,0.4929999923706055,0.10891000181436539,Sebastian Prödl,h,566,FromCorner,2017,Head,7392,Watford,Everton,1,0,2018-02-24 17:30:00,Gerard Deulofeu,Cross,566
+198918,38,MissedShots,0.9169999694824219,0.5459999847412109,0.08012069761753082,Sebastian Prödl,h,566,FromCorner,2017,Head,7408,Watford,West Bromwich Albion,1,0,2018-03-03 15:00:00,José Holebas,Cross,566
+200561,90,MissedShots,0.9009999847412109,0.6020000076293945,0.07166630029678345,Sebastian Prödl,a,566,SetPiece,2017,LeftFoot,7409,Arsenal,Watford,3,0,2018-03-11 13:30:00,Abdoulaye Doucouré,HeadPass,566
+208484,92,BlockedShot,0.845999984741211,0.5479999923706055,0.07847130298614502,Sebastian Prödl,a,566,OpenPlay,2017,RightFoot,7451,Huddersfield,Watford,1,0,2018-04-14 14:00:00,Jerome Sinclair,Pass,566
+324136,11,MissedShots,0.9169999694824219,0.5729999923706055,0.02520889975130558,Sebastian Prödl,h,566,FromCorner,2019,Head,11719,Watford,Sheffield United,0,0,2019-10-05 15:00:00,Daryl Janmaat,Aerial,566
+324141,41,MissedShots,0.91,0.4779999923706055,0.03274879977107048,Sebastian Prödl,h,566,FromCorner,2019,Head,11719,Watford,Sheffield United,0,0,2019-10-05 15:00:00,Tom Cleverley,Aerial,566

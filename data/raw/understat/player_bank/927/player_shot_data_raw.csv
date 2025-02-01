@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+19735,79,BlockedShot,0.93,0.3770000076293945,0.023611700162291527,Sebastián Coates,h,927,FromCorner,2014,Head,4597,Sunderland,Manchester City,1,4,2014-12-03 19:45:00,Sebastian Larsson,Cross,927
+19077,61,MissedShots,0.92,0.5279999923706055,0.044591598212718964,Sebastián Coates,a,927,SetPiece,2014,Head,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,Sebastian Larsson,Rebound,927
+17983,42,BlockedShot,0.8919999694824219,0.4,0.07178950309753418,Sebastián Coates,h,927,FromCorner,2014,RightFoot,4632,Sunderland,Hull,1,3,2014-12-26 15:00:00,,None,927
+17984,42,BlockedShot,0.8959999847412109,0.39,0.07480409741401672,Sebastián Coates,h,927,FromCorner,2014,RightFoot,4632,Sunderland,Hull,1,3,2014-12-26 15:00:00,,Rebound,927
+17998,91,BlockedShot,0.9269999694824219,0.5820000076293945,0.020495599135756493,Sebastián Coates,h,927,FromCorner,2014,Head,4632,Sunderland,Hull,1,3,2014-12-26 15:00:00,Adam Johnson,Aerial,927
+20815,9,MissedShots,0.96,0.4929999923706055,0.09525279700756073,Sebastián Coates,h,927,FromCorner,2014,Head,4421,Sunderland,Leicester,0,0,2015-05-16 15:00:00,Billy Jones,HeadPass,927
+22059,60,MissedShots,0.935,0.42900001525878906,0.034586500376462936,Sebastián Coates,a,927,FromCorner,2014,Head,4429,Arsenal,Sunderland,0,0,2015-05-20 19:45:00,Sebastian Larsson,Aerial,927
+57063,90,MissedShots,0.9119999694824219,0.49700000762939456,0.08635430037975311,Sebastián Coates,h,927,FromCorner,2015,Head,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Yann M&#039;Vila,Cross,927
+59495,54,OwnGoal,0.08,0.504000015258789,0,Sebastián Coates,a,927,OpenPlay,2015,RightFoot,188,Everton,Sunderland,6,2,2015-11-01 17:30:00,,None,927
+53536,49,BlockedShot,0.9259999847412109,0.5259999847412109,0.10850100219249725,Sebastián Coates,a,927,FromCorner,2015,Head,210,Crystal Palace,Sunderland,0,1,2015-11-24 00:00:00,Sebastian Larsson,Cross,927
+53539,60,MissedShots,0.8830000305175781,0.36700000762939455,0.028624899685382843,Sebastián Coates,a,927,SetPiece,2015,Head,210,Crystal Palace,Sunderland,0,1,2015-11-24 00:00:00,Yann M&#039;Vila,Chipped,927
+52718,55,SavedShot,0.935,0.415,0.08854919672012329,Sebastián Coates,h,927,OpenPlay,2015,Head,211,Sunderland,Stoke,2,0,2015-11-28 19:00:00,Jeremain Lens,Cross,927
+54705,72,MissedShots,0.904000015258789,0.5329999923706055,0.09992240369319916,Sebastián Coates,a,927,SetPiece,2015,Head,258,Manchester City,Sunderland,4,1,2015-12-26 19:00:00,Adam Johnson,Cross,927
+54710,88,MissedShots,0.9230000305175782,0.5059999847412109,0.06486610323190689,Sebastián Coates,a,927,SetPiece,2015,Head,258,Manchester City,Sunderland,4,1,2015-12-26 19:00:00,Jordi Gómez,Aerial,927

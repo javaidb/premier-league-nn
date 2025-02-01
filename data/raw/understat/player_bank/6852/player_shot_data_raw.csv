@@ -1,0 +1,128 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+233086,3,BlockedShot,0.9319999694824219,0.4570000076293945,0.5460529923439026,Matt Doherty,a,6852,OpenPlay,2018,LeftFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,,None,6852
+233090,28,OwnGoal,0.08100000381469727,0.42400001525878905,0,Matt Doherty,a,6852,OpenPlay,2018,Head,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,,Challenge,6852
+233463,77,BlockedShot,0.914000015258789,0.27600000381469725,0.020447799935936928,Matt Doherty,h,6852,OpenPlay,2018,RightFoot,9217,Wolverhampton Wanderers,Manchester City,1,1,2018-08-25 14:30:00,Diogo Jota,Cross,6852
+233465,89,MissedShots,0.8619999694824219,0.42900001525878906,0.015250599943101406,Matt Doherty,h,6852,OpenPlay,2018,Head,9217,Wolverhampton Wanderers,Manchester City,1,1,2018-08-25 14:30:00,Rúben Vinagre,Cross,6852
+233715,10,SavedShot,0.8730000305175781,0.28,0.034890901297330856,Matt Doherty,a,6852,OpenPlay,2018,RightFoot,9228,West Ham,Wolverhampton Wanderers,0,1,2018-09-01 14:00:00,Hélder Costa,Pass,6852
+233737,87,SavedShot,0.889000015258789,0.43,0.11867599934339523,Matt Doherty,a,6852,OpenPlay,2018,RightFoot,9228,West Ham,Wolverhampton Wanderers,0,1,2018-09-01 14:00:00,Adama Traoré,Pass,6852
+233976,30,SavedShot,0.9690000152587891,0.40400001525878904,0.09464450180530548,Matt Doherty,h,6852,OpenPlay,2018,RightFoot,9244,Wolverhampton Wanderers,Burnley,1,0,2018-09-16 12:30:00,Rúben Neves,Cross,6852
+233983,54,MissedShots,0.7619999694824219,0.6759999847412109,0.016926899552345276,Matt Doherty,h,6852,FromCorner,2018,RightFoot,9244,Wolverhampton Wanderers,Burnley,1,0,2018-09-16 12:30:00,,BallTouch,6852
+233990,75,MissedShots,0.8590000152587891,0.46799999237060547,0.3475480079650879,Matt Doherty,h,6852,OpenPlay,2018,RightFoot,9244,Wolverhampton Wanderers,Burnley,1,0,2018-09-16 12:30:00,Raúl Jiménez,Pass,6852
+234198,15,SavedShot,0.9319999694824219,0.4640000152587891,0.05782359838485718,Matt Doherty,a,6852,FromCorner,2018,Head,9248,Manchester United,Wolverhampton Wanderers,1,1,2018-09-22 14:00:00,,Aerial,6852
+234447,7,MissedShots,0.8969999694824219,0.4929999923706055,0.09207800030708313,Matt Doherty,h,6852,SetPiece,2018,Head,9258,Wolverhampton Wanderers,Southampton,2,0,2018-09-29 14:00:00,Rúben Neves,Cross,6852
+234471,81,MissedShots,0.8959999847412109,0.28299999237060547,0.059228599071502686,Matt Doherty,h,6852,OpenPlay,2018,RightFoot,9258,Wolverhampton Wanderers,Southampton,2,0,2018-09-29 14:00:00,Raúl Jiménez,Pass,6852
+249071,55,Goal,0.9530000305175781,0.345,0.08700379729270935,Matt Doherty,a,6852,OpenPlay,2018,RightFoot,9271,Crystal Palace,Wolverhampton Wanderers,0,1,2018-10-06 14:00:00,Raúl Jiménez,Pass,6852
+249525,12,BlockedShot,0.8080000305175781,0.3320000076293945,0.02055569924414158,Matt Doherty,a,6852,OpenPlay,2018,RightFoot,9290,Brighton,Wolverhampton Wanderers,1,0,2018-10-27 14:00:00,Adama Traoré,Cross,6852
+249532,32,MissedShots,0.8780000305175781,0.46,0.11607600003480911,Matt Doherty,a,6852,OpenPlay,2018,LeftFoot,9290,Brighton,Wolverhampton Wanderers,1,0,2018-10-27 14:00:00,Raúl Jiménez,LayOff,6852
+249540,68,MissedShots,0.9330000305175781,0.34200000762939453,0.04339820146560669,Matt Doherty,a,6852,OpenPlay,2018,RightFoot,9290,Brighton,Wolverhampton Wanderers,1,0,2018-10-27 14:00:00,Ivan Cavaleiro,Cross,6852
+249543,74,SavedShot,0.7130000305175781,0.40599998474121096,0.008194399997591972,Matt Doherty,a,6852,OpenPlay,2018,RightFoot,9290,Brighton,Wolverhampton Wanderers,1,0,2018-10-27 14:00:00,João Moutinho,Chipped,6852
+249547,79,MissedShots,0.8519999694824218,0.46599998474121096,0.08014090359210968,Matt Doherty,a,6852,OpenPlay,2018,RightFoot,9290,Brighton,Wolverhampton Wanderers,1,0,2018-10-27 14:00:00,Jonny,Pass,6852
+249548,88,SavedShot,0.88,0.41900001525878905,0.07328250259160995,Matt Doherty,a,6852,OpenPlay,2018,RightFoot,9290,Brighton,Wolverhampton Wanderers,1,0,2018-10-27 14:00:00,Léo Bonatini,Chipped,6852
+249897,11,SavedShot,0.7980000305175782,0.295,0.023337500169873238,Matt Doherty,h,6852,OpenPlay,2018,LeftFoot,9304,Wolverhampton Wanderers,Tottenham,2,3,2018-11-03 19:45:00,João Moutinho,Pass,6852
+250508,17,Goal,0.9790000152587891,0.5829999923706055,0.40722399950027466,Matt Doherty,a,6852,FromCorner,2018,LeftFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,,Rebound,6852
+251205,61,MissedShots,0.9219999694824219,0.475,0.046267200261354446,Matt Doherty,a,6852,FromCorner,2018,Head,9348,Newcastle United,Wolverhampton Wanderers,1,2,2018-12-09 16:00:00,Morgan Gibbs-White,Aerial,6852
+251208,80,SavedShot,0.8380000305175781,0.41700000762939454,0.10529199987649918,Matt Doherty,a,6852,OpenPlay,2018,LeftFoot,9348,Newcastle United,Wolverhampton Wanderers,1,2,2018-12-09 16:00:00,Diogo Jota,Pass,6852
+251213,93,Goal,0.9730000305175781,0.425,0.409184992313385,Matt Doherty,a,6852,OpenPlay,2018,Head,9348,Newcastle United,Wolverhampton Wanderers,1,2,2018-12-09 16:00:00,,Rebound,6852
+251489,26,SavedShot,0.9569999694824218,0.39599998474121095,0.030554499477148056,Matt Doherty,h,6852,OpenPlay,2018,Head,9367,Wolverhampton Wanderers,Liverpool,0,2,2018-12-21 20:00:00,Adama Traoré,Aerial,6852
+251493,43,SavedShot,0.845,0.315,0.03555859997868538,Matt Doherty,h,6852,OpenPlay,2018,RightFoot,9367,Wolverhampton Wanderers,Liverpool,0,2,2018-12-21 20:00:00,,None,6852
+251745,91,SavedShot,0.8680000305175781,0.3920000076293945,0.012221000157296658,Matt Doherty,a,6852,OpenPlay,2018,Head,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,Romain Saiss,Aerial,6852
+263572,50,BlockedShot,0.8540000152587891,0.655,0.00850598979741335,Matt Doherty,a,6852,FromCorner,2018,Head,9388,Tottenham,Wolverhampton Wanderers,1,3,2018-12-29 15:00:00,Ivan Cavaleiro,Cross,6852
+274216,35,MissedShots,0.9640000152587891,0.40099998474121096,0.16092799603939056,Matt Doherty,h,6852,FromCorner,2018,Head,9397,Wolverhampton Wanderers,Crystal Palace,0,2,2019-01-02 19:45:00,Willy Boly,Rebound,6852
+274648,89,MissedShots,0.9730000305175781,0.59,0.024772800505161285,Matt Doherty,h,6852,FromCorner,2018,Head,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Raúl Jiménez,Aerial,6852
+274964,47,SavedShot,0.9419999694824219,0.355,0.0709260031580925,Matt Doherty,h,6852,OpenPlay,2018,RightFoot,9427,Wolverhampton Wanderers,West Ham,3,0,2019-01-29 19:45:00,,None,6852
+275642,48,MissedShots,0.9630000305175781,0.5359999847412109,0.4878459870815277,Matt Doherty,h,6852,FromCorner,2018,Head,9450,Wolverhampton Wanderers,Newcastle United,1,1,2019-02-11 20:00:00,Diogo Jota,Rebound,6852
+275646,64,BlockedShot,0.9119999694824219,0.39799999237060546,0.07316090166568756,Matt Doherty,h,6852,OpenPlay,2018,LeftFoot,9450,Wolverhampton Wanderers,Newcastle United,1,1,2019-02-11 20:00:00,,None,6852
+275753,78,MissedShots,0.9469999694824218,0.505,0.0813210979104042,Matt Doherty,a,6852,OpenPlay,2018,Head,9465,Bournemouth,Wolverhampton Wanderers,1,1,2019-02-23 15:00:00,Adama Traoré,Aerial,6852
+275899,22,MissedShots,0.8030000305175782,0.38599998474121094,0.03677339851856232,Matt Doherty,a,6852,OpenPlay,2018,RightFoot,9468,Huddersfield,Wolverhampton Wanderers,1,0,2019-02-26 19:45:00,,None,6852
+275900,25,MissedShots,0.9430000305175781,0.33,0.2824530005455017,Matt Doherty,a,6852,OpenPlay,2018,RightFoot,9468,Huddersfield,Wolverhampton Wanderers,1,0,2019-02-26 19:45:00,Diogo Jota,Pass,6852
+287563,79,MissedShots,0.950999984741211,0.5479999923706055,0.07142379879951477,Matt Doherty,a,6852,FromCorner,2018,Head,9515,Burnley,Wolverhampton Wanderers,2,0,2019-03-30 15:00:00,João Moutinho,Aerial,6852
+291011,38,MissedShots,0.9230000305175782,0.5729999923706055,0.0963411033153534,Matt Doherty,h,6852,SetPiece,2018,Head,9517,Wolverhampton Wanderers,Manchester United,2,1,2019-04-02 19:45:00,João Moutinho,Cross,6852
+293522,6,BlockedShot,0.8819999694824219,0.40400001525878904,0.07356269657611847,Matt Doherty,a,6852,OpenPlay,2018,LeftFoot,9529,Southampton,Wolverhampton Wanderers,3,1,2019-04-13 15:00:00,Leander Dendoncker,TakeOn,6852
+293539,58,BlockedShot,0.8069999694824219,0.4520000076293945,0.03248409926891327,Matt Doherty,a,6852,FromCorner,2018,LeftFoot,9529,Southampton,Wolverhampton Wanderers,3,1,2019-04-13 15:00:00,,None,6852
+295233,17,MissedShots,0.9,0.29399999618530276,0.05179470032453537,Matt Doherty,h,6852,OpenPlay,2018,RightFoot,9537,Wolverhampton Wanderers,Brighton,0,0,2019-04-20 15:00:00,,BallRecovery,6852
+295241,50,MissedShots,0.92,0.3770000076293945,0.022665299475193024,Matt Doherty,h,6852,OpenPlay,2018,Head,9537,Wolverhampton Wanderers,Brighton,0,0,2019-04-20 15:00:00,Jonny,Aerial,6852
+296792,36,Goal,0.9130000305175782,0.5070000076293946,0.2745000123977661,Matt Doherty,h,6852,FromCorner,2018,Head,9497,Wolverhampton Wanderers,Arsenal,3,1,2019-04-24 19:45:00,Jonny,Cross,6852
+296796,43,BlockedShot,0.830999984741211,0.34,0.040226198732852936,Matt Doherty,h,6852,OpenPlay,2018,LeftFoot,9497,Wolverhampton Wanderers,Arsenal,3,1,2019-04-24 19:45:00,Rúben Neves,TakeOn,6852
+297384,57,MissedShots,0.845999984741211,0.47400001525878904,0.3541969954967499,Matt Doherty,a,6852,FromCorner,2018,LeftFoot,9547,Watford,Wolverhampton Wanderers,1,2,2019-04-27 15:00:00,,None,6852
+299280,64,SavedShot,0.9569999694824218,0.595999984741211,0.06509800255298615,Matt Doherty,h,6852,FromCorner,2018,Head,9557,Wolverhampton Wanderers,Fulham,1,0,2019-05-04 14:00:00,João Moutinho,Cross,6852
+301358,43,ShotOnPost,0.850999984741211,0.3729999923706055,0.06512250006198883,Matt Doherty,a,6852,OpenPlay,2018,RightFoot,9571,Liverpool,Wolverhampton Wanderers,2,0,2019-05-12 14:00:00,Diogo Jota,Pass,6852
+313093,33,MissedShots,0.874000015258789,0.590999984741211,0.011979499831795692,Matt Doherty,h,6852,FromCorner,2019,Head,11668,Wolverhampton Wanderers,Burnley,1,1,2019-08-25 16:30:00,João Moutinho,Aerial,6852
+317318,84,SavedShot,0.94,0.33599998474121096,0.04177499935030937,Matt Doherty,h,6852,OpenPlay,2019,RightFoot,11688,Wolverhampton Wanderers,Chelsea,2,5,2019-09-14 14:00:00,Morgan Gibbs-White,Chipped,6852
+321491,28,SavedShot,0.9519999694824218,0.4520000076293945,0.44921401143074036,Matt Doherty,a,6852,OpenPlay,2019,Head,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Raúl Jiménez,Chipped,6852
+322701,17,Goal,0.960999984741211,0.504000015258789,0.7600389719009399,Matt Doherty,h,6852,OpenPlay,2019,LeftFoot,11705,Wolverhampton Wanderers,Watford,2,0,2019-09-28 14:00:00,Pedro Neto,Pass,6852
+327870,84,BlockedShot,0.9269999694824219,0.43,0.048923101276159286,Matt Doherty,a,6852,OpenPlay,2019,Head,11738,Newcastle United,Wolverhampton Wanderers,1,1,2019-10-27 14:00:00,Rúben Vinagre,Aerial,6852
+327873,92,MissedShots,0.960999984741211,0.47299999237060547,0.596530020236969,Matt Doherty,a,6852,OpenPlay,2019,Head,11738,Newcastle United,Wolverhampton Wanderers,1,1,2019-10-27 14:00:00,Raúl Jiménez,Chipped,6852
+327874,94,MissedShots,0.879000015258789,0.43900001525878907,0.03692140057682991,Matt Doherty,a,6852,OpenPlay,2019,Head,11738,Newcastle United,Wolverhampton Wanderers,1,1,2019-10-27 14:00:00,Romain Saiss,Cross,6852
+329133,2,BlockedShot,0.855999984741211,0.49,0.1023550033569336,Matt Doherty,a,6852,OpenPlay,2019,RightFoot,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,Diogo Jota,Pass,6852
+329146,41,SavedShot,0.8519999694824218,0.5129999923706055,0.06302359700202942,Matt Doherty,a,6852,OpenPlay,2019,LeftFoot,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,Diogo Jota,Cross,6852
+331415,3,BlockedShot,0.8540000152587891,0.43,0.06933560222387314,Matt Doherty,h,6852,OpenPlay,2019,LeftFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,Conor Coady,Chipped,6852
+331421,33,BlockedShot,0.875,0.3110000038146973,0.05329649895429611,Matt Doherty,h,6852,OpenPlay,2019,RightFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,Raúl Jiménez,Pass,6852
+332152,36,SavedShot,0.9669999694824218,0.3509999847412109,0.10792499780654907,Matt Doherty,a,6852,OpenPlay,2019,RightFoot,11765,Bournemouth,Wolverhampton Wanderers,1,2,2019-11-23 15:00:00,Raúl Jiménez,Pass,6852
+334190,63,Goal,0.9630000305175781,0.5540000152587891,0.4359999895095825,Matt Doherty,h,6852,OpenPlay,2019,Head,11780,Wolverhampton Wanderers,Sheffield United,1,1,2019-12-01 14:00:00,Raúl Jiménez,Cross,6852
+336508,46,SavedShot,0.92,0.5059999847412109,0.09390690177679062,Matt Doherty,a,6852,OpenPlay,2019,OtherBodyPart,11795,Brighton,Wolverhampton Wanderers,2,2,2019-12-08 16:30:00,João Moutinho,Aerial,6852
+338649,37,BlockedShot,0.8530000305175781,0.4640000152587891,0.0846313014626503,Matt Doherty,a,6852,OpenPlay,2019,RightFoot,11819,Norwich,Wolverhampton Wanderers,1,2,2019-12-21 15:00:00,Adama Traoré,Pass,6852
+338663,80,SavedShot,0.9340000152587891,0.5359999847412109,0.44540899991989136,Matt Doherty,a,6852,OpenPlay,2019,RightFoot,11819,Norwich,Wolverhampton Wanderers,1,2,2019-12-21 15:00:00,Pedro Neto,Cross,6852
+339715,88,Goal,0.85,0.4520000076293945,0.09434829652309418,Matt Doherty,h,6852,OpenPlay,2019,LeftFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,Raúl Jiménez,TakeOn,6852
+351455,12,SavedShot,0.8819999694824219,0.4370000076293945,0.3489820063114166,Matt Doherty,a,6852,OpenPlay,2019,RightFoot,11852,Watford,Wolverhampton Wanderers,2,1,2020-01-01 15:00:00,Conor Coady,Throughball,6852
+351469,61,BlockedShot,0.8819999694824219,0.46099998474121096,0.026825999841094017,Matt Doherty,a,6852,FromCorner,2019,Head,11852,Watford,Wolverhampton Wanderers,2,1,2020-01-01 15:00:00,Rúben Vinagre,Tackle,6852
+351473,74,SavedShot,0.914000015258789,0.4979999923706055,0.35684698820114136,Matt Doherty,a,6852,OpenPlay,2019,Head,11852,Watford,Wolverhampton Wanderers,2,1,2020-01-01 15:00:00,Rúben Vinagre,Cross,6852
+351675,46,BlockedShot,0.9209999847412109,0.515,0.5171229839324951,Matt Doherty,h,6852,OpenPlay,2019,RightFoot,11853,Wolverhampton Wanderers,Newcastle United,1,1,2020-01-11 15:00:00,,None,6852
+352328,10,MissedShots,0.9330000305175781,0.42900001525878906,0.23532499372959137,Matt Doherty,h,6852,FromCorner,2019,Head,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Rúben Neves,Cross,6852
+352574,19,SavedShot,0.9109999847412109,0.634000015258789,0.011435200460255146,Matt Doherty,a,6852,FromCorner,2019,Head,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,João Moutinho,Aerial,6852
+352593,84,BlockedShot,0.9530000305175781,0.4,0.3155229985713959,Matt Doherty,a,6852,OpenPlay,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Daniel Podence,Cross,6852
+353093,36,BlockedShot,0.965,0.655,0.05881590023636818,Matt Doherty,h,6852,FromCorner,2019,LeftFoot,11912,Wolverhampton Wanderers,Norwich,3,0,2020-02-23 14:00:00,Raúl Jiménez,Rebound,6852
+353101,57,MissedShots,0.830999984741211,0.3240000152587891,0.03867249935865402,Matt Doherty,h,6852,OpenPlay,2019,RightFoot,11912,Wolverhampton Wanderers,Norwich,3,0,2020-02-23 14:00:00,,None,6852
+353105,88,SavedShot,0.9440000152587891,0.3970000076293945,0.18688100576400757,Matt Doherty,h,6852,OpenPlay,2019,Head,11912,Wolverhampton Wanderers,Norwich,3,0,2020-02-23 14:00:00,Rúben Vinagre,Cross,6852
+353376,26,Goal,0.924000015258789,0.5059999847412109,0.5278649926185608,Matt Doherty,a,6852,OpenPlay,2019,LeftFoot,11920,Tottenham,Wolverhampton Wanderers,2,3,2020-03-01 14:00:00,,None,6852
+353387,56,SavedShot,0.9369999694824219,0.345,0.07101529836654663,Matt Doherty,a,6852,OpenPlay,2019,RightFoot,11920,Tottenham,Wolverhampton Wanderers,2,3,2020-03-01 14:00:00,Raúl Jiménez,Pass,6852
+366332,36,MissedShots,0.9769999694824218,0.5029999923706054,0.1857299953699112,Matt Doherty,h,6852,SetPiece,2019,Head,11947,Wolverhampton Wanderers,Bournemouth,1,0,2020-06-24 17:00:00,João Moutinho,Cross,6852
+366785,23,MissedShots,0.9319999694824219,0.2929999923706055,0.04818030074238777,Matt Doherty,a,6852,OpenPlay,2019,RightFoot,11954,Aston Villa,Wolverhampton Wanderers,0,1,2020-06-27 11:30:00,,None,6852
+370701,6,MissedShots,0.794000015258789,0.4,0.03389190137386322,Matt Doherty,h,6852,OpenPlay,2019,RightFoot,11992,Wolverhampton Wanderers,Everton,3,0,2020-07-12 11:00:00,Leander Dendoncker,TakeOn,6852
+371453,75,BlockedShot,0.7,0.39099998474121095,0.01634019985795021,Matt Doherty,a,6852,OpenPlay,2019,RightFoot,11994,Burnley,Wolverhampton Wanderers,1,1,2020-07-15 17:00:00,Adama Traoré,Pass,6852
+372945,84,MissedShots,0.975999984741211,0.6790000152587891,0.009067890234291553,Matt Doherty,h,6852,FromCorner,2019,Head,12012,Wolverhampton Wanderers,Crystal Palace,2,0,2020-07-20 19:15:00,Pedro Neto,Cross,6852
+376953,41,SavedShot,0.9519999694824218,0.40200000762939453,0.31473401188850403,Matt Doherty,h,6852,OpenPlay,2020,RightFoot,14093,Tottenham,Everton,0,1,2020-09-13 15:30:00,Harry Kane,Chipped,6852
+424030,40,BlockedShot,0.8190000152587891,0.6859999847412109,0.028617799282073975,Matt Doherty,a,6852,FromCorner,2020,RightFoot,14809,Leicester,Tottenham,2,4,2021-05-23 15:00:00,Son Heung-Min,Cross,6852
+424039,82,BlockedShot,0.8009999847412109,0.6580000305175782,0.020530199632048607,Matt Doherty,a,6852,FromCorner,2020,RightFoot,14809,Leicester,Tottenham,2,4,2021-05-23 15:00:00,Davinson Sánchez,None,6852
+446755,91,MissedShots,0.8530000305175781,0.539000015258789,0.06177369877696037,Matt Doherty,h,6852,FromCorner,2021,RightFoot,16522,Tottenham,Norwich,3,0,2021-12-05 14:00:00,,None,6852
+450737,69,MissedShots,0.7769999694824219,0.3820000076293945,0.014580599963665009,Matt Doherty,a,6852,FromCorner,2021,RightFoot,16575,Southampton,Tottenham,1,1,2021-12-28 15:00:00,,Aerial,6852
+450736,69,SavedShot,0.9480000305175781,0.6079999923706054,0.4768730103969574,Matt Doherty,a,6852,OpenPlay,2021,RightFoot,16575,Southampton,Tottenham,1,1,2021-12-28 15:00:00,Son Heung-Min,Pass,6852
+450738,69,MissedShots,0.7980000305175782,0.3820000076293945,0.03402340039610863,Matt Doherty,a,6852,FromCorner,2021,RightFoot,16575,Southampton,Tottenham,1,1,2021-12-28 15:00:00,,Rebound,6852
+450739,75,MissedShots,0.9259999847412109,0.6179999923706054,0.08793040364980698,Matt Doherty,a,6852,OpenPlay,2021,RightFoot,16575,Southampton,Tottenham,1,1,2021-12-28 15:00:00,Harry Winks,Chipped,6852
+454186,55,MissedShots,0.799000015258789,0.4,0.036809101700782776,Matt Doherty,a,6852,OpenPlay,2021,LeftFoot,16540,Leicester,Tottenham,2,3,2022-01-19 19:30:00,,None,6852
+454197,78,SavedShot,0.9519999694824218,0.46599998474121096,0.5967119932174683,Matt Doherty,a,6852,OpenPlay,2021,RightFoot,16540,Leicester,Tottenham,2,3,2022-01-19 19:30:00,,Rebound,6852
+455309,68,BlockedShot,0.8809999847412109,0.325,0.056275300681591034,Matt Doherty,a,6852,OpenPlay,2021,RightFoot,16598,Chelsea,Tottenham,2,0,2022-01-23 16:30:00,Oliver Skipp,Pass,6852
+459530,9,Goal,0.8969999694824219,0.4420000076293945,0.3741990029811859,Matt Doherty,a,6852,OpenPlay,2021,RightFoot,16642,Leeds,Tottenham,0,4,2022-02-26 12:30:00,Ryan Sessegnon,Pass,6852
+459545,60,SavedShot,0.9119999694824219,0.3320000076293945,0.4007999897003174,Matt Doherty,a,6852,OpenPlay,2021,RightFoot,16642,Leeds,Tottenham,0,4,2022-02-26 12:30:00,Harry Kane,Throughball,6852
+462036,33,SavedShot,0.955999984741211,0.3390000152587891,0.11166299879550934,Matt Doherty,h,6852,OpenPlay,2021,RightFoot,16653,Tottenham,Everton,5,0,2022-03-07 20:00:00,Son Heung-Min,Pass,6852
+462659,28,BlockedShot,0.8669999694824219,0.3579999923706055,0.047332700341939926,Matt Doherty,a,6852,OpenPlay,2021,LeftFoot,16663,Manchester United,Tottenham,3,2,2022-03-12 17:30:00,Rodrigo Bentancur,Chipped,6852
+463582,41,BlockedShot,0.850999984741211,0.3129999923706055,0.05379490181803703,Matt Doherty,a,6852,OpenPlay,2021,LeftFoot,16528,Brighton,Tottenham,0,2,2022-03-16 19:30:00,Harry Kane,Pass,6852
+464672,80,BlockedShot,0.8880000305175781,0.37900001525878907,0.09069550037384033,Matt Doherty,h,6852,OpenPlay,2021,RightFoot,16673,Tottenham,West Ham,3,1,2022-03-20 16:30:00,,None,6852
+466000,47,Goal,0.9569999694824218,0.52,0.5741490125656128,Matt Doherty,h,6852,OpenPlay,2021,Head,16678,Tottenham,Newcastle United,5,1,2022-04-03 15:30:00,Harry Kane,Cross,6852
+466863,14,BlockedShot,0.8640000152587891,0.6530000305175782,0.07377990335226059,Matt Doherty,a,6852,OpenPlay,2021,RightFoot,16694,Aston Villa,Tottenham,0,4,2022-04-09 16:30:00,Harry Kane,Pass,6852
+491799,10,MissedShots,0.8919999694824219,0.40099998474121096,0.06315340101718903,Matt Doherty,a,6852,OpenPlay,2022,LeftFoot,18294,Brighton,Tottenham,0,1,2022-10-08 16:30:00,Ryan Sessegnon,Cross,6852
+493278,54,BlockedShot,0.8730000305175781,0.3060000038146973,0.04457860067486763,Matt Doherty,h,6852,SetPiece,2022,RightFoot,18310,Tottenham,Everton,2,0,2022-10-15 16:30:00,Harry Kane,HeadPass,6852
+493280,57,SavedShot,0.89,0.3970000076293945,0.0649138018488884,Matt Doherty,h,6852,OpenPlay,2022,LeftFoot,18310,Tottenham,Everton,2,0,2022-10-15 16:30:00,Ivan Perisic,Cross,6852
+494506,18,MissedShots,0.9169999694824219,0.2589999961853027,0.03435530140995979,Matt Doherty,a,6852,OpenPlay,2022,LeftFoot,18321,Manchester United,Tottenham,2,0,2022-10-19 19:15:00,Harry Kane,TakeOn,6852
+500928,79,MissedShots,0.95,0.45,0.14331500232219696,Matt Doherty,a,6852,OpenPlay,2022,Head,18364,Brentford,Tottenham,2,2,2022-12-26 12:30:00,Ivan Perisic,Cross,6852
+501924,12,BlockedShot,0.955999984741211,0.35900001525878905,0.17880499362945557,Matt Doherty,h,6852,OpenPlay,2022,RightFoot,18379,Tottenham,Aston Villa,0,2,2023-01-01 14:00:00,Bryan Gil Salvatierra,TakeOn,6852
+502555,46,MissedShots,0.925,0.3089999961853027,0.0584103986620903,Matt Doherty,a,6852,OpenPlay,2022,RightFoot,18386,Crystal Palace,Tottenham,0,4,2023-01-04 20:00:00,Harry Kane,Pass,6852
+502562,67,Goal,0.9130000305175782,0.4209999847412109,0.11823800206184387,Matt Doherty,a,6852,OpenPlay,2022,LeftFoot,18386,Crystal Palace,Tottenham,0,4,2023-01-04 20:00:00,,None,6852
+502564,70,BlockedShot,0.905,0.33,0.04747379943728447,Matt Doherty,a,6852,OpenPlay,2022,RightFoot,18386,Crystal Palace,Tottenham,0,4,2023-01-04 20:00:00,,Rebound,6852
+502563,70,BlockedShot,0.8980000305175782,0.3970000076293945,0.11937499791383743,Matt Doherty,a,6852,OpenPlay,2022,LeftFoot,18386,Crystal Palace,Tottenham,0,4,2023-01-04 20:00:00,Harry Kane,Chipped,6852
+537368,88,MissedShots,0.965999984741211,0.4159999847412109,0.04788026213645935,Matt Doherty,h,6852,OpenPlay,2023,Head,21935,Wolverhampton Wanderers,Liverpool,1,3,2023-09-16 11:30:00,,Aerial,6852
+550751,77,SavedShot,0.9330000305175781,0.649000015258789,0.06978972256183624,Matt Doherty,a,6852,OpenPlay,2023,RightFoot,22018,Fulham,Wolverhampton Wanderers,3,2,2023-11-27 20:00:00,,None,6852
+556454,92,Goal,0.9109999847412109,0.5259999847412109,0.5101490616798401,Matt Doherty,h,6852,OpenPlay,2023,RightFoot,22073,Wolverhampton Wanderers,Chelsea,2,1,2023-12-24 13:00:00,,None,6852
+562607,97,MissedShots,0.9219999694824219,0.3890000152587891,0.013021063059568405,Matt Doherty,h,6852,FromCorner,2023,Head,22134,Wolverhampton Wanderers,Brentford,0,2,2024-02-10 15:00:00,Pablo Sarabia,Aerial,6852
+570948,86,MissedShots,0.9359999847412109,0.425,0.29015645384788513,Matt Doherty,a,6852,OpenPlay,2023,Head,22186,Aston Villa,Wolverhampton Wanderers,2,0,2024-03-30 17:30:00,Hugo Bueno,Cross,6852
+571822,22,MissedShots,0.88,0.3609999847412109,0.07807093113660812,Matt Doherty,a,6852,OpenPlay,2023,LeftFoot,22197,Burnley,Wolverhampton Wanderers,1,1,2024-04-02 18:45:00,Nélson Semedo,Pass,6852
+576304,48,MissedShots,0.8859999847412109,0.5309999847412109,0.0233352929353714,Matt Doherty,h,6852,OpenPlay,2023,Head,22184,Wolverhampton Wanderers,Bournemouth,0,1,2024-04-24 18:45:00,Mario Lemina,Aerial,6852
+579854,41,SavedShot,0.9369999694824219,0.4520000076293945,0.08027373254299164,Matt Doherty,h,6852,OpenPlay,2023,Head,22264,Wolverhampton Wanderers,Crystal Palace,1,3,2024-05-11 14:00:00,Rayan Ait Nouri,Aerial,6852
+584737,5,BlockedShot,0.865,0.40599998474121096,0.06888187676668167,Matt Doherty,a,6852,OpenPlay,2024,RightFoot,26604,Arsenal,Wolverhampton Wanderers,2,0,2024-08-17 14:00:00,,None,6852
+584761,91,MissedShots,0.960999984741211,0.36,0.016207994893193245,Matt Doherty,a,6852,OpenPlay,2024,Head,26604,Arsenal,Wolverhampton Wanderers,2,0,2024-08-17 14:00:00,Chiquinho,Cross,6852
+606714,44,BlockedShot,0.8769999694824219,0.485,0.09856509417295456,Matt Doherty,a,6852,SetPiece,2024,RightFoot,26746,West Ham,Wolverhampton Wanderers,2,1,2024-12-09 20:00:00,,Rebound,6852
+606713,44,BlockedShot,0.8469999694824218,0.5170000076293946,0.07088595628738403,Matt Doherty,a,6852,SetPiece,2024,RightFoot,26746,West Ham,Wolverhampton Wanderers,2,1,2024-12-09 20:00:00,João Gomes,BallTouch,6852
+606720,67,BlockedShot,0.905,0.3990000152587891,0.06858603656291962,Matt Doherty,a,6852,OpenPlay,2024,RightFoot,26746,West Ham,Wolverhampton Wanderers,2,1,2024-12-09 20:00:00,,BallTouch,6852
+606721,68,Goal,0.9,0.49,0.3676260709762573,Matt Doherty,a,6852,OpenPlay,2024,LeftFoot,26746,West Ham,Wolverhampton Wanderers,2,1,2024-12-09 20:00:00,Rayan Ait Nouri,Cross,6852
+606967,14,OwnGoal,0.07099999904632569,0.5179999923706055,0,Matt Doherty,h,6852,OpenPlay,2024,OtherBodyPart,26758,Wolverhampton Wanderers,Ipswich,1,2,2024-12-14 15:00:00,,Save,6852
+609552,89,SavedShot,0.935,0.46599998474121096,0.05872489884495735,Matt Doherty,a,6852,FromCorner,2024,Head,26790,Tottenham,Wolverhampton Wanderers,2,2,2024-12-29 15:00:00,Tommy Doyle,Aerial,6852
+613036,49,Goal,0.9740000152587891,0.53,0.6948419809341431,Matt Doherty,a,6852,FromCorner,2024,RightFoot,26814,Chelsea,Wolverhampton Wanderers,3,1,2025-01-20 20:00:00,,None,6852

@@ -1,0 +1,42 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+26945,79,SavedShot,0.9430000305175781,0.7480000305175781,0.0687657967209816,Bastian Schweinsteiger,h,907,OpenPlay,2014,LeftFoot,5365,Bayern Munich,Hoffenheim,4,0,2014-11-22 14:30:00,Franck Ribéry,Chipped,907
+28033,2,MissedShots,0.8580000305175781,0.4520000076293945,0.036634501069784164,Bastian Schweinsteiger,a,907,SetPiece,2014,Head,5324,Augsburg,Bayern Munich,0,4,2014-12-13 14:30:00,Xabi Alonso,Chipped,907
+28039,23,MissedShots,0.88,0.485,0.030309200286865234,Bastian Schweinsteiger,a,907,OpenPlay,2014,Head,5324,Augsburg,Bayern Munich,0,4,2014-12-13 14:30:00,Rafinha,Aerial,907
+28133,23,Goal,0.7680000305175781,0.6079999923706054,0.0739210993051529,Bastian Schweinsteiger,a,907,DirectFreekick,2014,RightFoot,5339,Mainz 05,Bayern Munich,1,2,2014-12-19 19:30:00,,Standard,907
+28138,68,BlockedShot,0.8919999694824219,0.4759999847412109,0.030974699184298515,Bastian Schweinsteiger,a,907,FromCorner,2014,Head,5339,Mainz 05,Bayern Munich,1,2,2014-12-19 19:30:00,Arjen Robben,Rebound,907
+28437,8,SavedShot,0.8059999847412109,0.6780000305175782,0.08418969810009003,Bastian Schweinsteiger,a,907,DirectFreekick,2014,RightFoot,5305,Wolfsburg,Bayern Munich,4,1,2015-01-30 19:30:00,,Standard,907
+28439,13,SavedShot,0.9530000305175781,0.51,0.13564999401569366,Bastian Schweinsteiger,a,907,FromCorner,2014,Head,5305,Wolfsburg,Bayern Munich,4,1,2015-01-30 19:30:00,Xabi Alonso,Cross,907
+29643,4,MissedShots,0.9069999694824219,0.515,0.03054169937968254,Bastian Schweinsteiger,h,907,FromCorner,2014,Head,5264,Bayern Munich,Schalke 04,1,1,2015-02-03 19:00:00,Arjen Robben,Aerial,907
+29646,13,MissedShots,0.774000015258789,0.6930000305175781,0.05873269960284233,Bastian Schweinsteiger,h,907,DirectFreekick,2014,RightFoot,5264,Bayern Munich,Schalke 04,1,1,2015-02-03 19:00:00,,Standard,907
+28763,2,Goal,0.9259999847412109,0.5029999923706054,0.05787070095539093,Bastian Schweinsteiger,h,907,FromCorner,2014,Head,5298,Bayern Munich,FC Cologne,4,1,2015-02-27 19:30:00,Arjen Robben,Aerial,907
+28767,13,MissedShots,0.785,0.5570000076293945,0.024910299107432365,Bastian Schweinsteiger,h,907,FromCorner,2014,LeftFoot,5298,Bayern Munich,FC Cologne,4,1,2015-02-27 19:30:00,,None,907
+31382,14,SavedShot,0.8680000305175781,0.5770000076293945,0.012649600394070148,Bastian Schweinsteiger,a,907,FromCorner,2014,Head,5246,Werder Bremen,Bayern Munich,0,4,2015-03-14 14:30:00,Mario Götze,Aerial,907
+31586,32,SavedShot,0.7080000305175781,0.4520000076293945,0.008489740081131458,Bastian Schweinsteiger,h,907,OpenPlay,2014,LeftFoot,5259,Bayern Munich,Borussia M.Gladbach,0,2,2015-03-22 16:30:00,Thomas Müller,Chipped,907
+32276,63,MissedShots,0.889000015258789,0.534000015258789,0.08823149651288986,Bastian Schweinsteiger,h,907,FromCorner,2014,RightFoot,5228,Bayern Munich,Hertha Berlin,1,0,2015-04-25 17:30:00,,None,907
+32280,76,MissedShots,0.899000015258789,0.495,0.06607010215520859,Bastian Schweinsteiger,h,907,FromCorner,2014,Head,5228,Bayern Munich,Hertha Berlin,1,0,2015-04-25 17:30:00,Thiago Alcántara,Cross,907
+32282,78,ShotOnPost,0.909000015258789,0.6,0.03660789877176285,Bastian Schweinsteiger,h,907,OpenPlay,2014,Head,5228,Bayern Munich,Hertha Berlin,1,0,2015-04-25 17:30:00,Jérôme Boateng,Chipped,907
+32283,79,Goal,0.865,0.5129999923706055,0.10194200277328491,Bastian Schweinsteiger,h,907,OpenPlay,2014,RightFoot,5228,Bayern Munich,Hertha Berlin,1,0,2015-04-25 17:30:00,Mitchell Weiser,Pass,907
+32285,87,SavedShot,0.8930000305175781,0.635,0.10580199956893921,Bastian Schweinsteiger,h,907,OpenPlay,2014,RightFoot,5228,Bayern Munich,Hertha Berlin,1,0,2015-04-25 17:30:00,Thiago Alcántara,Pass,907
+30496,63,BlockedShot,0.7909999847412109,0.27,0.05786510184407234,Bastian Schweinsteiger,a,907,DirectFreekick,2014,RightFoot,5165,Bayer Leverkusen,Bayern Munich,2,0,2015-05-02 17:30:00,,Standard,907
+31333,77,MissedShots,0.8109999847412109,0.69,0.08303269743919373,Bastian Schweinsteiger,h,907,DirectFreekick,2014,RightFoot,5169,Bayern Munich,Augsburg,0,1,2015-05-09 14:30:00,,Standard,907
+30786,12,Goal,0.935,0.53,0.5695239901542664,Bastian Schweinsteiger,a,907,OpenPlay,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Mitchell Weiser,Pass,907
+30796,53,BlockedShot,0.7819999694824219,0.6020000076293945,0.03055720031261444,Bastian Schweinsteiger,a,907,OpenPlay,2014,LeftFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,Xabi Alonso,Pass,907
+30800,68,ShotOnPost,0.845,0.835999984741211,0.04713280126452446,Bastian Schweinsteiger,a,907,DirectFreekick,2014,RightFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,,Standard,907
+30801,69,MissedShots,0.775,0.6270000076293946,0.023895200341939926,Bastian Schweinsteiger,a,907,OpenPlay,2014,LeftFoot,5185,Freiburg,Bayern Munich,2,1,2015-05-16 14:30:00,,None,907
+31026,18,MissedShots,0.8469999694824218,0.605999984741211,0.011026999913156033,Bastian Schweinsteiger,h,907,OpenPlay,2014,Head,5192,Bayern Munich,Mainz 05,2,0,2015-05-23 14:30:00,Rafinha,Aerial,907
+31028,23,BlockedShot,0.8769999694824219,0.5359999847412109,0.031907301396131516,Bastian Schweinsteiger,h,907,FromCorner,2014,Head,5192,Bayern Munich,Mainz 05,2,0,2015-05-23 14:30:00,Xabi Alonso,Cross,907
+31032,35,MissedShots,0.874000015258789,0.47299999237060547,0.03119169920682907,Bastian Schweinsteiger,h,907,OpenPlay,2014,Head,5192,Bayern Munich,Mainz 05,2,0,2015-05-23 14:30:00,Rafinha,Aerial,907
+31035,47,Goal,0.875,0.48,0.12758000195026398,Bastian Schweinsteiger,h,907,OpenPlay,2014,RightFoot,5192,Bayern Munich,Mainz 05,2,0,2015-05-23 14:30:00,Robert Lewandowski,Pass,907
+31048,82,MissedShots,0.9259999847412109,0.46299999237060546,0.10850699990987778,Bastian Schweinsteiger,h,907,FromCorner,2014,Head,5192,Bayern Munich,Mainz 05,2,0,2015-05-23 14:30:00,Mitchell Weiser,Cross,907
+58637,67,SavedShot,0.92,0.5129999923706055,0.47484099864959717,Bastian Schweinsteiger,a,907,OpenPlay,2015,RightFoot,160,Arsenal,Manchester United,3,0,2015-10-04 19:00:00,Wayne Rooney,Pass,907
+55266,28,MissedShots,0.8680000305175781,0.3320000076293945,0.02838519960641861,Bastian Schweinsteiger,h,907,FromCorner,2015,LeftFoot,193,Manchester United,West Bromwich Albion,2,0,2015-11-07 19:00:00,Jesse Lingard,HeadPass,907
+55287,48,MissedShots,0.7419999694824219,0.38,0.021334199234843254,Bastian Schweinsteiger,a,907,OpenPlay,2015,RightFoot,201,Watford,Manchester United,1,2,2015-11-21 16:45:00,Juan Mata,Pass,907
+55301,89,MissedShots,0.985999984741211,0.40299999237060546,0.06039680168032646,Bastian Schweinsteiger,a,907,FromCorner,2015,RightFoot,201,Watford,Manchester United,1,2,2015-11-21 16:45:00,,End,907
+56136,21,BlockedShot,0.905,0.610999984741211,0.1045600026845932,Bastian Schweinsteiger,a,907,OpenPlay,2015,RightFoot,216,Leicester,Manchester United,1,1,2015-11-28 21:30:00,Anthony Martial,Pass,907
+56138,26,MissedShots,0.765,0.6580000305175782,0.018309300765395164,Bastian Schweinsteiger,a,907,OpenPlay,2015,RightFoot,216,Leicester,Manchester United,1,1,2015-11-28 21:30:00,,None,907
+56141,45,Goal,0.9530000305175781,0.515,0.4768480062484741,Bastian Schweinsteiger,a,907,FromCorner,2015,Head,216,Leicester,Manchester United,1,1,2015-11-28 21:30:00,Daley Blind,Cross,907
+56142,48,SavedShot,0.92,0.5029999923706054,0.13061699271202087,Bastian Schweinsteiger,a,907,SetPiece,2015,Head,216,Leicester,Manchester United,1,1,2015-11-28 21:30:00,Ashley Young,Cross,907
+54286,70,MissedShots,0.8469999694824218,0.534000015258789,0.06886819750070572,Bastian Schweinsteiger,h,907,OpenPlay,2015,RightFoot,226,Manchester United,West Ham,0,0,2015-12-05 19:00:00,,None,907
+53327,38,BlockedShot,0.8130000305175781,0.565,0.05285530164837837,Bastian Schweinsteiger,h,907,OpenPlay,2015,RightFoot,267,Manchester United,Chelsea,0,0,2015-12-28 21:30:00,Daley Blind,Pass,907
+53330,42,MissedShots,0.7240000152587891,0.515,0.010674100369215012,Bastian Schweinsteiger,h,907,OpenPlay,2015,LeftFoot,267,Manchester United,Chelsea,0,0,2015-12-28 21:30:00,,Aerial,907
+53339,74,BlockedShot,0.715999984741211,0.425,0.014145799912512302,Bastian Schweinsteiger,h,907,OpenPlay,2015,LeftFoot,267,Manchester United,Chelsea,0,0,2015-12-28 21:30:00,Ashley Young,Pass,907

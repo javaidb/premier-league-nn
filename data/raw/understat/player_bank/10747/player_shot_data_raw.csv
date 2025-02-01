@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+609878,25,MissedShots,0.7809999847412109,0.29100000381469726,0.015457920730113983,James Hill,h,10747,OpenPlay,2024,RightFoot,26792,Bournemouth,Everton,1,0,2025-01-04 15:00:00,Dango Ouattara,HeadPass,10747

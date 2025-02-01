@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,1,Sub,Manchester United,Crystal Palace,1,0,2014-11-08,4661,2014,19371,0,0,0,0,0,0,0,4500
+0,0,0,2,Sub,Everton,Crystal Palace,2,3,2014-09-21,4738,2014,18214,0,0,0,0,0,0.18780000507831573,0.18780000507831573,4500
+0,0,0,27,Sub,Crystal Palace,Burnley,0,0,2014-09-13,4721,2014,17923,0,0,0,0,0,0,0,4500

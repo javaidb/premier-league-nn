@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+18211,74,MissedShots,0.9130000305175782,0.46599998474121096,0.0790041983127594,Gareth McAuley,h,806,FromCorner,2014,Head,4633,West Bromwich Albion,Manchester City,1,3,2014-12-26 15:00:00,Chris Brunt,Cross,806
+18217,88,MissedShots,0.9069999694824219,0.49599998474121093,0.07630269974470139,Gareth McAuley,h,806,FromCorner,2014,Head,4633,West Bromwich Albion,Manchester City,1,3,2014-12-26 15:00:00,Chris Brunt,Cross,806
+19015,62,ShotOnPost,0.965999984741211,0.4779999923706055,0.7579259872436523,Gareth McAuley,a,806,SetPiece,2014,RightFoot,4646,Stoke,West Bromwich Albion,2,0,2014-12-28 15:00:00,,Rebound,806
+18357,69,MissedShots,0.9080000305175782,0.41,0.016612300649285316,Gareth McAuley,h,806,SetPiece,2014,Head,4563,West Bromwich Albion,Hull,1,0,2015-01-10 15:00:00,Chris Baird,Aerial,806
+23170,24,MissedShots,0.909000015258789,0.6519999694824219,0.011079699732363224,Gareth McAuley,h,806,FromCorner,2014,Head,4534,West Bromwich Albion,Swansea,2,0,2015-02-11 20:00:00,Chris Brunt,Aerial,806
+22726,44,MissedShots,0.9130000305175782,0.5220000076293946,0.03443000093102455,Gareth McAuley,h,806,FromCorner,2014,Head,4445,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04 15:00:00,Craig Gardner,Aerial,806
+20316,53,MissedShots,0.865,0.495,0.037278201431035995,Gareth McAuley,h,806,SetPiece,2014,Head,4471,West Bromwich Albion,Liverpool,0,0,2015-04-25 15:00:00,Darren Fletcher,Cross,806
+21901,56,Goal,0.9459999847412109,0.49400001525878906,0.12956799566745758,Gareth McAuley,a,806,FromCorner,2014,Head,4433,Arsenal,West Bromwich Albion,4,1,2015-05-24 15:00:00,Chris Brunt,Cross,806
+53407,78,Goal,0.9230000305175782,0.4209999847412109,0.06050470098853111,Gareth McAuley,h,806,FromCorner,2015,Head,241,West Bromwich Albion,Bournemouth,1,2,2015-12-19 19:00:00,Craig Gardner,Cross,806
+52588,14,MissedShots,0.9269999694824219,0.4279999923706055,0.07246989756822586,Gareth McAuley,h,806,FromCorner,2015,Head,272,West Bromwich Albion,Stoke,2,1,2016-01-02 19:00:00,Chris Brunt,Cross,806
+54172,72,OwnGoal,0.017999999523162842,0.5420000076293945,0,Gareth McAuley,a,806,OpenPlay,2015,LeftFoot,287,Chelsea,West Bromwich Albion,2,2,2016-01-13 23:45:00,,None,806
+60814,65,SavedShot,0.9719999694824218,0.42900001525878906,0.06291410326957703,Gareth McAuley,a,806,FromCorner,2015,Head,351,Leicester,West Bromwich Albion,2,2,2016-03-01 23:45:00,,Aerial,806
+60709,9,MissedShots,0.975999984741211,0.605,0.051570501178503036,Gareth McAuley,a,806,SetPiece,2015,RightFoot,400,Manchester City,West Bromwich Albion,2,1,2016-04-09 20:30:00,Stéphane Sessegnon,Cross,806
+57022,51,SavedShot,0.92,0.5179999923706055,0.12935100495815277,Gareth McAuley,h,806,SetPiece,2015,Head,409,West Bromwich Albion,Watford,0,1,2016-04-16 18:00:00,James McClean,Cross,806
+60658,28,ShotOnPost,0.9640000152587891,0.4159999847412109,0.08720070123672485,Gareth McAuley,a,806,FromCorner,2015,Head,419,Arsenal,West Bromwich Albion,2,0,2016-04-21 22:45:00,James McClean,Cross,806
+57573,24,BlockedShot,0.9519999694824218,0.39099998474121095,0.056546300649642944,Gareth McAuley,h,806,FromCorner,2015,LeftFoot,431,West Bromwich Albion,West Ham,0,3,2016-04-30 18:00:00,James McClean,Cross,806
+112825,8,Goal,0.9890000152587891,0.4640000152587891,0.7650859951972961,Gareth McAuley,h,806,FromCorner,2016,Head,477,West Bromwich Albion,Everton,1,2,2016-08-20 18:00:00,Craig Gardner,Cross,806
+112839,73,MissedShots,0.9230000305175782,0.5420000076293945,0.09305810183286667,Gareth McAuley,h,806,FromCorner,2016,Head,477,West Bromwich Albion,Everton,1,2,2016-08-20 18:00:00,James McClean,Cross,806
+113190,57,SavedShot,0.9569999694824218,0.545,0.458081990480423,Gareth McAuley,a,806,FromCorner,2016,Head,495,Bournemouth,West Bromwich Albion,1,0,2016-09-10 18:00:00,Matt Phillips,Cross,806
+114468,80,Goal,0.9619999694824218,0.495,0.4718570113182068,Gareth McAuley,a,806,FromCorner,2016,RightFoot,548,Liverpool,West Bromwich Albion,2,1,2016-10-22 20:30:00,Hal Robson-Kanu,BallTouch,806
+115056,75,MissedShots,0.845999984741211,0.49700000762939456,0.008779999800026417,Gareth McAuley,h,806,SetPiece,2016,Head,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,Chris Brunt,Aerial,806
+115059,83,MissedShots,0.9219999694824219,0.48200000762939454,0.13839299976825714,Gareth McAuley,h,806,OpenPlay,2016,LeftFoot,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,,Rebound,806
+115058,83,ShotOnPost,0.919000015258789,0.43099998474121093,0.12914599478244781,Gareth McAuley,h,806,OpenPlay,2016,RightFoot,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,Jonathan Leko,Pass,806
+116293,33,Goal,0.93,0.5120000076293946,0.2249779999256134,Gareth McAuley,a,806,FromCorner,2016,Head,2708,Hull,West Bromwich Albion,1,1,2016-11-26 19:00:00,Matt Phillips,Aerial,806
+115955,57,MissedShots,0.8719999694824219,0.46,0.03836119920015335,Gareth McAuley,h,806,SetPiece,2016,Head,3140,West Bromwich Albion,Manchester United,0,2,2016-12-17 21:30:00,Chris Brunt,Cross,806
+116985,61,Goal,0.970999984741211,0.485,0.1414940059185028,Gareth McAuley,h,806,FromCorner,2016,Head,3333,West Bromwich Albion,Hull,3,1,2017-01-02 19:00:00,Matt Phillips,Cross,806
+117868,25,OwnGoal,0.08399999618530274,0.5109999847412109,0,Gareth McAuley,a,806,OpenPlay,2016,LeftFoot,3340,Tottenham,West Bromwich Albion,4,0,2017-01-14 16:30:00,,BallTouch,806
+118951,29,BlockedShot,0.924000015258789,0.48400001525878905,0.09102830290794373,Gareth McAuley,a,806,SetPiece,2016,RightFoot,3363,Middlesbrough,West Bromwich Albion,1,1,2017-01-31 22:45:00,Craig Dawson,None,806
+117254,27,MissedShots,0.8959999847412109,0.4540000152587891,0.07430350035429001,Gareth McAuley,h,806,SetPiece,2016,Head,3375,West Bromwich Albion,Stoke,1,0,2017-02-04 15:00:00,Chris Brunt,Cross,806
+118194,93,Goal,0.9740000152587891,0.5570000076293945,0.10025399923324585,Gareth McAuley,a,806,FromCorner,2016,Head,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Jonny Evans,Aerial,806
+118842,20,Goal,0.975,0.49700000762939456,0.7909910082817078,Gareth McAuley,h,806,FromCorner,2016,RightFoot,3395,West Bromwich Albion,Bournemouth,2,1,2017-02-25 15:00:00,,None,806
+118843,27,MissedShots,0.9390000152587891,0.4779999923706055,0.12450599670410156,Gareth McAuley,h,806,FromCorner,2016,Head,3395,West Bromwich Albion,Bournemouth,2,1,2017-02-25 15:00:00,Chris Brunt,Cross,806
+118847,49,ShotOnPost,0.93,0.585,0.041248198598623276,Gareth McAuley,h,806,FromCorner,2016,Head,3395,West Bromwich Albion,Bournemouth,2,1,2017-02-25 15:00:00,,None,806

@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15404,4,BlockedShot,0.8080000305175781,0.285,0.011133600026369095,Andre Wisdom,h,894,OpenPlay,2014,RightFoot,4725,West Bromwich Albion,Everton,0,2,2014-09-13 15:00:00,,Aerial,894
+17121,76,MissedShots,0.7119999694824218,0.4759999847412109,0.017682500183582306,Andre Wisdom,h,894,OpenPlay,2014,LeftFoot,4708,West Bromwich Albion,Manchester United,2,2,2014-10-20 20:00:00,Stéphane Sessegnon,Pass,894
+17432,78,MissedShots,0.9269999694824219,0.610999984741211,0.31429100036621094,Andre Wisdom,h,894,OpenPlay,2014,LeftFoot,4667,West Bromwich Albion,Newcastle United,0,2,2014-11-09 13:30:00,Victor Anichebe,Pass,894
+52538,49,BlockedShot,0.895,0.45,0.05860479921102524,Andre Wisdom,a,894,OpenPlay,2015,Head,223,Watford,Norwich,2,0,2015-12-05 19:00:00,Robbie Brady,Cross,894
+60012,65,MissedShots,0.8109999847412109,0.48200000762939454,0.08921240270137787,Andre Wisdom,h,894,OpenPlay,2015,LeftFoot,387,Norwich,Newcastle United,3,2,2016-04-02 18:00:00,Robbie Brady,TakeOn,894

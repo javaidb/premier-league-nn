@@ -1,0 +1,3 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+158217,16,SavedShot,0.7759999847412109,0.5579999923706055,0.03582080081105232,Kasey Palmer,a,705,OpenPlay,2017,LeftFoot,7124,Crystal Palace,Huddersfield,0,3,2017-08-12 15:00:00,Tommy Smith,TakeOn,705
+158635,75,BlockedShot,0.840999984741211,0.325,0.04424950107932091,Kasey Palmer,h,705,OpenPlay,2017,RightFoot,7144,Huddersfield,Southampton,0,0,2017-08-26 15:00:00,Tom Ince,BallRecovery,705

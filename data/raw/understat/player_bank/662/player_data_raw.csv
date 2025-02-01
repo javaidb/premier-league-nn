@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+662,Brad Guzan,34,3060,0,0,0,0,0,0,2,0,GK,Aston Villa,0,0,1.1107166977599263,1.1107166977599263,2014
+662,Brad Guzan,28,2520,0,0,0,0.04463290050625801,0,1,2,0,GK,Aston Villa,0,0,1.3892122227698565,1.3445793222635984,2015
+662,Brad Guzan,10,900,0,0,0,0,0,0,0,0,GK,Middlesbrough,0,0,0.5046872161328793,0.5046872161328793,2016

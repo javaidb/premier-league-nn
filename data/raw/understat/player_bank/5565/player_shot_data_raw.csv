@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+115328,0,BlockedShot,0.8180000305175781,0.355,0.03408389911055565,Josh Sims,h,5565,OpenPlay,2016,LeftFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Pierre-Emile Højbjerg,TakeOn,5565
+115331,16,SavedShot,0.9159999847412109,0.49400001525878906,0.3777199983596802,Josh Sims,h,5565,OpenPlay,2016,Head,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Nathan Redmond,Cross,5565
+115343,49,SavedShot,0.774000015258789,0.38599998474121094,0.035932499915361404,Josh Sims,h,5565,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,,None,5565
+115529,65,MissedShots,0.904000015258789,0.315,0.06140640005469322,Josh Sims,a,5565,OpenPlay,2016,LeftFoot,3106,Crystal Palace,Southampton,3,0,2016-12-03 19:00:00,Sofiane Boufal,Pass,5565
+117200,89,SavedShot,0.9680000305175781,0.34299999237060547,0.05411060154438019,Josh Sims,a,5565,OpenPlay,2016,RightFoot,3345,Burnley,Southampton,1,0,2017-01-14 19:00:00,,Rebound,5565
+197352,73,SavedShot,0.845,0.6029999923706054,0.10072500258684158,Josh Sims,a,5565,OpenPlay,2017,RightFoot,7398,Burnley,Southampton,1,1,2018-02-24 15:00:00,Guido Carrillo,Pass,5565
+197356,77,MissedShots,0.8109999847412109,0.61,0.029930800199508667,Josh Sims,a,5565,OpenPlay,2017,RightFoot,7398,Burnley,Southampton,1,1,2018-02-24 15:00:00,Guido Carrillo,HeadPass,5565
+197357,81,MissedShots,0.8119999694824219,0.355,0.020189499482512474,Josh Sims,a,5565,OpenPlay,2017,LeftFoot,7398,Burnley,Southampton,1,1,2018-02-24 15:00:00,Nathan Redmond,Chipped,5565
+198849,35,BlockedShot,0.9080000305175782,0.67,0.05940679833292961,Josh Sims,h,5565,OpenPlay,2017,LeftFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Wesley Hoedt,TakeOn,5565
+198853,45,SavedShot,0.97,0.6819999694824219,0.058022599667310715,Josh Sims,h,5565,OpenPlay,2017,LeftFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Guido Carrillo,Pass,5565
+198857,58,SavedShot,0.855,0.41700000762939454,0.08042430132627487,Josh Sims,h,5565,OpenPlay,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Cédric Soares,Pass,5565
+199967,65,BlockedShot,0.7709999847412109,0.39799999237060546,0.01720450073480606,Josh Sims,a,5565,OpenPlay,2017,RightFoot,7415,Newcastle United,Southampton,3,0,2018-03-10 15:00:00,Shane Long,HeadPass,5565
+199969,75,SavedShot,0.8130000305175781,0.34599998474121096,0.03764810040593147,Josh Sims,a,5565,OpenPlay,2017,LeftFoot,7415,Newcastle United,Southampton,3,0,2018-03-10 15:00:00,Shane Long,Pass,5565
+206895,86,BlockedShot,0.8730000305175781,0.34,0.05960699915885925,Josh Sims,a,5565,OpenPlay,2017,RightFoot,7439,Arsenal,Southampton,3,2,2018-04-08 13:15:00,Charlie Austin,Pass,5565
+209351,90,BlockedShot,0.879000015258789,0.6329999923706054,0.05032540112733841,Josh Sims,h,5565,OpenPlay,2017,RightFoot,7455,Southampton,Chelsea,2,3,2018-04-14 11:30:00,Ryan Bertrand,Cross,5565
+209350,90,SavedShot,0.9119999694824219,0.695,0.052537500858306885,Josh Sims,h,5565,OpenPlay,2017,LeftFoot,7455,Southampton,Chelsea,2,3,2018-04-14 11:30:00,Pierre-Emile Højbjerg,Pass,5565
+284518,45,SavedShot,0.8059999847412109,0.6359999847412109,0.0320420004427433,Josh Sims,h,5565,OpenPlay,2018,RightFoot,9487,Southampton,Tottenham,2,1,2019-03-09 15:00:00,,None,5565
+284530,85,BlockedShot,0.845,0.5570000076293945,0.08750209957361221,Josh Sims,h,5565,OpenPlay,2018,LeftFoot,9487,Southampton,Tottenham,2,1,2019-03-09 15:00:00,Pierre-Emile Højbjerg,Pass,5565
+293533,30,MissedShots,0.8580000305175781,0.3240000152587891,0.06249229982495308,Josh Sims,h,5565,OpenPlay,2018,RightFoot,9529,Southampton,Wolverhampton Wanderers,3,1,2019-04-13 15:00:00,,BallRecovery,5565
+293534,31,MissedShots,0.8230000305175781,0.575,0.4990760087966919,Josh Sims,h,5565,OpenPlay,2018,RightFoot,9529,Southampton,Wolverhampton Wanderers,3,1,2019-04-13 15:00:00,Danny Ings,Throughball,5565
+295447,44,BlockedShot,0.925,0.66,0.0876787006855011,Josh Sims,a,5565,OpenPlay,2018,LeftFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Nathan Redmond,Throughball,5565

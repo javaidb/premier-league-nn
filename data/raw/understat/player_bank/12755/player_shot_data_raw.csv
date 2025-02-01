@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+597145,59,MissedShots,0.9080000305175782,0.46,0.0767478197813034,Cameron Burgess,h,12755,FromCorner,2024,Head,26674,Ipswich,Everton,0,2,2024-10-19 14:00:00,Kalvin Phillips,Cross,12755
+597150,77,MissedShots,0.9080000305175782,0.6079999923706054,0.01383475586771965,Cameron Burgess,h,12755,FromCorner,2024,Head,26674,Ipswich,Everton,0,2,2024-10-19 14:00:00,Sammie Szmodics,Aerial,12755
+598461,37,SavedShot,0.86,0.49400001525878906,0.029029617086052895,Cameron Burgess,a,12755,FromCorner,2024,Head,26685,Brentford,Ipswich,4,3,2024-10-26 14:00:00,Conor Chaplin,Cross,12755
+601997,8,ShotOnPost,0.9830000305175781,0.5979999923706054,0.028325797989964485,Cameron Burgess,a,12755,FromCorner,2024,Head,26709,Tottenham,Ipswich,1,2,2024-11-10 14:00:00,Leif Davis,Cross,12755
+604125,22,BlockedShot,0.9519999694824218,0.49400001525878906,0.132194384932518,Cameron Burgess,a,12755,FromCorner,2024,Head,26728,Nottingham Forest,Ipswich,1,0,2024-11-30 15:00:00,Leif Davis,Cross,12755
+604136,83,BlockedShot,0.9359999847412109,0.544000015258789,0.052048370242118835,Cameron Burgess,a,12755,FromCorner,2024,Head,26728,Nottingham Forest,Ipswich,1,0,2024-11-30 15:00:00,Jack Taylor,Foul,12755
+604137,85,MissedShots,0.88,0.42700000762939455,0.01511572115123272,Cameron Burgess,a,12755,OpenPlay,2024,Head,26728,Nottingham Forest,Ipswich,1,0,2024-11-30 15:00:00,Jack Taylor,Aerial,12755
+606271,18,MissedShots,0.9119999694824219,0.4829999923706055,0.08913636952638626,Cameron Burgess,h,12755,FromCorner,2024,Head,26750,Ipswich,Bournemouth,1,2,2024-12-08 14:00:00,Omari Hutchinson,Cross,12755
+612835,2,BlockedShot,0.9430000305175781,0.4909999847412109,0.12835589051246643,Cameron Burgess,h,12755,FromCorner,2024,Head,26816,Ipswich,Manchester City,0,6,2025-01-19 16:30:00,Ben Johnson,Cross,12755

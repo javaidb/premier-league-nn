@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+113506,81,BlockedShot,0.799000015258789,0.7030000305175781,0.02106359973549843,Viktor Fischer,a,1713,OpenPlay,2016,RightFoot,506,Everton,Middlesbrough,3,1,2016-09-17 20:30:00,Marten de Roon,Pass,1713
+114629,11,MissedShots,0.879000015258789,0.29100000381469726,0.0493432991206646,Viktor Fischer,a,1713,OpenPlay,2016,RightFoot,526,West Ham,Middlesbrough,1,1,2016-10-01 18:00:00,Jordan Rhodes,HeadPass,1713
+114645,55,MissedShots,0.8909999847412109,0.43900001525878907,0.12784600257873535,Viktor Fischer,a,1713,OpenPlay,2016,LeftFoot,526,West Ham,Middlesbrough,1,1,2016-10-01 18:00:00,Cristhian Stuani,Pass,1713
+115729,26,BlockedShot,0.8490000152587891,0.6359999847412109,0.020506300032138824,Viktor Fischer,h,1713,OpenPlay,2016,RightFoot,3114,Middlesbrough,Hull,1,0,2016-12-06 00:00:00,,Aerial,1713
+115730,29,BlockedShot,0.8959999847412109,0.525,0.13311000168323517,Viktor Fischer,h,1713,OpenPlay,2016,RightFoot,3114,Middlesbrough,Hull,1,0,2016-12-06 00:00:00,Álvaro Negredo,Pass,1713
+115731,35,BlockedShot,0.7319999694824219,0.7030000305175781,0.017716800794005394,Viktor Fischer,h,1713,OpenPlay,2016,RightFoot,3114,Middlesbrough,Hull,1,0,2016-12-06 00:00:00,Ben Gibson,Pass,1713
+115733,45,BlockedShot,0.870999984741211,0.6609999847412109,0.0677558034658432,Viktor Fischer,h,1713,OpenPlay,2016,LeftFoot,3114,Middlesbrough,Hull,1,0,2016-12-06 00:00:00,Fabio,Pass,1713
+115738,71,BlockedShot,0.9490000152587891,0.66,0.08140870183706284,Viktor Fischer,h,1713,OpenPlay,2016,LeftFoot,3114,Middlesbrough,Hull,1,0,2016-12-06 00:00:00,Gastón Ramírez,HeadPass,1713
+115742,79,MissedShots,0.8669999694824219,0.669000015258789,0.09160999953746796,Viktor Fischer,h,1713,OpenPlay,2016,RightFoot,3114,Middlesbrough,Hull,1,0,2016-12-06 00:00:00,,TakeOn,1713
+117231,33,BlockedShot,0.9719999694824218,0.32,0.1486620008945465,Viktor Fischer,a,1713,OpenPlay,2016,RightFoot,3123,Southampton,Middlesbrough,1,0,2016-12-11 18:15:00,,TakeOn,1713
+117621,30,SavedShot,0.909000015258789,0.235,0.0303592998534441,Viktor Fischer,h,1713,OpenPlay,2016,RightFoot,3127,Middlesbrough,Liverpool,0,3,2016-12-14 23:45:00,Marten de Roon,Pass,1713
+121838,65,BlockedShot,0.775,0.545,0.03334379941225052,Viktor Fischer,h,1713,OpenPlay,2016,RightFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,Álvaro Negredo,Pass,1713
+166221,84,SavedShot,0.725999984741211,0.509000015258789,0.014871500432491302,Viktor Fischer,a,1713,OpenPlay,2017,RightFoot,8273,VfB Stuttgart,Mainz 05,1,0,2017-08-26 14:30:00,Pablo De Blasis,None,1713
+167213,43,SavedShot,0.9130000305175782,0.645,0.10145000368356705,Viktor Fischer,h,1713,OpenPlay,2017,LeftFoot,8303,Mainz 05,Hoffenheim,2,3,2017-09-20 19:30:00,Levin Öztunali,Pass,1713
+167486,86,BlockedShot,0.915,0.7319999694824219,0.03785799816250801,Viktor Fischer,a,1713,OpenPlay,2017,RightFoot,8318,Wolfsburg,Mainz 05,1,1,2017-09-30 14:30:00,Yoshinori Muto,Pass,1713
+168222,92,BlockedShot,0.9269999694824219,0.710999984741211,0.07786180078983307,Viktor Fischer,a,1713,OpenPlay,2017,LeftFoot,8335,Schalke 04,Mainz 05,2,0,2017-10-20 19:30:00,Alexandru Maxim,Pass,1713
+167510,72,MissedShots,0.7519999694824219,0.7080000305175781,0.015969499945640564,Viktor Fischer,a,1713,OpenPlay,2017,RightFoot,8352,Borussia M.Gladbach,Mainz 05,1,1,2017-11-04 14:30:00,Daniel Brosinski,Pass,1713
+167515,89,MissedShots,0.919000015258789,0.645,0.07133109867572784,Viktor Fischer,a,1713,SetPiece,2017,LeftFoot,8352,Borussia M.Gladbach,Mainz 05,1,1,2017-11-04 14:30:00,,Rebound,1713
+168392,36,BlockedShot,0.8719999694824219,0.41900001525878905,0.07664360105991364,Viktor Fischer,a,1713,OpenPlay,2017,RightFoot,8370,Freiburg,Mainz 05,2,1,2017-11-25 14:30:00,Stefan Bell,Chipped,1713

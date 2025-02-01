@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+311089,37,BlockedShot,0.7440000152587891,0.645,0.016717199236154556,Luke Freeman,h,7713,OpenPlay,2019,LeftFoot,11660,Sheffield United,Crystal Palace,1,0,2019-08-18 14:00:00,Oliver Norwood,Pass,7713
+315776,17,MissedShots,0.7169999694824218,0.49700000762939456,0.0174407996237278,Luke Freeman,a,7713,OpenPlay,2019,LeftFoot,11675,Chelsea,Sheffield United,2,2,2019-08-31 15:00:00,Oliver Norwood,Pass,7713
+365755,91,BlockedShot,0.764000015258789,0.3940000152587891,0.023521900177001953,Luke Freeman,a,7713,OpenPlay,2019,LeftFoot,11938,Newcastle United,Sheffield United,3,0,2020-06-21 13:00:00,Chris Basham,Pass,7713

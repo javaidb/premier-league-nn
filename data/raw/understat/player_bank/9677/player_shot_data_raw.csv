@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+427031,20,BlockedShot,0.9180000305175782,0.37,0.10173799842596054,Kristoffer Ajer,a,9677,OpenPlay,2021,RightFoot,16389,Crystal Palace,Brentford,0,0,2021-08-21 14:00:00,Sergi Canos,Pass,9677
+438204,70,BlockedShot,0.9230000305175782,0.34700000762939454,0.06557229906320572,Kristoffer Ajer,h,9677,OpenPlay,2021,RightFoot,16457,Brentford,Leicester,1,2,2021-10-24 13:00:00,,None,9677
+454680,72,BlockedShot,0.9790000152587891,0.3240000152587891,0.05426369979977608,Kristoffer Ajer,h,9677,OpenPlay,2021,RightFoot,16597,Brentford,Wolverhampton Wanderers,1,2,2022-01-22 15:00:00,,None,9677
+465238,12,BlockedShot,0.9580000305175781,0.5890000152587891,0.047551900148391724,Kristoffer Ajer,a,9677,SetPiece,2021,Head,16683,Chelsea,Brentford,1,4,2022-04-02 14:00:00,,Aerial,9677
+465270,95,MissedShots,0.9719999694824218,0.5879999923706055,0.07733319699764252,Kristoffer Ajer,a,9677,FromCorner,2021,RightFoot,16683,Chelsea,Brentford,1,4,2022-04-02 14:00:00,Christian Eriksen,Cross,9677
+467149,5,BlockedShot,0.87,0.37099998474121093,0.06801679730415344,Kristoffer Ajer,h,9677,OpenPlay,2021,RightFoot,16693,Brentford,West Ham,2,0,2022-04-10 13:00:00,Vitaly Janelt,Pass,9677
+474736,78,Goal,0.9390000152587891,0.425,0.6510999798774719,Kristoffer Ajer,h,9677,OpenPlay,2021,RightFoot,16734,Brentford,Southampton,3,0,2022-05-07 14:00:00,Christian Nørgaard,TakeOn,9677
+490193,43,MissedShots,0.9340000152587891,0.5879999923706055,0.023081500083208084,Kristoffer Ajer,a,9677,FromCorner,2022,Head,18283,Bournemouth,Brentford,0,0,2022-10-01 14:00:00,Mikkel Damsgaard,Aerial,9677
+533194,94,BlockedShot,0.8730000305175781,0.519000015258789,0.09835804998874664,Kristoffer Ajer,a,9677,SetPiece,2023,RightFoot,22287,Fulham,Brentford,0,3,2023-08-19 14:00:00,Vitaly Janelt,Pass,9677
+536246,82,SavedShot,0.955999984741211,0.425,0.11518282443284988,Kristoffer Ajer,h,9677,OpenPlay,2023,LeftFoot,21928,Brentford,Bournemouth,2,2,2023-09-02 14:00:00,Bryan Mbeumo,Cross,9677
+539291,91,MissedShots,0.9119999694824219,0.4279999923706055,0.032106876373291016,Kristoffer Ajer,h,9677,SetPiece,2023,Head,21949,Brentford,Everton,1,3,2023-09-23 16:30:00,Bryan Mbeumo,Aerial,9677
+541726,84,MissedShots,0.9580000305175781,0.4109999847412109,0.027814136818051338,Kristoffer Ajer,a,9677,FromCorner,2023,Head,21963,Nottingham Forest,Brentford,1,1,2023-10-01 13:00:00,Bryan Mbeumo,Aerial,9677
+544055,33,MissedShots,0.9569999694824218,0.504000015258789,0.1343444585800171,Kristoffer Ajer,h,9677,FromCorner,2023,Head,21977,Brentford,Burnley,3,0,2023-10-21 14:00:00,Mathias Jensen,Cross,9677
+549941,76,BlockedShot,0.8580000305175781,0.4640000152587891,0.10581009089946747,Kristoffer Ajer,h,9677,OpenPlay,2023,LeftFoot,22015,Brentford,Arsenal,0,1,2023-11-25 17:30:00,Bryan Mbeumo,Pass,9677
+569478,82,Goal,0.899000015258789,0.46,0.22550159692764282,Kristoffer Ajer,a,9677,FromCorner,2023,Head,22177,Burnley,Brentford,2,1,2024-03-16 15:00:00,Shandon Baptiste,Cross,9677
+571115,56,BlockedShot,0.9219999694824219,0.6519999694824219,0.0643608495593071,Kristoffer Ajer,h,9677,OpenPlay,2023,LeftFoot,22187,Brentford,Manchester United,1,1,2024-03-30 20:00:00,,Rebound,9677
+571131,98,Goal,0.9209999847412109,0.53,0.486374169588089,Kristoffer Ajer,h,9677,OpenPlay,2023,RightFoot,22187,Brentford,Manchester United,1,1,2024-03-30 20:00:00,Ivan Toney,Pass,9677
+574990,31,MissedShots,0.914000015258789,0.5329999923706055,0.03243289142847061,Kristoffer Ajer,a,9677,FromCorner,2023,Head,22230,Luton,Brentford,1,5,2024-04-20 14:00:00,Mathias Jensen,Aerial,9677
+574996,55,MissedShots,0.9109999847412109,0.5229999923706055,0.10814666002988815,Kristoffer Ajer,a,9677,SetPiece,2023,Head,22230,Luton,Brentford,1,5,2024-04-20 14:00:00,Sergio Reguilón,Cross,9677
+575000,73,SavedShot,0.8919999694824219,0.5970000076293945,0.03713499754667282,Kristoffer Ajer,a,9677,OpenPlay,2023,Head,22230,Luton,Brentford,1,5,2024-04-20 14:00:00,Sergio Reguilón,Cross,9677
+585158,30,SavedShot,0.955999984741211,0.61,0.373125821352005,Kristoffer Ajer,h,9677,OpenPlay,2024,RightFoot,26609,Brentford,Crystal Palace,2,1,2024-08-18 13:00:00,Bryan Mbeumo,Throughball,9677
+608355,7,MissedShots,0.9290000152587891,0.5409999847412109,0.05398409813642502,Kristoffer Ajer,h,9677,FromCorner,2024,Head,26766,Brentford,Nottingham Forest,0,2,2024-12-21 15:00:00,Bryan Mbeumo,Aerial,9677
+608366,61,SavedShot,0.92,0.4979999923706055,0.3727675676345825,Kristoffer Ajer,h,9677,OpenPlay,2024,RightFoot,26766,Brentford,Nottingham Forest,0,2,2024-12-21 15:00:00,Bryan Mbeumo,HeadPass,9677

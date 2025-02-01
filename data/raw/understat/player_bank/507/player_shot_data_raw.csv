@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14960,30,BlockedShot,0.84,0.6120000076293945,0.05118269845843315,Per Mertesacker,a,507,OpenPlay,2014,RightFoot,4778,Leicester,Arsenal,1,1,2014-08-31 16:00:00,Aaron Ramsey,Chipped,507
+14980,82,MissedShots,0.8969999694824219,0.5570000076293945,0.043094001710414886,Per Mertesacker,a,507,FromCorner,2014,Head,4778,Leicester,Arsenal,1,1,2014-08-31 16:00:00,Mesut Özil,Cross,507
+15689,57,SavedShot,0.9080000305175782,0.43599998474121093,0.08371440321207047,Per Mertesacker,h,507,SetPiece,2014,Head,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Mesut Özil,Cross,507
+16748,88,MissedShots,0.960999984741211,0.61,0.014587200246751308,Per Mertesacker,h,507,FromCorner,2014,Head,4652,Arsenal,Burnley,3,0,2014-11-01 15:00:00,Santiago Cazorla,Aerial,507
+17182,48,MissedShots,0.91,0.5220000076293946,0.07880879938602448,Per Mertesacker,a,507,FromCorner,2014,Head,4668,Swansea,Arsenal,2,1,2014-11-09 16:00:00,Santiago Cazorla,Cross,507
+16051,5,MissedShots,0.8959999847412109,0.4929999923706055,0.019223399460315704,Per Mertesacker,h,507,FromCorner,2014,Head,4675,Arsenal,Manchester United,1,2,2014-11-22 17:30:00,Alexis Sánchez,Aerial,507
+16069,48,MissedShots,0.9209999847412109,0.47,0.10111299902200699,Per Mertesacker,h,507,FromCorner,2014,RightFoot,4675,Arsenal,Manchester United,1,2,2014-11-22 17:30:00,Alexis Sánchez,Cross,507
+18607,52,MissedShots,0.835999984741211,0.46599998474121096,0.06545069813728333,Per Mertesacker,a,507,SetPiece,2014,RightFoot,4679,West Bromwich Albion,Arsenal,0,1,2014-11-29 12:45:00,Olivier Giroud,Pass,507
+17632,7,ShotOnPost,0.915,0.66,0.01176149956882,Per Mertesacker,h,507,FromCorner,2014,Head,4615,Arsenal,Newcastle United,4,1,2014-12-13 17:30:00,Santiago Cazorla,Cross,507
+24232,40,BlockedShot,0.9319999694824219,0.425,0.07530629634857178,Per Mertesacker,a,507,FromCorner,2014,Head,4490,Queens Park Rangers,Arsenal,1,2,2015-03-04 19:45:00,Mesut Özil,Cross,507
+24247,66,BlockedShot,0.92,0.4370000076293945,0.11013399809598923,Per Mertesacker,a,507,FromCorner,2014,LeftFoot,4490,Queens Park Rangers,Arsenal,1,2,2015-03-04 19:45:00,Olivier Giroud,HeadPass,507
+21742,68,MissedShots,0.8490000152587891,0.48200000762939454,0.0649489015340805,Per Mertesacker,h,507,SetPiece,2014,RightFoot,4477,Arsenal,Chelsea,0,0,2015-04-26 16:00:00,,None,507
+21889,29,SavedShot,0.9290000152587891,0.44,0.10043299943208694,Per Mertesacker,h,507,SetPiece,2014,LeftFoot,4433,Arsenal,West Bromwich Albion,4,1,2015-05-24 15:00:00,Mesut Özil,Cross,507
+51484,32,SavedShot,0.9119999694824219,0.5279999923706055,0.08038999885320663,Per Mertesacker,h,507,FromCorner,2015,Head,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Mesut Özil,Cross,507
+54040,78,MissedShots,0.905,0.43900001525878907,0.0882176011800766,Per Mertesacker,h,507,SetPiece,2015,RightFoot,199,Arsenal,Tottenham,1,1,2015-11-08 20:00:00,Alexis Sánchez,HeadPass,507
+52311,33,MissedShots,0.99,0.5420000076293945,0.7384679913520813,Per Mertesacker,h,507,FromCorner,2015,Head,266,Arsenal,Bournemouth,2,0,2015-12-28 21:30:00,,Rebound,507
+54231,84,BlockedShot,0.9490000152587891,0.6140000152587891,0.03413809835910797,Per Mertesacker,h,507,FromCorner,2015,Head,338,Arsenal,Leicester,2,1,2016-02-14 16:00:00,Alexis Sánchez,Cross,507
+54232,84,MissedShots,0.9119999694824219,0.56,0.27862998843193054,Per Mertesacker,h,507,FromCorner,2015,OtherBodyPart,338,Arsenal,Leicester,2,1,2016-02-14 16:00:00,Mesut Özil,Chipped,507
+56515,8,SavedShot,0.9330000305175781,0.504000015258789,0.06283210217952728,Per Mertesacker,a,507,FromCorner,2015,Head,424,Sunderland,Arsenal,0,0,2016-04-24 17:05:00,Mesut Özil,Aerial,507
+56527,36,MissedShots,0.905,0.49900001525878906,0.02650810033082962,Per Mertesacker,a,507,FromCorner,2015,Head,424,Sunderland,Arsenal,0,0,2016-04-24 17:05:00,Mesut Özil,Aerial,507
+56835,47,MissedShots,0.875,0.539000015258789,0.039778899401426315,Per Mertesacker,h,507,SetPiece,2015,Head,432,Arsenal,Norwich,1,0,2016-04-30 20:30:00,Mesut Özil,Cross,507
+161758,38,Goal,0.9380000305175781,0.49700000762939456,0.06898889690637589,Per Mertesacker,a,507,FromCorner,2017,Head,7198,Watford,Arsenal,2,1,2017-10-14 17:30:00,Granit Xhaka,Aerial,507
+159687,7,SavedShot,0.8819999694824219,0.4879999923706055,0.018756600096821785,Per Mertesacker,h,507,SetPiece,2017,Head,7209,Arsenal,Swansea,2,1,2017-10-28 15:00:00,Alexis Sánchez,Aerial,507

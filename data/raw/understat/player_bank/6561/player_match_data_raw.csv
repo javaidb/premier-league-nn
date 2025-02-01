@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,8,Sub,Stoke,Crystal Palace,1,2,2018-05-05,7481,2017,237189,0,0,0,0,0,0,0,6561
+0,1,0.07220909744501114,14,Sub,Stoke,Burnley,1,1,2018-04-22,7466,2017,234776,0,0,0,0,0.07220909744501114,0.07220909744501114,0,6561
+0,1,0.0765426978468895,20,Sub,Stoke,Tottenham,1,2,2018-04-07,7446,2017,230442,0,0,0,0,0.0765426978468895,0,0,6561
+0,0,0,24,Sub,Leicester,Stoke,1,1,2018-02-24,7396,2017,218985,0,0,0,0,0,0,0,6561

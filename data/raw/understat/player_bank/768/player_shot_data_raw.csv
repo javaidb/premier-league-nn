@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14648,4,SavedShot,0.78,0.32299999237060545,0.021586399525403976,Vurnon Anita,a,768,FromCorner,2014,RightFoot,4759,Aston Villa,Newcastle United,0,0,2014-08-23 12:45:00,Jack Colback,Pass,768
+14659,32,MissedShots,0.735999984741211,0.515,0.017450200393795967,Vurnon Anita,a,768,OpenPlay,2014,RightFoot,4759,Aston Villa,Newcastle United,0,0,2014-08-23 12:45:00,Rémy Cabella,Pass,768
+16518,43,MissedShots,0.725,0.47400001525878904,0.014471899718046188,Vurnon Anita,h,768,FromCorner,2014,RightFoot,4704,Newcastle United,Leicester,1,0,2014-10-18 15:00:00,,None,768
+17911,69,BlockedShot,0.7080000305175781,0.6790000152587891,0.008555980399250984,Vurnon Anita,a,768,SetPiece,2014,RightFoot,4636,Manchester United,Newcastle United,3,1,2014-12-26 15:00:00,,None,768
+17589,88,BlockedShot,0.7290000152587891,0.475,0.010893300175666809,Vurnon Anita,a,768,OpenPlay,2014,RightFoot,4565,Chelsea,Newcastle United,2,0,2015-01-10 15:00:00,Jack Colback,Pass,768
+18923,1,MissedShots,0.7819999694824219,0.38299999237060545,0.022618399932980537,Vurnon Anita,h,768,OpenPlay,2014,LeftFoot,4577,Newcastle United,Southampton,1,2,2015-01-17 17:30:00,Rémy Cabella,Pass,768
+23263,18,BlockedShot,0.815,0.3039999961853027,0.02288929931819439,Vurnon Anita,a,768,OpenPlay,2014,LeftFoot,4581,Hull,Newcastle United,0,3,2015-01-31 12:45:00,Rémy Cabella,Pass,768
+23269,46,MissedShots,0.7390000152587891,0.509000015258789,0.02564929984509945,Vurnon Anita,a,768,OpenPlay,2014,RightFoot,4581,Hull,Newcastle United,0,3,2015-01-31 12:45:00,,None,768
+51637,61,MissedShots,0.7830000305175782,0.5690000152587891,0.022700300440192223,Vurnon Anita,h,768,FromCorner,2015,RightFoot,87,Newcastle United,Southampton,2,2,2015-08-09 16:30:00,Gabriel Obertan,Pass,768
+58034,59,MissedShots,0.7580000305175781,0.5070000076293946,0.018355699256062508,Vurnon Anita,a,768,FromCorner,2015,RightFoot,130,West Ham,Newcastle United,2,0,2015-09-14 23:00:00,,None,768
+58429,17,BlockedShot,0.7609999847412109,0.6079999923706054,0.011944900266826153,Vurnon Anita,h,768,OpenPlay,2015,RightFoot,148,Newcastle United,Chelsea,2,2,2015-09-26 20:30:00,Daryl Janmaat,Aerial,768
+59404,73,MissedShots,0.825999984741211,0.37099998474121093,0.030832599848508835,Vurnon Anita,a,768,FromCorner,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,,None,768
+56018,10,SavedShot,0.7340000152587891,0.515,0.015294400043785572,Vurnon Anita,a,768,FromCorner,2015,LeftFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,,None,768
+59785,30,Goal,0.9030000305175782,0.295,0.03306810185313225,Vurnon Anita,h,768,OpenPlay,2015,LeftFoot,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,Moussa Sissoko,Chipped,768
+57424,45,MissedShots,0.8769999694824219,0.30100000381469727,0.02076449990272522,Vurnon Anita,a,768,OpenPlay,2015,RightFoot,423,Liverpool,Newcastle United,2,2,2016-04-23 18:00:00,Papiss Demba Cissé,Cross,768
+57265,84,BlockedShot,0.8769999694824219,0.34400001525878904,0.07213249802589417,Vurnon Anita,h,768,OpenPlay,2015,LeftFoot,428,Newcastle United,Crystal Palace,1,0,2016-04-30 18:00:00,Jack Colback,Pass,768

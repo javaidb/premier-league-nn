@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+55498,68,MissedShots,0.779000015258789,0.5029999923706054,0.03252929821610451,Gary O&#039;Neil,h,796,OpenPlay,2015,RightFoot,194,Norwich,Swansea,1,0,2015-11-07 19:00:00,,None,796
+52472,62,MissedShots,0.8340000152587891,0.855999984741211,0.02230359986424446,Gary O&#039;Neil,h,796,FromCorner,2015,RightFoot,220,Norwich,Arsenal,1,1,2015-11-29 20:15:00,Wes Hoolahan,Pass,796
+55656,62,MissedShots,0.8680000305175781,0.53,0.423007994890213,Gary O&#039;Neil,a,796,OpenPlay,2015,RightFoot,326,Aston Villa,Norwich,2,0,2016-02-06 19:00:00,Steven Naismith,Pass,796
+60921,76,BlockedShot,0.785,0.34200000762939453,0.023721199482679367,Gary O&#039;Neil,h,796,OpenPlay,2015,RightFoot,353,Norwich,Chelsea,1,2,2016-03-01 23:45:00,Wes Hoolahan,Pass,796
+60881,36,BlockedShot,0.8580000305175781,0.2989999961853027,0.047503501176834106,Gary O&#039;Neil,a,796,OpenPlay,2015,RightFoot,378,West Bromwich Albion,Norwich,0,1,2016-03-19 19:00:00,Matthew Jarvis,TakeOn,796
+56792,86,MissedShots,0.8069999694824219,0.5159999847412109,0.061523500829935074,Gary O&#039;Neil,h,796,OpenPlay,2015,RightFoot,405,Norwich,Sunderland,0,3,2016-04-16 15:45:00,Wes Hoolahan,Pass,796
+56833,43,MissedShots,0.8159999847412109,0.6,0.05205480009317398,Gary O&#039;Neil,a,796,OpenPlay,2015,RightFoot,432,Arsenal,Norwich,1,0,2016-04-30 20:30:00,Nathan Redmond,Pass,796
+56840,70,BlockedShot,0.8019999694824219,0.6079999923706054,0.02546359971165657,Gary O&#039;Neil,a,796,FromCorner,2015,RightFoot,432,Arsenal,Norwich,1,0,2016-04-30 20:30:00,,BallTouch,796
+56648,26,BlockedShot,0.845999984741211,0.32799999237060545,0.04437969997525215,Gary O&#039;Neil,h,796,OpenPlay,2015,RightFoot,437,Norwich,Manchester United,0,1,2016-05-07 15:45:00,Nathan Redmond,Pass,796
+56659,65,MissedShots,0.85,0.39599998474121095,0.05974080041050911,Gary O&#039;Neil,h,796,OpenPlay,2015,LeftFoot,437,Norwich,Manchester United,0,1,2016-05-07 15:45:00,,None,796
+56425,94,BlockedShot,0.8069999694824219,0.730999984741211,0.06107949838042259,Gary O&#039;Neil,h,796,DirectFreekick,2015,RightFoot,448,Norwich,Watford,4,2,2016-05-11 22:45:00,,Standard,796

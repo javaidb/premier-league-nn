@@ -1,0 +1,7 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,3,Sub,Nantes,Troyes,2,0,2021-10-03,17908,2021,487100,0,0,0,0,0,0,0,6283
+0,0,0,6,Sub,Troyes,Angers,1,1,2021-09-26,17901,2021,485410,0,0,0,0,0,0,0,6283
+0,0,0,11,Sub,Troyes,Monaco,1,2,2021-08-29,17855,2021,479373,0,0,0,0,0,0.016508599743247032,0.016508599743247032,6283
+0,0,0,16,Sub,Strasbourg,Troyes,1,1,2021-08-22,17848,2021,477644,0,0,0,0,0,0,0,6283
+0,0,0,14,Sub,Clermont Foot,Troyes,2,0,2021-08-15,17837,2021,476073,0,0,0,0,0,0,0,6283
+0,1,0.07800620049238205,22,Sub,Burnley,Crystal Palace,1,0,2017-09-10,7156,2017,176893,0,0,0,0,0.07800620049238205,0.07800620049238205,0,6283

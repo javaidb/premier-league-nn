@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+479343,73,SavedShot,0.924000015258789,0.6719999694824219,0.04521220177412033,Joe Ayodele-Aribo,a,10766,OpenPlay,2022,LeftFoot,18207,Tottenham,Southampton,4,1,2022-08-06 14:00:00,Mohammed Salisu,Chipped,10766
+480346,61,SavedShot,0.8980000305175782,0.620999984741211,0.016461599618196487,Joe Ayodele-Aribo,h,10766,OpenPlay,2022,Head,18215,Southampton,Leeds,2,2,2022-08-13 14:00:00,Moussa Djenepo,Cross,10766
+480347,65,BlockedShot,0.879000015258789,0.48700000762939455,0.057377200573682785,Joe Ayodele-Aribo,h,10766,OpenPlay,2022,LeftFoot,18215,Southampton,Leeds,2,2,2022-08-13 14:00:00,,Aerial,10766
+480349,71,Goal,0.9319999694824219,0.47900001525878905,0.702688992023468,Joe Ayodele-Aribo,h,10766,OpenPlay,2022,RightFoot,18215,Southampton,Leeds,2,2,2022-08-13 14:00:00,Adam Armstrong,TakeOn,10766
+483402,65,SavedShot,0.945,0.5529999923706055,0.12207400053739548,Joe Ayodele-Aribo,h,10766,OpenPlay,2022,Head,18232,Southampton,Manchester United,0,1,2022-08-27 11:30:00,Adam Armstrong,Cross,10766
+485916,17,BlockedShot,0.9540000152587891,0.45,0.14997999370098114,Joe Ayodele-Aribo,a,10766,OpenPlay,2022,RightFoot,18256,Wolverhampton Wanderers,Southampton,1,0,2022-09-03 14:00:00,Che Adams,Pass,10766
+490118,48,Goal,0.855999984741211,0.6070000076293945,0.07834599912166595,Joe Ayodele-Aribo,h,10766,OpenPlay,2022,LeftFoot,18290,Southampton,Everton,1,2,2022-10-01 14:00:00,Che Adams,Pass,10766
+490134,77,BlockedShot,0.93,0.40900001525878904,0.04167630150914192,Joe Ayodele-Aribo,h,10766,FromCorner,2022,Head,18290,Southampton,Everton,1,2,2022-10-01 14:00:00,Duje Caleta-Car,HeadPass,10766
+494390,29,SavedShot,0.9580000305175781,0.46900001525878904,0.6521850228309631,Joe Ayodele-Aribo,a,10766,OpenPlay,2022,LeftFoot,18313,Bournemouth,Southampton,0,1,2022-10-19 18:30:00,Kyle Walker-Peters,Pass,10766
+495526,35,BlockedShot,0.9580000305175781,0.620999984741211,0.025169799104332924,Joe Ayodele-Aribo,h,10766,FromCorner,2022,Head,18328,Southampton,Arsenal,1,1,2022-10-23 13:00:00,James Ward-Prowse,Cross,10766
+495538,69,SavedShot,0.8980000305175782,0.6569999694824219,0.04398899897933006,Joe Ayodele-Aribo,h,10766,FromCorner,2022,LeftFoot,18328,Southampton,Arsenal,1,1,2022-10-23 13:00:00,Romain Perraud,Pass,10766
+496503,77,SavedShot,0.8430000305175781,0.3029999923706055,0.03157519921660423,Joe Ayodele-Aribo,a,10766,OpenPlay,2022,LeftFoot,18336,Crystal Palace,Southampton,1,0,2022-10-29 14:00:00,Samuel Edozie,BallTouch,10766
+502462,67,BlockedShot,0.8480000305175781,0.295,0.030271999537944794,Joe Ayodele-Aribo,h,10766,OpenPlay,2022,LeftFoot,18391,Southampton,Nottingham Forest,0,1,2023-01-04 19:30:00,Kyle Walker-Peters,Pass,10766
+519430,11,MissedShots,0.8780000305175781,0.5729999923706055,0.05744839832186699,Joe Ayodele-Aribo,h,10766,FromCorner,2022,LeftFoot,18508,Southampton,Crystal Palace,0,2,2023-04-15 14:00:00,Theo Walcott,Pass,10766
+584796,62,BlockedShot,0.830999984741211,0.34799999237060547,0.03836316242814064,Joe Ayodele-Aribo,a,10766,OpenPlay,2024,LeftFoot,26606,Newcastle United,Southampton,1,0,2024-08-17 14:00:00,Flynn Downes,Rebound,10766
+589144,6,ShotOnPost,0.980999984741211,0.47299999237060547,0.6077521443367004,Joe Ayodele-Aribo,a,10766,FromCorner,2024,OtherBodyPart,26623,Brentford,Southampton,3,1,2024-08-31 14:00:00,Yukinari Sugawara,CornerAwarded,10766
+595041,83,BlockedShot,0.779000015258789,0.6669999694824219,0.02118414081633091,Joe Ayodele-Aribo,a,10766,OpenPlay,2024,LeftFoot,26661,Bournemouth,Southampton,3,1,2024-09-30 19:00:00,Flynn Downes,Pass,10766
+595527,37,BlockedShot,0.855,0.38,0.07706234604120255,Joe Ayodele-Aribo,a,10766,OpenPlay,2024,LeftFoot,26666,Arsenal,Southampton,3,1,2024-10-05 14:00:00,Tyler Dibling,Pass,10766
+597100,4,SavedShot,0.9309999847412109,0.5820000076293945,0.022319572046399117,Joe Ayodele-Aribo,h,10766,FromCorner,2024,Head,26678,Southampton,Leicester,2,3,2024-10-19 14:00:00,Ryan Manning,Aerial,10766
+597107,27,Goal,0.9209999847412109,0.5279999923706055,0.5211701989173889,Joe Ayodele-Aribo,h,10766,OpenPlay,2024,LeftFoot,26678,Southampton,Leicester,2,3,2024-10-19 14:00:00,Kyle Walker-Peters,Pass,10766
+597114,51,SavedShot,0.895,0.5720000076293945,0.013943806290626526,Joe Ayodele-Aribo,h,10766,FromCorner,2024,Head,26678,Southampton,Leicester,2,3,2024-10-19 14:00:00,Ryan Manning,Aerial,10766
+600226,59,SavedShot,0.9219999694824219,0.34299999237060547,0.01420652773231268,Joe Ayodele-Aribo,h,10766,OpenPlay,2024,Head,26699,Southampton,Everton,1,0,2024-11-02 15:00:00,Adam Armstrong,Aerial,10766
+600227,60,MissedShots,0.7580000305175781,0.3340000152587891,0.017436964437365532,Joe Ayodele-Aribo,h,10766,OpenPlay,2024,LeftFoot,26699,Southampton,Everton,1,0,2024-11-02 15:00:00,Kyle Walker-Peters,BallRecovery,10766
+605270,1,SavedShot,0.914000015258789,0.5209999847412109,0.5055637955665588,Joe Ayodele-Aribo,h,10766,OpenPlay,2024,LeftFoot,26741,Southampton,Chelsea,1,5,2024-12-04 19:30:00,,None,10766
+605272,10,Goal,0.95,0.5209999847412109,0.5794606804847717,Joe Ayodele-Aribo,h,10766,OpenPlay,2024,LeftFoot,26741,Southampton,Chelsea,1,5,2024-12-04 19:30:00,Kyle Walker-Peters,Pass,10766
+611886,27,BlockedShot,0.8209999847412109,0.545,0.05961767956614494,Joe Ayodele-Aribo,a,10766,OpenPlay,2024,LeftFoot,26811,Manchester United,Southampton,3,1,2025-01-16 20:00:00,Tyler Dibling,BallTouch,10766

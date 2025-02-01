@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14895,49,MissedShots,0.735,0.32599998474121095,0.01488099992275238,Kieran Richardson,h,899,OpenPlay,2014,LeftFoot,4776,Aston Villa,Hull,2,1,2014-08-31 13:30:00,,None,899
+16553,46,SavedShot,0.879000015258789,0.5790000152587891,0.39486199617385864,Kieran Richardson,h,899,OpenPlay,2014,LeftFoot,4694,Aston Villa,Manchester City,0,2,2014-10-04 17:30:00,Charles N&#039;Zogbia,Pass,899
+16295,22,MissedShots,0.725999984741211,0.44799999237060545,0.01528059970587492,Kieran Richardson,a,899,OpenPlay,2014,RightFoot,4700,Everton,Aston Villa,3,0,2014-10-18 15:00:00,,None,899
+16303,51,BlockedShot,0.8130000305175781,0.5529999923706055,0.030370699241757393,Kieran Richardson,a,899,OpenPlay,2014,RightFoot,4700,Everton,Aston Villa,3,0,2014-10-18 15:00:00,Charles N&#039;Zogbia,Rebound,899
+16305,58,BlockedShot,0.705,0.629000015258789,0.01008679997175932,Kieran Richardson,a,899,OpenPlay,2014,LeftFoot,4700,Everton,Aston Villa,3,0,2014-10-18 15:00:00,Tom Cleverley,Pass,899
+19804,51,SavedShot,0.97,0.54,0.13671299815177917,Kieran Richardson,h,899,OpenPlay,2014,RightFoot,4607,Aston Villa,Leicester,2,1,2014-12-07 16:00:00,Gabriel Agbonlahor,Cross,899
+19814,87,MissedShots,0.895,0.64,0.10205899924039841,Kieran Richardson,h,899,OpenPlay,2014,LeftFoot,4607,Aston Villa,Leicester,2,1,2014-12-07 16:00:00,Jack Grealish,Pass,899
+17934,87,BlockedShot,0.8019999694824219,0.4759999847412109,0.042135100811719894,Kieran Richardson,a,899,OpenPlay,2014,LeftFoot,4567,Leicester,Aston Villa,1,0,2015-01-10 15:00:00,Christian Benteke,Pass,899
+22648,80,SavedShot,0.7140000152587891,0.7830000305175782,0.011273199692368507,Kieran Richardson,a,899,OpenPlay,2014,LeftFoot,4475,Manchester City,Aston Villa,3,2,2015-04-25 17:30:00,Carlos Sánchez,Pass,899
+59213,2,SavedShot,0.8630000305175781,0.19299999237060547,0.056216999888420105,Kieran Richardson,h,899,DirectFreekick,2015,LeftFoot,171,Aston Villa,Swansea,1,2,2015-10-24 18:00:00,,Standard,899
+53791,57,SavedShot,0.8130000305175781,0.7169999694824218,0.012956799939274788,Kieran Richardson,a,899,OpenPlay,2015,RightFoot,206,Everton,Aston Villa,4,0,2015-11-21 19:00:00,Jordan Veretout,Chipped,899
+53585,7,MissedShots,0.7440000152587891,0.655,0.011835499666631222,Kieran Richardson,a,899,OpenPlay,2015,RightFoot,263,Norwich,Aston Villa,2,0,2015-12-28 19:00:00,Jordan Ayew,Aerial,899
+53589,30,MissedShots,0.7859999847412109,0.7419999694824219,0.018876800313591957,Kieran Richardson,a,899,OpenPlay,2015,LeftFoot,263,Norwich,Aston Villa,2,0,2015-12-28 19:00:00,Jordan Veretout,Pass,899
+54512,78,BlockedShot,0.7730000305175782,0.5509999847412109,0.023038199171423912,Kieran Richardson,a,899,OpenPlay,2015,LeftFoot,315,West Ham,Aston Villa,2,0,2016-02-02 23:45:00,Gabriel Agbonlahor,Pass,899
+60446,27,MissedShots,0.8119999694824219,0.6980000305175781,0.021598299965262413,Kieran Richardson,h,899,OpenPlay,2015,LeftFoot,398,Aston Villa,Bournemouth,1,2,2016-04-09 18:00:00,Idrissa Gueye,Pass,899
+56568,28,MissedShots,0.7759999847412109,0.644000015258789,0.010974899865686893,Kieran Richardson,a,899,SetPiece,2015,LeftFoot,406,Manchester United,Aston Villa,1,0,2016-04-16 18:00:00,,Aerial,899

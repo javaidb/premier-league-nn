@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14880,87,MissedShots,0.9269999694824219,0.345,0.05362829938530922,Bobby Zamora,a,4396,OpenPlay,2014,LeftFoot,4766,Tottenham,Queens Park Rangers,4,0,2014-08-24 13:30:00,,None,4396
+16675,42,MissedShots,0.785,0.3120000076293945,0.061980798840522766,Bobby Zamora,h,4396,DirectFreekick,2014,LeftFoot,4706,Queens Park Rangers,Liverpool,2,3,2014-10-19 13:30:00,,Standard,4396
+16778,75,MissedShots,0.9159999847412109,0.48700000762939455,0.06487330049276352,Bobby Zamora,h,4396,OpenPlay,2014,Head,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Eduardo Vargas,Pass,4396
+17089,65,MissedShots,0.8469999694824218,0.485,0.026464000344276428,Bobby Zamora,a,4396,OpenPlay,2014,Head,4670,Newcastle United,Queens Park Rangers,1,0,2014-11-22 15:00:00,Karl Henry,Chipped,4396
+18042,79,Goal,0.9359999847412109,0.46799999237060547,0.4583899974822998,Bobby Zamora,a,4396,OpenPlay,2014,LeftFoot,4618,Everton,Queens Park Rangers,3,1,2014-12-15 20:00:00,,Rebound,4396
+19708,73,BlockedShot,0.8830000305175781,0.3890000152587891,0.08885589987039566,Bobby Zamora,a,4396,OpenPlay,2014,LeftFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Charlie Austin,Pass,4396
+19826,21,MissedShots,0.9490000152587891,0.5370000076293945,0.5285829901695251,Bobby Zamora,h,4396,OpenPlay,2014,Head,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Eduardo Vargas,Cross,4396
+19832,36,MissedShots,0.7190000152587891,0.33599998474121096,0.014139600098133087,Bobby Zamora,h,4396,OpenPlay,2014,LeftFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,None,4396
+19025,5,MissedShots,0.55,0.5179999923706055,0.0077585200779139996,Bobby Zamora,h,4396,OpenPlay,2014,LeftFoot,4574,Queens Park Rangers,Manchester United,0,2,2015-01-17 15:00:00,,BallRecovery,4396
+23689,78,BlockedShot,0.865,0.7630000305175781,0.022510899230837822,Bobby Zamora,a,4396,OpenPlay,2014,RightFoot,4584,Stoke,Queens Park Rangers,3,1,2015-01-31 15:00:00,,Dispossessed,4396
+23485,3,MissedShots,0.8619999694824219,0.55,0.027187200263142586,Bobby Zamora,a,4396,SetPiece,2014,Head,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,Mauricio Isla,Cross,4396
+23487,6,BlockedShot,0.860999984741211,0.7069999694824218,0.03792930021882057,Bobby Zamora,a,4396,OpenPlay,2014,LeftFoot,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,Leroy Fer,Pass,4396
+23493,27,MissedShots,0.6980000305175781,0.49,0.01683340035378933,Bobby Zamora,a,4396,OpenPlay,2014,LeftFoot,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,Steven Caulker,BallRecovery,4396
+23499,34,MissedShots,0.915,0.43099998474121093,0.11169800162315369,Bobby Zamora,a,4396,OpenPlay,2014,Head,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,Matt Phillips,Cross,4396
+23502,45,Goal,0.85,0.4779999923706055,0.06838829815387726,Bobby Zamora,a,4396,OpenPlay,2014,RightFoot,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,Matt Phillips,Cross,4396
+24019,51,MissedShots,0.740999984741211,0.5179999923706055,0.017250899225473404,Bobby Zamora,a,4396,OpenPlay,2014,RightFoot,4540,Hull,Queens Park Rangers,2,1,2015-02-21 15:00:00,,None,4396
+23636,0,ShotOnPost,0.9030000305175782,0.58,0.05609489977359772,Bobby Zamora,h,4396,OpenPlay,2014,Head,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,Karl Henry,Cross,4396
+23645,42,MissedShots,0.779000015258789,0.8019999694824219,0.013216099701821804,Bobby Zamora,h,4396,OpenPlay,2014,RightFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,Charlie Austin,BallRecovery,4396
+23653,56,SavedShot,0.9590000152587891,0.71,0.023951200768351555,Bobby Zamora,h,4396,SetPiece,2014,LeftFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,Robert Green,Pass,4396
+22244,31,MissedShots,0.955999984741211,0.4929999923706055,0.4816870093345642,Bobby Zamora,h,4396,OpenPlay,2014,Head,4512,Queens Park Rangers,Everton,1,2,2015-03-22 16:00:00,Charlie Austin,Cross,4396
+22252,72,MissedShots,0.7719999694824219,0.4259999847412109,0.025834400206804276,Bobby Zamora,h,4396,OpenPlay,2014,RightFoot,4512,Queens Park Rangers,Everton,1,2,2015-03-22 16:00:00,,None,4396
+22725,42,Goal,0.85,0.24799999237060547,0.06442250311374664,Bobby Zamora,a,4396,OpenPlay,2014,LeftFoot,4445,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04 15:00:00,Matt Phillips,Chipped,4396
+22727,45,BlockedShot,0.7959999847412109,0.2539999961853027,0.01914980076253414,Bobby Zamora,a,4396,OpenPlay,2014,LeftFoot,4445,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04 15:00:00,,TakeOn,4396
+20560,1,MissedShots,0.7580000305175781,0.9169999694824219,0.0073604099452495575,Bobby Zamora,h,4396,OpenPlay,2014,LeftFoot,4458,Queens Park Rangers,Chelsea,0,1,2015-04-12 13:30:00,,None,4396
+22898,21,BlockedShot,0.8930000305175781,0.38799999237060545,0.10560999810695648,Bobby Zamora,h,4396,OpenPlay,2014,LeftFoot,4469,Queens Park Rangers,West Ham,0,0,2015-04-25 15:00:00,Nedum Onuoha,Pass,4396
+22906,45,SavedShot,0.889000015258789,0.42700000762939455,0.08423779904842377,Bobby Zamora,h,4396,OpenPlay,2014,LeftFoot,4469,Queens Park Rangers,West Ham,0,0,2015-04-25 15:00:00,Clint Hill,HeadPass,4396
+22910,53,MissedShots,0.8630000305175781,0.46,0.0900098979473114,Bobby Zamora,h,4396,OpenPlay,2014,RightFoot,4469,Queens Park Rangers,West Ham,0,0,2015-04-25 15:00:00,Steven Caulker,Pass,4396
+21503,32,MissedShots,0.8859999847412109,0.655,0.024620400741696358,Bobby Zamora,a,4396,OpenPlay,2014,LeftFoot,4416,Manchester City,Queens Park Rangers,6,0,2015-05-10 13:30:00,Matt Phillips,Cross,4396
+21506,37,SavedShot,0.9469999694824218,0.5659999847412109,0.38438498973846436,Bobby Zamora,a,4396,SetPiece,2014,Head,4416,Manchester City,Queens Park Rangers,6,0,2015-05-10 13:30:00,,Rebound,4396

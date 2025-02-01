@@ -1,0 +1,79 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+24654,13,Goal,0.9159999847412109,0.515,0.043584100902080536,Sokratis,a,371,FromCorner,2014,Head,5456,Augsburg,Borussia Dortmund,2,3,2014-08-29 19:30:00,Marco Reus,Aerial,371
+24658,33,BlockedShot,0.92,0.5429999923706055,0.04964999854564667,Sokratis,a,371,FromCorner,2014,Head,5456,Augsburg,Borussia Dortmund,2,3,2014-08-29 19:30:00,Kevin Großkreutz,Aerial,371
+24659,34,MissedShots,0.9330000305175781,0.49599998474121093,0.06631919741630554,Sokratis,a,371,FromCorner,2014,Head,5456,Augsburg,Borussia Dortmund,2,3,2014-08-29 19:30:00,Marco Reus,Aerial,371
+26154,52,BlockedShot,0.9,0.4929999923706055,0.028051700443029404,Sokratis,a,371,FromCorner,2014,Head,5397,FC Cologne,Borussia Dortmund,2,1,2014-10-18 14:30:00,Shinji Kagawa,Aerial,371
+26161,71,MissedShots,0.8969999694824219,0.5509999847412109,0.017576800659298897,Sokratis,a,371,FromCorner,2014,Head,5397,FC Cologne,Borussia Dortmund,2,1,2014-10-18 14:30:00,Marco Reus,Aerial,371
+29782,70,MissedShots,0.8780000305175781,0.46799999237060547,0.01441620010882616,Sokratis,h,371,FromCorner,2014,Head,5266,Borussia Dortmund,Augsburg,0,1,2015-02-04 19:00:00,Marco Reus,Aerial,371
+29786,88,MissedShots,0.8969999694824219,0.46799999237060547,0.024018000811338425,Sokratis,h,371,FromCorner,2014,Head,5266,Borussia Dortmund,Augsburg,0,1,2015-02-04 19:00:00,,Aerial,371
+31918,75,SavedShot,0.8819999694824219,0.28299999237060547,0.05849349871277809,Sokratis,a,371,OpenPlay,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Marco Reus,Pass,371
+31923,85,MissedShots,0.9519999694824218,0.495,0.14150699973106384,Sokratis,a,371,SetPiece,2014,Head,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Sebastian Kehl,Rebound,371
+32248,49,BlockedShot,0.9159999847412109,0.415,0.023907599970698357,Sokratis,h,371,SetPiece,2014,Head,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,Marco Reus,Aerial,371
+31624,9,MissedShots,0.8880000305175781,0.53,0.03993159905076027,Sokratis,h,371,FromCorner,2014,Head,5217,Borussia Dortmund,Paderborn,3,0,2015-04-18 14:30:00,Erik Durm,HeadPass,371
+30317,78,MissedShots,0.909000015258789,0.5429999923706055,0.09181710332632065,Sokratis,a,371,OpenPlay,2014,RightFoot,5179,Wolfsburg,Borussia Dortmund,2,1,2015-05-16 14:30:00,Neven Subotic,HeadPass,371
+76088,12,MissedShots,0.9169999694824219,0.4909999847412109,0.0460829995572567,Sokratis,h,371,FromCorner,2015,Head,1027,Borussia Dortmund,Borussia M.Gladbach,4,0,2015-08-15 20:30:00,Henrikh Mkhitaryan,Aerial,371
+76099,41,SavedShot,0.6890000152587891,0.4520000076293945,0.01523829996585846,Sokratis,h,371,OpenPlay,2015,RightFoot,1027,Borussia Dortmund,Borussia M.Gladbach,4,0,2015-08-15 20:30:00,Shinji Kagawa,Pass,371
+78177,1,MissedShots,0.904000015258789,0.45799999237060546,0.06874100118875504,Sokratis,h,371,FromCorner,2015,RightFoot,1109,Borussia Dortmund,Augsburg,5,1,2015-10-25 18:30:00,Marco Reus,Cross,371
+78677,68,SavedShot,0.8969999694824219,0.39799999237060546,0.013912900350987911,Sokratis,h,371,FromCorner,2015,Head,1127,Borussia Dortmund,Schalke 04,3,2,2015-11-08 18:30:00,Henrikh Mkhitaryan,Aerial,371
+79974,17,Goal,0.91,0.4759999847412109,0.08404850214719772,Sokratis,a,371,FromCorner,2015,Head,1169,FC Cologne,Borussia Dortmund,2,1,2015-12-19 18:30:00,Henrikh Mkhitaryan,Cross,371
+80327,15,MissedShots,0.9480000305175781,0.5209999847412109,0.12411700189113617,Sokratis,h,371,SetPiece,2015,Head,1185,Borussia Dortmund,Ingolstadt,2,0,2016-01-30 18:30:00,Henrikh Mkhitaryan,Chipped,371
+80675,1,SavedShot,0.6680000305175782,0.3220000076293945,0.011192400008440018,Sokratis,a,371,OpenPlay,2015,RightFoot,1196,Hertha Berlin,Borussia Dortmund,0,0,2016-02-06 18:30:00,Julian Weigl,Pass,371
+81056,37,MissedShots,0.9280000305175782,0.5279999923706055,0.056161098182201385,Sokratis,a,371,FromCorner,2015,Head,1216,Bayer Leverkusen,Borussia Dortmund,0,1,2016-02-21 18:30:00,Henrikh Mkhitaryan,Aerial,371
+81968,59,BlockedShot,0.9309999847412109,0.524000015258789,0.12067800015211105,Sokratis,h,371,FromCorner,2015,Head,1254,Borussia Dortmund,Mainz 05,2,0,2016-03-13 20:30:00,Marco Reus,Cross,371
+82648,82,BlockedShot,0.9730000305175781,0.315,0.037235599011182785,Sokratis,a,371,FromCorner,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Pierre-Emerick Aubameyang,BallTouch,371
+128610,20,MissedShots,0.9280000305175782,0.425,0.027743900194764137,Sokratis,h,371,FromCorner,2016,Head,1363,Borussia Dortmund,Freiburg,3,1,2016-09-23 22:30:00,Mario Götze,Aerial,371
+128632,87,MissedShots,0.9259999847412109,0.585,0.061932001262903214,Sokratis,h,371,FromCorner,2016,Head,1363,Borussia Dortmund,Freiburg,3,1,2016-09-23 22:30:00,Raphael Guerreiro,Cross,371
+131182,57,BlockedShot,0.8440000152587891,0.5370000076293945,0.05735870078206062,Sokratis,a,371,FromCorner,2016,RightFoot,3203,FC Cologne,Borussia Dortmund,1,1,2016-12-10 18:30:00,,None,371
+131198,43,BlockedShot,0.875,0.47400001525878904,0.05137820169329643,Sokratis,a,371,FromCorner,2016,RightFoot,3739,Mainz 05,Borussia Dortmund,1,1,2017-01-29 19:30:00,Marco Reus,Cross,371
+131781,87,BlockedShot,0.9319999694824219,0.4929999923706055,0.12351299822330475,Sokratis,a,371,FromCorner,2016,LeftFoot,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,Ousmane Dembélé,Cross,371
+131784,89,MissedShots,0.905,0.4909999847412109,0.07710230350494385,Sokratis,a,371,FromCorner,2016,RightFoot,3751,Darmstadt,Borussia Dortmund,2,1,2017-02-11 14:30:00,Ousmane Dembélé,Cross,371
+132350,12,Goal,0.9380000305175781,0.539000015258789,0.42012301087379456,Sokratis,a,371,SetPiece,2016,Head,3770,Freiburg,Borussia Dortmund,0,3,2017-02-25 14:30:00,Raphael Guerreiro,Chipped,371
+132365,54,BlockedShot,0.9009999847412109,0.575999984741211,0.053658198565244675,Sokratis,a,371,FromCorner,2016,Head,3770,Freiburg,Borussia Dortmund,0,3,2017-02-25 14:30:00,Pierre-Emerick Aubameyang,Cross,371
+134281,9,MissedShots,0.915,0.61,0.013252999633550644,Sokratis,h,371,FromCorner,2016,Head,3794,Borussia Dortmund,Ingolstadt,1,0,2017-03-17 19:30:00,Gonzalo Castro,Aerial,371
+134298,53,MissedShots,0.915,0.445,0.07436340302228928,Sokratis,h,371,FromCorner,2016,RightFoot,3794,Borussia Dortmund,Ingolstadt,1,0,2017-03-17 19:30:00,Raphael Guerreiro,Cross,371
+134436,22,MissedShots,0.879000015258789,0.44299999237060544,0.029122300446033478,Sokratis,a,371,FromCorner,2016,Head,3827,Bayern Munich,Borussia Dortmund,4,1,2017-04-08 17:30:00,Raphael Guerreiro,Cross,371
+134965,33,Goal,0.8159999847412109,0.345,0.046315401792526245,Sokratis,h,371,OpenPlay,2016,RightFoot,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Sven Bender,TakeOn,371
+134966,46,MissedShots,0.8919999694824219,0.4779999923706055,0.05399499833583832,Sokratis,h,371,FromCorner,2016,Head,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Marco Reus,Cross,371
+134971,63,BlockedShot,0.909000015258789,0.3920000076293945,0.029088100418448448,Sokratis,h,371,FromCorner,2016,Head,3830,Borussia Dortmund,Eintracht Frankfurt,3,1,2017-04-15 14:30:00,Ousmane Dembélé,Cross,371
+134156,25,MissedShots,0.879000015258789,0.524000015258789,0.034158799797296524,Sokratis,h,371,FromCorner,2016,Head,3848,Borussia Dortmund,FC Cologne,0,0,2017-04-29 14:30:00,Shinji Kagawa,Cross,371
+134166,52,BlockedShot,0.915,0.5220000076293946,0.04059790074825287,Sokratis,h,371,FromCorner,2016,Head,3848,Borussia Dortmund,FC Cologne,0,0,2017-04-29 14:30:00,Gonzalo Castro,Aerial,371
+134168,59,MissedShots,0.9009999847412109,0.57,0.015879299491643906,Sokratis,h,371,FromCorner,2016,Head,3848,Borussia Dortmund,FC Cologne,0,0,2017-04-29 14:30:00,Gonzalo Castro,Aerial,371
+133243,61,MissedShots,0.9069999694824219,0.4779999923706055,0.029393300414085388,Sokratis,a,371,FromCorner,2016,Head,3870,Augsburg,Borussia Dortmund,1,1,2017-05-13 14:30:00,Raphael Guerreiro,Aerial,371
+127673,2,MissedShots,0.8769999694824219,0.509000015258789,0.014582499861717224,Sokratis,h,371,FromCorner,2016,Head,3875,Borussia Dortmund,Werder Bremen,4,3,2017-05-20 14:30:00,Ousmane Dembélé,Aerial,371
+127702,69,MissedShots,0.9130000305175782,0.49700000762939456,0.04036949947476387,Sokratis,h,371,FromCorner,2016,Head,3875,Borussia Dortmund,Werder Bremen,4,3,2017-05-20 14:30:00,Ousmane Dembélé,Aerial,371
+166281,35,MissedShots,0.69,0.3890000152587891,0.014434600248932838,Sokratis,a,371,OpenPlay,2017,RightFoot,8280,Freiburg,Borussia Dortmund,0,0,2017-09-09 14:30:00,Ömer Toprak,Pass,371
+166292,57,BlockedShot,0.68,0.415,0.012640699744224548,Sokratis,a,371,OpenPlay,2017,RightFoot,8280,Freiburg,Borussia Dortmund,0,0,2017-09-09 14:30:00,Nuri Sahin,Pass,371
+166298,68,BlockedShot,0.6780000305175782,0.4,0.013815700076520443,Sokratis,a,371,OpenPlay,2017,RightFoot,8280,Freiburg,Borussia Dortmund,0,0,2017-09-09 14:30:00,Ömer Toprak,Pass,371
+166303,80,MissedShots,0.6769999694824219,0.38599998474121094,0.008526049554347992,Sokratis,a,371,OpenPlay,2017,RightFoot,8280,Freiburg,Borussia Dortmund,0,0,2017-09-09 14:30:00,,None,371
+166306,91,BlockedShot,0.774000015258789,0.30700000762939456,0.021044600754976273,Sokratis,a,371,OpenPlay,2017,RightFoot,8280,Freiburg,Borussia Dortmund,0,0,2017-09-09 14:30:00,Gonzalo Castro,Pass,371
+166510,45,Goal,0.9530000305175781,0.53,0.5776730179786682,Sokratis,h,371,FromCorner,2017,RightFoot,8294,Borussia Dortmund,FC Cologne,5,0,2017-09-17 17:00:00,,None,371
+167361,18,SavedShot,0.8180000305175781,0.42700000762939455,0.05589989945292473,Sokratis,h,371,OpenPlay,2017,RightFoot,8310,Borussia Dortmund,Borussia M.Gladbach,6,1,2017-09-23 17:30:00,,BlockedPass,371
+184088,54,Goal,0.9069999694824219,0.3770000076293945,0.08225440233945847,Sokratis,a,371,SetPiece,2017,RightFoot,8401,Mainz 05,Borussia Dortmund,0,2,2017-12-12 19:30:00,,Rebound,371
+184141,32,MissedShots,0.92,0.4,0.054522398859262466,Sokratis,h,371,SetPiece,2017,Head,8403,Borussia Dortmund,Hoffenheim,2,1,2017-12-16 17:30:00,Shinji Kagawa,Chipped,371
+184143,44,BlockedShot,0.8830000305175781,0.47400001525878904,0.04267530143260956,Sokratis,h,371,FromCorner,2017,Head,8403,Borussia Dortmund,Hoffenheim,2,1,2017-12-16 17:30:00,Christian Pulisic,Cross,371
+188410,56,MissedShots,0.9209999847412109,0.5129999923706055,0.10791599750518799,Sokratis,a,371,FromCorner,2017,Head,8423,Hertha Berlin,Borussia Dortmund,1,1,2018-01-19 19:30:00,Shinji Kagawa,Cross,371
+207446,27,MissedShots,0.9059999847412109,0.5359999847412109,0.02546600066125393,Sokratis,h,371,FromCorner,2017,Head,8511,Borussia Dortmund,VfB Stuttgart,3,0,2018-04-08 13:30:00,Marco Reus,Aerial,371
+209155,75,BlockedShot,0.9309999847412109,0.40299999237060546,0.05420970171689987,Sokratis,a,371,FromCorner,2017,Head,8524,Schalke 04,Borussia Dortmund,2,0,2018-04-15 13:30:00,André Schürrle,Cross,371
+210574,31,SavedShot,0.9080000305175782,0.519000015258789,0.08166050165891647,Sokratis,h,371,FromCorner,2017,Head,8529,Borussia Dortmund,Bayer Leverkusen,4,0,2018-04-21 16:30:00,Marco Reus,Cross,371
+212552,92,BlockedShot,0.8009999847412109,0.33,0.029081599786877632,Sokratis,a,371,OpenPlay,2017,RightFoot,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,Jadon Sancho,Pass,371
+233872,19,MissedShots,0.925,0.59,0.017221199348568916,Sokratis,a,371,FromCorner,2018,Head,9238,Newcastle United,Arsenal,1,2,2018-09-15 14:00:00,Mesut Özil,Aerial,371
+250725,60,MissedShots,0.925,0.4420000076293945,0.03385249897837639,Sokratis,h,371,FromCorner,2018,Head,9336,Arsenal,Tottenham,4,2,2018-12-02 14:05:00,Granit Xhaka,Aerial,371
+250731,80,MissedShots,0.8,0.37099998474121093,0.021245799958705902,Sokratis,h,371,SetPiece,2018,LeftFoot,9336,Arsenal,Tottenham,4,2,2018-12-02 14:05:00,,Rebound,371
+251935,4,MissedShots,0.89,0.4470000076293945,0.01492759957909584,Sokratis,a,371,FromCorner,2018,Head,9386,Brighton,Arsenal,1,1,2018-12-26 17:15:00,Granit Xhaka,Aerial,371
+274149,35,BlockedShot,0.875,0.720999984741211,0.05718979984521866,Sokratis,h,371,OpenPlay,2018,RightFoot,9406,Arsenal,Fulham,4,1,2019-01-01 15:00:00,Sead Kolasinac,TakeOn,371
+274790,7,MissedShots,0.9269999694824219,0.44799999237060545,0.041218701750040054,Sokratis,h,371,FromCorner,2018,Head,9426,Arsenal,Chelsea,2,0,2019-01-19 17:30:00,Granit Xhaka,Aerial,371
+275844,12,MissedShots,0.909000015258789,0.544000015258789,0.06887059658765793,Sokratis,h,371,FromCorner,2018,Head,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Lucas Torreira,Cross,371
+285258,73,BlockedShot,0.925,0.4370000076293945,0.03104819916188717,Sokratis,h,371,FromCorner,2018,Head,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Granit Xhaka,Aerial,371
+290918,63,MissedShots,0.9130000305175782,0.5570000076293945,0.023427799344062805,Sokratis,h,371,FromCorner,2018,Head,9507,Arsenal,Newcastle United,2,0,2019-04-01 20:00:00,Mesut Özil,Aerial,371
+292590,57,BlockedShot,0.92,0.545,0.03535139933228493,Sokratis,a,371,FromCorner,2018,Head,9524,Everton,Arsenal,1,0,2019-04-07 14:05:00,Henrikh Mkhitaryan,Aerial,371
+296802,79,Goal,0.96,0.53,0.48318201303482056,Sokratis,a,371,FromCorner,2018,Head,9497,Wolverhampton Wanderers,Arsenal,3,1,2019-04-24 19:45:00,Granit Xhaka,Cross,371
+321250,70,MissedShots,0.9230000305175782,0.5509999847412109,0.08706130087375641,Sokratis,h,371,FromCorner,2019,Head,11702,Arsenal,Aston Villa,3,2,2019-09-22 15:30:00,Nicolas Pepe,Cross,371
+327977,6,Goal,0.9269999694824219,0.385,0.08006670325994492,Sokratis,h,371,FromCorner,2019,RightFoot,11733,Arsenal,Crystal Palace,2,2,2019-10-27 16:30:00,Granit Xhaka,HeadPass,371
+329163,86,MissedShots,0.8669999694824219,0.44599998474121094,0.017750699073076248,Sokratis,h,371,FromCorner,2019,Head,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,Mesut Özil,Cross,371
+332327,48,BlockedShot,0.86,0.5,0.055793799459934235,Sokratis,h,371,SetPiece,2019,LeftFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Mesut Özil,Cross,371
+332336,79,BlockedShot,0.894000015258789,0.5129999923706055,0.05295480042695999,Sokratis,h,371,FromCorner,2019,Head,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Mesut Özil,Cross,371
+351598,41,Goal,0.9690000152587891,0.4909999847412109,0.7903550267219543,Sokratis,h,371,FromCorner,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,,Rebound,371
+353497,21,ShotOnPost,0.9390000152587891,0.5109999847412109,0.36652299761772156,Sokratis,h,371,FromCorner,2019,Head,11923,Arsenal,West Ham,1,0,2020-03-07 15:00:00,Pierre-Emerick Aubameyang,Aerial,371
+557414,76,SavedShot,0.96,0.47299999237060547,0.061295732855796814,Sokratis,a,371,FromCorner,2023,Head,22871,Celta Vigo,Real Betis,2,1,2024-01-03 18:15:00,Sergi Altimira,CornerAwarded,371
+568941,47,OwnGoal,0.04400000095367432,0.5509999847412109,0,Sokratis,h,371,OpenPlay,2023,OtherBodyPart,22957,Real Betis,Villarreal,2,3,2024-03-10 20:00:00,,None,371
+583385,51,MissedShots,0.9030000305175782,0.509000015258789,0.08543812483549118,Sokratis,a,371,FromCorner,2023,Head,23063,Real Madrid,Real Betis,0,0,2024-05-25 19:00:00,Juan Miranda,Cross,371

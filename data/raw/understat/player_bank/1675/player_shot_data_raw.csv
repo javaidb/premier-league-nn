@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+113028,10,MissedShots,0.935,0.674000015258789,0.05161169916391373,Ashley Fletcher,a,1675,OpenPlay,2016,LeftFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Mark Noble,Chipped,1675
+113035,29,MissedShots,0.9319999694824219,0.5270000076293946,0.1442209929227829,Ashley Fletcher,a,1675,OpenPlay,2016,Head,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Gökhan Töre,Cross,1675
+113052,92,MissedShots,0.7609999847412109,0.624000015258789,0.013797800056636333,Ashley Fletcher,a,1675,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,,None,1675
+113970,76,BlockedShot,0.9519999694824218,0.49900001525878906,0.10994400084018707,Ashley Fletcher,h,1675,OpenPlay,2016,LeftFoot,519,West Ham,Southampton,0,3,2016-09-25 19:00:00,Simone Zaza,None,1675
+115310,86,SavedShot,0.965,0.41,0.13583099842071533,Ashley Fletcher,a,1675,OpenPlay,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Michail Antonio,TakeOn,1675
+116138,54,MissedShots,0.8059999847412109,0.634000015258789,0.029317300766706467,Ashley Fletcher,h,1675,OpenPlay,2016,RightFoot,3111,West Ham,Arsenal,1,5,2016-12-03 21:30:00,Winston Reid,Chipped,1675
+116140,61,SavedShot,0.885,0.46599998474121096,0.05541279911994934,Ashley Fletcher,h,1675,OpenPlay,2016,Head,3111,West Ham,Arsenal,1,5,2016-12-03 21:30:00,Álvaro Arbeloa,Cross,1675
+121711,95,SavedShot,0.9059999847412109,0.37099998474121093,0.4353199899196625,Ashley Fletcher,h,1675,OpenPlay,2016,RightFoot,3499,West Ham,Tottenham,1,0,2017-05-05 20:00:00,Robert Snodgrass,Pass,1675
+120697,68,SavedShot,0.9840000152587891,0.6430000305175781,0.06154489889740944,Ashley Fletcher,h,1675,OpenPlay,2016,LeftFoot,3509,West Ham,Liverpool,0,4,2017-05-14 14:15:00,James Collins,BallRecovery,1675
+439628,87,SavedShot,0.895,0.4979999923706055,0.4210030138492584,Ashley Fletcher,h,1675,OpenPlay,2021,LeftFoot,16474,Watford,Southampton,0,1,2021-10-30 14:00:00,Joshua King,Pass,1675
+444669,75,MissedShots,0.8159999847412109,0.7080000305175781,0.016650699079036713,Ashley Fletcher,a,1675,OpenPlay,2021,RightFoot,16502,Leicester,Watford,4,2,2021-11-28 14:00:00,,None,1675

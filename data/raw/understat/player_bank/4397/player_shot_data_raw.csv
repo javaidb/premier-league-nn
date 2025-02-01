@@ -1,0 +1,43 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15307,47,SavedShot,0.825999984741211,0.4929999923706055,0.07022450119256973,Niko Kranjcar,a,4397,OpenPlay,2014,RightFoot,4727,Manchester United,Queens Park Rangers,4,0,2014-09-14 16:00:00,Armand Traore,Pass,4397
+15311,59,BlockedShot,0.7130000305175781,0.5229999923706055,0.007335680071264505,Niko Kranjcar,a,4397,OpenPlay,2014,RightFoot,4727,Manchester United,Queens Park Rangers,4,0,2014-09-14 16:00:00,Leroy Fer,Chipped,4397
+15316,65,MissedShots,0.774000015258789,0.6480000305175782,0.02000739984214306,Niko Kranjcar,a,4397,OpenPlay,2014,LeftFoot,4727,Manchester United,Queens Park Rangers,4,0,2014-09-14 16:00:00,Matt Phillips,Pass,4397
+15319,79,MissedShots,0.7819999694824219,0.3129999923706055,0.017229000106453896,Niko Kranjcar,a,4397,OpenPlay,2014,RightFoot,4727,Manchester United,Queens Park Rangers,4,0,2014-09-14 16:00:00,Mauricio Isla,Pass,4397
+15597,32,MissedShots,0.720999984741211,0.6880000305175781,0.013286099769175053,Niko Kranjcar,h,4397,OpenPlay,2014,RightFoot,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,Charlie Austin,Pass,4397
+15602,53,BlockedShot,0.8569999694824219,0.3,0.04153440147638321,Niko Kranjcar,h,4397,OpenPlay,2014,RightFoot,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,Karl Henry,Pass,4397
+15606,59,MissedShots,0.794000015258789,0.42400001525878905,0.03909379988908768,Niko Kranjcar,h,4397,OpenPlay,2014,LeftFoot,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,Mauricio Isla,Pass,4397
+15609,77,BlockedShot,0.7530000305175781,0.5570000076293945,0.023234300315380096,Niko Kranjcar,h,4397,OpenPlay,2014,LeftFoot,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,Leroy Fer,TakeOn,4397
+15614,87,Goal,0.785,0.43900001525878907,0.09645819664001465,Niko Kranjcar,h,4397,DirectFreekick,2014,RightFoot,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,,Standard,4397
+15616,91,SavedShot,0.6890000152587891,0.649000015258789,0.015991000458598137,Niko Kranjcar,h,4397,SetPiece,2014,LeftFoot,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,Karl Henry,Pass,4397
+15838,44,MissedShots,0.7440000152587891,0.34200000762939453,0.016719400882720947,Niko Kranjcar,a,4397,OpenPlay,2014,RightFoot,4741,Southampton,Queens Park Rangers,2,1,2014-09-27 15:00:00,Mauricio Isla,Pass,4397
+15854,84,ShotOnPost,0.7440000152587891,0.5670000076293945,0.05762949958443642,Niko Kranjcar,a,4397,DirectFreekick,2014,RightFoot,4741,Southampton,Queens Park Rangers,2,1,2014-09-27 15:00:00,,Standard,4397
+17754,69,SavedShot,0.7580000305175781,0.6170000076293946,0.06059090048074722,Niko Kranjcar,a,4397,DirectFreekick,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,,Standard,4397
+17087,61,BlockedShot,0.720999984741211,0.27,0.01089709997177124,Niko Kranjcar,a,4397,OpenPlay,2014,RightFoot,4670,Newcastle United,Queens Park Rangers,1,0,2014-11-22 15:00:00,Leroy Fer,Pass,4397
+18053,5,BlockedShot,0.755,0.5179999923706055,0.06882079690694809,Niko Kranjcar,h,4397,DirectFreekick,2014,RightFoot,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,,Standard,4397
+18057,9,BlockedShot,0.8009999847412109,0.31,0.023127499967813492,Niko Kranjcar,h,4397,OpenPlay,2014,RightFoot,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,,None,4397
+18067,34,BlockedShot,0.7290000152587891,0.5629999923706055,0.010087699629366398,Niko Kranjcar,h,4397,OpenPlay,2014,RightFoot,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,,Aerial,4397
+18096,74,BlockedShot,0.95,0.725999984741211,0.06309720128774643,Niko Kranjcar,h,4397,OpenPlay,2014,RightFoot,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,Charlie Austin,Pass,4397
+19186,1,MissedShots,0.8019999694824219,0.6519999694824219,0.08633270114660263,Niko Kranjcar,a,4397,DirectFreekick,2014,RightFoot,4592,Swansea,Queens Park Rangers,2,0,2014-12-02 19:45:00,,Standard,4397
+20117,71,BlockedShot,0.7659999847412109,0.43400001525878906,0.03718059882521629,Niko Kranjcar,h,4397,OpenPlay,2014,RightFoot,4600,Queens Park Rangers,Burnley,2,0,2014-12-06 15:00:00,,None,4397
+18044,83,BlockedShot,0.77,0.5990000152587891,0.026347100734710693,Niko Kranjcar,a,4397,OpenPlay,2014,LeftFoot,4618,Everton,Queens Park Rangers,3,1,2014-12-15 20:00:00,Joey Barton,Pass,4397
+18045,87,SavedShot,0.745,0.5359999847412109,0.019678400829434395,Niko Kranjcar,a,4397,OpenPlay,2014,RightFoot,4618,Everton,Queens Park Rangers,3,1,2014-12-15 20:00:00,Eduardo Vargas,Pass,4397
+19702,66,MissedShots,0.7569999694824219,0.6630000305175782,0.010027600452303886,Niko Kranjcar,a,4397,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,,Aerial,4397
+19707,73,MissedShots,0.7809999847412109,0.6569999694824219,0.014434600248932838,Niko Kranjcar,a,4397,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,,None,4397
+19711,87,MissedShots,0.730999984741211,0.5670000076293945,0.013086100108921528,Niko Kranjcar,a,4397,OpenPlay,2014,LeftFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Junior Hoilett,TakeOn,4397
+19715,94,MissedShots,0.7030000305175781,0.5029999923706054,0.039111800491809845,Niko Kranjcar,a,4397,DirectFreekick,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,,Standard,4397
+23673,35,Goal,0.9490000152587891,0.5709999847412109,0.39924201369285583,Niko Kranjcar,a,4397,OpenPlay,2014,RightFoot,4584,Stoke,Queens Park Rangers,3,1,2015-01-31 15:00:00,,Rebound,4397
+23679,52,MissedShots,0.7659999847412109,0.68,0.010518199764192104,Niko Kranjcar,a,4397,OpenPlay,2014,RightFoot,4584,Stoke,Queens Park Rangers,3,1,2015-01-31 15:00:00,,Aerial,4397
+23484,1,BlockedShot,0.8009999847412109,0.5029999923706054,0.04503209888935089,Niko Kranjcar,a,4397,OpenPlay,2014,RightFoot,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,Leroy Fer,HeadPass,4397
+23506,58,MissedShots,0.779000015258789,0.4,0.02248550020158291,Niko Kranjcar,a,4397,SetPiece,2014,RightFoot,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,Joey Barton,Pass,4397
+23505,58,BlockedShot,0.8059999847412109,0.3579999923706055,0.09473159909248352,Niko Kranjcar,a,4397,DirectFreekick,2014,RightFoot,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,,Standard,4397
+23517,87,SavedShot,0.7959999847412109,0.6179999923706054,0.04549570009112358,Niko Kranjcar,a,4397,OpenPlay,2014,RightFoot,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,Yun Suk-Young,Pass,4397
+24245,65,MissedShots,0.77,0.45,0.01207009982317686,Niko Kranjcar,h,4397,SetPiece,2014,RightFoot,4490,Queens Park Rangers,Arsenal,1,2,2015-03-04 19:45:00,,Aerial,4397
+22607,88,BlockedShot,0.850999984741211,0.6869999694824219,0.04316769912838936,Niko Kranjcar,a,4397,FromCorner,2014,RightFoot,4493,Crystal Palace,Queens Park Rangers,3,1,2015-03-14 12:45:00,Adel Taarabt,Pass,4397
+22608,89,MissedShots,0.745,0.509000015258789,0.017717499285936356,Niko Kranjcar,a,4397,OpenPlay,2014,RightFoot,4493,Crystal Palace,Queens Park Rangers,3,1,2015-03-14 12:45:00,Adel Taarabt,Pass,4397
+22721,36,MissedShots,0.9269999694824219,0.43900001525878907,0.0835776999592781,Niko Kranjcar,a,4397,FromCorner,2014,Head,4445,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04 15:00:00,Matt Phillips,Cross,4397
+22735,70,SavedShot,0.8480000305175781,0.7390000152587891,0.03379900008440018,Niko Kranjcar,a,4397,OpenPlay,2014,LeftFoot,4445,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04 15:00:00,Matt Phillips,Pass,4397
+22743,93,BlockedShot,0.8009999847412109,0.61,0.029400799423456192,Niko Kranjcar,a,4397,OpenPlay,2014,LeftFoot,4445,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04 15:00:00,,TakeOn,4397
+22265,15,SavedShot,0.8130000305175781,0.730999984741211,0.020034300163388252,Niko Kranjcar,a,4397,OpenPlay,2014,LeftFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Clint Hill,Pass,4397
+22276,37,MissedShots,0.980999984741211,0.4229999923706055,0.11058700084686279,Niko Kranjcar,a,4397,FromCorner,2014,RightFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Steven Caulker,None,4397
+22278,42,BlockedShot,0.799000015258789,0.25,0.018958399072289467,Niko Kranjcar,a,4397,OpenPlay,2014,RightFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Mauricio Isla,Pass,4397
+20583,92,BlockedShot,0.7819999694824219,0.625,0.02335290051996708,Niko Kranjcar,h,4397,OpenPlay,2014,RightFoot,4458,Queens Park Rangers,Chelsea,0,1,2015-04-12 13:30:00,Charlie Austin,Pass,4397

@@ -1,0 +1,39 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+120093,55,BlockedShot,0.895,0.42700000762939455,0.03349769860506058,Jack Stephens,a,1735,FromCorner,2016,Head,3407,Watford,Southampton,3,4,2017-03-04 15:00:00,James Ward-Prowse,Cross,1735
+119528,82,MissedShots,0.9480000305175781,0.5540000152587891,0.1480019986629486,Jack Stephens,h,1735,OpenPlay,2016,RightFoot,3447,Southampton,Crystal Palace,3,1,2017-04-05 19:45:00,Nathan Redmond,Pass,1735
+119636,53,MissedShots,0.875999984741211,0.485,0.08305320143699646,Jack Stephens,h,1735,SetPiece,2016,LeftFoot,3412,Southampton,Manchester United,0,0,2017-05-17 19:45:00,James Ward-Prowse,Chipped,1735
+119639,57,MissedShots,0.9669999694824218,0.38799999237060545,0.08662349730730057,Jack Stephens,h,1735,FromCorner,2016,RightFoot,3412,Southampton,Manchester United,0,0,2017-05-17 19:45:00,,Rebound,1735
+158340,84,BlockedShot,0.9030000305175782,0.3920000076293945,0.08116690069437027,Jack Stephens,h,1735,OpenPlay,2017,RightFoot,7122,Southampton,Swansea,0,0,2017-08-12 15:00:00,,None,1735
+159446,59,BlockedShot,0.8680000305175781,0.5309999847412109,0.07498279958963394,Jack Stephens,h,1735,FromCorner,2017,RightFoot,7150,Southampton,Watford,0,2,2017-09-09 15:00:00,Oriol Romeu,HeadPass,1735
+189365,36,MissedShots,0.9180000305175782,0.51,0.32202500104904175,Jack Stephens,h,1735,SetPiece,2017,Head,7355,Southampton,Tottenham,1,1,2018-01-21 16:00:00,James Ward-Prowse,Cross,1735
+194209,53,MissedShots,0.935,0.48900001525878906,0.3868890106678009,Jack Stephens,h,1735,FromCorner,2017,Head,7363,Southampton,Brighton,1,1,2018-01-31 19:45:00,James Ward-Prowse,Cross,1735
+194211,63,Goal,0.96,0.5109999847412109,0.11092100292444229,Jack Stephens,h,1735,SetPiece,2017,LeftFoot,7363,Southampton,Brighton,1,1,2018-01-31 19:45:00,,None,1735
+193809,42,Goal,0.915,0.6179999923706054,0.021997200325131416,Jack Stephens,a,1735,FromCorner,2017,Head,7378,West Bromwich Albion,Southampton,2,3,2018-02-03 15:00:00,James Ward-Prowse,Cross,1735
+193943,14,MissedShots,0.764000015258789,0.31,0.016307100653648376,Jack Stephens,h,1735,OpenPlay,2017,RightFoot,7384,Southampton,Liverpool,0,2,2018-02-11 16:30:00,James Ward-Prowse,Pass,1735
+197355,77,SavedShot,0.925,0.46700000762939453,0.03773700073361397,Jack Stephens,a,1735,OpenPlay,2017,Head,7398,Burnley,Southampton,1,1,2018-02-24 15:00:00,,Rebound,1735
+199968,65,MissedShots,0.9169999694824219,0.55,0.029066000133752823,Jack Stephens,a,1735,FromCorner,2017,Head,7415,Newcastle United,Southampton,3,0,2018-03-10 15:00:00,James Ward-Prowse,Aerial,1735
+214259,58,BlockedShot,0.945,0.5520000076293945,0.11574999988079071,Jack Stephens,a,1735,FromCorner,2017,Head,7426,Swansea,Southampton,0,1,2018-05-08 19:45:00,Dusan Tadic,Cross,1735
+215545,6,SavedShot,0.8519999694824218,0.5729999923706055,0.10398499667644501,Jack Stephens,h,1735,OpenPlay,2017,RightFoot,7498,Southampton,Manchester City,0,1,2018-05-13 15:00:00,,TakeOn,1735
+232888,71,SavedShot,0.955,0.3770000076293945,0.29857900738716125,Jack Stephens,h,1735,OpenPlay,2018,RightFoot,9204,Southampton,Burnley,0,0,2018-08-12 15:30:00,Danny Ings,Chipped,1735
+249588,48,SavedShot,0.885,0.4759999847412109,0.03859110176563263,Jack Stephens,h,1735,FromCorner,2018,Head,9292,Southampton,Newcastle United,0,0,2018-10-27 14:00:00,Ryan Bertrand,Cross,1735
+249597,68,MissedShots,0.8830000305175781,0.4929999923706055,0.01495280023664236,Jack Stephens,h,1735,FromCorner,2018,Head,9292,Southampton,Newcastle United,0,0,2018-10-27 14:00:00,Ryan Bertrand,Aerial,1735
+249600,78,SavedShot,0.87,0.515,0.03343209996819496,Jack Stephens,h,1735,OpenPlay,2018,Head,9292,Southampton,Newcastle United,0,0,2018-10-27 14:00:00,Danny Ings,Cross,1735
+274482,27,SavedShot,0.9269999694824219,0.425,0.0691860020160675,Jack Stephens,a,1735,FromCorner,2018,Head,9410,Leicester,Southampton,1,2,2019-01-12 15:00:00,James Ward-Prowse,Cross,1735
+274737,80,MissedShots,0.91,0.48700000762939455,0.2836500108242035,Jack Stephens,h,1735,FromCorner,2018,Head,9419,Southampton,Everton,2,1,2019-01-19 15:00:00,James Ward-Prowse,Cross,1735
+275483,90,Goal,0.98,0.4520000076293945,0.7197579741477966,Jack Stephens,h,1735,FromCorner,2018,RightFoot,9453,Southampton,Cardiff,1,2,2019-02-09 15:00:00,Charlie Austin,Rebound,1735
+337178,80,MissedShots,0.87,0.5129999923706055,0.09668870270252228,Jack Stephens,h,1735,OpenPlay,2019,RightFoot,11811,Southampton,West Ham,0,1,2019-12-14 17:30:00,Pierre-Emile Højbjerg,Pass,1735
+338689,30,Goal,0.9369999694824219,0.5570000076293945,0.04884269833564758,Jack Stephens,a,1735,FromCorner,2019,Head,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,James Ward-Prowse,Aerial,1735
+351714,46,BlockedShot,0.960999984741211,0.455,0.5774289965629578,Jack Stephens,a,1735,SetPiece,2019,RightFoot,11861,Leicester,Southampton,1,2,2020-01-11 15:00:00,Ryan Bertrand,Cross,1735
+351956,91,MissedShots,0.899000015258789,0.4909999847412109,0.0675669014453888,Jack Stephens,h,1735,OpenPlay,2019,Head,11870,Southampton,Wolverhampton Wanderers,2,3,2020-01-18 15:00:00,James Ward-Prowse,Cross,1735
+352746,25,ShotOnPost,0.9330000305175781,0.5309999847412109,0.0739487037062645,Jack Stephens,h,1735,SetPiece,2019,Head,11901,Southampton,Burnley,1,2,2020-02-15 12:30:00,Sofiane Boufal,Aerial,1735
+353012,55,MissedShots,0.9169999694824219,0.5929999923706055,0.06885380297899246,Jack Stephens,h,1735,SetPiece,2019,RightFoot,11908,Southampton,Aston Villa,2,0,2020-02-22 15:00:00,Ryan Bertrand,Cross,1735
+376517,3,SavedShot,0.9169999694824219,0.47200000762939454,0.0894664004445076,Jack Stephens,a,1735,FromCorner,2020,Head,14087,Crystal Palace,Southampton,1,0,2020-09-12 14:00:00,James Ward-Prowse,Cross,1735
+395627,83,MissedShots,0.925,0.4929999923706055,0.05302349850535393,Jack Stephens,a,1735,FromCorner,2020,Head,14577,Fulham,Southampton,0,0,2020-12-26 15:00:00,James Ward-Prowse,Aerial,1735
+401909,84,BlockedShot,0.9280000305175782,0.49599998474121093,0.5214059948921204,Jack Stephens,h,1735,FromCorner,2020,RightFoot,14641,Southampton,Aston Villa,0,1,2021-01-30 20:00:00,,Rebound,1735
+409513,59,MissedShots,0.915,0.5579999923706055,0.0682063028216362,Jack Stephens,a,1735,FromCorner,2020,Head,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,James Ward-Prowse,Cross,1735
+421153,35,BlockedShot,0.889000015258789,0.6519999694824219,0.040263500064611435,Jack Stephens,h,1735,FromCorner,2020,RightFoot,14753,Southampton,Crystal Palace,3,1,2021-05-11 21:00:00,Takumi Minamino,Chipped,1735
+423155,93,SavedShot,0.9469999694824218,0.5029999923706054,0.12193699926137924,Jack Stephens,h,1735,SetPiece,2020,Head,14802,Southampton,Leeds,0,2,2021-05-18 17:00:00,Mohammed Salisu,Aerial,1735
+517436,13,MissedShots,0.9330000305175781,0.5820000076293945,0.06801339983940125,Jack Stephens,h,1735,FromCorner,2022,Head,18266,Bournemouth,Brighton,0,2,2023-04-04 18:45:00,Hamed Junior Traore,Cross,1735
+518099,48,SavedShot,0.975,0.4540000152587891,0.15457800030708313,Jack Stephens,a,1735,FromCorner,2022,LeftFoot,18496,Leicester,Bournemouth,0,1,2023-04-08 14:00:00,,Rebound,1735
+589153,37,MissedShots,0.9690000152587891,0.46599998474121096,0.13565029203891754,Jack Stephens,a,1735,FromCorner,2024,Head,26623,Brentford,Southampton,3,1,2024-08-31 14:00:00,William Smallbone,Cross,1735
+603478,94,MissedShots,0.8930000305175781,0.4540000152587891,0.07051766663789749,Jack Stephens,h,1735,SetPiece,2024,Head,26721,Southampton,Liverpool,2,3,2024-11-24 14:00:00,Mateus Fernandes,Cross,1735

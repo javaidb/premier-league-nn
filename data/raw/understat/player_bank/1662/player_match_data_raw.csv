@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,50,Sub,Southampton,Burnley,3,1,2016-10-16,539,2016,126909,0,0,0,0,0,0,0,1662
+0,1,0.058964598923921585,32,Sub,Chelsea,Burnley,3,0,2016-08-27,485,2016,125714,0,0,0,0,0.058964598923921585,0.058964598923921585,0,1662
+0,0,0,1,Sub,Burnley,Liverpool,2,0,2016-08-20,473,2016,133970,0,0,0,0,0,0,0,1662

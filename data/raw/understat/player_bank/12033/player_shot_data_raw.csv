@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+545229,87,MissedShots,0.9209999847412109,0.5409999847412109,0.12518750131130219,Deivid Washington,h,12033,OpenPlay,2023,LeftFoot,21989,Chelsea,Brentford,0,2,2023-10-28 11:30:00,Cole Palmer,Rebound,12033

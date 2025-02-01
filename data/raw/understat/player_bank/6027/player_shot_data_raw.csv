@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+159178,86,MissedShots,0.8719999694824219,0.705,0.03804229944944382,Jairo Riedewald,a,6027,OpenPlay,2017,LeftFoot,7156,Burnley,Crystal Palace,1,0,2017-09-10 13:30:00,,None,6027
+351542,2,BlockedShot,0.75,0.649000015258789,0.016875000670552254,Jairo Riedewald,a,6027,OpenPlay,2019,LeftFoot,11850,Norwich,Crystal Palace,1,1,2020-01-01 17:30:00,Jordan Ayew,Pass,6027
+351654,34,BlockedShot,0.774000015258789,0.5359999847412109,0.012558599933981895,Jairo Riedewald,h,6027,SetPiece,2019,LeftFoot,11859,Crystal Palace,Arsenal,1,1,2020-01-11 12:30:00,,Aerial,6027
+353224,72,MissedShots,0.735,0.645,0.017555000260472298,Jairo Riedewald,a,6027,OpenPlay,2019,LeftFoot,11915,Brighton,Crystal Palace,0,1,2020-02-29 12:30:00,Jordan Ayew,Pass,6027
+383330,7,Goal,0.8869999694824219,0.629000015258789,0.33911898732185364,Jairo Riedewald,a,6027,OpenPlay,2020,LeftFoot,14489,Fulham,Crystal Palace,1,2,2020-10-24 14:00:00,Wilfried Zaha,Throughball,6027
+388345,64,BlockedShot,0.8730000305175781,0.6090000152587891,0.045383598655462265,Jairo Riedewald,a,6027,FromCorner,2020,LeftFoot,14516,Burnley,Crystal Palace,1,0,2020-11-23 17:30:00,Cheikhou Kouyaté,Pass,6027
+395659,87,MissedShots,0.870999984741211,0.7240000152587891,0.02261669933795929,Jairo Riedewald,a,6027,OpenPlay,2020,LeftFoot,14576,Aston Villa,Crystal Palace,3,0,2020-12-26 15:00:00,,None,6027
+402501,20,Goal,0.7609999847412109,0.5129999923706055,0.024893399327993393,Jairo Riedewald,a,6027,OpenPlay,2020,LeftFoot,14652,Newcastle United,Crystal Palace,1,2,2021-02-02 20:15:00,,None,6027
+404299,93,BlockedShot,0.8019999694824219,0.365,0.03546300157904625,Jairo Riedewald,h,6027,FromCorner,2020,LeftFoot,14668,Crystal Palace,Burnley,0,3,2021-02-13 15:00:00,Andros Townsend,Pass,6027
+409206,52,MissedShots,0.8080000305175781,0.585,0.03500960022211075,Jairo Riedewald,a,6027,SetPiece,2020,LeftFoot,14702,Tottenham,Crystal Palace,4,1,2021-03-07 19:15:00,,None,6027
+418481,7,BlockedShot,0.774000015258789,0.6680000305175782,0.017981799319386482,Jairo Riedewald,h,6027,OpenPlay,2020,LeftFoot,14768,Crystal Palace,Manchester City,0,2,2021-05-01 11:30:00,Eberechi Eze,Pass,6027
+418488,29,MissedShots,0.8080000305175781,0.4909999847412109,0.04261380061507225,Jairo Riedewald,h,6027,SetPiece,2020,LeftFoot,14768,Crystal Palace,Manchester City,0,2,2021-05-01 11:30:00,Cheikhou Kouyaté,Pass,6027
+526015,78,MissedShots,0.8809999847412109,0.6530000305175782,0.053897131234407425,Jairo Riedewald,h,6027,SetPiece,2022,LeftFoot,18556,Crystal Palace,Bournemouth,2,0,2023-05-13 14:00:00,,None,6027
+575552,81,MissedShots,0.89,0.32,0.05936440825462341,Jairo Riedewald,h,6027,OpenPlay,2023,LeftFoot,22227,Crystal Palace,West Ham,5,2,2024-04-21 14:00:00,,None,6027

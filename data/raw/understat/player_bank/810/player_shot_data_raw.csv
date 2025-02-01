@@ -1,0 +1,127 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15084,48,BlockedShot,0.9030000305175782,0.7140000152587891,0.07079490274190903,Stéphane Sessegnon,a,810,SetPiece,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Saido Berahino,LayOff,810
+15094,75,ShotOnPost,0.905,0.625999984741211,0.061310600489377975,Stéphane Sessegnon,a,810,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,,None,810
+15926,52,BlockedShot,0.955,0.3890000152587891,0.12723000347614288,Stéphane Sessegnon,h,810,OpenPlay,2014,RightFoot,4747,West Bromwich Albion,Burnley,4,0,2014-09-28 16:00:00,Sébastien Pocognoli,Cross,810
+17137,43,SavedShot,0.73,0.695,0.018267100676894188,Stéphane Sessegnon,a,810,OpenPlay,2014,RightFoot,4691,Liverpool,West Bromwich Albion,2,1,2014-10-04 15:00:00,James Morrison,Pass,810
+17098,7,Goal,0.8130000305175781,0.46900001525878904,0.05980449914932251,Stéphane Sessegnon,h,810,OpenPlay,2014,RightFoot,4708,West Bromwich Albion,Manchester United,2,2,2014-10-20 20:00:00,Andre Wisdom,Pass,810
+16438,26,BlockedShot,0.7419999694824219,0.46,0.016549399122595787,Stéphane Sessegnon,h,810,OpenPlay,2014,RightFoot,4712,West Bromwich Albion,Crystal Palace,2,2,2014-10-25 15:00:00,Graham Dorrans,BallRecovery,810
+15943,26,SavedShot,0.794000015258789,0.4909999847412109,0.04501359909772873,Stéphane Sessegnon,a,810,OpenPlay,2014,RightFoot,4651,Leicester,West Bromwich Albion,0,1,2014-11-01 15:00:00,Saido Berahino,Pass,810
+15957,62,BlockedShot,0.7669999694824219,0.37200000762939456,0.0490541011095047,Stéphane Sessegnon,a,810,OpenPlay,2014,RightFoot,4651,Leicester,West Bromwich Albion,0,1,2014-11-01 15:00:00,Graham Dorrans,LayOff,810
+17434,88,BlockedShot,0.87,0.5790000152587891,0.08486620336771011,Stéphane Sessegnon,h,810,OpenPlay,2014,RightFoot,4667,West Bromwich Albion,Newcastle United,0,2,2014-11-09 13:30:00,Victor Anichebe,Pass,810
+16263,8,MissedShots,0.7180000305175781,0.6909999847412109,0.0168846994638443,Stéphane Sessegnon,a,810,OpenPlay,2014,RightFoot,4674,Chelsea,West Bromwich Albion,2,0,2014-11-22 15:00:00,Craig Gardner,Pass,810
+18580,39,SavedShot,0.925,0.6329999923706054,0.35096800327301025,Stéphane Sessegnon,h,810,OpenPlay,2014,RightFoot,4612,West Bromwich Albion,Aston Villa,1,0,2014-12-13 15:00:00,Sébastien Pocognoli,Pass,810
+18587,68,SavedShot,0.7859999847412109,0.2589999961853027,0.018899500370025635,Stéphane Sessegnon,h,810,OpenPlay,2014,RightFoot,4612,West Bromwich Albion,Aston Villa,1,0,2014-12-13 15:00:00,Gareth McAuley,Pass,810
+18589,71,SavedShot,0.905,0.495,0.4879159927368164,Stéphane Sessegnon,h,810,OpenPlay,2014,RightFoot,4612,West Bromwich Albion,Aston Villa,1,0,2014-12-13 15:00:00,,None,810
+19161,39,SavedShot,0.9069999694824219,0.275,0.051577500998973846,Stéphane Sessegnon,a,810,OpenPlay,2014,RightFoot,4622,Queens Park Rangers,West Bromwich Albion,3,2,2014-12-20 15:00:00,Brown Ideye,Pass,810
+19176,72,MissedShots,0.8480000305175781,0.46,0.08015000075101852,Stéphane Sessegnon,a,810,OpenPlay,2014,RightFoot,4622,Queens Park Rangers,West Bromwich Albion,3,2,2014-12-20 15:00:00,Craig Gardner,Pass,810
+18199,35,BlockedShot,0.885,0.34,0.09426529705524445,Stéphane Sessegnon,h,810,OpenPlay,2014,RightFoot,4633,West Bromwich Albion,Manchester City,1,3,2014-12-26 15:00:00,Youssouf Mulumbu,Throughball,810
+18204,52,BlockedShot,0.775,0.26299999237060545,0.01255080010741949,Stéphane Sessegnon,h,810,OpenPlay,2014,RightFoot,4633,West Bromwich Albion,Manchester City,1,3,2014-12-26 15:00:00,Silvestre Varela,Pass,810
+18213,76,SavedShot,0.774000015258789,0.6990000152587891,0.019756000488996506,Stéphane Sessegnon,h,810,OpenPlay,2014,RightFoot,4633,West Bromwich Albion,Manchester City,1,3,2014-12-26 15:00:00,Chris Brunt,Pass,810
+18215,85,BlockedShot,0.8580000305175781,0.735999984741211,0.02703710086643696,Stéphane Sessegnon,h,810,OpenPlay,2014,RightFoot,4633,West Bromwich Albion,Manchester City,1,3,2014-12-26 15:00:00,James Morrison,Pass,810
+19000,12,SavedShot,0.8719999694824219,0.7390000152587891,0.02428320050239563,Stéphane Sessegnon,a,810,OpenPlay,2014,RightFoot,4646,Stoke,West Bromwich Albion,2,0,2014-12-28 15:00:00,,Rebound,810
+19008,35,MissedShots,0.7669999694824219,0.65,0.013575100339949131,Stéphane Sessegnon,a,810,OpenPlay,2014,RightFoot,4646,Stoke,West Bromwich Albion,2,0,2014-12-28 15:00:00,,TakeOn,810
+20075,5,BlockedShot,0.855,0.6279999923706054,0.07336519658565521,Stéphane Sessegnon,a,810,OpenPlay,2014,RightFoot,4556,West Ham,West Bromwich Albion,1,1,2015-01-01 15:00:00,Youssouf Mulumbu,Pass,810
+20079,21,BlockedShot,0.72,0.6909999847412109,0.014965900219976902,Stéphane Sessegnon,a,810,OpenPlay,2014,RightFoot,4556,West Ham,West Bromwich Albion,1,1,2015-01-01 15:00:00,James Morrison,Pass,810
+20081,25,MissedShots,0.88,0.3990000152587891,0.077224001288414,Stéphane Sessegnon,a,810,OpenPlay,2014,RightFoot,4556,West Ham,West Bromwich Albion,1,1,2015-01-01 15:00:00,Andre Wisdom,Pass,810
+20095,88,MissedShots,0.8590000152587891,0.30100000381469727,0.035278599709272385,Stéphane Sessegnon,a,810,OpenPlay,2014,LeftFoot,4556,West Ham,West Bromwich Albion,1,1,2015-01-01 15:00:00,James Morrison,Pass,810
+18671,80,MissedShots,0.89,0.40400001525878904,0.06643190234899521,Stéphane Sessegnon,a,810,OpenPlay,2014,RightFoot,4580,Everton,West Bromwich Albion,0,0,2015-01-19 20:00:00,Andre Wisdom,Cross,810
+24075,8,SavedShot,0.794000015258789,0.5520000076293945,0.03541570156812668,Stéphane Sessegnon,a,810,OpenPlay,2014,RightFoot,4522,Burnley,West Bromwich Albion,2,2,2015-02-08 12:00:00,,TakeOn,810
+24080,22,MissedShots,0.7919999694824219,0.5570000076293945,0.04347579926252365,Stéphane Sessegnon,a,810,OpenPlay,2014,LeftFoot,4522,Burnley,West Bromwich Albion,2,2,2015-02-08 12:00:00,Claudio Yacob,HeadPass,810
+20956,5,BlockedShot,0.9019999694824219,0.7090000152587891,0.05121560022234917,Stéphane Sessegnon,h,810,OpenPlay,2014,LeftFoot,4496,West Bromwich Albion,Stoke,1,0,2015-03-14 15:00:00,Saido Berahino,Pass,810
+59176,21,MissedShots,0.845999984741211,0.37099998474121093,0.06534720212221146,Stéphane Sessegnon,h,810,OpenPlay,2015,LeftFoot,163,West Bromwich Albion,Sunderland,1,0,2015-10-17 18:00:00,Saido Berahino,Pass,810
+59319,1,MissedShots,0.8430000305175781,0.5359999847412109,0.09213630110025406,Stéphane Sessegnon,a,810,OpenPlay,2015,RightFoot,174,Norwich,West Bromwich Albion,0,1,2015-10-24 18:00:00,Darren Fletcher,Pass,810
+53769,66,SavedShot,0.95,0.9769999694824218,0.028949899598956108,Stéphane Sessegnon,h,810,DirectFreekick,2015,RightFoot,187,West Bromwich Albion,Leicester,2,3,2015-10-31 19:00:00,,Standard,810
+53770,67,SavedShot,0.9640000152587891,0.965999984741211,0.030521100386977196,Stéphane Sessegnon,h,810,DirectFreekick,2015,RightFoot,187,West Bromwich Albion,Leicester,2,3,2015-10-31 19:00:00,,Standard,810
+55510,31,BlockedShot,0.77,0.6309999847412109,0.06615520268678665,Stéphane Sessegnon,h,810,DirectFreekick,2015,RightFoot,204,West Bromwich Albion,Arsenal,2,1,2015-11-21 19:00:00,,Standard,810
+53225,37,MissedShots,0.8480000305175781,0.3629999923706055,0.04453429952263832,Stéphane Sessegnon,a,810,OpenPlay,2015,RightFoot,218,West Ham,West Bromwich Albion,1,1,2015-11-29 18:05:00,Craig Dawson,HeadPass,810
+52600,59,Goal,0.89,0.3940000152587891,0.10259299725294113,Stéphane Sessegnon,h,810,OpenPlay,2015,RightFoot,272,West Bromwich Albion,Stoke,2,1,2016-01-02 19:00:00,James Morrison,Pass,810
+52576,49,MissedShots,0.8159999847412109,0.600999984741211,0.02116449922323227,Stéphane Sessegnon,a,810,OpenPlay,2015,LeftFoot,294,Southampton,West Bromwich Albion,3,0,2016-01-16 19:00:00,Salomón Rondón,HeadPass,810
+52578,56,MissedShots,0.7530000305175781,0.39599998474121095,0.010254399850964546,Stéphane Sessegnon,a,810,SetPiece,2015,RightFoot,294,Southampton,West Bromwich Albion,3,0,2016-01-16 19:00:00,,Aerial,810
+52686,17,BlockedShot,0.75,0.46299999237060546,0.020381299778819084,Stéphane Sessegnon,h,810,OpenPlay,2015,RightFoot,305,West Bromwich Albion,Aston Villa,0,0,2016-01-23 19:00:00,Darren Fletcher,Pass,810
+52693,52,MissedShots,0.72,0.26899999618530274,0.012034500017762184,Stéphane Sessegnon,h,810,OpenPlay,2015,RightFoot,305,West Bromwich Albion,Aston Villa,0,0,2016-01-23 19:00:00,Craig Gardner,Pass,810
+55210,41,MissedShots,0.865999984741211,0.46299999237060546,0.04434200003743172,Stéphane Sessegnon,h,810,OpenPlay,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,,Aerial,810
+55213,51,SavedShot,0.899000015258789,0.8059999847412109,0.06473690271377563,Stéphane Sessegnon,h,810,DirectFreekick,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,,Standard,810
+55216,59,SavedShot,0.735,0.36400001525878906,0.017413800582289696,Stéphane Sessegnon,h,810,OpenPlay,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Craig Dawson,Pass,810
+60308,70,SavedShot,0.830999984741211,0.3920000076293945,0.08448240160942078,Stéphane Sessegnon,h,810,OpenPlay,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Saido Berahino,Pass,810
+60806,46,BlockedShot,0.769000015258789,0.27700000762939453,0.0170609001070261,Stéphane Sessegnon,a,810,OpenPlay,2015,RightFoot,351,Leicester,West Bromwich Albion,2,2,2016-03-01 23:45:00,Darren Fletcher,Pass,810
+60571,37,SavedShot,0.735,0.4640000152587891,0.016820600256323814,Stéphane Sessegnon,h,810,OpenPlay,2015,RightFoot,368,West Bromwich Albion,Manchester United,1,0,2016-03-06 20:00:00,Saido Berahino,LayOff,810
+60584,57,BlockedShot,0.7730000305175782,0.685,0.020141899585723877,Stéphane Sessegnon,h,810,OpenPlay,2015,RightFoot,368,West Bromwich Albion,Manchester United,1,0,2016-03-06 20:00:00,Salomón Rondón,Pass,810
+60882,42,MissedShots,0.89,0.37200000762939456,0.07696619629859924,Stéphane Sessegnon,h,810,OpenPlay,2015,RightFoot,378,West Bromwich Albion,Norwich,0,1,2016-03-19 19:00:00,,BallRecovery,810
+60703,1,BlockedShot,0.799000015258789,0.27600000381469725,0.01682399958372116,Stéphane Sessegnon,a,810,OpenPlay,2015,RightFoot,400,Manchester City,West Bromwich Albion,2,1,2016-04-09 20:30:00,Salomón Rondón,Pass,810
+60708,5,Goal,0.8819999694824219,0.29100000381469726,0.024258099496364594,Stéphane Sessegnon,a,810,OpenPlay,2015,RightFoot,400,Manchester City,West Bromwich Albion,2,1,2016-04-09 20:30:00,James McClean,Cross,810
+60721,32,BlockedShot,0.89,0.3529999923706055,0.0565360002219677,Stéphane Sessegnon,a,810,SetPiece,2015,LeftFoot,400,Manchester City,West Bromwich Albion,2,1,2016-04-09 20:30:00,,Rebound,810
+57010,23,MissedShots,0.9080000305175782,0.7440000152587891,0.028281699866056442,Stéphane Sessegnon,h,810,SetPiece,2015,RightFoot,409,West Bromwich Albion,Watford,0,1,2016-04-16 18:00:00,James McClean,Pass,810
+57009,23,SavedShot,0.879000015258789,0.8440000152587891,0.04834429919719696,Stéphane Sessegnon,h,810,DirectFreekick,2015,RightFoot,409,West Bromwich Albion,Watford,0,1,2016-04-16 18:00:00,,Standard,810
+57018,40,BlockedShot,0.87,0.305,0.0337379015982151,Stéphane Sessegnon,h,810,OpenPlay,2015,RightFoot,409,West Bromwich Albion,Watford,0,1,2016-04-16 18:00:00,Salomón Rondón,Pass,810
+57020,43,BlockedShot,0.8780000305175781,0.3940000152587891,0.06164000183343887,Stéphane Sessegnon,h,810,OpenPlay,2015,RightFoot,409,West Bromwich Albion,Watford,0,1,2016-04-16 18:00:00,Craig Dawson,Cross,810
+56627,45,BlockedShot,0.7119999694824218,0.33,0.013375700451433659,Stéphane Sessegnon,a,810,OpenPlay,2015,RightFoot,426,Tottenham,West Bromwich Albion,1,1,2016-04-25 23:00:00,Salomón Rondón,Pass,810
+56642,81,MissedShots,0.8340000152587891,0.32099998474121094,0.03812349960207939,Stéphane Sessegnon,a,810,OpenPlay,2015,LeftFoot,426,Tottenham,West Bromwich Albion,1,1,2016-04-25 23:00:00,Craig Gardner,Pass,810
+56643,85,MissedShots,0.9,0.315,0.06483309715986252,Stéphane Sessegnon,a,810,OpenPlay,2015,RightFoot,426,Tottenham,West Bromwich Albion,1,1,2016-04-25 23:00:00,Darren Fletcher,Pass,810
+57582,81,BlockedShot,0.7080000305175781,0.27899999618530275,0.006673620082437992,Stéphane Sessegnon,h,810,OpenPlay,2015,RightFoot,431,West Bromwich Albion,West Ham,0,3,2016-04-30 18:00:00,,None,810
+57585,87,SavedShot,0.7730000305175782,0.32599998474121095,0.05859789997339249,Stéphane Sessegnon,h,810,DirectFreekick,2015,RightFoot,431,West Bromwich Albion,West Ham,0,3,2016-04-30 18:00:00,,Standard,810
+105321,6,MissedShots,0.750999984741211,0.54,0.019164500758051872,Stéphane Sessegnon,a,810,OpenPlay,2016,RightFoot,3324,Lorient,Montpellier,2,2,2016-10-29 22:00:00,,None,810
+105243,5,MissedShots,0.8880000305175781,0.7119999694824218,0.04725389927625656,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,2833,Montpellier,Marseille,3,1,2016-11-04 23:45:00,Jérôme Roussillon,Pass,810
+105246,14,BlockedShot,0.7269999694824218,0.7559999847412109,0.013511699624359608,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,2833,Montpellier,Marseille,3,1,2016-11-04 23:45:00,Jérôme Roussillon,Pass,810
+105824,75,MissedShots,0.7709999847412109,0.544000015258789,0.08578339964151382,Stéphane Sessegnon,a,810,DirectFreekick,2016,RightFoot,2846,SC Bastia,Montpellier,1,1,2016-11-19 23:00:00,,Standard,810
+106265,13,BlockedShot,0.700999984741211,0.64,0.012741100043058395,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,2859,Montpellier,Nancy,0,0,2016-11-26 23:00:00,Paul Lasne,Pass,810
+106270,55,SavedShot,0.8159999847412109,0.69,0.02646300010383129,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,2859,Montpellier,Nancy,0,0,2016-11-26 23:00:00,Steve Mounie,HeadPass,810
+106274,79,SavedShot,0.845999984741211,0.625,0.05321440100669861,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,2859,Montpellier,Nancy,0,0,2016-11-26 23:00:00,,None,810
+107910,19,Goal,0.8590000152587891,0.4540000152587891,0.0716262012720108,Stéphane Sessegnon,h,810,SetPiece,2016,RightFoot,3255,Montpellier,Bordeaux,4,0,2016-12-17 23:00:00,Steve Mounie,HeadPass,810
+107936,88,BlockedShot,0.8230000305175781,0.435,0.08874859660863876,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,3255,Montpellier,Bordeaux,4,0,2016-12-17 23:00:00,Paul Lasne,Pass,810
+107935,88,BlockedShot,0.8130000305175781,0.5459999847412109,0.05630350112915039,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,3255,Montpellier,Bordeaux,4,0,2016-12-17 23:00:00,,None,810
+106424,43,BlockedShot,0.7269999694824218,0.48700000762939455,0.01534849964082241,Stéphane Sessegnon,a,810,OpenPlay,2016,RightFoot,3267,Nantes,Montpellier,1,0,2016-12-21 23:50:00,,None,810
+106425,47,BlockedShot,0.7919999694824219,0.29700000762939455,0.019679399207234383,Stéphane Sessegnon,a,810,OpenPlay,2016,RightFoot,3267,Nantes,Montpellier,1,0,2016-12-21 23:50:00,,None,810
+106426,47,MissedShots,0.7319999694824219,0.57,0.015685299411416054,Stéphane Sessegnon,a,810,OpenPlay,2016,RightFoot,3267,Nantes,Montpellier,1,0,2016-12-21 23:50:00,,None,810
+106932,25,MissedShots,0.86,0.645,0.05824879929423332,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,4107,Montpellier,Dijon,1,1,2017-01-14 23:00:00,Jérôme Roussillon,Pass,810
+108432,24,BlockedShot,0.8490000152587891,0.33599998474121096,0.05472930148243904,Stéphane Sessegnon,a,810,OpenPlay,2016,RightFoot,4119,Metz,Montpellier,2,0,2017-01-21 22:00:00,Steve Mounie,Pass,810
+106342,17,MissedShots,0.9309999847412109,0.3120000076293945,0.03465089946985245,Stéphane Sessegnon,a,810,OpenPlay,2016,RightFoot,4132,Marseille,Montpellier,5,1,2017-01-27 22:45:00,Jérôme Roussillon,Cross,810
+106354,42,BlockedShot,0.8690000152587891,0.18899999618530272,0.01617339998483658,Stéphane Sessegnon,a,810,OpenPlay,2016,RightFoot,4132,Marseille,Montpellier,5,1,2017-01-27 22:45:00,Steve Mounie,TakeOn,810
+108629,67,SavedShot,0.9159999847412109,0.6730000305175782,0.09254129976034164,Stéphane Sessegnon,a,810,OpenPlay,2016,LeftFoot,4155,Nancy,Montpellier,0,3,2017-02-11 19:00:00,Ryad Boudebouz,Pass,810
+110965,20,MissedShots,0.785,0.4490000152587891,0.028158800676465034,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,4167,Montpellier,Saint-Etienne,2,1,2017-02-19 16:00:00,Steve Mounie,Pass,810
+110985,86,MissedShots,0.8080000305175781,0.4540000152587891,0.1143689975142479,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,4167,Montpellier,Saint-Etienne,2,1,2017-02-19 16:00:00,Daniel Congré,BallRecovery,810
+111719,4,MissedShots,0.879000015258789,0.54,0.07604049891233444,Stéphane Sessegnon,a,810,OpenPlay,2016,RightFoot,4178,Nice,Montpellier,2,1,2017-02-24 19:45:00,Paul Lasne,Cross,810
+109205,45,MissedShots,0.86,0.4229999923706055,0.08714920282363892,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,4187,Montpellier,Guingamp,1,1,2017-03-04 19:00:00,Nordi Mukiele,Pass,810
+109207,48,BlockedShot,0.7859999847412109,0.47,0.03560499846935272,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,4187,Montpellier,Guingamp,1,1,2017-03-04 19:00:00,,None,810
+108746,60,BlockedShot,0.7319999694824219,0.29100000381469726,0.010415400378406048,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,,None,810
+108748,66,BlockedShot,0.86,0.34200000762939453,0.043157100677490234,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,,Rebound,810
+108757,91,MissedShots,0.7380000305175781,0.4470000076293945,0.01827009953558445,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,4200,Montpellier,Nantes,2,3,2017-03-11 19:00:00,Souleymane Camara,Pass,810
+109319,4,BlockedShot,0.7069999694824218,0.48700000762939455,0.016328800469636917,Stéphane Sessegnon,a,810,OpenPlay,2016,RightFoot,4207,Bordeaux,Montpellier,5,1,2017-03-18 19:00:00,Ryad Boudebouz,Pass,810
+109339,64,MissedShots,0.7330000305175781,0.62,0.012857900001108646,Stéphane Sessegnon,a,810,OpenPlay,2016,RightFoot,4207,Bordeaux,Montpellier,5,1,2017-03-18 19:00:00,Jérôme Roussillon,Pass,810
+109343,79,SavedShot,0.7080000305175781,0.500999984741211,0.008306929841637611,Stéphane Sessegnon,a,810,OpenPlay,2016,RightFoot,4207,Bordeaux,Montpellier,5,1,2017-03-18 19:00:00,Keagan Dolly,HeadPass,810
+108936,5,MissedShots,0.8519999694824218,0.725999984741211,0.029765399172902107,Stéphane Sessegnon,h,810,OpenPlay,2016,LeftFoot,4216,Montpellier,Toulouse,0,1,2017-04-02 16:00:00,,None,810
+108939,12,BlockedShot,0.774000015258789,0.705,0.013912100344896317,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,4216,Montpellier,Toulouse,0,1,2017-04-02 16:00:00,Jérôme Roussillon,TakeOn,810
+108940,20,MissedShots,0.7030000305175781,0.46900001525878904,0.01080899965018034,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,4216,Montpellier,Toulouse,0,1,2017-04-02 16:00:00,Ryad Boudebouz,LayOff,810
+108946,43,MissedShots,0.8190000152587891,0.46,0.07249750196933746,Stéphane Sessegnon,h,810,OpenPlay,2016,LeftFoot,4216,Montpellier,Toulouse,0,1,2017-04-02 16:00:00,Yacouba Sylla,TakeOn,810
+111003,48,Goal,0.815,0.44099998474121094,0.056619901210069656,Stéphane Sessegnon,a,810,OpenPlay,2016,RightFoot,4234,Caen,Montpellier,0,2,2017-04-08 19:00:00,Ryad Boudebouz,Pass,810
+111014,85,MissedShots,0.815,0.43599998474121093,0.0714816004037857,Stéphane Sessegnon,a,810,OpenPlay,2016,RightFoot,4234,Caen,Montpellier,0,2,2017-04-08 19:00:00,Jonathan Ikone,Pass,810
+111061,15,BlockedShot,0.7440000152587891,0.46599998474121096,0.027426300570368767,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,4235,Montpellier,Lorient,2,0,2017-04-15 19:00:00,,None,810
+111067,53,MissedShots,0.8780000305175781,0.415,0.03467680141329765,Stéphane Sessegnon,h,810,OpenPlay,2016,Head,4235,Montpellier,Lorient,2,0,2017-04-15 19:00:00,Ryad Boudebouz,Cross,810
+110261,16,BlockedShot,0.8780000305175781,0.6040000152587891,0.07162199914455414,Stéphane Sessegnon,a,810,OpenPlay,2016,RightFoot,4250,Paris Saint Germain,Montpellier,2,0,2017-04-22 16:00:00,,None,810
+110273,43,BlockedShot,0.815,0.46,0.05816299840807915,Stéphane Sessegnon,a,810,OpenPlay,2016,RightFoot,4250,Paris Saint Germain,Montpellier,2,0,2017-04-22 16:00:00,Paul Lasne,Pass,810
+110276,49,BlockedShot,0.769000015258789,0.6179999923706054,0.022480500862002373,Stéphane Sessegnon,a,810,OpenPlay,2016,RightFoot,4250,Paris Saint Germain,Montpellier,2,0,2017-04-22 16:00:00,Jérôme Roussillon,Pass,810
+110283,68,MissedShots,0.855,0.8119999694824219,0.055135998874902725,Stéphane Sessegnon,a,810,DirectFreekick,2016,RightFoot,4250,Paris Saint Germain,Montpellier,2,0,2017-04-22 16:00:00,,Standard,810
+110498,92,SavedShot,0.9169999694824219,0.22799999237060548,0.02919190004467964,Stéphane Sessegnon,h,810,OpenPlay,2016,RightFoot,4255,Montpellier,Lille,0,3,2017-04-29 19:00:00,Nordi Mukiele,Pass,810
+111973,47,BlockedShot,0.7909999847412109,0.6270000076293946,0.021015899255871773,Stéphane Sessegnon,h,810,SetPiece,2016,RightFoot,4277,Montpellier,Lyon,1,3,2017-05-14 20:00:00,,None,810
+111979,67,MissedShots,0.789000015258789,0.41,0.03526480123400688,Stéphane Sessegnon,h,810,OpenPlay,2016,LeftFoot,4277,Montpellier,Lyon,1,3,2017-05-14 20:00:00,Ryad Boudebouz,Pass,810
+110501,7,MissedShots,0.705999984741211,0.6020000076293945,0.01398720033466816,Stéphane Sessegnon,a,810,OpenPlay,2016,RightFoot,4292,Angers,Montpellier,2,0,2017-05-20 20:00:00,Steve Mounie,Pass,810
+110506,14,SavedShot,0.6980000305175781,0.44299999237060544,0.012403899803757668,Stéphane Sessegnon,a,810,OpenPlay,2016,RightFoot,4292,Angers,Montpellier,2,0,2017-05-20 20:00:00,Keagan Dolly,Pass,810
+163363,8,MissedShots,0.850999984741211,0.49599998474121093,0.09566350281238556,Stéphane Sessegnon,a,810,OpenPlay,2017,RightFoot,8641,Monaco,Montpellier,1,1,2017-09-29 19:45:00,Jérôme Roussillon,Pass,810
+163368,19,MissedShots,0.9,0.4209999847412109,0.10316400229930878,Stéphane Sessegnon,a,810,SetPiece,2017,RightFoot,8641,Monaco,Montpellier,1,1,2017-09-29 19:45:00,,Rebound,810
+163369,20,MissedShots,0.785,0.295,0.01962910033762455,Stéphane Sessegnon,a,810,OpenPlay,2017,RightFoot,8641,Monaco,Montpellier,1,1,2017-09-29 19:45:00,,BallRecovery,810
+163929,33,MissedShots,0.7430000305175781,0.750999984741211,0.03606490045785904,Stéphane Sessegnon,h,810,DirectFreekick,2017,RightFoot,8648,Montpellier,Nice,2,0,2017-10-15 16:00:00,,Standard,810
+163936,54,Goal,0.7269999694824218,0.47,0.012421299703419209,Stéphane Sessegnon,h,810,OpenPlay,2017,RightFoot,8648,Montpellier,Nice,2,0,2017-10-15 16:00:00,Nordi Mukiele,Chipped,810
+164234,0,BlockedShot,0.74,0.6459999847412109,0.019061900675296783,Stéphane Sessegnon,a,810,OpenPlay,2017,RightFoot,8662,Saint-Etienne,Montpellier,0,1,2017-10-20 19:45:00,Ruben Aguilar,Pass,810
+164259,75,BlockedShot,0.8,0.5870000076293945,0.11397500336170197,Stéphane Sessegnon,a,810,DirectFreekick,2017,RightFoot,8662,Saint-Etienne,Montpellier,0,1,2017-10-20 19:45:00,,Standard,810
+164611,55,SavedShot,0.8119999694824219,0.4929999923706055,0.05770820006728172,Stéphane Sessegnon,h,810,OpenPlay,2017,LeftFoot,8671,Montpellier,Rennes,0,1,2017-10-28 19:00:00,,BallRecovery,810
+164615,81,MissedShots,0.7269999694824218,0.6020000076293945,0.01676809974014759,Stéphane Sessegnon,h,810,OpenPlay,2017,RightFoot,8671,Montpellier,Rennes,0,1,2017-10-28 19:00:00,Casimir Ninga,Pass,810
+164272,19,BlockedShot,0.840999984741211,0.4520000076293945,0.07268829643726349,Stéphane Sessegnon,h,810,OpenPlay,2017,LeftFoot,8675,Montpellier,Amiens,1,1,2017-11-04 19:00:00,Paul Lasne,BallTouch,810
+164281,57,BlockedShot,0.8880000305175781,0.6580000305175782,0.07506950199604034,Stéphane Sessegnon,h,810,OpenPlay,2017,LeftFoot,8675,Montpellier,Amiens,1,1,2017-11-04 19:00:00,Ellyes Skhiri,Pass,810
+164286,73,MissedShots,0.759000015258789,0.27600000381469725,0.017216000705957413,Stéphane Sessegnon,h,810,OpenPlay,2017,RightFoot,8675,Montpellier,Amiens,1,1,2017-11-04 19:00:00,Giovanni Sio,Pass,810
+164828,85,SavedShot,0.7780000305175782,0.7169999694824218,0.01777390018105507,Stéphane Sessegnon,a,810,OpenPlay,2017,RightFoot,8693,Lyon,Montpellier,0,0,2017-11-19 16:00:00,Nicolas Cozza,Pass,810
+165335,42,BlockedShot,0.8030000305175782,0.710999984741211,0.022699400782585144,Stéphane Sessegnon,h,810,OpenPlay,2017,LeftFoot,8695,Montpellier,Lille,3,0,2017-11-25 19:00:00,Jérôme Roussillon,Pass,810
+165020,8,SavedShot,0.7430000305175781,0.4779999923706055,0.019508199766278267,Stéphane Sessegnon,h,810,OpenPlay,2017,RightFoot,8718,Montpellier,Marseille,1,1,2017-12-03 20:00:00,Nordi Mukiele,TakeOn,810
+179462,87,MissedShots,0.7980000305175782,0.295,0.010916399769484997,Stéphane Sessegnon,a,810,SetPiece,2017,RightFoot,8726,Angers,Montpellier,1,1,2017-12-09 19:00:00,,Aerial,810
+179464,92,MissedShots,0.7580000305175781,0.47299999237060547,0.025486700236797333,Stéphane Sessegnon,a,810,OpenPlay,2017,RightFoot,8726,Angers,Montpellier,1,1,2017-12-09 19:00:00,Jérôme Roussillon,Pass,810
+183348,6,MissedShots,0.8119999694824219,0.46,0.058744098991155624,Stéphane Sessegnon,h,810,OpenPlay,2017,RightFoot,8738,Montpellier,Metz,1,3,2017-12-16 19:00:00,Nordi Mukiele,Pass,810
+189020,73,MissedShots,0.845999984741211,0.6079999923706054,0.0670022964477539,Stéphane Sessegnon,h,810,OpenPlay,2017,RightFoot,8779,Montpellier,Toulouse,2,1,2018-01-20 19:00:00,Jérôme Roussillon,Pass,810
+189024,77,MissedShots,0.8669999694824219,0.4329999923706055,0.05812640115618706,Stéphane Sessegnon,h,810,OpenPlay,2017,RightFoot,8779,Montpellier,Toulouse,2,1,2018-01-20 19:00:00,Giovanni Sio,Cross,810

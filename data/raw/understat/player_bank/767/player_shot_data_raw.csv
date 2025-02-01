@@ -1,0 +1,43 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14652,21,MissedShots,0.740999984741211,0.49599998474121093,0.05854729935526848,Jack Colback,a,767,DirectFreekick,2014,LeftFoot,4759,Aston Villa,Newcastle United,0,0,2014-08-23 12:45:00,,Standard,767
+15017,44,MissedShots,0.82,0.5129999923706055,0.053162600845098495,Jack Colback,h,767,SetPiece,2014,LeftFoot,4771,Newcastle United,Crystal Palace,3,3,2014-08-30 15:00:00,Rémy Cabella,Pass,767
+15330,25,SavedShot,0.8030000305175782,0.38799999237060545,0.03284100070595741,Jack Colback,a,767,OpenPlay,2014,LeftFoot,4722,Southampton,Newcastle United,4,0,2014-09-13 15:00:00,Daryl Janmaat,Pass,767
+15338,77,MissedShots,0.9669999694824218,0.5659999847412109,0.08686999976634979,Jack Colback,a,767,OpenPlay,2014,LeftFoot,4722,Southampton,Newcastle United,4,0,2014-09-13 15:00:00,Emmanuel Rivière,None,767
+15558,10,SavedShot,0.88,0.46299999237060546,0.09615179896354675,Jack Colback,h,767,OpenPlay,2014,LeftFoot,4733,Newcastle United,Hull,2,2,2014-09-20 15:00:00,Emmanuel Rivière,BallTouch,767
+15566,29,BlockedShot,0.8390000152587891,0.47099998474121096,0.08443950116634369,Jack Colback,h,767,OpenPlay,2014,LeftFoot,4733,Newcastle United,Hull,2,2,2014-09-20 15:00:00,Yoan Gouffran,LayOff,767
+15580,69,MissedShots,0.884000015258789,0.5870000076293945,0.05802519991993904,Jack Colback,h,767,OpenPlay,2014,LeftFoot,4733,Newcastle United,Hull,2,2,2014-09-20 15:00:00,Yoan Gouffran,Cross,767
+15873,43,BlockedShot,0.8919999694824219,0.6029999923706054,0.06263189762830734,Jack Colback,a,767,FromCorner,2014,LeftFoot,4748,Stoke,Newcastle United,1,0,2014-09-29 20:00:00,Moussa Sissoko,Pass,767
+15884,83,ShotOnPost,0.960999984741211,0.46900001525878904,0.5937719941139221,Jack Colback,a,767,OpenPlay,2014,LeftFoot,4748,Stoke,Newcastle United,1,0,2014-09-29 20:00:00,Gabriel Obertan,Cross,767
+16522,54,SavedShot,0.845999984741211,0.185,0.04958629980683327,Jack Colback,h,767,DirectFreekick,2014,LeftFoot,4704,Newcastle United,Leicester,1,0,2014-10-18 15:00:00,,Standard,767
+16317,15,MissedShots,0.8430000305175781,0.49900001525878906,0.06694009900093079,Jack Colback,a,767,OpenPlay,2014,RightFoot,4715,Tottenham,Newcastle United,1,2,2014-10-26 13:30:00,,None,767
+16324,37,BlockedShot,0.81,0.5170000076293946,0.06324800103902817,Jack Colback,a,767,OpenPlay,2014,LeftFoot,4715,Tottenham,Newcastle United,1,2,2014-10-26 13:30:00,Moussa Sissoko,TakeOn,767
+16153,28,MissedShots,0.8880000305175781,0.5790000152587891,0.07490090280771255,Jack Colback,h,767,SetPiece,2014,LeftFoot,4649,Newcastle United,Liverpool,1,0,2014-11-01 12:45:00,,None,767
+16159,46,BlockedShot,0.845999984741211,0.2720000076293945,0.027816200628876686,Jack Colback,h,767,OpenPlay,2014,LeftFoot,4649,Newcastle United,Liverpool,1,0,2014-11-01 12:45:00,,None,767
+18705,47,MissedShots,0.7480000305175781,0.3290000152587891,0.015441300347447395,Jack Colback,a,767,OpenPlay,2014,LeftFoot,4680,West Ham,Newcastle United,1,0,2014-11-29 15:00:00,,Dispossessed,767
+20050,31,SavedShot,0.925,0.6140000152587891,0.11202199757099152,Jack Colback,h,767,OpenPlay,2014,LeftFoot,4599,Newcastle United,Chelsea,2,1,2014-12-06 12:45:00,Ayoze Pérez,Pass,767
+20051,36,MissedShots,0.7709999847412109,0.5990000152587891,0.0263822004199028,Jack Colback,h,767,OpenPlay,2014,LeftFoot,4599,Newcastle United,Chelsea,2,1,2014-12-06 12:45:00,Ayoze Pérez,Interception,767
+17658,92,BlockedShot,0.7580000305175781,0.545,0.021795300766825676,Jack Colback,a,767,OpenPlay,2014,LeftFoot,4615,Arsenal,Newcastle United,4,1,2014-12-13 17:30:00,Rémy Cabella,LayOff,767
+18720,32,MissedShots,0.8480000305175781,0.5670000076293945,0.03286270052194595,Jack Colback,h,767,FromCorner,2014,RightFoot,4647,Newcastle United,Everton,3,2,2014-12-28 16:15:00,Mike Williamson,HeadPass,767
+18731,67,Goal,0.9030000305175782,0.43900001525878907,0.4437609910964966,Jack Colback,h,767,OpenPlay,2014,LeftFoot,4647,Newcastle United,Everton,3,2,2014-12-28 16:15:00,,None,767
+19750,25,Goal,0.740999984741211,0.4329999923706055,0.017888400703668594,Jack Colback,h,767,OpenPlay,2014,LeftFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,Daryl Janmaat,Pass,767
+23320,73,Goal,0.8440000152587891,0.46299999237060546,0.07256139814853668,Jack Colback,h,767,OpenPlay,2014,LeftFoot,4523,Newcastle United,Stoke,1,1,2015-02-08 14:05:00,Moussa Sissoko,Pass,767
+22300,46,MissedShots,0.77,0.7330000305175781,0.016610100865364075,Jack Colback,a,767,OpenPlay,2014,LeftFoot,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,Moussa Sissoko,Pass,767
+21326,45,Goal,0.9119999694824219,0.534000015258789,0.44958099722862244,Jack Colback,h,767,OpenPlay,2014,LeftFoot,4467,Newcastle United,Tottenham,1,3,2015-04-19 16:00:00,,Rebound,767
+21335,76,SavedShot,0.8780000305175781,0.4620000076293945,0.10024700313806534,Jack Colback,h,767,OpenPlay,2014,LeftFoot,4467,Newcastle United,Tottenham,1,3,2015-04-19 16:00:00,Daryl Janmaat,Pass,767
+22810,73,MissedShots,0.7290000152587891,0.575,0.014241499826312065,Jack Colback,h,767,OpenPlay,2014,LeftFoot,4470,Newcastle United,Swansea,2,3,2015-04-25 15:00:00,Ayoze Pérez,Pass,767
+21177,72,SavedShot,0.795,0.38299999237060545,0.09263460338115692,Jack Colback,a,767,DirectFreekick,2014,LeftFoot,4399,Leicester,Newcastle United,3,0,2015-05-02 12:45:00,,Standard,767
+58018,13,BlockedShot,0.8480000305175781,0.5529999923706055,0.07256100326776505,Jack Colback,a,767,OpenPlay,2015,LeftFoot,130,West Ham,Newcastle United,2,0,2015-09-14 23:00:00,Papiss Demba Cissé,Pass,767
+59371,18,MissedShots,0.8330000305175781,0.505,0.07854820042848587,Jack Colback,a,767,OpenPlay,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Moussa Sissoko,Pass,767
+59375,25,SavedShot,0.9180000305175782,0.38,0.08787509799003601,Jack Colback,a,767,OpenPlay,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Daryl Janmaat,Chipped,767
+54957,86,MissedShots,0.76,0.3940000152587891,0.02307780086994171,Jack Colback,h,767,OpenPlay,2015,LeftFoot,259,Newcastle United,Everton,0,1,2015-12-26 21:30:00,Moussa Sissoko,Pass,767
+54864,15,SavedShot,0.9069999694824219,0.6270000076293946,0.08469880372285843,Jack Colback,a,767,OpenPlay,2015,LeftFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Aleksandar Mitrovic,Pass,767
+54882,73,BlockedShot,0.759000015258789,0.5659999847412109,0.02438730001449585,Jack Colback,a,767,OpenPlay,2015,LeftFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Georginio Wijnaldum,Pass,767
+54670,63,MissedShots,0.8590000152587891,0.720999984741211,0.03897609934210777,Jack Colback,h,767,OpenPlay,2015,LeftFoot,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,Daryl Janmaat,TakeOn,767
+52358,90,MissedShots,0.725,0.6830000305175781,0.015401399694383144,Jack Colback,h,767,OpenPlay,2015,LeftFoot,293,Newcastle United,West Ham,2,1,2016-01-16 19:00:00,Georginio Wijnaldum,Pass,767
+60943,3,MissedShots,0.8690000152587891,0.6819999694824219,0.03596920147538185,Jack Colback,a,767,OpenPlay,2015,LeftFoot,373,Leicester,Newcastle United,1,0,2016-03-14 00:00:00,Aleksandar Mitrovic,Rebound,767
+56671,32,SavedShot,0.9159999847412109,0.675,0.06054669991135597,Jack Colback,h,767,OpenPlay,2015,LeftFoot,408,Newcastle United,Swansea,3,0,2016-04-16 18:00:00,Papiss Demba Cissé,HeadPass,767
+56675,50,MissedShots,0.840999984741211,0.46299999237060546,0.09335370361804962,Jack Colback,h,767,OpenPlay,2015,RightFoot,408,Newcastle United,Swansea,3,0,2016-04-16 18:00:00,Andros Townsend,Pass,767
+57432,65,Goal,0.865,0.5690000152587891,0.030814899131655693,Jack Colback,a,767,OpenPlay,2015,LeftFoot,423,Liverpool,Newcastle United,2,2,2016-04-23 18:00:00,Georginio Wijnaldum,Aerial,767
+57256,43,MissedShots,0.8719999694824219,0.40599998474121096,0.09989459812641144,Jack Colback,h,767,OpenPlay,2015,LeftFoot,428,Newcastle United,Crystal Palace,1,0,2016-04-30 18:00:00,Jamaal Lascelles,Pass,767
+57616,45,MissedShots,0.8930000305175781,0.500999984741211,0.09910190105438232,Jack Colback,a,767,OpenPlay,2015,LeftFoot,440,Aston Villa,Newcastle United,0,0,2016-05-07 18:00:00,,None,767
+52073,7,BlockedShot,0.7830000305175782,0.485,0.03803899884223938,Jack Colback,h,767,OpenPlay,2015,LeftFoot,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,Georginio Wijnaldum,Pass,767

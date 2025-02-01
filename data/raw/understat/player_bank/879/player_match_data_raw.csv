@@ -1,0 +1,15 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,1,Sub,Swansea,West Bromwich Albion,2,1,2017-05-21,3518,2016,125383,0,0,0,0,0,0,0,879
+0,0,0,9,Sub,West Bromwich Albion,Leicester,0,1,2017-04-29,3489,2016,134633,0,0,0,0,0,0.11996199935674667,0.11996199935674667,879
+0,0,0,8,Sub,West Bromwich Albion,Crystal Palace,0,2,2017-03-04,3408,2016,133558,0,0,0,0,0,0,0,879
+0,0,0,7,Sub,West Bromwich Albion,Manchester United,0,2,2016-12-17,3140,2016,128876,0,0,0,0,0,0,0,879
+0,0,0,37,Sub,West Bromwich Albion,Manchester City,0,4,2016-10-29,2680,2016,127885,0.12914599478244781,0,1,0,0,0.12914599478244781,0,879
+0,0,0,1,Sub,Stoke,West Bromwich Albion,1,1,2016-09-24,513,2016,126714,0.012551399879157543,1,1,0,0,0,0,879
+0,0,0,6,Sub,Bournemouth,West Bromwich Albion,1,0,2016-09-10,495,2016,126022,0,0,0,0,0,0,0,879
+0,0,0,8,Sub,West Bromwich Albion,Middlesbrough,0,0,2016-08-28,489,2016,125953,0,0,0,0,0,0,0,879
+0,0,0,22,Sub,West Bromwich Albion,Everton,1,2,2016-08-20,477,2016,125646,0,0,0,0,0,0,0,879
+0,0,0,75,AMR,West Bromwich Albion,Liverpool,1,1,2016-05-15,459,2015,57889,0.09266790002584457,1,1,0,0,0.20703299343585968,0.11436499655246735,879
+0,0,0,88,AMR,Bournemouth,West Bromwich Albion,1,1,2016-05-07,441,2015,63703,0,0,0,0,0,0.22049599885940552,0.22049599885940552,879
+0,0,0,90,AMR,West Bromwich Albion,West Ham,0,3,2016-04-30,431,2015,63580,0.4721849858760834,0,1,0,0,0.4721849858760834,0,879
+0,0,0,8,Sub,Manchester City,West Bromwich Albion,2,1,2016-04-09,400,2015,66937,0,0,0,0,0,0,0,879
+0,0,0,11,Sub,Sunderland,West Bromwich Albion,0,0,2016-04-02,389,2015,66385,0,0,0,0,0,0,0,879

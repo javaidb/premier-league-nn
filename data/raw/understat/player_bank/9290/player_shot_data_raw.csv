@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+402453,40,SavedShot,0.955999984741211,0.5179999923706055,0.6729400157928467,Mbaye Diagne,a,9290,OpenPlay,2020,LeftFoot,14649,Sheffield United,West Bromwich Albion,2,1,2021-02-02 18:00:00,,Rebound,9290
+403542,8,MissedShots,0.9259999847412109,0.4879999923706055,0.13693900406360626,Mbaye Diagne,a,9290,OpenPlay,2020,Head,14663,Tottenham,West Bromwich Albion,2,0,2021-02-07 12:00:00,Conor Townsend,Cross,9290
+403552,44,SavedShot,0.9390000152587891,0.5459999847412109,0.4156300127506256,Mbaye Diagne,a,9290,OpenPlay,2020,Head,14663,Tottenham,West Bromwich Albion,2,0,2021-02-07 12:00:00,Robert Snodgrass,Cross,9290
+404752,1,Goal,0.9490000152587891,0.5029999923706054,0.12100700289011002,Mbaye Diagne,h,9290,OpenPlay,2020,Head,14673,West Bromwich Albion,Manchester United,1,1,2021-02-14 14:00:00,Conor Gallagher,Aerial,9290
+404754,23,MissedShots,0.875,0.534000015258789,0.04291979968547821,Mbaye Diagne,h,9290,SetPiece,2020,Head,14673,West Bromwich Albion,Manchester United,1,1,2021-02-14 14:00:00,Matheus Pereira,Cross,9290
+404763,77,SavedShot,0.9159999847412109,0.5870000076293945,0.29705798625946045,Mbaye Diagne,h,9290,OpenPlay,2020,RightFoot,14673,West Bromwich Albion,Manchester United,1,1,2021-02-14 14:00:00,Kyle Bartley,Chipped,9290
+404765,87,MissedShots,0.919000015258789,0.545,0.3537220060825348,Mbaye Diagne,h,9290,OpenPlay,2020,RightFoot,14673,West Bromwich Albion,Manchester United,1,1,2021-02-14 14:00:00,Darnell Furlong,Cross,9290
+405574,71,ShotOnPost,0.9419999694824219,0.435,0.8572120070457458,Mbaye Diagne,a,9290,OpenPlay,2020,LeftFoot,14678,Burnley,West Bromwich Albion,0,0,2021-02-20 15:00:00,Matheus Pereira,TakeOn,9290
+406753,25,MissedShots,0.9469999694824218,0.485,0.1525219976902008,Mbaye Diagne,h,9290,OpenPlay,2020,Head,14692,West Bromwich Albion,Brighton,1,0,2021-02-27 15:00:00,Darnell Furlong,Cross,9290
+406755,34,MissedShots,0.7180000305175781,0.40799999237060547,0.016603700816631317,Mbaye Diagne,h,9290,OpenPlay,2020,LeftFoot,14692,West Bromwich Albion,Brighton,1,0,2021-02-27 15:00:00,,None,9290
+408240,1,SavedShot,0.925,0.4779999923706055,0.38283300399780273,Mbaye Diagne,h,9290,OpenPlay,2020,Head,14723,West Bromwich Albion,Everton,0,1,2021-03-04 18:00:00,Conor Gallagher,Cross,9290
+408242,16,MissedShots,0.89,0.47400001525878904,0.0945684015750885,Mbaye Diagne,h,9290,OpenPlay,2020,LeftFoot,14723,West Bromwich Albion,Everton,0,1,2021-03-04 18:00:00,Matt Phillips,HeadPass,9290
+408252,51,MissedShots,0.9440000152587891,0.48700000762939455,0.11712700128555298,Mbaye Diagne,h,9290,OpenPlay,2020,Head,14723,West Bromwich Albion,Everton,0,1,2021-03-04 18:00:00,Kyle Bartley,HeadPass,9290
+408829,27,MissedShots,0.9269999694824219,0.500999984741211,0.12610399723052979,Mbaye Diagne,h,9290,OpenPlay,2020,RightFoot,14703,West Bromwich Albion,Newcastle United,0,0,2021-03-07 12:00:00,Kyle Bartley,HeadPass,9290
+408833,36,SavedShot,0.865999984741211,0.515,0.03671870008111,Mbaye Diagne,h,9290,OpenPlay,2020,Head,14703,West Bromwich Albion,Newcastle United,0,0,2021-03-07 12:00:00,Conor Townsend,Cross,9290
+408840,61,MissedShots,0.9119999694824219,0.5,0.3144800066947937,Mbaye Diagne,h,9290,OpenPlay,2020,Head,14703,West Bromwich Albion,Newcastle United,0,0,2021-03-07 12:00:00,Conor Townsend,Cross,9290
+408843,80,MissedShots,0.9690000152587891,0.5029999923706054,0.12078599631786346,Mbaye Diagne,h,9290,FromCorner,2020,Head,14703,West Bromwich Albion,Newcastle United,0,0,2021-03-07 12:00:00,,None,9290
+409977,71,SavedShot,0.9419999694824219,0.555,0.09593559801578522,Mbaye Diagne,a,9290,SetPiece,2020,RightFoot,14706,Crystal Palace,West Bromwich Albion,1,0,2021-03-13 15:00:00,Okay Yokuslu,Chipped,9290
+412207,67,Goal,0.855,0.425,0.11659400165081024,Mbaye Diagne,a,9290,OpenPlay,2020,RightFoot,14727,Chelsea,West Bromwich Albion,2,5,2021-04-03 11:30:00,Matheus Pereira,Pass,9290
+412215,85,BlockedShot,0.749000015258789,0.6270000076293946,0.027388600632548332,Mbaye Diagne,a,9290,OpenPlay,2020,RightFoot,14727,Chelsea,West Bromwich Albion,2,5,2021-04-03 11:30:00,Callum Robinson,Pass,9290
+414892,27,MissedShots,0.8780000305175781,0.5570000076293945,0.3831520080566406,Mbaye Diagne,h,9290,OpenPlay,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Matheus Pereira,Pass,9290
+418063,46,MissedShots,0.8969999694824219,0.645,0.32479000091552734,Mbaye Diagne,a,9290,OpenPlay,2020,RightFoot,14756,Aston Villa,West Bromwich Albion,2,2,2021-04-25 18:00:00,,SubstitutionOn,9290
+419451,41,BlockedShot,0.9919999694824219,0.605,0.01734359934926033,Mbaye Diagne,h,9290,FromCorner,2020,Head,14774,West Bromwich Albion,Wolverhampton Wanderers,1,1,2021-05-03 17:00:00,Conor Gallagher,Cross,9290
+419459,61,Goal,0.93,0.49,0.39781200885772705,Mbaye Diagne,h,9290,OpenPlay,2020,Head,14774,West Bromwich Albion,Wolverhampton Wanderers,1,1,2021-05-03 17:00:00,Conor Townsend,Cross,9290
+420846,18,MissedShots,0.9669999694824218,0.524000015258789,0.625639021396637,Mbaye Diagne,a,9290,OpenPlay,2020,RightFoot,14775,Arsenal,West Bromwich Albion,3,1,2021-05-09 18:00:00,Matheus Pereira,Cross,9290

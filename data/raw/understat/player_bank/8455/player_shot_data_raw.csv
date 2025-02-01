@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+373769,88,SavedShot,0.89,0.575999984741211,0.10645999759435654,Josh Martin,a,8455,OpenPlay,2019,RightFoot,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,Todd Cantwell,Pass,8455

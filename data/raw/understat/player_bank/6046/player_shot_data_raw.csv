@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+187483,52,SavedShot,0.7280000305175781,0.38799999237060545,0.01664300076663494,Bruno,a,6046,OpenPlay,2017,RightFoot,7348,West Bromwich Albion,Brighton,2,0,2018-01-13 15:00:00,Davy Pröpper,Pass,6046
+211650,18,MissedShots,0.909000015258789,0.3820000076293945,0.04552220180630684,Bruno,a,6046,FromCorner,2017,RightFoot,7469,Burnley,Brighton,0,0,2018-04-28 14:00:00,Pascal Groß,Cross,6046
+249535,47,MissedShots,0.865999984741211,0.40200000762939453,0.04942610114812851,Bruno,h,6046,OpenPlay,2018,RightFoot,9290,Brighton,Wolverhampton Wanderers,1,0,2018-10-27 14:00:00,Glenn Murray,Chipped,6046
+250380,86,BlockedShot,0.735999984741211,0.44299999237060544,0.017558300867676735,Bruno,h,6046,OpenPlay,2018,RightFoot,9322,Brighton,Leicester,1,1,2018-11-24 15:00:00,José Izquierdo,Pass,6046

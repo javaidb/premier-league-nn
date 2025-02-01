@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+5544,Angus Gunn,12,1080,0,0,0,0,0,0,0,0,GK,Southampton,0,0,0.3339809998869896,0.3339809998869896,2018
+5544,Angus Gunn,10,900,0,0,0,0,0,0,0,0,GK,Southampton,0,0,0.4860540181398392,0.4860540181398392,2019
+5544,Angus Gunn,9,810,0,0,0,0,0,0,0,0,GK,Norwich,0,0,0.2774380147457123,0.2774380147457123,2021

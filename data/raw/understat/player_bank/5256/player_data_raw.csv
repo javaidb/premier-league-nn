@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+5256,Oliver Burke,15,336,0,0.45500801503658295,2,0.4694495080038905,4,4,0,0,F S,West Bromwich Albion,0,0.45500801503658295,1.016181718558073,0.231693297624588,2017
+5256,Oliver Burke,25,1272,1,2.6037588827311993,1,2.620451921597123,25,15,2,0,F S,Sheffield United,1,2.6037588827311993,6.119536662474275,1.0531198028475046,2020

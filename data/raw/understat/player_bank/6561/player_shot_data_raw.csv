@@ -1,0 +1,3 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+207057,68,MissedShots,0.94,0.4909999847412109,0.0765426978468895,Tyrese Campbell,h,6561,FromCorner,2017,Head,7446,Stoke,Tottenham,1,2,2018-04-07 14:00:00,,None,6561
+210815,78,SavedShot,0.855,0.675,0.07220909744501114,Tyrese Campbell,h,6561,OpenPlay,2017,LeftFoot,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Xherdan Shaqiri,Pass,6561

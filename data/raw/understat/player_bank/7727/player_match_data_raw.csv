@@ -1,0 +1,11 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,1,Sub,Aston Villa,Arsenal,1,0,2020-07-21,12003,2019,410521,0,0,0,0,0,0,0,7727
+0,0,0,11,Sub,Aston Villa,Manchester City,1,6,2020-01-12,11856,2019,385995,0,0,0,0,0,0,0,7727
+0,1,0.03499549999833107,76,AMC,Watford,Aston Villa,3,0,2019-12-28,11841,2019,372774,0,0,0,0,0.03499549999833107,0.396030992269516,0.36103498935699463,7727
+0,0,0,1,Sub,Aston Villa,Norwich,1,0,2019-12-26,11823,2019,372546,0,0,0,0,0,0,0,7727
+0,0,0,68,MC,Sheffield United,Aston Villa,2,0,2019-12-14,11810,2019,369842,0,0,0,0,0,0,0,7727
+0,1,0.01823350042104721,6,Sub,Manchester United,Aston Villa,2,2,2019-12-01,11782,2019,367082,0,0,0,0,0.01823350042104721,0,0,7727
+0,0,0,1,Sub,Aston Villa,Newcastle United,2,0,2019-11-25,11764,2019,365804,0,0,0,0,0,0,0,7727
+0,0,0,17,Sub,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10,11760,2019,363903,0.06579379737377167,0,2,0,0,0.06579379737377167,0,7727
+0,0,0,1,Sub,Arsenal,Aston Villa,3,2,2019-09-22,11702,2019,353107,0,0,0,0,0,0,0,7727
+0,0,0,4,Sub,Crystal Palace,Aston Villa,1,0,2019-08-31,11676,2019,347480,0,0,0,0,0,0,0,7727

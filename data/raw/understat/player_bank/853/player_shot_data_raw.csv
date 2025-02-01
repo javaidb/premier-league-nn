@@ -1,0 +1,44 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14542,57,MissedShots,0.92,0.504000015258789,0.3789620101451874,Paul Dummett,h,853,SetPiece,2014,Head,4757,Newcastle United,Manchester City,0,2,2014-08-17 16:00:00,Jack Colback,Aerial,853
+15560,17,BlockedShot,0.7119999694824218,0.634000015258789,0.010671700350940228,Paul Dummett,h,853,OpenPlay,2014,LeftFoot,4733,Newcastle United,Hull,2,2,2014-09-20 15:00:00,,None,853
+15561,18,MissedShots,0.71,0.65,0.012403599917888641,Paul Dummett,h,853,OpenPlay,2014,LeftFoot,4733,Newcastle United,Hull,2,2,2014-09-20 15:00:00,,BallRecovery,853
+15869,37,MissedShots,0.9069999694824219,0.585,0.03858179971575737,Paul Dummett,a,853,FromCorner,2014,Head,4748,Stoke,Newcastle United,1,0,2014-09-29 20:00:00,Jack Colback,Cross,853
+15870,38,BlockedShot,0.8019999694824219,0.6780000305175782,0.027798399329185486,Paul Dummett,a,853,OpenPlay,2014,RightFoot,4748,Stoke,Newcastle United,1,0,2014-09-29 20:00:00,Moussa Sissoko,Pass,853
+15882,66,MissedShots,0.7380000305175781,0.7230000305175781,0.013959700241684914,Paul Dummett,a,853,SetPiece,2014,LeftFoot,4748,Stoke,Newcastle United,1,0,2014-09-29 20:00:00,Rémy Cabella,Pass,853
+17504,39,MissedShots,0.950999984741211,0.4879999923706055,0.131182000041008,Paul Dummett,a,853,FromCorner,2014,Head,4693,Swansea,Newcastle United,2,2,2014-10-04 15:00:00,Gabriel Obertan,Cross,853
+16513,19,SavedShot,0.769000015258789,0.685,0.015972299501299858,Paul Dummett,h,853,OpenPlay,2014,LeftFoot,4704,Newcastle United,Leicester,1,0,2014-10-18 15:00:00,,TakeOn,853
+16316,14,MissedShots,0.6619999694824219,0.5829999923706055,0.007770940195769072,Paul Dummett,a,853,SetPiece,2014,LeftFoot,4715,Tottenham,Newcastle United,1,2,2014-10-26 13:30:00,,None,853
+16162,59,MissedShots,0.745999984741211,0.7809999847412109,0.015036899596452713,Paul Dummett,h,853,OpenPlay,2014,LeftFoot,4649,Newcastle United,Liverpool,1,0,2014-11-01 12:45:00,Jack Colback,Pass,853
+17418,6,MissedShots,0.9430000305175781,0.4,0.07654009759426117,Paul Dummett,a,853,SetPiece,2014,Head,4667,West Bromwich Albion,Newcastle United,0,2,2014-11-09 13:30:00,Rémy Cabella,Cross,853
+19058,2,MissedShots,0.7819999694824219,0.3920000076293945,0.08161929994821548,Paul Dummett,h,853,DirectFreekick,2014,LeftFoot,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,,Standard,853
+19059,7,SavedShot,0.8969999694824219,0.6,0.011150999926030636,Paul Dummett,h,853,SetPiece,2014,Head,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,Jack Colback,Aerial,853
+19748,18,OwnGoal,0.12,0.6409999847412109,0,Paul Dummett,h,853,OpenPlay,2014,Head,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,,Clearance,853
+17574,20,BlockedShot,0.9269999694824219,0.6,0.01705940067768097,Paul Dummett,a,853,SetPiece,2014,Head,4565,Chelsea,Newcastle United,2,0,2015-01-10 15:00:00,,Rebound,853
+18936,74,MissedShots,0.9319999694824219,0.5129999923706055,0.06076139956712723,Paul Dummett,h,853,FromCorner,2014,Head,4577,Newcastle United,Southampton,1,2,2015-01-17 17:30:00,Jack Colback,Aerial,853
+21709,10,MissedShots,0.9280000305175782,0.485,0.1275629997253418,Paul Dummett,h,853,SetPiece,2014,Head,4413,Newcastle United,West Bromwich Albion,1,1,2015-05-09 15:00:00,Ryan Taylor,Cross,853
+21711,25,SavedShot,0.924000015258789,0.5740000152587891,0.09513799846172333,Paul Dummett,h,853,SetPiece,2014,Head,4413,Newcastle United,West Bromwich Albion,1,1,2015-05-09 15:00:00,Ryan Taylor,Cross,853
+20417,62,MissedShots,0.9209999847412109,0.49400001525878906,0.517162024974823,Paul Dummett,a,853,FromCorner,2014,RightFoot,4420,Queens Park Rangers,Newcastle United,2,1,2015-05-16 15:00:00,,None,853
+59405,74,BlockedShot,0.7469999694824219,0.620999984741211,0.015473599545657635,Paul Dummett,a,853,OpenPlay,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Vurnon Anita,Pass,853
+54379,54,ShotOnPost,0.9459999847412109,0.44799999237060545,0.11659900099039078,Paul Dummett,a,853,FromCorner,2015,Head,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,Ayoze Pérez,Cross,853
+54680,89,Goal,0.8369999694824218,0.5870000076293945,0.04991870000958443,Paul Dummett,h,853,OpenPlay,2015,LeftFoot,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,,None,853
+52336,30,MissedShots,0.91,0.6780000305175782,0.06700100004673004,Paul Dummett,h,853,OpenPlay,2015,LeftFoot,293,Newcastle United,West Ham,2,1,2016-01-16 19:00:00,,None,853
+55468,33,MissedShots,0.8059999847412109,0.6559999847412109,0.023403899744153023,Paul Dummett,a,853,OpenPlay,2015,LeftFoot,319,Everton,Newcastle United,3,0,2016-02-03 23:45:00,Moussa Sissoko,Cross,853
+187424,21,MissedShots,0.9290000152587891,0.5870000076293945,0.13116399943828583,Paul Dummett,h,853,OpenPlay,2017,LeftFoot,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Matt Ritchie,Pass,853
+194185,79,MissedShots,0.755,0.6609999847412109,0.01733439974486828,Paul Dummett,h,853,FromCorner,2017,LeftFoot,7364,Newcastle United,Burnley,1,1,2018-01-31 19:45:00,Mohamed Diamé,Pass,853
+214376,57,BlockedShot,0.9319999694824219,0.625999984741211,0.06894169747829437,Paul Dummett,a,853,OpenPlay,2017,LeftFoot,7427,Tottenham,Newcastle United,1,0,2018-05-09 20:00:00,,BallTouch,853
+214384,95,MissedShots,0.8590000152587891,0.5820000076293945,0.00832149013876915,Paul Dummett,a,853,SetPiece,2017,Head,7427,Tottenham,Newcastle United,1,0,2018-05-09 20:00:00,Jonjo Shelvey,Aerial,853
+232842,27,MissedShots,0.764000015258789,0.6430000305175781,0.021640099585056305,Paul Dummett,h,853,FromCorner,2018,LeftFoot,9198,Newcastle United,Tottenham,1,2,2018-08-11 14:30:00,,Rebound,853
+233681,54,MissedShots,0.7609999847412109,0.5420000076293945,0.02501389943063259,Paul Dummett,a,853,OpenPlay,2018,LeftFoot,9234,Manchester City,Newcastle United,2,1,2018-09-01 16:30:00,Ki Sung-yueng,HeadPass,853
+250061,48,MissedShots,0.750999984741211,0.6580000305175782,0.013011500239372253,Paul Dummett,h,853,FromCorner,2018,LeftFoot,9309,Newcastle United,Bournemouth,2,1,2018-11-10 15:00:00,,Aerial,853
+250069,57,BlockedShot,0.7980000305175782,0.6,0.05020499974489212,Paul Dummett,h,853,OpenPlay,2018,LeftFoot,9309,Newcastle United,Bournemouth,2,1,2018-11-10 15:00:00,,None,853
+251561,47,BlockedShot,0.91,0.649000015258789,0.015489799901843071,Paul Dummett,h,853,OpenPlay,2018,Head,9369,Newcastle United,Fulham,0,0,2018-12-22 15:00:00,Javier Manquillo,Aerial,853
+284550,68,MissedShots,0.924000015258789,0.46700000762939453,0.10082399845123291,Paul Dummett,h,853,FromCorner,2018,Head,9488,Newcastle United,Everton,3,2,2019-03-09 15:00:00,Matt Ritchie,Cross,853
+284555,82,SavedShot,0.8930000305175781,0.6270000076293946,0.026385899633169174,Paul Dummett,h,853,FromCorner,2018,LeftFoot,9488,Newcastle United,Everton,3,2,2019-03-09 15:00:00,Florian Lejeune,Aerial,853
+286269,57,MissedShots,0.759000015258789,0.5929999923706055,0.017129799351096153,Paul Dummett,a,853,FromCorner,2018,RightFoot,9506,Bournemouth,Newcastle United,2,2,2019-03-16 15:00:00,,None,853
+297524,24,MissedShots,0.7080000305175781,0.524000015258789,0.013316299766302109,Paul Dummett,a,853,FromCorner,2018,LeftFoot,9556,Brighton,Newcastle United,1,1,2019-04-27 17:30:00,,None,853
+310560,60,SavedShot,0.960999984741211,0.624000015258789,0.012597800232470036,Paul Dummett,a,853,FromCorner,2019,Head,11657,Norwich,Newcastle United,3,1,2019-08-17 15:00:00,Ki Sung-yueng,Aerial,853
+315890,63,SavedShot,0.6990000152587891,0.6329999923706054,0.0115660997107625,Paul Dummett,h,853,OpenPlay,2019,LeftFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,,BallTouch,853
+323443,56,OwnGoal,0.12,0.654000015258789,0,Paul Dummett,a,853,OpenPlay,2019,LeftFoot,11710,Leicester,Newcastle United,5,0,2019-09-29 15:30:00,,TakeOn,853
+419729,33,Goal,0.955,0.5279999923706055,0.3637300133705139,Paul Dummett,a,853,FromCorner,2020,Head,14779,Leicester,Newcastle United,2,4,2021-05-07 19:00:00,Matt Ritchie,Aerial,853
+423247,28,MissedShots,0.91,0.5209999847412109,0.030527200549840927,Paul Dummett,h,853,FromCorner,2020,Head,14801,Newcastle United,Sheffield United,1,0,2021-05-19 17:00:00,Jonjo Shelvey,Aerial,853
+423250,35,MissedShots,0.895,0.5690000152587891,0.049835000187158585,Paul Dummett,h,853,SetPiece,2020,Head,14801,Newcastle United,Sheffield United,1,0,2021-05-19 17:00:00,Jonjo Shelvey,Chipped,853

@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+8129,Riccardo Calafiori,12,755,2,0.63924574945122,1,0.2518187277019024,7,4,3,0,D S,Arsenal,2,0.63924574945122,2.913577888160944,2.7479912117123604,2024
+8129,Riccardo Calafiori,12,755,2,0.63924574945122,1,0.2518187277019024,7,4,3,0,D S,Arsenal,2,0.63924574945122,2.913577888160944,2.7479912117123604,2025

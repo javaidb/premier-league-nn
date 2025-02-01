@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+196590,95,MissedShots,0.905,0.57,0.06874830275774002,Roberto Jiménez,h,5087,SetPiece,2017,RightFoot,8116,Malaga,Valencia,1,2,2018-02-17 19:45:00,Roberto Rosales,Cross,5087
+330590,53,OwnGoal,0.012000000476837159,0.5020000076293946,0,Roberto Jiménez,a,5087,FromCorner,2019,OtherBodyPart,11753,Burnley,West Ham,3,0,2019-11-09 15:00:00,,CornerAwarded,5087
+368753,95,BlockedShot,0.8540000152587891,0.46099998474121096,0.02701609954237938,Roberto Jiménez,a,5087,FromCorner,2019,Head,12362,Real Valladolid,Alaves,1,0,2020-07-04 17:30:00,Oliver Burke,Cross,5087

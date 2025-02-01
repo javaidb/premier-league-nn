@@ -1,0 +1,174 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+286931,82,BlockedShot,0.7559999847412109,0.629000015258789,0.032099198549985886,Pedro Neto,h,6382,OpenPlay,2018,LeftFoot,9851,Lazio,Parma Calcio 1913,4,1,2019-03-17 14:00:00,Luis Alberto,Pass,6382
+322707,54,SavedShot,0.8380000305175781,0.6170000076293946,0.06651780009269714,Pedro Neto,h,6382,OpenPlay,2019,RightFoot,11705,Wolverhampton Wanderers,Watford,2,0,2019-09-28 14:00:00,Raúl Jiménez,Pass,6382
+327872,87,BlockedShot,0.759000015258789,0.629000015258789,0.02083509974181652,Pedro Neto,a,6382,OpenPlay,2019,LeftFoot,11738,Newcastle United,Wolverhampton Wanderers,1,1,2019-10-27 14:00:00,Adama Traoré,Pass,6382
+329165,93,BlockedShot,0.8119999694824219,0.5429999923706055,0.055056799203157425,Pedro Neto,a,6382,OpenPlay,2019,LeftFoot,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,Adama Traoré,Pass,6382
+331444,92,MissedShots,0.9209999847412109,0.6659999847412109,0.42785000801086426,Pedro Neto,h,6382,OpenPlay,2019,LeftFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,,TakeOn,6382
+338665,82,BlockedShot,0.8580000305175781,0.6809999847412109,0.05843669921159744,Pedro Neto,a,6382,OpenPlay,2019,LeftFoot,11819,Norwich,Wolverhampton Wanderers,1,2,2019-12-21 15:00:00,Matt Doherty,Pass,6382
+339937,56,MissedShots,0.7680000305175781,0.43599998474121093,0.024737099185585976,Pedro Neto,a,6382,OpenPlay,2019,LeftFoot,11836,Liverpool,Wolverhampton Wanderers,1,0,2019-12-29 16:30:00,Jonny,TakeOn,6382
+351464,47,MissedShots,0.9169999694824219,0.705,0.044946201145648956,Pedro Neto,a,6382,OpenPlay,2019,LeftFoot,11852,Watford,Wolverhampton Wanderers,2,1,2020-01-01 15:00:00,João Moutinho,Pass,6382
+351468,59,Goal,0.76,0.6790000152587891,0.017110200598835945,Pedro Neto,a,6382,OpenPlay,2019,LeftFoot,11852,Watford,Wolverhampton Wanderers,2,1,2020-01-01 15:00:00,João Moutinho,Pass,6382
+351679,75,SavedShot,0.9640000152587891,0.575,0.3062860071659088,Pedro Neto,h,6382,OpenPlay,2019,Head,11853,Wolverhampton Wanderers,Newcastle United,1,1,2020-01-11 15:00:00,Leander Dendoncker,Chipped,6382
+351950,52,Goal,0.919000015258789,0.45599998474121095,0.2957350015640259,Pedro Neto,a,6382,OpenPlay,2019,RightFoot,11870,Southampton,Wolverhampton Wanderers,2,3,2020-01-18 15:00:00,Adama Traoré,Cross,6382
+351953,67,MissedShots,0.825,0.5220000076293946,0.05710669979453087,Pedro Neto,a,6382,OpenPlay,2019,LeftFoot,11870,Southampton,Wolverhampton Wanderers,2,3,2020-01-18 15:00:00,,None,6382
+352335,47,BlockedShot,0.9030000305175782,0.6680000305175782,0.10538599640130997,Pedro Neto,h,6382,OpenPlay,2019,LeftFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Raúl Jiménez,Pass,6382
+352724,40,MissedShots,0.855,0.35700000762939454,0.058834899216890335,Pedro Neto,h,6382,OpenPlay,2019,LeftFoot,11902,Wolverhampton Wanderers,Leicester,0,0,2020-02-14 20:00:00,,BallRecovery,6382
+365583,83,Goal,0.9159999847412109,0.6,0.09925760328769684,Pedro Neto,a,6382,OpenPlay,2019,LeftFoot,11934,West Ham,Wolverhampton Wanderers,0,2,2020-06-20 16:30:00,Matt Doherty,Cross,6382
+366336,76,BlockedShot,0.860999984741211,0.3039999961853027,0.04705379903316498,Pedro Neto,h,6382,OpenPlay,2019,LeftFoot,11947,Wolverhampton Wanderers,Bournemouth,1,0,2020-06-24 17:00:00,Matt Doherty,Pass,6382
+366340,94,MissedShots,0.884000015258789,0.6419999694824219,0.1294579952955246,Pedro Neto,h,6382,OpenPlay,2019,LeftFoot,11947,Wolverhampton Wanderers,Bournemouth,1,0,2020-06-24 17:00:00,Romain Saiss,None,6382
+371457,88,SavedShot,0.924000015258789,0.315,0.07884009927511215,Pedro Neto,a,6382,OpenPlay,2019,RightFoot,11994,Burnley,Wolverhampton Wanderers,1,1,2020-07-15 17:00:00,Adama Traoré,Pass,6382
+378528,15,BlockedShot,0.789000015258789,0.5640000152587891,0.034228600561618805,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14105,Wolverhampton Wanderers,Manchester City,1,3,2020-09-21 19:15:00,Daniel Podence,Pass,6382
+378544,73,BlockedShot,0.8030000305175782,0.46700000762939453,0.05115389823913574,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14105,Wolverhampton Wanderers,Manchester City,1,3,2020-09-21 19:15:00,Conor Coady,Pass,6382
+379787,27,MissedShots,0.7390000152587891,0.3509999847412109,0.01789120025932789,Pedro Neto,a,6382,OpenPlay,2020,LeftFoot,14113,West Ham,Wolverhampton Wanderers,4,0,2020-09-27 18:00:00,João Moutinho,Pass,6382
+379808,86,MissedShots,0.7480000305175781,0.3110000038146973,0.01211019977927208,Pedro Neto,a,6382,OpenPlay,2020,RightFoot,14113,West Ham,Wolverhampton Wanderers,4,0,2020-09-27 18:00:00,Fabio Silva,Pass,6382
+381214,26,SavedShot,0.7909999847412109,0.63,0.03140610083937645,Pedro Neto,h,6382,OpenPlay,2020,RightFoot,14474,Wolverhampton Wanderers,Fulham,1,0,2020-10-04 13:00:00,,BallRecovery,6382
+381223,55,Goal,0.85,0.615,0.049653198570013046,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14474,Wolverhampton Wanderers,Fulham,1,0,2020-10-04 13:00:00,,Rebound,6382
+381230,77,BlockedShot,0.7680000305175781,0.45,0.03874719887971878,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14474,Wolverhampton Wanderers,Fulham,1,0,2020-10-04 13:00:00,,None,6382
+382941,73,BlockedShot,0.8880000305175781,0.759000015258789,0.03852209821343422,Pedro Neto,a,6382,OpenPlay,2020,LeftFoot,14478,Leeds,Wolverhampton Wanderers,0,1,2020-10-19 19:00:00,Adama Traoré,Pass,6382
+384005,50,MissedShots,0.8640000152587891,0.49900001525878906,0.10541299730539322,Pedro Neto,h,6382,OpenPlay,2020,RightFoot,14494,Wolverhampton Wanderers,Newcastle United,1,1,2020-10-25 16:30:00,Daniel Podence,Pass,6382
+384006,52,MissedShots,0.750999984741211,0.43099998474121093,0.02113570086658001,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14494,Wolverhampton Wanderers,Newcastle United,1,1,2020-10-25 16:30:00,Raúl Jiménez,Pass,6382
+384012,70,BlockedShot,0.754000015258789,0.5940000152587891,0.02136719971895218,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14494,Wolverhampton Wanderers,Newcastle United,1,1,2020-10-25 16:30:00,Rúben Neves,Pass,6382
+384013,75,BlockedShot,0.8530000305175781,0.5670000076293945,0.08180420100688934,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14494,Wolverhampton Wanderers,Newcastle United,1,1,2020-10-25 16:30:00,Fernando Marçal,Pass,6382
+386629,54,SavedShot,0.8530000305175781,0.6790000152587891,0.07235579937696457,Pedro Neto,a,6382,OpenPlay,2020,LeftFoot,14510,Leicester,Wolverhampton Wanderers,1,0,2020-11-08 14:00:00,Daniel Podence,Pass,6382
+388397,70,BlockedShot,0.87,0.6170000076293946,0.07738889753818512,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14524,Wolverhampton Wanderers,Southampton,1,1,2020-11-23 20:00:00,Daniel Podence,Pass,6382
+388401,74,Goal,0.91,0.544000015258789,0.43161898851394653,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14524,Wolverhampton Wanderers,Southampton,1,1,2020-11-23 20:00:00,,Rebound,6382
+388402,82,SavedShot,0.9259999847412109,0.69,0.06198909878730774,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14524,Wolverhampton Wanderers,Southampton,1,1,2020-11-23 20:00:00,Raúl Jiménez,Pass,6382
+389670,26,Goal,0.9290000152587891,0.5209999847412109,0.5303440093994141,Pedro Neto,a,6382,OpenPlay,2020,RightFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,,Rebound,6382
+389674,41,SavedShot,0.81,0.6270000076293946,0.03635599836707115,Pedro Neto,a,6382,OpenPlay,2020,LeftFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,Adama Traoré,Pass,6382
+391400,26,BlockedShot,0.7169999694824218,0.4779999923706055,0.044797398149967194,Pedro Neto,h,6382,DirectFreekick,2020,LeftFoot,14552,Wolverhampton Wanderers,Aston Villa,0,1,2020-12-12 12:30:00,,Standard,6382
+391417,62,MissedShots,0.745999984741211,0.49599998474121093,0.024594299495220184,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14552,Wolverhampton Wanderers,Aston Villa,0,1,2020-12-12 12:30:00,Nélson Semedo,Pass,6382
+392594,21,SavedShot,0.775,0.585999984741211,0.02794330008327961,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14562,Wolverhampton Wanderers,Chelsea,2,1,2020-12-15 18:00:00,Fabio Silva,Pass,6382
+392604,54,MissedShots,0.789000015258789,0.68,0.025112999603152275,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14562,Wolverhampton Wanderers,Chelsea,2,1,2020-12-15 18:00:00,Rúben Neves,Pass,6382
+392610,94,Goal,0.865,0.6809999847412109,0.07075069844722748,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14562,Wolverhampton Wanderers,Chelsea,2,1,2020-12-15 18:00:00,Vitinha,Pass,6382
+392612,98,MissedShots,0.9590000152587891,0.3240000152587891,0.34486499428749084,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14562,Wolverhampton Wanderers,Chelsea,2,1,2020-12-15 18:00:00,Owen Otasowie,TakeOn,6382
+394853,7,BlockedShot,0.7980000305175782,0.40099998474121096,0.10309299826622009,Pedro Neto,a,6382,DirectFreekick,2020,LeftFoot,14566,Burnley,Wolverhampton Wanderers,2,1,2020-12-21 17:30:00,,Standard,6382
+394857,22,SavedShot,0.8330000305175781,0.40400001525878904,0.054224900901317596,Pedro Neto,a,6382,OpenPlay,2020,LeftFoot,14566,Burnley,Wolverhampton Wanderers,2,1,2020-12-21 17:30:00,Rúben Neves,Chipped,6382
+394867,60,MissedShots,0.9269999694824219,0.575999984741211,0.08291289955377579,Pedro Neto,a,6382,OpenPlay,2020,Head,14566,Burnley,Wolverhampton Wanderers,2,1,2020-12-21 17:30:00,Adama Traoré,Cross,6382
+395816,67,BlockedShot,0.7959999847412109,0.445,0.038113899528980255,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14584,Wolverhampton Wanderers,Tottenham,1,1,2020-12-27 19:15:00,Conor Coady,Pass,6382
+395981,7,SavedShot,0.86,0.7030000305175781,0.042264699935913086,Pedro Neto,a,6382,OpenPlay,2020,RightFoot,14592,Manchester United,Wolverhampton Wanderers,1,0,2020-12-29 20:00:00,Adama Traoré,Pass,6382
+395985,12,BlockedShot,0.88,0.32,0.0739763006567955,Pedro Neto,a,6382,OpenPlay,2020,LeftFoot,14592,Manchester United,Wolverhampton Wanderers,1,0,2020-12-29 20:00:00,Ki-Jana Hoever,TakeOn,6382
+396539,3,MissedShots,0.8730000305175781,0.7080000305175781,0.04039020091295242,Pedro Neto,a,6382,OpenPlay,2020,LeftFoot,14601,Brighton,Wolverhampton Wanderers,3,3,2021-01-02 17:30:00,Fabio Silva,None,6382
+396546,33,SavedShot,0.88,0.22700000762939454,0.020741399377584457,Pedro Neto,a,6382,OpenPlay,2020,LeftFoot,14601,Brighton,Wolverhampton Wanderers,3,3,2021-01-02 17:30:00,Rúben Neves,Chipped,6382
+398672,16,BlockedShot,0.7919999694824219,0.22899999618530273,0.01982159912586212,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14612,Wolverhampton Wanderers,Everton,1,2,2021-01-12 20:15:00,Nélson Semedo,Pass,6382
+398685,81,BlockedShot,0.915,0.6990000152587891,0.05357639864087105,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14612,Wolverhampton Wanderers,Everton,1,2,2021-01-12 20:15:00,Rúben Neves,Pass,6382
+398857,84,BlockedShot,0.735,0.6509999847412109,0.016337599605321884,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14624,Wolverhampton Wanderers,West Bromwich Albion,2,3,2021-01-16 12:30:00,Morgan Gibbs-White,Pass,6382
+401230,70,ShotOnPost,0.884000015258789,0.6329999923706054,0.46199101209640503,Pedro Neto,a,6382,OpenPlay,2020,LeftFoot,14630,Chelsea,Wolverhampton Wanderers,0,0,2021-01-27 18:00:00,,None,6382
+401231,75,MissedShots,0.730999984741211,0.44599998474121094,0.017599400132894516,Pedro Neto,a,6382,SetPiece,2020,LeftFoot,14630,Chelsea,Wolverhampton Wanderers,0,0,2021-01-27 18:00:00,Adama Traoré,Pass,6382
+401706,69,SavedShot,0.7680000305175781,0.4759999847412109,0.026532499119639397,Pedro Neto,a,6382,OpenPlay,2020,LeftFoot,14638,Crystal Palace,Wolverhampton Wanderers,1,0,2021-01-30 15:00:00,Leander Dendoncker,Pass,6382
+402440,76,SavedShot,0.9180000305175782,0.759000015258789,0.03127409890294075,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14650,Wolverhampton Wanderers,Arsenal,2,1,2021-02-02 18:00:00,Vitinha,Chipped,6382
+402441,78,SavedShot,0.975,0.6659999847412109,0.08820310235023499,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14650,Wolverhampton Wanderers,Arsenal,2,1,2021-02-02 18:00:00,Max Kilman,TakeOn,6382
+403779,51,BlockedShot,0.755,0.6880000305175781,0.009303569793701172,Pedro Neto,h,6382,OpenPlay,2020,RightFoot,14664,Wolverhampton Wanderers,Leicester,0,0,2021-02-07 14:00:00,João Moutinho,Chipped,6382
+403781,56,MissedShots,0.9490000152587891,0.5629999923706055,0.41710901260375977,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14664,Wolverhampton Wanderers,Leicester,0,0,2021-02-07 14:00:00,Adama Traoré,Cross,6382
+404633,50,BlockedShot,0.78,0.355,0.02495349943637848,Pedro Neto,a,6382,OpenPlay,2020,LeftFoot,14672,Southampton,Wolverhampton Wanderers,1,2,2021-02-14 12:00:00,Nélson Semedo,Pass,6382
+404639,65,Goal,0.9690000152587891,0.35200000762939454,0.12179499864578247,Pedro Neto,a,6382,OpenPlay,2020,LeftFoot,14672,Southampton,Wolverhampton Wanderers,1,2,2021-02-14 12:00:00,Rúben Neves,TakeOn,6382
+405303,11,SavedShot,0.7280000305175781,0.4520000076293945,0.01682789996266365,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14684,Wolverhampton Wanderers,Leeds,1,0,2021-02-19 20:00:00,,BallRecovery,6382
+405306,17,SavedShot,0.735,0.40799999237060547,0.013131599873304367,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14684,Wolverhampton Wanderers,Leeds,1,0,2021-02-19 20:00:00,,Rebound,6382
+405308,20,MissedShots,0.7630000305175781,0.6859999847412109,0.014956199564039707,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14684,Wolverhampton Wanderers,Leeds,1,0,2021-02-19 20:00:00,Willian José,Pass,6382
+405314,30,BlockedShot,0.7930000305175782,0.3609999847412109,0.055226199328899384,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14684,Wolverhampton Wanderers,Leeds,1,0,2021-02-19 20:00:00,Willian José,Pass,6382
+405318,51,MissedShots,0.855999984741211,0.325,0.044881999492645264,Pedro Neto,h,6382,OpenPlay,2020,RightFoot,14684,Wolverhampton Wanderers,Leeds,1,0,2021-02-19 20:00:00,Leander Dendoncker,None,6382
+406975,15,BlockedShot,0.925,0.27700000762939453,0.01889299973845482,Pedro Neto,a,6382,OpenPlay,2020,LeftFoot,14688,Newcastle United,Wolverhampton Wanderers,1,1,2021-02-27 20:00:00,Adama Traoré,Cross,6382
+406984,33,MissedShots,0.88,0.5609999847412109,0.37652599811553955,Pedro Neto,a,6382,OpenPlay,2020,LeftFoot,14688,Newcastle United,Wolverhampton Wanderers,1,1,2021-02-27 20:00:00,Adama Traoré,Pass,6382
+406985,40,MissedShots,0.965,0.3120000076293945,0.028780199587345123,Pedro Neto,a,6382,OpenPlay,2020,RightFoot,14688,Newcastle United,Wolverhampton Wanderers,1,1,2021-02-27 20:00:00,Adama Traoré,Cross,6382
+406986,43,SavedShot,0.6919999694824219,0.57,0.03426690027117729,Pedro Neto,a,6382,DirectFreekick,2020,LeftFoot,14688,Newcastle United,Wolverhampton Wanderers,1,1,2021-02-27 20:00:00,,Standard,6382
+406995,59,MissedShots,0.7669999694824219,0.6480000305175782,0.02266469970345497,Pedro Neto,a,6382,OpenPlay,2020,LeftFoot,14688,Newcastle United,Wolverhampton Wanderers,1,1,2021-02-27 20:00:00,Rúben Neves,Pass,6382
+407749,69,BlockedShot,0.904000015258789,0.3340000152587891,0.07337670028209686,Pedro Neto,a,6382,OpenPlay,2020,LeftFoot,14720,Manchester City,Wolverhampton Wanderers,4,1,2021-03-02 20:00:00,João Moutinho,Pass,6382
+408654,49,SavedShot,0.919000015258789,0.31,0.10696999728679657,Pedro Neto,a,6382,OpenPlay,2020,RightFoot,14695,Aston Villa,Wolverhampton Wanderers,0,0,2021-03-06 17:30:00,Conor Coady,BallRecovery,6382
+408662,86,SavedShot,0.855,0.14899999618530274,0.042450498789548874,Pedro Neto,a,6382,DirectFreekick,2020,LeftFoot,14695,Aston Villa,Wolverhampton Wanderers,0,0,2021-03-06 17:30:00,,Standard,6382
+413471,25,MissedShots,0.8930000305175781,0.45599998474121095,0.07920350134372711,Pedro Neto,h,6382,OpenPlay,2020,Head,14734,Wolverhampton Wanderers,West Ham,2,3,2021-04-05 19:15:00,Daniel Podence,Cross,6382
+413478,40,MissedShots,0.955,0.43400001525878906,0.4358389973640442,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14734,Wolverhampton Wanderers,West Ham,2,3,2021-04-05 19:15:00,,Rebound,6382
+413485,60,SavedShot,0.8880000305175781,0.30200000762939455,0.03959989920258522,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14734,Wolverhampton Wanderers,West Ham,2,3,2021-04-05 19:15:00,Nélson Semedo,Pass,6382
+413486,65,MissedShots,0.79,0.4129999923706055,0.02785460092127323,Pedro Neto,h,6382,SetPiece,2020,LeftFoot,14734,Wolverhampton Wanderers,West Ham,2,3,2021-04-05 19:15:00,Rúben Neves,Pass,6382
+413489,76,MissedShots,0.8690000152587891,0.4229999923706055,0.06778419762849808,Pedro Neto,h,6382,OpenPlay,2020,LeftFoot,14734,Wolverhampton Wanderers,West Ham,2,3,2021-04-05 19:15:00,,BallTouch,6382
+458872,94,MissedShots,0.6890000152587891,0.4209999847412109,0.023388000205159187,Pedro Neto,h,6382,OpenPlay,2021,LeftFoot,16635,Wolverhampton Wanderers,Leicester,2,1,2022-02-20 16:30:00,Nélson Semedo,BallRecovery,6382
+459264,85,MissedShots,0.845999984741211,0.5479999923706055,0.08431970328092575,Pedro Neto,a,6382,OpenPlay,2021,LeftFoot,16566,Arsenal,Wolverhampton Wanderers,2,1,2022-02-24 19:45:00,Rayan Ait Nouri,Pass,6382
+460246,77,BlockedShot,0.8719999694824219,0.7090000152587891,0.041957300156354904,Pedro Neto,a,6382,OpenPlay,2021,LeftFoot,16645,West Ham,Wolverhampton Wanderers,1,0,2022-02-27 14:00:00,Leander Dendoncker,Pass,6382
+462154,74,SavedShot,0.9059999847412109,0.5429999923706055,0.0361298993229866,Pedro Neto,h,6382,OpenPlay,2021,Head,16565,Wolverhampton Wanderers,Watford,4,0,2022-03-10 19:30:00,Jonny,Aerial,6382
+462156,77,MissedShots,0.8090000152587891,0.3509999847412109,0.015896599739789963,Pedro Neto,h,6382,FromCorner,2021,LeftFoot,16565,Wolverhampton Wanderers,Watford,4,0,2022-03-10 19:30:00,,Aerial,6382
+470504,67,BlockedShot,0.840999984741211,0.5570000076293945,0.059112198650836945,Pedro Neto,a,6382,OpenPlay,2021,LeftFoot,16712,Burnley,Wolverhampton Wanderers,1,0,2022-04-24 13:00:00,Hee-Chan Hwang,TakeOn,6382
+471580,83,BlockedShot,0.7659999847412109,0.4929999923706055,0.04051470011472702,Pedro Neto,h,6382,OpenPlay,2021,RightFoot,16716,Wolverhampton Wanderers,Brighton,0,3,2022-04-30 14:00:00,,TakeOn,6382
+471581,84,BlockedShot,0.885,0.34900001525878904,0.04882499948143959,Pedro Neto,h,6382,FromCorner,2021,LeftFoot,16716,Wolverhampton Wanderers,Brighton,0,3,2022-04-30 14:00:00,Conor Coady,None,6382
+471586,92,ShotOnPost,0.895,0.7030000305175781,0.0931997001171112,Pedro Neto,h,6382,OpenPlay,2021,LeftFoot,16716,Wolverhampton Wanderers,Brighton,0,3,2022-04-30 14:00:00,João Moutinho,Pass,6382
+474776,44,SavedShot,0.855,0.695,0.0972839966416359,Pedro Neto,a,6382,OpenPlay,2021,RightFoot,16731,Chelsea,Wolverhampton Wanderers,2,2,2022-05-07 14:00:00,Rúben Neves,Chipped,6382
+475280,29,BlockedShot,0.8130000305175781,0.4520000076293945,0.0610153004527092,Pedro Neto,h,6382,OpenPlay,2021,LeftFoot,16696,Wolverhampton Wanderers,Manchester City,1,5,2022-05-11 19:15:00,Raúl Jiménez,Pass,6382
+476289,42,MissedShots,0.830999984741211,0.605,0.0449380986392498,Pedro Neto,h,6382,OpenPlay,2021,LeftFoot,16736,Wolverhampton Wanderers,Norwich,1,1,2022-05-15 13:00:00,,BallRecovery,6382
+476291,47,MissedShots,0.735,0.4129999923706055,0.01787699945271015,Pedro Neto,h,6382,OpenPlay,2021,LeftFoot,16736,Wolverhampton Wanderers,Norwich,1,1,2022-05-15 13:00:00,Raúl Jiménez,Pass,6382
+476290,47,BlockedShot,0.899000015258789,0.18100000381469727,0.059772200882434845,Pedro Neto,h,6382,DirectFreekick,2021,LeftFoot,16736,Wolverhampton Wanderers,Norwich,1,1,2022-05-15 13:00:00,,Standard,6382
+476294,57,SavedShot,0.9459999847412109,0.5509999847412109,0.42362698912620544,Pedro Neto,h,6382,OpenPlay,2021,Head,16736,Wolverhampton Wanderers,Norwich,1,1,2022-05-15 13:00:00,Chiquinho,Cross,6382
+476297,64,BlockedShot,0.72,0.38799999237060545,0.015130500309169292,Pedro Neto,h,6382,SetPiece,2021,LeftFoot,16736,Wolverhampton Wanderers,Norwich,1,1,2022-05-15 13:00:00,João Moutinho,Pass,6382
+477896,2,Goal,0.9290000152587891,0.555,0.47370898723602295,Pedro Neto,a,6382,OpenPlay,2021,LeftFoot,16753,Liverpool,Wolverhampton Wanderers,3,1,2022-05-22 15:00:00,Raúl Jiménez,Pass,6382
+479275,34,SavedShot,0.874000015258789,0.6730000305175782,0.026947900652885437,Pedro Neto,a,6382,OpenPlay,2022,LeftFoot,18205,Leeds,Wolverhampton Wanderers,2,1,2022-08-06 14:00:00,Daniel Podence,Cross,6382
+479280,54,BlockedShot,0.8819999694824219,0.6840000152587891,0.056064799427986145,Pedro Neto,a,6382,OpenPlay,2022,RightFoot,18205,Leeds,Wolverhampton Wanderers,2,1,2022-08-06 14:00:00,Rúben Neves,TakeOn,6382
+479287,75,BlockedShot,0.779000015258789,0.754000015258789,0.017455799505114555,Pedro Neto,a,6382,OpenPlay,2022,RightFoot,18205,Leeds,Wolverhampton Wanderers,2,1,2022-08-06 14:00:00,Rayan Ait Nouri,Pass,6382
+481623,33,BlockedShot,0.7130000305175781,0.3120000076293945,0.015579800121486187,Pedro Neto,a,6382,OpenPlay,2022,LeftFoot,18222,Tottenham,Wolverhampton Wanderers,1,0,2022-08-20 11:30:00,Matheus Nunes,Pass,6382
+484207,6,MissedShots,0.895,0.46,0.31106001138687134,Pedro Neto,h,6382,OpenPlay,2022,LeftFoot,18240,Wolverhampton Wanderers,Newcastle United,1,1,2022-08-28 13:00:00,Gonçalo Guedes,Cross,6382
+484224,58,SavedShot,0.8590000152587891,0.720999984741211,0.05267639830708504,Pedro Neto,h,6382,OpenPlay,2022,LeftFoot,18240,Wolverhampton Wanderers,Newcastle United,1,1,2022-08-28 13:00:00,João Moutinho,BallRecovery,6382
+485171,2,BlockedShot,0.7419999694824219,0.38599998474121094,0.017330199480056763,Pedro Neto,a,6382,SetPiece,2022,LeftFoot,18248,Bournemouth,Wolverhampton Wanderers,0,0,2022-08-31 18:30:00,João Moutinho,Pass,6382
+485174,19,MissedShots,0.7390000152587891,0.45,0.021899299696087837,Pedro Neto,a,6382,OpenPlay,2022,LeftFoot,18248,Bournemouth,Wolverhampton Wanderers,0,0,2022-08-31 18:30:00,Matheus Nunes,Pass,6382
+485183,67,MissedShots,0.8619999694824219,0.34700000762939454,0.05913219973444939,Pedro Neto,a,6382,OpenPlay,2022,LeftFoot,18248,Bournemouth,Wolverhampton Wanderers,0,0,2022-08-31 18:30:00,Nathan Collins,Pass,6382
+485914,13,MissedShots,0.8619999694824219,0.4179999923706055,0.12332399934530258,Pedro Neto,h,6382,OpenPlay,2022,LeftFoot,18256,Wolverhampton Wanderers,Southampton,1,0,2022-09-03 14:00:00,Matheus Nunes,Pass,6382
+488555,22,MissedShots,0.9340000152587891,0.3110000038146973,0.05834149941802025,Pedro Neto,h,6382,OpenPlay,2022,RightFoot,18274,Wolverhampton Wanderers,Manchester City,0,3,2022-09-17 11:30:00,Gonçalo Guedes,Pass,6382
+514231,57,SavedShot,0.8119999694824219,0.46599998474121096,0.15188199281692505,Pedro Neto,a,6382,DirectFreekick,2022,LeftFoot,18469,Newcastle United,Wolverhampton Wanderers,2,1,2023-03-12 16:30:00,,Standard,6382
+515032,10,BlockedShot,0.9169999694824219,0.40900001525878904,0.09041579812765121,Pedro Neto,h,6382,OpenPlay,2022,LeftFoot,18481,Wolverhampton Wanderers,Leeds,2,4,2023-03-18 15:00:00,,Rebound,6382
+516334,82,BlockedShot,0.7830000305175782,0.5209999847412109,0.028025899082422256,Pedro Neto,a,6382,SetPiece,2022,LeftFoot,18490,Nottingham Forest,Wolverhampton Wanderers,1,1,2023-04-01 14:00:00,Diego Costa,Pass,6382
+520921,93,BlockedShot,0.720999984741211,0.674000015258789,0.008884618058800697,Pedro Neto,a,6382,OpenPlay,2022,RightFoot,18518,Leicester,Wolverhampton Wanderers,2,1,2023-04-22 14:00:00,João Gomes,Chipped,6382
+522737,30,BlockedShot,0.8869999694824219,0.305,0.049205027520656586,Pedro Neto,a,6382,OpenPlay,2022,LeftFoot,18535,Brighton,Wolverhampton Wanderers,6,0,2023-04-29 14:00:00,Nélson Semedo,Pass,6382
+522741,46,MissedShots,0.78,0.36700000762939455,0.018545223399996758,Pedro Neto,a,6382,OpenPlay,2022,LeftFoot,18535,Brighton,Wolverhampton Wanderers,6,0,2023-04-29 14:00:00,Rúben Neves,Chipped,6382
+532764,45,SavedShot,0.980999984741211,0.3129999923706055,0.05218026041984558,Pedro Neto,a,6382,OpenPlay,2023,RightFoot,22284,Manchester United,Wolverhampton Wanderers,1,0,2023-08-14 19:00:00,Pablo Sarabia,Pass,6382
+532765,48,MissedShots,0.9169999694824219,0.44799999237060545,0.13522909581661224,Pedro Neto,a,6382,OpenPlay,2023,RightFoot,22284,Manchester United,Wolverhampton Wanderers,1,0,2023-08-14 19:00:00,Pablo Sarabia,Pass,6382
+532775,71,SavedShot,0.875,0.45,0.11975923925638199,Pedro Neto,a,6382,OpenPlay,2023,LeftFoot,22284,Manchester United,Wolverhampton Wanderers,1,0,2023-08-14 19:00:00,,None,6382
+533148,36,MissedShots,0.89,0.31,0.09001222997903824,Pedro Neto,h,6382,OpenPlay,2023,RightFoot,22286,Wolverhampton Wanderers,Brighton,1,4,2023-08-19 14:00:00,Fabio Silva,Pass,6382
+533162,74,BlockedShot,0.8730000305175781,0.4620000076293945,0.23197753727436066,Pedro Neto,h,6382,OpenPlay,2023,LeftFoot,22286,Wolverhampton Wanderers,Brighton,1,4,2023-08-19 14:00:00,,TakeOn,6382
+534656,34,MissedShots,0.870999984741211,0.32599998474121095,0.041195616126060486,Pedro Neto,a,6382,OpenPlay,2023,RightFoot,22299,Everton,Wolverhampton Wanderers,0,1,2023-08-26 14:00:00,,Rebound,6382
+536767,33,BlockedShot,0.9059999847412109,0.6580000305175782,0.06656749546527863,Pedro Neto,a,6382,OpenPlay,2023,LeftFoot,21932,Crystal Palace,Wolverhampton Wanderers,3,2,2023-09-03 13:00:00,Fabio Silva,Pass,6382
+536770,41,SavedShot,0.8730000305175781,0.7030000305175781,0.04581866413354874,Pedro Neto,a,6382,OpenPlay,2023,RightFoot,21932,Crystal Palace,Wolverhampton Wanderers,3,2,2023-09-03 13:00:00,Pablo Sarabia,Pass,6382
+536782,87,SavedShot,0.7580000305175781,0.33,0.011474833823740482,Pedro Neto,a,6382,OpenPlay,2023,LeftFoot,21932,Crystal Palace,Wolverhampton Wanderers,3,2,2023-09-03 13:00:00,Nélson Semedo,Pass,6382
+537348,18,MissedShots,0.8009999847412109,0.6719999694824219,0.04417712241411209,Pedro Neto,h,6382,OpenPlay,2023,RightFoot,21935,Wolverhampton Wanderers,Liverpool,1,3,2023-09-16 11:30:00,Jean-Ricner Bellegarde,TakeOn,6382
+539120,49,Goal,0.915,0.34400001525878904,0.10795381665229797,Pedro Neto,a,6382,OpenPlay,2023,LeftFoot,21945,Luton,Wolverhampton Wanderers,1,1,2023-09-23 14:00:00,,None,6382
+543099,77,MissedShots,0.91,0.4829999923706055,0.5960643887519836,Pedro Neto,h,6382,OpenPlay,2023,RightFoot,21974,Wolverhampton Wanderers,Aston Villa,1,1,2023-10-08 13:00:00,Sasa Kalajdzic,Pass,6382
+543985,4,ShotOnPost,0.7980000305175782,0.445,0.04103309288620949,Pedro Neto,a,6382,OpenPlay,2023,LeftFoot,21975,Bournemouth,Wolverhampton Wanderers,1,2,2023-10-21 14:00:00,Matheus Cunha,Pass,6382
+543991,32,MissedShots,0.84,0.3390000152587891,0.036374349147081375,Pedro Neto,a,6382,OpenPlay,2023,LeftFoot,21975,Bournemouth,Wolverhampton Wanderers,1,2,2023-10-21 14:00:00,Matt Doherty,Pass,6382
+544002,76,BlockedShot,0.8590000152587891,0.73,0.02784084901213646,Pedro Neto,a,6382,FromCorner,2023,LeftFoot,21975,Bournemouth,Wolverhampton Wanderers,1,2,2023-10-21 14:00:00,Tommy Doyle,Pass,6382
+544005,80,MissedShots,0.8869999694824219,0.5259999847412109,0.10470504313707352,Pedro Neto,a,6382,OpenPlay,2023,LeftFoot,21975,Bournemouth,Wolverhampton Wanderers,1,2,2023-10-21 14:00:00,Matheus Cunha,BallTouch,6382
+545667,35,SavedShot,0.8730000305175781,0.34200000762939453,0.04899556562304497,Pedro Neto,h,6382,OpenPlay,2023,LeftFoot,21994,Wolverhampton Wanderers,Newcastle United,2,2,2023-10-28 16:30:00,,None,6382
+545673,48,BlockedShot,0.7580000305175781,0.500999984741211,0.07170765101909637,Pedro Neto,h,6382,DirectFreekick,2023,LeftFoot,21994,Wolverhampton Wanderers,Newcastle United,2,2,2023-10-28 16:30:00,,Standard,6382
+556979,89,MissedShots,0.9080000305175782,0.7230000305175781,0.09850161522626877,Pedro Neto,h,6382,OpenPlay,2023,LeftFoot,22094,Wolverhampton Wanderers,Everton,3,0,2023-12-30 15:00:00,Boubacar Traore,Pass,6382
+559517,21,MissedShots,0.7780000305175782,0.47900001525878905,0.055298592895269394,Pedro Neto,a,6382,OpenPlay,2023,LeftFoot,22095,Brighton,Wolverhampton Wanderers,0,0,2024-01-22 19:45:00,Pablo Sarabia,Pass,6382
+560855,72,MissedShots,0.9480000305175781,0.6930000305175781,0.05049711465835571,Pedro Neto,h,6382,OpenPlay,2023,LeftFoot,22111,Wolverhampton Wanderers,Manchester United,3,4,2024-02-01 20:15:00,Pablo Sarabia,Pass,6382
+560862,84,BlockedShot,0.8569999694824219,0.37,0.0483088418841362,Pedro Neto,h,6382,FromCorner,2023,LeftFoot,22111,Wolverhampton Wanderers,Manchester United,3,4,2024-02-01 20:15:00,Matheus Cunha,LayOff,6382
+560868,94,Goal,0.855999984741211,0.36,0.089881531894207,Pedro Neto,h,6382,OpenPlay,2023,LeftFoot,22111,Wolverhampton Wanderers,Manchester United,3,4,2024-02-01 20:15:00,Matheus Cunha,Pass,6382
+561566,1,SavedShot,0.895,0.71,0.04919622838497162,Pedro Neto,a,6382,OpenPlay,2023,LeftFoot,22120,Chelsea,Wolverhampton Wanderers,2,4,2024-02-04 14:00:00,,BallRecovery,6382
+561576,40,BlockedShot,0.8530000305175781,0.32299999237060545,0.11793355643749237,Pedro Neto,a,6382,OpenPlay,2023,LeftFoot,22120,Chelsea,Wolverhampton Wanderers,2,4,2024-02-04 14:00:00,Nélson Semedo,TakeOn,6382
+561579,45,SavedShot,0.9490000152587891,0.35,0.0995798334479332,Pedro Neto,a,6382,OpenPlay,2023,RightFoot,22120,Chelsea,Wolverhampton Wanderers,2,4,2024-02-04 14:00:00,,TakeOn,6382
+561583,56,BlockedShot,0.7930000305175782,0.5429999923706055,0.11198516190052032,Pedro Neto,a,6382,DirectFreekick,2023,LeftFoot,22120,Chelsea,Wolverhampton Wanderers,2,4,2024-02-04 14:00:00,,Standard,6382
+562592,43,SavedShot,0.9340000152587891,0.40700000762939453,0.25550925731658936,Pedro Neto,h,6382,OpenPlay,2023,Head,22134,Wolverhampton Wanderers,Brentford,0,2,2024-02-10 15:00:00,Pablo Sarabia,Cross,6382
+562594,49,BlockedShot,0.875999984741211,0.35200000762939454,0.09834292531013489,Pedro Neto,h,6382,OpenPlay,2023,LeftFoot,22134,Wolverhampton Wanderers,Brentford,0,2,2024-02-10 15:00:00,Rayan Ait Nouri,Pass,6382
+562597,60,SavedShot,0.945,0.30700000762939456,0.0474146269261837,Pedro Neto,h,6382,OpenPlay,2023,RightFoot,22134,Wolverhampton Wanderers,Brentford,0,2,2024-02-10 15:00:00,,Rebound,6382
+563959,88,MissedShots,0.7930000305175782,0.6940000152587891,0.04767246171832085,Pedro Neto,a,6382,OpenPlay,2023,LeftFoot,22144,Tottenham,Wolverhampton Wanderers,1,2,2024-02-17 15:00:00,Jean-Ricner Bellegarde,Pass,6382
+563961,90,MissedShots,0.8880000305175781,0.395,0.06948930770158768,Pedro Neto,a,6382,OpenPlay,2023,LeftFoot,22144,Tottenham,Wolverhampton Wanderers,1,2,2024-02-17 15:00:00,Jean-Ricner Bellegarde,Cross,6382
+565595,6,MissedShots,0.8590000152587891,0.6480000305175782,0.052461955696344376,Pedro Neto,h,6382,OpenPlay,2023,RightFoot,22154,Wolverhampton Wanderers,Sheffield United,1,0,2024-02-25 13:30:00,,None,6382
+565604,35,MissedShots,0.789000015258789,0.715,0.026194147765636444,Pedro Neto,h,6382,OpenPlay,2023,RightFoot,22154,Wolverhampton Wanderers,Sheffield United,1,0,2024-02-25 13:30:00,Mario Lemina,Pass,6382
+568094,16,MissedShots,0.8419999694824218,0.31,0.03870461881160736,Pedro Neto,h,6382,OpenPlay,2023,LeftFoot,22174,Wolverhampton Wanderers,Fulham,2,1,2024-03-09 15:00:00,Nathan Fraser,Pass,6382
+582044,84,SavedShot,0.7430000305175781,0.4329999923706055,0.05699066072702408,Pedro Neto,a,6382,DirectFreekick,2023,LeftFoot,22271,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19 15:00:00,,Standard,6382
+585327,89,BlockedShot,0.9080000305175782,0.6840000152587891,0.050429973751306534,Pedro Neto,h,6382,OpenPlay,2024,LeftFoot,26610,Chelsea,Manchester City,0,2,2024-08-18 15:30:00,,BallTouch,6382
+594197,93,BlockedShot,0.8540000152587891,0.33,0.07290854305028915,Pedro Neto,h,6382,OpenPlay,2024,LeftFoot,26657,Chelsea,Brighton,4,2,2024-09-28 14:00:00,Christopher Nkunku,Pass,6382
+597755,72,MissedShots,0.7469999694824219,0.40299999237060546,0.016640564426779747,Pedro Neto,a,6382,OpenPlay,2024,RightFoot,26679,Liverpool,Chelsea,2,1,2024-10-20 15:30:00,Enzo Fernández,BallTouch,6382
+598894,14,BlockedShot,0.8390000152587891,0.43400001525878906,0.04889126494526863,Pedro Neto,h,6382,FromCorner,2024,LeftFoot,26688,Chelsea,Newcastle United,2,1,2024-10-27 14:00:00,,None,6382
+598897,22,SavedShot,0.8130000305175781,0.6480000305175782,0.050398245453834534,Pedro Neto,h,6382,OpenPlay,2024,RightFoot,26688,Chelsea,Newcastle United,2,1,2024-10-27 14:00:00,Malo Gusto,BlockedPass,6382
+598906,39,BlockedShot,0.8719999694824219,0.6509999847412109,0.07451114803552628,Pedro Neto,h,6382,OpenPlay,2024,LeftFoot,26688,Chelsea,Newcastle United,2,1,2024-10-27 14:00:00,Noni Madueke,Pass,6382
+598907,40,SavedShot,0.7930000305175782,0.29600000381469727,0.013510019518435001,Pedro Neto,h,6382,FromCorner,2024,LeftFoot,26688,Chelsea,Newcastle United,2,1,2024-10-27 14:00:00,Moisés Caicedo,Chipped,6382
+598910,49,ShotOnPost,0.9269999694824219,0.555,0.06318613141775131,Pedro Neto,h,6382,OpenPlay,2024,Head,26688,Chelsea,Newcastle United,2,1,2024-10-27 14:00:00,Noni Madueke,Aerial,6382
+600841,54,MissedShots,0.855,0.6969999694824218,0.038973089307546616,Pedro Neto,a,6382,OpenPlay,2024,LeftFoot,26697,Manchester United,Chelsea,1,1,2024-11-03 16:30:00,Cole Palmer,Pass,6382
+600844,64,SavedShot,0.76,0.74,0.016094226390123367,Pedro Neto,a,6382,OpenPlay,2024,RightFoot,26697,Manchester United,Chelsea,1,1,2024-11-03 16:30:00,Romeo Lavia,Pass,6382
+602230,68,BlockedShot,0.799000015258789,0.4229999923706055,0.032211706042289734,Pedro Neto,h,6382,SetPiece,2024,LeftFoot,26705,Chelsea,Arsenal,1,1,2024-11-10 16:30:00,Malo Gusto,Pass,6382
+602232,69,Goal,0.7719999694824219,0.445,0.03117254562675953,Pedro Neto,h,6382,OpenPlay,2024,LeftFoot,26705,Chelsea,Arsenal,1,1,2024-11-10 16:30:00,Enzo Fernández,Pass,6382
+602234,76,BlockedShot,0.765,0.33099998474121095,0.021557090803980827,Pedro Neto,h,6382,OpenPlay,2024,LeftFoot,26705,Chelsea,Arsenal,1,1,2024-11-10 16:30:00,Malo Gusto,Pass,6382
+604669,12,MissedShots,0.77,0.29600000381469727,0.03956565260887146,Pedro Neto,h,6382,OpenPlay,2024,LeftFoot,26724,Chelsea,Aston Villa,3,0,2024-12-01 13:30:00,Nicolas Jackson,Pass,6382
+606506,31,SavedShot,0.9230000305175782,0.36400001525878906,0.06556049734354019,Pedro Neto,a,6382,OpenPlay,2024,LeftFoot,26745,Tottenham,Chelsea,3,4,2024-12-08 16:30:00,,Rebound,6382
+608727,9,SavedShot,0.8719999694824219,0.28,0.034939929842948914,Pedro Neto,a,6382,OpenPlay,2024,LeftFoot,26764,Everton,Chelsea,0,0,2024-12-22 14:00:00,Cole Palmer,Pass,6382
+608740,74,BlockedShot,0.8959999847412109,0.43599998474121093,0.03694625943899155,Pedro Neto,a,6382,OpenPlay,2024,Head,26764,Everton,Chelsea,0,0,2024-12-22 14:00:00,,Aerial,6382
+609106,91,BlockedShot,0.8430000305175781,0.34400001525878904,0.06490606814622879,Pedro Neto,h,6382,OpenPlay,2024,LeftFoot,26775,Chelsea,Fulham,1,2,2024-12-26 15:00:00,Enzo Fernández,TakeOn,6382
+609693,81,BlockedShot,0.8190000152587891,0.285,0.026683706790208817,Pedro Neto,a,6382,OpenPlay,2024,LeftFoot,26787,Ipswich,Chelsea,2,0,2024-12-30 19:45:00,Nicolas Jackson,Pass,6382
+609904,19,MissedShots,0.875,0.505,0.07130339741706848,Pedro Neto,a,6382,SetPiece,2024,OtherBodyPart,26795,Crystal Palace,Chelsea,1,1,2025-01-04 15:00:00,Cole Palmer,Chipped,6382
+609918,64,BlockedShot,0.9290000152587891,0.67,0.07814928889274597,Pedro Neto,a,6382,OpenPlay,2024,LeftFoot,26795,Crystal Palace,Chelsea,1,1,2025-01-04 15:00:00,,None,6382
+609917,64,BlockedShot,0.8780000305175781,0.5870000076293945,0.1163690909743309,Pedro Neto,a,6382,OpenPlay,2024,LeftFoot,26795,Crystal Palace,Chelsea,1,1,2025-01-04 15:00:00,Jadon Sancho,Pass,6382
+609925,77,BlockedShot,0.88,0.37200000762939456,0.09564448148012161,Pedro Neto,a,6382,OpenPlay,2024,RightFoot,26795,Crystal Palace,Chelsea,1,1,2025-01-04 15:00:00,Malo Gusto,Pass,6382

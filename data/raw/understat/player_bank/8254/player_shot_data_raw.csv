@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+369041,92,MissedShots,0.8169999694824219,0.6869999694824219,0.032814398407936096,Indiana Vassilev,a,8254,OpenPlay,2019,RightFoot,11966,Liverpool,Aston Villa,2,0,2020-07-05 15:30:00,Neil Taylor,Pass,8254

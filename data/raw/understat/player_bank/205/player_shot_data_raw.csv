@@ -1,0 +1,190 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+77145,37,BlockedShot,0.830999984741211,0.5370000076293945,0.07327129691839218,Mahmoud Dahoud,a,205,OpenPlay,2015,RightFoot,1062,FC Cologne,Borussia M.Gladbach,1,0,2015-09-19 17:30:00,Raffael,Pass,205
+77146,37,SavedShot,0.7580000305175781,0.38799999237060545,0.017862699925899506,Mahmoud Dahoud,a,205,OpenPlay,2015,LeftFoot,1062,FC Cologne,Borussia M.Gladbach,1,0,2015-09-19 17:30:00,,None,205
+77287,1,SavedShot,0.9640000152587891,0.4,0.41833800077438354,Mahmoud Dahoud,h,205,OpenPlay,2015,RightFoot,1073,Borussia M.Gladbach,Augsburg,4,2,2015-09-23 22:00:00,Patrick Herrmann,Pass,205
+77295,20,Goal,0.789000015258789,0.41200000762939454,0.040112998336553574,Mahmoud Dahoud,h,205,OpenPlay,2015,RightFoot,1073,Borussia M.Gladbach,Augsburg,4,2,2015-09-23 22:00:00,Raffael,Goal,205
+77298,30,BlockedShot,0.8130000305175781,0.515,0.07818060368299484,Mahmoud Dahoud,h,205,OpenPlay,2015,LeftFoot,1073,Borussia M.Gladbach,Augsburg,4,2,2015-09-23 22:00:00,Lars Stindl,Pass,205
+77520,24,SavedShot,0.8690000152587891,0.740999984741211,0.041476499289274216,Mahmoud Dahoud,a,205,OpenPlay,2015,RightFoot,1077,VfB Stuttgart,Borussia M.Gladbach,1,3,2015-09-26 17:30:00,Oscar Wendt,Pass,205
+78086,50,Goal,0.7390000152587891,0.6079999923706054,0.016649600118398666,Mahmoud Dahoud,a,205,OpenPlay,2015,RightFoot,1099,Eintracht Frankfurt,Borussia M.Gladbach,1,5,2015-10-17 20:30:00,Oscar Wendt,Pass,205
+78608,35,MissedShots,0.7319999694824219,0.610999984741211,0.022207900881767273,Mahmoud Dahoud,a,205,FromCorner,2015,RightFoot,1113,Hertha Berlin,Borussia M.Gladbach,1,4,2015-10-31 18:30:00,Raffael,Pass,205
+78897,36,BlockedShot,0.7709999847412109,0.3629999923706055,0.025369100272655487,Mahmoud Dahoud,h,205,OpenPlay,2015,RightFoot,1133,Borussia M.Gladbach,Hannover 96,2,1,2015-11-21 18:30:00,Lars Stindl,Pass,205
+78905,59,SavedShot,0.794000015258789,0.6090000152587891,0.045268598943948746,Mahmoud Dahoud,h,205,OpenPlay,2015,LeftFoot,1133,Borussia M.Gladbach,Hannover 96,2,1,2015-11-21 18:30:00,Ibrahima Traoré,Pass,205
+78919,82,SavedShot,0.75,0.35700000762939454,0.017897799611091614,Mahmoud Dahoud,h,205,OpenPlay,2015,RightFoot,1133,Borussia M.Gladbach,Hannover 96,2,1,2015-11-21 18:30:00,Fabian Johnson,Pass,205
+79253,3,SavedShot,0.774000015258789,0.6,0.02009280025959015,Mahmoud Dahoud,a,205,OpenPlay,2015,RightFoot,1141,Hoffenheim,Borussia M.Gladbach,3,3,2015-11-28 18:30:00,,Rebound,205
+79264,35,SavedShot,0.7709999847412109,0.445,0.02997259981930256,Mahmoud Dahoud,a,205,OpenPlay,2015,RightFoot,1141,Hoffenheim,Borussia M.Gladbach,3,3,2015-11-28 18:30:00,Fabian Johnson,Pass,205
+79385,45,MissedShots,0.750999984741211,0.43900001525878907,0.014361499808728695,Mahmoud Dahoud,h,205,SetPiece,2015,RightFoot,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,,None,205
+79388,57,MissedShots,0.8690000152587891,0.28200000762939453,0.05121050029993057,Mahmoud Dahoud,h,205,OpenPlay,2015,RightFoot,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,Raffael,Pass,205
+79659,46,MissedShots,0.7769999694824219,0.6029999923706054,0.025530299171805382,Mahmoud Dahoud,a,205,OpenPlay,2015,RightFoot,1162,Bayer Leverkusen,Borussia M.Gladbach,5,0,2015-12-12 21:30:00,,None,205
+80105,56,MissedShots,0.7819999694824219,0.7580000305175781,0.01082799956202507,Mahmoud Dahoud,h,205,OpenPlay,2015,RightFoot,1180,Borussia M.Gladbach,Borussia Dortmund,1,3,2016-01-23 21:30:00,Lars Stindl,Pass,205
+80575,43,SavedShot,0.9480000305175781,0.6940000152587891,0.07148429751396179,Mahmoud Dahoud,h,205,OpenPlay,2015,LeftFoot,1192,Borussia M.Gladbach,Werder Bremen,5,1,2016-02-05 23:30:00,Fabian Johnson,Pass,205
+80579,51,MissedShots,0.8619999694824219,0.40099998474121096,0.11230599880218506,Mahmoud Dahoud,h,205,OpenPlay,2015,LeftFoot,1192,Borussia M.Gladbach,Werder Bremen,5,1,2016-02-05 23:30:00,Fabian Johnson,Pass,205
+80580,53,BlockedShot,0.7580000305175781,0.4909999847412109,0.06921769678592682,Mahmoud Dahoud,h,205,OpenPlay,2015,RightFoot,1192,Borussia M.Gladbach,Werder Bremen,5,1,2016-02-05 23:30:00,Martin Hinteregger,BallRecovery,205
+80586,67,SavedShot,0.75,0.5609999847412109,0.03330010175704956,Mahmoud Dahoud,h,205,OpenPlay,2015,RightFoot,1192,Borussia M.Gladbach,Werder Bremen,5,1,2016-02-05 23:30:00,Raffael,Pass,205
+80787,2,SavedShot,0.765,0.47200000762939454,0.020410500466823578,Mahmoud Dahoud,a,205,FromCorner,2015,RightFoot,1208,Hamburger SV,Borussia M.Gladbach,3,2,2016-02-14 18:30:00,,None,205
+81069,8,Goal,0.8580000305175781,0.4540000152587891,0.10261700302362442,Mahmoud Dahoud,h,205,OpenPlay,2015,RightFoot,1215,Borussia M.Gladbach,FC Cologne,1,0,2016-02-20 18:30:00,Raffael,Pass,205
+81075,38,MissedShots,0.7730000305175782,0.24399999618530274,0.01789020001888275,Mahmoud Dahoud,h,205,FromCorner,2015,LeftFoot,1215,Borussia M.Gladbach,FC Cologne,1,0,2016-02-20 18:30:00,Thorgan Hazard,Pass,205
+81077,40,MissedShots,0.799000015258789,0.3770000076293945,0.021973999217152596,Mahmoud Dahoud,h,205,SetPiece,2015,RightFoot,1215,Borussia M.Gladbach,FC Cologne,1,0,2016-02-20 18:30:00,,Rebound,205
+81345,58,SavedShot,0.7809999847412109,0.4209999847412109,0.041717998683452606,Mahmoud Dahoud,a,205,OpenPlay,2015,RightFoot,1224,Augsburg,Borussia M.Gladbach,2,2,2016-02-28 18:30:00,Nico Elvedi,HeadPass,205
+81709,24,BlockedShot,0.8380000305175781,0.48200000762939454,0.07056009769439697,Mahmoud Dahoud,a,205,OpenPlay,2015,RightFoot,1242,Wolfsburg,Borussia M.Gladbach,2,1,2016-03-05 18:30:00,Lars Stindl,Pass,205
+81711,26,SavedShot,0.700999984741211,0.605999984741211,0.014304599724709988,Mahmoud Dahoud,a,205,OpenPlay,2015,RightFoot,1242,Wolfsburg,Borussia M.Gladbach,2,1,2016-03-05 18:30:00,Granit Xhaka,Pass,205
+82011,22,MissedShots,0.7969999694824219,0.585,0.017097899690270424,Mahmoud Dahoud,h,205,OpenPlay,2015,RightFoot,1250,Borussia M.Gladbach,Eintracht Frankfurt,3,0,2016-03-12 18:30:00,Raffael,Chipped,205
+82025,78,Goal,0.965999984741211,0.595999984741211,0.49423301219940186,Mahmoud Dahoud,h,205,OpenPlay,2015,RightFoot,1250,Borussia M.Gladbach,Eintracht Frankfurt,3,0,2016-03-12 18:30:00,Thorgan Hazard,TakeOn,205
+82192,39,BlockedShot,0.7290000152587891,0.41,0.012690199539065361,Mahmoud Dahoud,a,205,FromCorner,2015,LeftFoot,1255,Schalke 04,Borussia M.Gladbach,2,1,2016-03-18 23:30:00,,Aerial,205
+82198,62,ShotOnPost,0.7969999694824219,0.7240000152587891,0.01992739923298359,Mahmoud Dahoud,a,205,OpenPlay,2015,RightFoot,1255,Schalke 04,Borussia M.Gladbach,2,1,2016-03-18 23:30:00,Fabian Johnson,Pass,205
+83089,19,MissedShots,0.8109999847412109,0.355,0.0483396016061306,Mahmoud Dahoud,h,205,OpenPlay,2015,RightFoot,1298,Borussia M.Gladbach,Hoffenheim,3,1,2016-04-24 17:30:00,Ibrahima Traoré,Pass,205
+83097,44,Goal,0.9319999694824219,0.46799999237060547,0.5935559868812561,Mahmoud Dahoud,h,205,OpenPlay,2015,RightFoot,1298,Borussia M.Gladbach,Hoffenheim,3,1,2016-04-24 17:30:00,André Hahn,Pass,205
+83104,58,SavedShot,0.7580000305175781,0.7180000305175781,0.017683599144220352,Mahmoud Dahoud,h,205,OpenPlay,2015,RightFoot,1298,Borussia M.Gladbach,Hoffenheim,3,1,2016-04-24 17:30:00,Oscar Wendt,Pass,205
+83121,91,MissedShots,0.75,0.44599998474121094,0.017370600253343582,Mahmoud Dahoud,h,205,FromCorner,2015,RightFoot,1298,Borussia M.Gladbach,Hoffenheim,3,1,2016-04-24 17:30:00,,None,205
+83291,16,MissedShots,0.765,0.4909999847412109,0.028759600594639778,Mahmoud Dahoud,a,205,OpenPlay,2015,RightFoot,1305,Bayern Munich,Borussia M.Gladbach,1,1,2016-04-30 17:30:00,Raffael,Pass,205
+83545,47,BlockedShot,0.7809999847412109,0.4209999847412109,0.01309369970113039,Mahmoud Dahoud,h,205,SetPiece,2015,RightFoot,1310,Borussia M.Gladbach,Bayer Leverkusen,2,1,2016-05-07 17:30:00,,Aerial,205
+83555,67,BlockedShot,0.9069999694824219,0.24200000762939453,0.031693801283836365,Mahmoud Dahoud,h,205,OpenPlay,2015,RightFoot,1310,Borussia M.Gladbach,Bayer Leverkusen,2,1,2016-05-07 17:30:00,,None,205
+128239,87,BlockedShot,0.8519999694824218,0.4420000076293945,0.09693480283021927,Mahmoud Dahoud,h,205,OpenPlay,2016,RightFoot,1351,Borussia M.Gladbach,Werder Bremen,4,1,2016-09-17 20:30:00,Ibrahima Traoré,Pass,205
+128636,11,SavedShot,0.84,0.649000015258789,0.046729300171136856,Mahmoud Dahoud,h,205,OpenPlay,2016,RightFoot,1364,Borussia M.Gladbach,Ingolstadt,2,0,2016-09-24 17:30:00,,None,205
+129089,31,MissedShots,0.784000015258789,0.7669999694824219,0.012017900124192238,Mahmoud Dahoud,h,205,OpenPlay,2016,RightFoot,1382,Borussia M.Gladbach,Hamburger SV,0,0,2016-10-15 17:30:00,,None,205
+129103,78,BlockedShot,0.76,0.6229999923706054,0.01697869971394539,Mahmoud Dahoud,h,205,FromCorner,2016,RightFoot,1382,Borussia M.Gladbach,Hamburger SV,0,0,2016-10-15 17:30:00,,None,205
+129105,83,BlockedShot,0.795,0.3840000152587891,0.03064499981701374,Mahmoud Dahoud,h,205,OpenPlay,2016,RightFoot,1382,Borussia M.Gladbach,Hamburger SV,0,0,2016-10-15 17:30:00,Ibrahima Traoré,Pass,205
+129793,7,MissedShots,0.7859999847412109,0.495,0.026648199185729027,Mahmoud Dahoud,h,205,FromCorner,2016,RightFoot,3299,Borussia M.Gladbach,Eintracht Frankfurt,0,0,2016-10-28 22:30:00,,None,205
+129801,71,MissedShots,0.7190000152587891,0.49400001525878906,0.015799399465322495,Mahmoud Dahoud,h,205,OpenPlay,2016,RightFoot,3299,Borussia M.Gladbach,Eintracht Frankfurt,0,0,2016-10-28 22:30:00,Lars Stindl,Pass,205
+129855,19,SavedShot,0.7519999694824219,0.5609999847412109,0.023392999544739723,Mahmoud Dahoud,h,205,OpenPlay,2016,RightFoot,2816,Borussia M.Gladbach,FC Cologne,1,2,2016-11-19 18:30:00,Raffael,Pass,205
+129864,50,SavedShot,0.8530000305175781,0.43099998474121093,0.1320739984512329,Mahmoud Dahoud,h,205,OpenPlay,2016,RightFoot,2816,Borussia M.Gladbach,FC Cologne,1,2,2016-11-19 18:30:00,Thorgan Hazard,Pass,205
+129869,61,BlockedShot,0.805,0.48700000762939455,0.05061820149421692,Mahmoud Dahoud,h,205,OpenPlay,2016,RightFoot,2816,Borussia M.Gladbach,FC Cologne,1,2,2016-11-19 18:30:00,Thorgan Hazard,Pass,205
+130923,24,Goal,0.8430000305175781,0.4229999923706055,0.07406490296125412,Mahmoud Dahoud,h,205,OpenPlay,2016,LeftFoot,2826,Borussia M.Gladbach,Hoffenheim,1,1,2016-11-26 18:30:00,Christoph Kramer,Pass,205
+130932,48,BlockedShot,0.855999984741211,0.5220000076293946,0.09656140208244324,Mahmoud Dahoud,h,205,OpenPlay,2016,RightFoot,2826,Borussia M.Gladbach,Hoffenheim,1,1,2016-11-26 18:30:00,,Rebound,205
+130951,90,SavedShot,0.774000015258789,0.415,0.02756129950284958,Mahmoud Dahoud,h,205,OpenPlay,2016,LeftFoot,2826,Borussia M.Gladbach,Hoffenheim,1,1,2016-11-26 18:30:00,Raffael,Pass,205
+131566,16,BlockedShot,0.8219999694824218,0.4540000152587891,0.06117179989814758,Mahmoud Dahoud,a,205,OpenPlay,2016,LeftFoot,3211,Augsburg,Borussia M.Gladbach,1,0,2016-12-17 18:30:00,Raffael,BallTouch,205
+131575,58,SavedShot,0.674000015258789,0.485,0.012782200239598751,Mahmoud Dahoud,a,205,OpenPlay,2016,RightFoot,3211,Augsburg,Borussia M.Gladbach,1,0,2016-12-17 18:30:00,Raffael,Pass,205
+131576,64,MissedShots,0.875,0.3920000076293945,0.08987510204315186,Mahmoud Dahoud,a,205,OpenPlay,2016,LeftFoot,3211,Augsburg,Borussia M.Gladbach,1,0,2016-12-17 18:30:00,Raffael,Pass,205
+130145,89,MissedShots,0.72,0.4879999923706055,0.01705710031092167,Mahmoud Dahoud,h,205,OpenPlay,2016,RightFoot,3220,Borussia M.Gladbach,Wolfsburg,1,2,2016-12-20 23:00:00,Oscar Wendt,Pass,205
+130833,52,MissedShots,0.7919999694824219,0.41700000762939454,0.03799070045351982,Mahmoud Dahoud,a,205,OpenPlay,2016,RightFoot,3727,Darmstadt,Borussia M.Gladbach,0,0,2017-01-21 17:30:00,Lars Stindl,Pass,205
+131051,12,SavedShot,0.8690000152587891,0.67,0.03539469838142395,Mahmoud Dahoud,a,205,OpenPlay,2016,RightFoot,3737,Bayer Leverkusen,Borussia M.Gladbach,2,3,2017-01-28 20:30:00,Raffael,Chipped,205
+131061,49,MissedShots,0.735999984741211,0.725999984741211,0.009562989696860313,Mahmoud Dahoud,a,205,OpenPlay,2016,RightFoot,3737,Bayer Leverkusen,Borussia M.Gladbach,2,3,2017-01-28 20:30:00,,Dispossessed,205
+131582,6,BlockedShot,0.8180000305175781,0.5320000076293945,0.06358110159635544,Mahmoud Dahoud,h,205,OpenPlay,2016,RightFoot,3744,Borussia M.Gladbach,Freiburg,3,0,2017-02-04 14:30:00,Raffael,Pass,205
+132685,54,BlockedShot,0.7819999694824219,0.6580000305175782,0.027973199263215065,Mahmoud Dahoud,a,205,OpenPlay,2016,RightFoot,3754,Werder Bremen,Borussia M.Gladbach,0,1,2017-02-11 14:30:00,Oscar Wendt,Pass,205
+132690,71,BlockedShot,0.8530000305175781,0.5070000076293946,0.1010190024971962,Mahmoud Dahoud,a,205,OpenPlay,2016,LeftFoot,3754,Werder Bremen,Borussia M.Gladbach,0,1,2017-02-11 14:30:00,Fabian Johnson,Pass,205
+132691,75,MissedShots,0.8319999694824218,0.485,0.07904510200023651,Mahmoud Dahoud,a,205,OpenPlay,2016,RightFoot,3754,Werder Bremen,Borussia M.Gladbach,0,1,2017-02-11 14:30:00,,None,205
+131978,73,MissedShots,0.8540000152587891,0.6930000305175781,0.03354030102491379,Mahmoud Dahoud,h,205,SetPiece,2016,RightFoot,3765,Borussia M.Gladbach,RasenBallsport Leipzig,1,2,2017-02-19 14:30:00,Lars Stindl,Pass,205
+132519,74,MissedShots,0.89,0.595999984741211,0.06138020008802414,Mahmoud Dahoud,h,205,FromCorner,2016,RightFoot,3782,Borussia M.Gladbach,Schalke 04,4,2,2017-03-04 17:30:00,Fabian Johnson,Pass,205
+133764,4,BlockedShot,0.805,0.48,0.04793670028448105,Mahmoud Dahoud,h,205,OpenPlay,2016,RightFoot,3820,Borussia M.Gladbach,Hertha Berlin,1,0,2017-04-05 19:00:00,Jonas Hofmann,Pass,205
+133792,78,BlockedShot,0.7580000305175781,0.48200000762939454,0.030425699427723885,Mahmoud Dahoud,h,205,OpenPlay,2016,LeftFoot,3820,Borussia M.Gladbach,Hertha Berlin,1,0,2017-04-05 19:00:00,Ibrahima Traoré,Pass,205
+134652,31,BlockedShot,0.8640000152587891,0.6909999847412109,0.062155500054359436,Mahmoud Dahoud,a,205,OpenPlay,2016,RightFoot,3825,FC Cologne,Borussia M.Gladbach,2,3,2017-04-08 14:30:00,Oscar Wendt,TakeOn,205
+134658,46,BlockedShot,0.764000015258789,0.6840000152587891,0.016259200870990753,Mahmoud Dahoud,a,205,OpenPlay,2016,RightFoot,3825,FC Cologne,Borussia M.Gladbach,2,3,2017-04-08 14:30:00,Thorgan Hazard,Pass,205
+134667,87,SavedShot,0.7919999694824219,0.6509999847412109,0.03355469927191734,Mahmoud Dahoud,a,205,OpenPlay,2016,RightFoot,3825,FC Cologne,Borussia M.Gladbach,2,3,2017-04-08 14:30:00,Thorgan Hazard,Pass,205
+133126,77,Goal,0.8419999694824218,0.5379999923706055,0.27969101071357727,Mahmoud Dahoud,a,205,OpenPlay,2016,RightFoot,3838,Hoffenheim,Borussia M.Gladbach,5,3,2017-04-15 14:30:00,,Rebound,205
+133412,20,MissedShots,0.8490000152587891,0.46799999237060547,0.06113240122795105,Mahmoud Dahoud,h,205,OpenPlay,2016,LeftFoot,3840,Borussia M.Gladbach,Borussia Dortmund,2,3,2017-04-22 17:30:00,André Hahn,None,205
+134308,11,BlockedShot,0.8130000305175781,0.5320000076293945,0.061907000839710236,Mahmoud Dahoud,a,205,OpenPlay,2016,RightFoot,3855,Mainz 05,Borussia M.Gladbach,1,2,2017-04-29 14:30:00,Jonas Hofmann,Pass,205
+134882,24,SavedShot,0.7619999694824219,0.475,0.026220500469207764,Mahmoud Dahoud,h,205,OpenPlay,2016,LeftFoot,3861,Borussia M.Gladbach,Augsburg,1,1,2017-05-06 14:30:00,Lars Stindl,Pass,205
+134886,33,BlockedShot,0.7130000305175781,0.4420000076293945,0.014310000464320183,Mahmoud Dahoud,h,205,OpenPlay,2016,RightFoot,3861,Borussia M.Gladbach,Augsburg,1,1,2017-05-06 14:30:00,,Dispossessed,205
+134898,71,BlockedShot,0.8130000305175781,0.6940000152587891,0.025801099836826324,Mahmoud Dahoud,h,205,OpenPlay,2016,RightFoot,3861,Borussia M.Gladbach,Augsburg,1,1,2017-05-06 14:30:00,Jonas Hofmann,Pass,205
+134900,77,BlockedShot,0.815,0.5329999923706055,0.017893299460411072,Mahmoud Dahoud,h,205,OpenPlay,2016,RightFoot,3861,Borussia M.Gladbach,Augsburg,1,1,2017-05-06 14:30:00,,Aerial,205
+134903,84,MissedShots,0.8090000152587891,0.5029999923706054,0.05140699818730354,Mahmoud Dahoud,h,205,OpenPlay,2016,LeftFoot,3861,Borussia M.Gladbach,Augsburg,1,1,2017-05-06 14:30:00,Ibrahima Traoré,Pass,205
+133149,47,MissedShots,0.71,0.6029999923706054,0.012027500197291374,Mahmoud Dahoud,a,205,FromCorner,2016,RightFoot,3869,Wolfsburg,Borussia M.Gladbach,1,1,2017-05-13 14:30:00,,Aerial,205
+133159,84,BlockedShot,0.87,0.544000015258789,0.10779000073671341,Mahmoud Dahoud,a,205,OpenPlay,2016,RightFoot,3869,Wolfsburg,Borussia M.Gladbach,1,1,2017-05-13 14:30:00,Raffael,Pass,205
+127740,27,SavedShot,0.7709999847412109,0.5479999923706055,0.029987400397658348,Mahmoud Dahoud,h,205,OpenPlay,2016,LeftFoot,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,Raffael,Pass,205
+127749,53,SavedShot,0.88,0.5179999923706055,0.12904199957847595,Mahmoud Dahoud,h,205,OpenPlay,2016,RightFoot,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,Raffael,Pass,205
+127756,72,SavedShot,0.8480000305175781,0.4929999923706055,0.05341599881649017,Mahmoud Dahoud,h,205,FromCorner,2016,RightFoot,3876,Borussia M.Gladbach,Darmstadt,2,2,2017-05-20 14:30:00,Andreas Christensen,Pass,205
+166509,35,MissedShots,0.779000015258789,0.5420000076293945,0.04186660051345825,Mahmoud Dahoud,h,205,OpenPlay,2017,LeftFoot,8294,Borussia Dortmund,FC Cologne,5,0,2017-09-17 17:00:00,Andriy Yarmolenko,Pass,205
+166513,47,MissedShots,0.855999984741211,0.7230000305175781,0.039337001740932465,Mahmoud Dahoud,h,205,OpenPlay,2017,RightFoot,8294,Borussia Dortmund,FC Cologne,5,0,2017-09-17 17:00:00,Pierre-Emerick Aubameyang,Pass,205
+166515,50,MissedShots,0.764000015258789,0.47200000762939454,0.0333218015730381,Mahmoud Dahoud,h,205,OpenPlay,2017,RightFoot,8294,Borussia Dortmund,FC Cologne,5,0,2017-09-17 17:00:00,Maximilian Philipp,Pass,205
+166525,87,MissedShots,0.7180000305175781,0.42700000762939455,0.020961500704288483,Mahmoud Dahoud,h,205,OpenPlay,2017,RightFoot,8294,Borussia Dortmund,FC Cologne,5,0,2017-09-17 17:00:00,Julian Weigl,Pass,205
+167373,42,BlockedShot,0.86,0.35700000762939454,0.06614399701356888,Mahmoud Dahoud,h,205,OpenPlay,2017,RightFoot,8310,Borussia Dortmund,Borussia M.Gladbach,6,1,2017-09-23 17:30:00,,None,205
+167294,42,SavedShot,0.904000015258789,0.40299999237060546,0.12492699921131134,Mahmoud Dahoud,a,205,OpenPlay,2017,RightFoot,8321,Augsburg,Borussia Dortmund,1,2,2017-09-30 14:30:00,Lukasz Piszczek,Pass,205
+179823,33,BlockedShot,0.7630000305175781,0.4370000076293945,0.022880399599671364,Mahmoud Dahoud,h,205,OpenPlay,2017,RightFoot,8385,Borussia Dortmund,Werder Bremen,1,2,2017-12-09 14:30:00,Andriy Yarmolenko,Tackle,205
+184097,86,MissedShots,0.8159999847412109,0.63,0.04753829911351204,Mahmoud Dahoud,a,205,OpenPlay,2017,RightFoot,8401,Mainz 05,Borussia Dortmund,0,2,2017-12-12 19:30:00,Raphael Guerreiro,Pass,205
+184100,90,SavedShot,0.8590000152587891,0.545,0.42357099056243896,Mahmoud Dahoud,a,205,OpenPlay,2017,RightFoot,8401,Mainz 05,Borussia Dortmund,0,2,2017-12-12 19:30:00,Andriy Yarmolenko,Pass,205
+184153,83,MissedShots,0.8109999847412109,0.45,0.025892699137330055,Mahmoud Dahoud,h,205,OpenPlay,2017,RightFoot,8403,Borussia Dortmund,Hoffenheim,2,1,2017-12-16 17:30:00,Pierre-Emerick Aubameyang,Chipped,205
+184158,93,MissedShots,0.86,0.48900001525878906,0.10853099822998047,Mahmoud Dahoud,h,205,OpenPlay,2017,RightFoot,8403,Borussia Dortmund,Hoffenheim,2,1,2017-12-16 17:30:00,Pierre-Emerick Aubameyang,Pass,205
+188007,60,BlockedShot,0.775,0.63,0.023149099200963974,Mahmoud Dahoud,h,205,OpenPlay,2017,RightFoot,8412,Borussia Dortmund,Wolfsburg,0,0,2018-01-14 17:00:00,Jeremy Toljan,Pass,205
+195078,25,MissedShots,0.7959999847412109,0.7319999694824219,0.023545699194073677,Mahmoud Dahoud,a,205,OpenPlay,2017,RightFoot,8447,FC Cologne,Borussia Dortmund,2,3,2018-02-02 19:30:00,Jeremy Toljan,Pass,205
+194953,62,MissedShots,0.9,0.555,0.13764500617980957,Mahmoud Dahoud,h,205,OpenPlay,2017,LeftFoot,8452,Borussia Dortmund,Hamburger SV,2,0,2018-02-10 14:30:00,,Rebound,205
+194957,74,MissedShots,0.985,0.605,0.3338179886341095,Mahmoud Dahoud,h,205,OpenPlay,2017,LeftFoot,8452,Borussia Dortmund,Hamburger SV,2,0,2018-02-10 14:30:00,André Schürrle,Pass,205
+198139,66,MissedShots,0.7559999847412109,0.33,0.024024300277233124,Mahmoud Dahoud,h,205,OpenPlay,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,,Challenge,205
+198144,74,SavedShot,0.7559999847412109,0.8109999847412109,0.032582398504018784,Mahmoud Dahoud,h,205,DirectFreekick,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,,Standard,205
+198146,85,MissedShots,0.8859999847412109,0.51,0.09190189838409424,Mahmoud Dahoud,h,205,OpenPlay,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,,None,205
+200840,29,SavedShot,0.725999984741211,0.5179999923706055,0.019295699894428253,Mahmoud Dahoud,h,205,OpenPlay,2017,RightFoot,8485,Borussia Dortmund,Eintracht Frankfurt,3,2,2018-03-11 17:00:00,Marco Reus,Pass,205
+201914,48,SavedShot,0.7319999694824219,0.5309999847412109,0.02476090006530285,Mahmoud Dahoud,h,205,OpenPlay,2017,RightFoot,8493,Borussia Dortmund,Hannover 96,1,0,2018-03-18 12:30:00,André Schürrle,Pass,205
+201915,49,SavedShot,0.6980000305175781,0.46900001525878904,0.012857099995017052,Mahmoud Dahoud,h,205,FromCorner,2017,RightFoot,8493,Borussia Dortmund,Hannover 96,1,0,2018-03-18 12:30:00,,None,205
+201921,69,MissedShots,0.8119999694824219,0.4879999923706055,0.07042969763278961,Mahmoud Dahoud,h,205,OpenPlay,2017,RightFoot,8493,Borussia Dortmund,Hannover 96,1,0,2018-03-18 12:30:00,Michy Batshuayi,Pass,205
+201922,75,MissedShots,0.76,0.549000015258789,0.014546199701726437,Mahmoud Dahoud,h,205,FromCorner,2017,RightFoot,8493,Borussia Dortmund,Hannover 96,1,0,2018-03-18 12:30:00,,Aerial,205
+204481,16,MissedShots,0.764000015258789,0.5259999847412109,0.013797599822282791,Mahmoud Dahoud,a,205,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,,Rebound,205
+209145,27,MissedShots,0.750999984741211,0.515,0.019925400614738464,Mahmoud Dahoud,a,205,OpenPlay,2017,RightFoot,8524,Schalke 04,Borussia Dortmund,2,0,2018-04-15 13:30:00,,None,205
+210589,85,MissedShots,0.8169999694824219,0.6430000305175781,0.12276799976825714,Mahmoud Dahoud,h,205,OpenPlay,2017,RightFoot,8529,Borussia Dortmund,Bayer Leverkusen,4,0,2018-04-21 16:30:00,Mario Götze,Chipped,205
+220747,20,Goal,0.9019999694824219,0.5179999923706055,0.26081401109695435,Mahmoud Dahoud,h,205,OpenPlay,2018,Head,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Marcel Schmelzer,Cross,205
+220754,48,BlockedShot,0.754000015258789,0.2929999923706055,0.028643500059843063,Mahmoud Dahoud,h,205,OpenPlay,2018,RightFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Lukasz Piszczek,Pass,205
+220758,56,MissedShots,0.899000015258789,0.47,0.49713200330734253,Mahmoud Dahoud,h,205,OpenPlay,2018,RightFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Marco Reus,Pass,205
+220763,89,BlockedShot,0.7680000305175781,0.42400001525878905,0.028175299987196922,Mahmoud Dahoud,h,205,OpenPlay,2018,RightFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Marco Reus,Pass,205
+221327,23,BlockedShot,0.7730000305175782,0.4520000076293945,0.03904850035905838,Mahmoud Dahoud,a,205,OpenPlay,2018,RightFoot,10346,Hannover 96,Borussia Dortmund,0,0,2018-08-31 21:30:00,Maximilian Philipp,LayOff,205
+221338,65,MissedShots,0.7280000305175781,0.38,0.016583900898694992,Mahmoud Dahoud,a,205,OpenPlay,2018,RightFoot,10346,Hannover 96,Borussia Dortmund,0,0,2018-08-31 21:30:00,Marius Wolf,Pass,205
+221341,84,MissedShots,0.7369999694824219,0.6,0.011559899896383286,Mahmoud Dahoud,a,205,SetPiece,2018,RightFoot,10346,Hannover 96,Borussia Dortmund,0,0,2018-08-31 21:30:00,,None,205
+223170,81,SavedShot,0.7519999694824219,0.5220000076293946,0.02831670083105564,Mahmoud Dahoud,h,205,OpenPlay,2018,RightFoot,10355,Borussia Dortmund,Eintracht Frankfurt,3,1,2018-09-14 18:30:00,Manuel Akanji,Pass,205
+255675,30,BlockedShot,0.7190000152587891,0.539000015258789,0.016349900513887405,Mahmoud Dahoud,h,205,OpenPlay,2018,RightFoot,10410,Borussia Dortmund,Hertha Berlin,2,2,2018-10-27 13:30:00,Raphael Guerreiro,TakeOn,205
+255694,86,BlockedShot,0.8,0.6430000305175781,0.04574570059776306,Mahmoud Dahoud,h,205,OpenPlay,2018,RightFoot,10410,Borussia Dortmund,Hertha Berlin,2,2,2018-10-27 13:30:00,,None,205
+292133,5,ShotOnPost,0.8619999694824219,0.46099998474121096,0.34094300866127014,Mahmoud Dahoud,a,205,OpenPlay,2018,RightFoot,10580,Bayern Munich,Borussia Dortmund,5,0,2019-04-06 17:30:00,Marco Reus,Pass,205
+316042,51,MissedShots,0.754000015258789,0.6509999847412109,0.019690699875354767,Mahmoud Dahoud,a,205,OpenPlay,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Julian Weigl,Pass,205
+316052,95,MissedShots,0.7780000305175782,0.685,0.019800899550318718,Mahmoud Dahoud,a,205,OpenPlay,2019,RightFoot,12427,Union Berlin,Borussia Dortmund,3,1,2019-08-31 17:30:00,Jadon Sancho,Pass,205
+322894,0,BlockedShot,0.865,0.3970000076293945,0.08657850325107574,Mahmoud Dahoud,h,205,OpenPlay,2019,RightFoot,12454,Borussia Dortmund,Werder Bremen,2,2,2019-09-28 16:30:00,Achraf Hakimi,Pass,205
+322903,35,BlockedShot,0.8190000152587891,0.485,0.06709430366754532,Mahmoud Dahoud,h,205,OpenPlay,2019,RightFoot,12454,Borussia Dortmund,Werder Bremen,2,2,2019-09-28 16:30:00,Thorgan Hazard,Pass,205
+322906,44,SavedShot,0.8959999847412109,0.615,0.36829501390457153,Mahmoud Dahoud,h,205,OpenPlay,2019,RightFoot,12454,Borussia Dortmund,Werder Bremen,2,2,2019-09-28 16:30:00,Mario Götze,Throughball,205
+329037,66,SavedShot,0.905,0.44299999237060544,0.12030299752950668,Mahmoud Dahoud,h,205,OpenPlay,2019,RightFoot,12484,Borussia Dortmund,Wolfsburg,3,0,2019-11-02 14:30:00,Julian Brandt,BallTouch,205
+335589,84,BlockedShot,0.845,0.46,0.1191139966249466,Mahmoud Dahoud,h,205,OpenPlay,2019,LeftFoot,12520,Borussia Dortmund,Fortuna Duesseldorf,5,0,2019-12-07 14:30:00,,TakeOn,205
+358729,77,MissedShots,0.789000015258789,0.6329999923706054,0.0211900994181633,Mahmoud Dahoud,h,205,FromCorner,2019,RightFoot,12592,Borussia Dortmund,Eintracht Frankfurt,4,0,2020-02-14 19:30:00,,None,205
+362926,40,BlockedShot,0.785,0.4370000076293945,0.0246249008923769,Mahmoud Dahoud,h,205,FromCorner,2019,RightFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,,None,205
+363356,48,SavedShot,0.785,0.6020000076293945,0.03331330046057701,Mahmoud Dahoud,h,205,OpenPlay,2019,RightFoot,12652,Borussia Dortmund,Bayern Munich,0,1,2020-05-26 16:30:00,Raphael Guerreiro,Pass,205
+363363,76,BlockedShot,0.7530000305175781,0.6580000305175782,0.01713789999485016,Mahmoud Dahoud,h,205,OpenPlay,2019,RightFoot,12652,Borussia Dortmund,Bayern Munich,0,1,2020-05-26 16:30:00,Jadon Sancho,Pass,205
+363364,79,SavedShot,0.7919999694824219,0.5629999923706055,0.03401320055127144,Mahmoud Dahoud,h,205,OpenPlay,2019,LeftFoot,12652,Borussia Dortmund,Bayern Munich,0,1,2020-05-26 16:30:00,Thorgan Hazard,Pass,205
+378805,84,MissedShots,0.779000015258789,0.36900001525878906,0.024704400449991226,Mahmoud Dahoud,a,205,OpenPlay,2020,RightFoot,14184,Augsburg,Borussia Dortmund,2,0,2020-09-26 13:30:00,Giovanni Reyna,Pass,205
+383454,9,BlockedShot,0.8090000152587891,0.47900001525878905,0.05998380109667778,Mahmoud Dahoud,h,205,OpenPlay,2020,RightFoot,15181,Borussia Dortmund,Schalke 04,3,0,2020-10-24 16:30:00,Thomas Meunier,Pass,205
+383462,30,ShotOnPost,0.700999984741211,0.6079999923706054,0.01919429935514927,Mahmoud Dahoud,h,205,FromCorner,2020,RightFoot,15181,Borussia Dortmund,Schalke 04,3,0,2020-10-24 16:30:00,,TakeOn,205
+403095,66,BlockedShot,0.7430000305175781,0.5270000076293946,0.01819469965994358,Mahmoud Dahoud,a,205,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Jadon Sancho,Pass,205
+403102,88,BlockedShot,0.720999984741211,0.5129999923706055,0.018184399232268333,Mahmoud Dahoud,a,205,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Raphael Guerreiro,Pass,205
+405650,11,BlockedShot,0.715,0.56,0.01692589931190014,Mahmoud Dahoud,a,205,OpenPlay,2020,RightFoot,15334,Schalke 04,Borussia Dortmund,0,4,2021-02-20 17:30:00,Marco Reus,Pass,205
+405654,35,SavedShot,0.8530000305175781,0.485,0.09790419787168503,Mahmoud Dahoud,a,205,OpenPlay,2020,RightFoot,15334,Schalke 04,Borussia Dortmund,0,4,2021-02-20 17:30:00,Erling Haaland,Pass,205
+406714,47,Goal,0.805,0.5179999923706055,0.04976449906826019,Mahmoud Dahoud,h,205,OpenPlay,2020,RightFoot,15339,Borussia Dortmund,Arminia Bielefeld,3,0,2021-02-27 14:30:00,Jadon Sancho,Pass,205
+410104,55,MissedShots,0.7369999694824219,0.6630000305175782,0.019814400002360344,Mahmoud Dahoud,h,205,OpenPlay,2020,RightFoot,15356,Borussia Dortmund,Hertha Berlin,2,0,2021-03-13 17:30:00,Julian Brandt,Pass,205
+411299,51,SavedShot,0.7240000152587891,0.40599998474121096,0.04773639887571335,Mahmoud Dahoud,a,205,DirectFreekick,2020,RightFoot,15371,FC Cologne,Borussia Dortmund,2,2,2021-03-20 14:30:00,,Standard,205
+412555,82,MissedShots,0.799000015258789,0.5579999923706055,0.04166489839553833,Mahmoud Dahoud,h,205,OpenPlay,2020,RightFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,,None,205
+414004,13,SavedShot,0.79,0.48200000762939454,0.04220360144972801,Mahmoud Dahoud,a,205,OpenPlay,2020,RightFoot,15391,VfB Stuttgart,Borussia Dortmund,2,3,2021-04-10 16:30:00,Marco Reus,TakeOn,205
+414028,89,SavedShot,0.76,0.710999984741211,0.023924000561237335,Mahmoud Dahoud,a,205,OpenPlay,2020,RightFoot,15391,VfB Stuttgart,Borussia Dortmund,2,3,2021-04-10 16:30:00,Julian Brandt,Pass,205
+415847,44,BlockedShot,0.7719999694824219,0.4929999923706055,0.03581029921770096,Mahmoud Dahoud,h,205,OpenPlay,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Julian Brandt,Pass,205
+417183,60,MissedShots,0.7369999694824219,0.75,0.015018699690699577,Mahmoud Dahoud,a,205,OpenPlay,2020,RightFoot,15413,Wolfsburg,Borussia Dortmund,0,2,2021-04-24 13:30:00,,BallRecovery,205
+420030,30,BlockedShot,0.7290000152587891,0.5179999923706055,0.02047250047326088,Mahmoud Dahoud,h,205,OpenPlay,2020,RightFoot,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Jadon Sancho,Pass,205
+426899,33,BlockedShot,0.705,0.6140000152587891,0.014388799667358398,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Donyell Malen,Pass,205
+426901,37,MissedShots,0.6940000152587891,0.509000015258789,0.011887099593877792,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Giovanni Reyna,LayOff,205
+428374,43,BlockedShot,0.7519999694824219,0.5609999847412109,0.020848900079727173,Mahmoud Dahoud,h,205,OpenPlay,2021,RightFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Donyell Malen,TakeOn,205
+429790,52,MissedShots,0.785,0.6329999923706054,0.023659799247980118,Mahmoud Dahoud,a,205,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Marco Reus,Pass,205
+429793,61,MissedShots,0.7469999694824219,0.46099998474121096,0.019558800384402275,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Julian Brandt,Pass,205
+432004,43,MissedShots,0.8080000305175781,0.49,0.1299089938402176,Mahmoud Dahoud,h,205,OpenPlay,2021,RightFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Jude Bellingham,TakeOn,205
+443947,11,BlockedShot,0.7819999694824219,0.5420000076293945,0.03128800168633461,Mahmoud Dahoud,a,205,OpenPlay,2021,LeftFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,Marco Reus,Pass,205
+443953,30,MissedShots,0.8640000152587891,0.545,0.07003899663686752,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,,Rebound,205
+448988,57,BlockedShot,0.7630000305175781,0.40299999237060546,0.022690000012516975,Mahmoud Dahoud,h,205,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,Rebound,205
+449554,20,MissedShots,0.81,0.629000015258789,0.03862470015883446,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Julian Brandt,Pass,205
+449563,65,MissedShots,0.8719999694824219,0.46900001525878904,0.38408398628234863,Mahmoud Dahoud,a,205,OpenPlay,2021,LeftFoot,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Donyell Malen,Pass,205
+452262,78,MissedShots,0.7469999694824219,0.44,0.016865499317646027,Mahmoud Dahoud,a,205,FromCorner,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,,None,205
+452266,88,Goal,0.805,0.504000015258789,0.07556989789009094,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,,TakeOn,205
+452976,31,MissedShots,0.8619999694824219,0.40799999237060547,0.08321789652109146,Mahmoud Dahoud,h,205,OpenPlay,2021,RightFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Donyell Malen,None,205
+452985,48,SavedShot,0.754000015258789,0.41200000762939454,0.021200500428676605,Mahmoud Dahoud,h,205,OpenPlay,2021,RightFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,,None,205
+452995,85,Goal,0.8819999694824219,0.6020000076293945,0.12442400306463242,Mahmoud Dahoud,h,205,OpenPlay,2021,RightFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Nico Schulz,Pass,205
+456279,63,MissedShots,0.840999984741211,0.4859999847412109,0.053983498364686966,Mahmoud Dahoud,h,205,OpenPlay,2021,LeftFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,,None,205
+456280,66,BlockedShot,0.7340000152587891,0.45599998474121095,0.01537690032273531,Mahmoud Dahoud,h,205,OpenPlay,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,Julian Brandt,BallTouch,205
+458893,78,MissedShots,0.7569999694824219,0.69,0.019240999594330788,Mahmoud Dahoud,h,205,FromCorner,2021,RightFoot,17721,Borussia Dortmund,Borussia M.Gladbach,6,0,2022-02-20 16:30:00,Julian Brandt,Pass,205
+460443,10,BlockedShot,0.8619999694824219,0.5629999923706055,0.0942298024892807,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17725,Augsburg,Borussia Dortmund,1,1,2022-02-27 16:30:00,Raphael Guerreiro,Pass,205
+460444,12,SavedShot,0.855,0.56,0.09378460049629211,Mahmoud Dahoud,a,205,OpenPlay,2021,RightFoot,17725,Augsburg,Borussia Dortmund,1,1,2022-02-27 16:30:00,Raphael Guerreiro,Pass,205
+466388,20,MissedShots,0.745999984741211,0.66,0.012704700231552124,Mahmoud Dahoud,a,205,FromCorner,2021,RightFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,,Aerial,205
+479424,61,MissedShots,0.72,0.315,0.017909999936819077,Mahmoud Dahoud,h,205,OpenPlay,2022,RightFoot,19348,Borussia Dortmund,Bayer Leverkusen,1,0,2022-08-06 16:30:00,Jude Bellingham,Pass,205
+480052,54,MissedShots,0.7180000305175781,0.5170000076293946,0.018529800698161125,Mahmoud Dahoud,a,205,OpenPlay,2022,RightFoot,19351,Freiburg,Borussia Dortmund,1,3,2022-08-12 18:30:00,Raphael Guerreiro,Pass,205
+481700,1,MissedShots,0.72,0.5690000152587891,0.015994200482964516,Mahmoud Dahoud,h,205,OpenPlay,2022,RightFoot,19364,Borussia Dortmund,Werder Bremen,2,3,2022-08-20 13:30:00,Jamie Bynoe-Gittens,Pass,205
+507000,90,MissedShots,0.8,0.6790000152587891,0.029415499418973923,Mahmoud Dahoud,h,205,OpenPlay,2022,RightFoot,19504,Borussia Dortmund,Freiburg,5,1,2023-02-04 14:30:00,Donyell Malen,Pass,205
+513740,89,BlockedShot,0.8419999694824218,0.4929999923706055,0.0664547011256218,Mahmoud Dahoud,a,205,OpenPlay,2022,RightFoot,19556,Schalke 04,Borussia Dortmund,2,2,2023-03-11 17:30:00,,Rebound,205
+515249,68,SavedShot,0.7769999694824219,0.5020000076293946,0.09721729904413223,Mahmoud Dahoud,h,205,DirectFreekick,2022,RightFoot,19558,Borussia Dortmund,FC Cologne,6,1,2023-03-18 17:30:00,,Standard,205
+532053,25,MissedShots,0.7680000305175781,0.639000015258789,0.02095428667962551,Mahmoud Dahoud,h,205,OpenPlay,2023,RightFoot,22278,Brighton,Luton,4,1,2023-08-12 14:00:00,Kaoru Mitoma,Pass,205
+532063,41,BlockedShot,0.749000015258789,0.4779999923706055,0.0221095010638237,Mahmoud Dahoud,h,205,OpenPlay,2023,RightFoot,22278,Brighton,Luton,4,1,2023-08-12 14:00:00,,Rebound,205
+539591,45,BlockedShot,0.8159999847412109,0.4779999923706055,0.049729250371456146,Mahmoud Dahoud,h,205,FromCorner,2023,LeftFoot,21951,Brighton,Bournemouth,3,1,2023-09-24 13:00:00,,Rebound,205
+548871,61,SavedShot,0.740999984741211,0.475,0.02116510458290577,Mahmoud Dahoud,h,205,FromCorner,2023,RightFoot,22008,Brighton,Sheffield United,1,1,2023-11-12 14:00:00,,Rebound,205
+552874,35,MissedShots,0.7930000305175782,0.5359999847412109,0.033914655447006226,Mahmoud Dahoud,h,205,OpenPlay,2023,RightFoot,22046,Brighton,Burnley,1,1,2023-12-09 15:00:00,Pascal Groß,Pass,205
+552875,39,MissedShots,0.730999984741211,0.56,0.016815509647130966,Mahmoud Dahoud,h,205,OpenPlay,2023,RightFoot,22046,Brighton,Burnley,1,1,2023-12-09 15:00:00,James Milner,Pass,205
+563827,91,Goal,0.9169999694824219,0.40900001525878904,0.3868900537490845,Mahmoud Dahoud,a,205,OpenPlay,2023,RightFoot,23262,Darmstadt,VfB Stuttgart,1,2,2024-02-17 14:30:00,,Rebound,205
+567641,94,MissedShots,0.8469999694824218,0.4929999923706055,0.08673587441444397,Mahmoud Dahoud,h,205,OpenPlay,2023,RightFoot,23289,VfB Stuttgart,Union Berlin,2,0,2024-03-08 19:30:00,,None,205
+599959,37,SavedShot,0.8930000305175781,0.5659999847412109,0.4302181303501129,Mahmoud Dahoud,h,205,SetPiece,2024,RightFoot,27817,Eintracht Frankfurt,Bochum,7,2,2024-11-02 14:30:00,,None,205
+599962,42,BlockedShot,0.8730000305175781,0.6120000076293945,0.12574155628681183,Mahmoud Dahoud,h,205,OpenPlay,2024,RightFoot,27817,Eintracht Frankfurt,Bochum,7,2,2024-11-02 14:30:00,,TakeOn,205
+599965,46,BlockedShot,0.8009999847412109,0.590999984741211,0.024417156353592873,Mahmoud Dahoud,h,205,OpenPlay,2024,LeftFoot,27817,Eintracht Frankfurt,Bochum,7,2,2024-11-02 14:30:00,,Rebound,205
+599971,60,Goal,0.765,0.49200000762939455,0.03394724428653717,Mahmoud Dahoud,h,205,OpenPlay,2024,LeftFoot,27817,Eintracht Frankfurt,Bochum,7,2,2024-11-02 14:30:00,Ellyes Skhiri,Pass,205
+605729,63,BlockedShot,0.8090000152587891,0.505,0.04969746991991997,Mahmoud Dahoud,h,205,OpenPlay,2024,RightFoot,27858,Eintracht Frankfurt,Augsburg,2,2,2024-12-07 14:30:00,,None,205

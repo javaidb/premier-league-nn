@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+9741,Chem Campbell,1,9,0,0,0,0,0,0,0,0,S,Wolverhampton Wanderers,0,0,0.05672749876976013,0.05672749876976013,2021
+9741,Chem Campbell,5,55,0,0.06225840002298355,0,0,2,0,0,0,S,Wolverhampton Wanderers,0,0.06225840002298355,0.0722723975777626,0.03001989983022213,2022

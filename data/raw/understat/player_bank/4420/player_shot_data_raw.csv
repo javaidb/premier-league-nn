@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15885,85,BlockedShot,0.8090000152587891,0.6930000305175781,0.02875869907438755,Sammy Ameobi,a,4420,OpenPlay,2014,LeftFoot,4748,Stoke,Newcastle United,1,0,2014-09-29 20:00:00,Jack Colback,Pass,4420
+16326,45,Goal,0.924000015258789,0.65,0.2471109926700592,Sammy Ameobi,a,4420,OpenPlay,2014,LeftFoot,4715,Tottenham,Newcastle United,1,2,2014-10-26 13:30:00,Jack Colback,Chipped,4420
+16329,55,BlockedShot,0.7659999847412109,0.664000015258789,0.02157830074429512,Sammy Ameobi,a,4420,OpenPlay,2014,LeftFoot,4715,Tottenham,Newcastle United,1,2,2014-10-26 13:30:00,Jack Colback,Pass,4420
+16155,34,MissedShots,0.7290000152587891,0.5070000076293946,0.014852999709546566,Sammy Ameobi,h,4420,FromCorner,2014,LeftFoot,4649,Newcastle United,Liverpool,1,0,2014-11-01 12:45:00,,None,4420
+17419,9,ShotOnPost,0.8009999847412109,0.3609999847412109,0.03236930072307587,Sammy Ameobi,a,4420,OpenPlay,2014,LeftFoot,4667,West Bromwich Albion,Newcastle United,0,2,2014-11-09 13:30:00,,None,4420
+17083,47,BlockedShot,0.884000015258789,0.7090000152587891,0.029587000608444214,Sammy Ameobi,h,4420,FromCorner,2014,LeftFoot,4670,Newcastle United,Queens Park Rangers,1,0,2014-11-22 15:00:00,,None,4420
+17088,62,MissedShots,0.9059999847412109,0.5359999847412109,0.050476301461458206,Sammy Ameobi,h,4420,OpenPlay,2014,Head,4670,Newcastle United,Queens Park Rangers,1,0,2014-11-22 15:00:00,Yoan Gouffran,Aerial,4420
+17095,94,BlockedShot,0.8880000305175781,0.7330000305175781,0.04273609817028046,Sammy Ameobi,h,4420,OpenPlay,2014,LeftFoot,4670,Newcastle United,Queens Park Rangers,1,0,2014-11-22 15:00:00,Papiss Demba Cissé,Pass,4420
+18702,43,MissedShots,0.8,0.6370000076293946,0.030229300260543823,Sammy Ameobi,a,4420,OpenPlay,2014,LeftFoot,4680,West Ham,Newcastle United,1,0,2014-11-29 15:00:00,Moussa Sissoko,Pass,4420
+18887,22,SavedShot,0.9,0.745,0.034783098846673965,Sammy Ameobi,a,4420,OpenPlay,2014,LeftFoot,4589,Burnley,Newcastle United,1,1,2014-12-02 19:45:00,Ayoze Pérez,Pass,4420
+20044,17,MissedShots,0.7169999694824218,0.595999984741211,0.011572400107979774,Sammy Ameobi,h,4420,OpenPlay,2014,LeftFoot,4599,Newcastle United,Chelsea,2,1,2014-12-06 12:45:00,,None,4420
+17636,22,MissedShots,0.755,0.49700000762939456,0.011093400418758392,Sammy Ameobi,a,4420,SetPiece,2014,LeftFoot,4615,Arsenal,Newcastle United,4,1,2014-12-13 17:30:00,,Aerial,4420
+19057,0,MissedShots,0.89,0.539000015258789,0.06471619755029678,Sammy Ameobi,h,4420,SetPiece,2014,Head,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,Daryl Janmaat,Cross,4420
+18941,86,MissedShots,0.88,0.585,0.028196899220347404,Sammy Ameobi,h,4420,OpenPlay,2014,Head,4577,Newcastle United,Southampton,1,2,2015-01-17 17:30:00,Rémy Cabella,Cross,4420
+23271,49,Goal,0.7280000305175781,0.7230000305175781,0.015277300029993057,Sammy Ameobi,a,4420,OpenPlay,2014,LeftFoot,4581,Hull,Newcastle United,0,3,2015-01-31 12:45:00,Jack Colback,Pass,4420
+23315,27,SavedShot,0.745999984741211,0.49700000762939456,0.020981300622224808,Sammy Ameobi,h,4420,OpenPlay,2014,RightFoot,4523,Newcastle United,Stoke,1,1,2015-02-08 14:05:00,Jack Colback,TakeOn,4420
+23318,58,BlockedShot,0.8119999694824219,0.6120000076293945,0.04253929853439331,Sammy Ameobi,h,4420,OpenPlay,2014,LeftFoot,4523,Newcastle United,Stoke,1,1,2015-02-08 14:05:00,Moussa Sissoko,Pass,4420
+23553,57,BlockedShot,0.730999984741211,0.695,0.02942739985883236,Sammy Ameobi,h,4420,OpenPlay,2014,LeftFoot,4548,Newcastle United,Aston Villa,1,0,2015-02-28 15:00:00,Gabriel Obertan,Pass,4420
+23567,87,BlockedShot,0.894000015258789,0.25,0.023217400535941124,Sammy Ameobi,h,4420,FromCorner,2014,LeftFoot,4548,Newcastle United,Aston Villa,1,0,2015-02-28 15:00:00,Moussa Sissoko,Pass,4420
+21276,5,MissedShots,0.755,0.6719999694824219,0.014576699584722519,Sammy Ameobi,h,4420,FromCorner,2014,LeftFoot,4487,Newcastle United,Manchester United,0,1,2015-03-04 19:45:00,,None,4420
+22780,34,MissedShots,0.835999984741211,0.61,0.04733730107545853,Sammy Ameobi,a,4420,OpenPlay,2014,LeftFoot,4500,Everton,Newcastle United,3,0,2015-03-15 16:00:00,,Rebound,4420
+22779,34,BlockedShot,0.845999984741211,0.6819999694824219,0.012436199933290482,Sammy Ameobi,a,4420,OpenPlay,2014,RightFoot,4500,Everton,Newcastle United,3,0,2015-03-15 16:00:00,Yoan Gouffran,Chipped,4420
+22023,37,BlockedShot,0.875999984741211,0.755,0.02965169958770275,Sammy Ameobi,h,4420,OpenPlay,2014,LeftFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,Ayoze Pérez,Pass,4420
+22304,67,BlockedShot,0.8380000305175781,0.7480000305175781,0.025021400302648544,Sammy Ameobi,a,4420,OpenPlay,2014,RightFoot,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,Ayoze Pérez,Pass,4420
+22308,76,BlockedShot,0.73,0.6580000305175782,0.015209400095045567,Sammy Ameobi,a,4420,OpenPlay,2014,LeftFoot,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,Moussa Sissoko,Pass,4420
+21728,91,MissedShots,0.845999984741211,0.47400001525878904,0.06869000196456909,Sammy Ameobi,h,4420,OpenPlay,2014,LeftFoot,4413,Newcastle United,West Bromwich Albion,1,1,2015-05-09 15:00:00,,None,4420

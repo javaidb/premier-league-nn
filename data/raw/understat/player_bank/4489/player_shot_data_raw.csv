@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15378,91,BlockedShot,0.85,0.66,0.03724529966711998,Oussama Assaidi,h,4489,OpenPlay,2014,RightFoot,4723,Stoke,Leicester,0,1,2014-09-13 15:00:00,Mame Biram Diouf,Pass,4489
+15886,87,BlockedShot,0.909000015258789,0.7090000152587891,0.05111369863152504,Oussama Assaidi,h,4489,OpenPlay,2014,RightFoot,4748,Stoke,Newcastle United,1,0,2014-09-29 20:00:00,Stephen Ireland,Pass,4489
+17399,86,SavedShot,0.9009999847412109,0.7090000152587891,0.050553299486637115,Oussama Assaidi,a,4489,OpenPlay,2014,LeftFoot,4692,Sunderland,Stoke,3,1,2014-10-04 15:00:00,Bojan,Pass,4489
+19394,84,SavedShot,0.89,0.715,0.048760898411273956,Oussama Assaidi,h,4489,OpenPlay,2014,LeftFoot,4628,Stoke,Chelsea,0,2,2014-12-22 20:00:00,Mame Biram Diouf,Pass,4489
+19980,91,SavedShot,0.8809999847412109,0.6569999694824219,0.09479890018701553,Oussama Assaidi,h,4489,OpenPlay,2014,RightFoot,4551,Stoke,Manchester United,1,1,2015-01-01 12:45:00,Mame Biram Diouf,Pass,4489

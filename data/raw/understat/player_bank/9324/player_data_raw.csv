@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+9324,Facundo Pellistri,4,48,0,0,0,0,0,0,0,0,S,Manchester United,0,0,0.5577363073825836,0.5577363073825836,2022
+9324,Facundo Pellistri,9,144,0,0.37423551455140114,1,0.07077087461948395,4,1,0,0,M S,Manchester United,0,0.37423551455140114,1.411473162472248,0.9664667788892984,2023

@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+855,Cristian Gamboa,10,223,0,0.03101770021021366,1,0.22987540252506733,1,3,1,0,D S,West Bromwich Albion,0,0.03101770021021366,0.7136669997125864,0.5600713044404984,2014
+855,Cristian Gamboa,1,24,0,0.02293349988758564,0,0,1,0,1,0,S,West Bromwich Albion,0,0.02293349988758564,0.10200399905443192,0.07907070219516754,2015

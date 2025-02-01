@@ -1,0 +1,316 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14637,69,SavedShot,0.7630000305175781,0.455,0.02773449942469597,Andros Townsend,a,775,OpenPlay,2014,RightFoot,4754,West Ham,Tottenham,0,1,2014-08-16 15:00:00,Christian Eriksen,Pass,775
+14638,69,BlockedShot,0.8,0.29399999618530276,0.022267699241638184,Andros Townsend,a,775,FromCorner,2014,RightFoot,4754,West Ham,Tottenham,0,1,2014-08-16 15:00:00,Christian Eriksen,Pass,775
+16422,64,SavedShot,0.785,0.32,0.024281099438667297,Andros Townsend,a,775,OpenPlay,2014,LeftFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,Ryan Mason,Pass,775
+16427,79,MissedShots,0.7880000305175782,0.31799999237060544,0.02080320008099079,Andros Townsend,a,775,OpenPlay,2014,LeftFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,Nacer Chadli,Pass,775
+16430,92,BlockedShot,0.7680000305175781,0.36700000762939455,0.06434500217437744,Andros Townsend,a,775,DirectFreekick,2014,LeftFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,,Standard,775
+17306,7,MissedShots,0.9280000305175782,0.25,0.04106549918651581,Andros Townsend,h,775,FromCorner,2014,RightFoot,4666,Tottenham,Stoke,1,2,2014-11-09 13:30:00,Etienne Capoue,Pass,775
+17316,42,BlockedShot,0.7980000305175782,0.5470000076293945,0.05042320117354393,Andros Townsend,h,775,OpenPlay,2014,LeftFoot,4666,Tottenham,Stoke,1,2,2014-11-09 13:30:00,Harry Kane,Pass,775
+19105,20,SavedShot,0.8069999694824219,0.3659999847412109,0.03430449962615967,Andros Townsend,h,775,OpenPlay,2014,LeftFoot,4639,Tottenham,Manchester United,0,0,2014-12-28 12:00:00,Harry Kane,Pass,775
+19115,65,SavedShot,0.7190000152587891,0.3129999923706055,0.008213980123400688,Andros Townsend,h,775,OpenPlay,2014,RightFoot,4639,Tottenham,Manchester United,0,0,2014-12-28 12:00:00,,TakeOn,775
+20021,48,Goal,0.885,0.5,0.7611690163612366,Andros Townsend,h,775,Penalty,2014,LeftFoot,4560,Tottenham,Chelsea,5,3,2015-01-01 17:30:00,,Standard,775
+19271,78,MissedShots,0.730999984741211,0.3609999847412109,0.016027899459004402,Andros Townsend,h,775,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Christian Eriksen,Pass,775
+21677,16,SavedShot,0.7769999694824219,0.5420000076293945,0.062124498188495636,Andros Townsend,h,775,OpenPlay,2014,LeftFoot,4489,Tottenham,Swansea,3,2,2015-03-04 19:45:00,Christian Eriksen,LayOff,775
+21682,28,BlockedShot,0.7559999847412109,0.33599998474121096,0.018535999581217766,Andros Townsend,h,775,OpenPlay,2014,LeftFoot,4489,Tottenham,Swansea,3,2,2015-03-04 19:45:00,Nacer Chadli,Pass,775
+21696,59,Goal,0.92,0.6070000076293945,0.5698249936103821,Andros Townsend,h,775,OpenPlay,2014,RightFoot,4489,Tottenham,Swansea,3,2,2015-03-04 19:45:00,Nabil Bentaleb,BallRecovery,775
+23652,49,MissedShots,0.7819999694824219,0.4229999923706055,0.045394301414489746,Andros Townsend,a,775,OpenPlay,2014,LeftFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,,BallRecovery,775
+21408,28,SavedShot,0.775,0.28,0.017447400838136673,Andros Townsend,h,775,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Nabil Bentaleb,Pass,775
+57961,76,BlockedShot,0.8130000305175781,0.3770000076293945,0.043779101222753525,Andros Townsend,a,775,OpenPlay,2015,LeftFoot,128,Sunderland,Tottenham,0,1,2015-09-13 16:30:00,,Tackle,775
+58887,70,BlockedShot,0.7280000305175781,0.33599998474121096,0.016587499529123306,Andros Townsend,a,775,OpenPlay,2015,LeftFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Christian Eriksen,Pass,775
+58890,79,SavedShot,0.7390000152587891,0.49,0.010830200277268887,Andros Townsend,a,775,OpenPlay,2015,LeftFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Clinton N&#039;Jie,Chipped,775
+58891,80,SavedShot,0.8519999694824218,0.325,0.08722849935293198,Andros Townsend,a,775,OpenPlay,2015,LeftFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Jan Vertonghen,BallRecovery,775
+58893,88,BlockedShot,0.8319999694824218,0.325,0.03851740062236786,Andros Townsend,a,775,OpenPlay,2015,LeftFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Mousa Dembélé,Pass,775
+52920,3,BlockedShot,0.8390000152587891,0.3240000152587891,0.018984999507665634,Andros Townsend,h,775,FromCorner,2015,LeftFoot,322,Newcastle United,West Bromwich Albion,1,0,2016-02-06 19:00:00,Jonjo Shelvey,CornerAwarded,775
+52921,4,SavedShot,0.81,0.5720000076293945,0.050471700727939606,Andros Townsend,h,775,OpenPlay,2015,RightFoot,322,Newcastle United,West Bromwich Albion,1,0,2016-02-06 19:00:00,Georginio Wijnaldum,BallTouch,775
+52933,51,BlockedShot,0.764000015258789,0.49,0.026186199858784676,Andros Townsend,h,775,OpenPlay,2015,RightFoot,322,Newcastle United,West Bromwich Albion,1,0,2016-02-06 19:00:00,,Rebound,775
+52938,67,ShotOnPost,0.8490000152587891,0.500999984741211,0.09137140214443207,Andros Townsend,h,775,OpenPlay,2015,RightFoot,322,Newcastle United,West Bromwich Albion,1,0,2016-02-06 19:00:00,,None,775
+54963,11,SavedShot,0.8019999694824219,0.715,0.019753199070692062,Andros Townsend,a,775,OpenPlay,2015,RightFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Georginio Wijnaldum,Pass,775
+54982,89,Goal,0.7880000305175782,0.445,0.03745710104703903,Andros Townsend,a,775,OpenPlay,2015,LeftFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Jack Colback,Pass,775
+60391,19,SavedShot,0.76,0.4179999923706055,0.02036459930241108,Andros Townsend,h,775,OpenPlay,2015,LeftFoot,381,Newcastle United,Sunderland,1,1,2016-03-20 17:30:00,,None,775
+60415,72,BlockedShot,0.7440000152587891,0.44099998474121094,0.017831699922680855,Andros Townsend,h,775,OpenPlay,2015,LeftFoot,381,Newcastle United,Sunderland,1,1,2016-03-20 17:30:00,Vurnon Anita,Pass,775
+60008,50,SavedShot,0.7759999847412109,0.525,0.03920099884271622,Andros Townsend,a,775,OpenPlay,2015,LeftFoot,387,Norwich,Newcastle United,3,2,2016-04-02 18:00:00,Georginio Wijnaldum,TakeOn,775
+60011,63,BlockedShot,0.879000015258789,0.3529999923706055,0.05893319845199585,Andros Townsend,a,775,OpenPlay,2015,LeftFoot,387,Norwich,Newcastle United,3,2,2016-04-02 18:00:00,Daryl Janmaat,Pass,775
+60837,58,SavedShot,0.725,0.34,0.009918919764459133,Andros Townsend,a,775,OpenPlay,2015,LeftFoot,396,Southampton,Newcastle United,3,1,2016-04-09 18:00:00,Aleksandar Mitrovic,Pass,775
+60839,64,Goal,0.7909999847412109,0.39799999237060546,0.03845420107245445,Andros Townsend,a,775,OpenPlay,2015,LeftFoot,396,Southampton,Newcastle United,3,1,2016-04-09 18:00:00,Vurnon Anita,Pass,775
+56669,8,SavedShot,0.764000015258789,0.504000015258789,0.024372000247240067,Andros Townsend,h,775,OpenPlay,2015,LeftFoot,408,Newcastle United,Swansea,3,0,2016-04-16 18:00:00,Vurnon Anita,Pass,775
+56672,38,SavedShot,0.7440000152587891,0.485,0.01954459957778454,Andros Townsend,h,775,OpenPlay,2015,RightFoot,408,Newcastle United,Swansea,3,0,2016-04-16 18:00:00,Georginio Wijnaldum,Pass,775
+56686,88,Goal,0.9309999847412109,0.3390000152587891,0.4171049892902374,Andros Townsend,h,775,OpenPlay,2015,LeftFoot,408,Newcastle United,Swansea,3,0,2016-04-16 18:00:00,Aleksandar Mitrovic,Throughball,775
+57426,51,MissedShots,0.8440000152587891,0.45799999237060546,0.07426580041646957,Andros Townsend,a,775,OpenPlay,2015,LeftFoot,423,Liverpool,Newcastle United,2,2,2016-04-23 18:00:00,Papiss Demba Cissé,Pass,775
+57252,38,MissedShots,0.785,0.35200000762939454,0.024515200406312943,Andros Townsend,h,775,OpenPlay,2015,RightFoot,428,Newcastle United,Crystal Palace,1,0,2016-04-30 18:00:00,Vurnon Anita,HeadPass,775
+57258,54,SavedShot,0.725,0.415,0.016380799934267998,Andros Townsend,h,775,OpenPlay,2015,RightFoot,428,Newcastle United,Crystal Palace,1,0,2016-04-30 18:00:00,Jack Colback,Pass,775
+57259,57,Goal,0.765,0.2670000076293945,0.04340910166501999,Andros Townsend,h,775,DirectFreekick,2015,LeftFoot,428,Newcastle United,Crystal Palace,1,0,2016-04-30 18:00:00,,Standard,775
+57260,67,BlockedShot,0.8119999694824219,0.3340000152587891,0.024822700768709183,Andros Townsend,h,775,OpenPlay,2015,LeftFoot,428,Newcastle United,Crystal Palace,1,0,2016-04-30 18:00:00,Vurnon Anita,TakeOn,775
+57623,95,SavedShot,0.7769999694824219,0.31799999237060544,0.05898530036211014,Andros Townsend,a,775,DirectFreekick,2015,LeftFoot,440,Aston Villa,Newcastle United,0,0,2016-05-07 18:00:00,,Standard,775
+52076,11,MissedShots,0.7759999847412109,0.529000015258789,0.030143000185489655,Andros Townsend,h,775,OpenPlay,2015,LeftFoot,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,Aleksandar Mitrovic,Pass,775
+52098,79,SavedShot,0.8640000152587891,0.40700000762939453,0.07960910350084305,Andros Townsend,h,775,OpenPlay,2015,LeftFoot,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,Jonjo Shelvey,BallRecovery,775
+52101,83,ShotOnPost,0.88,0.7069999694824218,0.02719780057668686,Andros Townsend,h,775,FromCorner,2015,RightFoot,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,Rolando Aarons,Pass,775
+112189,28,SavedShot,0.6980000305175781,0.39,0.013144499622285366,Andros Townsend,h,775,OpenPlay,2016,LeftFoot,462,Crystal Palace,West Bromwich Albion,0,1,2016-08-13 18:00:00,Jason Puncheon,Pass,775
+112190,33,BlockedShot,0.865999984741211,0.34599998474121096,0.0532567985355854,Andros Townsend,h,775,OpenPlay,2016,RightFoot,462,Crystal Palace,West Bromwich Albion,0,1,2016-08-13 18:00:00,,None,775
+112201,63,MissedShots,0.8090000152587891,0.4929999923706055,0.0393546000123024,Andros Townsend,h,775,OpenPlay,2016,RightFoot,462,Crystal Palace,West Bromwich Albion,0,1,2016-08-13 18:00:00,,Rebound,775
+112200,63,BlockedShot,0.8,0.57,0.04269789904356003,Andros Townsend,h,775,OpenPlay,2016,RightFoot,462,Crystal Palace,West Bromwich Albion,0,1,2016-08-13 18:00:00,Lee Chung-yong,Pass,775
+112208,92,SavedShot,0.710999984741211,0.59,0.01576549932360649,Andros Townsend,h,775,OpenPlay,2016,RightFoot,462,Crystal Palace,West Bromwich Albion,0,1,2016-08-13 18:00:00,Mile Jedinak,Pass,775
+112209,94,MissedShots,0.705999984741211,0.4909999847412109,0.040236398577690125,Andros Townsend,h,775,DirectFreekick,2016,LeftFoot,462,Crystal Palace,West Bromwich Albion,0,1,2016-08-13 18:00:00,,Standard,775
+112782,25,MissedShots,0.730999984741211,0.72,0.008310319855809212,Andros Townsend,a,775,OpenPlay,2016,RightFoot,475,Tottenham,Crystal Palace,1,0,2016-08-20 18:00:00,,TakeOn,775
+112795,61,BlockedShot,0.7430000305175781,0.49700000762939456,0.018367599695920944,Andros Townsend,a,775,OpenPlay,2016,LeftFoot,475,Tottenham,Crystal Palace,1,0,2016-08-20 18:00:00,,None,775
+112904,26,BlockedShot,0.7709999847412109,0.63,0.06708680093288422,Andros Townsend,h,775,DirectFreekick,2016,LeftFoot,486,Crystal Palace,Bournemouth,1,1,2016-08-27 18:00:00,,Standard,775
+112913,49,BlockedShot,0.730999984741211,0.3240000152587891,0.014654099941253662,Andros Townsend,h,775,OpenPlay,2016,LeftFoot,486,Crystal Palace,Bournemouth,1,1,2016-08-27 18:00:00,,Rebound,775
+112919,66,SavedShot,0.7380000305175781,0.4909999847412109,0.019835099577903748,Andros Townsend,h,775,OpenPlay,2016,RightFoot,486,Crystal Palace,Bournemouth,1,1,2016-08-27 18:00:00,Yohan Cabaye,Pass,775
+112927,79,MissedShots,0.9230000305175782,0.6840000152587891,0.3105269968509674,Andros Townsend,h,775,OpenPlay,2016,LeftFoot,486,Crystal Palace,Bournemouth,1,1,2016-08-27 18:00:00,,None,775
+113281,3,BlockedShot,0.8059999847412109,0.37900001525878907,0.040199700742959976,Andros Townsend,a,775,OpenPlay,2016,RightFoot,492,Middlesbrough,Crystal Palace,1,2,2016-09-10 18:00:00,Jason Puncheon,Pass,775
+113286,23,SavedShot,0.8219999694824218,0.505,0.08277049660682678,Andros Townsend,a,775,OpenPlay,2016,RightFoot,492,Middlesbrough,Crystal Palace,1,2,2016-09-10 18:00:00,Christian Benteke,LayOff,775
+113289,41,BlockedShot,0.7959999847412109,0.54,0.01726970076560974,Andros Townsend,a,775,FromCorner,2016,LeftFoot,492,Middlesbrough,Crystal Palace,1,2,2016-09-10 18:00:00,,Aerial,775
+113469,22,SavedShot,0.8569999694824219,0.17299999237060548,0.04880790039896965,Andros Townsend,h,775,DirectFreekick,2016,LeftFoot,508,Crystal Palace,Stoke,4,1,2016-09-18 17:15:00,,Standard,775
+113479,65,BlockedShot,0.815,0.27,0.03437339887022972,Andros Townsend,h,775,OpenPlay,2016,LeftFoot,508,Crystal Palace,Stoke,4,1,2016-09-18 17:15:00,Jason Puncheon,Pass,775
+113481,74,Goal,0.784000015258789,0.59,0.050493501126766205,Andros Townsend,h,775,OpenPlay,2016,RightFoot,508,Crystal Palace,Stoke,4,1,2016-09-18 17:15:00,Martin Kelly,Pass,775
+113889,26,MissedShots,0.8859999847412109,0.664000015258789,0.06329569965600967,Andros Townsend,a,775,OpenPlay,2016,RightFoot,514,Sunderland,Crystal Palace,2,3,2016-09-24 18:00:00,Martin Kelly,BallTouch,775
+113897,47,MissedShots,0.6980000305175781,0.4370000076293945,0.03628750145435333,Andros Townsend,a,775,DirectFreekick,2016,LeftFoot,514,Sunderland,Crystal Palace,2,3,2016-09-24 18:00:00,,Standard,775
+113915,87,MissedShots,0.855,0.4,0.07236690074205399,Andros Townsend,a,775,OpenPlay,2016,LeftFoot,514,Sunderland,Crystal Palace,2,3,2016-09-24 18:00:00,Jason Puncheon,Pass,775
+114205,23,BlockedShot,0.7759999847412109,0.500999984741211,0.020579500123858452,Andros Townsend,a,775,SetPiece,2016,LeftFoot,521,Everton,Crystal Palace,1,1,2016-09-30 23:00:00,,Rebound,775
+114204,23,BlockedShot,0.74,0.485,0.05774550139904022,Andros Townsend,a,775,DirectFreekick,2016,LeftFoot,521,Everton,Crystal Palace,1,1,2016-09-30 23:00:00,,Standard,775
+114216,68,BlockedShot,0.7419999694824219,0.295,0.03986480087041855,Andros Townsend,a,775,DirectFreekick,2016,LeftFoot,521,Everton,Crystal Palace,1,1,2016-09-30 23:00:00,,Standard,775
+114870,8,BlockedShot,0.7319999694824219,0.53,0.01576410047709942,Andros Townsend,h,775,OpenPlay,2016,LeftFoot,537,Crystal Palace,West Ham,0,1,2016-10-15 20:30:00,Wilfried Zaha,Pass,775
+114884,57,SavedShot,0.7530000305175781,0.615,0.020742200314998627,Andros Townsend,h,775,OpenPlay,2016,RightFoot,537,Crystal Palace,West Ham,0,1,2016-10-15 20:30:00,Yohan Cabaye,Pass,775
+114392,14,MissedShots,0.8159999847412109,0.46,0.05570799857378006,Andros Townsend,a,775,OpenPlay,2016,LeftFoot,544,Leicester,Crystal Palace,3,1,2016-10-22 18:00:00,Christian Benteke,Pass,775
+114404,50,BlockedShot,0.745,0.39599998474121095,0.02080100029706955,Andros Townsend,a,775,OpenPlay,2016,RightFoot,544,Leicester,Crystal Palace,3,1,2016-10-22 18:00:00,Wilfried Zaha,Pass,775
+114410,67,BlockedShot,0.7919999694824219,0.3240000152587891,0.018525199964642525,Andros Townsend,a,775,OpenPlay,2016,LeftFoot,544,Leicester,Crystal Palace,3,1,2016-10-22 18:00:00,Joe Ledley,Chipped,775
+115123,17,MissedShots,0.7780000305175782,0.44299999237060544,0.024986300617456436,Andros Townsend,a,775,SetPiece,2016,LeftFoot,2688,Burnley,Crystal Palace,3,2,2016-11-05 19:00:00,James McArthur,Pass,775
+115126,32,MissedShots,0.8119999694824219,0.515,0.03678780049085617,Andros Townsend,a,775,OpenPlay,2016,RightFoot,2688,Burnley,Crystal Palace,3,2,2016-11-05 19:00:00,,None,775
+115144,89,BlockedShot,0.7819999694824219,0.6419999694824219,0.023033900186419487,Andros Townsend,a,775,OpenPlay,2016,RightFoot,2688,Burnley,Crystal Palace,3,2,2016-11-05 19:00:00,,None,775
+115147,94,ShotOnPost,0.8069999694824219,0.5029999923706054,0.04336969926953316,Andros Townsend,a,775,OpenPlay,2016,LeftFoot,2688,Burnley,Crystal Palace,3,2,2016-11-05 19:00:00,,None,775
+115403,82,BlockedShot,0.73,0.4,0.01516489963978529,Andros Townsend,a,775,OpenPlay,2016,RightFoot,2709,Swansea,Crystal Palace,5,4,2016-11-26 19:00:00,Christian Benteke,Pass,775
+115530,72,MissedShots,0.7480000305175781,0.7140000152587891,0.021659299731254578,Andros Townsend,h,775,OpenPlay,2016,RightFoot,3106,Crystal Palace,Southampton,3,0,2016-12-03 19:00:00,Joe Ledley,Pass,775
+118459,92,MissedShots,0.7390000152587891,0.5070000076293946,0.05720119923353195,Andros Townsend,h,775,DirectFreekick,2016,LeftFoot,3135,Crystal Palace,Chelsea,0,1,2016-12-17 16:30:00,,Standard,775
+116894,11,MissedShots,0.7390000152587891,0.585,0.015766499564051628,Andros Townsend,a,775,OpenPlay,2016,RightFoot,3145,Watford,Crystal Palace,1,1,2016-12-26 16:30:00,Wilfried Zaha,Pass,775
+116902,50,MissedShots,0.794000015258789,0.3160000038146973,0.024015599861741066,Andros Townsend,a,775,OpenPlay,2016,LeftFoot,3145,Watford,Crystal Palace,1,1,2016-12-26 16:30:00,Jason Puncheon,Pass,775
+117014,59,BlockedShot,0.8019999694824219,0.49900001525878906,0.018207399174571037,Andros Townsend,a,775,FromCorner,2016,LeftFoot,3329,Arsenal,Crystal Palace,2,0,2017-01-01 20:00:00,,Aerial,775
+117015,60,SavedShot,0.8080000305175781,0.6719999694824219,0.03424710035324097,Andros Townsend,a,775,FromCorner,2016,LeftFoot,3329,Arsenal,Crystal Palace,2,0,2017-01-01 20:00:00,Yohan Cabaye,Pass,775
+116431,91,SavedShot,0.8680000305175781,0.664000015258789,0.029629699885845184,Andros Townsend,h,775,OpenPlay,2016,LeftFoot,3371,Crystal Palace,Sunderland,0,4,2017-02-04 15:00:00,,Rebound,775
+117944,88,MissedShots,0.7559999847412109,0.3160000038146973,0.04823189973831177,Andros Townsend,a,775,DirectFreekick,2016,LeftFoot,3383,Stoke,Crystal Palace,1,0,2017-02-11 15:00:00,,Standard,775
+118339,92,MissedShots,0.9290000152587891,0.2560000038146973,0.04615220054984093,Andros Townsend,h,775,OpenPlay,2016,RightFoot,3392,Crystal Palace,Middlesbrough,1,0,2017-02-25 15:00:00,Christian Benteke,Pass,775
+120188,49,BlockedShot,0.8530000305175781,0.27,0.03121829964220524,Andros Townsend,a,775,OpenPlay,2016,LeftFoot,3408,West Bromwich Albion,Crystal Palace,0,2,2017-03-04 15:00:00,Jason Puncheon,Pass,775
+120194,65,BlockedShot,0.8490000152587891,0.674000015258789,0.029785800725221634,Andros Townsend,a,775,FromCorner,2016,LeftFoot,3408,West Bromwich Albion,Crystal Palace,0,2,2017-03-04 15:00:00,,None,775
+120195,78,SavedShot,0.9019999694824219,0.42700000762939455,0.3962720036506653,Andros Townsend,a,775,OpenPlay,2016,LeftFoot,3408,West Bromwich Albion,Crystal Palace,0,2,2017-03-04 15:00:00,Luka Milivojevic,Throughball,775
+120198,83,Goal,0.9180000305175782,0.6519999694824219,0.11582300066947937,Andros Townsend,a,775,OpenPlay,2016,LeftFoot,3408,West Bromwich Albion,Crystal Palace,0,2,2017-03-04 15:00:00,,TakeOn,775
+119511,51,BlockedShot,0.860999984741211,0.49700000762939456,0.07776139676570892,Andros Townsend,a,775,OpenPlay,2016,LeftFoot,3447,Southampton,Crystal Palace,3,1,2017-04-05 19:45:00,Luka Milivojevic,Chipped,775
+119530,84,BlockedShot,0.7380000305175781,0.6120000076293945,0.019506899639964104,Andros Townsend,a,775,OpenPlay,2016,RightFoot,3447,Southampton,Crystal Palace,3,1,2017-04-05 19:45:00,Christian Benteke,HeadPass,775
+119798,16,Goal,0.9269999694824219,0.4640000152587891,0.5284479856491089,Andros Townsend,h,775,OpenPlay,2016,RightFoot,3459,Crystal Palace,Arsenal,3,0,2017-04-10 20:00:00,Wilfried Zaha,Pass,775
+119803,34,MissedShots,0.725999984741211,0.5940000152587891,0.020839499309659004,Andros Townsend,h,775,OpenPlay,2016,RightFoot,3459,Crystal Palace,Arsenal,3,0,2017-04-10 20:00:00,Wilfried Zaha,Pass,775
+119809,49,SavedShot,0.8680000305175781,0.605,0.0768297016620636,Andros Townsend,h,775,OpenPlay,2016,RightFoot,3459,Crystal Palace,Arsenal,3,0,2017-04-10 20:00:00,Christian Benteke,HeadPass,775
+120711,29,MissedShots,0.8059999847412109,0.6880000305175781,0.02489910088479519,Andros Townsend,h,775,OpenPlay,2016,RightFoot,3468,Crystal Palace,Leicester,2,2,2017-04-15 15:00:00,,None,775
+120714,39,BlockedShot,0.9669999694824218,0.34299999237060547,0.09751039743423462,Andros Townsend,h,775,OpenPlay,2016,RightFoot,3468,Crystal Palace,Leicester,2,2,2017-04-15 15:00:00,Joel Ward,Throughball,775
+119203,38,MissedShots,0.7930000305175782,0.4540000152587891,0.04106530174612999,Andros Townsend,h,775,OpenPlay,2016,RightFoot,3415,Crystal Palace,Tottenham,0,1,2017-04-26 20:00:00,Mamadou Sakho,TakeOn,775
+121753,49,MissedShots,0.8469999694824218,0.62,0.09427990019321442,Andros Townsend,h,775,OpenPlay,2016,LeftFoot,3501,Crystal Palace,Hull,4,0,2017-05-14 12:00:00,Jason Puncheon,Pass,775
+159322,23,MissedShots,0.7340000152587891,0.5829999923706055,0.021664299070835114,Andros Townsend,h,775,OpenPlay,2017,RightFoot,7141,Crystal Palace,Swansea,0,2,2017-08-26 15:00:00,Luka Milivojevic,Pass,775
+159333,59,MissedShots,0.7859999847412109,0.685,0.022832000628113747,Andros Townsend,h,775,OpenPlay,2017,RightFoot,7141,Crystal Palace,Swansea,0,2,2017-08-26 15:00:00,Joel Ward,Pass,775
+159334,63,SavedShot,0.794000015258789,0.39099998474121095,0.03829159960150719,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7141,Crystal Palace,Swansea,0,2,2017-08-26 15:00:00,Lee Chung-yong,Pass,775
+159337,73,MissedShots,0.779000015258789,0.6370000076293946,0.025663599371910095,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7141,Crystal Palace,Swansea,0,2,2017-08-26 15:00:00,Scott Dann,Pass,775
+159340,82,MissedShots,0.845,0.35900001525878905,0.03775779902935028,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7141,Crystal Palace,Swansea,0,2,2017-08-26 15:00:00,,None,775
+159165,45,SavedShot,0.755,0.3970000076293945,0.023214099928736687,Andros Townsend,a,775,OpenPlay,2017,RightFoot,7156,Burnley,Crystal Palace,1,0,2017-09-10 13:30:00,Yohan Cabaye,Pass,775
+159169,60,BlockedShot,0.7559999847412109,0.3529999923706055,0.017477799206972122,Andros Townsend,a,775,SetPiece,2017,RightFoot,7156,Burnley,Crystal Palace,1,0,2017-09-10 13:30:00,,TakeOn,775
+159177,85,BlockedShot,0.7809999847412109,0.28299999237060547,0.020095599815249443,Andros Townsend,a,775,OpenPlay,2017,LeftFoot,7156,Burnley,Crystal Palace,1,0,2017-09-10 13:30:00,Joel Ward,Pass,775
+159179,87,BlockedShot,0.8680000305175781,0.695,0.01783899962902069,Andros Townsend,a,775,FromCorner,2017,RightFoot,7156,Burnley,Crystal Palace,1,0,2017-09-10 13:30:00,,Aerial,775
+158591,0,MissedShots,0.865,0.5720000076293945,0.06634169816970825,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7160,Crystal Palace,Southampton,0,1,2017-09-16 12:30:00,Ruben Loftus-Cheek,Cross,775
+158605,45,MissedShots,0.8980000305175782,0.6419999694824219,0.07349280267953873,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7160,Crystal Palace,Southampton,0,1,2017-09-16 12:30:00,Jason Puncheon,Pass,775
+159714,20,BlockedShot,0.75,0.539000015258789,0.0201347004622221,Andros Townsend,a,775,OpenPlay,2017,LeftFoot,7173,Manchester City,Crystal Palace,5,0,2017-09-23 15:00:00,Jeffrey Schlupp,Pass,775
+160445,6,MissedShots,0.765,0.7419999694824219,0.012996399775147438,Andros Townsend,h,775,OpenPlay,2017,RightFoot,7191,Crystal Palace,Chelsea,2,1,2017-10-14 15:00:00,Patrick van Aanholt,Pass,775
+160451,38,MissedShots,0.7469999694824219,0.4759999847412109,0.023267000913619995,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7191,Crystal Palace,Chelsea,2,1,2017-10-14 15:00:00,Luka Milivojevic,Pass,775
+160467,85,SavedShot,0.7369999694824219,0.56,0.026525599882006645,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7191,Crystal Palace,Chelsea,2,1,2017-10-14 15:00:00,Patrick van Aanholt,Pass,775
+160471,88,MissedShots,0.9319999694824219,0.33,0.07810720056295395,Andros Townsend,h,775,OpenPlay,2017,RightFoot,7191,Crystal Palace,Chelsea,2,1,2017-10-14 15:00:00,,None,775
+159556,64,MissedShots,0.885,0.34900001525878904,0.07736620306968689,Andros Townsend,a,775,OpenPlay,2017,LeftFoot,7203,Newcastle United,Crystal Palace,1,0,2017-10-21 15:00:00,Yohan Cabaye,Pass,775
+161333,47,SavedShot,0.8530000305175781,0.7180000305175781,0.07558880001306534,Andros Townsend,a,775,OpenPlay,2017,LeftFoot,7226,Tottenham,Crystal Palace,1,0,2017-11-05 12:00:00,,BallRecovery,775
+161338,58,BlockedShot,0.8640000152587891,0.34799999237060547,0.06571979820728302,Andros Townsend,a,775,OpenPlay,2017,RightFoot,7226,Tottenham,Crystal Palace,1,0,2017-11-05 12:00:00,Wilfried Zaha,Pass,775
+161346,92,BlockedShot,0.815,0.35900001525878905,0.04208249971270561,Andros Townsend,a,775,OpenPlay,2017,LeftFoot,7226,Tottenham,Crystal Palace,1,0,2017-11-05 12:00:00,Timothy Fosu-Mensah,TakeOn,775
+160708,78,MissedShots,0.889000015258789,0.6759999847412109,0.05414649844169617,Andros Townsend,h,775,OpenPlay,2017,RightFoot,7234,Crystal Palace,Everton,2,2,2017-11-18 15:00:00,,None,775
+160710,82,BlockedShot,0.749000015258789,0.5520000076293945,0.016661500558257103,Andros Townsend,h,775,FromCorner,2017,RightFoot,7234,Crystal Palace,Everton,2,2,2017-11-18 15:00:00,,None,775
+160879,68,BlockedShot,0.8440000152587891,0.6959999847412109,0.031106000766158104,Andros Townsend,a,775,OpenPlay,2017,LeftFoot,7265,West Bromwich Albion,Crystal Palace,0,0,2017-12-02 15:00:00,Ruben Loftus-Cheek,Pass,775
+160882,80,MissedShots,0.7930000305175782,0.32799999237060545,0.02590549923479557,Andros Townsend,a,775,OpenPlay,2017,RightFoot,7265,West Bromwich Albion,Crystal Palace,0,0,2017-12-02 15:00:00,Ruben Loftus-Cheek,Pass,775
+179167,15,BlockedShot,0.8769999694824219,0.36700000762939455,0.04632449895143509,Andros Townsend,h,775,OpenPlay,2017,RightFoot,7273,Crystal Palace,Bournemouth,2,2,2017-12-09 15:00:00,Jeffrey Schlupp,Cross,775
+179174,47,SavedShot,0.7230000305175781,0.624000015258789,0.01779700070619583,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7273,Crystal Palace,Bournemouth,2,2,2017-12-09 15:00:00,Ruben Loftus-Cheek,Pass,775
+179178,54,BlockedShot,0.8530000305175781,0.40299999237060546,0.06220829859375954,Andros Townsend,h,775,OpenPlay,2017,RightFoot,7273,Crystal Palace,Bournemouth,2,2,2017-12-09 15:00:00,,None,775
+182860,20,MissedShots,0.74,0.5629999923706055,0.01639780029654503,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7282,Crystal Palace,Watford,2,1,2017-12-12 20:00:00,,BallRecovery,775
+182862,23,MissedShots,0.7340000152587891,0.4179999923706055,0.01875540055334568,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7282,Crystal Palace,Watford,2,1,2017-12-12 20:00:00,Luka Milivojevic,Pass,775
+182675,82,MissedShots,0.835,0.6530000305175782,0.10216200351715088,Andros Townsend,a,775,OpenPlay,2017,LeftFoot,7294,Leicester,Crystal Palace,0,3,2017-12-16 12:30:00,Ruben Loftus-Cheek,Pass,775
+182636,9,SavedShot,0.835999984741211,0.7609999847412109,0.025409599766135216,Andros Townsend,a,775,OpenPlay,2017,RightFoot,7299,Swansea,Crystal Palace,1,1,2017-12-23 15:00:00,Wilfried Zaha,TakeOn,775
+182644,48,BlockedShot,0.7909999847412109,0.5840000152587891,0.045694999396800995,Andros Townsend,a,775,OpenPlay,2017,RightFoot,7299,Swansea,Crystal Palace,1,1,2017-12-23 15:00:00,,TakeOn,775
+182653,80,SavedShot,0.7580000305175781,0.23700000762939452,0.00992670003324747,Andros Townsend,a,775,OpenPlay,2017,LeftFoot,7299,Swansea,Crystal Palace,1,1,2017-12-23 15:00:00,Bakary Sako,LayOff,775
+185760,37,MissedShots,0.7819999694824219,0.355,0.02378709986805916,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7311,Crystal Palace,Arsenal,2,3,2017-12-28 20:00:00,,None,775
+185763,48,Goal,0.8590000152587891,0.46,0.08276859670877457,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7311,Crystal Palace,Arsenal,2,3,2017-12-28 20:00:00,Wilfried Zaha,Pass,775
+186188,33,BlockedShot,0.8169999694824219,0.46,0.059537701308727264,Andros Townsend,h,775,OpenPlay,2017,RightFoot,7321,Crystal Palace,Manchester City,0,0,2017-12-31 12:00:00,Wilfried Zaha,Pass,775
+186198,76,MissedShots,0.92,0.580999984741211,0.39732301235198975,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7321,Crystal Palace,Manchester City,0,0,2017-12-31 12:00:00,Wilfried Zaha,Pass,775
+186399,5,SavedShot,0.7440000152587891,0.45799999237060546,0.021991899237036705,Andros Townsend,a,775,OpenPlay,2017,LeftFoot,7336,Southampton,Crystal Palace,1,2,2018-01-02 19:45:00,Yohan Cabaye,TakeOn,775
+186403,30,MissedShots,0.69,0.5029999923706054,0.013411399908363819,Andros Townsend,a,775,OpenPlay,2017,LeftFoot,7336,Southampton,Crystal Palace,1,2,2018-01-02 19:45:00,Christian Benteke,Pass,775
+194105,28,BlockedShot,0.879000015258789,0.6959999847412109,0.06544680148363113,Andros Townsend,a,775,OpenPlay,2017,RightFoot,7360,West Ham,Crystal Palace,1,1,2018-01-30 19:45:00,Wilfried Zaha,Pass,775
+194109,48,SavedShot,0.825999984741211,0.25799999237060545,0.023395400494337082,Andros Townsend,a,775,OpenPlay,2017,LeftFoot,7360,West Ham,Crystal Palace,1,1,2018-01-30 19:45:00,Wilfried Zaha,Pass,775
+193696,52,MissedShots,0.9069999694824219,0.44099998474121094,0.06503190100193024,Andros Townsend,h,775,OpenPlay,2017,Head,7373,Crystal Palace,Newcastle United,1,1,2018-02-04 14:15:00,Patrick van Aanholt,Cross,775
+193862,58,MissedShots,0.8069999694824219,0.685,0.027997199445962906,Andros Townsend,a,775,OpenPlay,2017,LeftFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Alexander Sørloth,Pass,775
+197801,44,SavedShot,0.779000015258789,0.3120000076293945,0.04244310036301613,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7397,Crystal Palace,Tottenham,0,1,2018-02-25 00:00:00,James McArthur,Pass,775
+199600,10,Goal,0.8059999847412109,0.46599998474121096,0.053634900599718094,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7401,Crystal Palace,Manchester United,2,3,2018-03-05 20:00:00,Christian Benteke,Pass,775
+199602,26,MissedShots,0.745999984741211,0.41900001525878905,0.02776920050382614,Andros Townsend,h,775,OpenPlay,2017,RightFoot,7401,Crystal Palace,Manchester United,2,3,2018-03-05 20:00:00,,TakeOn,775
+199621,88,BlockedShot,0.8069999694824219,0.54,0.051493801176548004,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7401,Crystal Palace,Manchester United,2,3,2018-03-05 20:00:00,Alexander Sørloth,Pass,775
+200137,11,MissedShots,0.825999984741211,0.62,0.030903900042176247,Andros Townsend,a,775,OpenPlay,2017,LeftFoot,7411,Chelsea,Crystal Palace,2,1,2018-03-10 17:30:00,Christian Benteke,HeadPass,775
+200152,46,BlockedShot,0.8219999694824218,0.4929999923706055,0.07562199980020523,Andros Townsend,a,775,OpenPlay,2017,RightFoot,7411,Chelsea,Crystal Palace,2,1,2018-03-10 17:30:00,James McArthur,Pass,775
+200161,63,MissedShots,0.905,0.5520000076293945,0.09460549801588058,Andros Townsend,a,775,OpenPlay,2017,LeftFoot,7411,Chelsea,Crystal Palace,2,1,2018-03-10 17:30:00,,BlockedPass,775
+201452,39,MissedShots,0.815,0.46,0.0616643987596035,Andros Townsend,a,775,OpenPlay,2017,RightFoot,7421,Huddersfield,Crystal Palace,0,2,2018-03-17 15:00:00,Christian Benteke,TakeOn,775
+201461,83,BlockedShot,0.720999984741211,0.49400001525878906,0.046911899000406265,Andros Townsend,a,775,DirectFreekick,2017,LeftFoot,7421,Huddersfield,Crystal Palace,0,2,2018-03-17 15:00:00,,Standard,775
+201466,89,BlockedShot,0.8680000305175781,0.38,0.07336139678955078,Andros Townsend,a,775,OpenPlay,2017,RightFoot,7421,Huddersfield,Crystal Palace,0,2,2018-03-17 15:00:00,,None,775
+206921,70,MissedShots,0.8590000152587891,0.69,0.04550410062074661,Andros Townsend,a,775,OpenPlay,2017,RightFoot,7440,Bournemouth,Crystal Palace,2,2,2018-04-07 14:00:00,Ruben Loftus-Cheek,Pass,775
+206927,85,SavedShot,0.8009999847412109,0.7019999694824218,0.024264700710773468,Andros Townsend,a,775,OpenPlay,2017,LeftFoot,7440,Bournemouth,Crystal Palace,2,2,2018-04-07 14:00:00,Wilfried Zaha,Pass,775
+208445,3,BlockedShot,0.77,0.6959999847412109,0.01723960041999817,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7450,Crystal Palace,Brighton,3,2,2018-04-14 14:00:00,James McArthur,Pass,775
+208450,12,SavedShot,0.7130000305175781,0.5479999923706055,0.013527500443160534,Andros Townsend,h,775,FromCorner,2017,LeftFoot,7450,Crystal Palace,Brighton,3,2,2018-04-14 14:00:00,,None,775
+208463,51,BlockedShot,0.7859999847412109,0.624000015258789,0.03743100166320801,Andros Townsend,h,775,OpenPlay,2017,RightFoot,7450,Crystal Palace,Brighton,3,2,2018-04-14 14:00:00,Luka Milivojevic,Pass,775
+211682,73,MissedShots,0.909000015258789,0.17,0.05748239904642105,Andros Townsend,h,775,DirectFreekick,2017,RightFoot,7470,Crystal Palace,Leicester,5,0,2018-04-28 14:00:00,,Standard,775
+213021,9,BlockedShot,0.7480000305175781,0.28200000762939453,0.01889280043542385,Andros Townsend,a,775,OpenPlay,2017,LeftFoot,7481,Stoke,Crystal Palace,1,2,2018-05-05 12:30:00,Yohan Cabaye,Pass,775
+215691,25,BlockedShot,0.7519999694824219,0.4909999847412109,0.02296609990298748,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7493,Crystal Palace,West Bromwich Albion,2,0,2018-05-13 15:00:00,Aaron Wan-Bissaka,Pass,775
+215698,61,MissedShots,0.87,0.6680000305175782,0.27505800127983093,Andros Townsend,h,775,OpenPlay,2017,LeftFoot,7493,Crystal Palace,West Bromwich Albion,2,0,2018-05-13 15:00:00,Wilfried Zaha,Pass,775
+232747,14,SavedShot,0.7440000152587891,0.33099998474121095,0.020396899431943893,Andros Townsend,a,775,OpenPlay,2018,LeftFoot,9201,Fulham,Crystal Palace,0,2,2018-08-11 17:00:00,James McArthur,Pass,775
+232764,86,SavedShot,0.7819999694824219,0.6020000076293945,0.02839980088174343,Andros Townsend,a,775,OpenPlay,2018,LeftFoot,9201,Fulham,Crystal Palace,0,2,2018-08-11 17:00:00,,None,775
+233035,24,ShotOnPost,0.749000015258789,0.32,0.016208399087190628,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9216,Crystal Palace,Liverpool,0,2,2018-08-20 22:00:00,Christian Benteke,Pass,775
+233813,2,BlockedShot,0.92,0.53,0.1405390053987503,Andros Townsend,a,775,OpenPlay,2018,LeftFoot,9240,Huddersfield,Crystal Palace,0,1,2018-09-15 14:00:00,Wilfried Zaha,Pass,775
+233815,23,BlockedShot,0.82,0.5279999923706055,0.05372200161218643,Andros Townsend,a,775,OpenPlay,2018,LeftFoot,9240,Huddersfield,Crystal Palace,0,1,2018-09-15 14:00:00,,None,775
+234110,37,MissedShots,0.750999984741211,0.575,0.0165352001786232,Andros Townsend,h,775,FromCorner,2018,LeftFoot,9251,Crystal Palace,Newcastle United,0,0,2018-09-22 14:00:00,,None,775
+234114,59,MissedShots,0.715999984741211,0.3970000076293945,0.013623500242829323,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9251,Crystal Palace,Newcastle United,0,0,2018-09-22 14:00:00,Aaron Wan-Bissaka,BallRecovery,775
+234115,61,BlockedShot,0.8569999694824219,0.4909999847412109,0.10321299731731415,Andros Townsend,h,775,OpenPlay,2018,RightFoot,9251,Crystal Palace,Newcastle United,0,0,2018-09-22 14:00:00,Jordan Ayew,Pass,775
+234119,83,SavedShot,0.9640000152587891,0.6179999923706054,0.10769300162792206,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9251,Crystal Palace,Newcastle United,0,0,2018-09-22 14:00:00,Max Meyer,Pass,775
+248955,65,MissedShots,0.7909999847412109,0.6969999694824218,0.022805100306868553,Andros Townsend,a,775,OpenPlay,2018,RightFoot,9266,Bournemouth,Crystal Palace,2,1,2018-10-01 19:00:00,James McArthur,Pass,775
+249073,65,MissedShots,0.68,0.6430000305175781,0.009517449885606766,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9271,Crystal Palace,Wolverhampton Wanderers,0,1,2018-10-06 14:00:00,Jordan Ayew,LayOff,775
+249077,75,SavedShot,0.82,0.6609999847412109,0.03797629848122597,Andros Townsend,h,775,OpenPlay,2018,RightFoot,9271,Crystal Palace,Wolverhampton Wanderers,0,1,2018-10-06 14:00:00,Wilfried Zaha,Pass,775
+249441,62,SavedShot,0.775,0.27899999618530275,0.013490700162947178,Andros Townsend,a,775,OpenPlay,2018,LeftFoot,9285,Everton,Crystal Palace,2,0,2018-10-21 15:00:00,,None,775
+249641,15,MissedShots,0.909000015258789,0.5670000076293945,0.4291340112686157,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9294,Crystal Palace,Arsenal,2,2,2018-10-28 12:30:00,Patrick van Aanholt,Pass,775
+249651,58,SavedShot,0.7569999694824219,0.2520000076293945,0.014629400335252285,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9294,Crystal Palace,Arsenal,2,2,2018-10-28 12:30:00,Luka Milivojevic,Pass,775
+249955,16,BlockedShot,0.769000015258789,0.6680000305175782,0.010123600251972675,Andros Townsend,a,775,SetPiece,2018,LeftFoot,9305,Chelsea,Crystal Palace,3,1,2018-11-04 16:00:00,,Aerial,775
+249964,52,Goal,0.865,0.36700000762939455,0.1041179969906807,Andros Townsend,a,775,OpenPlay,2018,RightFoot,9305,Chelsea,Crystal Palace,3,1,2018-11-04 16:00:00,James McArthur,Throughball,775
+249974,91,BlockedShot,0.8030000305175782,0.57,0.04290790110826492,Andros Townsend,a,775,OpenPlay,2018,LeftFoot,9305,Chelsea,Crystal Palace,3,1,2018-11-04 16:00:00,,BallRecovery,775
+250137,15,MissedShots,0.91,0.7380000305175781,0.041852399706840515,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,Mamadou Sakho,Chipped,775
+250153,83,SavedShot,0.870999984741211,0.515,0.07723990082740784,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,,Rebound,775
+250300,73,MissedShots,0.9209999847412109,0.3770000076293945,0.3509010076522827,Andros Townsend,a,775,OpenPlay,2018,RightFoot,9319,Manchester United,Crystal Palace,0,0,2018-11-24 15:00:00,,None,775
+250304,78,MissedShots,0.7440000152587891,0.22299999237060547,0.015028400346636772,Andros Townsend,a,775,OpenPlay,2018,LeftFoot,9319,Manchester United,Crystal Palace,0,0,2018-11-24 15:00:00,Luka Milivojevic,Pass,775
+250629,55,BlockedShot,0.8490000152587891,0.39599998474121095,0.08856289833784103,Andros Townsend,h,775,OpenPlay,2018,RightFoot,9333,Crystal Palace,Burnley,2,0,2018-12-01 15:00:00,James McArthur,Pass,775
+250641,70,MissedShots,0.75,0.4159999847412109,0.03031039983034134,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9333,Crystal Palace,Burnley,2,0,2018-12-01 15:00:00,Max Meyer,TakeOn,775
+250644,76,Goal,0.8109999847412109,0.29200000762939454,0.03606279939413071,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9333,Crystal Palace,Burnley,2,0,2018-12-01 15:00:00,Cheikhou Kouyaté,Chipped,775
+250762,16,MissedShots,0.89,0.585,0.0295391995459795,Andros Townsend,a,775,OpenPlay,2018,Head,9337,Brighton,Crystal Palace,3,1,2018-12-04 19:45:00,Patrick van Aanholt,Chipped,775
+250770,42,SavedShot,0.7319999694824219,0.605999984741211,0.011449200101196766,Andros Townsend,a,775,OpenPlay,2018,LeftFoot,9337,Brighton,Crystal Palace,3,1,2018-12-04 19:45:00,Cheikhou Kouyaté,Pass,775
+250780,59,MissedShots,0.730999984741211,0.32599998474121095,0.015253400430083275,Andros Townsend,a,775,OpenPlay,2018,LeftFoot,9337,Brighton,Crystal Palace,3,1,2018-12-04 19:45:00,James Tomkins,Pass,775
+251374,84,BlockedShot,0.8690000152587891,0.67,0.10223600268363953,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9365,Crystal Palace,Leicester,1,0,2018-12-15 15:00:00,Jeffrey Schlupp,Pass,775
+251576,34,Goal,0.7290000152587891,0.44,0.011279799975454807,Andros Townsend,a,775,SetPiece,2018,LeftFoot,9370,Manchester City,Crystal Palace,2,3,2018-12-22 15:00:00,,None,775
+251579,50,ShotOnPost,0.92,0.41700000762939454,0.2868120074272156,Andros Townsend,a,775,OpenPlay,2018,Head,9370,Manchester City,Crystal Palace,2,3,2018-12-22 15:00:00,Aaron Wan-Bissaka,Cross,775
+251818,1,ShotOnPost,0.9069999694824219,0.5940000152587891,0.3841629922389984,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9384,Crystal Palace,Cardiff,0,0,2018-12-26 15:00:00,Wilfried Zaha,Throughball,775
+251823,22,MissedShots,0.8540000152587891,0.5479999923706055,0.09159909933805466,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9384,Crystal Palace,Cardiff,0,0,2018-12-26 15:00:00,Patrick van Aanholt,Pass,775
+251844,69,BlockedShot,0.6969999694824218,0.4129999923706055,0.012557299807667732,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9384,Crystal Palace,Cardiff,0,0,2018-12-26 15:00:00,Luka Milivojevic,Pass,775
+274212,22,MissedShots,0.7069999694824218,0.4759999847412109,0.016130799427628517,Andros Townsend,a,775,SetPiece,2018,RightFoot,9397,Wolverhampton Wanderers,Crystal Palace,0,2,2019-01-02 19:45:00,Patrick van Aanholt,Pass,775
+274214,28,MissedShots,0.779000015258789,0.40599998474121096,0.035092201083898544,Andros Townsend,a,775,OpenPlay,2018,RightFoot,9397,Wolverhampton Wanderers,Crystal Palace,0,2,2019-01-02 19:45:00,,TakeOn,775
+274228,81,BlockedShot,0.805,0.48700000762939455,0.04494279995560646,Andros Townsend,a,775,FromCorner,2018,LeftFoot,9397,Wolverhampton Wanderers,Crystal Palace,0,2,2019-01-02 19:45:00,,Rebound,775
+274657,33,Goal,0.895,0.5479999923706055,0.12633299827575684,Andros Townsend,a,775,OpenPlay,2018,LeftFoot,9422,Liverpool,Crystal Palace,4,3,2019-01-19 15:00:00,Wilfried Zaha,Pass,775
+275069,72,MissedShots,0.774000015258789,0.625999984741211,0.02625809982419014,Andros Townsend,a,775,OpenPlay,2018,LeftFoot,9433,Southampton,Crystal Palace,1,1,2019-01-30 19:45:00,Wilfried Zaha,Pass,775
+275446,88,BlockedShot,0.74,0.43900001525878907,0.013813500292599201,Andros Townsend,h,775,SetPiece,2018,LeftFoot,9448,Crystal Palace,West Ham,1,1,2019-02-09 15:00:00,,Rebound,775
+276087,10,MissedShots,0.9540000152587891,0.5729999923706055,0.5145379900932312,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9471,Crystal Palace,Manchester United,1,3,2019-02-27 20:00:00,James McArthur,Pass,775
+276090,26,MissedShots,0.749000015258789,0.639000015258789,0.020835399627685547,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9471,Crystal Palace,Manchester United,1,3,2019-02-27 20:00:00,Jeffrey Schlupp,Pass,775
+276109,77,BlockedShot,0.8619999694824219,0.31799999237060544,0.03072820045053959,Andros Townsend,h,775,OpenPlay,2018,RightFoot,9471,Crystal Palace,Manchester United,1,3,2019-02-27 20:00:00,Patrick van Aanholt,Cross,775
+276113,88,MissedShots,0.7340000152587891,0.395,0.010528000071644783,Andros Townsend,h,775,OpenPlay,2018,RightFoot,9471,Crystal Palace,Manchester United,1,3,2019-02-27 20:00:00,Joel Ward,Pass,775
+276206,79,BlockedShot,0.8090000152587891,0.3509999847412109,0.023860400542616844,Andros Townsend,a,775,FromCorner,2018,RightFoot,9484,Burnley,Crystal Palace,1,3,2019-03-02 15:00:00,,BallTouch,775
+276210,90,SavedShot,0.8469999694824218,0.5670000076293945,0.09277640283107758,Andros Townsend,a,775,OpenPlay,2018,RightFoot,9484,Burnley,Crystal Palace,1,3,2019-03-02 15:00:00,Cheikhou Kouyaté,Pass,775
+284321,16,BlockedShot,0.749000015258789,0.29700000762939455,0.016264699399471283,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9493,Crystal Palace,Brighton,1,2,2019-03-09 12:30:00,Jeffrey Schlupp,Pass,775
+284327,36,BlockedShot,0.779000015258789,0.49700000762939456,0.03475390002131462,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9493,Crystal Palace,Brighton,1,2,2019-03-09 12:30:00,Luka Milivojevic,Pass,775
+284332,53,BlockedShot,0.835999984741211,0.515,0.08811940252780914,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9493,Crystal Palace,Brighton,1,2,2019-03-09 12:30:00,Michy Batshuayi,Pass,775
+284334,70,MissedShots,0.8569999694824219,0.6819999694824219,0.04698999971151352,Andros Townsend,h,775,OpenPlay,2018,RightFoot,9493,Crystal Palace,Brighton,1,2,2019-03-09 12:30:00,,BallTouch,775
+287570,16,BlockedShot,0.759000015258789,0.27600000381469725,0.012955799698829651,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9513,Crystal Palace,Huddersfield,2,0,2019-03-30 15:00:00,Aaron Wan-Bissaka,Pass,775
+287569,16,BlockedShot,0.754000015258789,0.2979999923706055,0.011714399792253971,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9513,Crystal Palace,Huddersfield,2,0,2019-03-30 15:00:00,,Rebound,775
+287578,35,SavedShot,0.7530000305175781,0.40900001525878904,0.01779880002140999,Andros Townsend,h,775,OpenPlay,2018,RightFoot,9513,Crystal Palace,Huddersfield,2,0,2019-03-30 15:00:00,Patrick van Aanholt,Pass,775
+287589,66,MissedShots,0.889000015258789,0.64,0.36181700229644775,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9513,Crystal Palace,Huddersfield,2,0,2019-03-30 15:00:00,Wilfried Zaha,Pass,775
+287592,73,MissedShots,0.8530000305175781,0.575,0.06671430170536041,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9513,Crystal Palace,Huddersfield,2,0,2019-03-30 15:00:00,Christian Benteke,HeadPass,775
+299481,8,SavedShot,0.7280000305175781,0.40400001525878904,0.01658559963107109,Andros Townsend,a,775,OpenPlay,2018,LeftFoot,9564,Cardiff,Crystal Palace,2,3,2019-05-04 16:30:00,Jordan Ayew,Pass,775
+299493,42,MissedShots,0.8719999694824219,0.4759999847412109,0.11940000206232071,Andros Townsend,a,775,OpenPlay,2018,RightFoot,9564,Cardiff,Crystal Palace,2,3,2019-05-04 16:30:00,Wilfried Zaha,Pass,775
+299500,56,BlockedShot,0.815,0.4540000152587891,0.071315698325634,Andros Townsend,a,775,OpenPlay,2018,RightFoot,9564,Cardiff,Crystal Palace,2,3,2019-05-04 16:30:00,Wilfried Zaha,TakeOn,775
+299507,69,Goal,0.805,0.38599998474121094,0.04943089932203293,Andros Townsend,a,775,OpenPlay,2018,LeftFoot,9564,Cardiff,Crystal Palace,2,3,2019-05-04 16:30:00,James McArthur,Pass,775
+299511,82,SavedShot,0.7519999694824219,0.495,0.029060199856758118,Andros Townsend,a,775,OpenPlay,2018,RightFoot,9564,Cardiff,Crystal Palace,2,3,2019-05-04 16:30:00,,BallRecovery,775
+301267,17,MissedShots,0.715999984741211,0.6419999694824219,0.018320199102163315,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Luka Milivojevic,Pass,775
+301279,49,SavedShot,0.874000015258789,0.2670000076293945,0.05171389877796173,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Luka Milivojevic,Pass,775
+301294,79,Goal,0.88,0.41200000762939454,0.14008699357509613,Andros Townsend,h,775,OpenPlay,2018,LeftFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Wilfried Zaha,Pass,775
+311093,52,SavedShot,0.7969999694824219,0.33,0.025464100763201714,Andros Townsend,a,775,OpenPlay,2019,LeftFoot,11660,Sheffield United,Crystal Palace,1,0,2019-08-18 14:00:00,Luka Milivojevic,Pass,775
+311095,53,SavedShot,0.740999984741211,0.5729999923706055,0.019664999097585678,Andros Townsend,a,775,OpenPlay,2019,LeftFoot,11660,Sheffield United,Crystal Palace,1,0,2019-08-18 14:00:00,Wilfried Zaha,Pass,775
+322742,91,Goal,0.855999984741211,0.514000015258789,0.11741899698972702,Andros Townsend,h,775,OpenPlay,2019,LeftFoot,11709,Crystal Palace,Norwich,2,0,2019-09-28 14:00:00,Wilfried Zaha,Pass,775
+332267,51,SavedShot,0.7680000305175781,0.30700000762939456,0.01992020010948181,Andros Townsend,h,775,OpenPlay,2019,RightFoot,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,Patrick van Aanholt,Pass,775
+332269,57,BlockedShot,0.749000015258789,0.639000015258789,0.01542150042951107,Andros Townsend,h,775,OpenPlay,2019,LeftFoot,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,Luka Milivojevic,BallTouch,775
+366442,55,MissedShots,0.740999984741211,0.565,0.016212299466133118,Andros Townsend,a,775,OpenPlay,2019,LeftFoot,11951,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,Patrick van Aanholt,BallTouch,775
+367611,54,BlockedShot,0.870999984741211,0.69,0.04515159875154495,Andros Townsend,h,775,OpenPlay,2019,RightFoot,11957,Crystal Palace,Burnley,0,1,2020-06-29 19:00:00,,None,775
+367618,76,MissedShots,0.7830000305175782,0.25,0.014335599727928638,Andros Townsend,h,775,OpenPlay,2019,LeftFoot,11957,Crystal Palace,Burnley,0,1,2020-06-29 19:00:00,,None,775
+372186,46,BlockedShot,0.7809999847412109,0.5379999923706055,0.030871400609612465,Andros Townsend,h,775,OpenPlay,2019,LeftFoot,11996,Crystal Palace,Manchester United,0,2,2020-07-16 19:15:00,James McArthur,Pass,775
+372934,37,SavedShot,0.740999984741211,0.49900001525878906,0.05855720117688179,Andros Townsend,a,775,DirectFreekick,2019,LeftFoot,12012,Wolverhampton Wanderers,Crystal Palace,2,0,2020-07-20 19:15:00,,Standard,775
+373695,14,MissedShots,0.74,0.3110000038146973,0.01469849981367588,Andros Townsend,h,775,OpenPlay,2019,LeftFoot,12020,Crystal Palace,Tottenham,1,1,2020-07-26 15:00:00,Jordan Ayew,Pass,775
+373702,40,BlockedShot,0.759000015258789,0.365,0.017945600673556328,Andros Townsend,h,775,OpenPlay,2019,LeftFoot,12020,Crystal Palace,Tottenham,1,1,2020-07-26 15:00:00,Jordan Ayew,Pass,775
+377620,6,Goal,0.9290000152587891,0.3940000152587891,0.3101919889450073,Andros Townsend,a,775,OpenPlay,2020,RightFoot,14098,Manchester United,Crystal Palace,1,3,2020-09-19 16:30:00,Jeffrey Schlupp,Cross,775
+377621,10,MissedShots,0.740999984741211,0.445,0.019964000210165977,Andros Townsend,a,775,OpenPlay,2020,LeftFoot,14098,Manchester United,Crystal Palace,1,3,2020-09-19 16:30:00,Jeffrey Schlupp,Pass,775
+377626,24,MissedShots,0.845999984741211,0.37099998474121093,0.0797232985496521,Andros Townsend,a,775,OpenPlay,2020,LeftFoot,14098,Manchester United,Crystal Palace,1,3,2020-09-19 16:30:00,Wilfried Zaha,Pass,775
+377637,53,BlockedShot,0.865999984741211,0.61,0.09637080132961273,Andros Townsend,a,775,OpenPlay,2020,LeftFoot,14098,Manchester United,Crystal Palace,1,3,2020-09-19 16:30:00,Wilfried Zaha,Pass,775
+384359,26,BlockedShot,0.7730000305175782,0.40400001525878904,0.03982599824666977,Andros Townsend,a,775,OpenPlay,2020,RightFoot,14504,Wolverhampton Wanderers,Crystal Palace,2,0,2020-10-30 20:00:00,Jairo Riedewald,LayOff,775
+384363,45,SavedShot,0.765,0.41700000762939454,0.011285499669611454,Andros Townsend,a,775,SetPiece,2020,LeftFoot,14504,Wolverhampton Wanderers,Crystal Palace,2,0,2020-10-30 20:00:00,,Aerial,775
+384364,51,SavedShot,0.7580000305175781,0.27399999618530274,0.00994165986776352,Andros Townsend,a,775,OpenPlay,2020,LeftFoot,14504,Wolverhampton Wanderers,Crystal Palace,2,0,2020-10-30 20:00:00,,BallTouch,775
+386004,1,SavedShot,0.8640000152587891,0.16399999618530273,0.019906900823116302,Andros Townsend,h,775,OpenPlay,2020,LeftFoot,14508,Crystal Palace,Leeds,4,1,2020-11-07 15:00:00,Wilfried Zaha,Pass,775
+388336,37,SavedShot,0.759000015258789,0.38,0.021691199392080307,Andros Townsend,a,775,OpenPlay,2020,LeftFoot,14516,Burnley,Crystal Palace,1,0,2020-11-23 17:30:00,Eberechi Eze,Pass,775
+388339,55,MissedShots,0.7369999694824219,0.6309999847412109,0.017612800002098083,Andros Townsend,a,775,OpenPlay,2020,LeftFoot,14516,Burnley,Crystal Palace,1,0,2020-11-23 17:30:00,Scott Dann,Pass,775
+388351,81,BlockedShot,0.7819999694824219,0.38599998474121094,0.02798680029809475,Andros Townsend,a,775,OpenPlay,2020,LeftFoot,14516,Burnley,Crystal Palace,1,0,2020-11-23 17:30:00,James McArthur,Pass,775
+395828,26,MissedShots,0.9119999694824219,0.5479999923706055,0.11469200253486633,Andros Townsend,h,775,OpenPlay,2020,LeftFoot,14594,Crystal Palace,Leicester,1,1,2020-12-28 15:00:00,Jeffrey Schlupp,Cross,775
+396450,10,SavedShot,0.705,0.5129999923706055,0.01774439960718155,Andros Townsend,h,775,OpenPlay,2020,LeftFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,Luka Milivojevic,Pass,775
+396459,78,MissedShots,0.8530000305175781,0.56,0.09304200112819672,Andros Townsend,h,775,OpenPlay,2020,LeftFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,James McArthur,BallRecovery,775
+396461,83,BlockedShot,0.8680000305175781,0.54,0.1283169984817505,Andros Townsend,h,775,OpenPlay,2020,LeftFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,Wilfried Zaha,Pass,775
+398739,8,MissedShots,0.715999984741211,0.42400001525878905,0.017551299184560776,Andros Townsend,a,775,OpenPlay,2020,LeftFoot,14605,Arsenal,Crystal Palace,0,0,2021-01-14 20:00:00,Eberechi Eze,Pass,775
+401711,86,BlockedShot,0.7530000305175781,0.27100000381469724,0.04012589901685715,Andros Townsend,h,775,DirectFreekick,2020,LeftFoot,14638,Crystal Palace,Wolverhampton Wanderers,1,0,2021-01-30 15:00:00,,Standard,775
+402520,90,MissedShots,0.9290000152587891,0.4370000076293945,0.4926390051841736,Andros Townsend,a,775,OpenPlay,2020,RightFoot,14652,Newcastle United,Crystal Palace,1,2,2021-02-02 20:15:00,Jairo Riedewald,Pass,775
+404041,69,SavedShot,0.8069999694824219,0.4540000152587891,0.036628998816013336,Andros Townsend,a,775,SetPiece,2020,LeftFoot,14658,Leeds,Crystal Palace,2,0,2021-02-08 20:00:00,Eberechi Eze,Pass,775
+404297,76,MissedShots,0.9530000305175781,0.3529999923706055,0.042867399752140045,Andros Townsend,h,775,OpenPlay,2020,RightFoot,14668,Crystal Palace,Burnley,0,3,2021-02-13 15:00:00,Nathaniel Clyne,Cross,775
+404298,91,BlockedShot,0.835,0.6229999923706054,0.03603670001029968,Andros Townsend,h,775,FromCorner,2020,LeftFoot,14668,Crystal Palace,Burnley,0,3,2021-02-13 15:00:00,,TakeOn,775
+408201,7,BlockedShot,0.759000015258789,0.5170000076293946,0.019168399274349213,Andros Townsend,h,775,OpenPlay,2020,LeftFoot,14717,Crystal Palace,Manchester United,0,0,2021-03-03 20:15:00,Christian Benteke,HeadPass,775
+408205,13,BlockedShot,0.8190000152587891,0.524000015258789,0.059426501393318176,Andros Townsend,h,775,OpenPlay,2020,LeftFoot,14717,Crystal Palace,Manchester United,0,0,2021-03-03 20:15:00,,BallRecovery,775
+408213,58,MissedShots,0.8430000305175781,0.4229999923706055,0.05620399862527847,Andros Townsend,h,775,SetPiece,2020,LeftFoot,14717,Crystal Palace,Manchester United,0,0,2021-03-03 20:15:00,,None,775
+420075,3,MissedShots,0.74,0.514000015258789,0.02608329989016056,Andros Townsend,a,775,OpenPlay,2020,LeftFoot,14782,Sheffield United,Crystal Palace,0,2,2021-05-08 14:00:00,,None,775
+420079,25,BlockedShot,0.7530000305175781,0.23100000381469726,0.034890398383140564,Andros Townsend,a,775,DirectFreekick,2020,LeftFoot,14782,Sheffield United,Crystal Palace,0,2,2021-05-08 14:00:00,,Standard,775
+420095,73,MissedShots,0.8730000305175781,0.2560000038146973,0.032216399908065796,Andros Townsend,a,775,OpenPlay,2020,LeftFoot,14782,Sheffield United,Crystal Palace,0,2,2021-05-08 14:00:00,Christian Benteke,Pass,775
+422299,19,BlockedShot,0.86,0.3890000152587891,0.05598530173301697,Andros Townsend,h,775,OpenPlay,2020,LeftFoot,14794,Crystal Palace,Aston Villa,3,2,2021-05-16 11:00:00,,BallTouch,775
+422301,23,SavedShot,0.7240000152587891,0.32099998474121094,0.03709530085325241,Andros Townsend,h,775,DirectFreekick,2020,LeftFoot,14794,Crystal Palace,Aston Villa,3,2,2021-05-16 11:00:00,,Standard,775
+422307,41,BlockedShot,0.8030000305175782,0.41200000762939454,0.042160701006650925,Andros Townsend,h,775,OpenPlay,2020,RightFoot,14794,Crystal Palace,Aston Villa,3,2,2021-05-16 11:00:00,Wilfried Zaha,Pass,775
+422314,58,BlockedShot,0.875999984741211,0.24,0.03739919885993004,Andros Townsend,h,775,FromCorner,2020,LeftFoot,14794,Crystal Palace,Aston Villa,3,2,2021-05-16 11:00:00,Joel Ward,Pass,775
+423330,64,MissedShots,0.7880000305175782,0.23899999618530274,0.013680599629878998,Andros Townsend,h,775,OpenPlay,2020,LeftFoot,14798,Crystal Palace,Arsenal,1,3,2021-05-19 18:00:00,Wilfried Zaha,Pass,775
+423335,85,SavedShot,0.7919999694824219,0.66,0.02689870074391365,Andros Townsend,h,775,OpenPlay,2020,RightFoot,14798,Crystal Palace,Arsenal,1,3,2021-05-19 18:00:00,Jeffrey Schlupp,Pass,775
+424047,5,SavedShot,0.8909999847412109,0.14300000190734863,0.04668619856238365,Andros Townsend,a,775,DirectFreekick,2020,LeftFoot,14810,Liverpool,Crystal Palace,2,0,2021-05-23 15:00:00,,Standard,775
+424048,12,SavedShot,0.7090000152587891,0.41200000762939454,0.015621500089764595,Andros Townsend,a,775,OpenPlay,2020,LeftFoot,14810,Liverpool,Crystal Palace,2,0,2021-05-23 15:00:00,Jairo Riedewald,Pass,775
+424049,13,MissedShots,0.8280000305175781,0.6140000152587891,0.2943370044231415,Andros Townsend,a,775,OpenPlay,2020,LeftFoot,14810,Liverpool,Crystal Palace,2,0,2021-05-23 15:00:00,,BallRecovery,775
+427079,88,SavedShot,0.7269999694824218,0.4520000076293945,0.018877500668168068,Andros Townsend,a,775,OpenPlay,2021,LeftFoot,16390,Leeds,Everton,2,2,2021-08-21 14:00:00,Richarlison,Pass,775
+428690,27,SavedShot,0.8,0.38799999237060545,0.03685859963297844,Andros Townsend,a,775,OpenPlay,2021,LeftFoot,16400,Brighton,Everton,0,2,2021-08-28 14:00:00,Demarai Gray,Pass,775
+430904,64,Goal,0.73,0.49200000762939455,0.020097700878977776,Andros Townsend,h,775,OpenPlay,2021,LeftFoot,16415,Everton,Burnley,3,1,2021-09-13 19:00:00,Abdoulaye Doucouré,Pass,775
+430906,72,SavedShot,0.7880000305175782,0.3920000076293945,0.06533879786729813,Andros Townsend,h,775,OpenPlay,2021,LeftFoot,16415,Everton,Burnley,3,1,2021-09-13 19:00:00,Michael Keane,Chipped,775
+431566,43,SavedShot,0.735999984741211,0.6090000152587891,0.015903500840067863,Andros Townsend,a,775,OpenPlay,2021,LeftFoot,16422,Aston Villa,Everton,3,0,2021-09-18 16:30:00,Demarai Gray,Pass,775
+431567,55,BlockedShot,0.735999984741211,0.3270000076293945,0.04172689840197563,Andros Townsend,a,775,DirectFreekick,2021,LeftFoot,16422,Aston Villa,Everton,3,0,2021-09-18 16:30:00,,Standard,775
+433420,18,SavedShot,0.875,0.35400001525878905,0.07923930138349533,Andros Townsend,h,775,OpenPlay,2021,LeftFoot,16428,Everton,Norwich,2,0,2021-09-25 14:00:00,Salomón Rondón,Pass,775
+433422,28,Goal,0.885,0.5,0.7611690163612366,Andros Townsend,h,775,Penalty,2021,LeftFoot,16428,Everton,Norwich,2,0,2021-09-25 14:00:00,,Standard,775
+433429,48,MissedShots,0.8009999847412109,0.28600000381469726,0.028946099802851677,Andros Townsend,h,775,OpenPlay,2021,RightFoot,16428,Everton,Norwich,2,0,2021-09-25 14:00:00,Ben Godfrey,Pass,775
+434652,30,BlockedShot,0.92,0.49700000762939456,0.11040200293064117,Andros Townsend,a,775,OpenPlay,2021,LeftFoot,16442,Manchester United,Everton,1,1,2021-10-02 11:30:00,Salomón Rondón,None,775
+434659,55,MissedShots,0.9230000305175782,0.5670000076293945,0.07990290224552155,Andros Townsend,a,775,OpenPlay,2021,Head,16442,Manchester United,Everton,1,1,2021-10-02 11:30:00,Lucas Digne,Cross,775
+434661,64,Goal,0.860999984741211,0.40700000762939453,0.543982982635498,Andros Townsend,a,775,OpenPlay,2021,RightFoot,16442,Manchester United,Everton,1,1,2021-10-02 11:30:00,Abdoulaye Doucouré,Throughball,775
+434663,69,MissedShots,0.8059999847412109,0.30700000762939456,0.02405400015413761,Andros Townsend,a,775,OpenPlay,2021,LeftFoot,16442,Manchester United,Everton,1,1,2021-10-02 11:30:00,Ben Godfrey,Pass,775
+437773,9,SavedShot,0.8019999694824219,0.5,0.06560029834508896,Andros Townsend,h,775,OpenPlay,2021,LeftFoot,16461,Everton,Watford,2,5,2021-10-23 14:00:00,Anthony Gordon,Pass,775
+437777,21,MissedShots,0.840999984741211,0.28399999618530275,0.030110100284218788,Andros Townsend,h,775,OpenPlay,2021,RightFoot,16461,Everton,Watford,2,5,2021-10-23 14:00:00,Demarai Gray,Pass,775
+443154,48,SavedShot,0.8909999847412109,0.18200000762939453,0.058660201728343964,Andros Townsend,a,775,DirectFreekick,2021,LeftFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,,Standard,775
+445713,63,BlockedShot,0.77,0.4809999847412109,0.08320269733667374,Andros Townsend,h,775,DirectFreekick,2021,LeftFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,,Standard,775
+448519,74,BlockedShot,0.8569999694824219,0.47400001525878904,0.08255060017108917,Andros Townsend,a,775,OpenPlay,2021,RightFoot,16531,Crystal Palace,Everton,3,1,2021-12-12 16:30:00,Salomón Rondón,Pass,775
+456510,8,MissedShots,0.8880000305175781,0.664000015258789,0.008787970058619976,Andros Townsend,a,775,OpenPlay,2021,Head,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Seamus Coleman,Cross,775
+456513,18,BlockedShot,0.8819999694824219,0.740999984741211,0.033084798604249954,Andros Townsend,a,775,OpenPlay,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Demarai Gray,Pass,775
+462992,93,MissedShots,0.7909999847412109,0.34,0.07409010082483292,Andros Townsend,h,775,DirectFreekick,2021,LeftFoot,16661,Everton,Wolverhampton Wanderers,0,1,2022-03-13 14:00:00,,Standard,775
+548351,35,SavedShot,0.7619999694824219,0.3220000076293945,0.017361639067530632,Andros Townsend,a,775,OpenPlay,2023,LeftFoot,22012,Manchester United,Luton,1,0,2023-11-11 15:00:00,Carlton Morris,BallRecovery,775
+548353,49,MissedShots,0.705,0.3390000152587891,0.014434338547289371,Andros Townsend,a,775,OpenPlay,2023,RightFoot,22012,Manchester United,Luton,1,0,2023-11-11 15:00:00,Ross Barkley,Pass,775
+548355,52,BlockedShot,0.8380000305175781,0.605,0.06812423467636108,Andros Townsend,a,775,OpenPlay,2023,LeftFoot,22012,Manchester United,Luton,1,0,2023-11-11 15:00:00,Chiedozie Ogbene,Pass,775
+552197,47,BlockedShot,0.779000015258789,0.4470000076293945,0.031810462474823,Andros Townsend,h,775,OpenPlay,2023,LeftFoot,22039,Luton,Arsenal,3,4,2023-12-05 20:15:00,Ross Barkley,Pass,775
+553444,32,SavedShot,0.725999984741211,0.46599998474121096,0.017716258764266968,Andros Townsend,h,775,OpenPlay,2023,RightFoot,22050,Luton,Manchester City,1,2,2023-12-10 14:00:00,Elijah Adebayo,Pass,775
+556216,10,MissedShots,0.7669999694824219,0.3170000076293945,0.01944306679069996,Andros Townsend,h,775,OpenPlay,2023,LeftFoot,22069,Luton,Newcastle United,1,0,2023-12-23 15:00:00,Issa Kabore,BallRecovery,775
+556223,24,Goal,0.9840000152587891,0.46599998474121096,0.7002645134925842,Andros Townsend,h,775,FromCorner,2023,Head,22069,Luton,Newcastle United,1,0,2023-12-23 15:00:00,Ross Barkley,Rebound,775
+556228,41,SavedShot,0.784000015258789,0.39299999237060546,0.04262051358819008,Andros Townsend,h,775,OpenPlay,2023,RightFoot,22069,Luton,Newcastle United,1,0,2023-12-23 15:00:00,Elijah Adebayo,BallTouch,775
+556504,41,BlockedShot,0.8,0.34799999237060547,0.0844649150967598,Andros Townsend,a,775,DirectFreekick,2023,LeftFoot,22084,Sheffield United,Luton,2,3,2023-12-26 15:00:00,,Standard,775
+556511,58,SavedShot,0.7759999847412109,0.6090000152587891,0.04593343660235405,Andros Townsend,a,775,OpenPlay,2023,RightFoot,22084,Sheffield United,Luton,2,3,2023-12-26 15:00:00,Ross Barkley,TakeOn,775
+556512,59,MissedShots,0.7909999847412109,0.3659999847412109,0.08415032178163528,Andros Townsend,a,775,OpenPlay,2023,RightFoot,22084,Sheffield United,Luton,2,3,2023-12-26 15:00:00,,BallRecovery,775
+562531,89,SavedShot,0.74,0.54,0.01814820058643818,Andros Townsend,h,775,OpenPlay,2023,RightFoot,22129,Luton,Sheffield United,1,3,2024-02-10 15:00:00,Ross Barkley,Pass,775
+564568,83,BlockedShot,0.7519999694824219,0.4129999923706055,0.023104751482605934,Andros Townsend,h,775,OpenPlay,2023,LeftFoot,22139,Luton,Manchester United,1,2,2024-02-18 16:30:00,Teden Mengi,Pass,775
+564866,61,BlockedShot,0.7290000152587891,0.595999984741211,0.010100050829350948,Andros Townsend,a,775,OpenPlay,2023,RightFoot,22151,Liverpool,Luton,4,1,2024-02-21 15:00:00,Carlton Morris,Aerial,775
+564874,82,BlockedShot,0.8090000152587891,0.509000015258789,0.04624650254845619,Andros Townsend,a,775,OpenPlay,2023,RightFoot,22151,Liverpool,Luton,4,1,2024-02-21 15:00:00,Gabriel Osho,Dispossessed,775
+564876,87,BlockedShot,0.76,0.3340000152587891,0.05324746295809746,Andros Townsend,a,775,DirectFreekick,2023,LeftFoot,22151,Liverpool,Luton,4,1,2024-02-21 15:00:00,,Standard,775
+566814,49,MissedShots,0.9080000305175782,0.5359999847412109,0.04950523376464844,Andros Townsend,h,775,OpenPlay,2023,Head,22159,Luton,Aston Villa,2,3,2024-03-02 17:30:00,Carlton Morris,HeadPass,775
+569447,69,SavedShot,0.8640000152587891,0.32099998474121094,0.04228502884507179,Andros Townsend,h,775,OpenPlay,2023,LeftFoot,22181,Luton,Nottingham Forest,1,1,2024-03-16 15:00:00,,None,775
+570826,88,BlockedShot,0.78,0.47900001525878905,0.034922849386930466,Andros Townsend,a,775,OpenPlay,2023,LeftFoot,22194,Tottenham,Luton,2,1,2024-03-30 15:00:00,Ross Barkley,Pass,775
+578161,97,BlockedShot,0.835999984741211,0.37599998474121094,0.01778768002986908,Andros Townsend,h,775,SetPiece,2023,RightFoot,22252,Luton,Everton,1,1,2024-05-03 19:00:00,,Aerial,775

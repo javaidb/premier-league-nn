@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+9735,Taylor Richards,2,17,0,0.02142450027167797,0,0.007314530201256275,1,1,0,0,S,Brighton,0,0.02142450027167797,0.1937687061727047,0.16502970084547997,2021

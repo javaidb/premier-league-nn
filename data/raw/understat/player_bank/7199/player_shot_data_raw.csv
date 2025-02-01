@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+250008,49,BlockedShot,0.735999984741211,0.6140000152587891,0.013993499800562859,Aron Gunnarsson,h,7199,OpenPlay,2018,RightFoot,9307,Cardiff,Brighton,2,1,2018-11-10 12:30:00,,None,7199
+250520,52,MissedShots,0.735999984741211,0.5129999923706055,0.015495600178837776,Aron Gunnarsson,h,7199,FromCorner,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,,None,7199
+250524,61,MissedShots,0.7169999694824218,0.35700000762939454,0.012870400212705135,Aron Gunnarsson,h,7199,OpenPlay,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,,BallTouch,7199
+250527,64,Goal,0.955999984741211,0.51,0.5729179978370667,Aron Gunnarsson,h,7199,FromCorner,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Sean Morrison,HeadPass,7199
+250795,25,MissedShots,0.74,0.7030000305175781,0.0125687001273036,Aron Gunnarsson,a,7199,OpenPlay,2018,RightFoot,9340,West Ham,Cardiff,3,1,2018-12-04 19:45:00,Junior Hoilett,Pass,7199
+274177,71,SavedShot,0.9730000305175781,0.500999984741211,0.9181910157203674,Aron Gunnarsson,h,7199,FromCorner,2018,OtherBodyPart,9404,Cardiff,Tottenham,0,3,2019-01-01 17:30:00,Sean Morrison,HeadPass,7199
+274476,90,BlockedShot,0.8530000305175781,0.53,0.08097240328788757,Aron Gunnarsson,h,7199,OpenPlay,2018,LeftFoot,9414,Cardiff,Huddersfield,0,0,2019-01-12 15:00:00,,BallTouch,7199
+274873,51,MissedShots,0.7280000305175781,0.539000015258789,0.015595600008964539,Aron Gunnarsson,a,7199,OpenPlay,2018,RightFoot,9431,Arsenal,Cardiff,2,1,2019-01-29 19:45:00,Joe Ralls,Pass,7199
+275283,42,BlockedShot,0.8490000152587891,0.46599998474121096,0.05579740181565285,Aron Gunnarsson,h,7199,FromCorner,2018,RightFoot,9444,Cardiff,Bournemouth,2,0,2019-02-02 17:30:00,Oumar Niasse,HeadPass,7199
+275467,21,MissedShots,0.705,0.585,0.00930636003613472,Aron Gunnarsson,a,7199,SetPiece,2018,RightFoot,9453,Southampton,Cardiff,1,2,2019-02-09 15:00:00,,None,7199
+275926,50,MissedShots,0.6980000305175781,0.3629999923706055,0.013057500123977661,Aron Gunnarsson,h,7199,OpenPlay,2018,RightFoot,9469,Cardiff,Everton,0,3,2019-02-26 19:45:00,Nathaniel Mendez-Laing,Pass,7199
+275932,78,MissedShots,0.7330000305175781,0.6630000305175782,0.00957437977194786,Aron Gunnarsson,h,7199,OpenPlay,2018,RightFoot,9469,Cardiff,Everton,0,3,2019-02-26 19:45:00,,None,7199
+276135,5,SavedShot,0.92,0.53,0.36901798844337463,Aron Gunnarsson,a,7199,FromCorner,2018,RightFoot,9477,Wolverhampton Wanderers,Cardiff,2,0,2019-03-02 15:00:00,Víctor Camarasa,Cross,7199
+276147,51,MissedShots,0.85,0.48,0.06536450237035751,Aron Gunnarsson,a,7199,SetPiece,2018,RightFoot,9477,Wolverhampton Wanderers,Cardiff,2,0,2019-03-02 15:00:00,,None,7199
+276156,83,MissedShots,0.785,0.5879999923706055,0.023139800876379013,Aron Gunnarsson,a,7199,OpenPlay,2018,RightFoot,9477,Wolverhampton Wanderers,Cardiff,2,0,2019-03-02 15:00:00,,None,7199
+284559,1,SavedShot,0.9130000305175782,0.73,0.03302299976348877,Aron Gunnarsson,h,7199,SetPiece,2018,RightFoot,9495,Cardiff,West Ham,2,0,2019-03-09 15:00:00,,None,7199
+284582,81,MissedShots,0.8819999694824219,0.47299999237060547,0.01745540089905262,Aron Gunnarsson,h,7199,FromCorner,2018,Head,9495,Cardiff,West Ham,2,0,2019-03-09 15:00:00,,Aerial,7199
+293597,19,MissedShots,0.7119999694824218,0.5059999847412109,0.015163199976086617,Aron Gunnarsson,a,7199,OpenPlay,2018,RightFoot,9535,Burnley,Cardiff,2,0,2019-04-13 15:00:00,Víctor Camarasa,Pass,7199
+294615,7,MissedShots,0.735999984741211,0.54,0.015997499227523804,Aron Gunnarsson,a,7199,OpenPlay,2018,RightFoot,9505,Brighton,Cardiff,0,2,2019-04-16 19:45:00,,None,7199
+294622,40,MissedShots,0.9590000152587891,0.4909999847412109,0.08752679824829102,Aron Gunnarsson,a,7199,FromCorner,2018,Head,9505,Brighton,Cardiff,0,2,2019-04-16 19:45:00,Víctor Camarasa,Aerial,7199

@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+386149,21,SavedShot,0.7390000152587891,0.5979999923706054,0.022947100922465324,Max Lowe,a,8918,OpenPlay,2020,LeftFoot,14507,Chelsea,Sheffield United,4,1,2020-11-07 17:30:00,Oliver Norwood,HeadPass,8918
+389060,38,BlockedShot,0.9180000305175782,0.6840000152587891,0.06381099671125412,Max Lowe,a,8918,OpenPlay,2020,LeftFoot,14527,West Bromwich Albion,Sheffield United,1,0,2020-11-28 20:00:00,Oliver McBurnie,Pass,8918
+556509,50,BlockedShot,0.885,0.46099998474121096,0.3969334363937378,Max Lowe,h,8918,OpenPlay,2023,LeftFoot,22084,Sheffield United,Luton,2,3,2023-12-26 15:00:00,Cameron Archer,Pass,8918
+556515,68,BlockedShot,0.9469999694824218,0.4640000152587891,0.5428253412246704,Max Lowe,h,8918,OpenPlay,2023,RightFoot,22084,Sheffield United,Luton,2,3,2023-12-26 15:00:00,Oliver McBurnie,Goal,8918

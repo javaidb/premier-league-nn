@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+6656,Sergio Gómez,12,326,0,0.3138598967343569,1,0.4458680246025324,7,5,0,0,M S,Manchester City,0,0.3138598967343569,2.0659322142601013,1.6488532945513725,2022
+6656,Sergio Gómez,6,29,0,0.6195764094591141,1,0.12880565226078033,2,1,0,0,S,Manchester City,0,0.6195764094591141,0.9868094772100449,0.3672330677509308,2023

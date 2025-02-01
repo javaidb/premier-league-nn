@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+597096,91,SavedShot,0.899000015258789,0.37599998474121094,0.3365251421928406,Mats Wieffer,a,12758,OpenPlay,2024,RightFoot,26676,Newcastle United,Brighton,0,1,2024-10-19 14:00:00,Joël Veltman,Throughball,12758
+600163,86,MissedShots,0.9159999847412109,0.4,0.022468512877821922,Mats Wieffer,a,12758,OpenPlay,2024,Head,26696,Liverpool,Brighton,2,1,2024-11-02 15:00:00,Ferdi Kadioglu,Aerial,12758
+603828,75,MissedShots,0.9490000152587891,0.4229999923706055,0.04019291698932648,Mats Wieffer,h,12758,FromCorner,2024,Head,26723,Brighton,Southampton,1,1,2024-11-29 20:00:00,Estupiñán,Aerial,12758
+605398,27,MissedShots,0.9119999694824219,0.539000015258789,0.10543100535869598,Mats Wieffer,a,12758,SetPiece,2024,Head,26736,Fulham,Brighton,3,1,2024-12-05 19:30:00,Matt O&#039;Riley,Cross,12758
+608376,50,Goal,0.879000015258789,0.4570000076293945,0.18609453737735748,Mats Wieffer,a,12758,FromCorner,2024,RightFoot,26767,West Ham,Brighton,1,1,2024-12-21 15:00:00,,Aerial,12758

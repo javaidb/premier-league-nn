@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,1,0.015768099576234818,28,Sub,Swansea,Aston Villa,1,0,2016-03-19,379,2015,66772,0.09924519807100296,0,1,0,0.015768099576234818,0.1150130033493042,0,874
+0,0,0,26,Sub,Aston Villa,Tottenham,0,2,2016-03-13,372,2015,66951,0.08671029657125473,0,1,0,0,0,0,874

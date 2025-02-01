@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+664,Joleon Lescott,34,3060,1,2.396697413176298,2,0.5493253171443939,14,2,3,0,D,West Bromwich Albion,1,2.396697413176298,3.877223813906312,3.877223813906312,2014
+664,Joleon Lescott,32,2812,1,1.8732635146006942,0,0.17327840439975262,11,4,2,0,D,"Aston Villa,West Bromwich Albion",1,1.8732635146006942,4.438298267312348,4.29165727365762,2015
+664,Joleon Lescott,2,120,0,0,0,0,0,0,0,0,D S,Sunderland,0,0,0.0109526002779603,0.0109526002779603,2016

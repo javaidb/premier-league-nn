@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+6036,Rajiv van La Parra,33,2165,3,3.088003504090011,0,0.8345380071550608,44,14,3,1,F M S,Huddersfield,2,2.32687150221318,4.758853401988745,2.0130399148911238,2017
+6036,Rajiv van La Parra,5,411,0,0.23703229799866676,0,0.06990410014986992,5,4,0,0,F M,Huddersfield,0,0.23703229799866676,0.39200369641184807,0.10413200035691261,2018

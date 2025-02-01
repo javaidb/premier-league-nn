@@ -1,0 +1,6 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+2190,Vicente Guaita,20,1754,0,0,0,0,0,0,2,0,GK,Crystal Palace,0,0,0.5553675033152103,0.5553675033152103,2018
+2190,Vicente Guaita,35,3150,0,0,0,0,0,0,1,0,GK,Crystal Palace,0,0,1.8556461594998837,1.8556461594998837,2019
+2190,Vicente Guaita,37,3330,0,0,0,0,0,0,2,0,GK,Crystal Palace,0,0,1.4324400760233402,1.4324400760233402,2020
+2190,Vicente Guaita,30,2659,0,0,0,0,0,0,2,0,GK,Crystal Palace,0,0,3.258348599076271,3.258348599076271,2021
+2190,Vicente Guaita,27,2430,0,0,0,0,0,0,1,0,GK,Crystal Palace,0,0,1.4098752001300454,1.4098752001300454,2022

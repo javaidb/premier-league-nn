@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+112296,35,MissedShots,0.7480000305175781,0.56,0.028266899287700653,Adam Clayton,h,1717,OpenPlay,2016,LeftFoot,465,Middlesbrough,Stoke,1,1,2016-08-13 18:00:00,,None,1717
+112300,46,BlockedShot,0.750999984741211,0.5609999847412109,0.026138700544834137,Adam Clayton,h,1717,OpenPlay,2016,RightFoot,465,Middlesbrough,Stoke,1,1,2016-08-13 18:00:00,Gastón Ramírez,Pass,1717
+112739,84,MissedShots,0.7390000152587891,0.5609999847412109,0.022822199389338493,Adam Clayton,a,1717,OpenPlay,2016,LeftFoot,479,Sunderland,Middlesbrough,1,2,2016-08-21 16:30:00,Stewart Downing,Pass,1717
+113284,10,MissedShots,0.830999984741211,0.355,0.017780199646949768,Adam Clayton,h,1717,FromCorner,2016,RightFoot,492,Middlesbrough,Crystal Palace,1,2,2016-09-10 18:00:00,George Friend,Aerial,1717
+115739,71,MissedShots,0.73,0.34900001525878904,0.012518100440502167,Adam Clayton,h,1717,FromCorner,2016,RightFoot,3114,Middlesbrough,Hull,1,0,2016-12-06 00:00:00,,Aerial,1717
+117622,33,BlockedShot,0.7609999847412109,0.515,0.011531800031661987,Adam Clayton,h,1717,SetPiece,2016,RightFoot,3127,Middlesbrough,Liverpool,0,3,2016-12-14 23:45:00,,Aerial,1717
+118953,31,MissedShots,0.6990000152587891,0.49400001525878906,0.012573599815368652,Adam Clayton,h,1717,OpenPlay,2016,RightFoot,3363,Middlesbrough,West Bromwich Albion,1,1,2017-01-31 22:45:00,Antonio Barragán,Pass,1717
+119750,12,MissedShots,0.745,0.46599998474121096,0.015315400436520576,Adam Clayton,a,1717,OpenPlay,2016,RightFoot,3438,Swansea,Middlesbrough,0,0,2017-04-02 13:30:00,,Rebound,1717
+120164,34,BlockedShot,0.8080000305175781,0.29399999618530276,0.022317999973893166,Adam Clayton,a,1717,OpenPlay,2016,RightFoot,3442,Hull,Middlesbrough,4,2,2017-04-05 19:45:00,,BallRecovery,1717
+120122,71,SavedShot,0.9069999694824219,0.40299999237060546,0.11161600053310394,Adam Clayton,h,1717,OpenPlay,2016,LeftFoot,3456,Middlesbrough,Burnley,0,0,2017-04-08 15:00:00,Adama Traoré,Pass,1717
+120985,50,SavedShot,0.784000015258789,0.43900001525878907,0.034289099276065826,Adam Clayton,h,1717,OpenPlay,2016,LeftFoot,3483,Middlesbrough,Manchester City,2,2,2017-04-30 14:05:00,Adam Forshaw,Pass,1717

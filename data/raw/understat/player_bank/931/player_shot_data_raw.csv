@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15906,85,SavedShot,0.7809999847412109,0.5940000152587891,0.02971559949219227,Jordi Gómez,h,931,OpenPlay,2014,LeftFoot,4745,Sunderland,Swansea,0,0,2014-09-27 15:00:00,Sebastian Larsson,Pass,931
+17396,57,BlockedShot,0.7240000152587891,0.5259999847412109,0.018767399713397026,Jordi Gómez,h,931,SetPiece,2014,LeftFoot,4692,Sunderland,Stoke,3,1,2014-10-04 15:00:00,Sebastian Larsson,Pass,931
+16819,14,BlockedShot,0.8630000305175781,0.2520000076293945,0.023616399616003036,Jordi Gómez,a,931,SetPiece,2014,LeftFoot,4703,Southampton,Sunderland,8,0,2014-10-18 15:00:00,Sebastian Larsson,Pass,931
+16828,38,MissedShots,0.8819999694824219,0.6270000076293946,0.05374680086970329,Jordi Gómez,a,931,OpenPlay,2014,LeftFoot,4703,Southampton,Sunderland,8,0,2014-10-18 15:00:00,,None,931
+17154,6,BlockedShot,0.7909999847412109,0.305,0.06348639726638794,Jordi Gómez,a,931,DirectFreekick,2014,LeftFoot,4658,Crystal Palace,Sunderland,1,3,2014-11-03 20:00:00,,Standard,931
+17167,78,Goal,0.774000015258789,0.575,0.027904199436306953,Jordi Gómez,a,931,OpenPlay,2014,LeftFoot,4658,Crystal Palace,Sunderland,1,3,2014-11-03 20:00:00,William Buckley,Pass,931
+17054,35,SavedShot,0.8540000152587891,0.46700000762939453,0.09873159974813461,Jordi Gómez,h,931,OpenPlay,2014,RightFoot,4665,Sunderland,Everton,1,1,2014-11-09 13:30:00,Sebastian Larsson,Pass,931
+16803,46,BlockedShot,0.7419999694824219,0.649000015258789,0.020275099202990532,Jordi Gómez,a,931,OpenPlay,2014,LeftFoot,4672,Leicester,Sunderland,0,0,2014-11-22 15:00:00,Steven Fletcher,Pass,931
+16811,65,BlockedShot,0.8540000152587891,0.39299999237060546,0.06755190342664719,Jordi Gómez,a,931,OpenPlay,2014,LeftFoot,4672,Leicester,Sunderland,0,0,2014-11-22 15:00:00,,Dispossessed,931
+19942,15,MissedShots,0.7380000305175781,0.53,0.01562589965760708,Jordi Gómez,a,931,FromCorner,2014,RightFoot,4604,Liverpool,Sunderland,0,0,2014-12-06 15:00:00,,None,931
+19947,46,BlockedShot,0.755,0.5359999847412109,0.023730000481009483,Jordi Gómez,a,931,OpenPlay,2014,LeftFoot,4604,Liverpool,Sunderland,0,0,2014-12-06 15:00:00,John O&#039;Shea,BallRecovery,931
+19950,55,MissedShots,0.7859999847412109,0.715,0.018797900527715683,Jordi Gómez,a,931,FromCorner,2014,RightFoot,4604,Liverpool,Sunderland,0,0,2014-12-06 15:00:00,Adam Johnson,Pass,931
+19958,80,SavedShot,0.745,0.6270000076293946,0.01694750040769577,Jordi Gómez,a,931,OpenPlay,2014,LeftFoot,4604,Liverpool,Sunderland,0,0,2014-12-06 15:00:00,,Dispossessed,931
+18371,21,Goal,0.885,0.5,0.7611690163612366,Jordi Gómez,h,931,Penalty,2014,LeftFoot,4613,Sunderland,West Ham,1,1,2014-12-13 15:00:00,,Standard,931
+19061,15,BlockedShot,0.8219999694824218,0.6020000076293945,0.04740510135889053,Jordi Gómez,a,931,OpenPlay,2014,LeftFoot,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,Adam Johnson,Pass,931
+19072,53,MissedShots,0.8780000305175781,0.5379999923706055,0.5162789821624756,Jordi Gómez,a,931,OpenPlay,2014,LeftFoot,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,Steven Fletcher,Pass,931
+19075,60,BlockedShot,0.695,0.595999984741211,0.009123220108449459,Jordi Gómez,a,931,OpenPlay,2014,LeftFoot,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,Steven Fletcher,HeadPass,931
+19087,94,MissedShots,0.7769999694824219,0.48200000762939454,0.04211829975247383,Jordi Gómez,a,931,OpenPlay,2014,LeftFoot,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,William Buckley,Pass,931
+17985,42,MissedShots,0.774000015258789,0.46,0.021170999854803085,Jordi Gómez,h,931,FromCorner,2014,RightFoot,4632,Sunderland,Hull,1,3,2014-12-26 15:00:00,,None,931
+17990,56,BlockedShot,0.759000015258789,0.66,0.018648499622941017,Jordi Gómez,h,931,OpenPlay,2014,LeftFoot,4632,Sunderland,Hull,1,3,2014-12-26 15:00:00,Sebastián Coates,Pass,931
+18319,25,MissedShots,0.7390000152587891,0.644000015258789,0.015227099880576134,Jordi Gómez,a,931,OpenPlay,2014,RightFoot,4644,Aston Villa,Sunderland,0,0,2014-12-28 15:00:00,Sebastian Larsson,Pass,931
+18338,88,ShotOnPost,0.7980000305175782,0.6719999694824219,0.020901000127196312,Jordi Gómez,a,931,OpenPlay,2014,LeftFoot,4644,Aston Villa,Sunderland,0,0,2014-12-28 15:00:00,Emanuele Giaccherini,Pass,931
+18146,92,BlockedShot,0.8209999847412109,0.4759999847412109,0.04181709885597229,Jordi Gómez,h,931,FromCorner,2014,RightFoot,4561,Sunderland,Liverpool,0,1,2015-01-10 12:45:00,,None,931
+23523,17,MissedShots,0.815,0.6070000076293945,0.04348620027303696,Jordi Gómez,a,931,OpenPlay,2014,LeftFoot,4517,Swansea,Sunderland,1,1,2015-02-07 15:00:00,Anthony Réveillere,Pass,931
+22291,1,BlockedShot,0.774000015258789,0.639000015258789,0.017503900453448296,Jordi Gómez,h,931,FromCorner,2014,LeftFoot,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,,None,931
+22293,12,SavedShot,0.7809999847412109,0.17700000762939452,0.03377069905400276,Jordi Gómez,h,931,DirectFreekick,2014,LeftFoot,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,,Standard,931
+20235,46,SavedShot,0.840999984741211,0.525,0.08346500247716904,Jordi Gómez,a,931,OpenPlay,2014,LeftFoot,4472,Stoke,Sunderland,1,1,2015-04-25 15:00:00,Patrick van Aanholt,Pass,931
+20240,58,SavedShot,0.7869999694824219,0.2720000076293945,0.017621200531721115,Jordi Gómez,a,931,OpenPlay,2014,LeftFoot,4472,Stoke,Sunderland,1,1,2015-04-25 15:00:00,,BallRecovery,931
+21751,20,Goal,0.885,0.5,0.7611690163612366,Jordi Gómez,h,931,Penalty,2014,LeftFoot,4402,Sunderland,Southampton,2,1,2015-05-02 15:00:00,,Standard,931
+21764,54,Goal,0.885,0.5,0.7611690163612366,Jordi Gómez,h,931,Penalty,2014,LeftFoot,4402,Sunderland,Southampton,2,1,2015-05-02 15:00:00,,Standard,931
+20879,52,MissedShots,0.8080000305175781,0.654000015258789,0.030971499159932137,Jordi Gómez,a,931,OpenPlay,2014,LeftFoot,4409,Everton,Sunderland,0,2,2015-05-09 12:45:00,,None,931
+58074,17,SavedShot,0.9540000152587891,0.075,0.03650850057601929,Jordi Gómez,a,931,DirectFreekick,2015,LeftFoot,134,Bournemouth,Sunderland,2,0,2015-09-19 18:00:00,,Standard,931
+59178,30,BlockedShot,0.6890000152587891,0.45299999237060545,0.01614909991621971,Jordi Gómez,a,931,SetPiece,2015,LeftFoot,163,West Bromwich Albion,Sunderland,1,0,2015-10-17 18:00:00,Sebastian Larsson,Pass,931

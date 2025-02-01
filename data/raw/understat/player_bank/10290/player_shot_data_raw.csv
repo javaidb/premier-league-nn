@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+453220,16,BlockedShot,0.7519999694824219,0.6569999694824219,0.017659200355410576,Edo Kayembe,a,10290,FromCorner,2021,LeftFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Craig Cathcart,Pass,10290
+453238,69,MissedShots,0.7780000305175782,0.5770000076293945,0.023838499560952187,Edo Kayembe,a,10290,FromCorner,2021,RightFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Juraj Kucka,Pass,10290
+473316,19,BlockedShot,0.7230000305175781,0.48700000762939455,0.01569090038537979,Edo Kayembe,a,10290,OpenPlay,2021,LeftFoot,16730,Crystal Palace,Watford,1,0,2022-05-07 14:00:00,Kiko Femenía,Pass,10290
+475199,17,BlockedShot,0.755,0.41,0.014191200025379658,Edo Kayembe,h,10290,SetPiece,2021,LeftFoot,16674,Watford,Everton,0,0,2022-05-11 18:45:00,,None,10290
+477811,24,MissedShots,0.8209999847412109,0.37099998474121093,0.057461000978946686,Edo Kayembe,a,10290,OpenPlay,2021,LeftFoot,16750,Chelsea,Watford,2,1,2022-05-22 15:00:00,Joshua King,LayOff,10290
+477823,79,MissedShots,0.5659999847412109,0.325,0.007345439866185188,Edo Kayembe,a,10290,OpenPlay,2021,LeftFoot,16750,Chelsea,Watford,2,1,2022-05-22 15:00:00,,None,10290

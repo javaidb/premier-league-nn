@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+130601,76,BlockedShot,0.674000015258789,0.34,0.011927099898457527,Florent Hadergjonaj,a,5215,OpenPlay,2016,RightFoot,3197,Werder Bremen,Ingolstadt,2,1,2016-12-03 18:30:00,Pascal Groﬂ,Pass,5215
+131412,77,BlockedShot,0.7659999847412109,0.28899999618530275,0.02239830046892166,Florent Hadergjonaj,a,5215,OpenPlay,2016,RightFoot,3218,Bayer Leverkusen,Ingolstadt,1,2,2016-12-18 20:30:00,Lukas Hinterseer,Pass,5215
+130521,46,BlockedShot,0.8419999694824218,0.40099998474121096,0.05823640152812004,Florent Hadergjonaj,a,5215,OpenPlay,2016,LeftFoot,3723,Schalke 04,Ingolstadt,1,0,2017-01-21 17:30:00,,None,5215
+131276,10,BlockedShot,0.7290000152587891,0.365,0.01653349958360195,Florent Hadergjonaj,h,5215,OpenPlay,2016,RightFoot,3734,Ingolstadt,Hamburger SV,3,1,2017-01-28 17:30:00,Alfredo Morales,Pass,5215
+132188,34,MissedShots,0.7069999694824218,0.4779999923706055,0.009774699807167053,Florent Hadergjonaj,h,5215,SetPiece,2016,RightFoot,3774,Ingolstadt,Borussia M.Gladbach,0,2,2017-02-26 14:30:00,,None,5215
+133972,16,BlockedShot,0.6969999694824218,0.3060000038146973,0.010400399565696716,Florent Hadergjonaj,h,5215,OpenPlay,2016,RightFoot,3791,Ingolstadt,FC Cologne,2,2,2017-03-11 17:30:00,,BallRecovery,5215
+133267,72,Goal,0.875999984741211,0.13899999618530273,0.020619500428438187,Florent Hadergjonaj,h,5215,OpenPlay,2016,RightFoot,3810,Ingolstadt,Mainz 05,2,1,2017-04-02 14:30:00,Pascal Groﬂ,Pass,5215
+134100,22,MissedShots,0.9340000152587891,0.3940000152587891,0.06853590160608292,Florent Hadergjonaj,a,5215,OpenPlay,2016,Head,3817,Augsburg,Ingolstadt,2,3,2017-04-05 19:00:00,Markus Suttner,Cross,5215
+133529,17,MissedShots,0.8469999694824218,0.23600000381469727,0.02253909967839718,Florent Hadergjonaj,a,5215,SetPiece,2016,RightFoot,3873,Freiburg,Ingolstadt,1,1,2017-05-13 14:30:00,Markus Suttner,Pass,5215
+127954,26,BlockedShot,0.874000015258789,0.2879999923706055,0.04298640042543411,Florent Hadergjonaj,h,5215,OpenPlay,2016,LeftFoot,3880,Ingolstadt,Schalke 04,1,1,2017-05-20 14:30:00,DarÌo Lezcano,TakeOn,5215
+160305,38,BlockedShot,0.695,0.4470000076293945,0.012605899944901466,Florent Hadergjonaj,h,5215,OpenPlay,2017,RightFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,,BallRecovery,5215
+193881,32,BlockedShot,0.7419999694824219,0.3609999847412109,0.021001700311899185,Florent Hadergjonaj,h,5215,OpenPlay,2017,RightFoot,7381,Huddersfield,Bournemouth,4,1,2018-02-11 12:00:00,Alex Pritchard,Pass,5215
+197391,40,SavedShot,0.6790000152587891,0.4540000152587891,0.01186159998178482,Florent Hadergjonaj,a,5215,OpenPlay,2017,RightFoot,7394,West Bromwich Albion,Huddersfield,1,2,2018-02-24 15:00:00,Rajiv van La Parra,Pass,5215
+200056,63,MissedShots,0.7830000305175782,0.355,0.02395009994506836,Florent Hadergjonaj,h,5215,FromCorner,2017,RightFoot,7413,Huddersfield,Swansea,0,0,2018-03-10 15:00:00,Aaron Mooy,Cross,5215
+213617,10,SavedShot,0.8919999694824219,0.44299999237060544,0.3858709931373596,Florent Hadergjonaj,a,5215,SetPiece,2017,RightFoot,7480,Manchester City,Huddersfield,0,0,2018-05-06 13:30:00,Alex Pritchard,Pass,5215
+215718,53,BlockedShot,0.7859999847412109,0.42400001525878905,0.03365489840507507,Florent Hadergjonaj,h,5215,FromCorner,2017,LeftFoot,7494,Huddersfield,Arsenal,0,1,2018-05-13 15:00:00,,Rebound,5215
+215717,53,BlockedShot,0.7969999694824219,0.37099998474121093,0.02205909974873066,Florent Hadergjonaj,h,5215,FromCorner,2017,RightFoot,7494,Huddersfield,Arsenal,0,1,2018-05-13 15:00:00,,None,5215
+215721,60,BlockedShot,0.7769999694824219,0.33,0.016530899330973625,Florent Hadergjonaj,h,5215,FromCorner,2017,RightFoot,7494,Huddersfield,Arsenal,0,1,2018-05-13 15:00:00,,None,5215
+215722,63,MissedShots,0.8380000305175781,0.3120000076293945,0.03364799916744232,Florent Hadergjonaj,h,5215,OpenPlay,2017,RightFoot,7494,Huddersfield,Arsenal,0,1,2018-05-13 15:00:00,,None,5215
+233112,27,BlockedShot,0.7919999694824219,0.39599998474121095,0.015809999778866768,Florent Hadergjonaj,a,5215,FromCorner,2018,RightFoot,9213,Manchester City,Huddersfield,6,1,2018-08-19 15:30:00,,Aerial,5215
+233824,58,SavedShot,0.8680000305175781,0.45599998474121095,0.07111980020999908,Florent Hadergjonaj,h,5215,OpenPlay,2018,RightFoot,9240,Huddersfield,Crystal Palace,0,1,2018-09-15 14:00:00,,Dispossessed,5215
+251859,2,MissedShots,0.879000015258789,0.35900001525878905,0.05788080021739006,Florent Hadergjonaj,a,5215,FromCorner,2018,LeftFoot,9338,Bournemouth,Huddersfield,2,1,2018-12-04 19:45:00,,Rebound,5215
+251858,2,BlockedShot,0.875999984741211,0.3529999923706055,0.03670930117368698,Florent Hadergjonaj,a,5215,FromCorner,2018,RightFoot,9338,Bournemouth,Huddersfield,2,1,2018-12-04 19:45:00,Aaron Mooy,Cross,5215
+251876,57,BlockedShot,0.784000015258789,0.40599998474121096,0.03053170070052147,Florent Hadergjonaj,a,5215,OpenPlay,2018,LeftFoot,9338,Bournemouth,Huddersfield,2,1,2018-12-04 19:45:00,,Rebound,5215
+251884,88,SavedShot,0.774000015258789,0.3509999847412109,0.010408099740743637,Florent Hadergjonaj,a,5215,FromCorner,2018,RightFoot,9338,Bournemouth,Huddersfield,2,1,2018-12-04 19:45:00,Zanka,HeadPass,5215

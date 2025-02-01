@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+55978,81,OwnGoal,0.015,0.4909999847412109,0,David de Gea,a,546,FromCorner,2015,OtherBodyPart,331,Sunderland,Manchester United,2,1,2016-02-13 16:45:00,,Clearance,546

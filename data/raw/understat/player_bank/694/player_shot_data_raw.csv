@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+17223,92,MissedShots,0.92,0.42900001525878906,0.06700760126113892,Asmir Begovic,h,694,FromCorner,2014,Head,4669,Stoke,Burnley,1,2,2014-11-22 15:00:00,Charlie Adam,Cross,694

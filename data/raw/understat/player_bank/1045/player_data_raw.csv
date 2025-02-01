@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1045,Matt Grimes,3,38,0,0,0,0.13826599717140198,0,1,0,0,S,Swansea,0,0,0.19051770493388176,0.19051770493388176,2014
+1045,Matt Grimes,1,90,0,0.0164778009057045,0,0.022287599742412567,1,1,0,0,M,Swansea,0,0.0164778009057045,0.022287599742412567,0,2015

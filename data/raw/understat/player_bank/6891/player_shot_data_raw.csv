@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+275422,12,SavedShot,0.909000015258789,0.36900001525878906,0.3428899943828583,Ryan Fredericks,a,6891,OpenPlay,2018,LeftFoot,9448,Crystal Palace,West Ham,1,1,2019-02-09 15:00:00,Michail Antonio,Throughball,6891
+297186,17,MissedShots,0.740999984741211,0.20700000762939452,0.011818899773061275,Ryan Fredericks,a,6891,OpenPlay,2018,RightFoot,9548,Tottenham,West Ham,0,1,2019-04-27 12:30:00,Mark Noble,Pass,6891
+297196,46,BlockedShot,0.865,0.38299999237060545,0.08165279775857925,Ryan Fredericks,a,6891,OpenPlay,2018,RightFoot,9548,Tottenham,West Ham,0,1,2019-04-27 12:30:00,Marko Arnautovic,Pass,6891
+299296,21,BlockedShot,0.7709999847412109,0.32799999237060545,0.018948499113321304,Ryan Fredericks,h,6891,OpenPlay,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,,Rebound,6891
+299312,71,Goal,0.905,0.34900001525878904,0.07918009907007217,Ryan Fredericks,h,6891,OpenPlay,2018,RightFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,,None,6891
+368139,49,BlockedShot,0.7080000305175781,0.3370000076293945,0.011560199782252312,Ryan Fredericks,h,6891,OpenPlay,2019,RightFoot,11962,West Ham,Chelsea,3,2,2020-07-01 19:15:00,Declan Rice,Pass,6891
+370362,47,MissedShots,0.9309999847412109,0.31,0.08670029789209366,Ryan Fredericks,a,6891,OpenPlay,2019,RightFoot,11988,Norwich,West Ham,0,4,2020-07-11 11:30:00,Mark Noble,Pass,6891
+373817,49,BlockedShot,0.8040000152587891,0.4109999847412109,0.028969399631023407,Ryan Fredericks,h,6891,OpenPlay,2019,LeftFoot,12013,West Ham,Aston Villa,1,1,2020-07-26 15:00:00,Ben Johnson,TakeOn,6891
+395908,40,SavedShot,0.95,0.39799999237060546,0.04446909949183464,Ryan Fredericks,a,6891,OpenPlay,2020,Head,14588,Southampton,West Ham,0,0,2020-12-29 18:00:00,Pablo Fornals,HeadPass,6891
+395911,48,BlockedShot,0.889000015258789,0.295,0.0437937006354332,Ryan Fredericks,a,6891,OpenPlay,2020,LeftFoot,14588,Southampton,West Ham,0,0,2020-12-29 18:00:00,,TakeOn,6891
+405055,95,Goal,0.8469999694824218,0.6190000152587891,0.09088700264692307,Ryan Fredericks,h,6891,OpenPlay,2020,RightFoot,14674,West Ham,Sheffield United,3,0,2021-02-15 18:00:00,Said Benrahma,Pass,6891
+417438,59,BlockedShot,0.8119999694824219,0.54,0.0351875014603138,Ryan Fredericks,h,6891,OpenPlay,2020,RightFoot,14763,West Ham,Chelsea,0,1,2021-04-24 16:30:00,Mark Noble,Cross,6891

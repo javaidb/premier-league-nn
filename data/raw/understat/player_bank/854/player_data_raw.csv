@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+854,Cheick Tioté,11,899,0,0.1609902996569872,2,0.5410728976130486,10,8,5,0,M S,Newcastle United,0,0.1609902996569872,3.026809599250555,2.4337085746228695,2014
+854,Cheick Tioté,20,1244,0,0.019212599843740463,0,0.7427316242828965,1,8,5,0,M S,Newcastle United,0,0.019212599843740463,2.947970049455762,2.685065032914281,2015

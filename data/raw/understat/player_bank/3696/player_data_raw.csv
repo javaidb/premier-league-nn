@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+3696,Morgan Sanson,9,291,0,0.026357199996709824,0,0.10845199972391129,2,1,3,0,M S,Aston Villa,0,0.026357199996709824,0.30181339383125305,0.19336139410734177,2020
+3696,Morgan Sanson,10,349,0,0.011810599826276302,0,0.028206299990415573,1,1,0,0,M S,Aston Villa,0,0.011810599826276302,0.8443006118759513,0.832490012049675,2021
+3696,Morgan Sanson,2,2,0,0,0,0,0,0,0,0,S,Aston Villa,0,0,0,0,2022

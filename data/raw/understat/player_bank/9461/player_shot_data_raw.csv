@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+534230,86,BlockedShot,0.889000015258789,0.2510000038146973,0.043321676552295685,Jesurun Rak-Sakyi,h,9461,OpenPlay,2023,LeftFoot,22294,Crystal Palace,Arsenal,0,1,2023-08-21 19:00:00,Jordan Ayew,TakeOn,9461
+542828,40,BlockedShot,0.9,0.4209999847412109,0.08953215181827545,Jesurun Rak-Sakyi,h,9461,OpenPlay,2023,LeftFoot,21968,Crystal Palace,Nottingham Forest,0,0,2023-10-07 16:30:00,,None,9461
+542836,66,BlockedShot,0.925,0.34200000762939453,0.08417186886072159,Jesurun Rak-Sakyi,h,9461,OpenPlay,2023,LeftFoot,21968,Crystal Palace,Nottingham Forest,0,0,2023-10-07 16:30:00,Marc Guehi,Pass,9461
+544113,89,SavedShot,0.925,0.3559999847412109,0.12021023780107498,Jesurun Rak-Sakyi,a,9461,OpenPlay,2023,RightFoot,21981,Newcastle United,Crystal Palace,4,0,2023-10-21 14:00:00,Matheus França,Pass,9461
+545170,86,BlockedShot,0.8109999847412109,0.24399999618530274,0.01860627718269825,Jesurun Rak-Sakyi,h,9461,FromCorner,2023,LeftFoot,21990,Crystal Palace,Tottenham,1,2,2023-10-27 19:00:00,Matheus França,Pass,9461

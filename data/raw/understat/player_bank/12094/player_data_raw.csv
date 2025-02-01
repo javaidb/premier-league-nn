@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+12094,Mike Trésor,16,384,0,0.6615988579578698,0,0.6491026850417256,5,7,0,0,F M S,Burnley,0,0.6615988579578698,0.9828745895065367,0.34004739159718156,2023

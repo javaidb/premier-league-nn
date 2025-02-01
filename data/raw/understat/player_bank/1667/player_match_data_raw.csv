@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,90,GK,Swansea,Burnley,3,2,2017-03-04,3405,2016,133232,0,0,0,0,0,0,0,1667
+0,0,0,90,GK,Stoke,Burnley,2,0,2016-12-03,3107,2016,128740,0,0,0,0,0,0.05131080001592636,0.05131080001592636,1667
+0,0,0,90,GK,Burnley,Manchester City,1,2,2016-11-26,2707,2016,129087,0,0,0,0,0,0,0,1667

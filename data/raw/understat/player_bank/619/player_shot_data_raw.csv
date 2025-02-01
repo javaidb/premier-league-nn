@@ -1,0 +1,721 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14552,91,SavedShot,0.9259999847412109,0.6809999847412109,0.07915479689836502,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4757,Newcastle United,Manchester City,0,2,2014-08-17 16:00:00,Fernandinho,Pass,619
+14553,91,Goal,0.9530000305175781,0.655,0.2991560101509094,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4757,Newcastle United,Manchester City,0,2,2014-08-17 16:00:00,,Rebound,619
+14792,68,Goal,0.899000015258789,0.3240000152587891,0.3595860004425049,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4768,Manchester City,Liverpool,3,1,2014-08-25 20:00:00,Jesús Navas,Throughball,619
+14797,94,MissedShots,0.975999984741211,0.29200000762939454,0.06426029652357101,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4768,Manchester City,Liverpool,3,1,2014-08-25 20:00:00,Fernandinho,Pass,619
+14996,65,BlockedShot,0.86,0.649000015258789,0.04344870150089264,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4770,Manchester City,Stoke,0,1,2014-08-30 15:00:00,Edin Dzeko,Pass,619
+15000,69,BlockedShot,0.9059999847412109,0.6630000305175782,0.06437189877033234,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4770,Manchester City,Stoke,0,1,2014-08-30 15:00:00,Yaya Touré,Pass,619
+15002,72,MissedShots,0.9009999847412109,0.7140000152587891,0.0268350001424551,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4770,Manchester City,Stoke,0,1,2014-08-30 15:00:00,Jesús Navas,Cross,619
+15153,27,Goal,0.9159999847412109,0.4540000152587891,0.6079729795455933,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Jesús Navas,Pass,619
+15156,31,SavedShot,0.92,0.3340000152587891,0.07973729819059372,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,,None,619
+15161,54,MissedShots,0.7909999847412109,0.33799999237060546,0.029575100168585777,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Samir Nasri,Pass,619
+15164,64,SavedShot,0.7919999694824219,0.5459999847412109,0.04022790119051933,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,Gaël Clichy,Pass,619
+15532,2,MissedShots,0.8969999694824219,0.575,0.03206159919500351,Sergio Agüero,h,619,OpenPlay,2014,Head,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,Pablo Zabaleta,Aerial,619
+15537,30,MissedShots,0.8780000305175781,0.5979999923706054,0.028078099712729454,Sergio Agüero,h,619,FromCorner,2014,RightFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,,Aerial,619
+15540,47,SavedShot,0.8019999694824219,0.3240000152587891,0.026202000677585602,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,Pablo Zabaleta,Pass,619
+15543,55,SavedShot,0.855,0.46,0.10035599768161774,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,James Milner,Pass,619
+15744,0,SavedShot,0.9690000152587891,0.28299999237060547,0.04403030127286911,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4744,Hull,Manchester City,2,4,2014-09-27 15:00:00,James Milner,TakeOn,619
+15746,6,Goal,0.9230000305175782,0.38299999237060545,0.30783599615097046,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4744,Hull,Manchester City,2,4,2014-09-27 15:00:00,Pablo Zabaleta,HeadPass,619
+15749,21,MissedShots,0.8859999847412109,0.3509999847412109,0.09192769974470139,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4744,Hull,Manchester City,2,4,2014-09-27 15:00:00,James Milner,Pass,619
+15758,51,BlockedShot,0.895,0.39799999237060546,0.02040109969675541,Sergio Agüero,a,619,FromCorner,2014,Head,4744,Hull,Manchester City,2,4,2014-09-27 15:00:00,James Milner,Cross,619
+16539,9,BlockedShot,0.8190000152587891,0.515,0.0819322019815445,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4694,Aston Villa,Manchester City,0,2,2014-10-04 17:30:00,,TakeOn,619
+16542,25,BlockedShot,0.855999984741211,0.6759999847412109,0.049287501722574234,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4694,Aston Villa,Manchester City,0,2,2014-10-04 17:30:00,Edin Dzeko,HeadPass,619
+16543,27,MissedShots,0.9059999847412109,0.5509999847412109,0.04836209863424301,Sergio Agüero,a,619,OpenPlay,2014,Head,4694,Aston Villa,Manchester City,0,2,2014-10-04 17:30:00,David Silva,Pass,619
+16552,46,ShotOnPost,0.89,0.5929999923706055,0.35906100273132324,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4694,Aston Villa,Manchester City,0,2,2014-10-04 17:30:00,James Milner,Throughball,619
+16562,71,SavedShot,0.8730000305175781,0.3970000076293945,0.09704899787902832,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4694,Aston Villa,Manchester City,0,2,2014-10-04 17:30:00,David Silva,Pass,619
+16567,87,Goal,0.8209999847412109,0.4620000076293945,0.08254630118608475,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4694,Aston Villa,Manchester City,0,2,2014-10-04 17:30:00,James Milner,Pass,619
+16395,12,Goal,0.895,0.67,0.07057560235261917,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,Frank Lampard,Pass,619
+16398,19,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,h,619,Penalty,2014,RightFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,,Standard,619
+16399,22,SavedShot,0.8769999694824219,0.44299999237060544,0.1180030032992363,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,Jesús Navas,Pass,619
+16402,31,MissedShots,0.91,0.47200000762939454,0.490011990070343,Sergio Agüero,h,619,SetPiece,2014,RightFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,,Rebound,619
+16401,31,SavedShot,0.885,0.5,0.7611690163612366,Sergio Agüero,h,619,Penalty,2014,RightFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,,Standard,619
+16403,32,SavedShot,0.950999984741211,0.36400001525878906,0.18856200575828552,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,Fernando,BallRecovery,619
+16413,48,BlockedShot,0.9269999694824219,0.44099998474121094,0.13335299491882324,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,Bacary Sagna,Cross,619
+16412,48,SavedShot,0.765,0.4759999847412109,0.039007801562547684,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,,BallRecovery,619
+16419,58,BlockedShot,0.8530000305175781,0.7080000305175781,0.04138069972395897,Sergio Agüero,h,619,FromCorner,2014,RightFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,James Milner,Pass,619
+16424,67,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,h,619,Penalty,2014,RightFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,,Standard,619
+16426,74,Goal,0.8819999694824219,0.34200000762939453,0.09983929991722107,Sergio Agüero,h,619,SetPiece,2014,LeftFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,Fernandinho,Throughball,619
+16571,1,SavedShot,0.7419999694824219,0.485,0.019814200699329376,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4709,West Ham,Manchester City,2,1,2014-10-25 12:45:00,,BallRecovery,619
+16574,13,MissedShots,0.9469999694824218,0.695,0.028950899839401245,Sergio Agüero,a,619,FromCorner,2014,LeftFoot,4709,West Ham,Manchester City,2,1,2014-10-25 12:45:00,Eliaquim Mangala,HeadPass,619
+16579,31,MissedShots,0.7519999694824219,0.639000015258789,0.02133449912071228,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4709,West Ham,Manchester City,2,1,2014-10-25 12:45:00,Yaya Touré,LayOff,619
+16588,59,BlockedShot,0.9619999694824218,0.5940000152587891,0.10695300251245499,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4709,West Ham,Manchester City,2,1,2014-10-25 12:45:00,,Rebound,619
+16587,59,SavedShot,0.9319999694824219,0.6869999694824219,0.21447600424289703,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4709,West Ham,Manchester City,2,1,2014-10-25 12:45:00,David Silva,Pass,619
+16589,64,ShotOnPost,0.935,0.4779999923706055,0.5044879913330078,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4709,West Ham,Manchester City,2,1,2014-10-25 12:45:00,Jesús Navas,Cross,619
+16596,79,BlockedShot,0.875999984741211,0.38299999237060545,0.044516198337078094,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4709,West Ham,Manchester City,2,1,2014-10-25 12:45:00,Stevan Jovetic,HeadPass,619
+16024,7,SavedShot,0.9569999694824218,0.6819999694824219,0.06400199979543686,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4656,Manchester City,Manchester United,1,0,2014-11-02 13:30:00,James Milner,Pass,619
+16027,19,SavedShot,0.9390000152587891,0.3240000152587891,0.05543040111660957,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4656,Manchester City,Manchester United,1,0,2014-11-02 13:30:00,Fernando,Chipped,619
+16029,20,SavedShot,0.915,0.47200000762939454,0.5181559920310974,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4656,Manchester City,Manchester United,1,0,2014-11-02 13:30:00,Fernando,Cross,619
+16032,45,BlockedShot,0.8009999847412109,0.4929999923706055,0.04948670044541359,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4656,Manchester City,Manchester United,1,0,2014-11-02 13:30:00,Stevan Jovetic,BallTouch,619
+16037,62,Goal,0.914000015258789,0.5820000076293945,0.39874300360679626,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4656,Manchester City,Manchester United,1,0,2014-11-02 13:30:00,Gaël Clichy,Pass,619
+16040,73,BlockedShot,0.9219999694824219,0.45,0.1477690041065216,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4656,Manchester City,Manchester United,1,0,2014-11-02 13:30:00,Samir Nasri,Pass,619
+16752,4,MissedShots,0.7819999694824219,0.39799999237060546,0.03492619842290878,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,,TakeOn,619
+16755,11,MissedShots,0.9530000305175781,0.42700000762939455,0.0484016016125679,Sergio Agüero,a,619,FromCorner,2014,Head,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Samir Nasri,Aerial,619
+16754,11,BlockedShot,0.874000015258789,0.669000015258789,0.06111679971218109,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Yaya Touré,Pass,619
+16761,31,Goal,0.919000015258789,0.59,0.08398830145597458,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Eliaquim Mangala,Chipped,619
+16763,35,SavedShot,0.894000015258789,0.43599998474121093,0.12102600187063217,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Jesús Navas,Pass,619
+16780,77,BlockedShot,0.9269999694824219,0.24600000381469728,0.12281300127506256,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,,TakeOn,619
+16788,82,Goal,0.9130000305175782,0.4370000076293945,0.291253000497818,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Yaya Touré,Chipped,619
+16791,91,BlockedShot,0.765,0.544000015258789,0.027273299172520638,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Jesús Navas,Pass,619
+16933,1,MissedShots,0.9,0.2989999961853027,0.04586010053753853,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4671,Manchester City,Swansea,2,1,2014-11-22 15:00:00,Pablo Zabaleta,Pass,619
+16936,35,SavedShot,0.970999984741211,0.355,0.1172889992594719,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4671,Manchester City,Swansea,2,1,2014-11-22 15:00:00,Samir Nasri,Throughball,619
+16943,48,BlockedShot,0.7519999694824219,0.639000015258789,0.018067900091409683,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4671,Manchester City,Swansea,2,1,2014-11-22 15:00:00,Jesús Navas,Pass,619
+16946,51,BlockedShot,0.8619999694824219,0.4129999923706055,0.06454440206289291,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4671,Manchester City,Swansea,2,1,2014-11-22 15:00:00,,Rebound,619
+16945,51,BlockedShot,0.855999984741211,0.3139999961853027,0.040664900094270706,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4671,Manchester City,Swansea,2,1,2014-11-22 15:00:00,,None,619
+16951,64,BlockedShot,0.8730000305175781,0.48900001525878906,0.10734300315380096,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4671,Manchester City,Swansea,2,1,2014-11-22 15:00:00,,None,619
+16961,88,MissedShots,0.9330000305175781,0.69,0.11619599908590317,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4671,Manchester City,Swansea,2,1,2014-11-22 15:00:00,Pablo Zabaleta,BallRecovery,619
+18168,28,MissedShots,0.7269999694824218,0.4,0.014898800291121006,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4687,Southampton,Manchester City,0,3,2014-11-30 13:30:00,Gaël Clichy,TakeOn,619
+18170,30,MissedShots,0.9069999694824219,0.5479999923706055,0.044163499027490616,Sergio Agüero,a,619,FromCorner,2014,Head,4687,Southampton,Manchester City,0,3,2014-11-30 13:30:00,Yaya Touré,HeadPass,619
+18178,68,MissedShots,0.975999984741211,0.4620000076293945,0.6078320145606995,Sergio Agüero,a,619,FromCorner,2014,RightFoot,4687,Southampton,Manchester City,0,3,2014-11-30 13:30:00,Vincent Kompany,HeadPass,619
+18179,69,BlockedShot,0.7780000305175782,0.46799999237060547,0.04615259915590286,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4687,Southampton,Manchester City,0,3,2014-11-30 13:30:00,,None,619
+18186,83,SavedShot,0.8830000305175781,0.41200000762939454,0.4549109935760498,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4687,Southampton,Manchester City,0,3,2014-11-30 13:30:00,Gaël Clichy,Chipped,619
+19718,13,MissedShots,0.795,0.28299999237060547,0.025479599833488464,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4597,Sunderland,Manchester City,1,4,2014-12-03 19:45:00,Jesús Navas,TakeOn,619
+19720,20,Goal,0.8519999694824218,0.34200000762939453,0.05005649849772453,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4597,Sunderland,Manchester City,1,4,2014-12-03 19:45:00,Stevan Jovetic,TakeOn,619
+19723,32,MissedShots,0.91,0.31,0.055810701102018356,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4597,Sunderland,Manchester City,1,4,2014-12-03 19:45:00,Jesús Navas,Pass,619
+19726,41,MissedShots,0.8490000152587891,0.34200000762939453,0.062173500657081604,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4597,Sunderland,Manchester City,1,4,2014-12-03 19:45:00,Stevan Jovetic,TakeOn,619
+19734,70,Goal,0.904000015258789,0.44,0.1355459988117218,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4597,Sunderland,Manchester City,1,4,2014-12-03 19:45:00,James Milner,Pass,619
+17812,70,MissedShots,0.8090000152587891,0.4929999923706055,0.05884239822626114,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,Samir Nasri,Pass,619
+17817,84,MissedShots,0.8730000305175781,0.5570000076293945,0.04714829847216606,Sergio Agüero,a,619,FromCorner,2014,RightFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,Jesús Navas,Cross,619
+18831,35,MissedShots,0.91,0.42400001525878905,0.026684099808335304,Sergio Agüero,h,619,OpenPlay,2014,Head,4579,Manchester City,Arsenal,0,2,2015-01-18 16:00:00,James Milner,Aerial,619
+18833,46,SavedShot,0.8540000152587891,0.25,0.02714719995856285,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4579,Manchester City,Arsenal,0,2,2015-01-18 16:00:00,Fernandinho,Pass,619
+18834,47,BlockedShot,0.8480000305175781,0.3160000038146973,0.035818200558423996,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4579,Manchester City,Arsenal,0,2,2015-01-18 16:00:00,Pablo Zabaleta,BallRecovery,619
+19571,23,SavedShot,0.9369999694824219,0.7169999694824218,0.05482659861445427,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4588,Chelsea,Manchester City,1,1,2015-01-31 17:30:00,James Milner,Pass,619
+19573,31,MissedShots,0.875,0.3240000152587891,0.10209500044584274,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4588,Chelsea,Manchester City,1,1,2015-01-31 17:30:00,Vincent Kompany,Chipped,619
+19575,44,MissedShots,0.8490000152587891,0.64,0.045885298401117325,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4588,Chelsea,Manchester City,1,1,2015-01-31 17:30:00,,Goal,619
+23206,70,SavedShot,0.8969999694824219,0.625999984741211,0.054243799299001694,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4519,Manchester City,Hull,1,1,2015-02-07 15:00:00,Gaël Clichy,Cross,619
+23209,88,ShotOnPost,0.950999984741211,0.3579999923706055,0.10656200349330902,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4519,Manchester City,Hull,1,1,2015-02-07 15:00:00,Samir Nasri,Throughball,619
+23374,4,SavedShot,0.8619999694824219,0.5579999923706055,0.13278299570083618,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4530,Stoke,Manchester City,1,4,2015-02-11 19:45:00,David Silva,Pass,619
+23383,29,MissedShots,0.750999984741211,0.40200000762939453,0.02148210071027279,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4530,Stoke,Manchester City,1,4,2015-02-11 19:45:00,David Silva,Pass,619
+23385,32,Goal,0.8959999847412109,0.29100000381469726,0.05900299921631813,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4530,Stoke,Manchester City,1,4,2015-02-11 19:45:00,James Milner,Pass,619
+23397,69,Goal,0.885,0.5,0.761132001876831,Sergio Agüero,a,619,Penalty,2014,RightFoot,4530,Stoke,Manchester City,1,4,2015-02-11 19:45:00,,Standard,619
+24096,1,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,h,619,Penalty,2014,RightFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,,Standard,619
+24104,19,MissedShots,0.855999984741211,0.3920000076293945,0.10092899948358536,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,Edin Dzeko,Pass,619
+23330,12,ShotOnPost,0.8919999694824219,0.6469999694824219,0.09341920167207718,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4480,Liverpool,Manchester City,2,1,2015-03-01 12:00:00,David Silva,Throughball,619
+23338,45,MissedShots,0.9269999694824219,0.48900001525878906,0.40164899826049805,Sergio Agüero,a,619,OpenPlay,2014,Head,4480,Liverpool,Manchester City,2,1,2015-03-01 12:00:00,Pablo Zabaleta,Cross,619
+23341,78,MissedShots,0.9469999694824218,0.3220000076293945,0.06715890020132065,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4480,Liverpool,Manchester City,2,1,2015-03-01 12:00:00,,TakeOn,619
+23345,92,MissedShots,0.7959999847412109,0.40400001525878904,0.042678698897361755,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4480,Liverpool,Manchester City,2,1,2015-03-01 12:00:00,David Silva,LayOff,619
+21081,54,SavedShot,0.9119999694824219,0.41200000762939454,0.07923589646816254,Sergio Agüero,h,619,OpenPlay,2014,Head,4486,Manchester City,Leicester,2,0,2015-03-04 19:45:00,Aleksandar Kolarov,Cross,619
+21085,70,MissedShots,0.9459999847412109,0.34200000762939453,0.13431599736213684,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4486,Manchester City,Leicester,2,0,2015-03-04 19:45:00,David Silva,Throughball,619
+22124,18,BlockedShot,0.9069999694824219,0.285,0.05393429845571518,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4498,Burnley,Manchester City,1,0,2015-03-14 17:30:00,Yaya Touré,TakeOn,619
+22128,29,SavedShot,0.8159999847412109,0.6990000152587891,0.02242789976298809,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4498,Burnley,Manchester City,1,0,2015-03-14 17:30:00,Fernandinho,Pass,619
+22130,33,MissedShots,0.970999984741211,0.3039999961853027,0.04959600046277046,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4498,Burnley,Manchester City,1,0,2015-03-14 17:30:00,,None,619
+22131,39,BlockedShot,0.8680000305175781,0.625,0.08198639750480652,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4498,Burnley,Manchester City,1,0,2015-03-14 17:30:00,David Silva,Pass,619
+22133,52,MissedShots,0.9390000152587891,0.42700000762939455,0.11873699724674225,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4498,Burnley,Manchester City,1,0,2015-03-14 17:30:00,Pablo Zabaleta,Cross,619
+22138,68,MissedShots,0.8719999694824219,0.43900001525878907,0.030516300350427628,Sergio Agüero,a,619,OpenPlay,2014,Head,4498,Burnley,Manchester City,1,0,2015-03-14 17:30:00,Yaya Touré,Cross,619
+22144,80,MissedShots,0.9259999847412109,0.5590000152587891,0.250467985868454,Sergio Agüero,a,619,OpenPlay,2014,Head,4498,Burnley,Manchester City,1,0,2015-03-14 17:30:00,Yaya Touré,Cross,619
+22149,92,BlockedShot,0.7530000305175781,0.3629999923706055,0.019458899274468422,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4498,Burnley,Manchester City,1,0,2015-03-14 17:30:00,Wilfried Bony,Pass,619
+21775,13,MissedShots,0.7859999847412109,0.4279999923706055,0.033388301730155945,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,David Silva,Pass,619
+21779,25,BlockedShot,0.8,0.35700000762939454,0.03223799914121628,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,David Silva,Pass,619
+21787,39,BlockedShot,0.77,0.580999984741211,0.03477820008993149,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,David Silva,Pass,619
+21791,43,SavedShot,0.8209999847412109,0.67,0.05401330068707466,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,Gaël Clichy,Pass,619
+21795,46,SavedShot,0.9469999694824218,0.6719999694824219,0.09407959878444672,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,David Silva,Pass,619
+21794,46,BlockedShot,0.8230000305175781,0.629000015258789,0.06877149641513824,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,David Silva,Pass,619
+21797,50,SavedShot,0.9619999694824218,0.34700000762939454,0.11475100368261337,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,Jesús Navas,Pass,619
+21800,54,SavedShot,0.9819999694824219,0.4779999923706055,0.8375319838523865,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,Jesús Navas,Cross,619
+21802,57,ShotOnPost,0.8830000305175781,0.39099998474121095,0.11200100183486938,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,Frank Lampard,Pass,619
+21431,18,ShotOnPost,0.805,0.3840000152587891,0.03939170017838478,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4449,Crystal Palace,Manchester City,2,1,2015-04-06 20:00:00,David Silva,Pass,619
+21434,30,BlockedShot,0.7680000305175781,0.5779999923706055,0.03206339851021767,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4449,Crystal Palace,Manchester City,2,1,2015-04-06 20:00:00,Gaël Clichy,TakeOn,619
+21436,31,MissedShots,0.9059999847412109,0.645,0.0891496017575264,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4449,Crystal Palace,Manchester City,2,1,2015-04-06 20:00:00,Fernandinho,Pass,619
+20353,5,BlockedShot,0.9219999694824219,0.45799999237060546,0.14357200264930725,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4459,Manchester United,Manchester City,4,2,2015-04-12 16:00:00,Yaya Touré,Pass,619
+20355,7,Goal,0.9740000152587891,0.48700000762939455,0.9191129803657532,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4459,Manchester United,Manchester City,4,2,2015-04-12 16:00:00,David Silva,Pass,619
+20358,22,BlockedShot,0.8040000152587891,0.5990000152587891,0.031102599576115608,Sergio Agüero,a,619,FromCorner,2014,RightFoot,4459,Manchester United,Manchester City,4,2,2015-04-12 16:00:00,Jesús Navas,Cross,619
+20369,81,MissedShots,0.855999984741211,0.3139999961853027,0.030450500547885895,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4459,Manchester United,Manchester City,4,2,2015-04-12 16:00:00,Frank Lampard,Chipped,619
+20371,88,Goal,0.909000015258789,0.4490000152587891,0.35124799609184265,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4459,Manchester United,Manchester City,4,2,2015-04-12 16:00:00,Pablo Zabaleta,Pass,619
+21125,11,SavedShot,0.88,0.385,0.0872156023979187,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Jesús Navas,Pass,619
+21127,16,MissedShots,0.8480000305175781,0.5479999923706055,0.057284798473119736,Sergio Agüero,h,619,FromCorner,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,,None,619
+21134,35,Goal,0.909000015258789,0.4370000076293945,0.59586501121521,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Jesús Navas,Pass,619
+21135,48,BlockedShot,0.9230000305175782,0.6270000076293946,0.33970800042152405,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Yaya Touré,Pass,619
+21136,54,MissedShots,0.9069999694824219,0.37,0.10978499799966812,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4466,Manchester City,West Ham,2,0,2015-04-19 13:30:00,Jesús Navas,Cross,619
+22628,2,Goal,0.915,0.5529999923706055,0.44116300344467163,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4475,Manchester City,Aston Villa,3,2,2015-04-25 17:30:00,,OffsidePass,619
+22631,10,SavedShot,0.8090000152587891,0.43400001525878906,0.06588499993085861,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4475,Manchester City,Aston Villa,3,2,2015-04-25 17:30:00,Frank Lampard,Pass,619
+22203,11,MissedShots,0.9019999694824219,0.3160000038146973,0.029458900913596153,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4407,Tottenham,Manchester City,0,1,2015-05-03 16:00:00,Aleksandar Kolarov,Cross,619
+22211,28,Goal,0.9219999694824219,0.34700000762939454,0.4926289916038513,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4407,Tottenham,Manchester City,0,1,2015-05-03 16:00:00,David Silva,Throughball,619
+22215,38,SavedShot,0.825,0.710999984741211,0.05168880149722099,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4407,Tottenham,Manchester City,0,1,2015-05-03 16:00:00,David Silva,TakeOn,619
+22224,56,BlockedShot,0.865,0.40599998474121096,0.08767119795084,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4407,Tottenham,Manchester City,0,1,2015-05-03 16:00:00,,None,619
+22226,61,MissedShots,0.9569999694824218,0.580999984741211,0.49904000759124756,Sergio Agüero,a,619,OpenPlay,2014,LeftFoot,4407,Tottenham,Manchester City,0,1,2015-05-03 16:00:00,Fernandinho,Throughball,619
+21497,2,BlockedShot,0.909000015258789,0.595999984741211,0.11712700128555298,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4416,Manchester City,Queens Park Rangers,6,0,2015-05-10 13:30:00,David Silva,Pass,619
+21498,3,Goal,0.9219999694824219,0.5670000076293945,0.4380269944667816,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4416,Manchester City,Queens Park Rangers,6,0,2015-05-10 13:30:00,,Dispossessed,619
+21504,35,SavedShot,0.895,0.6270000076293946,0.12853099405765533,Sergio Agüero,h,619,OpenPlay,2014,LeftFoot,4416,Manchester City,Queens Park Rangers,6,0,2015-05-10 13:30:00,David Silva,Throughball,619
+21508,49,Goal,0.825999984741211,0.49700000762939456,0.32994601130485535,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4416,Manchester City,Queens Park Rangers,6,0,2015-05-10 13:30:00,,None,619
+21514,64,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,h,619,Penalty,2014,RightFoot,4416,Manchester City,Queens Park Rangers,6,0,2015-05-10 13:30:00,,Standard,619
+21034,13,BlockedShot,0.769000015258789,0.3840000152587891,0.025974400341510773,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4426,Swansea,Manchester City,2,4,2015-05-17 13:30:00,Frank Lampard,Pass,619
+21046,46,MissedShots,0.899000015258789,0.5379999923706055,0.05043590068817139,Sergio Agüero,a,619,OpenPlay,2014,Head,4426,Swansea,Manchester City,2,4,2015-05-17 13:30:00,,Aerial,619
+21048,47,MissedShots,0.8059999847412109,0.4809999847412109,0.06902679800987244,Sergio Agüero,a,619,OpenPlay,2014,RightFoot,4426,Swansea,Manchester City,2,4,2015-05-17 13:30:00,Yaya Touré,Pass,619
+23008,20,MissedShots,0.9169999694824219,0.325,0.11919400095939636,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,David Silva,Throughball,619
+23011,23,MissedShots,0.9630000305175781,0.34700000762939454,0.05858689919114113,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,,Rebound,619
+23010,23,SavedShot,0.935,0.47200000762939454,0.5688769817352295,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,,Rebound,619
+23013,32,SavedShot,0.875,0.415,0.37444400787353516,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,David Silva,Throughball,619
+23026,75,MissedShots,0.8590000152587891,0.37400001525878906,0.08872610330581665,Sergio Agüero,h,619,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,Wilfried Bony,Pass,619
+23030,86,BlockedShot,0.9259999847412109,0.655,0.05660500004887581,Sergio Agüero,h,619,FromCorner,2014,LeftFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,,None,619
+23032,87,Goal,0.9890000152587891,0.48,0.8675150275230408,Sergio Agüero,h,619,FromCorner,2014,Head,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,Eliaquim Mangala,HeadPass,619
+51706,64,BlockedShot,0.845999984741211,0.4909999847412109,0.11643599718809128,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,90,West Bromwich Albion,Manchester City,0,3,2015-08-10 23:00:00,Jesús Navas,Pass,619
+51716,88,SavedShot,0.9209999847412109,0.5629999923706055,0.5137569904327393,Sergio Agüero,a,619,OpenPlay,2015,LeftFoot,90,West Bromwich Albion,Manchester City,0,3,2015-08-10 23:00:00,,Rebound,619
+51795,0,SavedShot,0.850999984741211,0.5820000076293945,0.32235199213027954,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,99,Manchester City,Chelsea,3,0,2015-08-16 19:00:00,David Silva,Throughball,619
+51797,15,SavedShot,0.865,0.4620000076293945,0.07127810269594193,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,99,Manchester City,Chelsea,3,0,2015-08-16 19:00:00,Aleksandar Kolarov,Cross,619
+51798,16,SavedShot,0.86,0.44099998474121094,0.09684590250253677,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,99,Manchester City,Chelsea,3,0,2015-08-16 19:00:00,Jesús Navas,Pass,619
+51800,20,MissedShots,0.9630000305175781,0.515,0.6133210062980652,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,99,Manchester City,Chelsea,3,0,2015-08-16 19:00:00,Aleksandar Kolarov,Cross,619
+51804,31,Goal,0.86,0.46599998474121096,0.10580500215291977,Sergio Agüero,h,619,OpenPlay,2015,LeftFoot,99,Manchester City,Chelsea,3,0,2015-08-16 19:00:00,Yaya Touré,Pass,619
+51809,64,MissedShots,0.8080000305175781,0.445,0.05946119874715805,Sergio Agüero,h,619,OpenPlay,2015,LeftFoot,99,Manchester City,Chelsea,3,0,2015-08-16 19:00:00,Jesús Navas,Pass,619
+51811,67,BlockedShot,0.8859999847412109,0.6469999694824219,0.1113400012254715,Sergio Agüero,h,619,OpenPlay,2015,LeftFoot,99,Manchester City,Chelsea,3,0,2015-08-16 19:00:00,Yaya Touré,TakeOn,619
+56584,1,SavedShot,0.9280000305175782,0.34299999237060547,0.060878999531269073,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,108,Everton,Manchester City,0,2,2015-08-23 19:00:00,,Rebound,619
+56585,9,SavedShot,0.875,0.4370000076293945,0.07243499904870987,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,108,Everton,Manchester City,0,2,2015-08-23 19:00:00,Jesús Navas,Cross,619
+57588,8,BlockedShot,0.8190000152587891,0.34200000762939453,0.03490599989891052,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,117,Manchester City,Watford,2,0,2015-08-29 18:00:00,Fernandinho,Pass,619
+57595,33,BlockedShot,0.865,0.3139999961853027,0.047517698258161545,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,117,Manchester City,Watford,2,0,2015-08-29 18:00:00,David Silva,Pass,619
+57596,38,MissedShots,0.815,0.4640000152587891,0.06557320058345795,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,117,Manchester City,Watford,2,0,2015-08-29 18:00:00,Fernandinho,Pass,619
+57601,57,MissedShots,0.865999984741211,0.47400001525878904,0.12723900377750397,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,117,Manchester City,Watford,2,0,2015-08-29 18:00:00,Raheem Sterling,Pass,619
+58160,8,MissedShots,0.8159999847412109,0.33,0.5436990261077881,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,137,Manchester City,West Ham,1,2,2015-09-19 20:30:00,,TakeOn,619
+58165,38,MissedShots,0.8480000305175781,0.6880000305175781,0.03936870023608208,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,137,Manchester City,West Ham,1,2,2015-09-19 20:30:00,Raheem Sterling,Pass,619
+58167,39,SavedShot,0.9790000152587891,0.435,0.566877007484436,Sergio Agüero,h,619,OpenPlay,2015,LeftFoot,137,Manchester City,West Ham,1,2,2015-09-19 20:30:00,,Rebound,619
+58166,39,BlockedShot,0.9569999694824218,0.445,0.4318690001964569,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,137,Manchester City,West Ham,1,2,2015-09-19 20:30:00,Bacary Sagna,Cross,619
+58168,44,MissedShots,0.865999984741211,0.5670000076293945,0.09009569883346558,Sergio Agüero,h,619,OpenPlay,2015,LeftFoot,137,Manchester City,West Ham,1,2,2015-09-19 20:30:00,Kevin De Bruyne,Pass,619
+58504,17,SavedShot,0.765,0.475,0.02766280062496662,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Fernandinho,Pass,619
+58505,19,BlockedShot,0.9219999694824219,0.41,0.12887200713157654,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Bacary Sagna,Pass,619
+58508,26,BlockedShot,0.95,0.28700000762939454,0.10102599859237671,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Yaya Touré,TakeOn,619
+58514,42,BlockedShot,0.8780000305175781,0.625,0.10086899995803833,Sergio Agüero,a,619,OpenPlay,2015,LeftFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Raheem Sterling,Pass,619
+58532,79,BlockedShot,0.8480000305175781,0.695,0.045520201325416565,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Aleksandar Kolarov,Pass,619
+58775,11,MissedShots,0.905,0.525,0.09166830033063889,Sergio Agüero,h,619,OpenPlay,2015,Head,154,Manchester City,Newcastle United,6,1,2015-10-03 18:00:00,Aleksandar Kolarov,Cross,619
+58782,33,MissedShots,0.8080000305175781,0.6040000152587891,0.04286399856209755,Sergio Agüero,h,619,OpenPlay,2015,LeftFoot,154,Manchester City,Newcastle United,6,1,2015-10-03 18:00:00,Fernandinho,Pass,619
+58786,41,Goal,0.965999984741211,0.47200000762939454,0.4799630045890808,Sergio Agüero,h,619,FromCorner,2015,Head,154,Manchester City,Newcastle United,6,1,2015-10-03 18:00:00,Fernandinho,HeadPass,619
+58790,48,Goal,0.8480000305175781,0.4640000152587891,0.0933464989066124,Sergio Agüero,h,619,OpenPlay,2015,LeftFoot,154,Manchester City,Newcastle United,6,1,2015-10-03 18:00:00,David Silva,Pass,619
+58791,49,Goal,0.8209999847412109,0.4470000076293945,0.325888991355896,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,154,Manchester City,Newcastle United,6,1,2015-10-03 18:00:00,Kevin De Bruyne,Throughball,619
+58793,57,ShotOnPost,0.955999984741211,0.5820000076293945,0.13759100437164307,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,154,Manchester City,Newcastle United,6,1,2015-10-03 18:00:00,Aleksandar Kolarov,Cross,619
+58794,59,Goal,0.8159999847412109,0.6469999694824219,0.13281799852848053,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,154,Manchester City,Newcastle United,6,1,2015-10-03 18:00:00,David Silva,Throughball,619
+58795,61,Goal,0.9619999694824218,0.45599998474121095,0.6003680229187012,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,154,Manchester City,Newcastle United,6,1,2015-10-03 18:00:00,Kevin De Bruyne,Cross,619
+54053,43,Goal,0.7769999694824219,0.5509999847412109,0.03668459877371788,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,208,Manchester City,Liverpool,1,4,2015-11-21 21:30:00,Aleksandar Kolarov,BallRecovery,619
+54061,63,SavedShot,0.8490000152587891,0.519000015258789,0.09659220278263092,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,208,Manchester City,Liverpool,1,4,2015-11-21 21:30:00,Raheem Sterling,TakeOn,619
+56195,12,SavedShot,0.8969999694824219,0.45299999237060545,0.4044780135154724,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,215,Manchester City,Southampton,3,1,2015-11-28 19:00:00,Fabian Delph,Throughball,619
+56198,18,BlockedShot,0.97,0.3370000076293945,0.08824200183153152,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,215,Manchester City,Southampton,3,1,2015-11-28 19:00:00,Kevin De Bruyne,Pass,619
+55532,51,SavedShot,0.8530000305175781,0.53,0.09474840015172958,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Kevin De Bruyne,Pass,619
+55534,54,SavedShot,0.8630000305175781,0.5570000076293945,0.0286507997661829,Sergio Agüero,a,619,SetPiece,2015,Head,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Aleksandar Kolarov,Cross,619
+53061,11,MissedShots,0.9640000152587891,0.6819999694824219,0.06652949750423431,Sergio Agüero,a,619,OpenPlay,2015,LeftFoot,269,Leicester,Manchester City,0,0,2015-12-29 23:45:00,Aleksandar Kolarov,Pass,619
+53064,18,BlockedShot,0.8780000305175781,0.6530000305175782,0.07409150153398514,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,269,Leicester,Manchester City,0,0,2015-12-29 23:45:00,David Silva,Pass,619
+53071,31,MissedShots,0.794000015258789,0.595999984741211,0.023856300860643387,Sergio Agüero,a,619,FromCorner,2015,RightFoot,269,Leicester,Manchester City,0,0,2015-12-29 23:45:00,,None,619
+53077,45,MissedShots,0.975,0.45799999237060546,0.551181972026825,Sergio Agüero,a,619,FromCorner,2015,LeftFoot,269,Leicester,Manchester City,0,0,2015-12-29 23:45:00,Kevin De Bruyne,Cross,619
+53078,50,BlockedShot,0.87,0.5609999847412109,0.10140299797058105,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,269,Leicester,Manchester City,0,0,2015-12-29 23:45:00,Raheem Sterling,Pass,619
+52371,28,MissedShots,0.919000015258789,0.6619999694824219,0.06048009917140007,Sergio Agüero,a,619,OpenPlay,2015,LeftFoot,278,Watford,Manchester City,1,2,2016-01-02 21:30:00,Kevin De Bruyne,BallRecovery,619
+52383,69,BlockedShot,0.875999984741211,0.6179999923706054,0.04003880172967911,Sergio Agüero,a,619,FromCorner,2015,LeftFoot,278,Watford,Manchester City,1,2,2016-01-02 21:30:00,Kevin De Bruyne,Cross,619
+52388,83,Goal,0.899000015258789,0.5629999923706055,0.06362149864435196,Sergio Agüero,a,619,OpenPlay,2015,Head,278,Watford,Manchester City,1,2,2016-01-02 21:30:00,Bacary Sagna,Cross,619
+54424,60,SavedShot,0.8680000305175781,0.5770000076293945,0.04360000044107437,Sergio Agüero,h,619,FromCorner,2015,RightFoot,288,Manchester City,Everton,0,0,2016-01-13 23:45:00,Kevin De Bruyne,Cross,619
+54427,68,SavedShot,0.925,0.6079999923706054,0.3450410068035126,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,288,Manchester City,Everton,0,0,2016-01-13 23:45:00,Yaya Touré,Throughball,619
+54435,80,MissedShots,0.975,0.34,0.08086500316858292,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,288,Manchester City,Everton,0,0,2016-01-13 23:45:00,David Silva,Pass,619
+52249,37,MissedShots,0.9569999694824218,0.67,0.0825830027461052,Sergio Agüero,h,619,OpenPlay,2015,LeftFoot,292,Manchester City,Crystal Palace,4,0,2016-01-16 19:00:00,David Silva,Pass,619
+52250,40,Goal,0.7609999847412109,0.685,0.018330000340938568,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,292,Manchester City,Crystal Palace,4,0,2016-01-16 19:00:00,Kelechi Iheanacho,Pass,619
+52251,44,BlockedShot,0.92,0.625,0.0977884978055954,Sergio Agüero,h,619,OpenPlay,2015,LeftFoot,292,Manchester City,Crystal Palace,4,0,2016-01-16 19:00:00,,None,619
+52255,45,MissedShots,0.8780000305175781,0.285,0.03844999894499779,Sergio Agüero,h,619,FromCorner,2015,LeftFoot,292,Manchester City,Crystal Palace,4,0,2016-01-16 19:00:00,Fernando,Rebound,619
+52258,67,Goal,0.95,0.5370000076293945,0.6436330080032349,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,292,Manchester City,Crystal Palace,4,0,2016-01-16 19:00:00,Kevin De Bruyne,Pass,619
+52947,6,ShotOnPost,0.9059999847412109,0.745,0.03814920037984848,Sergio Agüero,a,619,SetPiece,2015,LeftFoot,308,West Ham,Manchester City,2,2,2016-01-23 21:30:00,Yaya Touré,Chipped,619
+52948,8,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,a,619,Penalty,2015,RightFoot,308,West Ham,Manchester City,2,2,2016-01-23 21:30:00,,Standard,619
+52959,71,MissedShots,0.915,0.4209999847412109,0.03336159884929657,Sergio Agüero,a,619,OpenPlay,2015,Head,308,West Ham,Manchester City,2,2,2016-01-23 21:30:00,Bacary Sagna,Aerial,619
+52962,80,Goal,0.905,0.4929999923706055,0.3689909875392914,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,308,West Ham,Manchester City,2,2,2016-01-23 21:30:00,,BallTouch,619
+52963,81,BlockedShot,0.7419999694824219,0.4540000152587891,0.018505200743675232,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,308,West Ham,Manchester City,2,2,2016-01-23 21:30:00,Kelechi Iheanacho,Pass,619
+52965,85,BlockedShot,0.8540000152587891,0.315,0.042712099850177765,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,308,West Ham,Manchester City,2,2,2016-01-23 21:30:00,Kevin De Bruyne,Pass,619
+52969,92,SavedShot,0.86,0.435,0.09628749638795853,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,308,West Ham,Manchester City,2,2,2016-01-23 21:30:00,Yaya Touré,Pass,619
+53971,8,MissedShots,0.779000015258789,0.30100000381469727,0.01589520089328289,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,314,Sunderland,Manchester City,0,1,2016-02-02 23:45:00,,None,619
+53973,15,Goal,0.9280000305175782,0.555,0.4626910090446472,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,314,Sunderland,Manchester City,0,1,2016-02-02 23:45:00,,Rebound,619
+53974,26,BlockedShot,0.8109999847412109,0.6480000305175782,0.04662239924073219,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,314,Sunderland,Manchester City,0,1,2016-02-02 23:45:00,Kelechi Iheanacho,Pass,619
+53980,60,SavedShot,0.8219999694824218,0.6880000305175781,0.022137600928544998,Sergio Agüero,a,619,FromCorner,2015,RightFoot,314,Sunderland,Manchester City,0,1,2016-02-02 23:45:00,Fernandinho,Pass,619
+52658,31,SavedShot,0.899000015258789,0.265,0.036158498376607895,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,321,Manchester City,Leicester,1,3,2016-02-06 16:45:00,Martín Demichelis,Pass,619
+52677,75,BlockedShot,0.8969999694824219,0.629000015258789,0.05129630118608475,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,321,Manchester City,Leicester,1,3,2016-02-06 16:45:00,Fernandinho,Chipped,619
+52678,75,SavedShot,0.785,0.68,0.01835780031979084,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,321,Manchester City,Leicester,1,3,2016-02-06 16:45:00,Aleksandar Kolarov,Pass,619
+52681,86,Goal,0.9319999694824219,0.415,0.2259169965982437,Sergio Agüero,h,619,FromCorner,2015,Head,321,Manchester City,Leicester,1,3,2016-02-06 16:45:00,Bersant Celina,Cross,619
+52682,88,MissedShots,0.9769999694824218,0.664000015258789,0.2787429988384247,Sergio Agüero,h,619,OpenPlay,2015,LeftFoot,321,Manchester City,Leicester,1,3,2016-02-06 16:45:00,,Interception,619
+55617,9,MissedShots,0.9180000305175782,0.42400001525878905,0.1006930023431778,Sergio Agüero,h,619,FromCorner,2015,LeftFoot,340,Manchester City,Tottenham,1,2,2016-02-14 20:15:00,Fernando,HeadPass,619
+55622,32,BlockedShot,0.919000015258789,0.710999984741211,0.07205600291490555,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,340,Manchester City,Tottenham,1,2,2016-02-14 20:15:00,,TakeOn,619
+55626,48,MissedShots,0.935,0.3940000152587891,0.3510130047798157,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,340,Manchester City,Tottenham,1,2,2016-02-14 20:15:00,,Rebound,619
+55630,60,BlockedShot,0.8809999847412109,0.66,0.057763900607824326,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,340,Manchester City,Tottenham,1,2,2016-02-14 20:15:00,Fernandinho,Pass,619
+55635,81,BlockedShot,0.850999984741211,0.37099998474121093,0.03979840129613876,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,340,Manchester City,Tottenham,1,2,2016-02-14 20:15:00,Kelechi Iheanacho,HeadPass,619
+61178,45,BlockedShot,0.9259999847412109,0.5420000076293945,0.12865899503231049,Sergio Agüero,a,619,SetPiece,2015,Head,357,Liverpool,Manchester City,3,0,2016-03-03 00:00:00,David Silva,Cross,619
+59926,10,SavedShot,0.9330000305175781,0.38,0.25082099437713623,Sergio Agüero,h,619,FromCorner,2015,LeftFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Fernandinho,Chipped,619
+59929,17,SavedShot,0.8680000305175781,0.61,0.09213849902153015,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Yaya Touré,Pass,619
+59932,23,MissedShots,0.865,0.605999984741211,0.09463589638471603,Sergio Agüero,h,619,OpenPlay,2015,LeftFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Wilfried Bony,LayOff,619
+59938,45,MissedShots,0.9580000305175781,0.6659999847412109,0.061377499252557755,Sergio Agüero,h,619,OpenPlay,2015,LeftFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Yaya Touré,Chipped,619
+59940,49,Goal,0.8930000305175781,0.5359999847412109,0.11708399653434753,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,,None,619
+59941,58,BlockedShot,0.8169999694824219,0.5129999923706055,0.08616179972887039,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Jesús Navas,Pass,619
+59943,59,Goal,0.9159999847412109,0.68,0.09781160205602646,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,David Silva,Chipped,619
+59953,72,ShotOnPost,0.885,0.5,0.7611690163612366,Sergio Agüero,h,619,Penalty,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,,Standard,619
+59527,5,BlockedShot,0.9259999847412109,0.710999984741211,0.04641539976000786,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,369,Norwich,Manchester City,0,0,2016-03-12 16:45:00,,None,619
+59532,14,SavedShot,0.735999984741211,0.515,0.05518399924039841,Sergio Agüero,a,619,DirectFreekick,2015,RightFoot,369,Norwich,Manchester City,0,0,2016-03-12 16:45:00,,Standard,619
+59534,18,MissedShots,0.7780000305175782,0.61,0.028639400377869606,Sergio Agüero,a,619,OpenPlay,2015,LeftFoot,369,Norwich,Manchester City,0,0,2016-03-12 16:45:00,Fernandinho,Pass,619
+59537,28,SavedShot,0.86,0.3509999847412109,0.020926300436258316,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,369,Norwich,Manchester City,0,0,2016-03-12 16:45:00,,Aerial,619
+59548,88,MissedShots,0.8159999847412109,0.649000015258789,0.03918769955635071,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,369,Norwich,Manchester City,0,0,2016-03-12 16:45:00,Gaël Clichy,TakeOn,619
+60275,55,MissedShots,0.935,0.25799999237060545,0.02852509915828705,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,382,Manchester City,Manchester United,0,1,2016-03-20 20:00:00,Gaël Clichy,Chipped,619
+60278,65,ShotOnPost,0.9530000305175781,0.42400001525878905,0.11088600009679794,Sergio Agüero,h,619,OpenPlay,2015,Head,382,Manchester City,Manchester United,0,1,2016-03-20 20:00:00,Yaya Touré,Cross,619
+60280,69,MissedShots,0.7559999847412109,0.59,0.02239299938082695,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,382,Manchester City,Manchester United,0,1,2016-03-20 20:00:00,David Silva,Pass,619
+60281,70,MissedShots,0.9590000152587891,0.595999984741211,0.1822880059480667,Sergio Agüero,h,619,OpenPlay,2015,Head,382,Manchester City,Manchester United,0,1,2016-03-20 20:00:00,David Silva,Cross,619
+60289,90,MissedShots,0.9019999694824219,0.6229999923706054,0.07221619784832001,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,382,Manchester City,Manchester United,0,1,2016-03-20 20:00:00,David Silva,Chipped,619
+59572,14,MissedShots,0.750999984741211,0.435,0.03118019923567772,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Kevin De Bruyne,Pass,619
+59581,18,Goal,0.95,0.55,0.08359459787607193,Sergio Agüero,a,619,OpenPlay,2015,Head,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Jesús Navas,Aerial,619
+59595,36,MissedShots,0.8730000305175781,0.30700000762939456,0.07281280308961868,Sergio Agüero,a,619,OpenPlay,2015,LeftFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Pablo Zabaleta,TakeOn,619
+59604,46,MissedShots,0.8480000305175781,0.6959999847412109,0.06018399819731712,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,Kevin De Bruyne,Pass,619
+60710,18,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,h,619,Penalty,2015,RightFoot,400,Manchester City,West Bromwich Albion,2,1,2016-04-09 20:30:00,,Standard,619
+60724,54,SavedShot,0.7340000152587891,0.5729999923706055,0.019579699262976646,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,400,Manchester City,West Bromwich Albion,2,1,2016-04-09 20:30:00,Fernando,Pass,619
+60726,65,BlockedShot,0.895,0.4540000152587891,0.12997500598430634,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,400,Manchester City,West Bromwich Albion,2,1,2016-04-09 20:30:00,Jesús Navas,Pass,619
+60731,76,SavedShot,0.8880000305175781,0.3139999961853027,0.10114499926567078,Sergio Agüero,h,619,SetPiece,2015,RightFoot,400,Manchester City,West Bromwich Albion,2,1,2016-04-09 20:30:00,Yaya Touré,Throughball,619
+56248,2,BlockedShot,0.9259999847412109,0.44099998474121094,0.46105799078941345,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,410,Chelsea,Manchester City,0,3,2016-04-16 20:30:00,Kevin De Bruyne,Pass,619
+56257,32,Goal,0.8119999694824219,0.46799999237060547,0.08900909870862961,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,410,Chelsea,Manchester City,0,3,2016-04-16 20:30:00,,None,619
+56260,53,Goal,0.8959999847412109,0.345,0.5074800252914429,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,410,Chelsea,Manchester City,0,3,2016-04-16 20:30:00,Samir Nasri,Throughball,619
+56265,79,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,a,619,Penalty,2015,RightFoot,410,Chelsea,Manchester City,0,3,2016-04-16 20:30:00,,Standard,619
+59782,13,Goal,0.9230000305175782,0.5509999847412109,0.12084399908781052,Sergio Agüero,a,619,SetPiece,2015,Head,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,Aleksandar Kolarov,Cross,619
+59789,62,SavedShot,0.8590000152587891,0.5179999923706055,0.10316599905490875,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,Jesús Navas,Pass,619
+56278,42,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,h,619,Penalty,2015,RightFoot,420,Manchester City,Stoke,4,0,2016-04-23 15:45:00,,Standard,619
+56544,7,Goal,0.8530000305175781,0.40599998474121096,0.04265160113573074,Sergio Agüero,h,619,OpenPlay,2015,LeftFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Fernandinho,HeadPass,619
+56546,15,BlockedShot,0.865999984741211,0.5729999923706055,0.07403519749641418,Sergio Agüero,h,619,OpenPlay,2015,RightFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,,None,619
+56559,72,MissedShots,0.915,0.39599998474121095,0.05096219852566719,Sergio Agüero,h,619,FromCorner,2015,LeftFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Kevin De Bruyne,Cross,619
+56560,73,MissedShots,0.91,0.6680000305175782,0.06155410036444664,Sergio Agüero,h,619,OpenPlay,2015,LeftFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Kevin De Bruyne,Chipped,619
+52170,4,SavedShot,0.9230000305175782,0.5420000076293945,0.4972369968891144,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,457,Swansea,Manchester City,1,1,2016-05-15 18:00:00,Kevin De Bruyne,Pass,619
+52172,10,MissedShots,0.9469999694824218,0.2989999961853027,0.12518399953842163,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,457,Swansea,Manchester City,1,1,2016-05-15 18:00:00,Jesús Navas,Throughball,619
+52175,26,SavedShot,0.9290000152587891,0.5629999923706055,0.13231000304222107,Sergio Agüero,a,619,OpenPlay,2015,LeftFoot,457,Swansea,Manchester City,1,1,2016-05-15 18:00:00,Fernandinho,Cross,619
+52177,27,MissedShots,0.8830000305175781,0.7609999847412109,0.03480749949812889,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,457,Swansea,Manchester City,1,1,2016-05-15 18:00:00,Kevin De Bruyne,Pass,619
+52188,62,MissedShots,0.865999984741211,0.46599998474121096,0.07969850301742554,Sergio Agüero,a,619,OpenPlay,2015,RightFoot,457,Swansea,Manchester City,1,1,2016-05-15 18:00:00,,None,619
+112269,3,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,h,619,Penalty,2016,RightFoot,467,Manchester City,Sunderland,2,1,2016-08-13 20:30:00,,Standard,619
+112271,9,SavedShot,0.8590000152587891,0.3940000152587891,0.023727500811219215,Sergio Agüero,h,619,FromCorner,2016,LeftFoot,467,Manchester City,Sunderland,2,1,2016-08-13 20:30:00,,Aerial,619
+112273,19,MissedShots,0.745999984741211,0.6179999923706054,0.024699099361896515,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,467,Manchester City,Sunderland,2,1,2016-08-13 20:30:00,David Silva,TakeOn,619
+112280,45,BlockedShot,0.8469999694824218,0.43599998474121093,0.084197998046875,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,467,Manchester City,Sunderland,2,1,2016-08-13 20:30:00,Raheem Sterling,Pass,619
+112281,59,MissedShots,0.8830000305175781,0.5529999923706055,0.11287099868059158,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,467,Manchester City,Sunderland,2,1,2016-08-13 20:30:00,,Dispossessed,619
+112282,60,BlockedShot,0.895,0.4209999847412109,0.12514300644397736,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,467,Manchester City,Sunderland,2,1,2016-08-13 20:30:00,Kevin De Bruyne,Pass,619
+112694,10,BlockedShot,0.8930000305175781,0.23299999237060548,0.029666399583220482,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,472,Stoke,Manchester City,1,4,2016-08-20 15:30:00,Jesús Navas,Pass,619
+112700,26,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,a,619,Penalty,2016,RightFoot,472,Stoke,Manchester City,1,4,2016-08-20 15:30:00,,Standard,619
+112701,27,SavedShot,0.905,0.325,0.08851400017738342,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,472,Stoke,Manchester City,1,4,2016-08-20 15:30:00,Jesús Navas,Pass,619
+112703,35,Goal,0.8959999847412109,0.4370000076293945,0.06406229734420776,Sergio Agüero,a,619,SetPiece,2016,Head,472,Stoke,Manchester City,1,4,2016-08-20 15:30:00,Kevin De Bruyne,Cross,619
+113023,2,MissedShots,0.8090000152587891,0.45599998474121095,0.05501290038228035,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,,TakeOn,619
+113033,21,MissedShots,0.95,0.48700000762939455,0.13845400512218475,Sergio Agüero,h,619,SetPiece,2016,Head,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Kevin De Bruyne,Cross,619
+113039,53,MissedShots,0.8669999694824219,0.6430000305175781,0.12621399760246277,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Raheem Sterling,TakeOn,619
+113042,65,MissedShots,0.914000015258789,0.675,0.08563429862260818,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Kevin De Bruyne,Pass,619
+113044,78,BlockedShot,0.855,0.5070000076293946,0.11367499828338623,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Fernandinho,Pass,619
+113919,8,Goal,0.9519999694824218,0.34200000762939453,0.0828976035118103,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,515,Swansea,Manchester City,1,3,2016-09-24 15:00:00,Bacary Sagna,Pass,619
+113924,29,MissedShots,0.8159999847412109,0.6880000305175781,0.030164599418640137,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,515,Swansea,Manchester City,1,3,2016-09-24 15:00:00,David Silva,Pass,619
+113935,56,BlockedShot,0.919000015258789,0.575,0.13114699721336365,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,515,Swansea,Manchester City,1,3,2016-09-24 15:00:00,David Silva,Pass,619
+113938,64,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,a,619,Penalty,2016,RightFoot,515,Swansea,Manchester City,1,3,2016-09-24 15:00:00,,Standard,619
+114529,27,MissedShots,0.8090000152587891,0.27,0.020596500486135483,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,529,Tottenham,Manchester City,2,0,2016-10-02 17:15:00,David Silva,TakeOn,619
+114530,30,SavedShot,0.8009999847412109,0.6079999923706054,0.10360600054264069,Sergio Agüero,a,619,DirectFreekick,2016,RightFoot,529,Tottenham,Manchester City,2,0,2016-10-02 17:15:00,,Standard,619
+114535,49,SavedShot,0.925,0.6819999694824219,0.08947079628705978,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,529,Tottenham,Manchester City,2,0,2016-10-02 17:15:00,Fernandinho,Throughball,619
+114544,79,SavedShot,0.8809999847412109,0.590999984741211,0.09804549813270569,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,529,Tottenham,Manchester City,2,0,2016-10-02 17:15:00,David Silva,Pass,619
+114546,87,BlockedShot,0.85,0.534000015258789,0.09564690291881561,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,529,Tottenham,Manchester City,2,0,2016-10-02 17:15:00,David Silva,Pass,619
+114547,89,BlockedShot,0.78,0.4759999847412109,0.0389661006629467,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,529,Tottenham,Manchester City,2,0,2016-10-02 17:15:00,Nicolás Otamendi,Pass,619
+114548,91,SavedShot,0.885,0.539000015258789,0.10393600165843964,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,529,Tottenham,Manchester City,2,0,2016-10-02 17:15:00,Kelechi Iheanacho,Pass,619
+114012,69,SavedShot,0.885,0.5,0.7611690163612366,Sergio Agüero,h,619,Penalty,2016,RightFoot,534,Manchester City,Everton,1,1,2016-10-15 18:00:00,,Standard,619
+114013,70,SavedShot,0.8490000152587891,0.44299999237060544,0.06757529824972153,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,534,Manchester City,Everton,1,1,2016-10-15 18:00:00,David Silva,Pass,619
+114506,40,MissedShots,0.81,0.325,0.03544149920344353,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,549,Manchester City,Southampton,1,1,2016-10-23 16:30:00,Ilkay Gündogan,TakeOn,619
+114516,76,MissedShots,0.9080000305175782,0.42400001525878905,0.05897679924964905,Sergio Agüero,h,619,FromCorner,2016,Head,549,Manchester City,Southampton,1,1,2016-10-23 16:30:00,Raheem Sterling,Cross,619
+114517,83,MissedShots,0.92,0.6669999694824219,0.11166299879550934,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,549,Manchester City,Southampton,1,1,2016-10-23 16:30:00,Ilkay Gündogan,TakeOn,619
+115033,9,MissedShots,0.7290000152587891,0.5320000076293945,0.021695299074053764,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,Fernandinho,Pass,619
+115036,18,Goal,0.9219999694824219,0.3120000076293945,0.11805599927902222,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,Ilkay Gündogan,Throughball,619
+115040,27,Goal,0.8130000305175781,0.5420000076293945,0.06541190296411514,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,,None,619
+115046,48,BlockedShot,0.8419999694824218,0.68,0.04658450186252594,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,David Silva,Pass,619
+115047,49,BlockedShot,0.8440000152587891,0.4540000152587891,0.18768499791622162,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,John Stones,TakeOn,619
+115266,25,SavedShot,0.8159999847412109,0.44599998474121094,0.0496332012116909,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,2689,Manchester City,Middlesbrough,1,1,2016-11-05 19:00:00,,None,619
+115268,30,SavedShot,0.8819999694824219,0.5770000076293945,0.08117459714412689,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,2689,Manchester City,Middlesbrough,1,1,2016-11-05 19:00:00,,None,619
+115269,31,BlockedShot,0.8580000305175781,0.5520000076293945,0.09531930088996887,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,2689,Manchester City,Middlesbrough,1,1,2016-11-05 19:00:00,David Silva,Pass,619
+115272,34,BlockedShot,0.9219999694824219,0.42900001525878906,0.11007899791002274,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,2689,Manchester City,Middlesbrough,1,1,2016-11-05 19:00:00,Kevin De Bruyne,Cross,619
+115274,36,SavedShot,0.845999984741211,0.649000015258789,0.053914301097393036,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,2689,Manchester City,Middlesbrough,1,1,2016-11-05 19:00:00,Kevin De Bruyne,Pass,619
+115276,42,Goal,0.95,0.48200000762939454,0.5914049744606018,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,2689,Manchester City,Middlesbrough,1,1,2016-11-05 19:00:00,Kevin De Bruyne,Cross,619
+115282,66,MissedShots,0.955,0.5309999847412109,0.15244700014591217,Sergio Agüero,h,619,OpenPlay,2016,Head,2689,Manchester City,Middlesbrough,1,1,2016-11-05 19:00:00,Kevin De Bruyne,Cross,619
+115286,84,MissedShots,0.8780000305175781,0.4540000152587891,0.36853501200675964,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,2689,Manchester City,Middlesbrough,1,1,2016-11-05 19:00:00,Jesús Navas,Pass,619
+115414,32,MissedShots,0.93,0.5590000152587891,0.11504899710416794,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,2703,Crystal Palace,Manchester City,1,2,2016-11-19 19:00:00,Aleksandar Kolarov,Cross,619
+115419,58,BlockedShot,0.8730000305175781,0.6990000152587891,0.053887899965047836,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,2703,Crystal Palace,Manchester City,1,2,2016-11-19 19:00:00,Nolito,Pass,619
+115420,58,MissedShots,0.8780000305175781,0.4209999847412109,0.07070189714431763,Sergio Agüero,a,619,FromCorner,2016,LeftFoot,2703,Crystal Palace,Manchester City,1,2,2016-11-19 19:00:00,,None,619
+115422,64,BlockedShot,0.9359999847412109,0.40799999237060547,0.10843800008296967,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,2703,Crystal Palace,Manchester City,1,2,2016-11-19 19:00:00,Kevin De Bruyne,Cross,619
+116157,6,SavedShot,0.7869999694824219,0.6930000305175781,0.02414499968290329,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,2707,Burnley,Manchester City,1,2,2016-11-26 16:30:00,Gaël Clichy,Pass,619
+116160,18,BlockedShot,0.8630000305175781,0.5729999923706055,0.061575599014759064,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,2707,Burnley,Manchester City,1,2,2016-11-26 16:30:00,Nolito,Rebound,619
+116165,29,MissedShots,0.8109999847412109,0.5309999847412109,0.0705133005976677,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,2707,Burnley,Manchester City,1,2,2016-11-26 16:30:00,Fernandinho,LayOff,619
+116169,36,Goal,0.9590000152587891,0.5379999923706055,0.6332060098648071,Sergio Agüero,a,619,FromCorner,2016,RightFoot,2707,Burnley,Manchester City,1,2,2016-11-26 16:30:00,Nicolás Otamendi,Rebound,619
+116170,38,SavedShot,0.7809999847412109,0.40400001525878904,0.030578099191188812,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,2707,Burnley,Manchester City,1,2,2016-11-26 16:30:00,Yaya Touré,Pass,619
+116173,46,BlockedShot,0.9180000305175782,0.38299999237060545,0.11244600266218185,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,2707,Burnley,Manchester City,1,2,2016-11-26 16:30:00,Raheem Sterling,Pass,619
+116177,59,Goal,0.9590000152587891,0.45799999237060546,0.6350700259208679,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,2707,Burnley,Manchester City,1,2,2016-11-26 16:30:00,Fernandinho,Pass,619
+115649,20,SavedShot,0.7859999847412109,0.5840000152587891,0.03460630029439926,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,3105,Manchester City,Chelsea,1,3,2016-12-03 16:30:00,Aleksandar Kolarov,Pass,619
+115650,26,MissedShots,0.8830000305175781,0.634000015258789,0.07043729722499847,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,3105,Manchester City,Chelsea,1,3,2016-12-03 16:30:00,David Silva,Chipped,619
+115652,33,BlockedShot,0.9130000305175782,0.4640000152587891,0.49145498871803284,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,3105,Manchester City,Chelsea,1,3,2016-12-03 16:30:00,Leroy Sané,Pass,619
+115654,42,MissedShots,0.9590000152587891,0.5259999847412109,0.14778000116348267,Sergio Agüero,h,619,OpenPlay,2016,Head,3105,Manchester City,Chelsea,1,3,2016-12-03 16:30:00,Kevin De Bruyne,Cross,619
+115660,52,BlockedShot,0.8819999694824219,0.355,0.3391689956188202,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3105,Manchester City,Chelsea,1,3,2016-12-03 16:30:00,,BallRecovery,619
+115663,61,SavedShot,0.879000015258789,0.39799999237060546,0.09698539972305298,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3105,Manchester City,Chelsea,1,3,2016-12-03 16:30:00,Kevin De Bruyne,Pass,619
+117498,10,MissedShots,0.8159999847412109,0.37099998474121093,0.0476653017103672,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,Raheem Sterling,TakeOn,619
+117505,53,SavedShot,0.7669999694824219,0.46299999237060546,0.027987400069832802,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,David Silva,Pass,619
+116449,61,Goal,0.9530000305175781,0.285,0.05965249985456467,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Raheem Sterling,None,619
+116450,64,MissedShots,0.774000015258789,0.6140000152587891,0.032312698662281036,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Raheem Sterling,BallRecovery,619
+116454,73,BlockedShot,0.905,0.40200000762939453,0.1257839947938919,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Kevin De Bruyne,Pass,619
+116456,85,MissedShots,0.795,0.57,0.051691800355911255,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Raheem Sterling,Pass,619
+117284,71,MissedShots,0.8109999847412109,0.2620000076293945,0.018481900915503502,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,David Silva,Pass,619
+117287,79,SavedShot,0.9259999847412109,0.3089999961853027,0.08410400152206421,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,,TakeOn,619
+117290,90,BlockedShot,0.795,0.5590000152587891,0.04766739904880524,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,David Silva,Pass,619
+118487,11,MissedShots,0.845,0.37900001525878907,0.060039300471544266,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,3356,Manchester City,Tottenham,2,2,2017-01-21 20:30:00,Pablo Zabaleta,BallRecovery,619
+118494,36,SavedShot,0.914000015258789,0.5570000076293945,0.2996219992637634,Sergio Agüero,h,619,OpenPlay,2016,Head,3356,Manchester City,Tottenham,2,2,2017-01-21 20:30:00,Kevin De Bruyne,Cross,619
+118495,37,SavedShot,0.9130000305175782,0.6370000076293946,0.06389480084180832,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,3356,Manchester City,Tottenham,2,2,2017-01-21 20:30:00,Pablo Zabaleta,BallRecovery,619
+116869,91,BlockedShot,0.87,0.37400001525878906,0.09997189790010452,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3378,Manchester City,Swansea,2,1,2017-02-05 13:30:00,Gabriel Jesus,TakeOn,619
+116872,94,MissedShots,0.925,0.5609999847412109,0.3111180067062378,Sergio Agüero,h,619,OpenPlay,2016,Head,3378,Manchester City,Swansea,2,1,2017-02-05 13:30:00,Yaya Touré,Chipped,619
+117459,18,BlockedShot,0.9030000305175782,0.39799999237060546,0.0774909034371376,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3389,Bournemouth,Manchester City,0,2,2017-02-13 20:00:00,Raheem Sterling,Cross,619
+117467,31,SavedShot,0.845,0.34599998474121096,0.04870789870619774,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3389,Bournemouth,Manchester City,0,2,2017-02-13 20:00:00,,Rebound,619
+117468,36,MissedShots,0.91,0.47200000762939454,0.34917598962783813,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3389,Bournemouth,Manchester City,0,2,2017-02-13 20:00:00,Bacary Sagna,Cross,619
+117472,52,BlockedShot,0.789000015258789,0.5970000076293945,0.05740800127387047,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3389,Bournemouth,Manchester City,0,2,2017-02-13 20:00:00,Leroy Sané,TakeOn,619
+117475,68,MissedShots,0.9630000305175781,0.5529999923706055,0.628508985042572,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3389,Bournemouth,Manchester City,0,2,2017-02-13 20:00:00,Raheem Sterling,Pass,619
+119778,41,Goal,0.97,0.42900001525878906,0.5683180093765259,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3404,Sunderland,Manchester City,0,2,2017-03-05 16:00:00,,None,619
+119781,56,BlockedShot,0.815,0.534000015258789,0.07693450152873993,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,3404,Sunderland,Manchester City,0,2,2017-03-05 16:00:00,David Silva,Pass,619
+119789,83,SavedShot,0.855,0.3770000076293945,0.08373620361089706,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3404,Sunderland,Manchester City,0,2,2017-03-05 16:00:00,Kevin De Bruyne,Pass,619
+119792,87,SavedShot,0.7969999694824219,0.5059999847412109,0.060399699956178665,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,3404,Sunderland,Manchester City,0,2,2017-03-05 16:00:00,Leroy Sané,Pass,619
+119793,92,BlockedShot,0.9569999694824218,0.4129999923706055,0.1402990072965622,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3404,Sunderland,Manchester City,0,2,2017-03-05 16:00:00,Bacary Sagna,Pass,619
+119432,18,BlockedShot,0.7580000305175781,0.669000015258789,0.015629200264811516,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3418,Manchester City,Stoke,0,0,2017-03-08 20:00:00,Leroy Sané,Pass,619
+119437,54,BlockedShot,0.8090000152587891,0.5320000076293945,0.08807980269193649,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3418,Manchester City,Stoke,0,0,2017-03-08 20:00:00,Leroy Sané,Pass,619
+119445,86,MissedShots,0.94,0.6759999847412109,0.10851600021123886,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,3418,Manchester City,Stoke,0,0,2017-03-08 20:00:00,Gaël Clichy,TakeOn,619
+120042,68,Goal,0.9290000152587891,0.4779999923706055,0.4271099865436554,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3426,Manchester City,Liverpool,1,1,2017-03-19 16:30:00,Kevin De Bruyne,Cross,619
+120044,75,BlockedShot,0.93,0.509000015258789,0.14889900386333466,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3426,Manchester City,Liverpool,1,1,2017-03-19 16:30:00,Leroy Sané,Pass,619
+120048,86,MissedShots,0.9519999694824218,0.4329999923706055,0.1454409956932068,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3426,Manchester City,Liverpool,1,1,2017-03-19 16:30:00,David Silva,Pass,619
+120049,90,MissedShots,0.93,0.5940000152587891,0.313634991645813,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3426,Manchester City,Liverpool,1,1,2017-03-19 16:30:00,Kevin De Bruyne,Cross,619
+120050,93,MissedShots,0.769000015258789,0.5259999847412109,0.027975400909781456,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3426,Manchester City,Liverpool,1,1,2017-03-19 16:30:00,,None,619
+119059,41,Goal,0.9630000305175781,0.33799999237060546,0.07902819663286209,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,David Silva,Pass,619
+119062,51,MissedShots,0.9459999847412109,0.425,0.35743099451065063,Sergio Agüero,a,619,OpenPlay,2016,Head,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,Jesús Navas,Cross,619
+119065,65,SavedShot,0.9369999694824219,0.435,0.09984520077705383,Sergio Agüero,a,619,FromCorner,2016,Head,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,Jesús Navas,Cross,619
+119070,88,BlockedShot,0.845999984741211,0.515,0.05873759835958481,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,3430,Arsenal,Manchester City,2,2,2017-04-02 16:00:00,Jesús Navas,Cross,619
+119405,12,BlockedShot,0.8480000305175781,0.6459999847412109,0.087574802339077,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,Leroy Sané,Pass,619
+119408,20,SavedShot,0.815,0.48400001525878905,0.05951070040464401,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,David Silva,Pass,619
+119411,25,Goal,0.9169999694824219,0.49700000762939456,0.49341100454330444,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,,Rebound,619
+119415,35,BlockedShot,0.8119999694824219,0.48700000762939455,0.05355120077729225,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,David Silva,Pass,619
+119426,79,MissedShots,0.9519999694824218,0.29700000762939455,0.04623579978942871,Sergio Agüero,a,619,FromCorner,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,,Rebound,619
+119428,90,SavedShot,0.965999984741211,0.41,0.09569469839334488,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3448,Chelsea,Manchester City,2,1,2017-04-05 20:00:00,Nolito,Chipped,619
+120000,18,MissedShots,0.735,0.6140000152587891,0.01650330051779747,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3457,Manchester City,Hull,3,1,2017-04-08 15:00:00,Gaël Clichy,Pass,619
+120013,47,Goal,0.94,0.534000015258789,0.6016539931297302,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3457,Manchester City,Hull,3,1,2017-04-08 15:00:00,,None,619
+120014,56,BlockedShot,0.8530000305175781,0.47,0.08744589984416962,Sergio Agüero,h,619,OpenPlay,2016,LeftFoot,3457,Manchester City,Hull,3,1,2017-04-08 15:00:00,David Silva,Tackle,619
+120019,78,MissedShots,0.9459999847412109,0.28,0.07174570113420486,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3457,Manchester City,Hull,3,1,2017-04-08 15:00:00,Jesús Navas,Pass,619
+120021,83,MissedShots,0.835,0.3370000076293945,0.027891699224710464,Sergio Agüero,h,619,FromCorner,2016,RightFoot,3457,Manchester City,Hull,3,1,2017-04-08 15:00:00,,None,619
+121295,3,MissedShots,0.9480000305175781,0.4159999847412109,0.10638599842786789,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,Gaël Clichy,Cross,619
+121296,3,MissedShots,0.9319999694824219,0.33599998474121096,0.08304250240325928,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,Kevin De Bruyne,Pass,619
+121297,8,MissedShots,0.8440000152587891,0.6229999923706054,0.035382598638534546,Sergio Agüero,a,619,FromCorner,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,Kevin De Bruyne,Cross,619
+121309,47,BlockedShot,0.8230000305175781,0.620999984741211,0.05139249935746193,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,David Silva,Pass,619
+121307,47,BlockedShot,0.7859999847412109,0.40400001525878904,0.03381989896297455,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,,Dispossessed,619
+121319,79,Goal,0.9769999694824218,0.5570000076293945,0.585457980632782,Sergio Agüero,a,619,OpenPlay,2016,Head,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,Kevin De Bruyne,Cross,619
+118600,8,ShotOnPost,0.9619999694824218,0.46,0.586679995059967,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3398,Manchester City,Manchester United,0,0,2017-04-27 20:00:00,Kevin De Bruyne,Cross,619
+118603,27,MissedShots,0.895,0.5829999923706055,0.014125700108706951,Sergio Agüero,h,619,FromCorner,2016,Head,3398,Manchester City,Manchester United,0,0,2017-04-27 20:00:00,Pablo Zabaleta,Aerial,619
+118604,30,BlockedShot,0.745999984741211,0.3139999961853027,0.01820160076022148,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3398,Manchester City,Manchester United,0,0,2017-04-27 20:00:00,Fernandinho,Pass,619
+118605,31,SavedShot,0.764000015258789,0.5570000076293945,0.027196699753403664,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3398,Manchester City,Manchester United,0,0,2017-04-27 20:00:00,Yaya Touré,Pass,619
+118606,32,BlockedShot,0.8209999847412109,0.3160000038146973,0.03221660107374191,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3398,Manchester City,Manchester United,0,0,2017-04-27 20:00:00,Raheem Sterling,Pass,619
+118607,33,MissedShots,0.8430000305175781,0.4470000076293945,0.10120999813079834,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3398,Manchester City,Manchester United,0,0,2017-04-27 20:00:00,Raheem Sterling,TakeOn,619
+118613,48,SavedShot,0.8380000305175781,0.5479999923706055,0.0813433974981308,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3398,Manchester City,Manchester United,0,0,2017-04-27 20:00:00,Aleksandar Kolarov,Pass,619
+118617,59,MissedShots,0.805,0.41700000762939454,0.041512198746204376,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3398,Manchester City,Manchester United,0,0,2017-04-27 20:00:00,,None,619
+118621,95,MissedShots,0.9769999694824218,0.44299999237060544,0.12453299760818481,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3398,Manchester City,Manchester United,0,0,2017-04-27 20:00:00,Kevin De Bruyne,Cross,619
+120975,7,MissedShots,0.8530000305175781,0.41,0.08469700068235397,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,3483,Middlesbrough,Manchester City,2,2,2017-04-30 14:05:00,Fernandinho,Pass,619
+120992,65,BlockedShot,0.914000015258789,0.634000015258789,0.08536379784345627,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,3483,Middlesbrough,Manchester City,2,2,2017-04-30 14:05:00,Aleksandar Kolarov,Pass,619
+120995,68,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,a,619,Penalty,2016,RightFoot,3483,Middlesbrough,Manchester City,2,2,2017-04-30 14:05:00,,Standard,619
+120996,70,BlockedShot,0.7730000305175782,0.345,0.024718500673770905,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3483,Middlesbrough,Manchester City,2,2,2017-04-30 14:05:00,Vincent Kompany,Pass,619
+120997,75,BlockedShot,0.919000015258789,0.67,0.05982070043683052,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,3483,Middlesbrough,Manchester City,2,2,2017-04-30 14:05:00,,None,619
+120844,30,MissedShots,0.8469999694824218,0.5720000076293945,0.06550990045070648,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3477,Manchester City,West Bromwich Albion,3,1,2017-05-16 20:00:00,David Silva,HeadPass,619
+120846,38,SavedShot,0.8130000305175781,0.4909999847412109,0.054960500448942184,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3477,Manchester City,West Bromwich Albion,3,1,2017-05-16 20:00:00,,None,619
+120857,71,BlockedShot,0.8080000305175781,0.5420000076293945,0.07471349835395813,Sergio Agüero,h,619,OpenPlay,2016,RightFoot,3477,Manchester City,West Bromwich Albion,3,1,2017-05-16 20:00:00,Kevin De Bruyne,Pass,619
+112611,19,MissedShots,0.975999984741211,0.39599998474121095,0.1018190011382103,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3519,Watford,Manchester City,0,5,2017-05-21 15:00:00,,None,619
+112610,19,SavedShot,0.9319999694824219,0.49,0.5866109728813171,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,3519,Watford,Manchester City,0,5,2017-05-21 15:00:00,Gabriel Jesus,Pass,619
+112612,22,Goal,0.865,0.41900001525878905,0.3437870144844055,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3519,Watford,Manchester City,0,5,2017-05-21 15:00:00,Kevin De Bruyne,Throughball,619
+112613,35,Goal,0.9009999847412109,0.5209999847412109,0.5192549824714661,Sergio Agüero,a,619,OpenPlay,2016,LeftFoot,3519,Watford,Manchester City,0,5,2017-05-21 15:00:00,Leroy Sané,Pass,619
+112616,47,MissedShots,0.8209999847412109,0.6430000305175781,0.02691739983856678,Sergio Agüero,a,619,FromCorner,2016,RightFoot,3519,Watford,Manchester City,0,5,2017-05-21 15:00:00,,None,619
+112620,56,MissedShots,0.9409999847412109,0.48700000762939455,0.620369017124176,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3519,Watford,Manchester City,0,5,2017-05-21 15:00:00,Leroy Sané,Pass,619
+112622,64,SavedShot,0.905,0.29200000762939454,0.08439140021800995,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3519,Watford,Manchester City,0,5,2017-05-21 15:00:00,Jesús Navas,Chipped,619
+112623,66,SavedShot,0.865999984741211,0.534000015258789,0.10079800337553024,Sergio Agüero,a,619,OpenPlay,2016,RightFoot,3519,Watford,Manchester City,0,5,2017-05-21 15:00:00,,Dispossessed,619
+158177,52,MissedShots,0.879000015258789,0.5790000152587891,0.34989601373672485,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7126,Brighton,Manchester City,0,2,2017-08-12 17:30:00,,BallTouch,619
+158185,69,Goal,0.9119999694824219,0.3629999923706055,0.33812299370765686,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7126,Brighton,Manchester City,0,2,2017-08-12 17:30:00,David Silva,Throughball,619
+158514,8,MissedShots,0.909000015258789,0.305,0.033485498279333115,Sergio Agüero,h,619,FromCorner,2017,LeftFoot,7138,Manchester City,Everton,1,1,2017-08-21 20:00:00,Leroy Sané,Cross,619
+158526,50,BlockedShot,0.8169999694824219,0.515,0.062453798949718475,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7138,Manchester City,Everton,1,1,2017-08-21 20:00:00,Kevin De Bruyne,Pass,619
+159201,71,SavedShot,0.85,0.46,0.10529900342226028,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7139,Bournemouth,Manchester City,1,2,2017-08-26 12:30:00,,TakeOn,619
+159205,85,MissedShots,0.76,0.3940000152587891,0.06372249871492386,Sergio Agüero,a,619,DirectFreekick,2017,RightFoot,7139,Bournemouth,Manchester City,1,2,2017-08-26 12:30:00,,Standard,619
+159385,24,Goal,0.924000015258789,0.345,0.5215489864349365,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7149,Manchester City,Liverpool,5,0,2017-09-09 12:30:00,Kevin De Bruyne,TakeOn,619
+159394,82,MissedShots,0.9430000305175781,0.31,0.0635078027844429,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7149,Manchester City,Liverpool,5,0,2017-09-09 12:30:00,,None,619
+159395,86,SavedShot,0.9719999694824218,0.4209999847412109,0.5292220115661621,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7149,Manchester City,Liverpool,5,0,2017-09-09 12:30:00,Leroy Sané,Pass,619
+158941,19,MissedShots,0.879000015258789,0.4129999923706055,0.06887249648571014,Sergio Agüero,a,619,FromCorner,2017,LeftFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,,None,619
+158942,20,BlockedShot,0.7769999694824219,0.764000015258789,0.013925200328230858,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,David Silva,BallRecovery,619
+158945,26,Goal,0.9119999694824219,0.534000015258789,0.10852500051259995,Sergio Agüero,a,619,SetPiece,2017,Head,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Kevin De Bruyne,Cross,619
+158946,30,Goal,0.9790000152587891,0.495,0.9613140225410461,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,David Silva,Pass,619
+158952,53,MissedShots,0.7709999847412109,0.5879999923706055,0.030356500297784805,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Benjamin Mendy,Pass,619
+158954,55,MissedShots,0.9330000305175781,0.575,0.13822099566459656,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Benjamin Mendy,Cross,619
+158963,80,Goal,0.9590000152587891,0.34299999237060547,0.12211500108242035,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Kyle Walker,TakeOn,619
+158968,92,SavedShot,0.745999984741211,0.445,0.02523690089583397,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Raheem Sterling,Pass,619
+159716,32,MissedShots,0.915,0.509000015258789,0.481779009103775,Sergio Agüero,h,619,OpenPlay,2017,LeftFoot,7173,Manchester City,Crystal Palace,5,0,2017-09-23 15:00:00,Leroy Sané,Pass,619
+159718,36,MissedShots,0.919000015258789,0.4640000152587891,0.061061400920152664,Sergio Agüero,h,619,OpenPlay,2017,Head,7173,Manchester City,Crystal Palace,5,0,2017-09-23 15:00:00,David Silva,Aerial,619
+159717,36,BlockedShot,0.845999984741211,0.5279999923706055,0.07652349770069122,Sergio Agüero,h,619,OpenPlay,2017,LeftFoot,7173,Manchester City,Crystal Palace,5,0,2017-09-23 15:00:00,,Dispossessed,619
+159730,57,SavedShot,0.925,0.625999984741211,0.4231939911842346,Sergio Agüero,h,619,OpenPlay,2017,LeftFoot,7173,Manchester City,Crystal Palace,5,0,2017-09-23 15:00:00,David Silva,TakeOn,619
+159734,73,MissedShots,0.9209999847412109,0.49900001525878906,0.14166299998760223,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7173,Manchester City,Crystal Palace,5,0,2017-09-23 15:00:00,Bernardo Silva,Pass,619
+159735,78,Goal,0.9259999847412109,0.4779999923706055,0.4301050007343292,Sergio Agüero,h,619,OpenPlay,2017,Head,7173,Manchester City,Crystal Palace,5,0,2017-09-23 15:00:00,Leroy Sané,Cross,619
+159503,29,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,h,619,Penalty,2017,RightFoot,7202,Manchester City,Burnley,3,0,2017-10-21 15:00:00,,Standard,619
+159504,38,MissedShots,0.8690000152587891,0.28,0.0673065036535263,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7202,Manchester City,Burnley,3,0,2017-10-21 15:00:00,,TakeOn,619
+159507,42,SavedShot,0.9359999847412109,0.32599998474121095,0.08550350368022919,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7202,Manchester City,Burnley,3,0,2017-10-21 15:00:00,Kevin De Bruyne,Pass,619
+159508,46,SavedShot,0.909000015258789,0.67,0.07703699916601181,Sergio Agüero,h,619,OpenPlay,2017,LeftFoot,7202,Manchester City,Burnley,3,0,2017-10-21 15:00:00,,None,619
+160994,1,MissedShots,0.9230000305175782,0.30100000381469727,0.08318959921598434,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7228,Manchester City,Arsenal,3,1,2017-11-05 14:15:00,Kevin De Bruyne,Pass,619
+161002,49,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,h,619,Penalty,2017,RightFoot,7228,Manchester City,Arsenal,3,1,2017-11-05 14:15:00,,Standard,619
+161211,23,MissedShots,0.855999984741211,0.6530000305175782,0.0497760996222496,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7245,Huddersfield,Manchester City,1,2,2017-11-26 16:00:00,,None,619
+161213,37,SavedShot,0.8690000152587891,0.6079999923706054,0.30737799406051636,Sergio Agüero,a,619,OpenPlay,2017,LeftFoot,7245,Huddersfield,Manchester City,1,2,2017-11-26 16:00:00,David Silva,Pass,619
+161218,46,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,a,619,Penalty,2017,RightFoot,7245,Huddersfield,Manchester City,1,2,2017-11-26 16:00:00,,Standard,619
+161219,51,SavedShot,0.8959999847412109,0.5670000076293945,0.40849098563194275,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7245,Huddersfield,Manchester City,1,2,2017-11-26 16:00:00,Fernandinho,Throughball,619
+161233,23,SavedShot,0.905,0.6630000305175782,0.07988490164279938,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7257,Manchester City,Southampton,2,1,2017-11-29 20:00:00,Ilkay Gündogan,Pass,619
+161248,59,BlockedShot,0.8419999694824218,0.6229999923706054,0.07695899903774261,Sergio Agüero,h,619,SetPiece,2017,RightFoot,7257,Manchester City,Southampton,2,1,2017-11-29 20:00:00,,TakeOn,619
+161249,61,MissedShots,0.9340000152587891,0.42700000762939455,0.27158498764038086,Sergio Agüero,h,619,SetPiece,2017,Head,7257,Manchester City,Southampton,2,1,2017-11-29 20:00:00,Kevin De Bruyne,Cross,619
+161256,89,BlockedShot,0.905,0.2670000076293945,0.03930030018091202,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7257,Manchester City,Southampton,2,1,2017-11-29 20:00:00,Nicolás Otamendi,Pass,619
+160686,78,BlockedShot,0.815,0.38799999237060545,0.043365299701690674,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7262,Manchester City,West Ham,2,1,2017-12-03 16:00:00,,None,619
+160687,80,BlockedShot,0.945,0.33599998474121096,0.06557309627532959,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7262,Manchester City,West Ham,2,1,2017-12-03 16:00:00,David Silva,Pass,619
+185297,4,MissedShots,0.9330000305175781,0.28,0.03262510150671005,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7281,Swansea,Manchester City,0,4,2017-12-13 19:45:00,Ederson,Pass,619
+185302,15,MissedShots,0.9169999694824219,0.4470000076293945,0.40641799569129944,Sergio Agüero,a,619,OpenPlay,2017,Head,7281,Swansea,Manchester City,0,4,2017-12-13 19:45:00,David Silva,Aerial,619
+185303,21,MissedShots,0.9059999847412109,0.42700000762939455,0.071499302983284,Sergio Agüero,a,619,OpenPlay,2017,Head,7281,Swansea,Manchester City,0,4,2017-12-13 19:45:00,Bernardo Silva,Cross,619
+185306,28,SavedShot,0.8690000152587891,0.41,0.11286900192499161,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7281,Swansea,Manchester City,0,4,2017-12-13 19:45:00,Nicolás Otamendi,Pass,619
+185311,50,SavedShot,0.92,0.3139999961853027,0.09372130036354065,Sergio Agüero,a,619,OpenPlay,2017,LeftFoot,7281,Swansea,Manchester City,0,4,2017-12-13 19:45:00,Bernardo Silva,Pass,619
+185313,60,MissedShots,0.9469999694824218,0.3240000152587891,0.10370200127363205,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7281,Swansea,Manchester City,0,4,2017-12-13 19:45:00,Kevin De Bruyne,Pass,619
+185321,84,Goal,0.93,0.32599998474121095,0.075553297996521,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7281,Swansea,Manchester City,0,4,2017-12-13 19:45:00,Yaya Touré,TakeOn,619
+185326,89,MissedShots,0.7859999847412109,0.6509999847412109,0.027043400332331657,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7281,Swansea,Manchester City,0,4,2017-12-13 19:45:00,Oleksandr Zinchenko,Pass,619
+182703,9,MissedShots,0.9290000152587891,0.41,0.08505170047283173,Sergio Agüero,h,619,SetPiece,2017,Head,7298,Manchester City,Tottenham,4,1,2017-12-16 17:30:00,Kevin De Bruyne,Cross,619
+182706,23,SavedShot,0.875,0.6619999694824219,0.06257110089063644,Sergio Agüero,h,619,OpenPlay,2017,LeftFoot,7298,Manchester City,Tottenham,4,1,2017-12-16 17:30:00,Kevin De Bruyne,Chipped,619
+182710,28,BlockedShot,0.875,0.41200000762939454,0.07905559986829758,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7298,Manchester City,Tottenham,4,1,2017-12-16 17:30:00,Leroy Sané,Cross,619
+182711,32,MissedShots,0.8190000152587891,0.5220000076293946,0.07652109861373901,Sergio Agüero,h,619,OpenPlay,2017,LeftFoot,7298,Manchester City,Tottenham,4,1,2017-12-16 17:30:00,Raheem Sterling,HeadPass,619
+182713,43,BlockedShot,0.9,0.33,0.07828100025653839,Sergio Agüero,h,619,OpenPlay,2017,LeftFoot,7298,Manchester City,Tottenham,4,1,2017-12-16 17:30:00,Kevin De Bruyne,Pass,619
+183118,19,MissedShots,0.909000015258789,0.34799999237060547,0.07160399854183197,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7308,Manchester City,Bournemouth,4,0,2017-12-23 15:00:00,Nicolás Otamendi,Chipped,619
+183121,26,Goal,0.915,0.43900001525878907,0.2663919925689697,Sergio Agüero,h,619,OpenPlay,2017,Head,7308,Manchester City,Bournemouth,4,0,2017-12-23 15:00:00,Fernandinho,Chipped,619
+183129,78,Goal,0.9369999694824219,0.5070000076293946,0.5088059902191162,Sergio Agüero,h,619,OpenPlay,2017,Head,7308,Manchester City,Bournemouth,4,0,2017-12-23 15:00:00,Bernardo Silva,Cross,619
+185720,6,ShotOnPost,0.97,0.4229999923706055,0.3537540137767792,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7315,Newcastle United,Manchester City,0,1,2017-12-27 19:45:00,Fernandinho,Chipped,619
+185724,16,SavedShot,0.9309999847412109,0.43599998474121093,0.33330801129341125,Sergio Agüero,a,619,SetPiece,2017,Head,7315,Newcastle United,Manchester City,0,1,2017-12-27 19:45:00,Kevin De Bruyne,Cross,619
+185730,29,ShotOnPost,0.755,0.5790000152587891,0.027724599465727806,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7315,Newcastle United,Manchester City,0,1,2017-12-27 19:45:00,Kevin De Bruyne,TakeOn,619
+185734,39,BlockedShot,0.955,0.42200000762939455,0.14409400522708893,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7315,Newcastle United,Manchester City,0,1,2017-12-27 19:45:00,,None,619
+185737,49,MissedShots,0.9830000305175781,0.4209999847412109,0.14770400524139404,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7315,Newcastle United,Manchester City,0,1,2017-12-27 19:45:00,Raheem Sterling,Rebound,619
+186186,27,BlockedShot,0.7930000305175782,0.49700000762939456,0.043427299708127975,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7321,Crystal Palace,Manchester City,0,0,2017-12-31 12:00:00,Kevin De Bruyne,Pass,619
+186189,45,MissedShots,0.884000015258789,0.42400001525878905,0.10777100175619125,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7321,Crystal Palace,Manchester City,0,0,2017-12-31 12:00:00,Kevin De Bruyne,Pass,619
+186193,60,SavedShot,0.9219999694824219,0.504000015258789,0.06418369710445404,Sergio Agüero,a,619,OpenPlay,2017,Head,7321,Crystal Palace,Manchester City,0,0,2017-12-31 12:00:00,Bernardo Silva,Aerial,619
+186448,39,SavedShot,0.9619999694824218,0.4520000076293945,0.1450899988412857,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Kevin De Bruyne,Cross,619
+186451,46,SavedShot,0.8530000305175781,0.43900001525878907,0.11491099745035172,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Kevin De Bruyne,Pass,619
+186452,47,MissedShots,0.9069999694824219,0.5359999847412109,0.2940010130405426,Sergio Agüero,h,619,OpenPlay,2017,Head,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Kevin De Bruyne,Cross,619
+186454,53,BlockedShot,0.874000015258789,0.6780000305175782,0.08057239651679993,Sergio Agüero,h,619,OpenPlay,2017,LeftFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Kevin De Bruyne,Pass,619
+186455,62,Goal,0.9640000152587891,0.4620000076293945,0.6008769869804382,Sergio Agüero,h,619,FromCorner,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,,None,619
+187948,50,BlockedShot,0.905,0.6619999694824219,0.07815100252628326,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Raheem Sterling,Pass,619
+187962,91,MissedShots,0.7709999847412109,0.7030000305175781,0.019441600888967514,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Nicolás Otamendi,Pass,619
+188919,33,Goal,0.955999984741211,0.5420000076293945,0.547353982925415,Sergio Agüero,h,619,OpenPlay,2017,Head,7354,Manchester City,Newcastle United,3,1,2018-01-20 17:30:00,Kevin De Bruyne,Cross,619
+188921,40,BlockedShot,0.8880000305175781,0.38599998474121094,0.08978089690208435,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7354,Manchester City,Newcastle United,3,1,2018-01-20 17:30:00,Raheem Sterling,TakeOn,619
+188924,45,SavedShot,0.935,0.28899999618530275,0.05810900032520294,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7354,Manchester City,Newcastle United,3,1,2018-01-20 17:30:00,Fernandinho,Chipped,619
+188925,62,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,h,619,Penalty,2017,RightFoot,7354,Manchester City,Newcastle United,3,1,2018-01-20 17:30:00,,Standard,619
+188927,68,MissedShots,0.8440000152587891,0.5429999923706055,0.039737600833177567,Sergio Agüero,h,619,FromCorner,2017,RightFoot,7354,Manchester City,Newcastle United,3,1,2018-01-20 17:30:00,Kevin De Bruyne,Cross,619
+188929,70,MissedShots,0.9669999694824218,0.3820000076293945,0.1031230017542839,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7354,Manchester City,Newcastle United,3,1,2018-01-20 17:30:00,,Rebound,619
+188935,82,Goal,0.9130000305175782,0.509000015258789,0.14709599316120148,Sergio Agüero,h,619,OpenPlay,2017,LeftFoot,7354,Manchester City,Newcastle United,3,1,2018-01-20 17:30:00,Leroy Sané,Pass,619
+194227,51,SavedShot,0.9330000305175781,0.46599998474121096,0.15149499475955963,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7366,Manchester City,West Bromwich Albion,3,0,2018-01-31 20:00:00,Kyle Walker,Pass,619
+194239,88,Goal,0.919000015258789,0.31,0.13756200671195984,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7366,Manchester City,West Bromwich Albion,3,0,2018-01-31 20:00:00,Raheem Sterling,Throughball,619
+193656,24,BlockedShot,0.875999984741211,0.639000015258789,0.09190379828214645,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7372,Burnley,Manchester City,1,1,2018-02-03 12:30:00,Raheem Sterling,Pass,619
+193664,47,BlockedShot,0.9159999847412109,0.5940000152587891,0.25111299753189087,Sergio Agüero,a,619,OpenPlay,2017,LeftFoot,7372,Burnley,Manchester City,1,1,2018-02-03 12:30:00,Raheem Sterling,TakeOn,619
+193663,48,SavedShot,0.9440000152587891,0.6659999847412109,0.06959009915590286,Sergio Agüero,a,619,OpenPlay,2017,LeftFoot,7372,Burnley,Manchester City,1,1,2018-02-03 12:30:00,Kevin De Bruyne,Chipped,619
+193898,21,MissedShots,0.825,0.7030000305175781,0.014073300175368786,Sergio Agüero,h,619,OpenPlay,2017,Head,7382,Manchester City,Leicester,5,1,2018-02-10 17:30:00,Kevin De Bruyne,Chipped,619
+193905,47,Goal,0.9459999847412109,0.48,0.6210110187530518,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7382,Manchester City,Leicester,5,1,2018-02-10 17:30:00,Kevin De Bruyne,Pass,619
+193907,52,Goal,0.909000015258789,0.345,0.1008789986371994,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7382,Manchester City,Leicester,5,1,2018-02-10 17:30:00,Kevin De Bruyne,Pass,619
+193910,64,MissedShots,0.96,0.6969999694824218,0.08204499632120132,Sergio Agüero,h,619,OpenPlay,2017,LeftFoot,7382,Manchester City,Leicester,5,1,2018-02-10 17:30:00,Ilkay Gündogan,Pass,619
+193912,75,BlockedShot,0.924000015258789,0.25799999237060545,0.05922050029039383,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7382,Manchester City,Leicester,5,1,2018-02-10 17:30:00,Kyle Walker,Pass,619
+193914,76,Goal,0.89,0.36700000762939455,0.40449801087379456,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7382,Manchester City,Leicester,5,1,2018-02-10 17:30:00,,BallRecovery,619
+193916,89,Goal,0.7830000305175782,0.67,0.02482379972934723,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7382,Manchester City,Leicester,5,1,2018-02-10 17:30:00,Phil Foden,Pass,619
+198415,8,MissedShots,0.975999984741211,0.29399999618530276,0.10637500137090683,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7389,Arsenal,Manchester City,0,3,2018-03-01 19:45:00,Kevin De Bruyne,Throughball,619
+198416,10,BlockedShot,0.76,0.4129999923706055,0.020618600770831108,Sergio Agüero,a,619,OpenPlay,2017,LeftFoot,7389,Arsenal,Manchester City,0,3,2018-03-01 19:45:00,,None,619
+198425,38,SavedShot,0.9590000152587891,0.44,0.6119570136070251,Sergio Agüero,a,619,OpenPlay,2017,LeftFoot,7389,Arsenal,Manchester City,0,3,2018-03-01 19:45:00,Kevin De Bruyne,Pass,619
+198431,77,SavedShot,0.884000015258789,0.31,0.06825859844684601,Sergio Agüero,a,619,OpenPlay,2017,RightFoot,7389,Arsenal,Manchester City,0,3,2018-03-01 19:45:00,Ilkay Gündogan,Pass,619
+199438,12,BlockedShot,0.9159999847412109,0.41,0.1060120016336441,Sergio Agüero,h,619,OpenPlay,2017,RightFoot,7404,Manchester City,Chelsea,1,0,2018-03-04 16:00:00,Leroy Sané,BallRecovery,619
+207040,88,SavedShot,0.9169999694824219,0.505,0.1050809994339943,Sergio Agüero,h,619,OpenPlay,2017,Head,7445,Manchester City,Manchester United,2,3,2018-04-07 16:30:00,Leroy Sané,Cross,619
+232699,20,MissedShots,0.9290000152587891,0.6940000152587891,0.07482010126113892,Sergio Agüero,a,619,OpenPlay,2018,LeftFoot,9206,Arsenal,Manchester City,0,2,2018-08-12 18:00:00,Raheem Sterling,Pass,619
+232707,49,BlockedShot,0.8030000305175782,0.5670000076293945,0.04281629994511604,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9206,Arsenal,Manchester City,0,2,2018-08-12 18:00:00,,Rebound,619
+232710,62,SavedShot,0.889000015258789,0.365,0.5235450267791748,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9206,Arsenal,Manchester City,0,2,2018-08-12 18:00:00,,Clearance,619
+233103,1,BlockedShot,0.8830000305175781,0.40799999237060547,0.09562090039253235,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9213,Manchester City,Huddersfield,6,1,2018-08-19 15:30:00,David Silva,Pass,619
+233110,24,Goal,0.8030000305175782,0.40200000762939453,0.02470880001783371,Sergio Agüero,h,619,OpenPlay,2018,LeftFoot,9213,Manchester City,Huddersfield,6,1,2018-08-19 15:30:00,Ederson,Pass,619
+233113,29,MissedShots,0.9290000152587891,0.6469999694824219,0.08964080363512039,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9213,Manchester City,Huddersfield,6,1,2018-08-19 15:30:00,,None,619
+233116,34,Goal,0.9630000305175781,0.5729999923706055,0.5893589854240417,Sergio Agüero,h,619,OpenPlay,2018,LeftFoot,9213,Manchester City,Huddersfield,6,1,2018-08-19 15:30:00,,None,619
+233121,51,BlockedShot,0.815,0.49900001525878906,0.07403749972581863,Sergio Agüero,h,619,OpenPlay,2018,LeftFoot,9213,Manchester City,Huddersfield,6,1,2018-08-19 15:30:00,Gabriel Jesus,TakeOn,619
+233124,56,ShotOnPost,0.749000015258789,0.355,0.025672899559140205,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9213,Manchester City,Huddersfield,6,1,2018-08-19 15:30:00,,TakeOn,619
+233125,58,MissedShots,0.85,0.4620000076293945,0.11693300306797028,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9213,Manchester City,Huddersfield,6,1,2018-08-19 15:30:00,Gabriel Jesus,LayOff,619
+233127,70,SavedShot,0.8490000152587891,0.3609999847412109,0.0659743994474411,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9213,Manchester City,Huddersfield,6,1,2018-08-19 15:30:00,,Dispossessed,619
+233130,74,Goal,0.9319999694824219,0.5529999923706055,0.5028030276298523,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9213,Manchester City,Huddersfield,6,1,2018-08-19 15:30:00,Benjamin Mendy,Cross,619
+233442,20,ShotOnPost,0.865999984741211,0.5259999847412109,0.07806450128555298,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9217,Wolverhampton Wanderers,Manchester City,1,1,2018-08-25 14:30:00,,None,619
+233447,40,SavedShot,0.91,0.509000015258789,0.10334700345993042,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9217,Wolverhampton Wanderers,Manchester City,1,1,2018-08-25 14:30:00,,None,619
+233461,71,MissedShots,0.7869999694824219,0.6630000305175782,0.02472749911248684,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9217,Wolverhampton Wanderers,Manchester City,1,1,2018-08-25 14:30:00,Gabriel Jesus,HeadPass,619
+233466,94,ShotOnPost,0.754000015258789,0.610999984741211,0.05894570052623749,Sergio Agüero,a,619,DirectFreekick,2018,RightFoot,9217,Wolverhampton Wanderers,Manchester City,1,1,2018-08-25 14:30:00,,Standard,619
+233670,15,MissedShots,0.7419999694824219,0.5359999847412109,0.02910440042614937,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9234,Manchester City,Newcastle United,2,1,2018-09-01 16:30:00,Fernandinho,Pass,619
+233674,33,BlockedShot,0.75,0.49599998474121093,0.06504890322685242,Sergio Agüero,h,619,DirectFreekick,2018,RightFoot,9234,Manchester City,Newcastle United,2,1,2018-09-01 16:30:00,,Standard,619
+233677,39,BlockedShot,0.8590000152587891,0.66,0.05025029927492142,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9234,Manchester City,Newcastle United,2,1,2018-09-01 16:30:00,Raheem Sterling,Pass,619
+233692,90,MissedShots,0.8630000305175781,0.695,0.05868009850382805,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9234,Manchester City,Newcastle United,2,1,2018-09-01 16:30:00,,Dispossessed,619
+233838,10,SavedShot,0.740999984741211,0.525,0.02266949974000454,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Ederson,Pass,619
+233842,20,BlockedShot,0.909000015258789,0.4520000076293945,0.1402679979801178,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Bernardo Silva,Pass,619
+233848,32,MissedShots,0.9180000305175782,0.539000015258789,0.05008209869265556,Sergio Agüero,h,619,OpenPlay,2018,Head,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,David Silva,Aerial,619
+233856,49,BlockedShot,0.8619999694824219,0.47200000762939454,0.12691399455070496,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Raheem Sterling,Pass,619
+233857,51,BlockedShot,0.740999984741211,0.48700000762939455,0.05844699963927269,Sergio Agüero,h,619,DirectFreekick,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,,Standard,619
+234076,26,BlockedShot,0.904000015258789,0.3029999923706055,0.05299979820847511,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9252,Cardiff,Manchester City,0,5,2018-09-22 14:00:00,Kyle Walker,Pass,619
+234078,31,Goal,0.8719999694824219,0.5070000076293946,0.11291299760341644,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9252,Cardiff,Manchester City,0,5,2018-09-22 14:00:00,Bernardo Silva,Pass,619
+234081,39,BlockedShot,0.92,0.5670000076293945,0.11603599786758423,Sergio Agüero,a,619,OpenPlay,2018,LeftFoot,9252,Cardiff,Manchester City,0,5,2018-09-22 14:00:00,,Dispossessed,619
+234082,40,SavedShot,0.909000015258789,0.46599998474121096,0.10301099717617035,Sergio Agüero,a,619,FromCorner,2018,RightFoot,9252,Cardiff,Manchester City,0,5,2018-09-22 14:00:00,Raheem Sterling,Pass,619
+234087,56,BlockedShot,0.875,0.44099998474121094,0.1302500069141388,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9252,Cardiff,Manchester City,0,5,2018-09-22 14:00:00,Raheem Sterling,Pass,619
+234089,57,SavedShot,0.9169999694824219,0.45,0.12591299414634705,Sergio Agüero,a,619,FromCorner,2018,RightFoot,9252,Cardiff,Manchester City,0,5,2018-09-22 14:00:00,,Rebound,619
+234380,3,BlockedShot,0.9219999694824219,0.5270000076293946,0.11793600022792816,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9260,Manchester City,Brighton,2,0,2018-09-29 14:00:00,Bernardo Silva,Chipped,619
+234383,17,MissedShots,0.865,0.5540000152587891,0.023521099239587784,Sergio Agüero,h,619,OpenPlay,2018,Head,9260,Manchester City,Brighton,2,0,2018-09-29 14:00:00,Kyle Walker,Cross,619
+234385,22,MissedShots,0.904000015258789,0.44299999237060544,0.09542860090732574,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9260,Manchester City,Brighton,2,0,2018-09-29 14:00:00,Raheem Sterling,Cross,619
+234394,40,BlockedShot,0.9359999847412109,0.534000015258789,0.15598200261592865,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9260,Manchester City,Brighton,2,0,2018-09-29 14:00:00,David Silva,Rebound,619
+234398,46,MissedShots,0.8959999847412109,0.5220000076293946,0.04908699914813042,Sergio Agüero,h,619,OpenPlay,2018,Head,9260,Manchester City,Brighton,2,0,2018-09-29 14:00:00,Kyle Walker,Aerial,619
+234402,57,BlockedShot,0.91,0.38799999237060545,0.12003900110721588,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9260,Manchester City,Brighton,2,0,2018-09-29 14:00:00,David Silva,Pass,619
+234405,64,Goal,0.9030000305175782,0.48200000762939454,0.46499499678611755,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9260,Manchester City,Brighton,2,0,2018-09-29 14:00:00,Raheem Sterling,Pass,619
+249323,3,MissedShots,0.899000015258789,0.5179999923706055,0.21769799292087555,Sergio Agüero,h,619,OpenPlay,2018,Head,9281,Manchester City,Burnley,5,0,2018-10-20 14:00:00,Riyad Mahrez,Throughball,619
+249327,14,SavedShot,0.9590000152587891,0.5479999923706055,0.5741829872131348,Sergio Agüero,h,619,OpenPlay,2018,LeftFoot,9281,Manchester City,Burnley,5,0,2018-10-20 14:00:00,Riyad Mahrez,Cross,619
+249328,16,Goal,0.924000015258789,0.445,0.4732019901275635,Sergio Agüero,h,619,OpenPlay,2018,LeftFoot,9281,Manchester City,Burnley,5,0,2018-10-20 14:00:00,David Silva,Pass,619
+249330,28,BlockedShot,0.815,0.435,0.07192529737949371,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9281,Manchester City,Burnley,5,0,2018-10-20 14:00:00,Vincent Kompany,Pass,619
+249339,46,MissedShots,0.98,0.5829999923706055,0.39055201411247253,Sergio Agüero,h,619,OpenPlay,2018,LeftFoot,9281,Manchester City,Burnley,5,0,2018-10-20 14:00:00,,Rebound,619
+249344,64,SavedShot,0.9119999694824219,0.365,0.11845500022172928,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9281,Manchester City,Burnley,5,0,2018-10-20 14:00:00,David Silva,Pass,619
+249722,6,MissedShots,0.9119999694824219,0.6990000152587891,0.0768589973449707,Sergio Agüero,a,619,OpenPlay,2018,LeftFoot,9296,Tottenham,Manchester City,0,1,2018-10-29 19:00:00,Raheem Sterling,Pass,619
+249734,64,SavedShot,0.88,0.45799999237060546,0.1294029951095581,Sergio Agüero,a,619,OpenPlay,2018,LeftFoot,9296,Tottenham,Manchester City,0,1,2018-10-29 19:00:00,David Silva,Pass,619
+249735,65,SavedShot,0.7580000305175781,0.4929999923706055,0.032850999385118484,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9296,Tottenham,Manchester City,0,1,2018-10-29 19:00:00,David Silva,Pass,619
+249923,11,Goal,0.9669999694824218,0.47400001525878904,0.6953549981117249,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Raheem Sterling,Pass,619
+249924,16,SavedShot,0.8959999847412109,0.3579999923706055,0.13927100598812103,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Bernardo Silva,Throughball,619
+249946,75,MissedShots,0.85,0.38,0.09338779747486115,Sergio Agüero,h,619,OpenPlay,2018,LeftFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Phil Foden,Pass,619
+249947,80,MissedShots,0.7719999694824219,0.6,0.04456400126218796,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Leroy Sané,TakeOn,619
+250211,23,BlockedShot,0.855,0.49700000762939456,0.09924010187387466,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,,BallRecovery,619
+250218,43,MissedShots,0.97,0.6509999847412109,0.09307520091533661,Sergio Agüero,h,619,OpenPlay,2018,LeftFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Bernardo Silva,Pass,619
+250219,47,Goal,0.9169999694824219,0.33,0.0952112004160881,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Riyad Mahrez,Pass,619
+250256,15,MissedShots,0.8530000305175781,0.485,0.11060500144958496,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9317,West Ham,Manchester City,0,4,2018-11-24 15:00:00,Raheem Sterling,Pass,619
+251802,35,MissedShots,0.9369999694824219,0.5279999923706055,0.5886120200157166,Sergio Agüero,a,619,OpenPlay,2018,LeftFoot,9382,Leicester,Manchester City,2,1,2018-12-26 15:00:00,Leroy Sané,Pass,619
+251810,67,MissedShots,0.7909999847412109,0.44099998474121094,0.0378618985414505,Sergio Agüero,a,619,OpenPlay,2018,LeftFoot,9382,Leicester,Manchester City,2,1,2018-12-26 15:00:00,Ilkay Gündogan,Pass,619
+251813,74,MissedShots,0.91,0.5670000076293945,0.027389200404286385,Sergio Agüero,a,619,OpenPlay,2018,Head,9382,Leicester,Manchester City,2,1,2018-12-26 15:00:00,,Rebound,619
+263756,24,SavedShot,0.9259999847412109,0.47,0.5625770092010498,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9389,Southampton,Manchester City,1,3,2018-12-30 14:15:00,Raheem Sterling,Pass,619
+263759,41,MissedShots,0.8780000305175781,0.5920000076293945,0.1038609966635704,Sergio Agüero,a,619,OpenPlay,2018,LeftFoot,9389,Southampton,Manchester City,1,3,2018-12-30 14:15:00,David Silva,Pass,619
+263762,47,Goal,0.9230000305175782,0.47,0.3628369867801666,Sergio Agüero,a,619,OpenPlay,2018,Head,9389,Southampton,Manchester City,1,3,2018-12-30 14:15:00,Oleksandr Zinchenko,Cross,619
+263767,58,ShotOnPost,0.874000015258789,0.4540000152587891,0.07902280241250992,Sergio Agüero,a,619,SetPiece,2018,LeftFoot,9389,Southampton,Manchester City,1,3,2018-12-30 14:15:00,Riyad Mahrez,Chipped,619
+263769,62,BlockedShot,0.9590000152587891,0.42400001525878905,0.1631080061197281,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9389,Southampton,Manchester City,1,3,2018-12-30 14:15:00,Raheem Sterling,Pass,619
+274353,39,Goal,0.965999984741211,0.6370000076293946,0.05236959829926491,Sergio Agüero,h,619,OpenPlay,2018,LeftFoot,9400,Manchester City,Liverpool,2,1,2019-01-03 20:00:00,Bernardo Silva,Cross,619
+274360,81,SavedShot,0.92,0.3220000076293945,0.30322200059890747,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9400,Manchester City,Liverpool,2,1,2019-01-03 20:00:00,Raheem Sterling,Pass,619
+274365,93,MissedShots,0.42700000762939455,0.45799999237060546,0.007106150034815073,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9400,Manchester City,Liverpool,2,1,2019-01-03 20:00:00,,BallRecovery,619
+274614,79,BlockedShot,0.8819999694824219,0.26600000381469724,0.051421500742435455,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9409,Manchester City,Wolverhampton Wanderers,3,0,2019-01-14 20:00:00,Bernardo Silva,Pass,619
+274815,2,MissedShots,0.955,0.40599998474121096,0.12469600141048431,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9423,Huddersfield,Manchester City,0,3,2019-01-20 13:30:00,Raheem Sterling,Pass,619
+275010,0,Goal,0.9259999847412109,0.53,0.4382280111312866,Sergio Agüero,a,619,OpenPlay,2018,LeftFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,David Silva,HeadPass,619
+275018,30,SavedShot,0.7469999694824219,0.5459999847412109,0.02800700068473816,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,Kevin De Bruyne,Pass,619
+275026,86,BlockedShot,0.879000015258789,0.3940000152587891,0.027307599782943726,Sergio Agüero,a,619,FromCorner,2018,LeftFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,,Aerial,619
+275027,86,MissedShots,0.8780000305175781,0.43400001525878906,0.07982639968395233,Sergio Agüero,a,619,FromCorner,2018,RightFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,,Rebound,619
+275323,0,Goal,0.9209999847412109,0.5029999923706054,0.3482460081577301,Sergio Agüero,h,619,OpenPlay,2018,Head,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,Aymeric Laporte,Chipped,619
+275332,43,Goal,0.9790000152587891,0.46799999237060547,0.9112769961357117,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,Raheem Sterling,Pass,619
+275338,60,Goal,0.965999984741211,0.509000015258789,0.89894700050354,Sergio Agüero,h,619,OpenPlay,2018,OtherBodyPart,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,Raheem Sterling,Pass,619
+275341,75,SavedShot,0.850999984741211,0.47900001525878905,0.03144590184092522,Sergio Agüero,h,619,SetPiece,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,,Aerial,619
+275371,4,BlockedShot,0.7659999847412109,0.38599998474121094,0.02481820061802864,Sergio Agüero,a,619,OpenPlay,2018,LeftFoot,9461,Everton,Manchester City,0,2,2019-02-06 19:45:00,Ederson,Chipped,619
+275383,57,MissedShots,0.9219999694824219,0.48700000762939455,0.15671899914741516,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9461,Everton,Manchester City,0,2,2019-02-06 19:45:00,,Rebound,619
+275602,7,MissedShots,0.9690000152587891,0.42900001525878906,0.4522610008716583,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Bernardo Silva,Cross,619
+275604,12,Goal,0.75,0.6370000076293946,0.021623000502586365,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Oleksandr Zinchenko,Pass,619
+275605,18,Goal,0.9259999847412109,0.5420000076293945,0.48062801361083984,Sergio Agüero,h,619,SetPiece,2018,LeftFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,,Aerial,619
+275613,50,ShotOnPost,0.9330000305175781,0.5279999923706055,0.4097859859466553,Sergio Agüero,h,619,OpenPlay,2018,Head,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Kevin De Bruyne,Aerial,619
+275616,55,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,h,619,Penalty,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,,Standard,619
+275618,59,MissedShots,0.909000015258789,0.6669999694824219,0.09676440060138702,Sergio Agüero,h,619,OpenPlay,2018,LeftFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Raheem Sterling,Pass,619
+276025,25,BlockedShot,0.8669999694824219,0.5279999923706055,0.11037900298833847,Sergio Agüero,h,619,OpenPlay,2018,LeftFoot,9475,Manchester City,West Ham,1,0,2019-02-27 20:00:00,David Silva,Pass,619
+276026,26,MissedShots,0.8819999694824219,0.5629999923706055,0.013960599899291992,Sergio Agüero,h,619,FromCorner,2018,Head,9475,Manchester City,West Ham,1,0,2019-02-27 20:00:00,Oleksandr Zinchenko,Aerial,619
+276030,58,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,h,619,Penalty,2018,RightFoot,9475,Manchester City,West Ham,1,0,2019-02-27 20:00:00,,Standard,619
+276234,4,BlockedShot,0.8219999694824218,0.3820000076293945,0.037004999816417694,Sergio Agüero,a,619,SetPiece,2018,RightFoot,9486,Bournemouth,Manchester City,0,1,2019-03-02 15:00:00,,None,619
+276239,31,MissedShots,0.8390000152587891,0.605999984741211,0.04127909988164902,Sergio Agüero,a,619,FromCorner,2018,LeftFoot,9486,Bournemouth,Manchester City,0,1,2019-03-02 15:00:00,,None,619
+276248,68,SavedShot,0.875,0.5659999847412109,0.11902999877929688,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9486,Bournemouth,Manchester City,0,1,2019-03-02 15:00:00,Raheem Sterling,Pass,619
+276251,80,SavedShot,0.7709999847412109,0.7959999847412109,0.021006500348448753,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9486,Bournemouth,Manchester City,0,1,2019-03-02 15:00:00,David Silva,Pass,619
+276256,87,MissedShots,0.815,0.4540000152587891,0.11783599853515625,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9486,Bournemouth,Manchester City,0,1,2019-03-02 15:00:00,Ilkay Gündogan,TakeOn,619
+284665,28,MissedShots,0.919000015258789,0.5459999847412109,0.31572800874710083,Sergio Agüero,h,619,OpenPlay,2018,Head,9489,Manchester City,Watford,3,1,2019-03-09 17:30:00,Bernardo Silva,Cross,619
+284667,45,SavedShot,0.8809999847412109,0.7119999694824218,0.040582600980997086,Sergio Agüero,h,619,OpenPlay,2018,LeftFoot,9489,Manchester City,Watford,3,1,2019-03-09 17:30:00,Ilkay Gündogan,Pass,619
+284674,77,SavedShot,0.9640000152587891,0.6719999694824219,0.08994010090827942,Sergio Agüero,h,619,OpenPlay,2018,LeftFoot,9489,Manchester City,Watford,3,1,2019-03-09 17:30:00,David Silva,Pass,619
+287289,3,BlockedShot,0.91,0.41,0.12357799708843231,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9512,Fulham,Manchester City,0,2,2019-03-30 12:30:00,Bernardo Silva,Pass,619
+287302,26,Goal,0.9459999847412109,0.3509999847412109,0.1655150055885315,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9512,Fulham,Manchester City,0,2,2019-03-30 12:30:00,Bernardo Silva,TakeOn,619
+294156,27,MissedShots,0.8519999694824218,0.625,0.08275199681520462,Sergio Agüero,a,619,OpenPlay,2018,LeftFoot,9534,Crystal Palace,Manchester City,1,3,2019-04-14 14:05:00,David Silva,Pass,619
+294162,49,BlockedShot,0.865999984741211,0.34700000762939454,0.08074259757995605,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9534,Crystal Palace,Manchester City,1,3,2019-04-14 14:05:00,Kevin De Bruyne,Pass,619
+294917,48,BlockedShot,0.919000015258789,0.3820000076293945,0.1183449998497963,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9540,Manchester City,Tottenham,1,0,2019-04-20 12:30:00,Kyle Walker,Pass,619
+294922,64,MissedShots,0.9080000305175782,0.4570000076293945,0.1185159981250763,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9540,Manchester City,Tottenham,1,0,2019-04-20 12:30:00,Bernardo Silva,Cross,619
+296814,44,MissedShots,0.8490000152587891,0.3,0.036289699375629425,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9501,Manchester United,Manchester City,0,2,2019-04-24 20:00:00,David Silva,Pass,619
+296817,55,ShotOnPost,0.8169999694824219,0.5029999923706054,0.074959896504879,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9501,Manchester United,Manchester City,0,2,2019-04-24 20:00:00,David Silva,Pass,619
+298068,39,MissedShots,0.784000015258789,0.5879999923706055,0.03217099979519844,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9555,Burnley,Manchester City,0,1,2019-04-28 14:05:00,Oleksandr Zinchenko,Pass,619
+298070,47,SavedShot,0.935,0.3029999923706055,0.05674619972705841,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9555,Burnley,Manchester City,0,1,2019-04-28 14:05:00,Raheem Sterling,BallTouch,619
+298078,54,MissedShots,0.8119999694824219,0.4779999923706055,0.06233939900994301,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9555,Burnley,Manchester City,0,1,2019-04-28 14:05:00,Raheem Sterling,Pass,619
+298081,62,Goal,0.919000015258789,0.48700000762939455,0.1440819948911667,Sergio Agüero,a,619,OpenPlay,2018,LeftFoot,9555,Burnley,Manchester City,0,1,2019-04-28 14:05:00,,Rebound,619
+298080,62,BlockedShot,0.8880000305175781,0.4759999847412109,0.09910109639167786,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9555,Burnley,Manchester City,0,1,2019-04-28 14:05:00,Bernardo Silva,Chipped,619
+298083,72,BlockedShot,0.970999984741211,0.4520000076293945,0.1615380048751831,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9555,Burnley,Manchester City,0,1,2019-04-28 14:05:00,Kyle Walker,Pass,619
+298085,74,MissedShots,0.915,0.36,0.06528010219335556,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9555,Burnley,Manchester City,0,1,2019-04-28 14:05:00,Oleksandr Zinchenko,Cross,619
+298086,75,BlockedShot,0.8490000152587891,0.5070000076293946,0.1344500035047531,Sergio Agüero,a,619,OpenPlay,2018,LeftFoot,9555,Burnley,Manchester City,0,1,2019-04-28 14:05:00,,None,619
+298088,77,BlockedShot,0.7980000305175782,0.35400001525878905,0.10371699929237366,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9555,Burnley,Manchester City,0,1,2019-04-28 14:05:00,Bernardo Silva,Chipped,619
+300372,31,SavedShot,0.9680000305175781,0.585,0.03401239961385727,Sergio Agüero,h,619,FromCorner,2018,Head,9560,Manchester City,Leicester,1,0,2019-05-06 19:00:00,Ilkay Gündogan,Aerial,619
+300384,68,SavedShot,0.91,0.5770000076293945,0.09422049671411514,Sergio Agüero,h,619,OpenPlay,2018,RightFoot,9560,Manchester City,Leicester,1,0,2019-05-06 19:00:00,,None,619
+301211,10,BlockedShot,0.8180000305175781,0.5259999847412109,0.06218929961323738,Sergio Agüero,a,619,OpenPlay,2018,RightFoot,9576,Brighton,Manchester City,1,4,2019-05-12 14:00:00,Bernardo Silva,Pass,619
+301212,11,MissedShots,0.9290000152587891,0.49700000762939456,0.1410820037126541,Sergio Agüero,a,619,OpenPlay,2018,Head,9576,Brighton,Manchester City,1,4,2019-05-12 14:00:00,Raheem Sterling,Cross,619
+301218,27,Goal,0.9619999694824218,0.669000015258789,0.317654013633728,Sergio Agüero,a,619,OpenPlay,2018,LeftFoot,9576,Brighton,Manchester City,1,4,2019-05-12 14:00:00,David Silva,Throughball,619
+301234,88,BlockedShot,0.8680000305175781,0.43900001525878907,0.12438199669122696,Sergio Agüero,a,619,OpenPlay,2018,LeftFoot,9576,Brighton,Manchester City,1,4,2019-05-12 14:00:00,Riyad Mahrez,Pass,619
+309936,85,Goal,0.885,0.5,0.761132001876831,Sergio Agüero,a,619,Penalty,2019,RightFoot,11644,West Ham,Manchester City,0,5,2019-08-10 12:30:00,,Standard,619
+310776,34,Goal,0.9640000152587891,0.43900001525878907,0.5193020105361938,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Kevin De Bruyne,Cross,619
+310780,45,BlockedShot,0.775,0.5879999923706055,0.037685200572013855,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Ilkay Gündogan,Pass,619
+310784,52,MissedShots,0.870999984741211,0.6430000305175781,0.13052800297737122,Sergio Agüero,h,619,OpenPlay,2019,LeftFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Raheem Sterling,Throughball,619
+312919,14,Goal,0.9180000305175782,0.514000015258789,0.5008289813995361,Sergio Agüero,a,619,OpenPlay,2019,LeftFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Kevin De Bruyne,None,619
+312923,28,BlockedShot,0.8130000305175781,0.5370000076293945,0.06919330358505249,Sergio Agüero,a,619,OpenPlay,2019,LeftFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Aymeric Laporte,Pass,619
+312936,63,Goal,0.9159999847412109,0.5279999923706055,0.5247830152511597,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,David Silva,Pass,619
+312938,81,BlockedShot,0.8490000152587891,0.43400001525878906,0.11080499738454819,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Riyad Mahrez,Pass,619
+315852,13,MissedShots,0.9059999847412109,0.2989999961853027,0.1269329935312271,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11678,Manchester City,Brighton,4,0,2019-08-31 15:00:00,Riyad Mahrez,Throughball,619
+315859,41,Goal,0.8969999694824219,0.43,0.12940900027751923,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11678,Manchester City,Brighton,4,0,2019-08-31 15:00:00,Kevin De Bruyne,Pass,619
+315864,54,Goal,0.825,0.5529999923706055,0.08971379697322845,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11678,Manchester City,Brighton,4,0,2019-08-31 15:00:00,David Silva,Pass,619
+315866,62,BlockedShot,0.905,0.45,0.08547929674386978,Sergio Agüero,h,619,FromCorner,2019,RightFoot,11678,Manchester City,Brighton,4,0,2019-08-31 15:00:00,Riyad Mahrez,Pass,619
+315868,68,MissedShots,0.97,0.685,0.028661200776696205,Sergio Agüero,h,619,FromCorner,2019,RightFoot,11678,Manchester City,Brighton,4,0,2019-08-31 15:00:00,Kevin De Bruyne,Chipped,619
+317522,27,MissedShots,0.9740000152587891,0.40599998474121096,0.13642600178718567,Sergio Agüero,a,619,OpenPlay,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Raheem Sterling,Chipped,619
+317528,44,Goal,0.9169999694824219,0.54,0.30695199966430664,Sergio Agüero,a,619,OpenPlay,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Bernardo Silva,Cross,619
+317532,52,BlockedShot,0.904000015258789,0.6969999694824218,0.03699519857764244,Sergio Agüero,a,619,OpenPlay,2019,LeftFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,,None,619
+317534,57,BlockedShot,0.889000015258789,0.5579999923706055,0.11625699698925018,Sergio Agüero,a,619,OpenPlay,2019,LeftFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Rodri,Pass,619
+317539,77,MissedShots,0.925,0.55,0.3160249888896942,Sergio Agüero,a,619,OpenPlay,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Raheem Sterling,Cross,619
+317547,91,SavedShot,0.860999984741211,0.6329999923706054,0.046670299023389816,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Kevin De Bruyne,TakeOn,619
+320438,6,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,h,619,Penalty,2019,RightFoot,11695,Manchester City,Watford,8,0,2019-09-21 14:00:00,,Standard,619
+320444,24,MissedShots,0.8719999694824219,0.3320000076293945,0.3566949963569641,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11695,Manchester City,Watford,8,0,2019-09-21 14:00:00,Kevin De Bruyne,Throughball,619
+320446,26,ShotOnPost,0.904000015258789,0.4259999847412109,0.15066100656986237,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11695,Manchester City,Watford,8,0,2019-09-21 14:00:00,Kevin De Bruyne,Pass,619
+320449,43,ShotOnPost,0.9669999694824218,0.605999984741211,0.020904799923300743,Sergio Agüero,h,619,OpenPlay,2019,Head,11695,Manchester City,Watford,8,0,2019-09-21 14:00:00,Kevin De Bruyne,Aerial,619
+320455,56,MissedShots,0.9230000305175782,0.43099998474121093,0.5311610102653503,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11695,Manchester City,Watford,8,0,2019-09-21 14:00:00,Riyad Mahrez,Pass,619
+320456,57,MissedShots,0.9269999694824219,0.4779999923706055,0.5123810172080994,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11695,Manchester City,Watford,8,0,2019-09-21 14:00:00,Angelino,Cross,619
+322861,73,MissedShots,0.755,0.545,0.040384698659181595,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Fernandinho,TakeOn,619
+322866,83,MissedShots,0.9690000152587891,0.3120000076293945,0.07120519876480103,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Riyad Mahrez,BallTouch,619
+324652,2,BlockedShot,0.909000015258789,0.629000015258789,0.09837380051612854,Sergio Agüero,h,619,OpenPlay,2019,LeftFoot,11716,Manchester City,Wolverhampton Wanderers,0,2,2019-10-06 14:00:00,Raheem Sterling,Pass,619
+324666,67,BlockedShot,0.8880000305175781,0.4640000152587891,0.09404910355806351,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11716,Manchester City,Wolverhampton Wanderers,0,2,2019-10-06 14:00:00,,None,619
+324675,92,MissedShots,0.8830000305175781,0.5629999923706055,0.0789657011628151,Sergio Agüero,h,619,OpenPlay,2019,LeftFoot,11716,Manchester City,Wolverhampton Wanderers,0,2,2019-10-06 14:00:00,Oleksandr Zinchenko,Cross,619
+329195,1,MissedShots,0.8959999847412109,0.5309999847412109,0.08627080172300339,Sergio Agüero,h,619,OpenPlay,2019,Head,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,Angelino,Cross,619
+329208,35,MissedShots,0.87,0.5309999847412109,0.06959430128335953,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,Raheem Sterling,HeadPass,619
+329212,56,MissedShots,0.8369999694824218,0.25299999237060544,0.020243199542164803,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,Kevin De Bruyne,TakeOn,619
+329215,66,MissedShots,0.9169999694824219,0.5070000076293946,0.3022330105304718,Sergio Agüero,h,619,FromCorner,2019,Head,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,Bernardo Silva,Cross,619
+329216,69,Goal,0.9169999694824219,0.4909999847412109,0.40744200348854065,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,Kyle Walker,Cross,619
+329220,82,BlockedShot,0.9459999847412109,0.519000015258789,0.11454000324010849,Sergio Agüero,h,619,FromCorner,2019,RightFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,,BallTouch,619
+329219,82,BlockedShot,0.8919999694824219,0.41400001525878904,0.07652769982814789,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,Raheem Sterling,Cross,619
+331551,24,SavedShot,0.875,0.6730000305175782,0.06592030078172684,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Angelino,TakeOn,619
+331557,41,MissedShots,0.875,0.7130000305175781,0.08390430361032486,Sergio Agüero,a,619,OpenPlay,2019,LeftFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Kevin De Bruyne,Pass,619
+331560,46,SavedShot,0.8430000305175781,0.49700000762939456,0.05443369969725609,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,,None,619
+332407,32,BlockedShot,0.935,0.3240000152587891,0.0745076984167099,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11769,Manchester City,Chelsea,2,1,2019-11-23 17:30:00,Kevin De Bruyne,Pass,619
+332410,42,ShotOnPost,0.815,0.5029999923706054,0.33674299716949463,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11769,Manchester City,Chelsea,2,1,2019-11-23 17:30:00,,BallRecovery,619
+339959,47,MissedShots,0.88,0.2989999961853027,0.049189601093530655,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11837,Manchester City,Sheffield United,2,0,2019-12-29 18:00:00,Raheem Sterling,BallTouch,619
+339961,51,Goal,0.8930000305175781,0.37099998474121093,0.32784000039100647,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11837,Manchester City,Sheffield United,2,0,2019-12-29 18:00:00,Kevin De Bruyne,Throughball,619
+351827,15,SavedShot,0.9169999694824219,0.3160000038146973,0.06266990303993225,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,David Silva,Pass,619
+351832,27,Goal,0.7909999847412109,0.3609999847412109,0.041850700974464417,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Kevin De Bruyne,Pass,619
+351833,34,MissedShots,0.9219999694824219,0.32099998474121094,0.07949379831552505,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,João Cancelo,BallTouch,619
+351838,54,BlockedShot,0.9569999694824218,0.54,0.14138999581336975,Sergio Agüero,a,619,FromCorner,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Riyad Mahrez,Cross,619
+351839,55,SavedShot,0.8280000305175781,0.6580000305175782,0.045619700103998184,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Kevin De Bruyne,BallRecovery,619
+351840,56,Goal,0.899000015258789,0.5109999847412109,0.5415989756584167,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,David Silva,TakeOn,619
+351848,80,Goal,0.8909999847412109,0.34900001525878904,0.41147199273109436,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11856,Aston Villa,Manchester City,1,6,2020-01-12 16:30:00,Riyad Mahrez,Throughball,619
+351886,9,BlockedShot,0.9330000305175781,0.5359999847412109,0.15446500480175018,Sergio Agüero,h,619,OpenPlay,2019,LeftFoot,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,Bernardo Silva,Pass,619
+351889,14,SavedShot,0.9769999694824218,0.38799999237060545,0.3327929973602295,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,Kevin De Bruyne,Throughball,619
+351898,51,BlockedShot,0.8730000305175781,0.455,0.07035250216722488,Sergio Agüero,h,619,OpenPlay,2019,LeftFoot,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,Benjamin Mendy,Cross,619
+351911,81,Goal,0.9680000305175781,0.45799999237060546,0.5858809947967529,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,Gabriel Jesus,Cross,619
+351914,86,Goal,0.91,0.529000015258789,0.3056359887123108,Sergio Agüero,h,619,OpenPlay,2019,Head,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,Benjamin Mendy,Cross,619
+351913,86,BlockedShot,0.754000015258789,0.5259999847412109,0.0216537993401289,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,,None,619
+352193,72,Goal,0.970999984741211,0.524000015258789,0.6283469796180725,Sergio Agüero,a,619,OpenPlay,2019,LeftFoot,11875,Sheffield United,Manchester City,0,1,2020-01-21 19:30:00,Kevin De Bruyne,Cross,619
+352630,8,BlockedShot,0.8980000305175782,0.3990000152587891,0.08495070040225983,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11890,Tottenham,Manchester City,2,0,2020-02-02 16:30:00,,Rebound,619
+352629,8,MissedShots,0.885,0.4490000152587891,0.08800459653139114,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11890,Tottenham,Manchester City,2,0,2020-02-02 16:30:00,Kyle Walker,Cross,619
+352632,26,SavedShot,0.89,0.40099998474121096,0.07811810076236725,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11890,Tottenham,Manchester City,2,0,2020-02-02 16:30:00,,None,619
+352639,48,BlockedShot,0.7919999694824219,0.33,0.04547879844903946,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11890,Tottenham,Manchester City,2,0,2020-02-02 16:30:00,Kevin De Bruyne,Pass,619
+352638,48,MissedShots,0.9740000152587891,0.4279999923706055,0.5623890161514282,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11890,Tottenham,Manchester City,2,0,2020-02-02 16:30:00,,None,619
+352637,48,BlockedShot,0.9540000152587891,0.425,0.14364099502563477,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11890,Tottenham,Manchester City,2,0,2020-02-02 16:30:00,Raheem Sterling,Pass,619
+352874,7,MissedShots,0.850999984741211,0.4520000076293945,0.09452950209379196,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11898,Manchester City,West Ham,2,0,2020-02-19 19:30:00,Kevin De Bruyne,Pass,619
+352879,19,SavedShot,0.92,0.5820000076293945,0.13571199774742126,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11898,Manchester City,West Ham,2,0,2020-02-19 19:30:00,David Silva,Throughball,619
+352882,31,BlockedShot,0.7959999847412109,0.590999984741211,0.03864670172333717,Sergio Agüero,h,619,FromCorner,2019,RightFoot,11898,Manchester City,West Ham,2,0,2020-02-19 19:30:00,Nicolás Otamendi,Pass,619
+352887,43,BlockedShot,0.9719999694824218,0.3940000152587891,0.10291200131177902,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11898,Manchester City,West Ham,2,0,2020-02-19 19:30:00,,None,619
+352890,53,MissedShots,0.9669999694824218,0.3160000038146973,0.0802823007106781,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11898,Manchester City,West Ham,2,0,2020-02-19 19:30:00,Kevin De Bruyne,TakeOn,619
+352893,69,BlockedShot,0.9359999847412109,0.37599998474121094,0.11990699917078018,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11898,Manchester City,West Ham,2,0,2020-02-19 19:30:00,Kyle Walker,Cross,619
+353045,61,SavedShot,0.885,0.5,0.7611690163612366,Sergio Agüero,a,619,Penalty,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,,Standard,619
+353047,62,SavedShot,0.9119999694824219,0.36700000762939455,0.3309830129146576,Sergio Agüero,a,619,OpenPlay,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Riyad Mahrez,Throughball,619
+364869,90,SavedShot,0.894000015258789,0.57,0.4132489860057831,Sergio Agüero,h,619,OpenPlay,2019,LeftFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,Raheem Sterling,Pass,619
+364872,95,MissedShots,0.885,0.345,0.09124600142240524,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,Phil Foden,Pass,619
+364874,99,BlockedShot,0.750999984741211,0.4929999923706055,0.023311300203204155,Sergio Agüero,h,619,OpenPlay,2019,RightFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,Raheem Sterling,Pass,619
+366006,34,BlockedShot,0.840999984741211,0.5740000152587891,0.08062899857759476,Sergio Agüero,h,619,OpenPlay,2019,LeftFoot,11939,Manchester City,Burnley,5,0,2020-06-22 19:00:00,Bernardo Silva,Pass,619
+382095,6,MissedShots,0.9219999694824219,0.4229999923706055,0.04538629949092865,Sergio Agüero,h,619,OpenPlay,2020,Head,14480,Manchester City,Arsenal,1,0,2020-10-17 16:30:00,Riyad Mahrez,Chipped,619
+392731,80,MissedShots,0.919000015258789,0.43099998474121093,0.02246909961104393,Sergio Agüero,h,619,FromCorner,2020,Head,14564,Manchester City,West Bromwich Albion,1,1,2020-12-15 20:00:00,Kevin De Bruyne,Aerial,619
+392734,86,MissedShots,0.8819999694824219,0.33799999237060546,0.09772390127182007,Sergio Agüero,h,619,OpenPlay,2020,RightFoot,14564,Manchester City,West Bromwich Albion,1,1,2020-12-15 20:00:00,Raheem Sterling,Pass,619
+395731,80,SavedShot,0.955999984741211,0.53,0.6955779790878296,Sergio Agüero,h,619,OpenPlay,2020,RightFoot,14581,Manchester City,Newcastle United,2,0,2020-12-26 20:00:00,João Cancelo,Pass,619
+409519,90,SavedShot,0.909000015258789,0.2560000038146973,0.05013269931077957,Sergio Agüero,h,619,OpenPlay,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Phil Foden,Pass,619
+410189,44,SavedShot,0.9069999694824219,0.28899999618530275,0.038899801671504974,Sergio Agüero,a,619,OpenPlay,2020,RightFoot,14708,Fulham,Manchester City,0,3,2021-03-13 20:00:00,Ferrán Torres,Pass,619
+410193,59,Goal,0.885,0.5,0.7611690163612366,Sergio Agüero,a,619,Penalty,2020,RightFoot,14708,Fulham,Manchester City,0,3,2021-03-13 20:00:00,,Standard,619
+412755,18,MissedShots,0.8530000305175781,0.4129999923706055,0.08725439757108688,Sergio Agüero,a,619,OpenPlay,2020,LeftFoot,14730,Leicester,Manchester City,0,2,2021-04-03 16:30:00,Riyad Mahrez,Pass,619
+412763,55,BlockedShot,0.9,0.3820000076293945,0.06540480256080627,Sergio Agüero,a,619,OpenPlay,2020,RightFoot,14730,Leicester,Manchester City,0,2,2021-04-03 16:30:00,Gabriel Jesus,Cross,619
+418489,35,BlockedShot,0.865999984741211,0.36400001525878906,0.05893940106034279,Sergio Agüero,a,619,OpenPlay,2020,RightFoot,14768,Crystal Palace,Manchester City,0,2,2021-05-01 11:30:00,,None,619
+418490,37,MissedShots,0.895,0.36400001525878906,0.09888800233602524,Sergio Agüero,a,619,OpenPlay,2020,RightFoot,14768,Crystal Palace,Manchester City,0,2,2021-05-01 11:30:00,Ferrán Torres,TakeOn,619
+418492,56,Goal,0.9059999847412109,0.605999984741211,0.10987599939107895,Sergio Agüero,a,619,OpenPlay,2020,RightFoot,14768,Crystal Palace,Manchester City,0,2,2021-05-01 11:30:00,Benjamin Mendy,Pass,619
+418506,87,SavedShot,0.9769999694824218,0.33,0.09620559960603714,Sergio Agüero,a,619,OpenPlay,2020,RightFoot,14768,Crystal Palace,Manchester City,0,2,2021-05-01 11:30:00,Ferrán Torres,Pass,619
+420217,47,SavedShot,0.885,0.5,0.7611690163612366,Sergio Agüero,h,619,Penalty,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,,Standard,619
+420218,50,SavedShot,0.7180000305175781,0.47200000762939454,0.013119800016283989,Sergio Agüero,h,619,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Ferrán Torres,HeadPass,619
+424091,70,Goal,0.885,0.4640000152587891,0.44545501470565796,Sergio Agüero,h,619,OpenPlay,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Fernandinho,BallRecovery,619
+424092,75,Goal,0.8819999694824219,0.4979999923706055,0.15710000693798065,Sergio Agüero,h,619,OpenPlay,2020,Head,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Fernandinho,Cross,619
+424093,80,SavedShot,0.9259999847412109,0.29600000381469727,0.054634299129247665,Sergio Agüero,h,619,OpenPlay,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,,None,619
+424094,83,SavedShot,0.9069999694824219,0.44299999237060544,0.05711439996957779,Sergio Agüero,h,619,FromCorner,2020,Head,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Kevin De Bruyne,Cross,619
+438450,83,MissedShots,0.9469999694824218,0.4620000076293945,0.06807029992341995,Sergio Agüero,h,619,OpenPlay,2021,Head,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Memphis Depay,Aerial,619
+438453,96,Goal,0.9580000305175781,0.47200000762939454,0.5680930018424988,Sergio Agüero,h,619,OpenPlay,2021,RightFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Sergiño Dest,Cross,619
+439004,54,MissedShots,0.9430000305175781,0.3340000152587891,0.06122070178389549,Sergio Agüero,a,619,OpenPlay,2021,RightFoot,17236,Rayo Vallecano,Barcelona,1,0,2021-10-27 17:00:00,Sergiño Dest,Pass,619
+439005,58,BlockedShot,0.8969999694824219,0.3509999847412109,0.09498830139636993,Sergio Agüero,a,619,OpenPlay,2021,RightFoot,17236,Rayo Vallecano,Barcelona,1,0,2021-10-27 17:00:00,Nico González,Throughball,619
+439017,96,MissedShots,0.9630000305175781,0.42200000762939455,0.32886001467704773,Sergio Agüero,a,619,OpenPlay,2021,Head,17236,Rayo Vallecano,Barcelona,1,0,2021-10-27 17:00:00,Sergiño Dest,Pass,619
+439941,21,MissedShots,0.7119999694824218,0.485,0.034300100058317184,Sergio Agüero,h,619,OpenPlay,2021,RightFoot,17252,Barcelona,Alaves,1,1,2021-10-30 19:00:00,Sergio Busquets,Pass,619

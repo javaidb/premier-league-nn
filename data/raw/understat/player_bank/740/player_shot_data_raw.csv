@@ -1,0 +1,69 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14607,32,BlockedShot,0.7190000152587891,0.49700000762939456,0.04594159871339798,Sebastian Larsson,a,740,DirectFreekick,2014,RightFoot,4753,West Bromwich Albion,Sunderland,2,2,2014-08-16 15:00:00,,Standard,740
+14619,84,Goal,0.915,0.5359999847412109,0.4678240120410919,Sebastian Larsson,a,740,OpenPlay,2014,RightFoot,4753,West Bromwich Albion,Sunderland,2,2,2014-08-16 15:00:00,Patrick van Aanholt,Pass,740
+14826,67,BlockedShot,0.855,0.285,0.061452701687812805,Sebastian Larsson,h,740,OpenPlay,2014,RightFoot,4767,Sunderland,Manchester United,1,1,2014-08-24 16:00:00,Connor Wickham,Pass,740
+14829,74,MissedShots,0.7569999694824219,0.649000015258789,0.054647400975227356,Sebastian Larsson,h,740,DirectFreekick,2014,RightFoot,4767,Sunderland,Manchester United,1,1,2014-08-24 16:00:00,,Standard,740
+15457,54,MissedShots,0.735999984741211,0.5629999923706055,0.017486799508333206,Sebastian Larsson,a,740,OpenPlay,2014,RightFoot,4732,Burnley,Sunderland,0,0,2014-09-20 15:00:00,,BallTouch,740
+15896,35,MissedShots,0.7440000152587891,0.34799999237060547,0.014277500100433826,Sebastian Larsson,h,740,FromCorner,2014,LeftFoot,4745,Sunderland,Swansea,0,0,2014-09-27 15:00:00,,None,740
+15907,88,BlockedShot,0.7130000305175781,0.3089999961853027,0.011760099790990353,Sebastian Larsson,h,740,OpenPlay,2014,RightFoot,4745,Sunderland,Swansea,0,0,2014-09-27 15:00:00,Steven Fletcher,Pass,740
+17385,21,BlockedShot,0.8159999847412109,0.4520000076293945,0.05627350136637688,Sebastian Larsson,h,740,OpenPlay,2014,LeftFoot,4692,Sunderland,Stoke,3,1,2014-10-04 15:00:00,,Dispossessed,740
+16823,19,SavedShot,0.7190000152587891,0.4370000076293945,0.04432789981365204,Sebastian Larsson,a,740,DirectFreekick,2014,RightFoot,4703,Southampton,Sunderland,8,0,2014-10-18 15:00:00,,Standard,740
+16829,38,MissedShots,0.9269999694824219,0.41200000762939454,0.10918000340461731,Sebastian Larsson,a,740,OpenPlay,2014,RightFoot,4703,Southampton,Sunderland,8,0,2014-10-18 15:00:00,Jordi Gómez,Rebound,740
+16138,64,SavedShot,0.7680000305175781,0.34900001525878904,0.018320100381970406,Sebastian Larsson,h,740,OpenPlay,2014,RightFoot,4711,Sunderland,Arsenal,0,2,2014-10-25 15:00:00,Lee Cattermole,Tackle,740
+17051,30,BlockedShot,0.7219999694824218,0.5259999847412109,0.01361059956252575,Sebastian Larsson,h,740,OpenPlay,2014,RightFoot,4665,Sunderland,Everton,1,1,2014-11-09 13:30:00,,None,740
+17065,66,Goal,0.78,0.5709999847412109,0.08820410072803497,Sebastian Larsson,h,740,DirectFreekick,2014,RightFoot,4665,Sunderland,Everton,1,1,2014-11-09 13:30:00,,Standard,740
+16801,36,BlockedShot,0.8780000305175781,0.6170000076293946,0.08744090050458908,Sebastian Larsson,a,740,OpenPlay,2014,LeftFoot,4672,Leicester,Sunderland,0,0,2014-11-22 15:00:00,Steven Fletcher,Pass,740
+16810,58,SavedShot,0.7390000152587891,0.6419999694824219,0.04670650139451027,Sebastian Larsson,a,740,DirectFreekick,2014,RightFoot,4672,Leicester,Sunderland,0,0,2014-11-22 15:00:00,,Standard,740
+18294,39,BlockedShot,0.7619999694824219,0.715,0.014817999675869942,Sebastian Larsson,h,740,OpenPlay,2014,RightFoot,4686,Sunderland,Chelsea,0,0,2014-11-29 17:30:00,Anthony Réveillere,TakeOn,740
+19728,45,SavedShot,0.7519999694824219,0.345,0.016209399327635765,Sebastian Larsson,h,740,OpenPlay,2014,RightFoot,4597,Sunderland,Manchester City,1,4,2014-12-03 19:45:00,,None,740
+19733,65,BlockedShot,0.7519999694824219,0.7119999694824218,0.042262401431798935,Sebastian Larsson,h,740,DirectFreekick,2014,RightFoot,4597,Sunderland,Manchester City,1,4,2014-12-03 19:45:00,,Standard,740
+18379,52,BlockedShot,0.7869999694824219,0.3340000152587891,0.019154300913214684,Sebastian Larsson,h,740,OpenPlay,2014,RightFoot,4613,Sunderland,West Ham,1,1,2014-12-13 15:00:00,Adam Johnson,TakeOn,740
+19076,61,MissedShots,0.8059999847412109,0.34700000762939454,0.02285050041973591,Sebastian Larsson,a,740,SetPiece,2014,RightFoot,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,,None,740
+19086,91,MissedShots,0.9590000152587891,0.6730000305175782,0.16934899985790253,Sebastian Larsson,a,740,OpenPlay,2014,LeftFoot,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,William Buckley,TakeOn,740
+17978,11,MissedShots,0.8519999694824218,0.534000015258789,0.09578289836645126,Sebastian Larsson,h,740,OpenPlay,2014,RightFoot,4632,Sunderland,Hull,1,3,2014-12-26 15:00:00,Adam Johnson,Pass,740
+17981,41,BlockedShot,0.9730000305175781,0.46799999237060547,0.18223300576210022,Sebastian Larsson,h,740,OpenPlay,2014,Head,4632,Sunderland,Hull,1,3,2014-12-26 15:00:00,,None,740
+19634,39,SavedShot,0.759000015258789,0.5520000076293945,0.07005070149898529,Sebastian Larsson,a,740,DirectFreekick,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,,Standard,740
+18122,12,SavedShot,0.6919999694824219,0.6940000152587891,0.02880300022661686,Sebastian Larsson,h,740,DirectFreekick,2014,RightFoot,4561,Sunderland,Liverpool,0,1,2015-01-10 12:45:00,,Standard,740
+19252,30,Goal,0.7619999694824219,0.534000015258789,0.07420170307159424,Sebastian Larsson,a,740,DirectFreekick,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,Standard,740
+23783,74,MissedShots,0.8169999694824219,0.8219999694824218,0.04113980010151863,Sebastian Larsson,h,740,DirectFreekick,2014,RightFoot,4585,Sunderland,Burnley,2,0,2015-01-31 15:00:00,,Standard,740
+23497,34,BlockedShot,0.899000015258789,0.31799999237060544,0.061255600303411484,Sebastian Larsson,h,740,OpenPlay,2014,RightFoot,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,Adam Johnson,Pass,740
+23503,46,BlockedShot,0.8969999694824219,0.5209999847412109,0.07667680084705353,Sebastian Larsson,h,740,OpenPlay,2014,Head,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,Connor Wickham,Cross,740
+23512,69,SavedShot,0.8719999694824219,0.8009999847412109,0.031088199466466904,Sebastian Larsson,h,740,FromCorner,2014,RightFoot,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,Adam Johnson,Pass,740
+23516,83,SavedShot,0.730999984741211,0.43900001525878907,0.01152770034968853,Sebastian Larsson,h,740,OpenPlay,2014,RightFoot,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,,None,740
+23518,90,BlockedShot,0.8119999694824219,0.4829999923706055,0.03862220048904419,Sebastian Larsson,h,740,OpenPlay,2014,RightFoot,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,,None,740
+24252,6,MissedShots,0.7930000305175782,0.3089999961853027,0.06583540141582489,Sebastian Larsson,h,740,DirectFreekick,2014,RightFoot,4538,Sunderland,West Bromwich Albion,0,0,2015-02-21 15:00:00,,Standard,740
+24261,46,SavedShot,0.7190000152587891,0.544000015258789,0.0138264000415802,Sebastian Larsson,h,740,OpenPlay,2014,RightFoot,4538,Sunderland,West Bromwich Albion,0,0,2015-02-21 15:00:00,Adam Johnson,Pass,740
+24262,47,BlockedShot,0.7809999847412109,0.53,0.02320929989218712,Sebastian Larsson,h,740,FromCorner,2014,LeftFoot,4538,Sunderland,West Bromwich Albion,0,0,2015-02-21 15:00:00,,None,740
+20552,67,MissedShots,0.7480000305175781,0.46799999237060547,0.06276349723339081,Sebastian Larsson,h,740,DirectFreekick,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,,Standard,740
+22307,74,MissedShots,0.7240000152587891,0.6329999923706054,0.04139440134167671,Sebastian Larsson,h,740,DirectFreekick,2014,RightFoot,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,,Standard,740
+22311,82,BlockedShot,0.8969999694824219,0.575,0.12661899626255035,Sebastian Larsson,h,740,OpenPlay,2014,RightFoot,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,Patrick van Aanholt,Pass,740
+21761,47,SavedShot,0.8109999847412109,0.725999984741211,0.06466589868068695,Sebastian Larsson,h,740,DirectFreekick,2014,RightFoot,4402,Sunderland,Southampton,2,1,2015-05-02 15:00:00,,Standard,740
+20868,22,BlockedShot,0.8009999847412109,0.34799999237060547,0.028944600373506546,Sebastian Larsson,a,740,OpenPlay,2014,LeftFoot,4409,Everton,Sunderland,0,2,2015-05-09 12:45:00,,None,740
+20812,6,SavedShot,0.715,0.825,0.025116100907325745,Sebastian Larsson,h,740,DirectFreekick,2014,RightFoot,4421,Sunderland,Leicester,0,0,2015-05-16 15:00:00,,Standard,740
+20818,24,BlockedShot,0.6919999694824219,0.39599998474121095,0.011600799858570099,Sebastian Larsson,h,740,OpenPlay,2014,RightFoot,4421,Sunderland,Leicester,0,0,2015-05-16 15:00:00,Jermain Defoe,Pass,740
+20826,60,BlockedShot,0.7019999694824218,0.32599998474121095,0.03180060163140297,Sebastian Larsson,h,740,DirectFreekick,2014,RightFoot,4421,Sunderland,Leicester,0,0,2015-05-16 15:00:00,,Standard,740
+22319,13,SavedShot,0.7859999847412109,0.72,0.05434820055961609,Sebastian Larsson,a,740,DirectFreekick,2014,RightFoot,4431,Chelsea,Sunderland,3,1,2015-05-24 15:00:00,,Standard,740
+22344,66,MissedShots,0.7269999694824218,0.6759999847412109,0.038314398378133774,Sebastian Larsson,a,740,DirectFreekick,2014,RightFoot,4431,Chelsea,Sunderland,3,1,2015-05-24 15:00:00,,Standard,740
+51602,80,BlockedShot,0.7069999694824218,0.48,0.01125510036945343,Sebastian Larsson,a,740,OpenPlay,2015,RightFoot,84,Leicester,Sunderland,4,2,2015-08-08 18:00:00,Jack Rodwell,Pass,740
+51850,7,BlockedShot,0.7069999694824218,0.46,0.013818600215017796,Sebastian Larsson,h,740,OpenPlay,2015,RightFoot,93,Sunderland,Norwich,1,3,2015-08-15 18:00:00,,Dispossessed,740
+57064,94,BlockedShot,0.779000015258789,0.59,0.08300960063934326,Sebastian Larsson,h,740,DirectFreekick,2015,RightFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,,Standard,740
+59508,81,BlockedShot,0.9059999847412109,0.41,0.06865639984607697,Sebastian Larsson,a,740,OpenPlay,2015,RightFoot,188,Everton,Sunderland,6,2,2015-11-01 17:30:00,,None,740
+60171,82,MissedShots,0.855,0.47400001525878904,0.0922314003109932,Sebastian Larsson,a,740,OpenPlay,2015,LeftFoot,360,Southampton,Sunderland,1,1,2016-03-05 19:00:00,Fabio Borini,Pass,740
+56787,69,MissedShots,0.7240000152587891,0.28100000381469725,0.033434998244047165,Sebastian Larsson,a,740,DirectFreekick,2015,RightFoot,405,Norwich,Sunderland,0,3,2016-04-16 15:45:00,,Standard,740
+57414,88,SavedShot,0.745999984741211,0.675,0.045364201068878174,Sebastian Larsson,a,740,DirectFreekick,2015,RightFoot,427,Stoke,Sunderland,1,1,2016-04-30 18:00:00,,Standard,740
+117720,60,MissedShots,0.765,0.5879999923706055,0.022219600155949593,Sebastian Larsson,h,740,OpenPlay,2016,RightFoot,3128,Sunderland,Chelsea,0,1,2016-12-14 23:45:00,,None,740
+116582,30,MissedShots,0.73,0.7380000305175781,0.03306780010461807,Sebastian Larsson,a,740,DirectFreekick,2016,RightFoot,3147,Manchester United,Sunderland,3,1,2016-12-26 19:00:00,,Standard,740
+117120,86,MissedShots,0.7019999694824218,0.3060000038146973,0.007939400151371956,Sebastian Larsson,a,740,OpenPlay,2016,RightFoot,3157,Burnley,Sunderland,4,1,2016-12-31 19:00:00,Steven Pienaar,Pass,740
+116788,82,BlockedShot,0.7519999694824219,0.4779999923706055,0.06623899936676025,Sebastian Larsson,h,740,DirectFreekick,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,,Standard,740
+117675,46,MissedShots,0.8159999847412109,0.44299999237060544,0.06458160281181335,Sebastian Larsson,h,740,OpenPlay,2016,RightFoot,3342,Sunderland,Stoke,1,3,2017-01-14 19:00:00,Donald Love,Pass,740
+117685,86,BlockedShot,0.7930000305175782,0.5370000076293945,0.041329000145196915,Sebastian Larsson,h,740,OpenPlay,2016,RightFoot,3342,Sunderland,Stoke,1,3,2017-01-14 19:00:00,Jermain Defoe,Pass,740
+116429,89,MissedShots,0.7769999694824219,0.6969999694824218,0.01887810043990612,Sebastian Larsson,a,740,OpenPlay,2016,RightFoot,3371,Crystal Palace,Sunderland,0,4,2017-02-04 15:00:00,Bryan Oviedo,Pass,740
+118011,11,BlockedShot,0.754000015258789,0.44299999237060544,0.06555069983005524,Sebastian Larsson,h,740,DirectFreekick,2016,RightFoot,3384,Sunderland,Southampton,0,4,2017-02-11 15:00:00,,Standard,740
+119783,59,SavedShot,0.9630000305175781,0.31799999237060544,0.04031350091099739,Sebastian Larsson,h,740,OpenPlay,2016,RightFoot,3404,Sunderland,Manchester City,0,2,2017-03-05 16:00:00,,None,740
+120319,7,BlockedShot,0.7559999847412109,0.5829999923706055,0.02163279987871647,Sebastian Larsson,h,740,OpenPlay,2016,RightFoot,3423,Sunderland,Burnley,0,0,2017-03-18 15:00:00,Adnan Januzaj,TakeOn,740
+120333,49,MissedShots,0.9159999847412109,0.4779999923706055,0.11218400299549103,Sebastian Larsson,h,740,OpenPlay,2016,RightFoot,3423,Sunderland,Burnley,0,0,2017-03-18 15:00:00,Bryan Oviedo,Cross,740
+119088,52,SavedShot,0.8030000305175782,0.7119999694824218,0.019939299672842026,Sebastian Larsson,a,740,OpenPlay,2016,RightFoot,3445,Leicester,Sunderland,2,0,2017-04-04 19:45:00,,None,740
+119089,55,MissedShots,0.7759999847412109,0.6909999847412109,0.05636949837207794,Sebastian Larsson,a,740,DirectFreekick,2016,RightFoot,3445,Leicester,Sunderland,2,0,2017-04-04 19:45:00,,Standard,740
+121441,84,SavedShot,0.764000015258789,0.8080000305175781,0.03257039934396744,Sebastian Larsson,a,740,DirectFreekick,2016,RightFoot,3494,Hull,Sunderland,0,2,2017-05-06 15:00:00,,Standard,740
+120375,57,BlockedShot,0.8040000152587891,0.72,0.06303240358829498,Sebastian Larsson,h,740,DirectFreekick,2016,RightFoot,3506,Sunderland,Swansea,0,2,2017-05-13 15:00:00,,Standard,740
+112406,2,BlockedShot,0.7340000152587891,0.6090000152587891,0.04802669957280159,Sebastian Larsson,a,740,DirectFreekick,2016,RightFoot,3512,Chelsea,Sunderland,5,1,2017-05-21 15:00:00,,Standard,740

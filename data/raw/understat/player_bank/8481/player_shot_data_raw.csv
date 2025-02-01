@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+378288,47,MissedShots,0.9519999694824218,0.455,0.07043509930372238,Jimmy Dunne,a,8481,FromCorner,2020,Head,14103,Leicester,Burnley,4,2,2020-09-20 18:00:00,Ashley Westwood,Aerial,8481
+378300,72,Goal,0.9019999694824219,0.48400001525878905,0.09674959629774094,Jimmy Dunne,a,8481,SetPiece,2020,Head,14103,Leicester,Burnley,4,2,2020-09-20 18:00:00,Dwight McNeil,Cross,8481
+379115,63,MissedShots,0.9319999694824219,0.32599998474121095,0.0551908016204834,Jimmy Dunne,h,8481,SetPiece,2020,RightFoot,14109,Burnley,Southampton,0,1,2020-09-26 19:00:00,,None,8481
+424104,10,BlockedShot,0.795,0.40799999237060547,0.02490979991853237,Jimmy Dunne,a,8481,FromCorner,2020,LeftFoot,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,Josh Brownhill,BallTouch,8481
+424103,10,MissedShots,0.9019999694824219,0.39799999237060546,0.07630159705877304,Jimmy Dunne,a,8481,FromCorner,2020,RightFoot,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,,None,8481
+424111,47,BlockedShot,0.924000015258789,0.35200000762939454,0.011174799874424934,Jimmy Dunne,a,8481,FromCorner,2020,Head,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,Ashley Westwood,Aerial,8481
+424115,57,MissedShots,0.960999984741211,0.4159999847412109,0.08434499800205231,Jimmy Dunne,a,8481,FromCorner,2020,Head,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,Ashley Westwood,Cross,8481

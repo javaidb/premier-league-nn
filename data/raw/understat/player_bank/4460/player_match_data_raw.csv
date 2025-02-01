@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,15,GK,Burnley,Liverpool,0,1,2014-12-26,4630,2014,22695,0,0,0,0,0,0,0,4460
+0,0,0,90,GK,Liverpool,Arsenal,2,2,2014-12-21,4627,2014,21723,0,0,0,0,0,0.0546673983335495,0.0546673983335495,4460
+0,0,0,90,GK,Manchester United,Liverpool,3,0,2014-12-14,4616,2014,21088,0,0,0,0,0,0.019579699262976646,0.019579699262976646,4460

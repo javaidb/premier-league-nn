@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15501,4,MissedShots,0.8909999847412109,0.4809999847412109,0.04815170168876648,Liam Moore,h,4495,FromCorner,2014,Head,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Esteban Cambiasso,Cross,4495
+17003,24,MissedShots,0.9680000305175781,0.5529999923706055,0.6396690011024475,Liam Moore,h,4495,OpenPlay,2014,LeftFoot,4690,Leicester,Burnley,2,2,2014-10-04 15:00:00,,Rebound,4495
+17015,88,SavedShot,0.9230000305175782,0.5670000076293945,0.07204719632863998,Liam Moore,h,4495,FromCorner,2014,Head,4690,Leicester,Burnley,2,2,2014-10-04 15:00:00,Anthony Knockaert,Cross,4495
+16224,61,SavedShot,0.8690000152587891,0.575,0.02064640074968338,Liam Moore,a,4495,OpenPlay,2014,Head,4714,Swansea,Leicester,2,0,2014-10-25 17:30:00,Dean Hammond,Cross,4495

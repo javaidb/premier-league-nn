@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+5568,Connor Roberts,4,268,0,0,0,0,0,0,0,0,D S,Swansea,0,0,0.3168213926255703,0.3168213926255703,2017
+5568,Connor Roberts,21,1686,1,0.2225561048835516,1,1.1593199241906404,6,13,2,0,D S,Burnley,1,0.2225561048835516,3.6431610444560647,2.413885143585503,2021
+5568,Connor Roberts,14,804,0,0,1,0.31314151361584663,0,7,3,1,D S,Burnley,0,0,2.1132199577987194,1.9018691666424274,2023

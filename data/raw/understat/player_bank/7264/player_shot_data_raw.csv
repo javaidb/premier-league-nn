@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+506680,69,BlockedShot,0.8490000152587891,0.55,0.0595083013176918,Han-Noah Massengo,a,7264,OpenPlay,2022,RightFoot,19848,Monaco,Auxerre,3,2,2023-02-01 20:00:00,,None,7264
+508937,24,MissedShots,0.735,0.29200000762939454,0.01758730039000511,Han-Noah Massengo,a,7264,OpenPlay,2022,RightFoot,19869,Angers,Auxerre,1,1,2023-02-12 14:00:00,Mathias Autret,Pass,7264
+511171,47,MissedShots,0.9690000152587891,0.38,0.33684098720550537,Han-Noah Massengo,a,7264,OpenPlay,2022,RightFoot,19892,Lorient,Auxerre,0,1,2023-02-26 12:00:00,,None,7264
+515606,44,BlockedShot,0.8009999847412109,0.47299999237060547,0.040791600942611694,Han-Noah Massengo,a,7264,OpenPlay,2022,RightFoot,19924,Strasbourg,Auxerre,2,0,2023-03-19 14:00:00,,None,7264
+516465,37,MissedShots,0.7580000305175781,0.29200000762939454,0.018207000568509102,Han-Noah Massengo,h,7264,OpenPlay,2022,RightFoot,19928,Auxerre,Troyes,1,0,2023-04-01 15:00:00,Souleymane Isaak Touré,Pass,7264
+516478,71,SavedShot,0.914000015258789,0.5309999847412109,0.06356210261583328,Han-Noah Massengo,h,7264,SetPiece,2022,Head,19928,Auxerre,Troyes,1,0,2023-04-01 15:00:00,Rayan Raveloson,Chipped,7264
+525023,56,ShotOnPost,0.9569999694824218,0.6580000305175782,0.07198274880647659,Han-Noah Massengo,h,7264,OpenPlay,2022,RightFoot,19979,Auxerre,Clermont Foot,1,1,2023-05-07 13:00:00,,BallRecovery,7264
+526541,45,BlockedShot,0.7440000152587891,0.4779999923706055,0.021050507202744484,Han-Noah Massengo,a,7264,OpenPlay,2022,LeftFoot,19995,Brest,Auxerre,1,0,2023-05-14 13:00:00,Gauthier Hein,Pass,7264
+528325,91,BlockedShot,0.7469999694824219,0.5540000152587891,0.018965892493724823,Han-Noah Massengo,h,7264,OpenPlay,2022,RightFoot,19999,Auxerre,Paris Saint Germain,1,2,2023-05-21 18:45:00,,None,7264
+529375,94,MissedShots,0.674000015258789,0.6709999847412109,0.010430054739117622,Han-Noah Massengo,a,7264,OpenPlay,2022,RightFoot,20017,Toulouse,Auxerre,1,1,2023-05-27 19:00:00,Gideon Mensah,Pass,7264
+530547,20,MissedShots,0.81,0.44,0.052755869925022125,Han-Noah Massengo,h,7264,OpenPlay,2022,RightFoot,20019,Auxerre,Lens,1,3,2023-06-03 17:00:00,Joia Nuno Da Costa,Pass,7264
+530552,50,MissedShots,0.794000015258789,0.405,0.0395938903093338,Han-Noah Massengo,h,7264,OpenPlay,2022,LeftFoot,20019,Auxerre,Lens,1,3,2023-06-03 17:00:00,Siriki Dembélé,Pass,7264
+530554,54,MissedShots,0.924000015258789,0.549000015258789,0.08645367622375488,Han-Noah Massengo,h,7264,OpenPlay,2022,LeftFoot,20019,Auxerre,Lens,1,3,2023-06-03 17:00:00,Gideon Mensah,Cross,7264
+613123,2,MissedShots,0.9519999694824218,0.6,0.0799611285328865,Han-Noah Massengo,h,7264,SetPiece,2024,LeftFoot,28214,Auxerre,Saint-Etienne,1,1,2025-01-24 19:45:00,,None,7264
+613138,75,SavedShot,0.8,0.49700000762939456,0.05115398019552231,Han-Noah Massengo,h,7264,OpenPlay,2024,RightFoot,28214,Auxerre,Saint-Etienne,1,1,2025-01-24 19:45:00,Hamed Junior Traore,Pass,7264

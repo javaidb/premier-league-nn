@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+11232,Thomas Cannon,2,15,0,0.050507400184869766,0,0.0708136036992073,1,1,0,0,S,Everton,0,0.050507400184869766,0.050507400184869766,0,2022
+11232,Thomas Cannon,1,1,0,0,0,0,0,0,0,0,S,Everton,0,0,0,0,2023

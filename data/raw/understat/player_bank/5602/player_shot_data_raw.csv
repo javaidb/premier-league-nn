@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+275987,88,MissedShots,0.8830000305175781,0.5129999923706055,0.054438598453998566,Sam Surridge,a,5602,OpenPlay,2018,Head,9470,Arsenal,Bournemouth,5,1,2019-02-27 19:45:00,Nathaniel Clyne,Cross,5602
+301299,96,SavedShot,0.8859999847412109,0.5509999847412109,0.32495298981666565,Sam Surridge,a,5602,OpenPlay,2018,LeftFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Nathan Aké,Pass,5602
+371121,93,MissedShots,0.8490000152587891,0.5409999847412109,0.42005300521850586,Sam Surridge,h,5602,OpenPlay,2019,LeftFoot,11984,Bournemouth,Leicester,4,1,2020-07-12 18:00:00,,None,5602
+371122,95,MissedShots,0.9530000305175781,0.545,0.4771080017089844,Sam Surridge,h,5602,SetPiece,2019,Head,11984,Bournemouth,Leicester,4,1,2020-07-12 18:00:00,Junior Stanislas,Cross,5602
+479310,51,MissedShots,0.9030000305175782,0.43099998474121093,0.04274750128388405,Sam Surridge,a,5602,OpenPlay,2022,Head,18206,Newcastle United,Nottingham Forest,2,0,2022-08-06 14:00:00,,Aerial,5602
+479315,62,MissedShots,0.9059999847412109,0.5129999923706055,0.07497990131378174,Sam Surridge,a,5602,OpenPlay,2022,Head,18206,Newcastle United,Nottingham Forest,2,0,2022-08-06 14:00:00,Neco Williams,Cross,5602
+500160,84,MissedShots,0.865999984741211,0.41400001525878904,0.08139640092849731,Sam Surridge,h,5602,OpenPlay,2022,RightFoot,18358,Nottingham Forest,Crystal Palace,1,0,2022-11-12 15:00:00,Morgan Gibbs-White,Chipped,5602
+501114,69,SavedShot,0.899000015258789,0.5729999923706055,0.08524160087108612,Sam Surridge,a,5602,OpenPlay,2022,RightFoot,18370,Manchester United,Nottingham Forest,3,0,2022-12-27 20:00:00,,Rebound,5602
+503538,72,MissedShots,0.93,0.5070000076293946,0.4213230013847351,Sam Surridge,h,5602,OpenPlay,2022,Head,18399,Nottingham Forest,Leicester,2,0,2023-01-14 15:00:00,Serge Aurier,Cross,5602
+503542,94,BlockedShot,0.874000015258789,0.5670000076293945,0.14452999830245972,Sam Surridge,h,5602,OpenPlay,2022,LeftFoot,18399,Nottingham Forest,Leicester,2,0,2023-01-14 15:00:00,Morgan Gibbs-White,BallTouch,5602
+504705,80,BlockedShot,0.889000015258789,0.6090000152587891,0.06697610020637512,Sam Surridge,a,5602,OpenPlay,2022,RightFoot,18403,Bournemouth,Nottingham Forest,1,1,2023-01-21 15:00:00,Morgan Gibbs-White,BallTouch,5602
+504708,82,Goal,0.975999984741211,0.5429999923706055,0.7352539896965027,Sam Surridge,a,5602,OpenPlay,2022,RightFoot,18403,Bournemouth,Nottingham Forest,1,1,2023-01-21 15:00:00,Brennan Johnson,Rebound,5602
+507595,77,MissedShots,0.8430000305175781,0.634000015258789,0.04022489860653877,Sam Surridge,h,5602,SetPiece,2022,RightFoot,18419,Nottingham Forest,Leeds,1,0,2023-02-05 14:00:00,Morgan Gibbs-White,Pass,5602

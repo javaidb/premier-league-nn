@@ -1,0 +1,67 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15434,22,SavedShot,0.96,0.4470000076293945,0.4813689887523651,Ciaran Clark,h,875,SetPiece,2014,Head,4731,Aston Villa,Arsenal,0,3,2014-09-20 15:00:00,Tom Cleverley,Cross,875
+15435,23,MissedShots,0.89,0.54,0.041965801268815994,Ciaran Clark,h,875,FromCorner,2014,Head,4731,Aston Villa,Arsenal,0,3,2014-09-20 15:00:00,Tom Cleverley,Cross,875
+15443,57,BlockedShot,0.9259999847412109,0.34,0.054195601493120193,Ciaran Clark,h,875,FromCorner,2014,LeftFoot,4731,Aston Villa,Arsenal,0,3,2014-09-20 15:00:00,,None,875
+16311,88,MissedShots,0.965,0.3940000152587891,0.05569420009851456,Ciaran Clark,a,875,FromCorner,2014,LeftFoot,4700,Everton,Aston Villa,3,0,2014-10-18 15:00:00,Ashley Westwood,Cross,875
+17602,54,MissedShots,0.9569999694824218,0.43099998474121093,0.5331649780273438,Ciaran Clark,a,875,SetPiece,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Christian Benteke,HeadPass,875
+17612,79,SavedShot,0.9259999847412109,0.5279999923706055,0.1541289985179901,Ciaran Clark,a,875,OpenPlay,2014,LeftFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,,Rebound,875
+17334,10,BlockedShot,0.9359999847412109,0.5179999923706055,0.06491219997406006,Ciaran Clark,a,875,FromCorner,2014,Head,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Ashley Westwood,Aerial,875
+17336,11,SavedShot,0.9380000305175781,0.5529999923706055,0.07219789922237396,Ciaran Clark,a,875,OpenPlay,2014,Head,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Jores Okore,HeadPass,875
+17339,17,MissedShots,0.9619999694824218,0.4329999923706055,0.11450400203466415,Ciaran Clark,a,875,FromCorner,2014,Head,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Ashley Westwood,Cross,875
+19308,26,BlockedShot,0.7709999847412109,0.39799999237060546,0.02322320081293583,Ciaran Clark,a,875,SetPiece,2014,LeftFoot,4593,Crystal Palace,Aston Villa,0,1,2014-12-02 20:00:00,Ashley Westwood,Pass,875
+19796,16,Goal,0.93,0.4929999923706055,0.40529799461364746,Ciaran Clark,h,875,SetPiece,2014,Head,4607,Aston Villa,Leicester,2,1,2014-12-07 16:00:00,Ashley Westwood,Chipped,875
+19811,76,SavedShot,0.9119999694824219,0.495,0.08602800220251083,Ciaran Clark,h,875,FromCorner,2014,Head,4607,Aston Villa,Leicester,2,1,2014-12-07 16:00:00,Jack Grealish,Cross,875
+18693,70,BlockedShot,0.914000015258789,0.46,0.08716460317373276,Ciaran Clark,h,875,SetPiece,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,,None,875
+19330,14,BlockedShot,0.7140000152587891,0.6309999847412109,0.013505400158464909,Ciaran Clark,h,875,OpenPlay,2014,LeftFoot,4557,Aston Villa,Crystal Palace,0,0,2015-01-01 15:00:00,Alan Hutton,Pass,875
+24003,74,MissedShots,0.8959999847412109,0.5709999847412109,0.055399298667907715,Ciaran Clark,h,875,FromCorner,2014,LeftFoot,4516,Aston Villa,Chelsea,1,2,2015-02-07 15:00:00,Carles Gil,Cross,875
+23603,88,SavedShot,0.919000015258789,0.505,0.1003199964761734,Ciaran Clark,h,875,FromCorner,2014,Head,4535,Aston Villa,Stoke,1,2,2015-02-21 15:00:00,Fabian Delph,Cross,875
+53261,65,MissedShots,0.95,0.36900001525878906,0.011638700030744076,Ciaran Clark,a,875,FromCorner,2015,Head,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Leandro Bacuna,Aerial,875
+53789,44,MissedShots,0.945,0.595999984741211,0.01890989951789379,Ciaran Clark,a,875,FromCorner,2015,Head,206,Everton,Aston Villa,4,0,2015-11-21 19:00:00,Carles Gil,Aerial,875
+55679,36,MissedShots,0.975999984741211,0.5770000076293945,0.45881399512290955,Ciaran Clark,h,875,FromCorner,2015,LeftFoot,212,Aston Villa,Watford,2,3,2015-11-28 19:00:00,Jordan Ayew,Pass,875
+60578,21,MissedShots,0.9540000152587891,0.42900001525878906,0.10817600041627884,Ciaran Clark,a,875,FromCorner,2015,Head,379,Swansea,Aston Villa,1,0,2016-03-19 21:30:00,Jordan Veretout,Cross,875
+60594,42,MissedShots,0.9059999847412109,0.5359999847412109,0.06690210103988647,Ciaran Clark,a,875,FromCorner,2015,Head,379,Swansea,Aston Villa,1,0,2016-03-19 21:30:00,Carles Gil,Cross,875
+60451,48,MissedShots,0.9069999694824219,0.445,0.01942170038819313,Ciaran Clark,h,875,FromCorner,2015,Head,398,Aston Villa,Bournemouth,1,2,2016-04-09 18:00:00,Ashley Westwood,Aerial,875
+60457,75,MissedShots,0.915,0.46700000762939453,0.033900901675224304,Ciaran Clark,h,875,FromCorner,2015,Head,398,Aston Villa,Bournemouth,1,2,2016-04-09 18:00:00,Ashley Westwood,Aerial,875
+56580,83,SavedShot,0.889000015258789,0.5309999847412109,0.04275760054588318,Ciaran Clark,a,875,FromCorner,2015,Head,406,Manchester United,Aston Villa,1,0,2016-04-16 18:00:00,Ashley Westwood,Cross,875
+57523,27,Goal,0.9359999847412109,0.5320000076293945,0.11859200149774551,Ciaran Clark,a,875,FromCorner,2015,Head,430,Watford,Aston Villa,3,2,2016-04-30 18:00:00,Ashley Westwood,Cross,875
+57613,3,MissedShots,0.7240000152587891,0.7340000152587891,0.012210099957883358,Ciaran Clark,h,875,OpenPlay,2015,LeftFoot,440,Aston Villa,Newcastle United,0,0,2016-05-07 18:00:00,Alan Hutton,Pass,875
+158310,86,MissedShots,0.8819999694824219,0.5459999847412109,0.049386098980903625,Ciaran Clark,h,875,SetPiece,2017,RightFoot,7127,Newcastle United,Tottenham,0,2,2017-08-13 13:30:00,Ayoze Pérez,Aerial,875
+158803,71,Goal,0.93,0.4929999923706055,0.45236000418663025,Ciaran Clark,h,875,OpenPlay,2017,Head,7142,Newcastle United,West Ham,3,0,2017-08-26 15:00:00,Matt Ritchie,Cross,875
+159151,86,BlockedShot,0.9269999694824219,0.5070000076293946,0.05177909880876541,Ciaran Clark,a,875,FromCorner,2017,Head,7177,Brighton,Newcastle United,1,0,2017-09-24 16:00:00,Matt Ritchie,CornerAwarded,875
+161074,67,MissedShots,0.9009999847412109,0.620999984741211,0.03261439874768257,Ciaran Clark,h,875,FromCorner,2017,RightFoot,7222,Newcastle United,Bournemouth,0,1,2017-11-04 15:00:00,Jonjo Shelvey,Aerial,875
+160888,9,MissedShots,0.9230000305175782,0.5359999847412109,0.043696798384189606,Ciaran Clark,a,875,FromCorner,2017,Head,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Jonjo Shelvey,Aerial,875
+161031,13,BlockedShot,0.9469999694824218,0.435,0.13316799700260162,Ciaran Clark,a,875,SetPiece,2017,Head,7252,West Bromwich Albion,Newcastle United,2,2,2017-11-28 20:00:00,Matt Ritchie,Cross,875
+161040,46,MissedShots,0.9490000152587891,0.525,0.13014300167560577,Ciaran Clark,a,875,FromCorner,2017,Head,7252,West Bromwich Albion,Newcastle United,2,2,2017-11-28 20:00:00,Matt Ritchie,Cross,875
+161044,58,Goal,0.955999984741211,0.534000015258789,0.46283701062202454,Ciaran Clark,a,875,FromCorner,2017,Head,7252,West Bromwich Albion,Newcastle United,2,2,2017-11-28 20:00:00,Matt Ritchie,Cross,875
+161637,89,MissedShots,0.9159999847412109,0.5270000076293946,0.08880829811096191,Ciaran Clark,a,875,FromCorner,2017,Head,7259,Chelsea,Newcastle United,3,1,2017-12-02 12:30:00,Matt Ritchie,Cross,875
+186471,29,MissedShots,0.9690000152587891,0.5379999923706055,0.6745269894599915,Ciaran Clark,a,875,FromCorner,2017,LeftFoot,7337,Stoke,Newcastle United,0,1,2018-01-01 15:00:00,Ayoze Pérez,Rebound,875
+188912,1,SavedShot,0.8859999847412109,0.45599998474121095,0.05263169854879379,Ciaran Clark,a,875,SetPiece,2017,RightFoot,7354,Manchester City,Newcastle United,3,1,2018-01-20 17:30:00,,Aerial,875
+232841,27,BlockedShot,0.89,0.4490000152587891,0.01460229977965355,Ciaran Clark,h,875,FromCorner,2018,Head,9198,Newcastle United,Tottenham,1,2,2018-08-11 14:30:00,Matt Ritchie,Aerial,875
+232847,38,MissedShots,0.88,0.6809999847412109,0.0441134013235569,Ciaran Clark,h,875,SetPiece,2018,LeftFoot,9198,Newcastle United,Tottenham,1,2,2018-08-11 14:30:00,,None,875
+233887,90,Goal,0.9319999694824219,0.580999984741211,0.27758800983428955,Ciaran Clark,h,875,OpenPlay,2018,Head,9238,Newcastle United,Arsenal,1,2,2018-09-15 14:00:00,Federico Fernández,Cross,875
+250482,22,Goal,0.8919999694824219,0.42400001525878905,0.040633201599121094,Ciaran Clark,a,875,FromCorner,2018,Head,9326,Burnley,Newcastle United,1,2,2018-11-26 20:00:00,Matt Ritchie,Cross,875
+251201,45,MissedShots,0.93,0.43900001525878907,0.03762190043926239,Ciaran Clark,h,875,FromCorner,2018,Head,9348,Newcastle United,Wolverhampton Wanderers,1,2,2018-12-09 16:00:00,Ki Sung-yueng,Aerial,875
+251202,50,BlockedShot,0.8780000305175781,0.5879999923706055,0.026939699426293373,Ciaran Clark,h,875,SetPiece,2018,Head,9348,Newcastle United,Wolverhampton Wanderers,1,2,2018-12-09 16:00:00,Ki Sung-yueng,Cross,875
+274515,39,Goal,0.904000015258789,0.524000015258789,0.02375820092856884,Ciaran Clark,a,875,FromCorner,2018,Head,9413,Chelsea,Newcastle United,2,1,2019-01-12 17:30:00,Matt Ritchie,Aerial,875
+325613,88,MissedShots,0.9230000305175782,0.43900001525878907,0.04057860001921654,Ciaran Clark,a,875,OpenPlay,2019,Head,11725,Chelsea,Newcastle United,1,0,2019-10-19 15:00:00,Christian Atsu,Aerial,875
+329274,15,Goal,0.95,0.4929999923706055,0.1306370049715042,Ciaran Clark,a,875,SetPiece,2019,Head,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Joelinton,HeadPass,875
+330707,51,Goal,0.9540000152587891,0.47200000762939454,0.1473339945077896,Ciaran Clark,h,875,FromCorner,2019,LeftFoot,11756,Newcastle United,Bournemouth,2,1,2019-11-09 15:00:00,,Rebound,875
+330710,59,SavedShot,0.924000015258789,0.51,0.05175840109586716,Ciaran Clark,h,875,FromCorner,2019,Head,11756,Newcastle United,Bournemouth,2,1,2019-11-09 15:00:00,Jonjo Shelvey,Aerial,875
+336298,29,SavedShot,0.914000015258789,0.534000015258789,0.0322003997862339,Ciaran Clark,h,875,FromCorner,2019,Head,11798,Newcastle United,Southampton,2,1,2019-12-08 14:00:00,Jonjo Shelvey,Aerial,875
+352840,62,BlockedShot,0.9119999694824219,0.5770000076293945,0.3494040071964264,Ciaran Clark,a,875,OpenPlay,2019,LeftFoot,11893,Arsenal,Newcastle United,4,0,2020-02-16 16:30:00,Allan Saint-Maximin,Pass,875
+392930,64,Goal,0.8780000305175781,0.525,0.029866399243474007,Ciaran Clark,a,875,FromCorner,2020,Head,14558,Leeds,Newcastle United,5,2,2020-12-16 18:00:00,Ryan Fraser,Cross,875
+395720,47,BlockedShot,0.84,0.46,0.044297199696302414,Ciaran Clark,a,875,FromCorner,2020,LeftFoot,14581,Manchester City,Newcastle United,2,0,2020-12-26 20:00:00,Isaac Hayden,End,875
+396152,78,SavedShot,0.9019999694824219,0.545,0.268328994512558,Ciaran Clark,h,875,SetPiece,2020,Head,14591,Newcastle United,Liverpool,0,0,2020-12-30 20:00:00,Matt Ritchie,Aerial,875
+396873,48,MissedShots,0.904000015258789,0.6559999847412109,0.007594139780849218,Ciaran Clark,h,875,SetPiece,2020,Head,14597,Newcastle United,Leicester,1,2,2021-01-03 14:15:00,Matt Ritchie,Aerial,875
+396877,66,MissedShots,0.9540000152587891,0.55,0.06907720118761063,Ciaran Clark,h,875,FromCorner,2020,Head,14597,Newcastle United,Leicester,1,2,2021-01-03 14:15:00,Matt Ritchie,Aerial,875
+402512,52,BlockedShot,0.9480000305175781,0.48700000762939455,0.1414860039949417,Ciaran Clark,h,875,FromCorner,2020,RightFoot,14652,Newcastle United,Crystal Palace,1,2,2021-02-02 20:15:00,Ryan Fraser,Cross,875
+406999,77,MissedShots,0.9080000305175782,0.590999984741211,0.054107800126075745,Ciaran Clark,h,875,SetPiece,2020,Head,14688,Newcastle United,Wolverhampton Wanderers,1,1,2021-02-27 20:00:00,Jonjo Shelvey,Cross,875
+408839,60,MissedShots,0.9119999694824219,0.4929999923706055,0.04744429886341095,Ciaran Clark,a,875,FromCorner,2020,Head,14703,West Bromwich Albion,Newcastle United,0,0,2021-03-07 12:00:00,,None,875
+409684,85,OwnGoal,0.09800000190734863,0.48,0,Ciaran Clark,h,875,OpenPlay,2020,LeftFoot,14712,Newcastle United,Aston Villa,1,1,2021-03-12 20:00:00,,OffsideProvoked,875
+426227,26,BlockedShot,0.9180000305175782,0.5479999923706055,0.03200260177254677,Ciaran Clark,h,875,FromCorner,2021,Head,16384,Newcastle United,West Ham,2,4,2021-08-15 13:00:00,Matt Ritchie,Aerial,875
+426228,26,MissedShots,0.9330000305175781,0.5670000076293945,0.13006499409675598,Ciaran Clark,h,875,FromCorner,2021,LeftFoot,16384,Newcastle United,West Ham,2,4,2021-08-15 13:00:00,,Rebound,875
+426232,32,MissedShots,0.94,0.485,0.07043279707431793,Ciaran Clark,h,875,FromCorner,2021,Head,16384,Newcastle United,West Ham,2,4,2021-08-15 13:00:00,Matt Ritchie,Aerial,875
+433489,41,MissedShots,0.9480000305175781,0.49900001525878906,0.5528709888458252,Ciaran Clark,a,875,SetPiece,2021,Head,16427,Watford,Newcastle United,1,1,2021-09-25 14:00:00,Matt Ritchie,Cross,875
+433509,79,MissedShots,0.9540000152587891,0.48400001525878905,0.15052400529384613,Ciaran Clark,a,875,OpenPlay,2021,Head,16427,Watford,Newcastle United,1,1,2021-09-25 14:00:00,Matt Ritchie,Cross,875
+437019,8,MissedShots,0.91,0.38799999237060545,0.025382699444890022,Ciaran Clark,h,875,OpenPlay,2021,Head,16452,Newcastle United,Tottenham,2,3,2021-10-17 15:30:00,Callum Wilson,Aerial,875
+442604,55,SavedShot,0.924000015258789,0.525,0.04891069978475571,Ciaran Clark,h,875,FromCorner,2021,Head,16491,Newcastle United,Brentford,3,3,2021-11-20 15:00:00,Matt Ritchie,Aerial,875

@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+495549,12,BlockedShot,0.9280000305175782,0.7380000305175781,0.025140300393104553,Hugo Bueno,h,10140,OpenPlay,2022,LeftFoot,18331,Wolverhampton Wanderers,Leicester,0,4,2022-10-23 13:00:00,Adama Traoré,Cross,10140
+500367,82,BlockedShot,0.89,0.7609999847412109,0.029652699828147888,Hugo Bueno,h,10140,OpenPlay,2022,LeftFoot,18361,Wolverhampton Wanderers,Arsenal,0,2,2022-11-12 19:45:00,Rúben Neves,Pass,10140
+500987,55,SavedShot,0.8880000305175781,0.7319999694824219,0.03713519871234894,Hugo Bueno,a,10140,OpenPlay,2022,LeftFoot,18367,Everton,Wolverhampton Wanderers,1,2,2022-12-26 15:00:00,Daniel Podence,Pass,10140
+504950,47,MissedShots,0.785,0.6140000152587891,0.020526200532913208,Hugo Bueno,a,10140,FromCorner,2022,LeftFoot,18409,Manchester City,Wolverhampton Wanderers,3,0,2023-01-22 14:00:00,,None,10140
+532787,94,BlockedShot,0.7930000305175782,0.624000015258789,0.01879335753619671,Hugo Bueno,a,10140,OpenPlay,2023,RightFoot,22284,Manchester United,Wolverhampton Wanderers,1,0,2023-08-14 19:00:00,,TakeOn,10140
+533169,93,BlockedShot,0.865999984741211,0.5970000076293945,0.05028897896409035,Hugo Bueno,h,10140,OpenPlay,2023,RightFoot,22286,Wolverhampton Wanderers,Brighton,1,4,2023-08-19 14:00:00,,Rebound,10140
+533168,93,BlockedShot,0.865999984741211,0.600999984741211,0.08898574113845825,Hugo Bueno,h,10140,OpenPlay,2023,LeftFoot,22286,Wolverhampton Wanderers,Brighton,1,4,2023-08-19 14:00:00,Matheus Cunha,Pass,10140
+537370,90,OwnGoal,0.14800000190734863,0.585,0,Hugo Bueno,h,10140,OpenPlay,2023,RightFoot,21935,Wolverhampton Wanderers,Liverpool,1,3,2023-09-16 11:30:00,,None,10140
+552951,36,BlockedShot,0.885,0.6730000305175782,0.09239848703145981,Hugo Bueno,h,10140,OpenPlay,2023,LeftFoot,22054,Wolverhampton Wanderers,Nottingham Forest,1,1,2023-12-09 15:00:00,Pablo Sarabia,Pass,10140
+575185,37,MissedShots,0.784000015258789,0.6409999847412109,0.026793142780661583,Hugo Bueno,h,10140,OpenPlay,2023,LeftFoot,22234,Wolverhampton Wanderers,Arsenal,0,2,2024-04-20 18:30:00,,BallRecovery,10140

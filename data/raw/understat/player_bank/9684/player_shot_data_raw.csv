@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+436428,74,BlockedShot,0.8619999694824219,0.505,0.07031390070915222,Marcus Forss,h,9684,OpenPlay,2021,LeftFoot,16448,Brentford,Chelsea,0,1,2021-10-16 16:30:00,,Rebound,9684
+436429,78,BlockedShot,0.8069999694824219,0.46599998474121096,0.04281989857554436,Marcus Forss,h,9684,OpenPlay,2021,LeftFoot,16448,Brentford,Chelsea,0,1,2021-10-16 16:30:00,,None,9684
+439720,64,BlockedShot,0.914000015258789,0.575999984741211,0.08153829723596573,Marcus Forss,a,9684,FromCorner,2021,LeftFoot,16467,Burnley,Brentford,3,1,2021-10-30 14:00:00,Mathias Jensen,Pass,9684
+447395,83,MissedShots,0.8980000305175782,0.4420000076293945,0.055347099900245667,Marcus Forss,h,9684,FromCorner,2021,Head,16527,Brentford,Watford,2,1,2021-12-10 20:00:00,Vitaly Janelt,Cross,9684
+454682,80,MissedShots,0.8230000305175781,0.42400001525878905,0.045733001083135605,Marcus Forss,h,9684,OpenPlay,2021,LeftFoot,16597,Brentford,Wolverhampton Wanderers,1,2,2022-01-22 15:00:00,,None,9684

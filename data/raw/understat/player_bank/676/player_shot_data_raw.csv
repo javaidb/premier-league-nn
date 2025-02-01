@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+18113,59,MissedShots,0.899000015258789,0.58,0.10116499662399292,Jores Okore,a,676,SetPiece,2014,RightFoot,4631,Swansea,Aston Villa,1,0,2014-12-26 15:00:00,,Rebound,676
+17920,38,BlockedShot,0.9069999694824219,0.605999984741211,0.07685869932174683,Jores Okore,a,676,FromCorner,2014,RightFoot,4567,Leicester,Aston Villa,1,0,2015-01-10 15:00:00,,None,676
+17931,65,MissedShots,0.93,0.7469999694824219,0.037487998604774475,Jores Okore,a,676,FromCorner,2014,LeftFoot,4567,Leicester,Aston Villa,1,0,2015-01-10 15:00:00,Alan Hutton,Pass,676
+23993,47,Goal,0.935,0.5379999923706055,0.37984699010849,Jores Okore,h,676,FromCorner,2014,Head,4516,Aston Villa,Chelsea,1,2,2015-02-07 15:00:00,Carles Gil,Cross,676
+21193,56,SavedShot,0.9540000152587891,0.5470000076293945,0.12808099389076233,Jores Okore,h,676,FromCorner,2014,Head,4504,Aston Villa,Swansea,0,1,2015-03-21 15:00:00,Charles N&#039;Zogbia,Cross,676
+22093,75,MissedShots,0.9640000152587891,0.5329999923706055,0.06511549651622772,Jores Okore,a,676,SetPiece,2014,Head,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Leandro Bacuna,BallTouch,676

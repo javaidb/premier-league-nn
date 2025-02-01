@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+10803,Tyrell Malacia,22,1376,0,0.16805899888277054,0,0.7472324855625629,5,9,6,0,D S,Manchester United,0,0.16805899888277054,6.350732691586018,5.691335782408714,2022
+10803,Tyrell Malacia,3,102,0,0,0,0.062010977417230606,0,1,1,0,D S,Manchester United,0,0,0.062010977417230606,0,2024
+10803,Tyrell Malacia,3,102,0,0,0,0.062010977417230606,0,1,1,0,D S,Manchester United,0,0,0.062010977417230606,0,2025

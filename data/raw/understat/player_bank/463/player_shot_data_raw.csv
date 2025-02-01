@@ -1,0 +1,184 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+57923,6,MissedShots,0.815,0.61,0.04346650093793869,Junior Stanislas,a,463,OpenPlay,2015,LeftFoot,126,Norwich,Bournemouth,3,1,2015-09-12 18:00:00,Adam Smith,Pass,463
+57929,46,MissedShots,0.8680000305175781,0.3940000152587891,0.07248610258102417,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,126,Norwich,Bournemouth,3,1,2015-09-12 18:00:00,Simon Francis,Pass,463
+52742,51,BlockedShot,0.7919999694824219,0.74,0.010659899562597275,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,189,Southampton,Bournemouth,2,0,2015-11-01 20:00:00,,None,463
+52744,65,MissedShots,0.74,0.42700000762939455,0.054639000445604324,Junior Stanislas,a,463,DirectFreekick,2015,RightFoot,189,Southampton,Bournemouth,2,0,2015-11-01 20:00:00,,Standard,463
+52748,79,BlockedShot,0.7680000305175781,0.575999984741211,0.07497099786996841,Junior Stanislas,a,463,DirectFreekick,2015,RightFoot,189,Southampton,Bournemouth,2,0,2015-11-01 20:00:00,,Standard,463
+52755,89,MissedShots,0.825,0.7169999694824218,0.016548100858926773,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,189,Southampton,Bournemouth,2,0,2015-11-01 20:00:00,Charlie Daniels,Pass,463
+54551,50,MissedShots,0.8680000305175781,0.595999984741211,0.05922050029039383,Junior Stanislas,h,463,OpenPlay,2015,RightFoot,191,Bournemouth,Newcastle United,0,1,2015-11-07 16:45:00,Dan Gosling,BallTouch,463
+54826,73,BlockedShot,0.8169999694824219,0.46,0.0647066980600357,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,202,Swansea,Bournemouth,2,2,2015-11-21 19:00:00,Dan Gosling,Pass,463
+55868,59,BlockedShot,0.8440000152587891,0.6909999847412109,0.03825550153851509,Junior Stanislas,h,463,OpenPlay,2015,RightFoot,213,Bournemouth,Everton,3,3,2015-11-28 19:00:00,Harry Arter,Pass,463
+55872,69,BlockedShot,0.7719999694824219,0.5659999847412109,0.03034920059144497,Junior Stanislas,h,463,OpenPlay,2015,RightFoot,213,Bournemouth,Everton,3,3,2015-11-28 19:00:00,Harry Arter,Pass,463
+55875,86,Goal,0.905,0.45599998474121095,0.42942699790000916,Junior Stanislas,h,463,OpenPlay,2015,RightFoot,213,Bournemouth,Everton,3,3,2015-11-28 19:00:00,Joshua King,Pass,463
+55880,97,Goal,0.9130000305175782,0.445,0.26063600182533264,Junior Stanislas,h,463,OpenPlay,2015,Head,213,Bournemouth,Everton,3,3,2015-11-28 19:00:00,Charlie Daniels,Cross,463
+53721,6,BlockedShot,0.8390000152587891,0.5729999923706055,0.058464400470256805,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,228,Chelsea,Bournemouth,0,1,2015-12-05 21:30:00,,None,463
+53722,9,BlockedShot,0.875999984741211,0.6930000305175781,0.05000689998269081,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,228,Chelsea,Bournemouth,0,1,2015-12-05 21:30:00,Dan Gosling,Pass,463
+53723,11,SavedShot,0.855999984741211,0.6580000305175782,0.08363579958677292,Junior Stanislas,a,463,OpenPlay,2015,LeftFoot,228,Chelsea,Bournemouth,0,1,2015-12-05 21:30:00,Joshua King,Pass,463
+53299,1,Goal,0.995,0.995,0.012513799592852592,Junior Stanislas,h,463,FromCorner,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,CornerAwarded,463
+53303,13,MissedShots,0.745999984741211,0.3270000076293945,0.04564730077981949,Junior Stanislas,h,463,DirectFreekick,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,Standard,463
+53307,27,SavedShot,0.775,0.6580000305175782,0.020854799076914787,Junior Stanislas,h,463,FromCorner,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,Harry Arter,Pass,463
+53393,1,SavedShot,0.7919999694824219,0.69,0.029193099588155746,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,241,West Bromwich Albion,Bournemouth,1,2,2015-12-19 19:00:00,Glenn Murray,LayOff,463
+53405,67,ShotOnPost,0.98,0.66,0.05647119879722595,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,241,West Bromwich Albion,Bournemouth,1,2,2015-12-19 19:00:00,Adam Smith,TakeOn,463
+53931,39,MissedShots,0.8430000305175781,0.5609999847412109,0.06322529911994934,Junior Stanislas,h,463,OpenPlay,2015,LeftFoot,255,Bournemouth,Crystal Palace,0,0,2015-12-26 19:00:00,Glenn Murray,None,463
+53939,62,MissedShots,0.664000015258789,0.725,0.024239199236035347,Junior Stanislas,h,463,DirectFreekick,2015,RightFoot,255,Bournemouth,Crystal Palace,0,0,2015-12-26 19:00:00,,Standard,463
+52325,83,MissedShots,0.8530000305175781,0.7330000305175781,0.03055020049214363,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,266,Arsenal,Bournemouth,2,0,2015-12-28 21:30:00,Harry Arter,Pass,463
+55550,1,BlockedShot,0.875,0.7119999694824218,0.04121150076389313,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,274,Leicester,Bournemouth,0,0,2016-01-02 19:00:00,Harry Arter,Pass,463
+55555,32,MissedShots,0.919000015258789,0.649000015258789,0.11845500022172928,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,274,Leicester,Bournemouth,0,0,2016-01-02 19:00:00,Matt Ritchie,Throughball,463
+55563,63,BlockedShot,0.8209999847412109,0.645,0.03170249983668327,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,274,Leicester,Bournemouth,0,0,2016-01-02 19:00:00,,Rebound,463
+53389,80,BlockedShot,0.7769999694824219,0.59,0.02777319960296154,Junior Stanislas,h,463,OpenPlay,2015,RightFoot,283,Bournemouth,West Ham,1,3,2016-01-12 23:45:00,Charlie Daniels,TakeOn,463
+55750,4,BlockedShot,0.8640000152587891,0.27700000762939453,0.027642399072647095,Junior Stanislas,h,463,OpenPlay,2015,RightFoot,296,Bournemouth,Norwich,3,0,2016-01-16 19:00:00,Benik Afobe,Pass,463
+55758,44,MissedShots,0.8159999847412109,0.7069999694824218,0.07454240322113037,Junior Stanislas,h,463,DirectFreekick,2015,RightFoot,296,Bournemouth,Norwich,3,0,2016-01-16 19:00:00,,Standard,463
+55763,62,MissedShots,0.794000015258789,0.30100000381469727,0.02674799971282482,Junior Stanislas,h,463,OpenPlay,2015,LeftFoot,296,Bournemouth,Norwich,3,0,2016-01-16 19:00:00,,BallRecovery,463
+52285,21,SavedShot,0.9,0.32799999237060545,0.09176640212535858,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Benik Afobe,Pass,463
+52286,24,SavedShot,0.88,0.28299999237060547,0.05262079834938049,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Dan Gosling,Pass,463
+52294,48,MissedShots,0.81,0.4929999923706055,0.061709098517894745,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Dan Gosling,Pass,463
+55843,66,BlockedShot,0.735999984741211,0.46,0.015426499769091606,Junior Stanislas,h,463,OpenPlay,2015,RightFoot,329,Bournemouth,Arsenal,0,2,2016-02-07 17:30:00,Harry Arter,Pass,463
+54727,66,BlockedShot,0.7180000305175781,0.48,0.013382400386035442,Junior Stanislas,h,463,OpenPlay,2015,RightFoot,336,Bournemouth,Stoke,1,3,2016-02-13 19:00:00,Andrew Surman,Pass,463
+54728,70,MissedShots,0.9730000305175781,0.575,0.30545100569725037,Junior Stanislas,h,463,OpenPlay,2015,LeftFoot,336,Bournemouth,Stoke,1,3,2016-02-13 19:00:00,Joshua King,Cross,463
+61314,32,BlockedShot,0.7340000152587891,0.4370000076293945,0.01608790084719658,Junior Stanislas,h,463,OpenPlay,2015,RightFoot,412,Bournemouth,Liverpool,1,2,2016-04-17 16:30:00,Joshua King,LayOff,463
+57202,43,MissedShots,0.8080000305175781,0.2929999923706055,0.02461560070514679,Junior Stanislas,h,463,OpenPlay,2015,RightFoot,422,Bournemouth,Chelsea,1,4,2016-04-23 18:00:00,Andrew Surman,Pass,463
+57209,65,MissedShots,0.740999984741211,0.435,0.03814709931612015,Junior Stanislas,h,463,OpenPlay,2015,RightFoot,422,Bournemouth,Chelsea,1,4,2016-04-23 18:00:00,,TakeOn,463
+57086,69,BlockedShot,0.845999984741211,0.6909999847412109,0.036125000566244125,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,,Rebound,463
+57089,76,MissedShots,0.855999984741211,0.720999984741211,0.032170601189136505,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Andrew Surman,Pass,463
+57091,81,BlockedShot,0.784000015258789,0.6880000305175781,0.013281100429594517,Junior Stanislas,a,463,OpenPlay,2015,RightFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Charlie Daniels,TakeOn,463
+57658,57,MissedShots,0.769000015258789,0.69,0.017047900706529617,Junior Stanislas,h,463,FromCorner,2015,RightFoot,441,Bournemouth,West Bromwich Albion,1,1,2016-05-07 18:00:00,Lewis Grabban,Pass,463
+57660,63,SavedShot,0.7330000305175781,0.7040000152587891,0.03722349926829338,Junior Stanislas,h,463,DirectFreekick,2015,RightFoot,441,Bournemouth,West Bromwich Albion,1,1,2016-05-07 18:00:00,,Standard,463
+113177,41,MissedShots,0.8009999847412109,0.6020000076293945,0.03650910034775734,Junior Stanislas,h,463,OpenPlay,2016,LeftFoot,495,Bournemouth,West Bromwich Albion,1,0,2016-09-10 18:00:00,Jordon Ibe,Pass,463
+113179,43,SavedShot,0.7680000305175781,0.6,0.01845650002360344,Junior Stanislas,h,463,OpenPlay,2016,RightFoot,495,Bournemouth,West Bromwich Albion,1,0,2016-09-10 18:00:00,,Rebound,463
+113191,65,SavedShot,0.7930000305175782,0.685,0.020542800426483154,Junior Stanislas,h,463,OpenPlay,2016,RightFoot,495,Bournemouth,West Bromwich Albion,1,0,2016-09-10 18:00:00,,None,463
+113193,69,SavedShot,0.9119999694824219,0.6530000305175782,0.08932559937238693,Junior Stanislas,h,463,OpenPlay,2016,LeftFoot,495,Bournemouth,West Bromwich Albion,1,0,2016-09-10 18:00:00,Jack Wilshere,Pass,463
+113740,22,Goal,0.7680000305175781,0.44099998474121094,0.026993999257683754,Junior Stanislas,h,463,OpenPlay,2016,RightFoot,517,Bournemouth,Everton,1,0,2016-09-24 18:00:00,Harry Arter,Pass,463
+114573,12,SavedShot,0.884000015258789,0.8959999847412109,0.03711960092186928,Junior Stanislas,a,463,DirectFreekick,2016,RightFoot,525,Watford,Bournemouth,2,2,2016-10-01 18:00:00,,Standard,463
+114595,80,ShotOnPost,0.815,0.44799999237060545,0.15317100286483765,Junior Stanislas,a,463,DirectFreekick,2016,RightFoot,525,Watford,Bournemouth,2,2,2016-10-01 18:00:00,,Standard,463
+114597,84,MissedShots,0.7759999847412109,0.24299999237060546,0.019599400460720062,Junior Stanislas,a,463,OpenPlay,2016,RightFoot,525,Watford,Bournemouth,2,2,2016-10-01 18:00:00,Simon Francis,Pass,463
+114742,4,ShotOnPost,0.765,0.2929999923706055,0.048020798712968826,Junior Stanislas,h,463,DirectFreekick,2016,RightFoot,533,Bournemouth,Hull,6,1,2016-10-15 18:00:00,,Standard,463
+114749,27,BlockedShot,0.8590000152587891,0.24200000762939453,0.04514269903302193,Junior Stanislas,h,463,OpenPlay,2016,RightFoot,533,Bournemouth,Hull,6,1,2016-10-15 18:00:00,Callum Wilson,TakeOn,463
+114754,36,SavedShot,0.7219999694824218,0.580999984741211,0.044655900448560715,Junior Stanislas,h,463,DirectFreekick,2016,RightFoot,533,Bournemouth,Hull,6,1,2016-10-15 18:00:00,,Standard,463
+114759,44,Goal,0.885,0.5,0.7611690163612366,Junior Stanislas,h,463,Penalty,2016,RightFoot,533,Bournemouth,Hull,6,1,2016-10-15 18:00:00,,Standard,463
+114764,64,Goal,0.91,0.6140000152587891,0.4106380045413971,Junior Stanislas,h,463,OpenPlay,2016,RightFoot,533,Bournemouth,Hull,6,1,2016-10-15 18:00:00,Adam Smith,Pass,463
+115090,16,MissedShots,0.8819999694824219,0.27299999237060546,0.046668898314237595,Junior Stanislas,h,463,OpenPlay,2016,RightFoot,2687,Bournemouth,Sunderland,1,2,2016-11-05 19:00:00,Joshua King,Pass,463
+115095,29,SavedShot,0.7240000152587891,0.23,0.02935820072889328,Junior Stanislas,h,463,DirectFreekick,2016,RightFoot,2687,Bournemouth,Sunderland,1,2,2016-11-05 19:00:00,,Standard,463
+115101,61,ShotOnPost,0.904000015258789,0.6509999847412109,0.2390490025281906,Junior Stanislas,h,463,FromCorner,2016,RightFoot,2687,Bournemouth,Sunderland,1,2,2016-11-05 19:00:00,Dan Gosling,Pass,463
+115108,68,SavedShot,0.8019999694824219,0.6759999847412109,0.028663599863648415,Junior Stanislas,h,463,OpenPlay,2016,RightFoot,2687,Bournemouth,Sunderland,1,2,2016-11-05 19:00:00,Harry Arter,Pass,463
+115674,16,BlockedShot,0.715999984741211,0.525,0.04428059980273247,Junior Stanislas,a,463,DirectFreekick,2016,RightFoot,2699,Stoke,Bournemouth,0,1,2016-11-19 19:00:00,,Standard,463
+115479,28,BlockedShot,0.77,0.26399999618530273,0.013886099681258202,Junior Stanislas,h,463,OpenPlay,2016,RightFoot,3112,Bournemouth,Liverpool,4,3,2016-12-04 17:30:00,Joshua King,Pass,463
+117792,17,SavedShot,0.8969999694824219,0.2929999923706055,0.05092180147767067,Junior Stanislas,a,463,OpenPlay,2016,RightFoot,3161,Swansea,Bournemouth,0,3,2016-12-31 19:00:00,Simon Francis,Pass,463
+117794,24,MissedShots,0.764000015258789,0.4759999847412109,0.02464509941637516,Junior Stanislas,a,463,OpenPlay,2016,LeftFoot,3161,Swansea,Bournemouth,0,3,2016-12-31 19:00:00,,None,463
+117796,34,SavedShot,0.7619999694824219,0.8030000305175782,0.03277239948511124,Junior Stanislas,a,463,DirectFreekick,2016,RightFoot,3161,Swansea,Bournemouth,0,3,2016-12-31 19:00:00,,Standard,463
+117802,54,MissedShots,0.865,0.29100000381469726,0.05782699957489967,Junior Stanislas,a,463,OpenPlay,2016,RightFoot,3161,Swansea,Bournemouth,0,3,2016-12-31 19:00:00,Jack Wilshere,Pass,463
+117963,8,SavedShot,0.7269999694824218,0.5109999847412109,0.02384769916534424,Junior Stanislas,h,463,FromCorner,2016,RightFoot,3336,Bournemouth,Arsenal,3,3,2017-01-03 23:45:00,Harry Arter,Pass,463
+117971,46,MissedShots,0.7240000152587891,0.46799999237060547,0.021532399579882622,Junior Stanislas,h,463,OpenPlay,2016,RightFoot,3336,Bournemouth,Arsenal,3,3,2017-01-03 23:45:00,Ryan Fraser,Pass,463
+117972,48,BlockedShot,0.7130000305175781,0.455,0.042431801557540894,Junior Stanislas,h,463,DirectFreekick,2016,RightFoot,3336,Bournemouth,Arsenal,3,3,2017-01-03 23:45:00,,Standard,463
+117977,60,SavedShot,0.775,0.7240000152587891,0.04878399893641472,Junior Stanislas,h,463,DirectFreekick,2016,RightFoot,3336,Bournemouth,Arsenal,3,3,2017-01-03 23:45:00,,Standard,463
+117377,2,Goal,0.885,0.5,0.7611690163612366,Junior Stanislas,a,463,Penalty,2016,RightFoot,3344,Hull,Bournemouth,3,1,2017-01-14 19:00:00,,Standard,463
+118205,41,BlockedShot,0.88,0.26600000381469724,0.031032999977469444,Junior Stanislas,h,463,OpenPlay,2016,RightFoot,3352,Bournemouth,Watford,2,2,2017-01-21 18:00:00,,BallRecovery,463
+118865,34,BlockedShot,0.7759999847412109,0.29700000762939455,0.01828409917652607,Junior Stanislas,h,463,OpenPlay,2016,LeftFoot,3361,Bournemouth,Crystal Palace,0,2,2017-01-31 22:45:00,Joshua King,LayOff,463
+118866,35,SavedShot,0.7709999847412109,0.3270000076293945,0.015831999480724335,Junior Stanislas,h,463,FromCorner,2016,RightFoot,3361,Bournemouth,Crystal Palace,0,2,2017-01-31 22:45:00,Adam Smith,None,463
+121462,64,BlockedShot,0.8590000152587891,0.28200000762939453,0.03945869952440262,Junior Stanislas,a,463,OpenPlay,2016,LeftFoot,3465,Tottenham,Bournemouth,4,0,2017-04-15 12:30:00,Harry Arter,TakeOn,463
+121683,79,MissedShots,0.885,0.8109999847412109,0.05995799973607063,Junior Stanislas,h,463,DirectFreekick,2016,RightFoot,3471,Bournemouth,Middlesbrough,4,0,2017-04-22 15:00:00,,Standard,463
+121280,53,BlockedShot,0.7330000305175781,0.3340000152587891,0.015925899147987366,Junior Stanislas,h,463,OpenPlay,2016,RightFoot,3491,Bournemouth,Stoke,2,2,2017-05-06 15:00:00,Lewis Cook,Pass,463
+121284,61,Goal,0.8880000305175781,0.47200000762939454,0.398716002702713,Junior Stanislas,h,463,OpenPlay,2016,RightFoot,3491,Bournemouth,Stoke,2,2,2017-05-06 15:00:00,Adam Smith,Pass,463
+121713,3,BlockedShot,0.7769999694824219,0.5790000152587891,0.029781099408864975,Junior Stanislas,h,463,OpenPlay,2016,RightFoot,3500,Bournemouth,Burnley,2,1,2017-05-13 15:00:00,Harry Arter,Pass,463
+121715,24,Goal,0.85,0.5329999923706055,0.3153190016746521,Junior Stanislas,h,463,OpenPlay,2016,LeftFoot,3500,Bournemouth,Burnley,2,1,2017-05-13 15:00:00,Lewis Cook,Throughball,463
+121733,66,MissedShots,0.8540000152587891,0.44,0.10542500019073486,Junior Stanislas,h,463,OpenPlay,2016,LeftFoot,3500,Bournemouth,Burnley,2,1,2017-05-13 15:00:00,Joshua King,Pass,463
+112471,0,Goal,0.9219999694824219,0.48,0.4914039969444275,Junior Stanislas,a,463,OpenPlay,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,,Rebound,463
+112474,17,MissedShots,0.7180000305175781,0.34700000762939454,0.01504880003631115,Junior Stanislas,a,463,SetPiece,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Andrew Surman,Pass,463
+112478,32,BlockedShot,0.750999984741211,0.27700000762939453,0.04034699872136116,Junior Stanislas,a,463,DirectFreekick,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,,Standard,463
+112488,52,BlockedShot,0.8030000305175782,0.26399999618530273,0.05774959921836853,Junior Stanislas,a,463,DirectFreekick,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,,Standard,463
+112490,57,BlockedShot,0.7219999694824218,0.6790000152587891,0.03650449961423874,Junior Stanislas,a,463,DirectFreekick,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,,Standard,463
+159278,15,SavedShot,0.749000015258789,0.7669999694824219,0.011276399716734886,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7175,Everton,Bournemouth,2,1,2017-09-23 15:00:00,Jermain Defoe,Pass,463
+160042,8,MissedShots,0.8109999847412109,0.35900001525878905,0.03699110075831413,Junior Stanislas,h,463,OpenPlay,2017,LeftFoot,7184,Bournemouth,Leicester,0,0,2017-09-30 15:00:00,Charlie Daniels,Pass,463
+160049,54,SavedShot,0.7880000305175782,0.3890000152587891,0.027694299817085266,Junior Stanislas,h,463,OpenPlay,2017,RightFoot,7184,Bournemouth,Leicester,0,0,2017-09-30 15:00:00,Adam Smith,Pass,463
+160058,75,SavedShot,0.8859999847412109,0.700999984741211,0.045545898377895355,Junior Stanislas,h,463,OpenPlay,2017,RightFoot,7184,Bournemouth,Leicester,0,0,2017-09-30 15:00:00,Charlie Daniels,Pass,463
+161734,18,BlockedShot,0.8430000305175781,0.524000015258789,0.05553330108523369,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7197,Tottenham,Bournemouth,1,0,2017-10-14 15:00:00,Adam Smith,Cross,463
+159590,17,Goal,0.885,0.5,0.7611690163612366,Junior Stanislas,a,463,Penalty,2017,RightFoot,7205,Stoke,Bournemouth,1,2,2017-10-21 15:00:00,,Standard,463
+161466,28,BlockedShot,0.695,0.38,0.03309819847345352,Junior Stanislas,h,463,DirectFreekick,2017,RightFoot,7267,Bournemouth,Southampton,1,1,2017-12-03 13:30:00,,Standard,463
+161467,29,BlockedShot,0.740999984741211,0.43599998474121093,0.020329799503087997,Junior Stanislas,h,463,OpenPlay,2017,RightFoot,7267,Bournemouth,Southampton,1,1,2017-12-03 13:30:00,Lewis Cook,Pass,463
+161477,56,SavedShot,0.8419999694824218,0.35400001525878905,0.06329040229320526,Junior Stanislas,h,463,OpenPlay,2017,RightFoot,7267,Bournemouth,Southampton,1,1,2017-12-03 13:30:00,Adam Smith,Pass,463
+179171,36,BlockedShot,0.7580000305175781,0.375,0.025051599368453026,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7273,Crystal Palace,Bournemouth,2,2,2017-12-09 15:00:00,Andrew Surman,Pass,463
+179180,57,SavedShot,0.7559999847412109,0.5279999923706055,0.023694200441241264,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7273,Crystal Palace,Bournemouth,2,2,2017-12-09 15:00:00,Ryan Fraser,Pass,463
+182904,16,BlockedShot,0.784000015258789,0.40200000762939453,0.021219100803136826,Junior Stanislas,a,463,FromCorner,2017,RightFoot,7283,Manchester United,Bournemouth,1,0,2017-12-13 20:00:00,,None,463
+182909,29,SavedShot,0.8619999694824219,0.3509999847412109,0.06068069860339165,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7283,Manchester United,Bournemouth,1,0,2017-12-13 20:00:00,Dan Gosling,Pass,463
+183202,42,BlockedShot,0.7819999694824219,0.5179999923706055,0.03872159868478775,Junior Stanislas,h,463,OpenPlay,2017,RightFoot,7290,Bournemouth,Liverpool,0,4,2017-12-17 16:30:00,Simon Francis,TakeOn,463
+183116,9,MissedShots,0.87,0.45,0.07219059765338898,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7308,Manchester City,Bournemouth,4,0,2017-12-23 15:00:00,Jordon Ibe,Cross,463
+188820,74,SavedShot,0.72,0.4,0.009540339931845665,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7358,West Ham,Bournemouth,1,1,2018-01-20 15:00:00,Ryan Fraser,TakeOn,463
+188822,96,MissedShots,0.8219999694824218,0.5829999923706055,0.04960649833083153,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7358,West Ham,Bournemouth,1,1,2018-01-20 15:00:00,,None,463
+194120,11,SavedShot,0.784000015258789,0.7519999694824219,0.012088400311768055,Junior Stanislas,a,463,FromCorner,2017,RightFoot,7362,Chelsea,Bournemouth,0,3,2018-01-31 19:45:00,Charlie Daniels,LayOff,463
+194122,23,BlockedShot,0.8930000305175781,0.45799999237060546,0.09705950319766998,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7362,Chelsea,Bournemouth,0,3,2018-01-31 19:45:00,Callum Wilson,Cross,463
+194135,63,Goal,0.9330000305175781,0.6409999847412109,0.32760700583457947,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7362,Chelsea,Bournemouth,0,3,2018-01-31 19:45:00,Callum Wilson,Pass,463
+194137,66,BlockedShot,0.845,0.634000015258789,0.0326232984662056,Junior Stanislas,a,463,FromCorner,2017,RightFoot,7362,Chelsea,Bournemouth,0,3,2018-01-31 19:45:00,Callum Wilson,Pass,463
+193611,40,BlockedShot,0.8130000305175781,0.5870000076293945,0.1327729970216751,Junior Stanislas,h,463,DirectFreekick,2017,RightFoot,7370,Bournemouth,Stoke,2,1,2018-02-03 15:00:00,,Standard,463
+193612,44,SavedShot,0.845999984741211,0.8290000152587891,0.045924000442028046,Junior Stanislas,h,463,DirectFreekick,2017,RightFoot,7370,Bournemouth,Stoke,2,1,2018-02-03 15:00:00,,Standard,463
+193875,13,Goal,0.8819999694824219,0.5709999847412109,0.06634250283241272,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7381,Huddersfield,Bournemouth,4,1,2018-02-11 12:00:00,Ryan Fraser,Cross,463
+193884,43,MissedShots,0.7780000305175782,0.73,0.015244799666106701,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7381,Huddersfield,Bournemouth,4,1,2018-02-11 12:00:00,,None,463
+197309,7,MissedShots,0.8209999847412109,0.4929999923706055,0.05423390120267868,Junior Stanislas,h,463,OpenPlay,2017,LeftFoot,7390,Bournemouth,Newcastle United,2,2,2018-02-24 15:00:00,,None,463
+197318,23,MissedShots,0.8090000152587891,0.5129999923706055,0.035156600177288055,Junior Stanislas,h,463,FromCorner,2017,RightFoot,7390,Bournemouth,Newcastle United,2,2,2018-02-24 15:00:00,,None,463
+197336,85,SavedShot,0.7830000305175782,0.6090000152587891,0.08234000205993652,Junior Stanislas,h,463,DirectFreekick,2017,RightFoot,7390,Bournemouth,Newcastle United,2,2,2018-02-24 15:00:00,,Standard,463
+198814,9,SavedShot,0.794000015258789,0.7319999694824219,0.020972400903701782,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7402,Leicester,Bournemouth,1,1,2018-03-03 15:00:00,Dan Gosling,Pass,463
+198818,23,MissedShots,0.885,0.5509999847412109,0.31086501479148865,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7402,Leicester,Bournemouth,1,1,2018-03-03 15:00:00,Charlie Daniels,Cross,463
+198826,54,MissedShots,0.8880000305175781,0.6819999694824219,0.07051979750394821,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7402,Leicester,Bournemouth,1,1,2018-03-03 15:00:00,,BallTouch,463
+198834,73,BlockedShot,0.855999984741211,0.48400001525878905,0.07924020290374756,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7402,Leicester,Bournemouth,1,1,2018-03-03 15:00:00,Joshua King,Cross,463
+198837,86,MissedShots,0.7619999694824219,0.4129999923706055,0.0385730005800724,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7402,Leicester,Bournemouth,1,1,2018-03-03 15:00:00,Joshua King,TakeOn,463
+200779,3,ShotOnPost,0.9269999694824219,0.5579999923706055,0.6128979921340942,Junior Stanislas,h,463,OpenPlay,2017,LeftFoot,7410,Bournemouth,Tottenham,1,4,2018-03-11 16:00:00,Lys Mousset,Pass,463
+200781,4,BlockedShot,0.8680000305175781,0.2610000038146973,0.023881899192929268,Junior Stanislas,h,463,OpenPlay,2017,RightFoot,7410,Bournemouth,Tottenham,1,4,2018-03-11 16:00:00,,Rebound,463
+200782,6,Goal,0.9119999694824219,0.645,0.052221398800611496,Junior Stanislas,h,463,OpenPlay,2017,LeftFoot,7410,Bournemouth,Tottenham,1,4,2018-03-11 16:00:00,Adam Smith,Cross,463
+200784,14,BlockedShot,0.7369999694824219,0.44599998474121094,0.0542307011783123,Junior Stanislas,h,463,DirectFreekick,2017,RightFoot,7410,Bournemouth,Tottenham,1,4,2018-03-11 16:00:00,,Standard,463
+200799,67,SavedShot,0.7390000152587891,0.4929999923706055,0.02278760075569153,Junior Stanislas,h,463,OpenPlay,2017,RightFoot,7410,Bournemouth,Tottenham,1,4,2018-03-11 16:00:00,,Rebound,463
+201428,44,SavedShot,0.799000015258789,0.7269999694824218,0.058489199727773666,Junior Stanislas,h,463,DirectFreekick,2017,LeftFoot,7419,Bournemouth,West Bromwich Albion,2,1,2018-03-17 15:00:00,,Standard,463
+201430,47,BlockedShot,0.8780000305175781,0.6959999847412109,0.04398860037326813,Junior Stanislas,h,463,OpenPlay,2017,RightFoot,7419,Bournemouth,West Bromwich Albion,2,1,2018-03-17 15:00:00,Callum Wilson,Pass,463
+201438,73,MissedShots,0.7880000305175782,0.6519999694824219,0.07425779849290848,Junior Stanislas,h,463,DirectFreekick,2017,RightFoot,7419,Bournemouth,West Bromwich Albion,2,1,2018-03-17 15:00:00,,Standard,463
+201441,88,Goal,0.7140000152587891,0.7230000305175781,0.031012900173664093,Junior Stanislas,h,463,DirectFreekick,2017,RightFoot,7419,Bournemouth,West Bromwich Albion,2,1,2018-03-17 15:00:00,,Standard,463
+203989,6,SavedShot,0.8159999847412109,0.639000015258789,0.03961410000920296,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7437,Watford,Bournemouth,2,2,2018-03-31 15:00:00,Charlie Daniels,Pass,463
+204004,41,SavedShot,0.905,0.6930000305175781,0.04122120141983032,Junior Stanislas,a,463,OpenPlay,2017,RightFoot,7437,Watford,Bournemouth,2,2,2018-03-31 15:00:00,Steve Cook,Chipped,463
+234072,85,SavedShot,0.775,0.7080000305175781,0.05213160067796707,Junior Stanislas,a,463,DirectFreekick,2018,RightFoot,9253,Burnley,Bournemouth,4,0,2018-09-22 14:00:00,,Standard,463
+248960,86,Goal,0.885,0.5,0.7611690163612366,Junior Stanislas,h,463,Penalty,2018,RightFoot,9266,Bournemouth,Crystal Palace,2,1,2018-10-01 19:00:00,,Standard,463
+249011,81,MissedShots,0.8009999847412109,0.745999984741211,0.018277399241924286,Junior Stanislas,a,463,FromCorner,2018,RightFoot,9268,Watford,Bournemouth,0,4,2018-10-06 14:00:00,Andrew Surman,Pass,463
+249741,9,BlockedShot,0.8909999847412109,0.5540000152587891,0.1232210025191307,Junior Stanislas,h,463,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Adam Smith,Pass,463
+249744,22,SavedShot,0.8069999694824219,0.45799999237060546,0.06263899803161621,Junior Stanislas,h,463,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Simon Francis,Pass,463
+249751,44,MissedShots,0.7880000305175782,0.6409999847412109,0.017810000106692314,Junior Stanislas,h,463,SetPiece,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,,Rebound,463
+249750,44,BlockedShot,0.774000015258789,0.5990000152587891,0.07619410008192062,Junior Stanislas,h,463,DirectFreekick,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,,Standard,463
+250441,76,BlockedShot,0.8080000305175781,0.3029999923706055,0.021139400079846382,Junior Stanislas,h,463,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Simon Francis,Pass,463
+250443,79,SavedShot,0.889000015258789,0.5159999847412109,0.08229490369558334,Junior Stanislas,h,463,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Charlie Daniels,Cross,463
+250447,95,MissedShots,0.8169999694824219,0.5609999847412109,0.15399999916553497,Junior Stanislas,h,463,DirectFreekick,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,,Standard,463
+251015,33,BlockedShot,0.7959999847412109,0.6840000152587891,0.017960200086236,Junior Stanislas,h,463,FromCorner,2018,RightFoot,9355,Bournemouth,Liverpool,0,4,2018-12-08 12:30:00,,None,463
+251019,70,SavedShot,0.7330000305175781,0.49700000762939456,0.053481198847293854,Junior Stanislas,h,463,DirectFreekick,2018,RightFoot,9355,Bournemouth,Liverpool,0,4,2018-12-08 12:30:00,,Standard,463
+251267,21,MissedShots,0.875,0.6,0.06339070200920105,Junior Stanislas,a,463,OpenPlay,2018,LeftFoot,9357,Wolverhampton Wanderers,Bournemouth,2,0,2018-12-15 15:00:00,Tyrone Mings,Cross,463
+251277,62,ShotOnPost,0.8069999694824219,0.27299999237060546,0.062333300709724426,Junior Stanislas,a,463,DirectFreekick,2018,RightFoot,9357,Wolverhampton Wanderers,Bournemouth,2,0,2018-12-15 15:00:00,,Standard,463
+251645,2,MissedShots,0.9369999694824219,0.8269999694824218,0.06193019822239876,Junior Stanislas,h,463,DirectFreekick,2018,RightFoot,9375,Bournemouth,Brighton,2,0,2018-12-22 15:00:00,,Standard,463
+251653,28,BlockedShot,0.774000015258789,0.48900001525878906,0.04461999982595444,Junior Stanislas,h,463,OpenPlay,2018,LeftFoot,9375,Bournemouth,Brighton,2,0,2018-12-22 15:00:00,,Tackle,463
+251656,42,BlockedShot,0.8780000305175781,0.710999984741211,0.05293149873614311,Junior Stanislas,h,463,OpenPlay,2018,RightFoot,9375,Bournemouth,Brighton,2,0,2018-12-22 15:00:00,Charlie Daniels,Pass,463
+251660,62,MissedShots,0.759000015258789,0.5270000076293946,0.07189960032701492,Junior Stanislas,h,463,DirectFreekick,2018,RightFoot,9375,Bournemouth,Brighton,2,0,2018-12-22 15:00:00,,Standard,463
+251753,36,MissedShots,0.815,0.5709999847412109,0.035651300102472305,Junior Stanislas,a,463,OpenPlay,2018,RightFoot,9378,Tottenham,Bournemouth,5,0,2018-12-26 15:00:00,Callum Wilson,None,463
+251754,38,SavedShot,0.8830000305175781,0.6819999694824219,0.060680799186229706,Junior Stanislas,a,463,OpenPlay,2018,LeftFoot,9378,Tottenham,Bournemouth,5,0,2018-12-26 15:00:00,David Brooks,Pass,463
+251755,41,SavedShot,0.904000015258789,0.53,0.08131969720125198,Junior Stanislas,a,463,OpenPlay,2018,Head,9378,Tottenham,Bournemouth,5,0,2018-12-26 15:00:00,Ryan Fraser,Cross,463
+251759,65,BlockedShot,0.92,0.6719999694824219,0.05477119982242584,Junior Stanislas,a,463,OpenPlay,2018,LeftFoot,9378,Tottenham,Bournemouth,5,0,2018-12-26 15:00:00,Ryan Fraser,BallTouch,463
+251767,75,BlockedShot,0.8859999847412109,0.605999984741211,0.0990879014134407,Junior Stanislas,a,463,OpenPlay,2018,RightFoot,9378,Tottenham,Bournemouth,5,0,2018-12-26 15:00:00,Diego Rico,Pass,463
+251770,91,MissedShots,0.94,0.6580000305175782,0.047741200774908066,Junior Stanislas,a,463,OpenPlay,2018,LeftFoot,9378,Tottenham,Bournemouth,5,0,2018-12-26 15:00:00,Steve Cook,Chipped,463
+263803,22,MissedShots,0.745,0.455,0.022233499214053154,Junior Stanislas,a,463,OpenPlay,2018,RightFoot,9390,Manchester United,Bournemouth,4,1,2018-12-30 16:30:00,Diego Rico,Pass,463
+263810,46,BlockedShot,0.8069999694824219,0.49700000762939456,0.03657209873199463,Junior Stanislas,a,463,OpenPlay,2018,RightFoot,9390,Manchester United,Bournemouth,4,1,2018-12-30 16:30:00,,None,463
+274265,75,MissedShots,0.835,0.2560000038146973,0.021954700350761414,Junior Stanislas,h,463,OpenPlay,2018,RightFoot,9405,Bournemouth,Watford,3,3,2019-01-02 19:45:00,,None,463
+274533,25,SavedShot,0.8009999847412109,0.6659999847412109,0.079926997423172,Junior Stanislas,a,463,DirectFreekick,2018,RightFoot,9411,Everton,Bournemouth,2,0,2019-01-13 14:15:00,,Standard,463
+275039,43,SavedShot,0.8419999694824218,0.37099998474121093,0.08342339843511581,Junior Stanislas,h,463,OpenPlay,2018,RightFoot,9430,Bournemouth,Chelsea,4,0,2019-01-30 19:45:00,Joshua King,Pass,463
+275050,92,BlockedShot,0.904000015258789,0.44,0.1404149979352951,Junior Stanislas,h,463,OpenPlay,2018,RightFoot,9430,Bournemouth,Chelsea,4,0,2019-01-30 19:45:00,Joshua King,Pass,463
+275280,27,MissedShots,0.764000015258789,0.40200000762939453,0.024077199399471283,Junior Stanislas,a,463,OpenPlay,2018,RightFoot,9444,Cardiff,Bournemouth,2,0,2019-02-02 17:30:00,Adam Smith,Pass,463
+292015,78,BlockedShot,0.77,0.38,0.0684662014245987,Junior Stanislas,h,463,DirectFreekick,2018,RightFoot,9526,Bournemouth,Burnley,1,3,2019-04-06 15:00:00,,Standard,463
+293572,91,Goal,0.8930000305175781,0.595999984741211,0.39817601442337036,Junior Stanislas,a,463,OpenPlay,2018,RightFoot,9536,Brighton,Bournemouth,0,5,2019-04-13 15:00:00,David Brooks,Pass,463
+295314,19,MissedShots,0.7730000305175782,0.2979999923706055,0.05249840021133423,Junior Stanislas,h,463,DirectFreekick,2018,RightFoot,9545,Bournemouth,Fulham,0,1,2019-04-20 15:00:00,,Standard,463
+339729,38,SavedShot,0.8469999694824218,0.5570000076293945,0.07868389785289764,Junior Stanislas,a,463,OpenPlay,2019,RightFoot,11834,Brighton,Bournemouth,2,0,2019-12-28 12:30:00,,TakeOn,463
+352995,94,BlockedShot,0.77,0.5640000152587891,0.07869800180196762,Junior Stanislas,a,463,DirectFreekick,2019,RightFoot,11907,Burnley,Bournemouth,3,0,2020-02-22 15:00:00,,Standard,463
+353401,38,SavedShot,0.7919999694824219,0.7169999694824218,0.07008200138807297,Junior Stanislas,a,463,OpenPlay,2019,RightFoot,11928,Liverpool,Bournemouth,2,1,2020-03-07 12:30:00,Adam Smith,TakeOn,463
+353402,42,BlockedShot,0.8680000305175781,0.6840000152587891,0.07407499849796295,Junior Stanislas,a,463,OpenPlay,2019,RightFoot,11928,Liverpool,Bournemouth,2,1,2020-03-07 12:30:00,Ryan Fraser,Pass,463
+365641,77,MissedShots,0.8530000305175781,0.3609999847412109,0.06815650314092636,Junior Stanislas,h,463,OpenPlay,2019,LeftFoot,11942,Bournemouth,Crystal Palace,0,2,2020-06-20 18:45:00,Jack Stacey,Pass,463
+365643,83,BlockedShot,0.7709999847412109,0.575999984741211,0.07778000086545944,Junior Stanislas,h,463,DirectFreekick,2019,RightFoot,11942,Bournemouth,Crystal Palace,0,2,2020-06-20 18:45:00,,Standard,463
+367986,83,BlockedShot,0.8319999694824218,0.68,0.03776320070028305,Junior Stanislas,h,463,OpenPlay,2019,RightFoot,11955,Bournemouth,Newcastle United,1,4,2020-07-01 17:00:00,Dan Gosling,Pass,463
+368553,14,BlockedShot,0.879000015258789,0.7069999694824218,0.041869599372148514,Junior Stanislas,a,463,OpenPlay,2019,LeftFoot,11967,Manchester United,Bournemouth,5,2,2020-07-04 14:00:00,,None,463
+368554,15,Goal,0.9790000152587891,0.605999984741211,0.33439901471138,Junior Stanislas,a,463,OpenPlay,2019,RightFoot,11967,Manchester United,Bournemouth,5,2,2020-07-04 14:00:00,Joshua King,BallTouch,463
+368558,22,MissedShots,0.735999984741211,0.47200000762939454,0.012387099675834179,Junior Stanislas,a,463,SetPiece,2019,RightFoot,11967,Manchester United,Bournemouth,5,2,2020-07-04 14:00:00,,None,463
+368560,30,BlockedShot,0.8780000305175781,0.69,0.04863150045275688,Junior Stanislas,a,463,OpenPlay,2019,RightFoot,11967,Manchester United,Bournemouth,5,2,2020-07-04 14:00:00,Lewis Cook,Chipped,463
+370104,44,SavedShot,0.789000015258789,0.515,0.015438100323081017,Junior Stanislas,h,463,OpenPlay,2019,RightFoot,11975,Bournemouth,Tottenham,0,0,2020-07-09 17:00:00,,Aerial,463
+371115,65,Goal,0.885,0.5,0.7611690163612366,Junior Stanislas,h,463,Penalty,2019,RightFoot,11984,Bournemouth,Leicester,4,1,2020-07-12 18:00:00,,Standard,463
+371117,72,BlockedShot,0.7219999694824218,0.4179999923706055,0.019549500197172165,Junior Stanislas,h,463,OpenPlay,2019,RightFoot,11984,Bournemouth,Leicester,4,1,2020-07-12 18:00:00,Dominic Solanke,Dispossessed,463
+371118,82,MissedShots,0.894000015258789,0.3129999923706055,0.06460949778556824,Junior Stanislas,h,463,OpenPlay,2019,RightFoot,11984,Bournemouth,Leicester,4,1,2020-07-12 18:00:00,Lewis Cook,Pass,463
+371467,32,SavedShot,0.7019999694824218,0.3220000076293945,0.031557999551296234,Junior Stanislas,a,463,DirectFreekick,2019,RightFoot,11999,Manchester City,Bournemouth,2,1,2020-07-15 17:00:00,,Standard,463
+373733,79,Goal,0.924000015258789,0.7219999694824218,0.056015800684690475,Junior Stanislas,a,463,OpenPlay,2019,RightFoot,12019,Everton,Bournemouth,1,3,2020-07-26 15:00:00,Joshua King,Pass,463
+480327,81,MissedShots,0.78,0.3679999923706055,0.0267488993704319,Junior Stanislas,a,463,OpenPlay,2022,RightFoot,18214,Manchester City,Bournemouth,4,0,2022-08-13 14:00:00,Philip Billing,Pass,463

@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14976,56,MissedShots,0.7119999694824218,0.48,0.011292800307273865,Mathieu Flamini,a,895,OpenPlay,2014,RightFoot,4778,Leicester,Arsenal,1,1,2014-08-31 16:00:00,,Rebound,895
+15686,53,MissedShots,0.8119999694824219,0.4929999923706055,0.03693319857120514,Mathieu Flamini,h,895,FromCorner,2014,LeftFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,,None,895
+16704,64,BlockedShot,0.7369999694824219,0.42200000762939455,0.01694750040769577,Mathieu Flamini,a,895,OpenPlay,2014,RightFoot,4697,Chelsea,Arsenal,2,0,2014-10-05 14:05:00,Danny Welbeck,Pass,895
+17850,20,BlockedShot,0.7859999847412109,0.565,0.03486090153455734,Mathieu Flamini,h,895,OpenPlay,2014,LeftFoot,4705,Arsenal,Hull,2,2,2014-10-18 15:00:00,Danny Welbeck,Pass,895
+17648,65,MissedShots,0.759000015258789,0.5870000076293945,0.02811810001730919,Mathieu Flamini,h,895,OpenPlay,2014,RightFoot,4615,Arsenal,Newcastle United,4,1,2014-12-13 17:30:00,Danny Welbeck,Pass,895
+23849,88,BlockedShot,0.750999984741211,0.5309999847412109,0.026403000578284264,Mathieu Flamini,h,895,SetPiece,2014,RightFoot,4525,Arsenal,Leicester,2,1,2015-02-10 19:45:00,Olivier Giroud,LayOff,895
+21940,83,Goal,0.9730000305175781,0.4640000152587891,0.8537960052490234,Mathieu Flamini,h,895,OpenPlay,2014,RightFoot,4494,Arsenal,West Ham,3,0,2015-03-14 15:00:00,Santiago Cazorla,Pass,895
+59212,84,MissedShots,0.8369999694824218,0.455,0.09442750364542007,Mathieu Flamini,h,895,OpenPlay,2015,RightFoot,176,Arsenal,Everton,2,1,2015-10-24 20:30:00,Mesut Özil,Pass,895
+59215,85,SavedShot,0.894000015258789,0.49900001525878906,0.274150013923645,Mathieu Flamini,h,895,OpenPlay,2015,Head,176,Arsenal,Everton,2,1,2015-10-24 20:30:00,Alexis Sánchez,Cross,895
+54862,11,BlockedShot,0.754000015258789,0.47200000762939454,0.018516099080443382,Mathieu Flamini,h,895,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Theo Walcott,Pass,895
+53600,9,MissedShots,0.860999984741211,0.47299999237060547,0.10673099756240845,Mathieu Flamini,h,895,OpenPlay,2015,RightFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Joel Campbell,Pass,895
+53610,45,MissedShots,0.915,0.5270000076293946,0.4799309968948364,Mathieu Flamini,h,895,OpenPlay,2015,RightFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Aaron Ramsey,Throughball,895
+53617,86,SavedShot,0.915,0.47400001525878904,0.12094999849796295,Mathieu Flamini,h,895,OpenPlay,2015,RightFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Alex Oxlade-Chamberlain,Rebound,895
+55833,35,BlockedShot,0.7440000152587891,0.6309999847412109,0.02023259922862053,Mathieu Flamini,a,895,OpenPlay,2015,RightFoot,329,Bournemouth,Arsenal,0,2,2016-02-07 17:30:00,Alexis Sánchez,Pass,895
+121595,70,SavedShot,0.7869999694824219,0.4329999923706055,0.033018000423908234,Mathieu Flamini,a,895,OpenPlay,2016,RightFoot,3497,Manchester City,Crystal Palace,5,0,2017-05-06 12:30:00,,Dispossessed,895
+210236,31,SavedShot,0.8019999694824219,0.49700000762939456,0.06824769824743271,Mathieu Flamini,a,895,OpenPlay,2017,RightFoot,8209,Eibar,Getafe,0,1,2018-04-21 11:00:00,,Dispossessed,895

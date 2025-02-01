@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+594564,80,BlockedShot,0.8680000305175781,0.39099998474121095,0.1160452589392662,Wes Burns,h,12749,OpenPlay,2024,RightFoot,26659,Ipswich,Aston Villa,2,2,2024-09-29 13:00:00,Jack Clarke,Pass,12749
+595504,52,BlockedShot,0.8130000305175781,0.275,0.017912179231643677,Wes Burns,a,12749,OpenPlay,2024,RightFoot,26665,West Ham,Ipswich,4,1,2024-10-05 14:00:00,Liam Delap,Chipped,12749
+598470,52,MissedShots,0.874000015258789,0.3659999847412109,0.05608179047703743,Wes Burns,a,12749,OpenPlay,2024,RightFoot,26685,Brentford,Ipswich,4,3,2024-10-26 14:00:00,Leif Davis,Chipped,12749
+605157,43,BlockedShot,0.765,0.40099998474121096,0.0496523380279541,Wes Burns,h,12749,OpenPlay,2024,RightFoot,26737,Ipswich,Crystal Palace,0,1,2024-12-03 19:30:00,Jens Cajuste,Pass,12749
+606974,47,SavedShot,0.8980000305175782,0.2610000038146973,0.04565658047795296,Wes Burns,a,12749,OpenPlay,2024,RightFoot,26758,Wolverhampton Wanderers,Ipswich,1,2,2024-12-14 15:00:00,Sam Morsy,Pass,12749
+608412,62,MissedShots,0.8430000305175781,0.3,0.03627217933535576,Wes Burns,h,12749,OpenPlay,2024,LeftFoot,26771,Ipswich,Newcastle United,0,4,2024-12-21 15:00:00,Sammie Szmodics,Pass,12749
+611868,56,MissedShots,0.8930000305175781,0.44,0.09176238626241684,Wes Burns,h,12749,OpenPlay,2024,RightFoot,26805,Ipswich,Brighton,0,2,2025-01-16 19:30:00,,None,12749

@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+580,Costel Pantilimon,28,2520,0,0,0,0,0,0,2,0,GK,Sunderland,0,0,0.5580527139827609,0.5580527139827609,2014
+580,Costel Pantilimon,17,1530,0,0,0,0.023622600361704826,0,1,3,0,GK,Sunderland,0,0,1.5629971027374268,1.5393741056323051,2015
+580,Costel Pantilimon,2,81,0,0,0,0,0,0,0,0,S,Watford,0,0,0.0520550012588501,0.0520550012588501,2016

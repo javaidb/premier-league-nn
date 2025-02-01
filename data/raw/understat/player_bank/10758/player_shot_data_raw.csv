@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+481802,26,MissedShots,0.92,0.5479999923706055,0.05537189915776253,Harry Toffolo,a,10758,OpenPlay,2022,Head,18224,Everton,Nottingham Forest,1,1,2022-08-20 14:00:00,Neco Williams,Aerial,10758
+485217,92,MissedShots,0.8440000152587891,0.6809999847412109,0.0438648983836174,Harry Toffolo,a,10758,OpenPlay,2022,LeftFoot,18246,Manchester City,Nottingham Forest,6,0,2022-08-31 18:30:00,Lewis O&#039;Brien,Pass,10758
+501118,82,BlockedShot,0.7819999694824219,0.26899999618530274,0.028555599972605705,Harry Toffolo,a,10758,FromCorner,2022,LeftFoot,18370,Manchester United,Nottingham Forest,3,0,2022-12-27 20:00:00,Remo Freuler,Pass,10758
+510895,93,SavedShot,0.8530000305175781,0.69,0.03164539858698845,Harry Toffolo,a,10758,OpenPlay,2022,LeftFoot,18451,West Ham,Nottingham Forest,4,0,2023-02-25 15:00:00,Jesse Lingard,Pass,10758
+517492,85,MissedShots,0.77,0.36700000762939455,0.024831699207425117,Harry Toffolo,a,10758,OpenPlay,2022,LeftFoot,18271,Leeds,Nottingham Forest,2,1,2023-04-04 18:45:00,,Rebound,10758
+518049,39,SavedShot,0.904000015258789,0.6079999923706054,0.034007299691438675,Harry Toffolo,a,10758,OpenPlay,2022,Head,18492,Aston Villa,Nottingham Forest,2,0,2023-04-08 14:00:00,,None,10758
+542821,14,SavedShot,0.6980000305175781,0.6070000076293945,0.012355843558907509,Harry Toffolo,a,10758,FromCorner,2023,LeftFoot,21968,Crystal Palace,Nottingham Forest,0,0,2023-10-07 16:30:00,,None,10758
+544017,22,SavedShot,0.965999984741211,0.4909999847412109,0.14087241888046265,Harry Toffolo,h,10758,OpenPlay,2023,LeftFoot,21982,Nottingham Forest,Luton,2,2,2023-10-21 14:00:00,,None,10758
+549780,79,SavedShot,0.7569999694824219,0.624000015258789,0.019152488559484482,Harry Toffolo,h,10758,OpenPlay,2023,LeftFoot,22022,Nottingham Forest,Brighton,2,3,2023-11-25 15:00:00,,None,10758
+552947,13,Goal,0.9580000305175781,0.5679999923706055,0.07771819084882736,Harry Toffolo,a,10758,OpenPlay,2023,Head,22054,Wolverhampton Wanderers,Nottingham Forest,1,1,2023-12-09 15:00:00,Neco Williams,Aerial,10758
+552956,69,MissedShots,0.955,0.5129999923706055,0.6019386053085327,Harry Toffolo,a,10758,OpenPlay,2023,Head,22054,Wolverhampton Wanderers,Nottingham Forest,1,1,2023-12-09 15:00:00,Neco Williams,Cross,10758
+554062,27,MissedShots,0.7780000305175782,0.655,0.021115461364388466,Harry Toffolo,h,10758,OpenPlay,2023,LeftFoot,22063,Nottingham Forest,Tottenham,0,2,2023-12-15 20:00:00,,None,10758
+554078,83,BlockedShot,0.909000015258789,0.41200000762939454,0.07891535758972168,Harry Toffolo,h,10758,FromCorner,2023,LeftFoot,22063,Nottingham Forest,Tottenham,0,2,2023-12-15 20:00:00,Anthony Elanga,Pass,10758
+554077,83,SavedShot,0.9669999694824218,0.46299999237060546,0.4577198326587677,Harry Toffolo,h,10758,FromCorner,2023,Head,22063,Nottingham Forest,Tottenham,0,2,2023-12-15 20:00:00,Morgan Gibbs-White,Aerial,10758
+584827,80,BlockedShot,0.7530000305175781,0.66,0.022599829360842705,Harry Toffolo,h,10758,OpenPlay,2024,LeftFoot,26607,Nottingham Forest,Bournemouth,1,1,2024-08-17 14:00:00,Ryan Yates,Pass,10758

@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+5562,Rekeem Harper,1,19,0,0,0,0.04939329996705055,0,2,0,0,S,West Bromwich Albion,0,0,0.04939329996705055,0,2017
+5562,Rekeem Harper,2,27,0,0.029595399275422096,0,0,1,0,0,0,S,West Bromwich Albion,0,0.029595399275422096,0.03821149840950966,0.008616110309958458,2020

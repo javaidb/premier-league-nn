@@ -1,0 +1,6 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+973,Paulo Gazzaniga,2,180,0,0,0,0,0,0,0,0,GK,Southampton,0,0,0.4042690098285675,0.4042690098285675,2014
+973,Paulo Gazzaniga,2,180,0,0,0,0,0,0,0,0,GK,Southampton,0,0,0.020872600376605988,0.020872600376605988,2015
+973,Paulo Gazzaniga,1,90,0,0,0,0,0,0,0,0,GK,Tottenham,0,0,0,0,2017
+973,Paulo Gazzaniga,3,270,0,0,0,0,0,0,0,0,GK,Tottenham,0,0,0.43876490741968155,0.43876490741968155,2018
+973,Paulo Gazzaniga,18,1612,0,0,0,0.4000610113143921,0,1,1,0,GK S,Tottenham,0,0,2.2996131982654333,1.899552097544074,2019

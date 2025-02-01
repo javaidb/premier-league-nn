@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14814,75,MissedShots,0.78,0.5020000076293946,0.023240000009536743,Youssouf Mulumbu,a,797,FromCorner,2014,RightFoot,4762,Southampton,West Bromwich Albion,0,0,2014-08-23 15:00:00,,None,797
+15085,48,BlockedShot,0.7619999694824219,0.5129999923706055,0.02290779910981655,Youssouf Mulumbu,a,797,SetPiece,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Chris Brunt,Pass,797
+15099,82,MissedShots,0.77,0.3390000152587891,0.01617790013551712,Youssouf Mulumbu,a,797,FromCorner,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,,None,797
+17427,43,MissedShots,0.8880000305175781,0.635,0.05605880171060562,Youssouf Mulumbu,h,797,FromCorner,2014,RightFoot,4667,West Bromwich Albion,Newcastle United,0,2,2014-11-09 13:30:00,,None,797
+17430,59,MissedShots,0.7619999694824219,0.445,0.022005800157785416,Youssouf Mulumbu,h,797,OpenPlay,2014,RightFoot,4667,West Bromwich Albion,Newcastle United,0,2,2014-11-09 13:30:00,,BallRecovery,797
+19902,11,MissedShots,0.889000015258789,0.5479999923706055,0.08744789659976959,Youssouf Mulumbu,a,797,FromCorner,2014,RightFoot,4603,Hull,West Bromwich Albion,0,0,2014-12-06 15:00:00,,None,797
+18196,28,SavedShot,0.884000015258789,0.455,0.035962000489234924,Youssouf Mulumbu,h,797,FromCorner,2014,RightFoot,4633,West Bromwich Albion,Manchester City,1,3,2014-12-26 15:00:00,,Aerial,797
+18208,70,BlockedShot,0.7759999847412109,0.5979999923706054,0.02250869944691658,Youssouf Mulumbu,h,797,OpenPlay,2014,RightFoot,4633,West Bromwich Albion,Manchester City,1,3,2014-12-26 15:00:00,Stéphane Sessegnon,Pass,797
+19022,79,BlockedShot,0.805,0.4829999923706055,0.030620599165558815,Youssouf Mulumbu,a,797,FromCorner,2014,RightFoot,4646,Stoke,West Bromwich Albion,2,0,2014-12-28 15:00:00,,BallTouch,797
+20088,50,MissedShots,0.91,0.305,0.05642550066113472,Youssouf Mulumbu,a,797,OpenPlay,2014,RightFoot,4556,West Ham,West Bromwich Albion,1,1,2015-01-01 15:00:00,Stéphane Sessegnon,Pass,797
+21562,17,SavedShot,0.875,0.4520000076293945,0.03423139825463295,Youssouf Mulumbu,a,797,OpenPlay,2014,Head,4405,Manchester United,West Bromwich Albion,0,1,2015-05-02 17:30:00,Claudio Yacob,Chipped,797
+21708,7,BlockedShot,0.8530000305175781,0.485,0.06894870102405548,Youssouf Mulumbu,a,797,FromCorner,2014,RightFoot,4413,Newcastle United,West Bromwich Albion,1,1,2015-05-09 15:00:00,,Rebound,797
+56055,82,SavedShot,0.8180000305175781,0.4829999923706055,0.06857030093669891,Youssouf Mulumbu,a,797,OpenPlay,2015,RightFoot,246,Manchester United,Norwich,1,2,2015-12-19 19:00:00,Dieumerci Mbokani,Pass,797
+53716,70,BlockedShot,0.889000015258789,0.5220000076293946,0.018103400245308876,Youssouf Mulumbu,h,797,FromCorner,2015,Head,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Sebastien Bassong,Aerial,797
+53718,84,MissedShots,0.8130000305175781,0.5029999923706054,0.05832679942250252,Youssouf Mulumbu,h,797,OpenPlay,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Vadis Odjidja-Ofoe,Pass,797

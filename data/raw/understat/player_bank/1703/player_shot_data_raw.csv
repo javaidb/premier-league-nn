@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+112848,6,MissedShots,0.8669999694824219,0.27899999618530275,0.03520600125193596,Gökhan Töre,h,1703,OpenPlay,2016,LeftFoot,480,West Ham,Bournemouth,1,0,2016-08-21 19:00:00,,None,1703
+112851,23,BlockedShot,0.8180000305175781,0.3270000076293945,0.09172859787940979,Gökhan Töre,h,1703,DirectFreekick,2016,LeftFoot,480,West Ham,Bournemouth,1,0,2016-08-21 19:00:00,,Standard,1703
+112865,58,MissedShots,0.899000015258789,0.355,0.05493370071053505,Gökhan Töre,h,1703,OpenPlay,2016,LeftFoot,480,West Ham,Bournemouth,1,0,2016-08-21 19:00:00,Michail Antonio,Cross,1703
+114637,40,MissedShots,0.87,0.4370000076293945,0.07139190286397934,Gökhan Töre,h,1703,OpenPlay,2016,LeftFoot,526,West Ham,Middlesbrough,1,1,2016-10-01 18:00:00,Dimitri Payet,Cross,1703
+114640,44,MissedShots,0.7919999694824219,0.40599998474121096,0.034397099167108536,Gökhan Töre,h,1703,FromCorner,2016,RightFoot,526,West Ham,Middlesbrough,1,1,2016-10-01 18:00:00,,Rebound,1703

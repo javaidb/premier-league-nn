@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,1,0.10645999759435654,1,Sub,Manchester City,Norwich,5,0,2020-07-26,12017,2019,411379,0,0,0,0,0.10645999759435654,0.10645999759435654,0,8455
+0,0,0,1,Sub,Chelsea,Norwich,1,0,2020-07-14,11995,2019,408500,0,0,0,0,0,0,0,8455
+0,0,0,17,Sub,Norwich,West Ham,0,4,2020-07-11,11988,2019,407338,0,0,0,0,0,0,0,8455
+0,0,0,5,Sub,Watford,Norwich,2,1,2020-07-07,11981,2019,406240,0,0,0,0,0,0,0,8455
+0,0,0,1,Sub,Norwich,Southampton,0,3,2020-06-19,11937,2019,400728,0,0,0,0,0,0,0,8455

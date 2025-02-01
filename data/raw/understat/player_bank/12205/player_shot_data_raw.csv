@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+577192,25,MissedShots,0.86,0.5509999847412109,0.07050485908985138,Mark O’Mahony,a,12205,SetPiece,2023,RightFoot,22235,Bournemouth,Brighton,3,0,2024-04-28 13:00:00,João Pedro,Chipped,12205

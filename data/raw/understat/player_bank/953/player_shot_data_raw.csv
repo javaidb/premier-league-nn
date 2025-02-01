@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14565,43,BlockedShot,0.9369999694824219,0.48,0.12129499763250351,Steven Caulker,h,953,FromCorner,2014,Head,4751,Queens Park Rangers,Hull,0,1,2014-08-16 15:00:00,Joey Barton,Cross,953
+14567,54,MissedShots,0.9930000305175781,0.33599998474121096,0.009073469787836075,Steven Caulker,h,953,FromCorner,2014,Head,4751,Queens Park Rangers,Hull,0,1,2014-08-16 15:00:00,Joey Barton,Cross,953
+14872,48,MissedShots,0.9169999694824219,0.534000015258789,0.08696530014276505,Steven Caulker,a,953,FromCorner,2014,Head,4766,Tottenham,Queens Park Rangers,4,0,2014-08-24 13:30:00,Joey Barton,Cross,953
+14875,61,MissedShots,0.8959999847412109,0.544000015258789,0.05043809860944748,Steven Caulker,a,953,FromCorner,2014,Head,4766,Tottenham,Queens Park Rangers,4,0,2014-08-24 13:30:00,Joey Barton,Cross,953
+14879,77,SavedShot,0.8490000152587891,0.4979999923706055,0.05653170123696327,Steven Caulker,a,953,OpenPlay,2014,RightFoot,4766,Tottenham,Queens Park Rangers,4,0,2014-08-24 13:30:00,,None,953
+14884,91,MissedShots,0.955999984741211,0.5179999923706055,0.4859839975833893,Steven Caulker,a,953,FromCorner,2014,Head,4766,Tottenham,Queens Park Rangers,4,0,2014-08-24 13:30:00,Alejandro Faurlin,Cross,953
+15050,41,MissedShots,0.915,0.46,0.12146399915218353,Steven Caulker,h,953,OpenPlay,2014,Head,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,Clint Hill,Cross,953
+15312,60,MissedShots,0.9009999847412109,0.534000015258789,0.0595552995800972,Steven Caulker,a,953,FromCorner,2014,Head,4727,Manchester United,Queens Park Rangers,4,0,2014-09-14 16:00:00,Niko Kranjcar,Cross,953
+15599,41,Goal,0.9530000305175781,0.46,0.43974199891090393,Steven Caulker,h,953,FromCorner,2014,Head,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,Jordon Mutch,Cross,953
+15855,84,MissedShots,0.899000015258789,0.5220000076293946,0.02329760044813156,Steven Caulker,a,953,SetPiece,2014,Head,4741,Southampton,Queens Park Rangers,2,1,2014-09-27 15:00:00,,Rebound,953
+16692,88,MissedShots,0.9369999694824219,0.5729999923706055,0.11775700002908707,Steven Caulker,h,953,OpenPlay,2014,Head,4706,Queens Park Rangers,Liverpool,2,3,2014-10-19 13:30:00,Charlie Austin,Cross,953
+16697,94,OwnGoal,0.08199999809265136,0.4759999847412109,0,Steven Caulker,h,953,OpenPlay,2014,LeftFoot,4706,Queens Park Rangers,Liverpool,2,3,2014-10-19 13:30:00,,None,953
+16772,49,MissedShots,0.9430000305175781,0.42400001525878905,0.0863116979598999,Steven Caulker,h,953,FromCorner,2014,Head,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Eduardo Vargas,Cross,953
+16776,62,MissedShots,0.9219999694824219,0.5479999923706055,0.5221009850502014,Steven Caulker,h,953,OpenPlay,2014,OtherBodyPart,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Eduardo Vargas,Rebound,953
+18055,6,MissedShots,0.9640000152587891,0.515,0.10777600109577179,Steven Caulker,h,953,FromCorner,2014,Head,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,Leroy Fer,Rebound,953
+18068,35,BlockedShot,0.8530000305175781,0.46599998474121096,0.062004100531339645,Steven Caulker,h,953,OpenPlay,2014,RightFoot,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,,Dispossessed,953
+18076,47,BlockedShot,0.889000015258789,0.53,0.015571000054478645,Steven Caulker,h,953,FromCorner,2014,Head,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,Niko Kranjcar,Aerial,953
+18093,72,BlockedShot,0.8819999694824219,0.509000015258789,0.0357418991625309,Steven Caulker,h,953,FromCorner,2014,Head,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,Joey Barton,Cross,953
+18097,74,BlockedShot,0.8819999694824219,0.3120000076293945,0.04598290100693703,Steven Caulker,h,953,FromCorner,2014,RightFoot,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,Karl Henry,Pass,953
+19695,38,MissedShots,0.8880000305175781,0.40400001525878904,0.04099009931087494,Steven Caulker,a,953,SetPiece,2014,Head,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Mauricio Isla,Chipped,953
+18825,73,BlockedShot,0.8819999694824219,0.52,0.03527669981122017,Steven Caulker,h,953,FromCorner,2014,Head,4641,Queens Park Rangers,Crystal Palace,0,0,2014-12-28 15:00:00,Joey Barton,Cross,953
+17470,92,SavedShot,0.91,0.47400001525878904,0.07747530192136765,Steven Caulker,a,953,FromCorner,2014,Head,4564,Burnley,Queens Park Rangers,2,1,2015-01-10 15:00:00,Mauricio Isla,Cross,953
+24022,79,SavedShot,0.875999984741211,0.47200000762939454,0.013351299799978733,Steven Caulker,a,953,SetPiece,2014,Head,4540,Hull,Queens Park Rangers,2,1,2015-02-21 15:00:00,Matt Phillips,Aerial,953
+22584,14,MissedShots,0.855999984741211,0.33,0.0068889399990439415,Steven Caulker,a,953,SetPiece,2014,Head,4493,Crystal Palace,Queens Park Rangers,3,1,2015-03-14 12:45:00,Yun Suk-Young,Aerial,953
+22257,90,MissedShots,0.875,0.45,0.018474100157618523,Steven Caulker,h,953,OpenPlay,2014,Head,4512,Queens Park Rangers,Everton,1,2,2015-03-22 16:00:00,Mauricio Isla,Aerial,953
+22275,37,MissedShots,0.909000015258789,0.45,0.06451839953660965,Steven Caulker,a,953,FromCorner,2014,Head,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Matt Phillips,Cross,953
+22920,90,BlockedShot,0.92,0.47400001525878904,0.09733360260725021,Steven Caulker,h,953,FromCorner,2014,Head,4469,Queens Park Rangers,West Ham,0,0,2015-04-25 15:00:00,Matt Phillips,Cross,953
+21342,7,MissedShots,0.9019999694824219,0.5279999923706055,0.08495619893074036,Steven Caulker,a,953,SetPiece,2014,RightFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,,None,953
+21351,25,MissedShots,0.86,0.61,0.0578732006251812,Steven Caulker,a,953,SetPiece,2014,RightFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,,None,953
+57131,36,SavedShot,0.9359999847412109,0.545,0.0842239037156105,Steven Caulker,a,953,FromCorner,2015,OtherBodyPart,109,Watford,Southampton,0,0,2015-08-23 19:00:00,Steven Davis,Cross,953
+57152,88,SavedShot,0.8430000305175781,0.45299999237060545,0.017714599147439003,Steven Caulker,a,953,SetPiece,2015,Head,109,Watford,Southampton,0,0,2015-08-23 19:00:00,James Ward-Prowse,Cross,953
+54908,94,BlockedShot,0.865999984741211,0.5179999923706055,0.09007459878921509,Steven Caulker,a,953,OpenPlay,2015,RightFoot,301,Norwich,Liverpool,4,5,2016-01-23 16:45:00,,Goal,953

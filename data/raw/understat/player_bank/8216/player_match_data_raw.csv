@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,4,Sub,Liverpool,Crystal Palace,4,0,2020-06-24,11951,2019,402547,0,0,0,0,0,0,0,8216
+0,0,0,6,Sub,Norwich,Crystal Palace,1,1,2020-01-01,11850,2019,385657,0.09551870077848434,0,2,0,0,0.09551870077848434,0,8216

@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+535897,23,MissedShots,0.9319999694824219,0.45799999237060546,0.05228988081216812,Mads Andersen,h,11715,FromCorner,2023,Head,21925,Luton,West Ham,1,2,2023-09-01 19:00:00,Ross Barkley,Aerial,11715
+535916,91,Goal,0.9269999694824219,0.4759999847412109,0.5723549723625183,Mads Andersen,h,11715,OpenPlay,2023,Head,21925,Luton,West Ham,1,2,2023-09-01 19:00:00,Carlton Morris,Aerial,11715
+541132,51,MissedShots,0.9,0.47200000762939454,0.06928927451372147,Mads Andersen,a,11715,FromCorner,2023,RightFoot,21956,Everton,Luton,1,2,2023-09-30 14:00:00,Alfie Doughty,Cross,11715

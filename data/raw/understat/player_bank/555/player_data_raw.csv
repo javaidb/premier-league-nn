@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+555,Memphis Depay,29,1470,2,4.733708648942411,0,1.2230775114148855,57,12,2,0,F M S,Manchester United,2,4.733708648942411,7.542920334264636,2.9404460974037647,2015
+555,Memphis Depay,4,13,0,0,0,0,0,0,1,0,S,Manchester United,0,0,0.01142009999603033,0.01142009999603033,2016

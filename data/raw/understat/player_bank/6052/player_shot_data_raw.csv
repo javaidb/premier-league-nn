@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+158473,27,BlockedShot,0.85,0.639000015258789,0.05850150063633919,Jamie Murphy,a,6052,OpenPlay,2017,RightFoot,7133,Leicester,Brighton,2,0,2017-08-19 15:00:00,Glenn Murray,LayOff,6052

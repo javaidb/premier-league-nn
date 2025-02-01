@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,18,Sub,Liverpool,Brighton,4,0,2018-05-13,7495,2017,240257,0,0,0,0,0,0,0,6299
+0,0,0,90,DC,Brighton,Chelsea,0,4,2018-01-20,7350,2017,208897,0,0,0,0,0,0.33209699392318726,0.33209699392318726,6299
+0,3,0.263482004404068,90,DC,Brighton,Watford,1,0,2017-12-23,7305,2017,202891,0,0,0,0,0.263482004404068,0.029758000746369362,0.029758000746369362,6299

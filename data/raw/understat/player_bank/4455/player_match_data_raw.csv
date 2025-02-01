@@ -1,0 +1,7 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,90,GK,Newcastle United,Burnley,3,3,2015-01-01,4553,2014,22653,0,0,0,0,0,0,0,4455
+0,0,0,90,GK,Newcastle United,Everton,3,2,2014-12-28,4647,2014,21561,0,0,0,0,0,0,0,4455
+0,0,0,90,GK,Manchester United,Newcastle United,3,1,2014-12-26,4636,2014,20702,0,0,0,0,0,0,0,4455
+0,0,0,90,GK,Newcastle United,Sunderland,0,1,2014-12-21,4626,2014,21943,0,0,0,0,0,0,0,4455
+0,0,0,90,GK,Arsenal,Newcastle United,4,1,2014-12-13,4615,2014,20431,0,0,0,0,0,0,0,4455
+0,0,0,43,Sub,Newcastle United,Chelsea,2,1,2014-12-06,4599,2014,22965,0,0,0,0,0,0,0,4455

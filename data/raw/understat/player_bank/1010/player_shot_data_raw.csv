@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+57700,92,MissedShots,0.87,0.42200000762939455,0.05795539915561676,Gary Hooper,a,1010,OpenPlay,2015,RightFoot,119,Southampton,Norwich,3,0,2015-08-30 16:30:00,,Rebound,1010

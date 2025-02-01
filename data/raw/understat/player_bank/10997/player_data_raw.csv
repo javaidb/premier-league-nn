@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+10997,Bobby Clark,1,5,0,0,0,0,0,0,0,0,S,Liverpool,0,0,0,0,2022
+10997,Bobby Clark,5,79,0,0.0737958550453186,0,0,2,0,0,0,M S,Liverpool,0,0.0737958550453186,0.2553020417690277,0.2216729074716568,2023

@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+5706,Dodi Lukebakio,1,14,0,0.018867600709199905,0,0.08114349842071533,1,2,0,0,S,Watford,0,0.018867600709199905,0.04142960160970688,0,2017

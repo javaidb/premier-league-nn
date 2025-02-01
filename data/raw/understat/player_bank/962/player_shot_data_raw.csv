@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+33187,21,MissedShots,0.7119999694824218,0.6040000152587891,0.008704150095582008,José Ángel Crespo,h,962,SetPiece,2014,RightFoot,5803,Cordoba,Sevilla,1,3,2014-09-21 18:00:00,,Aerial,962
+38018,90,SavedShot,0.950999984741211,0.40200000762939453,0.18273000419139862,José Ángel Crespo,h,962,OpenPlay,2014,Head,5662,Cordoba,Eibar,1,1,2015-01-16 19:45:00,Abel Gómez,Cross,962
+40694,76,ShotOnPost,0.9590000152587891,0.555,0.08638539910316467,José Ángel Crespo,a,962,FromCorner,2014,Head,5638,Espanyol,Cordoba,1,0,2015-02-27 19:45:00,,None,962
+39538,84,SavedShot,0.9119999694824219,0.4540000152587891,0.0805521011352539,José Ángel Crespo,h,962,SetPiece,2014,Head,5507,Cordoba,Atletico Madrid,0,2,2015-04-04 17:00:00,Fede Cartabia,Chipped,962
+36122,64,BlockedShot,0.8619999694824219,0.6930000305175781,0.03448459878563881,José Ángel Crespo,h,962,OpenPlay,2014,RightFoot,5545,Cordoba,Athletic Club,0,1,2015-04-24 19:45:00,Edimar,Pass,962
+36599,12,BlockedShot,0.8980000305175782,0.28299999237060547,0.04610870033502579,José Ángel Crespo,a,962,OpenPlay,2014,RightFoot,5557,Levante,Cordoba,1,0,2015-04-28 21:00:00,Nabil Ghilas,Pass,962
+92235,93,SavedShot,0.879000015258789,0.38,0.009625939652323723,José Ángel Crespo,h,962,OpenPlay,2015,Head,1740,Rayo Vallecano,Real Madrid,2,3,2016-04-23 18:00:00,Bebé,Aerial,962

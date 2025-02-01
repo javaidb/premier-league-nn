@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+275187,46,BlockedShot,0.865999984741211,0.41200000762939454,0.10085199773311615,Callum Slattery,a,7335,OpenPlay,2018,RightFoot,9445,Burnley,Southampton,1,1,2019-02-02 15:00:00,Nathan Redmond,Pass,7335

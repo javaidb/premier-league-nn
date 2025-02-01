@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+484497,91,BlockedShot,0.9209999847412109,0.41,0.11410800367593765,Djed Spence,a,10764,OpenPlay,2022,LeftFoot,18241,Nottingham Forest,Tottenham,0,2,2022-08-28 15:30:00,,None,10764
+507429,32,MissedShots,0.92,0.35900001525878905,0.10249000042676926,Djed Spence,h,10764,OpenPlay,2022,RightFoot,19866,Rennes,Lille,1,3,2023-02-04 20:00:00,Amine Gouiri,Pass,10764
+510167,60,MissedShots,0.84,0.5220000076293946,0.09043169766664505,Djed Spence,h,10764,OpenPlay,2022,LeftFoot,19885,Rennes,Clermont Foot,2,0,2023-02-19 14:00:00,Lovro Majer,Pass,10764
+515738,72,SavedShot,0.889000015258789,0.36700000762939455,0.2977930009365082,Djed Spence,a,10764,OpenPlay,2022,RightFoot,19922,Paris Saint Germain,Rennes,0,2,2023-03-19 16:05:00,Arnaud Kalimuendo Muinga,TakeOn,10764
+561057,77,BlockedShot,0.950999984741211,0.42700000762939455,0.06496912240982056,Djed Spence,a,10764,OpenPlay,2023,Head,22530,Empoli,Genoa,0,0,2024-02-03 14:00:00,Aarón Martín,Aerial,10764
+568314,57,BlockedShot,0.8490000152587891,0.6959999847412109,0.02452634647488594,Djed Spence,h,10764,OpenPlay,2023,RightFoot,22582,Genoa,Monza,2,3,2024-03-09 19:45:00,Stefano Sabelli,Cross,10764
+607774,9,MissedShots,0.8619999694824219,0.3920000076293945,0.05306229367852211,Djed Spence,a,10764,FromCorner,2024,RightFoot,26759,Southampton,Tottenham,0,5,2024-12-15 19:00:00,,None,10764
+609143,31,BlockedShot,0.7219999694824218,0.47099998474121096,0.016208704560995102,Djed Spence,a,10764,OpenPlay,2024,LeftFoot,26779,Nottingham Forest,Tottenham,1,0,2024-12-26 15:00:00,Radu Dragusin,Pass,10764
+612608,21,BlockedShot,0.7969999694824219,0.705999984741211,0.02440490573644638,Djed Spence,a,10764,OpenPlay,2024,RightFoot,26815,Everton,Tottenham,3,2,2025-01-19 14:00:00,Dejan Kulusevski,Pass,10764

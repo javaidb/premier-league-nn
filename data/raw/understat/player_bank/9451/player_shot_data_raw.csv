@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+417753,90,BlockedShot,0.84,0.524000015258789,0.0805651992559433,Chimuanya Ugochukwu,h,9451,OpenPlay,2020,RightFoot,16091,Rennes,Dijon,5,1,2021-04-25 13:00:00,Flavien Tait,ChanceMissed,9451
+420928,36,MissedShots,0.870999984741211,0.415,0.0668867975473404,Chimuanya Ugochukwu,h,9451,FromCorner,2020,RightFoot,16113,Rennes,Paris Saint Germain,1,1,2021-05-09 19:00:00,Flavien Tait,HeadPass,9451
+426259,39,MissedShots,0.92,0.47,0.09359800070524216,Chimuanya Ugochukwu,a,9451,SetPiece,2021,LeftFoot,17836,Brest,Rennes,1,1,2021-08-15 13:00:00,Benjamin Bourigeaud,Cross,9451
+430303,48,MissedShots,0.7780000305175782,0.3940000152587891,0.028805499896407127,Chimuanya Ugochukwu,h,9451,OpenPlay,2021,RightFoot,17864,Rennes,Reims,0,2,2021-09-12 13:00:00,Hamari Traore,Pass,9451
+431950,34,MissedShots,0.8440000152587891,0.3129999923706055,0.03564450144767761,Chimuanya Ugochukwu,a,9451,OpenPlay,2021,RightFoot,17877,Marseille,Rennes,2,0,2021-09-19 15:00:00,Benjamin Bourigeaud,Pass,9451
+446598,82,Goal,0.865,0.3920000076293945,0.10480400174856186,Chimuanya Ugochukwu,a,9451,OpenPlay,2021,RightFoot,17983,Saint-Etienne,Rennes,0,5,2021-12-05 12:00:00,Gaetan Laborde,Pass,9451
+489214,41,BlockedShot,0.7340000152587891,0.45099998474121095,0.024608200415968895,Chimuanya Ugochukwu,a,9451,OpenPlay,2022,RightFoot,19725,Marseille,Rennes,1,1,2022-09-18 13:00:00,,BallRecovery,9451
+505607,34,MissedShots,0.785,0.4370000076293945,0.033023901283741,Chimuanya Ugochukwu,a,9451,OpenPlay,2022,RightFoot,19841,Lorient,Rennes,2,1,2023-01-27 20:00:00,Hamari Traore,Pass,9451
+507438,71,SavedShot,0.9209999847412109,0.495,0.4471200108528137,Chimuanya Ugochukwu,h,9451,OpenPlay,2022,Head,19866,Rennes,Lille,1,3,2023-02-04 20:00:00,,None,9451
+519583,27,MissedShots,0.8909999847412109,0.4570000076293945,0.08892209827899933,Chimuanya Ugochukwu,h,9451,FromCorner,2022,LeftFoot,19956,Rennes,Reims,3,0,2023-04-15 15:00:00,,None,9451
+519585,31,ShotOnPost,0.9159999847412109,0.45799999237060546,0.5379250049591064,Chimuanya Ugochukwu,h,9451,OpenPlay,2022,RightFoot,19956,Rennes,Reims,3,0,2023-04-15 15:00:00,,Rebound,9451
+519590,51,MissedShots,0.7930000305175782,0.35400001525878905,0.026563800871372223,Chimuanya Ugochukwu,h,9451,OpenPlay,2022,RightFoot,19956,Rennes,Reims,3,0,2023-04-15 15:00:00,,None,9451
+590475,27,MissedShots,0.9359999847412109,0.4909999847412109,0.43911412358283997,Chimuanya Ugochukwu,h,9451,SetPiece,2024,OtherBodyPart,26632,Southampton,Manchester United,0,3,2024-09-14 11:30:00,Yukinari Sugawara,Cross,9451
+609165,13,BlockedShot,0.8090000152587891,0.45,0.045268699526786804,Chimuanya Ugochukwu,h,9451,OpenPlay,2024,RightFoot,26780,Southampton,West Ham,0,1,2024-12-26 15:00:00,Paul Onuachu,Pass,9451
+612659,59,MissedShots,0.7869999694824219,0.6730000305175782,0.010973939672112465,Chimuanya Ugochukwu,a,9451,SetPiece,2024,LeftFoot,26820,Nottingham Forest,Southampton,3,2,2025-01-19 14:00:00,,Aerial,9451
+613374,77,BlockedShot,0.7219999694824218,0.47900001525878905,0.013476877473294735,Chimuanya Ugochukwu,h,9451,OpenPlay,2024,RightFoot,26829,Southampton,Newcastle United,1,3,2025-01-25 15:00:00,James Bree,Pass,9451

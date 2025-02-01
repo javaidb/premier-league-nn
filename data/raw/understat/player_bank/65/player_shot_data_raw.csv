@@ -1,0 +1,726 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+24754,63,BlockedShot,0.8230000305175781,0.544000015258789,0.06000199913978577,Timo Werner,h,65,OpenPlay,2014,RightFoot,5458,VfB Stuttgart,FC Cologne,0,2,2014-08-30 14:30:00,Vedad Ibisevic,LayOff,65
+24803,70,MissedShots,0.785,0.525,0.03125939890742302,Timo Werner,a,65,OpenPlay,2014,RightFoot,5413,Bayern Munich,VfB Stuttgart,2,0,2014-09-13 14:30:00,Martin Harnik,Pass,65
+25169,45,MissedShots,0.9159999847412109,0.345,0.06364379823207855,Timo Werner,h,65,OpenPlay,2014,RightFoot,5421,VfB Stuttgart,Hoffenheim,0,2,2014-09-20 14:30:00,Martin Harnik,HeadPass,65
+25173,60,MissedShots,0.7819999694824219,0.7419999694824219,0.01897599920630455,Timo Werner,h,65,OpenPlay,2014,RightFoot,5421,VfB Stuttgart,Hoffenheim,0,2,2014-09-20 14:30:00,Daniel Didavi,Pass,65
+25295,22,SavedShot,0.919000015258789,0.2560000038146973,0.041835300624370575,Timo Werner,a,65,OpenPlay,2014,RightFoot,5433,Borussia Dortmund,VfB Stuttgart,2,2,2014-09-24 19:00:00,Christian Gentner,BallRecovery,65
+25617,39,MissedShots,0.875999984741211,0.5259999847412109,0.02133920043706894,Timo Werner,h,65,OpenPlay,2014,Head,5440,VfB Stuttgart,Hannover 96,1,0,2014-09-27 14:30:00,Carlos Gruezo,Aerial,65
+25621,47,SavedShot,0.88,0.47400001525878904,0.09723430126905441,Timo Werner,h,65,OpenPlay,2014,RightFoot,5440,VfB Stuttgart,Hannover 96,1,0,2014-09-27 14:30:00,,BallTouch,65
+25905,49,SavedShot,0.935,0.5790000152587891,0.26701200008392334,Timo Werner,a,65,OpenPlay,2014,Head,5383,Hertha Berlin,VfB Stuttgart,3,2,2014-10-03 19:30:00,Gotoku Sakai,Cross,65
+26105,56,Goal,0.9359999847412109,0.54,0.11806599795818329,Timo Werner,h,65,OpenPlay,2014,Head,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Florian Klein,Chipped,65
+26448,80,Goal,0.9409999847412109,0.675,0.09073399752378464,Timo Werner,a,65,OpenPlay,2014,LeftFoot,5402,Eintracht Frankfurt,VfB Stuttgart,4,5,2014-10-25 14:30:00,Georg Niedermeier,Pass,65
+27227,67,Goal,0.8019999694824219,0.28100000381469725,0.3841570019721985,Timo Werner,a,65,OpenPlay,2014,RightFoot,5374,Freiburg,VfB Stuttgart,1,4,2014-11-28 19:30:00,Moritz Leitner,Throughball,65
+27405,10,MissedShots,0.7759999847412109,0.6079999923706054,0.02771339938044548,Timo Werner,h,65,OpenPlay,2014,RightFoot,5315,VfB Stuttgart,Schalke 04,0,4,2014-12-06 14:30:00,Moritz Leitner,Pass,65
+27416,50,MissedShots,0.8690000152587891,0.6,0.06348440051078796,Timo Werner,h,65,SetPiece,2014,LeftFoot,5315,VfB Stuttgart,Schalke 04,0,4,2014-12-06 14:30:00,,None,65
+27422,66,BlockedShot,0.9069999694824219,0.2670000076293945,0.04233190044760704,Timo Werner,h,65,OpenPlay,2014,RightFoot,5315,VfB Stuttgart,Schalke 04,0,4,2014-12-06 14:30:00,Adam Hlousek,Pass,65
+28006,86,MissedShots,0.8540000152587891,0.5840000152587891,0.05523280054330826,Timo Werner,a,65,OpenPlay,2014,RightFoot,5327,Mainz 05,VfB Stuttgart,1,1,2014-12-13 17:30:00,Daniel Ginczek,Cross,65
+27825,78,SavedShot,0.9569999694824218,0.3189999961853027,0.06198589876294136,Timo Werner,a,65,OpenPlay,2014,RightFoot,5331,Hamburger SV,VfB Stuttgart,0,1,2014-12-16 19:00:00,Christian Gentner,Chipped,65
+28366,12,MissedShots,0.9019999694824219,0.40400001525878904,0.38359200954437256,Timo Werner,h,65,OpenPlay,2014,RightFoot,5344,VfB Stuttgart,Paderborn,0,0,2014-12-20 14:30:00,Florian Klein,Pass,65
+28375,34,MissedShots,0.779000015258789,0.3770000076293945,0.014854200184345245,Timo Werner,h,65,FromCorner,2014,RightFoot,5344,VfB Stuttgart,Paderborn,0,0,2014-12-20 14:30:00,,Aerial,65
+28385,71,MissedShots,0.914000015258789,0.33,0.03271299973130226,Timo Werner,h,65,OpenPlay,2014,RightFoot,5344,VfB Stuttgart,Paderborn,0,0,2014-12-20 14:30:00,Adam Hlousek,Cross,65
+29404,30,MissedShots,0.75,0.59,0.013440599665045738,Timo Werner,h,65,SetPiece,2014,RightFoot,5308,VfB Stuttgart,Borussia M.Gladbach,0,1,2015-01-31 14:30:00,,None,65
+29406,34,SavedShot,0.8119999694824219,0.44099998474121094,0.02030549943447113,Timo Werner,h,65,OpenPlay,2014,RightFoot,5308,VfB Stuttgart,Borussia M.Gladbach,0,1,2015-01-31 14:30:00,Daniel Schwaab,Chipped,65
+29204,25,BlockedShot,0.75,0.5540000152587891,0.025955799967050552,Timo Werner,a,65,OpenPlay,2014,RightFoot,5283,Hoffenheim,VfB Stuttgart,2,1,2015-02-14 14:30:00,Florian Klein,HeadPass,65
+29449,30,MissedShots,0.925,0.38799999237060545,0.05142299830913544,Timo Werner,h,65,FromCorner,2014,RightFoot,5289,VfB Stuttgart,Borussia Dortmund,2,3,2015-02-20 19:30:00,Florian Klein,Cross,65
+29285,14,MissedShots,0.9269999694824219,0.5309999847412109,0.07416850328445435,Timo Werner,a,65,OpenPlay,2014,Head,5302,Hannover 96,VfB Stuttgart,1,1,2015-02-28 14:30:00,Christian Gentner,Aerial,65
+29296,60,MissedShots,0.8009999847412109,0.735999984741211,0.02590540051460266,Timo Werner,a,65,OpenPlay,2014,RightFoot,5302,Hannover 96,VfB Stuttgart,1,1,2015-02-28 14:30:00,Alexandru Maxim,Pass,65
+30238,9,MissedShots,0.7419999694824219,0.46,0.024135099723935127,Timo Werner,h,65,OpenPlay,2014,RightFoot,5233,VfB Stuttgart,Hertha Berlin,0,0,2015-03-06 19:30:00,Alexandru Maxim,Pass,65
+30240,13,MissedShots,0.875,0.5940000152587891,0.1024869978427887,Timo Werner,h,65,OpenPlay,2014,RightFoot,5233,VfB Stuttgart,Hertha Berlin,0,0,2015-03-06 19:30:00,Daniel Ginczek,Pass,65
+32345,78,SavedShot,0.8419999694824218,0.32599998474121095,0.043739400804042816,Timo Werner,a,65,OpenPlay,2014,RightFoot,5200,Wolfsburg,VfB Stuttgart,3,1,2015-04-04 14:30:00,Daniel Ginczek,Pass,65
+32348,85,BlockedShot,0.9119999694824219,0.295,0.018076099455356598,Timo Werner,a,65,SetPiece,2014,RightFoot,5200,Wolfsburg,VfB Stuttgart,3,1,2015-04-04 14:30:00,Filip Kostic,Cross,65
+30936,87,SavedShot,0.8830000305175781,0.3370000076293945,0.29517900943756104,Timo Werner,h,65,OpenPlay,2014,RightFoot,5184,VfB Stuttgart,Hamburger SV,2,1,2015-05-16 14:30:00,Geoffroy Serey Dié,Pass,65
+76600,54,BlockedShot,0.9319999694824219,0.5970000076293945,0.14078499376773834,Timo Werner,h,65,OpenPlay,2015,LeftFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Filip Kostic,Pass,65
+76601,55,SavedShot,0.84,0.6270000076293946,0.04813240095973015,Timo Werner,h,65,OpenPlay,2015,RightFoot,1040,VfB Stuttgart,Eintracht Frankfurt,1,4,2015-08-29 17:30:00,Filip Kostic,BlockedPass,65
+77044,7,MissedShots,0.9540000152587891,0.5829999923706055,0.4742400050163269,Timo Werner,h,65,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Filip Kostic,Pass,65
+77045,14,MissedShots,0.8719999694824219,0.4490000152587891,0.014352000318467617,Timo Werner,h,65,OpenPlay,2015,Head,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Florian Klein,Aerial,65
+77046,16,SavedShot,0.855999984741211,0.19200000762939454,0.021823400631546974,Timo Werner,h,65,OpenPlay,2015,LeftFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Alexandru Maxim,Pass,65
+77069,69,SavedShot,0.855,0.639000015258789,0.049394700676202774,Timo Werner,h,65,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,,None,65
+77327,17,Goal,0.8969999694824219,0.395,0.33377501368522644,Timo Werner,a,65,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,,Rebound,65
+77338,62,SavedShot,0.87,0.25799999237060545,0.05738700181245804,Timo Werner,a,65,OpenPlay,2015,RightFoot,1074,Hannover 96,VfB Stuttgart,1,3,2015-09-23 22:00:00,Daniel Ginczek,Pass,65
+77530,51,BlockedShot,0.98,0.33099998474121095,0.04509029909968376,Timo Werner,h,65,OpenPlay,2015,RightFoot,1077,VfB Stuttgart,Borussia M.Gladbach,1,3,2015-09-26 17:30:00,Geoffroy Serey Dié,BallRecovery,65
+77539,75,MissedShots,0.9640000152587891,0.5370000076293945,0.13696399331092834,Timo Werner,h,65,FromCorner,2015,Head,1077,VfB Stuttgart,Borussia M.Gladbach,1,3,2015-09-26 17:30:00,Alexandru Maxim,Cross,65
+77540,78,BlockedShot,0.7909999847412109,0.6759999847412109,0.024614300578832626,Timo Werner,h,65,OpenPlay,2015,RightFoot,1077,VfB Stuttgart,Borussia M.Gladbach,1,3,2015-09-26 17:30:00,Alexandru Maxim,Pass,65
+77855,51,SavedShot,0.9530000305175781,0.4520000076293945,0.5363929867744446,Timo Werner,a,65,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Martin Harnik,Pass,65
+77867,86,MissedShots,0.8419999694824218,0.3029999923706055,0.03253769874572754,Timo Werner,a,65,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Arianit Ferati,Chipped,65
+77869,89,Goal,0.9290000152587891,0.5129999923706055,0.3623790144920349,Timo Werner,a,65,OpenPlay,2015,Head,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Arianit Ferati,Cross,65
+77870,91,MissedShots,0.9019999694824219,0.4640000152587891,0.44599801301956177,Timo Werner,a,65,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Jan Kliment,Pass,65
+78001,8,BlockedShot,0.9080000305175782,0.6090000152587891,0.11306899785995483,Timo Werner,h,65,OpenPlay,2015,LeftFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Daniel Didavi,Pass,65
+78003,13,SavedShot,0.91,0.3509999847412109,0.33427199721336365,Timo Werner,h,65,OpenPlay,2015,RightFoot,1101,VfB Stuttgart,Ingolstadt,1,0,2015-10-18 19:30:00,Geoffroy Serey Dié,Throughball,65
+78203,23,MissedShots,0.9230000305175782,0.4879999923706055,0.3909960091114044,Timo Werner,a,65,OpenPlay,2015,Head,1106,Bayer Leverkusen,VfB Stuttgart,4,3,2015-10-24 17:30:00,Emiliano Insúa,Cross,65
+78212,55,SavedShot,0.9309999847412109,0.5970000076293945,0.02385680004954338,Timo Werner,a,65,OpenPlay,2015,Head,1106,Bayer Leverkusen,VfB Stuttgart,4,3,2015-10-24 17:30:00,Daniel Didavi,Aerial,65
+78474,29,BlockedShot,0.8590000152587891,0.5320000076293945,0.05758669972419739,Timo Werner,h,65,FromCorner,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Toni Sunjic,Pass,65
+78485,51,SavedShot,0.875999984741211,0.5420000076293945,0.095038503408432,Timo Werner,h,65,OpenPlay,2015,RightFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Daniel Schwaab,Rebound,65
+78489,66,ShotOnPost,0.9469999694824218,0.55,0.47087499499320984,Timo Werner,h,65,OpenPlay,2015,Head,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Emiliano Insúa,Cross,65
+78503,93,Goal,0.9259999847412109,0.53,0.8736680150032043,Timo Werner,h,65,OpenPlay,2015,LeftFoot,1118,VfB Stuttgart,Darmstadt,2,0,2015-11-01 18:30:00,Alexandru Maxim,TakeOn,65
+78644,35,MissedShots,0.8519999694824218,0.6370000076293946,0.022496400400996208,Timo Werner,a,65,OpenPlay,2015,RightFoot,1125,Bayern Munich,VfB Stuttgart,4,0,2015-11-07 18:30:00,,Aerial,65
+79000,41,MissedShots,0.8590000152587891,0.49400001525878906,0.027834299951791763,Timo Werner,h,65,OpenPlay,2015,Head,1130,VfB Stuttgart,Augsburg,0,4,2015-11-21 18:30:00,Florian Klein,Aerial,65
+79009,76,MissedShots,0.885,0.545,0.10261700302362442,Timo Werner,h,65,OpenPlay,2015,RightFoot,1130,VfB Stuttgart,Augsburg,0,4,2015-11-21 18:30:00,,TakeOn,65
+79134,39,BlockedShot,0.919000015258789,0.4179999923706055,0.25117000937461853,Timo Werner,a,65,OpenPlay,2015,RightFoot,1144,Borussia Dortmund,VfB Stuttgart,4,1,2015-11-29 18:30:00,Georg Niedermeier,TakeOn,65
+79479,49,MissedShots,0.7040000152587891,0.2979999923706055,0.015847399830818176,Timo Werner,h,65,OpenPlay,2015,RightFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,Daniel Schwaab,TakeOn,65
+79487,85,SavedShot,0.9630000305175781,0.515,0.7631670236587524,Timo Werner,h,65,OpenPlay,2015,RightFoot,1154,VfB Stuttgart,Werder Bremen,1,1,2015-12-06 18:30:00,Lukas Rupp,Pass,65
+79792,23,BlockedShot,0.914000015258789,0.43,0.13329699635505676,Timo Werner,a,65,OpenPlay,2015,RightFoot,1156,Mainz 05,VfB Stuttgart,0,0,2015-12-11 23:30:00,Lukas Rupp,Pass,65
+79797,46,MissedShots,0.845,0.5420000076293945,0.014894999563694,Timo Werner,a,65,OpenPlay,2015,Head,1156,Mainz 05,VfB Stuttgart,0,0,2015-12-11 23:30:00,Lukas Rupp,Cross,65
+79803,82,BlockedShot,0.815,0.5540000152587891,0.05728109925985336,Timo Werner,a,65,OpenPlay,2015,RightFoot,1156,Mainz 05,VfB Stuttgart,0,0,2015-12-11 23:30:00,Emiliano Insúa,BallRecovery,65
+79921,17,MissedShots,0.92,0.29100000381469726,0.046174999326467514,Timo Werner,h,65,OpenPlay,2015,RightFoot,1171,VfB Stuttgart,Wolfsburg,3,1,2015-12-19 21:30:00,Lukas Rupp,Pass,65
+79928,41,SavedShot,0.8919999694824219,0.620999984741211,0.5348259806632996,Timo Werner,h,65,OpenPlay,2015,LeftFoot,1171,VfB Stuttgart,Wolfsburg,3,1,2015-12-19 21:30:00,Emiliano Insúa,Throughball,65
+79932,54,SavedShot,0.8730000305175781,0.3370000076293945,0.25410500168800354,Timo Werner,h,65,OpenPlay,2015,RightFoot,1171,VfB Stuttgart,Wolfsburg,3,1,2015-12-19 21:30:00,Daniel Didavi,Pass,65
+80181,35,SavedShot,0.955999984741211,0.6120000076293945,0.13889899849891663,Timo Werner,a,65,OpenPlay,2015,RightFoot,1175,FC Cologne,VfB Stuttgart,1,3,2016-01-23 18:30:00,Filip Kostic,Pass,65
+80186,50,Goal,0.950999984741211,0.48700000762939455,0.4802109897136688,Timo Werner,a,65,FromCorner,2015,Head,1175,FC Cologne,VfB Stuttgart,1,3,2016-01-23 18:30:00,Filip Kostic,Cross,65
+80190,65,MissedShots,0.919000015258789,0.5120000076293946,0.06783880293369293,Timo Werner,a,65,OpenPlay,2015,Head,1175,FC Cologne,VfB Stuttgart,1,3,2016-01-23 18:30:00,Filip Kostic,Aerial,65
+80395,36,MissedShots,0.9169999694824219,0.3270000076293945,0.06717199832201004,Timo Werner,h,65,OpenPlay,2015,RightFoot,1189,VfB Stuttgart,Hamburger SV,2,1,2016-01-30 21:30:00,Lukas Rupp,Pass,65
+80398,41,MissedShots,0.9290000152587891,0.47200000762939454,0.40860599279403687,Timo Werner,h,65,OpenPlay,2015,Head,1189,VfB Stuttgart,Hamburger SV,2,1,2016-01-30 21:30:00,Geoffroy Serey Dié,Cross,65
+80399,46,SavedShot,0.924000015258789,0.5640000152587891,0.48652100563049316,Timo Werner,h,65,OpenPlay,2015,LeftFoot,1189,VfB Stuttgart,Hamburger SV,2,1,2016-01-30 21:30:00,Lukas Rupp,Pass,65
+80403,48,BlockedShot,0.750999984741211,0.6229999923706054,0.021024899557232857,Timo Werner,h,65,SetPiece,2015,RightFoot,1189,VfB Stuttgart,Hamburger SV,2,1,2016-01-30 21:30:00,Daniel Didavi,Pass,65
+80418,75,MissedShots,0.9159999847412109,0.3890000152587891,0.11365099996328354,Timo Werner,h,65,OpenPlay,2015,RightFoot,1189,VfB Stuttgart,Hamburger SV,2,1,2016-01-30 21:30:00,Lukas Rupp,Pass,65
+80628,34,SavedShot,0.875999984741211,0.42900001525878906,0.13968400657176971,Timo Werner,a,65,OpenPlay,2015,RightFoot,1194,Eintracht Frankfurt,VfB Stuttgart,2,4,2016-02-06 18:30:00,Daniel Didavi,Pass,65
+80632,42,BlockedShot,0.91,0.2879999923706055,0.05818520113825798,Timo Werner,a,65,OpenPlay,2015,RightFoot,1194,Eintracht Frankfurt,VfB Stuttgart,2,4,2016-02-06 18:30:00,Lukas Rupp,Pass,65
+80635,45,BlockedShot,0.899000015258789,0.3820000076293945,0.13711099326610565,Timo Werner,a,65,OpenPlay,2015,RightFoot,1194,Eintracht Frankfurt,VfB Stuttgart,2,4,2016-02-06 18:30:00,Daniel Didavi,Pass,65
+80820,26,MissedShots,0.9169999694824219,0.56,0.05890339985489845,Timo Werner,h,65,OpenPlay,2015,Head,1205,VfB Stuttgart,Hertha Berlin,2,0,2016-02-13 18:30:00,Daniel Schwaab,Chipped,65
+81023,18,SavedShot,0.8030000305175782,0.4809999847412109,0.043109599500894547,Timo Werner,a,65,OpenPlay,2015,LeftFoot,1218,Schalke 04,VfB Stuttgart,1,1,2016-02-21 20:30:00,Daniel Didavi,Pass,65
+81027,29,BlockedShot,0.7919999694824219,0.34,0.02487809956073761,Timo Werner,a,65,OpenPlay,2015,RightFoot,1218,Schalke 04,VfB Stuttgart,1,1,2016-02-21 20:30:00,Geoffroy Serey Dié,Pass,65
+81030,36,MissedShots,0.9169999694824219,0.5509999847412109,0.09028559923171997,Timo Werner,a,65,OpenPlay,2015,RightFoot,1218,Schalke 04,VfB Stuttgart,1,1,2016-02-21 20:30:00,Emiliano Insúa,Cross,65
+81035,58,MissedShots,0.9359999847412109,0.5670000076293945,0.13067400455474854,Timo Werner,a,65,OpenPlay,2015,LeftFoot,1218,Schalke 04,VfB Stuttgart,1,1,2016-02-21 20:30:00,Emiliano Insúa,Pass,65
+81038,63,BlockedShot,0.855999984741211,0.43900001525878907,0.05453930050134659,Timo Werner,a,65,OpenPlay,2015,RightFoot,1218,Schalke 04,VfB Stuttgart,1,1,2016-02-21 20:30:00,Lukas Rupp,Cross,65
+81293,17,Goal,0.9330000305175781,0.524000015258789,0.41051700711250305,Timo Werner,h,65,SetPiece,2015,OtherBodyPart,1223,VfB Stuttgart,Hannover 96,1,2,2016-02-27 18:30:00,Alexandru Maxim,Cross,65
+81305,51,SavedShot,0.9119999694824219,0.5029999923706054,0.03864770010113716,Timo Werner,h,65,FromCorner,2015,Head,1223,VfB Stuttgart,Hannover 96,1,2,2016-02-27 18:30:00,Alexandru Maxim,Aerial,65
+81311,65,MissedShots,0.9,0.4229999923706055,0.061575401574373245,Timo Werner,h,65,SetPiece,2015,Head,1223,VfB Stuttgart,Hannover 96,1,2,2016-02-27 18:30:00,Christian Gentner,Cross,65
+81313,74,MissedShots,0.9540000152587891,0.5120000076293946,0.6783329844474792,Timo Werner,h,65,OpenPlay,2015,RightFoot,1223,VfB Stuttgart,Hannover 96,1,2,2016-02-27 18:30:00,Filip Kostic,Pass,65
+81537,11,MissedShots,0.9219999694824219,0.42400001525878905,0.0405299998819828,Timo Werner,a,65,SetPiece,2015,Head,1236,Borussia M.Gladbach,VfB Stuttgart,4,0,2016-03-02 23:00:00,Daniel Didavi,None,65
+81777,82,Goal,0.8880000305175781,0.5879999923706055,0.2910569906234741,Timo Werner,h,65,OpenPlay,2015,RightFoot,1237,VfB Stuttgart,Hoffenheim,5,1,2016-03-05 18:30:00,Daniel Schwaab,Pass,65
+82119,16,MissedShots,0.9540000152587891,0.5779999923706055,0.35910099744796753,Timo Werner,a,65,OpenPlay,2015,RightFoot,1248,Ingolstadt,VfB Stuttgart,3,3,2016-03-12 18:30:00,Filip Kostic,Chipped,65
+82286,39,SavedShot,0.8630000305175781,0.4520000076293945,0.08140800148248672,Timo Werner,h,65,OpenPlay,2015,LeftFoot,1262,VfB Stuttgart,Bayer Leverkusen,0,2,2016-03-20 18:30:00,Christian Gentner,Pass,65
+82289,45,MissedShots,0.889000015258789,0.5870000076293945,0.03393419831991196,Timo Werner,h,65,OpenPlay,2015,Head,1262,VfB Stuttgart,Bayer Leverkusen,0,2,2016-03-20 18:30:00,Christian Gentner,Chipped,65
+82719,75,MissedShots,0.874000015258789,0.5070000076293946,0.04848029837012291,Timo Werner,h,65,SetPiece,2015,Head,1276,VfB Stuttgart,Bayern Munich,1,3,2016-04-09 17:30:00,Filip Kostic,Chipped,65
+82923,78,BlockedShot,0.9530000305175781,0.5479999923706055,0.0725414976477623,Timo Werner,a,65,OpenPlay,2015,Head,1286,Augsburg,VfB Stuttgart,1,0,2016-04-16 17:30:00,Emiliano Insúa,Aerial,65
+83408,91,BlockedShot,0.865999984741211,0.3890000152587891,0.0827988013625145,Timo Werner,a,65,OpenPlay,2015,LeftFoot,1308,Werder Bremen,VfB Stuttgart,6,2,2016-05-02 22:15:00,,TakeOn,65
+127532,4,MissedShots,0.8,0.6580000305175782,0.029695099219679832,Timo Werner,a,65,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Marcel Sabitzer,Pass,65
+127533,10,MissedShots,0.8969999694824219,0.285,0.03860040009021759,Timo Werner,a,65,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Yussuf Poulsen,Pass,65
+127543,40,SavedShot,0.9369999694824219,0.30700000762939456,0.06542649865150452,Timo Werner,a,65,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Yussuf Poulsen,TakeOn,65
+128100,19,SavedShot,0.8819999694824219,0.6969999694824218,0.055308301001787186,Timo Werner,h,65,OpenPlay,2016,RightFoot,1342,RasenBallsport Leipzig,Borussia Dortmund,1,0,2016-09-10 20:30:00,Dominik Kaiser,Pass,65
+128106,68,BlockedShot,0.894000015258789,0.7,0.04083840176463127,Timo Werner,h,65,OpenPlay,2016,LeftFoot,1342,RasenBallsport Leipzig,Borussia Dortmund,1,0,2016-09-10 20:30:00,Dominik Kaiser,Pass,65
+128107,76,MissedShots,0.9419999694824219,0.25799999237060545,0.044656798243522644,Timo Werner,h,65,OpenPlay,2016,RightFoot,1342,RasenBallsport Leipzig,Borussia Dortmund,1,0,2016-09-10 20:30:00,,BallRecovery,65
+128108,77,SavedShot,0.8859999847412109,0.2879999923706055,0.062152400612831116,Timo Werner,h,65,OpenPlay,2016,RightFoot,1342,RasenBallsport Leipzig,Borussia Dortmund,1,0,2016-09-10 20:30:00,Oliver Burke,Pass,65
+128303,71,Goal,0.9940000152587891,0.5129999923706055,0.9474480152130127,Timo Werner,a,65,SetPiece,2016,RightFoot,1346,Hamburger SV,RasenBallsport Leipzig,0,4,2016-09-17 17:30:00,Willi Orban,HeadPass,65
+128304,73,BlockedShot,0.845999984741211,0.664000015258789,0.0637224018573761,Timo Werner,a,65,OpenPlay,2016,RightFoot,1346,Hamburger SV,RasenBallsport Leipzig,0,4,2016-09-17 17:30:00,Emil Forsberg,Pass,65
+128305,76,Goal,0.9130000305175782,0.6519999694824219,0.2770319879055023,Timo Werner,a,65,OpenPlay,2016,LeftFoot,1346,Hamburger SV,RasenBallsport Leipzig,0,4,2016-09-17 17:30:00,Emil Forsberg,Pass,65
+128590,5,Goal,0.9290000152587891,0.4229999923706055,0.45725101232528687,Timo Werner,h,65,OpenPlay,2016,RightFoot,1358,RasenBallsport Leipzig,Borussia M.Gladbach,1,1,2016-09-21 22:00:00,,None,65
+128599,78,SavedShot,0.8819999694824219,0.23100000381469726,0.14698700606822968,Timo Werner,h,65,OpenPlay,2016,RightFoot,1358,RasenBallsport Leipzig,Borussia M.Gladbach,1,1,2016-09-21 22:00:00,Yussuf Poulsen,Throughball,65
+129044,24,ShotOnPost,0.9719999694824218,0.6079999923706054,0.03135960176587105,Timo Werner,h,65,OpenPlay,2016,Head,1372,RasenBallsport Leipzig,Augsburg,2,1,2016-09-30 22:30:00,,None,65
+129049,42,SavedShot,0.8969999694824219,0.580999984741211,0.11811099946498871,Timo Werner,h,65,OpenPlay,2016,LeftFoot,1372,RasenBallsport Leipzig,Augsburg,2,1,2016-09-30 22:30:00,Yussuf Poulsen,Pass,65
+129054,60,MissedShots,0.9030000305175782,0.34900001525878904,0.10792099684476852,Timo Werner,h,65,OpenPlay,2016,RightFoot,1372,RasenBallsport Leipzig,Augsburg,2,1,2016-09-30 22:30:00,Marcel Sabitzer,Pass,65
+129055,65,SavedShot,0.9590000152587891,0.27,0.0415985994040966,Timo Werner,h,65,OpenPlay,2016,RightFoot,1372,RasenBallsport Leipzig,Augsburg,2,1,2016-09-30 22:30:00,Emil Forsberg,Pass,65
+129157,86,MissedShots,0.9519999694824218,0.6509999847412109,0.08848089724779129,Timo Werner,a,65,OpenPlay,2016,LeftFoot,1389,Wolfsburg,RasenBallsport Leipzig,0,1,2016-10-16 19:30:00,Naby Keita,Pass,65
+129483,58,BlockedShot,0.9130000305175782,0.6719999694824219,0.14976300299167633,Timo Werner,h,65,OpenPlay,2016,RightFoot,1397,RasenBallsport Leipzig,Werder Bremen,3,1,2016-10-23 17:30:00,Diego Demme,Throughball,65
+129486,67,MissedShots,0.9459999847412109,0.28,0.06142900139093399,Timo Werner,h,65,OpenPlay,2016,RightFoot,1397,RasenBallsport Leipzig,Werder Bremen,3,1,2016-10-23 17:30:00,Naby Keita,Chipped,65
+130100,55,MissedShots,0.89,0.7280000305175781,0.03845040127635002,Timo Werner,a,65,OpenPlay,2016,LeftFoot,3304,Darmstadt,RasenBallsport Leipzig,0,2,2016-10-29 17:30:00,Marcel Sabitzer,Chipped,65
+129719,2,Goal,0.915,0.5070000076293946,0.5468050241470337,Timo Werner,h,65,OpenPlay,2016,LeftFoot,2813,RasenBallsport Leipzig,Mainz 05,3,1,2016-11-06 18:30:00,Emil Forsberg,Pass,65
+129726,26,MissedShots,0.8959999847412109,0.6569999694824219,0.4312320053577423,Timo Werner,h,65,OpenPlay,2016,RightFoot,2813,RasenBallsport Leipzig,Mainz 05,3,1,2016-11-06 18:30:00,Naby Keita,Throughball,65
+129732,43,Goal,0.9069999694824219,0.5640000152587891,0.4874359965324402,Timo Werner,h,65,OpenPlay,2016,LeftFoot,2813,RasenBallsport Leipzig,Mainz 05,3,1,2016-11-06 18:30:00,Emil Forsberg,Pass,65
+129735,59,BlockedShot,0.9290000152587891,0.43900001525878907,0.14699800312519073,Timo Werner,h,65,OpenPlay,2016,RightFoot,2813,RasenBallsport Leipzig,Mainz 05,3,1,2016-11-06 18:30:00,Emil Forsberg,Pass,65
+129819,58,BlockedShot,0.9119999694824219,0.39099998474121095,0.09911990165710449,Timo Werner,a,65,OpenPlay,2016,RightFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Marcel Sabitzer,Pass,65
+129822,71,SavedShot,0.870999984741211,0.3509999847412109,0.2305220067501068,Timo Werner,a,65,OpenPlay,2016,LeftFoot,2815,Bayer Leverkusen,RasenBallsport Leipzig,2,3,2016-11-18 23:30:00,Marcel Sabitzer,Pass,65
+130304,20,Goal,0.9619999694824218,0.59,0.7451840043067932,Timo Werner,a,65,OpenPlay,2016,LeftFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Diego Demme,TakeOn,65
+130307,34,Goal,0.875999984741211,0.6719999694824219,0.1503240019083023,Timo Werner,a,65,OpenPlay,2016,RightFoot,2824,Freiburg,RasenBallsport Leipzig,1,4,2016-11-25 23:30:00,Emil Forsberg,Throughball,65
+130798,1,Goal,0.885,0.5,0.7577769756317139,Timo Werner,h,65,Penalty,2016,RightFoot,3198,RasenBallsport Leipzig,Schalke 04,2,1,2016-12-03 21:30:00,,Standard,65
+130809,39,MissedShots,0.8969999694824219,0.3370000076293945,0.01745929941534996,Timo Werner,h,65,SetPiece,2016,Head,3198,RasenBallsport Leipzig,Schalke 04,2,1,2016-12-03 21:30:00,Emil Forsberg,Cross,65
+130815,65,MissedShots,0.9690000152587891,0.35700000762939454,0.039530400186777115,Timo Werner,h,65,FromCorner,2016,LeftFoot,3198,RasenBallsport Leipzig,Schalke 04,2,1,2016-12-03 21:30:00,Emil Forsberg,Cross,65
+130814,65,BlockedShot,0.8959999847412109,0.500999984741211,0.13729199767112732,Timo Werner,h,65,OpenPlay,2016,RightFoot,3198,RasenBallsport Leipzig,Schalke 04,2,1,2016-12-03 21:30:00,Naby Keita,Pass,65
+130816,67,BlockedShot,0.91,0.365,0.13051100075244904,Timo Werner,h,65,OpenPlay,2016,RightFoot,3198,RasenBallsport Leipzig,Schalke 04,2,1,2016-12-03 21:30:00,Yussuf Poulsen,Pass,65
+131259,17,BlockedShot,0.9230000305175782,0.32099998474121094,0.0657787024974823,Timo Werner,a,65,OpenPlay,2016,RightFoot,3205,Ingolstadt,RasenBallsport Leipzig,1,0,2016-12-10 18:30:00,Marcel Sabitzer,Pass,65
+131689,39,Goal,0.9159999847412109,0.4909999847412109,0.5401570200920105,Timo Werner,h,65,OpenPlay,2016,LeftFoot,3213,RasenBallsport Leipzig,Hertha Berlin,2,0,2016-12-17 18:30:00,Naby Keita,TakeOn,65
+131692,52,BlockedShot,0.9590000152587891,0.615999984741211,0.022869300097227097,Timo Werner,h,65,FromCorner,2016,Head,3213,RasenBallsport Leipzig,Hertha Berlin,2,0,2016-12-17 18:30:00,Emil Forsberg,CornerAwarded,65
+130977,12,SavedShot,0.955999984741211,0.47400001525878904,0.651960015296936,Timo Werner,h,65,OpenPlay,2016,RightFoot,3728,RasenBallsport Leipzig,Eintracht Frankfurt,3,0,2017-01-21 20:30:00,Bernardo,Pass,65
+130986,48,Goal,0.915,0.6,0.060412801802158356,Timo Werner,h,65,SetPiece,2016,Head,3728,RasenBallsport Leipzig,Eintracht Frankfurt,3,0,2017-01-21 20:30:00,Naby Keita,Cross,65
+131465,11,MissedShots,0.96,0.35900001525878905,0.012472200207412243,Timo Werner,h,65,FromCorner,2016,Head,3732,RasenBallsport Leipzig,Hoffenheim,2,1,2017-01-28 17:30:00,Marcel Halstenberg,Aerial,65
+131470,29,BlockedShot,0.9030000305175782,0.6229999923706054,0.08176930248737335,Timo Werner,h,65,OpenPlay,2016,RightFoot,3732,RasenBallsport Leipzig,Hoffenheim,2,1,2017-01-28 17:30:00,Marcel Halstenberg,Pass,65
+131471,37,Goal,0.9,0.4779999923706055,0.3274950087070465,Timo Werner,h,65,OpenPlay,2016,RightFoot,3732,RasenBallsport Leipzig,Hoffenheim,2,1,2017-01-28 17:30:00,Naby Keita,Tackle,65
+131473,66,SavedShot,0.9080000305175782,0.30700000762939456,0.3874109983444214,Timo Werner,h,65,OpenPlay,2016,RightFoot,3732,RasenBallsport Leipzig,Hoffenheim,2,1,2017-01-28 17:30:00,,None,65
+131476,68,BlockedShot,0.8080000305175781,0.49900001525878906,0.05641829967498779,Timo Werner,h,65,OpenPlay,2016,RightFoot,3732,RasenBallsport Leipzig,Hoffenheim,2,1,2017-01-28 17:30:00,Naby Keita,Pass,65
+131479,85,MissedShots,0.8430000305175781,0.49900001525878906,0.08170019835233688,Timo Werner,h,65,OpenPlay,2016,RightFoot,3732,RasenBallsport Leipzig,Hoffenheim,2,1,2017-01-28 17:30:00,Marcel Sabitzer,Chipped,65
+131860,2,MissedShots,0.94,0.5059999847412109,0.6179059743881226,Timo Werner,h,65,OpenPlay,2016,RightFoot,3752,RasenBallsport Leipzig,Hamburger SV,0,3,2017-02-11 14:30:00,Marcel Halstenberg,Pass,65
+131861,8,BlockedShot,0.7980000305175782,0.48,0.04141480103135109,Timo Werner,h,65,OpenPlay,2016,RightFoot,3752,RasenBallsport Leipzig,Hamburger SV,0,3,2017-02-11 14:30:00,Naby Keita,Pass,65
+131863,14,MissedShots,0.8490000152587891,0.615999984741211,0.059971101582050323,Timo Werner,h,65,OpenPlay,2016,RightFoot,3752,RasenBallsport Leipzig,Hamburger SV,0,3,2017-02-11 14:30:00,Emil Forsberg,BallRecovery,65
+131877,52,BlockedShot,0.9280000305175782,0.6419999694824219,0.08424779772758484,Timo Werner,h,65,OpenPlay,2016,RightFoot,3752,RasenBallsport Leipzig,Hamburger SV,0,3,2017-02-11 14:30:00,Emil Forsberg,Pass,65
+131974,54,Goal,0.9180000305175782,0.3160000038146973,0.3358890116214752,Timo Werner,a,65,OpenPlay,2016,RightFoot,3765,Borussia M.Gladbach,RasenBallsport Leipzig,1,2,2017-02-19 14:30:00,Emil Forsberg,Throughball,65
+132402,17,SavedShot,0.794000015258789,0.36700000762939455,0.036274999380111694,Timo Werner,h,65,OpenPlay,2016,RightFoot,3769,RasenBallsport Leipzig,FC Cologne,3,1,2017-02-25 14:30:00,Naby Keita,Pass,65
+132405,18,SavedShot,0.9690000152587891,0.40200000762939453,0.03158940002322197,Timo Werner,h,65,FromCorner,2016,Head,3769,RasenBallsport Leipzig,FC Cologne,3,1,2017-02-25 14:30:00,Stefan Ilsanker,Rebound,65
+132408,26,MissedShots,0.879000015258789,0.705,0.05456240102648735,Timo Werner,h,65,OpenPlay,2016,RightFoot,3769,RasenBallsport Leipzig,FC Cologne,3,1,2017-02-25 14:30:00,Naby Keita,Pass,65
+132417,64,Goal,0.9380000305175781,0.265,0.10667199641466141,Timo Werner,h,65,OpenPlay,2016,RightFoot,3769,RasenBallsport Leipzig,FC Cologne,3,1,2017-02-25 14:30:00,Naby Keita,Chipped,65
+132702,24,Goal,0.86,0.51,0.45691201090812683,Timo Werner,a,65,OpenPlay,2016,RightFoot,3776,Augsburg,RasenBallsport Leipzig,2,2,2017-03-03 19:30:00,Naby Keita,Pass,65
+134210,45,SavedShot,0.865,0.52,0.021696999669075012,Timo Werner,h,65,OpenPlay,2016,Head,3789,RasenBallsport Leipzig,Wolfsburg,0,1,2017-03-11 14:30:00,,Aerial,65
+134212,48,MissedShots,0.88,0.37,0.10475099831819534,Timo Werner,h,65,OpenPlay,2016,RightFoot,3789,RasenBallsport Leipzig,Wolfsburg,0,1,2017-03-11 14:30:00,Emil Forsberg,Pass,65
+132654,10,SavedShot,0.8959999847412109,0.33799999237060546,0.1420300006866455,Timo Werner,a,65,OpenPlay,2016,RightFoot,3798,Werder Bremen,RasenBallsport Leipzig,3,0,2017-03-18 14:30:00,Marcel Sabitzer,Throughball,65
+133870,51,Goal,0.9290000152587891,0.44,0.094964399933815,Timo Werner,a,65,FromCorner,2016,Head,3818,Mainz 05,RasenBallsport Leipzig,2,3,2017-04-05 19:00:00,Emil Forsberg,Cross,65
+133874,58,MissedShots,0.9,0.6719999694824219,0.11128000169992447,Timo Werner,a,65,OpenPlay,2016,LeftFoot,3818,Mainz 05,RasenBallsport Leipzig,2,3,2017-04-05 19:00:00,Emil Forsberg,Pass,65
+134910,8,SavedShot,0.850999984741211,0.7240000152587891,0.029802799224853516,Timo Werner,h,65,OpenPlay,2016,RightFoot,3823,RasenBallsport Leipzig,Bayer Leverkusen,1,0,2017-04-08 14:30:00,,None,65
+134922,47,MissedShots,0.884000015258789,0.24700000762939453,0.13799400627613068,Timo Werner,h,65,OpenPlay,2016,RightFoot,3823,RasenBallsport Leipzig,Bayer Leverkusen,1,0,2017-04-08 14:30:00,Emil Forsberg,Throughball,65
+134929,67,MissedShots,0.9009999847412109,0.3220000076293945,0.11403200030326843,Timo Werner,h,65,OpenPlay,2016,RightFoot,3823,RasenBallsport Leipzig,Bayer Leverkusen,1,0,2017-04-08 14:30:00,Diego Demme,TakeOn,65
+133211,26,BlockedShot,0.8909999847412109,0.33,0.06374070048332214,Timo Werner,h,65,OpenPlay,2016,LeftFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,,BallRecovery,65
+133215,41,Goal,0.8530000305175781,0.49599998474121093,0.5454739928245544,Timo Werner,h,65,OpenPlay,2016,RightFoot,3837,RasenBallsport Leipzig,Freiburg,4,0,2017-04-15 14:30:00,Yussuf Poulsen,Throughball,65
+133507,13,Goal,0.909000015258789,0.4420000076293945,0.04214540123939514,Timo Werner,a,65,OpenPlay,2016,Head,3844,Schalke 04,RasenBallsport Leipzig,1,1,2017-04-23 16:30:00,Bernardo,Aerial,65
+134734,33,MissedShots,0.889000015258789,0.48200000762939454,0.12570799887180328,Timo Werner,h,65,OpenPlay,2016,LeftFoot,3851,RasenBallsport Leipzig,Ingolstadt,0,0,2017-04-29 14:30:00,Diego Demme,Pass,65
+134737,56,MissedShots,0.8690000152587891,0.415,0.12788599729537964,Timo Werner,h,65,OpenPlay,2016,RightFoot,3851,RasenBallsport Leipzig,Ingolstadt,0,0,2017-04-29 14:30:00,Yussuf Poulsen,Pass,65
+134939,11,Goal,0.89,0.485,0.08724690228700638,Timo Werner,a,65,OpenPlay,2016,Head,3862,Hertha Berlin,RasenBallsport Leipzig,1,4,2017-05-06 17:30:00,Marcel Sabitzer,Cross,65
+134943,35,SavedShot,0.8619999694824219,0.3820000076293945,0.294979989528656,Timo Werner,a,65,OpenPlay,2016,RightFoot,3862,Hertha Berlin,RasenBallsport Leipzig,1,4,2017-05-06 17:30:00,Emil Forsberg,Pass,65
+134947,53,Goal,0.9269999694824219,0.46,0.5662850141525269,Timo Werner,a,65,OpenPlay,2016,RightFoot,3862,Hertha Berlin,RasenBallsport Leipzig,1,4,2017-05-06 17:30:00,Yussuf Poulsen,Pass,65
+134949,60,MissedShots,0.8380000305175781,0.575,0.06957440078258514,Timo Werner,a,65,OpenPlay,2016,RightFoot,3862,Hertha Berlin,RasenBallsport Leipzig,1,4,2017-05-06 17:30:00,,None,65
+133645,11,ShotOnPost,0.8969999694824219,0.710999984741211,0.10774900019168854,Timo Werner,h,65,OpenPlay,2016,RightFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,Yussuf Poulsen,Chipped,65
+133653,28,Goal,0.885,0.5,0.7577769756317139,Timo Werner,h,65,Penalty,2016,RightFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,,Standard,65
+133662,64,Goal,0.9690000152587891,0.664000015258789,0.08558949828147888,Timo Werner,h,65,OpenPlay,2016,RightFoot,3874,RasenBallsport Leipzig,Bayern Munich,4,5,2017-05-13 14:30:00,,TakeOn,65
+165895,17,BlockedShot,0.8530000305175781,0.7069999694824218,0.048911500722169876,Timo Werner,a,65,OpenPlay,2017,RightFoot,8265,Schalke 04,RasenBallsport Leipzig,2,0,2017-08-19 17:30:00,Marcel Halstenberg,HeadPass,65
+166007,3,MissedShots,0.889000015258789,0.45,0.30062299966812134,Timo Werner,h,65,OpenPlay,2017,RightFoot,8275,RasenBallsport Leipzig,Freiburg,4,1,2017-08-27 14:30:00,Diego Demme,Chipped,65
+166012,15,MissedShots,0.8780000305175781,0.5629999923706055,0.04045660048723221,Timo Werner,h,65,OpenPlay,2017,Head,8275,RasenBallsport Leipzig,Freiburg,4,1,2017-08-27 14:30:00,Marcel Sabitzer,Cross,65
+166019,37,MissedShots,0.9409999847412109,0.46700000762939453,0.12967699766159058,Timo Werner,h,65,FromCorner,2017,Head,8275,RasenBallsport Leipzig,Freiburg,4,1,2017-08-27 14:30:00,Emil Forsberg,Cross,65
+166024,47,Goal,0.9730000305175781,0.59,0.07164160162210464,Timo Werner,h,65,FromCorner,2017,Head,8275,RasenBallsport Leipzig,Freiburg,4,1,2017-08-27 14:30:00,Emil Forsberg,Cross,65
+166028,50,MissedShots,0.9519999694824218,0.41,0.13697700202465057,Timo Werner,h,65,OpenPlay,2017,RightFoot,8275,RasenBallsport Leipzig,Freiburg,4,1,2017-08-27 14:30:00,Jean-Kevin Augustin,Pass,65
+166033,55,SavedShot,0.9669999694824218,0.69,0.12468700110912323,Timo Werner,h,65,OpenPlay,2017,RightFoot,8275,RasenBallsport Leipzig,Freiburg,4,1,2017-08-27 14:30:00,Marcel Sabitzer,Throughball,65
+166034,70,Goal,0.955999984741211,0.6580000305175782,0.32198798656463623,Timo Werner,h,65,OpenPlay,2017,LeftFoot,8275,RasenBallsport Leipzig,Freiburg,4,1,2017-08-27 14:30:00,Jean-Kevin Augustin,Throughball,65
+166385,15,SavedShot,0.9619999694824218,0.6469999694824219,0.09181609749794006,Timo Werner,a,65,OpenPlay,2017,LeftFoot,8277,Hamburger SV,RasenBallsport Leipzig,0,2,2017-09-08 19:30:00,Bruma,Pass,65
+166401,71,MissedShots,0.9409999847412109,0.575999984741211,0.08899769932031631,Timo Werner,a,65,FromCorner,2017,RightFoot,8277,Hamburger SV,RasenBallsport Leipzig,0,2,2017-09-08 19:30:00,Kevin Kampl,Cross,65
+166403,74,Goal,0.8480000305175781,0.505,0.4268440008163452,Timo Werner,a,65,OpenPlay,2017,RightFoot,8277,Hamburger SV,RasenBallsport Leipzig,0,2,2017-09-08 19:30:00,Kevin Kampl,BallRecovery,65
+166532,16,Goal,0.9230000305175782,0.5979999923706054,0.1237260028719902,Timo Werner,h,65,OpenPlay,2017,RightFoot,8291,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2017-09-16 17:30:00,Bernardo,Pass,65
+166540,59,SavedShot,0.9059999847412109,0.3139999961853027,0.1276939958333969,Timo Werner,h,65,OpenPlay,2017,RightFoot,8291,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2017-09-16 17:30:00,Naby Keita,Throughball,65
+166544,79,MissedShots,0.9169999694824219,0.38,0.01406440045684576,Timo Werner,h,65,FromCorner,2017,Head,8291,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2017-09-16 17:30:00,Emil Forsberg,Aerial,65
+167074,14,SavedShot,0.9169999694824219,0.3240000152587891,0.06805370002985,Timo Werner,a,65,OpenPlay,2017,RightFoot,8297,Augsburg,RasenBallsport Leipzig,1,0,2017-09-19 19:30:00,Kevin Kampl,Pass,65
+167077,24,SavedShot,0.919000015258789,0.5729999923706055,0.4567449986934662,Timo Werner,a,65,OpenPlay,2017,RightFoot,8297,Augsburg,RasenBallsport Leipzig,1,0,2017-09-19 19:30:00,Yussuf Poulsen,None,65
+167087,62,MissedShots,0.9069999694824219,0.710999984741211,0.03786659985780716,Timo Werner,a,65,OpenPlay,2017,LeftFoot,8297,Augsburg,RasenBallsport Leipzig,1,0,2017-09-19 19:30:00,Bruma,Pass,65
+167095,91,MissedShots,0.879000015258789,0.5279999923706055,0.07617879658937454,Timo Werner,a,65,OpenPlay,2017,RightFoot,8297,Augsburg,RasenBallsport Leipzig,1,0,2017-09-19 19:30:00,Willi Orban,HeadPass,65
+166548,27,SavedShot,0.91,0.38299999237060545,0.10461399704217911,Timo Werner,h,65,OpenPlay,2017,RightFoot,8308,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2017-09-23 14:30:00,Marcel Sabitzer,Pass,65
+166554,48,SavedShot,0.82,0.72,0.03275270015001297,Timo Werner,h,65,OpenPlay,2017,RightFoot,8308,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2017-09-23 14:30:00,Stefan Ilsanker,Pass,65
+166559,66,Goal,0.8919999694824219,0.32,0.0716238021850586,Timo Werner,h,65,OpenPlay,2017,RightFoot,8308,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2017-09-23 14:30:00,,None,65
+167993,39,MissedShots,0.8919999694824219,0.42200000762939455,0.04455820098519325,Timo Werner,h,65,SetPiece,2017,Head,8331,RasenBallsport Leipzig,VfB Stuttgart,1,0,2017-10-21 14:30:00,Emil Forsberg,Cross,65
+167995,40,MissedShots,0.8119999694824219,0.5779999923706055,0.0811828002333641,Timo Werner,h,65,OpenPlay,2017,LeftFoot,8331,RasenBallsport Leipzig,VfB Stuttgart,1,0,2017-10-21 14:30:00,Marcel Sabitzer,TakeOn,65
+168478,7,MissedShots,0.9619999694824218,0.5709999847412109,0.1187480017542839,Timo Werner,a,65,FromCorner,2017,Head,8340,Bayern Munich,RasenBallsport Leipzig,2,0,2017-10-28 17:30:00,Emil Forsberg,Cross,65
+167396,45,ShotOnPost,0.88,0.549000015258789,0.11504299938678741,Timo Werner,h,65,OpenPlay,2017,RightFoot,8349,RasenBallsport Leipzig,Hannover 96,2,1,2017-11-04 14:30:00,Bruma,Pass,65
+167409,78,MissedShots,0.9580000305175781,0.6270000076293946,0.02442909963428974,Timo Werner,h,65,FromCorner,2017,Head,8349,RasenBallsport Leipzig,Hannover 96,2,1,2017-11-04 14:30:00,Emil Forsberg,Cross,65
+167414,84,Goal,0.9569999694824218,0.525,0.5938249826431274,Timo Werner,h,65,FromCorner,2017,RightFoot,8349,RasenBallsport Leipzig,Hannover 96,2,1,2017-11-04 14:30:00,Emil Forsberg,Pass,65
+168013,12,Goal,0.885,0.5,0.7577769756317139,Timo Werner,a,65,Penalty,2017,RightFoot,8363,Bayer Leverkusen,RasenBallsport Leipzig,2,2,2017-11-18 14:30:00,,Standard,65
+168283,15,BlockedShot,0.8490000152587891,0.5129999923706055,0.0938669964671135,Timo Werner,h,65,OpenPlay,2017,LeftFoot,8368,RasenBallsport Leipzig,Werder Bremen,2,0,2017-11-25 14:30:00,Marcel Halstenberg,Pass,65
+168880,46,MissedShots,0.9230000305175782,0.669000015258789,0.012611299753189087,Timo Werner,a,65,FromCorner,2017,Head,8377,Hoffenheim,RasenBallsport Leipzig,4,0,2017-12-02 14:30:00,Emil Forsberg,Aerial,65
+168884,65,SavedShot,0.895,0.615,0.018737800419330597,Timo Werner,a,65,FromCorner,2017,Head,8377,Hoffenheim,RasenBallsport Leipzig,4,0,2017-12-02 14:30:00,Emil Forsberg,Cross,65
+168887,77,MissedShots,0.89,0.6509999847412109,0.012459100224077702,Timo Werner,a,65,FromCorner,2017,Head,8377,Hoffenheim,RasenBallsport Leipzig,4,0,2017-12-02 14:30:00,Emil Forsberg,Cross,65
+179841,19,SavedShot,0.8919999694824219,0.3240000152587891,0.054537899792194366,Timo Werner,h,65,OpenPlay,2017,RightFoot,8386,RasenBallsport Leipzig,Mainz 05,2,2,2017-12-09 14:30:00,Dominik Kaiser,Pass,65
+179842,27,SavedShot,0.8959999847412109,0.6990000152587891,0.04730759933590889,Timo Werner,h,65,OpenPlay,2017,LeftFoot,8386,RasenBallsport Leipzig,Mainz 05,2,2,2017-12-09 14:30:00,Diego Demme,Pass,65
+179848,41,SavedShot,0.8730000305175781,0.4229999923706055,0.03560829907655716,Timo Werner,h,65,SetPiece,2017,Head,8386,RasenBallsport Leipzig,Mainz 05,2,2,2017-12-09 14:30:00,Dominik Kaiser,Cross,65
+179850,47,Goal,0.885,0.5,0.7577769756317139,Timo Werner,h,65,Penalty,2017,RightFoot,8386,RasenBallsport Leipzig,Mainz 05,2,2,2017-12-09 14:30:00,,Standard,65
+184104,6,SavedShot,0.8980000305175782,0.23899999618530274,0.03449799865484238,Timo Werner,a,65,OpenPlay,2017,RightFoot,8402,Wolfsburg,RasenBallsport Leipzig,1,1,2017-12-12 17:30:00,,BallRecovery,65
+184109,28,BlockedShot,0.8,0.6880000305175781,0.07590469717979431,Timo Werner,a,65,DirectFreekick,2017,RightFoot,8402,Wolfsburg,RasenBallsport Leipzig,1,1,2017-12-12 17:30:00,,Standard,65
+184116,61,MissedShots,0.9469999694824218,0.31,0.053511299192905426,Timo Werner,a,65,OpenPlay,2017,RightFoot,8402,Wolfsburg,RasenBallsport Leipzig,1,1,2017-12-12 17:30:00,Ibrahima Konaté,Chipped,65
+184117,62,BlockedShot,0.8119999694824219,0.3270000076293945,0.030581099912524223,Timo Werner,a,65,OpenPlay,2017,LeftFoot,8402,Wolfsburg,RasenBallsport Leipzig,1,1,2017-12-12 17:30:00,Yussuf Poulsen,Pass,65
+184161,4,MissedShots,0.9359999847412109,0.639000015258789,0.09854520112276077,Timo Werner,h,65,OpenPlay,2017,LeftFoot,8404,RasenBallsport Leipzig,Hertha Berlin,2,3,2017-12-17 17:00:00,Naby Keita,Pass,65
+184171,47,MissedShots,0.9569999694824218,0.4420000076293945,0.5783889889717102,Timo Werner,h,65,OpenPlay,2017,LeftFoot,8404,RasenBallsport Leipzig,Hertha Berlin,2,3,2017-12-17 17:00:00,Lukas Klostermann,Pass,65
+184184,76,BlockedShot,0.875999984741211,0.580999984741211,0.05500579997897148,Timo Werner,h,65,OpenPlay,2017,LeftFoot,8404,RasenBallsport Leipzig,Hertha Berlin,2,3,2017-12-17 17:00:00,Marcel Halstenberg,HeadPass,65
+187606,68,Goal,0.9309999847412109,0.485,0.594074010848999,Timo Werner,h,65,OpenPlay,2017,RightFoot,8413,RasenBallsport Leipzig,Schalke 04,3,1,2018-01-13 17:30:00,Konrad Laimer,Pass,65
+187610,79,BlockedShot,0.9159999847412109,0.5309999847412109,0.5456870198249817,Timo Werner,h,65,OpenPlay,2017,RightFoot,8413,RasenBallsport Leipzig,Schalke 04,3,1,2018-01-13 17:30:00,,Rebound,65
+187612,88,MissedShots,0.95,0.22299999237060547,0.04621259868144989,Timo Werner,h,65,OpenPlay,2017,RightFoot,8413,RasenBallsport Leipzig,Schalke 04,3,1,2018-01-13 17:30:00,Kevin Kampl,Pass,65
+187613,92,BlockedShot,0.8630000305175781,0.3840000152587891,0.09513690322637558,Timo Werner,h,65,OpenPlay,2017,LeftFoot,8413,RasenBallsport Leipzig,Schalke 04,3,1,2018-01-13 17:30:00,Kevin Kampl,Pass,65
+188705,51,SavedShot,0.92,0.5220000076293946,0.14151400327682495,Timo Werner,a,65,OpenPlay,2017,RightFoot,8424,Freiburg,RasenBallsport Leipzig,2,1,2018-01-20 14:30:00,Marcel Sabitzer,Pass,65
+188707,59,MissedShots,0.845999984741211,0.345,0.05290830135345459,Timo Werner,a,65,OpenPlay,2017,RightFoot,8424,Freiburg,RasenBallsport Leipzig,2,1,2018-01-20 14:30:00,Bruma,Pass,65
+188708,64,Goal,0.8209999847412109,0.53,0.15236499905586243,Timo Werner,a,65,OpenPlay,2017,LeftFoot,8424,Freiburg,RasenBallsport Leipzig,2,1,2018-01-20 14:30:00,Marcel Sabitzer,TakeOn,65
+189846,24,MissedShots,0.925,0.6,0.13054899871349335,Timo Werner,h,65,OpenPlay,2017,RightFoot,8435,RasenBallsport Leipzig,Hamburger SV,1,1,2018-01-27 14:30:00,Jean-Kevin Augustin,Pass,65
+189848,43,SavedShot,0.889000015258789,0.4520000076293945,0.03248950093984604,Timo Werner,h,65,OpenPlay,2017,Head,8435,RasenBallsport Leipzig,Hamburger SV,1,1,2018-01-27 14:30:00,Marcel Sabitzer,Aerial,65
+194760,14,BlockedShot,0.9390000152587891,0.285,0.039730899035930634,Timo Werner,a,65,OpenPlay,2017,RightFoot,8441,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2018-02-03 17:30:00,,Rebound,65
+194763,32,MissedShots,0.87,0.41900001525878905,0.1020049974322319,Timo Werner,a,65,OpenPlay,2017,RightFoot,8441,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2018-02-03 17:30:00,Marcel Sabitzer,Pass,65
+194769,47,MissedShots,0.9209999847412109,0.48400001525878905,0.055504899471998215,Timo Werner,a,65,OpenPlay,2017,Head,8441,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2018-02-03 17:30:00,Kevin Kampl,BallTouch,65
+194770,49,BlockedShot,0.8859999847412109,0.36700000762939455,0.0835271030664444,Timo Werner,a,65,OpenPlay,2017,RightFoot,8441,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2018-02-03 17:30:00,Bruma,Pass,65
+194775,65,MissedShots,0.899000015258789,0.5509999847412109,0.08251020312309265,Timo Werner,a,65,SetPiece,2017,Head,8441,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2018-02-03 17:30:00,Kevin Kampl,Cross,65
+194960,5,BlockedShot,0.7659999847412109,0.5529999923706055,0.012849999591708183,Timo Werner,h,65,OpenPlay,2017,LeftFoot,8453,RasenBallsport Leipzig,Augsburg,2,0,2018-02-09 19:30:00,,Aerial,65
+194964,15,SavedShot,0.8969999694824219,0.6719999694824219,0.05780930072069168,Timo Werner,h,65,OpenPlay,2017,RightFoot,8453,RasenBallsport Leipzig,Augsburg,2,0,2018-02-09 19:30:00,,None,65
+194967,20,BlockedShot,0.740999984741211,0.495,0.028350699692964554,Timo Werner,h,65,OpenPlay,2017,RightFoot,8453,RasenBallsport Leipzig,Augsburg,2,0,2018-02-09 19:30:00,Bruma,Pass,65
+194972,36,SavedShot,0.9490000152587891,0.7140000152587891,0.11253900080919266,Timo Werner,h,65,OpenPlay,2017,LeftFoot,8453,RasenBallsport Leipzig,Augsburg,2,0,2018-02-09 19:30:00,Kevin Kampl,TakeOn,65
+194973,41,MissedShots,0.7619999694824219,0.33,0.025032000616192818,Timo Werner,h,65,OpenPlay,2017,RightFoot,8453,RasenBallsport Leipzig,Augsburg,2,0,2018-02-09 19:30:00,Naby Keita,Pass,65
+194975,52,SavedShot,0.9019999694824219,0.30100000381469727,0.11435800045728683,Timo Werner,h,65,OpenPlay,2017,RightFoot,8453,RasenBallsport Leipzig,Augsburg,2,0,2018-02-09 19:30:00,Stefan Ilsanker,Chipped,65
+194976,57,MissedShots,0.9540000152587891,0.4929999923706055,0.15842899680137634,Timo Werner,h,65,OpenPlay,2017,RightFoot,8453,RasenBallsport Leipzig,Augsburg,2,0,2018-02-09 19:30:00,Kevin Kampl,Pass,65
+194978,62,MissedShots,0.774000015258789,0.669000015258789,0.06443329900503159,Timo Werner,h,65,DirectFreekick,2017,RightFoot,8453,RasenBallsport Leipzig,Augsburg,2,0,2018-02-09 19:30:00,,Standard,65
+194986,73,MissedShots,0.8519999694824218,0.4759999847412109,0.0887179970741272,Timo Werner,h,65,OpenPlay,2017,RightFoot,8453,RasenBallsport Leipzig,Augsburg,2,0,2018-02-09 19:30:00,,None,65
+194988,79,SavedShot,0.8769999694824219,0.675,0.0804734006524086,Timo Werner,h,65,OpenPlay,2017,RightFoot,8453,RasenBallsport Leipzig,Augsburg,2,0,2018-02-09 19:30:00,Bruma,Pass,65
+194990,81,BlockedShot,0.965,0.624000015258789,0.044867001473903656,Timo Werner,h,65,FromCorner,2017,RightFoot,8453,RasenBallsport Leipzig,Augsburg,2,0,2018-02-09 19:30:00,Kevin Kampl,Cross,65
+197005,82,BlockedShot,0.8969999694824219,0.40400001525878904,0.0697207972407341,Timo Werner,a,65,OpenPlay,2017,RightFoot,8462,Eintracht Frankfurt,RasenBallsport Leipzig,2,1,2018-02-19 19:30:00,Yussuf Poulsen,Cross,65
+199045,8,SavedShot,0.8769999694824219,0.38,0.3418630063533783,Timo Werner,h,65,OpenPlay,2017,RightFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,,BallRecovery,65
+199056,75,BlockedShot,0.88,0.3089999961853027,0.04471550136804581,Timo Werner,h,65,OpenPlay,2017,LeftFoot,8475,RasenBallsport Leipzig,Borussia Dortmund,1,1,2018-03-03 17:30:00,Marcel Sabitzer,Pass,65
+200708,46,SavedShot,0.835999984741211,0.47200000762939454,0.2225559949874878,Timo Werner,a,65,OpenPlay,2017,RightFoot,8489,VfB Stuttgart,RasenBallsport Leipzig,0,0,2018-03-11 14:30:00,Naby Keita,End,65
+202157,18,SavedShot,0.8719999694824219,0.42700000762939455,0.028471700847148895,Timo Werner,h,65,OpenPlay,2017,Head,8494,RasenBallsport Leipzig,Bayern Munich,2,1,2018-03-18 17:00:00,Konrad Laimer,Cross,65
+202160,26,BlockedShot,0.9669999694824218,0.3940000152587891,0.3558500111103058,Timo Werner,h,65,FromCorner,2017,RightFoot,8494,RasenBallsport Leipzig,Bayern Munich,2,1,2018-03-18 17:00:00,,Rebound,65
+202161,30,BlockedShot,0.8019999694824219,0.6179999923706054,0.029974499717354774,Timo Werner,h,65,OpenPlay,2017,RightFoot,8494,RasenBallsport Leipzig,Bayern Munich,2,1,2018-03-18 17:00:00,Bruma,TakeOn,65
+202165,36,BlockedShot,0.9269999694824219,0.43900001525878907,0.5011399984359741,Timo Werner,h,65,OpenPlay,2017,RightFoot,8494,RasenBallsport Leipzig,Bayern Munich,2,1,2018-03-18 17:00:00,Naby Keita,Pass,65
+202169,55,Goal,0.865999984741211,0.385,0.07685050368309021,Timo Werner,h,65,OpenPlay,2017,RightFoot,8494,RasenBallsport Leipzig,Bayern Munich,2,1,2018-03-18 17:00:00,Naby Keita,Pass,65
+202170,60,MissedShots,0.91,0.3609999847412109,0.35537099838256836,Timo Werner,h,65,OpenPlay,2017,LeftFoot,8494,RasenBallsport Leipzig,Bayern Munich,2,1,2018-03-18 17:00:00,Naby Keita,Pass,65
+204430,38,MissedShots,0.875999984741211,0.47200000762939454,0.14115600287914276,Timo Werner,a,65,OpenPlay,2017,RightFoot,8509,Hannover 96,RasenBallsport Leipzig,2,3,2018-03-31 14:30:00,Bruma,Pass,65
+204435,50,MissedShots,0.95,0.5990000152587891,0.33163198828697205,Timo Werner,a,65,OpenPlay,2017,RightFoot,8509,Hannover 96,RasenBallsport Leipzig,2,3,2018-03-31 14:30:00,Bernardo,Cross,65
+204436,52,SavedShot,0.895,0.629000015258789,0.09757719933986664,Timo Werner,a,65,OpenPlay,2017,RightFoot,8509,Hannover 96,RasenBallsport Leipzig,2,3,2018-03-31 14:30:00,Bruma,Pass,65
+207465,9,BlockedShot,0.889000015258789,0.29200000762939454,0.045461900532245636,Timo Werner,h,65,OpenPlay,2017,RightFoot,8512,RasenBallsport Leipzig,Bayer Leverkusen,1,4,2018-04-09 18:30:00,Emil Forsberg,Chipped,65
+207468,19,BlockedShot,0.875,0.35900001525878905,0.08798559755086899,Timo Werner,h,65,OpenPlay,2017,LeftFoot,8512,RasenBallsport Leipzig,Bayer Leverkusen,1,4,2018-04-09 18:30:00,Emil Forsberg,Pass,65
+207476,38,MissedShots,0.879000015258789,0.32599998474121095,0.06372810155153275,Timo Werner,h,65,OpenPlay,2017,LeftFoot,8512,RasenBallsport Leipzig,Bayer Leverkusen,1,4,2018-04-09 18:30:00,Yussuf Poulsen,Pass,65
+209268,51,MissedShots,0.965,0.654000015258789,0.06824590265750885,Timo Werner,a,65,OpenPlay,2017,RightFoot,8523,Werder Bremen,RasenBallsport Leipzig,1,1,2018-04-15 16:00:00,Diego Demme,Pass,65
+209269,53,MissedShots,0.919000015258789,0.6569999694824219,0.01688160002231598,Timo Werner,a,65,OpenPlay,2017,Head,8523,Werder Bremen,RasenBallsport Leipzig,1,1,2018-04-15 16:00:00,Bernardo,Cross,65
+209272,60,SavedShot,0.9030000305175782,0.5129999923706055,0.06492769718170166,Timo Werner,a,65,OpenPlay,2017,Head,8523,Werder Bremen,RasenBallsport Leipzig,1,1,2018-04-15 16:00:00,Stefan Ilsanker,Chipped,65
+209277,84,SavedShot,0.8780000305175781,0.66,0.2609289884567261,Timo Werner,a,65,OpenPlay,2017,RightFoot,8523,Werder Bremen,RasenBallsport Leipzig,1,1,2018-04-15 16:00:00,Ademola Lookman,Pass,65
+210336,81,SavedShot,0.8969999694824219,0.34200000762939453,0.07442820072174072,Timo Werner,h,65,OpenPlay,2017,RightFoot,8530,RasenBallsport Leipzig,Hoffenheim,2,5,2018-04-21 13:30:00,Naby Keita,Pass,65
+212395,10,BlockedShot,0.8980000305175782,0.6519999694824219,0.32615000009536743,Timo Werner,a,65,OpenPlay,2017,LeftFoot,8545,Mainz 05,RasenBallsport Leipzig,3,0,2018-04-29 13:30:00,Ademola Lookman,Throughball,65
+213160,32,Goal,0.865,0.5570000076293945,0.10920400172472,Timo Werner,h,65,OpenPlay,2017,RightFoot,8551,RasenBallsport Leipzig,Wolfsburg,4,1,2018-05-05 14:30:00,Jean-Kevin Augustin,Pass,65
+213172,85,BlockedShot,0.7480000305175781,0.47299999237060547,0.06726089864969254,Timo Werner,h,65,DirectFreekick,2017,RightFoot,8551,RasenBallsport Leipzig,Wolfsburg,4,1,2018-05-05 14:30:00,,Standard,65
+214561,48,Goal,0.870999984741211,0.7090000152587891,0.05976489931344986,Timo Werner,a,65,OpenPlay,2017,RightFoot,8558,Hertha Berlin,RasenBallsport Leipzig,2,6,2018-05-12 14:30:00,Jean-Kevin Augustin,Pass,65
+214567,71,SavedShot,0.9119999694824219,0.485,0.12553100287914276,Timo Werner,a,65,SetPiece,2017,RightFoot,8558,Hertha Berlin,RasenBallsport Leipzig,2,6,2018-05-12 14:30:00,Jean-Kevin Augustin,Pass,65
+214568,75,BlockedShot,0.7609999847412109,0.4279999923706055,0.07408309727907181,Timo Werner,a,65,DirectFreekick,2017,RightFoot,8558,Hertha Berlin,RasenBallsport Leipzig,2,6,2018-05-12 14:30:00,,Standard,65
+220761,84,SavedShot,0.875,0.6840000152587891,0.2833000123500824,Timo Werner,a,65,OpenPlay,2018,LeftFoot,10345,Borussia Dortmund,RasenBallsport Leipzig,4,1,2018-08-26 19:00:00,Emil Forsberg,Throughball,65
+222270,38,MissedShots,0.935,0.4640000152587891,0.14223699271678925,Timo Werner,h,65,OpenPlay,2018,RightFoot,10353,RasenBallsport Leipzig,Fortuna Duesseldorf,1,1,2018-09-02 13:30:00,Emil Forsberg,Pass,65
+222275,49,MissedShots,0.8769999694824219,0.40700000762939453,0.05903070047497749,Timo Werner,h,65,OpenPlay,2018,RightFoot,10353,RasenBallsport Leipzig,Fortuna Duesseldorf,1,1,2018-09-02 13:30:00,Marcelo Saracchi,Cross,65
+222276,54,MissedShots,0.9630000305175781,0.6959999847412109,0.02855830080807209,Timo Werner,h,65,OpenPlay,2018,LeftFoot,10353,RasenBallsport Leipzig,Fortuna Duesseldorf,1,1,2018-09-02 13:30:00,Marcelo Saracchi,Cross,65
+222278,59,MissedShots,0.735999984741211,0.28299999237060547,0.01550699956715107,Timo Werner,h,65,OpenPlay,2018,RightFoot,10353,RasenBallsport Leipzig,Fortuna Duesseldorf,1,1,2018-09-02 13:30:00,Diego Demme,Pass,65
+222287,76,ShotOnPost,0.9540000152587891,0.6790000152587891,0.06434939801692963,Timo Werner,h,65,OpenPlay,2018,LeftFoot,10353,RasenBallsport Leipzig,Fortuna Duesseldorf,1,1,2018-09-02 13:30:00,Matheus Cunha,Pass,65
+223387,2,MissedShots,0.95,0.30700000762939456,0.048070501536130905,Timo Werner,h,65,OpenPlay,2018,RightFoot,10356,RasenBallsport Leipzig,Hannover 96,3,2,2018-09-15 13:30:00,Yussuf Poulsen,Pass,65
+223394,23,BlockedShot,0.91,0.6680000305175782,0.07706189900636673,Timo Werner,h,65,OpenPlay,2018,LeftFoot,10356,RasenBallsport Leipzig,Hannover 96,3,2,2018-09-15 13:30:00,Yussuf Poulsen,Pass,65
+223396,26,ShotOnPost,0.955999984741211,0.5879999923706055,0.3243269920349121,Timo Werner,h,65,OpenPlay,2018,RightFoot,10356,RasenBallsport Leipzig,Hannover 96,3,2,2018-09-15 13:30:00,Nordi Mukiele,Cross,65
+223397,33,BlockedShot,0.915,0.3120000076293945,0.10566599667072296,Timo Werner,h,65,OpenPlay,2018,RightFoot,10356,RasenBallsport Leipzig,Hannover 96,3,2,2018-09-15 13:30:00,Stefan Ilsanker,BallRecovery,65
+223398,39,Goal,0.9,0.6840000152587891,0.05334790050983429,Timo Werner,h,65,OpenPlay,2018,LeftFoot,10356,RasenBallsport Leipzig,Hannover 96,3,2,2018-09-15 13:30:00,Emil Forsberg,Pass,65
+223407,62,Goal,0.899000015258789,0.5459999847412109,0.43101900815963745,Timo Werner,h,65,OpenPlay,2018,RightFoot,10356,RasenBallsport Leipzig,Hannover 96,3,2,2018-09-15 13:30:00,Emil Forsberg,Pass,65
+225959,15,SavedShot,0.8019999694824219,0.29100000381469726,0.02536349929869175,Timo Werner,a,65,OpenPlay,2018,RightFoot,10372,Eintracht Frankfurt,RasenBallsport Leipzig,1,1,2018-09-23 16:00:00,Emil Forsberg,Pass,65
+225964,42,MissedShots,0.9069999694824219,0.47,0.31601598858833313,Timo Werner,a,65,OpenPlay,2018,Head,10372,Eintracht Frankfurt,RasenBallsport Leipzig,1,1,2018-09-23 16:00:00,Konrad Laimer,Cross,65
+225967,64,MissedShots,0.925,0.4179999923706055,0.07671049982309341,Timo Werner,a,65,SetPiece,2018,RightFoot,10372,Eintracht Frankfurt,RasenBallsport Leipzig,1,1,2018-09-23 16:00:00,Emil Forsberg,Cross,65
+225969,70,MissedShots,0.9319999694824219,0.44599998474121094,0.1442430019378662,Timo Werner,a,65,OpenPlay,2018,RightFoot,10372,Eintracht Frankfurt,RasenBallsport Leipzig,1,1,2018-09-23 16:00:00,,Rebound,65
+226701,22,MissedShots,0.9230000305175782,0.455,0.475149005651474,Timo Werner,h,65,OpenPlay,2018,RightFoot,10379,RasenBallsport Leipzig,VfB Stuttgart,2,0,2018-09-26 18:30:00,Nordi Mukiele,Throughball,65
+226703,28,BlockedShot,0.7959999847412109,0.7169999694824218,0.020492199808359146,Timo Werner,h,65,OpenPlay,2018,RightFoot,10379,RasenBallsport Leipzig,VfB Stuttgart,2,0,2018-09-26 18:30:00,Yussuf Poulsen,BallTouch,65
+226704,30,SavedShot,0.9369999694824219,0.7140000152587891,0.04580020159482956,Timo Werner,h,65,OpenPlay,2018,LeftFoot,10379,RasenBallsport Leipzig,VfB Stuttgart,2,0,2018-09-26 18:30:00,Kevin Kampl,Pass,65
+226709,43,BlockedShot,0.870999984741211,0.66,0.06102969869971275,Timo Werner,h,65,OpenPlay,2018,RightFoot,10379,RasenBallsport Leipzig,VfB Stuttgart,2,0,2018-09-26 18:30:00,Emil Forsberg,Pass,65
+226719,56,BlockedShot,0.9630000305175781,0.5940000152587891,0.1381009966135025,Timo Werner,h,65,OpenPlay,2018,LeftFoot,10379,RasenBallsport Leipzig,VfB Stuttgart,2,0,2018-09-26 18:30:00,,Rebound,65
+227835,5,SavedShot,0.7830000305175782,0.6509999847412109,0.030333099886775017,Timo Werner,a,65,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Diego Demme,Chipped,65
+227838,23,MissedShots,0.93,0.6719999694824219,0.08216080069541931,Timo Werner,a,65,OpenPlay,2018,LeftFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,,TakeOn,65
+227841,38,BlockedShot,0.774000015258789,0.4779999923706055,0.034352000802755356,Timo Werner,a,65,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,,BallRecovery,65
+227844,42,BlockedShot,0.925,0.445,0.106283999979496,Timo Werner,a,65,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Yussuf Poulsen,Cross,65
+227848,48,MissedShots,0.8969999694824219,0.7019999694824218,0.04736340045928955,Timo Werner,a,65,OpenPlay,2018,LeftFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Kevin Kampl,Pass,65
+227849,49,BlockedShot,0.870999984741211,0.624000015258789,0.10235299915075302,Timo Werner,a,65,OpenPlay,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Kevin Kampl,Pass,65
+255402,31,Goal,0.8319999694824218,0.53,0.04556899890303612,Timo Werner,h,65,OpenPlay,2018,RightFoot,10394,RasenBallsport Leipzig,Nuernberg,6,0,2018-10-07 16:00:00,,Rebound,65
+255405,58,Goal,0.9359999847412109,0.53,0.599806010723114,Timo Werner,h,65,OpenPlay,2018,RightFoot,10394,RasenBallsport Leipzig,Nuernberg,6,0,2018-10-07 16:00:00,,None,65
+255408,62,SavedShot,0.885,0.5,0.7577769756317139,Timo Werner,h,65,Penalty,2018,RightFoot,10394,RasenBallsport Leipzig,Nuernberg,6,0,2018-10-07 16:00:00,,Standard,65
+255412,75,MissedShots,0.8919999694824219,0.435,0.058886799961328506,Timo Werner,h,65,SetPiece,2018,Head,10394,RasenBallsport Leipzig,Nuernberg,6,0,2018-10-07 16:00:00,Marcel Halstenberg,Cross,65
+255492,68,MissedShots,0.85,0.6859999847412109,0.034538399428129196,Timo Werner,a,65,SetPiece,2018,LeftFoot,10406,Augsburg,RasenBallsport Leipzig,0,0,2018-10-20 13:30:00,Yussuf Poulsen,Pass,65
+255828,20,MissedShots,0.825999984741211,0.7480000305175781,0.023055199533700943,Timo Werner,h,65,OpenPlay,2018,RightFoot,10411,RasenBallsport Leipzig,Schalke 04,0,0,2018-10-28 13:30:00,Marcel Halstenberg,Pass,65
+255831,33,BlockedShot,0.7719999694824219,0.36700000762939455,0.032860901206731796,Timo Werner,h,65,OpenPlay,2018,LeftFoot,10411,RasenBallsport Leipzig,Schalke 04,0,0,2018-10-28 13:30:00,Konrad Laimer,LayOff,65
+255832,34,MissedShots,0.935,0.30700000762939456,0.06010190024971962,Timo Werner,h,65,OpenPlay,2018,RightFoot,10411,RasenBallsport Leipzig,Schalke 04,0,0,2018-10-28 13:30:00,,BallTouch,65
+255838,55,MissedShots,0.9519999694824218,0.6659999847412109,0.012719499878585339,Timo Werner,h,65,FromCorner,2018,Head,10411,RasenBallsport Leipzig,Schalke 04,0,0,2018-10-28 13:30:00,Marcel Halstenberg,Cross,65
+256056,0,SavedShot,0.8830000305175781,0.5129999923706055,0.36957600712776184,Timo Werner,a,65,OpenPlay,2018,RightFoot,10418,Hertha Berlin,RasenBallsport Leipzig,0,3,2018-11-03 17:30:00,Kevin Kampl,TakeOn,65
+256059,5,BlockedShot,0.8719999694824219,0.6969999694824218,0.04870840162038803,Timo Werner,a,65,OpenPlay,2018,RightFoot,10418,Hertha Berlin,RasenBallsport Leipzig,0,3,2018-11-03 17:30:00,Marcelo Saracchi,Pass,65
+256060,6,Goal,0.9740000152587891,0.504000015258789,0.1510089933872223,Timo Werner,a,65,FromCorner,2018,RightFoot,10418,Hertha Berlin,RasenBallsport Leipzig,0,3,2018-11-03 17:30:00,,None,65
+256069,26,BlockedShot,0.9,0.6580000305175782,0.08949340134859085,Timo Werner,a,65,OpenPlay,2018,RightFoot,10418,Hertha Berlin,RasenBallsport Leipzig,0,3,2018-11-03 17:30:00,Marcel Sabitzer,Pass,65
+256074,47,SavedShot,0.924000015258789,0.3039999961853027,0.2840059995651245,Timo Werner,a,65,OpenPlay,2018,RightFoot,10418,Hertha Berlin,RasenBallsport Leipzig,0,3,2018-11-03 17:30:00,Bruma,Pass,65
+256076,50,SavedShot,0.9259999847412109,0.6990000152587891,0.24948500096797943,Timo Werner,a,65,OpenPlay,2018,LeftFoot,10418,Hertha Berlin,RasenBallsport Leipzig,0,3,2018-11-03 17:30:00,Bruma,Pass,65
+256078,52,Goal,0.9230000305175782,0.555,0.5096949934959412,Timo Werner,a,65,OpenPlay,2018,RightFoot,10418,Hertha Berlin,RasenBallsport Leipzig,0,3,2018-11-03 17:30:00,Bruma,Pass,65
+256081,72,SavedShot,0.915,0.42400001525878905,0.5115249752998352,Timo Werner,a,65,OpenPlay,2018,RightFoot,10418,Hertha Berlin,RasenBallsport Leipzig,0,3,2018-11-03 17:30:00,Matheus Cunha,Pass,65
+256362,10,MissedShots,0.8580000305175781,0.7319999694824219,0.03201939910650253,Timo Werner,h,65,OpenPlay,2018,RightFoot,10429,RasenBallsport Leipzig,Bayer Leverkusen,3,0,2018-11-11 14:30:00,Marcel Halstenberg,Pass,65
+256364,18,BlockedShot,0.9490000152587891,0.6079999923706054,0.047507598996162415,Timo Werner,h,65,FromCorner,2018,Head,10429,RasenBallsport Leipzig,Bayer Leverkusen,3,0,2018-11-11 14:30:00,Marcel Halstenberg,Cross,65
+256374,75,SavedShot,0.885,0.43099998474121093,0.49498099088668823,Timo Werner,h,65,OpenPlay,2018,RightFoot,10429,RasenBallsport Leipzig,Bayer Leverkusen,3,0,2018-11-11 14:30:00,Yussuf Poulsen,Throughball,65
+256559,30,SavedShot,0.8969999694824219,0.7030000305175781,0.044187698513269424,Timo Werner,a,65,OpenPlay,2018,LeftFoot,10444,Wolfsburg,RasenBallsport Leipzig,1,0,2018-11-24 14:30:00,Diego Demme,Pass,65
+256562,47,BlockedShot,0.85,0.46,0.08578699827194214,Timo Werner,a,65,OpenPlay,2018,LeftFoot,10444,Wolfsburg,RasenBallsport Leipzig,1,0,2018-11-24 14:30:00,Konrad Laimer,Pass,65
+256801,2,Goal,0.8830000305175781,0.41200000762939454,0.10879600048065186,Timo Werner,h,65,OpenPlay,2018,RightFoot,10447,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2018-12-02 14:30:00,Marcel Sabitzer,Pass,65
+256810,43,SavedShot,0.9340000152587891,0.735,0.10143499821424484,Timo Werner,h,65,OpenPlay,2018,RightFoot,10447,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2018-12-02 14:30:00,Yussuf Poulsen,Chipped,65
+256812,45,Goal,0.865999984741211,0.6430000305175781,0.31248998641967773,Timo Werner,h,65,OpenPlay,2018,RightFoot,10447,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2018-12-02 14:30:00,Yussuf Poulsen,Pass,65
+256817,60,MissedShots,0.8769999694824219,0.24899999618530275,0.051755499094724655,Timo Werner,h,65,OpenPlay,2018,RightFoot,10447,RasenBallsport Leipzig,Borussia M.Gladbach,2,0,2018-12-02 14:30:00,Yussuf Poulsen,Pass,65
+257081,18,SavedShot,0.9230000305175782,0.32799999237060545,0.3188219964504242,Timo Werner,a,65,OpenPlay,2018,RightFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Kevin Kampl,Throughball,65
+257083,24,MissedShots,0.9690000152587891,0.624000015258789,0.0435434989631176,Timo Werner,a,65,FromCorner,2018,RightFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Marcel Halstenberg,Cross,65
+257104,87,SavedShot,0.9719999694824218,0.6869999694824219,0.04746070131659508,Timo Werner,a,65,OpenPlay,2018,LeftFoot,10460,Freiburg,RasenBallsport Leipzig,3,0,2018-12-08 14:30:00,Marcelo Saracchi,Pass,65
+257359,70,SavedShot,0.9069999694824219,0.23600000381469727,0.03646859899163246,Timo Werner,h,65,OpenPlay,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Marcel Sabitzer,Pass,65
+257361,73,Goal,0.9230000305175782,0.42700000762939455,0.8078770041465759,Timo Werner,h,65,OpenPlay,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Diego Demme,TakeOn,65
+257362,76,MissedShots,0.9019999694824219,0.3629999923706055,0.030542299151420593,Timo Werner,h,65,SetPiece,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,,Aerial,65
+257367,87,Goal,0.8730000305175781,0.6669999694824219,0.09724289923906326,Timo Werner,h,65,OpenPlay,2018,RightFoot,10465,RasenBallsport Leipzig,Mainz 05,4,1,2018-12-16 14:30:00,Yussuf Poulsen,TakeOn,65
+257663,46,MissedShots,0.7759999847412109,0.5320000076293945,0.03177480027079582,Timo Werner,a,65,OpenPlay,2018,RightFoot,10472,Bayern Munich,RasenBallsport Leipzig,1,0,2018-12-19 19:30:00,Bruma,Pass,65
+257756,30,MissedShots,0.8780000305175781,0.3770000076293945,0.13424499332904816,Timo Werner,h,65,OpenPlay,2018,RightFoot,10485,RasenBallsport Leipzig,Werder Bremen,3,2,2018-12-22 14:30:00,Yussuf Poulsen,Throughball,65
+257763,43,Goal,0.9169999694824219,0.47200000762939454,0.5237240195274353,Timo Werner,h,65,OpenPlay,2018,RightFoot,10485,RasenBallsport Leipzig,Werder Bremen,3,2,2018-12-22 14:30:00,,None,65
+278436,33,MissedShots,0.8369999694824218,0.69,0.035213299095630646,Timo Werner,h,65,OpenPlay,2018,RightFoot,10490,RasenBallsport Leipzig,Borussia Dortmund,0,1,2019-01-19 17:30:00,Kevin Kampl,Pass,65
+278443,76,SavedShot,0.9319999694824219,0.3029999923706055,0.04430609941482544,Timo Werner,h,65,OpenPlay,2018,RightFoot,10490,RasenBallsport Leipzig,Borussia Dortmund,0,1,2019-01-19 17:30:00,Ibrahima Konaté,Pass,65
+278737,11,SavedShot,0.925,0.31,0.06427240371704102,Timo Werner,a,65,OpenPlay,2018,RightFoot,10507,Fortuna Duesseldorf,RasenBallsport Leipzig,0,4,2019-01-27 17:00:00,,None,65
+279014,15,BlockedShot,0.87,0.509000015258789,0.1078919991850853,Timo Werner,h,65,OpenPlay,2018,RightFoot,10519,RasenBallsport Leipzig,Eintracht Frankfurt,0,0,2019-02-09 14:30:00,Marcel Sabitzer,Pass,65
+279024,53,BlockedShot,0.8590000152587891,0.6759999847412109,0.056587301194667816,Timo Werner,h,65,OpenPlay,2018,RightFoot,10519,RasenBallsport Leipzig,Eintracht Frankfurt,0,0,2019-02-09 14:30:00,Yussuf Poulsen,HeadPass,65
+279025,57,MissedShots,0.8690000152587891,0.62,0.026404699310660362,Timo Werner,h,65,OpenPlay,2018,Head,10519,RasenBallsport Leipzig,Eintracht Frankfurt,0,0,2019-02-09 14:30:00,Konrad Laimer,Chipped,65
+279027,60,MissedShots,0.9459999847412109,0.5729999923706055,0.047970399260520935,Timo Werner,h,65,FromCorner,2018,Head,10519,RasenBallsport Leipzig,Eintracht Frankfurt,0,0,2019-02-09 14:30:00,Marcel Halstenberg,Aerial,65
+279029,66,MissedShots,0.9619999694824218,0.5870000076293945,0.13501399755477905,Timo Werner,h,65,OpenPlay,2018,LeftFoot,10519,RasenBallsport Leipzig,Eintracht Frankfurt,0,0,2019-02-09 14:30:00,,Rebound,65
+279231,18,MissedShots,0.8880000305175781,0.2539999961853027,0.0335208997130394,Timo Werner,a,65,OpenPlay,2018,RightFoot,10528,VfB Stuttgart,RasenBallsport Leipzig,1,3,2019-02-16 14:30:00,Marcel Sabitzer,Pass,65
+284401,39,MissedShots,0.94,0.5479999923706055,0.40302398800849915,Timo Werner,h,65,OpenPlay,2018,Head,10556,RasenBallsport Leipzig,Augsburg,0,0,2019-03-09 14:30:00,Marcel Sabitzer,Chipped,65
+284404,56,MissedShots,0.9519999694824218,0.63,0.02353679947555065,Timo Werner,h,65,FromCorner,2018,Head,10556,RasenBallsport Leipzig,Augsburg,0,0,2019-03-09 14:30:00,Marcel Halstenberg,Cross,65
+284415,91,SavedShot,0.9569999694824218,0.590999984741211,0.28125399351119995,Timo Werner,h,65,OpenPlay,2018,Head,10556,RasenBallsport Leipzig,Augsburg,0,0,2019-03-09 14:30:00,Marcel Sabitzer,Chipped,65
+286165,13,Goal,0.9719999694824218,0.48200000762939454,0.8148880004882812,Timo Werner,a,65,OpenPlay,2018,RightFoot,10564,Schalke 04,RasenBallsport Leipzig,0,1,2019-03-16 14:30:00,,Rebound,65
+286171,35,MissedShots,0.78,0.33099998474121095,0.029475299641489983,Timo Werner,a,65,OpenPlay,2018,RightFoot,10564,Schalke 04,RasenBallsport Leipzig,0,1,2019-03-16 14:30:00,Lukas Klostermann,Pass,65
+286176,46,MissedShots,0.9259999847412109,0.38299999237060545,0.03029490076005459,Timo Werner,a,65,FromCorner,2018,Head,10564,Schalke 04,RasenBallsport Leipzig,0,1,2019-03-16 14:30:00,Emil Forsberg,Cross,65
+287761,2,MissedShots,0.9219999694824219,0.24399999618530274,0.03215619921684265,Timo Werner,h,65,OpenPlay,2018,RightFoot,10573,RasenBallsport Leipzig,Hertha Berlin,5,0,2019-03-30 17:30:00,Yussuf Poulsen,Pass,65
+287765,7,MissedShots,0.735999984741211,0.5690000152587891,0.01756639964878559,Timo Werner,h,65,OpenPlay,2018,RightFoot,10573,RasenBallsport Leipzig,Hertha Berlin,5,0,2019-03-30 17:30:00,Kevin Kampl,BallRecovery,65
+287768,24,BlockedShot,0.8169999694824219,0.5070000076293946,0.12434100359678268,Timo Werner,h,65,OpenPlay,2018,RightFoot,10573,RasenBallsport Leipzig,Hertha Berlin,5,0,2019-03-30 17:30:00,Emil Forsberg,TakeOn,65
+287771,38,BlockedShot,0.9309999847412109,0.46299999237060546,0.5102779865264893,Timo Werner,h,65,OpenPlay,2018,RightFoot,10573,RasenBallsport Leipzig,Hertha Berlin,5,0,2019-03-30 17:30:00,Yussuf Poulsen,Cross,65
+287772,46,BlockedShot,0.8519999694824218,0.5479999923706055,0.10649999976158142,Timo Werner,h,65,OpenPlay,2018,LeftFoot,10573,RasenBallsport Leipzig,Hertha Berlin,5,0,2019-03-30 17:30:00,Emil Forsberg,Pass,65
+287774,48,MissedShots,0.8580000305175781,0.46700000762939453,0.12756699323654175,Timo Werner,h,65,OpenPlay,2018,RightFoot,10573,RasenBallsport Leipzig,Hertha Berlin,5,0,2019-03-30 17:30:00,Emil Forsberg,Pass,65
+287775,54,SavedShot,0.9009999847412109,0.36900001525878906,0.12321200221776962,Timo Werner,h,65,OpenPlay,2018,RightFoot,10573,RasenBallsport Leipzig,Hertha Berlin,5,0,2019-03-30 17:30:00,Emil Forsberg,Pass,65
+287784,76,MissedShots,0.905,0.4159999847412109,0.45338699221611023,Timo Werner,h,65,OpenPlay,2018,RightFoot,10573,RasenBallsport Leipzig,Hertha Berlin,5,0,2019-03-30 17:30:00,Konrad Laimer,Pass,65
+291872,7,MissedShots,0.8619999694824219,0.285,0.03464920073747635,Timo Werner,a,65,OpenPlay,2018,RightFoot,10582,Bayer Leverkusen,RasenBallsport Leipzig,2,4,2019-04-06 14:30:00,Emil Forsberg,Pass,65
+291871,7,MissedShots,0.8909999847412109,0.37,0.019361399114131927,Timo Werner,a,65,OpenPlay,2018,Head,10582,Bayer Leverkusen,RasenBallsport Leipzig,2,4,2019-04-06 14:30:00,Marcel Sabitzer,Cross,65
+291881,63,Goal,0.865,0.6469999694824219,0.08045289665460587,Timo Werner,a,65,OpenPlay,2018,RightFoot,10582,Bayer Leverkusen,RasenBallsport Leipzig,2,4,2019-04-06 14:30:00,Emil Forsberg,TakeOn,65
+291886,85,BlockedShot,0.8930000305175781,0.32799999237060545,0.10707899928092957,Timo Werner,a,65,OpenPlay,2018,LeftFoot,10582,Bayer Leverkusen,RasenBallsport Leipzig,2,4,2019-04-06 14:30:00,Matheus Cunha,Pass,65
+293442,27,Goal,0.9669999694824218,0.590999984741211,0.25492098927497864,Timo Werner,h,65,OpenPlay,2018,Head,10591,RasenBallsport Leipzig,Wolfsburg,2,0,2019-04-13 14:30:00,Marcel Sabitzer,Cross,65
+293450,69,SavedShot,0.909000015258789,0.639000015258789,0.07610920071601868,Timo Werner,h,65,OpenPlay,2018,RightFoot,10591,RasenBallsport Leipzig,Wolfsburg,2,0,2019-04-13 14:30:00,Amadou Haidara,TakeOn,65
+293453,72,MissedShots,0.8719999694824219,0.33299999237060546,0.08105780184268951,Timo Werner,h,65,OpenPlay,2018,RightFoot,10591,RasenBallsport Leipzig,Wolfsburg,2,0,2019-04-13 14:30:00,Kevin Kampl,Pass,65
+293458,80,MissedShots,0.895,0.3320000076293945,0.07727409899234772,Timo Werner,h,65,OpenPlay,2018,RightFoot,10591,RasenBallsport Leipzig,Wolfsburg,2,0,2019-04-13 14:30:00,Amadou Haidara,Pass,65
+293459,84,SavedShot,0.89,0.3609999847412109,0.3305540084838867,Timo Werner,h,65,OpenPlay,2018,RightFoot,10591,RasenBallsport Leipzig,Wolfsburg,2,0,2019-04-13 14:30:00,Marcel Sabitzer,Chipped,65
+293462,86,ShotOnPost,0.870999984741211,0.28,0.10037600249052048,Timo Werner,h,65,OpenPlay,2018,RightFoot,10591,RasenBallsport Leipzig,Wolfsburg,2,0,2019-04-13 14:30:00,Marcel Sabitzer,Pass,65
+295502,19,BlockedShot,0.9069999694824219,0.6469999694824219,0.09725700318813324,Timo Werner,a,65,OpenPlay,2018,RightFoot,10604,Borussia M.Gladbach,RasenBallsport Leipzig,1,2,2019-04-20 17:30:00,Ibrahima Konaté,Pass,65
+295509,59,MissedShots,0.8819999694824219,0.28,0.13376900553703308,Timo Werner,a,65,OpenPlay,2018,RightFoot,10604,Borussia M.Gladbach,RasenBallsport Leipzig,1,2,2019-04-20 17:30:00,Nordi Mukiele,Throughball,65
+295513,70,SavedShot,0.8690000152587891,0.5420000076293945,0.3282270133495331,Timo Werner,a,65,OpenPlay,2018,RightFoot,10604,Borussia M.Gladbach,RasenBallsport Leipzig,1,2,2019-04-20 17:30:00,Yussuf Poulsen,BallRecovery,65
+295515,77,BlockedShot,0.9269999694824219,0.24700000762939453,0.05407069995999336,Timo Werner,a,65,OpenPlay,2018,RightFoot,10604,Borussia M.Gladbach,RasenBallsport Leipzig,1,2,2019-04-20 17:30:00,Konrad Laimer,BallRecovery,65
+297325,1,MissedShots,0.9130000305175782,0.6780000305175782,0.25077301263809204,Timo Werner,h,65,OpenPlay,2018,RightFoot,10609,RasenBallsport Leipzig,Freiburg,2,1,2019-04-27 14:30:00,Amadou Haidara,Pass,65
+297328,18,Goal,0.9209999847412109,0.59,0.40164101123809814,Timo Werner,h,65,OpenPlay,2018,RightFoot,10609,RasenBallsport Leipzig,Freiburg,2,1,2019-04-27 14:30:00,Yussuf Poulsen,Pass,65
+298948,35,MissedShots,0.8969999694824219,0.6509999847412109,0.07784129679203033,Timo Werner,a,65,OpenPlay,2018,LeftFoot,10623,Mainz 05,RasenBallsport Leipzig,3,3,2019-05-03 19:30:00,,None,65
+298951,48,Goal,0.9159999847412109,0.5129999923706055,0.516219973564148,Timo Werner,a,65,OpenPlay,2018,RightFoot,10623,Mainz 05,RasenBallsport Leipzig,3,3,2019-05-03 19:30:00,Emil Forsberg,Pass,65
+300779,15,BlockedShot,0.884000015258789,0.7090000152587891,0.03925130143761635,Timo Werner,h,65,OpenPlay,2018,RightFoot,10628,RasenBallsport Leipzig,Bayern Munich,0,0,2019-05-11 14:30:00,Emil Forsberg,Pass,65
+300782,39,SavedShot,0.8669999694824219,0.34,0.060534801334142685,Timo Werner,h,65,OpenPlay,2018,RightFoot,10628,RasenBallsport Leipzig,Bayern Munich,0,0,2019-05-11 14:30:00,Marcel Halstenberg,Pass,65
+300790,72,MissedShots,0.889000015258789,0.39799999237060546,0.10587699711322784,Timo Werner,h,65,OpenPlay,2018,RightFoot,10628,RasenBallsport Leipzig,Bayern Munich,0,0,2019-05-11 14:30:00,Lukas Klostermann,Pass,65
+311194,17,MissedShots,0.8980000305175782,0.30700000762939456,0.08309359848499298,Timo Werner,a,65,OpenPlay,2019,RightFoot,12411,Union Berlin,RasenBallsport Leipzig,0,4,2019-08-18 17:00:00,Marcel Sabitzer,Pass,65
+311196,20,BlockedShot,0.9290000152587891,0.3920000076293945,0.05387289822101593,Timo Werner,a,65,FromCorner,2019,RightFoot,12411,Union Berlin,RasenBallsport Leipzig,0,4,2019-08-18 17:00:00,Marcel Sabitzer,Cross,65
+311203,41,Goal,0.8630000305175781,0.3579999923706055,0.0983491986989975,Timo Werner,a,65,OpenPlay,2019,RightFoot,12411,Union Berlin,RasenBallsport Leipzig,0,4,2019-08-18 17:00:00,Marcel Sabitzer,Pass,65
+311204,48,SavedShot,0.9309999847412109,0.605,0.500603973865509,Timo Werner,a,65,OpenPlay,2019,LeftFoot,12411,Union Berlin,RasenBallsport Leipzig,0,4,2019-08-18 17:00:00,Kevin Kampl,Throughball,65
+312998,9,Goal,0.9119999694824219,0.639000015258789,0.07269050180912018,Timo Werner,h,65,FromCorner,2019,RightFoot,12419,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2019-08-25 14:30:00,Yussuf Poulsen,Rebound,65
+312999,10,SavedShot,0.8130000305175781,0.710999984741211,0.0324908010661602,Timo Werner,h,65,OpenPlay,2019,RightFoot,12419,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2019-08-25 14:30:00,Yussuf Poulsen,Pass,65
+313001,17,MissedShots,0.9669999694824218,0.5690000152587891,0.5898560285568237,Timo Werner,h,65,OpenPlay,2019,RightFoot,12419,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2019-08-25 14:30:00,Lukas Klostermann,Pass,65
+313007,47,SavedShot,0.8780000305175781,0.62,0.3359000086784363,Timo Werner,h,65,OpenPlay,2019,RightFoot,12419,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2019-08-25 14:30:00,Christopher Nkunku,Throughball,65
+315405,17,BlockedShot,0.799000015258789,0.6869999694824219,0.022103700786828995,Timo Werner,a,65,OpenPlay,2019,RightFoot,12421,Borussia M.Gladbach,RasenBallsport Leipzig,1,3,2019-08-30 19:30:00,Kevin Kampl,Chipped,65
+315409,37,Goal,0.9359999847412109,0.5879999923706055,0.46696600317955017,Timo Werner,a,65,OpenPlay,2019,RightFoot,12421,Borussia M.Gladbach,RasenBallsport Leipzig,1,3,2019-08-30 19:30:00,Emil Forsberg,Throughball,65
+315412,46,Goal,0.8680000305175781,0.524000015258789,0.565759003162384,Timo Werner,a,65,OpenPlay,2019,LeftFoot,12421,Borussia M.Gladbach,RasenBallsport Leipzig,1,3,2019-08-30 19:30:00,Yussuf Poulsen,BallTouch,65
+315427,93,Goal,0.885,0.5929999923706055,0.3644460141658783,Timo Werner,a,65,OpenPlay,2019,RightFoot,12421,Borussia M.Gladbach,RasenBallsport Leipzig,1,3,2019-08-30 19:30:00,,None,65
+317496,26,SavedShot,0.78,0.5129999923706055,0.03192310035228729,Timo Werner,h,65,OpenPlay,2019,LeftFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Emil Forsberg,Pass,65
+317505,53,BlockedShot,0.7869999694824219,0.6370000076293946,0.03473930060863495,Timo Werner,h,65,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,,TakeOn,65
+317506,58,MissedShots,0.9119999694824219,0.40299999237060546,0.1185859963297844,Timo Werner,h,65,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Nordi Mukiele,Pass,65
+317510,64,MissedShots,0.915,0.2979999923706055,0.19810199737548828,Timo Werner,h,65,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Yussuf Poulsen,Pass,65
+317511,65,BlockedShot,0.7959999847412109,0.6370000076293946,0.03025370091199875,Timo Werner,h,65,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Yussuf Poulsen,Pass,65
+317516,88,SavedShot,0.92,0.3060000038146973,0.20101100206375122,Timo Werner,h,65,OpenPlay,2019,RightFoot,12436,RasenBallsport Leipzig,Bayern Munich,1,1,2019-09-14 16:30:00,Nordi Mukiele,Pass,65
+320644,49,MissedShots,0.8830000305175781,0.4470000076293945,0.043834101408720016,Timo Werner,a,65,OpenPlay,2019,Head,12444,Werder Bremen,RasenBallsport Leipzig,0,3,2019-09-21 16:30:00,Ibrahima Konaté,Cross,65
+320647,59,SavedShot,0.8930000305175781,0.654000015258789,0.27358099818229675,Timo Werner,a,65,OpenPlay,2019,RightFoot,12444,Werder Bremen,RasenBallsport Leipzig,0,3,2019-09-21 16:30:00,Marcelo Saracchi,Pass,65
+322548,66,MissedShots,0.764000015258789,0.46599998474121096,0.032654598355293274,Timo Werner,h,65,OpenPlay,2019,RightFoot,12452,RasenBallsport Leipzig,Schalke 04,1,3,2019-09-28 13:30:00,Emil Forsberg,TakeOn,65
+322552,76,BlockedShot,0.8080000305175781,0.4929999923706055,0.05273289978504181,Timo Werner,h,65,OpenPlay,2019,RightFoot,12452,RasenBallsport Leipzig,Schalke 04,1,3,2019-09-28 13:30:00,Marcel Sabitzer,Pass,65
+323975,7,MissedShots,0.9030000305175782,0.5220000076293946,0.32516101002693176,Timo Werner,a,65,OpenPlay,2019,Head,12462,Bayer Leverkusen,RasenBallsport Leipzig,1,1,2019-10-05 14:30:00,,Rebound,65
+323977,15,SavedShot,0.909000015258789,0.3629999923706055,0.16945800185203552,Timo Werner,a,65,OpenPlay,2019,RightFoot,12462,Bayer Leverkusen,RasenBallsport Leipzig,1,1,2019-10-05 14:30:00,Matheus Cunha,LayOff,65
+323980,25,MissedShots,0.8690000152587891,0.6,0.46390199661254883,Timo Werner,a,65,OpenPlay,2019,RightFoot,12462,Bayer Leverkusen,RasenBallsport Leipzig,1,1,2019-10-05 14:30:00,,None,65
+325433,4,SavedShot,0.8619999694824219,0.6170000076293946,0.0827329009771347,Timo Werner,h,65,OpenPlay,2019,LeftFoot,12470,RasenBallsport Leipzig,Wolfsburg,1,1,2019-10-19 14:30:00,Marcelo Saracchi,Pass,65
+325437,24,BlockedShot,0.8230000305175781,0.49900001525878906,0.05748689919710159,Timo Werner,h,65,OpenPlay,2019,RightFoot,12470,RasenBallsport Leipzig,Wolfsburg,1,1,2019-10-19 14:30:00,,None,65
+325441,35,MissedShots,0.8680000305175781,0.35700000762939454,0.06485950201749802,Timo Werner,h,65,OpenPlay,2019,RightFoot,12470,RasenBallsport Leipzig,Wolfsburg,1,1,2019-10-19 14:30:00,Yussuf Poulsen,Pass,65
+325449,53,Goal,0.9219999694824219,0.45099998474121095,0.7746739983558655,Timo Werner,h,65,OpenPlay,2019,RightFoot,12470,RasenBallsport Leipzig,Wolfsburg,1,1,2019-10-19 14:30:00,,TakeOn,65
+327049,18,BlockedShot,0.835999984741211,0.6930000305175781,0.033483900129795074,Timo Werner,a,65,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Emil Forsberg,Pass,65
+327052,24,BlockedShot,0.9119999694824219,0.56,0.09251990169286728,Timo Werner,a,65,OpenPlay,2019,RightFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,,None,65
+327064,53,MissedShots,0.875,0.580999984741211,0.08955419808626175,Timo Werner,a,65,OpenPlay,2019,LeftFoot,12481,Freiburg,RasenBallsport Leipzig,2,1,2019-10-26 14:30:00,Marcel Halstenberg,Pass,65
+329048,9,SavedShot,0.8419999694824218,0.5720000076293945,0.10418400168418884,Timo Werner,h,65,OpenPlay,2019,RightFoot,12485,RasenBallsport Leipzig,Mainz 05,8,0,2019-11-02 14:30:00,Marcel Sabitzer,TakeOn,65
+329049,11,BlockedShot,0.865999984741211,0.2610000038146973,0.037953898310661316,Timo Werner,h,65,OpenPlay,2019,RightFoot,12485,RasenBallsport Leipzig,Mainz 05,8,0,2019-11-02 14:30:00,Yussuf Poulsen,Pass,65
+329056,29,Goal,0.99,0.425,0.5849859714508057,Timo Werner,h,65,OpenPlay,2019,RightFoot,12485,RasenBallsport Leipzig,Mainz 05,8,0,2019-11-02 14:30:00,Christopher Nkunku,Pass,65
+329063,47,Goal,0.915,0.69,0.07771319895982742,Timo Werner,h,65,OpenPlay,2019,LeftFoot,12485,RasenBallsport Leipzig,Mainz 05,8,0,2019-11-02 14:30:00,Christopher Nkunku,Pass,65
+329073,86,Goal,0.9440000152587891,0.5459999847412109,0.6011549830436707,Timo Werner,h,65,OpenPlay,2019,RightFoot,12485,RasenBallsport Leipzig,Mainz 05,8,0,2019-11-02 14:30:00,Lukas Klostermann,Pass,65
+330567,22,SavedShot,0.899000015258789,0.4590000152587891,0.09525659680366516,Timo Werner,a,65,OpenPlay,2019,LeftFoot,12494,Hertha Berlin,RasenBallsport Leipzig,2,4,2019-11-09 14:30:00,,None,65
+330570,37,Goal,0.885,0.5,0.7576959729194641,Timo Werner,a,65,Penalty,2019,RightFoot,12494,Hertha Berlin,RasenBallsport Leipzig,2,4,2019-11-09 14:30:00,,Standard,65
+330576,81,SavedShot,0.8580000305175781,0.6959999847412109,0.07283180207014084,Timo Werner,a,65,OpenPlay,2019,RightFoot,12494,Hertha Berlin,RasenBallsport Leipzig,2,4,2019-11-09 14:30:00,Christopher Nkunku,Pass,65
+330579,90,Goal,0.9519999694824218,0.4640000152587891,0.7254530191421509,Timo Werner,a,65,OpenPlay,2019,LeftFoot,12494,Hertha Berlin,RasenBallsport Leipzig,2,4,2019-11-09 14:30:00,Konrad Laimer,Pass,65
+332456,21,Goal,0.91,0.4909999847412109,0.47773098945617676,Timo Werner,h,65,OpenPlay,2019,RightFoot,12504,RasenBallsport Leipzig,FC Cologne,4,1,2019-11-23 17:30:00,Christopher Nkunku,Pass,65
+332458,36,MissedShots,0.7619999694824219,0.31799999237060544,0.01518580038100481,Timo Werner,h,65,FromCorner,2019,RightFoot,12504,RasenBallsport Leipzig,FC Cologne,4,1,2019-11-23 17:30:00,,None,65
+332461,40,SavedShot,0.86,0.595999984741211,0.0963945984840393,Timo Werner,h,65,OpenPlay,2019,RightFoot,12504,RasenBallsport Leipzig,FC Cologne,4,1,2019-11-23 17:30:00,Diego Demme,Pass,65
+332464,52,MissedShots,0.91,0.605999984741211,0.12041100114583969,Timo Werner,h,65,OpenPlay,2019,RightFoot,12504,RasenBallsport Leipzig,FC Cologne,4,1,2019-11-23 17:30:00,Marcel Sabitzer,Cross,65
+332469,66,MissedShots,0.8619999694824219,0.475,0.1296209990978241,Timo Werner,h,65,OpenPlay,2019,RightFoot,12504,RasenBallsport Leipzig,FC Cologne,4,1,2019-11-23 17:30:00,Emil Forsberg,Pass,65
+333555,25,Goal,0.925,0.36400001525878906,0.12527400255203247,Timo Werner,a,65,OpenPlay,2019,RightFoot,12517,Paderborn,RasenBallsport Leipzig,2,3,2019-11-30 14:30:00,Christopher Nkunku,Pass,65
+333559,49,MissedShots,0.84,0.5709999847412109,0.11904200166463852,Timo Werner,a,65,OpenPlay,2019,RightFoot,12517,Paderborn,RasenBallsport Leipzig,2,3,2019-11-30 14:30:00,,TakeOn,65
+333560,51,BlockedShot,0.89,0.3609999847412109,0.1090639978647232,Timo Werner,a,65,OpenPlay,2019,RightFoot,12517,Paderborn,RasenBallsport Leipzig,2,3,2019-11-30 14:30:00,Marcel Sabitzer,Chipped,65
+333567,87,BlockedShot,0.9219999694824219,0.5479999923706055,0.14772500097751617,Timo Werner,a,65,OpenPlay,2019,LeftFoot,12517,Paderborn,RasenBallsport Leipzig,2,3,2019-11-30 14:30:00,Christopher Nkunku,Pass,65
+335595,5,BlockedShot,0.8619999694824219,0.675,0.04880720004439354,Timo Werner,h,65,OpenPlay,2019,RightFoot,12521,RasenBallsport Leipzig,Hoffenheim,3,1,2019-12-07 14:30:00,Marcel Sabitzer,Chipped,65
+335596,10,Goal,0.9290000152587891,0.43599998474121093,0.5139219760894775,Timo Werner,h,65,OpenPlay,2019,RightFoot,12521,RasenBallsport Leipzig,Hoffenheim,3,1,2019-12-07 14:30:00,Patrik Schick,Pass,65
+335599,19,SavedShot,0.735,0.5720000076293945,0.024296199902892113,Timo Werner,h,65,OpenPlay,2019,RightFoot,12521,RasenBallsport Leipzig,Hoffenheim,3,1,2019-12-07 14:30:00,Marcel Halstenberg,Pass,65
+335603,27,BlockedShot,0.894000015258789,0.33599998474121096,0.12147200107574463,Timo Werner,h,65,OpenPlay,2019,RightFoot,12521,RasenBallsport Leipzig,Hoffenheim,3,1,2019-12-07 14:30:00,Emil Forsberg,TakeOn,65
+335604,28,SavedShot,0.8130000305175781,0.4759999847412109,0.0726333037018776,Timo Werner,h,65,OpenPlay,2019,LeftFoot,12521,RasenBallsport Leipzig,Hoffenheim,3,1,2019-12-07 14:30:00,Patrik Schick,BallTouch,65
+335608,45,SavedShot,0.9219999694824219,0.6930000305175781,0.07013639807701111,Timo Werner,h,65,OpenPlay,2019,RightFoot,12521,RasenBallsport Leipzig,Hoffenheim,3,1,2019-12-07 14:30:00,,None,65
+335609,46,MissedShots,0.8590000152587891,0.5070000076293946,0.0963200032711029,Timo Werner,h,65,OpenPlay,2019,RightFoot,12521,RasenBallsport Leipzig,Hoffenheim,3,1,2019-12-07 14:30:00,,None,65
+335612,51,Goal,0.885,0.5,0.7577769756317139,Timo Werner,h,65,Penalty,2019,RightFoot,12521,RasenBallsport Leipzig,Hoffenheim,3,1,2019-12-07 14:30:00,,Standard,65
+335621,76,SavedShot,0.9230000305175782,0.6569999694824219,0.1157890036702156,Timo Werner,h,65,OpenPlay,2019,RightFoot,12521,RasenBallsport Leipzig,Hoffenheim,3,1,2019-12-07 14:30:00,Marcel Sabitzer,Pass,65
+335623,79,SavedShot,0.9680000305175781,0.5840000152587891,0.5217159986495972,Timo Werner,h,65,OpenPlay,2019,RightFoot,12521,RasenBallsport Leipzig,Hoffenheim,3,1,2019-12-07 14:30:00,Christopher Nkunku,Pass,65
+337209,47,SavedShot,0.7959999847412109,0.3770000076293945,0.2263599932193756,Timo Werner,a,65,OpenPlay,2019,Head,12532,Fortuna Duesseldorf,RasenBallsport Leipzig,0,3,2019-12-14 17:30:00,Lukas Klostermann,Chipped,65
+337210,48,MissedShots,0.8569999694824219,0.7390000152587891,0.039542898535728455,Timo Werner,a,65,OpenPlay,2019,LeftFoot,12532,Fortuna Duesseldorf,RasenBallsport Leipzig,0,3,2019-12-14 17:30:00,Marcel Sabitzer,Pass,65
+337215,57,Goal,0.885,0.5,0.7577769756317139,Timo Werner,a,65,Penalty,2019,RightFoot,12532,Fortuna Duesseldorf,RasenBallsport Leipzig,0,3,2019-12-14 17:30:00,,Standard,65
+337222,79,MissedShots,0.86,0.27,0.06539659947156906,Timo Werner,a,65,OpenPlay,2019,RightFoot,12532,Fortuna Duesseldorf,RasenBallsport Leipzig,0,3,2019-12-14 17:30:00,,TakeOn,65
+338004,46,Goal,0.730999984741211,0.3120000076293945,0.16904300451278687,Timo Werner,a,65,OpenPlay,2019,RightFoot,12538,Borussia Dortmund,RasenBallsport Leipzig,3,3,2019-12-17 19:30:00,,None,65
+338003,46,SavedShot,0.9359999847412109,0.3509999847412109,0.015481200069189072,Timo Werner,a,65,FromCorner,2019,Head,12538,Borussia Dortmund,RasenBallsport Leipzig,3,3,2019-12-17 19:30:00,Marcel Halstenberg,Cross,65
+338005,48,SavedShot,0.9119999694824219,0.6790000152587891,0.04847940057516098,Timo Werner,a,65,OpenPlay,2019,LeftFoot,12538,Borussia Dortmund,RasenBallsport Leipzig,3,3,2019-12-17 19:30:00,Christopher Nkunku,Pass,65
+338008,52,Goal,0.9030000305175782,0.39799999237060546,0.6585839986801147,Timo Werner,a,65,OpenPlay,2019,RightFoot,12538,Borussia Dortmund,RasenBallsport Leipzig,3,3,2019-12-17 19:30:00,,TakeOn,65
+338571,22,MissedShots,0.914000015258789,0.7090000152587891,0.03575659915804863,Timo Werner,h,65,FromCorner,2019,RightFoot,12548,RasenBallsport Leipzig,Augsburg,3,1,2019-12-21 14:30:00,,None,65
+338573,28,MissedShots,0.905,0.38599998474121094,0.07532519847154617,Timo Werner,h,65,OpenPlay,2019,RightFoot,12548,RasenBallsport Leipzig,Augsburg,3,1,2019-12-21 14:30:00,,Rebound,65
+338580,47,MissedShots,0.9119999694824219,0.5629999923706055,0.032294899225234985,Timo Werner,h,65,OpenPlay,2019,Head,12548,RasenBallsport Leipzig,Augsburg,3,1,2019-12-21 14:30:00,Christopher Nkunku,Aerial,65
+338583,54,SavedShot,0.9640000152587891,0.5970000076293945,0.41179999709129333,Timo Werner,h,65,OpenPlay,2019,RightFoot,12548,RasenBallsport Leipzig,Augsburg,3,1,2019-12-21 14:30:00,Diego Demme,TakeOn,65
+338585,65,MissedShots,0.8819999694824219,0.7,0.04127649962902069,Timo Werner,h,65,OpenPlay,2019,RightFoot,12548,RasenBallsport Leipzig,Augsburg,3,1,2019-12-21 14:30:00,Lukas Klostermann,Pass,65
+354995,39,SavedShot,0.905,0.6359999847412109,0.08320250362157822,Timo Werner,h,65,OpenPlay,2019,Head,12556,RasenBallsport Leipzig,Union Berlin,3,1,2020-01-18 17:30:00,Nordi Mukiele,Chipped,65
+354999,50,Goal,0.82,0.48700000762939455,0.049753401428461075,Timo Werner,h,65,OpenPlay,2019,RightFoot,12556,RasenBallsport Leipzig,Union Berlin,3,1,2020-01-18 17:30:00,,None,65
+355001,55,SavedShot,0.8730000305175781,0.695,0.05411050096154213,Timo Werner,h,65,OpenPlay,2019,LeftFoot,12556,RasenBallsport Leipzig,Union Berlin,3,1,2020-01-18 17:30:00,Patrik Schick,HeadPass,65
+355011,82,Goal,0.92,0.645,0.06450419872999191,Timo Werner,h,65,OpenPlay,2019,RightFoot,12556,RasenBallsport Leipzig,Union Berlin,3,1,2020-01-18 17:30:00,Marcel Sabitzer,Cross,65
+355010,82,BlockedShot,0.879000015258789,0.7269999694824218,0.04801889881491661,Timo Werner,h,65,OpenPlay,2019,RightFoot,12556,RasenBallsport Leipzig,Union Berlin,3,1,2020-01-18 17:30:00,Amadou Haidara,Chipped,65
+355712,7,SavedShot,0.919000015258789,0.6759999847412109,0.06542939692735672,Timo Werner,a,65,OpenPlay,2019,RightFoot,12570,Eintracht Frankfurt,RasenBallsport Leipzig,2,0,2020-01-25 14:30:00,Christopher Nkunku,Pass,65
+355720,31,BlockedShot,0.855999984741211,0.415,0.06767450273036957,Timo Werner,a,65,OpenPlay,2019,RightFoot,12570,Eintracht Frankfurt,RasenBallsport Leipzig,2,0,2020-01-25 14:30:00,Patrik Schick,Chipped,65
+355735,75,MissedShots,0.9130000305175782,0.52,0.4822219908237457,Timo Werner,a,65,OpenPlay,2019,RightFoot,12570,Eintracht Frankfurt,RasenBallsport Leipzig,2,0,2020-01-25 14:30:00,Ademola Lookman,Rebound,65
+356822,55,MissedShots,0.8930000305175781,0.725999984741211,0.036537300795316696,Timo Werner,h,65,OpenPlay,2019,RightFoot,12575,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2020-02-01 17:30:00,Marcel Halstenberg,Pass,65
+356827,79,BlockedShot,0.8640000152587891,0.5720000076293945,0.05512339994311333,Timo Werner,h,65,OpenPlay,2019,RightFoot,12575,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2020-02-01 17:30:00,Dani Olmo,Cross,65
+356831,85,SavedShot,0.825,0.705999984741211,0.02755890041589737,Timo Werner,h,65,OpenPlay,2019,RightFoot,12575,RasenBallsport Leipzig,Borussia M.Gladbach,2,2,2020-02-01 17:30:00,Christopher Nkunku,Pass,65
+358558,23,MissedShots,0.875999984741211,0.7169999694824218,0.04035419970750809,Timo Werner,a,65,OpenPlay,2019,RightFoot,12583,Bayern Munich,RasenBallsport Leipzig,0,0,2020-02-09 17:00:00,Marcel Sabitzer,Pass,65
+358565,48,BlockedShot,0.8830000305175781,0.26600000381469724,0.48415398597717285,Timo Werner,a,65,OpenPlay,2019,RightFoot,12583,Bayern Munich,RasenBallsport Leipzig,0,0,2020-02-09 17:00:00,,TakeOn,65
+358567,60,MissedShots,0.9269999694824219,0.435,0.11809299886226654,Timo Werner,a,65,OpenPlay,2019,Head,12583,Bayern Munich,RasenBallsport Leipzig,0,0,2020-02-09 17:00:00,Christopher Nkunku,Cross,65
+358568,62,MissedShots,0.9069999694824219,0.4620000076293945,0.5694730281829834,Timo Werner,a,65,OpenPlay,2019,RightFoot,12583,Bayern Munich,RasenBallsport Leipzig,0,0,2020-02-09 17:00:00,Christopher Nkunku,Pass,65
+358572,85,BlockedShot,0.8859999847412109,0.700999984741211,0.05017630010843277,Timo Werner,a,65,OpenPlay,2019,RightFoot,12583,Bayern Munich,RasenBallsport Leipzig,0,0,2020-02-09 17:00:00,Ademola Lookman,Pass,65
+358837,6,MissedShots,0.86,0.435,0.09752070158720016,Timo Werner,h,65,OpenPlay,2019,RightFoot,12593,RasenBallsport Leipzig,Werder Bremen,3,0,2020-02-15 14:30:00,Nordi Mukiele,Pass,65
+358839,10,BlockedShot,0.8380000305175781,0.5629999923706055,0.087705597281456,Timo Werner,h,65,OpenPlay,2019,RightFoot,12593,RasenBallsport Leipzig,Werder Bremen,3,0,2020-02-15 14:30:00,Angelino,Pass,65
+359991,6,BlockedShot,0.845999984741211,0.6469999694824219,0.07014340162277222,Timo Werner,a,65,OpenPlay,2019,RightFoot,12609,Schalke 04,RasenBallsport Leipzig,0,5,2020-02-22 17:30:00,Patrik Schick,BallTouch,65
+359993,9,BlockedShot,0.875999984741211,0.34900001525878904,0.04748550057411194,Timo Werner,a,65,FromCorner,2019,RightFoot,12609,Schalke 04,RasenBallsport Leipzig,0,5,2020-02-22 17:30:00,,None,65
+359995,30,BlockedShot,0.8690000152587891,0.5770000076293945,0.11881899833679199,Timo Werner,a,65,OpenPlay,2019,RightFoot,12609,Schalke 04,RasenBallsport Leipzig,0,5,2020-02-22 17:30:00,Christopher Nkunku,TakeOn,65
+360006,60,Goal,0.8690000152587891,0.6020000076293945,0.10141599923372269,Timo Werner,a,65,OpenPlay,2019,RightFoot,12609,Schalke 04,RasenBallsport Leipzig,0,5,2020-02-22 17:30:00,Christopher Nkunku,Pass,65
+362939,13,SavedShot,0.8680000305175781,0.27899999618530275,0.0499688982963562,Timo Werner,h,65,OpenPlay,2019,RightFoot,12629,RasenBallsport Leipzig,Freiburg,1,1,2020-05-16 13:30:00,Péter Gulácsi,Pass,65
+362958,71,SavedShot,0.9069999694824219,0.34700000762939454,0.2489829957485199,Timo Werner,h,65,OpenPlay,2019,RightFoot,12629,RasenBallsport Leipzig,Freiburg,1,1,2020-05-16 13:30:00,Ademola Lookman,Pass,65
+363296,10,Goal,0.9219999694824219,0.3820000076293945,0.07639899849891663,Timo Werner,a,65,OpenPlay,2019,RightFoot,12642,Mainz 05,RasenBallsport Leipzig,0,5,2020-05-24 13:30:00,Konrad Laimer,Cross,65
+363298,23,SavedShot,0.895,0.5670000076293945,0.06913229823112488,Timo Werner,a,65,OpenPlay,2019,Head,12642,Mainz 05,RasenBallsport Leipzig,0,5,2020-05-24 13:30:00,Marcel Sabitzer,Cross,65
+363305,46,SavedShot,0.7780000305175782,0.6759999847412109,0.020392199978232384,Timo Werner,a,65,OpenPlay,2019,RightFoot,12642,Mainz 05,RasenBallsport Leipzig,0,5,2020-05-24 13:30:00,,None,65
+363306,47,Goal,0.925,0.52,0.5932210087776184,Timo Werner,a,65,OpenPlay,2019,LeftFoot,12642,Mainz 05,RasenBallsport Leipzig,0,5,2020-05-24 13:30:00,Kevin Kampl,Pass,65
+363312,67,MissedShots,0.8519999694824218,0.555,0.10369999706745148,Timo Werner,a,65,OpenPlay,2019,RightFoot,12642,Mainz 05,RasenBallsport Leipzig,0,5,2020-05-24 13:30:00,Dani Olmo,Pass,65
+363313,69,MissedShots,0.919000015258789,0.49700000762939456,0.5514709949493408,Timo Werner,a,65,OpenPlay,2019,RightFoot,12642,Mainz 05,RasenBallsport Leipzig,0,5,2020-05-24 13:30:00,Christopher Nkunku,Pass,65
+363314,73,MissedShots,0.7290000152587891,0.5109999847412109,0.018010500818490982,Timo Werner,a,65,OpenPlay,2019,RightFoot,12642,Mainz 05,RasenBallsport Leipzig,0,5,2020-05-24 13:30:00,Hannes Wolf,Pass,65
+363315,74,Goal,0.8209999847412109,0.5129999923706055,0.32261401414871216,Timo Werner,a,65,SetPiece,2019,LeftFoot,12642,Mainz 05,RasenBallsport Leipzig,0,5,2020-05-24 13:30:00,Yussuf Poulsen,Throughball,65
+363759,3,SavedShot,0.9219999694824219,0.43,0.13494600355625153,Timo Werner,a,65,OpenPlay,2019,RightFoot,12662,FC Cologne,RasenBallsport Leipzig,2,4,2020-06-01 18:30:00,Nordi Mukiele,Pass,65
+363772,49,Goal,0.870999984741211,0.620999984741211,0.25649699568748474,Timo Werner,a,65,OpenPlay,2019,RightFoot,12662,FC Cologne,RasenBallsport Leipzig,2,4,2020-06-01 18:30:00,Péter Gulácsi,Pass,65
+363778,65,SavedShot,0.885,0.2620000076293945,0.08834750205278397,Timo Werner,a,65,OpenPlay,2019,RightFoot,12662,FC Cologne,RasenBallsport Leipzig,2,4,2020-06-01 18:30:00,Marcel Sabitzer,Pass,65
+363781,77,MissedShots,0.879000015258789,0.605999984741211,0.2705639898777008,Timo Werner,a,65,OpenPlay,2019,LeftFoot,12662,FC Cologne,RasenBallsport Leipzig,2,4,2020-06-01 18:30:00,Dani Olmo,Pass,65
+363840,2,BlockedShot,0.874000015258789,0.385,0.08893139660358429,Timo Werner,h,65,OpenPlay,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Dani Olmo,Pass,65
+363845,16,BlockedShot,0.879000015258789,0.5879999923706055,0.0931594967842102,Timo Werner,h,65,OpenPlay,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Angelino,Pass,65
+363857,66,MissedShots,0.9080000305175782,0.28,0.4967840015888214,Timo Werner,h,65,OpenPlay,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,,TakeOn,65
+363863,88,ShotOnPost,0.9019999694824219,0.6959999847412109,0.06446319818496704,Timo Werner,h,65,OpenPlay,2019,LeftFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Angelino,Pass,65
+364103,43,MissedShots,0.845,0.5129999923706055,0.25989601016044617,Timo Werner,a,65,OpenPlay,2019,RightFoot,12675,Hoffenheim,RasenBallsport Leipzig,0,2,2020-06-12 18:30:00,Konrad Laimer,Pass,65
+364116,82,SavedShot,0.9830000305175781,0.6480000305175782,0.11687999963760376,Timo Werner,a,65,OpenPlay,2019,LeftFoot,12675,Hoffenheim,RasenBallsport Leipzig,0,2,2020-06-12 18:30:00,,TakeOn,65
+364120,85,SavedShot,0.9790000152587891,0.695,0.07078570127487183,Timo Werner,a,65,OpenPlay,2019,LeftFoot,12675,Hoffenheim,RasenBallsport Leipzig,0,2,2020-06-12 18:30:00,Ademola Lookman,Pass,65
+364786,44,SavedShot,0.87,0.54,0.03900429978966713,Timo Werner,h,65,SetPiece,2019,Head,12683,RasenBallsport Leipzig,Fortuna Duesseldorf,2,2,2020-06-17 18:30:00,Marcel Sabitzer,Cross,65
+364790,62,Goal,0.8640000152587891,0.6279999923706054,0.08953259885311127,Timo Werner,h,65,OpenPlay,2019,RightFoot,12683,RasenBallsport Leipzig,Fortuna Duesseldorf,2,2,2020-06-17 18:30:00,Marcel Halstenberg,Pass,65
+365258,39,SavedShot,0.9319999694824219,0.6680000305175782,0.09080570191144943,Timo Werner,h,65,OpenPlay,2019,LeftFoot,12692,RasenBallsport Leipzig,Borussia Dortmund,0,2,2020-06-20 13:30:00,Emil Forsberg,Pass,65
+366984,27,Goal,0.8780000305175781,0.36700000762939455,0.5714600086212158,Timo Werner,a,65,OpenPlay,2019,RightFoot,12707,Augsburg,RasenBallsport Leipzig,1,2,2020-06-27 13:30:00,Amadou Haidara,TakeOn,65
+366989,44,MissedShots,0.909000015258789,0.38299999237060545,0.0723394975066185,Timo Werner,a,65,FromCorner,2019,LeftFoot,12707,Augsburg,RasenBallsport Leipzig,1,2,2020-06-27 13:30:00,,None,65
+366990,47,MissedShots,0.8730000305175781,0.43,0.032452698796987534,Timo Werner,a,65,OpenPlay,2019,Head,12707,Augsburg,RasenBallsport Leipzig,1,2,2020-06-27 13:30:00,Nordi Mukiele,Cross,65
+366996,79,Goal,0.9280000305175782,0.3529999923706055,0.06323520094156265,Timo Werner,a,65,OpenPlay,2019,RightFoot,12707,Augsburg,RasenBallsport Leipzig,1,2,2020-06-27 13:30:00,Angelino,Chipped,65
+377143,18,MissedShots,0.8619999694824219,0.5609999847412109,0.019802799448370934,Timo Werner,a,65,OpenPlay,2020,Head,14095,Brighton,Chelsea,1,3,2020-09-14 19:15:00,Mason Mount,Cross,65
+377146,24,BlockedShot,0.889000015258789,0.33,0.15322600305080414,Timo Werner,a,65,OpenPlay,2020,RightFoot,14095,Brighton,Chelsea,1,3,2020-09-14 19:15:00,Kai Havertz,Throughball,65
+377151,46,SavedShot,0.9640000152587891,0.745,0.041579898446798325,Timo Werner,a,65,OpenPlay,2020,LeftFoot,14095,Brighton,Chelsea,1,3,2020-09-14 19:15:00,Mason Mount,Pass,65
+377159,63,BlockedShot,0.904000015258789,0.40099998474121096,0.08985389769077301,Timo Werner,a,65,OpenPlay,2020,RightFoot,14095,Brighton,Chelsea,1,3,2020-09-14 19:15:00,Reece James,Cross,65
+377161,76,BlockedShot,0.9319999694824219,0.32599998474121095,0.11523900181055069,Timo Werner,a,65,OpenPlay,2020,RightFoot,14095,Brighton,Chelsea,1,3,2020-09-14 19:15:00,Ross Barkley,Pass,65
+387026,31,MissedShots,0.7909999847412109,0.5479999923706055,0.03357170149683952,Timo Werner,h,65,OpenPlay,2020,LeftFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,,TakeOn,65
+379014,14,ShotOnPost,0.894000015258789,0.524000015258789,0.41690000891685486,Timo Werner,a,65,OpenPlay,2020,RightFoot,14108,West Bromwich Albion,Chelsea,3,3,2020-09-26 16:30:00,Mason Mount,Pass,65
+379016,22,SavedShot,0.914000015258789,0.43099998474121093,0.09405980259180069,Timo Werner,a,65,OpenPlay,2020,RightFoot,14108,West Bromwich Albion,Chelsea,3,3,2020-09-26 16:30:00,Reece James,Cross,65
+379037,88,SavedShot,0.750999984741211,0.664000015258789,0.018093399703502655,Timo Werner,a,65,OpenPlay,2020,RightFoot,14108,West Bromwich Albion,Chelsea,3,3,2020-09-26 16:30:00,Callum Hudson-Odoi,Pass,65
+379038,91,BlockedShot,0.874000015258789,0.62,0.05541979894042015,Timo Werner,a,65,FromCorner,2020,RightFoot,14108,West Bromwich Albion,Chelsea,3,3,2020-09-26 16:30:00,,None,65
+380390,18,SavedShot,0.8730000305175781,0.6329999923706054,0.1035899966955185,Timo Werner,h,65,OpenPlay,2020,RightFoot,14467,Chelsea,Crystal Palace,4,0,2020-10-03 11:30:00,Kai Havertz,Pass,65
+381889,7,MissedShots,0.9330000305175781,0.710999984741211,0.052113499492406845,Timo Werner,h,65,OpenPlay,2020,LeftFoot,14475,Chelsea,Southampton,3,3,2020-10-17 14:00:00,Mason Mount,Pass,65
+381891,14,Goal,0.870999984741211,0.48700000762939455,0.08709970116615295,Timo Werner,h,65,OpenPlay,2020,RightFoot,14475,Chelsea,Southampton,3,3,2020-10-17 14:00:00,Ben Chilwell,TakeOn,65
+381896,28,Goal,0.9530000305175781,0.49700000762939456,0.9108999967575073,Timo Werner,h,65,OpenPlay,2020,Head,14475,Chelsea,Southampton,3,3,2020-10-17 14:00:00,,TakeOn,65
+383530,52,BlockedShot,0.91,0.700999984741211,0.055568501353263855,Timo Werner,a,65,OpenPlay,2020,LeftFoot,14491,Manchester United,Chelsea,0,0,2020-10-24 16:30:00,Kai Havertz,Pass,65
+384612,44,SavedShot,0.8909999847412109,0.5790000152587891,0.10668600350618362,Timo Werner,a,65,OpenPlay,2020,LeftFoot,14496,Burnley,Chelsea,0,3,2020-10-31 15:00:00,,None,65
+384619,69,Goal,0.8819999694824219,0.5709999847412109,0.35313600301742554,Timo Werner,a,65,OpenPlay,2020,RightFoot,14496,Burnley,Chelsea,0,3,2020-10-31 15:00:00,Hakim Ziyech,Pass,65
+386151,30,ShotOnPost,0.9740000152587891,0.635,0.0633867010474205,Timo Werner,h,65,SetPiece,2020,LeftFoot,14507,Chelsea,Sheffield United,4,1,2020-11-07 17:30:00,,None,65
+386164,77,ShotOnPost,0.8230000305175781,0.5029999923706054,0.4341079890727997,Timo Werner,h,65,OpenPlay,2020,RightFoot,14507,Chelsea,Sheffield United,4,1,2020-11-07 17:30:00,Hakim Ziyech,Throughball,65
+386165,79,Goal,0.860999984741211,0.40099998474121096,0.2584500014781952,Timo Werner,h,65,OpenPlay,2020,RightFoot,14507,Chelsea,Sheffield United,4,1,2020-11-07 17:30:00,N&#039;Golo Kanté,Pass,65
+387138,3,SavedShot,0.875999984741211,0.6719999694824219,0.06280499696731567,Timo Werner,a,65,OpenPlay,2020,LeftFoot,14521,Newcastle United,Chelsea,0,2,2020-11-21 12:30:00,N&#039;Golo Kanté,Pass,65
+387145,29,MissedShots,0.87,0.5,0.39473700523376465,Timo Werner,a,65,OpenPlay,2020,RightFoot,14521,Newcastle United,Chelsea,0,2,2020-11-21 12:30:00,Tammy Abraham,BallTouch,65
+389557,68,BlockedShot,0.865,0.6370000076293946,0.07421629875898361,Timo Werner,h,65,OpenPlay,2020,RightFoot,14529,Chelsea,Tottenham,0,0,2020-11-29 16:30:00,Mason Mount,Pass,65
+390448,6,BlockedShot,0.764000015258789,0.36400001525878906,0.022560400888323784,Timo Werner,h,65,OpenPlay,2020,RightFoot,14538,Chelsea,Leeds,3,1,2020-12-05 20:00:00,Olivier Giroud,Pass,65
+390450,8,SavedShot,0.9830000305175781,0.4620000076293945,0.8919180035591125,Timo Werner,h,65,FromCorner,2020,RightFoot,14538,Chelsea,Leeds,3,1,2020-12-05 20:00:00,Olivier Giroud,Rebound,65
+390462,59,SavedShot,0.8980000305175782,0.41,0.11680299788713455,Timo Werner,h,65,OpenPlay,2020,RightFoot,14538,Chelsea,Leeds,3,1,2020-12-05 20:00:00,Olivier Giroud,Pass,65
+390463,59,SavedShot,0.9830000305175781,0.40200000762939453,0.0915507972240448,Timo Werner,h,65,OpenPlay,2020,RightFoot,14538,Chelsea,Leeds,3,1,2020-12-05 20:00:00,,Rebound,65
+390469,75,SavedShot,0.9180000305175782,0.415,0.38326698541641235,Timo Werner,h,65,OpenPlay,2020,RightFoot,14538,Chelsea,Leeds,3,1,2020-12-05 20:00:00,Mason Mount,Pass,65
+391799,36,MissedShots,0.8909999847412109,0.4929999923706055,0.10083500295877457,Timo Werner,a,65,OpenPlay,2020,RightFoot,14546,Everton,Chelsea,1,0,2020-12-12 20:00:00,Mateo Kovacic,Pass,65
+392591,14,MissedShots,0.8730000305175781,0.5359999847412109,0.0824401006102562,Timo Werner,a,65,OpenPlay,2020,RightFoot,14562,Wolverhampton Wanderers,Chelsea,2,1,2020-12-15 18:00:00,Christian Pulisic,Cross,65
+392597,31,BlockedShot,0.904000015258789,0.605999984741211,0.10374999791383743,Timo Werner,a,65,SetPiece,2020,RightFoot,14562,Wolverhampton Wanderers,Chelsea,2,1,2020-12-15 18:00:00,Olivier Giroud,Pass,65
+392611,97,BlockedShot,0.94,0.6580000305175782,0.04029880091547966,Timo Werner,a,65,FromCorner,2020,RightFoot,14562,Wolverhampton Wanderers,Chelsea,2,1,2020-12-15 18:00:00,Ben Chilwell,Cross,65
+394882,42,SavedShot,0.904000015258789,0.6,0.3769110143184662,Timo Werner,h,65,OpenPlay,2020,LeftFoot,14567,Chelsea,West Ham,3,0,2020-12-21 20:00:00,Christian Pulisic,Pass,65
+394888,71,SavedShot,0.865,0.624000015258789,0.09238799661397934,Timo Werner,h,65,OpenPlay,2020,RightFoot,14567,Chelsea,West Ham,3,0,2020-12-21 20:00:00,Christian Pulisic,Pass,65
+394889,77,BlockedShot,0.8469999694824218,0.6759999847412109,0.059505000710487366,Timo Werner,h,65,OpenPlay,2020,RightFoot,14567,Chelsea,West Ham,3,0,2020-12-21 20:00:00,Mason Mount,Pass,65
+394893,88,ShotOnPost,0.94,0.345,0.2232230007648468,Timo Werner,h,65,OpenPlay,2020,RightFoot,14567,Chelsea,West Ham,3,0,2020-12-21 20:00:00,N&#039;Golo Kanté,Pass,65
+395666,19,BlockedShot,0.9259999847412109,0.6780000305175782,0.10812100023031235,Timo Werner,a,65,OpenPlay,2020,LeftFoot,14575,Arsenal,Chelsea,3,1,2020-12-26 17:30:00,N&#039;Golo Kanté,BallRecovery,65
+395676,40,MissedShots,0.8119999694824219,0.51,0.045451000332832336,Timo Werner,a,65,OpenPlay,2020,RightFoot,14575,Arsenal,Chelsea,3,1,2020-12-26 17:30:00,,None,65
+395863,82,MissedShots,0.87,0.625999984741211,0.06120229884982109,Timo Werner,h,65,OpenPlay,2020,RightFoot,14586,Chelsea,Aston Villa,1,1,2020-12-28 17:30:00,,None,65
+396933,5,BlockedShot,0.9169999694824219,0.705,0.009088359773159027,Timo Werner,h,65,FromCorner,2020,Head,14603,Chelsea,Manchester City,1,3,2021-01-03 16:30:00,Mason Mount,Cross,65
+399127,93,MissedShots,0.8580000305175781,0.615,0.355089008808136,Timo Werner,a,65,OpenPlay,2020,RightFoot,14617,Fulham,Chelsea,0,1,2021-01-16 17:30:00,Christian Pulisic,Chipped,65
+401932,14,SavedShot,0.8069999694824219,0.6630000305175782,0.03014490008354187,Timo Werner,h,65,OpenPlay,2020,RightFoot,14637,Chelsea,Burnley,2,0,2021-01-31 12:00:00,Mason Mount,Pass,65
+401937,36,SavedShot,0.7759999847412109,0.6359999847412109,0.02491389960050583,Timo Werner,h,65,OpenPlay,2020,RightFoot,14637,Chelsea,Burnley,2,0,2021-01-31 12:00:00,Mateo Kovacic,Pass,65
+401939,51,SavedShot,0.9180000305175782,0.4759999847412109,0.13256199657917023,Timo Werner,h,65,OpenPlay,2020,Head,14637,Chelsea,Burnley,2,0,2021-01-31 12:00:00,Callum Hudson-Odoi,Cross,65
+402879,0,MissedShots,0.8590000152587891,0.4490000152587891,0.0246971994638443,Timo Werner,a,65,OpenPlay,2020,Head,14653,Tottenham,Chelsea,0,1,2021-02-04 20:00:00,César Azpilicueta,Chipped,65
+402890,58,BlockedShot,0.9109999847412109,0.590999984741211,0.40737301111221313,Timo Werner,a,65,OpenPlay,2020,RightFoot,14653,Tottenham,Chelsea,0,1,2021-02-04 20:00:00,Mason Mount,Pass,65
+402894,73,BlockedShot,0.850999984741211,0.7219999694824218,0.04441370069980621,Timo Werner,a,65,OpenPlay,2020,RightFoot,14653,Tottenham,Chelsea,0,1,2021-02-04 20:00:00,Antonio Rüdiger,Chipped,65
+402902,90,BlockedShot,0.8480000305175781,0.65,0.06388510018587112,Timo Werner,a,65,OpenPlay,2020,RightFoot,14653,Tottenham,Chelsea,0,1,2021-02-04 20:00:00,N&#039;Golo Kanté,Pass,65
+403926,5,BlockedShot,0.86,0.7090000152587891,0.282710999250412,Timo Werner,a,65,OpenPlay,2020,RightFoot,14662,Sheffield United,Chelsea,1,2,2021-02-07 19:15:00,Mateo Kovacic,Chipped,65
+405111,12,MissedShots,0.9330000305175781,0.5879999923706055,0.020011600106954575,Timo Werner,h,65,FromCorner,2020,Head,14667,Chelsea,Newcastle United,2,0,2021-02-15 20:00:00,Mason Mount,Aerial,65
+405114,25,MissedShots,0.9269999694824219,0.5540000152587891,0.4414210021495819,Timo Werner,h,65,OpenPlay,2020,RightFoot,14667,Chelsea,Newcastle United,2,0,2021-02-15 20:00:00,Marcos Alonso,HeadPass,65
+405117,33,MissedShots,0.8640000152587891,0.46900001525878904,0.3687039911746979,Timo Werner,h,65,OpenPlay,2020,RightFoot,14667,Chelsea,Newcastle United,2,0,2021-02-15 20:00:00,Mateo Kovacic,Throughball,65
+405118,38,Goal,0.9830000305175781,0.5470000076293945,0.687641978263855,Timo Werner,h,65,FromCorner,2020,RightFoot,14667,Chelsea,Newcastle United,2,0,2021-02-15 20:00:00,,None,65
+405414,50,MissedShots,0.9780000305175781,0.6680000305175782,0.059877198189496994,Timo Werner,a,65,OpenPlay,2020,LeftFoot,14682,Southampton,Chelsea,1,1,2021-02-20 12:30:00,Marcos Alonso,Pass,65
+407461,84,SavedShot,0.9009999847412109,0.754000015258789,0.03617040067911148,Timo Werner,h,65,OpenPlay,2020,LeftFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,N&#039;Golo Kanté,Pass,65
+408286,10,MissedShots,0.805,0.509000015258789,0.045120999217033386,Timo Werner,a,65,OpenPlay,2020,RightFoot,14719,Liverpool,Chelsea,0,1,2021-03-04 20:15:00,Ben Chilwell,Chipped,65
+408287,15,SavedShot,0.914000015258789,0.46,0.4613420069217682,Timo Werner,a,65,OpenPlay,2020,RightFoot,14719,Liverpool,Chelsea,0,1,2021-03-04 20:15:00,César Azpilicueta,Throughball,65
+408301,76,SavedShot,0.9540000152587891,0.6859999847412109,0.07375379651784897,Timo Werner,a,65,OpenPlay,2020,LeftFoot,14719,Liverpool,Chelsea,0,1,2021-03-04 20:15:00,Mason Mount,Pass,65
+409322,4,MissedShots,0.8219999694824218,0.48,0.04382209852337837,Timo Werner,h,65,FromCorner,2020,RightFoot,14698,Chelsea,Everton,2,0,2021-03-08 18:00:00,Reece James,Pass,65
+409342,79,SavedShot,0.915,0.37099998474121093,0.29352501034736633,Timo Werner,h,65,OpenPlay,2020,LeftFoot,14698,Chelsea,Everton,2,0,2021-03-08 18:00:00,César Azpilicueta,Chipped,65
+409344,84,SavedShot,0.89,0.62,0.342754989862442,Timo Werner,h,65,OpenPlay,2020,LeftFoot,14698,Chelsea,Everton,2,0,2021-03-08 18:00:00,Mason Mount,Pass,65
+409787,90,BlockedShot,0.8619999694824219,0.4540000152587891,0.09941499680280685,Timo Werner,a,65,OpenPlay,2020,RightFoot,14709,Leeds,Chelsea,0,0,2021-03-13 12:30:00,Reece James,Pass,65
+412213,78,BlockedShot,0.815,0.7019999694824218,0.021281300112605095,Timo Werner,h,65,OpenPlay,2020,RightFoot,14727,Chelsea,West Bromwich Albion,2,5,2021-04-03 11:30:00,Andreas Christensen,Chipped,65
+417424,3,MissedShots,0.8830000305175781,0.445,0.11578600108623505,Timo Werner,a,65,OpenPlay,2020,RightFoot,14763,West Ham,Chelsea,0,1,2021-04-24 16:30:00,Mason Mount,Pass,65
+417427,21,BlockedShot,0.7909999847412109,0.620999984741211,0.027782099321484566,Timo Werner,a,65,OpenPlay,2020,RightFoot,14763,West Ham,Chelsea,0,1,2021-04-24 16:30:00,Ben Chilwell,Pass,65
+417428,30,MissedShots,0.8680000305175781,0.505,0.11205100268125534,Timo Werner,a,65,OpenPlay,2020,RightFoot,14763,West Ham,Chelsea,0,1,2021-04-24 16:30:00,Mason Mount,Pass,65
+417432,42,Goal,0.9230000305175782,0.509000015258789,0.3997749984264374,Timo Werner,a,65,OpenPlay,2020,RightFoot,14763,West Ham,Chelsea,0,1,2021-04-24 16:30:00,Ben Chilwell,Cross,65
+417434,54,MissedShots,0.95,0.5479999923706055,0.5992699861526489,Timo Werner,a,65,OpenPlay,2020,LeftFoot,14763,West Ham,Chelsea,0,1,2021-04-24 16:30:00,,Rebound,65
+417442,66,SavedShot,0.8780000305175781,0.365,0.0789467990398407,Timo Werner,a,65,OpenPlay,2020,LeftFoot,14763,West Ham,Chelsea,0,1,2021-04-24 16:30:00,César Azpilicueta,Chipped,65
+418716,39,SavedShot,0.8980000305175782,0.6659999847412109,0.03688519820570946,Timo Werner,h,65,OpenPlay,2020,LeftFoot,14767,Chelsea,Fulham,2,0,2021-05-01 16:30:00,Hakim Ziyech,Aerial,65
+418725,94,SavedShot,0.9469999694824218,0.6140000152587891,0.10018300265073776,Timo Werner,h,65,SetPiece,2020,RightFoot,14767,Chelsea,Fulham,2,0,2021-05-01 16:30:00,Marcos Alonso,Rebound,65
+418723,94,BlockedShot,0.8440000152587891,0.5070000076293946,0.06390610337257385,Timo Werner,h,65,SetPiece,2020,RightFoot,14767,Chelsea,Fulham,2,0,2021-05-01 16:30:00,,Rebound,65
+420212,32,MissedShots,0.8630000305175781,0.6409999847412109,0.08610720187425613,Timo Werner,a,65,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Billy Gilmour,Pass,65
+423222,32,BlockedShot,0.9319999694824219,0.3220000076293945,0.11430999636650085,Timo Werner,h,65,OpenPlay,2020,RightFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,Jorginho,Throughball,65
+423225,38,BlockedShot,0.885,0.4329999923706055,0.1147570013999939,Timo Werner,h,65,OpenPlay,2020,RightFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,César Azpilicueta,Pass,65
+423228,63,SavedShot,0.884000015258789,0.6569999694824219,0.09717310220003128,Timo Werner,h,65,OpenPlay,2020,LeftFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,Mateo Kovacic,Pass,65
+423235,78,MissedShots,0.895,0.6519999694824219,0.056023500859737396,Timo Werner,h,65,SetPiece,2020,RightFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,,Rebound,65
+423942,10,MissedShots,0.9519999694824218,0.4420000076293945,0.1430560052394867,Timo Werner,a,65,OpenPlay,2020,Head,14806,Aston Villa,Chelsea,2,1,2021-05-23 15:00:00,César Azpilicueta,Cross,65
+423946,17,MissedShots,0.885,0.46900001525878904,0.099173903465271,Timo Werner,a,65,OpenPlay,2020,RightFoot,14806,Aston Villa,Chelsea,2,1,2021-05-23 15:00:00,Ben Chilwell,CornerAwarded,65
+423947,19,SavedShot,0.7580000305175781,0.3089999961853027,0.02312389947474003,Timo Werner,a,65,FromCorner,2020,LeftFoot,14806,Aston Villa,Chelsea,2,1,2021-05-23 15:00:00,Mason Mount,Pass,65
+425831,43,MissedShots,0.9309999847412109,0.605999984741211,0.1285720020532608,Timo Werner,h,65,OpenPlay,2021,RightFoot,16379,Chelsea,Crystal Palace,3,0,2021-08-14 14:00:00,Marcos Alonso,Cross,65
+431988,80,SavedShot,0.894000015258789,0.6220000076293946,0.4504309892654419,Timo Werner,a,65,OpenPlay,2021,RightFoot,16425,Tottenham,Chelsea,0,3,2021-09-19 15:30:00,N&#039;Golo Kanté,Throughball,65
+433166,17,BlockedShot,0.8430000305175781,0.6930000305175781,0.03390929847955704,Timo Werner,h,65,OpenPlay,2021,RightFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,Antonio Rüdiger,Pass,65
+433183,84,BlockedShot,0.879000015258789,0.33,0.047130901366472244,Timo Werner,h,65,OpenPlay,2021,LeftFoot,16426,Chelsea,Manchester City,0,1,2021-09-25 11:30:00,César Azpilicueta,Chipped,65
+434876,4,SavedShot,0.9359999847412109,0.34900001525878904,0.09005910158157349,Timo Werner,h,65,OpenPlay,2021,RightFoot,16438,Chelsea,Southampton,3,1,2021-10-02 14:00:00,César Azpilicueta,Pass,65
+434883,21,BlockedShot,0.865,0.33599998474121096,0.07014799863100052,Timo Werner,h,65,OpenPlay,2021,LeftFoot,16438,Chelsea,Southampton,3,1,2021-10-02 14:00:00,Ruben Loftus-Cheek,Pass,65
+434888,37,BlockedShot,0.9069999694824219,0.37,0.09295280277729034,Timo Werner,h,65,OpenPlay,2021,RightFoot,16438,Chelsea,Southampton,3,1,2021-10-02 14:00:00,,None,65
+434890,47,SavedShot,0.8119999694824219,0.4779999923706055,0.07442550361156464,Timo Werner,h,65,OpenPlay,2021,RightFoot,16438,Chelsea,Southampton,3,1,2021-10-02 14:00:00,Callum Hudson-Odoi,Pass,65
+434894,71,SavedShot,0.8919999694824219,0.5220000076293946,0.4227209985256195,Timo Werner,h,65,OpenPlay,2021,RightFoot,16438,Chelsea,Southampton,3,1,2021-10-02 14:00:00,Romelu Lukaku,Pass,65
+434897,83,Goal,0.95,0.48200000762939454,0.6390810012817383,Timo Werner,h,65,OpenPlay,2021,LeftFoot,16438,Chelsea,Southampton,3,1,2021-10-02 14:00:00,César Azpilicueta,Pass,65
+436423,36,MissedShots,0.82,0.48400001525878905,0.05144060030579567,Timo Werner,a,65,OpenPlay,2021,RightFoot,16448,Brentford,Chelsea,0,1,2021-10-16 16:30:00,Romelu Lukaku,Pass,65
+444819,8,BlockedShot,0.855,0.725,0.02328149974346161,Timo Werner,h,65,SetPiece,2021,RightFoot,16500,Chelsea,Manchester United,1,1,2021-11-28 16:30:00,,None,65
+444823,24,MissedShots,0.9230000305175782,0.504000015258789,0.13761800527572632,Timo Werner,h,65,OpenPlay,2021,Head,16500,Chelsea,Manchester United,1,1,2021-11-28 16:30:00,Callum Hudson-Odoi,Cross,65
+444825,31,BlockedShot,0.8240000152587891,0.7080000305175781,0.029404200613498688,Timo Werner,h,65,OpenPlay,2021,RightFoot,16500,Chelsea,Manchester United,1,1,2021-11-28 16:30:00,Callum Hudson-Odoi,Pass,65
+444828,48,BlockedShot,0.86,0.59,0.09057740122079849,Timo Werner,h,65,OpenPlay,2021,RightFoot,16500,Chelsea,Manchester United,1,1,2021-11-28 16:30:00,Hakim Ziyech,Pass,65
+444831,57,MissedShots,0.909000015258789,0.40400001525878904,0.03552350029349327,Timo Werner,h,65,FromCorner,2021,RightFoot,16500,Chelsea,Manchester United,1,1,2021-11-28 16:30:00,,Aerial,65
+444836,78,BlockedShot,0.8959999847412109,0.48200000762939454,0.09391769766807556,Timo Werner,h,65,OpenPlay,2021,LeftFoot,16500,Chelsea,Manchester United,1,1,2021-11-28 16:30:00,,None,65
+447717,51,SavedShot,0.925,0.6409999847412109,0.012754799798130989,Timo Werner,h,65,FromCorner,2021,Head,16530,Chelsea,Leeds,3,2,2021-12-11 15:00:00,Reece James,Aerial,65
+453055,71,BlockedShot,0.9169999694824219,0.445,0.12966200709342957,Timo Werner,a,65,OpenPlay,2021,RightFoot,16590,Manchester City,Chelsea,1,0,2022-01-15 12:30:00,César Azpilicueta,Pass,65
+454004,85,BlockedShot,0.88,0.325,0.055264800786972046,Timo Werner,a,65,OpenPlay,2021,LeftFoot,16607,Brighton,Chelsea,1,1,2022-01-18 09:45:00,Mateo Kovacic,Pass,65
+462211,33,MissedShots,0.9269999694824219,0.5879999923706055,0.05822969973087311,Timo Werner,a,65,OpenPlay,2021,Head,16672,Norwich,Chelsea,1,3,2022-03-10 19:30:00,César Azpilicueta,Chipped,65
+462220,73,BlockedShot,0.919000015258789,0.4370000076293945,0.14204099774360657,Timo Werner,a,65,OpenPlay,2021,RightFoot,16672,Norwich,Chelsea,1,3,2022-03-10 19:30:00,Kai Havertz,Pass,65
+462941,27,BlockedShot,0.9080000305175782,0.32,0.06527840346097946,Timo Werner,h,65,OpenPlay,2021,RightFoot,16659,Chelsea,Newcastle United,1,0,2022-03-13 14:00:00,Kai Havertz,Pass,65
+465250,52,BlockedShot,0.8590000152587891,0.3270000076293945,0.14592300355434418,Timo Werner,h,65,OpenPlay,2021,RightFoot,16683,Chelsea,Brentford,1,4,2022-04-02 14:00:00,Kai Havertz,Throughball,65
+466723,2,ShotOnPost,0.840999984741211,0.28899999618530275,0.08831939846277237,Timo Werner,a,65,OpenPlay,2021,RightFoot,16687,Southampton,Chelsea,0,6,2022-04-09 14:00:00,Marcos Alonso,Chipped,65
+466726,6,ShotOnPost,0.9469999694824218,0.49900001525878906,0.14994299411773682,Timo Werner,a,65,OpenPlay,2021,Head,16687,Southampton,Chelsea,0,6,2022-04-09 14:00:00,Ruben Loftus-Cheek,Cross,65
+466729,17,SavedShot,0.9569999694824218,0.6029999923706054,0.4927369952201843,Timo Werner,a,65,OpenPlay,2021,RightFoot,16687,Southampton,Chelsea,0,6,2022-04-09 14:00:00,Marcos Alonso,Pass,65
+466730,21,Goal,0.9519999694824218,0.66,0.38313400745391846,Timo Werner,a,65,OpenPlay,2021,LeftFoot,16687,Southampton,Chelsea,0,6,2022-04-09 14:00:00,,BallRecovery,65
+466731,30,ShotOnPost,0.914000015258789,0.475,0.4093160033226013,Timo Werner,a,65,OpenPlay,2021,RightFoot,16687,Southampton,Chelsea,0,6,2022-04-09 14:00:00,,TakeOn,65
+466733,32,SavedShot,0.74,0.45099998474121095,0.027705099433660507,Timo Werner,a,65,OpenPlay,2021,RightFoot,16687,Southampton,Chelsea,0,6,2022-04-09 14:00:00,Kai Havertz,LayOff,65
+466739,48,Goal,0.9280000305175782,0.580999984741211,0.48888999223709106,Timo Werner,a,65,OpenPlay,2021,RightFoot,16687,Southampton,Chelsea,0,6,2022-04-09 14:00:00,,Rebound,65
+466749,85,BlockedShot,0.9019999694824219,0.715,0.10497099906206131,Timo Werner,a,65,OpenPlay,2021,LeftFoot,16687,Southampton,Chelsea,0,6,2022-04-09 14:00:00,Hakim Ziyech,Pass,65
+469397,16,Goal,0.78,0.7030000305175781,0.01673159934580326,Timo Werner,h,65,OpenPlay,2021,RightFoot,16618,Chelsea,Arsenal,2,4,2022-04-20 18:45:00,,BallRecovery,65
+469408,45,MissedShots,0.9119999694824219,0.7380000305175781,0.04030520096421242,Timo Werner,h,65,OpenPlay,2021,LeftFoot,16618,Chelsea,Arsenal,2,4,2022-04-20 18:45:00,Mason Mount,Pass,65
+469414,66,MissedShots,0.8490000152587891,0.3240000152587891,0.04325089976191521,Timo Werner,h,65,OpenPlay,2021,LeftFoot,16618,Chelsea,Arsenal,2,4,2022-04-20 18:45:00,César Azpilicueta,Pass,65
+470544,51,BlockedShot,0.8980000305175782,0.4570000076293945,0.1064319983124733,Timo Werner,h,65,OpenPlay,2021,RightFoot,16711,Chelsea,West Ham,1,0,2022-04-24 13:00:00,Ruben Loftus-Cheek,BallTouch,65
+470545,52,BlockedShot,0.875999984741211,0.41200000762939454,0.10494499653577805,Timo Werner,h,65,OpenPlay,2021,RightFoot,16711,Chelsea,West Ham,1,0,2022-04-24 13:00:00,Trevoh Chalobah,Pass,65
+470546,53,BlockedShot,0.8390000152587891,0.749000015258789,0.026012100279331207,Timo Werner,h,65,OpenPlay,2021,RightFoot,16711,Chelsea,West Ham,1,0,2022-04-24 13:00:00,Mason Mount,Pass,65
+470555,69,MissedShots,0.97,0.40400001525878904,0.09032639861106873,Timo Werner,h,65,OpenPlay,2021,RightFoot,16711,Chelsea,West Ham,1,0,2022-04-24 13:00:00,,None,65
+470559,73,SavedShot,0.9109999847412109,0.5479999923706055,0.10384900122880936,Timo Werner,h,65,FromCorner,2021,RightFoot,16711,Chelsea,West Ham,1,0,2022-04-24 13:00:00,,None,65
+471113,5,SavedShot,0.919000015258789,0.33799999237060546,0.08382099866867065,Timo Werner,a,65,OpenPlay,2021,RightFoot,16742,Manchester United,Chelsea,1,1,2022-04-28 18:45:00,Reece James,Pass,65
+472074,64,SavedShot,0.89,0.5879999923706055,0.04042080044746399,Timo Werner,a,65,OpenPlay,2021,Head,16724,Everton,Chelsea,1,0,2022-05-01 13:00:00,Thiago Silva,Cross,65
+474766,8,SavedShot,0.9180000305175782,0.6609999847412109,0.08108890056610107,Timo Werner,h,65,OpenPlay,2021,LeftFoot,16731,Chelsea,Wolverhampton Wanderers,2,2,2022-05-07 14:00:00,Mateo Kovacic,Pass,65
+474782,45,SavedShot,0.8859999847412109,0.5529999923706055,0.09839659929275513,Timo Werner,h,65,OpenPlay,2021,RightFoot,16731,Chelsea,Wolverhampton Wanderers,2,2,2022-05-07 14:00:00,Christian Pulisic,Rebound,65
+474786,56,MissedShots,0.9690000152587891,0.700999984741211,0.06550490111112595,Timo Werner,h,65,OpenPlay,2021,RightFoot,16731,Chelsea,Wolverhampton Wanderers,2,2,2022-05-07 14:00:00,,BallRecovery,65
+480239,35,Goal,0.7430000305175781,0.629000015258789,0.021065499633550644,Timo Werner,h,65,OpenPlay,2022,RightFoot,19353,RasenBallsport Leipzig,FC Cologne,2,2,2022-08-13 13:30:00,Benjamin Henrichs,Pass,65
+482054,18,ShotOnPost,0.914000015258789,0.33599998474121096,0.323293000459671,Timo Werner,a,65,OpenPlay,2022,RightFoot,19366,Union Berlin,RasenBallsport Leipzig,2,1,2022-08-20 16:30:00,,None,65
+482068,67,BlockedShot,0.8680000305175781,0.6819999694824219,0.04831479862332344,Timo Werner,a,65,FromCorner,2022,RightFoot,19366,Union Berlin,RasenBallsport Leipzig,2,1,2022-08-20 16:30:00,,Rebound,65
+483577,75,BlockedShot,0.8580000305175781,0.3970000076293945,0.15292400121688843,Timo Werner,h,65,OpenPlay,2022,RightFoot,19370,RasenBallsport Leipzig,Wolfsburg,2,0,2022-08-27 13:30:00,Dani Olmo,Throughball,65
+483578,78,MissedShots,0.8969999694824219,0.48200000762939454,0.37415099143981934,Timo Werner,h,65,OpenPlay,2022,RightFoot,19370,RasenBallsport Leipzig,Wolfsburg,2,0,2022-08-27 13:30:00,Marcel Halstenberg,HeadPass,65
+487421,43,MissedShots,0.8719999694824219,0.33099998474121095,0.31624698638916016,Timo Werner,h,65,OpenPlay,2022,RightFoot,19389,RasenBallsport Leipzig,Borussia Dortmund,3,0,2022-09-10 13:30:00,Mohamed Simakan,Throughball,65
+487425,60,SavedShot,0.8830000305175781,0.40599998474121096,0.10038399696350098,Timo Werner,h,65,OpenPlay,2022,RightFoot,19389,RasenBallsport Leipzig,Borussia Dortmund,3,0,2022-09-10 13:30:00,Konrad Laimer,Pass,65
+487429,71,MissedShots,0.9430000305175781,0.7080000305175781,0.05427819862961769,Timo Werner,h,65,OpenPlay,2022,LeftFoot,19389,RasenBallsport Leipzig,Borussia Dortmund,3,0,2022-09-10 13:30:00,,None,65
+488895,53,BlockedShot,0.8519999694824218,0.524000015258789,0.09454809874296188,Timo Werner,a,65,OpenPlay,2022,RightFoot,19401,Borussia M.Gladbach,RasenBallsport Leipzig,3,0,2022-09-17 16:30:00,Dominik Szoboszlai,Pass,65
+488897,56,MissedShots,0.9459999847412109,0.3240000152587891,0.047539401799440384,Timo Werner,a,65,OpenPlay,2022,RightFoot,19401,Borussia M.Gladbach,RasenBallsport Leipzig,3,0,2022-09-17 16:30:00,,None,65
+488902,76,BlockedShot,0.8819999694824219,0.36400001525878906,0.07087189704179764,Timo Werner,a,65,OpenPlay,2022,RightFoot,19401,Borussia M.Gladbach,RasenBallsport Leipzig,3,0,2022-09-17 16:30:00,Yussuf Poulsen,Pass,65
+490047,5,ShotOnPost,0.85,0.649000015258789,0.21848300099372864,Timo Werner,h,65,OpenPlay,2022,RightFoot,19406,RasenBallsport Leipzig,Bochum,4,0,2022-10-01 13:30:00,André Silva,Pass,65
+490050,14,Goal,0.8880000305175781,0.5690000152587891,0.38923099637031555,Timo Werner,h,65,OpenPlay,2022,RightFoot,19406,RasenBallsport Leipzig,Bochum,4,0,2022-10-01 13:30:00,,BallTouch,65
+490053,43,BlockedShot,0.7319999694824219,0.4229999923706055,0.02673809975385666,Timo Werner,h,65,FromCorner,2022,RightFoot,19406,RasenBallsport Leipzig,Bochum,4,0,2022-10-01 13:30:00,Dominik Szoboszlai,Pass,65
+490054,45,MissedShots,0.9830000305175781,0.3220000076293945,0.07242490351200104,Timo Werner,h,65,OpenPlay,2022,RightFoot,19406,RasenBallsport Leipzig,Bochum,4,0,2022-10-01 13:30:00,André Silva,Pass,65
+490055,49,SavedShot,0.845,0.5109999847412109,0.11813300102949142,Timo Werner,h,65,OpenPlay,2022,RightFoot,19406,RasenBallsport Leipzig,Bochum,4,0,2022-10-01 13:30:00,Christopher Nkunku,Pass,65
+490058,52,Goal,0.9569999694824218,0.524000015258789,0.6909540295600891,Timo Werner,h,65,OpenPlay,2022,LeftFoot,19406,RasenBallsport Leipzig,Bochum,4,0,2022-10-01 13:30:00,,Rebound,65
+490061,67,SavedShot,0.7780000305175782,0.62,0.033571500331163406,Timo Werner,h,65,OpenPlay,2022,RightFoot,19406,RasenBallsport Leipzig,Bochum,4,0,2022-10-01 13:30:00,Christopher Nkunku,BallTouch,65
+490063,70,SavedShot,0.93,0.5690000152587891,0.562949001789093,Timo Werner,h,65,OpenPlay,2022,RightFoot,19406,RasenBallsport Leipzig,Bochum,4,0,2022-10-01 13:30:00,,None,65
+491516,15,MissedShots,0.92,0.5979999923706054,0.06473550200462341,Timo Werner,a,65,OpenPlay,2022,Head,19416,Mainz 05,RasenBallsport Leipzig,1,1,2022-10-08 13:30:00,Marcel Halstenberg,Cross,65
+491529,61,SavedShot,0.8640000152587891,0.47400001525878904,0.3904240131378174,Timo Werner,a,65,OpenPlay,2022,LeftFoot,19416,Mainz 05,RasenBallsport Leipzig,1,1,2022-10-08 13:30:00,Christopher Nkunku,Pass,65
+491533,82,MissedShots,0.8719999694824219,0.600999984741211,0.04281340166926384,Timo Werner,a,65,OpenPlay,2022,RightFoot,19416,Mainz 05,RasenBallsport Leipzig,1,1,2022-10-08 13:30:00,Benjamin Henrichs,Cross,65
+491534,86,MissedShots,0.7959999847412109,0.4979999923706055,0.045166101306676865,Timo Werner,a,65,OpenPlay,2022,RightFoot,19416,Mainz 05,RasenBallsport Leipzig,1,1,2022-10-08 13:30:00,André Silva,Pass,65
+496331,45,SavedShot,0.9730000305175781,0.649000015258789,0.07003770023584366,Timo Werner,h,65,OpenPlay,2022,LeftFoot,19442,RasenBallsport Leipzig,Bayer Leverkusen,2,0,2022-10-29 13:30:00,Abdou Diallo,Chipped,65
+496336,62,SavedShot,0.8680000305175781,0.4,0.0960794985294342,Timo Werner,h,65,OpenPlay,2022,RightFoot,19442,RasenBallsport Leipzig,Bayer Leverkusen,2,0,2022-10-29 13:30:00,Dominik Szoboszlai,Pass,65
+496338,79,MissedShots,0.8690000152587891,0.575,0.11208099871873856,Timo Werner,h,65,OpenPlay,2022,LeftFoot,19442,RasenBallsport Leipzig,Bayer Leverkusen,2,0,2022-10-29 13:30:00,Amadou Haidara,Pass,65
+496339,82,Goal,0.8680000305175781,0.585,0.3538050055503845,Timo Werner,h,65,OpenPlay,2022,RightFoot,19442,RasenBallsport Leipzig,Bayer Leverkusen,2,0,2022-10-29 13:30:00,Amadou Haidara,Throughball,65
+504383,83,MissedShots,0.925,0.6659999847412109,0.07963529974222183,Timo Werner,h,65,OpenPlay,2022,LeftFoot,19478,RasenBallsport Leipzig,Bayern Munich,1,1,2023-01-20 19:30:00,André Silva,Pass,65
+505314,46,Goal,0.9640000152587891,0.4490000152587891,0.6440100073814392,Timo Werner,a,65,OpenPlay,2022,RightFoot,19493,Schalke 04,RasenBallsport Leipzig,1,6,2023-01-24 17:30:00,Dani Olmo,Pass,65
+505315,49,MissedShots,0.9680000305175781,0.49400001525878906,0.5569980144500732,Timo Werner,a,65,FromCorner,2022,Head,19493,Schalke 04,RasenBallsport Leipzig,1,6,2023-01-24 17:30:00,André Silva,HeadPass,65
+507023,2,MissedShots,0.8069999694824219,0.5059999847412109,0.32832300662994385,Timo Werner,a,65,OpenPlay,2022,RightFoot,19506,FC Cologne,RasenBallsport Leipzig,0,0,2023-02-04 14:30:00,André Silva,Throughball,65
+507028,31,SavedShot,0.885,0.6359999847412109,0.07035259902477264,Timo Werner,a,65,OpenPlay,2022,RightFoot,19506,FC Cologne,RasenBallsport Leipzig,0,0,2023-02-04 14:30:00,Josko Gvardiol,Pass,65
+510760,5,Goal,0.8530000305175781,0.4779999923706055,0.3207769989967346,Timo Werner,h,65,OpenPlay,2022,LeftFoot,19532,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2023-02-25 14:30:00,Emil Forsberg,Pass,65
+510761,22,BlockedShot,0.84,0.44299999237060544,0.08128570020198822,Timo Werner,h,65,OpenPlay,2022,RightFoot,19532,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2023-02-25 14:30:00,Dominik Szoboszlai,Pass,65
+511789,93,BlockedShot,0.94,0.34900001525878904,0.04841180145740509,Timo Werner,a,65,OpenPlay,2022,RightFoot,19540,Borussia Dortmund,RasenBallsport Leipzig,2,1,2023-03-03 19:30:00,Josko Gvardiol,Cross,65
+513411,10,SavedShot,0.9009999847412109,0.600999984741211,0.07604029774665833,Timo Werner,h,65,FromCorner,2022,RightFoot,19550,RasenBallsport Leipzig,Borussia M.Gladbach,3,0,2023-03-11 14:30:00,,None,65
+513414,28,BlockedShot,0.905,0.6669999694824219,0.03720869868993759,Timo Werner,h,65,FromCorner,2022,RightFoot,19550,RasenBallsport Leipzig,Borussia M.Gladbach,3,0,2023-03-11 14:30:00,Dominik Szoboszlai,Cross,65
+513415,31,SavedShot,0.9769999694824218,0.669000015258789,0.0573032982647419,Timo Werner,h,65,OpenPlay,2022,LeftFoot,19550,RasenBallsport Leipzig,Borussia M.Gladbach,3,0,2023-03-11 14:30:00,Konrad Laimer,Pass,65
+513423,56,Goal,0.8719999694824219,0.3060000038146973,0.051316998898983,Timo Werner,h,65,OpenPlay,2022,RightFoot,19550,RasenBallsport Leipzig,Borussia M.Gladbach,3,0,2023-03-11 14:30:00,,BallRecovery,65
+514885,21,MissedShots,0.87,0.519000015258789,0.0728750005364418,Timo Werner,a,65,OpenPlay,2022,RightFoot,19564,Bochum,RasenBallsport Leipzig,1,0,2023-03-18 14:30:00,Dominik Szoboszlai,Cross,65
+514899,66,SavedShot,0.6680000305175782,0.5059999847412109,0.007642489857971668,Timo Werner,a,65,OpenPlay,2022,RightFoot,19564,Bochum,RasenBallsport Leipzig,1,0,2023-03-18 14:30:00,Josko Gvardiol,TakeOn,65
+516155,28,BlockedShot,0.7769999694824219,0.545,0.02961369976401329,Timo Werner,h,65,OpenPlay,2022,RightFoot,19575,RasenBallsport Leipzig,Mainz 05,0,3,2023-04-01 13:30:00,,None,65
+516157,31,MissedShots,0.8040000152587891,0.62,0.03663229942321777,Timo Werner,h,65,OpenPlay,2022,RightFoot,19575,RasenBallsport Leipzig,Mainz 05,0,3,2023-04-01 13:30:00,Marcel Halstenberg,Pass,65
+516158,40,SavedShot,0.8830000305175781,0.665,0.24083000421524048,Timo Werner,h,65,OpenPlay,2022,RightFoot,19575,RasenBallsport Leipzig,Mainz 05,0,3,2023-04-01 13:30:00,Dominik Szoboszlai,Chipped,65
+516160,43,BlockedShot,0.855,0.6630000305175782,0.02703629992902279,Timo Werner,h,65,OpenPlay,2022,RightFoot,19575,RasenBallsport Leipzig,Mainz 05,0,3,2023-04-01 13:30:00,Benjamin Henrichs,Cross,65
+518298,3,MissedShots,0.8830000305175781,0.27,0.11019700020551682,Timo Werner,a,65,OpenPlay,2022,RightFoot,19584,Hertha Berlin,RasenBallsport Leipzig,0,1,2023-04-08 16:30:00,Emil Forsberg,Throughball,65
+518303,15,BlockedShot,0.8869999694824219,0.6780000305175782,0.054035499691963196,Timo Werner,a,65,OpenPlay,2022,RightFoot,19584,Hertha Berlin,RasenBallsport Leipzig,0,1,2023-04-08 16:30:00,Kevin Kampl,Pass,65
+519268,31,Goal,0.895,0.5279999923706055,0.09587539732456207,Timo Werner,h,65,OpenPlay,2022,RightFoot,19586,RasenBallsport Leipzig,Augsburg,3,2,2023-04-15 13:30:00,Benjamin Henrichs,Cross,65
+519270,34,Goal,0.8059999847412109,0.5159999847412109,0.06980270147323608,Timo Werner,h,65,OpenPlay,2022,RightFoot,19586,RasenBallsport Leipzig,Augsburg,3,2,2023-04-15 13:30:00,Kevin Kampl,Chipped,65
+521627,5,SavedShot,0.9590000152587891,0.3120000076293945,0.05456751585006714,Timo Werner,a,65,OpenPlay,2022,RightFoot,19595,Bayer Leverkusen,RasenBallsport Leipzig,2,0,2023-04-23 15:30:00,,None,65
+521640,61,MissedShots,0.8730000305175781,0.6370000076293946,0.037750791758298874,Timo Werner,a,65,FromCorner,2022,RightFoot,19595,Bayer Leverkusen,RasenBallsport Leipzig,2,0,2023-04-23 15:30:00,Dominik Szoboszlai,Cross,65
+521642,65,SavedShot,0.9159999847412109,0.40299999237060546,0.34508180618286133,Timo Werner,a,65,OpenPlay,2022,RightFoot,19595,Bayer Leverkusen,RasenBallsport Leipzig,2,0,2023-04-23 15:30:00,Mohamed Simakan,Pass,65
+522592,13,MissedShots,0.8859999847412109,0.635,0.34079495072364807,Timo Werner,h,65,OpenPlay,2022,RightFoot,19604,RasenBallsport Leipzig,Hoffenheim,1,0,2023-04-29 13:30:00,,BallRecovery,65
+522599,36,MissedShots,0.8869999694824219,0.669000015258789,0.03566296398639679,Timo Werner,h,65,FromCorner,2022,RightFoot,19604,RasenBallsport Leipzig,Hoffenheim,1,0,2023-04-29 13:30:00,Emil Forsberg,Cross,65
+522601,42,BlockedShot,0.915,0.26899999618530274,0.06830867379903793,Timo Werner,h,65,OpenPlay,2022,RightFoot,19604,RasenBallsport Leipzig,Hoffenheim,1,0,2023-04-29 13:30:00,Kevin Kampl,Pass,65
+524606,4,ShotOnPost,0.8680000305175781,0.46700000762939453,0.36899933218955994,Timo Werner,a,65,OpenPlay,2022,RightFoot,19614,Freiburg,RasenBallsport Leipzig,0,1,2023-05-06 13:30:00,Amadou Haidara,Throughball,65
+524609,9,BlockedShot,0.8919999694824219,0.615,0.11987842619419098,Timo Werner,a,65,OpenPlay,2022,RightFoot,19614,Freiburg,RasenBallsport Leipzig,0,1,2023-05-06 13:30:00,Benjamin Henrichs,TakeOn,65
+526703,19,MissedShots,0.9119999694824219,0.6129999923706054,0.08068694174289703,Timo Werner,h,65,OpenPlay,2022,RightFoot,19623,RasenBallsport Leipzig,Werder Bremen,2,1,2023-05-14 15:30:00,Konrad Laimer,Chipped,65
+526712,60,MissedShots,0.8380000305175781,0.32,0.04037553444504738,Timo Werner,h,65,OpenPlay,2022,LeftFoot,19623,RasenBallsport Leipzig,Werder Bremen,2,1,2023-05-14 15:30:00,Konrad Laimer,Pass,65
+526723,93,MissedShots,0.9230000305175782,0.32799999237060545,0.05370951443910599,Timo Werner,h,65,SetPiece,2022,RightFoot,19623,RasenBallsport Leipzig,Werder Bremen,2,1,2023-05-14 15:30:00,Yussuf Poulsen,Rebound,65
+528928,53,SavedShot,0.9059999847412109,0.6930000305175781,0.18988880515098572,Timo Werner,h,65,OpenPlay,2022,LeftFoot,19640,RasenBallsport Leipzig,Schalke 04,4,2,2023-05-27 13:30:00,Dani Olmo,Pass,65
+533114,7,MissedShots,0.889000015258789,0.7319999694824219,0.03591606765985489,Timo Werner,a,65,OpenPlay,2023,LeftFoot,23066,Bayer Leverkusen,RasenBallsport Leipzig,3,2,2023-08-19 13:30:00,Dani Olmo,Pass,65
+539050,74,Goal,0.9819999694824219,0.36200000762939455,0.5542333722114563,Timo Werner,a,65,OpenPlay,2023,RightFoot,23103,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2023-09-23 13:30:00,,TakeOn,65
+539052,79,SavedShot,0.7759999847412109,0.664000015258789,0.12361311912536621,Timo Werner,a,65,OpenPlay,2023,LeftFoot,23103,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2023-09-23 13:30:00,Christoph Baumgartner,Throughball,65
+539056,92,BlockedShot,0.8619999694824219,0.7130000305175781,0.04364262521266937,Timo Werner,a,65,OpenPlay,2023,LeftFoot,23103,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2023-09-23 13:30:00,Kevin Kampl,Pass,65
+543873,88,SavedShot,0.9059999847412109,0.395,0.5025095343589783,Timo Werner,a,65,OpenPlay,2023,RightFoot,23133,Darmstadt,RasenBallsport Leipzig,1,3,2023-10-21 13:30:00,Dani Olmo,Chipped,65
+545606,14,Goal,0.885,0.5,0.75777667760849,Timo Werner,h,65,Penalty,2023,RightFoot,23138,RasenBallsport Leipzig,FC Cologne,6,0,2023-10-28 16:30:00,,Standard,65
+545617,46,SavedShot,0.855999984741211,0.4620000076293945,0.4322724938392639,Timo Werner,h,65,OpenPlay,2023,RightFoot,23138,RasenBallsport Leipzig,FC Cologne,6,0,2023-10-28 16:30:00,,None,65
+545619,50,SavedShot,0.845,0.4859999847412109,0.11185971647500992,Timo Werner,h,65,OpenPlay,2023,RightFoot,23138,RasenBallsport Leipzig,FC Cologne,6,0,2023-10-28 16:30:00,Benjamin Henrichs,Chipped,65
+546765,88,BlockedShot,0.8540000152587891,0.6519999694824219,0.057327788323163986,Timo Werner,a,65,OpenPlay,2023,RightFoot,23150,Mainz 05,RasenBallsport Leipzig,2,0,2023-11-04 14:30:00,Benjamin Henrichs,Pass,65
+558650,10,BlockedShot,0.93,0.6070000076293945,0.055026691406965256,Timo Werner,a,65,OpenPlay,2023,Head,22099,Manchester United,Tottenham,2,2,2024-01-14 16:30:00,Brennan Johnson,Cross,65
+558653,21,MissedShots,0.759000015258789,0.66,0.0216998104006052,Timo Werner,a,65,OpenPlay,2023,RightFoot,22099,Manchester United,Tottenham,2,2,2024-01-14 16:30:00,Iyenoma Destiny Udogie,Pass,65
+558654,23,BlockedShot,0.8490000152587891,0.6809999847412109,0.04653220623731613,Timo Werner,a,65,OpenPlay,2023,RightFoot,22099,Manchester United,Tottenham,2,2,2024-01-14 16:30:00,Pedro Porro,Pass,65
+558658,44,MissedShots,0.875,0.654000015258789,0.05339513346552849,Timo Werner,a,65,OpenPlay,2023,LeftFoot,22099,Manchester United,Tottenham,2,2,2024-01-14 16:30:00,Oliver Skipp,Pass,65
+558665,57,MissedShots,0.895,0.5679999923706055,0.05422298610210419,Timo Werner,a,65,FromCorner,2023,RightFoot,22099,Manchester United,Tottenham,2,2,2024-01-14 16:30:00,Pedro Porro,Cross,65
+560716,20,MissedShots,0.9519999694824218,0.41,0.25278589129447937,Timo Werner,h,65,FromCorner,2023,Head,22109,Tottenham,Brentford,3,2,2024-01-31 19:30:00,,None,65
+560715,20,SavedShot,0.8180000305175781,0.64,0.02980048395693302,Timo Werner,h,65,OpenPlay,2023,RightFoot,22109,Tottenham,Brentford,3,2,2024-01-31 19:30:00,Rodrigo Bentancur,Pass,65
+560735,74,BlockedShot,0.8730000305175781,0.6940000152587891,0.08178450167179108,Timo Werner,h,65,OpenPlay,2023,RightFoot,22109,Tottenham,Brentford,3,2,2024-01-31 19:30:00,James Maddison,Pass,65
+562564,21,MissedShots,0.8069999694824219,0.7269999694824218,0.022017378360033035,Timo Werner,h,65,OpenPlay,2023,RightFoot,22132,Tottenham,Brighton,2,1,2024-02-10 15:00:00,,Rebound,65
+562573,52,BlockedShot,0.7880000305175782,0.5409999847412109,0.03540848568081856,Timo Werner,h,65,OpenPlay,2023,RightFoot,22132,Tottenham,Brighton,2,1,2024-02-10 15:00:00,Micky van de Ven,Pass,65
+563963,92,BlockedShot,0.9259999847412109,0.6609999847412109,0.057394031435251236,Timo Werner,h,65,OpenPlay,2023,RightFoot,22144,Tottenham,Wolverhampton Wanderers,1,2,2024-02-17 15:00:00,,Rebound,65
+563962,92,BlockedShot,0.955999984741211,0.6179999923706054,0.09097466617822647,Timo Werner,h,65,OpenPlay,2023,LeftFoot,22144,Tottenham,Wolverhampton Wanderers,1,2,2024-02-17 15:00:00,Rodrigo Bentancur,TakeOn,65
+566626,17,SavedShot,0.9030000305175782,0.40099998474121096,0.561333179473877,Timo Werner,h,65,OpenPlay,2023,RightFoot,22164,Tottenham,Crystal Palace,3,1,2024-03-02 15:00:00,Son Heung-Min,Throughball,65
+566628,48,BlockedShot,0.8569999694824219,0.6530000305175782,0.01978939212858677,Timo Werner,h,65,FromCorner,2023,RightFoot,22164,Tottenham,Crystal Palace,3,1,2024-03-02 15:00:00,,Aerial,65
+566633,61,SavedShot,0.874000015258789,0.6459999847412109,0.06665892899036407,Timo Werner,h,65,OpenPlay,2023,RightFoot,22164,Tottenham,Crystal Palace,3,1,2024-03-02 15:00:00,Son Heung-Min,Pass,65
+566638,76,Goal,0.9319999694824219,0.545,0.4859383702278137,Timo Werner,h,65,OpenPlay,2023,RightFoot,22164,Tottenham,Crystal Palace,3,1,2024-03-02 15:00:00,Brennan Johnson,Pass,65
+568459,93,Goal,0.889000015258789,0.600999984741211,0.4311489462852478,Timo Werner,a,65,OpenPlay,2023,RightFoot,22167,Aston Villa,Tottenham,0,4,2024-03-10 13:00:00,Son Heung-Min,Pass,65
+569584,68,SavedShot,0.9519999694824218,0.7090000152587891,0.05360541120171547,Timo Werner,a,65,OpenPlay,2023,LeftFoot,22180,Fulham,Tottenham,3,0,2024-03-16 17:30:00,Rodrigo Bentancur,Pass,65
+569583,68,MissedShots,0.9740000152587891,0.5429999923706055,0.7102182507514954,Timo Werner,a,65,OpenPlay,2023,LeftFoot,22180,Fulham,Tottenham,3,0,2024-03-16 17:30:00,Brennan Johnson,Pass,65
+569590,91,MissedShots,0.87,0.695,0.04204767197370529,Timo Werner,a,65,OpenPlay,2023,RightFoot,22180,Fulham,Tottenham,3,0,2024-03-16 17:30:00,Pierre-Emile Højbjerg,TakeOn,65
+570805,14,MissedShots,0.9080000305175782,0.5820000076293945,0.3222470283508301,Timo Werner,h,65,OpenPlay,2023,LeftFoot,22194,Tottenham,Luton,2,1,2024-03-30 15:00:00,Dejan Kulusevski,TakeOn,65
+570808,19,BlockedShot,0.8919999694824219,0.6170000076293946,0.06326454132795334,Timo Werner,h,65,OpenPlay,2023,RightFoot,22194,Tottenham,Luton,2,1,2024-03-30 15:00:00,,Rebound,65
+570827,92,MissedShots,0.9690000152587891,0.7230000305175781,0.05682207643985748,Timo Werner,h,65,OpenPlay,2023,LeftFoot,22194,Tottenham,Luton,2,1,2024-03-30 15:00:00,Pierre-Emile Højbjerg,Pass,65
+571860,71,BlockedShot,0.9069999694824219,0.685,0.0653042197227478,Timo Werner,a,65,OpenPlay,2023,RightFoot,22199,West Ham,Tottenham,1,1,2024-04-02 19:15:00,Son Heung-Min,Pass,65
+573145,5,BlockedShot,0.8590000152587891,0.7230000305175781,0.02287697233259678,Timo Werner,h,65,FromCorner,2023,RightFoot,22213,Tottenham,Nottingham Forest,3,1,2024-04-07 19:00:00,,None,65
+573406,6,MissedShots,0.914000015258789,0.5740000152587891,0.3165394365787506,Timo Werner,a,65,OpenPlay,2023,RightFoot,22222,Newcastle United,Tottenham,4,0,2024-04-13 11:30:00,Brennan Johnson,Cross,65
+573409,15,BlockedShot,0.924000015258789,0.7180000305175781,0.041825950145721436,Timo Werner,a,65,OpenPlay,2023,RightFoot,22222,Newcastle United,Tottenham,4,0,2024-04-13 11:30:00,Son Heung-Min,Chipped,65
+573411,16,MissedShots,0.9459999847412109,0.595999984741211,0.131307452917099,Timo Werner,a,65,OpenPlay,2023,LeftFoot,22222,Newcastle United,Tottenham,4,0,2024-04-13 11:30:00,James Maddison,Pass,65
+573420,49,SavedShot,0.7880000305175782,0.6919999694824219,0.02097717672586441,Timo Werner,a,65,OpenPlay,2023,RightFoot,22222,Newcastle United,Tottenham,4,0,2024-04-13 11:30:00,James Maddison,Pass,65
+594800,38,SavedShot,0.8219999694824218,0.645,0.2564120590686798,Timo Werner,a,65,OpenPlay,2024,RightFoot,26660,Manchester United,Tottenham,0,3,2024-09-29 15:30:00,Dejan Kulusevski,Pass,65
+594806,55,SavedShot,0.850999984741211,0.64,0.3708067238330841,Timo Werner,a,65,OpenPlay,2024,RightFoot,26660,Manchester United,Tottenham,0,3,2024-09-29 15:30:00,Dejan Kulusevski,Throughball,65
+596298,14,MissedShots,0.8680000305175781,0.47299999237060547,0.09004025906324387,Timo Werner,a,65,OpenPlay,2024,RightFoot,26671,Brighton,Tottenham,3,2,2024-10-06 15:30:00,,Foul,65
+596315,71,MissedShots,0.7630000305175781,0.6809999847412109,0.020490694791078568,Timo Werner,a,65,OpenPlay,2024,RightFoot,26671,Brighton,Tottenham,3,2,2024-10-06 15:30:00,Iyenoma Destiny Udogie,Pass,65
+596747,75,SavedShot,0.9490000152587891,0.6419999694824219,0.027641218155622482,Timo Werner,h,65,OpenPlay,2024,Head,26672,Tottenham,West Ham,4,1,2024-10-19 11:30:00,Pedro Porro,Cross,65
+602013,72,MissedShots,0.7169999694824218,0.5820000076293945,0.009988647885620594,Timo Werner,h,65,OpenPlay,2024,RightFoot,26709,Tottenham,Ipswich,1,2,2024-11-10 14:00:00,Pedro Porro,Chipped,65
+602016,83,MissedShots,0.8580000305175781,0.524000015258789,0.12984400987625122,Timo Werner,h,65,OpenPlay,2024,LeftFoot,26709,Tottenham,Ipswich,1,2,2024-11-10 14:00:00,Son Heung-Min,Pass,65
+605436,83,MissedShots,0.9230000305175782,0.72,0.04800494387745857,Timo Werner,a,65,OpenPlay,2024,LeftFoot,26732,Bournemouth,Tottenham,1,0,2024-12-05 20:15:00,Lucas Bergvall,Pass,65

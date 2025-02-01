@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+879,Jonathan Leko,5,272,0,0,1,0.564852885901928,0,2,0,0,M S,West Bromwich Albion,0,0,0.8997139781713486,0.33486099541187286,2015
+879,Jonathan Leko,9,99,0,0,1,0.14169739466160536,0,2,0,0,S,West Bromwich Albion,0,0,0.2491079941391945,0.11996199935674667,2016

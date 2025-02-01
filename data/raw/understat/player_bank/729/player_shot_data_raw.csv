@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+16128,12,BlockedShot,0.955,0.43099998474121093,0.058083999902009964,John O&#039;Shea,h,729,FromCorner,2014,Head,4711,Sunderland,Arsenal,0,2,2014-10-25 15:00:00,Wes Brown,LayOff,729
+18382,55,BlockedShot,0.8780000305175781,0.41900001525878905,0.081803098320961,John O&#039;Shea,h,729,SetPiece,2014,LeftFoot,4613,Sunderland,West Ham,1,1,2014-12-13 15:00:00,,Rebound,729
+17977,9,MissedShots,0.9390000152587891,0.485,0.12512899935245514,John O&#039;Shea,h,729,FromCorner,2014,Head,4632,Sunderland,Hull,1,3,2014-12-26 15:00:00,Sebastian Larsson,Cross,729
+19246,2,OwnGoal,0.15,0.4909999847412109,0,John O&#039;Shea,a,729,SetPiece,2014,OtherBodyPart,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,None,729
+23513,82,BlockedShot,0.914000015258789,0.455,0.10544600337743759,John O&#039;Shea,h,729,FromCorner,2014,RightFoot,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,Steven Fletcher,Pass,729
+24258,36,MissedShots,0.9369999694824219,0.4,0.08711650222539902,John O&#039;Shea,h,729,SetPiece,2014,RightFoot,4538,Sunderland,West Bromwich Albion,0,0,2015-02-21 15:00:00,Sebastian Larsson,Chipped,729
+24153,56,BlockedShot,0.935,0.485,0.06421390175819397,John O&#039;Shea,a,729,FromCorner,2014,Head,4483,Hull,Sunderland,1,1,2015-03-03 19:45:00,Liam Bridcutt,Aerial,729
+20237,51,BlockedShot,0.92,0.5920000076293945,0.05708650127053261,John O&#039;Shea,a,729,FromCorner,2014,Head,4472,Stoke,Sunderland,1,1,2015-04-25 15:00:00,Connor Wickham,Cross,729
+58403,10,SavedShot,0.905,0.6469999694824219,0.014162000268697739,John O&#039;Shea,a,729,SetPiece,2015,Head,146,Manchester United,Sunderland,3,0,2015-09-26 18:00:00,Younes Kaboul,Cross,729
+58838,26,SavedShot,0.9569999694824218,0.38799999237060545,0.03492489829659462,John O&#039;Shea,h,729,FromCorner,2015,Head,156,Sunderland,West Ham,2,2,2015-10-03 18:00:00,Yann M&#039;Vila,Cross,729
+56074,66,BlockedShot,0.8880000305175781,0.38799999237060545,0.01174909994006157,John O&#039;Shea,h,729,FromCorner,2015,Head,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Adam Johnson,Aerial,729
+52289,33,SavedShot,0.8930000305175781,0.49900001525878906,0.0411750003695488,John O&#039;Shea,h,729,OpenPlay,2015,Head,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Billy Jones,HeadPass,729
+53983,77,MissedShots,0.889000015258789,0.45599998474121095,0.0827329009771347,John O&#039;Shea,h,729,SetPiece,2015,LeftFoot,314,Sunderland,Manchester City,0,1,2016-02-02 23:45:00,Lamine Koné,HeadPass,729
+55962,49,BlockedShot,0.9259999847412109,0.375,0.029046500101685524,John O&#039;Shea,h,729,SetPiece,2015,Head,331,Sunderland,Manchester United,2,1,2016-02-13 16:45:00,Wahbi Khazri,Cross,729
+60432,78,MissedShots,0.9530000305175781,0.40799999237060547,0.06804630160331726,John O&#039;Shea,a,729,FromCorner,2015,Head,341,West Ham,Sunderland,1,0,2016-02-27 16:45:00,Wahbi Khazri,Cross,729
+121401,8,SavedShot,0.925,0.5629999923706055,0.072148397564888,John O&#039;Shea,h,729,SetPiece,2016,Head,3464,Sunderland,West Ham,2,2,2017-04-15 15:00:00,Wahbi Khazri,Chipped,729
+121428,42,MissedShots,0.950999984741211,0.37099998474121093,0.020779099315404892,John O&#039;Shea,a,729,FromCorner,2016,Head,3494,Hull,Sunderland,0,2,2017-05-06 15:00:00,Fabio Borini,Cross,729
+112424,43,SavedShot,0.905,0.580999984741211,0.07963220030069351,John O&#039;Shea,a,729,SetPiece,2016,RightFoot,3512,Chelsea,Sunderland,5,1,2017-05-21 15:00:00,,None,729

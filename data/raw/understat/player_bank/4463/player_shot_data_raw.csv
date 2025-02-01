@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+22623,81,OwnGoal,0.045999999046325686,0.6930000305175781,0,Tyler Blackett,h,4463,OpenPlay,2014,LeftFoot,4427,Manchester United,Arsenal,1,1,2015-05-17 16:00:00,,Foul,4463

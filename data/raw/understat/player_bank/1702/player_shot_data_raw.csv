@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+113925,32,MissedShots,0.875,0.49400001525878906,0.018253600224852562,Mike van der Hoorn,h,1702,SetPiece,2016,Head,515,Swansea,Manchester City,1,3,2016-09-24 15:00:00,Gylfi Sigurdsson,Aerial,1702
+114502,92,MissedShots,0.919000015258789,0.5029999923706054,0.42870399355888367,Mike van der Hoorn,h,1702,OpenPlay,2016,RightFoot,522,Swansea,Liverpool,1,2,2016-10-01 15:30:00,Angel Rangel,Cross,1702
+114562,63,SavedShot,0.94,0.5279999923706055,0.5333330035209656,Mike van der Hoorn,h,1702,SetPiece,2016,RightFoot,543,Swansea,Watford,0,0,2016-10-22 18:00:00,Gylfi Sigurdsson,Cross,1702
+115324,68,Goal,0.924000015258789,0.5420000076293945,0.337024986743927,Mike van der Hoorn,h,1702,SetPiece,2016,Head,2695,Swansea,Manchester United,1,3,2016-11-06 19:00:00,Gylfi Sigurdsson,Cross,1702
+159335,64,SavedShot,0.9630000305175781,0.625,0.018821200355887413,Mike van der Hoorn,a,1702,SetPiece,2017,Head,7141,Crystal Palace,Swansea,0,2,2017-08-26 15:00:00,,None,1702
+158890,42,MissedShots,0.93,0.5220000076293946,0.056818000972270966,Mike van der Hoorn,a,1702,FromCorner,2017,Head,7166,Tottenham,Swansea,0,0,2017-09-16 17:30:00,Tom Carroll,Aerial,1702
+160762,90,BlockedShot,0.9159999847412109,0.5220000076293946,0.0565032996237278,Mike van der Hoorn,a,1702,SetPiece,2017,Head,7263,Stoke,Swansea,2,1,2017-12-02 15:00:00,Tom Carroll,Aerial,1702
+185318,80,SavedShot,0.88,0.46599998474121096,0.053020499646663666,Mike van der Hoorn,h,1702,SetPiece,2017,Head,7281,Swansea,Manchester City,0,4,2017-12-13 19:45:00,Ki Sung-yueng,Cross,1702
+187428,35,BlockedShot,0.9330000305175781,0.4929999923706055,0.08574219793081284,Mike van der Hoorn,a,1702,FromCorner,2017,LeftFoot,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Kyle Bartley,Foul,1702
+197422,26,BlockedShot,0.6940000152587891,0.519000015258789,0.013635399751365185,Mike van der Hoorn,a,1702,OpenPlay,2017,RightFoot,7391,Brighton,Swansea,4,1,2018-02-24 15:00:00,Alfie Mawson,Pass,1702
+198878,31,Goal,0.9419999694824219,0.46900001525878904,0.40634000301361084,Mike van der Hoorn,h,1702,FromCorner,2017,Head,7406,Swansea,West Ham,4,1,2018-03-03 15:00:00,Ki Sung-yueng,Cross,1702
+213356,11,SavedShot,0.9,0.5659999847412109,0.11603499948978424,Mike van der Hoorn,a,1702,SetPiece,2017,RightFoot,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,Federico Fernández,Pass,1702
+215569,13,BlockedShot,0.905,0.46,0.12440399825572968,Mike van der Hoorn,h,1702,OpenPlay,2017,LeftFoot,7491,Swansea,Stoke,1,2,2018-05-13 15:00:00,,Rebound,1702
+215597,86,MissedShots,0.6609999847412109,0.46900001525878904,0.011556900106370449,Mike van der Hoorn,h,1702,OpenPlay,2017,RightFoot,7491,Swansea,Stoke,1,2,2018-05-13 15:00:00,,TakeOn,1702
+380547,75,MissedShots,0.899000015258789,0.4759999847412109,0.0409839004278183,Mike van der Hoorn,a,1702,SetPiece,2020,Head,15160,Werder Bremen,Arminia Bielefeld,1,0,2020-10-03 13:30:00,Sven Schipplock,Aerial,1702
+382053,47,MissedShots,0.9230000305175782,0.5029999923706054,0.05427069962024689,Mike van der Hoorn,h,1702,FromCorner,2020,Head,15172,Arminia Bielefeld,Bayern Munich,1,4,2020-10-17 16:30:00,Ritsu Doan,Aerial,1702
+391496,4,SavedShot,0.884000015258789,0.525,0.0639318972826004,Mike van der Hoorn,a,1702,SetPiece,2020,Head,15235,Freiburg,Arminia Bielefeld,2,0,2020-12-12 14:30:00,Cebio Soukou,Cross,1702
+393866,47,SavedShot,0.8690000152587891,0.49,0.04872589930891991,Mike van der Hoorn,a,1702,SetPiece,2020,Head,15254,Schalke 04,Arminia Bielefeld,0,1,2020-12-19 14:30:00,Ritsu Doan,Cross,1702
+412423,7,MissedShots,0.9209999847412109,0.43,0.1009339988231659,Mike van der Hoorn,a,1702,SetPiece,2020,Head,15380,Mainz 05,Arminia Bielefeld,1,1,2021-04-03 13:30:00,Ritsu Doan,Cross,1702

@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,2,Sub,Cardiff,Leicester,0,1,2018-11-03,9302,2018,276935,0,0,0,0,0,0.04312349855899811,0.04312349855899811,6829
+0,0,0,9,Sub,Cardiff,Burnley,1,2,2018-09-30,9265,2018,260385,0,0,0,0,0,0.02166840061545372,0.02166840061545372,6829
+0,0,0,10,Sub,Chelsea,Cardiff,4,1,2018-09-15,9241,2018,259821,0,0,0,0,0,0,0,6829
+0,0,0,1,Sub,Cardiff,Arsenal,2,3,2018-09-02,9235,2018,259557,0,0,0,0,0,0,0,6829
+0,0,0,1,Sub,Bournemouth,Cardiff,2,0,2018-08-11,9202,2018,258708,0,0,0,0,0,0,0,6829

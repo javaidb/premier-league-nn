@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14554,4,BlockedShot,0.875999984741211,0.4779999923706055,0.06457559764385223,James Chester,a,819,FromCorner,2014,LeftFoot,4751,Queens Park Rangers,Hull,0,1,2014-08-16 15:00:00,Nikica Jelavic,HeadPass,819
+14566,51,Goal,0.9359999847412109,0.54,0.11445900052785873,James Chester,a,819,FromCorner,2014,Head,4751,Queens Park Rangers,Hull,0,1,2014-08-16 15:00:00,Stephen Quinn,Cross,819
+17402,20,MissedShots,0.9159999847412109,0.43599998474121093,0.06514909863471985,James Chester,h,819,FromCorner,2014,Head,4655,Hull,Southampton,0,1,2014-11-01 15:00:00,Hatem Ben Arfa,Cross,819
+19615,52,MissedShots,0.925,0.42900001525878906,0.0443556010723114,James Chester,a,819,SetPiece,2014,Head,4596,Everton,Hull,1,1,2014-12-03 19:45:00,Tom Huddlestone,Aerial,819
+17988,50,Goal,0.9330000305175781,0.485,0.12065300345420837,James Chester,a,819,FromCorner,2014,Head,4632,Sunderland,Hull,1,3,2014-12-26 15:00:00,Gastón Ramírez,Cross,819
+20776,59,BlockedShot,0.9080000305175782,0.485,0.07677839696407318,James Chester,a,819,FromCorner,2014,Head,4453,Southampton,Hull,2,0,2015-04-11 15:00:00,Sone Aluko,Cross,819
+22174,11,MissedShots,0.9259999847412109,0.4909999847412109,0.11231599748134613,James Chester,a,819,FromCorner,2014,Head,4474,Crystal Palace,Hull,0,2,2015-04-25 15:00:00,Robbie Brady,Cross,819
+20693,22,SavedShot,0.9109999847412109,0.6120000076293945,0.013736500404775143,James Chester,h,819,SetPiece,2014,Head,4478,Hull,Liverpool,1,0,2015-04-28 19:45:00,Tom Huddlestone,Aerial,819
+21122,92,MissedShots,0.9459999847412109,0.5459999847412109,0.08160019665956497,James Chester,h,819,SetPiece,2014,Head,4410,Hull,Burnley,0,1,2015-05-09 15:00:00,Tom Huddlestone,Aerial,819

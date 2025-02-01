@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+18269,66,MissedShots,0.8209999847412109,0.4640000152587891,0.01947999931871891,Kolo Touré,a,476,FromCorner,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Steven Gerrard,HeadPass,476
+56091,51,BlockedShot,0.9219999694824219,0.20399999618530273,0.027343299239873886,Kolo Touré,h,476,OpenPlay,2015,RightFoot,298,Liverpool,Manchester United,0,1,2016-01-17 18:05:00,Roberto Firmino,Pass,476
+56090,51,BlockedShot,0.8180000305175781,0.34900001525878904,0.04378720000386238,Kolo Touré,h,476,OpenPlay,2015,RightFoot,298,Liverpool,Manchester United,0,1,2016-01-17 18:05:00,Lucas Leiva,TakeOn,476
+54484,70,Goal,0.8980000305175782,0.5159999847412109,0.059521500021219254,Kolo Touré,a,476,FromCorner,2015,Head,339,Aston Villa,Liverpool,0,6,2016-02-14 18:05:00,Jordan Henderson,Cross,476
+61089,60,SavedShot,0.9269999694824219,0.5279999923706055,0.111906997859478,Kolo Touré,h,476,FromCorner,2015,Head,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,Daniel Sturridge,Cross,476

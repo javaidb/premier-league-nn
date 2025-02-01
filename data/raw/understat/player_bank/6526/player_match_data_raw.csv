@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,5,Sub,West Ham,Southampton,3,0,2018-03-31,7434,2017,226846,0,0,0,0,0,0,0,6526
+0,0,0,1,Sub,West Ham,Watford,2,0,2018-02-10,7388,2017,215308,0,0,0,0,0,0,0,6526
+0,0,0,7,Sub,Brighton,West Ham,3,1,2018-02-03,7371,2017,214858,0,0,0,0,0,0,0,6526

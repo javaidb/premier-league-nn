@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+556563,40,MissedShots,0.9119999694824219,0.5029999923706054,0.035428375005722046,Jarell Quansah,a,10187,FromCorner,2023,Head,22079,Burnley,Liverpool,0,2,2023-12-26 17:30:00,Harvey Elliott,Aerial,10187
+562466,70,MissedShots,0.8619999694824219,0.5120000076293946,0.06334652751684189,Jarell Quansah,h,10187,FromCorner,2023,LeftFoot,22128,Liverpool,Burnley,3,1,2024-02-10 15:00:00,Virgil van Dijk,HeadPass,10187
+568721,79,SavedShot,0.8180000305175781,0.28,0.02444472722709179,Jarell Quansah,h,10187,OpenPlay,2023,RightFoot,22171,Liverpool,Manchester City,1,1,2024-03-10 15:45:00,Wataru Endo,Pass,10187
+580913,47,Goal,0.9159999847412109,0.43900001525878907,0.3022225499153137,Jarell Quansah,a,10187,SetPiece,2023,Head,22256,Aston Villa,Liverpool,3,3,2024-05-13 19:00:00,Harvey Elliott,Aerial,10187
+582026,39,Goal,0.9890000152587891,0.5120000076293946,0.9672112464904785,Jarell Quansah,h,10187,FromCorner,2023,RightFoot,22271,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19 15:00:00,,Rebound,10187
+582030,49,SavedShot,0.955,0.4159999847412109,0.03403494134545326,Jarell Quansah,h,10187,FromCorner,2023,Head,22271,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19 15:00:00,Harvey Elliott,Aerial,10187

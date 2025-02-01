@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1018,Josh Cullen,1,1,0,0,0,0,0,0,0,0,S,West Ham,0,0,0,0,2015
+1018,Josh Cullen,2,5,0,0,0,0,0,0,0,0,S,West Ham,0,0,0,0,2017
+1018,Josh Cullen,25,2072,2,0.532621605321765,3,1.9263525325804949,16,26,9,0,M S,Burnley,2,0.532621605321765,8.981078654527664,7.6769237499684095,2023

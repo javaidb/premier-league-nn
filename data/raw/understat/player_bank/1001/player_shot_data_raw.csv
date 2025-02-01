@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+23236,84,SavedShot,0.7980000305175782,0.26600000381469724,0.028979400172829628,Peter Odemwingie,h,1001,OpenPlay,2014,LeftFoot,4439,Stoke,Liverpool,6,1,2015-05-24 15:00:00,Charlie Adam,Pass,1001
+55154,91,MissedShots,0.7290000152587891,0.26299999237060545,0.021050600335001945,Peter Odemwingie,h,1001,OpenPlay,2015,LeftFoot,285,Stoke,Norwich,3,1,2016-01-13 23:45:00,Marco van Ginkel,Pass,1001
+53431,64,BlockedShot,0.879000015258789,0.6120000076293945,0.07043579965829849,Peter Odemwingie,h,1001,OpenPlay,2015,LeftFoot,323,Stoke,Everton,0,3,2016-02-06 19:00:00,,BallTouch,1001

@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+17495,79,MissedShots,0.8919999694824219,0.40799999237060547,0.03781310096383095,James Wilson,h,992,OpenPlay,2014,Head,4717,Manchester United,Chelsea,1,1,2014-10-26 16:00:00,Rafael,Cross,992
+19097,69,MissedShots,0.8640000152587891,0.37400001525878906,0.36768099665641785,James Wilson,h,992,OpenPlay,2014,RightFoot,4591,Manchester United,Stoke,2,1,2014-12-02 19:45:00,Juan Mata,TakeOn,992
+18262,54,MissedShots,0.7119999694824218,0.509000015258789,0.020898399874567986,James Wilson,h,992,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Juan Mata,Pass,992
+18697,92,SavedShot,0.8119999694824219,0.28200000762939453,0.025681599974632263,James Wilson,a,992,OpenPlay,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Michael Carrick,Pass,992
+19056,93,Goal,0.904000015258789,0.375,0.316428005695343,James Wilson,a,992,OpenPlay,2014,RightFoot,4574,Queens Park Rangers,Manchester United,0,2,2015-01-17 15:00:00,,Rebound,992
+19055,93,SavedShot,0.8440000152587891,0.30200000762939455,0.06233169883489609,James Wilson,a,992,OpenPlay,2014,LeftFoot,4574,Queens Park Rangers,Manchester United,0,2,2015-01-17 15:00:00,Ángel Di María,Pass,992
+23482,90,SavedShot,0.975,0.6709999847412109,0.0972193032503128,James Wilson,h,992,OpenPlay,2014,LeftFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,Adnan Januzaj,Pass,992
+24052,92,MissedShots,0.9159999847412109,0.674000015258789,0.13521000742912292,James Wilson,h,992,OpenPlay,2014,LeftFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Robin van Persie,Throughball,992

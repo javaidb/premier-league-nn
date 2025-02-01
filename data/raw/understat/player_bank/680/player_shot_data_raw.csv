@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+281445,94,MissedShots,0.8959999847412109,0.515,0.06696339696645737,Thibaut Courtois,h,680,FromCorner,2018,Head,10189,Real Madrid,Girona,1,2,2019-02-17 11:00:00,Toni Kroos,Cross,680
+337871,94,SavedShot,0.9009999847412109,0.53,0.07104910165071487,Thibaut Courtois,a,680,FromCorner,2019,Head,12192,Valencia,Real Madrid,1,1,2019-12-15 20:00:00,Toni Kroos,Cross,680
+592802,53,OwnGoal,0.012999999523162841,0.45799999237060546,0,Thibaut Courtois,h,680,OpenPlay,2024,LeftFoot,27041,Real Madrid,Espanyol,4,1,2024-09-21 19:00:00,,None,680

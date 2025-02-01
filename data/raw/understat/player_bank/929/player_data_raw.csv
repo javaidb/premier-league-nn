@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+929,Adam Johnson,32,2085,4,3.2225716952234507,1,3.918955666013062,25,39,2,0,F M S,Sunderland,3,2.461402678862214,7.580857325345278,4.618602689355612,2014
+929,Adam Johnson,19,1136,2,1.8067023092880845,5,2.185626655817032,16,29,3,0,F M S,Sunderland,1,1.04553338047117,4.058418094180524,2.642054306343198,2015

@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+494395,46,MissedShots,0.9230000305175782,0.539000015258789,0.09617079794406891,Marcos Senesi,h,10864,FromCorner,2022,Head,18313,Bournemouth,Southampton,0,1,2022-10-19 18:30:00,Lewis Cook,Cross,10864
+508578,29,Goal,0.9780000305175781,0.45099998474121095,0.684535026550293,Marcos Senesi,h,10864,FromCorner,2022,LeftFoot,18423,Bournemouth,Newcastle United,1,1,2023-02-11 17:30:00,Dango Ouattara,Rebound,10864
+511038,65,MissedShots,0.9490000152587891,0.5820000076293945,0.08677279949188232,Marcos Senesi,h,10864,FromCorner,2022,Head,18442,Bournemouth,Manchester City,1,4,2023-02-25 17:30:00,Hamed Junior Traore,Cross,10864
+512218,56,Goal,0.950999984741211,0.5379999923706055,0.4440549910068512,Marcos Senesi,a,10864,FromCorner,2022,Head,18452,Arsenal,Bournemouth,3,2,2023-03-04 15:00:00,Joe Rothwell,Cross,10864
+514969,26,BlockedShot,0.8880000305175781,0.5409999847412109,0.01701200008392334,Marcos Senesi,a,10864,FromCorner,2022,Head,18473,Aston Villa,Bournemouth,3,0,2023-03-18 15:00:00,Adam Smith,Aerial,10864
+516300,47,BlockedShot,0.955999984741211,0.4759999847412109,0.6219189763069153,Marcos Senesi,h,10864,FromCorner,2022,LeftFoot,18483,Bournemouth,Fulham,2,1,2023-04-01 14:00:00,,Rebound,10864
+527446,92,MissedShots,0.7719999694824219,0.5170000076293946,0.021237971261143684,Marcos Senesi,h,10864,SetPiece,2022,LeftFoot,18562,Bournemouth,Manchester United,0,1,2023-05-20 14:00:00,,None,10864
+529795,37,MissedShots,0.9390000152587891,0.40599998474121096,0.09754006564617157,Marcos Senesi,a,10864,FromCorner,2022,RightFoot,18577,Everton,Bournemouth,1,0,2023-05-28 15:30:00,,None,10864
+552288,24,Goal,0.98,0.5379999923706055,0.6260697245597839,Marcos Senesi,a,10864,FromCorner,2023,Head,22043,Crystal Palace,Bournemouth,0,2,2023-12-06 19:30:00,Luis Sinisterra,Rebound,10864
+552302,88,MissedShots,0.8030000305175782,0.53,0.031538672745227814,Marcos Senesi,a,10864,FromCorner,2023,LeftFoot,22043,Crystal Palace,Bournemouth,0,2,2023-12-06 19:30:00,Ryan Christie,None,10864
+552924,72,Goal,0.924000015258789,0.5279999923706055,0.10227326303720474,Marcos Senesi,a,10864,FromCorner,2023,Head,22051,Manchester United,Bournemouth,0,3,2023-12-09 15:00:00,Marcus Tavernier,Cross,10864
+557183,23,MissedShots,0.8469999694824218,0.4540000152587891,0.020258432254195213,Marcos Senesi,a,10864,SetPiece,2023,Head,22092,Tottenham,Bournemouth,3,1,2023-12-31 14:00:00,Marcus Tavernier,Cross,10864
+560791,5,MissedShots,0.875,0.4520000076293945,0.06683702766895294,Marcos Senesi,a,10864,SetPiece,2023,RightFoot,22110,West Ham,Bournemouth,1,1,2024-02-01 19:30:00,Illia Zabarnyi,HeadPass,10864
+562493,49,Goal,0.924000015258789,0.534000015258789,0.40501201152801514,Marcos Senesi,a,10864,FromCorner,2023,RightFoot,22127,Fulham,Bournemouth,3,1,2024-02-10 15:00:00,Dominic Solanke,HeadPass,10864
+563909,1,MissedShots,0.7719999694824219,0.37599998474121094,0.017858875915408134,Marcos Senesi,a,10864,FromCorner,2023,RightFoot,22141,Newcastle United,Bournemouth,2,2,2024-02-17 15:00:00,,None,10864
+576289,5,ShotOnPost,0.94,0.445,0.05341720953583717,Marcos Senesi,a,10864,FromCorner,2023,Head,22184,Wolverhampton Wanderers,Bournemouth,0,1,2024-04-24 18:45:00,Ryan Christie,Aerial,10864
+576297,17,MissedShots,0.9159999847412109,0.45799999237060546,0.08080518245697021,Marcos Senesi,a,10864,FromCorner,2023,Head,22184,Wolverhampton Wanderers,Bournemouth,0,1,2024-04-24 18:45:00,Ryan Christie,Cross,10864
+576306,53,MissedShots,0.799000015258789,0.7230000305175781,0.02557220868766308,Marcos Senesi,a,10864,OpenPlay,2023,LeftFoot,22184,Wolverhampton Wanderers,Bournemouth,0,1,2024-04-24 18:45:00,Dominic Solanke,Pass,10864
+576313,58,MissedShots,0.9059999847412109,0.51,0.10619038343429565,Marcos Senesi,a,10864,FromCorner,2023,RightFoot,22184,Wolverhampton Wanderers,Bournemouth,0,1,2024-04-24 18:45:00,,None,10864
+577191,12,Goal,0.9819999694824219,0.5220000076293946,0.7159591913223267,Marcos Senesi,h,10864,FromCorner,2023,Head,22235,Bournemouth,Brighton,3,0,2024-04-28 13:00:00,Enes Ünal,Rebound,10864
+582214,18,MissedShots,0.9269999694824219,0.5020000076293946,0.11406808346509933,Marcos Senesi,a,10864,FromCorner,2023,Head,22269,Chelsea,Bournemouth,2,1,2024-05-19 15:00:00,Marcus Tavernier,Cross,10864
+601407,14,MissedShots,0.9780000305175781,0.5409999847412109,0.6097416877746582,Marcos Senesi,a,10864,FromCorner,2024,LeftFoot,26702,Brentford,Bournemouth,3,2,2024-11-09 15:00:00,Ryan Christie,Cross,10864

@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+411375,3,MissedShots,0.7190000152587891,0.46,0.012264800257980824,Naouirou Ahamada,a,9274,OpenPlay,2020,RightFoot,15365,Bayern Munich,VfB Stuttgart,4,0,2021-03-20 14:30:00,,None,9274
+411377,9,MissedShots,0.8059999847412109,0.49400001525878906,0.04822099953889847,Naouirou Ahamada,a,9274,OpenPlay,2020,RightFoot,15365,Bayern Munich,VfB Stuttgart,4,0,2021-03-20 14:30:00,Sasa Kalajdzic,Pass,9274
+411383,31,SavedShot,0.7619999694824219,0.519000015258789,0.030489500612020493,Naouirou Ahamada,a,9274,OpenPlay,2020,RightFoot,15365,Bayern Munich,VfB Stuttgart,4,0,2021-03-20 14:30:00,,TakeOn,9274
+416524,33,MissedShots,0.8080000305175781,0.500999984741211,0.053240299224853516,Naouirou Ahamada,h,9274,OpenPlay,2020,RightFoot,15409,VfB Stuttgart,Wolfsburg,1,3,2021-04-21 18:30:00,Tanguy Coulibaly,Pass,9274
+416529,45,MissedShots,0.830999984741211,0.4209999847412109,0.0697707012295723,Naouirou Ahamada,h,9274,OpenPlay,2020,RightFoot,15409,VfB Stuttgart,Wolfsburg,1,3,2021-04-21 18:30:00,Philipp Förster,Pass,9274
+479753,30,Goal,0.8190000152587891,0.5690000152587891,0.05644439905881882,Naouirou Ahamada,h,9274,OpenPlay,2022,RightFoot,19349,VfB Stuttgart,RasenBallsport Leipzig,1,1,2022-08-07 13:30:00,Sasa Kalajdzic,Pass,9274
+488672,15,BlockedShot,0.7819999694824219,0.4490000152587891,0.024231500923633575,Naouirou Ahamada,h,9274,FromCorner,2022,RightFoot,19400,VfB Stuttgart,Eintracht Frankfurt,1,3,2022-09-17 13:30:00,,None,9274
+488680,57,MissedShots,0.725,0.5309999847412109,0.008087280206382275,Naouirou Ahamada,h,9274,OpenPlay,2022,LeftFoot,19400,VfB Stuttgart,Eintracht Frankfurt,1,3,2022-09-17 13:30:00,Konstantinos Mavropanos,Chipped,9274
+489994,17,SavedShot,0.775,0.73,0.016469400376081467,Naouirou Ahamada,a,9274,OpenPlay,2022,RightFoot,19410,Wolfsburg,VfB Stuttgart,3,2,2022-10-01 13:30:00,Chris Führich,Pass,9274
+492486,78,BlockedShot,0.8440000152587891,0.5329999923706055,0.0676845982670784,Naouirou Ahamada,h,9274,SetPiece,2022,LeftFoot,19421,VfB Stuttgart,Union Berlin,0,1,2022-10-09 17:30:00,Atakan Karazor,BallTouch,9274
+492969,15,BlockedShot,0.8140000152587891,0.34,0.03784019872546196,Naouirou Ahamada,h,9274,OpenPlay,2022,LeftFoot,19429,VfB Stuttgart,Bochum,4,1,2022-10-15 13:30:00,Silas Wamangituka,Pass,9274
+492971,21,Goal,0.8819999694824219,0.43900001525878907,0.12668000161647797,Naouirou Ahamada,h,9274,OpenPlay,2022,RightFoot,19429,VfB Stuttgart,Bochum,4,1,2022-10-15 13:30:00,Silas Wamangituka,Pass,9274
+495000,40,MissedShots,0.7709999847412109,0.5379999923706055,0.020818600431084633,Naouirou Ahamada,a,9274,OpenPlay,2022,RightFoot,19432,Borussia Dortmund,VfB Stuttgart,5,0,2022-10-22 13:30:00,,None,9274
+496377,20,BlockedShot,0.765,0.61,0.01998160034418106,Naouirou Ahamada,h,9274,OpenPlay,2022,RightFoot,19447,VfB Stuttgart,Augsburg,2,1,2022-10-29 13:30:00,Chris Führich,None,9274
+496380,31,SavedShot,0.7809999847412109,0.3220000076293945,0.021793700754642487,Naouirou Ahamada,h,9274,OpenPlay,2022,RightFoot,19447,VfB Stuttgart,Augsburg,2,1,2022-10-29 13:30:00,Wataru Endo,TakeOn,9274
+496399,78,BlockedShot,0.7280000305175781,0.5379999923706055,0.011451499536633492,Naouirou Ahamada,h,9274,SetPiece,2022,LeftFoot,19447,VfB Stuttgart,Augsburg,2,1,2022-10-29 13:30:00,,None,9274
+497653,30,MissedShots,0.8830000305175781,0.705,0.03771039843559265,Naouirou Ahamada,a,9274,FromCorner,2022,LeftFoot,19453,Borussia M.Gladbach,VfB Stuttgart,3,1,2022-11-04 18:30:00,Chris Führich,Pass,9274
+497659,48,SavedShot,0.86,0.27100000381469724,0.06871890276670456,Naouirou Ahamada,a,9274,OpenPlay,2022,RightFoot,19453,Borussia M.Gladbach,VfB Stuttgart,3,1,2022-11-04 18:30:00,Wataru Endo,Dispossessed,9274
+500078,25,MissedShots,0.905,0.6090000152587891,0.027291499078273773,Naouirou Ahamada,a,9274,FromCorner,2022,Head,19468,Bayer Leverkusen,VfB Stuttgart,2,0,2022-11-12 14:30:00,Tiago Tomás,Chipped,9274
+500092,89,BlockedShot,0.784000015258789,0.3609999847412109,0.01983789913356304,Naouirou Ahamada,a,9274,FromCorner,2022,LeftFoot,19468,Bayer Leverkusen,VfB Stuttgart,2,0,2022-11-12 14:30:00,,None,9274
+505366,45,MissedShots,0.8490000152587891,0.3729999923706055,0.04885679855942726,Naouirou Ahamada,a,9274,OpenPlay,2022,RightFoot,19490,Hoffenheim,VfB Stuttgart,2,2,2023-01-24 19:30:00,,Rebound,9274
+507147,86,MissedShots,0.8919999694824219,0.7280000305175781,0.030528699979186058,Naouirou Ahamada,a,9274,SetPiece,2022,LeftFoot,18417,Manchester United,Crystal Palace,2,1,2023-02-04 15:00:00,,None,9274
+509722,85,MissedShots,0.86,0.43,0.08306329697370529,Naouirou Ahamada,a,9274,OpenPlay,2022,RightFoot,18433,Brentford,Crystal Palace,1,1,2023-02-18 15:00:00,,Rebound,9274
+514554,94,MissedShots,0.8780000305175781,0.3509999847412109,0.06845840066671371,Naouirou Ahamada,a,9274,OpenPlay,2022,RightFoot,18276,Brighton,Crystal Palace,1,0,2023-03-15 19:30:00,Eberechi Eze,Pass,9274
+549734,100,BlockedShot,0.7980000305175782,0.6530000305175782,0.026059545576572418,Naouirou Ahamada,a,9274,OpenPlay,2023,RightFoot,22019,Luton,Crystal Palace,2,1,2023-11-25 15:00:00,Jean-Philippe Mateta,HeadPass,9274
+552305,93,MissedShots,0.85,0.4109999847412109,0.07843291759490967,Naouirou Ahamada,h,9274,OpenPlay,2023,RightFoot,22043,Crystal Palace,Bournemouth,0,2,2023-12-06 19:30:00,Odsonne Edouard,Pass,9274
+554300,91,BlockedShot,0.8069999694824219,0.4779999923706055,0.05349571630358696,Naouirou Ahamada,a,9274,OpenPlay,2023,RightFoot,22061,Manchester City,Crystal Palace,2,2,2023-12-16 15:00:00,Michael Olise,Pass,9274
+563441,85,BlockedShot,0.860999984741211,0.765,0.021703923121094704,Naouirou Ahamada,h,9274,OpenPlay,2023,RightFoot,22126,Crystal Palace,Chelsea,1,3,2024-02-12 20:00:00,Odsonne Edouard,Pass,9274
+565220,66,SavedShot,0.8690000152587891,0.275,0.032470494508743286,Naouirou Ahamada,h,9274,OpenPlay,2023,RightFoot,22150,Crystal Palace,Burnley,3,0,2024-02-24 15:00:00,Daniel Muñoz,Pass,9274
+568083,73,MissedShots,0.9359999847412109,0.5690000152587891,0.14874619245529175,Naouirou Ahamada,h,9274,OpenPlay,2023,LeftFoot,22170,Crystal Palace,Luton,1,1,2024-03-09 15:00:00,,Rebound,9274
+568084,77,BlockedShot,0.745999984741211,0.37900001525878907,0.02498585544526577,Naouirou Ahamada,h,9274,OpenPlay,2023,RightFoot,22170,Crystal Palace,Luton,1,1,2024-03-09 15:00:00,Adam Wharton,Pass,9274
+572172,90,SavedShot,0.85,0.6630000305175782,0.044953852891922,Naouirou Ahamada,h,9274,FromCorner,2023,RightFoot,22207,Crystal Palace,Manchester City,2,4,2024-04-06 11:30:00,Michael Olise,Pass,9274
+579858,56,MissedShots,0.7969999694824219,0.5559999847412109,0.09899482876062393,Naouirou Ahamada,a,9274,OpenPlay,2023,RightFoot,22264,Wolverhampton Wanderers,Crystal Palace,1,3,2024-05-11 14:00:00,Daniel Muñoz,Pass,9274

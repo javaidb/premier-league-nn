@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+703,Fikayo Tomori,1,29,0,0,0,0,0,0,0,0,S,Chelsea,0,0,0,0,2015
+703,Fikayo Tomori,15,1299,1,0.5629758918657899,0,0.11987659893929958,7,4,3,0,D,Chelsea,1,0.5629758918657899,5.061155961826444,4.995166664943099,2019
+703,Fikayo Tomori,1,43,0,0,0,0,0,0,0,0,S,Chelsea,0,0,0.0727275013923645,0.0727275013923645,2020

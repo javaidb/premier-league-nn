@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15065,85,MissedShots,0.8719999694824219,0.4540000152587891,0.12421800196170807,Armand Traore,h,4431,OpenPlay,2014,RightFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,Bobby Zamora,Pass,4431
+15308,54,BlockedShot,0.7469999694824219,0.5209999847412109,0.01975500024855137,Armand Traore,a,4431,OpenPlay,2014,RightFoot,4727,Manchester United,Queens Park Rangers,4,0,2014-09-14 16:00:00,Steven Caulker,TakeOn,4431
+15593,14,MissedShots,0.8530000305175781,0.6969999694824218,0.030029000714421272,Armand Traore,h,4431,SetPiece,2014,LeftFoot,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,,None,4431
+15847,60,SavedShot,0.8769999694824219,0.5790000152587891,0.031167300418019295,Armand Traore,a,4431,FromCorner,2014,Head,4741,Southampton,Queens Park Rangers,2,1,2014-09-27 15:00:00,Mauricio Isla,Cross,4431
+16689,84,SavedShot,0.9319999694824219,0.4779999923706055,0.06237560138106346,Armand Traore,h,4431,FromCorner,2014,Head,4706,Queens Park Rangers,Liverpool,2,3,2014-10-19 13:30:00,,None,4431
+17615,91,BlockedShot,0.8130000305175781,0.4929999923706055,0.08425980061292648,Armand Traore,h,4431,OpenPlay,2014,LeftFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Mauricio Isla,Pass,4431
+23419,53,MissedShots,0.9830000305175781,0.6020000076293945,0.03355880081653595,Armand Traore,h,4431,OpenPlay,2014,Head,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,,None,4431

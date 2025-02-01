@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+594823,95,MissedShots,0.7909999847412109,0.625999984741211,0.05237334221601486,Mikey Moore,a,12603,OpenPlay,2024,RightFoot,26660,Manchester United,Tottenham,0,3,2024-09-29 15:30:00,Pape Sarr,Pass,12603
+612623,76,BlockedShot,0.9130000305175782,0.3940000152587891,0.06836473941802979,Mikey Moore,a,12603,OpenPlay,2024,RightFoot,26815,Everton,Tottenham,3,2,2025-01-19 14:00:00,,None,12603
+613854,80,BlockedShot,0.785,0.6609999847412109,0.043088652193546295,Mikey Moore,h,12603,OpenPlay,2024,RightFoot,26830,Tottenham,Leicester,1,2,2025-01-26 14:00:00,Son Heung-Min,Pass,12603

@@ -1,0 +1,292 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+51623,6,BlockedShot,0.8569999694824219,0.47900001525878905,0.10221700370311737,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,87,Newcastle United,Southampton,2,2,2015-08-09 16:30:00,Moussa Sissoko,Pass,771
+51635,47,Goal,0.915,0.45599998474121095,0.14465899765491486,Georginio Wijnaldum,h,771,OpenPlay,2015,Head,87,Newcastle United,Southampton,2,2,2015-08-09 16:30:00,Gabriel Obertan,Cross,771
+51886,45,MissedShots,0.754000015258789,0.7630000305175781,0.035850800573825836,Georginio Wijnaldum,a,771,DirectFreekick,2015,RightFoot,94,Swansea,Newcastle United,2,0,2015-08-15 18:00:00,,Standard,771
+58022,20,MissedShots,0.8040000152587891,0.4759999847412109,0.03374189883470535,Georginio Wijnaldum,a,771,OpenPlay,2015,RightFoot,130,West Ham,Newcastle United,2,0,2015-09-14 23:00:00,Moussa Sissoko,Cross,771
+58443,59,Goal,0.9069999694824219,0.43900001525878907,0.05379649996757507,Georginio Wijnaldum,h,771,FromCorner,2015,Head,148,Newcastle United,Chelsea,2,2,2015-09-26 20:30:00,Ayoze Pérez,Cross,771
+58785,38,SavedShot,0.789000015258789,0.48200000762939454,0.04988750070333481,Georginio Wijnaldum,a,771,OpenPlay,2015,RightFoot,154,Manchester City,Newcastle United,6,1,2015-10-03 18:00:00,Moussa Sissoko,Pass,771
+58787,42,BlockedShot,0.784000015258789,0.6370000076293946,0.022052299231290817,Georginio Wijnaldum,a,771,OpenPlay,2015,RightFoot,154,Manchester City,Newcastle United,6,1,2015-10-03 18:00:00,Moussa Sissoko,TakeOn,771
+58990,13,Goal,0.9209999847412109,0.38299999237060545,0.37200701236724854,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,169,Newcastle United,Norwich,6,2,2015-10-18 19:00:00,Moussa Sissoko,Throughball,771
+58993,25,Goal,0.9019999694824219,0.46599998474121096,0.25699999928474426,Georginio Wijnaldum,h,771,OpenPlay,2015,Head,169,Newcastle United,Norwich,6,2,2015-10-18 19:00:00,Moussa Sissoko,Cross,771
+58999,38,MissedShots,0.8490000152587891,0.5379999923706055,0.09976120293140411,Georginio Wijnaldum,h,771,OpenPlay,2015,LeftFoot,169,Newcastle United,Norwich,6,2,2015-10-18 19:00:00,Aleksandar Mitrovic,LayOff,771
+59007,65,Goal,0.9469999694824218,0.5279999923706055,0.613897979259491,Georginio Wijnaldum,h,771,OpenPlay,2015,Head,169,Newcastle United,Norwich,6,2,2015-10-18 19:00:00,Daryl Janmaat,Cross,771
+59015,84,Goal,0.7680000305175781,0.6079999923706054,0.037109799683094025,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,169,Newcastle United,Norwich,6,2,2015-10-18 19:00:00,Ayoze Pérez,Pass,771
+59370,15,SavedShot,0.81,0.6090000152587891,0.07174549996852875,Georginio Wijnaldum,a,771,OpenPlay,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Aleksandar Mitrovic,LayOff,771
+59380,43,SavedShot,0.8030000305175782,0.66,0.08399660140275955,Georginio Wijnaldum,a,771,DirectFreekick,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,,Standard,771
+59394,69,SavedShot,0.915,0.3060000038146973,0.06333400309085846,Georginio Wijnaldum,a,771,OpenPlay,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Moussa Sissoko,Pass,771
+52486,49,SavedShot,0.769000015258789,0.6120000076293945,0.06932389736175537,Georginio Wijnaldum,h,771,DirectFreekick,2015,RightFoot,184,Newcastle United,Stoke,0,0,2015-10-31 19:00:00,,Standard,771
+52496,68,BlockedShot,0.9019999694824219,0.41900001525878905,0.08599469810724258,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,184,Newcastle United,Stoke,0,0,2015-10-31 19:00:00,Daryl Janmaat,Cross,771
+54328,70,BlockedShot,0.9019999694824219,0.524000015258789,0.022327600046992302,Georginio Wijnaldum,h,771,FromCorner,2015,Head,205,Newcastle United,Leicester,0,3,2015-11-21 19:00:00,Florian Thauvin,Aerial,771
+54522,44,MissedShots,0.6940000152587891,0.3840000152587891,0.033031001687049866,Georginio Wijnaldum,h,771,DirectFreekick,2015,RightFoot,229,Newcastle United,Liverpool,2,0,2015-12-06 20:00:00,,Standard,771
+54525,50,MissedShots,0.9319999694824219,0.39,0.12170200049877167,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,229,Newcastle United,Liverpool,2,0,2015-12-06 20:00:00,Moussa Sissoko,Pass,771
+54527,54,BlockedShot,0.785,0.4809999847412109,0.03719690069556236,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,229,Newcastle United,Liverpool,2,0,2015-12-06 20:00:00,Jack Colback,Pass,771
+54528,68,MissedShots,0.925,0.31799999237060544,0.027039799839258194,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,229,Newcastle United,Liverpool,2,0,2015-12-06 20:00:00,Moussa Sissoko,Cross,771
+54534,92,Goal,0.889000015258789,0.5609999847412109,0.3565869927406311,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,229,Newcastle United,Liverpool,2,0,2015-12-06 20:00:00,Moussa Sissoko,Throughball,771
+55103,50,BlockedShot,0.93,0.5709999847412109,0.12261500209569931,Georginio Wijnaldum,a,771,OpenPlay,2015,RightFoot,239,Tottenham,Newcastle United,1,2,2015-12-13 20:00:00,Papiss Demba Cissé,Pass,771
+52276,73,SavedShot,0.905,0.47299999237060547,0.11387799680233002,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,247,Newcastle United,Aston Villa,1,1,2015-12-19 21:30:00,Ayoze Pérez,Cross,771
+54936,36,MissedShots,0.8590000152587891,0.51,0.02648250013589859,Georginio Wijnaldum,h,771,OpenPlay,2015,Head,259,Newcastle United,Everton,0,1,2015-12-26 21:30:00,Moussa Sissoko,Cross,771
+54939,52,BlockedShot,0.8690000152587891,0.6619999694824219,0.06996220350265503,Georginio Wijnaldum,h,771,OpenPlay,2015,LeftFoot,259,Newcastle United,Everton,0,1,2015-12-26 21:30:00,Ayoze Pérez,TakeOn,771
+54951,75,SavedShot,0.9630000305175781,0.5479999923706055,0.5686410069465637,Georginio Wijnaldum,h,771,OpenPlay,2015,Head,259,Newcastle United,Everton,0,1,2015-12-26 21:30:00,Jack Colback,Cross,771
+54367,12,SavedShot,0.875999984741211,0.35700000762939454,0.07990510016679764,Georginio Wijnaldum,a,771,OpenPlay,2015,RightFoot,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,Ayoze Pérez,Pass,771
+54863,15,SavedShot,0.8580000305175781,0.45599998474121095,0.021595699712634087,Georginio Wijnaldum,a,771,OpenPlay,2015,Head,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Chancel Mbemba,Cross,771
+54871,42,SavedShot,0.9440000152587891,0.355,0.07004629820585251,Georginio Wijnaldum,a,771,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,,None,771
+54873,47,SavedShot,0.8640000152587891,0.38299999237060545,0.3109770119190216,Georginio Wijnaldum,a,771,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Ayoze Pérez,Pass,771
+54886,84,MissedShots,0.92,0.52,0.0992090031504631,Georginio Wijnaldum,a,771,FromCorner,2015,Head,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Daryl Janmaat,Cross,771
+54659,27,SavedShot,0.875999984741211,0.4620000076293945,0.390639990568161,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,Ayoze Pérez,Pass,771
+54663,41,Goal,0.8780000305175781,0.5459999847412109,0.05773270130157471,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,Aleksandar Mitrovic,HeadPass,771
+54669,62,BlockedShot,0.9130000305175782,0.33299999237060546,0.053367000073194504,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,,None,771
+54672,69,BlockedShot,0.87,0.41900001525878905,0.10287100076675415,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,Moussa Sissoko,Pass,771
+52333,14,Goal,0.9359999847412109,0.47200000762939454,0.4523159861564636,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,293,Newcastle United,West Ham,2,1,2016-01-16 19:00:00,Daryl Janmaat,Cross,771
+52343,47,MissedShots,0.879000015258789,0.42900001525878906,0.12915900349617004,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,293,Newcastle United,West Ham,2,1,2016-01-16 19:00:00,Moussa Sissoko,Pass,771
+52345,57,MissedShots,0.7959999847412109,0.7559999847412109,0.02177250012755394,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,293,Newcastle United,West Ham,2,1,2016-01-16 19:00:00,Ayoze Pérez,Pass,771
+52349,65,BlockedShot,0.7830000305175782,0.5129999923706055,0.04895130172371864,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,293,Newcastle United,West Ham,2,1,2016-01-16 19:00:00,Aleksandar Mitrovic,Pass,771
+52436,2,BlockedShot,0.91,0.43599998474121093,0.09412640333175659,Georginio Wijnaldum,a,771,OpenPlay,2015,RightFoot,307,Watford,Newcastle United,2,1,2016-01-23 19:00:00,,None,771
+52936,65,MissedShots,0.9419999694824219,0.4759999847412109,0.5265849828720093,Georginio Wijnaldum,h,771,OpenPlay,2015,Head,322,Newcastle United,West Bromwich Albion,1,0,2016-02-06 19:00:00,Andros Townsend,Cross,771
+52943,83,SavedShot,0.8519999694824218,0.5570000076293945,0.10823799669742584,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,322,Newcastle United,West Bromwich Albion,1,0,2016-02-06 19:00:00,Andros Townsend,Pass,771
+54969,34,SavedShot,0.875,0.46,0.06488300114870071,Georginio Wijnaldum,a,771,OpenPlay,2015,RightFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Daryl Janmaat,Cross,771
+60055,87,BlockedShot,0.8640000152587891,0.3629999923706055,0.052184801548719406,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,365,Newcastle United,Bournemouth,1,3,2016-03-05 19:00:00,,Dispossessed,771
+59796,87,MissedShots,0.9840000152587891,0.33,0.04566759988665581,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,,Rebound,771
+59795,87,SavedShot,0.9290000152587891,0.37099998474121093,0.3204669952392578,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,,TakeOn,771
+57248,11,SavedShot,0.840999984741211,0.47099998474121096,0.05438829958438873,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,428,Newcastle United,Crystal Palace,1,0,2016-04-30 18:00:00,Vurnon Anita,Cross,771
+57257,49,BlockedShot,0.8780000305175781,0.40700000762939453,0.0987258031964302,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,428,Newcastle United,Crystal Palace,1,0,2016-04-30 18:00:00,Chancel Mbemba,TakeOn,771
+57618,70,SavedShot,0.8590000152587891,0.34700000762939454,0.05875309929251671,Georginio Wijnaldum,a,771,OpenPlay,2015,RightFoot,440,Aston Villa,Newcastle United,0,0,2016-05-07 18:00:00,Andros Townsend,Pass,771
+57622,91,BlockedShot,0.845999984741211,0.44299999237060544,0.08411730080842972,Georginio Wijnaldum,a,771,OpenPlay,2015,RightFoot,440,Aston Villa,Newcastle United,0,0,2016-05-07 18:00:00,Aleksandar Mitrovic,Pass,771
+52079,18,Goal,0.8830000305175781,0.52,0.12452200055122375,Georginio Wijnaldum,h,771,OpenPlay,2015,RightFoot,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,Aleksandar Mitrovic,LayOff,771
+52094,72,Goal,0.885,0.5,0.7611690163612366,Georginio Wijnaldum,h,771,Penalty,2015,RightFoot,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,,Standard,771
+112098,39,SavedShot,0.8209999847412109,0.5279999923706055,0.05081050097942352,Georginio Wijnaldum,a,771,OpenPlay,2016,RightFoot,469,Arsenal,Liverpool,3,4,2016-08-14 19:00:00,Philippe Coutinho,Pass,771
+120568,93,MissedShots,0.8980000305175782,0.46,0.08186859637498856,Georginio Wijnaldum,a,771,SetPiece,2016,Head,473,Burnley,Liverpool,2,0,2016-08-20 18:00:00,Jordan Henderson,Cross,771
+113085,46,MissedShots,0.7559999847412109,0.49900001525878906,0.03284129872918129,Georginio Wijnaldum,a,771,OpenPlay,2016,RightFoot,481,Tottenham,Liverpool,1,1,2016-08-27 15:30:00,Roberto Firmino,Pass,771
+113097,89,BlockedShot,0.8640000152587891,0.634000015258789,0.06303869932889938,Georginio Wijnaldum,a,771,OpenPlay,2016,RightFoot,481,Tottenham,Liverpool,1,1,2016-08-27 15:30:00,Roberto Firmino,Pass,771
+113225,22,SavedShot,0.7730000305175782,0.33099998474121095,0.0228193998336792,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Nathaniel Clyne,Pass,771
+113230,36,MissedShots,0.805,0.5029999923706054,0.07461360096931458,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Daniel Sturridge,Pass,771
+113438,0,SavedShot,0.8569999694824219,0.41200000762939454,0.057946499437093735,Georginio Wijnaldum,a,771,OpenPlay,2016,RightFoot,501,Chelsea,Liverpool,1,2,2016-09-16 23:00:00,Nathaniel Clyne,Cross,771
+113789,34,SavedShot,0.7469999694824219,0.5720000076293945,0.020580800250172615,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,516,Liverpool,Hull,5,1,2016-09-24 18:00:00,Roberto Firmino,Pass,771
+113793,46,SavedShot,0.93,0.54,0.5236849784851074,Georginio Wijnaldum,h,771,OpenPlay,2016,LeftFoot,516,Liverpool,Hull,5,1,2016-09-24 18:00:00,Roberto Firmino,Cross,771
+113803,58,SavedShot,0.9159999847412109,0.47200000762939454,0.11069100350141525,Georginio Wijnaldum,h,771,FromCorner,2016,LeftFoot,516,Liverpool,Hull,5,1,2016-09-24 18:00:00,,None,771
+114492,58,BlockedShot,0.82,0.47900001525878905,0.0654032975435257,Georginio Wijnaldum,a,771,OpenPlay,2016,RightFoot,522,Swansea,Liverpool,1,2,2016-10-01 15:30:00,Nathaniel Clyne,Pass,771
+114476,92,MissedShots,0.7569999694824219,0.6029999923706054,0.026022199541330338,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,548,Liverpool,West Bromwich Albion,2,1,2016-10-22 20:30:00,Divock Origi,Pass,771
+115223,90,Goal,0.9359999847412109,0.525,0.5430589914321899,Georginio Wijnaldum,h,771,FromCorner,2016,LeftFoot,2693,Liverpool,Watford,6,1,2016-11-06 18:15:00,,Rebound,771
+115618,45,MissedShots,0.7559999847412109,0.5970000076293945,0.01908949948847294,Georginio Wijnaldum,a,771,OpenPlay,2016,RightFoot,2698,Southampton,Liverpool,0,0,2016-11-19 19:00:00,James Milner,Pass,771
+115630,86,BlockedShot,0.7869999694824219,0.39099998474121095,0.03182080015540123,Georginio Wijnaldum,a,771,OpenPlay,2016,RightFoot,2698,Southampton,Liverpool,0,0,2016-11-19 19:00:00,Daniel Sturridge,Pass,771
+115229,14,SavedShot,0.8230000305175781,0.5,0.07315129786729813,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,2710,Liverpool,Sunderland,2,0,2016-11-26 19:00:00,Philippe Coutinho,Pass,771
+115234,24,MissedShots,0.784000015258789,0.36900001525878906,0.02508540078997612,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,2710,Liverpool,Sunderland,2,0,2016-11-26 19:00:00,Nathaniel Clyne,Pass,771
+115241,52,MissedShots,0.9269999694824219,0.415,0.09412279725074768,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,2710,Liverpool,Sunderland,2,0,2016-11-26 19:00:00,Emre Can,Chipped,771
+115252,73,BlockedShot,0.7369999694824219,0.27399999618530274,0.010602599941194057,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,2710,Liverpool,Sunderland,2,0,2016-11-26 19:00:00,,None,771
+117031,36,BlockedShot,0.915,0.5709999847412109,0.09412629902362823,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,3124,Liverpool,West Ham,2,2,2016-12-11 20:30:00,,None,771
+117038,49,MissedShots,0.84,0.565,0.08307699859142303,Georginio Wijnaldum,h,771,OpenPlay,2016,LeftFoot,3124,Liverpool,West Ham,2,2,2016-12-11 20:30:00,Sadio Mané,Pass,771
+117041,61,MissedShots,0.9009999847412109,0.6759999847412109,0.059946101158857346,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,3124,Liverpool,West Ham,2,2,2016-12-11 20:30:00,James Milner,Chipped,771
+117042,66,BlockedShot,0.8819999694824219,0.47400001525878904,0.1225920021533966,Georginio Wijnaldum,h,771,OpenPlay,2016,LeftFoot,3124,Liverpool,West Ham,2,2,2016-12-11 20:30:00,Adam Lallana,Pass,771
+118511,26,MissedShots,0.775,0.38599998474121094,0.026645999401807785,Georginio Wijnaldum,a,771,OpenPlay,2016,RightFoot,3144,Everton,Liverpool,0,1,2016-12-20 00:00:00,Roberto Firmino,LayOff,771
+118512,30,MissedShots,0.855999984741211,0.5429999923706055,0.08143500238656998,Georginio Wijnaldum,a,771,OpenPlay,2016,RightFoot,3144,Everton,Liverpool,0,1,2016-12-20 00:00:00,Nathaniel Clyne,BallTouch,771
+116468,22,BlockedShot,0.789000015258789,0.7280000305175781,0.018446700647473335,Georginio Wijnaldum,h,771,FromCorner,2016,RightFoot,3153,Liverpool,Stoke,4,1,2016-12-27 21:15:00,Adam Lallana,Pass,771
+116470,23,BlockedShot,0.7880000305175782,0.46,0.03138510137796402,Georginio Wijnaldum,h,771,FromCorner,2016,LeftFoot,3153,Liverpool,Stoke,4,1,2016-12-27 21:15:00,Roberto Firmino,Pass,771
+117497,7,Goal,0.879000015258789,0.44299999237060544,0.03462250158190727,Georginio Wijnaldum,h,771,OpenPlay,2016,Head,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,Adam Lallana,Cross,771
+117499,25,MissedShots,0.7809999847412109,0.40799999237060547,0.040417201817035675,Georginio Wijnaldum,h,771,OpenPlay,2016,LeftFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,Adam Lallana,Pass,771
+116765,7,SavedShot,0.7909999847412109,0.615,0.03217190131545067,Georginio Wijnaldum,a,771,OpenPlay,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Roberto Firmino,Pass,771
+117567,74,MissedShots,0.88,0.54,0.06251899898052216,Georginio Wijnaldum,a,771,OpenPlay,2016,Head,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Emre Can,Cross,771
+117570,85,BlockedShot,0.8619999694824219,0.645,0.0538019984960556,Georginio Wijnaldum,a,771,OpenPlay,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,,None,771
+117571,92,SavedShot,0.8730000305175781,0.5729999923706055,0.10730300098657608,Georginio Wijnaldum,a,771,OpenPlay,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Emre Can,Pass,771
+116201,11,SavedShot,0.764000015258789,0.395,0.022871199995279312,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,3366,Liverpool,Chelsea,1,1,2017-01-31 23:00:00,Philippe Coutinho,Pass,771
+116209,56,Goal,0.93,0.49900001525878906,0.3208880126476288,Georginio Wijnaldum,h,771,OpenPlay,2016,Head,3366,Liverpool,Chelsea,1,1,2017-01-31 23:00:00,,None,771
+117659,87,MissedShots,0.6630000305175782,0.865999984741211,0.00980782974511385,Georginio Wijnaldum,h,771,OpenPlay,2016,LeftFoot,3386,Liverpool,Tottenham,2,0,2017-02-11 17:30:00,,None,771
+118533,32,SavedShot,0.92,0.5429999923706055,0.061078500002622604,Georginio Wijnaldum,a,771,OpenPlay,2016,OtherBodyPart,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Adam Lallana,Aerial,771
+118546,64,MissedShots,0.74,0.5720000076293945,0.01540559995919466,Georginio Wijnaldum,a,771,FromCorner,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,,None,771
+119480,53,SavedShot,0.7759999847412109,0.595999984741211,0.01803559996187687,Georginio Wijnaldum,h,771,SetPiece,2016,RightFoot,3401,Liverpool,Arsenal,3,1,2017-03-04 17:30:00,,Rebound,771
+119482,59,BlockedShot,0.764000015258789,0.575,0.018331900238990784,Georginio Wijnaldum,h,771,FromCorner,2016,RightFoot,3401,Liverpool,Arsenal,3,1,2017-03-04 17:30:00,,None,771
+119490,90,Goal,0.8830000305175781,0.5029999923706054,0.5398100018501282,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,3401,Liverpool,Arsenal,3,1,2017-03-04 17:30:00,Divock Origi,Pass,771
+112654,37,MissedShots,0.764000015258789,0.5979999923706054,0.022740300744771957,Georginio Wijnaldum,h,771,SetPiece,2016,LeftFoot,3419,Liverpool,Burnley,2,1,2017-03-12 16:00:00,James Milner,Pass,771
+112656,45,Goal,0.9230000305175782,0.49700000762939456,0.5054709911346436,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,3419,Liverpool,Burnley,2,1,2017-03-12 16:00:00,,Rebound,771
+112655,45,BlockedShot,0.9130000305175782,0.5420000076293945,0.10287799686193466,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,3419,Liverpool,Burnley,2,1,2017-03-12 16:00:00,Divock Origi,Cross,771
+119597,13,MissedShots,0.8230000305175781,0.509000015258789,0.06576380133628845,Georginio Wijnaldum,h,771,OpenPlay,2016,LeftFoot,3449,Liverpool,Bournemouth,2,2,2017-04-05 20:00:00,Emre Can,Pass,771
+119598,18,BlockedShot,0.8490000152587891,0.46299999237060546,0.017437800765037537,Georginio Wijnaldum,h,771,OpenPlay,2016,Head,3449,Liverpool,Bournemouth,2,2,2017-04-05 20:00:00,Emre Can,Cross,771
+119602,24,SavedShot,0.76,0.47900001525878905,0.018620900809764862,Georginio Wijnaldum,h,771,FromCorner,2016,RightFoot,3449,Liverpool,Bournemouth,2,2,2017-04-05 20:00:00,,None,771
+119612,56,MissedShots,0.8019999694824219,0.534000015258789,0.051427800208330154,Georginio Wijnaldum,h,771,OpenPlay,2016,LeftFoot,3449,Liverpool,Bournemouth,2,2,2017-04-05 20:00:00,Roberto Firmino,Pass,771
+120216,64,MissedShots,0.815,0.4929999923706055,0.031881801784038544,Georginio Wijnaldum,a,771,FromCorner,2016,LeftFoot,3451,Stoke,Liverpool,1,2,2017-04-08 15:00:00,Roberto Firmino,Pass,771
+121561,59,BlockedShot,0.7930000305175782,0.5129999923706055,0.04838860034942627,Georginio Wijnaldum,a,771,OpenPlay,2016,LeftFoot,3469,West Bromwich Albion,Liverpool,0,1,2017-04-16 13:30:00,Roberto Firmino,Pass,771
+120816,2,BlockedShot,0.865,0.5709999847412109,0.0602525994181633,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,3476,Liverpool,Crystal Palace,1,2,2017-04-23 16:30:00,James Milner,Cross,771
+121126,25,BlockedShot,0.745,0.5179999923706055,0.013827200047671795,Georginio Wijnaldum,a,771,SetPiece,2016,RightFoot,3488,Watford,Liverpool,0,1,2017-05-01 20:00:00,,None,771
+121528,12,MissedShots,0.9080000305175782,0.43900001525878907,0.06998059898614883,Georginio Wijnaldum,h,771,OpenPlay,2016,Head,3496,Liverpool,Southampton,0,0,2017-05-07 13:30:00,James Milner,Cross,771
+120689,46,SavedShot,0.8969999694824219,0.3890000152587891,0.11699999868869781,Georginio Wijnaldum,a,771,OpenPlay,2016,RightFoot,3509,West Ham,Liverpool,0,4,2017-05-14 14:15:00,Emre Can,Pass,771
+120691,56,ShotOnPost,0.7419999694824219,0.44099998474121094,0.02561810053884983,Georginio Wijnaldum,a,771,OpenPlay,2016,RightFoot,3509,West Ham,Liverpool,0,4,2017-05-14 14:15:00,,None,771
+120700,75,MissedShots,0.9019999694824219,0.524000015258789,0.13391900062561035,Georginio Wijnaldum,a,771,OpenPlay,2016,RightFoot,3509,West Ham,Liverpool,0,4,2017-05-14 14:15:00,,Rebound,771
+112502,15,BlockedShot,0.8909999847412109,0.5359999847412109,0.09128420054912567,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,Roberto Firmino,HeadPass,771
+112506,19,BlockedShot,0.7759999847412109,0.38,0.016942400485277176,Georginio Wijnaldum,h,771,SetPiece,2016,RightFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,,Rebound,771
+112517,45,Goal,0.9069999694824219,0.3509999847412109,0.24640899896621704,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,Roberto Firmino,Pass,771
+112525,66,MissedShots,0.9080000305175782,0.54,0.14343500137329102,Georginio Wijnaldum,h,771,OpenPlay,2016,RightFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,Roberto Firmino,Pass,771
+158362,85,MissedShots,0.8530000305175781,0.5320000076293945,0.1066799983382225,Georginio Wijnaldum,a,771,OpenPlay,2017,RightFoot,7120,Watford,Liverpool,3,3,2017-08-12 12:30:00,Sadio Mané,Pass,771
+158367,97,BlockedShot,0.8430000305175781,0.5220000076293946,0.047608599066734314,Georginio Wijnaldum,a,771,OpenPlay,2017,RightFoot,7120,Watford,Liverpool,3,3,2017-08-12 12:30:00,Joseph Gomez,Cross,771
+158495,53,SavedShot,0.7619999694824219,0.500999984741211,0.0190615002065897,Georginio Wijnaldum,h,771,FromCorner,2017,RightFoot,7134,Liverpool,Crystal Palace,1,0,2017-08-19 15:00:00,,None,771
+158502,69,BlockedShot,0.9030000305175782,0.42900001525878906,0.15683099627494812,Georginio Wijnaldum,h,771,OpenPlay,2017,RightFoot,7134,Liverpool,Crystal Palace,1,0,2017-08-19 15:00:00,,TakeOn,771
+158673,33,MissedShots,0.779000015258789,0.45799999237060546,0.022365499287843704,Georginio Wijnaldum,h,771,FromCorner,2017,RightFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,,None,771
+159354,32,SavedShot,0.8730000305175781,0.5320000076293945,0.02445870079100132,Georginio Wijnaldum,a,771,FromCorner,2017,Head,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Alberto Moreno,Cross,771
+159376,84,MissedShots,0.865999984741211,0.6409999847412109,0.07930420339107513,Georginio Wijnaldum,a,771,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Alex Oxlade-Chamberlain,Pass,771
+160280,22,BlockedShot,0.9219999694824219,0.39599998474121095,0.05471400171518326,Georginio Wijnaldum,a,771,FromCorner,2017,RightFoot,7188,Newcastle United,Liverpool,1,1,2017-10-01 16:30:00,Philippe Coutinho,Cross,771
+160287,47,MissedShots,0.8919999694824219,0.5629999923706055,0.0492573007941246,Georginio Wijnaldum,a,771,OpenPlay,2017,Head,7188,Newcastle United,Liverpool,1,1,2017-10-01 16:30:00,Mohamed Salah,Cross,771
+160492,6,SavedShot,0.9169999694824219,0.575,0.13131199777126312,Georginio Wijnaldum,h,771,OpenPlay,2017,RightFoot,7193,Liverpool,Manchester United,0,0,2017-10-14 12:30:00,Roberto Firmino,Pass,771
+160494,13,SavedShot,0.7909999847412109,0.35200000762939454,0.02862980030477047,Georginio Wijnaldum,h,771,OpenPlay,2017,LeftFoot,7193,Liverpool,Manchester United,0,0,2017-10-14 12:30:00,Mohamed Salah,Pass,771
+160509,54,MissedShots,0.879000015258789,0.46700000762939453,0.0954940989613533,Georginio Wijnaldum,h,771,OpenPlay,2017,RightFoot,7193,Liverpool,Manchester United,0,0,2017-10-14 12:30:00,,Rebound,771
+160025,39,BlockedShot,0.72,0.5579999923706055,0.01278540026396513,Georginio Wijnaldum,h,771,OpenPlay,2017,RightFoot,7217,Liverpool,Huddersfield,3,0,2017-10-28 15:00:00,Daniel Sturridge,LayOff,771
+160035,74,Goal,0.88,0.38299999237060545,0.11894600093364716,Georginio Wijnaldum,h,771,OpenPlay,2017,RightFoot,7217,Liverpool,Huddersfield,3,0,2017-10-28 15:00:00,Mohamed Salah,Pass,771
+160812,8,BlockedShot,0.7619999694824219,0.3320000076293945,0.023124700412154198,Georginio Wijnaldum,h,771,OpenPlay,2017,RightFoot,7231,Liverpool,Southampton,3,0,2017-11-18 15:00:00,,TakeOn,771
+160816,21,SavedShot,0.7780000305175782,0.35700000762939454,0.02080399915575981,Georginio Wijnaldum,h,771,OpenPlay,2017,RightFoot,7231,Liverpool,Southampton,3,0,2017-11-18 15:00:00,Sadio Mané,Pass,771
+160831,67,BlockedShot,0.840999984741211,0.56,0.051232099533081055,Georginio Wijnaldum,h,771,FromCorner,2017,RightFoot,7231,Liverpool,Southampton,3,0,2017-11-18 15:00:00,Ragnar Klavan,Pass,771
+161295,77,BlockedShot,0.8290000152587891,0.53,0.0912339985370636,Georginio Wijnaldum,h,771,OpenPlay,2017,RightFoot,7244,Liverpool,Chelsea,1,1,2017-11-25 17:30:00,Philippe Coutinho,Pass,771
+161296,80,SavedShot,0.9330000305175781,0.534000015258789,0.30392399430274963,Georginio Wijnaldum,h,771,FromCorner,2017,OtherBodyPart,7244,Liverpool,Chelsea,1,1,2017-11-25 17:30:00,Philippe Coutinho,TakeOn,771
+161309,51,BlockedShot,0.8209999847412109,0.555,0.07236179709434509,Georginio Wijnaldum,a,771,OpenPlay,2017,RightFoot,7258,Stoke,Liverpool,0,3,2017-11-29 20:00:00,Sadio Mané,Pass,771
+161321,87,SavedShot,0.7859999847412109,0.515,0.1042570024728775,Georginio Wijnaldum,a,771,DirectFreekick,2017,RightFoot,7258,Stoke,Liverpool,0,3,2017-11-29 20:00:00,,Standard,771
+185342,64,BlockedShot,0.9630000305175781,0.53,0.6396139860153198,Georginio Wijnaldum,h,771,OpenPlay,2017,RightFoot,7287,Liverpool,West Bromwich Albion,0,0,2017-12-13 20:00:00,,None,771
+186282,30,MissedShots,0.7419999694824219,0.36700000762939455,0.018116900697350502,Georginio Wijnaldum,a,771,OpenPlay,2017,RightFoot,7332,Burnley,Liverpool,1,2,2018-01-01 15:00:00,Adam Lallana,Pass,771
+186290,52,MissedShots,0.909000015258789,0.525,0.03402569890022278,Georginio Wijnaldum,a,771,FromCorner,2017,Head,7332,Burnley,Liverpool,1,2,2018-01-01 15:00:00,Alex Oxlade-Chamberlain,Aerial,771
+186294,66,MissedShots,0.95,0.3820000076293945,0.051208898425102234,Georginio Wijnaldum,a,771,FromCorner,2017,RightFoot,7332,Burnley,Liverpool,1,2,2018-01-01 15:00:00,Alex Oxlade-Chamberlain,Cross,771
+187942,37,BlockedShot,0.7709999847412109,0.3509999847412109,0.028591599315404892,Georginio Wijnaldum,h,771,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Joseph Gomez,Pass,771
+187958,81,MissedShots,0.7580000305175781,0.54,0.02456749975681305,Georginio Wijnaldum,h,771,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Roberto Firmino,Pass,771
+193954,62,MissedShots,0.755,0.5640000152587891,0.02749820053577423,Georginio Wijnaldum,a,771,OpenPlay,2017,RightFoot,7384,Southampton,Liverpool,0,2,2018-02-11 16:30:00,Mohamed Salah,Pass,771
+199842,89,BlockedShot,0.7819999694824219,0.415,0.025576800107955933,Georginio Wijnaldum,a,771,SetPiece,2017,RightFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Dominic Solanke,Pass,771
+201634,22,BlockedShot,0.7530000305175781,0.519000015258789,0.01752760075032711,Georginio Wijnaldum,h,771,FromCorner,2017,LeftFoot,7423,Liverpool,Watford,5,0,2018-03-17 17:30:00,,None,771
+206989,8,MissedShots,0.7269999694824218,0.575,0.014584300108253956,Georginio Wijnaldum,a,771,OpenPlay,2017,RightFoot,7443,Everton,Liverpool,0,0,2018-04-07 11:30:00,Dominic Solanke,Pass,771
+211484,27,MissedShots,0.8430000305175781,0.6309999847412109,0.051266200840473175,Georginio Wijnaldum,h,771,OpenPlay,2017,RightFoot,7472,Liverpool,Stoke,0,0,2018-04-28 11:30:00,,None,771
+211483,27,BlockedShot,0.8180000305175781,0.5940000152587891,0.0719941034913063,Georginio Wijnaldum,h,771,OpenPlay,2017,RightFoot,7472,Liverpool,Stoke,0,0,2018-04-28 11:30:00,Danny Ings,LayOff,771
+211486,40,MissedShots,0.879000015258789,0.61,0.0902412012219429,Georginio Wijnaldum,h,771,OpenPlay,2017,RightFoot,7472,Liverpool,Stoke,0,0,2018-04-28 11:30:00,Danny Ings,Pass,771
+211489,54,BlockedShot,0.8230000305175781,0.720999984741211,0.02442209981381893,Georginio Wijnaldum,h,771,OpenPlay,2017,RightFoot,7472,Liverpool,Stoke,0,0,2018-04-28 11:30:00,Roberto Firmino,Pass,771
+211503,93,MissedShots,0.9130000305175782,0.49700000762939456,0.11531499773263931,Georginio Wijnaldum,h,771,OpenPlay,2017,Head,7472,Liverpool,Stoke,0,0,2018-04-28 11:30:00,James Milner,Cross,771
+215743,34,SavedShot,0.8969999694824219,0.42200000762939455,0.12743200361728668,Georginio Wijnaldum,h,771,OpenPlay,2017,RightFoot,7495,Liverpool,Brighton,4,0,2018-05-13 15:00:00,Sadio Mané,Pass,771
+215750,49,BlockedShot,0.7230000305175781,0.4329999923706055,0.014059499837458134,Georginio Wijnaldum,h,771,FromCorner,2017,RightFoot,7495,Liverpool,Brighton,4,0,2018-05-13 15:00:00,,None,771
+232792,24,MissedShots,0.894000015258789,0.43599998474121093,0.14113099873065948,Georginio Wijnaldum,h,771,OpenPlay,2018,LeftFoot,9205,Liverpool,West Ham,4,0,2018-08-12 15:30:00,Naby Keita,TakeOn,771
+232805,72,MissedShots,0.7440000152587891,0.5279999923706055,0.025920700281858444,Georginio Wijnaldum,h,771,OpenPlay,2018,RightFoot,9205,Liverpool,West Ham,4,0,2018-08-12 15:30:00,Sadio Mané,Pass,771
+232807,79,BlockedShot,0.8280000305175781,0.4779999923706055,0.09694179892539978,Georginio Wijnaldum,h,771,OpenPlay,2018,RightFoot,9205,Liverpool,West Ham,4,0,2018-08-12 15:30:00,Mohamed Salah,Pass,771
+233320,30,SavedShot,0.9319999694824219,0.35400001525878905,0.05590580031275749,Georginio Wijnaldum,h,771,FromCorner,2018,RightFoot,9223,Liverpool,Brighton,1,0,2018-08-25 19:30:00,James Milner,Pass,771
+233335,86,BlockedShot,0.9719999694824218,0.41900001525878905,0.09541869908571243,Georginio Wijnaldum,h,771,FromCorner,2018,RightFoot,9223,Liverpool,Brighton,1,0,2018-08-25 19:30:00,Mohamed Salah,Cross,771
+233339,91,BlockedShot,0.86,0.575999984741211,0.08843869715929031,Georginio Wijnaldum,h,771,OpenPlay,2018,RightFoot,9223,Liverpool,Brighton,1,0,2018-08-25 19:30:00,,None,771
+233648,20,BlockedShot,0.879000015258789,0.6090000152587891,0.11112900078296661,Georginio Wijnaldum,a,771,OpenPlay,2018,LeftFoot,9227,Leicester,Liverpool,1,2,2018-09-01 11:30:00,Sadio Mané,Pass,771
+233921,38,Goal,0.9269999694824219,0.4540000152587891,0.04775780066847801,Georginio Wijnaldum,a,771,FromCorner,2018,Head,9237,Tottenham,Liverpool,1,2,2018-09-15 11:30:00,,Aerial,771
+233922,42,MissedShots,0.92,0.3320000076293945,0.0951727032661438,Georginio Wijnaldum,a,771,OpenPlay,2018,RightFoot,9237,Tottenham,Liverpool,1,2,2018-09-15 11:30:00,Mohamed Salah,Pass,771
+234182,30,MissedShots,0.7869999694824219,0.5059999847412109,0.034944698214530945,Georginio Wijnaldum,h,771,OpenPlay,2018,RightFoot,9249,Liverpool,Southampton,3,0,2018-09-22 14:00:00,,None,771
+249479,9,BlockedShot,0.9219999694824219,0.4620000076293945,0.48479899764060974,Georginio Wijnaldum,h,771,OpenPlay,2018,RightFoot,9288,Liverpool,Cardiff,4,1,2018-10-27 14:00:00,,Rebound,771
+249872,8,MissedShots,0.8519999694824218,0.3920000076293945,0.07225749641656876,Georginio Wijnaldum,a,771,OpenPlay,2018,RightFoot,9303,Arsenal,Liverpool,1,1,2018-11-03 17:30:00,Mohamed Salah,Pass,771
+251024,85,MissedShots,0.9009999847412109,0.5359999847412109,0.06949520111083984,Georginio Wijnaldum,a,771,FromCorner,2018,Head,9355,Bournemouth,Liverpool,0,4,2018-12-08 12:30:00,Andrew Robertson,Cross,771
+251469,68,SavedShot,0.789000015258789,0.37099998474121093,0.021103400737047195,Georginio Wijnaldum,h,771,OpenPlay,2018,RightFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,,Rebound,771
+251472,74,MissedShots,0.7909999847412109,0.425,0.05451570078730583,Georginio Wijnaldum,h,771,OpenPlay,2018,LeftFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,Roberto Firmino,TakeOn,771
+251475,82,SavedShot,0.8109999847412109,0.48200000762939454,0.07459499686956406,Georginio Wijnaldum,h,771,OpenPlay,2018,RightFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,Xherdan Shaqiri,Pass,771
+251506,94,MissedShots,0.865999984741211,0.44299999237060544,0.45082300901412964,Georginio Wijnaldum,a,771,OpenPlay,2018,RightFoot,9367,Wolverhampton Wanderers,Liverpool,0,2,2018-12-21 20:00:00,,None,771
+274362,84,BlockedShot,0.9669999694824218,0.6140000152587891,0.07722269743680954,Georginio Wijnaldum,a,771,FromCorner,2018,RightFoot,9400,Manchester City,Liverpool,2,1,2019-01-03 20:00:00,,None,771
+274433,79,MissedShots,0.8159999847412109,0.46799999237060547,0.04396190121769905,Georginio Wijnaldum,a,771,FromCorner,2018,LeftFoot,9416,Brighton,Liverpool,0,1,2019-01-12 15:00:00,Mohamed Salah,Pass,771
+275495,33,Goal,0.91,0.6680000305175782,0.079749196767807,Georginio Wijnaldum,h,771,OpenPlay,2018,RightFoot,9455,Liverpool,Bournemouth,3,0,2019-02-09 15:00:00,Andrew Robertson,Chipped,771
+275497,46,SavedShot,0.77,0.5359999847412109,0.020355399698019028,Georginio Wijnaldum,h,771,FromCorner,2018,LeftFoot,9455,Liverpool,Bournemouth,3,0,2019-02-09 15:00:00,,None,771
+275837,65,MissedShots,0.805,0.7030000305175781,0.023288799449801445,Georginio Wijnaldum,a,771,OpenPlay,2018,RightFoot,9459,Manchester United,Liverpool,0,0,2019-02-24 14:05:00,Andrew Robertson,Pass,771
+275838,69,BlockedShot,0.909000015258789,0.5029999923706054,0.08079870045185089,Georginio Wijnaldum,a,771,FromCorner,2018,Head,9459,Manchester United,Liverpool,0,0,2019-02-24 14:05:00,James Milner,Cross,771
+276057,63,SavedShot,0.78,0.38799999237060545,0.04368060082197189,Georginio Wijnaldum,h,771,OpenPlay,2018,LeftFoot,9476,Liverpool,Watford,5,0,2019-02-27 20:00:00,,TakeOn,771
+284937,66,MissedShots,0.9280000305175782,0.515,0.14651499688625336,Georginio Wijnaldum,h,771,OpenPlay,2018,Head,9490,Liverpool,Burnley,4,2,2019-03-10 12:00:00,Andrew Robertson,Cross,771
+286759,46,MissedShots,0.905,0.3,0.06732480227947235,Georginio Wijnaldum,a,771,OpenPlay,2018,RightFoot,9502,Fulham,Liverpool,1,2,2019-03-17 14:15:00,,Dispossessed,771
+286762,51,MissedShots,0.9640000152587891,0.4520000076293945,0.14190100133419037,Georginio Wijnaldum,a,771,OpenPlay,2018,Head,9502,Fulham,Liverpool,1,2,2019-03-17 14:15:00,Andrew Robertson,Aerial,771
+286771,84,MissedShots,0.8019999694824219,0.49700000762939456,0.06316950172185898,Georginio Wijnaldum,a,771,OpenPlay,2018,RightFoot,9502,Fulham,Liverpool,1,2,2019-03-17 14:15:00,James Milner,Pass,771
+296015,56,Goal,0.8969999694824219,0.45099998474121095,0.061717599630355835,Georginio Wijnaldum,a,771,FromCorner,2018,RightFoot,9544,Cardiff,Liverpool,0,2,2019-04-21 16:00:00,Trent Alexander-Arnold,Cross,771
+301367,73,MissedShots,0.9830000305175781,0.40799999237060547,0.3101690113544464,Georginio Wijnaldum,h,771,OpenPlay,2018,RightFoot,9571,Liverpool,Wolverhampton Wanderers,2,0,2019-05-12 14:00:00,Andrew Robertson,Chipped,771
+312699,8,MissedShots,0.9159999847412109,0.3940000152587891,0.05246429890394211,Georginio Wijnaldum,h,771,FromCorner,2019,LeftFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Trent Alexander-Arnold,Cross,771
+312716,46,BlockedShot,0.8190000152587891,0.44,0.0699630007147789,Georginio Wijnaldum,h,771,OpenPlay,2019,LeftFoot,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,,BallTouch,771
+316011,35,SavedShot,0.7880000305175782,0.49900001525878906,0.02926350012421608,Georginio Wijnaldum,a,771,SetPiece,2019,RightFoot,11680,Burnley,Liverpool,0,3,2019-08-31 17:30:00,Roberto Firmino,Pass,771
+317034,45,SavedShot,0.8159999847412109,0.45,0.06582140177488327,Georginio Wijnaldum,h,771,OpenPlay,2019,RightFoot,11683,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,,None,771
+317036,48,MissedShots,0.86,0.6329999923706054,0.0853039026260376,Georginio Wijnaldum,h,771,OpenPlay,2019,RightFoot,11683,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,Andrew Robertson,Pass,771
+321275,64,MissedShots,0.8,0.4779999923706055,0.0665121003985405,Georginio Wijnaldum,a,771,OpenPlay,2019,LeftFoot,11701,Chelsea,Liverpool,1,2,2019-09-22 15:30:00,Roberto Firmino,Pass,771
+322355,15,BlockedShot,0.8130000305175781,0.53,0.019545799121260643,Georginio Wijnaldum,a,771,OpenPlay,2019,LeftFoot,11703,Sheffield United,Liverpool,0,1,2019-09-28 11:30:00,,Aerial,771
+322363,37,MissedShots,0.794000015258789,0.5879999923706055,0.034314900636672974,Georginio Wijnaldum,a,771,OpenPlay,2019,RightFoot,11703,Sheffield United,Liverpool,0,1,2019-09-28 11:30:00,,None,771
+322371,69,Goal,0.8240000152587891,0.4570000076293945,0.02201239950954914,Georginio Wijnaldum,a,771,OpenPlay,2019,RightFoot,11703,Sheffield United,Liverpool,0,1,2019-09-28 11:30:00,,Aerial,771
+322375,78,MissedShots,0.8090000152587891,0.685,0.019645899534225464,Georginio Wijnaldum,a,771,FromCorner,2019,RightFoot,11703,Sheffield United,Liverpool,0,1,2019-09-28 11:30:00,,None,771
+324103,69,SavedShot,0.8440000152587891,0.3890000152587891,0.08484870195388794,Georginio Wijnaldum,h,771,OpenPlay,2019,RightFoot,11715,Liverpool,Leicester,2,1,2019-10-05 15:00:00,Roberto Firmino,Pass,771
+326443,12,SavedShot,0.754000015258789,0.4620000076293945,0.022687600925564766,Georginio Wijnaldum,a,771,OpenPlay,2019,RightFoot,11729,Manchester United,Liverpool,1,1,2019-10-20 16:30:00,Andrew Robertson,Pass,771
+328022,59,SavedShot,0.8969999694824219,0.4909999847412109,0.04094719886779785,Georginio Wijnaldum,h,771,OpenPlay,2019,Head,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Fabinho,Aerial,771
+329252,48,SavedShot,0.7759999847412109,0.7140000152587891,0.017983300611376762,Georginio Wijnaldum,a,771,OpenPlay,2019,RightFoot,11744,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,Roberto Firmino,Pass,771
+331549,20,MissedShots,0.870999984741211,0.6790000152587891,0.07804670184850693,Georginio Wijnaldum,h,771,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Sadio Mané,Pass,771
+331559,46,MissedShots,0.8640000152587891,0.41,0.030311599373817444,Georginio Wijnaldum,h,771,SetPiece,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Trent Alexander-Arnold,Cross,771
+332281,94,SavedShot,0.855999984741211,0.35200000762939454,0.09411720186471939,Georginio Wijnaldum,a,771,OpenPlay,2019,RightFoot,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,Sadio Mané,Pass,771
+333643,10,MissedShots,0.874000015258789,0.6890000152587891,0.01810389943420887,Georginio Wijnaldum,h,771,OpenPlay,2019,RightFoot,11776,Liverpool,Brighton,2,1,2019-11-30 15:00:00,,Aerial,771
+335167,77,MissedShots,0.9059999847412109,0.605999984741211,0.0397660993039608,Georginio Wijnaldum,h,771,SetPiece,2019,Head,11792,Liverpool,Everton,5,2,2019-12-04 20:15:00,Xherdan Shaqiri,Cross,771
+335171,89,Goal,0.8930000305175781,0.6179999923706054,0.11364199966192245,Georginio Wijnaldum,h,771,OpenPlay,2019,RightFoot,11792,Liverpool,Everton,5,2,2019-12-04 20:15:00,Roberto Firmino,Pass,771
+339688,76,MissedShots,0.88,0.4470000076293945,0.04174510017037392,Georginio Wijnaldum,a,771,OpenPlay,2019,Head,11828,Leicester,Liverpool,0,4,2019-12-26 20:00:00,Andrew Robertson,Cross,771
+339928,14,MissedShots,0.8680000305175781,0.534000015258789,0.07327450066804886,Georginio Wijnaldum,h,771,FromCorner,2019,RightFoot,11836,Liverpool,Wolverhampton Wanderers,1,0,2019-12-29 16:30:00,,None,771
+339936,52,BlockedShot,0.9,0.46099998474121096,0.01908710040152073,Georginio Wijnaldum,h,771,FromCorner,2019,Head,11836,Liverpool,Wolverhampton Wanderers,1,0,2019-12-29 16:30:00,Trent Alexander-Arnold,Aerial,771
+351615,18,MissedShots,0.855999984741211,0.555,0.10589999705553055,Georginio Wijnaldum,h,771,OpenPlay,2019,RightFoot,11847,Liverpool,Sheffield United,2,0,2020-01-02 20:00:00,Sadio Mané,Pass,771
+351795,91,SavedShot,0.9019999694824219,0.505,0.05910259857773781,Georginio Wijnaldum,a,771,OpenPlay,2019,Head,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Xherdan Shaqiri,Aerial,771
+352539,25,SavedShot,0.8930000305175781,0.40099998474121096,0.10983999818563461,Georginio Wijnaldum,h,771,OpenPlay,2019,RightFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,Fabinho,Pass,771
+353137,8,Goal,0.914000015258789,0.46599998474121096,0.1069289967417717,Georginio Wijnaldum,h,771,OpenPlay,2019,Head,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Trent Alexander-Arnold,Cross,771
+366427,7,MissedShots,0.9119999694824219,0.5659999847412109,0.09995169937610626,Georginio Wijnaldum,h,771,OpenPlay,2019,RightFoot,11951,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,,None,771
+366436,36,MissedShots,0.87,0.575,0.11438799649477005,Georginio Wijnaldum,h,771,OpenPlay,2019,RightFoot,11951,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,Sadio Mané,Pass,771
+366443,56,SavedShot,0.925,0.534000015258789,0.5853999853134155,Georginio Wijnaldum,h,771,OpenPlay,2019,LeftFoot,11951,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,Sadio Mané,Pass,771
+369895,85,MissedShots,0.965999984741211,0.5570000076293945,0.10482099652290344,Georginio Wijnaldum,a,771,SetPiece,2019,Head,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Virgil van Dijk,Aerial,771
+370434,61,BlockedShot,0.855999984741211,0.49700000762939456,0.07129109650850296,Georginio Wijnaldum,h,771,FromCorner,2019,RightFoot,11986,Liverpool,Burnley,1,1,2020-07-11 14:00:00,,Rebound,771
+371644,59,MissedShots,0.9019999694824219,0.49700000762939456,0.047941699624061584,Georginio Wijnaldum,a,771,OpenPlay,2019,Head,11993,Arsenal,Liverpool,2,1,2020-07-15 19:15:00,Trent Alexander-Arnold,Chipped,771
+371649,81,BlockedShot,0.7480000305175781,0.3920000076293945,0.019499899819493294,Georginio Wijnaldum,a,771,OpenPlay,2019,RightFoot,11993,Arsenal,Liverpool,2,1,2020-07-15 19:15:00,Sadio Mané,Pass,771
+373306,31,SavedShot,0.9319999694824219,0.65,0.013161400333046913,Georginio Wijnaldum,h,771,FromCorner,2019,Head,12006,Liverpool,Chelsea,5,3,2020-07-22 19:15:00,Trent Alexander-Arnold,Cross,771
+373309,42,Goal,0.9059999847412109,0.5840000152587891,0.07344800233840942,Georginio Wijnaldum,h,771,FromCorner,2019,RightFoot,12006,Liverpool,Chelsea,5,3,2020-07-22 19:15:00,Mohamed Salah,Pass,771
+376613,48,SavedShot,0.8909999847412109,0.5429999923706055,0.12067999690771103,Georginio Wijnaldum,h,771,OpenPlay,2020,RightFoot,14090,Liverpool,Leeds,4,3,2020-09-12 16:30:00,Sadio Mané,BallTouch,771
+376624,77,BlockedShot,0.860999984741211,0.5309999847412109,0.10385700315237045,Georginio Wijnaldum,h,771,OpenPlay,2020,RightFoot,14090,Liverpool,Leeds,4,3,2020-09-12 16:30:00,Mohamed Salah,Pass,771
+387022,11,MissedShots,0.755,0.4779999923706055,0.02193789929151535,Georginio Wijnaldum,a,771,OpenPlay,2020,RightFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Mohamed Salah,Pass,771
+387024,13,MissedShots,0.8719999694824219,0.545,0.04830620065331459,Georginio Wijnaldum,a,771,FromCorner,2020,RightFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Trent Alexander-Arnold,Cross,771
+387033,65,SavedShot,0.9059999847412109,0.305,0.0708685964345932,Georginio Wijnaldum,a,771,OpenPlay,2020,RightFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,Roberto Firmino,Pass,771
+387044,92,MissedShots,0.9590000152587891,0.48700000762939455,0.7576490044593811,Georginio Wijnaldum,a,771,OpenPlay,2020,RightFoot,14102,Chelsea,Liverpool,0,2,2020-09-20 15:30:00,,Rebound,771
+380000,23,SavedShot,0.8109999847412109,0.5070000076293946,0.058805398643016815,Georginio Wijnaldum,h,771,OpenPlay,2020,RightFoot,14115,Liverpool,Arsenal,3,1,2020-09-28 19:15:00,Naby Keita,Pass,771
+383634,16,MissedShots,0.8219999694824218,0.534000015258789,0.05614680051803589,Georginio Wijnaldum,h,771,SetPiece,2020,LeftFoot,14490,Liverpool,Sheffield United,2,1,2020-10-24 19:00:00,,BallTouch,771
+383659,87,BlockedShot,0.805,0.4520000076293945,0.060986701399087906,Georginio Wijnaldum,h,771,OpenPlay,2020,LeftFoot,14490,Liverpool,Sheffield United,2,1,2020-10-24 19:00:00,Mohamed Salah,Pass,771
+391027,57,Goal,0.8190000152587891,0.53,0.12481000274419785,Georginio Wijnaldum,h,771,OpenPlay,2020,RightFoot,14539,Liverpool,Wolverhampton Wanderers,4,0,2020-12-06 19:15:00,Jordan Henderson,Chipped,771
+392332,77,BlockedShot,0.7730000305175782,0.5659999847412109,0.08143159747123718,Georginio Wijnaldum,a,771,DirectFreekick,2020,RightFoot,14547,Fulham,Liverpool,1,1,2020-12-13 16:30:00,,Standard,771
+395787,22,MissedShots,0.9230000305175782,0.415,0.05423640087246895,Georginio Wijnaldum,h,771,FromCorner,2020,Head,14580,Liverpool,West Bromwich Albion,1,1,2020-12-27 16:30:00,Trent Alexander-Arnold,Cross,771
+397114,12,MissedShots,0.9159999847412109,0.47200000762939454,0.08859629929065704,Georginio Wijnaldum,a,771,FromCorner,2020,Head,14598,Southampton,Liverpool,1,0,2021-01-04 20:00:00,Trent Alexander-Arnold,Cross,771
+397123,49,BlockedShot,0.9059999847412109,0.38,0.06570179760456085,Georginio Wijnaldum,a,771,OpenPlay,2020,RightFoot,14598,Southampton,Liverpool,1,0,2021-01-04 20:00:00,,None,771
+399465,24,BlockedShot,0.7909999847412109,0.5729999923706055,0.03718600049614906,Georginio Wijnaldum,h,771,OpenPlay,2020,RightFoot,14620,Liverpool,Manchester United,0,0,2021-01-17 16:30:00,,None,771
+400174,13,BlockedShot,0.7759999847412109,0.6329999923706054,0.025197800248861313,Georginio Wijnaldum,h,771,OpenPlay,2020,LeftFoot,14613,Liverpool,Burnley,0,1,2021-01-21 20:00:00,Thiago Alcántara,Pass,771
+401374,60,MissedShots,0.794000015258789,0.7290000152587891,0.02001350000500679,Georginio Wijnaldum,a,771,OpenPlay,2020,RightFoot,14633,Tottenham,Liverpool,1,3,2021-01-28 20:00:00,James Milner,Pass,771
+402238,7,MissedShots,0.7709999847412109,0.31,0.0180565994232893,Georginio Wijnaldum,a,771,OpenPlay,2020,RightFoot,14639,West Ham,Liverpool,1,3,2021-01-31 16:30:00,,BallRecovery,771
+402257,83,Goal,0.914000015258789,0.42900001525878906,0.5219089984893799,Georginio Wijnaldum,a,771,OpenPlay,2020,RightFoot,14639,West Ham,Liverpool,1,3,2021-01-31 16:30:00,Roberto Firmino,Pass,771
+405686,10,MissedShots,0.9290000152587891,0.4209999847412109,0.02367500029504299,Georginio Wijnaldum,h,771,FromCorner,2020,Head,14680,Liverpool,Everton,0,2,2021-02-20 17:30:00,Trent Alexander-Arnold,Aerial,771
+405706,91,SavedShot,0.82,0.72,0.025091199204325676,Georginio Wijnaldum,h,771,OpenPlay,2020,RightFoot,14680,Liverpool,Everton,0,2,2021-02-20 17:30:00,Roberto Firmino,Pass,771
+407549,38,SavedShot,0.8280000305175781,0.46799999237060547,0.07464610040187836,Georginio Wijnaldum,a,771,OpenPlay,2020,RightFoot,14694,Sheffield United,Liverpool,0,2,2021-02-28 19:15:00,Thiago Alcántara,Pass,771
+408302,84,SavedShot,0.89,0.5540000152587891,0.02530590072274208,Georginio Wijnaldum,h,771,OpenPlay,2020,Head,14719,Liverpool,Chelsea,0,1,2021-03-04 20:15:00,Trent Alexander-Arnold,Aerial,771
+412840,80,SavedShot,0.754000015258789,0.529000015258789,0.023552799597382545,Georginio Wijnaldum,a,771,OpenPlay,2020,RightFoot,14725,Arsenal,Liverpool,0,3,2021-04-03 19:00:00,,None,771
+413883,41,BlockedShot,0.8719999694824219,0.3110000038146973,0.04511350020766258,Georginio Wijnaldum,h,771,OpenPlay,2020,RightFoot,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,,None,771
+416147,26,MissedShots,0.9540000152587891,0.6270000076293946,0.0215792004019022,Georginio Wijnaldum,a,771,FromCorner,2020,Head,14749,Leeds,Liverpool,1,1,2021-04-19 19:00:00,Andrew Robertson,Cross,771
+416153,40,BlockedShot,0.77,0.4329999923706055,0.035511501133441925,Georginio Wijnaldum,a,771,OpenPlay,2020,LeftFoot,14749,Leeds,Liverpool,1,1,2021-04-19 19:00:00,Thiago Alcántara,Pass,771
+420346,25,ShotOnPost,0.9069999694824219,0.4540000152587891,0.02251650020480156,Georginio Wijnaldum,h,771,FromCorner,2020,Head,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Trent Alexander-Arnold,Aerial,771
+422469,89,MissedShots,0.850999984741211,0.525,0.097632497549057,Georginio Wijnaldum,a,771,OpenPlay,2020,RightFoot,14789,West Bromwich Albion,Liverpool,1,2,2021-05-16 15:30:00,Mohamed Salah,Pass,771
+422470,90,BlockedShot,0.7580000305175781,0.7019999694824218,0.014783499762415886,Georginio Wijnaldum,a,771,OpenPlay,2020,RightFoot,14789,West Bromwich Albion,Liverpool,1,2,2021-05-16 15:30:00,Andrew Robertson,Pass,771
+424066,76,MissedShots,0.875999984741211,0.34200000762939453,0.07164370268583298,Georginio Wijnaldum,h,771,OpenPlay,2020,RightFoot,14810,Liverpool,Crystal Palace,2,0,2021-05-23 15:00:00,,Dispossessed,771
+425243,39,BlockedShot,0.9009999847412109,0.4159999847412109,0.12696699798107147,Georginio Wijnaldum,a,771,OpenPlay,2021,RightFoot,17824,Troyes,Paris Saint Germain,1,2,2021-08-07 19:00:00,Achraf Hakimi,Pass,771
+425244,41,BlockedShot,0.8669999694824219,0.5479999923706055,0.08284900337457657,Georginio Wijnaldum,a,771,OpenPlay,2021,RightFoot,17824,Troyes,Paris Saint Germain,1,2,2021-08-07 19:00:00,Mauro Icardi,HeadPass,771
+426754,35,BlockedShot,0.87,0.4470000076293945,0.094896599650383,Georginio Wijnaldum,a,771,OpenPlay,2021,RightFoot,17842,Brest,Paris Saint Germain,2,4,2021-08-20 19:00:00,Achraf Hakimi,HeadPass,771
+429465,19,BlockedShot,0.904000015258789,0.38,0.10445400327444077,Georginio Wijnaldum,a,771,OpenPlay,2021,LeftFoot,17861,Reims,Paris Saint Germain,0,2,2021-08-29 18:45:00,,BallRecovery,771
+429466,20,BlockedShot,0.7480000305175781,0.4,0.027185700833797455,Georginio Wijnaldum,a,771,OpenPlay,2021,RightFoot,17861,Reims,Paris Saint Germain,0,2,2021-08-29 18:45:00,Ángel Di María,BallTouch,771
+432222,88,BlockedShot,0.9030000305175782,0.5529999923706055,0.08201439678668976,Georginio Wijnaldum,h,771,FromCorner,2021,RightFoot,17879,Paris Saint Germain,Lyon,2,1,2021-09-19 18:45:00,Marquinhos,BallTouch,771
+432841,48,MissedShots,0.8569999694824219,0.555,0.09069280326366425,Georginio Wijnaldum,a,771,OpenPlay,2021,RightFoot,17885,Metz,Paris Saint Germain,1,2,2021-09-22 19:00:00,Kylian Mbappe-Lottin,Pass,771
+432845,59,BlockedShot,0.79,0.4640000152587891,0.015936899930238724,Georginio Wijnaldum,a,771,OpenPlay,2021,RightFoot,17885,Metz,Paris Saint Germain,1,2,2021-09-22 19:00:00,,Aerial,771
+435951,88,ShotOnPost,0.92,0.5659999847412109,0.2984449863433838,Georginio Wijnaldum,h,771,OpenPlay,2021,OtherBodyPart,17919,Paris Saint Germain,Angers,2,1,2021-10-15 19:00:00,Kylian Mbappe-Lottin,Cross,771
+441347,2,MissedShots,0.92,0.475,0.10351400077342987,Georginio Wijnaldum,a,771,FromCorner,2021,Head,17942,Bordeaux,Paris Saint Germain,2,3,2021-11-06 20:00:00,Neymar,Cross,771
+446525,91,Goal,0.9290000152587891,0.49400001525878906,0.34380200505256653,Georginio Wijnaldum,a,771,OpenPlay,2021,Head,17991,Lens,Paris Saint Germain,1,1,2021-12-04 20:00:00,Kylian Mbappe-Lottin,Cross,771
+448646,6,MissedShots,0.8969999694824219,0.5429999923706055,0.42448899149894714,Georginio Wijnaldum,h,771,OpenPlay,2021,LeftFoot,17999,Paris Saint Germain,Monaco,2,0,2021-12-12 19:45:00,Juan Bernat,Pass,771
+450255,34,BlockedShot,0.8630000305175781,0.3340000152587891,0.05180419981479645,Georginio Wijnaldum,a,771,OpenPlay,2021,RightFoot,18004,Lorient,Paris Saint Germain,1,1,2021-12-22 19:45:00,,None,771
+450260,51,MissedShots,0.8919999694824219,0.519000015258789,0.08835949748754501,Georginio Wijnaldum,a,771,OpenPlay,2021,RightFoot,18004,Lorient,Paris Saint Germain,1,1,2021-12-22 19:45:00,Achraf Hakimi,Cross,771
+450264,62,MissedShots,0.7519999694824219,0.580999984741211,0.02486789971590042,Georginio Wijnaldum,a,771,FromCorner,2021,RightFoot,18004,Lorient,Paris Saint Germain,1,1,2021-12-22 19:45:00,Ander Herrera,Pass,771
+452840,24,MissedShots,0.9259999847412109,0.5279999923706055,0.052827201783657074,Georginio Wijnaldum,a,771,FromCorner,2021,Head,18021,Lyon,Paris Saint Germain,1,1,2022-01-09 19:45:00,Nuno Mendes,Aerial,771
+453445,2,MissedShots,0.904000015258789,0.54,0.07406099885702133,Georginio Wijnaldum,h,771,FromCorner,2021,Head,18026,Paris Saint Germain,Brest,2,0,2022-01-15 20:00:00,Kylian Mbappe-Lottin,Cross,771
+453455,28,MissedShots,0.8569999694824219,0.61,0.062207501381635666,Georginio Wijnaldum,h,771,OpenPlay,2021,RightFoot,18026,Paris Saint Germain,Brest,2,0,2022-01-15 20:00:00,,None,771
+460139,92,BlockedShot,0.8080000305175781,0.515,0.08034949749708176,Georginio Wijnaldum,h,771,OpenPlay,2021,RightFoot,18075,Paris Saint Germain,Saint-Etienne,3,1,2022-02-26 20:00:00,Ángel Di María,Pass,771
+469436,74,MissedShots,0.7619999694824219,0.6179999923706054,0.02775759994983673,Georginio Wijnaldum,a,771,OpenPlay,2021,RightFoot,18142,Angers,Paris Saint Germain,0,3,2022-04-20 19:00:00,Nuno Mendes,BallTouch,771
+476089,13,MissedShots,0.8640000152587891,0.5420000076293945,0.030221600085496902,Georginio Wijnaldum,a,771,OpenPlay,2021,Head,18188,Montpellier,Paris Saint Germain,0,4,2022-05-14 19:00:00,Juan Bernat,Cross,771
+477613,92,SavedShot,0.909000015258789,0.575999984741211,0.19608700275421143,Georginio Wijnaldum,h,771,OpenPlay,2021,RightFoot,18197,Paris Saint Germain,Metz,5,0,2022-05-21 19:00:00,Kylian Mbappe-Lottin,TakeOn,771
+481245,88,BlockedShot,0.82,0.5270000076293946,0.07644809782505035,Georginio Wijnaldum,a,771,OpenPlay,2022,RightFoot,18589,Salernitana,Roma,0,1,2022-08-14 18:45:00,Stephan El Shaarawy,Pass,771
+511664,2,MissedShots,0.9640000152587891,0.7080000305175781,0.04803650081157684,Georginio Wijnaldum,a,771,OpenPlay,2022,LeftFoot,18817,Cremonese,Roma,2,1,2023-02-28 17:30:00,Lorenzo Pellegrini,Pass,771
+511667,20,MissedShots,0.8219999694824218,0.525,0.04929640144109726,Georginio Wijnaldum,a,771,OpenPlay,2022,RightFoot,18817,Cremonese,Roma,2,1,2023-02-28 17:30:00,,None,771
+511670,43,BlockedShot,0.8219999694824218,0.42900001525878906,0.046310700476169586,Georginio Wijnaldum,a,771,OpenPlay,2022,RightFoot,18817,Cremonese,Roma,2,1,2023-02-28 17:30:00,,None,771
+514293,1,SavedShot,0.885,0.5579999923706055,0.33851999044418335,Georginio Wijnaldum,h,771,OpenPlay,2022,LeftFoot,18840,Roma,Sassuolo,3,4,2023-03-12 17:00:00,Nemanja Matic,Throughball,771
+514303,26,MissedShots,0.9430000305175781,0.5670000076293945,0.04835030063986778,Georginio Wijnaldum,h,771,OpenPlay,2022,Head,18840,Roma,Sassuolo,3,4,2023-03-12 17:00:00,Nicola Zalewski,Aerial,771
+514319,68,MissedShots,0.965,0.4229999923706055,0.10810499638319016,Georginio Wijnaldum,h,771,FromCorner,2022,RightFoot,18840,Roma,Sassuolo,3,4,2023-03-12 17:00:00,Paulo Dybala,Cross,771
+514327,93,Goal,0.9490000152587891,0.37099998474121093,0.2870280146598816,Georginio Wijnaldum,h,771,OpenPlay,2022,RightFoot,18840,Roma,Sassuolo,3,4,2023-03-12 17:00:00,Chris Smalling,Pass,771
+515791,17,MissedShots,0.7140000152587891,0.49,0.017365699633955956,Georginio Wijnaldum,a,771,OpenPlay,2022,RightFoot,18845,Lazio,Roma,1,0,2023-03-19 17:00:00,,TakeOn,771
+515799,49,MissedShots,0.8769999694824219,0.46299999237060546,0.034857600927352905,Georginio Wijnaldum,a,771,OpenPlay,2022,Head,18845,Lazio,Roma,1,0,2023-03-19 17:00:00,,BallTouch,771
+517152,33,MissedShots,0.9719999694824218,0.5940000152587891,0.05741129815578461,Georginio Wijnaldum,h,771,FromCorner,2022,Head,18860,Roma,Sampdoria,3,0,2023-04-02 16:00:00,Paulo Dybala,Cross,771
+517153,35,ShotOnPost,0.915,0.34700000762939454,0.06674820184707642,Georginio Wijnaldum,h,771,OpenPlay,2022,RightFoot,18860,Roma,Sampdoria,3,0,2023-04-02 16:00:00,,None,771
+517161,56,Goal,0.9540000152587891,0.475,0.558027982711792,Georginio Wijnaldum,h,771,OpenPlay,2022,Head,18860,Roma,Sampdoria,3,0,2023-04-02 16:00:00,Nemanja Matic,Cross,771
+517164,70,MissedShots,0.9459999847412109,0.5940000152587891,0.0386693999171257,Georginio Wijnaldum,h,771,SetPiece,2022,Head,18860,Roma,Sampdoria,3,0,2023-04-02 16:00:00,Paulo Dybala,Aerial,771
+518268,22,MissedShots,0.69,0.4640000152587891,0.01652820035815239,Georginio Wijnaldum,a,771,OpenPlay,2022,RightFoot,18870,Torino,Roma,0,1,2023-04-08 16:30:00,Stephan El Shaarawy,Pass,771
+520328,32,SavedShot,0.8830000305175781,0.25,0.03241780027747154,Georginio Wijnaldum,h,771,OpenPlay,2022,RightFoot,18878,Roma,Udinese,3,0,2023-04-16 18:45:00,Andrea Belotti,Pass,771
+526758,34,BlockedShot,0.77,0.7240000152587891,0.016187764704227448,Georginio Wijnaldum,a,771,OpenPlay,2022,RightFoot,18922,Bologna,Roma,0,0,2023-05-14 16:00:00,Nicola Zalewski,Pass,771
+529214,35,BlockedShot,0.8930000305175781,0.6509999847412109,0.13183479011058807,Georginio Wijnaldum,a,771,OpenPlay,2022,RightFoot,18943,Fiorentina,Roma,2,1,2023-05-27 16:00:00,Edoardo Bove,Throughball,771
+529215,43,MissedShots,0.89,0.59,0.011778917163610458,Georginio Wijnaldum,a,771,SetPiece,2022,Head,18943,Fiorentina,Roma,2,1,2023-05-27 16:00:00,Ola Solbakken,Aerial,771
+531289,97,BlockedShot,0.8630000305175781,0.5670000076293945,0.11653254181146622,Georginio Wijnaldum,h,771,OpenPlay,2022,RightFoot,18958,Roma,Spezia,2,1,2023-06-04 19:00:00,Stephan El Shaarawy,Pass,771

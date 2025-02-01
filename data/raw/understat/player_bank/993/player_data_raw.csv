@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+993,Serge Gnabry,1,10,0,0.05847230181097984,0,0.01400769967585802,2,1,0,0,S,West Bromwich Albion,0,0.05847230181097984,0.03067909926176071,0,2015

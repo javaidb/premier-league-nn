@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+47,Yoshinori Muto,17,512,1,1.0190250873565674,0,0.31324220448732376,6,5,1,0,F M S,Newcastle United,1,1.0190250873565674,1.3042729999870062,0.7278854101896286,2018
+47,Yoshinori Muto,8,193,0,0.08367180079221725,0,0.014181000180542469,1,1,0,0,M S,Newcastle United,0,0.08367180079221725,0.20697090029716492,0.1091180993244052,2019

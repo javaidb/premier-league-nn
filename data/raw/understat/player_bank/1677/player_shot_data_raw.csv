@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+16119,85,MissedShots,0.7609999847412109,0.5579999923706055,0.016966799274086952,Nathaniel Chalobah,h,1677,OpenPlay,2014,RightFoot,4701,Burnley,West Ham,1,3,2014-10-18 15:00:00,,None,1677
+114311,89,SavedShot,0.7530000305175781,0.43400001525878906,0.03790869936347008,Nathaniel Chalobah,h,1677,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,N&#039;Golo Kanté,Pass,1677
+158349,36,MissedShots,0.5259999847412109,0.6719999694824219,0.007753259968012571,Nathaniel Chalobah,h,1677,OpenPlay,2017,RightFoot,7120,Watford,Liverpool,3,3,2017-08-12 12:30:00,Abdoulaye Doucouré,BallRecovery,1677
+158396,18,MissedShots,0.9130000305175782,0.5279999923706055,0.05107419937849045,Nathaniel Chalobah,a,1677,OpenPlay,2017,Head,7131,Bournemouth,Watford,0,2,2017-08-19 15:00:00,Nordin Amrabat,Aerial,1677
+158399,32,SavedShot,0.7859999847412109,0.4779999923706055,0.04987800121307373,Nathaniel Chalobah,a,1677,OpenPlay,2017,LeftFoot,7131,Bournemouth,Watford,0,2,2017-08-19 15:00:00,,TakeOn,1677
+158405,56,SavedShot,0.87,0.3629999923706055,0.30764999985694885,Nathaniel Chalobah,a,1677,OpenPlay,2017,RightFoot,7131,Bournemouth,Watford,0,2,2017-08-19 15:00:00,,BallRecovery,1677
+158406,57,MissedShots,0.8209999847412109,0.6930000305175781,0.028635799884796143,Nathaniel Chalobah,a,1677,OpenPlay,2017,RightFoot,7131,Bournemouth,Watford,0,2,2017-08-19 15:00:00,,None,1677
+158407,62,MissedShots,0.794000015258789,0.6930000305175781,0.019649500027298927,Nathaniel Chalobah,a,1677,OpenPlay,2017,RightFoot,7131,Bournemouth,Watford,0,2,2017-08-19 15:00:00,Richarlison,Pass,1677
+158910,8,BlockedShot,0.9019999694824219,0.5220000076293946,0.0928874984383583,Nathaniel Chalobah,h,1677,SetPiece,2017,Head,7143,Watford,Brighton,0,0,2017-08-26 15:00:00,Tom Cleverley,Cross,1677
+158919,37,MissedShots,0.7069999694824218,0.69,0.009195010177791119,Nathaniel Chalobah,h,1677,OpenPlay,2017,RightFoot,7143,Watford,Brighton,0,0,2017-08-26 15:00:00,,None,1677
+159441,46,SavedShot,0.7440000152587891,0.5709999847412109,0.023232899606227875,Nathaniel Chalobah,a,1677,OpenPlay,2017,RightFoot,7150,Southampton,Watford,0,2,2017-09-09 15:00:00,Richarlison,Pass,1677
+159443,54,MissedShots,0.9390000152587891,0.5379999923706055,0.1180649995803833,Nathaniel Chalobah,a,1677,FromCorner,2017,Head,7150,Southampton,Watford,0,2,2017-09-09 15:00:00,José Holebas,Cross,1677
+158951,52,SavedShot,0.8780000305175781,0.4929999923706055,0.05328359827399254,Nathaniel Chalobah,h,1677,FromCorner,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,José Holebas,Cross,1677
+158955,56,BlockedShot,0.774000015258789,0.6790000152587891,0.011817299760878086,Nathaniel Chalobah,h,1677,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,,None,1677
+250592,80,BlockedShot,0.8690000152587891,0.61,0.0689907968044281,Nathaniel Chalobah,a,1677,OpenPlay,2018,LeftFoot,9331,Leicester,Watford,2,0,2018-12-01 15:00:00,Isaac Success,Pass,1677
+250819,21,SavedShot,0.720999984741211,0.4540000152587891,0.010500299744307995,Nathaniel Chalobah,h,1677,OpenPlay,2018,RightFoot,9341,Watford,Manchester City,1,2,2018-12-04 20:00:00,,Aerial,1677
+315893,78,MissedShots,0.9159999847412109,0.615,0.08184979856014252,Nathaniel Chalobah,a,1677,FromCorner,2019,LeftFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,,Rebound,1677
+329408,27,BlockedShot,0.735,0.534000015258789,0.0190506000071764,Nathaniel Chalobah,h,1677,OpenPlay,2019,RightFoot,11751,Watford,Chelsea,1,2,2019-11-02 17:30:00,Roberto Pereyra,Pass,1677
+339825,53,MissedShots,0.8019999694824219,0.48200000762939454,0.0599323995411396,Nathaniel Chalobah,h,1677,OpenPlay,2019,RightFoot,11841,Watford,Aston Villa,3,0,2019-12-28 15:00:00,,None,1677
+339826,56,BlockedShot,0.86,0.500999984741211,0.10283400118350983,Nathaniel Chalobah,h,1677,OpenPlay,2019,RightFoot,11841,Watford,Aston Villa,3,0,2019-12-28 15:00:00,Gerard Deulofeu,BallTouch,1677
+351454,3,BlockedShot,0.7480000305175781,0.42900001525878906,0.01701989956200123,Nathaniel Chalobah,h,1677,OpenPlay,2019,LeftFoot,11852,Watford,Wolverhampton Wanderers,2,1,2020-01-01 15:00:00,Abdoulaye Doucouré,Pass,1677
+351458,19,MissedShots,0.779000015258789,0.6430000305175781,0.02267329953610897,Nathaniel Chalobah,h,1677,OpenPlay,2019,RightFoot,11852,Watford,Wolverhampton Wanderers,2,1,2020-01-01 15:00:00,Ismaila Sarr,Pass,1677
+351813,62,MissedShots,0.8009999847412109,0.4779999923706055,0.0597475990653038,Nathaniel Chalobah,a,1677,OpenPlay,2019,LeftFoot,11857,Bournemouth,Watford,0,3,2020-01-12 14:00:00,Abdoulaye Doucouré,Pass,1677
+351859,19,MissedShots,0.794000015258789,0.24600000381469728,0.04947179928421974,Nathaniel Chalobah,h,1677,DirectFreekick,2019,RightFoot,11871,Watford,Tottenham,0,0,2020-01-18 12:30:00,,Standard,1677
+368809,24,MissedShots,0.7759999847412109,0.5570000076293945,0.08611279726028442,Nathaniel Chalobah,a,1677,DirectFreekick,2019,RightFoot,11964,Chelsea,Watford,3,0,2020-07-04 19:00:00,,Standard,1677
+483839,89,SavedShot,0.9119999694824219,0.555,0.08553469926118851,Nathaniel Chalobah,a,1677,SetPiece,2022,RightFoot,18238,Arsenal,Fulham,2,1,2022-08-27 16:30:00,Harrison Reed,Cross,1677

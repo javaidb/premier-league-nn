@@ -1,0 +1,38 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14780,12,MissedShots,0.9519999694824218,0.2879999923706055,0.02287839911878109,Pablo Zabaleta,h,610,OpenPlay,2014,RightFoot,4768,Manchester City,Liverpool,3,1,2014-08-25 20:00:00,Gaël Clichy,Cross,610
+14795,82,OwnGoal,0.01100000023841858,0.47,0,Pablo Zabaleta,h,610,OpenPlay,2014,LeftFoot,4768,Manchester City,Liverpool,3,1,2014-08-25 20:00:00,,Save,610
+16568,92,BlockedShot,0.8130000305175781,0.3160000038146973,0.055076200515031815,Pablo Zabaleta,a,610,OpenPlay,2014,RightFoot,4694,Aston Villa,Manchester City,0,2,2014-10-04 17:30:00,,TakeOn,610
+16034,49,MissedShots,0.9130000305175782,0.38599998474121094,0.08221039921045303,Pablo Zabaleta,h,610,OpenPlay,2014,LeftFoot,4656,Manchester City,Manchester United,1,0,2014-11-02 13:30:00,,None,610
+16939,40,BlockedShot,0.9,0.41200000762939454,0.08856850117444992,Pablo Zabaleta,h,610,OpenPlay,2014,LeftFoot,4671,Manchester City,Swansea,2,1,2014-11-22 15:00:00,,None,610
+16947,56,MissedShots,0.879000015258789,0.38299999237060545,0.09202670305967331,Pablo Zabaleta,h,610,OpenPlay,2014,LeftFoot,4671,Manchester City,Swansea,2,1,2014-11-22 15:00:00,Jesús Navas,Pass,610
+16953,70,MissedShots,0.9080000305175782,0.28200000762939453,0.06018169969320297,Pablo Zabaleta,h,610,OpenPlay,2014,RightFoot,4671,Manchester City,Swansea,2,1,2014-11-22 15:00:00,Yaya Touré,Pass,610
+19731,54,Goal,0.9519999694824218,0.3729999923706055,0.3620069921016693,Pablo Zabaleta,a,610,OpenPlay,2014,RightFoot,4597,Sunderland,Manchester City,1,4,2014-12-03 19:45:00,Samir Nasri,Throughball,610
+19981,6,BlockedShot,0.7919999694824219,0.4179999923706055,0.024243799969553947,Pablo Zabaleta,h,610,FromCorner,2014,RightFoot,4605,Manchester City,Everton,1,0,2014-12-06 17:30:00,,None,610
+18954,42,MissedShots,0.9230000305175782,0.41700000762939454,0.4150429964065552,Pablo Zabaleta,h,610,OpenPlay,2014,RightFoot,4619,Manchester City,Crystal Palace,3,0,2014-12-20 12:45:00,Yaya Touré,Throughball,610
+23207,84,BlockedShot,0.7709999847412109,0.5720000076293945,0.026501599699258804,Pablo Zabaleta,h,610,OpenPlay,2014,LeftFoot,4519,Manchester City,Hull,1,1,2015-02-07 15:00:00,,None,610
+21792,43,SavedShot,0.815,0.37599998474121094,0.05407309904694557,Pablo Zabaleta,h,610,OpenPlay,2014,LeftFoot,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,,Tackle,610
+22227,65,BlockedShot,0.9119999694824219,0.32599998474121095,0.07563859969377518,Pablo Zabaleta,a,610,OpenPlay,2014,RightFoot,4407,Tottenham,Manchester City,0,1,2015-05-03 16:00:00,,None,610
+58978,48,SavedShot,0.9459999847412109,0.23899999618530274,0.06605630367994308,Pablo Zabaleta,h,610,OpenPlay,2015,RightFoot,167,Manchester City,Bournemouth,5,1,2015-10-17 18:00:00,Jesús Navas,Chipped,610
+52253,44,BlockedShot,0.7769999694824219,0.5820000076293945,0.029912399128079414,Pablo Zabaleta,h,610,FromCorner,2015,LeftFoot,292,Manchester City,Crystal Palace,4,0,2016-01-16 19:00:00,,Rebound,610
+52684,93,BlockedShot,0.8780000305175781,0.3509999847412109,0.08173099905252457,Pablo Zabaleta,h,610,OpenPlay,2015,RightFoot,321,Manchester City,Leicester,1,3,2016-02-06 16:45:00,Kelechi Iheanacho,Pass,610
+116925,49,BlockedShot,0.9259999847412109,0.355,0.046170901507139206,Pablo Zabaleta,a,610,OpenPlay,2016,RightFoot,3120,Leicester,Manchester City,4,2,2016-12-10 21:30:00,Jesús Navas,Cross,610
+116932,61,BlockedShot,0.8719999694824219,0.345,0.06275559961795807,Pablo Zabaleta,a,610,OpenPlay,2016,LeftFoot,3120,Leicester,Manchester City,4,2,2016-12-10 21:30:00,Fernando,Pass,610
+118160,32,Goal,0.9519999694824218,0.41200000762939454,0.33473899960517883,Pablo Zabaleta,h,610,OpenPlay,2016,RightFoot,3132,Manchester City,Watford,2,0,2016-12-15 00:00:00,Kevin De Bruyne,Cross,610
+118583,12,BlockedShot,0.8080000305175781,0.3820000076293945,0.03462449833750725,Pablo Zabaleta,h,610,OpenPlay,2016,LeftFoot,3142,Manchester City,Arsenal,2,1,2016-12-18 20:00:00,Leroy Sané,Pass,610
+118486,10,MissedShots,0.92,0.5279999923706055,0.11960700154304504,Pablo Zabaleta,h,610,OpenPlay,2016,RightFoot,3356,Manchester City,Tottenham,2,2,2017-01-21 20:30:00,,Foul,610
+118489,19,MissedShots,0.805,0.41200000762939454,0.03404569998383522,Pablo Zabaleta,h,610,FromCorner,2016,LeftFoot,3356,Manchester City,Tottenham,2,2,2017-01-21 20:30:00,Kevin De Bruyne,Pass,610
+121597,80,SavedShot,0.8490000152587891,0.32,0.06340029835700989,Pablo Zabaleta,h,610,OpenPlay,2016,LeftFoot,3497,Manchester City,Crystal Palace,5,0,2017-05-06 12:30:00,Fernandinho,Pass,610
+188815,56,SavedShot,0.815,0.385,0.04370050132274628,Pablo Zabaleta,h,610,OpenPlay,2017,RightFoot,7358,West Ham,Bournemouth,1,1,2018-01-20 15:00:00,Marko Arnautovic,Pass,610
+197364,15,MissedShots,0.8640000152587891,0.3629999923706055,0.04949159920215607,Pablo Zabaleta,a,610,OpenPlay,2017,RightFoot,7395,Liverpool,West Ham,4,1,2018-02-24 15:00:00,,Rebound,610
+199996,30,MissedShots,0.8490000152587891,0.4209999847412109,0.011150199919939041,Pablo Zabaleta,h,610,OpenPlay,2017,Head,7418,West Ham,Burnley,0,3,2018-03-10 15:00:00,Michail Antonio,Cross,610
+212346,26,OwnGoal,0.02700000047683716,0.46799999237060547,0,Pablo Zabaleta,h,610,OpenPlay,2017,OtherBodyPart,7478,West Ham,Manchester City,1,4,2018-04-29 13:15:00,,Save,610
+213293,12,MissedShots,0.92,0.34299999237060547,0.010882100090384483,Pablo Zabaleta,a,610,OpenPlay,2017,Head,7479,Leicester,West Ham,0,2,2018-05-05 15:00:00,Arthur Masuaku,Cross,610
+214456,60,BlockedShot,0.879000015258789,0.36700000762939455,0.07000300288200378,Pablo Zabaleta,h,610,OpenPlay,2017,RightFoot,7428,West Ham,Manchester United,0,0,2018-05-10 19:45:00,Marko Arnautovic,Pass,610
+215652,75,MissedShots,0.9259999847412109,0.43900001525878907,0.1468690037727356,Pablo Zabaleta,h,610,OpenPlay,2017,LeftFoot,7489,West Ham,Everton,3,1,2018-05-13 15:00:00,Marko Arnautovic,Pass,610
+249774,0,BlockedShot,0.8219999694824218,0.29399999618530276,0.022745300084352493,Pablo Zabaleta,h,610,OpenPlay,2018,RightFoot,9298,West Ham,Burnley,4,2,2018-11-03 15:00:00,Grady Diangana,Pass,610
+251032,52,MissedShots,0.7780000305175782,0.24200000762939453,0.017054300755262375,Pablo Zabaleta,h,610,OpenPlay,2018,RightFoot,9347,West Ham,Crystal Palace,3,2,2018-12-08 15:00:00,Declan Rice,Pass,610
+274963,45,MissedShots,0.7980000305175782,0.3240000152587891,0.023548299446702003,Pablo Zabaleta,a,610,OpenPlay,2018,RightFoot,9427,Wolverhampton Wanderers,West Ham,3,0,2019-01-29 19:45:00,,None,610
+275664,22,BlockedShot,0.835,0.33,0.03632760047912598,Pablo Zabaleta,h,610,OpenPlay,2018,RightFoot,9457,West Ham,Fulham,3,1,2019-02-22 19:45:00,,None,610
+287719,25,MissedShots,0.825,0.28899999618530275,0.024878399446606636,Pablo Zabaleta,h,610,OpenPlay,2018,RightFoot,9508,West Ham,Everton,0,2,2019-03-30 17:30:00,,None,610
+293727,33,BlockedShot,0.7480000305175781,0.4229999923706055,0.01615379936993122,Pablo Zabaleta,a,610,FromCorner,2018,LeftFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,,None,610
+293736,53,SavedShot,0.774000015258789,0.505,0.01545680034905672,Pablo Zabaleta,a,610,FromCorner,2018,LeftFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,,Aerial,610

@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+112229,79,SavedShot,0.9390000152587891,0.509000015258789,0.5649489760398865,Vincent Janssen,a,1730,FromCorner,2016,LeftFoot,463,Everton,Tottenham,1,1,2016-08-13 18:00:00,,Rebound,1730
+112233,88,BlockedShot,0.9,0.23399999618530273,0.02996709942817688,Vincent Janssen,a,1730,OpenPlay,2016,LeftFoot,463,Everton,Tottenham,1,1,2016-08-13 18:00:00,Christian Eriksen,Pass,1730
+112778,14,MissedShots,0.7930000305175782,0.3629999923706055,0.029761899262666702,Vincent Janssen,h,1730,OpenPlay,2016,LeftFoot,475,Tottenham,Crystal Palace,1,0,2016-08-20 18:00:00,Harry Kane,Pass,1730
+112785,26,SavedShot,0.9069999694824219,0.3729999923706055,0.07385239750146866,Vincent Janssen,h,1730,OpenPlay,2016,LeftFoot,475,Tottenham,Crystal Palace,1,0,2016-08-20 18:00:00,,Rebound,1730
+112784,26,SavedShot,0.9540000152587891,0.415,0.4259580075740814,Vincent Janssen,h,1730,OpenPlay,2016,RightFoot,475,Tottenham,Crystal Palace,1,0,2016-08-20 18:00:00,,Rebound,1730
+112796,68,MissedShots,0.84,0.53,0.3248690068721771,Vincent Janssen,h,1730,OpenPlay,2016,RightFoot,475,Tottenham,Crystal Palace,1,0,2016-08-20 18:00:00,Dele Alli,Throughball,1730
+113336,77,BlockedShot,0.8680000305175781,0.3529999923706055,0.13041900098323822,Vincent Janssen,a,1730,OpenPlay,2016,RightFoot,493,Stoke,Tottenham,0,4,2016-09-10 18:00:00,Dele Alli,TakeOn,1730
+113647,92,MissedShots,0.7919999694824219,0.485,0.052866801619529724,Vincent Janssen,h,1730,OpenPlay,2016,LeftFoot,510,Tottenham,Sunderland,1,0,2016-09-18 19:30:00,Erik Lamela,Pass,1730
+113851,46,MissedShots,0.8919999694824219,0.69,0.06705489754676819,Vincent Janssen,a,1730,OpenPlay,2016,LeftFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Dele Alli,Pass,1730
+113854,53,BlockedShot,0.9,0.715,0.06664469838142395,Vincent Janssen,a,1730,OpenPlay,2016,LeftFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Dele Alli,Pass,1730
+114109,45,BlockedShot,0.9380000305175781,0.735,0.04493720084428787,Vincent Janssen,a,1730,OpenPlay,2016,LeftFoot,536,West Bromwich Albion,Tottenham,1,1,2016-10-15 18:00:00,Dele Alli,Interception,1730
+114121,83,SavedShot,0.785,0.7090000152587891,0.017540400847792625,Vincent Janssen,a,1730,OpenPlay,2016,LeftFoot,536,West Bromwich Albion,Tottenham,1,1,2016-10-15 18:00:00,,None,1730
+114125,92,MissedShots,0.7880000305175782,0.6120000076293945,0.030222799628973007,Vincent Janssen,a,1730,OpenPlay,2016,RightFoot,536,West Bromwich Albion,Tottenham,1,1,2016-10-15 18:00:00,Ben Davies,Pass,1730
+114978,33,MissedShots,0.9540000152587891,0.44299999237060544,0.12934499979019165,Vincent Janssen,h,1730,FromCorner,2016,RightFoot,2678,Tottenham,Leicester,1,1,2016-10-29 18:00:00,Christian Eriksen,Cross,1730
+114981,43,Goal,0.885,0.5,0.7611690163612366,Vincent Janssen,h,1730,Penalty,2016,LeftFoot,2678,Tottenham,Leicester,1,1,2016-10-29 18:00:00,,Standard,1730
+114991,70,MissedShots,0.799000015258789,0.28200000762939453,0.06109260022640228,Vincent Janssen,h,1730,DirectFreekick,2016,LeftFoot,2678,Tottenham,Leicester,1,1,2016-10-29 18:00:00,,Standard,1730
+114992,75,MissedShots,0.8490000152587891,0.42400001525878905,0.08427640050649643,Vincent Janssen,h,1730,OpenPlay,2016,LeftFoot,2678,Tottenham,Leicester,1,1,2016-10-29 18:00:00,Kyle Walker,Pass,1730
+115083,88,SavedShot,0.879000015258789,0.74,0.030628200620412827,Vincent Janssen,a,1730,OpenPlay,2016,LeftFoot,2692,Arsenal,Tottenham,1,1,2016-11-06 16:00:00,Christian Eriksen,Chipped,1730
+115085,91,MissedShots,0.874000015258789,0.4909999847412109,0.06991790235042572,Vincent Janssen,a,1730,SetPiece,2016,LeftFoot,2692,Arsenal,Tottenham,1,1,2016-11-06 16:00:00,Danny Rose,Cross,1730
+115830,50,SavedShot,0.9290000152587891,0.6780000305175782,0.04380809888243675,Vincent Janssen,h,1730,OpenPlay,2016,LeftFoot,2704,Tottenham,West Ham,3,2,2016-11-19 21:30:00,Danny Rose,Cross,1730
+120428,89,SavedShot,0.8730000305175781,0.7280000305175781,0.04733309894800186,Vincent Janssen,h,1730,OpenPlay,2016,LeftFoot,3422,Tottenham,Southampton,2,1,2017-03-19 14:15:00,Mousa Dembélé,TakeOn,1730
+119153,48,SavedShot,0.89,0.7480000305175781,0.032340001314878464,Vincent Janssen,a,1730,OpenPlay,2016,LeftFoot,3431,Burnley,Tottenham,0,2,2017-04-01 15:00:00,Dele Alli,Pass,1730
+119183,79,SavedShot,0.9230000305175782,0.6040000152587891,0.0866049975156784,Vincent Janssen,a,1730,OpenPlay,2016,LeftFoot,3444,Swansea,Tottenham,1,3,2017-04-05 19:45:00,Dele Alli,Chipped,1730
+119189,88,SavedShot,0.8859999847412109,0.649000015258789,0.07897890359163284,Vincent Janssen,a,1730,OpenPlay,2016,LeftFoot,3444,Swansea,Tottenham,1,3,2017-04-05 19:45:00,Dele Alli,Pass,1730
+120388,8,SavedShot,0.8830000305175781,0.42400001525878905,0.11093299835920334,Vincent Janssen,h,1730,OpenPlay,2016,RightFoot,3453,Tottenham,Watford,4,0,2017-04-08 12:30:00,Christian Eriksen,Pass,1730
+120399,47,MissedShots,0.9130000305175782,0.5609999847412109,0.04907039925456047,Vincent Janssen,h,1730,FromCorner,2016,Head,3453,Tottenham,Watford,4,0,2017-04-08 12:30:00,Kieran Trippier,Chipped,1730
+121474,91,Goal,0.9590000152587891,0.5379999923706055,0.6099709868431091,Vincent Janssen,h,1730,FromCorner,2016,RightFoot,3465,Tottenham,Bournemouth,4,0,2017-04-15 12:30:00,,Rebound,1730
+121473,91,SavedShot,0.950999984741211,0.6,0.2870219945907593,Vincent Janssen,h,1730,FromCorner,2016,LeftFoot,3465,Tottenham,Bournemouth,4,0,2017-04-15 12:30:00,Ben Davies,Cross,1730
+120810,84,MissedShots,0.7709999847412109,0.5059999847412109,0.04859190061688423,Vincent Janssen,a,1730,OpenPlay,2016,RightFoot,3475,Leicester,Tottenham,1,6,2017-05-18 19:45:00,Victor Wanyama,Pass,1730
+112469,88,BlockedShot,0.7280000305175781,0.3820000076293945,0.026930099353194237,Vincent Janssen,a,1730,OpenPlay,2016,LeftFoot,3513,Hull,Tottenham,1,7,2017-05-21 15:00:00,Mousa Dembélé,Pass,1730
+297208,89,MissedShots,0.97,0.7340000152587891,0.03302380070090294,Vincent Janssen,h,1730,OpenPlay,2018,LeftFoot,9548,Tottenham,West Ham,0,1,2019-04-27 12:30:00,Eric Dier,Chipped,1730
+297209,92,SavedShot,0.865,0.605999984741211,0.060098301619291306,Vincent Janssen,h,1730,OpenPlay,2018,RightFoot,9548,Tottenham,West Ham,0,1,2019-04-27 12:30:00,,BallTouch,1730
+297210,93,BlockedShot,0.9680000305175781,0.5870000076293945,0.21235500276088715,Vincent Janssen,h,1730,OpenPlay,2018,Head,9548,Tottenham,West Ham,0,1,2019-04-27 12:30:00,Juan Foyth,Chipped,1730

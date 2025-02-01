@@ -1,0 +1,74 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+261638,27,MissedShots,0.8519999694824218,0.509000015258789,0.06405089795589447,Benoit Badiashile Mukinayi,h,7240,FromCorner,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,,None,7240
+282405,49,Goal,0.9490000152587891,0.500999984741211,0.13277100026607513,Benoit Badiashile Mukinayi,h,7240,FromCorner,2018,Head,10806,Monaco,Nice,1,1,2019-01-16 18:00:00,Rony Lopes,Cross,7240
+283454,23,SavedShot,0.8919999694824219,0.4759999847412109,0.07235249876976013,Benoit Badiashile Mukinayi,h,7240,SetPiece,2018,LeftFoot,10889,Monaco,Nantes,1,0,2019-02-16 19:00:00,Rony Lopes,Cross,7240
+287970,81,MissedShots,0.9540000152587891,0.5709999847412109,0.5011230111122131,Benoit Badiashile Mukinayi,h,7240,FromCorner,2018,LeftFoot,10938,Monaco,Caen,0,1,2019-03-31 13:00:00,Stevan Jovetic,Rebound,7240
+296143,57,BlockedShot,0.7909999847412109,0.5670000076293945,0.033048100769519806,Benoit Badiashile Mukinayi,a,7240,SetPiece,2018,LeftFoot,10972,Paris Saint Germain,Monaco,3,1,2019-04-21 20:00:00,,BallRecovery,7240
+298832,22,MissedShots,0.909000015258789,0.53,0.07753609865903854,Benoit Badiashile Mukinayi,a,7240,FromCorner,2018,Head,10975,Rennes,Monaco,2,2,2019-05-01 18:00:00,Rony Lopes,Cross,7240
+303586,35,OwnGoal,0.04300000190734863,0.5590000152587891,0,Benoit Badiashile Mukinayi,a,7240,OpenPlay,2018,LeftFoot,11019,Nice,Monaco,2,0,2019-05-24 19:05:00,,TakeOn,7240
+312955,43,MissedShots,0.8590000152587891,0.3890000152587891,0.010018199682235718,Benoit Badiashile Mukinayi,h,7240,FromCorner,2019,Head,12733,Monaco,Nimes,2,2,2019-08-25 14:00:00,Fode Toure,Aerial,7240
+321644,40,MissedShots,0.87,0.585,0.03654760122299194,Benoit Badiashile Mukinayi,h,7240,FromCorner,2019,LeftFoot,12769,Monaco,Nice,3,1,2019-09-24 19:00:00,Aleksandr Golovin,Chipped,7240
+322978,5,MissedShots,0.9409999847412109,0.5729999923706055,0.06099490076303482,Benoit Badiashile Mukinayi,h,7240,FromCorner,2019,RightFoot,12782,Monaco,Brest,4,1,2019-09-28 18:00:00,,Aerial,7240
+324386,92,MissedShots,0.9069999694824219,0.49,0.04886699840426445,Benoit Badiashile Mukinayi,a,7240,SetPiece,2019,Head,12792,Montpellier,Monaco,3,1,2019-10-05 19:00:00,Adrien Silva,Aerial,7240
+326434,61,SavedShot,0.7390000152587891,0.5320000076293945,0.016413699835538864,Benoit Badiashile Mukinayi,h,7240,OpenPlay,2019,LeftFoot,12808,Monaco,Rennes,3,2,2019-10-20 16:00:00,,None,7240
+326436,67,SavedShot,0.8780000305175781,0.500999984741211,0.03645249828696251,Benoit Badiashile Mukinayi,h,7240,FromCorner,2019,RightFoot,12808,Monaco,Rennes,3,2,2019-10-20 16:00:00,Benjamin Henrichs,Aerial,7240
+330061,23,BlockedShot,0.825,0.49900001525878906,0.02158679999411106,Benoit Badiashile Mukinayi,a,7240,SetPiece,2019,LeftFoot,12822,Saint-Etienne,Monaco,1,0,2019-11-03 20:00:00,,Aerial,7240
+330912,28,SavedShot,0.914000015258789,0.49,0.040123000741004944,Benoit Badiashile Mukinayi,h,7240,FromCorner,2019,Head,12832,Monaco,Dijon,1,0,2019-11-09 19:00:00,Aleksandr Golovin,Aerial,7240
+330922,52,MissedShots,0.9019999694824219,0.49700000762939456,0.025145700201392174,Benoit Badiashile Mukinayi,h,7240,FromCorner,2019,Head,12832,Monaco,Dijon,1,0,2019-11-09 19:00:00,Aleksandr Golovin,Aerial,7240
+361083,92,BlockedShot,0.9169999694824219,0.4370000076293945,0.07080239802598953,Benoit Badiashile Mukinayi,h,7240,FromCorner,2019,Head,12975,Monaco,Reims,1,1,2020-02-29 19:00:00,Aleksandr Golovin,Cross,7240
+375698,54,Goal,0.965,0.5659999847412109,0.5082299709320068,Benoit Badiashile Mukinayi,h,7240,SetPiece,2020,LeftFoot,13982,Monaco,Reims,2,2,2020-08-23 11:00:00,Aleksandr Golovin,Cross,7240
+375701,64,MissedShots,0.9259999847412109,0.5029999923706054,0.1155880019068718,Benoit Badiashile Mukinayi,h,7240,FromCorner,2020,Head,13982,Monaco,Reims,2,2,2020-08-23 11:00:00,Aleksandr Golovin,Cross,7240
+376205,21,Goal,0.8980000305175782,0.5509999847412109,0.07984969764947891,Benoit Badiashile Mukinayi,a,7240,SetPiece,2020,LeftFoot,13991,Metz,Monaco,0,1,2020-08-30 13:00:00,,None,7240
+376921,14,ShotOnPost,0.9309999847412109,0.509000015258789,0.12358000129461288,Benoit Badiashile Mukinayi,h,7240,FromCorner,2020,LeftFoot,14199,Monaco,Nantes,2,1,2020-09-13 15:00:00,Axel Disasi,Cross,7240
+377726,31,BlockedShot,0.945,0.5309999847412109,0.0748647004365921,Benoit Badiashile Mukinayi,a,7240,FromCorner,2020,Head,14206,Rennes,Monaco,2,1,2020-09-19 19:00:00,Cesc Fàbregas,Aerial,7240
+379382,6,MissedShots,0.8690000152587891,0.485,0.03258509933948517,Benoit Badiashile Mukinayi,h,7240,FromCorner,2020,Head,14220,Monaco,Strasbourg,3,2,2020-09-27 13:00:00,Ruben Aguilar,Cross,7240
+381096,69,MissedShots,0.884000015258789,0.3029999923706055,0.00841922964900732,Benoit Badiashile Mukinayi,a,7240,FromCorner,2020,Head,15812,Brest,Monaco,1,0,2020-10-04 13:00:00,Sofiane Diop,Cross,7240
+381103,89,MissedShots,0.9169999694824219,0.4420000076293945,0.5083420276641846,Benoit Badiashile Mukinayi,a,7240,SetPiece,2020,RightFoot,15812,Brest,Monaco,1,0,2020-10-04 13:00:00,Pietro Pellegri,Pass,7240
+382473,50,BlockedShot,0.6669999694824219,0.5629999923706055,0.013108099810779095,Benoit Badiashile Mukinayi,h,7240,OpenPlay,2020,LeftFoot,15820,Monaco,Montpellier,1,1,2020-10-18 13:00:00,Chrislain Matsima,Pass,7240
+384132,30,MissedShots,0.9030000305175782,0.6509999847412109,0.012581000104546547,Benoit Badiashile Mukinayi,a,7240,FromCorner,2020,Head,15827,Lyon,Monaco,4,1,2020-10-25 20:00:00,Stevan Jovetic,Cross,7240
+384141,56,BlockedShot,0.865999984741211,0.5579999923706055,0.065351203083992,Benoit Badiashile Mukinayi,a,7240,FromCorner,2020,LeftFoot,15827,Lyon,Monaco,4,1,2020-10-25 20:00:00,Aurelien Tchouameni,Rebound,7240
+384143,62,MissedShots,0.8540000152587891,0.4909999847412109,0.04481229931116104,Benoit Badiashile Mukinayi,a,7240,FromCorner,2020,LeftFoot,15827,Lyon,Monaco,4,1,2020-10-25 20:00:00,Cesc Fàbregas,Cross,7240
+385268,45,MissedShots,0.7169999694824218,0.40900001525878904,0.04375699907541275,Benoit Badiashile Mukinayi,h,7240,DirectFreekick,2020,LeftFoot,15838,Monaco,Bordeaux,4,0,2020-11-01 16:00:00,,Standard,7240
+390586,1,BlockedShot,0.899000015258789,0.4370000076293945,0.06835100054740906,Benoit Badiashile Mukinayi,a,7240,OpenPlay,2020,Head,15879,Lille,Monaco,2,1,2020-12-06 12:00:00,Ruben Aguilar,Cross,7240
+390598,58,MissedShots,0.8680000305175781,0.5120000076293946,0.04228769987821579,Benoit Badiashile Mukinayi,a,7240,SetPiece,2020,Head,15879,Lille,Monaco,2,1,2020-12-06 12:00:00,Cesc Fàbregas,Cross,7240
+391664,32,SavedShot,0.755,0.48,0.021816499531269073,Benoit Badiashile Mukinayi,a,7240,SetPiece,2020,LeftFoot,15890,Marseille,Monaco,2,1,2020-12-12 16:00:00,Wissam Ben Yedder,Pass,7240
+394494,61,SavedShot,0.935,0.5379999923706055,0.5286080241203308,Benoit Badiashile Mukinayi,a,7240,FromCorner,2020,RightFoot,15907,Dijon,Monaco,0,1,2020-12-20 14:00:00,,Rebound,7240
+397487,24,BlockedShot,0.86,0.4,0.07818970084190369,Benoit Badiashile Mukinayi,a,7240,OpenPlay,2020,LeftFoot,15927,Lorient,Monaco,2,5,2021-01-06 18:00:00,,Rebound,7240
+397488,25,MissedShots,0.8930000305175781,0.5129999923706055,0.08416970074176788,Benoit Badiashile Mukinayi,a,7240,SetPiece,2020,Head,15927,Lorient,Monaco,2,5,2021-01-06 18:00:00,Ruben Aguilar,Cross,7240
+403683,66,MissedShots,0.9059999847412109,0.51,0.0778006985783577,Benoit Badiashile Mukinayi,a,7240,FromCorner,2020,Head,15989,Nimes,Monaco,3,4,2021-02-07 14:00:00,Aleksandr Golovin,Cross,7240
+404610,2,MissedShots,0.884000015258789,0.48,0.05614230036735535,Benoit Badiashile Mukinayi,h,7240,FromCorner,2020,LeftFoot,16002,Monaco,Lorient,2,2,2021-02-14 12:00:00,Djibril Sidibe,Cross,7240
+415924,36,MissedShots,0.705,0.6,0.017962800338864326,Benoit Badiashile Mukinayi,a,7240,OpenPlay,2020,LeftFoot,16085,Bordeaux,Monaco,0,3,2021-04-18 15:05:00,Youssouf Fofana,Pass,7240
+415926,46,MissedShots,0.915,0.534000015258789,0.1145699992775917,Benoit Badiashile Mukinayi,a,7240,SetPiece,2020,Head,16085,Bordeaux,Monaco,0,3,2021-04-18 15:05:00,Djibril Sidibe,Cross,7240
+419404,66,MissedShots,0.909000015258789,0.47200000762939454,0.07885339856147766,Benoit Badiashile Mukinayi,h,7240,FromCorner,2020,Head,16101,Monaco,Lyon,2,3,2021-05-02 19:00:00,Ruben Aguilar,Cross,7240
+425106,55,MissedShots,0.975999984741211,0.3240000152587891,0.009253039956092834,Benoit Badiashile Mukinayi,h,7240,FromCorner,2021,Head,17822,Monaco,Nantes,1,1,2021-08-06 19:00:00,Jean Lucas,Cross,7240
+425110,88,BlockedShot,0.86,0.4909999847412109,0.0585194006562233,Benoit Badiashile Mukinayi,h,7240,FromCorner,2021,RightFoot,17822,Monaco,Nantes,1,1,2021-08-06 19:00:00,,End,7240
+430174,72,MissedShots,0.9540000152587891,0.6270000076293946,0.07271110266447067,Benoit Badiashile Mukinayi,h,7240,SetPiece,2021,LeftFoot,17871,Monaco,Marseille,0,2,2021-09-11 19:00:00,Sofiane Diop,Chipped,7240
+431689,58,BlockedShot,0.845,0.5129999923706055,0.06295239925384521,Benoit Badiashile Mukinayi,a,7240,SetPiece,2021,LeftFoot,17878,Nice,Monaco,2,2,2021-09-19 11:00:00,,None,7240
+432564,50,MissedShots,0.9430000305175781,0.48400001525878905,0.075040802359581,Benoit Badiashile Mukinayi,h,7240,FromCorner,2021,Head,17886,Monaco,Saint-Etienne,3,1,2021-09-22 17:00:00,Aleksandr Golovin,Aerial,7240
+436517,80,SavedShot,0.8959999847412109,0.48400001525878905,0.05958930030465126,Benoit Badiashile Mukinayi,a,7240,FromCorner,2021,Head,17915,Lyon,Monaco,2,0,2021-10-16 19:00:00,Jean Lucas,Cross,7240
+465734,17,MissedShots,0.8930000305175781,0.41900001525878905,0.014181699603796005,Benoit Badiashile Mukinayi,a,7240,FromCorner,2021,Head,18115,Metz,Monaco,1,2,2022-04-03 13:00:00,Aleksandr Golovin,Aerial,7240
+470204,69,MissedShots,0.9109999847412109,0.4620000076293945,0.07832200080156326,Benoit Badiashile Mukinayi,a,7240,FromCorner,2021,Head,18161,Saint-Etienne,Monaco,1,4,2022-04-23 17:00:00,Caio Henrique,Cross,7240
+472171,29,MissedShots,0.9440000152587891,0.45099998474121095,0.06808140128850937,Benoit Badiashile Mukinayi,h,7240,FromCorner,2021,Head,18165,Monaco,Angers,2,0,2022-05-01 13:00:00,,Aerial,7240
+472840,47,SavedShot,0.8719999694824219,0.4620000076293945,0.013545299880206585,Benoit Badiashile Mukinayi,a,7240,FromCorner,2021,Head,18179,Lille,Monaco,1,2,2022-05-06 19:00:00,Aleksandr Golovin,Aerial,7240
+476133,53,BlockedShot,0.8630000305175781,0.545,0.06101049855351448,Benoit Badiashile Mukinayi,h,7240,FromCorner,2021,LeftFoot,18189,Monaco,Brest,4,2,2022-05-14 19:00:00,Youssouf Fofana,Pass,7240
+476135,64,MissedShots,0.955,0.4829999923706055,0.10432399809360504,Benoit Badiashile Mukinayi,h,7240,SetPiece,2021,Head,18189,Monaco,Brest,4,2,2022-05-14 19:00:00,Aleksandr Golovin,Aerial,7240
+477432,33,Goal,0.9630000305175781,0.5,0.6362500190734863,Benoit Badiashile Mukinayi,a,7240,FromCorner,2021,RightFoot,18192,Lens,Monaco,2,2,2022-05-21 19:00:00,,None,7240
+477439,59,SavedShot,0.885,0.43400001525878906,0.030102500692009926,Benoit Badiashile Mukinayi,a,7240,FromCorner,2021,Head,18192,Lens,Monaco,2,2,2022-05-21 19:00:00,Caio Henrique,Cross,7240
+481941,40,Goal,0.9330000305175781,0.5279999923706055,0.3824700117111206,Benoit Badiashile Mukinayi,h,7240,FromCorner,2022,Head,19668,Monaco,Lens,1,4,2022-08-20 15:00:00,Caio Henrique,Cross,7240
+485141,86,SavedShot,0.9319999694824219,0.4540000152587891,0.05243479833006859,Benoit Badiashile Mukinayi,h,7240,FromCorner,2022,Head,19688,Monaco,Troyes,2,4,2022-08-31 17:00:00,Aleksandr Golovin,Aerial,7240
+486842,37,MissedShots,0.750999984741211,0.4859999847412109,0.021855700761079788,Benoit Badiashile Mukinayi,a,7240,OpenPlay,2022,LeftFoot,19703,Nice,Monaco,0,1,2022-09-04 18:45:00,Krépin Diatta,Pass,7240
+488257,54,Goal,0.9109999847412109,0.5,0.08820760250091553,Benoit Badiashile Mukinayi,h,7240,FromCorner,2022,Head,19709,Monaco,Lyon,2,1,2022-09-11 18:45:00,Caio Henrique,Cross,7240
+489092,30,MissedShots,0.6869999694824219,0.625,0.013315100222826004,Benoit Badiashile Mukinayi,a,7240,OpenPlay,2022,LeftFoot,19727,Reims,Monaco,0,3,2022-09-18 11:00:00,Axel Disasi,Pass,7240
+504413,31,SavedShot,0.9630000305175781,0.4370000076293945,0.44162100553512573,Benoit Badiashile Mukinayi,a,7240,SetPiece,2022,Head,18408,Liverpool,Chelsea,0,0,2023-01-21 12:30:00,Hakim Ziyech,Cross,7240
+506878,94,MissedShots,0.924000015258789,0.5259999847412109,0.10552199929952621,Benoit Badiashile Mukinayi,h,7240,FromCorner,2022,Head,18415,Chelsea,Fulham,0,0,2023-02-03 20:00:00,Ben Chilwell,Cross,7240
+508187,40,MissedShots,0.9319999694824219,0.49599998474121093,0.0616970993578434,Benoit Badiashile Mukinayi,a,7240,FromCorner,2022,Head,18431,West Ham,Chelsea,1,1,2023-02-11 12:30:00,João Félix,Aerial,7240
+508188,49,BlockedShot,0.9080000305175782,0.5029999923706054,0.029997099190950394,Benoit Badiashile Mukinayi,a,7240,FromCorner,2022,Head,18431,West Ham,Chelsea,1,1,2023-02-11 12:30:00,João Félix,Aerial,7240
+515214,94,BlockedShot,0.9580000305175781,0.46599998474121096,0.07947990298271179,Benoit Badiashile Mukinayi,h,7240,FromCorner,2022,Head,18476,Chelsea,Everton,2,2,2023-03-18 17:30:00,Ben Chilwell,Aerial,7240
+524639,81,Goal,0.94,0.5420000076293945,0.49521803855895996,Benoit Badiashile Mukinayi,a,7240,SetPiece,2022,LeftFoot,18542,Bournemouth,Chelsea,1,3,2023-05-06 14:00:00,Hakim Ziyech,Cross,7240
+549745,31,SavedShot,0.9169999694824219,0.4979999923706055,0.2988872528076172,Benoit Badiashile Mukinayi,a,7240,FromCorner,2023,Head,22021,Newcastle United,Chelsea,4,1,2023-11-25 15:00:00,Conor Gallagher,Cross,7240
+553390,8,MissedShots,0.874000015258789,0.505,0.013578224927186966,Benoit Badiashile Mukinayi,a,7240,FromCorner,2023,Head,22048,Everton,Chelsea,2,0,2023-12-10 14:00:00,Mykhailo Mudryk,Aerial,7240
+572042,84,MissedShots,0.9119999694824219,0.46900001525878904,0.07919684797525406,Benoit Badiashile Mukinayi,h,7240,FromCorner,2023,Head,22201,Chelsea,Manchester United,4,3,2024-04-04 19:15:00,Cole Palmer,Cross,7240
+575955,18,MissedShots,0.9519999694824218,0.585999984741211,0.07886861264705658,Benoit Badiashile Mukinayi,a,7240,FromCorner,2023,Head,22175,Arsenal,Chelsea,5,0,2024-04-23 19:00:00,Mykhailo Mudryk,Cross,7240
+577974,19,BlockedShot,0.8469999694824218,0.6959999847412109,0.028321117162704468,Benoit Badiashile Mukinayi,h,7240,SetPiece,2023,LeftFoot,22149,Chelsea,Tottenham,2,0,2024-05-02 18:30:00,,None,7240
+580128,38,BlockedShot,0.764000015258789,0.6769999694824219,0.0184406116604805,Benoit Badiashile Mukinayi,a,7240,OpenPlay,2023,LeftFoot,22261,Nottingham Forest,Chelsea,2,3,2024-05-11 16:30:00,,BallRecovery,7240
+582231,48,OwnGoal,0.07900000095367432,0.5520000076293945,0,Benoit Badiashile Mukinayi,h,7240,OpenPlay,2023,LeftFoot,22269,Chelsea,Bournemouth,2,1,2024-05-19 15:00:00,,None,7240

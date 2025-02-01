@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+51788,84,BlockedShot,0.9059999847412109,0.315,0.05647759884595871,Lee Tomlin,a,975,OpenPlay,2015,RightFoot,100,Liverpool,Bournemouth,1,0,2015-08-17 23:00:00,Adam Smith,Pass,975
+51789,85,MissedShots,0.915,0.5,0.04438130185008049,Lee Tomlin,a,975,FromCorner,2015,OtherBodyPart,100,Liverpool,Bournemouth,1,0,2015-08-17 23:00:00,Matt Ritchie,Aerial,975
+51790,87,SavedShot,0.9380000305175781,0.36700000762939455,0.02389420010149479,Lee Tomlin,a,975,OpenPlay,2015,Head,100,Liverpool,Bournemouth,1,0,2015-08-17 23:00:00,Simon Francis,Aerial,975
+58080,40,SavedShot,0.7390000152587891,0.4420000076293945,0.020432300865650177,Lee Tomlin,h,975,OpenPlay,2015,RightFoot,134,Bournemouth,Sunderland,2,0,2015-09-19 18:00:00,Dan Gosling,BallRecovery,975
+52752,86,SavedShot,0.9330000305175781,0.6969999694824218,0.06304389983415604,Lee Tomlin,a,975,OpenPlay,2015,LeftFoot,189,Southampton,Bournemouth,2,0,2015-11-01 20:00:00,Andrew Surman,Pass,975

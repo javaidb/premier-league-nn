@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1488,Remo Freuler,28,2178,0,0.3386984970420599,0,0.4867018014192581,8,12,5,0,M S,Nottingham Forest,0,0.3386984970420599,4.259000528603792,3.825942753814161,2022

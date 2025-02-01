@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+10166,Kasey McAteer,1,1,0,0,0,0,0,0,0,0,S,Leicester,0,0,0,0,2021
+10166,Kasey McAteer,11,379,0,1.094793302938342,1,0.5408995468169451,6,5,1,0,M S,Leicester,0,1.094793302938342,2.5321825370192528,0.9309220910072327,2024
+10166,Kasey McAteer,11,379,0,1.094793302938342,1,0.5408995468169451,6,5,1,0,M S,Leicester,0,1.094793302938342,2.5321825370192528,0.9309220910072327,2025

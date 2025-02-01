@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+2371,Cristiano Ronaldo,30,2468,18,17.212831899523735,3,4.424962695688009,110,26,8,0,F S,Manchester United,15,14.929328348487616,23.253704860806465,7.720637893304229,2021
+2371,Cristiano Ronaldo,10,517,1,2.1407179944217205,0,0.3078578971326351,25,6,2,0,F S,Manchester United,1,2.1407179944217205,2.957992848008871,0.9433596841990948,2022

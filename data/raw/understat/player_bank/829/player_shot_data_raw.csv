@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+17517,86,SavedShot,0.9440000152587891,0.6769999694824219,0.05363110080361366,Marvin Emnes,h,829,OpenPlay,2014,LeftFoot,4693,Swansea,Newcastle United,2,2,2014-10-04 15:00:00,Wilfried Bony,Chipped,829
+17178,34,SavedShot,0.8490000152587891,0.3529999923706055,0.05738550052046776,Marvin Emnes,h,829,OpenPlay,2014,RightFoot,4668,Swansea,Arsenal,2,1,2014-11-09 16:00:00,Wilfried Bony,Pass,829
+18772,57,MissedShots,0.889000015258789,0.5529999923706055,0.10058899968862534,Marvin Emnes,a,829,OpenPlay,2014,RightFoot,4625,Hull,Swansea,0,1,2014-12-20 15:00:00,Ki Sung-yueng,Cross,829
+18781,91,BlockedShot,0.7980000305175782,0.605999984741211,0.026621200144290924,Marvin Emnes,a,829,SetPiece,2014,RightFoot,4625,Hull,Swansea,0,1,2014-12-20 15:00:00,,None,829
+19850,69,BlockedShot,0.895,0.66,0.05342879891395569,Marvin Emnes,a,829,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,Rebound,829
+19857,79,BlockedShot,0.95,0.56,0.3497979938983917,Marvin Emnes,a,829,OpenPlay,2014,Head,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,Rebound,829
+19138,41,BlockedShot,0.730999984741211,0.3629999923706055,0.011383599601686,Marvin Emnes,h,829,OpenPlay,2014,RightFoot,4575,Swansea,Chelsea,0,5,2015-01-17 15:00:00,Bafétimbi Gomis,LayOff,829
+21214,60,MissedShots,0.7069999694824218,0.5070000076293946,0.012407699599862099,Marvin Emnes,h,829,OpenPlay,2014,RightFoot,4451,Swansea,Everton,1,1,2015-04-11 12:45:00,,BallRecovery,829
+21220,74,MissedShots,0.9019999694824219,0.654000015258789,0.07807520031929016,Marvin Emnes,h,829,OpenPlay,2014,RightFoot,4451,Swansea,Everton,1,1,2015-04-11 12:45:00,Jonjo Shelvey,Pass,829
+22012,85,BlockedShot,0.8340000152587891,0.500999984741211,0.047530900686979294,Marvin Emnes,h,829,FromCorner,2014,RightFoot,4403,Swansea,Stoke,2,0,2015-05-02 15:00:00,Federico Fernández,Pass,829
+21064,89,BlockedShot,0.7430000305175781,0.42200000762939455,0.05601150169968605,Marvin Emnes,h,829,DirectFreekick,2014,RightFoot,4426,Swansea,Manchester City,2,4,2015-05-17 13:30:00,,Standard,829
+22574,46,SavedShot,0.7219999694824218,0.5420000076293945,0.013342699967324734,Marvin Emnes,a,829,OpenPlay,2014,RightFoot,4432,Crystal Palace,Swansea,1,0,2015-05-24 15:00:00,Nathan Dyer,HeadPass,829
+22583,90,BlockedShot,0.7380000305175781,0.5279999923706055,0.01981710083782673,Marvin Emnes,a,829,OpenPlay,2014,RightFoot,4432,Crystal Palace,Swansea,1,0,2015-05-24 15:00:00,Bafétimbi Gomis,Pass,829
+60877,89,BlockedShot,0.9169999694824219,0.28200000762939453,0.024468600749969482,Marvin Emnes,a,829,OpenPlay,2015,RightFoot,371,Bournemouth,Swansea,3,2,2016-03-12 19:00:00,Neil Taylor,Cross,829

@@ -1,0 +1,5 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1013,Sam Field,1,1,0,0,0,0,0,0,0,0,S,West Bromwich Albion,0,0,0,0,2015
+1013,Sam Field,8,278,0,0.049500901252031326,0,0.10928500071167946,1,3,2,0,M S,West Bromwich Albion,0,0.049500901252031326,0.3259259909391403,0.16714070178568363,2016
+1013,Sam Field,10,545,1,0.5942727997899055,0,0.17947129905223846,5,4,2,0,M S,West Bromwich Albion,1,0.5942727997899055,1.0633245995268226,0.30974140483886003,2017
+1013,Sam Field,3,56,0,0,0,0,0,0,0,0,S,West Bromwich Albion,0,0,0,0,2020

@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+532108,8,BlockedShot,0.8009999847412109,0.29200000762939454,0.022065039724111557,William Osula,h,9556,OpenPlay,2023,LeftFoot,22280,Sheffield United,Crystal Palace,0,1,2023-08-12 14:00:00,,BallTouch,9556
+532134,74,MissedShots,0.8580000305175781,0.4490000152587891,0.1259336769580841,William Osula,h,9556,OpenPlay,2023,RightFoot,22280,Sheffield United,Crystal Palace,0,1,2023-08-12 14:00:00,Bénie Traoré,Pass,9556
+532897,68,MissedShots,0.9540000152587891,0.6,0.05275612697005272,William Osula,a,9556,FromCorner,2023,Head,22285,Nottingham Forest,Sheffield United,2,1,2023-08-18 18:45:00,Gustavo Hamer,Cross,9556
+549813,82,BlockedShot,0.8809999847412109,0.40599998474121096,0.05770877003669739,William Osula,h,9556,OpenPlay,2023,RightFoot,22023,Sheffield United,Bournemouth,1,3,2023-11-25 15:00:00,Oliver Norwood,Chipped,9556
+549815,84,BlockedShot,0.8809999847412109,0.4179999923706055,0.026662219315767288,William Osula,h,9556,OpenPlay,2023,Head,22023,Sheffield United,Bournemouth,1,3,2023-11-25 15:00:00,Ben Osborn,Foul,9556
+549817,87,SavedShot,0.9130000305175782,0.3060000038146973,0.05175395309925079,William Osula,h,9556,OpenPlay,2023,RightFoot,22023,Sheffield United,Bournemouth,1,3,2023-11-25 15:00:00,Oliver McBurnie,BallTouch,9556
+551034,67,SavedShot,0.9269999694824219,0.6190000152587891,0.3836943209171295,William Osula,a,9556,OpenPlay,2023,LeftFoot,22028,Burnley,Sheffield United,5,0,2023-12-02 15:00:00,Gustavo Hamer,Pass,9556
+551035,68,MissedShots,0.9030000305175782,0.44099998474121094,0.06171082705259323,William Osula,a,9556,FromCorner,2023,Head,22028,Burnley,Sheffield United,5,0,2023-12-02 15:00:00,Bénie Traoré,Cross,9556
+551043,86,SavedShot,0.9009999847412109,0.7069999694824218,0.04626638442277908,William Osula,a,9556,OpenPlay,2023,LeftFoot,22028,Burnley,Sheffield United,5,0,2023-12-02 15:00:00,James McAtee,Pass,9556
+552931,36,MissedShots,0.85,0.35700000762939454,0.05789800360798836,William Osula,h,9556,OpenPlay,2023,RightFoot,22052,Sheffield United,Brentford,1,0,2023-12-09 15:00:00,Gustavo Hamer,Pass,9556
+556521,86,SavedShot,0.9359999847412109,0.3370000076293945,0.2501959204673767,William Osula,h,9556,OpenPlay,2023,RightFoot,22084,Sheffield United,Luton,2,3,2023-12-26 15:00:00,Anis Ben Slimane,HeadPass,9556
+556987,40,BlockedShot,0.8930000305175781,0.48700000762939455,0.09298117458820343,William Osula,a,9556,OpenPlay,2023,RightFoot,22090,Manchester City,Sheffield United,2,0,2023-12-30 15:00:00,Jayden Bogle,Cross,9556
+556988,41,SavedShot,0.91,0.43599998474121093,0.05653899908065796,William Osula,a,9556,FromCorner,2023,Head,22090,Manchester City,Sheffield United,2,0,2023-12-30 15:00:00,Oliver Norwood,Cross,9556
+559255,36,MissedShots,0.9369999694824219,0.29100000381469726,0.04774322360754013,William Osula,h,9556,OpenPlay,2023,RightFoot,22101,Sheffield United,West Ham,2,2,2024-01-21 14:00:00,James McAtee,Pass,9556
+559258,43,SavedShot,0.9359999847412109,0.4590000152587891,0.2490190714597702,William Osula,h,9556,OpenPlay,2023,Head,22101,Sheffield United,West Ham,2,2,2024-01-21 14:00:00,Auston Trusty,HeadPass,9556
+559260,46,BlockedShot,0.8109999847412109,0.42700000762939455,0.04595751687884331,William Osula,h,9556,OpenPlay,2023,RightFoot,22101,Sheffield United,West Ham,2,2,2024-01-21 14:00:00,,None,9556
+560630,75,SavedShot,0.7869999694824219,0.5729999923706055,0.03160318732261658,William Osula,a,9556,OpenPlay,2023,LeftFoot,22112,Crystal Palace,Sheffield United,3,2,2024-01-30 20:00:00,,None,9556
+560633,84,BlockedShot,0.9109999847412109,0.4829999923706055,0.10866212099790573,William Osula,a,9556,OpenPlay,2023,RightFoot,22112,Crystal Palace,Sheffield United,3,2,2024-01-30 20:00:00,Jayden Bogle,Cross,9556
+560635,100,MissedShots,0.9109999847412109,0.44599998474121094,0.10622412711381912,William Osula,a,9556,FromCorner,2023,LeftFoot,22112,Crystal Palace,Sheffield United,3,2,2024-01-30 20:00:00,Vinicius Souza,HeadPass,9556
+567561,80,MissedShots,0.7609999847412109,0.43,0.058015305548906326,William Osula,h,9556,OpenPlay,2023,RightFoot,22163,Sheffield United,Arsenal,0,6,2024-03-04 20:00:00,,BallRecovery,9556
+576850,86,SavedShot,0.8519999694824218,0.629000015258789,0.13889358937740326,William Osula,a,9556,OpenPlay,2023,LeftFoot,22240,Newcastle United,Sheffield United,5,1,2024-04-27 14:00:00,Vinicius Souza,TakeOn,9556

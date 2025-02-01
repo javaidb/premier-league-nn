@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1032,Kieran Dowell,2,74,0,0,0,0.051129300147295,0,1,0,0,M S,Everton,0,0,0.08104240149259567,0.08104240149259567,2015
+1032,Kieran Dowell,19,912,1,1.2521583996713161,1,1.239989422261715,8,16,0,0,F M S,Norwich,1,1.2521583996713161,2.7508563911542296,0.794395606033504,2021

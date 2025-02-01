@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15521,63,Goal,0.8619999694824219,0.49900001525878906,0.06383799761533737,Esteban Cambiasso,h,4440,OpenPlay,2014,LeftFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Jamie Vardy,BallTouch,4440
+16230,90,ShotOnPost,0.975999984741211,0.5659999847412109,0.5442109704017639,Esteban Cambiasso,a,4440,OpenPlay,2014,LeftFoot,4714,Swansea,Leicester,2,0,2014-10-25 17:30:00,,Rebound,4440
+15950,46,OwnGoal,0.09,0.4520000076293945,0,Esteban Cambiasso,h,4440,OpenPlay,2014,RightFoot,4651,Leicester,West Bromwich Albion,0,1,2014-11-01 15:00:00,,Clearance,4440
+16920,54,BlockedShot,0.795,0.33599998474121096,0.07585509866476059,Esteban Cambiasso,a,4440,DirectFreekick,2014,LeftFoot,4663,Southampton,Leicester,2,0,2014-11-08 15:00:00,,Standard,4440
+18052,3,Goal,0.8219999694824218,0.5459999847412109,0.0618101991713047,Esteban Cambiasso,a,4440,OpenPlay,2014,RightFoot,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,Leonardo Ulloa,Pass,4440
+18089,69,BlockedShot,0.8859999847412109,0.59,0.03093159943819046,Esteban Cambiasso,a,4440,OpenPlay,2014,Head,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,Marcin Wasilewski,None,4440
+18099,87,BlockedShot,0.8069999694824219,0.6769999694824219,0.026829799637198448,Esteban Cambiasso,a,4440,OpenPlay,2014,LeftFoot,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,,None,4440
+18969,19,MissedShots,0.7380000305175781,0.5570000076293945,0.24286200106143951,Esteban Cambiasso,h,4440,OpenPlay,2014,LeftFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,None,4440
+18988,73,BlockedShot,0.8830000305175781,0.45,0.08009739965200424,Esteban Cambiasso,h,4440,OpenPlay,2014,LeftFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,Rebound,4440
+19815,87,MissedShots,0.8540000152587891,0.4540000152587891,0.05949639901518822,Esteban Cambiasso,a,4440,OpenPlay,2014,LeftFoot,4607,Aston Villa,Leicester,2,1,2014-12-07 16:00:00,Marc Albrighton,Cross,4440
+18147,9,MissedShots,0.7730000305175782,0.61,0.023576900362968445,Esteban Cambiasso,h,4440,OpenPlay,2014,LeftFoot,4614,Leicester,Manchester City,0,1,2014-12-13 15:00:00,,None,4440
+18150,22,MissedShots,0.6859999847412109,0.4640000152587891,0.03337249904870987,Esteban Cambiasso,h,4440,DirectFreekick,2014,LeftFoot,4614,Leicester,Manchester City,0,1,2014-12-13 15:00:00,,Standard,4440
+19585,23,BlockedShot,0.8530000305175781,0.47400001525878904,0.07977770268917084,Esteban Cambiasso,a,4440,OpenPlay,2014,LeftFoot,4620,West Ham,Leicester,2,0,2014-12-20 15:00:00,,Dispossessed,4440
+23097,26,BlockedShot,0.774000015258789,0.5720000076293945,0.026354599744081497,Esteban Cambiasso,h,4440,OpenPlay,2014,LeftFoot,4518,Leicester,Crystal Palace,0,1,2015-02-07 15:00:00,Riyad Mahrez,Pass,4440
+23842,60,MissedShots,0.9419999694824219,0.28100000381469725,0.03185129910707474,Esteban Cambiasso,a,4440,FromCorner,2014,LeftFoot,4525,Arsenal,Leicester,2,1,2015-02-10 19:45:00,,None,4440
+23919,69,Goal,0.909000015258789,0.575999984741211,0.4069550037384033,Esteban Cambiasso,a,4440,OpenPlay,2014,LeftFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Jamie Vardy,Pass,4440
+22880,47,BlockedShot,0.875999984741211,0.6790000152587891,0.0472852997481823,Esteban Cambiasso,h,4440,OpenPlay,2014,LeftFoot,4495,Leicester,Hull,0,0,2015-03-14 15:00:00,Matthew James,Pass,4440
+20382,24,MissedShots,0.8140000152587891,0.4909999847412109,0.055499300360679626,Esteban Cambiasso,a,4440,OpenPlay,2014,RightFoot,4505,Tottenham,Leicester,4,3,2015-03-21 15:00:00,Leonardo Ulloa,Pass,4440
+21846,11,Goal,0.774000015258789,0.5129999923706055,0.02973650023341179,Esteban Cambiasso,h,4440,OpenPlay,2014,LeftFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,,None,4440
+20923,88,SavedShot,0.789000015258789,0.68,0.06661059707403183,Esteban Cambiasso,h,4440,DirectFreekick,2014,LeftFoot,4463,Leicester,Swansea,2,0,2015-04-18 15:00:00,,Standard,4440
+21975,48,MissedShots,0.7859999847412109,0.32799999237060545,0.06696580350399017,Esteban Cambiasso,a,4440,DirectFreekick,2014,LeftFoot,4473,Burnley,Leicester,0,1,2015-04-25 15:00:00,,Standard,4440
+21980,63,MissedShots,0.77,0.5870000076293945,0.021818900480866432,Esteban Cambiasso,a,4440,SetPiece,2014,LeftFoot,4473,Burnley,Leicester,0,1,2015-04-25 15:00:00,Wes Morgan,Goal,4440
+23245,38,MissedShots,0.7859999847412109,0.62,0.030332600697875023,Esteban Cambiasso,h,4440,OpenPlay,2014,LeftFoot,4479,Leicester,Chelsea,1,3,2015-04-29 19:45:00,Jamie Vardy,BlockedPass,4440
+21176,70,BlockedShot,0.749000015258789,0.5129999923706055,0.014605499804019928,Esteban Cambiasso,h,4440,SetPiece,2014,LeftFoot,4399,Leicester,Newcastle United,3,0,2015-05-02 12:45:00,,None,4440
+21309,62,MissedShots,0.88,0.6419999694824219,0.07318930327892303,Esteban Cambiasso,h,4440,OpenPlay,2014,LeftFoot,4412,Leicester,Southampton,2,0,2015-05-09 15:00:00,,None,4440
+21312,72,MissedShots,0.8490000152587891,0.3659999847412109,0.0785766988992691,Esteban Cambiasso,h,4440,OpenPlay,2014,LeftFoot,4412,Leicester,Southampton,2,0,2015-05-09 15:00:00,Marc Albrighton,Pass,4440
+20831,78,MissedShots,0.7969999694824219,0.29,0.062424298375844955,Esteban Cambiasso,a,4440,DirectFreekick,2014,LeftFoot,4421,Sunderland,Leicester,0,0,2015-05-16 15:00:00,,Standard,4440
+22971,51,Goal,0.8590000152587891,0.6990000152587891,0.04051629826426506,Esteban Cambiasso,h,4440,OpenPlay,2014,LeftFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,None,4440
+22976,63,MissedShots,0.8630000305175781,0.600999984741211,0.09179279953241348,Esteban Cambiasso,h,4440,OpenPlay,2014,LeftFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Riyad Mahrez,Cross,4440
+22980,69,MissedShots,0.899000015258789,0.6120000076293945,0.012911099940538406,Esteban Cambiasso,h,4440,FromCorner,2014,Head,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Marc Albrighton,Aerial,4440

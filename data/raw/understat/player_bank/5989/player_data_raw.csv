@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+5989,Moussa Niakhate,14,1170,0,1.2535991268232465,0,0.06972300261259079,6,1,1,0,D,Nottingham Forest,0,1.2535991268232465,1.220473725348711,1.220473725348711,2022
+5989,Moussa Niakhate,21,1446,1,1.166658602654934,0,0.09786215238273144,5,3,3,1,D S,Nottingham Forest,1,1.166658602654934,5.4206202663481236,5.337864320725203,2023

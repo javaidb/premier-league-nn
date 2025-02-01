@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+10723,Stefan Bajcetic,11,534,1,0.9587988276034594,0,0.7506909966468811,6,4,2,0,M S,Liverpool,1,0.9587988276034594,3.478168949484825,2.3341952990740538,2022
+10723,Stefan Bajcetic,1,23,0,0,0,0,0,0,0,0,S,Liverpool,0,0,0,0,2023

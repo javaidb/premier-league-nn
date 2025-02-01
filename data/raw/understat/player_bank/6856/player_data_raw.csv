@@ -1,0 +1,5 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+6856,Rúben Vinagre,17,697,0,0.4506887122988701,0,0.8691694838926196,4,6,1,0,D S,Wolverhampton Wanderers,0,0.4506887122988701,3.110600239597261,1.9428526870906353,2018
+6856,Rúben Vinagre,16,625,0,0.2878525033593178,0,0.6194771192967892,5,4,1,0,D S,Wolverhampton Wanderers,0,0.2878525033593178,2.434099517762661,1.9593647047877312,2019
+6856,Rúben Vinagre,2,173,0,0,0,0,0,0,0,0,D S,Wolverhampton Wanderers,0,0,0.17874620109796524,0.17874620109796524,2020
+6856,Rúben Vinagre,2,13,0,0,0,0,0,0,0,0,S,Everton,0,0,0,0,2022

@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+352998,5,BlockedShot,0.7559999847412109,0.3659999847412109,0.019844900816679,William Smallbone,h,8224,OpenPlay,2019,RightFoot,11908,Southampton,Aston Villa,2,0,2020-02-22 15:00:00,Moussa Djenepo,Pass,8224
+353298,34,MissedShots,0.904000015258789,0.5209999847412109,0.1347550004720688,William Smallbone,a,8224,OpenPlay,2019,LeftFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Sofiane Boufal,Pass,8224
+365050,86,BlockedShot,0.8680000305175781,0.36,0.08032429963350296,William Smallbone,a,8224,OpenPlay,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Che Adams,Pass,8224
+365052,88,MissedShots,0.7769999694824219,0.605,0.022543299943208694,William Smallbone,a,8224,FromCorner,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Che Adams,Pass,8224
+373797,42,MissedShots,0.7669999694824219,0.43400001525878906,0.01908070035278797,William Smallbone,h,8224,FromCorner,2019,RightFoot,12015,Southampton,Sheffield United,3,1,2020-07-26 15:00:00,,None,8224
+373803,56,MissedShots,0.7469999694824219,0.41,0.019322900101542473,William Smallbone,h,8224,OpenPlay,2019,LeftFoot,12015,Southampton,Sheffield United,3,1,2020-07-26 15:00:00,Danny Ings,Pass,8224
+399167,45,SavedShot,0.825999984741211,0.6370000076293946,0.04609239846467972,William Smallbone,a,8224,OpenPlay,2020,RightFoot,14619,Leicester,Southampton,2,0,2021-01-16 20:00:00,Stuart Armstrong,Pass,8224
+449084,15,MissedShots,0.86,0.6890000152587891,0.06670799851417542,William Smallbone,a,8224,OpenPlay,2021,LeftFoot,16542,Crystal Palace,Southampton,2,2,2021-12-15 19:30:00,Armando Broja,Pass,8224
+584783,9,BlockedShot,0.9209999847412109,0.4209999847412109,0.12310050427913666,William Smallbone,a,8224,SetPiece,2024,RightFoot,26606,Newcastle United,Southampton,1,0,2024-08-17 14:00:00,Joe Ayodele-Aribo,Pass,8224
+584784,13,BlockedShot,0.8019999694824219,0.32,0.027181804180145264,William Smallbone,a,8224,OpenPlay,2024,RightFoot,26606,Newcastle United,Southampton,1,0,2024-08-17 14:00:00,Jack Stephens,Pass,8224
+584793,61,BlockedShot,0.8419999694824218,0.529000015258789,0.059127405285835266,William Smallbone,a,8224,OpenPlay,2024,RightFoot,26606,Newcastle United,Southampton,1,0,2024-08-17 14:00:00,,Tackle,8224
+584803,92,BlockedShot,0.7609999847412109,0.6930000305175781,0.0488644577562809,William Smallbone,a,8224,DirectFreekick,2024,RightFoot,26606,Newcastle United,Southampton,1,0,2024-08-17 14:00:00,,Standard,8224

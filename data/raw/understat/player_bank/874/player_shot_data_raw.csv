@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+60600,74,BlockedShot,0.8059999847412109,0.49700000762939456,0.015768099576234818,Andre Green,a,874,OpenPlay,2015,RightFoot,379,Swansea,Aston Villa,1,0,2016-03-19 21:30:00,,Aerial,874

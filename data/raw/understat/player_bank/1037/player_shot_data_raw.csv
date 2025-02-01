@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+55982,7,SavedShot,0.7319999694824219,0.580999984741211,0.014882500283420086,Cameron Borthwick-Jackson,a,1037,FromCorner,2015,LeftFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,,TakeOn,1037

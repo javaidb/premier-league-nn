@@ -1,0 +1,7 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,5,Sub,Liverpool,Brighton,4,0,2018-05-13,7495,2017,240243,0,0,0,0,0,0,0,5557
+0,0,0,1,Sub,West Ham,Liverpool,0,4,2017-05-14,3509,2016,134126,0,0,0,0,0,0,0,5557
+0,0,0,49,AMC,Stoke,Liverpool,1,2,2017-04-08,3451,2016,133597,0,0,0,0,0,0,0,5557
+0,2,0.07473470270633698,28,Sub,Liverpool,Burnley,2,1,2017-03-12,3419,2016,125453,0,0,0,0,0.07473470270633698,0.08110760152339935,0.018910599872469902,5557
+0,0,0,4,Sub,Leicester,Liverpool,3,1,2017-02-27,3399,2016,131791,0,0,0,0,0,0,0,5557
+0,0,0,1,Sub,Liverpool,Sunderland,2,0,2016-11-26,2710,2016,128082,0,0,0,0,0,0,0,5557

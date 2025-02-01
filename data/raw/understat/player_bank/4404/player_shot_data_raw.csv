@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+17072,16,SavedShot,0.794000015258789,0.49400001525878906,0.012180900201201439,Ryan Taylor,h,4404,FromCorner,2014,RightFoot,4670,Newcastle United,Queens Park Rangers,1,0,2014-11-22 15:00:00,Rémy Cabella,Chipped,4404
+17073,21,SavedShot,0.8209999847412109,0.504000015258789,0.06766930222511292,Ryan Taylor,h,4404,OpenPlay,2014,RightFoot,4670,Newcastle United,Queens Park Rangers,1,0,2014-11-22 15:00:00,Rémy Cabella,Pass,4404
+17077,28,BlockedShot,0.7669999694824219,0.620999984741211,0.06604649871587753,Ryan Taylor,h,4404,DirectFreekick,2014,RightFoot,4670,Newcastle United,Queens Park Rangers,1,0,2014-11-22 15:00:00,,Standard,4404
+23555,63,SavedShot,0.7169999694824218,0.6719999694824219,0.035678599029779434,Ryan Taylor,h,4404,DirectFreekick,2014,RightFoot,4548,Newcastle United,Aston Villa,1,0,2015-02-28 15:00:00,,Standard,4404
+23561,75,SavedShot,0.795,0.6090000152587891,0.0955289974808693,Ryan Taylor,h,4404,DirectFreekick,2014,RightFoot,4548,Newcastle United,Aston Villa,1,0,2015-02-28 15:00:00,,Standard,4404
+23566,83,SavedShot,0.705,0.500999984741211,0.013171600177884102,Ryan Taylor,h,4404,FromCorner,2014,RightFoot,4548,Newcastle United,Aston Villa,1,0,2015-02-28 15:00:00,,None,4404
+22783,48,MissedShots,0.7959999847412109,0.7419999694824219,0.053159199655056,Ryan Taylor,a,4404,DirectFreekick,2014,RightFoot,4500,Everton,Newcastle United,3,0,2015-03-15 16:00:00,,Standard,4404
+22022,30,BlockedShot,0.779000015258789,0.30200000762939455,0.05627389997243881,Ryan Taylor,h,4404,DirectFreekick,2014,RightFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,,Standard,4404
+22938,66,MissedShots,0.8580000305175781,0.15100000381469728,0.02667129971086979,Ryan Taylor,a,4404,FromCorner,2014,RightFoot,4460,Liverpool,Newcastle United,2,0,2015-04-13 20:00:00,Rémy Cabella,Pass,4404
+22944,93,MissedShots,0.7780000305175782,0.6840000152587891,0.05906179919838905,Ryan Taylor,a,4404,DirectFreekick,2014,RightFoot,4460,Liverpool,Newcastle United,2,0,2015-04-13 20:00:00,,Standard,4404
+22806,47,MissedShots,0.774000015258789,0.725,0.04818569868803024,Ryan Taylor,h,4404,DirectFreekick,2014,RightFoot,4470,Newcastle United,Swansea,2,3,2015-04-25 15:00:00,,Standard,4404
+21159,35,SavedShot,0.749000015258789,0.46,0.019242800772190094,Ryan Taylor,a,4404,OpenPlay,2014,RightFoot,4399,Leicester,Newcastle United,3,0,2015-05-02 12:45:00,Emmanuel Rivière,Pass,4404
+21710,21,MissedShots,0.6819999694824219,0.49599998474121093,0.03257640078663826,Ryan Taylor,h,4404,DirectFreekick,2014,RightFoot,4413,Newcastle United,West Bromwich Albion,1,1,2015-05-09 15:00:00,,Standard,4404
+20401,25,MissedShots,0.7980000305175782,0.31,0.06925439834594727,Ryan Taylor,a,4404,DirectFreekick,2014,RightFoot,4420,Queens Park Rangers,Newcastle United,2,1,2015-05-16 15:00:00,,Standard,4404
+20403,37,BlockedShot,0.735999984741211,0.5720000076293945,0.0230966005474329,Ryan Taylor,a,4404,OpenPlay,2014,LeftFoot,4420,Queens Park Rangers,Newcastle United,2,1,2015-05-16 15:00:00,,None,4404
+20416,61,BlockedShot,0.7619999694824219,0.6909999847412109,0.01619659923017025,Ryan Taylor,a,4404,OpenPlay,2014,RightFoot,4420,Queens Park Rangers,Newcastle United,2,1,2015-05-16 15:00:00,Jack Colback,Pass,4404

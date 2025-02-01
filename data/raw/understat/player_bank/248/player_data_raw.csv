@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+248,Elias Kachunga,19,1350,1,1.8368729976937175,1,0.6263600084930658,12,10,1,0,F M S,Huddersfield,1,1.8368729976937175,2.367136892862618,1.1234530275687575,2017
+248,Elias Kachunga,20,1181,0,0.9763357732445002,0,0.23992899805307388,14,5,2,0,F M S,Huddersfield,0,0.9763357732445002,1.663942502811551,0.8041862118989229,2018

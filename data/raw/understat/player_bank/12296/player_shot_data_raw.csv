@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+612317,84,MissedShots,0.8969999694824219,0.35,0.01565716043114662,Lewis Orford,h,12296,OpenPlay,2024,Head,26821,West Ham,Crystal Palace,0,2,2025-01-18 15:00:00,Aaron Wan-Bissaka,Cross,12296

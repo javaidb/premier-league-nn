@@ -1,0 +1,208 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+53058,90,MissedShots,0.8880000305175781,0.32599998474121095,0.09205929934978485,Adama Traoré,h,900,OpenPlay,2015,RightFoot,237,Aston Villa,Arsenal,0,2,2015-12-13 17:30:00,Alan Hutton,TakeOn,900
+53595,78,BlockedShot,0.85,0.32599998474121095,0.03987810015678406,Adama Traoré,a,900,OpenPlay,2015,LeftFoot,263,Norwich,Aston Villa,2,0,2015-12-28 19:00:00,Alan Hutton,Chipped,900
+114129,18,SavedShot,0.9359999847412109,0.3840000152587891,0.40544500946998596,Adama Traoré,a,900,OpenPlay,2016,RightFoot,547,Arsenal,Middlesbrough,0,0,2016-10-22 18:00:00,Álvaro Negredo,TakeOn,900
+114141,58,SavedShot,0.855,0.3189999961853027,0.05537790060043335,Adama Traoré,a,900,OpenPlay,2016,RightFoot,547,Arsenal,Middlesbrough,0,0,2016-10-22 18:00:00,Adam Clayton,TakeOn,900
+115556,60,BlockedShot,0.874000015258789,0.33,0.045265499502420425,Adama Traoré,h,900,OpenPlay,2016,RightFoot,2705,Middlesbrough,Chelsea,0,1,2016-11-20 20:00:00,Gastón Ramírez,Chipped,900
+115560,74,MissedShots,0.81,0.3509999847412109,0.03005330078303814,Adama Traoré,h,900,OpenPlay,2016,RightFoot,2705,Middlesbrough,Chelsea,0,1,2016-11-20 20:00:00,,BallRecovery,900
+115175,60,MissedShots,0.889000015258789,0.33599998474121096,0.08666729927062988,Adama Traoré,a,900,OpenPlay,2016,RightFoot,2711,Leicester,Middlesbrough,2,2,2016-11-26 19:00:00,Marten de Roon,LayOff,900
+117573,2,MissedShots,0.8130000305175781,0.4640000152587891,0.10419400036334991,Adama Traoré,a,900,OpenPlay,2016,RightFoot,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,,BallRecovery,900
+118964,61,BlockedShot,0.8280000305175781,0.39,0.03477820008993149,Adama Traoré,h,900,SetPiece,2016,RightFoot,3363,Middlesbrough,West Bromwich Albion,1,1,2017-01-31 22:45:00,,Rebound,900
+117851,46,MissedShots,0.8180000305175781,0.7330000305175781,0.02111000008881092,Adama Traoré,h,900,OpenPlay,2016,RightFoot,3382,Middlesbrough,Everton,0,0,2017-02-11 15:00:00,Fabio,TakeOn,900
+119757,52,MissedShots,0.91,0.2929999923706055,0.05535240098834038,Adama Traoré,a,900,OpenPlay,2016,RightFoot,3438,Swansea,Middlesbrough,0,0,2017-04-02 13:30:00,Rudy Gestede,Pass,900
+120152,4,MissedShots,0.879000015258789,0.3509999847412109,0.0705799013376236,Adama Traoré,a,900,OpenPlay,2016,RightFoot,3442,Hull,Middlesbrough,4,2,2017-04-05 19:45:00,Álvaro Negredo,Pass,900
+120159,15,BlockedShot,0.805,0.36900001525878906,0.041668400168418884,Adama Traoré,a,900,OpenPlay,2016,RightFoot,3442,Hull,Middlesbrough,4,2,2017-04-05 19:45:00,Stewart Downing,TakeOn,900
+233738,88,SavedShot,0.769000015258789,0.52,0.021856799721717834,Adama Traoré,a,900,OpenPlay,2018,LeftFoot,9228,West Ham,Wolverhampton Wanderers,0,1,2018-09-01 14:00:00,João Moutinho,TakeOn,900
+233739,92,Goal,0.879000015258789,0.3659999847412109,0.08869180083274841,Adama Traoré,a,900,OpenPlay,2018,RightFoot,9228,West Ham,Wolverhampton Wanderers,0,1,2018-09-01 14:00:00,Léo Bonatini,Pass,900
+233989,70,SavedShot,0.9590000152587891,0.33,0.08456219732761383,Adama Traoré,h,900,OpenPlay,2018,RightFoot,9244,Wolverhampton Wanderers,Burnley,1,0,2018-09-16 12:30:00,Raúl Jiménez,Pass,900
+234217,90,SavedShot,0.9169999694824219,0.28299999237060547,0.040889300405979156,Adama Traoré,a,900,OpenPlay,2018,RightFoot,9248,Manchester United,Wolverhampton Wanderers,1,1,2018-09-22 14:00:00,Rúben Neves,Chipped,900
+234218,93,SavedShot,0.7280000305175781,0.255,0.029290899634361267,Adama Traoré,a,900,OpenPlay,2018,RightFoot,9248,Manchester United,Wolverhampton Wanderers,1,1,2018-09-22 14:00:00,Rúben Neves,Pass,900
+234219,94,MissedShots,0.78,0.46599998474121096,0.07465469837188721,Adama Traoré,a,900,OpenPlay,2018,RightFoot,9248,Manchester United,Wolverhampton Wanderers,1,1,2018-09-22 14:00:00,Morgan Gibbs-White,TakeOn,900
+249529,23,SavedShot,0.8069999694824219,0.649000015258789,0.03461400046944618,Adama Traoré,a,900,OpenPlay,2018,RightFoot,9290,Brighton,Wolverhampton Wanderers,1,0,2018-10-27 14:00:00,Jonny,Pass,900
+250251,91,SavedShot,0.865,0.4470000076293945,0.32456299662590027,Adama Traoré,a,900,OpenPlay,2018,LeftFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Willy Boly,TakeOn,900
+250510,30,BlockedShot,0.89,0.3270000076293945,0.0691526010632515,Adama Traoré,a,900,OpenPlay,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,,None,900
+251482,3,MissedShots,0.84,0.33599998474121096,0.051548101007938385,Adama Traoré,h,900,OpenPlay,2018,RightFoot,9367,Wolverhampton Wanderers,Liverpool,0,2,2018-12-21 20:00:00,João Moutinho,BallRecovery,900
+251483,9,MissedShots,0.855,0.28600000381469726,0.03512220084667206,Adama Traoré,h,900,OpenPlay,2018,RightFoot,9367,Wolverhampton Wanderers,Liverpool,0,2,2018-12-21 20:00:00,Raúl Jiménez,Pass,900
+251722,7,MissedShots,0.8540000152587891,0.7169999694824218,0.033975999802351,Adama Traoré,a,900,OpenPlay,2018,RightFoot,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,Jonny,Pass,900
+263571,50,BlockedShot,0.9259999847412109,0.2620000076293945,0.03815630078315735,Adama Traoré,a,900,OpenPlay,2018,RightFoot,9388,Tottenham,Wolverhampton Wanderers,1,3,2018-12-29 15:00:00,Rúben Neves,TakeOn,900
+274617,89,BlockedShot,0.830999984741211,0.7230000305175781,0.06444410234689713,Adama Traoré,a,900,OpenPlay,2018,LeftFoot,9409,Manchester City,Wolverhampton Wanderers,3,0,2019-01-14 20:00:00,Jonny,BallRecovery,900
+275650,81,BlockedShot,0.9269999694824219,0.36900001525878906,0.06493359804153442,Adama Traoré,h,900,OpenPlay,2018,RightFoot,9450,Wolverhampton Wanderers,Newcastle United,1,1,2019-02-11 20:00:00,Ivan Cavaleiro,Cross,900
+275656,94,BlockedShot,0.8619999694824219,0.29200000762939454,0.027455899864435196,Adama Traoré,h,900,OpenPlay,2018,RightFoot,9450,Wolverhampton Wanderers,Newcastle United,1,1,2019-02-11 20:00:00,Ivan Cavaleiro,Cross,900
+276148,46,MissedShots,0.735999984741211,0.3940000152587891,0.06294900178909302,Adama Traoré,h,900,OpenPlay,2018,RightFoot,9477,Wolverhampton Wanderers,Cardiff,2,0,2019-03-02 15:00:00,Raúl Jiménez,Pass,900
+276150,53,MissedShots,0.8269999694824218,0.645,0.08288539946079254,Adama Traoré,h,900,OpenPlay,2018,LeftFoot,9477,Wolverhampton Wanderers,Cardiff,2,0,2019-03-02 15:00:00,Raúl Jiménez,Chipped,900
+285136,93,MissedShots,0.8230000305175781,0.31,0.02574150077998638,Adama Traoré,a,900,SetPiece,2018,LeftFoot,9494,Chelsea,Wolverhampton Wanderers,1,1,2019-03-10 14:05:00,João Moutinho,Pass,900
+311300,58,MissedShots,0.8540000152587891,0.31,0.03903479874134064,Adama Traoré,h,900,OpenPlay,2019,LeftFoot,11662,Wolverhampton Wanderers,Manchester United,1,1,2019-08-19 20:00:00,João Moutinho,Pass,900
+313105,79,MissedShots,0.8859999847412109,0.27600000381469725,0.035776298493146896,Adama Traoré,h,900,OpenPlay,2019,LeftFoot,11668,Wolverhampton Wanderers,Burnley,1,1,2019-08-25 16:30:00,Rúben Neves,Pass,900
+321489,20,BlockedShot,0.7609999847412109,0.4759999847412109,0.02663790062069893,Adama Traoré,a,900,OpenPlay,2019,LeftFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,,BallRecovery,900
+321492,28,MissedShots,0.784000015258789,0.415,0.021914400160312653,Adama Traoré,a,900,FromCorner,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,,None,900
+321507,80,BlockedShot,0.8830000305175781,0.32,0.03552410006523132,Adama Traoré,a,900,OpenPlay,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Diogo Jota,Cross,900
+324671,79,Goal,0.8430000305175781,0.44299999237060544,0.3724919855594635,Adama Traoré,a,900,OpenPlay,2019,RightFoot,11716,Manchester City,Wolverhampton Wanderers,0,2,2019-10-06 14:00:00,Raúl Jiménez,Pass,900
+324676,93,Goal,0.8219999694824218,0.43900001525878907,0.3028630018234253,Adama Traoré,a,900,OpenPlay,2019,RightFoot,11716,Manchester City,Wolverhampton Wanderers,0,2,2019-10-06 14:00:00,Raúl Jiménez,Pass,900
+325680,79,MissedShots,0.7780000305175782,0.4929999923706055,0.03485799953341484,Adama Traoré,h,900,OpenPlay,2019,RightFoot,11732,Wolverhampton Wanderers,Southampton,1,1,2019-10-19 15:00:00,Diogo Jota,Pass,900
+327864,64,BlockedShot,0.870999984741211,0.35700000762939454,0.10275200009346008,Adama Traoré,a,900,OpenPlay,2019,LeftFoot,11738,Newcastle United,Wolverhampton Wanderers,1,1,2019-10-27 14:00:00,Raúl Jiménez,Pass,900
+331427,49,ShotOnPost,0.8780000305175781,0.285,0.061459798365831375,Adama Traoré,h,900,OpenPlay,2019,RightFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,Matt Doherty,HeadPass,900
+336513,60,BlockedShot,0.85,0.34700000762939454,0.03971730172634125,Adama Traoré,a,900,OpenPlay,2019,RightFoot,11795,Brighton,Wolverhampton Wanderers,2,2,2019-12-08 16:30:00,,Rebound,900
+336514,68,BlockedShot,0.8280000305175781,0.4370000076293945,0.05542030185461044,Adama Traoré,a,900,OpenPlay,2019,LeftFoot,11795,Brighton,Wolverhampton Wanderers,2,2,2019-12-08 16:30:00,,None,900
+336518,82,BlockedShot,0.8919999694824219,0.3270000076293945,0.06900080293416977,Adama Traoré,a,900,OpenPlay,2019,LeftFoot,11795,Brighton,Wolverhampton Wanderers,2,2,2019-12-08 16:30:00,Rúben Neves,Pass,900
+337488,14,SavedShot,0.8580000305175781,0.30700000762939456,0.033788200467824936,Adama Traoré,h,900,OpenPlay,2019,LeftFoot,11812,Wolverhampton Wanderers,Tottenham,1,2,2019-12-15 14:00:00,Rúben Neves,Pass,900
+337497,41,SavedShot,0.86,0.355,0.05979200080037117,Adama Traoré,h,900,OpenPlay,2019,LeftFoot,11812,Wolverhampton Wanderers,Tottenham,1,2,2019-12-15 14:00:00,Rúben Neves,Pass,900
+337503,66,Goal,0.8059999847412109,0.4179999923706055,0.045812301337718964,Adama Traoré,h,900,OpenPlay,2019,RightFoot,11812,Wolverhampton Wanderers,Tottenham,1,2,2019-12-15 14:00:00,Raúl Jiménez,Pass,900
+338644,20,BlockedShot,0.81,0.335,0.023269599303603172,Adama Traoré,a,900,OpenPlay,2019,RightFoot,11819,Norwich,Wolverhampton Wanderers,1,2,2019-12-21 15:00:00,Raúl Jiménez,BallRecovery,900
+338647,28,BlockedShot,0.8969999694824219,0.34200000762939453,0.06987640261650085,Adama Traoré,a,900,OpenPlay,2019,RightFoot,11819,Norwich,Wolverhampton Wanderers,1,2,2019-12-21 15:00:00,Rúben Neves,Pass,900
+338658,66,BlockedShot,0.845999984741211,0.325,0.06878309696912766,Adama Traoré,a,900,OpenPlay,2019,RightFoot,11819,Norwich,Wolverhampton Wanderers,1,2,2019-12-21 15:00:00,Raúl Jiménez,Pass,900
+339697,40,BlockedShot,0.9069999694824219,0.3509999847412109,0.05509360134601593,Adama Traoré,h,900,OpenPlay,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,Jonny,Cross,900
+339701,49,MissedShots,0.8209999847412109,0.55,0.06054740026593208,Adama Traoré,h,900,OpenPlay,2019,LeftFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,Raúl Jiménez,Pass,900
+339705,54,Goal,0.75,0.45099998474121095,0.022036900743842125,Adama Traoré,h,900,OpenPlay,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,Rúben Neves,Pass,900
+339710,68,SavedShot,0.8519999694824218,0.3089999961853027,0.041672300547361374,Adama Traoré,h,900,OpenPlay,2019,LeftFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,Rúben Neves,Pass,900
+339712,74,BlockedShot,0.775,0.435,0.03527719900012016,Adama Traoré,h,900,FromCorner,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,Rúben Neves,Pass,900
+339945,94,BlockedShot,0.7719999694824219,0.44,0.03427410125732422,Adama Traoré,a,900,OpenPlay,2019,RightFoot,11836,Liverpool,Wolverhampton Wanderers,1,0,2019-12-29 16:30:00,,TakeOn,900
+351939,11,BlockedShot,0.7609999847412109,0.59,0.023257600143551826,Adama Traoré,a,900,OpenPlay,2019,RightFoot,11870,Southampton,Wolverhampton Wanderers,2,3,2020-01-18 15:00:00,Jonny,TakeOn,900
+352340,64,SavedShot,0.9059999847412109,0.28899999618530275,0.051364000886678696,Adama Traoré,h,900,OpenPlay,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Raúl Jiménez,Pass,900
+352344,73,MissedShots,0.755,0.4,0.02928769960999489,Adama Traoré,h,900,OpenPlay,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Romain Saiss,TakeOn,900
+352578,34,MissedShots,0.8630000305175781,0.3320000076293945,0.05603310093283653,Adama Traoré,a,900,OpenPlay,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Diogo Jota,Pass,900
+352585,66,BlockedShot,0.845,0.415,0.07175420224666595,Adama Traoré,a,900,OpenPlay,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Diogo Jota,Pass,900
+352738,94,SavedShot,0.879000015258789,0.3029999923706055,0.048672500997781754,Adama Traoré,h,900,OpenPlay,2019,LeftFoot,11902,Wolverhampton Wanderers,Leicester,0,0,2020-02-14 20:00:00,João Moutinho,Pass,900
+353108,94,MissedShots,0.7580000305175781,0.3770000076293945,0.05126950144767761,Adama Traoré,h,900,OpenPlay,2019,RightFoot,11912,Wolverhampton Wanderers,Norwich,3,0,2020-02-23 14:00:00,Conor Coady,Chipped,900
+353367,7,MissedShots,0.8019999694824219,0.365,0.035408999770879745,Adama Traoré,a,900,OpenPlay,2019,RightFoot,11920,Tottenham,Wolverhampton Wanderers,2,3,2020-03-01 14:00:00,,BallRecovery,900
+353389,65,MissedShots,0.754000015258789,0.4620000076293945,0.025964200496673584,Adama Traoré,a,900,OpenPlay,2019,RightFoot,11920,Tottenham,Wolverhampton Wanderers,2,3,2020-03-01 14:00:00,Rúben Neves,TakeOn,900
+366334,48,MissedShots,0.8119999694824219,0.36400001525878906,0.03888539969921112,Adama Traoré,h,900,OpenPlay,2019,RightFoot,11947,Wolverhampton Wanderers,Bournemouth,1,0,2020-06-24 17:00:00,Diogo Jota,Pass,900
+368706,0,SavedShot,0.84,0.49900001525878906,0.2937619984149933,Adama Traoré,h,900,OpenPlay,2019,RightFoot,11972,Wolverhampton Wanderers,Arsenal,0,2,2020-07-04 16:30:00,Raúl Jiménez,Chipped,900
+368707,9,MissedShots,0.7609999847412109,0.585,0.025831099599599838,Adama Traoré,h,900,OpenPlay,2019,LeftFoot,11972,Wolverhampton Wanderers,Arsenal,0,2,2020-07-04 16:30:00,Rúben Neves,Pass,900
+368717,63,MissedShots,0.8490000152587891,0.3509999847412109,0.2189590036869049,Adama Traoré,h,900,OpenPlay,2019,RightFoot,11972,Wolverhampton Wanderers,Arsenal,0,2,2020-07-04 16:30:00,Diogo Jota,Pass,900
+370717,85,ShotOnPost,0.9219999694824219,0.4759999847412109,0.6167969703674316,Adama Traoré,h,900,OpenPlay,2019,RightFoot,11992,Wolverhampton Wanderers,Everton,3,0,2020-07-12 11:00:00,Diogo Jota,Pass,900
+370718,91,BlockedShot,0.815,0.3579999923706055,0.03429809957742691,Adama Traoré,h,900,OpenPlay,2019,RightFoot,11992,Wolverhampton Wanderers,Everton,3,0,2020-07-12 11:00:00,Rúben Neves,TakeOn,900
+371446,46,MissedShots,0.94,0.28200000762939453,0.04142250120639801,Adama Traoré,a,900,OpenPlay,2019,RightFoot,11994,Burnley,Wolverhampton Wanderers,1,1,2020-07-15 17:00:00,João Moutinho,Chipped,900
+372938,58,SavedShot,0.9330000305175781,0.33799999237060546,0.2759070098400116,Adama Traoré,h,900,OpenPlay,2019,RightFoot,12012,Wolverhampton Wanderers,Crystal Palace,2,0,2020-07-20 19:15:00,Daniel Podence,Pass,900
+372943,74,SavedShot,0.720999984741211,0.48700000762939455,0.020789699628949165,Adama Traoré,h,900,OpenPlay,2019,RightFoot,12012,Wolverhampton Wanderers,Crystal Palace,2,0,2020-07-20 19:15:00,Rúben Neves,Pass,900
+377116,74,MissedShots,0.7319999694824219,0.45799999237060546,0.03125,Adama Traoré,a,900,OpenPlay,2020,RightFoot,14094,Sheffield United,Wolverhampton Wanderers,0,2,2020-09-14 17:00:00,João Moutinho,Pass,900
+377117,82,BlockedShot,0.759000015258789,0.5790000152587891,0.04413840174674988,Adama Traoré,a,900,OpenPlay,2020,RightFoot,14094,Sheffield United,Wolverhampton Wanderers,0,2,2020-09-14 17:00:00,,TakeOn,900
+377120,89,BlockedShot,0.7480000305175781,0.48400001525878905,0.07995539903640747,Adama Traoré,a,900,OpenPlay,2020,RightFoot,14094,Sheffield United,Wolverhampton Wanderers,0,2,2020-09-14 17:00:00,Rúben Neves,Pass,900
+384375,82,SavedShot,0.8919999694824219,0.3529999923706055,0.09328000247478485,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14504,Wolverhampton Wanderers,Crystal Palace,2,0,2020-10-30 20:00:00,Raúl Jiménez,Pass,900
+388386,29,SavedShot,0.7180000305175781,0.5279999923706055,0.009970230050384998,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14524,Wolverhampton Wanderers,Southampton,1,1,2020-11-23 20:00:00,,TakeOn,900
+389679,48,MissedShots,0.93,0.36,0.11096999794244766,Adama Traoré,a,900,OpenPlay,2020,RightFoot,14525,Arsenal,Wolverhampton Wanderers,1,2,2020-11-29 19:15:00,Fabio Silva,Pass,900
+391033,79,MissedShots,0.8480000305175781,0.32299999237060545,0.038537099957466125,Adama Traoré,a,900,OpenPlay,2020,RightFoot,14539,Liverpool,Wolverhampton Wanderers,4,0,2020-12-06 19:15:00,,BallRecovery,900
+391415,58,SavedShot,0.7859999847412109,0.3029999923706055,0.0716388002038002,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14552,Wolverhampton Wanderers,Aston Villa,0,1,2020-12-12 12:30:00,João Moutinho,TakeOn,900
+392607,76,BlockedShot,0.865,0.40400001525878904,0.0677717998623848,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14562,Wolverhampton Wanderers,Chelsea,2,1,2020-12-15 18:00:00,,None,900
+395995,70,BlockedShot,0.86,0.295,0.037057798355817795,Adama Traoré,a,900,OpenPlay,2020,LeftFoot,14592,Manchester United,Wolverhampton Wanderers,1,0,2020-12-29 20:00:00,Rúben Neves,Pass,900
+398831,14,SavedShot,0.7519999694824219,0.3679999923706055,0.026004500687122345,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14624,Wolverhampton Wanderers,West Bromwich Albion,2,3,2021-01-16 12:30:00,Leander Dendoncker,LayOff,900
+398835,24,BlockedShot,0.894000015258789,0.3110000038146973,0.05036409944295883,Adama Traoré,h,900,OpenPlay,2020,LeftFoot,14624,Wolverhampton Wanderers,West Bromwich Albion,2,3,2021-01-16 12:30:00,Leander Dendoncker,HeadPass,900
+403768,14,BlockedShot,0.88,0.5279999923706055,0.11575700342655182,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14664,Wolverhampton Wanderers,Leicester,0,0,2021-02-07 14:00:00,Pedro Neto,Pass,900
+404641,75,BlockedShot,0.7669999694824219,0.31,0.03009679913520813,Adama Traoré,a,900,OpenPlay,2020,RightFoot,14672,Southampton,Wolverhampton Wanderers,1,2,2021-02-14 12:00:00,,TakeOn,900
+405301,7,BlockedShot,0.749000015258789,0.40400001525878904,0.020788799971342087,Adama Traoré,h,900,OpenPlay,2020,LeftFoot,14684,Wolverhampton Wanderers,Leeds,1,0,2021-02-19 20:00:00,Nélson Semedo,Pass,900
+405305,17,BlockedShot,0.7380000305175781,0.5029999923706054,0.01909860037267208,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14684,Wolverhampton Wanderers,Leeds,1,0,2021-02-19 20:00:00,Nélson Semedo,Pass,900
+405324,63,ShotOnPost,0.7519999694824219,0.605,0.023560600355267525,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14684,Wolverhampton Wanderers,Leeds,1,0,2021-02-19 20:00:00,Fernando Marçal,Pass,900
+406983,30,SavedShot,0.9590000152587891,0.6079999923706054,0.03671880066394806,Adama Traoré,a,900,OpenPlay,2020,Head,14688,Newcastle United,Wolverhampton Wanderers,1,1,2021-02-27 20:00:00,Rúben Neves,Chipped,900
+406987,46,MissedShots,0.715,0.3189999961853027,0.013919499702751637,Adama Traoré,a,900,OpenPlay,2020,RightFoot,14688,Newcastle United,Wolverhampton Wanderers,1,1,2021-02-27 20:00:00,Pedro Neto,Pass,900
+406988,47,BlockedShot,0.7669999694824219,0.605999984741211,0.024455200880765915,Adama Traoré,a,900,OpenPlay,2020,RightFoot,14688,Newcastle United,Wolverhampton Wanderers,1,1,2021-02-27 20:00:00,Jonny,TakeOn,900
+407748,67,BlockedShot,0.8640000152587891,0.34,0.082526296377182,Adama Traoré,a,900,OpenPlay,2020,RightFoot,14720,Manchester City,Wolverhampton Wanderers,4,1,2021-03-02 20:00:00,Pedro Neto,Pass,900
+407747,67,BlockedShot,0.7959999847412109,0.445,0.03947430104017258,Adama Traoré,a,900,OpenPlay,2020,RightFoot,14720,Manchester City,Wolverhampton Wanderers,4,1,2021-03-02 20:00:00,,None,900
+407750,69,MissedShots,0.85,0.5529999923706055,0.06257990002632141,Adama Traoré,a,900,OpenPlay,2020,LeftFoot,14720,Manchester City,Wolverhampton Wanderers,4,1,2021-03-02 20:00:00,,Rebound,900
+410791,72,SavedShot,0.779000015258789,0.34900001525878904,0.021635599434375763,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14714,Wolverhampton Wanderers,Liverpool,0,1,2021-03-15 20:00:00,João Moutinho,BallRecovery,900
+413473,36,SavedShot,0.8109999847412109,0.49700000762939456,0.06618980318307877,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14734,Wolverhampton Wanderers,West Ham,2,3,2021-04-05 19:15:00,Willian José,Pass,900
+413490,91,BlockedShot,0.7319999694824219,0.6370000076293946,0.01455449964851141,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14734,Wolverhampton Wanderers,West Ham,2,3,2021-04-05 19:15:00,Fabio Silva,LayOff,900
+413589,36,MissedShots,0.815,0.6559999847412109,0.03287230059504509,Adama Traoré,a,900,OpenPlay,2020,LeftFoot,14738,Fulham,Wolverhampton Wanderers,0,1,2021-04-09 19:00:00,João Moutinho,Pass,900
+413605,91,Goal,0.9169999694824219,0.29600000381469727,0.049295198172330856,Adama Traoré,a,900,OpenPlay,2020,RightFoot,14738,Fulham,Wolverhampton Wanderers,0,1,2021-04-09 19:00:00,Fabio Silva,Pass,900
+415490,6,BlockedShot,0.9130000305175782,0.3,0.048635900020599365,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14754,Wolverhampton Wanderers,Sheffield United,1,0,2021-04-17 19:15:00,Willian José,Chipped,900
+415506,88,MissedShots,0.8730000305175781,0.3340000152587891,0.08157040178775787,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14754,Wolverhampton Wanderers,Sheffield United,1,0,2021-04-17 19:15:00,Nélson Semedo,Pass,900
+415507,92,BlockedShot,0.875999984741211,0.33,0.06541509926319122,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14754,Wolverhampton Wanderers,Sheffield United,1,0,2021-04-17 19:15:00,Vitinha,Chipped,900
+417624,1,BlockedShot,0.855999984741211,0.3029999923706055,0.04343029856681824,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14764,Wolverhampton Wanderers,Burnley,0,4,2021-04-25 11:00:00,Rúben Neves,Pass,900
+419452,43,SavedShot,0.855,0.705,0.034670598804950714,Adama Traoré,a,900,OpenPlay,2020,RightFoot,14774,West Bromwich Albion,Wolverhampton Wanderers,1,1,2021-05-03 17:00:00,Rayan Ait Nouri,Pass,900
+419463,69,MissedShots,0.8580000305175781,0.6930000305175781,0.04292770102620125,Adama Traoré,a,900,OpenPlay,2020,RightFoot,14774,West Bromwich Albion,Wolverhampton Wanderers,1,1,2021-05-03 17:00:00,Vitinha,Pass,900
+419468,90,SavedShot,0.89,0.4520000076293945,0.03289220109581947,Adama Traoré,a,900,OpenPlay,2020,Head,14774,West Bromwich Albion,Wolverhampton Wanderers,1,1,2021-05-03 17:00:00,Daniel Podence,Aerial,900
+420440,75,Goal,0.8730000305175781,0.4540000152587891,0.09355229884386063,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14784,Wolverhampton Wanderers,Brighton,2,1,2021-05-09 11:00:00,Fabio Silva,Pass,900
+420441,78,BlockedShot,0.84,0.34799999237060547,0.043741799890995026,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14784,Wolverhampton Wanderers,Brighton,2,1,2021-05-09 11:00:00,,None,900
+420442,81,BlockedShot,0.875999984741211,0.3160000038146973,0.048403300344944,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14784,Wolverhampton Wanderers,Brighton,2,1,2021-05-09 11:00:00,,None,900
+422427,65,MissedShots,0.865999984741211,0.3770000076293945,0.0701737031340599,Adama Traoré,a,900,OpenPlay,2020,LeftFoot,14793,Tottenham,Wolverhampton Wanderers,2,0,2021-05-16 13:05:00,Ki-Jana Hoever,Pass,900
+423304,31,SavedShot,0.8569999694824219,0.445,0.02712400071322918,Adama Traoré,a,900,FromCorner,2020,RightFoot,14799,Everton,Wolverhampton Wanderers,1,0,2021-05-19 17:00:00,,Aerial,900
+423314,54,SavedShot,0.84,0.35200000762939454,0.0482633002102375,Adama Traoré,a,900,OpenPlay,2020,RightFoot,14799,Everton,Wolverhampton Wanderers,1,0,2021-05-19 17:00:00,,TakeOn,900
+424152,1,MissedShots,0.9069999694824219,0.3129999923706055,0.05836150050163269,Adama Traoré,h,900,OpenPlay,2020,RightFoot,14814,Wolverhampton Wanderers,Manchester United,1,2,2021-05-23 15:00:00,,BallRecovery,900
+424158,22,BlockedShot,0.8530000305175781,0.39099998474121095,0.02253039926290512,Adama Traoré,h,900,FromCorner,2020,RightFoot,14814,Wolverhampton Wanderers,Manchester United,1,2,2021-05-23 15:00:00,,Aerial,900
+425862,17,BlockedShot,0.7730000305175782,0.3170000076293945,0.03755040094256401,Adama Traoré,a,900,OpenPlay,2021,RightFoot,16381,Leicester,Wolverhampton Wanderers,1,0,2021-08-14 14:00:00,,BallRecovery,900
+425866,35,MissedShots,0.8419999694824218,0.53,0.5314220190048218,Adama Traoré,a,900,OpenPlay,2021,RightFoot,16381,Leicester,Wolverhampton Wanderers,1,0,2021-08-14 14:00:00,João Moutinho,Throughball,900
+425870,46,BlockedShot,0.8669999694824219,0.5279999923706055,0.09651540219783783,Adama Traoré,a,900,OpenPlay,2021,LeftFoot,16381,Leicester,Wolverhampton Wanderers,1,0,2021-08-14 14:00:00,,TakeOn,900
+425875,60,BlockedShot,0.73,0.6530000305175782,0.016040900722146034,Adama Traoré,a,900,OpenPlay,2021,RightFoot,16381,Leicester,Wolverhampton Wanderers,1,0,2021-08-14 14:00:00,Trincão,Pass,900
+425877,66,SavedShot,0.8569999694824219,0.6,0.02976349927484989,Adama Traoré,a,900,OpenPlay,2021,RightFoot,16381,Leicester,Wolverhampton Wanderers,1,0,2021-08-14 14:00:00,Romain Saiss,Aerial,900
+425880,78,BlockedShot,0.8859999847412109,0.7169999694824218,0.03690659999847412,Adama Traoré,a,900,OpenPlay,2021,LeftFoot,16381,Leicester,Wolverhampton Wanderers,1,0,2021-08-14 14:00:00,,BallRecovery,900
+427538,6,MissedShots,0.8959999847412109,0.7240000152587891,0.03447049856185913,Adama Traoré,h,900,OpenPlay,2021,RightFoot,16393,Wolverhampton Wanderers,Tottenham,0,1,2021-08-22 13:00:00,Fernando Marçal,Pass,900
+427548,50,BlockedShot,0.909000015258789,0.7230000305175781,0.03954309970140457,Adama Traoré,h,900,OpenPlay,2021,RightFoot,16393,Wolverhampton Wanderers,Tottenham,0,1,2021-08-22 13:00:00,Raúl Jiménez,HeadPass,900
+427551,60,SavedShot,0.8630000305175781,0.505,0.5833190083503723,Adama Traoré,h,900,OpenPlay,2021,RightFoot,16393,Wolverhampton Wanderers,Tottenham,0,1,2021-08-22 13:00:00,Rúben Neves,Throughball,900
+427553,61,BlockedShot,0.8040000152587891,0.46700000762939453,0.042528800666332245,Adama Traoré,h,900,OpenPlay,2021,RightFoot,16393,Wolverhampton Wanderers,Tottenham,0,1,2021-08-22 13:00:00,Raúl Jiménez,Pass,900
+429308,7,SavedShot,0.779000015258789,0.4159999847412109,0.03217250108718872,Adama Traoré,h,900,OpenPlay,2021,RightFoot,16405,Wolverhampton Wanderers,Manchester United,0,1,2021-08-29 15:30:00,Raúl Jiménez,TakeOn,900
+429316,39,BlockedShot,0.7630000305175781,0.46299999237060546,0.01876099966466427,Adama Traoré,h,900,OpenPlay,2021,RightFoot,16405,Wolverhampton Wanderers,Manchester United,0,1,2021-08-29 15:30:00,Raúl Jiménez,TakeOn,900
+431110,16,MissedShots,0.765,0.534000015258789,0.029795600101351738,Adama Traoré,h,900,OpenPlay,2021,RightFoot,16417,Wolverhampton Wanderers,Brentford,0,2,2021-09-18 11:30:00,Trincão,TakeOn,900
+431113,31,BlockedShot,0.7869999694824219,0.649000015258789,0.02734679915010929,Adama Traoré,h,900,OpenPlay,2021,RightFoot,16417,Wolverhampton Wanderers,Brentford,0,2,2021-09-18 11:30:00,Raúl Jiménez,Pass,900
+436197,30,SavedShot,0.8440000152587891,0.4159999847412109,0.3172470033168793,Adama Traoré,a,900,OpenPlay,2021,RightFoot,16447,Aston Villa,Wolverhampton Wanderers,2,3,2021-10-16 14:00:00,,TakeOn,900
+436201,53,BlockedShot,0.8059999847412109,0.46900001525878904,0.050289999693632126,Adama Traoré,a,900,OpenPlay,2021,LeftFoot,16447,Aston Villa,Wolverhampton Wanderers,2,3,2021-10-16 14:00:00,Nélson Semedo,Pass,900
+442638,92,BlockedShot,0.7780000305175782,0.41200000762939454,0.12492299824953079,Adama Traoré,h,900,OpenPlay,2021,RightFoot,16495,Wolverhampton Wanderers,West Ham,1,0,2021-11-20 15:00:00,Romain Saiss,TakeOn,900
+445387,29,ShotOnPost,0.855,0.3970000076293945,0.1173660010099411,Adama Traoré,h,900,OpenPlay,2021,RightFoot,16511,Wolverhampton Wanderers,Burnley,0,0,2021-12-01 19:30:00,Max Kilman,BallRecovery,900
+445392,62,BlockedShot,0.8119999694824219,0.46900001525878904,0.046352699398994446,Adama Traoré,h,900,OpenPlay,2021,LeftFoot,16511,Wolverhampton Wanderers,Burnley,0,0,2021-12-01 19:30:00,Raúl Jiménez,Pass,900
+445398,81,MissedShots,0.7859999847412109,0.3390000152587891,0.02279289998114109,Adama Traoré,h,900,OpenPlay,2021,RightFoot,16511,Wolverhampton Wanderers,Burnley,0,0,2021-12-01 19:30:00,,None,900
+445399,89,MissedShots,0.805,0.49900001525878906,0.05492119863629341,Adama Traoré,h,900,OpenPlay,2021,RightFoot,16511,Wolverhampton Wanderers,Burnley,0,0,2021-12-01 19:30:00,Trincão,Pass,900
+453290,89,MissedShots,0.9009999847412109,0.539000015258789,0.1357859969139099,Adama Traoré,h,900,OpenPlay,2021,LeftFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,,Rebound,900
+453291,90,Goal,0.9269999694824219,0.5929999923706055,0.4084250032901764,Adama Traoré,h,900,OpenPlay,2021,LeftFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,Rayan Ait Nouri,Pass,900
+456298,29,MissedShots,0.9080000305175782,0.35700000762939454,0.09507729858160019,Adama Traoré,h,900,OpenPlay,2021,LeftFoot,17357,Barcelona,Atletico Madrid,4,2,2022-02-06 15:15:00,,BallRecovery,900
+457831,13,MissedShots,0.8780000305175781,0.26399999618530273,0.04477560147643089,Adama Traoré,a,900,OpenPlay,2021,LeftFoot,17370,Espanyol,Barcelona,2,2,2022-02-13 20:00:00,Ronald Araújo,Chipped,900
+457832,24,MissedShots,0.8730000305175781,0.3,0.048355698585510254,Adama Traoré,a,900,SetPiece,2021,LeftFoot,17370,Espanyol,Barcelona,2,2,2022-02-13 20:00:00,Jordi Alba,Chipped,900
+457833,36,SavedShot,0.8930000305175781,0.37099998474121093,0.06178149953484535,Adama Traoré,a,900,OpenPlay,2021,RightFoot,17370,Espanyol,Barcelona,2,2,2022-02-13 20:00:00,Gavi,Cross,900
+461722,91,SavedShot,0.9340000152587891,0.27700000762939453,0.10776299983263016,Adama Traoré,a,900,OpenPlay,2021,RightFoot,17405,Elche,Barcelona,1,2,2022-03-06 15:15:00,Sergio Busquets,Chipped,900
+464866,92,BlockedShot,0.860999984741211,0.30700000762939456,0.04535359889268875,Adama Traoré,a,900,OpenPlay,2021,RightFoot,17422,Real Madrid,Barcelona,0,4,2022-03-20 20:00:00,,None,900
+470904,91,SavedShot,0.879000015258789,0.39799999237060546,0.10060399770736694,Adama Traoré,h,900,OpenPlay,2021,RightFoot,17338,Barcelona,Rayo Vallecano,0,1,2022-04-24 19:00:00,,TakeOn,900
+470906,97,BlockedShot,0.85,0.455,0.0813101977109909,Adama Traoré,h,900,OpenPlay,2021,RightFoot,17338,Barcelona,Rayo Vallecano,0,1,2022-04-24 19:00:00,Memphis Depay,Pass,900
+478238,1,MissedShots,0.9,0.26600000381469724,0.03356989845633507,Adama Traoré,h,900,OpenPlay,2021,RightFoot,17507,Barcelona,Villarreal,0,2,2022-05-22 20:00:00,Jordi Alba,Chipped,900
+490390,50,MissedShots,0.835,0.4979999923706055,0.0548941008746624,Adama Traoré,a,900,OpenPlay,2022,RightFoot,18291,West Ham,Wolverhampton Wanderers,2,0,2022-10-01 16:30:00,,None,900
+490402,70,MissedShots,0.794000015258789,0.4759999847412109,0.0462167002260685,Adama Traoré,a,900,OpenPlay,2022,RightFoot,18291,West Ham,Wolverhampton Wanderers,2,0,2022-10-01 16:30:00,Matheus Nunes,Pass,900
+493075,19,MissedShots,0.8780000305175781,0.34599998474121096,0.09224860370159149,Adama Traoré,h,900,OpenPlay,2022,RightFoot,18311,Wolverhampton Wanderers,Nottingham Forest,1,0,2022-10-15 14:00:00,Matheus Nunes,Pass,900
+493079,41,MissedShots,0.8669999694824219,0.639000015258789,0.039234600961208344,Adama Traoré,h,900,FromCorner,2022,LeftFoot,18311,Wolverhampton Wanderers,Nottingham Forest,1,0,2022-10-15 14:00:00,Toti,BallTouch,900
+493082,51,BlockedShot,0.8590000152587891,0.35400001525878905,0.06558699905872345,Adama Traoré,h,900,OpenPlay,2022,LeftFoot,18311,Wolverhampton Wanderers,Nottingham Forest,1,0,2022-10-15 14:00:00,João Moutinho,Pass,900
+494287,30,Goal,0.9159999847412109,0.425,0.28002700209617615,Adama Traoré,a,900,OpenPlay,2022,Head,18318,Crystal Palace,Wolverhampton Wanderers,2,1,2022-10-18 19:15:00,Hugo Bueno,Cross,900
+498117,79,SavedShot,0.9540000152587891,0.3129999923706055,0.03631789982318878,Adama Traoré,h,900,SetPiece,2022,RightFoot,18351,Wolverhampton Wanderers,Brighton,2,3,2022-11-05 15:00:00,Rúben Neves,Pass,900
+500354,40,MissedShots,0.8190000152587891,0.28399999618530275,0.02211659960448742,Adama Traoré,h,900,OpenPlay,2022,RightFoot,18361,Wolverhampton Wanderers,Arsenal,0,2,2022-11-12 19:45:00,,None,900
+502580,68,MissedShots,0.9030000305175782,0.3340000152587891,0.07111719995737076,Adama Traoré,a,900,OpenPlay,2022,LeftFoot,18383,Aston Villa,Wolverhampton Wanderers,1,1,2023-01-04 20:00:00,Joseph Hodge,Chipped,900
+503575,96,SavedShot,0.915,0.2989999961853027,0.06851570308208466,Adama Traoré,h,900,OpenPlay,2022,RightFoot,18401,Wolverhampton Wanderers,West Ham,1,0,2023-01-14 15:00:00,Rúben Neves,Pass,900
+507117,65,BlockedShot,0.91,0.3189999961853027,0.07773879915475845,Adama Traoré,h,900,OpenPlay,2022,LeftFoot,18421,Wolverhampton Wanderers,Liverpool,3,0,2023-02-04 15:00:00,Raúl Jiménez,Pass,900
+508410,66,BlockedShot,0.8859999847412109,0.3679999923706055,0.07388059794902802,Adama Traoré,a,900,OpenPlay,2022,LeftFoot,18430,Southampton,Wolverhampton Wanderers,1,2,2023-02-11 15:00:00,Matheus Nunes,Pass,900
+508415,71,BlockedShot,0.904000015258789,0.5120000076293946,0.11319699883460999,Adama Traoré,a,900,OpenPlay,2022,RightFoot,18430,Southampton,Wolverhampton Wanderers,1,2,2023-02-11 15:00:00,,Rebound,900
+509642,40,SavedShot,0.9119999694824219,0.3139999961853027,0.06581199914216995,Adama Traoré,h,900,OpenPlay,2022,RightFoot,18441,Wolverhampton Wanderers,Bournemouth,0,1,2023-02-18 15:00:00,Matheus Cunha,Pass,900
+512149,81,Goal,0.855,0.4779999923706055,0.07160189747810364,Adama Traoré,h,900,OpenPlay,2022,RightFoot,18461,Wolverhampton Wanderers,Tottenham,1,0,2023-03-04 15:00:00,,Rebound,900
+516313,11,BlockedShot,0.875999984741211,0.3529999923706055,0.04231809824705124,Adama Traoré,a,900,OpenPlay,2022,RightFoot,18490,Nottingham Forest,Wolverhampton Wanderers,1,1,2023-04-01 14:00:00,Toti,Cross,900
+519421,81,SavedShot,0.9340000152587891,0.40900001525878904,0.01892169937491417,Adama Traoré,h,900,FromCorner,2022,Head,18511,Wolverhampton Wanderers,Brentford,2,0,2023-04-15 14:00:00,João Moutinho,Aerial,900
+527492,33,SavedShot,0.865999984741211,0.3659999847412109,0.11517414450645447,Adama Traoré,h,900,OpenPlay,2022,RightFoot,18571,Wolverhampton Wanderers,Everton,1,1,2023-05-20 14:00:00,,BallRecovery,900
+529848,53,MissedShots,0.825999984741211,0.5590000152587891,0.06515856087207794,Adama Traoré,a,900,OpenPlay,2022,RightFoot,18572,Arsenal,Wolverhampton Wanderers,5,0,2023-05-28 15:30:00,Max Kilman,Pass,900
+534722,96,SavedShot,0.9590000152587891,0.585,0.43420571088790894,Adama Traoré,a,900,SetPiece,2023,RightFoot,22297,Arsenal,Fulham,2,2,2023-08-26 14:00:00,Antonee Robinson,Pass,900
+563879,90,SavedShot,0.9009999847412109,0.3890000152587891,0.33833062648773193,Adama Traoré,h,900,OpenPlay,2023,RightFoot,22138,Fulham,Aston Villa,1,2,2024-02-17 15:00:00,Rodrigo Muniz,Throughball,900
+566622,90,Goal,0.8959999847412109,0.37400001525878906,0.30814751982688904,Adama Traoré,h,900,OpenPlay,2023,RightFoot,22158,Fulham,Brighton,3,0,2024-03-02 15:00:00,Bobby Reid,Pass,900
+568113,81,SavedShot,0.8130000305175781,0.519000015258789,0.038849420845508575,Adama Traoré,a,900,OpenPlay,2023,LeftFoot,22174,Wolverhampton Wanderers,Fulham,2,1,2024-03-09 15:00:00,,None,900
+568118,84,MissedShots,0.8430000305175781,0.3679999923706055,0.04825678467750549,Adama Traoré,a,900,FromCorner,2023,RightFoot,22174,Wolverhampton Wanderers,Fulham,2,1,2024-03-09 15:00:00,,Rebound,900
+570796,87,MissedShots,0.8719999694824219,0.275,0.03614997863769531,Adama Traoré,a,900,OpenPlay,2023,LeftFoot,22193,Sheffield United,Fulham,3,3,2024-03-30 15:00:00,Bobby Reid,Pass,900
+571778,92,ShotOnPost,0.9080000305175782,0.3220000076293945,0.06754571199417114,Adama Traoré,a,900,OpenPlay,2023,RightFoot,22198,Nottingham Forest,Fulham,3,1,2024-04-02 18:30:00,Harrison Reed,Pass,900
+574215,99,SavedShot,0.745,0.57,0.03203913941979408,Adama Traoré,a,900,OpenPlay,2023,RightFoot,22224,West Ham,Fulham,0,2,2024-04-14 13:00:00,Bobby Reid,Pass,900
+578420,79,SavedShot,0.9269999694824219,0.3110000038146973,0.06530894339084625,Adama Traoré,a,900,OpenPlay,2023,RightFoot,22246,Brentford,Fulham,0,0,2024-05-04 14:00:00,Tom Cairney,Pass,900
+581990,42,Goal,0.8159999847412109,0.5609999847412109,0.05859864130616188,Adama Traoré,a,900,OpenPlay,2023,RightFoot,22272,Luton,Fulham,2,4,2024-05-19 15:00:00,Harry Wilson,Pass,900
+581995,52,BlockedShot,0.89,0.7090000152587891,0.06462898850440979,Adama Traoré,a,900,OpenPlay,2023,RightFoot,22272,Luton,Fulham,2,4,2024-05-19 15:00:00,Alex Iwobi,Pass,900
+584627,7,MissedShots,0.8669999694824219,0.27799999237060546,0.036473482847213745,Adama Traoré,a,900,OpenPlay,2024,RightFoot,26602,Manchester United,Fulham,1,0,2024-08-16 19:00:00,Rodrigo Muniz,Pass,900
+584644,70,BlockedShot,0.8090000152587891,0.5120000076293946,0.05785633623600006,Adama Traoré,a,900,OpenPlay,2024,RightFoot,26602,Manchester United,Fulham,1,0,2024-08-16 19:00:00,Sasa Lukic,Pass,900
+584645,71,BlockedShot,0.7580000305175781,0.3609999847412109,0.020298421382904053,Adama Traoré,a,900,OpenPlay,2024,RightFoot,26602,Manchester United,Fulham,1,0,2024-08-16 19:00:00,Andreas Pereira,Pass,900
+586068,3,SavedShot,0.8980000305175782,0.35,0.08529312908649445,Adama Traoré,h,900,OpenPlay,2024,LeftFoot,26614,Fulham,Leicester,2,1,2024-08-24 14:00:00,Andreas Pereira,Pass,900
+586079,24,BlockedShot,0.8230000305175781,0.42900001525878906,0.10109914839267731,Adama Traoré,h,900,OpenPlay,2024,LeftFoot,26614,Fulham,Leicester,2,1,2024-08-24 14:00:00,Rodrigo Muniz,Pass,900
+586084,50,BlockedShot,0.884000015258789,0.30200000762939455,0.04851662740111351,Adama Traoré,h,900,OpenPlay,2024,RightFoot,26614,Fulham,Leicester,2,1,2024-08-24 14:00:00,Rodrigo Muniz,Pass,900
+589220,31,Goal,0.9080000305175782,0.42700000762939455,0.33576470613479614,Adama Traoré,a,900,OpenPlay,2024,RightFoot,26625,Ipswich,Fulham,1,1,2024-08-31 14:00:00,Antonee Robinson,Cross,900
+590827,14,SavedShot,0.8640000152587891,0.3820000076293945,0.3158310055732727,Adama Traoré,h,900,OpenPlay,2024,RightFoot,26634,Fulham,West Ham,1,1,2024-09-14 14:00:00,,None,900
+590831,22,MissedShots,0.9419999694824219,0.505,0.48343759775161743,Adama Traoré,h,900,OpenPlay,2024,Head,26634,Fulham,West Ham,1,1,2024-09-14 14:00:00,Alex Iwobi,Aerial,900
+590837,45,BlockedShot,0.8630000305175781,0.3920000076293945,0.08965595811605453,Adama Traoré,h,900,OpenPlay,2024,RightFoot,26634,Fulham,West Ham,1,1,2024-09-14 14:00:00,Raúl Jiménez,Pass,900
+590848,79,MissedShots,0.924000015258789,0.46099998474121096,0.35619497299194336,Adama Traoré,h,900,OpenPlay,2024,Head,26634,Fulham,West Ham,1,1,2024-09-14 14:00:00,Tom Cairney,Cross,900
+592445,33,SavedShot,0.92,0.34599998474121096,0.11849036812782288,Adama Traoré,h,900,OpenPlay,2024,RightFoot,26646,Fulham,Newcastle United,3,1,2024-09-21 14:00:00,Alex Iwobi,Pass,900
+594060,46,BlockedShot,0.85,0.34299999237060547,0.038731858134269714,Adama Traoré,a,900,OpenPlay,2024,RightFoot,26653,Nottingham Forest,Fulham,0,1,2024-09-28 14:00:00,,Rebound,900
+595460,16,SavedShot,0.8190000152587891,0.55,0.42553114891052246,Adama Traoré,a,900,OpenPlay,2024,RightFoot,26664,Manchester City,Fulham,3,2,2024-10-05 14:00:00,Raúl Jiménez,Throughball,900
+595465,28,MissedShots,0.9109999847412109,0.49700000762939456,0.5098028779029846,Adama Traoré,a,900,OpenPlay,2024,RightFoot,26664,Manchester City,Fulham,3,2,2024-10-05 14:00:00,Alex Iwobi,Pass,900
+595479,67,SavedShot,0.88,0.5870000076293945,0.4137144386768341,Adama Traoré,a,900,OpenPlay,2024,LeftFoot,26664,Manchester City,Fulham,3,2,2024-10-05 14:00:00,Raúl Jiménez,Chipped,900
+598608,26,SavedShot,0.965,0.34,0.2557058036327362,Adama Traoré,a,900,OpenPlay,2024,RightFoot,26687,Everton,Fulham,1,1,2024-10-26 16:30:00,Raúl Jiménez,Pass,900
+601025,75,BlockedShot,0.9419999694824219,0.6220000076293946,0.04952956736087799,Adama Traoré,h,900,FromCorner,2024,RightFoot,26693,Fulham,Brentford,2,1,2024-11-04 20:00:00,Reiss Nelson,Cross,900
+601029,86,BlockedShot,0.8419999694824218,0.3820000076293945,0.04805005341768265,Adama Traoré,h,900,OpenPlay,2024,LeftFoot,26693,Fulham,Brentford,2,1,2024-11-04 20:00:00,,Rebound,900
+601030,86,BlockedShot,0.87,0.36,0.051979489624500275,Adama Traoré,h,900,OpenPlay,2024,RightFoot,26693,Fulham,Brentford,2,1,2024-11-04 20:00:00,,None,900
+602878,81,BlockedShot,0.91,0.28899999618530275,0.03731855750083923,Adama Traoré,h,900,OpenPlay,2024,RightFoot,26717,Fulham,Wolverhampton Wanderers,1,4,2024-11-23 15:00:00,Tom Cairney,Chipped,900
+607128,95,SavedShot,0.9109999847412109,0.3129999923706055,0.06562754511833191,Adama Traoré,a,900,OpenPlay,2024,RightFoot,26752,Liverpool,Fulham,2,2,2024-12-14 15:00:00,Emile Smith-Rowe,Pass,900
+608648,85,MissedShots,0.874000015258789,0.6359999847412109,0.08541665226221085,Adama Traoré,h,900,OpenPlay,2024,LeftFoot,26763,Fulham,Southampton,0,0,2024-12-22 14:00:00,,TakeOn,900
+611530,73,MissedShots,0.9169999694824219,0.4109999847412109,0.04500382021069527,Adama Traoré,a,900,OpenPlay,2024,Head,26808,West Ham,Fulham,3,2,2025-01-14 19:30:00,Antonee Robinson,Aerial,900
+611537,90,MissedShots,0.9530000305175781,0.44,0.5445751547813416,Adama Traoré,a,900,OpenPlay,2024,LeftFoot,26808,West Ham,Fulham,3,2,2025-01-14 19:30:00,,None,900
+612296,67,Goal,0.895,0.34599998474121096,0.2701244056224823,Adama Traoré,a,900,OpenPlay,2024,RightFoot,26817,Leicester,Fulham,0,2,2025-01-18 15:00:00,Harry Wilson,Cross,900
+614106,74,MissedShots,0.8569999694824219,0.6329999923706054,0.06955217570066452,Adama Traoré,h,900,OpenPlay,2024,RightFoot,26826,Fulham,Manchester United,0,1,2025-01-26 19:00:00,Emile Smith-Rowe,Pass,900

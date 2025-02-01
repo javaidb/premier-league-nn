@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+22402,34,MissedShots,0.9290000152587891,0.69,0.04132489860057831,Lee Chung-yong,a,526,FromCorner,2014,RightFoot,4425,Liverpool,Crystal Palace,1,3,2015-05-16 17:30:00,,None,526
+22408,51,MissedShots,0.9169999694824219,0.7030000305175781,0.05398130044341087,Lee Chung-yong,a,526,OpenPlay,2014,LeftFoot,4425,Liverpool,Crystal Palace,1,3,2015-05-16 17:30:00,Yannick Bolasie,Pass,526
+52647,87,Goal,0.765,0.32799999237060545,0.01975400000810623,Lee Chung-yong,a,526,FromCorner,2015,RightFoot,243,Stoke,Crystal Palace,1,2,2015-12-19 19:00:00,,Rebound,526
+54733,1,MissedShots,0.7809999847412109,0.46900001525878904,0.023187600076198578,Lee Chung-yong,h,526,FromCorner,2015,RightFoot,316,Crystal Palace,Bournemouth,1,2,2016-02-03 00:00:00,,None,526
+54747,66,BlockedShot,0.845,0.49900001525878906,0.058938298374414444,Lee Chung-yong,h,526,OpenPlay,2015,RightFoot,316,Crystal Palace,Bournemouth,1,2,2016-02-03 00:00:00,,None,526
+53662,3,MissedShots,0.8469999694824218,0.7119999694824218,0.019693300127983093,Lee Chung-yong,a,526,OpenPlay,2015,RightFoot,325,Swansea,Crystal Palace,1,1,2016-02-06 19:00:00,Wilfried Zaha,Cross,526
+55193,77,SavedShot,0.8730000305175781,0.10800000190734864,0.03667730093002319,Lee Chung-yong,h,526,DirectFreekick,2015,RightFoot,335,Crystal Palace,Watford,1,2,2016-02-13 19:00:00,,Standard,526
+112924,74,MissedShots,0.9009999847412109,0.39799999237060546,0.09589750319719315,Lee Chung-yong,h,526,OpenPlay,2016,RightFoot,486,Crystal Palace,Bournemouth,1,1,2016-08-27 18:00:00,Wilfried Zaha,Pass,526
+112929,84,SavedShot,0.870999984741211,0.534000015258789,0.10006800293922424,Lee Chung-yong,h,526,OpenPlay,2016,LeftFoot,486,Crystal Palace,Bournemouth,1,1,2016-08-27 18:00:00,Christian Benteke,LayOff,526
+114419,88,SavedShot,0.750999984741211,0.6969999694824218,0.00923227984458208,Lee Chung-yong,a,526,OpenPlay,2016,RightFoot,544,Leicester,Crystal Palace,3,1,2016-10-22 18:00:00,,None,526
+118048,73,MissedShots,0.895,0.3120000076293945,0.045385800302028656,Lee Chung-yong,a,526,OpenPlay,2016,RightFoot,3346,West Ham,Crystal Palace,3,0,2017-01-14 19:00:00,,Rebound,526
+159331,56,MissedShots,0.9030000305175782,0.355,0.017771299928426743,Lee Chung-yong,h,526,OpenPlay,2017,Head,7141,Crystal Palace,Swansea,0,2,2017-08-26 15:00:00,Andros Townsend,Aerial,526

@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+6880,Edouard Mendy,31,2748,0,0,0,0,0,0,2,0,GK,Chelsea,0,0,4.780521096661687,4.780521096661687,2020
+6880,Edouard Mendy,34,3060,0,0,0,0,0,0,3,0,GK,Chelsea,0,0,5.087311686947942,5.087311686947942,2021
+6880,Edouard Mendy,10,853,0,0,0,0,0,0,1,0,GK S,Chelsea,0,0,1.1355492491275072,1.1355492491275072,2022

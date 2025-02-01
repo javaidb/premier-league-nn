@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+403791,87,MissedShots,0.8419999694824218,0.625999984741211,0.05745600163936615,Ki-Jana Hoever,h,8351,OpenPlay,2020,RightFoot,14664,Wolverhampton Wanderers,Leicester,0,0,2021-02-07 14:00:00,,BallRecovery,8351
+425874,56,MissedShots,0.855999984741211,0.3189999961853027,0.03382990136742592,Ki-Jana Hoever,a,8351,OpenPlay,2021,RightFoot,16381,Leicester,Wolverhampton Wanderers,1,0,2021-08-14 14:00:00,Trincão,Pass,8351
+593084,55,BlockedShot,0.7530000305175781,0.28200000762939453,0.0203308816999197,Ki-Jana Hoever,a,8351,OpenPlay,2024,RightFoot,28089,Montpellier,Auxerre,3,2,2024-09-22 15:00:00,Elisha Owusu,Pass,8351
+599017,64,MissedShots,0.7559999847412109,0.34200000762939453,0.015296842902898788,Ki-Jana Hoever,a,8351,FromCorner,2024,RightFoot,28126,Lyon,Auxerre,2,2,2024-10-27 14:00:00,,None,8351
+600703,53,SavedShot,0.904000015258789,0.40200000762939453,0.020960811525583267,Ki-Jana Hoever,h,8351,OpenPlay,2024,Head,28131,Auxerre,Rennes,4,0,2024-11-03 16:00:00,,Aerial,8351
+603518,28,SavedShot,0.715,0.3170000076293945,0.009350551292300224,Ki-Jana Hoever,h,8351,OpenPlay,2024,RightFoot,28154,Auxerre,Angers,1,0,2024-11-24 16:00:00,Lassine Sinayoko,LayOff,8351
+610254,18,SavedShot,0.8769999694824219,0.3089999961853027,0.07661876827478409,Ki-Jana Hoever,a,8351,OpenPlay,2024,RightFoot,28190,Strasbourg,Auxerre,3,1,2025-01-05 14:00:00,Hamed Junior Traore,Pass,8351
+610264,62,BlockedShot,0.9280000305175782,0.30100000381469727,0.05471525713801384,Ki-Jana Hoever,a,8351,OpenPlay,2024,RightFoot,28190,Strasbourg,Auxerre,3,1,2025-01-05 14:00:00,Elisha Owusu,Pass,8351

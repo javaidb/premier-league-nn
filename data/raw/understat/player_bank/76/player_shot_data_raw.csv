@@ -1,0 +1,228 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+76477,14,MissedShots,0.9719999694824218,0.610999984741211,0.03205909952521324,Fabian Schär,h,76,FromCorner,2015,Head,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Jonathan Schmid,Cross,76
+76495,78,MissedShots,0.914000015258789,0.6140000152587891,0.012121999636292458,Fabian Schär,h,76,SetPiece,2015,Head,1031,Hoffenheim,Bayern Munich,1,2,2015-08-22 17:30:00,Pirmin Schwegler,Aerial,76
+76734,88,BlockedShot,0.7119999694824218,0.47299999237060547,0.013746200129389763,Fabian Schär,a,76,FromCorner,2015,RightFoot,1044,Darmstadt,Hoffenheim,0,0,2015-08-29 17:30:00,,None,76
+76936,40,MissedShots,0.774000015258789,0.3340000152587891,0.023669200018048286,Fabian Schär,h,76,OpenPlay,2015,LeftFoot,1055,Hoffenheim,Werder Bremen,1,3,2015-09-13 17:30:00,Pirmin Schwegler,Pass,76
+76943,54,SavedShot,0.730999984741211,0.509000015258789,0.01504880003631115,Fabian Schär,h,76,OpenPlay,2015,RightFoot,1055,Hoffenheim,Werder Bremen,1,3,2015-09-13 17:30:00,,None,76
+79260,25,MissedShots,0.895,0.5029999923706054,0.06300920248031616,Fabian Schär,h,76,SetPiece,2015,Head,1141,Hoffenheim,Borussia M.Gladbach,3,3,2015-11-28 18:30:00,Kevin Volland,Chipped,76
+79783,85,MissedShots,0.9059999847412109,0.46599998474121096,0.06708469986915588,Fabian Schär,h,76,SetPiece,2015,Head,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Jonathan Schmid,Chipped,76
+79833,29,MissedShots,0.35,0.08199999809265136,0.013524699956178665,Fabian Schär,a,76,DirectFreekick,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,,Standard,76
+79853,89,MissedShots,0.93,0.69,0.03651290014386177,Fabian Schär,a,76,OpenPlay,2015,LeftFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Jonathan Schmid,Chipped,76
+80894,88,BlockedShot,0.7669999694824219,0.5,0.02907720021903515,Fabian Schär,a,76,OpenPlay,2015,LeftFoot,1206,Werder Bremen,Hoffenheim,1,1,2016-02-13 18:30:00,Jiloan Hamad,Pass,76
+81166,16,MissedShots,0.710999984741211,0.3240000152587891,0.01872350089251995,Fabian Schär,h,76,OpenPlay,2015,RightFoot,1213,Hoffenheim,Mainz 05,3,2,2016-02-20 18:30:00,Niklas Süle,TakeOn,76
+81209,2,MissedShots,0.899000015258789,0.40400001525878904,0.04938320070505142,Fabian Schär,a,76,FromCorner,2015,RightFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Nadiem Amiri,Cross,76
+81631,78,BlockedShot,0.715,0.5359999847412109,0.0465661995112896,Fabian Schär,h,76,DirectFreekick,2015,RightFoot,1232,Hoffenheim,Augsburg,2,1,2016-03-02 23:00:00,,Standard,76
+82099,46,MissedShots,0.745,0.47,0.016962900757789612,Fabian Schär,h,76,FromCorner,2015,RightFoot,1247,Hoffenheim,Wolfsburg,1,0,2016-03-12 18:30:00,,None,76
+82103,57,MissedShots,0.7480000305175781,0.36700000762939455,0.023560600355267525,Fabian Schär,h,76,OpenPlay,2015,RightFoot,1247,Hoffenheim,Wolfsburg,1,0,2016-03-12 18:30:00,Philipp Ochs,None,76
+82982,32,Goal,0.9319999694824219,0.585,0.2521530091762543,Fabian Schär,h,76,SetPiece,2015,Head,1283,Hoffenheim,Hertha Berlin,2,1,2016-04-16 17:30:00,Nadiem Amiri,Chipped,76
+83117,79,SavedShot,0.9719999694824218,0.534000015258789,0.1290930062532425,Fabian Schär,a,76,FromCorner,2015,LeftFoot,1298,Borussia M.Gladbach,Hoffenheim,3,1,2016-04-24 17:30:00,,Foul,76
+83860,86,MissedShots,0.6359999847412109,0.24100000381469727,0.006006239913403988,Fabian Schär,h,76,OpenPlay,2015,RightFoot,1322,Hoffenheim,Schalke 04,1,4,2016-05-14 17:30:00,Eugen Polanski,Pass,76
+83861,88,OwnGoal,0.09,0.509000015258789,0,Fabian Schär,h,76,OpenPlay,2015,LeftFoot,1322,Hoffenheim,Schalke 04,1,4,2016-05-14 17:30:00,,None,76
+127821,1,MissedShots,0.9290000152587891,0.46099998474121096,0.11190000176429749,Fabian Schär,a,76,FromCorner,2016,Head,1344,Mainz 05,Hoffenheim,4,4,2016-09-11 19:30:00,Sebastian Rudy,Cross,76
+130677,81,MissedShots,0.7269999694824218,0.525,0.01996299996972084,Fabian Schär,a,76,OpenPlay,2016,RightFoot,3725,Augsburg,Hoffenheim,0,2,2017-01-21 17:30:00,,Dispossessed,76
+169861,42,MissedShots,0.43200000762939456,0.8330000305175781,0.015482399612665176,Fabian Schär,a,76,DirectFreekick,2017,RightFoot,7911,Real Betis,Deportivo La Coruna,2,1,2017-09-16 17:30:00,,Standard,76
+170119,59,MissedShots,0.955,0.5279999923706055,0.47530901432037354,Fabian Schär,h,76,FromCorner,2017,Head,7921,Deportivo La Coruna,Alaves,1,0,2017-09-20 20:00:00,Lucas Pérez,Cross,76
+170383,25,SavedShot,0.76,0.28,0.012126999907195568,Fabian Schär,a,76,OpenPlay,2017,RightFoot,7932,Espanyol,Deportivo La Coruna,4,1,2017-09-24 11:00:00,,BallRecovery,76
+170401,74,MissedShots,0.95,0.41,0.10325600206851959,Fabian Schär,a,76,SetPiece,2017,Head,7932,Espanyol,Deportivo La Coruna,4,1,2017-09-24 11:00:00,Lucas Pérez,Cross,76
+170920,72,SavedShot,0.9280000305175782,0.5929999923706055,0.019274000078439713,Fabian Schär,h,76,FromCorner,2017,Head,7942,Deportivo La Coruna,Getafe,2,1,2017-09-30 12:00:00,Lucas Pérez,Aerial,76
+171697,79,MissedShots,0.889000015258789,0.32099998474121094,0.09488149732351303,Fabian Schär,a,76,OpenPlay,2017,RightFoot,7974,Las Palmas,Deportivo La Coruna,1,3,2017-10-30 20:00:00,Fede Cartabia,Chipped,76
+172188,66,MissedShots,0.44299999237060544,0.05,0.014980100095272064,Fabian Schär,h,76,DirectFreekick,2017,RightFoot,7984,Deportivo La Coruna,Atletico Madrid,0,1,2017-11-04 15:15:00,,Standard,76
+172450,51,Goal,0.9069999694824219,0.49,0.5706679821014404,Fabian Schär,a,76,OpenPlay,2017,RightFoot,7995,Malaga,Deportivo La Coruna,3,2,2017-11-19 11:00:00,,Rebound,76
+172457,79,SavedShot,0.775,0.32799999237060545,0.021064799278974533,Fabian Schär,a,76,OpenPlay,2017,RightFoot,7995,Malaga,Deportivo La Coruna,3,2,2017-11-19 11:00:00,,BallRecovery,76
+171517,75,Goal,0.970999984741211,0.4809999847412109,0.6166960000991821,Fabian Schär,h,76,FromCorner,2017,RightFoot,8005,Deportivo La Coruna,Athletic Club,2,2,2017-11-26 11:00:00,Adrián,HeadPass,76
+180008,31,MissedShots,0.9130000305175782,0.47,0.09260959923267365,Fabian Schär,h,76,FromCorner,2017,Head,8026,Deportivo La Coruna,Leganes,1,0,2017-12-09 17:30:00,Lucas Pérez,Cross,76
+184549,23,BlockedShot,0.9540000152587891,0.46,0.11257100105285645,Fabian Schär,h,76,FromCorner,2017,RightFoot,8047,Deportivo La Coruna,Celta Vigo,1,3,2017-12-23 17:30:00,Emre Colak,Foul,76
+198280,70,MissedShots,0.925,0.37,0.048196401447057724,Fabian Schär,a,76,FromCorner,2017,LeftFoot,8130,Getafe,Deportivo La Coruna,3,0,2018-02-28 18:30:00,Adrián,HeadPass,76
+210170,5,MissedShots,0.945,0.2520000076293945,0.028705500066280365,Fabian Schär,a,76,FromCorner,2017,RightFoot,8216,Leganes,Deportivo La Coruna,0,0,2018-04-20 19:00:00,,None,76
+210190,71,MissedShots,0.36700000762939455,0.7119999694824218,0.014562100172042847,Fabian Schär,a,76,DirectFreekick,2017,RightFoot,8216,Leganes,Deportivo La Coruna,0,0,2018-04-20 19:00:00,,Standard,76
+212621,33,MissedShots,0.9580000305175781,0.47299999237060547,0.4983290135860443,Fabian Schär,h,76,FromCorner,2017,Head,8227,Deportivo La Coruna,Barcelona,2,4,2018-04-29 15:00:00,Guilherme,Cross,76
+212634,69,SavedShot,0.9130000305175782,0.575,0.06254760175943375,Fabian Schär,h,76,FromCorner,2017,Head,8227,Deportivo La Coruna,Barcelona,2,4,2018-04-29 15:00:00,Emre Colak,Cross,76
+212644,87,MissedShots,0.9259999847412109,0.5570000076293945,0.40757399797439575,Fabian Schär,h,76,OpenPlay,2017,RightFoot,8227,Deportivo La Coruna,Barcelona,2,4,2018-04-29 15:00:00,Emre Colak,Pass,76
+250052,10,MissedShots,0.9219999694824219,0.41900001525878905,0.05679060146212578,Fabian Schär,h,76,FromCorner,2018,Head,9309,Newcastle United,Bournemouth,2,1,2018-11-10 15:00:00,Ki Sung-yueng,Cross,76
+250485,41,MissedShots,0.720999984741211,0.24600000381469728,0.013654599897563457,Fabian Schär,a,76,OpenPlay,2018,RightFoot,9326,Burnley,Newcastle United,1,2,2018-11-26 20:00:00,Ki Sung-yueng,Pass,76
+250499,79,MissedShots,0.77,0.23899999618530274,0.017367899417877197,Fabian Schär,a,76,OpenPlay,2018,RightFoot,9326,Burnley,Newcastle United,1,2,2018-11-26 20:00:00,,BallRecovery,76
+250944,49,MissedShots,0.9159999847412109,0.45799999237060546,0.2558929920196533,Fabian Schär,a,76,SetPiece,2018,Head,9345,Everton,Newcastle United,1,1,2018-12-05 19:45:00,Christian Atsu,Cross,76
+250948,74,SavedShot,0.9019999694824219,0.5670000076293945,0.02601570077240467,Fabian Schär,a,76,SetPiece,2018,Head,9345,Everton,Newcastle United,1,1,2018-12-05 19:45:00,Ki Sung-yueng,Aerial,76
+251337,24,SavedShot,0.9319999694824219,0.35200000762939454,0.2768380045890808,Fabian Schär,a,76,SetPiece,2018,RightFoot,9363,Huddersfield,Newcastle United,0,1,2018-12-15 15:00:00,Ki Sung-yueng,Chipped,76
+251340,40,MissedShots,0.5540000152587891,0.2989999961853027,0.019165800884366035,Fabian Schär,a,76,DirectFreekick,2018,RightFoot,9363,Huddersfield,Newcastle United,0,1,2018-12-15 15:00:00,,Standard,76
+251563,73,MissedShots,0.9319999694824219,0.46299999237060546,0.0544871985912323,Fabian Schär,h,76,FromCorner,2018,Head,9369,Newcastle United,Fulham,0,0,2018-12-22 15:00:00,Matt Ritchie,Aerial,76
+274768,23,Goal,0.879000015258789,0.40599998474121096,0.08613350242376328,Fabian Schär,h,76,OpenPlay,2018,LeftFoot,9420,Newcastle United,Cardiff,3,0,2019-01-19 15:00:00,Isaac Hayden,Pass,76
+274776,62,Goal,0.9630000305175781,0.5220000076293946,0.6768440008163452,Fabian Schär,h,76,FromCorner,2018,RightFoot,9420,Newcastle United,Cardiff,3,0,2019-01-19 15:00:00,Jamaal Lascelles,Rebound,76
+274778,66,MissedShots,0.9080000305175782,0.5640000152587891,0.05374990031123161,Fabian Schär,h,76,FromCorner,2018,Head,9420,Newcastle United,Cardiff,3,0,2019-01-19 15:00:00,Matt Ritchie,Cross,76
+275633,31,MissedShots,0.7240000152587891,0.3370000076293945,0.01414950005710125,Fabian Schär,a,76,OpenPlay,2018,RightFoot,9450,Wolverhampton Wanderers,Newcastle United,1,1,2019-02-11 20:00:00,Ayoze Pérez,Pass,76
+275764,15,SavedShot,0.8419999694824218,0.745,0.04633849859237671,Fabian Schär,h,76,OpenPlay,2018,RightFoot,9458,Newcastle United,Huddersfield,2,0,2019-02-23 15:00:00,Ayoze Pérez,Pass,76
+275774,43,MissedShots,0.9159999847412109,0.3940000152587891,0.01624380052089691,Fabian Schär,h,76,FromCorner,2018,Head,9458,Newcastle United,Huddersfield,2,0,2019-02-23 15:00:00,Florian Lejeune,Aerial,76
+275784,68,MissedShots,0.924000015258789,0.629000015258789,0.019180400297045708,Fabian Schär,h,76,FromCorner,2018,Head,9458,Newcastle United,Huddersfield,2,0,2019-02-23 15:00:00,Kenedy,Cross,76
+275789,75,MissedShots,0.89,0.3579999923706055,0.07806850224733353,Fabian Schär,h,76,OpenPlay,2018,LeftFoot,9458,Newcastle United,Huddersfield,2,0,2019-02-23 15:00:00,,None,76
+275940,23,Goal,0.7290000152587891,0.285,0.012181599624454975,Fabian Schär,h,76,OpenPlay,2018,RightFoot,9473,Newcastle United,Burnley,2,0,2019-02-26 20:00:00,Javier Manquillo,Pass,76
+275951,64,MissedShots,0.7369999694824219,0.5029999923706054,0.020969200879335403,Fabian Schär,h,76,OpenPlay,2018,RightFoot,9473,Newcastle United,Burnley,2,0,2019-02-26 20:00:00,Miguel Almirón,Pass,76
+276261,27,BlockedShot,0.7619999694824219,0.3120000076293945,0.016045700758695602,Fabian Schär,a,76,OpenPlay,2018,RightFoot,9478,West Ham,Newcastle United,2,0,2019-03-02 17:30:00,,None,76
+276266,49,BlockedShot,0.9219999694824219,0.40099998474121096,0.08674590289592743,Fabian Schär,a,76,FromCorner,2018,RightFoot,9478,West Ham,Newcastle United,2,0,2019-03-02 17:30:00,Sean Longstaff,HeadPass,76
+284539,21,MissedShots,0.6940000152587891,0.435,0.009390080347657204,Fabian Schär,h,76,OpenPlay,2018,RightFoot,9488,Newcastle United,Everton,3,2,2019-03-09 15:00:00,,Aerial,76
+291955,12,MissedShots,0.8590000152587891,0.500999984741211,0.05193610116839409,Fabian Schär,h,76,FromCorner,2018,RightFoot,9521,Newcastle United,Crystal Palace,0,1,2019-04-06 15:00:00,Florian Lejeune,HeadPass,76
+295454,63,MissedShots,0.9780000305175781,0.4179999923706055,0.08630520105361938,Fabian Schär,h,76,SetPiece,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,,None,76
+301312,27,MissedShots,0.710999984741211,0.3270000076293945,0.015434700064361095,Fabian Schär,a,76,OpenPlay,2018,RightFoot,9573,Fulham,Newcastle United,0,4,2019-05-12 14:00:00,Jonjo Shelvey,Pass,76
+301320,60,Goal,0.914000015258789,0.4570000076293945,0.1554120033979416,Fabian Schär,a,76,FromCorner,2018,Head,9573,Fulham,Newcastle United,0,4,2019-05-12 14:00:00,Matt Ritchie,Aerial,76
+310220,85,MissedShots,0.6869999694824219,0.33799999237060546,0.012174299918115139,Fabian Schär,h,76,OpenPlay,2019,RightFoot,11650,Newcastle United,Arsenal,0,1,2019-08-11 14:00:00,Matt Ritchie,Pass,76
+310556,37,SavedShot,0.9430000305175781,0.6370000076293946,0.009195360355079174,Fabian Schär,a,76,SetPiece,2019,Head,11657,Norwich,Newcastle United,3,1,2019-08-17 15:00:00,Jonjo Shelvey,Aerial,76
+313118,45,MissedShots,0.905,0.4640000152587891,0.022383900359272957,Fabian Schär,a,76,FromCorner,2019,Head,11672,Tottenham,Newcastle United,0,1,2019-08-25 16:30:00,Matt Ritchie,Aerial,76
+315882,40,Goal,0.9159999847412109,0.45099998474121095,0.42456701397895813,Fabian Schär,h,76,OpenPlay,2019,LeftFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Isaac Hayden,Aerial,76
+315885,54,MissedShots,0.8980000305175782,0.549000015258789,0.15047700703144073,Fabian Schär,h,76,SetPiece,2019,Head,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Sean Longstaff,Cross,76
+317037,51,BlockedShot,0.7669999694824219,0.33,0.019731100648641586,Fabian Schär,a,76,OpenPlay,2019,LeftFoot,11683,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,Joelinton,Pass,76
+320619,40,MissedShots,0.905,0.5070000076293946,0.026403900235891342,Fabian Schär,h,76,FromCorner,2019,Head,11699,Newcastle United,Brighton,0,0,2019-09-21 16:30:00,Jonjo Shelvey,Aerial,76
+320631,71,MissedShots,0.8009999847412109,0.395,0.025791000574827194,Fabian Schär,h,76,OpenPlay,2019,LeftFoot,11699,Newcastle United,Brighton,0,0,2019-09-21 16:30:00,Jonjo Shelvey,TakeOn,76
+323437,29,MissedShots,0.59,0.14100000381469727,0.010022999718785286,Fabian Schär,a,76,OpenPlay,2019,RightFoot,11710,Leicester,Newcastle United,5,0,2019-09-29 15:30:00,,BallRecovery,76
+324953,3,BlockedShot,0.745999984741211,0.32799999237060545,0.045788899064064026,Fabian Schär,h,76,DirectFreekick,2019,RightFoot,11721,Newcastle United,Manchester United,1,0,2019-10-06 16:30:00,,Standard,76
+324959,28,MissedShots,0.9309999847412109,0.6129999923706054,0.030801400542259216,Fabian Schär,h,76,FromCorner,2019,Head,11721,Newcastle United,Manchester United,1,0,2019-10-06 16:30:00,Sean Longstaff,Cross,76
+339663,56,MissedShots,0.7090000152587891,0.34799999237060547,0.009180990047752857,Fabian Schär,a,76,OpenPlay,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Matthew Longstaff,Pass,76
+339760,37,SavedShot,0.8540000152587891,0.3340000152587891,0.051249198615550995,Fabian Schär,h,76,OpenPlay,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Florian Lejeune,Pass,76
+339772,55,Goal,0.935,0.485,0.10049500316381454,Fabian Schär,h,76,SetPiece,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Andy Carroll,HeadPass,76
+339785,90,MissedShots,0.9080000305175782,0.6140000152587891,0.01885879971086979,Fabian Schär,h,76,OpenPlay,2019,Head,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,DeAndre Yedlin,Aerial,76
+351506,18,SavedShot,0.745,0.3609999847412109,0.017266400158405304,Fabian Schär,h,76,OpenPlay,2019,RightFoot,11849,Newcastle United,Leicester,0,3,2020-01-01 15:00:00,Jonjo Shelvey,Pass,76
+352116,78,BlockedShot,0.73,0.5,0.01121590007096529,Fabian Schär,a,76,OpenPlay,2019,RightFoot,11877,Everton,Newcastle United,2,2,2020-01-21 19:30:00,,None,76
+352119,93,BlockedShot,0.91,0.6609999847412109,0.04320719838142395,Fabian Schär,a,76,FromCorner,2019,RightFoot,11877,Everton,Newcastle United,2,2,2020-01-21 19:30:00,,End,76
+352962,68,SavedShot,0.7430000305175781,0.5159999847412109,0.018992099910974503,Fabian Schär,a,76,OpenPlay,2019,RightFoot,11905,Crystal Palace,Newcastle United,1,0,2020-02-22 15:00:00,,None,76
+369703,33,BlockedShot,0.7069999694824218,0.4470000076293945,0.011785199865698814,Fabian Schär,a,76,OpenPlay,2019,RightFoot,11979,Manchester City,Newcastle United,5,0,2020-07-08 17:00:00,Valentino Lazaro,Pass,76
+382193,68,MissedShots,0.7619999694824219,0.45599998474121095,0.02318359911441803,Fabian Schär,h,76,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Allan Saint-Maximin,Pass,76
+398620,62,SavedShot,0.4759999847412109,0.83,0.016911199316382408,Fabian Schär,a,76,DirectFreekick,2020,RightFoot,14610,Sheffield United,Newcastle United,1,0,2021-01-12 18:00:00,,Standard,76
+401144,69,BlockedShot,0.745,0.629000015258789,0.051270000636577606,Fabian Schär,h,76,DirectFreekick,2020,RightFoot,14631,Newcastle United,Leeds,1,2,2021-01-26 18:00:00,,Standard,76
+401145,69,SavedShot,0.71,0.6090000152587891,0.009365309961140156,Fabian Schär,h,76,SetPiece,2020,RightFoot,14631,Newcastle United,Leeds,1,2,2021-01-26 18:00:00,,None,76
+401150,81,SavedShot,0.775,0.4929999923706055,0.029672300443053246,Fabian Schär,h,76,OpenPlay,2020,RightFoot,14631,Newcastle United,Leeds,1,2,2021-01-26 18:00:00,,None,76
+401468,1,BlockedShot,0.8519999694824218,0.6120000076293945,0.022159399464726448,Fabian Schär,a,76,FromCorner,2020,RightFoot,14644,Everton,Newcastle United,0,2,2021-01-30 12:30:00,,Aerial,76
+402507,36,MissedShots,0.9259999847412109,0.48200000762939454,0.34505900740623474,Fabian Schär,h,76,FromCorner,2020,Head,14652,Newcastle United,Crystal Palace,1,2,2021-02-02 20:15:00,Ryan Fraser,Cross,76
+402508,39,MissedShots,0.7269999694824218,0.3659999847412109,0.01564689911901951,Fabian Schär,h,76,OpenPlay,2020,RightFoot,14652,Newcastle United,Crystal Palace,1,2,2021-02-02 20:15:00,Miguel Almirón,Pass,76
+402515,73,SavedShot,0.9290000152587891,0.5029999923706054,0.11073199659585953,Fabian Schär,h,76,OpenPlay,2020,Head,14652,Newcastle United,Crystal Palace,1,2,2021-02-02 20:15:00,Ryan Fraser,Cross,76
+402518,83,MissedShots,0.740999984741211,0.3029999923706055,0.013058999553322792,Fabian Schär,h,76,OpenPlay,2020,RightFoot,14652,Newcastle United,Crystal Palace,1,2,2021-02-02 20:15:00,,None,76
+403263,74,BlockedShot,0.7909999847412109,0.30100000381469727,0.062348898500204086,Fabian Schär,h,76,DirectFreekick,2020,RightFoot,14661,Newcastle United,Southampton,3,2,2021-02-06 15:00:00,,Standard,76
+423991,87,Goal,0.885,0.5,0.7611690163612366,Fabian Schär,a,76,Penalty,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,,Standard,76
+442596,37,BlockedShot,0.745999984741211,0.35200000762939454,0.017353300005197525,Fabian Schär,h,76,OpenPlay,2021,RightFoot,16491,Newcastle United,Brentford,3,3,2021-11-20 15:00:00,Jonjo Shelvey,Pass,76
+443775,26,MissedShots,0.945,0.6370000076293946,0.01731489971280098,Fabian Schär,a,76,FromCorner,2021,Head,16496,Arsenal,Newcastle United,2,0,2021-11-27 12:30:00,Ryan Fraser,Cross,76
+443797,73,BlockedShot,0.7330000305175781,0.42200000762939455,0.010311899706721306,Fabian Schär,a,76,OpenPlay,2021,RightFoot,16496,Arsenal,Newcastle United,2,0,2021-11-27 12:30:00,,None,76
+448206,7,BlockedShot,0.925,0.55,0.0642257034778595,Fabian Schär,a,76,FromCorner,2021,RightFoot,16532,Leicester,Newcastle United,4,0,2021-12-12 14:00:00,,Aerial,76
+453224,29,MissedShots,0.915,0.5120000076293946,0.05621090158820152,Fabian Schär,h,76,SetPiece,2021,Head,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,Kieran Trippier,Aerial,76
+456521,41,MissedShots,0.9359999847412109,0.5709999847412109,0.034783899784088135,Fabian Schär,h,76,FromCorner,2021,Head,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Kieran Trippier,Aerial,76
+456534,65,SavedShot,0.875999984741211,0.5729999923706055,0.012456200085580349,Fabian Schär,h,76,FromCorner,2021,Head,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Kieran Trippier,Aerial,76
+458053,43,BlockedShot,0.9,0.515,0.021169500425457954,Fabian Schär,a,76,FromCorner,2021,Head,16634,West Ham,Newcastle United,1,1,2022-02-19 12:30:00,Matt Targett,Aerial,76
+458059,54,SavedShot,0.7530000305175781,0.28700000762939454,0.013776400126516819,Fabian Schär,a,76,OpenPlay,2021,RightFoot,16634,West Ham,Newcastle United,1,1,2022-02-19 12:30:00,Chris Wood,Pass,76
+459793,46,MissedShots,0.95,0.4809999847412109,0.13103799521923065,Fabian Schär,a,76,FromCorner,2021,Head,16637,Brentford,Newcastle United,0,2,2022-02-26 15:00:00,Matt Targett,Cross,76
+459792,46,SavedShot,0.9740000152587891,0.4,0.05876529961824417,Fabian Schär,a,76,SetPiece,2021,Head,16637,Brentford,Newcastle United,0,2,2022-02-26 15:00:00,Ryan Fraser,Cross,76
+461083,13,Goal,0.9169999694824219,0.45799999237060546,0.05167359858751297,Fabian Schär,h,76,SetPiece,2021,Head,16651,Newcastle United,Brighton,2,1,2022-03-05 15:00:00,Ryan Fraser,Aerial,76
+462945,46,MissedShots,0.91,0.33,0.05080610141158104,Fabian Schär,a,76,SetPiece,2021,RightFoot,16659,Chelsea,Newcastle United,1,0,2022-03-13 14:00:00,,Rebound,76
+462949,85,SavedShot,0.9130000305175782,0.4,0.049704499542713165,Fabian Schär,a,76,SetPiece,2021,Head,16659,Chelsea,Newcastle United,1,0,2022-03-13 14:00:00,Matt Targett,Cross,76
+463624,28,SavedShot,0.4570000076293945,0.2979999923706055,0.017079399898648262,Fabian Schär,a,76,DirectFreekick,2021,RightFoot,16571,Everton,Newcastle United,1,0,2022-03-17 19:45:00,,Standard,76
+463637,90,MissedShots,0.9540000152587891,0.6569999694824219,0.03730570152401924,Fabian Schär,a,76,FromCorner,2021,LeftFoot,16571,Everton,Newcastle United,1,0,2022-03-17 19:45:00,Matt Targett,Cross,76
+463643,100,MissedShots,0.7440000152587891,0.41900001525878905,0.018723400309681892,Fabian Schär,a,76,OpenPlay,2021,RightFoot,16571,Everton,Newcastle United,1,0,2022-03-17 19:45:00,Allan Saint-Maximin,Pass,76
+465998,38,Goal,0.8,0.649000015258789,0.08564180135726929,Fabian Schär,a,76,DirectFreekick,2021,RightFoot,16678,Tottenham,Newcastle United,5,1,2022-04-03 15:30:00,,Standard,76
+466411,48,BlockedShot,0.7559999847412109,0.47200000762939454,0.0692519024014473,Fabian Schär,h,76,DirectFreekick,2021,RightFoot,16689,Newcastle United,Wolverhampton Wanderers,1,0,2022-04-08 19:00:00,,Standard,76
+476880,34,MissedShots,0.8769999694824219,0.7440000152587891,0.021946599707007408,Fabian Schär,h,76,FromCorner,2021,RightFoot,16741,Newcastle United,Arsenal,2,0,2022-05-16 19:00:00,,None,76
+479293,0,BlockedShot,0.865,0.39,0.049725499004125595,Fabian Schär,h,76,FromCorner,2022,RightFoot,18206,Newcastle United,Nottingham Forest,2,0,2022-08-06 14:00:00,Matt Targett,Pass,76
+479313,57,Goal,0.78,0.24299999237060546,0.01263049989938736,Fabian Schär,h,76,FromCorner,2022,RightFoot,18206,Newcastle United,Nottingham Forest,2,0,2022-08-06 14:00:00,,Aerial,76
+484223,53,BlockedShot,0.7340000152587891,0.44099998474121094,0.01812109909951687,Fabian Schär,a,76,OpenPlay,2022,RightFoot,18240,Wolverhampton Wanderers,Newcastle United,1,1,2022-08-28 13:00:00,Joe Willock,Pass,76
+484236,99,MissedShots,0.82,0.48700000762939455,0.17609499394893646,Fabian Schär,a,76,DirectFreekick,2022,RightFoot,18240,Wolverhampton Wanderers,Newcastle United,1,1,2022-08-28 13:00:00,,Standard,76
+485989,35,BlockedShot,0.884000015258789,0.395,0.07548060268163681,Fabian Schär,h,76,SetPiece,2022,RightFoot,18253,Newcastle United,Crystal Palace,0,0,2022-09-03 14:00:00,Sean Longstaff,Rebound,76
+485993,40,MissedShots,0.904000015258789,0.45,0.01942249946296215,Fabian Schär,h,76,FromCorner,2022,Head,18253,Newcastle United,Crystal Palace,0,0,2022-09-03 14:00:00,Kieran Trippier,Aerial,76
+486017,95,MissedShots,0.93,0.500999984741211,0.43224799633026123,Fabian Schär,h,76,SetPiece,2022,Head,18253,Newcastle United,Crystal Palace,0,0,2022-09-03 14:00:00,Kieran Trippier,Cross,76
+488755,20,SavedShot,0.924000015258789,0.34,0.026754800230264664,Fabian Schär,h,76,SetPiece,2022,Head,18275,Newcastle United,Bournemouth,1,1,2022-09-17 14:00:00,Matt Targett,Chipped,76
+488775,76,BlockedShot,0.7180000305175781,0.4540000152587891,0.012861300259828568,Fabian Schär,h,76,OpenPlay,2022,RightFoot,18275,Newcastle United,Bournemouth,1,1,2022-09-17 14:00:00,,None,76
+488777,78,BlockedShot,0.7030000305175781,0.39799999237060546,0.012617699801921844,Fabian Schär,h,76,FromCorner,2022,RightFoot,18275,Newcastle United,Bournemouth,1,1,2022-09-17 14:00:00,,None,76
+488781,91,MissedShots,0.7240000152587891,0.2570000076293945,0.013046800158917904,Fabian Schär,h,76,OpenPlay,2022,RightFoot,18275,Newcastle United,Bournemouth,1,1,2022-09-17 14:00:00,Dan Burn,Pass,76
+494445,34,SavedShot,0.99,0.5940000152587891,0.011708199977874756,Fabian Schär,h,76,FromCorner,2022,Head,18319,Newcastle United,Everton,1,0,2022-10-19 18:30:00,Jacob Murphy,Aerial,76
+494452,81,SavedShot,0.9459999847412109,0.47900001525878905,0.07641059905290604,Fabian Schär,h,76,FromCorner,2022,Head,18319,Newcastle United,Everton,1,0,2022-10-19 18:30:00,Sven Botman,Aerial,76
+495785,52,SavedShot,0.8969999694824219,0.315,0.03426549956202507,Fabian Schär,a,76,FromCorner,2022,RightFoot,18329,Tottenham,Newcastle United,1,2,2022-10-23 15:30:00,Kieran Trippier,Cross,76
+495790,66,SavedShot,0.7859999847412109,0.49900001525878906,0.07224620133638382,Fabian Schär,a,76,OpenPlay,2022,RightFoot,18329,Tottenham,Newcastle United,1,2,2022-10-23 15:30:00,,TakeOn,76
+500329,69,SavedShot,0.9109999847412109,0.41400001525878904,0.06379380077123642,Fabian Schär,h,76,SetPiece,2022,Head,18357,Newcastle United,Chelsea,1,0,2022-11-12 17:30:00,Kieran Trippier,Cross,76
+500967,56,MissedShots,0.9290000152587891,0.4490000152587891,0.09670340269804001,Fabian Schär,a,76,FromCorner,2022,Head,18369,Leicester,Newcastle United,0,3,2022-12-26 15:00:00,Kieran Trippier,Cross,76
+501685,19,MissedShots,0.9269999694824219,0.5420000076293945,0.30306699872016907,Fabian Schär,h,76,FromCorner,2022,Head,18377,Newcastle United,Leeds,0,0,2022-12-31 15:00:00,Kieran Trippier,Cross,76
+501695,46,MissedShots,0.9069999694824219,0.5990000152587891,0.07634609937667847,Fabian Schär,h,76,SetPiece,2022,RightFoot,18377,Newcastle United,Leeds,0,0,2022-12-31 15:00:00,,None,76
+501698,61,SavedShot,0.9430000305175781,0.5990000152587891,0.19721800088882446,Fabian Schär,h,76,FromCorner,2022,Head,18377,Newcastle United,Leeds,0,0,2022-12-31 15:00:00,Kieran Trippier,Cross,76
+502174,16,MissedShots,0.9319999694824219,0.49700000762939456,0.12009800225496292,Fabian Schär,a,76,FromCorner,2022,Head,18382,Arsenal,Newcastle United,0,0,2023-01-03 19:45:00,Kieran Trippier,Cross,76
+502179,46,MissedShots,0.9490000152587891,0.5670000076293945,0.11008899658918381,Fabian Schär,a,76,FromCorner,2022,Head,18382,Arsenal,Newcastle United,0,0,2023-01-03 19:45:00,Kieran Trippier,Cross,76
+502181,48,MissedShots,0.9319999694824219,0.6680000305175782,0.08969820290803909,Fabian Schär,a,76,SetPiece,2022,Head,18382,Arsenal,Newcastle United,0,0,2023-01-03 19:45:00,Kieran Trippier,Cross,76
+503963,60,ShotOnPost,0.7519999694824219,0.6580000305175782,0.05059770122170448,Fabian Schär,h,76,DirectFreekick,2022,RightFoot,18398,Newcastle United,Fulham,1,0,2023-01-15 14:00:00,,Standard,76
+504754,35,MissedShots,0.9309999847412109,0.49,0.06077900156378746,Fabian Schär,a,76,FromCorner,2022,OtherBodyPart,18404,Crystal Palace,Newcastle United,0,0,2023-01-21 17:30:00,Kieran Trippier,Aerial,76
+504767,81,SavedShot,0.91,0.625,0.012040000408887863,Fabian Schär,a,76,FromCorner,2022,Head,18404,Crystal Palace,Newcastle United,0,0,2023-01-21 17:30:00,Kieran Trippier,Aerial,76
+504768,84,MissedShots,0.955999984741211,0.5229999923706055,0.08368869870901108,Fabian Schär,a,76,FromCorner,2022,Head,18404,Crystal Palace,Newcastle United,0,0,2023-01-21 17:30:00,Kieran Trippier,Aerial,76
+507305,23,MissedShots,0.904000015258789,0.49599998474121093,0.45451000332832336,Fabian Schär,h,76,SetPiece,2022,RightFoot,18418,Newcastle United,West Ham,1,1,2023-02-04 17:30:00,Dan Burn,BallTouch,76
+507318,82,MissedShots,0.904000015258789,0.5670000076293945,0.01610879972577095,Fabian Schär,h,76,FromCorner,2022,Head,18418,Newcastle United,West Ham,1,1,2023-02-04 17:30:00,Kieran Trippier,Aerial,76
+508572,10,MissedShots,0.9269999694824219,0.580999984741211,0.020304100587964058,Fabian Schär,a,76,FromCorner,2022,Head,18423,Bournemouth,Newcastle United,1,1,2023-02-11 17:30:00,Kieran Trippier,Aerial,76
+508574,15,MissedShots,0.8130000305175781,0.47400001525878904,0.053374700248241425,Fabian Schär,a,76,SetPiece,2022,LeftFoot,18423,Bournemouth,Newcastle United,1,1,2023-02-11 17:30:00,Kieran Trippier,Chipped,76
+508580,43,BlockedShot,0.7280000305175781,0.315,0.014948699623346329,Fabian Schär,a,76,OpenPlay,2022,RightFoot,18423,Bournemouth,Newcastle United,1,1,2023-02-11 17:30:00,Sven Botman,Pass,76
+509842,31,BlockedShot,0.9590000152587891,0.40700000762939453,0.06628929823637009,Fabian Schär,h,76,FromCorner,2022,Head,18438,Newcastle United,Liverpool,0,2,2023-02-18 17:30:00,Kieran Trippier,Cross,76
+509845,36,MissedShots,0.9390000152587891,0.39599998474121095,0.02578819915652275,Fabian Schär,h,76,FromCorner,2022,Head,18438,Newcastle United,Liverpool,0,2,2023-02-18 17:30:00,Kieran Trippier,Card,76
+509851,54,MissedShots,0.9530000305175781,0.44099998474121094,0.368366003036499,Fabian Schär,h,76,FromCorner,2022,Head,18438,Newcastle United,Liverpool,0,2,2023-02-18 17:30:00,Kieran Trippier,Cross,76
+514221,32,SavedShot,0.9419999694824219,0.545,0.10410699993371964,Fabian Schär,h,76,SetPiece,2022,RightFoot,18469,Newcastle United,Wolverhampton Wanderers,2,1,2023-03-12 16:30:00,,CornerAwarded,76
+517106,46,MissedShots,0.9069999694824219,0.6079999923706054,0.03659370169043541,Fabian Schär,h,76,SetPiece,2022,Head,18489,Newcastle United,Manchester United,2,0,2023-04-02 15:30:00,Kieran Trippier,Cross,76
+517108,56,MissedShots,0.7580000305175781,0.345,0.016721200197935104,Fabian Schär,h,76,OpenPlay,2022,RightFoot,18489,Newcastle United,Manchester United,2,0,2023-04-02 15:30:00,Alexander Isak,Pass,76
+517113,75,ShotOnPost,0.9519999694824218,0.55,0.06334750354290009,Fabian Schär,h,76,FromCorner,2022,Head,18489,Newcastle United,Manchester United,2,0,2023-04-02 15:30:00,,Rebound,76
+517120,93,MissedShots,0.8909999847412109,0.44,0.1354140043258667,Fabian Schär,h,76,OpenPlay,2022,RightFoot,18489,Newcastle United,Manchester United,2,0,2023-04-02 15:30:00,Bruno Guimarães,Pass,76
+517987,64,MissedShots,0.9130000305175782,0.4759999847412109,0.08356200158596039,Fabian Schär,a,76,FromCorner,2022,Head,18493,Brentford,Newcastle United,1,2,2023-04-08 14:00:00,Kieran Trippier,Cross,76
+519199,80,MissedShots,0.8630000305175781,0.485,0.10639499872922897,Fabian Schär,a,76,SetPiece,2022,Head,18502,Aston Villa,Newcastle United,3,0,2023-04-15 11:30:00,Matt Targett,Cross,76
+521480,4,MissedShots,0.8969999694824219,0.4570000076293945,0.01751370169222355,Fabian Schär,h,76,FromCorner,2022,Head,18521,Newcastle United,Tottenham,6,1,2023-04-23 13:00:00,Kieran Trippier,Aerial,76
+522329,77,BlockedShot,0.970999984741211,0.605,0.037048593163490295,Fabian Schär,a,76,FromCorner,2022,Head,18522,Everton,Newcastle United,1,4,2023-04-27 18:45:00,Kieran Trippier,Cross,76
+525162,48,SavedShot,0.9330000305175781,0.5320000076293945,0.4268662929534912,Fabian Schär,h,76,SetPiece,2022,Head,18547,Newcastle United,Arsenal,0,2,2023-05-07 15:30:00,Kieran Trippier,Cross,76
+525168,70,OwnGoal,0.017000000476837158,0.46599998474121096,0,Fabian Schär,h,76,OpenPlay,2022,RightFoot,18547,Newcastle United,Arsenal,0,2,2023-05-07 15:30:00,,None,76
+525169,89,MissedShots,0.774000015258789,0.4879999923706055,0.02276778221130371,Fabian Schär,h,76,FromCorner,2022,LeftFoot,18547,Newcastle United,Arsenal,0,2,2023-05-07 15:30:00,Elliot Anderson,BallTouch,76
+525734,37,MissedShots,0.9359999847412109,0.5359999847412109,0.11609294265508652,Fabian Schär,a,76,FromCorner,2022,Head,18558,Leeds,Newcastle United,2,2,2023-05-13 11:30:00,Kieran Trippier,Cross,76
+525741,55,BlockedShot,0.9059999847412109,0.685,0.040993738919496536,Fabian Schär,a,76,FromCorner,2022,RightFoot,18558,Leeds,Newcastle United,2,2,2023-05-13 11:30:00,,None,76
+525740,55,BlockedShot,0.92,0.51,0.046282555907964706,Fabian Schär,a,76,FromCorner,2022,Head,18558,Leeds,Newcastle United,2,2,2023-05-13 11:30:00,Kieran Trippier,Aerial,76
+525751,96,SavedShot,0.7709999847412109,0.555,0.02124730311334133,Fabian Schär,a,76,OpenPlay,2022,LeftFoot,18558,Leeds,Newcastle United,2,2,2023-05-13 11:30:00,Elliot Anderson,HeadPass,76
+527012,8,SavedShot,0.7169999694824218,0.5879999923706055,0.042061466723680496,Fabian Schär,h,76,DirectFreekick,2022,RightFoot,18449,Newcastle United,Brighton,4,1,2023-05-18 18:30:00,,Standard,76
+527021,34,SavedShot,0.9740000152587891,0.38799999237060545,0.011970128864049911,Fabian Schär,h,76,FromCorner,2022,Head,18449,Newcastle United,Brighton,4,1,2023-05-18 18:30:00,Kieran Trippier,Aerial,76
+527030,64,BlockedShot,0.950999984741211,0.42400001525878905,0.3866885006427765,Fabian Schär,h,76,SetPiece,2022,Head,18449,Newcastle United,Brighton,4,1,2023-05-18 18:30:00,,None,76
+528435,37,MissedShots,0.7390000152587891,0.35400001525878905,0.01352042518556118,Fabian Schär,h,76,OpenPlay,2022,RightFoot,18567,Newcastle United,Leicester,0,0,2023-05-22 19:00:00,,None,76
+528439,41,BlockedShot,0.919000015258789,0.29100000381469726,0.019013723358511925,Fabian Schär,h,76,FromCorner,2022,LeftFoot,18567,Newcastle United,Leicester,0,0,2023-05-22 19:00:00,,Aerial,76
+528447,66,MissedShots,0.7709999847412109,0.32599998474121095,0.017101628705859184,Fabian Schär,h,76,OpenPlay,2022,RightFoot,18567,Newcastle United,Leicester,0,0,2023-05-22 19:00:00,Sean Longstaff,Pass,76
+535390,30,BlockedShot,0.7980000305175782,0.6020000076293945,0.10195392370223999,Fabian Schär,h,76,DirectFreekick,2023,RightFoot,22304,Newcastle United,Liverpool,1,2,2023-08-27 15:30:00,,Standard,76
+536420,86,SavedShot,0.9619999694824218,0.645,0.008965693414211273,Fabian Schär,a,76,SetPiece,2023,Head,21931,Brighton,Newcastle United,3,1,2023-09-02 16:30:00,Kieran Trippier,Aerial,76
+537838,27,BlockedShot,0.69,0.3970000076293945,0.01249760389328003,Fabian Schär,h,76,OpenPlay,2023,RightFoot,21943,Newcastle United,Brentford,1,0,2023-09-16 16:30:00,Bruno Guimarães,Pass,76
+539911,80,MissedShots,0.909000015258789,0.7280000305175781,0.028076965361833572,Fabian Schär,a,76,FromCorner,2023,RightFoot,21954,Sheffield United,Newcastle United,0,8,2023-09-24 15:30:00,,None,76
+541221,79,BlockedShot,0.9730000305175781,0.48400001525878905,0.06194936856627464,Fabian Schär,h,76,FromCorner,2023,Head,21958,Newcastle United,Burnley,2,0,2023-09-30 14:00:00,Kieran Trippier,Foul,76
+545676,79,MissedShots,0.9330000305175781,0.5690000152587891,0.11490702629089355,Fabian Schär,a,76,OpenPlay,2023,Head,21994,Wolverhampton Wanderers,Newcastle United,2,2,2023-10-28 16:30:00,Kieran Trippier,Cross,76
+545680,92,BlockedShot,0.9119999694824219,0.715999984741211,0.02709539420902729,Fabian Schär,a,76,FromCorner,2023,RightFoot,21994,Wolverhampton Wanderers,Newcastle United,2,2,2023-10-28 16:30:00,Sean Longstaff,Chipped,76
+547049,34,BlockedShot,0.7880000305175782,0.6919999694824219,0.02408396638929844,Fabian Schär,h,76,OpenPlay,2023,RightFoot,22001,Newcastle United,Arsenal,1,0,2023-11-04 17:30:00,Bruno Guimarães,Pass,76
+548570,93,MissedShots,0.745999984741211,0.47400001525878904,0.020057130604982376,Fabian Schär,a,76,OpenPlay,2023,RightFoot,22005,Bournemouth,Newcastle United,2,0,2023-11-11 17:30:00,Kieran Trippier,Pass,76
+549756,75,SavedShot,0.8090000152587891,0.6229999923706054,0.03522414341568947,Fabian Schär,h,76,OpenPlay,2023,LeftFoot,22021,Newcastle United,Chelsea,4,1,2023-11-25 15:00:00,,TakeOn,76
+551414,19,MissedShots,0.9069999694824219,0.4370000076293945,0.022577570751309395,Fabian Schär,h,76,FromCorner,2023,Head,22032,Newcastle United,Manchester United,1,0,2023-12-02 20:00:00,Anthony Gordon,Aerial,76
+551420,44,MissedShots,0.8219999694824218,0.6890000152587891,0.03045337274670601,Fabian Schär,h,76,OpenPlay,2023,RightFoot,22032,Newcastle United,Manchester United,1,0,2023-12-02 20:00:00,Joelinton,Pass,76
+551419,44,BlockedShot,0.899000015258789,0.4979999923706055,0.10141227394342422,Fabian Schär,h,76,FromCorner,2023,RightFoot,22032,Newcastle United,Manchester United,1,0,2023-12-02 20:00:00,,None,76
+551424,57,MissedShots,0.7269999694824218,0.485,0.022986523807048798,Fabian Schär,h,76,OpenPlay,2023,RightFoot,22032,Newcastle United,Manchester United,1,0,2023-12-02 20:00:00,Bruno Guimarães,Pass,76
+552437,68,BlockedShot,0.7130000305175781,0.395,0.01913081668317318,Fabian Schär,a,76,FromCorner,2023,RightFoot,22037,Everton,Newcastle United,3,0,2023-12-07 19:30:00,Kieran Trippier,Pass,76
+554302,4,MissedShots,0.7430000305175781,0.3529999923706055,0.016040554270148277,Fabian Schär,h,76,SetPiece,2023,RightFoot,22062,Newcastle United,Fulham,3,0,2023-12-16 15:00:00,Bruno Guimarães,Pass,76
+556226,39,MissedShots,0.9309999847412109,0.6279999923706054,0.035307932645082474,Fabian Schär,a,76,SetPiece,2023,Head,22069,Luton,Newcastle United,1,0,2023-12-23 15:00:00,Kieran Trippier,Cross,76
+556487,78,MissedShots,0.7380000305175781,0.45299999237060545,0.055249277502298355,Fabian Schär,h,76,DirectFreekick,2023,RightFoot,22083,Newcastle United,Nottingham Forest,1,3,2023-12-26 12:30:00,,Standard,76
+558222,55,SavedShot,0.905,0.4520000076293945,0.0345652773976326,Fabian Schär,h,76,SetPiece,2023,Head,22100,Newcastle United,Manchester City,2,3,2024-01-13 17:30:00,Kieran Trippier,Aerial,76
+560643,31,Goal,0.935,0.5179999923706055,0.40405985713005066,Fabian Schär,a,76,FromCorner,2023,RightFoot,22105,Aston Villa,Newcastle United,1,3,2024-01-30 20:15:00,Kieran Trippier,Cross,76
+560645,35,Goal,0.975,0.47200000762939454,0.8247216939926147,Fabian Schär,a,76,FromCorner,2023,RightFoot,22105,Aston Villa,Newcastle United,1,3,2024-01-30 20:15:00,,Rebound,76
+560658,77,BlockedShot,0.9519999694824218,0.5679999923706055,0.13786672055721283,Fabian Schär,a,76,FromCorner,2023,LeftFoot,22105,Aston Villa,Newcastle United,1,3,2024-01-30 20:15:00,Sven Botman,Rebound,76
+561259,50,MissedShots,0.710999984741211,0.3990000152587891,0.012485162355005741,Fabian Schär,h,76,OpenPlay,2023,LeftFoot,22123,Newcastle United,Luton,4,4,2024-02-03 15:00:00,Kieran Trippier,Pass,76
+561268,71,BlockedShot,0.8490000152587891,0.5720000076293945,0.05895454064011574,Fabian Schär,h,76,SetPiece,2023,LeftFoot,22123,Newcastle United,Luton,4,4,2024-02-03 15:00:00,,Rebound,76
+561274,90,BlockedShot,0.785,0.519000015258789,0.027267765253782272,Fabian Schär,h,76,SetPiece,2023,RightFoot,22123,Newcastle United,Luton,4,4,2024-02-03 15:00:00,,None,76
+562712,20,SavedShot,0.904000015258789,0.35700000762939454,0.030777055770158768,Fabian Schär,a,76,FromCorner,2023,Head,22131,Nottingham Forest,Newcastle United,2,3,2024-02-10 17:30:00,,None,76
+562714,42,Goal,0.8680000305175781,0.4570000076293945,0.07489314675331116,Fabian Schär,a,76,SetPiece,2023,RightFoot,22131,Nottingham Forest,Newcastle United,2,3,2024-02-10 17:30:00,Sven Botman,HeadPass,76
+563919,39,SavedShot,0.7419999694824219,0.305,0.014971302822232246,Fabian Schär,h,76,OpenPlay,2023,RightFoot,22141,Newcastle United,Bournemouth,2,2,2024-02-17 15:00:00,Bruno Guimarães,Pass,76
+563932,82,MissedShots,0.8640000152587891,0.3320000076293945,0.054427169263362885,Fabian Schär,h,76,OpenPlay,2023,LeftFoot,22141,Newcastle United,Bournemouth,2,2,2024-02-17 15:00:00,Jacob Murphy,Pass,76
+569011,13,MissedShots,0.749000015258789,0.395,0.017498981207609177,Fabian Schär,a,76,OpenPlay,2023,RightFoot,22169,Chelsea,Newcastle United,3,2,2024-03-11 20:00:00,,None,76
+571805,94,BlockedShot,0.725999984741211,0.2989999961853027,0.013318048790097237,Fabian Schär,h,76,OpenPlay,2023,RightFoot,22202,Newcastle United,Everton,1,1,2024-04-02 18:30:00,Bruno Guimarães,Pass,76
+573432,86,Goal,0.92,0.549000015258789,0.08278388530015945,Fabian Schär,h,76,FromCorner,2023,Head,22222,Newcastle United,Tottenham,4,0,2024-04-13 11:30:00,Anthony Gordon,Cross,76
+576270,46,MissedShots,0.8580000305175781,0.63,0.023114988580346107,Fabian Schär,a,76,SetPiece,2023,Head,22178,Crystal Palace,Newcastle United,2,0,2024-04-24 19:00:00,Bruno Guimarães,Chipped,76
+581182,83,MissedShots,0.7830000305175782,0.33799999237060546,0.011258204467594624,Fabian Schär,a,76,OpenPlay,2023,RightFoot,22231,Manchester United,Newcastle United,3,2,2024-05-15 19:00:00,,Aerial,76
+582170,60,BlockedShot,0.815,0.6179999923706054,0.11898104101419449,Fabian Schär,a,76,DirectFreekick,2023,RightFoot,22266,Brentford,Newcastle United,2,4,2024-05-19 15:00:00,,Standard,76
+584786,23,BlockedShot,0.879000015258789,0.6769999694824219,0.03689849376678467,Fabian Schär,h,76,SetPiece,2024,RightFoot,26606,Newcastle United,Southampton,1,0,2024-08-17 14:00:00,Anthony Gordon,Pass,76
+591575,46,MissedShots,0.8009999847412109,0.5309999847412109,0.04263310506939888,Fabian Schär,a,76,FromCorner,2024,RightFoot,26641,Wolverhampton Wanderers,Newcastle United,1,2,2024-09-15 15:30:00,,Rebound,76
+591585,74,Goal,0.7369999694824219,0.4209999847412109,0.018226755782961845,Fabian Schär,a,76,OpenPlay,2024,RightFoot,26641,Wolverhampton Wanderers,Newcastle United,1,2,2024-09-15 15:30:00,Bruno Guimarães,Pass,76
+592440,17,MissedShots,0.8630000305175781,0.5259999847412109,0.010826154612004757,Fabian Schär,a,76,SetPiece,2024,Head,26646,Fulham,Newcastle United,3,1,2024-09-21 14:00:00,Anthony Gordon,Aerial,76
+592462,71,MissedShots,0.8780000305175781,0.3679999923706055,0.05594534054398537,Fabian Schär,a,76,OpenPlay,2024,RightFoot,26646,Fulham,Newcastle United,3,1,2024-09-21 14:00:00,,None,76
+593818,50,MissedShots,0.9159999847412109,0.425,0.0694485679268837,Fabian Schär,h,76,OpenPlay,2024,Head,26652,Newcastle United,Manchester City,1,1,2024-09-28 11:30:00,Bruno Guimarães,Cross,76
+597073,24,MissedShots,0.7680000305175781,0.3129999923706055,0.05322791635990143,Fabian Schär,h,76,DirectFreekick,2024,RightFoot,26676,Newcastle United,Brighton,0,1,2024-10-19 14:00:00,,Standard,76
+598914,66,MissedShots,0.7709999847412109,0.6859999847412109,0.05492261424660683,Fabian Schär,a,76,DirectFreekick,2024,RightFoot,26688,Chelsea,Newcastle United,2,1,2024-10-27 14:00:00,,Standard,76
+598916,75,MissedShots,0.96,0.53,0.08192151039838791,Fabian Schär,a,76,FromCorner,2024,Head,26688,Chelsea,Newcastle United,2,1,2024-10-27 14:00:00,Lewis Hall,Aerial,76
+599835,24,BlockedShot,0.9230000305175782,0.5620000076293945,0.034496501088142395,Fabian Schär,h,76,FromCorner,2024,Head,26694,Newcastle United,Arsenal,1,0,2024-11-02 12:30:00,,Aerial,76
+602028,47,BlockedShot,0.7280000305175781,0.3170000076293945,0.01460967119783163,Fabian Schär,a,76,OpenPlay,2024,RightFoot,26704,Nottingham Forest,Newcastle United,1,3,2024-11-10 14:00:00,Joe Willock,Pass,76
+603770,47,BlockedShot,0.7140000152587891,0.3039999961853027,0.009333773516118526,Fabian Schär,h,76,OpenPlay,2024,RightFoot,26713,Newcastle United,West Ham,0,2,2024-11-25 20:00:00,,Aerial,76
+603778,59,MissedShots,0.745,0.295,0.011001858860254288,Fabian Schär,h,76,OpenPlay,2024,RightFoot,26713,Newcastle United,West Ham,0,2,2024-11-25 20:00:00,Bruno Guimarães,Pass,76
+605267,89,Goal,0.9819999694824219,0.6090000152587891,0.19346578419208527,Fabian Schär,h,76,SetPiece,2024,LeftFoot,26740,Newcastle United,Liverpool,3,3,2024-12-04 19:30:00,Bruno Guimarães,Cross,76
+609118,30,SavedShot,0.785,0.6859999847412109,0.06251275539398193,Fabian Schär,h,76,DirectFreekick,2024,RightFoot,26778,Newcastle United,Aston Villa,3,0,2024-12-26 15:00:00,,Standard,76
+609120,40,MissedShots,0.8180000305175781,0.4379999923706055,0.1065574660897255,Fabian Schär,h,76,OpenPlay,2024,LeftFoot,26778,Newcastle United,Aston Villa,3,0,2024-12-26 15:00:00,,TakeOn,76
+609737,29,BlockedShot,0.8119999694824219,0.63,0.042257778346538544,Fabian Schär,a,76,FromCorner,2024,RightFoot,26789,Manchester United,Newcastle United,0,2,2024-12-30 20:00:00,Anthony Gordon,Pass,76
+612065,71,SavedShot,0.9080000305175782,0.5379999923706055,0.06860208511352539,Fabian Schär,h,76,FromCorner,2024,Head,26819,Newcastle United,Bournemouth,1,4,2025-01-18 12:30:00,Kieran Trippier,Cross,76
+613364,35,SavedShot,0.9259999847412109,0.34799999237060547,0.26859310269355774,Fabian Schär,a,76,SetPiece,2024,RightFoot,26829,Southampton,Newcastle United,1,3,2025-01-25 15:00:00,Bruno Guimarães,Pass,76

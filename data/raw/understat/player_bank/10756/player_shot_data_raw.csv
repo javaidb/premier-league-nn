@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+484500,96,MissedShots,0.9069999694824219,0.39799999237060546,0.08543000370264053,Joe Worrall,h,10756,FromCorner,2022,RightFoot,18241,Nottingham Forest,Tottenham,0,2,2022-08-28 15:30:00,Cheikhou Kouyaté,Rebound,10756
+500158,73,MissedShots,0.865999984741211,0.625999984741211,0.056431401520967484,Joe Worrall,h,10756,SetPiece,2022,RightFoot,18358,Nottingham Forest,Crystal Palace,1,0,2022-11-12 15:00:00,,None,10756
+501120,88,MissedShots,0.7959999847412109,0.445,0.027273399755358696,Joe Worrall,a,10756,FromCorner,2022,RightFoot,18370,Manchester United,Nottingham Forest,3,0,2022-12-27 20:00:00,,None,10756
+504711,91,MissedShots,0.94,0.425,0.039156101644039154,Joe Worrall,a,10756,FromCorner,2022,Head,18403,Bournemouth,Nottingham Forest,1,1,2023-01-21 15:00:00,Morgan Gibbs-White,Foul,10756
+513511,80,Goal,0.9730000305175781,0.4520000076293945,0.5187739729881287,Joe Worrall,a,10756,FromCorner,2022,Head,18470,Tottenham,Nottingham Forest,3,1,2023-03-11 15:00:00,Felipe,Pass,10756
+527603,4,MissedShots,0.875999984741211,0.48200000762939454,0.08202055841684341,Joe Worrall,h,10756,OpenPlay,2022,RightFoot,18568,Nottingham Forest,Arsenal,1,0,2023-05-20 16:30:00,Felipe,HeadPass,10756
+529783,77,SavedShot,0.9359999847412109,0.395,0.10323368012905121,Joe Worrall,a,10756,OpenPlay,2022,RightFoot,18576,Crystal Palace,Nottingham Forest,1,1,2023-05-28 15:30:00,Morgan Gibbs-White,Card,10756
+532888,42,MissedShots,0.9209999847412109,0.49900001525878906,0.04835672676563263,Joe Worrall,h,10756,FromCorner,2023,Head,22285,Nottingham Forest,Sheffield United,2,1,2023-08-18 18:45:00,Morgan Gibbs-White,Aerial,10756
+532901,72,MissedShots,0.874000015258789,0.425,0.03313583508133888,Joe Worrall,h,10756,SetPiece,2023,Head,22285,Nottingham Forest,Sheffield United,2,1,2023-08-18 18:45:00,Morgan Gibbs-White,Cross,10756

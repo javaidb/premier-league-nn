@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+377646,79,Goal,0.9219999694824219,0.39,0.2827180027961731,Donny van de Beek,h,8821,OpenPlay,2020,RightFoot,14098,Manchester United,Crystal Palace,1,3,2020-09-19 16:30:00,,None,8821
+424162,43,MissedShots,0.754000015258789,0.29600000381469727,0.01201079972088337,Donny van de Beek,a,8821,OpenPlay,2020,RightFoot,14814,Wolverhampton Wanderers,Manchester United,1,2,2021-05-23 15:00:00,,None,8821
+442517,49,Goal,0.975999984741211,0.4759999847412109,0.6744329929351807,Donny van de Beek,a,8821,OpenPlay,2021,Head,16494,Watford,Manchester United,4,1,2021-11-20 15:00:00,Cristiano Ronaldo,HeadPass,8821
+453365,95,BlockedShot,0.9019999694824219,0.6719999694824219,0.06684750318527222,Donny van de Beek,a,8821,OpenPlay,2021,LeftFoot,16586,Aston Villa,Manchester United,2,2,2022-01-15 17:30:00,Jadon Sancho,TakeOn,8821
+456538,87,BlockedShot,0.7659999847412109,0.7340000152587891,0.010190100409090519,Donny van de Beek,a,8821,OpenPlay,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,Dele Alli,Pass,8821
+458329,3,MissedShots,0.8059999847412109,0.3920000076293945,0.03973269835114479,Donny van de Beek,a,8821,OpenPlay,2021,RightFoot,16633,Southampton,Everton,2,0,2022-02-19 15:00:00,,None,8821
+458331,11,BlockedShot,0.795,0.6940000152587891,0.021953800693154335,Donny van de Beek,a,8821,OpenPlay,2021,RightFoot,16633,Southampton,Everton,2,0,2022-02-19 15:00:00,Anthony Gordon,Pass,8821
+458344,54,MissedShots,0.8009999847412109,0.35700000762939454,0.029590200632810593,Donny van de Beek,a,8821,OpenPlay,2021,RightFoot,16633,Southampton,Everton,2,0,2022-02-19 15:00:00,,None,8821
+477864,47,Goal,0.960999984741211,0.5159999847412109,0.6682609915733337,Donny van de Beek,a,8821,OpenPlay,2021,LeftFoot,16746,Arsenal,Everton,5,1,2022-05-22 15:00:00,Dominic Calvert-Lewin,Pass,8821
+498589,46,BlockedShot,0.9409999847412109,0.3579999923706055,0.019963499158620834,Donny van de Beek,a,8821,OpenPlay,2022,Head,18342,Aston Villa,Manchester United,3,1,2022-11-06 14:00:00,Casemiro,Cross,8821
+501116,72,BlockedShot,0.9,0.635,0.060405198484659195,Donny van de Beek,h,8821,FromCorner,2022,LeftFoot,18370,Manchester United,Nottingham Forest,3,0,2022-12-27 20:00:00,,None,8821
+541194,88,MissedShots,0.87,0.46099998474121096,0.03228488191962242,Donny van de Beek,h,8821,OpenPlay,2023,Head,21957,Manchester United,Crystal Palace,0,1,2023-09-30 14:00:00,Christian Eriksen,Chipped,8821
+562361,70,BlockedShot,0.894000015258789,0.47400001525878904,0.08100832998752594,Donny van de Beek,h,8821,FromCorner,2023,LeftFoot,23252,Eintracht Frankfurt,Bochum,1,1,2024-02-10 14:30:00,Robin Koch,BallTouch,8821
+591492,88,BlockedShot,0.8980000305175782,0.6270000076293946,0.04682297632098198,Donny van de Beek,h,8821,OpenPlay,2024,RightFoot,27028,Girona,Barcelona,1,4,2024-09-15 14:15:00,Miguel Gutiérrez,Cross,8821
+595976,28,BlockedShot,0.8769999694824219,0.595999984741211,0.09946568310260773,Donny van de Beek,h,8821,OpenPlay,2024,LeftFoot,27066,Girona,Athletic Club,2,1,2024-10-06 12:00:00,Miguel Gutiérrez,Pass,8821
+600192,20,BlockedShot,0.8180000305175781,0.63,0.06370864063501358,Donny van de Beek,h,8821,OpenPlay,2024,RightFoot,27095,Girona,Leganes,4,3,2024-11-02 15:15:00,Yangel Herrera,LayOff,8821
+602315,13,BlockedShot,0.875,0.7390000152587891,0.03321213275194168,Donny van de Beek,a,8821,OpenPlay,2024,RightFoot,27104,Getafe,Girona,0,1,2024-11-10 17:30:00,Juanpe,Chipped,8821
+603166,30,SavedShot,0.8919999694824219,0.4109999847412109,0.13330453634262085,Donny van de Beek,h,8821,OpenPlay,2024,RightFoot,27121,Girona,Espanyol,4,1,2024-11-23 17:30:00,Yáser Asprilla,Pass,8821
+603171,49,MissedShots,0.9719999694824218,0.6029999923706054,0.12297027558088303,Donny van de Beek,h,8821,OpenPlay,2024,RightFoot,27121,Girona,Espanyol,4,1,2024-11-23 17:30:00,Bryan Gil Salvatierra,Pass,8821
+604588,65,Goal,0.8240000152587891,0.5590000152587891,0.04426572099328041,Donny van de Beek,a,8821,FromCorner,2024,RightFoot,27128,Villarreal,Girona,2,2,2024-12-01 13:00:00,,None,8821
+606120,28,MissedShots,0.9369999694824219,0.3189999961853027,0.05397258698940277,Donny van de Beek,h,8821,OpenPlay,2024,RightFoot,27137,Girona,Real Madrid,0,3,2024-12-07 20:00:00,Yáser Asprilla,Pass,8821
+607129,6,Goal,0.9009999847412109,0.4620000076293945,0.09082230180501938,Donny van de Beek,a,8821,OpenPlay,2024,LeftFoot,27146,Mallorca,Girona,2,1,2024-12-14 15:15:00,,None,8821
+608112,1,MissedShots,0.970999984741211,0.3870000076293945,0.1175021156668663,Donny van de Beek,h,8821,OpenPlay,2024,RightFoot,27156,Girona,Real Valladolid,3,0,2024-12-20 20:00:00,Yáser Asprilla,Throughball,8821
+608123,46,BlockedShot,0.8230000305175781,0.534000015258789,0.08442423492670059,Donny van de Beek,h,8821,OpenPlay,2024,RightFoot,27156,Girona,Real Valladolid,3,0,2024-12-20 20:00:00,Arnau Martinez,Pass,8821
+608131,62,BlockedShot,0.9080000305175782,0.4420000076293945,0.14326272904872894,Donny van de Beek,h,8821,OpenPlay,2024,LeftFoot,27156,Girona,Real Valladolid,3,0,2024-12-20 20:00:00,Abel Ruiz,Pass,8821

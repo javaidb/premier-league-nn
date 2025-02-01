@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14538,49,BlockedShot,0.9740000152587891,0.6270000076293946,0.06288640201091766,Yoan Gouffran,h,916,FromCorner,2014,RightFoot,4757,Newcastle United,Manchester City,0,2,2014-08-17 16:00:00,,None,916
+14653,24,BlockedShot,0.8780000305175781,0.585,0.1066489964723587,Yoan Gouffran,a,916,OpenPlay,2014,RightFoot,4759,Aston Villa,Newcastle United,0,0,2014-08-23 12:45:00,Daryl Janmaat,Pass,916
+15020,61,SavedShot,0.9109999847412109,0.36700000762939455,0.0852499008178711,Yoan Gouffran,h,916,OpenPlay,2014,RightFoot,4771,Newcastle United,Crystal Palace,3,3,2014-08-30 15:00:00,Jack Colback,Pass,916
+15331,43,BlockedShot,0.795,0.3770000076293945,0.036000899970531464,Yoan Gouffran,a,916,OpenPlay,2014,LeftFoot,4722,Southampton,Newcastle United,4,0,2014-09-13 15:00:00,Moussa Sissoko,Pass,916
+15339,78,SavedShot,0.975999984741211,0.6020000076293945,0.17233699560165405,Yoan Gouffran,a,916,FromCorner,2014,Head,4722,Southampton,Newcastle United,4,0,2014-09-13 15:00:00,,None,916
+15559,13,SavedShot,0.8969999694824219,0.55,0.03910670056939125,Yoan Gouffran,h,916,OpenPlay,2014,Head,4733,Newcastle United,Hull,2,2,2014-09-20 15:00:00,Daryl Janmaat,Aerial,916
+15868,36,BlockedShot,0.8719999694824219,0.53,0.03756159916520119,Yoan Gouffran,a,916,OpenPlay,2014,Head,4748,Stoke,Newcastle United,1,0,2014-09-29 20:00:00,Rémy Cabella,Cross,916
+15871,42,BlockedShot,0.7169999694824218,0.4879999923706055,0.01787560060620308,Yoan Gouffran,a,916,OpenPlay,2014,LeftFoot,4748,Stoke,Newcastle United,1,0,2014-09-29 20:00:00,Rémy Cabella,Pass,916
+16516,22,MissedShots,0.7919999694824219,0.32599998474121095,0.019602099433541298,Yoan Gouffran,h,916,SetPiece,2014,LeftFoot,4704,Newcastle United,Leicester,1,0,2014-10-18 15:00:00,Jack Colback,TakeOn,916
+17638,33,SavedShot,0.9269999694824219,0.505,0.13426299393177032,Yoan Gouffran,a,916,SetPiece,2014,Head,4615,Arsenal,Newcastle United,4,1,2014-12-13 17:30:00,Jack Colback,Cross,916
+19073,54,MissedShots,0.720999984741211,0.39099998474121095,0.01122989971190691,Yoan Gouffran,h,916,OpenPlay,2014,RightFoot,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,,None,916
+18719,20,MissedShots,0.8180000305175781,0.5370000076293945,0.04085800051689148,Yoan Gouffran,h,916,FromCorner,2014,RightFoot,4647,Newcastle United,Everton,3,2,2014-12-28 16:15:00,Papiss Demba Cissé,Pass,916
+18726,49,SavedShot,0.9159999847412109,0.47200000762939454,0.11553499847650528,Yoan Gouffran,h,916,OpenPlay,2014,LeftFoot,4647,Newcastle United,Everton,3,2,2014-12-28 16:15:00,Moussa Sissoko,Cross,916
+19740,3,SavedShot,0.755,0.42,0.029774999246001244,Yoan Gouffran,h,916,OpenPlay,2014,RightFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,,TakeOn,916
+19742,5,BlockedShot,0.860999984741211,0.58,0.05977350100874901,Yoan Gouffran,h,916,FromCorner,2014,LeftFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,,None,916
+19744,9,BlockedShot,0.7830000305175782,0.4420000076293945,0.02290870063006878,Yoan Gouffran,h,916,FromCorner,2014,RightFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,,None,916
+17573,20,SavedShot,0.8019999694824219,0.3089999961853027,0.0715102031826973,Yoan Gouffran,a,916,DirectFreekick,2014,RightFoot,4565,Chelsea,Newcastle United,2,0,2015-01-10 15:00:00,,Standard,916
+18926,12,SavedShot,0.7240000152587891,0.44299999237060544,0.014213900081813335,Yoan Gouffran,h,916,FromCorner,2014,RightFoot,4577,Newcastle United,Southampton,1,2,2015-01-17 17:30:00,,None,916
+18929,28,Goal,0.875999984741211,0.5359999847412109,0.07202749699354172,Yoan Gouffran,h,916,OpenPlay,2014,RightFoot,4577,Newcastle United,Southampton,1,2,2015-01-17 17:30:00,,None,916
+18933,60,MissedShots,0.8980000305175782,0.56,0.03514380007982254,Yoan Gouffran,h,916,OpenPlay,2014,Head,4577,Newcastle United,Southampton,1,2,2015-01-17 17:30:00,Massadio Haidara,Aerial,916
+23277,77,Goal,0.815,0.4759999847412109,0.09807740151882172,Yoan Gouffran,a,916,OpenPlay,2014,LeftFoot,4581,Hull,Newcastle United,0,3,2015-01-31 12:45:00,Massadio Haidara,TakeOn,916
+22030,60,SavedShot,0.884000015258789,0.54,0.08513239771127701,Yoan Gouffran,h,916,FromCorner,2014,RightFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,,None,916
+22032,63,BlockedShot,0.9619999694824218,0.47,0.13357999920845032,Yoan Gouffran,h,916,FromCorner,2014,LeftFoot,4508,Newcastle United,Arsenal,1,2,2015-03-21 15:00:00,,None,916
+22295,26,MissedShots,0.815,0.5379999923706055,0.04467590153217316,Yoan Gouffran,a,916,SetPiece,2014,RightFoot,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,,None,916
+56034,72,BlockedShot,0.7809999847412109,0.31,0.02432049997150898,Yoan Gouffran,a,916,FromCorner,2015,RightFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Paul Dummett,Pass,916
+52361,95,SavedShot,0.81,0.7040000152587891,0.02149840071797371,Yoan Gouffran,h,916,FromCorner,2015,RightFoot,293,Newcastle United,West Ham,2,1,2016-01-16 19:00:00,Georginio Wijnaldum,Pass,916
+52449,60,MissedShots,0.93,0.5529999923706055,0.319023996591568,Yoan Gouffran,a,916,OpenPlay,2015,Head,307,Watford,Newcastle United,2,1,2016-01-23 19:00:00,Ayoze Pérez,Cross,916

@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+535415,96,MissedShots,0.879000015258789,0.515,0.016498630866408348,Nick Pope,h,5552,SetPiece,2023,Head,22304,Newcastle United,Liverpool,1,2,2023-08-27 15:30:00,Kieran Trippier,Aerial,5552

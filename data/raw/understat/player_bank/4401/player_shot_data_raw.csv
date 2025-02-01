@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+509442,92,OwnGoal,0.02700000047683716,0.5379999923706055,0,Emiliano Martinez,h,4401,OpenPlay,2022,Head,18432,Aston Villa,Arsenal,2,4,2023-02-18 12:30:00,,None,4401
+545973,82,OwnGoal,0.022999999523162843,0.4979999923706055,0,Emiliano Martinez,h,4401,OpenPlay,2023,OtherBodyPart,21987,Aston Villa,Luton,3,1,2023-10-29 14:00:00,,BallTouch,4401
+580898,1,OwnGoal,0.025,0.51,0,Emiliano Martinez,h,4401,OpenPlay,2023,OtherBodyPart,22256,Aston Villa,Liverpool,3,3,2024-05-13 19:00:00,,None,4401

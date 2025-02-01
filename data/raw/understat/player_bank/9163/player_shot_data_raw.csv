@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+401343,22,Goal,0.98,0.49400001525878906,0.15722599625587463,Kean Bryan,a,9163,FromCorner,2020,Head,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,John Fleck,Cross,9163
+405778,87,MissedShots,0.8819999694824219,0.4979999923706055,0.02802559919655323,Kean Bryan,a,9163,SetPiece,2020,Head,14679,Fulham,Sheffield United,1,0,2021-02-20 20:00:00,,Aerial,9163
+407559,63,OwnGoal,0.10300000190734863,0.54,0,Kean Bryan,h,9163,OpenPlay,2020,LeftFoot,14694,Sheffield United,Liverpool,0,2,2021-02-28 19:15:00,,None,9163
+408575,34,MissedShots,0.9330000305175781,0.45099998474121095,0.35023999214172363,Kean Bryan,h,9163,SetPiece,2020,Head,14701,Sheffield United,Southampton,0,2,2021-03-06 15:00:00,John Fleck,Cross,9163

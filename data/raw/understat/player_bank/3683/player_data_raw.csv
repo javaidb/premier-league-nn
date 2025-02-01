@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+3683,Ivan Cavaleiro,23,670,3,2.374942736700177,1,1.5787326022982597,13,19,1,0,F M S,Wolverhampton Wanderers,3,2.374942736700177,4.368759629316628,0.9025545064359903,2018
+3683,Ivan Cavaleiro,36,2477,3,5.548668167553842,0,2.6804727111011744,47,42,2,0,D F M S,Fulham,2,4.026330660097301,8.240887176245451,2.8567286916077137,2020

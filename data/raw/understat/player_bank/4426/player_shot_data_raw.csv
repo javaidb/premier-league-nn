@@ -1,0 +1,3 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+16113,72,SavedShot,0.9269999694824219,0.44400001525878907,0.0921349972486496,Michael Duff,h,4426,FromCorner,2014,Head,4701,Burnley,West Ham,1,3,2014-10-18 15:00:00,George Boyd,Cross,4426
+21976,49,BlockedShot,0.875,0.425,0.018342100083827972,Michael Duff,h,4426,FromCorner,2014,Head,4473,Burnley,Leicester,0,1,2015-04-25 15:00:00,Kieran Trippier,Cross,4426

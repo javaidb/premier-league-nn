@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15067,87,BlockedShot,0.76,0.61,0.021758200600743294,Jozy Altidore,a,4493,OpenPlay,2014,RightFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,Emanuele Giaccherini,Pass,4493
+16139,74,SavedShot,0.9259999847412109,0.47099998474121096,0.05117040127515793,Jozy Altidore,h,4493,OpenPlay,2014,Head,4711,Sunderland,Arsenal,0,2,2014-10-25 15:00:00,Patrick van Aanholt,Aerial,4493
+16140,77,MissedShots,0.87,0.285,0.03312069922685623,Jozy Altidore,h,4493,OpenPlay,2014,RightFoot,4711,Sunderland,Arsenal,0,2,2014-10-25 15:00:00,Jordi Gómez,Chipped,4493
+18308,81,SavedShot,0.9130000305175782,0.62,0.11420699954032898,Jozy Altidore,h,4493,OpenPlay,2014,RightFoot,4686,Sunderland,Chelsea,0,0,2014-11-29 17:30:00,,TakeOn,4493
+18309,83,BlockedShot,0.855,0.3160000038146973,0.04725459963083267,Jozy Altidore,h,4493,OpenPlay,2014,RightFoot,4686,Sunderland,Chelsea,0,0,2014-11-29 17:30:00,Adam Johnson,Pass,4493
+18372,27,BlockedShot,0.845999984741211,0.325,0.06484930217266083,Jozy Altidore,h,4493,OpenPlay,2014,RightFoot,4613,Sunderland,West Ham,1,1,2014-12-13 15:00:00,Jordi Gómez,HeadPass,4493
+17991,64,BlockedShot,0.7559999847412109,0.43599998474121093,0.021796999499201775,Jozy Altidore,h,4493,OpenPlay,2014,RightFoot,4632,Sunderland,Hull,1,3,2014-12-26 15:00:00,Sebastian Larsson,Pass,4493

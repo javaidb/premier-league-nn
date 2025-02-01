@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+2537,Sandro Ramírez,8,278,0,0.48551070131361485,0,0.07334630191326141,9,1,0,0,F S,Everton,0,0.48551070131361485,0.9396238923072815,0.4639226049184799,2017

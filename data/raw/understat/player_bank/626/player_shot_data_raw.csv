@@ -1,0 +1,42 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15748,20,OwnGoal,0.09100000381469726,0.595999984741211,0,Eliaquim Mangala,a,626,OpenPlay,2014,Head,4744,Hull,Manchester City,2,4,2014-09-27 15:00:00,,Challenge,626
+16563,73,SavedShot,0.919000015258789,0.5279999923706055,0.09447050094604492,Eliaquim Mangala,a,626,FromCorner,2014,Head,4694,Aston Villa,Manchester City,0,2,2014-10-04 17:30:00,Aleksandar Kolarov,Cross,626
+16764,35,BlockedShot,0.894000015258789,0.39799999237060546,0.0197283998131752,Eliaquim Mangala,a,626,FromCorner,2014,Head,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Samir Nasri,Cross,626
+16767,40,MissedShots,0.919000015258789,0.43599998474121093,0.04353789985179901,Eliaquim Mangala,a,626,SetPiece,2014,Head,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Fernando,Aerial,626
+16787,81,MissedShots,0.9319999694824219,0.48200000762939454,0.14084599912166595,Eliaquim Mangala,a,626,FromCorner,2014,RightFoot,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Bacary Sagna,Rebound,626
+18175,54,MissedShots,0.9280000305175782,0.3340000152587891,0.012300300411880016,Eliaquim Mangala,a,626,FromCorner,2014,Head,4687,Southampton,Manchester City,0,3,2014-11-30 13:30:00,Samir Nasri,Aerial,626
+18637,50,MissedShots,0.9669999694824218,0.5709999847412109,0.058497801423072815,Eliaquim Mangala,h,626,FromCorner,2014,Head,4643,Manchester City,Burnley,2,2,2014-12-28 15:00:00,Samir Nasri,Aerial,626
+17799,29,MissedShots,0.9259999847412109,0.5459999847412109,0.1334719955921173,Eliaquim Mangala,a,626,SetPiece,2014,LeftFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,David Silva,Rebound,626
+24113,55,MissedShots,0.9430000305175781,0.48200000762939454,0.1285640001296997,Eliaquim Mangala,h,626,FromCorner,2014,Head,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,David Silva,Cross,626
+21789,39,BlockedShot,0.8680000305175781,0.4209999847412109,0.04474649950861931,Eliaquim Mangala,h,626,FromCorner,2014,RightFoot,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,Jesús Navas,Cross,626
+22642,50,BlockedShot,0.9219999694824219,0.504000015258789,0.057755500078201294,Eliaquim Mangala,h,626,FromCorner,2014,Head,4475,Manchester City,Aston Villa,3,2,2015-04-25 17:30:00,Frank Lampard,HeadPass,626
+21528,91,MissedShots,0.9059999847412109,0.40599998474121096,0.030508799478411674,Eliaquim Mangala,h,626,FromCorner,2014,Head,4416,Manchester City,Queens Park Rangers,6,0,2015-05-10 13:30:00,Jesús Navas,Cross,626
+21038,27,MissedShots,0.9009999847412109,0.5609999847412109,0.046243198215961456,Eliaquim Mangala,a,626,FromCorner,2014,Head,4426,Swansea,Manchester City,2,4,2015-05-17 13:30:00,Aleksandar Kolarov,Cross,626
+21047,46,SavedShot,0.909000015258789,0.54,0.02462170086801052,Eliaquim Mangala,a,626,FromCorner,2014,Head,4426,Swansea,Manchester City,2,4,2015-05-17 13:30:00,James Milner,Aerial,626
+21060,70,SavedShot,0.9209999847412109,0.45799999237060546,0.038213398307561874,Eliaquim Mangala,a,626,FromCorner,2014,Head,4426,Swansea,Manchester City,2,4,2015-05-17 13:30:00,James Milner,Aerial,626
+51807,43,MissedShots,0.9230000305175782,0.5279999923706055,0.35884299874305725,Eliaquim Mangala,h,626,SetPiece,2015,Head,99,Manchester City,Chelsea,3,0,2015-08-16 19:00:00,Aleksandar Kolarov,Cross,626
+57834,63,MissedShots,0.9009999847412109,0.44,0.01687679998576641,Eliaquim Mangala,a,626,FromCorner,2015,Head,123,Crystal Palace,Manchester City,0,1,2015-09-12 18:00:00,Samir Nasri,Aerial,626
+54046,6,OwnGoal,0.06300000190734863,0.44299999237060544,0,Eliaquim Mangala,h,626,OpenPlay,2015,LeftFoot,208,Manchester City,Liverpool,1,4,2015-11-21 21:30:00,,None,626
+54688,24,MissedShots,0.9330000305175781,0.5359999847412109,0.5477039813995361,Eliaquim Mangala,h,626,SetPiece,2015,OtherBodyPart,258,Manchester City,Sunderland,4,1,2015-12-26 19:00:00,Wilfried Bony,Rebound,626
+54695,41,SavedShot,0.9269999694824219,0.515,0.4493730068206787,Eliaquim Mangala,h,626,FromCorner,2015,OtherBodyPart,258,Manchester City,Sunderland,4,1,2015-12-26 19:00:00,Nicolás Otamendi,Rebound,626
+60718,23,MissedShots,0.9540000152587891,0.5790000152587891,0.09390120208263397,Eliaquim Mangala,h,626,FromCorner,2015,Head,400,Manchester City,West Bromwich Albion,2,1,2016-04-09 20:30:00,Samir Nasri,Cross,626
+56549,32,MissedShots,0.9569999694824218,0.5879999923706055,0.030932199209928513,Eliaquim Mangala,h,626,FromCorner,2015,Head,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Kevin De Bruyne,Aerial,626
+52185,46,MissedShots,0.955,0.43400001525878906,0.10300999879837036,Eliaquim Mangala,a,626,FromCorner,2015,Head,457,Swansea,Manchester City,1,1,2016-05-15 18:00:00,Kevin De Bruyne,Cross,626
+136123,57,ShotOnPost,0.904000015258789,0.47200000762939454,0.0435882993042469,Eliaquim Mangala,h,626,SetPiece,2016,Head,1828,Valencia,Alaves,2,1,2016-09-23 00:00:00,José Gayá,Aerial,626
+136593,88,SavedShot,0.9230000305175782,0.48700000762939455,0.35149499773979187,Eliaquim Mangala,h,626,OpenPlay,2016,Head,1844,Valencia,Atletico Madrid,0,2,2016-10-02 14:00:00,Zakaria Bakkali,Chipped,626
+137372,85,BlockedShot,0.9119999694824219,0.500999984741211,0.10954699665307999,Eliaquim Mangala,h,626,FromCorner,2016,RightFoot,1861,Valencia,Barcelona,2,3,2016-10-22 18:15:00,Ezequiel Garay,HeadPass,626
+136895,88,SavedShot,0.7430000305175781,0.524000015258789,0.021402399986982346,Eliaquim Mangala,a,626,OpenPlay,2016,LeftFoot,3317,Deportivo La Coruna,Valencia,1,1,2016-10-31 23:45:00,,Interception,626
+139654,78,SavedShot,0.9059999847412109,0.48700000762939455,0.2820740044116974,Eliaquim Mangala,a,626,OpenPlay,2016,Head,3923,Las Palmas,Valencia,3,1,2017-01-30 22:45:00,Daniel Parejo,Cross,626
+141091,28,Goal,0.9769999694824218,0.47200000762939454,0.8414989709854126,Eliaquim Mangala,h,626,FromCorner,2016,LeftFoot,3970,Valencia,Leganes,1,0,2017-02-28 20:30:00,,Rebound,626
+141090,28,SavedShot,0.9619999694824218,0.48700000762939455,0.25633400678634644,Eliaquim Mangala,h,626,FromCorner,2016,Head,3970,Valencia,Leganes,1,0,2017-02-28 20:30:00,Munir,BallTouch,626
+141017,28,Goal,0.9080000305175782,0.43099998474121093,0.06024929881095886,Eliaquim Mangala,a,626,FromCorner,2016,Head,4003,Barcelona,Valencia,4,2,2017-03-19 19:45:00,Daniel Parejo,Cross,626
+142123,86,BlockedShot,0.9469999694824218,0.47200000762939454,0.132751002907753,Eliaquim Mangala,a,626,SetPiece,2016,RightFoot,4050,Malaga,Valencia,2,0,2017-04-22 12:00:00,,Rebound,626
+142125,92,ShotOnPost,0.9369999694824219,0.45599998474121095,0.5373020172119141,Eliaquim Mangala,a,626,OpenPlay,2016,LeftFoot,4050,Malaga,Valencia,2,0,2017-04-22 12:00:00,Toni Lato,Pass,626
+160767,42,MissedShots,0.8909999847412109,0.5420000076293945,0.08104660362005234,Eliaquim Mangala,a,626,SetPiece,2017,LeftFoot,7235,Leicester,Manchester City,0,2,2017-11-18 15:00:00,Vincent Kompany,HeadPass,626
+193593,67,BlockedShot,0.87,0.5459999847412109,0.10094500333070755,Eliaquim Mangala,a,626,SetPiece,2017,RightFoot,7369,Arsenal,Everton,5,1,2018-02-03 17:30:00,Dominic Calvert-Lewin,Pass,626
+332171,8,MissedShots,0.9119999694824219,0.46099998474121096,0.07732369750738144,Eliaquim Mangala,a,626,FromCorner,2019,RightFoot,12153,Real Betis,Valencia,2,1,2019-11-23 15:00:00,Rodrigo,Cross,626
+391208,72,MissedShots,0.9180000305175782,0.44,0.23113000392913818,Eliaquim Mangala,a,626,SetPiece,2020,Head,14894,Eibar,Valencia,0,0,2020-12-07 20:00:00,Toni Lato,Cross,626
+396071,62,MissedShots,0.9130000305175782,0.5359999847412109,0.04377660155296326,Eliaquim Mangala,a,626,FromCorner,2020,Head,14931,Granada,Valencia,2,1,2020-12-30 16:00:00,Daniel Wass,Aerial,626
+475128,34,MissedShots,0.914000015258789,0.5270000076293946,0.12062200158834457,Eliaquim Mangala,a,626,SetPiece,2021,Head,18173,Nice,Saint-Etienne,4,2,2022-05-11 17:00:00,Denis Bouanga,Cross,626
+475984,11,Goal,0.899000015258789,0.4520000076293945,0.09342219680547714,Eliaquim Mangala,h,626,FromCorner,2021,LeftFoot,18184,Saint-Etienne,Reims,1,2,2022-05-14 19:00:00,,None,626
+477569,46,MissedShots,0.9209999847412109,0.5020000076293946,0.3406060039997101,Eliaquim Mangala,a,626,FromCorner,2021,Head,18196,Nantes,Saint-Etienne,1,1,2022-05-21 19:00:00,Zaydou Youssef,Cross,626

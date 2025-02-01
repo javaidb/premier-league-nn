@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+114867,93,BlockedShot,0.799000015258789,0.3729999923706055,0.03951200097799301,Grant Leadbitter,h,5542,OpenPlay,2016,RightFoot,2681,Middlesbrough,Bournemouth,2,0,2016-10-29 18:00:00,Jordan Rhodes,Pass,5542
+117593,44,MissedShots,0.745999984741211,0.4909999847412109,0.017583200708031654,Grant Leadbitter,a,5542,OpenPlay,2016,RightFoot,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,Adam Forshaw,Pass,5542
+117601,66,Goal,0.909000015258789,0.40700000762939453,0.3427720069885254,Grant Leadbitter,a,5542,OpenPlay,2016,RightFoot,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,Álvaro Negredo,HeadPass,5542
+117952,59,MissedShots,0.914000015258789,0.57,0.10649800300598145,Grant Leadbitter,a,5542,OpenPlay,2016,RightFoot,3341,Watford,Middlesbrough,0,0,2017-01-14 19:00:00,Cristhian Stuani,Cross,5542
+119681,38,BlockedShot,0.7040000152587891,0.62,0.013523099943995476,Grant Leadbitter,a,5542,OpenPlay,2016,RightFoot,3403,Stoke,Middlesbrough,2,0,2017-03-04 15:00:00,Adama Traoré,Pass,5542
+119687,65,SavedShot,0.9,0.48,0.07659859955310822,Grant Leadbitter,a,5542,OpenPlay,2016,RightFoot,3403,Stoke,Middlesbrough,2,0,2017-03-04 15:00:00,Rudy Gestede,HeadPass,5542
+120130,9,MissedShots,0.735,0.635,0.0132106002420187,Grant Leadbitter,h,5542,OpenPlay,2016,RightFoot,3425,Middlesbrough,Manchester United,1,3,2017-03-19 12:00:00,,None,5542
+120112,26,MissedShots,0.7719999694824219,0.255,0.012185500003397465,Grant Leadbitter,h,5542,OpenPlay,2016,RightFoot,3456,Middlesbrough,Burnley,0,0,2017-04-08 15:00:00,,None,5542
+121242,3,MissedShots,0.715,0.6120000076293945,0.016453299671411514,Grant Leadbitter,h,5542,SetPiece,2016,RightFoot,3461,Middlesbrough,Arsenal,1,2,2017-04-17 20:00:00,Gastón Ramírez,Pass,5542
+121245,24,MissedShots,0.7580000305175781,0.5379999923706055,0.021648600697517395,Grant Leadbitter,h,5542,SetPiece,2016,RightFoot,3461,Middlesbrough,Arsenal,1,2,2017-04-17 20:00:00,Adam Clayton,Pass,5542
+121249,43,BlockedShot,0.8,0.6880000305175781,0.0712272971868515,Grant Leadbitter,h,5542,DirectFreekick,2016,RightFoot,3461,Middlesbrough,Arsenal,1,2,2017-04-17 20:00:00,,Standard,5542
+121392,68,SavedShot,0.7440000152587891,0.25,0.009306609630584717,Grant Leadbitter,a,5542,OpenPlay,2016,RightFoot,3493,Chelsea,Middlesbrough,3,0,2017-05-08 20:00:00,Fabio,Pass,5542
+112504,17,BlockedShot,0.7219999694824218,0.575999984741211,0.015332999639213085,Grant Leadbitter,a,5542,OpenPlay,2016,RightFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,,BallTouch,5542

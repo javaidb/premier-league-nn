@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+112951,50,OwnGoal,0.01,0.525,0,Shay Given,a,889,SetPiece,2016,Head,487,Everton,Stoke,1,0,2016-08-27 18:00:00,,PenaltyFaced,889

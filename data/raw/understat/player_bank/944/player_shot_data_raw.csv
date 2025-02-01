@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14489,14,MissedShots,0.7290000152587891,0.6430000305175781,0.015638699755072594,Glen Johnson,h,944,OpenPlay,2014,LeftFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Lucas Leiva,Pass,944
+14493,27,MissedShots,0.7119999694824218,0.645,0.012612299993634224,Glen Johnson,h,944,FromCorner,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,,None,944
+16671,30,MissedShots,0.765,0.36,0.022512199357151985,Glen Johnson,a,944,OpenPlay,2014,LeftFoot,4706,Queens Park Rangers,Liverpool,2,3,2014-10-19 13:30:00,Raheem Sterling,Pass,944
+16680,54,BlockedShot,0.795,0.3840000152587891,0.023258499801158905,Glen Johnson,a,944,OpenPlay,2014,LeftFoot,4706,Queens Park Rangers,Liverpool,2,3,2014-10-19 13:30:00,Jordan Henderson,Chipped,944
+16164,72,BlockedShot,0.7380000305175781,0.32799999237060545,0.018039299175143242,Glen Johnson,a,944,OpenPlay,2014,LeftFoot,4649,Newcastle United,Liverpool,1,0,2014-11-01 12:45:00,Jordan Henderson,Pass,944
+17895,84,Goal,0.975999984741211,0.4879999923706055,0.8858460187911987,Glen Johnson,h,944,OpenPlay,2014,Head,4682,Liverpool,Stoke,1,0,2014-11-29 15:00:00,,Rebound,944
+18973,24,MissedShots,0.72,0.49599998474121093,0.01413660030812025,Glen Johnson,a,944,FromCorner,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,None,944
+20464,12,MissedShots,0.995,0.620999984741211,0.06074770167469978,Glen Johnson,a,944,OpenPlay,2014,RightFoot,4417,Chelsea,Liverpool,1,1,2015-05-10 16:00:00,Jordan Henderson,TakeOn,944
+51680,35,MissedShots,0.889000015258789,0.5279999923706055,0.11027000099420547,Glen Johnson,h,944,OpenPlay,2015,LeftFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,,Rebound,944
+57715,47,MissedShots,0.76,0.36900001525878906,0.01485770009458065,Glen Johnson,h,944,OpenPlay,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,Glenn Whelan,TakeOn,944
+58247,17,MissedShots,0.7659999847412109,0.3170000076293945,0.015716200694441795,Glen Johnson,h,944,OpenPlay,2015,LeftFoot,135,Stoke,Leicester,2,2,2015-09-19 18:00:00,Xherdan Shaqiri,TakeOn,944
+59085,34,MissedShots,0.9369999694824219,0.3039999961853027,0.12907999753952026,Glen Johnson,a,944,OpenPlay,2015,RightFoot,170,Swansea,Stoke,0,1,2015-10-19 23:00:00,Xherdan Shaqiri,Throughball,944
+52497,74,BlockedShot,0.8630000305175781,0.555,0.1013059988617897,Glen Johnson,a,944,OpenPlay,2015,LeftFoot,184,Newcastle United,Stoke,0,0,2015-10-31 19:00:00,Jonathan Walters,LayOff,944
+52506,16,SavedShot,0.86,0.42700000762939455,0.09652789682149887,Glen Johnson,h,944,OpenPlay,2015,LeftFoot,197,Stoke,Chelsea,1,0,2015-11-07 21:30:00,Bojan,Pass,944
+52518,63,MissedShots,0.7919999694824219,0.30100000381469727,0.02295750007033348,Glen Johnson,h,944,OpenPlay,2015,RightFoot,197,Stoke,Chelsea,1,0,2015-11-07 21:30:00,Xherdan Shaqiri,Pass,944
+52720,59,SavedShot,0.7169999694824218,0.47099998474121096,0.0148290004581213,Glen Johnson,a,944,OpenPlay,2015,LeftFoot,211,Sunderland,Stoke,2,0,2015-11-28 19:00:00,,GoodSkill,944
+52613,10,MissedShots,0.8219999694824218,0.455,0.03602629899978638,Glen Johnson,h,944,FromCorner,2015,RightFoot,243,Stoke,Crystal Palace,1,2,2015-12-19 19:00:00,Xherdan Shaqiri,Cross,944
+52625,49,SavedShot,0.81,0.3320000076293945,0.03298180177807808,Glen Johnson,h,944,OpenPlay,2015,LeftFoot,243,Stoke,Crystal Palace,1,2,2015-12-19 19:00:00,Marco van Ginkel,Pass,944
+52631,59,BlockedShot,0.7769999694824219,0.2989999961853027,0.019351499155163765,Glen Johnson,h,944,FromCorner,2015,LeftFoot,243,Stoke,Crystal Palace,1,2,2015-12-19 19:00:00,Xherdan Shaqiri,Pass,944
+52590,17,SavedShot,0.815,0.325,0.029691599309444427,Glen Johnson,a,944,OpenPlay,2015,LeftFoot,272,West Bromwich Albion,Stoke,2,1,2016-01-02 19:00:00,Ibrahim Afellay,Pass,944
+52592,25,BlockedShot,0.8109999847412109,0.46099998474121096,0.058337800204753876,Glen Johnson,a,944,OpenPlay,2015,LeftFoot,272,West Bromwich Albion,Stoke,2,1,2016-01-02 19:00:00,Geoff Cameron,Pass,944
+55139,21,BlockedShot,0.7580000305175781,0.34,0.022008299827575684,Glen Johnson,h,944,OpenPlay,2015,LeftFoot,285,Stoke,Norwich,3,1,2016-01-13 23:45:00,Glenn Whelan,Pass,944
+54990,16,BlockedShot,0.8590000152587891,0.48,0.07257319986820221,Glen Johnson,a,944,FromCorner,2015,RightFoot,317,Manchester United,Stoke,3,0,2016-02-03 00:00:00,Marko Arnautovic,LayOff,944
+55006,72,MissedShots,0.755,0.38799999237060545,0.018575599417090416,Glen Johnson,a,944,OpenPlay,2015,LeftFoot,317,Manchester United,Stoke,3,0,2016-02-03 00:00:00,,Dispossessed,944
+53434,65,SavedShot,0.7619999694824219,0.3129999923706055,0.013989400118589401,Glen Johnson,h,944,OpenPlay,2015,LeftFoot,323,Stoke,Everton,0,3,2016-02-06 19:00:00,Marko Arnautovic,Pass,944
+113477,62,SavedShot,0.7630000305175781,0.37599998474121094,0.022216999903321266,Glen Johnson,a,944,SetPiece,2016,LeftFoot,508,Crystal Palace,Stoke,4,1,2016-09-18 17:15:00,Glenn Whelan,Pass,944
+113868,24,BlockedShot,0.925,0.39799999237060546,0.33822301030158997,Glen Johnson,h,944,OpenPlay,2016,RightFoot,513,Stoke,West Bromwich Albion,1,1,2016-09-24 18:00:00,Wilfried Bony,HeadPass,944
+114382,81,SavedShot,0.805,0.3160000038146973,0.02000970020890236,Glen Johnson,a,944,OpenPlay,2016,LeftFoot,527,Manchester United,Stoke,1,1,2016-10-02 15:00:00,Xherdan Shaqiri,TakeOn,944
+115433,6,BlockedShot,0.7819999694824219,0.305,0.014230799861252308,Glen Johnson,a,944,SetPiece,2016,RightFoot,2713,Watford,Stoke,0,1,2016-11-27 16:00:00,,Rebound,944
+115815,78,BlockedShot,0.7480000305175781,0.385,0.013303100131452084,Glen Johnson,h,944,FromCorner,2016,RightFoot,3107,Stoke,Burnley,2,0,2016-12-03 19:00:00,,Aerial,944
+115702,24,BlockedShot,0.735,0.40400001525878904,0.02247910015285015,Glen Johnson,h,944,FromCorner,2016,RightFoot,3138,Stoke,Leicester,2,2,2016-12-17 19:00:00,Mame Biram Diouf,Pass,944
+115712,53,SavedShot,0.735999984741211,0.42200000762939455,0.014960000291466713,Glen Johnson,h,944,FromCorner,2016,LeftFoot,3138,Stoke,Leicester,2,2,2016-12-17 19:00:00,,None,944
+116681,48,BlockedShot,0.7219999694824218,0.455,0.01451869960874319,Glen Johnson,h,944,FromCorner,2016,RightFoot,3338,Stoke,Watford,2,0,2017-01-04 00:00:00,Marko Arnautovic,TakeOn,944
+201484,65,SavedShot,0.8480000305175781,0.4129999923706055,0.06182770058512688,Glen Johnson,h,944,OpenPlay,2017,RightFoot,7425,Stoke,Everton,1,2,2018-03-17 15:00:00,,None,944
+207056,67,BlockedShot,0.7769999694824219,0.4490000152587891,0.026360200718045235,Glen Johnson,h,944,SetPiece,2017,RightFoot,7446,Stoke,Tottenham,1,2,2018-04-07 14:00:00,Badou Ndiaye,Pass,944

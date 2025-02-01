@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+406136,20,MissedShots,0.904000015258789,0.549000015258789,0.21793200075626373,Chris Richards,h,8430,FromCorner,2020,Head,15330,Hoffenheim,Werder Bremen,4,0,2021-02-21 17:00:00,Florian Grillitsch,Cross,8430
+435928,82,BlockedShot,0.9330000305175781,0.5540000152587891,0.04995580017566681,Chris Richards,h,8430,FromCorner,2021,Head,17581,Hoffenheim,FC Cologne,5,0,2021-10-15 18:30:00,Robert Skov,Aerial,8430
+442480,88,MissedShots,0.9590000152587891,0.4620000076293945,0.08699499815702438,Chris Richards,h,8430,FromCorner,2021,Head,17618,Hoffenheim,RasenBallsport Leipzig,2,0,2021-11-20 14:30:00,David Raum,Aerial,8430
+447648,93,Goal,0.935,0.5320000076293945,0.39383500814437866,Chris Richards,a,8430,FromCorner,2021,Head,17646,Freiburg,Hoffenheim,1,2,2021-12-11 14:30:00,David Raum,Cross,8430
+449001,34,ShotOnPost,0.9309999847412109,0.47900001525878905,0.12014800310134888,Chris Richards,a,8430,FromCorner,2021,Head,17657,Bayer Leverkusen,Hoffenheim,2,2,2021-12-15 19:30:00,David Raum,Cross,8430
+452101,8,MissedShots,0.9,0.5129999923706055,0.2823300063610077,Chris Richards,h,8430,FromCorner,2021,RightFoot,17672,Hoffenheim,Augsburg,3,1,2022-01-08 14:30:00,Pavel Kaderábek,BallTouch,8430
+452100,8,MissedShots,0.875999984741211,0.5129999923706055,0.08098030090332031,Chris Richards,h,8430,FromCorner,2021,RightFoot,17672,Hoffenheim,Augsburg,3,1,2022-01-08 14:30:00,Ihlas Bebou,None,8430
+453199,25,BlockedShot,0.9440000152587891,0.5,0.13604600727558136,Chris Richards,a,8430,FromCorner,2021,LeftFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,Dennis Geiger,Cross,8430
+454551,22,ShotOnPost,0.9580000305175781,0.45099998474121095,0.12607599794864655,Chris Richards,h,8430,FromCorner,2021,Head,17690,Hoffenheim,Borussia Dortmund,2,3,2022-01-22 14:30:00,Andrej Kramaric,Cross,8430
+454554,41,BlockedShot,0.8719999694824219,0.5070000076293946,0.04263800010085106,Chris Richards,h,8430,OpenPlay,2021,Head,17690,Hoffenheim,Borussia Dortmund,2,3,2022-01-22 14:30:00,David Raum,Cross,8430
+481454,93,MissedShots,0.9059999847412109,0.544000015258789,0.06319600343704224,Chris Richards,a,8430,FromCorner,2022,Head,18221,Liverpool,Crystal Palace,1,1,2022-08-15 19:00:00,Michael Olise,Cross,8430
+504337,50,BlockedShot,0.8930000305175781,0.41900001525878905,0.01325950026512146,Chris Richards,h,8430,FromCorner,2022,Head,18270,Crystal Palace,Manchester United,1,1,2023-01-18 15:30:00,Michael Olise,Aerial,8430
+504758,45,MissedShots,0.92,0.5379999923706055,0.0902915969491005,Chris Richards,h,8430,FromCorner,2022,Head,18404,Crystal Palace,Newcastle United,0,0,2023-01-21 17:30:00,Eberechi Eze,Cross,8430
+507137,38,MissedShots,0.9640000152587891,0.4909999847412109,0.5255380272865295,Chris Richards,a,8430,FromCorner,2022,Head,18417,Manchester United,Crystal Palace,2,1,2023-02-04 15:00:00,Michael Olise,Cross,8430
+558857,90,MissedShots,0.9330000305175781,0.57,0.03290542960166931,Chris Richards,a,8430,FromCorner,2023,Head,22103,Arsenal,Crystal Palace,5,0,2024-01-20 12:30:00,Eberechi Eze,Aerial,8430
+563420,11,MissedShots,0.904000015258789,0.5520000076293945,0.08797310292720795,Chris Richards,h,8430,SetPiece,2023,Head,22126,Crystal Palace,Chelsea,1,3,2024-02-12 20:00:00,Will Hughes,Cross,8430
+564759,37,BlockedShot,0.9019999694824219,0.5379999923706055,0.02231566607952118,Chris Richards,a,8430,FromCorner,2023,Head,22137,Everton,Crystal Palace,1,1,2024-02-19 20:00:00,Tyrick Mitchell,Aerial,8430
+564765,57,MissedShots,0.9230000305175782,0.6079999923706054,0.03328724205493927,Chris Richards,a,8430,FromCorner,2023,Head,22137,Everton,Crystal Palace,1,1,2024-02-19 20:00:00,Adam Wharton,Cross,8430
+564774,76,BlockedShot,0.904000015258789,0.53,0.02285982295870781,Chris Richards,a,8430,FromCorner,2023,Head,22137,Everton,Crystal Palace,1,1,2024-02-19 20:00:00,Adam Wharton,Aerial,8430
+565221,67,Goal,0.9290000152587891,0.5709999847412109,0.21445493400096893,Chris Richards,h,8430,FromCorner,2023,Head,22150,Crystal Palace,Burnley,3,0,2024-02-24 15:00:00,Jordan Ayew,Cross,8430
+576284,91,SavedShot,0.8930000305175781,0.5640000152587891,0.036514151841402054,Chris Richards,h,8430,FromCorner,2023,Head,22178,Crystal Palace,Newcastle United,2,0,2024-04-24 19:00:00,Michael Olise,Cross,8430
+576753,14,MissedShots,0.924000015258789,0.44799999237060545,0.05405953899025917,Chris Richards,a,8430,SetPiece,2023,Head,22238,Fulham,Crystal Palace,1,1,2024-04-27 14:00:00,Michael Olise,Aerial,8430
+579448,81,SavedShot,0.860999984741211,0.46,0.026156194508075714,Chris Richards,h,8430,FromCorner,2023,Head,22250,Crystal Palace,Manchester United,4,0,2024-05-06 19:00:00,Eberechi Eze,Cross,8430
+579450,90,MissedShots,0.95,0.5940000152587891,0.06461131572723389,Chris Richards,h,8430,FromCorner,2023,Head,22250,Crystal Palace,Manchester United,4,0,2024-05-06 19:00:00,Jordan Ayew,Cross,8430
+579853,40,MissedShots,0.92,0.5159999847412109,0.04446686804294586,Chris Richards,a,8430,FromCorner,2023,Head,22264,Wolverhampton Wanderers,Crystal Palace,1,3,2024-05-11 14:00:00,,Rebound,8430
+586057,65,MissedShots,0.93,0.49700000762939456,0.13703089952468872,Chris Richards,h,8430,SetPiece,2024,Head,26613,Crystal Palace,West Ham,0,2,2024-08-24 14:00:00,Eberechi Eze,Cross,8430
+609916,55,SavedShot,0.9030000305175782,0.5479999923706055,0.03387532755732536,Chris Richards,h,8430,SetPiece,2024,Head,26795,Crystal Palace,Chelsea,1,1,2025-01-04 15:00:00,Eberechi Eze,Aerial,8430
+612306,24,SavedShot,0.8830000305175781,0.5320000076293945,0.01769328862428665,Chris Richards,a,8430,SetPiece,2024,Head,26821,West Ham,Crystal Palace,0,2,2025-01-18 15:00:00,Eberechi Eze,Aerial,8430
+613764,58,SavedShot,0.8419999694824218,0.5179999923706055,0.01950410008430481,Chris Richards,h,8430,SetPiece,2024,Head,26825,Crystal Palace,Brentford,1,2,2025-01-26 14:00:00,Eberechi Eze,Cross,8430

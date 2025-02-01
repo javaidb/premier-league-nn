@@ -1,0 +1,259 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14558,16,BlockedShot,0.845,0.6880000305175781,0.04230780154466629,Charlie Austin,h,848,FromCorner,2014,RightFoot,4751,Queens Park Rangers,Hull,0,1,2014-08-16 15:00:00,Richard Dunne,Pass,848
+14564,42,BlockedShot,0.8819999694824219,0.655,0.06507989764213562,Charlie Austin,h,848,OpenPlay,2014,LeftFoot,4751,Queens Park Rangers,Hull,0,1,2014-08-16 15:00:00,,BallRecovery,848
+14575,84,SavedShot,0.885,0.5,0.7611690163612366,Charlie Austin,h,848,Penalty,2014,RightFoot,4751,Queens Park Rangers,Hull,0,1,2014-08-16 15:00:00,,Standard,848
+14577,85,BlockedShot,0.7819999694824219,0.7580000305175781,0.017061099410057068,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4751,Queens Park Rangers,Hull,0,1,2014-08-16 15:00:00,Junior Hoilett,Pass,848
+14578,86,BlockedShot,0.8019999694824219,0.6079999923706054,0.028657300397753716,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4751,Queens Park Rangers,Hull,0,1,2014-08-16 15:00:00,Joey Barton,Chipped,848
+15037,2,BlockedShot,0.9319999694824219,0.47200000762939454,0.11478299647569656,Charlie Austin,h,848,FromCorner,2014,Head,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,Joey Barton,Cross,848
+15043,29,BlockedShot,0.7959999847412109,0.6719999694824219,0.028211399912834167,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,Junior Hoilett,Pass,848
+15051,42,BlockedShot,0.8159999847412109,0.5590000152587891,0.08934620022773743,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,,None,848
+15052,46,Goal,0.9169999694824219,0.48,0.41176000237464905,Charlie Austin,h,848,FromCorner,2014,LeftFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,Leroy Fer,HeadPass,848
+15306,46,BlockedShot,0.785,0.5559999847412109,0.03388189896941185,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4727,Manchester United,Queens Park Rangers,4,0,2014-09-14 16:00:00,Steven Caulker,Pass,848
+15594,17,MissedShots,0.740999984741211,0.40799999237060547,0.01548049971461296,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,Steven Caulker,BallRecovery,848
+15595,26,BlockedShot,0.8919999694824219,0.3840000152587891,0.046505898237228394,Charlie Austin,h,848,FromCorner,2014,RightFoot,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,Leroy Fer,HeadPass,848
+15605,56,MissedShots,0.750999984741211,0.48,0.022686000913381577,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,Leroy Fer,Pass,848
+15615,90,BlockedShot,0.7719999694824219,0.715,0.03624830022454262,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,Leroy Fer,Pass,848
+15839,50,MissedShots,0.895,0.34200000762939453,0.08309780061244965,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4741,Southampton,Queens Park Rangers,2,1,2014-09-27 15:00:00,Eduardo Vargas,Pass,848
+15848,65,Goal,0.8780000305175781,0.48200000762939454,0.09757310152053833,Charlie Austin,a,848,OpenPlay,2014,LeftFoot,4741,Southampton,Queens Park Rangers,2,1,2014-09-27 15:00:00,Eduardo Vargas,Pass,848
+15851,72,MissedShots,0.915,0.47400001525878904,0.09370789676904678,Charlie Austin,a,848,OpenPlay,2014,Head,4741,Southampton,Queens Park Rangers,2,1,2014-09-27 15:00:00,Leroy Fer,Cross,848
+17742,23,SavedShot,0.874000015258789,0.705,0.04855230078101158,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Armand Traore,TakeOn,848
+17746,46,MissedShots,0.914000015258789,0.49700000762939456,0.4037509858608246,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Bobby Zamora,Cross,848
+16665,1,MissedShots,0.8219999694824218,0.4370000076293945,0.07029200345277786,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4706,Queens Park Rangers,Liverpool,2,3,2014-10-19 13:30:00,Bobby Zamora,LayOff,848
+16667,8,MissedShots,0.9780000305175781,0.6,0.3300260007381439,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4706,Queens Park Rangers,Liverpool,2,3,2014-10-19 13:30:00,,Rebound,848
+16666,8,SavedShot,0.9169999694824219,0.5659999847412109,0.34358200430870056,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4706,Queens Park Rangers,Liverpool,2,3,2014-10-19 13:30:00,Leroy Fer,Dispossessed,848
+16681,54,MissedShots,0.96,0.34700000762939454,0.060460999608039856,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4706,Queens Park Rangers,Liverpool,2,3,2014-10-19 13:30:00,Karl Henry,Chipped,848
+16687,74,SavedShot,0.815,0.5520000076293945,0.03988020122051239,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4706,Queens Park Rangers,Liverpool,2,3,2014-10-19 13:30:00,Bobby Zamora,Pass,848
+17593,16,Goal,0.784000015258789,0.5279999923706055,0.05033859983086586,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Bobby Zamora,LayOff,848
+17606,68,Goal,0.9380000305175781,0.455,0.13522900640964508,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Eduardo Vargas,Cross,848
+17609,77,BlockedShot,0.8730000305175781,0.629000015258789,0.07568159699440002,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,,None,848
+17021,14,BlockedShot,0.9369999694824219,0.4779999923706055,0.0868292972445488,Charlie Austin,a,848,OpenPlay,2014,Head,4653,Chelsea,Queens Park Rangers,2,1,2014-11-01 15:00:00,Junior Hoilett,Aerial,848
+17032,61,Goal,0.9159999847412109,0.48200000762939454,0.14925499260425568,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4653,Chelsea,Queens Park Rangers,2,1,2014-11-01 15:00:00,Leroy Fer,Rebound,848
+17037,73,MissedShots,0.8169999694824219,0.5309999847412109,0.09404589980840683,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4653,Chelsea,Queens Park Rangers,2,1,2014-11-01 15:00:00,Bobby Zamora,Pass,848
+17039,77,BlockedShot,0.8680000305175781,0.605999984741211,0.058046601712703705,Charlie Austin,a,848,OpenPlay,2014,LeftFoot,4653,Chelsea,Queens Park Rangers,2,1,2014-11-01 15:00:00,,None,848
+16756,14,SavedShot,0.875,0.505,0.3035550117492676,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Bobby Zamora,LayOff,848
+16758,20,Goal,0.8930000305175781,0.41200000762939454,0.36656901240348816,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Mauricio Isla,Throughball,848
+16768,43,SavedShot,0.8630000305175781,0.34200000762939453,0.05156189948320389,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,,None,848
+16789,88,MissedShots,0.865999984741211,0.45599998474121095,0.017901500687003136,Charlie Austin,h,848,FromCorner,2014,Head,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Eduardo Vargas,Cross,848
+17071,12,MissedShots,0.8209999847412109,0.20200000762939452,0.015450100414454937,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4670,Newcastle United,Queens Park Rangers,1,0,2014-11-22 15:00:00,,BallRecovery,848
+17074,23,MissedShots,0.9019999694824219,0.5570000076293945,0.07624240219593048,Charlie Austin,a,848,OpenPlay,2014,Head,4670,Newcastle United,Queens Park Rangers,1,0,2014-11-22 15:00:00,Yun Suk-Young,Cross,848
+17079,41,SavedShot,0.7919999694824219,0.625999984741211,0.032068099826574326,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4670,Newcastle United,Queens Park Rangers,1,0,2014-11-22 15:00:00,Leroy Fer,Pass,848
+17081,43,BlockedShot,0.6990000152587891,0.585,0.014364300295710564,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4670,Newcastle United,Queens Park Rangers,1,0,2014-11-22 15:00:00,Bobby Zamora,Pass,848
+17084,48,SavedShot,0.8780000305175781,0.6120000076293945,0.08131919801235199,Charlie Austin,a,848,OpenPlay,2014,LeftFoot,4670,Newcastle United,Queens Park Rangers,1,0,2014-11-22 15:00:00,Joey Barton,LayOff,848
+17090,72,SavedShot,0.909000015258789,0.59,0.02794729918241501,Charlie Austin,a,848,OpenPlay,2014,Head,4670,Newcastle United,Queens Park Rangers,1,0,2014-11-22 15:00:00,Nedum Onuoha,Aerial,848
+18063,27,BlockedShot,0.899000015258789,0.53,0.11891300231218338,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,Leroy Fer,Pass,848
+18074,44,SavedShot,0.9359999847412109,0.53,0.4194819927215576,Charlie Austin,h,848,OpenPlay,2014,Head,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,Joey Barton,Cross,848
+18081,54,BlockedShot,0.8519999694824218,0.75,0.036906201392412186,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,,None,848
+18083,57,SavedShot,0.8109999847412109,0.31,0.051494400948286057,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,Niko Kranjcar,LayOff,848
+18095,72,Goal,0.9490000152587891,0.48200000762939454,0.42920100688934326,Charlie Austin,h,848,FromCorner,2014,Head,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,,Rebound,848
+19205,69,MissedShots,0.7909999847412109,0.7290000152587891,0.02052449993789196,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4592,Swansea,Queens Park Rangers,2,0,2014-12-02 19:45:00,Robert Green,Pass,848
+20119,73,Goal,0.9019999694824219,0.485,0.44622498750686646,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4600,Queens Park Rangers,Burnley,2,0,2014-12-06 15:00:00,Mauricio Isla,Pass,848
+19158,23,Goal,0.885,0.5,0.7611690163612366,Charlie Austin,h,848,Penalty,2014,RightFoot,4622,Queens Park Rangers,West Bromwich Albion,3,2,2014-12-20 15:00:00,,Standard,848
+19159,29,SavedShot,0.7380000305175781,0.36700000762939455,0.018350999802350998,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4622,Queens Park Rangers,West Bromwich Albion,3,2,2014-12-20 15:00:00,Bobby Zamora,LayOff,848
+19162,42,MissedShots,0.7919999694824219,0.6120000076293945,0.028284000232815742,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4622,Queens Park Rangers,West Bromwich Albion,3,2,2014-12-20 15:00:00,,BallTouch,848
+19164,46,SavedShot,0.8880000305175781,0.4759999847412109,0.056955598294734955,Charlie Austin,h,848,SetPiece,2014,RightFoot,4622,Queens Park Rangers,West Bromwich Albion,3,2,2014-12-20 15:00:00,Eduardo Vargas,Aerial,848
+19166,47,BlockedShot,0.845,0.46599998474121096,0.07873480021953583,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4622,Queens Park Rangers,West Bromwich Albion,3,2,2014-12-20 15:00:00,Eduardo Vargas,Pass,848
+19169,47,Goal,0.9819999694824219,0.504000015258789,0.9345999956130981,Charlie Austin,h,848,FromCorner,2014,RightFoot,4622,Queens Park Rangers,West Bromwich Albion,3,2,2014-12-20 15:00:00,Bobby Zamora,Rebound,848
+19171,58,BlockedShot,0.7969999694824219,0.700999984741211,0.02294740080833435,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4622,Queens Park Rangers,West Bromwich Albion,3,2,2014-12-20 15:00:00,Clint Hill,Pass,848
+19175,70,BlockedShot,0.7819999694824219,0.49900001525878906,0.03810510039329529,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4622,Queens Park Rangers,West Bromwich Albion,3,2,2014-12-20 15:00:00,,Dispossessed,848
+19178,78,SavedShot,0.9019999694824219,0.4640000152587891,0.4234279990196228,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4622,Queens Park Rangers,West Bromwich Albion,3,2,2014-12-20 15:00:00,Junior Hoilett,Throughball,848
+19184,85,Goal,0.9290000152587891,0.46799999237060547,0.353875994682312,Charlie Austin,h,848,FromCorner,2014,Head,4622,Queens Park Rangers,West Bromwich Albion,3,2,2014-12-20 15:00:00,Joey Barton,Cross,848
+19696,41,BlockedShot,0.7619999694824219,0.24899999618530275,0.016579600051045418,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Eduardo Vargas,Pass,848
+19697,48,BlockedShot,0.7669999694824219,0.7319999694824219,0.017832599580287933,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Jordon Mutch,Pass,848
+19701,65,BlockedShot,0.8769999694824219,0.7140000152587891,0.05114100128412247,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Steven Caulker,Pass,848
+19710,78,Goal,0.885,0.5,0.761132001876831,Charlie Austin,a,848,Penalty,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,,Standard,848
+18808,5,BlockedShot,0.785,0.4929999923706055,0.037621401250362396,Charlie Austin,h,848,SetPiece,2014,RightFoot,4641,Queens Park Rangers,Crystal Palace,0,0,2014-12-28 15:00:00,Joey Barton,Chipped,848
+18810,14,SavedShot,0.7969999694824219,0.6959999847412109,0.020236600190401077,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4641,Queens Park Rangers,Crystal Palace,0,0,2014-12-28 15:00:00,,None,848
+18814,40,BlockedShot,0.889000015258789,0.4370000076293945,0.03114279918372631,Charlie Austin,h,848,FromCorner,2014,Head,4641,Queens Park Rangers,Crystal Palace,0,0,2014-12-28 15:00:00,Joey Barton,Cross,848
+18824,68,BlockedShot,0.9290000152587891,0.5940000152587891,0.0503091998398304,Charlie Austin,h,848,FromCorner,2014,Head,4641,Queens Park Rangers,Crystal Palace,0,0,2014-12-28 15:00:00,Joey Barton,Cross,848
+19821,14,BlockedShot,0.899000015258789,0.595999984741211,0.08883950114250183,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,Rebound,848
+19823,16,BlockedShot,0.91,0.48900001525878906,0.29561498761177063,Charlie Austin,h,848,FromCorner,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Joey Barton,Cross,848
+19839,49,ShotOnPost,0.9330000305175781,0.3940000152587891,0.2065269947052002,Charlie Austin,h,848,OpenPlay,2014,Head,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Clint Hill,Cross,848
+19848,67,SavedShot,0.7709999847412109,0.30200000762939455,0.032626599073410034,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Bobby Zamora,LayOff,848
+19863,93,BlockedShot,0.9640000152587891,0.565,0.15122100710868835,Charlie Austin,h,848,OpenPlay,2014,LeftFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,Rebound,848
+19862,93,BlockedShot,0.9419999694824219,0.5709999847412109,0.34906700253486633,Charlie Austin,h,848,OpenPlay,2014,Head,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Mauricio Isla,Cross,848
+19865,93,SavedShot,0.9690000152587891,0.5640000152587891,0.5935829877853394,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,Rebound,848
+17442,32,Goal,0.885,0.5,0.7611690163612366,Charlie Austin,a,848,Penalty,2014,RightFoot,4564,Burnley,Queens Park Rangers,2,1,2015-01-10 15:00:00,,Standard,848
+17458,76,BlockedShot,0.79,0.4470000076293945,0.034085601568222046,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4564,Burnley,Queens Park Rangers,2,1,2015-01-10 15:00:00,Leroy Fer,Pass,848
+17461,79,SavedShot,0.7430000305175781,0.48200000762939454,0.021127300336956978,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4564,Burnley,Queens Park Rangers,2,1,2015-01-10 15:00:00,,TakeOn,848
+17469,92,BlockedShot,0.865,0.4329999923706055,0.03074689954519272,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4564,Burnley,Queens Park Rangers,2,1,2015-01-10 15:00:00,,Aerial,848
+19032,19,SavedShot,0.855999984741211,0.33,0.04566720128059387,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4574,Queens Park Rangers,Manchester United,0,2,2015-01-17 15:00:00,Bobby Zamora,Chipped,848
+19034,22,BlockedShot,0.8490000152587891,0.66,0.0553026981651783,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4574,Queens Park Rangers,Manchester United,0,2,2015-01-17 15:00:00,Leroy Fer,Pass,848
+19035,30,SavedShot,0.749000015258789,0.5770000076293945,0.04748539999127388,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4574,Queens Park Rangers,Manchester United,0,2,2015-01-17 15:00:00,Joey Barton,BallRecovery,848
+19045,72,MissedShots,0.8590000152587891,0.715,0.032340001314878464,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4574,Queens Park Rangers,Manchester United,0,2,2015-01-17 15:00:00,Adel Taarabt,Pass,848
+19049,85,MissedShots,0.9169999694824219,0.305,0.05772490054368973,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4574,Queens Park Rangers,Manchester United,0,2,2015-01-17 15:00:00,Adel Taarabt,Pass,848
+19054,90,MissedShots,0.9180000305175782,0.47700000762939454,0.09449160099029541,Charlie Austin,h,848,FromCorner,2014,Head,4574,Queens Park Rangers,Manchester United,0,2,2015-01-17 15:00:00,Joey Barton,Cross,848
+23672,35,BlockedShot,0.8969999694824219,0.48200000762939454,0.3623569905757904,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4584,Stoke,Queens Park Rangers,3,1,2015-01-31 15:00:00,Joey Barton,Pass,848
+23427,72,SavedShot,0.9230000305175782,0.48700000762939455,0.5213599801063538,Charlie Austin,h,848,FromCorner,2014,RightFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Joey Barton,None,848
+24010,27,BlockedShot,0.8780000305175781,0.3659999847412109,0.03971229866147041,Charlie Austin,a,848,FromCorner,2014,RightFoot,4540,Hull,Queens Park Rangers,2,1,2015-02-21 15:00:00,Matt Phillips,Cross,848
+24014,38,Goal,0.935,0.4640000152587891,0.05940689891576767,Charlie Austin,a,848,OpenPlay,2014,Head,4540,Hull,Queens Park Rangers,2,1,2015-02-21 15:00:00,Matt Phillips,Aerial,848
+24017,47,MissedShots,0.7290000152587891,0.5559999847412109,0.014280200004577637,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4540,Hull,Queens Park Rangers,2,1,2015-02-21 15:00:00,,None,848
+24020,61,BlockedShot,0.8009999847412109,0.6909999847412109,0.02403849922120571,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4540,Hull,Queens Park Rangers,2,1,2015-02-21 15:00:00,Matt Phillips,TakeOn,848
+24222,4,BlockedShot,0.8419999694824218,0.700999984741211,0.03942599892616272,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4490,Queens Park Rangers,Arsenal,1,2,2015-03-04 19:45:00,Junior Hoilett,TakeOn,848
+24223,11,SavedShot,0.749000015258789,0.2560000038146973,0.012279300019145012,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4490,Queens Park Rangers,Arsenal,1,2,2015-03-04 19:45:00,,Dispossessed,848
+24226,22,SavedShot,0.7630000305175781,0.5259999847412109,0.018669700250029564,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4490,Queens Park Rangers,Arsenal,1,2,2015-03-04 19:45:00,Bobby Zamora,HeadPass,848
+24231,36,MissedShots,0.7419999694824219,0.6079999923706054,0.015857599675655365,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4490,Queens Park Rangers,Arsenal,1,2,2015-03-04 19:45:00,Bobby Zamora,HeadPass,848
+24240,58,BlockedShot,0.775,0.5309999847412109,0.03171909973025322,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4490,Queens Park Rangers,Arsenal,1,2,2015-03-04 19:45:00,Niko Kranjcar,Pass,848
+24251,81,Goal,0.825999984741211,0.4229999923706055,0.024773599579930305,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4490,Queens Park Rangers,Arsenal,1,2,2015-03-04 19:45:00,Matt Phillips,Cross,848
+23635,0,BlockedShot,0.8869999694824219,0.38,0.09672659635543823,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,Mauricio Isla,Pass,848
+23637,5,BlockedShot,0.7669999694824219,0.54,0.02804199978709221,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,Bobby Zamora,Pass,848
+23639,18,SavedShot,0.9259999847412109,0.585,0.43547898530960083,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,,None,848
+23641,22,BlockedShot,0.7619999694824219,0.5929999923706055,0.02387150004506111,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,Bobby Zamora,Pass,848
+23643,28,ShotOnPost,0.875999984741211,0.54,0.35315001010894775,Charlie Austin,h,848,OpenPlay,2014,LeftFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,Matt Phillips,Pass,848
+23648,46,SavedShot,0.9030000305175782,0.28100000381469725,0.032912399619817734,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,Nedum Onuoha,Pass,848
+23660,76,BlockedShot,0.9359999847412109,0.485,0.11001700162887573,Charlie Austin,h,848,SetPiece,2014,RightFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,Steven Caulker,HeadPass,848
+23661,83,BlockedShot,0.8180000305175781,0.48,0.052458301186561584,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,Nedum Onuoha,Chipped,848
+23663,84,BlockedShot,0.8619999694824219,0.7440000152587891,0.02650880068540573,Charlie Austin,h,848,OpenPlay,2014,LeftFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,Bobby Zamora,Pass,848
+22589,23,MissedShots,0.7559999847412109,0.6930000305175781,0.014516799710690975,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4493,Crystal Palace,Queens Park Rangers,3,1,2015-03-14 12:45:00,Matt Phillips,None,848
+22598,71,SavedShot,0.9219999694824219,0.4779999923706055,0.050892699509859085,Charlie Austin,a,848,FromCorner,2014,Head,4493,Crystal Palace,Queens Park Rangers,3,1,2015-03-14 12:45:00,Adel Taarabt,Aerial,848
+22601,74,SavedShot,0.8719999694824219,0.2929999923706055,0.03254830092191696,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4493,Crystal Palace,Queens Park Rangers,3,1,2015-03-14 12:45:00,Sandro,Chipped,848
+22242,25,BlockedShot,0.8130000305175781,0.35200000762939454,0.03533260151743889,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4512,Queens Park Rangers,Everton,1,2,2015-03-22 16:00:00,Matt Phillips,Pass,848
+22253,74,MissedShots,0.7930000305175782,0.5420000076293945,0.0636947974562645,Charlie Austin,h,848,OpenPlay,2014,LeftFoot,4512,Queens Park Rangers,Everton,1,2,2015-03-22 16:00:00,Bobby Zamora,LayOff,848
+22256,87,BlockedShot,0.8119999694824219,0.49599998474121093,0.05651099979877472,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4512,Queens Park Rangers,Everton,1,2,2015-03-22 16:00:00,Joey Barton,Pass,848
+22722,36,Goal,0.9640000152587891,0.580999984741211,0.2554129958152771,Charlie Austin,a,848,FromCorner,2014,Head,4445,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04 15:00:00,Niko Kranjcar,Rebound,848
+22730,55,SavedShot,0.855999984741211,0.5070000076293946,0.10477100312709808,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4445,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04 15:00:00,Bobby Zamora,Cross,848
+22282,63,SavedShot,0.8590000152587891,0.7280000305175781,0.03504189848899841,Charlie Austin,a,848,OpenPlay,2014,LeftFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Bobby Zamora,LayOff,848
+22284,71,MissedShots,0.7919999694824219,0.3609999847412109,0.028841199353337288,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Armand Traore,Pass,848
+22285,73,BlockedShot,0.769000015258789,0.445,0.02939710021018982,Charlie Austin,a,848,OpenPlay,2014,LeftFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Bobby Zamora,Pass,848
+22286,77,Goal,0.899000015258789,0.47400001525878904,0.4329819977283478,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Matt Phillips,Pass,848
+20561,4,MissedShots,0.7609999847412109,0.6,0.02430880069732666,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4458,Queens Park Rangers,Chelsea,0,1,2015-04-12 13:30:00,Bobby Zamora,Pass,848
+20564,36,BlockedShot,0.779000015258789,0.5029999923706054,0.037393201142549515,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4458,Queens Park Rangers,Chelsea,0,1,2015-04-12 13:30:00,Bobby Zamora,LayOff,848
+20566,43,SavedShot,0.7390000152587891,0.47200000762939454,0.015774300321936607,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4458,Queens Park Rangers,Chelsea,0,1,2015-04-12 13:30:00,Bobby Zamora,HeadPass,848
+20581,81,SavedShot,0.9059999847412109,0.555,0.11286900192499161,Charlie Austin,h,848,FromCorner,2014,LeftFoot,4458,Queens Park Rangers,Chelsea,0,1,2015-04-12 13:30:00,,Rebound,848
+20580,81,BlockedShot,0.8969999694824219,0.5509999847412109,0.09298259764909744,Charlie Austin,h,848,FromCorner,2014,RightFoot,4458,Queens Park Rangers,Chelsea,0,1,2015-04-12 13:30:00,,None,848
+22899,22,SavedShot,0.885,0.5,0.7611690163612366,Charlie Austin,h,848,Penalty,2014,RightFoot,4469,Queens Park Rangers,West Ham,0,0,2015-04-25 15:00:00,,Standard,848
+21353,34,MissedShots,0.7859999847412109,0.4929999923706055,0.03788420185446739,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,Leroy Fer,Pass,848
+20410,51,MissedShots,0.965999984741211,0.3990000152587891,0.07877969741821289,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4420,Queens Park Rangers,Newcastle United,2,1,2015-05-16 15:00:00,,None,848
+20414,59,SavedShot,0.8180000305175781,0.720999984741211,0.024707799777388573,Charlie Austin,h,848,OpenPlay,2014,RightFoot,4420,Queens Park Rangers,Newcastle United,2,1,2015-05-16 15:00:00,Matt Phillips,Pass,848
+22950,17,BlockedShot,0.745,0.38799999237060545,0.016105400398373604,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,None,848
+22954,26,BlockedShot,0.7709999847412109,0.66,0.02060619927942753,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Joey Barton,Pass,848
+22957,33,BlockedShot,0.779000015258789,0.5790000152587891,0.04004880040884018,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Leroy Fer,LayOff,848
+22963,45,SavedShot,0.674000015258789,0.6,0.006490080151706934,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Leroy Fer,TakeOn,848
+22967,48,BlockedShot,0.7959999847412109,0.4929999923706055,0.05139090120792389,Charlie Austin,a,848,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Leroy Fer,Pass,848
+22972,56,Goal,0.8859999847412109,0.54,0.055034298449754715,Charlie Austin,a,848,SetPiece,2014,Head,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Joey Barton,Cross,848
+54652,86,Goal,0.9180000305175782,0.48700000762939455,0.3872939944267273,Charlie Austin,a,848,SetPiece,2015,Head,303,Manchester United,Southampton,0,1,2016-01-23 19:00:00,James Ward-Prowse,Cross,848
+53176,77,BlockedShot,0.8719999694824219,0.6619999694824219,0.06276810169219971,Charlie Austin,h,848,OpenPlay,2015,RightFoot,328,Southampton,West Ham,1,0,2016-02-06 21:30:00,Oriol Romeu,Chipped,848
+53180,87,MissedShots,0.8690000152587891,0.38,0.09992630034685135,Charlie Austin,h,848,OpenPlay,2015,RightFoot,328,Southampton,West Ham,1,0,2016-02-06 21:30:00,Oriol Romeu,Pass,848
+56132,89,SavedShot,0.8819999694824219,0.29100000381469726,0.043163001537323,Charlie Austin,a,848,OpenPlay,2015,RightFoot,332,Swansea,Southampton,0,1,2016-02-13 19:00:00,Steven Davis,Pass,848
+59883,12,BlockedShot,0.8219999694824218,0.5359999847412109,0.0713391974568367,Charlie Austin,h,848,OpenPlay,2015,RightFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Steven Davis,Pass,848
+59891,30,MissedShots,0.7859999847412109,0.44,0.036249998956918716,Charlie Austin,h,848,OpenPlay,2015,LeftFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Steven Davis,Pass,848
+60698,5,MissedShots,0.9169999694824219,0.4520000076293945,0.4724369943141937,Charlie Austin,a,848,OpenPlay,2015,RightFoot,350,Bournemouth,Southampton,2,0,2016-03-01 23:45:00,Cédric Soares,Pass,848
+59709,72,BlockedShot,0.97,0.3120000076293945,0.019990399479866028,Charlie Austin,a,848,OpenPlay,2015,RightFoot,392,Leicester,Southampton,1,0,2016-04-03 16:30:00,Dusan Tadic,Aerial,848
+112339,86,MissedShots,0.9519999694824218,0.5670000076293945,0.07148980349302292,Charlie Austin,h,848,OpenPlay,2016,Head,466,Southampton,Watford,1,1,2016-08-13 18:00:00,Jérémy Pied,Aerial,848
+113055,10,SavedShot,0.779000015258789,0.524000015258789,0.03429489955306053,Charlie Austin,h,848,OpenPlay,2016,RightFoot,484,Southampton,Sunderland,1,1,2016-08-27 18:00:00,Dusan Tadic,Pass,848
+113058,16,MissedShots,0.825999984741211,0.36700000762939455,0.11632200330495834,Charlie Austin,h,848,OpenPlay,2016,RightFoot,484,Southampton,Sunderland,1,1,2016-08-27 18:00:00,Steven Davis,Throughball,848
+113602,61,ShotOnPost,0.9219999694824219,0.5179999923706055,0.395891010761261,Charlie Austin,h,848,OpenPlay,2016,RightFoot,509,Southampton,Swansea,1,0,2016-09-18 17:15:00,Nathan Redmond,Cross,848
+113605,63,Goal,0.9280000305175782,0.5690000152587891,0.1031000018119812,Charlie Austin,h,848,OpenPlay,2016,RightFoot,509,Southampton,Swansea,1,0,2016-09-18 17:15:00,,None,848
+113606,66,MissedShots,0.705,0.455,0.013883000239729881,Charlie Austin,h,848,OpenPlay,2016,RightFoot,509,Southampton,Swansea,1,0,2016-09-18 17:15:00,Nathan Redmond,HeadPass,848
+113607,67,SavedShot,0.909000015258789,0.37599998474121094,0.11627499759197235,Charlie Austin,h,848,OpenPlay,2016,RightFoot,509,Southampton,Swansea,1,0,2016-09-18 17:15:00,Dusan Tadic,Pass,848
+113953,39,Goal,0.8780000305175781,0.5790000152587891,0.10498099774122238,Charlie Austin,a,848,OpenPlay,2016,LeftFoot,519,West Ham,Southampton,0,3,2016-09-25 19:00:00,Ryan Bertrand,Pass,848
+114314,8,SavedShot,0.925,0.585,0.08802179992198944,Charlie Austin,a,848,OpenPlay,2016,Head,528,Leicester,Southampton,0,0,2016-10-02 17:15:00,Cédric Soares,Cross,848
+114315,12,MissedShots,0.9369999694824219,0.5659999847412109,0.12204600125551224,Charlie Austin,a,848,OpenPlay,2016,Head,528,Leicester,Southampton,0,0,2016-10-02 17:15:00,Dusan Tadic,Cross,848
+114317,14,ShotOnPost,0.9540000152587891,0.33099998474121095,0.054976701736450195,Charlie Austin,a,848,OpenPlay,2016,RightFoot,528,Leicester,Southampton,0,0,2016-10-02 17:15:00,Steven Davis,Chipped,848
+114325,62,SavedShot,0.8469999694824218,0.37599998474121094,0.3230080008506775,Charlie Austin,a,848,OpenPlay,2016,RightFoot,528,Leicester,Southampton,0,0,2016-10-02 17:15:00,Virgil van Dijk,Throughball,848
+114032,4,SavedShot,0.9019999694824219,0.524000015258789,0.09678740054368973,Charlie Austin,h,848,OpenPlay,2016,Head,539,Southampton,Burnley,3,1,2016-10-16 19:00:00,Matt Targett,Cross,848
+114033,5,MissedShots,0.925,0.534000015258789,0.1015930026769638,Charlie Austin,h,848,FromCorner,2016,Head,539,Southampton,Burnley,3,1,2016-10-16 19:00:00,Dusan Tadic,Cross,848
+114041,32,MissedShots,0.7630000305175781,0.6370000076293946,0.02143619954586029,Charlie Austin,h,848,OpenPlay,2016,RightFoot,539,Southampton,Burnley,3,1,2016-10-16 19:00:00,Dusan Tadic,Chipped,848
+114046,43,MissedShots,0.91,0.5879999923706055,0.025572799146175385,Charlie Austin,h,848,OpenPlay,2016,Head,539,Southampton,Burnley,3,1,2016-10-16 19:00:00,Cuco Martina,Aerial,848
+114053,51,Goal,0.9819999694824219,0.46599998474121096,0.561378002166748,Charlie Austin,h,848,FromCorner,2016,RightFoot,539,Southampton,Burnley,3,1,2016-10-16 19:00:00,,BallTouch,848
+114052,51,BlockedShot,0.98,0.47200000762939454,0.5477830171585083,Charlie Austin,h,848,FromCorner,2016,LeftFoot,539,Southampton,Burnley,3,1,2016-10-16 19:00:00,Oriol Romeu,Goal,848
+114056,63,BlockedShot,0.8230000305175781,0.639000015258789,0.052425600588321686,Charlie Austin,h,848,OpenPlay,2016,RightFoot,539,Southampton,Burnley,3,1,2016-10-16 19:00:00,Nathan Redmond,Pass,848
+114058,65,Goal,0.885,0.5,0.7611690163612366,Charlie Austin,h,848,Penalty,2016,RightFoot,539,Southampton,Burnley,3,1,2016-10-16 19:00:00,,Standard,848
+114514,74,SavedShot,0.8490000152587891,0.37,0.06714139878749847,Charlie Austin,a,848,OpenPlay,2016,RightFoot,549,Manchester City,Southampton,1,1,2016-10-23 16:30:00,Sofiane Boufal,Pass,848
+114897,13,MissedShots,0.8930000305175781,0.5029999923706054,0.05894019827246666,Charlie Austin,h,848,SetPiece,2016,Head,2685,Southampton,Chelsea,0,2,2016-10-30 20:00:00,Steven Davis,Chipped,848
+114904,45,MissedShots,0.9269999694824219,0.5029999923706054,0.07660839706659317,Charlie Austin,h,848,SetPiece,2016,Head,2685,Southampton,Chelsea,0,2,2016-10-30 20:00:00,José Fonte,HeadPass,848
+114910,68,MissedShots,0.9340000152587891,0.5120000076293946,0.09163519740104675,Charlie Austin,h,848,OpenPlay,2016,Head,2685,Southampton,Chelsea,0,2,2016-10-30 20:00:00,Ryan Bertrand,Aerial,848
+115565,5,Goal,0.885,0.5,0.7611690163612366,Charlie Austin,a,848,Penalty,2016,RightFoot,2694,Hull,Southampton,2,1,2016-11-06 18:15:00,,Standard,848
+115566,11,BlockedShot,0.9030000305175782,0.40400001525878904,0.12014299631118774,Charlie Austin,a,848,OpenPlay,2016,RightFoot,2694,Hull,Southampton,2,1,2016-11-06 18:15:00,Dusan Tadic,Pass,848
+115571,44,SavedShot,0.955,0.32799999237060545,0.08579549938440323,Charlie Austin,a,848,OpenPlay,2016,RightFoot,2694,Hull,Southampton,2,1,2016-11-06 18:15:00,Nathan Redmond,Pass,848
+115580,75,SavedShot,0.8069999694824219,0.549000015258789,0.053053900599479675,Charlie Austin,a,848,OpenPlay,2016,RightFoot,2694,Hull,Southampton,2,1,2016-11-06 18:15:00,Sofiane Boufal,Pass,848
+115584,86,SavedShot,0.875999984741211,0.5179999923706055,0.08596789836883545,Charlie Austin,a,848,OpenPlay,2016,RightFoot,2694,Hull,Southampton,2,1,2016-11-06 18:15:00,James Ward-Prowse,Pass,848
+115586,89,BlockedShot,0.9259999847412109,0.55,0.09193090349435806,Charlie Austin,a,848,OpenPlay,2016,RightFoot,2694,Hull,Southampton,2,1,2016-11-06 18:15:00,,None,848
+115621,57,MissedShots,0.9290000152587891,0.565,0.05049160122871399,Charlie Austin,h,848,OpenPlay,2016,Head,2698,Southampton,Liverpool,0,0,2016-11-19 19:00:00,Cédric Soares,Aerial,848
+115329,0,Goal,0.9830000305175781,0.53,0.8260819911956787,Charlie Austin,h,848,OpenPlay,2016,Head,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Josh Sims,Pass,848
+115334,24,SavedShot,0.8680000305175781,0.605999984741211,0.10599400103092194,Charlie Austin,h,848,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Pierre-Emile Højbjerg,Pass,848
+115346,57,SavedShot,0.909000015258789,0.5320000076293945,0.11594399809837341,Charlie Austin,h,848,OpenPlay,2016,Head,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Cédric Soares,Cross,848
+115525,52,BlockedShot,0.9419999694824219,0.69,0.05451349914073944,Charlie Austin,a,848,OpenPlay,2016,LeftFoot,3106,Crystal Palace,Southampton,3,0,2016-12-03 19:00:00,Sofiane Boufal,Pass,848
+115528,61,MissedShots,0.955,0.44799999237060545,0.11777299642562866,Charlie Austin,a,848,OpenPlay,2016,Head,3106,Crystal Palace,Southampton,3,0,2016-12-03 19:00:00,Cédric Soares,Aerial,848
+112554,33,MissedShots,0.9390000152587891,0.5259999847412109,0.14572499692440033,Charlie Austin,h,848,OpenPlay,2016,RightFoot,3517,Southampton,Stoke,0,1,2017-05-21 15:00:00,Ryan Bertrand,Pass,848
+158344,92,MissedShots,0.8859999847412109,0.36900001525878906,0.08588510006666183,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7122,Southampton,Swansea,0,0,2017-08-12 15:00:00,Nathan Redmond,Pass,848
+161731,92,Goal,0.885,0.5,0.7611690163612366,Charlie Austin,h,848,Penalty,2017,RightFoot,7130,Southampton,West Ham,3,2,2017-08-19 15:00:00,,Standard,848
+160350,96,BlockedShot,0.8419999694824218,0.4640000152587891,0.07739029824733734,Charlie Austin,a,848,OpenPlay,2017,RightFoot,7181,Stoke,Southampton,2,1,2017-09-30 15:00:00,Manolo Gabbiadini,Pass,848
+159588,93,ShotOnPost,0.9940000152587891,0.32799999237060545,0.06971000134944916,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7204,Southampton,West Bromwich Albion,1,0,2017-10-21 17:30:00,Sofiane Boufal,Pass,848
+161147,89,BlockedShot,0.8640000152587891,0.590999984741211,0.0362791009247303,Charlie Austin,h,848,FromCorner,2017,RightFoot,7223,Southampton,Burnley,0,1,2017-11-04 15:00:00,Maya Yoshida,HeadPass,848
+160834,71,MissedShots,0.9209999847412109,0.539000015258789,0.3491300046443939,Charlie Austin,a,848,SetPiece,2017,Head,7231,Liverpool,Southampton,3,0,2017-11-18 15:00:00,James Ward-Prowse,Cross,848
+161517,6,MissedShots,0.9219999694824219,0.435,0.05259599909186363,Charlie Austin,h,848,FromCorner,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,,Aerial,848
+161519,10,ShotOnPost,0.914000015258789,0.46,0.3544459939002991,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,Cédric Soares,Cross,848
+161522,36,BlockedShot,0.795,0.6020000076293945,0.040275100618600845,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,Sofiane Boufal,Pass,848
+161523,40,BlockedShot,0.95,0.580999984741211,0.03595359995961189,Charlie Austin,h,848,FromCorner,2017,Head,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,James Ward-Prowse,Aerial,848
+161527,51,Goal,0.9730000305175781,0.5420000076293945,0.15424300730228424,Charlie Austin,h,848,OpenPlay,2017,Head,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,Ryan Bertrand,Cross,848
+161529,57,Goal,0.955999984741211,0.5540000152587891,0.4873819947242737,Charlie Austin,h,848,OpenPlay,2017,Head,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,Dusan Tadic,Cross,848
+161468,31,SavedShot,0.92,0.590999984741211,0.0372776985168457,Charlie Austin,a,848,OpenPlay,2017,Head,7267,Bournemouth,Southampton,1,1,2017-12-03 13:30:00,James Ward-Prowse,Aerial,848
+161481,60,Goal,0.895,0.44299999237060544,0.10439100116491318,Charlie Austin,a,848,OpenPlay,2017,RightFoot,7267,Bournemouth,Southampton,1,1,2017-12-03 13:30:00,Nathan Redmond,Pass,848
+161485,80,MissedShots,0.95,0.5429999923706055,0.09435410052537918,Charlie Austin,a,848,OpenPlay,2017,Head,7267,Bournemouth,Southampton,1,1,2017-12-03 13:30:00,Ryan Bertrand,Aerial,848
+179294,2,Goal,0.9119999694824219,0.42900001525878906,0.43981099128723145,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7278,Southampton,Arsenal,1,1,2017-12-10 12:00:00,Dusan Tadic,Pass,848
+179295,4,SavedShot,0.8719999694824219,0.3509999847412109,0.32949298620224,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7278,Southampton,Arsenal,1,1,2017-12-10 12:00:00,Dusan Tadic,Throughball,848
+183004,29,SavedShot,0.825,0.7140000152587891,0.02991260029375553,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7285,Southampton,Leicester,1,4,2017-12-13 19:45:00,Sofiane Boufal,Pass,848
+183020,65,SavedShot,0.9569999694824218,0.47200000762939454,0.5828800201416016,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7285,Southampton,Leicester,1,4,2017-12-13 19:45:00,,None,848
+183023,87,MissedShots,0.8209999847412109,0.5370000076293945,0.016667800024151802,Charlie Austin,h,848,OpenPlay,2017,Head,7285,Southampton,Leicester,1,4,2017-12-13 19:45:00,Cédric Soares,Chipped,848
+183232,61,SavedShot,0.8440000152587891,0.605,0.10451299697160721,Charlie Austin,a,848,OpenPlay,2017,RightFoot,7292,Chelsea,Southampton,1,0,2017-12-16 15:00:00,Pierre-Emile Højbjerg,Throughball,848
+183237,75,SavedShot,0.9169999694824219,0.6569999694824219,0.31029900908470154,Charlie Austin,a,848,OpenPlay,2017,RightFoot,7292,Chelsea,Southampton,1,0,2017-12-16 15:00:00,Sofiane Boufal,Throughball,848
+183241,84,MissedShots,0.9319999694824219,0.3920000076293945,0.07946719974279404,Charlie Austin,a,848,OpenPlay,2017,RightFoot,7292,Chelsea,Southampton,1,0,2017-12-16 15:00:00,Jack Stephens,Cross,848
+183175,23,Goal,0.975999984741211,0.5670000076293945,0.3583430051803589,Charlie Austin,h,848,FromCorner,2017,Head,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Wesley Hoedt,Rebound,848
+183179,40,SavedShot,0.6990000152587891,0.4779999923706055,0.016287999227643013,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Dusan Tadic,BallRecovery,848
+183182,59,MissedShots,0.8780000305175781,0.43900001525878907,0.4963510036468506,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Nathan Redmond,Pass,848
+183187,75,SavedShot,0.7519999694824219,0.5129999923706055,0.023524299263954163,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,,BallRecovery,848
+203939,49,BlockedShot,0.8880000305175781,0.3729999923706055,0.08701460063457489,Charlie Austin,a,848,OpenPlay,2017,RightFoot,7434,West Ham,Southampton,3,0,2018-03-31 15:00:00,Dusan Tadic,Pass,848
+203940,57,MissedShots,0.8290000152587891,0.43099998474121093,0.06700529903173447,Charlie Austin,a,848,OpenPlay,2017,RightFoot,7434,West Ham,Southampton,3,0,2018-03-31 15:00:00,Shane Long,Pass,848
+203944,71,BlockedShot,0.9,0.47,0.08057550340890884,Charlie Austin,a,848,OpenPlay,2017,RightFoot,7434,West Ham,Southampton,3,0,2018-03-31 15:00:00,Shane Long,Cross,848
+206889,72,Goal,0.965999984741211,0.4879999923706055,0.8246409893035889,Charlie Austin,a,848,SetPiece,2017,RightFoot,7439,Arsenal,Southampton,3,2,2018-04-08 13:15:00,Cédric Soares,Pass,848
+206892,78,SavedShot,0.845,0.4779999923706055,0.12535500526428223,Charlie Austin,a,848,OpenPlay,2017,RightFoot,7439,Arsenal,Southampton,3,2,2018-04-08 13:15:00,Dusan Tadic,Throughball,848
+210076,89,SavedShot,0.745,0.605,0.01927269995212555,Charlie Austin,a,848,OpenPlay,2017,RightFoot,7464,Leicester,Southampton,0,0,2018-04-19 18:45:00,Dusan Tadic,TakeOn,848
+211733,29,SavedShot,0.8480000305175781,0.17899999618530274,0.0242576003074646,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Nathan Redmond,Pass,848
+211747,67,MissedShots,0.815,0.37099998474121093,0.05389219895005226,Charlie Austin,h,848,OpenPlay,2017,LeftFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Dusan Tadic,Pass,848
+211750,70,MissedShots,0.96,0.3139999961853027,0.07882370054721832,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7475,Southampton,Bournemouth,2,1,2018-04-28 14:00:00,Dusan Tadic,Pass,848
+213477,19,SavedShot,0.7919999694824219,0.39,0.031463999301195145,Charlie Austin,a,848,OpenPlay,2017,RightFoot,7486,Everton,Southampton,1,1,2018-05-05 17:30:00,,None,848
+213479,27,BlockedShot,0.7919999694824219,0.5070000076293946,0.0395951010286808,Charlie Austin,a,848,OpenPlay,2017,RightFoot,7486,Everton,Southampton,1,1,2018-05-05 17:30:00,,None,848
+214251,29,MissedShots,0.7380000305175781,0.715,0.012925500050187111,Charlie Austin,a,848,OpenPlay,2017,RightFoot,7426,Swansea,Southampton,0,1,2018-05-08 19:45:00,Nathan Redmond,BallRecovery,848
+214252,30,SavedShot,0.8669999694824219,0.37,0.07057719677686691,Charlie Austin,a,848,OpenPlay,2017,RightFoot,7426,Swansea,Southampton,0,1,2018-05-08 19:45:00,Pierre-Emile Højbjerg,Pass,848
+214254,42,SavedShot,0.8880000305175781,0.6020000076293945,0.07338389754295349,Charlie Austin,a,848,OpenPlay,2017,RightFoot,7426,Swansea,Southampton,0,1,2018-05-08 19:45:00,Oriol Romeu,HeadPass,848
+214258,51,SavedShot,0.7769999694824219,0.3089999961853027,0.0204888004809618,Charlie Austin,a,848,OpenPlay,2017,RightFoot,7426,Swansea,Southampton,0,1,2018-05-08 19:45:00,Dusan Tadic,Pass,848
+214260,59,SavedShot,0.9119999694824219,0.495,0.25880399346351624,Charlie Austin,a,848,FromCorner,2017,Head,7426,Swansea,Southampton,0,1,2018-05-08 19:45:00,Cédric Soares,Cross,848
+214262,71,SavedShot,0.9309999847412109,0.5270000076293946,0.12174200266599655,Charlie Austin,a,848,FromCorner,2017,RightFoot,7426,Swansea,Southampton,0,1,2018-05-08 19:45:00,Oriol Romeu,HeadPass,848
+214264,79,SavedShot,0.9519999694824218,0.5709999847412109,0.0950113981962204,Charlie Austin,a,848,FromCorner,2017,Head,7426,Swansea,Southampton,0,1,2018-05-08 19:45:00,Cédric Soares,Cross,848
+215547,10,MissedShots,0.860999984741211,0.24700000762939453,0.02328919991850853,Charlie Austin,h,848,SetPiece,2017,RightFoot,7498,Southampton,Manchester City,0,1,2018-05-13 15:00:00,Nathan Redmond,Pass,848
+215554,31,MissedShots,0.889000015258789,0.5629999923706055,0.08442520350217819,Charlie Austin,h,848,OpenPlay,2017,RightFoot,7498,Southampton,Manchester City,0,1,2018-05-13 15:00:00,Wesley Hoedt,Cross,848
+232884,66,BlockedShot,0.7919999694824219,0.41,0.03647259995341301,Charlie Austin,h,848,OpenPlay,2018,RightFoot,9204,Southampton,Burnley,0,0,2018-08-12 15:30:00,Nathan Redmond,Pass,848
+233057,2,BlockedShot,0.794000015258789,0.590999984741211,0.03773299977183342,Charlie Austin,a,848,OpenPlay,2018,RightFoot,9211,Everton,Southampton,2,1,2018-08-18 17:00:00,James Ward-Prowse,Interception,848
+233061,9,MissedShots,0.8769999694824219,0.5359999847412109,0.013008899986743927,Charlie Austin,a,848,SetPiece,2018,Head,9211,Everton,Southampton,2,1,2018-08-18 17:00:00,James Ward-Prowse,Aerial,848
+233073,53,BlockedShot,0.9440000152587891,0.34599998474121096,0.05336889997124672,Charlie Austin,a,848,OpenPlay,2018,RightFoot,9211,Everton,Southampton,2,1,2018-08-18 17:00:00,,None,848
+233607,63,BlockedShot,0.93,0.5379999923706055,0.5658910274505615,Charlie Austin,a,848,OpenPlay,2018,LeftFoot,9230,Crystal Palace,Southampton,0,2,2018-09-01 14:00:00,,None,848
+233608,64,SavedShot,0.885,0.5,0.7611690163612366,Charlie Austin,a,848,Penalty,2018,RightFoot,9230,Crystal Palace,Southampton,0,2,2018-09-01 14:00:00,,Standard,848
+233619,87,MissedShots,0.8959999847412109,0.745999984741211,0.04938130080699921,Charlie Austin,a,848,OpenPlay,2018,RightFoot,9230,Crystal Palace,Southampton,0,2,2018-09-01 14:00:00,,Dispossessed,848
+234193,90,SavedShot,0.9059999847412109,0.715,0.03174220025539398,Charlie Austin,a,848,OpenPlay,2018,RightFoot,9249,Liverpool,Southampton,3,0,2018-09-22 14:00:00,Cédric Soares,Chipped,848
+234453,26,BlockedShot,0.8209999847412109,0.26399999618530273,0.02560270018875599,Charlie Austin,a,848,OpenPlay,2018,RightFoot,9258,Wolverhampton Wanderers,Southampton,2,0,2018-09-29 14:00:00,Mohamed Elyounoussi,Pass,848
+234465,65,MissedShots,0.775,0.765,0.013873400166630745,Charlie Austin,a,848,OpenPlay,2018,RightFoot,9258,Wolverhampton Wanderers,Southampton,2,0,2018-09-29 14:00:00,Ryan Bertrand,Tackle,848
+249581,6,MissedShots,0.8030000305175782,0.7419999694824219,0.016218699514865875,Charlie Austin,h,848,OpenPlay,2018,RightFoot,9292,Southampton,Newcastle United,0,0,2018-10-27 14:00:00,,None,848
+249586,40,MissedShots,0.8969999694824219,0.53,0.03693100064992905,Charlie Austin,h,848,OpenPlay,2018,Head,9292,Southampton,Newcastle United,0,0,2018-10-27 14:00:00,Nathan Redmond,Aerial,848
+250038,65,BlockedShot,0.855,0.5329999923706055,0.10455299913883209,Charlie Austin,h,848,OpenPlay,2018,RightFoot,9308,Southampton,Watford,1,1,2018-11-10 15:00:00,Nathan Redmond,Pass,848
+250045,86,BlockedShot,0.7319999694824219,0.4209999847412109,0.013997100293636322,Charlie Austin,h,848,OpenPlay,2018,RightFoot,9308,Southampton,Watford,1,1,2018-11-10 15:00:00,,None,848
+250999,75,SavedShot,0.895,0.6309999847412109,0.05664709955453873,Charlie Austin,a,848,OpenPlay,2018,RightFoot,9346,Tottenham,Southampton,3,1,2018-12-05 20:00:00,,None,848
+251002,88,MissedShots,0.89,0.52,0.0456450991332531,Charlie Austin,a,848,OpenPlay,2018,Head,9346,Tottenham,Southampton,3,1,2018-12-05 20:00:00,Steven Davis,Aerial,848
+251005,92,Goal,0.9,0.4209999847412109,0.3017039895057678,Charlie Austin,a,848,OpenPlay,2018,RightFoot,9346,Tottenham,Southampton,3,1,2018-12-05 20:00:00,Steven Davis,Throughball,848
+251076,1,MissedShots,0.899000015258789,0.645,0.046514399349689484,Charlie Austin,a,848,OpenPlay,2018,RightFoot,9353,Cardiff,Southampton,1,0,2018-12-08 15:00:00,Matt Targett,Cross,848
+251078,5,MissedShots,0.895,0.4759999847412109,0.11614900082349777,Charlie Austin,a,848,SetPiece,2018,RightFoot,9353,Cardiff,Southampton,1,0,2018-12-08 15:00:00,Jannik Vestergaard,Rebound,848
+251081,16,BlockedShot,0.735,0.3609999847412109,0.014482599683105946,Charlie Austin,a,848,OpenPlay,2018,RightFoot,9353,Cardiff,Southampton,1,0,2018-12-08 15:00:00,Pierre-Emile Højbjerg,Pass,848
+251085,19,SavedShot,0.909000015258789,0.495,0.05084050074219704,Charlie Austin,a,848,SetPiece,2018,Head,9353,Cardiff,Southampton,1,0,2018-12-08 15:00:00,Matt Targett,Aerial,848
+251420,84,Goal,0.9640000152587891,0.5220000076293946,0.5917479991912842,Charlie Austin,h,848,OpenPlay,2018,Head,9360,Southampton,Arsenal,3,2,2018-12-16 13:30:00,Shane Long,Chipped,848
+251994,81,BlockedShot,0.855999984741211,0.6469999694824219,0.046764399856328964,Charlie Austin,h,848,OpenPlay,2018,RightFoot,9379,Southampton,West Ham,1,2,2018-12-27 19:45:00,Stuart Armstrong,Pass,848
+263757,32,SavedShot,0.9459999847412109,0.6409999847412109,0.01662459969520569,Charlie Austin,h,848,FromCorner,2018,Head,9389,Southampton,Manchester City,1,3,2018-12-30 14:15:00,James Ward-Prowse,Cross,848
+275477,75,BlockedShot,0.925,0.524000015258789,0.5033379793167114,Charlie Austin,h,848,OpenPlay,2018,RightFoot,9453,Southampton,Cardiff,1,2,2019-02-09 15:00:00,,Rebound,848
+275479,76,MissedShots,0.924000015258789,0.5629999923706055,0.02979549951851368,Charlie Austin,h,848,FromCorner,2018,Head,9453,Southampton,Cardiff,1,2,2019-02-09 15:00:00,James Ward-Prowse,Aerial,848
+275481,85,MissedShots,0.9019999694824219,0.585,0.02338460087776184,Charlie Austin,h,848,OpenPlay,2018,Head,9453,Southampton,Cardiff,1,2,2019-02-09 15:00:00,James Ward-Prowse,Aerial,848
+275482,90,MissedShots,0.9359999847412109,0.6140000152587891,0.032058898359537125,Charlie Austin,h,848,FromCorner,2018,Head,9453,Southampton,Cardiff,1,2,2019-02-09 15:00:00,James Ward-Prowse,Cross,848
+275857,71,SavedShot,0.8830000305175781,0.5459999847412109,0.015127900056540966,Charlie Austin,a,848,FromCorner,2018,Head,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Nathan Redmond,Aerial,848
+276173,55,BlockedShot,0.85,0.5670000076293945,0.055615898221731186,Charlie Austin,a,848,FromCorner,2018,RightFoot,9481,Manchester United,Southampton,3,2,2019-03-02 15:00:00,,None,848
+284510,25,BlockedShot,0.86,0.5479999923706055,0.06296589970588684,Charlie Austin,h,848,OpenPlay,2018,RightFoot,9487,Southampton,Tottenham,2,1,2019-03-09 15:00:00,Ryan Bertrand,Cross,848
+301430,92,MissedShots,0.8109999847412109,0.6869999694824219,0.025804100558161736,Charlie Austin,h,848,OpenPlay,2018,RightFoot,9569,Southampton,Huddersfield,1,1,2019-05-12 14:00:00,Nathan Redmond,Pass,848
+391636,58,BlockedShot,0.7919999694824219,0.3820000076293945,0.05384200066328049,Charlie Austin,a,848,OpenPlay,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Matt Phillips,Pass,848
+396616,77,MissedShots,0.8959999847412109,0.4490000152587891,0.3451710045337677,Charlie Austin,h,848,OpenPlay,2020,RightFoot,14600,West Bromwich Albion,Arsenal,0,4,2021-01-02 20:00:00,Matt Phillips,BallTouch,848
+396618,87,BlockedShot,0.789000015258789,0.72,0.013949699699878693,Charlie Austin,h,848,OpenPlay,2020,RightFoot,14600,West Bromwich Albion,Arsenal,0,4,2021-01-02 20:00:00,Dara O&#039;Shea,BallRecovery,848

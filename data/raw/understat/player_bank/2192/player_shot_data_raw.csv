@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14825,65,MissedShots,0.89,0.47200000762939454,0.06033109873533249,Santiago Vergini,h,2192,FromCorner,2014,RightFoot,4767,Sunderland,Manchester United,1,1,2014-08-24 16:00:00,Sebastian Larsson,Cross,2192
+15055,53,SavedShot,0.87,0.3729999923706055,0.05438390001654625,Santiago Vergini,a,2192,OpenPlay,2014,RightFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,,None,2192
+15450,27,MissedShots,0.895,0.46299999237060546,0.0867391973733902,Santiago Vergini,a,2192,OpenPlay,2014,Head,4732,Burnley,Sunderland,0,0,2014-09-20 15:00:00,Sebastian Larsson,Cross,2192
+15897,35,SavedShot,0.8819999694824219,0.37099998474121093,0.02827790006995201,Santiago Vergini,h,2192,FromCorner,2014,Head,4745,Sunderland,Swansea,0,0,2014-09-27 15:00:00,Sebastian Larsson,Rebound,2192
+16818,11,OwnGoal,0.13399999618530273,0.43400001525878906,0,Santiago Vergini,a,2192,OpenPlay,2014,RightFoot,4703,Southampton,Sunderland,8,0,2014-10-18 15:00:00,,None,2192
+16834,50,MissedShots,0.9290000152587891,0.5309999847412109,0.07237260043621063,Santiago Vergini,a,2192,SetPiece,2014,Head,4703,Southampton,Sunderland,8,0,2014-10-18 15:00:00,Steven Fletcher,HeadPass,2192
+17160,47,SavedShot,0.8630000305175781,0.40799999237060547,0.06964190304279327,Santiago Vergini,a,2192,OpenPlay,2014,RightFoot,4658,Crystal Palace,Sunderland,1,3,2014-11-03 20:00:00,William Buckley,Cross,2192
+17166,61,SavedShot,0.8580000305175781,0.41900001525878905,0.03705909848213196,Santiago Vergini,a,2192,FromCorner,2014,RightFoot,4658,Crystal Palace,Sunderland,1,3,2014-11-03 20:00:00,Wes Brown,HeadPass,2192
+18292,33,ShotOnPost,0.914000015258789,0.4129999923706055,0.3954949975013733,Santiago Vergini,h,2192,OpenPlay,2014,RightFoot,4686,Sunderland,Chelsea,0,0,2014-11-29 17:30:00,,None,2192
+17982,41,SavedShot,0.925,0.32599998474121095,0.07547830045223236,Santiago Vergini,h,2192,OpenPlay,2014,RightFoot,4632,Sunderland,Hull,1,3,2014-12-26 15:00:00,Ricardo Álvarez,Pass,2192
+19279,94,MissedShots,0.7190000152587891,0.4929999923706055,0.009105170145630836,Santiago Vergini,a,2192,SetPiece,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,Aerial,2192
+24265,61,MissedShots,0.9119999694824219,0.5320000076293945,0.07887410372495651,Santiago Vergini,h,2192,FromCorner,2014,Head,4538,Sunderland,West Bromwich Albion,0,0,2015-02-21 15:00:00,Sebastian Larsson,Cross,2192
+22312,84,BlockedShot,0.9730000305175781,0.40900001525878904,0.06381890177726746,Santiago Vergini,h,2192,FromCorner,2014,Head,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,Jordi Gómez,Cross,2192
+22313,84,MissedShots,0.9230000305175782,0.34200000762939453,0.061195001006126404,Santiago Vergini,h,2192,FromCorner,2014,LeftFoot,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,,Rebound,2192
+85997,53,MissedShots,0.9019999694824219,0.34799999237060547,0.00930614024400711,Santiago Vergini,h,2192,SetPiece,2015,Head,1476,Getafe,Las Palmas,4,0,2015-10-18 20:15:00,Pedro León,Aerial,2192
+86008,76,BlockedShot,0.9019999694824219,0.5570000076293945,0.018818799406290054,Santiago Vergini,h,2192,FromCorner,2015,Head,1476,Getafe,Las Palmas,4,0,2015-10-18 20:15:00,Damián Suárez,Aerial,2192
+88170,24,SavedShot,0.909000015258789,0.5070000076293946,0.03941110149025917,Santiago Vergini,h,2192,FromCorner,2015,Head,1563,Getafe,Deportivo La Coruna,0,0,2015-12-30 23:30:00,Pablo Sarabia,Aerial,2192
+88179,50,BlockedShot,0.8780000305175781,0.485,0.0811861976981163,Santiago Vergini,h,2192,OpenPlay,2015,LeftFoot,1563,Getafe,Deportivo La Coruna,0,0,2015-12-30 23:30:00,Cala,HeadPass,2192
+89548,65,MissedShots,0.8519999694824218,0.5429999923706055,0.0736967995762825,Santiago Vergini,h,2192,OpenPlay,2015,RightFoot,1635,Getafe,Atletico Madrid,0,1,2016-02-14 21:15:00,Víctor Rodríguez,Pass,2192
+92331,29,SavedShot,0.94,0.5109999847412109,0.07752630114555359,Santiago Vergini,h,2192,FromCorner,2015,Head,1746,Getafe,Valencia,2,2,2016-04-24 20:15:00,Pablo Sarabia,Aerial,2192
+92350,92,SavedShot,0.9619999694824218,0.5790000152587891,0.5078139901161194,Santiago Vergini,h,2192,SetPiece,2015,RightFoot,1746,Getafe,Valencia,2,2,2016-04-24 20:15:00,,None,2192
+92933,16,MissedShots,0.6809999847412109,0.4229999923706055,0.011288999579846859,Santiago Vergini,h,2192,OpenPlay,2015,RightFoot,1762,Getafe,Sporting Gijon,1,1,2016-05-08 19:00:00,,BallRecovery,2192

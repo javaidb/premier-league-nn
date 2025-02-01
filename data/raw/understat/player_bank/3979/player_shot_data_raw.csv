@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+158377,30,Goal,0.955,0.57,0.376446008682251,Ahmed Hegazy,h,3979,SetPiece,2017,Head,7121,West Bromwich Albion,Bournemouth,1,0,2017-08-12 15:00:00,Chris Brunt,Cross,3979
+158378,33,MissedShots,0.8209999847412109,0.4520000076293945,0.06603410094976425,Ahmed Hegazy,h,3979,OpenPlay,2017,RightFoot,7121,West Bromwich Albion,Bournemouth,1,0,2017-08-12 15:00:00,Jay Rodriguez,HeadPass,3979
+158382,52,SavedShot,0.8490000152587891,0.4640000152587891,0.015243000350892544,Ahmed Hegazy,h,3979,FromCorner,2017,Head,7121,West Bromwich Albion,Bournemouth,1,0,2017-08-12 15:00:00,James McClean,Chipped,3979
+158981,65,SavedShot,0.9259999847412109,0.524000015258789,0.06518349796533585,Ahmed Hegazy,h,3979,SetPiece,2017,Head,7146,West Bromwich Albion,Stoke,1,1,2017-08-27 13:30:00,Matt Phillips,Aerial,3979
+160357,31,MissedShots,0.97,0.544000015258789,0.4913490116596222,Ahmed Hegazy,h,3979,FromCorner,2017,Head,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Chris Brunt,Cross,3979
+161016,33,MissedShots,0.919000015258789,0.6140000152587891,0.012553500011563301,Ahmed Hegazy,h,3979,FromCorner,2017,Head,7229,West Bromwich Albion,Chelsea,0,4,2017-11-18 15:00:00,Gareth Barry,Aerial,3979
+160861,16,MissedShots,0.9469999694824218,0.5870000076293945,0.07281249761581421,Ahmed Hegazy,h,3979,FromCorner,2017,Head,7265,West Bromwich Albion,Crystal Palace,0,0,2017-12-02 15:00:00,Gareth Barry,Cross,3979
+179326,66,MissedShots,0.710999984741211,0.5690000152587891,0.01358960010111332,Ahmed Hegazy,a,3979,OpenPlay,2017,RightFoot,7271,Swansea,West Bromwich Albion,1,0,2017-12-09 15:00:00,,BallRecovery,3979
+185338,50,MissedShots,0.9580000305175781,0.5429999923706055,0.4041289985179901,Ahmed Hegazy,a,3979,FromCorner,2017,Head,7287,Liverpool,West Bromwich Albion,0,0,2017-12-13 20:00:00,Grzegorz Krychowiak,Aerial,3979
+186218,55,MissedShots,0.914000015258789,0.5640000152587891,0.10186000168323517,Ahmed Hegazy,h,3979,FromCorner,2017,RightFoot,7328,West Bromwich Albion,Arsenal,1,1,2017-12-31 16:30:00,Jonny Evans,HeadPass,3979
+193797,3,Goal,0.955999984741211,0.5220000076293946,0.4840019941329956,Ahmed Hegazy,h,3979,FromCorner,2017,Head,7378,West Bromwich Albion,Southampton,2,3,2018-02-03 15:00:00,Chris Brunt,Cross,3979
+210260,55,MissedShots,0.88,0.515,0.04963669925928116,Ahmed Hegazy,h,3979,SetPiece,2017,Head,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Chris Brunt,Chipped,3979
+213342,43,MissedShots,0.9390000152587891,0.509000015258789,0.06944639980792999,Ahmed Hegazy,h,3979,FromCorner,2017,Head,7483,West Bromwich Albion,Tottenham,1,0,2018-05-05 15:00:00,Matt Phillips,Aerial,3979
+213348,57,MissedShots,0.960999984741211,0.615,0.09566210210323334,Ahmed Hegazy,h,3979,SetPiece,2017,LeftFoot,7483,West Bromwich Albion,Tottenham,1,0,2018-05-05 15:00:00,Craig Dawson,Rebound,3979

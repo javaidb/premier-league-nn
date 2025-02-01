@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+7711,David McGoldrick,28,1841,2,8.715958962216973,2,2.095127190463245,45,17,2,0,F S,Sheffield United,2,8.715958962216973,12.238809522241354,3.0863607339560986,2019
+7711,David McGoldrick,35,2409,8,7.605752557516098,1,1.1166191883385181,71,17,7,0,F M S,Sheffield United,8,7.605752557516098,9.950739700347185,3.25369658973068,2020

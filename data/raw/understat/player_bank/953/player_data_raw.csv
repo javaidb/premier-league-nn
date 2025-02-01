@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+953,Steven Caulker,35,3019,1,2.944729307666421,0,1.179923115298152,28,17,1,0,D S,Queens Park Rangers,1,2.944729307666421,3.971539515070617,2.8036462077870965,2014
+953,Steven Caulker,6,149,0,0.19201359897851944,0,0.012579300440847874,3,1,0,0,D S,"Liverpool,Southampton",0,0.19201359897851944,0.27757759392261505,0.17492400109767914,2015

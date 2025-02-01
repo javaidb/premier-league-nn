@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+6464,Adrien Silva,12,765,0,0.241592800244689,1,0.89030871540308,11,6,3,0,M S,Leicester,0,0.241592800244689,4.71275719255209,3.692299399524927,2017
+6464,Adrien Silva,2,86,0,0,0,0,0,0,0,0,M S,Leicester,0,0,0.11628729850053787,0.11628729850053787,2018

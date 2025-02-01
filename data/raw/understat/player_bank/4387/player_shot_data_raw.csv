@@ -1,0 +1,77 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14907,14,SavedShot,0.9180000305175782,0.575,0.12898500263690948,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4769,Burnley,Manchester United,0,0,2014-08-30 12:45:00,聲gel Di Mar燰,Throughball,4387
+14914,58,BlockedShot,0.865,0.49900001525878906,0.07999949902296066,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4769,Burnley,Manchester United,0,0,2014-08-30 12:45:00,,None,4387
+14915,60,MissedShots,0.895,0.40900001525878904,0.018845800310373306,Robin van Persie,a,4387,OpenPlay,2014,Head,4769,Burnley,Manchester United,0,0,2014-08-30 12:45:00,Darren Fletcher,Aerial,4387
+15301,30,MissedShots,0.894000015258789,0.56,0.036017801612615585,Robin van Persie,h,4387,OpenPlay,2014,Head,4727,Manchester United,Queens Park Rangers,4,0,2014-09-14 16:00:00,聲gel Di Mar燰,Aerial,4387
+15315,64,SavedShot,0.9119999694824219,0.610999984741211,0.34795400500297546,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4727,Manchester United,Queens Park Rangers,4,0,2014-09-14 16:00:00,聲gel Di Mar燰,Chipped,4387
+15317,71,MissedShots,0.8230000305175781,0.45599998474121095,0.09763669967651367,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4727,Manchester United,Queens Park Rangers,4,0,2014-09-14 16:00:00,Falcao,Chipped,4387
+15502,10,SavedShot,0.9069999694824219,0.595999984741211,0.366008996963501,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,聲gel Di Mar燰,Throughball,4387
+15503,12,Goal,0.9519999694824218,0.40900001525878904,0.2608349919319153,Robin van Persie,a,4387,OpenPlay,2014,Head,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Falcao,Cross,4387
+15818,21,Goal,0.924000015258789,0.32599998474121095,0.08870580047369003,Robin van Persie,h,4387,OpenPlay,2014,RightFoot,4740,Manchester United,West Ham,2,1,2014-09-27 15:00:00,Falcao,Pass,4387
+17255,6,MissedShots,0.899000015258789,0.5479999923706055,0.3143079876899719,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,聲gel Di Mar燰,Cross,4387
+17099,9,SavedShot,0.8959999847412109,0.575,0.11335399746894836,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4708,West Bromwich Albion,Manchester United,2,2,2014-10-20 20:00:00,聲gel Di Mar燰,Throughball,4387
+17104,37,BlockedShot,0.87,0.36900001525878906,0.05478540062904358,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4708,West Bromwich Albion,Manchester United,2,2,2014-10-20 20:00:00,Adnan Januzaj,Pass,4387
+17115,67,MissedShots,0.8859999847412109,0.5640000152587891,0.04508860036730766,Robin van Persie,a,4387,OpenPlay,2014,Head,4708,West Bromwich Albion,Manchester United,2,2,2014-10-20 20:00:00,Luke Shaw,Cross,4387
+17119,73,ShotOnPost,0.8009999847412109,0.44599998474121094,0.03897140175104141,Robin van Persie,a,4387,OpenPlay,2014,RightFoot,4708,West Bromwich Albion,Manchester United,2,2,2014-10-20 20:00:00,,None,4387
+17473,3,BlockedShot,0.915,0.6509999847412109,0.08981219679117203,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4717,Manchester United,Chelsea,1,1,2014-10-26 16:00:00,Adnan Januzaj,Pass,4387
+17479,22,SavedShot,0.89,0.6309999847412109,0.3275580108165741,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4717,Manchester United,Chelsea,1,1,2014-10-26 16:00:00,Adnan Januzaj,Throughball,4387
+17480,23,SavedShot,0.8780000305175781,0.43900001525878907,0.03851719945669174,Robin van Persie,h,4387,OpenPlay,2014,Head,4717,Manchester United,Chelsea,1,1,2014-10-26 16:00:00,聲gel Di Mar燰,Cross,4387
+17492,75,MissedShots,0.8119999694824219,0.5179999923706055,0.05501209944486618,Robin van Persie,h,4387,OpenPlay,2014,RightFoot,4717,Manchester United,Chelsea,1,1,2014-10-26 16:00:00,Adnan Januzaj,Pass,4387
+17493,78,SavedShot,0.945,0.6730000305175782,0.09741660207509995,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4717,Manchester United,Chelsea,1,1,2014-10-26 16:00:00,Luke Shaw,Throughball,4387
+17498,93,Goal,0.9269999694824219,0.4759999847412109,0.5647240281105042,Robin van Persie,h,4387,SetPiece,2014,LeftFoot,4717,Manchester United,Chelsea,1,1,2014-10-26 16:00:00,,Rebound,4387
+16026,13,MissedShots,0.9359999847412109,0.3529999923706055,0.017872100695967674,Robin van Persie,a,4387,OpenPlay,2014,Head,4656,Manchester City,Manchester United,1,0,2014-11-02 13:30:00,聲gel Di Mar燰,Cross,4387
+16039,70,SavedShot,0.9619999694824218,0.3029999923706055,0.052570801228284836,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4656,Manchester City,Manchester United,1,0,2014-11-02 13:30:00,Antonio Valencia,TakeOn,4387
+16042,76,BlockedShot,0.8419999694824218,0.5120000076293946,0.07825969904661179,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4656,Manchester City,Manchester United,1,0,2014-11-02 13:30:00,Wayne Rooney,Pass,4387
+16613,48,SavedShot,0.8480000305175781,0.26399999618530273,0.019581999629735947,Robin van Persie,h,4387,SetPiece,2014,LeftFoot,4661,Manchester United,Crystal Palace,1,0,2014-11-08 15:00:00,,None,4387
+16629,82,MissedShots,0.904000015258789,0.6370000076293946,0.08284969627857208,Robin van Persie,h,4387,OpenPlay,2014,RightFoot,4661,Manchester United,Crystal Palace,1,0,2014-11-08 15:00:00,,Rebound,4387
+16627,82,BlockedShot,0.904000015258789,0.6020000076293945,0.12506499886512756,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4661,Manchester United,Crystal Palace,1,0,2014-11-08 15:00:00,Wayne Rooney,Pass,4387
+17958,15,SavedShot,0.9580000305175781,0.519000015258789,0.11662500351667404,Robin van Persie,h,4387,FromCorner,2014,Head,4683,Manchester United,Hull,3,0,2014-11-29 15:00:00,Chris Smalling,HeadPass,4387
+17965,38,SavedShot,0.8540000152587891,0.46599998474121096,0.1403599977493286,Robin van Persie,h,4387,OpenPlay,2014,RightFoot,4683,Manchester United,Hull,3,0,2014-11-29 15:00:00,Ander Herrera,Throughball,4387
+17969,65,Goal,0.8040000152587891,0.6179999923706054,0.05536380037665367,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4683,Manchester United,Hull,3,0,2014-11-29 15:00:00,Ander Herrera,Pass,4387
+19095,61,BlockedShot,0.8830000305175781,0.33099998474121095,0.1284330040216446,Robin van Persie,h,4387,OpenPlay,2014,RightFoot,4591,Manchester United,Stoke,2,1,2014-12-02 19:45:00,Ander Herrera,Throughball,4387
+19098,74,MissedShots,0.9540000152587891,0.40700000762939453,0.11490900069475174,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4591,Manchester United,Stoke,2,1,2014-12-02 19:45:00,Marouane Fellaini,Cross,4387
+20145,11,Goal,0.9069999694824219,0.6790000152587891,0.2954770028591156,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4608,Southampton,Manchester United,1,2,2014-12-08 20:00:00,,TakeOn,4387
+20152,46,MissedShots,0.805,0.655,0.032925501465797424,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4608,Southampton,Manchester United,1,2,2014-12-08 20:00:00,Ander Herrera,Pass,4387
+20157,70,Goal,0.9580000305175781,0.43400001525878906,0.47085800766944885,Robin van Persie,a,4387,SetPiece,2014,LeftFoot,4608,Southampton,Manchester United,1,2,2014-12-08 20:00:00,Wayne Rooney,Cross,4387
+18255,39,MissedShots,0.9009999847412109,0.610999984741211,0.03937409818172455,Robin van Persie,h,4387,OpenPlay,2014,Head,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Ashley Young,Cross,4387
+18267,63,MissedShots,0.914000015258789,0.42200000762939455,0.47795799374580383,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Antonio Valencia,Pass,4387
+18271,70,Goal,0.885,0.375,0.34980401396751404,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Juan Mata,Pass,4387
+18272,80,SavedShot,0.77,0.705999984741211,0.016997499391436577,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Ander Herrera,Pass,4387
+18276,86,SavedShot,0.8540000152587891,0.5579999923706055,0.06821440160274506,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,,TakeOn,4387
+18672,1,MissedShots,0.9309999847412109,0.56,0.11944500356912613,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Ashley Young,Cross,4387
+18674,15,SavedShot,0.8930000305175781,0.2560000038146973,0.02929379977285862,Robin van Persie,a,4387,OpenPlay,2014,RightFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Wayne Rooney,Chipped,4387
+18683,49,SavedShot,0.8880000305175781,0.639000015258789,0.3402869999408722,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Wayne Rooney,Throughball,4387
+18687,54,MissedShots,0.8919999694824219,0.41,0.07812929898500443,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Falcao,Rebound,4387
+17898,15,MissedShots,0.8969999694824219,0.720999984741211,0.11090099811553955,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4636,Manchester United,Newcastle United,3,1,2014-12-26 15:00:00,Wayne Rooney,Throughball,4387
+17900,21,MissedShots,0.91,0.590999984741211,0.0661650002002716,Robin van Persie,h,4387,OpenPlay,2014,OtherBodyPart,4636,Manchester United,Newcastle United,3,1,2014-12-26 15:00:00,Ashley Young,Cross,4387
+17907,52,Goal,0.914000015258789,0.5579999923706055,0.37248900532722473,Robin van Persie,h,4387,OpenPlay,2014,Head,4636,Manchester United,Newcastle United,3,1,2014-12-26 15:00:00,Wayne Rooney,Throughball,4387
+19110,38,SavedShot,0.9740000152587891,0.4640000152587891,0.8587329983711243,Robin van Persie,a,4387,OpenPlay,2014,RightFoot,4639,Tottenham,Manchester United,0,0,2014-12-28 12:00:00,Michael Carrick,Throughball,4387
+19114,54,MissedShots,0.9259999847412109,0.42900001525878906,0.3477889895439148,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4639,Tottenham,Manchester United,0,0,2014-12-28 12:00:00,Juan Mata,Cross,4387
+19973,66,MissedShots,0.9080000305175782,0.42200000762939455,0.13019999861717224,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4551,Stoke,Manchester United,1,1,2015-01-01 12:45:00,Juan Mata,Throughball,4387
+19977,78,MissedShots,0.9409999847412109,0.575999984741211,0.10775899887084961,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4551,Stoke,Manchester United,1,1,2015-01-01 12:45:00,Adnan Januzaj,Cross,4387
+18004,40,BlockedShot,0.8669999694824219,0.645,0.07387430220842361,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4570,Manchester United,Southampton,0,1,2015-01-11 16:00:00,Wayne Rooney,Pass,4387
+23470,23,MissedShots,0.9059999847412109,0.5870000076293945,0.0920884981751442,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,Luke Shaw,Cross,4387
+23471,26,Goal,0.914000015258789,0.425,0.31084901094436646,Robin van Persie,h,4387,OpenPlay,2014,RightFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,Daley Blind,Chipped,4387
+23721,22,SavedShot,0.980999984741211,0.6,0.09199470281600952,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4524,West Ham,Manchester United,1,1,2015-02-08 16:15:00,Adnan Januzaj,Interception,4387
+23730,52,SavedShot,0.875,0.3160000038146973,0.04185450077056885,Robin van Persie,a,4387,OpenPlay,2014,RightFoot,4524,West Ham,Manchester United,1,1,2015-02-08 16:15:00,聲gel Di Mar燰,Chipped,4387
+23733,56,BlockedShot,0.9030000305175782,0.6619999694824219,0.05015129968523979,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4524,West Ham,Manchester United,1,1,2015-02-08 16:15:00,Adnan Januzaj,Cross,4387
+23742,82,SavedShot,0.8780000305175781,0.6569999694824219,0.06789939850568771,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4524,West Ham,Manchester United,1,1,2015-02-08 16:15:00,Falcao,Pass,4387
+24049,81,Goal,0.885,0.5,0.7611690163612366,Robin van Persie,h,4387,Penalty,2014,LeftFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,,Standard,4387
+24274,15,ShotOnPost,0.9690000152587891,0.675,0.0513961985707283,Robin van Persie,a,4387,SetPiece,2014,LeftFoot,4539,Swansea,Manchester United,2,1,2015-02-21 15:00:00,,None,4387
+24278,26,MissedShots,0.774000015258789,0.43099998474121093,0.029730699956417084,Robin van Persie,a,4387,OpenPlay,2014,RightFoot,4539,Swansea,Manchester United,2,1,2015-02-21 15:00:00,聲gel Di Mar燰,Pass,4387
+24281,33,MissedShots,0.794000015258789,0.3770000076293945,0.025628499686717987,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4539,Swansea,Manchester United,2,1,2015-02-21 15:00:00,Marouane Fellaini,Pass,4387
+24282,39,MissedShots,0.7630000305175781,0.4520000076293945,0.013980699703097343,Robin van Persie,a,4387,OpenPlay,2014,RightFoot,4539,Swansea,Manchester United,2,1,2015-02-21 15:00:00,聲gel Di Mar燰,Chipped,4387
+24284,59,MissedShots,0.92,0.66,0.08909139782190323,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4539,Swansea,Manchester United,2,1,2015-02-21 15:00:00,Wayne Rooney,Pass,4387
+24286,62,MissedShots,0.92,0.544000015258789,0.11693000048398972,Robin van Persie,a,4387,OpenPlay,2014,Head,4539,Swansea,Manchester United,2,1,2015-02-21 15:00:00,Ashley Young,Cross,4387
+24289,67,SavedShot,0.8580000305175781,0.44,0.08091229945421219,Robin van Persie,a,4387,OpenPlay,2014,LeftFoot,4539,Swansea,Manchester United,2,1,2015-02-21 15:00:00,Wayne Rooney,Chipped,4387
+21559,15,SavedShot,0.84,0.4640000152587891,0.08395490050315857,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4405,Manchester United,West Bromwich Albion,0,1,2015-05-02 17:30:00,Ander Herrera,Pass,4387
+21561,16,SavedShot,0.865,0.45799999237060546,0.06989339739084244,Robin van Persie,h,4387,FromCorner,2014,LeftFoot,4405,Manchester United,West Bromwich Albion,0,1,2015-05-02 17:30:00,,None,4387
+21563,18,MissedShots,0.9219999694824219,0.5840000152587891,0.09156779944896698,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4405,Manchester United,West Bromwich Albion,0,1,2015-05-02 17:30:00,Ashley Young,Cross,4387
+21564,24,BlockedShot,0.84,0.48,0.06483560055494308,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4405,Manchester United,West Bromwich Albion,0,1,2015-05-02 17:30:00,,None,4387
+21572,54,SavedShot,0.7190000152587891,0.544000015258789,0.016924699768424034,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4405,Manchester United,West Bromwich Albion,0,1,2015-05-02 17:30:00,Ander Herrera,Pass,4387
+21577,73,SavedShot,0.885,0.5,0.7611690163612366,Robin van Persie,h,4387,Penalty,2014,LeftFoot,4405,Manchester United,West Bromwich Albion,0,1,2015-05-02 17:30:00,,Standard,4387
+21578,74,SavedShot,0.789000015258789,0.2520000076293945,0.04901760071516037,Robin van Persie,h,4387,DirectFreekick,2014,LeftFoot,4405,Manchester United,West Bromwich Albion,0,1,2015-05-02 17:30:00,,Standard,4387
+21581,78,BlockedShot,0.8390000152587891,0.55,0.0573463998734951,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4405,Manchester United,West Bromwich Albion,0,1,2015-05-02 17:30:00,Juan Mata,OffsidePass,4387
+21583,89,SavedShot,0.7609999847412109,0.4179999923706055,0.020023899152874947,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4405,Manchester United,West Bromwich Albion,0,1,2015-05-02 17:30:00,Falcao,Pass,4387
+21587,93,BlockedShot,0.7719999694824219,0.6140000152587891,0.023431500419974327,Robin van Persie,h,4387,OpenPlay,2014,LeftFoot,4405,Manchester United,West Bromwich Albion,0,1,2015-05-02 17:30:00,,None,4387
+22626,87,MissedShots,0.8619999694824219,0.5670000076293945,0.05852999910712242,Robin van Persie,h,4387,OpenPlay,2014,RightFoot,4427,Manchester United,Arsenal,1,1,2015-05-17 16:00:00,Marouane Fellaini,HeadPass,4387

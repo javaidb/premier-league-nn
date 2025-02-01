@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,1,0.029595399275422096,7,Sub,West Bromwich Albion,Arsenal,0,4,2021-01-02,14600,2020,439292,0,0,0,0,0.029595399275422096,0.03821149840950966,0.008616110309958458,5562
+0,0,0,20,Sub,West Bromwich Albion,Leicester,0,3,2020-09-13,14092,2020,414987,0,0,0,0,0,0,0,5562
+0,0,0,19,Sub,West Bromwich Albion,Bournemouth,1,0,2017-08-12,7121,2017,176052,0.04939329996705055,0,2,0,0,0.04939329996705055,0,5562

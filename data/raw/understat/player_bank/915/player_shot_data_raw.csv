@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14550,85,MissedShots,0.9459999847412109,0.6040000152587891,0.08165570348501205,Rolando Aarons,h,915,OpenPlay,2014,LeftFoot,4757,Newcastle United,Manchester City,0,2,2014-08-17 16:00:00,Gabriel Obertan,Cross,915
+15022,67,BlockedShot,0.855999984741211,0.725999984741211,0.030010899528861046,Rolando Aarons,h,915,OpenPlay,2014,LeftFoot,4771,Newcastle United,Crystal Palace,3,3,2014-08-30 15:00:00,,None,915
+15024,72,Goal,0.9230000305175782,0.47400001525878904,0.053105100989341736,Rolando Aarons,h,915,FromCorner,2014,Head,4771,Newcastle United,Crystal Palace,3,3,2014-08-30 15:00:00,,None,915
+15026,79,MissedShots,0.9230000305175782,0.525,0.06638780236244202,Rolando Aarons,h,915,OpenPlay,2014,Head,4771,Newcastle United,Crystal Palace,3,3,2014-08-30 15:00:00,Vurnon Anita,Aerial,915
+15031,83,MissedShots,0.779000015258789,0.779000015258789,0.012057599611580372,Rolando Aarons,h,915,OpenPlay,2014,RightFoot,4771,Newcastle United,Crystal Palace,3,3,2014-08-30 15:00:00,Massadio Haidara,TakeOn,915
+15032,87,ShotOnPost,0.9130000305175782,0.7680000305175781,0.02983189933001995,Rolando Aarons,h,915,OpenPlay,2014,RightFoot,4771,Newcastle United,Crystal Palace,3,3,2014-08-30 15:00:00,Massadio Haidara,Pass,915
+20418,68,BlockedShot,0.8430000305175781,0.41700000762939454,0.06989619880914688,Rolando Aarons,a,915,OpenPlay,2014,LeftFoot,4420,Queens Park Rangers,Newcastle United,2,1,2015-05-16 15:00:00,Moussa Sissoko,Pass,915
+52437,2,MissedShots,0.865,0.655,0.06075640022754669,Rolando Aarons,a,915,OpenPlay,2015,LeftFoot,307,Watford,Newcastle United,2,1,2016-01-23 19:00:00,Georginio Wijnaldum,Pass,915
+52102,83,Goal,0.9590000152587891,0.6179999923706054,0.34019801020622253,Rolando Aarons,h,915,OpenPlay,2015,LeftFoot,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,Daryl Janmaat,Rebound,915
+160914,92,MissedShots,0.7880000305175782,0.6969999694824218,0.010655700229108334,Rolando Aarons,a,915,OpenPlay,2017,LeftFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,,Aerial,915
+185732,33,BlockedShot,0.919000015258789,0.67,0.03475860133767128,Rolando Aarons,h,915,OpenPlay,2017,LeftFoot,7315,Newcastle United,Manchester City,0,1,2017-12-27 19:45:00,DeAndre Yedlin,Cross,915
+195922,9,MissedShots,0.9280000305175782,0.5590000152587891,0.1170630007982254,Rolando Aarons,a,915,OpenPlay,2017,Head,7734,Sampdoria,Verona,2,0,2018-02-11 14:00:00,Rômulo,Cross,915
+201981,88,MissedShots,0.7469999694824219,0.5479999923706055,0.01316319964826107,Rolando Aarons,h,915,OpenPlay,2017,LeftFoot,7779,Verona,Atalanta,0,5,2018-03-18 14:00:00,,None,915
+204972,50,MissedShots,0.8680000305175781,0.5520000076293945,0.06570550054311752,Rolando Aarons,a,915,FromCorner,2017,RightFoot,7791,Inter,Verona,3,0,2018-03-31 14:00:00,Jagos Vukovic,Pass,915

@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1028,Kevin Nolan,29,1742,1,3.6620913930237293,1,0.9290485139936209,31,12,2,0,M S,West Ham,1,3.6620913930237293,4.468470650725067,2.065542420372367,2014
+1028,Kevin Nolan,2,59,0,0,0,0,0,0,0,0,F S,West Ham,0,0,0.08250679820775986,0.08250679820775986,2015

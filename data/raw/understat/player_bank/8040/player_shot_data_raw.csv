@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+321259,81,SavedShot,0.7230000305175781,0.5029999923706054,0.016349200159311295,Marvelous Nakamba,a,8040,OpenPlay,2019,LeftFoot,11702,Arsenal,Aston Villa,3,2,2019-09-22 15:30:00,Ahmed Elmohamady,Pass,8040
+331425,45,BlockedShot,0.7219999694824218,0.41200000762939454,0.013800700195133686,Marvelous Nakamba,a,8040,OpenPlay,2019,LeftFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,,None,8040
+331429,52,MissedShots,0.750999984741211,0.4159999847412109,0.013670199550688267,Marvelous Nakamba,a,8040,FromCorner,2019,LeftFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,,Aerial,8040
+337069,51,MissedShots,0.6769999694824219,0.4490000152587891,0.012602600269019604,Marvelous Nakamba,a,8040,OpenPlay,2019,LeftFoot,11810,Sheffield United,Aston Villa,2,0,2019-12-14 15:00:00,John McGinn,Pass,8040
+352218,74,MissedShots,0.755,0.5059999847412109,0.012261900119483471,Marvelous Nakamba,h,8040,OpenPlay,2019,LeftFoot,11873,Aston Villa,Watford,2,1,2020-01-21 19:30:00,,Aerial,8040
+352524,63,MissedShots,0.8169999694824219,0.500999984741211,0.041366398334503174,Marvelous Nakamba,a,8040,FromCorner,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Jack Grealish,Pass,8040
+352525,67,MissedShots,0.7609999847412109,0.39599998474121095,0.02149369940161705,Marvelous Nakamba,a,8040,OpenPlay,2019,LeftFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Jack Grealish,Pass,8040
+381515,81,SavedShot,0.749000015258789,0.500999984741211,0.02224159985780716,Marvelous Nakamba,h,8040,OpenPlay,2020,LeftFoot,14466,Aston Villa,Liverpool,7,2,2020-10-04 18:15:00,,None,8040
+400679,46,MissedShots,0.745999984741211,0.3370000076293945,0.010841899551451206,Marvelous Nakamba,h,8040,SetPiece,2020,LeftFoot,14535,Aston Villa,Newcastle United,2,0,2021-01-23 20:00:00,,None,8040
+532056,33,BlockedShot,0.7330000305175781,0.40900001525878904,0.013922066427767277,Marvelous Nakamba,a,8040,OpenPlay,2023,LeftFoot,22278,Brighton,Luton,4,1,2023-08-12 14:00:00,,None,8040
+539126,66,MissedShots,0.87,0.42700000762939455,0.044486068189144135,Marvelous Nakamba,h,8040,FromCorner,2023,LeftFoot,21945,Luton,Wolverhampton Wanderers,1,1,2023-09-23 14:00:00,Alfie Doughty,Cross,8040
+541112,5,MissedShots,0.855,0.675,0.04441704601049423,Marvelous Nakamba,a,8040,OpenPlay,2023,LeftFoot,21956,Everton,Luton,1,2,2023-09-30 14:00:00,,None,8040
+542410,20,MissedShots,0.7430000305175781,0.44799999237060545,0.016988655552268028,Marvelous Nakamba,h,8040,OpenPlay,2023,LeftFoot,21971,Luton,Tottenham,0,1,2023-10-07 11:30:00,,None,8040
+544032,68,MissedShots,0.7319999694824219,0.515,0.01660309173166752,Marvelous Nakamba,a,8040,OpenPlay,2023,LeftFoot,21982,Nottingham Forest,Luton,2,2,2023-10-21 14:00:00,,None,8040

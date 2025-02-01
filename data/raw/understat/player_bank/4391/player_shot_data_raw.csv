@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+24008,18,SavedShot,0.8490000152587891,0.36700000762939455,0.009575449861586094,Darnell Furlong,a,4391,OpenPlay,2014,Head,4540,Hull,Queens Park Rangers,2,1,2015-02-21 15:00:00,Joey Barton,Cross,4391
+376843,41,BlockedShot,0.8109999847412109,0.6179999923706054,0.028390800580382347,Darnell Furlong,h,4391,SetPiece,2020,RightFoot,14092,West Bromwich Albion,Leicester,0,3,2020-09-13 13:00:00,Matheus Pereira,Pass,4391
+382895,57,SavedShot,0.875999984741211,0.5429999923706055,0.08415690064430237,Darnell Furlong,h,4391,FromCorner,2020,RightFoot,14484,West Bromwich Albion,Burnley,0,0,2020-10-19 16:30:00,Conor Gallagher,Rebound,4391
+384202,12,MissedShots,0.845,0.28600000381469726,0.025740399956703186,Darnell Furlong,a,4391,OpenPlay,2020,RightFoot,14487,Brighton,West Bromwich Albion,1,1,2020-10-26 17:30:00,Grady Diangana,Pass,4391
+384206,37,MissedShots,0.8059999847412109,0.32799999237060545,0.019001100212335587,Darnell Furlong,a,4391,OpenPlay,2020,RightFoot,14487,Brighton,West Bromwich Albion,1,1,2020-10-26 17:30:00,Karlan Grant,HeadPass,4391
+386356,70,SavedShot,0.96,0.6469999694824219,0.012480399571359158,Darnell Furlong,h,4391,FromCorner,2020,Head,14513,West Bromwich Albion,Tottenham,0,1,2020-11-08 12:00:00,Filip Krovinovic,Cross,4391
+386364,85,BlockedShot,0.9330000305175781,0.455,0.07135940343141556,Darnell Furlong,h,4391,OpenPlay,2020,Head,14513,West Bromwich Albion,Tottenham,0,1,2020-11-08 12:00:00,,None,4391
+389057,33,MissedShots,0.904000015258789,0.54,0.06149379909038544,Darnell Furlong,h,4391,FromCorner,2020,Head,14527,West Bromwich Albion,Sheffield United,1,0,2020-11-28 20:00:00,Matheus Pereira,Cross,4391
+389078,87,MissedShots,0.92,0.47,0.06257519870996475,Darnell Furlong,h,4391,OpenPlay,2020,Head,14527,West Bromwich Albion,Sheffield United,1,0,2020-11-28 20:00:00,Matheus Pereira,Aerial,4391
+390559,7,OwnGoal,0.06800000190734863,0.5379999923706055,0,Darnell Furlong,h,4391,SetPiece,2020,RightFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,,Foul,4391
+390562,17,ShotOnPost,0.9030000305175782,0.4570000076293945,0.07283510267734528,Darnell Furlong,h,4391,OpenPlay,2020,Head,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Matt Phillips,Cross,4391
+391634,49,Goal,0.875999984741211,0.44599998474121094,0.07037779688835144,Darnell Furlong,a,4391,OpenPlay,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Matt Phillips,Cross,4391
+392708,7,MissedShots,0.8919999694824219,0.4640000152587891,0.028036000207066536,Darnell Furlong,a,4391,FromCorner,2020,Head,14564,Manchester City,West Bromwich Albion,1,1,2020-12-15 20:00:00,Matt Phillips,Clearance,4391
+395930,38,MissedShots,0.870999984741211,0.36200000762939455,0.025849299505352974,Darnell Furlong,h,4391,OpenPlay,2020,RightFoot,14590,West Bromwich Albion,Leeds,0,5,2020-12-29 18:00:00,,Aerial,4391
+396608,53,MissedShots,0.8690000152587891,0.44799999237060545,0.03405170142650604,Darnell Furlong,h,4391,OpenPlay,2020,Head,14600,West Bromwich Albion,Arsenal,0,4,2021-01-02 20:00:00,Callum Robinson,Aerial,4391
+399744,88,MissedShots,0.8730000305175781,0.47,0.3052850067615509,Darnell Furlong,a,4391,OpenPlay,2020,LeftFoot,14611,West Ham,West Bromwich Albion,2,1,2021-01-19 18:00:00,Kieran Gibbs,Cross,4391
+401214,59,MissedShots,0.95,0.5920000076293945,0.07421649992465973,Darnell Furlong,h,4391,FromCorner,2020,RightFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,Matheus Pereira,Cross,4391
+405564,14,MissedShots,0.794000015258789,0.38799999237060545,0.022245699539780617,Darnell Furlong,a,4391,OpenPlay,2020,LeftFoot,14678,Burnley,West Bromwich Albion,0,0,2021-02-20 15:00:00,Conor Gallagher,Chipped,4391
+414883,3,BlockedShot,0.8619999694824219,0.39,0.058724600821733475,Darnell Furlong,h,4391,SetPiece,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,,None,4391
+414888,15,MissedShots,0.9319999694824219,0.40200000762939453,0.04900379851460457,Darnell Furlong,h,4391,FromCorner,2020,Head,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Matt Phillips,Cross,4391
+414895,29,MissedShots,0.875,0.42400001525878905,0.1050489991903305,Darnell Furlong,h,4391,OpenPlay,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Matt Phillips,Pass,4391
+419440,6,MissedShots,0.8859999847412109,0.3039999961853027,0.04718279838562012,Darnell Furlong,h,4391,OpenPlay,2020,RightFoot,14774,West Bromwich Albion,Wolverhampton Wanderers,1,1,2021-05-03 17:00:00,,None,4391
+419442,12,MissedShots,0.805,0.3820000076293945,0.01963750086724758,Darnell Furlong,h,4391,OpenPlay,2020,LeftFoot,14774,West Bromwich Albion,Wolverhampton Wanderers,1,1,2021-05-03 17:00:00,Mbaye Diagne,Chipped,4391
+420860,72,MissedShots,0.9419999694824219,0.524000015258789,0.46889498829841614,Darnell Furlong,a,4391,OpenPlay,2020,Head,14775,Arsenal,West Bromwich Albion,3,1,2021-05-09 18:00:00,Matt Phillips,Cross,4391
+420861,80,MissedShots,0.89,0.5590000152587891,0.05848139896988869,Darnell Furlong,a,4391,SetPiece,2020,Head,14775,Arsenal,West Bromwich Albion,3,1,2021-05-09 18:00:00,Matheus Pereira,Cross,4391
+422460,61,MissedShots,0.9419999694824219,0.625999984741211,0.013274099677801132,Darnell Furlong,h,4391,FromCorner,2020,Head,14789,West Bromwich Albion,Liverpool,1,2,2021-05-16 15:30:00,Matheus Pereira,Aerial,4391
+423997,20,SavedShot,0.8859999847412109,0.53,0.05351389944553375,Darnell Furlong,a,4391,OpenPlay,2020,Head,14808,Leeds,West Bromwich Albion,3,1,2021-05-23 15:00:00,Matt Phillips,Cross,4391
+424002,47,SavedShot,0.8590000152587891,0.5279999923706055,0.06147550046443939,Darnell Furlong,a,4391,OpenPlay,2020,RightFoot,14808,Leeds,West Bromwich Albion,3,1,2021-05-23 15:00:00,Callum Robinson,Rebound,4391

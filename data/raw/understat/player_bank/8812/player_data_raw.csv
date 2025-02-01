@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+8812,Sasa Kalajdzic,1,48,0,0.5194780230522156,0,0,1,0,0,0,F,Wolverhampton Wanderers,0,0.5194780230522156,0,0,2022
+8812,Sasa Kalajdzic,11,132,2,1.3522434905171394,0,1.0801250115036964,4,4,0,0,F S,Wolverhampton Wanderers,2,1.3522434905171394,2.5644532591104507,0.15924052149057388,2023

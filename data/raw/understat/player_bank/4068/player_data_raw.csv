@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+4068,Florin Andone,23,861,3,3.4883397333323956,0,0.09605339914560318,19,2,5,0,F S,Brighton,3,3.4883397333323956,2.457792090252042,0.6315052043646574,2018
+4068,Florin Andone,3,69,1,0.36459600925445557,0,0.0581962987780571,1,1,0,1,F S,Brighton,1,0.36459600925445557,0.36459600925445557,0,2019

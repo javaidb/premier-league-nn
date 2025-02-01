@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+13348,Antonín Kinsky,3,270,0,0,0,0.22034624218940735,0,1,0,0,GK,Tottenham,0,0,0.42688414454460144,0.42688414454460144,2024
+13348,Antonín Kinsky,3,270,0,0,0,0.22034624218940735,0,1,0,0,GK,Tottenham,0,0,0.42688414454460144,0.42688414454460144,2025

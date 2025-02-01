@@ -1,0 +1,249 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14511,12,SavedShot,0.7280000305175781,0.500999984741211,0.018741000443696976,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4749,Manchester United,Swansea,1,2,2014-08-16 12:45:00,Darren Fletcher,Pass,629
+14512,16,BlockedShot,0.789000015258789,0.33599998474121096,0.015597599558532238,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4749,Manchester United,Swansea,1,2,2014-08-16 12:45:00,Chicharito,TakeOn,629
+14514,26,SavedShot,0.92,0.48200000762939454,0.05778750032186508,Wayne Rooney,h,629,OpenPlay,2014,Head,4749,Manchester United,Swansea,1,2,2014-08-16 12:45:00,Ashley Young,Aerial,629
+14516,33,MissedShots,0.9219999694824219,0.59,0.0488010011613369,Wayne Rooney,h,629,FromCorner,2014,Head,4749,Manchester United,Swansea,1,2,2014-08-16 12:45:00,Juan Mata,Cross,629
+14521,52,Goal,0.9490000152587891,0.5359999847412109,0.5765789747238159,Wayne Rooney,h,629,FromCorner,2014,RightFoot,4749,Manchester United,Swansea,1,2,2014-08-16 12:45:00,,Rebound,629
+14523,65,ShotOnPost,0.7659999847412109,0.3990000152587891,0.06904319673776627,Wayne Rooney,h,629,DirectFreekick,2014,RightFoot,4749,Manchester United,Swansea,1,2,2014-08-16 12:45:00,,Standard,629
+14822,34,MissedShots,0.725999984741211,0.6659999847412109,0.0389803983271122,Wayne Rooney,a,629,DirectFreekick,2014,RightFoot,4767,Sunderland,Manchester United,1,1,2014-08-24 16:00:00,,Standard,629
+14828,71,BlockedShot,0.764000015258789,0.3370000076293945,0.022926699370145798,Wayne Rooney,a,629,OpenPlay,2014,RightFoot,4767,Sunderland,Manchester United,1,1,2014-08-24 16:00:00,Adnan Januzaj,Pass,629
+14918,77,MissedShots,0.9480000305175781,0.5779999923706055,0.08813399821519852,Wayne Rooney,a,629,FromCorner,2014,Head,4769,Burnley,Manchester United,0,0,2014-08-30 12:45:00,Anderson,Cross,629
+15303,35,BlockedShot,0.87,0.6930000305175781,0.0640140026807785,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4727,Manchester United,Queens Park Rangers,4,0,2014-09-14 16:00:00,聲gel Di Mar燰,Pass,629
+15305,43,Goal,0.845,0.625,0.07921610027551651,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4727,Manchester United,Queens Park Rangers,4,0,2014-09-14 16:00:00,Ander Herrera,Pass,629
+15314,63,MissedShots,0.774000015258789,0.7669999694824219,0.02512669935822487,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4727,Manchester United,Queens Park Rangers,4,0,2014-09-14 16:00:00,Marcos Rojo,Pass,629
+15322,88,SavedShot,0.7,0.5709999847412109,0.020076200366020203,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4727,Manchester United,Queens Park Rangers,4,0,2014-09-14 16:00:00,Ander Herrera,Pass,629
+15514,51,MissedShots,0.7819999694824219,0.779000015258789,0.04062519967556,Wayne Rooney,a,629,DirectFreekick,2014,RightFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,,Standard,629
+15515,56,BlockedShot,0.7580000305175781,0.40599998474121096,0.029273100197315216,Wayne Rooney,a,629,OpenPlay,2014,LeftFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,聲gel Di Mar燰,Pass,629
+15522,65,BlockedShot,0.7669999694824219,0.415,0.03666039928793907,Wayne Rooney,a,629,OpenPlay,2014,LeftFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,,TakeOn,629
+15810,4,Goal,0.9069999694824219,0.4179999923706055,0.0954103022813797,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4740,Manchester United,West Ham,2,1,2014-09-27 15:00:00,Rafael,Cross,629
+15815,19,BlockedShot,0.745,0.5309999847412109,0.02140060067176819,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4740,Manchester United,West Ham,2,1,2014-09-27 15:00:00,聲gel Di Mar燰,Pass,629
+15816,20,BlockedShot,0.8569999694824219,0.4259999847412109,0.09288779646158218,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4740,Manchester United,West Ham,2,1,2014-09-27 15:00:00,Rafael,Pass,629
+16607,17,BlockedShot,0.7380000305175781,0.5659999847412109,0.018544500693678856,Wayne Rooney,h,629,OpenPlay,2014,LeftFoot,4661,Manchester United,Crystal Palace,1,0,2014-11-08 15:00:00,Adnan Januzaj,Pass,629
+16608,25,MissedShots,0.7769999694824219,0.629000015258789,0.02173830009996891,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4661,Manchester United,Crystal Palace,1,0,2014-11-08 15:00:00,聲gel Di Mar燰,Pass,629
+16615,52,MissedShots,0.76,0.5420000076293945,0.02541559934616089,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4661,Manchester United,Crystal Palace,1,0,2014-11-08 15:00:00,Paddy McNair,Pass,629
+16630,87,MissedShots,0.855999984741211,0.6780000305175782,0.08046910166740417,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4661,Manchester United,Crystal Palace,1,0,2014-11-08 15:00:00,Robin van Persie,TakeOn,629
+16056,20,MissedShots,0.749000015258789,0.69,0.04440230131149292,Wayne Rooney,a,629,DirectFreekick,2014,RightFoot,4675,Arsenal,Manchester United,1,2,2014-11-22 17:30:00,,Standard,629
+16062,37,BlockedShot,0.8619999694824219,0.46,0.135452002286911,Wayne Rooney,a,629,OpenPlay,2014,RightFoot,4675,Arsenal,Manchester United,1,2,2014-11-22 17:30:00,聲gel Di Mar燰,Pass,629
+16063,38,BlockedShot,0.75,0.6329999923706054,0.01750819943845272,Wayne Rooney,a,629,OpenPlay,2014,RightFoot,4675,Arsenal,Manchester United,1,2,2014-11-22 17:30:00,聲gel Di Mar燰,Pass,629
+16081,84,Goal,0.8880000305175781,0.5690000152587891,0.4937160015106201,Wayne Rooney,a,629,OpenPlay,2014,LeftFoot,4675,Arsenal,Manchester United,1,2,2014-11-22 17:30:00,聲gel Di Mar燰,Pass,629
+17956,6,MissedShots,0.764000015258789,0.6469999694824219,0.023283399641513824,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4683,Manchester United,Hull,3,0,2014-11-29 15:00:00,Juan Mata,Pass,629
+17957,8,BlockedShot,0.885,0.47,0.029071899130940437,Wayne Rooney,h,629,OpenPlay,2014,Head,4683,Manchester United,Hull,3,0,2014-11-29 15:00:00,Juan Mata,Interception,629
+17962,28,BlockedShot,0.7169999694824218,0.5129999923706055,0.01871040090918541,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4683,Manchester United,Hull,3,0,2014-11-29 15:00:00,,None,629
+17966,41,Goal,0.769000015258789,0.46700000762939453,0.0430620014667511,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4683,Manchester United,Hull,3,0,2014-11-29 15:00:00,Robin van Persie,LayOff,629
+18251,11,Goal,0.8519999694824218,0.46599998474121096,0.08978570252656937,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Antonio Valencia,Pass,629
+18261,51,SavedShot,0.8690000152587891,0.605999984741211,0.11087899655103683,Wayne Rooney,h,629,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Robin van Persie,Pass,629
+18686,54,BlockedShot,0.7390000152587891,0.6680000305175782,0.015406699851155281,Wayne Rooney,a,629,OpenPlay,2014,RightFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Ashley Young,Pass,629
+17902,22,Goal,0.9359999847412109,0.524000015258789,0.6577799916267395,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4636,Manchester United,Newcastle United,3,1,2014-12-26 15:00:00,Falcao,Pass,629
+17904,35,Goal,0.860999984741211,0.57,0.3474000096321106,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4636,Manchester United,Newcastle United,3,1,2014-12-26 15:00:00,Juan Mata,Throughball,629
+17909,59,BlockedShot,0.8519999694824218,0.655,0.0771000012755394,Wayne Rooney,h,629,OpenPlay,2014,LeftFoot,4636,Manchester United,Newcastle United,3,1,2014-12-26 15:00:00,Falcao,Pass,629
+17910,61,MissedShots,0.7819999694824219,0.54,0.09602469950914383,Wayne Rooney,h,629,DirectFreekick,2014,RightFoot,4636,Manchester United,Newcastle United,3,1,2014-12-26 15:00:00,,Standard,629
+19111,42,SavedShot,0.9030000305175782,0.509000015258789,0.10006099939346313,Wayne Rooney,a,629,OpenPlay,2014,Head,4639,Tottenham,Manchester United,0,0,2014-12-28 12:00:00,Ashley Young,Cross,629
+19966,17,MissedShots,0.705999984741211,0.5509999847412109,0.03944230079650879,Wayne Rooney,a,629,DirectFreekick,2014,RightFoot,4551,Stoke,Manchester United,1,1,2015-01-01 12:45:00,,Standard,629
+19050,87,BlockedShot,0.7330000305175781,0.455,0.023621099069714546,Wayne Rooney,a,629,OpenPlay,2014,RightFoot,4574,Queens Park Rangers,Manchester United,0,2,2015-01-17 15:00:00,Marouane Fellaini,Pass,629
+23477,60,BlockedShot,0.7919999694824219,0.37099998474121093,0.028731700032949448,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,,None,629
+23747,91,BlockedShot,0.8009999847412109,0.59,0.11091399937868118,Wayne Rooney,a,629,DirectFreekick,2014,RightFoot,4524,West Ham,Manchester United,1,1,2015-02-08 16:15:00,,Standard,629
+24272,7,MissedShots,0.8630000305175781,0.46799999237060547,0.07730419933795929,Wayne Rooney,a,629,OpenPlay,2014,RightFoot,4539,Swansea,Manchester United,2,1,2015-02-21 15:00:00,,None,629
+24276,19,SavedShot,0.8980000305175782,0.6020000076293945,0.06850749999284744,Wayne Rooney,a,629,OpenPlay,2014,LeftFoot,4539,Swansea,Manchester United,2,1,2015-02-21 15:00:00,聲gel Di Mar燰,Cross,629
+24291,69,BlockedShot,0.8730000305175781,0.55,0.08275549858808517,Wayne Rooney,a,629,OpenPlay,2014,LeftFoot,4539,Swansea,Manchester United,2,1,2015-02-21 15:00:00,,None,629
+23432,3,MissedShots,0.9169999694824219,0.5709999847412109,0.06015999987721443,Wayne Rooney,h,629,FromCorner,2014,Head,4550,Manchester United,Sunderland,2,0,2015-02-28 15:00:00,聲gel Di Mar燰,Cross,629
+23444,37,SavedShot,0.7759999847412109,0.4370000076293945,0.08514419943094254,Wayne Rooney,h,629,DirectFreekick,2014,RightFoot,4550,Manchester United,Sunderland,2,0,2015-02-28 15:00:00,,Standard,629
+23452,65,Goal,0.885,0.5,0.7611690163612366,Wayne Rooney,h,629,Penalty,2014,RightFoot,4550,Manchester United,Sunderland,2,0,2015-02-28 15:00:00,,Standard,629
+23455,71,SavedShot,0.7319999694824219,0.36700000762939455,0.021121999248862267,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4550,Manchester United,Sunderland,2,0,2015-02-28 15:00:00,Daley Blind,Pass,629
+23462,83,Goal,0.9490000152587891,0.500999984741211,0.5450369715690613,Wayne Rooney,h,629,OpenPlay,2014,Head,4550,Manchester United,Sunderland,2,0,2015-02-28 15:00:00,,Rebound,629
+21280,25,MissedShots,0.8969999694824219,0.4420000076293945,0.4213080108165741,Wayne Rooney,a,629,OpenPlay,2014,RightFoot,4487,Newcastle United,Manchester United,0,1,2015-03-04 19:45:00,Ashley Young,Throughball,629
+21292,74,SavedShot,0.925,0.38599998474121094,0.027885600924491882,Wayne Rooney,a,629,OpenPlay,2014,Head,4487,Newcastle United,Manchester United,0,1,2015-03-04 19:45:00,Ashley Young,Aerial,629
+20339,30,BlockedShot,0.905,0.5029999923706054,0.07301270216703415,Wayne Rooney,h,629,FromCorner,2014,Head,4501,Manchester United,Tottenham,3,0,2015-03-15 16:00:00,Juan Mata,Cross,629
+20340,33,Goal,0.865,0.524000015258789,0.4241330027580261,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4501,Manchester United,Tottenham,3,0,2015-03-15 16:00:00,,TakeOn,629
+20341,36,MissedShots,0.8830000305175781,0.4570000076293945,0.1268790066242218,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4501,Manchester United,Tottenham,3,0,2015-03-15 16:00:00,Marouane Fellaini,Cross,629
+20342,45,MissedShots,0.7480000305175781,0.7230000305175781,0.030866799876093864,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4501,Manchester United,Tottenham,3,0,2015-03-15 16:00:00,Ashley Young,Chipped,629
+20344,48,MissedShots,0.8219999694824218,0.47900001525878905,0.060911599546670914,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4501,Manchester United,Tottenham,3,0,2015-03-15 16:00:00,,None,629
+21590,29,BlockedShot,0.7169999694824218,0.4809999847412109,0.019614800810813904,Wayne Rooney,a,629,OpenPlay,2014,RightFoot,4510,Liverpool,Manchester United,1,2,2015-03-22 13:30:00,Ander Herrera,BallRecovery,629
+21600,93,SavedShot,0.885,0.5,0.7611690163612366,Wayne Rooney,a,629,Penalty,2014,RightFoot,4510,Liverpool,Manchester United,1,2,2015-03-22 13:30:00,,Standard,629
+22076,9,MissedShots,0.855999984741211,0.28200000762939453,0.052250299602746964,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,,TakeOn,629
+22079,26,MissedShots,0.915,0.4520000076293945,0.1101979985833168,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Antonio Valencia,Cross,629
+22083,45,BlockedShot,0.9109999847412109,0.4209999847412109,0.08041209727525711,Wayne Rooney,h,629,FromCorner,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Daley Blind,Pass,629
+22090,68,MissedShots,0.8480000305175781,0.4329999923706055,0.060379598289728165,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,,TakeOn,629
+22094,78,Goal,0.8530000305175781,0.544000015258789,0.07159209996461868,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,聲gel Di Mar燰,Cross,629
+20362,51,SavedShot,0.7430000305175781,0.6819999694824219,0.043213099241256714,Wayne Rooney,h,629,DirectFreekick,2014,RightFoot,4459,Manchester United,Manchester City,4,2,2015-04-12 16:00:00,,Standard,629
+22525,3,MissedShots,0.855999984741211,0.5670000076293945,0.0880483016371727,Wayne Rooney,a,629,OpenPlay,2014,LeftFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Luke Shaw,Pass,629
+22539,63,BlockedShot,0.8380000305175781,0.44099998474121094,0.06572560220956802,Wayne Rooney,a,629,OpenPlay,2014,RightFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Marouane Fellaini,Pass,629
+22541,67,SavedShot,0.7290000152587891,0.32,0.012741499580442905,Wayne Rooney,a,629,OpenPlay,2014,RightFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Juan Mata,LayOff,629
+22545,82,MissedShots,0.8969999694824219,0.5459999847412109,0.04917110130190849,Wayne Rooney,a,629,FromCorner,2014,Head,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,聲gel Di Mar燰,Cross,629
+22433,24,BlockedShot,0.9119999694824219,0.5720000076293945,0.03241389989852905,Wayne Rooney,a,629,OpenPlay,2014,Head,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Ashley Young,Aerial,629
+22441,46,SavedShot,0.955,0.5779999923706055,0.13315699994564056,Wayne Rooney,a,629,FromCorner,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Chris Smalling,Rebound,629
+22446,71,BlockedShot,0.725,0.48200000762939454,0.013356899842619896,Wayne Rooney,a,629,OpenPlay,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,,Dispossessed,629
+22449,80,MissedShots,0.925,0.555,0.08704899996519089,Wayne Rooney,a,629,FromCorner,2014,Head,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,聲gel Di Mar燰,Cross,629
+21569,48,SavedShot,0.7190000152587891,0.4540000152587891,0.016552500426769257,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4405,Manchester United,West Bromwich Albion,0,1,2015-05-02 17:30:00,Paddy McNair,Pass,629
+21582,82,BlockedShot,0.830999984741211,0.5259999847412109,0.04334380105137825,Wayne Rooney,h,629,OpenPlay,2014,RightFoot,4405,Manchester United,West Bromwich Albion,0,1,2015-05-02 17:30:00,Marouane Fellaini,HeadPass,629
+20669,40,BlockedShot,0.8819999694824219,0.5220000076293946,0.09851810336112976,Wayne Rooney,a,629,OpenPlay,2014,RightFoot,4415,Crystal Palace,Manchester United,1,2,2015-05-09 17:30:00,Ashley Young,Cross,629
+22846,2,ShotOnPost,0.7919999694824219,0.5629999923706055,0.035952500998973846,Wayne Rooney,a,629,OpenPlay,2014,RightFoot,4435,Hull,Manchester United,0,0,2015-05-24 15:00:00,Marcos Rojo,Pass,629
+22865,90,SavedShot,0.8059999847412109,0.6990000152587891,0.07125099748373032,Wayne Rooney,a,629,DirectFreekick,2014,RightFoot,4435,Hull,Manchester United,0,0,2015-05-24 15:00:00,,Standard,629
+545917,72,MissedShots,0.89,0.534000015258789,0.10651306062936783,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,Matteo Darmian,Cross,629
+545918,76,MissedShots,0.7469999694824219,0.6940000152587891,0.043067652732133865,Wayne Rooney,h,629,DirectFreekick,2015,RightFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,,Standard,629
+56796,5,SavedShot,0.715,0.44299999237060544,0.016407400369644165,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,101,Manchester United,Newcastle United,0,0,2015-08-22 15:45:00,Bastian Schweinsteiger,Pass,629
+56800,15,SavedShot,0.8119999694824219,0.6409999847412109,0.037273600697517395,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,101,Manchester United,Newcastle United,0,0,2015-08-22 15:45:00,Luke Shaw,Pass,629
+56812,71,BlockedShot,0.84,0.5359999847412109,0.06436610221862793,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,101,Manchester United,Newcastle United,0,0,2015-08-22 15:45:00,Juan Mata,Chipped,629
+57737,29,MissedShots,0.92,0.445,0.10168199986219406,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,120,Swansea,Manchester United,2,1,2015-08-30 19:00:00,Chris Smalling,HeadPass,629
+57738,33,SavedShot,0.8690000152587891,0.6819999694824219,0.11296200007200241,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,120,Swansea,Manchester United,2,1,2015-08-30 19:00:00,Ander Herrera,Throughball,629
+57743,53,MissedShots,0.935,0.41,0.05165030062198639,Wayne Rooney,a,629,OpenPlay,2015,Head,120,Swansea,Manchester United,2,1,2015-08-30 19:00:00,Luke Shaw,Aerial,629
+58409,44,BlockedShot,0.769000015258789,0.35900001525878905,0.022806299850344658,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,146,Manchester United,Sunderland,3,0,2015-09-26 18:00:00,Memphis Depay,Pass,629
+58412,45,Goal,0.9719999694824218,0.475,0.6656919717788696,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,146,Manchester United,Sunderland,3,0,2015-09-26 18:00:00,Anthony Martial,Cross,629
+58420,87,BlockedShot,0.919000015258789,0.5479999923706055,0.1394679993391037,Wayne Rooney,h,629,OpenPlay,2015,LeftFoot,146,Manchester United,Sunderland,3,0,2015-09-26 18:00:00,Ashley Young,Cross,629
+58630,36,SavedShot,0.799000015258789,0.3240000152587891,0.016562800854444504,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,160,Arsenal,Manchester United,3,0,2015-10-04 19:00:00,Juan Mata,Pass,629
+58636,61,SavedShot,0.7959999847412109,0.5779999923706055,0.029976800084114075,Wayne Rooney,a,629,FromCorner,2015,RightFoot,160,Arsenal,Manchester United,3,0,2015-10-04 19:00:00,Marouane Fellaini,Pass,629
+58643,85,MissedShots,0.725,0.3820000076293945,0.008547529578208923,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,160,Arsenal,Manchester United,3,0,2015-10-04 19:00:00,,None,629
+58946,10,MissedShots,0.81,0.28299999237060547,0.02459700033068657,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,166,Everton,Manchester United,0,3,2015-10-17 18:00:00,Juan Mata,Pass,629
+58952,23,BlockedShot,0.850999984741211,0.29,0.052260901778936386,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,166,Everton,Manchester United,0,3,2015-10-17 18:00:00,Ander Herrera,Pass,629
+58960,61,Goal,0.875,0.3609999847412109,0.2354079931974411,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,166,Everton,Manchester United,0,3,2015-10-17 18:00:00,Ander Herrera,Pass,629
+58963,68,SavedShot,0.915,0.6120000076293945,0.30507099628448486,Wayne Rooney,a,629,OpenPlay,2015,LeftFoot,166,Everton,Manchester United,0,3,2015-10-17 18:00:00,Anthony Martial,Pass,629
+59311,87,BlockedShot,0.8009999847412109,0.7169999694824218,0.016578400507569313,Wayne Rooney,h,629,FromCorner,2015,RightFoot,179,Manchester United,Manchester City,0,0,2015-10-25 18:05:00,,None,629
+59433,24,SavedShot,0.77,0.534000015258789,0.08220119774341583,Wayne Rooney,a,629,DirectFreekick,2015,RightFoot,182,Crystal Palace,Manchester United,0,0,2015-10-31 19:00:00,,Standard,629
+59445,80,MissedShots,0.75,0.34200000762939453,0.015501400455832481,Wayne Rooney,a,629,SetPiece,2015,RightFoot,182,Crystal Palace,Manchester United,0,0,2015-10-31 19:00:00,Marcos Rojo,Pass,629
+59449,91,BlockedShot,0.8159999847412109,0.51,0.0526002012193203,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,182,Crystal Palace,Manchester United,0,0,2015-10-31 19:00:00,,None,629
+55263,11,MissedShots,0.769000015258789,0.4620000076293945,0.029756100848317146,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,193,Manchester United,West Bromwich Albion,2,0,2015-11-07 19:00:00,Michael Carrick,Pass,629
+55267,30,BlockedShot,0.855,0.32099998474121094,0.047983601689338684,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,193,Manchester United,West Bromwich Albion,2,0,2015-11-07 19:00:00,Juan Mata,Chipped,629
+55273,66,BlockedShot,0.759000015258789,0.68,0.022033799439668655,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,193,Manchester United,West Bromwich Albion,2,0,2015-11-07 19:00:00,Bastian Schweinsteiger,Pass,629
+56135,16,BlockedShot,0.7780000305175782,0.575999984741211,0.030126700177788734,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,216,Leicester,Manchester United,1,1,2015-11-28 21:30:00,Matteo Darmian,Pass,629
+56140,38,MissedShots,0.914000015258789,0.504000015258789,0.09026280045509338,Wayne Rooney,a,629,FromCorner,2015,Head,216,Leicester,Manchester United,1,1,2015-11-28 21:30:00,Daley Blind,Cross,629
+56042,14,MissedShots,0.86,0.5690000152587891,0.09968449920415878,Wayne Rooney,h,629,OpenPlay,2015,LeftFoot,246,Manchester United,Norwich,1,2,2015-12-19 19:00:00,Juan Mata,Pass,629
+56044,23,BlockedShot,0.759000015258789,0.485,0.024806000292301178,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,246,Manchester United,Norwich,1,2,2015-12-19 19:00:00,Juan Mata,Pass,629
+56046,30,MissedShots,0.789000015258789,0.49599998474121093,0.03797829896211624,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,246,Manchester United,Norwich,1,2,2015-12-19 19:00:00,,None,629
+56049,59,MissedShots,0.92,0.45,0.09271650016307831,Wayne Rooney,h,629,SetPiece,2015,RightFoot,246,Manchester United,Norwich,1,2,2015-12-19 19:00:00,Anthony Martial,Cross,629
+53326,28,SavedShot,0.7190000152587891,0.629000015258789,0.01496949978172779,Wayne Rooney,h,629,SetPiece,2015,RightFoot,267,Manchester United,Chelsea,0,0,2015-12-28 21:30:00,Bastian Schweinsteiger,Pass,629
+53340,85,MissedShots,0.9519999694824218,0.41900001525878905,0.33961600065231323,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,267,Manchester United,Chelsea,0,0,2015-12-28 21:30:00,Cameron Borthwick-Jackson,Cross,629
+55723,19,BlockedShot,0.7659999847412109,0.7090000152587891,0.04806169867515564,Wayne Rooney,h,629,DirectFreekick,2015,RightFoot,275,Manchester United,Swansea,2,1,2016-01-02 19:00:00,,Standard,629
+55724,20,MissedShots,0.9030000305175782,0.645,0.06615640223026276,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,275,Manchester United,Swansea,2,1,2016-01-02 19:00:00,,None,629
+55730,35,BlockedShot,0.9259999847412109,0.5729999923706055,0.08991110324859619,Wayne Rooney,h,629,OpenPlay,2015,Head,275,Manchester United,Swansea,2,1,2016-01-02 19:00:00,Ashley Young,Cross,629
+55733,45,BlockedShot,0.8669999694824219,0.6040000152587891,0.10542500019073486,Wayne Rooney,h,629,OpenPlay,2015,LeftFoot,275,Manchester United,Swansea,2,1,2016-01-02 19:00:00,Morgan Schneiderlin,TakeOn,629
+55732,45,SavedShot,0.8880000305175781,0.4540000152587891,0.057099599391222,Wayne Rooney,h,629,OpenPlay,2015,Head,275,Manchester United,Swansea,2,1,2016-01-02 19:00:00,Ashley Young,Cross,629
+55735,56,SavedShot,0.8180000305175781,0.5470000076293945,0.07656589895486832,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,275,Manchester United,Swansea,2,1,2016-01-02 19:00:00,Daley Blind,Pass,629
+55744,74,BlockedShot,0.7240000152587891,0.585,0.0452985018491745,Wayne Rooney,h,629,DirectFreekick,2015,RightFoot,275,Manchester United,Swansea,2,1,2016-01-02 19:00:00,,Standard,629
+55745,76,Goal,0.9680000305175781,0.5659999847412109,0.14845700562000275,Wayne Rooney,h,629,OpenPlay,2015,LeftFoot,275,Manchester United,Swansea,2,1,2016-01-02 19:00:00,Anthony Martial,Pass,629
+54656,8,Goal,0.885,0.5,0.7611690163612366,Wayne Rooney,a,629,Penalty,2015,RightFoot,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,,Standard,629
+54658,26,MissedShots,0.8619999694824219,0.649000015258789,0.3259960114955902,Wayne Rooney,a,629,OpenPlay,2015,LeftFoot,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,Jesse Lingard,Throughball,629
+54678,78,Goal,0.8080000305175781,0.4520000076293945,0.03626900166273117,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,,Rebound,629
+56101,77,Goal,0.925,0.45599998474121095,0.4688369929790497,Wayne Rooney,a,629,FromCorner,2015,RightFoot,298,Liverpool,Manchester United,0,1,2016-01-17 18:05:00,,Rebound,629
+56102,84,MissedShots,0.6709999847412109,0.44299999237060544,0.01848449930548668,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,298,Liverpool,Manchester United,0,1,2016-01-17 18:05:00,Morgan Schneiderlin,Pass,629
+54642,19,MissedShots,0.799000015258789,0.3220000076293945,0.027702299878001213,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,303,Manchester United,Southampton,0,1,2016-01-23 19:00:00,Ander Herrera,Pass,629
+54644,29,MissedShots,0.7559999847412109,0.700999984741211,0.02010519988834858,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,303,Manchester United,Southampton,0,1,2016-01-23 19:00:00,Cameron Borthwick-Jackson,Pass,629
+54648,55,BlockedShot,0.7609999847412109,0.6659999847412109,0.020062100142240524,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,303,Manchester United,Southampton,0,1,2016-01-23 19:00:00,Morgan Schneiderlin,Pass,629
+54985,5,SavedShot,0.7340000152587891,0.485,0.019773000851273537,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,317,Manchester United,Stoke,3,0,2016-02-03 00:00:00,Jesse Lingard,Pass,629
+55003,52,Goal,0.955,0.47099998474121096,0.7017109990119934,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,317,Manchester United,Stoke,3,0,2016-02-03 00:00:00,Anthony Martial,Pass,629
+55007,74,MissedShots,0.764000015258789,0.7180000305175781,0.015752900391817093,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,317,Manchester United,Stoke,3,0,2016-02-03 00:00:00,Anthony Martial,Pass,629
+55983,12,MissedShots,0.749000015258789,0.524000015258789,0.013882700353860855,Wayne Rooney,a,629,FromCorner,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,,Aerial,629
+55996,46,SavedShot,0.895,0.575,0.04013270139694214,Wayne Rooney,a,629,OpenPlay,2015,Head,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Juan Mata,Chipped,629
+55999,48,SavedShot,0.750999984741211,0.7,0.019144199788570404,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Daley Blind,Pass,629
+56008,73,MissedShots,0.865999984741211,0.45599998474121095,0.08613640069961548,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Matteo Darmian,Cross,629
+56013,93,MissedShots,0.9230000305175782,0.7240000152587891,0.03814540058374405,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,,TakeOn,629
+55964,50,MissedShots,0.759000015258789,0.33599998474121096,0.022390099242329597,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,331,Sunderland,Manchester United,2,1,2016-02-13 16:45:00,Morgan Schneiderlin,Pass,629
+56570,34,SavedShot,0.75,0.6480000305175782,0.02320680022239685,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,406,Manchester United,Aston Villa,1,0,2016-04-16 18:00:00,Juan Mata,Pass,629
+61155,24,SavedShot,0.769000015258789,0.52,0.03626060113310814,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,417,Manchester United,Crystal Palace,2,0,2016-04-20 23:00:00,Anthony Martial,Pass,629
+61160,45,BlockedShot,0.825,0.5729999923706055,0.06290409713983536,Wayne Rooney,h,629,OpenPlay,2015,LeftFoot,417,Manchester United,Crystal Palace,2,0,2016-04-20 23:00:00,Anthony Martial,Pass,629
+61165,58,MissedShots,0.7659999847412109,0.43599998474121093,0.025077899917960167,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,417,Manchester United,Crystal Palace,2,0,2016-04-20 23:00:00,,None,629
+57158,13,BlockedShot,0.7119999694824218,0.580999984741211,0.017852600663900375,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,Michael Carrick,Pass,629
+57160,17,MissedShots,0.8169999694824219,0.4540000152587891,0.07838699966669083,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,,TakeOn,629
+57161,22,BlockedShot,0.7930000305175782,0.539000015258789,0.1127220019698143,Wayne Rooney,h,629,DirectFreekick,2015,RightFoot,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,,Standard,629
+57167,42,BlockedShot,0.745,0.54,0.017004499211907387,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,Marcus Rashford,Pass,629
+57175,60,MissedShots,0.8159999847412109,0.34900001525878904,0.036051299422979355,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,,None,629
+57185,88,SavedShot,0.904000015258789,0.799000015258789,0.06863459944725037,Wayne Rooney,h,629,DirectFreekick,2015,RightFoot,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,,Standard,629
+57187,89,SavedShot,0.7569999694824219,0.5779999923706055,0.015519799664616585,Wayne Rooney,h,629,SetPiece,2015,RightFoot,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,,Rebound,629
+56728,22,MissedShots,0.7759999847412109,0.7330000305175781,0.017711399123072624,Wayne Rooney,a,629,OpenPlay,2015,RightFoot,447,West Ham,Manchester United,3,2,2016-05-10 23:30:00,Marcos Rojo,Pass,629
+52053,42,Goal,0.9080000305175782,0.54,0.4620940089225769,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,460,Manchester United,Bournemouth,3,1,2016-05-17 23:00:00,Anthony Martial,Pass,629
+52054,45,BlockedShot,0.785,0.475,0.039867300540208817,Wayne Rooney,h,629,OpenPlay,2015,RightFoot,460,Manchester United,Bournemouth,3,1,2016-05-17 23:00:00,Jesse Lingard,Pass,629
+112116,26,SavedShot,0.865,0.5770000076293945,0.10051699727773666,Wayne Rooney,a,629,OpenPlay,2016,RightFoot,468,Bournemouth,Manchester United,1,3,2016-08-14 16:30:00,Juan Mata,Pass,629
+112118,33,BlockedShot,0.7559999847412109,0.555,0.020300300791859627,Wayne Rooney,a,629,OpenPlay,2016,RightFoot,468,Bournemouth,Manchester United,1,3,2016-08-14 16:30:00,Anthony Martial,Pass,629
+112121,50,SavedShot,0.905,0.500999984741211,0.45492300391197205,Wayne Rooney,a,629,OpenPlay,2016,RightFoot,468,Bournemouth,Manchester United,1,3,2016-08-14 16:30:00,Zlatan Ibrahimovic,Pass,629
+112124,58,Goal,0.9469999694824218,0.425,0.3934980034828186,Wayne Rooney,a,629,OpenPlay,2016,Head,468,Bournemouth,Manchester United,1,3,2016-08-14 16:30:00,Anthony Martial,Rebound,629
+112676,33,SavedShot,0.7090000152587891,0.36,0.014366400428116322,Wayne Rooney,h,629,OpenPlay,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Paul Pogba,Pass,629
+112687,64,MissedShots,0.7880000305175782,0.6530000305175782,0.018139800056815147,Wayne Rooney,h,629,OpenPlay,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,,Rebound,629
+112974,36,BlockedShot,0.9319999694824219,0.48700000762939455,0.5668420195579529,Wayne Rooney,a,629,OpenPlay,2016,RightFoot,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,,None,629
+112980,48,SavedShot,0.905,0.5359999847412109,0.04787160083651543,Wayne Rooney,a,629,OpenPlay,2016,Head,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,,None,629
+112985,73,MissedShots,0.8430000305175781,0.6469999694824219,0.018441099673509598,Wayne Rooney,a,629,OpenPlay,2016,RightFoot,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,,Aerial,629
+113266,62,MissedShots,0.705999984741211,0.3920000076293945,0.009309349581599236,Wayne Rooney,h,629,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Ander Herrera,Chipped,629
+113656,30,MissedShots,0.8180000305175781,0.5429999923706055,0.07595399767160416,Wayne Rooney,a,629,OpenPlay,2016,LeftFoot,507,Watford,Manchester United,3,1,2016-09-18 15:00:00,Zlatan Ibrahimovic,LayOff,629
+114380,71,BlockedShot,0.8059999847412109,0.34799999237060547,0.03695959970355034,Wayne Rooney,h,629,OpenPlay,2016,RightFoot,527,Manchester United,Stoke,1,1,2016-10-02 15:00:00,Daley Blind,Pass,629
+114813,87,BlockedShot,0.96,0.41900001525878905,0.09646649658679962,Wayne Rooney,h,629,FromCorner,2016,RightFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,,BallTouch,629
+114817,92,MissedShots,0.860999984741211,0.4879999923706055,0.09526590257883072,Wayne Rooney,h,629,SetPiece,2016,RightFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,Daley Blind,Pass,629
+115313,1,MissedShots,0.8730000305175781,0.705,0.02107970044016838,Wayne Rooney,a,629,OpenPlay,2016,RightFoot,2695,Swansea,Manchester United,1,3,2016-11-06 19:00:00,Paul Pogba,TakeOn,629
+115318,34,MissedShots,0.8969999694824219,0.6840000152587891,0.06902819871902466,Wayne Rooney,a,629,OpenPlay,2016,LeftFoot,2695,Swansea,Manchester United,1,3,2016-11-06 19:00:00,,BallRecovery,629
+115302,67,SavedShot,0.85,0.6609999847412109,0.05157129839062691,Wayne Rooney,h,629,OpenPlay,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Zlatan Ibrahimovic,Pass,629
+115306,76,MissedShots,0.89,0.40799999237060547,0.031778398901224136,Wayne Rooney,h,629,OpenPlay,2016,Head,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Antonio Valencia,Cross,629
+117910,4,MissedShots,0.879000015258789,0.37900001525878907,0.015506899915635586,Wayne Rooney,a,629,OpenPlay,2016,Head,3130,Crystal Palace,Manchester United,1,2,2016-12-15 00:00:00,Juan Mata,Cross,629
+117915,36,SavedShot,0.894000015258789,0.39099998474121095,0.07560340315103531,Wayne Rooney,a,629,OpenPlay,2016,LeftFoot,3130,Crystal Palace,Manchester United,1,2,2016-12-15 00:00:00,Paul Pogba,Chipped,629
+117926,67,SavedShot,0.749000015258789,0.52,0.02413569949567318,Wayne Rooney,a,629,OpenPlay,2016,RightFoot,3130,Crystal Palace,Manchester United,1,2,2016-12-15 00:00:00,Zlatan Ibrahimovic,Pass,629
+115944,6,MissedShots,0.955999984741211,0.5770000076293945,0.13925400376319885,Wayne Rooney,a,629,OpenPlay,2016,Head,3140,West Bromwich Albion,Manchester United,0,2,2016-12-17 21:30:00,Antonio Valencia,Cross,629
+115946,22,SavedShot,0.8219999694824218,0.5529999923706055,0.06687869876623154,Wayne Rooney,a,629,OpenPlay,2016,RightFoot,3140,West Bromwich Albion,Manchester United,0,2,2016-12-17 21:30:00,Jesse Lingard,Pass,629
+117564,64,MissedShots,0.8130000305175781,0.4640000152587891,0.05430720001459122,Wayne Rooney,h,629,OpenPlay,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Henrikh Mkhitaryan,Pass,629
+117572,93,BlockedShot,0.7269999694824218,0.435,0.01350369956344366,Wayne Rooney,h,629,OpenPlay,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,,None,629
+118728,79,MissedShots,0.95,0.54,0.0719195008277893,Wayne Rooney,a,629,OpenPlay,2016,Head,3354,Stoke,Manchester United,1,1,2017-01-21 18:00:00,Jesse Lingard,HeadPass,629
+118729,82,BlockedShot,0.764000015258789,0.43599998474121093,0.027853600680828094,Wayne Rooney,a,629,OpenPlay,2016,RightFoot,3354,Stoke,Manchester United,1,1,2017-01-21 18:00:00,Paul Pogba,Pass,629
+118732,93,Goal,0.8680000305175781,0.8169999694824219,0.05417549982666969,Wayne Rooney,a,629,DirectFreekick,2016,RightFoot,3354,Stoke,Manchester United,1,1,2017-01-21 18:00:00,,Standard,629
+119570,1,MissedShots,0.9119999694824219,0.555,0.29987698793411255,Wayne Rooney,h,629,OpenPlay,2016,Head,3402,Manchester United,Bournemouth,1,1,2017-03-04 12:30:00,Antonio Valencia,Cross,629
+119579,43,SavedShot,0.8980000305175782,0.66,0.06475940346717834,Wayne Rooney,h,629,OpenPlay,2016,RightFoot,3402,Manchester United,Bournemouth,1,1,2017-03-04 12:30:00,Paul Pogba,Chipped,629
+119584,52,BlockedShot,0.8619999694824219,0.545,0.0678844004869461,Wayne Rooney,h,629,OpenPlay,2016,LeftFoot,3402,Manchester United,Bournemouth,1,1,2017-03-04 12:30:00,Luke Shaw,Cross,629
+120651,8,SavedShot,0.9590000152587891,0.5479999923706055,0.632794976234436,Wayne Rooney,a,629,OpenPlay,2016,LeftFoot,3472,Burnley,Manchester United,0,2,2017-04-23 14:15:00,Ander Herrera,Pass,629
+120660,38,Goal,0.9869999694824219,0.5570000076293945,0.7041820287704468,Wayne Rooney,a,629,OpenPlay,2016,LeftFoot,3472,Burnley,Manchester United,0,2,2017-04-23 14:15:00,Anthony Martial,Rebound,629
+120665,87,MissedShots,0.7230000305175781,0.43900001525878907,0.016137100756168365,Wayne Rooney,a,629,OpenPlay,2016,RightFoot,3472,Burnley,Manchester United,0,2,2017-04-23 14:15:00,,None,629
+120954,22,MissedShots,0.925,0.5129999923706055,0.1367740035057068,Wayne Rooney,h,629,OpenPlay,2016,Head,3482,Manchester United,Swansea,1,1,2017-04-30 12:00:00,Ashley Young,Cross,629
+120960,47,Goal,0.885,0.5,0.7611690163612366,Wayne Rooney,h,629,Penalty,2016,RightFoot,3482,Manchester United,Swansea,1,1,2017-04-30 12:00:00,,Standard,629
+120961,48,BlockedShot,0.91,0.515,0.3697260022163391,Wayne Rooney,h,629,OpenPlay,2016,RightFoot,3482,Manchester United,Swansea,1,1,2017-04-30 12:00:00,Ander Herrera,Cross,629
+121223,2,MissedShots,0.8809999847412109,0.4,0.015064399689435959,Wayne Rooney,a,629,OpenPlay,2016,Head,3490,Arsenal,Manchester United,2,0,2017-05-07 16:00:00,Juan Mata,Aerial,629
+121226,24,MissedShots,0.905,0.5609999847412109,0.019439199939370155,Wayne Rooney,a,629,FromCorner,2016,Head,3490,Arsenal,Manchester United,2,0,2017-05-07 16:00:00,Juan Mata,Aerial,629
+121231,31,SavedShot,0.894000015258789,0.620999984741211,0.34495601058006287,Wayne Rooney,a,629,OpenPlay,2016,RightFoot,3490,Arsenal,Manchester United,2,0,2017-05-07 16:00:00,,BallRecovery,629
+121234,64,SavedShot,0.7369999694824219,0.750999984741211,0.0333372987806797,Wayne Rooney,a,629,DirectFreekick,2016,RightFoot,3490,Arsenal,Manchester United,2,0,2017-05-07 16:00:00,,Standard,629
+121237,73,MissedShots,0.7430000305175781,0.4570000076293945,0.017749899998307228,Wayne Rooney,a,629,OpenPlay,2016,RightFoot,3490,Arsenal,Manchester United,2,0,2017-05-07 16:00:00,Jesse Lingard,Pass,629
+121239,80,MissedShots,0.7530000305175781,0.5729999923706055,0.013896799646317959,Wayne Rooney,a,629,OpenPlay,2016,RightFoot,3490,Arsenal,Manchester United,2,0,2017-05-07 16:00:00,,None,629
+120468,1,SavedShot,0.52,0.4909999847412109,0.007574200164526701,Wayne Rooney,a,629,OpenPlay,2016,RightFoot,3507,Tottenham,Manchester United,2,1,2017-05-14 16:30:00,,BallRecovery,629
+120471,11,MissedShots,0.925,0.54,0.044569600373506546,Wayne Rooney,a,629,FromCorner,2016,Head,3507,Tottenham,Manchester United,2,1,2017-05-14 16:30:00,Daley Blind,Aerial,629
+120487,70,Goal,0.9530000305175781,0.5579999923706055,0.5363659858703613,Wayne Rooney,a,629,OpenPlay,2016,RightFoot,3507,Tottenham,Manchester United,2,1,2017-05-14 16:30:00,Anthony Martial,Pass,629
+119634,44,MissedShots,0.7519999694824219,0.7069999694824218,0.0149101996794343,Wayne Rooney,a,629,OpenPlay,2016,RightFoot,3412,Southampton,Manchester United,0,0,2017-05-17 19:45:00,Anthony Martial,Pass,629
+119642,61,MissedShots,0.7869999694824219,0.6909999847412109,0.022538000717759132,Wayne Rooney,a,629,OpenPlay,2016,RightFoot,3412,Southampton,Manchester United,0,0,2017-05-17 19:45:00,Juan Mata,Pass,629
+112535,11,MissedShots,0.87,0.725999984741211,0.03437890112400055,Wayne Rooney,h,629,OpenPlay,2016,LeftFoot,3516,Manchester United,Crystal Palace,2,0,2017-05-21 15:00:00,Demetri Mitchell,Chipped,629
+112542,40,BlockedShot,0.8040000152587891,0.4759999847412109,0.06913310289382935,Wayne Rooney,h,629,OpenPlay,2016,RightFoot,3516,Manchester United,Crystal Palace,2,0,2017-05-21 15:00:00,Paul Pogba,Pass,629
+112543,47,BlockedShot,0.7290000152587891,0.32099998474121094,0.02239849977195263,Wayne Rooney,h,629,OpenPlay,2016,RightFoot,3516,Manchester United,Crystal Palace,2,0,2017-05-21 15:00:00,Demetri Mitchell,Pass,629
+112545,55,BlockedShot,0.875999984741211,0.40700000762939453,0.15494999289512634,Wayne Rooney,h,629,OpenPlay,2016,RightFoot,3516,Manchester United,Crystal Palace,2,0,2017-05-21 15:00:00,Scott McTominay,TakeOn,629
+158247,45,Goal,0.9030000305175782,0.5159999847412109,0.3003639876842499,Wayne Rooney,h,629,OpenPlay,2017,Head,7125,Everton,Stoke,1,0,2017-08-12 15:00:00,Dominic Calvert-Lewin,Cross,629
+158522,34,Goal,0.9159999847412109,0.4520000076293945,0.4607450067996979,Wayne Rooney,a,629,OpenPlay,2017,LeftFoot,7138,Manchester City,Everton,1,1,2017-08-21 20:00:00,Dominic Calvert-Lewin,Pass,629
+158532,73,MissedShots,0.6379999923706055,0.045999999046325686,0.008084040135145187,Wayne Rooney,a,629,OpenPlay,2017,RightFoot,7138,Manchester City,Everton,1,1,2017-08-21 20:00:00,Dominic Calvert-Lewin,BallTouch,629
+158536,78,SavedShot,0.86,0.46099998474121096,0.009706130251288414,Wayne Rooney,a,629,SetPiece,2017,Head,7138,Manchester City,Everton,1,1,2017-08-21 20:00:00,Gylfi Sigurdsson,Aerial,629
+159266,69,MissedShots,0.7859999847412109,0.5,0.014213800430297852,Wayne Rooney,a,629,OpenPlay,2017,RightFoot,7140,Chelsea,Everton,2,0,2017-08-27 13:30:00,,Aerial,629
+159244,83,BlockedShot,0.955999984741211,0.4779999923706055,0.08177469670772552,Wayne Rooney,h,629,FromCorner,2017,Head,7154,Everton,Tottenham,0,3,2017-09-09 15:00:00,Leighton Baines,Aerial,629
+159246,84,MissedShots,0.9430000305175781,0.5159999847412109,0.44623899459838867,Wayne Rooney,h,629,FromCorner,2017,Head,7154,Everton,Tottenham,0,3,2017-09-09 15:00:00,Leighton Baines,Cross,629
+158765,20,MissedShots,0.8640000152587891,0.42700000762939455,0.08360090106725693,Wayne Rooney,a,629,OpenPlay,2017,RightFoot,7168,Manchester United,Everton,4,0,2017-09-17 16:00:00,Cuco Martina,Pass,629
+158772,45,SavedShot,0.9390000152587891,0.3940000152587891,0.30366000533103943,Wayne Rooney,a,629,OpenPlay,2017,LeftFoot,7168,Manchester United,Everton,4,0,2017-09-17 16:00:00,,Tackle,629
+160152,77,BlockedShot,0.7169999694824218,0.3729999923706055,0.015891199931502342,Wayne Rooney,h,629,OpenPlay,2017,RightFoot,7187,Everton,Burnley,0,1,2017-10-01 14:15:00,Idrissa Gueye,Pass,629
+160154,81,MissedShots,0.7230000305175781,0.534000015258789,0.016281500458717346,Wayne Rooney,h,629,OpenPlay,2017,RightFoot,7187,Everton,Burnley,0,1,2017-10-01 14:15:00,Dominic Calvert-Lewin,Pass,629
+160155,83,MissedShots,0.9290000152587891,0.544000015258789,0.049935899674892426,Wayne Rooney,h,629,OpenPlay,2017,Head,7187,Everton,Burnley,0,1,2017-10-01 14:15:00,Gylfi Sigurdsson,Aerial,629
+160413,89,Goal,0.885,0.5,0.7611690163612366,Wayne Rooney,a,629,Penalty,2017,RightFoot,7189,Brighton,Everton,1,1,2017-10-15 13:30:00,,Standard,629
+159402,11,Goal,0.799000015258789,0.43099998474121093,0.044375400990247726,Wayne Rooney,h,629,OpenPlay,2017,RightFoot,7200,Everton,Arsenal,2,5,2017-10-22 13:30:00,,BallRecovery,629
+159972,40,MissedShots,0.9019999694824219,0.674000015258789,0.05874820053577423,Wayne Rooney,a,629,OpenPlay,2017,RightFoot,7214,Leicester,Everton,2,0,2017-10-29 16:00:00,Kevin Mirallas,Pass,629
+159980,66,MissedShots,0.8909999847412109,0.5629999923706055,0.035761501640081406,Wayne Rooney,a,629,OpenPlay,2017,Head,7214,Leicester,Everton,2,0,2017-10-29 16:00:00,Jonjoe Kenny,Aerial,629
+161168,17,Goal,0.9259999847412109,0.4929999923706055,0.401513010263443,Wayne Rooney,h,629,SetPiece,2017,Head,7256,Everton,West Ham,4,0,2017-11-29 20:00:00,,Rebound,629
+161167,17,SavedShot,0.885,0.5,0.7611690163612366,Wayne Rooney,h,629,Penalty,2017,RightFoot,7256,Everton,West Ham,4,0,2017-11-29 20:00:00,,Standard,629
+161170,27,Goal,0.9119999694824219,0.5570000076293945,0.45760199427604675,Wayne Rooney,h,629,OpenPlay,2017,RightFoot,7256,Everton,West Ham,4,0,2017-11-29 20:00:00,Jonjoe Kenny,None,629
+161176,65,Goal,0.4540000152587891,0.5940000152587891,0.008865510113537312,Wayne Rooney,h,629,OpenPlay,2017,RightFoot,7256,Everton,West Ham,4,0,2017-11-29 20:00:00,,None,629
+161692,18,BlockedShot,0.78,0.34599998474121096,0.021129600703716278,Wayne Rooney,h,629,OpenPlay,2017,RightFoot,7260,Everton,Huddersfield,2,0,2017-12-02 15:00:00,,None,629
+179243,76,Goal,0.885,0.5,0.7611690163612366,Wayne Rooney,a,629,Penalty,2017,RightFoot,7275,Liverpool,Everton,1,1,2017-12-10 14:15:00,,Standard,629
+182958,26,Goal,0.985,0.5209999847412109,0.959414005279541,Wayne Rooney,a,629,OpenPlay,2017,RightFoot,7284,Newcastle United,Everton,0,1,2017-12-13 19:45:00,,Rebound,629
+182967,59,MissedShots,0.6880000305175781,0.500999984741211,0.020520299673080444,Wayne Rooney,a,629,OpenPlay,2017,RightFoot,7284,Newcastle United,Everton,0,1,2017-12-13 19:45:00,Jonjoe Kenny,Pass,629
+183248,19,MissedShots,0.9130000305175782,0.635,0.05565140023827553,Wayne Rooney,h,629,OpenPlay,2017,RightFoot,7293,Everton,Swansea,3,1,2017-12-18 20:00:00,Cuco Martina,Cross,629
+183256,46,SavedShot,0.885,0.5,0.7611690163612366,Wayne Rooney,h,629,Penalty,2017,RightFoot,7293,Everton,Swansea,3,1,2017-12-18 20:00:00,,Standard,629
+183263,72,Goal,0.885,0.5,0.7611690163612366,Wayne Rooney,h,629,Penalty,2017,RightFoot,7293,Everton,Swansea,3,1,2017-12-18 20:00:00,,Standard,629
+186079,56,MissedShots,0.799000015258789,0.40099998474121096,0.035144999623298645,Wayne Rooney,a,629,OpenPlay,2017,LeftFoot,7319,Bournemouth,Everton,2,1,2017-12-30 15:00:00,Morgan Schneiderlin,Pass,629
+186342,3,BlockedShot,0.7630000305175781,0.4640000152587891,0.019629500806331635,Wayne Rooney,h,629,OpenPlay,2017,RightFoot,7333,Everton,Manchester United,0,2,2018-01-01 17:30:00,,Rebound,629
+187562,15,MissedShots,0.8119999694824219,0.5459999847412109,0.05317610129714012,Wayne Rooney,a,629,OpenPlay,2017,LeftFoot,7346,Tottenham,Everton,4,0,2018-01-13 17:30:00,Cenk Tosun,Pass,629
+187576,48,MissedShots,0.7140000152587891,0.49,0.011998999863862991,Wayne Rooney,a,629,OpenPlay,2017,RightFoot,7346,Tottenham,Everton,4,0,2018-01-13 17:30:00,Cenk Tosun,LayOff,629
+187579,57,BlockedShot,0.8530000305175781,0.46799999237060547,0.03186500072479248,Wayne Rooney,a,629,SetPiece,2017,LeftFoot,7346,Tottenham,Everton,4,0,2018-01-13 17:30:00,,Aerial,629
+193854,28,BlockedShot,0.7269999694824218,0.48200000762939454,0.04990009963512421,Wayne Rooney,h,629,DirectFreekick,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,,Standard,629
+197529,67,MissedShots,0.8619999694824219,0.43,0.035866398364305496,Wayne Rooney,a,629,OpenPlay,2017,RightFoot,7392,Watford,Everton,1,0,2018-02-24 17:30:00,,Aerial,629
+200019,37,MissedShots,0.6869999694824219,0.49900001525878906,0.018413400277495384,Wayne Rooney,h,629,FromCorner,2017,RightFoot,7412,Everton,Brighton,2,0,2018-03-10 15:00:00,Leighton Baines,Pass,629
+200023,55,BlockedShot,0.749000015258789,0.5109999847412109,0.014615300111472607,Wayne Rooney,h,629,SetPiece,2017,RightFoot,7412,Everton,Brighton,2,0,2018-03-10 15:00:00,,None,629
+200031,87,SavedShot,0.885,0.5,0.7611690163612366,Wayne Rooney,h,629,Penalty,2017,RightFoot,7412,Everton,Brighton,2,0,2018-03-10 15:00:00,,Standard,629
+201476,46,SavedShot,0.705,0.375,0.014537599869072437,Wayne Rooney,a,629,OpenPlay,2017,RightFoot,7425,Stoke,Everton,1,2,2018-03-17 15:00:00,Idrissa Gueye,Pass,629
+201481,59,SavedShot,0.715,0.43,0.04224339872598648,Wayne Rooney,a,629,DirectFreekick,2017,RightFoot,7425,Stoke,Everton,1,2,2018-03-17 15:00:00,,Standard,629
+206988,5,MissedShots,0.7280000305175781,0.38799999237060545,0.014556500129401684,Wayne Rooney,h,629,OpenPlay,2017,RightFoot,7443,Everton,Liverpool,0,0,2018-04-07 11:30:00,Cenk Tosun,Pass,629
+208506,64,MissedShots,0.76,0.46299999237060546,0.032880999147892,Wayne Rooney,a,629,OpenPlay,2017,RightFoot,7456,Swansea,Everton,1,1,2018-04-14 14:00:00,Yannick Bolasie,Pass,629
+208514,80,MissedShots,0.7480000305175781,0.5309999847412109,0.0628105029463768,Wayne Rooney,a,629,DirectFreekick,2017,RightFoot,7456,Swansea,Everton,1,1,2018-04-14 14:00:00,,Standard,629
+211291,24,BlockedShot,0.7230000305175781,0.445,0.011622900143265724,Wayne Rooney,h,629,OpenPlay,2017,RightFoot,7461,Everton,Newcastle United,1,0,2018-04-23 19:00:00,Cenk Tosun,HeadPass,629
+211301,54,MissedShots,0.7280000305175781,0.5220000076293946,0.021867400035262108,Wayne Rooney,h,629,OpenPlay,2017,RightFoot,7461,Everton,Newcastle United,1,0,2018-04-23 19:00:00,Tom Davies,Pass,629
+211690,27,MissedShots,0.835999984741211,0.15800000190734864,0.013224699534475803,Wayne Rooney,a,629,OpenPlay,2017,RightFoot,7471,Huddersfield,Everton,0,2,2018-04-28 14:00:00,Cenk Tosun,HeadPass,629

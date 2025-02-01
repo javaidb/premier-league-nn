@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+613773,84,Goal,0.975,0.5629999923706055,0.5787168145179749,Romain Esse,h,13387,OpenPlay,2024,RightFoot,26825,Crystal Palace,Brentford,1,2,2025-01-26 14:00:00,Daniel Muñoz,Pass,13387

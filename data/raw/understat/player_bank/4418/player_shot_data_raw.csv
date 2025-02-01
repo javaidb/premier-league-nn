@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15154,30,BlockedShot,0.7440000152587891,0.5029999923706054,0.022104499861598015,Frank Lampard,a,4418,OpenPlay,2014,RightFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,David Silva,Pass,4418
+15549,84,Goal,0.8909999847412109,0.5640000152587891,0.40473300218582153,Frank Lampard,h,4418,OpenPlay,2014,RightFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,James Milner,Pass,4418
+15550,88,BlockedShot,0.8530000305175781,0.5540000152587891,0.0697660967707634,Frank Lampard,h,4418,OpenPlay,2014,LeftFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,,None,4418
+15553,92,MissedShots,0.7080000305175781,0.4779999923706055,0.015212999656796455,Frank Lampard,h,4418,OpenPlay,2014,RightFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,James Milner,Pass,4418
+15771,86,Goal,0.915,0.4520000076293945,0.45000600814819336,Frank Lampard,a,4418,OpenPlay,2014,RightFoot,4744,Hull,Manchester City,2,4,2014-09-27 15:00:00,Pablo Zabaleta,Pass,4418
+15773,92,BlockedShot,0.9030000305175782,0.41700000762939454,0.13422800600528717,Frank Lampard,a,4418,OpenPlay,2014,LeftFoot,4744,Hull,Manchester City,2,4,2014-09-27 15:00:00,Edin Dzeko,Pass,4418
+16564,78,BlockedShot,0.8109999847412109,0.48,0.06111999973654747,Frank Lampard,a,4418,OpenPlay,2014,RightFoot,4694,Aston Villa,Manchester City,0,2,2014-10-04 17:30:00,James Milner,Pass,4418
+16565,81,SavedShot,0.8669999694824219,0.47900001525878905,0.36567699909210205,Frank Lampard,a,4418,OpenPlay,2014,RightFoot,4694,Aston Villa,Manchester City,0,2,2014-10-04 17:30:00,,Dispossessed,4418
+16569,93,MissedShots,0.9419999694824219,0.435,0.11435099691152573,Frank Lampard,a,4418,OpenPlay,2014,Head,4694,Aston Villa,Manchester City,0,2,2014-10-04 17:30:00,James Milner,Cross,4418
+18184,79,Goal,0.8219999694824218,0.5279999923706055,0.11341899633407593,Frank Lampard,a,4418,OpenPlay,2014,RightFoot,4687,Southampton,Manchester City,0,3,2014-11-30 13:30:00,James Milner,Pass,4418
+19737,90,MissedShots,0.7340000152587891,0.7440000152587891,0.01586499996483326,Frank Lampard,a,4418,OpenPlay,2014,RightFoot,4597,Sunderland,Manchester City,1,4,2014-12-03 19:45:00,Gaël Clichy,Pass,4418
+18154,39,Goal,0.9390000152587891,0.5529999923706055,0.5547540187835693,Frank Lampard,a,4418,OpenPlay,2014,LeftFoot,4614,Leicester,Manchester City,0,1,2014-12-13 15:00:00,Samir Nasri,Pass,4418
+19647,72,Goal,0.895,0.53,0.06702610105276108,Frank Lampard,h,4418,OpenPlay,2014,Head,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Gaël Clichy,Cross,4418
+19648,74,SavedShot,0.8730000305175781,0.580999984741211,0.09670320153236389,Frank Lampard,h,4418,OpenPlay,2014,LeftFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,,None,4418
+19650,79,SavedShot,0.9030000305175782,0.39799999237060546,0.11757399886846542,Frank Lampard,h,4418,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Pablo Zabaleta,Pass,4418
+19653,85,BlockedShot,0.9080000305175782,0.425,0.13512299954891205,Frank Lampard,h,4418,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,Jesús Navas,Pass,4418
+21091,86,MissedShots,0.7609999847412109,0.5029999923706054,0.030324900522828102,Frank Lampard,h,4418,OpenPlay,2014,RightFoot,4486,Manchester City,Leicester,2,0,2015-03-04 19:45:00,Bacary Sagna,Pass,4418
+22146,84,BlockedShot,0.7169999694824218,0.48900001525878906,0.04494379833340645,Frank Lampard,a,4418,DirectFreekick,2014,RightFoot,4498,Burnley,Manchester City,1,0,2015-03-14 17:30:00,,Standard,4418
+21770,2,BlockedShot,0.805,0.685,0.07576009631156921,Frank Lampard,h,4418,DirectFreekick,2014,RightFoot,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,,Standard,4418
+21774,11,SavedShot,0.7290000152587891,0.40900001525878904,0.01798189990222454,Frank Lampard,h,4418,OpenPlay,2014,RightFoot,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,David Silva,Pass,4418
+21776,18,MissedShots,0.845999984741211,0.47400001525878904,0.06756100058555603,Frank Lampard,h,4418,OpenPlay,2014,RightFoot,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,,None,4418
+21777,20,BlockedShot,0.8040000152587891,0.6120000076293945,0.04038500040769577,Frank Lampard,h,4418,OpenPlay,2014,LeftFoot,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,David Silva,Pass,4418
+21785,32,MissedShots,0.8580000305175781,0.5570000076293945,0.12414400279521942,Frank Lampard,h,4418,OpenPlay,2014,RightFoot,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,Wilfried Bony,LayOff,4418
+21801,55,SavedShot,0.855999984741211,0.48700000762939455,0.14293800294399261,Frank Lampard,h,4418,OpenPlay,2014,LeftFoot,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,David Silva,Throughball,4418
+22204,12,MissedShots,0.865,0.5609999847412109,0.06651719659566879,Frank Lampard,a,4418,FromCorner,2014,RightFoot,4407,Tottenham,Manchester City,0,1,2015-05-03 16:00:00,,None,4418
+22214,33,MissedShots,0.9159999847412109,0.565,0.10183800011873245,Frank Lampard,a,4418,OpenPlay,2014,Head,4407,Tottenham,Manchester City,0,1,2015-05-03 16:00:00,James Milner,Cross,4418
+22223,55,BlockedShot,0.7759999847412109,0.3770000076293945,0.020231299102306366,Frank Lampard,a,4418,FromCorner,2014,RightFoot,4407,Tottenham,Manchester City,0,1,2015-05-03 16:00:00,,Dispossessed,4418
+21510,54,MissedShots,0.9290000152587891,0.46299999237060546,0.144678995013237,Frank Lampard,h,4418,OpenPlay,2014,RightFoot,4416,Manchester City,Queens Park Rangers,6,0,2015-05-10 13:30:00,Pablo Zabaleta,Pass,4418
+21045,45,BlockedShot,0.7759999847412109,0.5609999847412109,0.041289400309324265,Frank Lampard,a,4418,OpenPlay,2014,RightFoot,4426,Swansea,Manchester City,2,4,2015-05-17 13:30:00,David Silva,Pass,4418
+21049,54,SavedShot,0.884000015258789,0.44,0.14675499498844147,Frank Lampard,a,4418,OpenPlay,2014,LeftFoot,4426,Swansea,Manchester City,2,4,2015-05-17 13:30:00,Sergio Agüero,Pass,4418
+23012,30,Goal,0.91,0.4779999923706055,0.13906699419021606,Frank Lampard,h,4418,OpenPlay,2014,LeftFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,James Milner,Pass,4418
+23020,56,SavedShot,0.955999984741211,0.5829999923706055,0.062386199831962585,Frank Lampard,h,4418,OpenPlay,2014,Head,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,James Milner,Aerial,4418

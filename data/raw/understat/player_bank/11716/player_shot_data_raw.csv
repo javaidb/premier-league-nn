@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+532052,22,MissedShots,0.9590000152587891,0.5479999923706055,0.836603045463562,Pelly Ruddock Mpanzu,a,11716,OpenPlay,2023,Head,22278,Brighton,Luton,4,1,2023-08-12 14:00:00,Issa Kabore,Aerial,11716
+532054,28,BlockedShot,0.8580000305175781,0.7080000305175781,0.06660162657499313,Pelly Ruddock Mpanzu,a,11716,OpenPlay,2023,LeftFoot,22278,Brighton,Luton,4,1,2023-08-12 14:00:00,Elijah Adebayo,Pass,11716
+534406,80,BlockedShot,0.8019999694824219,0.5929999923706055,0.051793284714221954,Pelly Ruddock Mpanzu,a,11716,SetPiece,2023,LeftFoot,22295,Chelsea,Luton,3,0,2023-08-25 19:00:00,,TakeOn,11716
+539128,85,MissedShots,0.7669999694824219,0.669000015258789,0.01775021106004715,Pelly Ruddock Mpanzu,h,11716,OpenPlay,2023,RightFoot,21945,Luton,Wolverhampton Wanderers,1,1,2023-09-23 14:00:00,,None,11716
+539129,88,BlockedShot,0.830999984741211,0.5,0.07714518159627914,Pelly Ruddock Mpanzu,h,11716,OpenPlay,2023,LeftFoot,21945,Luton,Wolverhampton Wanderers,1,1,2023-09-23 14:00:00,Cauley Woodrow,LayOff,11716
+542180,14,MissedShots,0.7819999694824219,0.674000015258789,0.018748950213193893,Pelly Ruddock Mpanzu,h,11716,OpenPlay,2023,RightFoot,22289,Luton,Burnley,1,2,2023-10-03 18:30:00,Carlton Morris,Pass,11716
+542188,35,BlockedShot,0.7680000305175781,0.55,0.025231242179870605,Pelly Ruddock Mpanzu,h,11716,OpenPlay,2023,RightFoot,22289,Luton,Burnley,1,2,2023-10-03 18:30:00,Chiedozie Ogbene,Pass,11716
+544016,20,MissedShots,0.7430000305175781,0.45799999237060546,0.013555550016462803,Pelly Ruddock Mpanzu,a,11716,FromCorner,2023,LeftFoot,21982,Nottingham Forest,Luton,2,2,2023-10-21 14:00:00,,Aerial,11716
+552204,70,MissedShots,0.715999984741211,0.43400001525878906,0.01421305350959301,Pelly Ruddock Mpanzu,h,11716,OpenPlay,2023,RightFoot,22039,Luton,Arsenal,3,4,2023-12-05 20:15:00,Amari&#039;i Bell,BallRecovery,11716
+561270,74,SavedShot,0.9480000305175781,0.3370000076293945,0.07621760666370392,Pelly Ruddock Mpanzu,a,11716,OpenPlay,2023,RightFoot,22123,Newcastle United,Luton,4,4,2024-02-03 15:00:00,Carlton Morris,Pass,11716
+573762,79,MissedShots,0.99,0.33299999237060546,0.06279230117797852,Pelly Ruddock Mpanzu,a,11716,OpenPlay,2023,RightFoot,22221,Manchester City,Luton,5,1,2024-04-13 14:00:00,,TakeOn,11716

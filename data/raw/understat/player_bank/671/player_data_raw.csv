@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+671,Rudy Gestede,32,1632,5,5.696741838008165,2,1.4262413000687957,61,15,2,0,F S,Aston Villa,5,5.696741838008165,5.786227121017873,0.9677258897572756,2015
+671,Rudy Gestede,16,514,1,1.292148396372795,0,0.7781423926353455,15,11,3,0,F S,Middlesbrough,1,1.292148396372795,2.2981619797647,0.29985570907592773,2016

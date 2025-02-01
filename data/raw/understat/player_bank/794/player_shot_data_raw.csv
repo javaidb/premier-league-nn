@@ -1,0 +1,47 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+51672,90,MissedShots,0.885,0.455,0.0507097989320755,Cameron Jerome,h,794,SetPiece,2015,Head,85,Norwich,Crystal Palace,1,3,2015-08-08 18:00:00,Nathan Redmond,Cross,794
+51860,38,MissedShots,0.9,0.509000015258789,0.12621699273586273,Cameron Jerome,a,794,OpenPlay,2015,RightFoot,93,Sunderland,Norwich,1,3,2015-08-15 18:00:00,Jonny Howson,HeadPass,794
+51867,66,MissedShots,0.8669999694824219,0.2989999961853027,0.05909910053014755,Cameron Jerome,a,794,OpenPlay,2015,RightFoot,93,Sunderland,Norwich,1,3,2015-08-15 18:00:00,Nathan Redmond,Pass,794
+56925,49,MissedShots,0.8680000305175781,0.5129999923706055,0.36570701003074646,Cameron Jerome,h,794,OpenPlay,2015,RightFoot,102,Norwich,Stoke,1,1,2015-08-22 18:00:00,Jonny Howson,Throughball,794
+56934,85,SavedShot,0.9519999694824218,0.5370000076293945,0.5727260112762451,Cameron Jerome,h,794,FromCorner,2015,RightFoot,102,Norwich,Stoke,1,1,2015-08-22 18:00:00,,None,794
+56937,91,BlockedShot,0.915,0.58,0.03708089888095856,Cameron Jerome,h,794,OpenPlay,2015,Head,102,Norwich,Stoke,1,1,2015-08-22 18:00:00,Bradley Johnson,Aerial,794
+57678,19,MissedShots,0.9369999694824219,0.505,0.49729299545288086,Cameron Jerome,a,794,OpenPlay,2015,Head,119,Southampton,Norwich,3,0,2015-08-30 16:30:00,Graham Dorrans,Cross,794
+57926,30,MissedShots,0.905,0.365,0.0945959985256195,Cameron Jerome,h,794,OpenPlay,2015,RightFoot,126,Norwich,Bournemouth,3,1,2015-09-12 18:00:00,Wes Hoolahan,Pass,794
+57927,34,Goal,0.9269999694824219,0.485,0.5482209920883179,Cameron Jerome,h,794,OpenPlay,2015,RightFoot,126,Norwich,Bournemouth,3,1,2015-09-12 18:00:00,Wes Hoolahan,Pass,794
+57930,48,MissedShots,0.7659999847412109,0.5940000152587891,0.029701899737119675,Cameron Jerome,h,794,OpenPlay,2015,RightFoot,126,Norwich,Bournemouth,3,1,2015-09-12 18:00:00,Wes Hoolahan,Pass,794
+58589,1,SavedShot,0.9130000305175782,0.5870000076293945,0.05428579822182655,Cameron Jerome,a,794,OpenPlay,2015,Head,147,West Ham,Norwich,2,2,2015-09-26 18:00:00,Robbie Brady,Cross,794
+58596,23,MissedShots,0.884000015258789,0.6609999847412109,0.08752769976854324,Cameron Jerome,a,794,OpenPlay,2015,LeftFoot,147,West Ham,Norwich,2,2,2015-09-26 18:00:00,Robbie Brady,Pass,794
+58603,41,MissedShots,0.8880000305175781,0.5670000076293945,0.07676160335540771,Cameron Jerome,a,794,OpenPlay,2015,LeftFoot,147,West Ham,Norwich,2,2,2015-09-26 18:00:00,Martin Olsson,Cross,794
+58611,61,SavedShot,0.9,0.45599998474121095,0.4092159867286682,Cameron Jerome,a,794,OpenPlay,2015,RightFoot,147,West Ham,Norwich,2,2,2015-09-26 18:00:00,Jonny Howson,Pass,794
+58800,2,MissedShots,0.8230000305175781,0.4520000076293945,0.06583859771490097,Cameron Jerome,h,794,OpenPlay,2015,RightFoot,155,Norwich,Leicester,1,2,2015-10-03 18:00:00,Wes Hoolahan,Pass,794
+58817,62,MissedShots,0.740999984741211,0.47400001525878904,0.016882700845599174,Cameron Jerome,h,794,OpenPlay,2015,LeftFoot,155,Norwich,Leicester,1,2,2015-10-03 18:00:00,Dieumerci Mbokani,LayOff,794
+59017,92,MissedShots,0.8090000152587891,0.48400001525878905,0.03701449930667877,Cameron Jerome,a,794,OpenPlay,2015,LeftFoot,169,Newcastle United,Norwich,6,2,2015-10-18 19:00:00,Gary O&#039;Neil,None,794
+59497,82,Goal,0.9919999694824219,0.49900001525878906,0.9602320194244385,Cameron Jerome,a,794,FromCorner,2015,RightFoot,183,Manchester City,Norwich,2,1,2015-10-31 19:00:00,,None,794
+55491,8,MissedShots,0.935,0.48,0.4307900071144104,Cameron Jerome,h,794,SetPiece,2015,Head,194,Norwich,Swansea,1,0,2015-11-07 19:00:00,Robbie Brady,Cross,794
+54604,69,MissedShots,0.9159999847412109,0.49700000762939456,0.47730201482772827,Cameron Jerome,h,794,OpenPlay,2015,RightFoot,231,Norwich,Everton,1,1,2015-12-12 16:45:00,Wes Hoolahan,Pass,794
+56047,37,Goal,0.8680000305175781,0.5109999847412109,0.18429699540138245,Cameron Jerome,a,794,OpenPlay,2015,RightFoot,246,Manchester United,Norwich,1,2,2015-12-19 19:00:00,Nathan Redmond,TakeOn,794
+55777,16,MissedShots,0.9540000152587891,0.54,0.07447919994592667,Cameron Jerome,a,794,FromCorner,2015,Head,253,Tottenham,Norwich,3,0,2015-12-26 19:00:00,Robbie Brady,Aerial,794
+55785,35,BlockedShot,0.875999984741211,0.46599998474121096,0.07238300144672394,Cameron Jerome,a,794,OpenPlay,2015,RightFoot,253,Tottenham,Norwich,3,0,2015-12-26 19:00:00,Vadis Odjidja-Ofoe,Cross,794
+55787,51,MissedShots,0.8980000305175782,0.645,0.016374200582504272,Cameron Jerome,a,794,OpenPlay,2015,Head,253,Tottenham,Norwich,3,0,2015-12-26 19:00:00,Vadis Odjidja-Ofoe,Aerial,794
+55797,84,MissedShots,0.8769999694824219,0.39299999237060546,0.0440375991165638,Cameron Jerome,a,794,OpenPlay,2015,RightFoot,253,Tottenham,Norwich,3,0,2015-12-26 19:00:00,Russell Martin,Cross,794
+55765,63,BlockedShot,0.86,0.41900001525878905,0.052212201058864594,Cameron Jerome,a,794,OpenPlay,2015,RightFoot,296,Bournemouth,Norwich,3,0,2016-01-16 19:00:00,,Rebound,794
+55809,45,MissedShots,0.7709999847412109,0.7030000305175781,0.016327200457453728,Cameron Jerome,h,794,OpenPlay,2015,RightFoot,333,Norwich,West Ham,2,2,2016-02-13 19:00:00,Nathan Redmond,LayOff,794
+56159,37,MissedShots,0.96,0.4779999923706055,0.5026640295982361,Cameron Jerome,a,794,FromCorner,2015,Head,343,Leicester,Norwich,1,0,2016-02-27 19:00:00,Robbie Brady,Cross,794
+56161,44,BlockedShot,0.8109999847412109,0.525,0.060530200600624084,Cameron Jerome,a,794,OpenPlay,2015,RightFoot,343,Leicester,Norwich,1,0,2016-02-27 19:00:00,Robbie Brady,Pass,794
+56163,49,BlockedShot,0.865,0.5379999923706055,0.02317650057375431,Cameron Jerome,a,794,OpenPlay,2015,Head,343,Leicester,Norwich,1,0,2016-02-27 19:00:00,Robbie Brady,Cross,794
+60890,16,MissedShots,0.875,0.41,0.022063100710511208,Cameron Jerome,h,794,OpenPlay,2015,Head,353,Norwich,Chelsea,1,2,2016-03-01 23:45:00,Wes Hoolahan,Cross,794
+60899,48,MissedShots,0.9259999847412109,0.5879999923706055,0.2626110017299652,Cameron Jerome,h,794,OpenPlay,2015,LeftFoot,353,Norwich,Chelsea,1,2,2016-03-01 23:45:00,Gary O&#039;Neil,Cross,794
+60902,52,ShotOnPost,0.9469999694824218,0.47200000762939454,0.5224019885063171,Cameron Jerome,h,794,OpenPlay,2015,LeftFoot,353,Norwich,Chelsea,1,2,2016-03-01 23:45:00,Russell Martin,HeadPass,794
+60912,60,MissedShots,0.9059999847412109,0.5420000076293945,0.07684630155563354,Cameron Jerome,h,794,OpenPlay,2015,Head,353,Norwich,Chelsea,1,2,2016-03-01 23:45:00,Robbie Brady,Cross,794
+60919,73,SavedShot,0.855,0.5609999847412109,0.06059889867901802,Cameron Jerome,h,794,OpenPlay,2015,RightFoot,353,Norwich,Chelsea,1,2,2016-03-01 23:45:00,Robbie Brady,Rebound,794
+60245,43,SavedShot,0.785,0.71,0.02006470039486885,Cameron Jerome,a,794,OpenPlay,2015,RightFoot,361,Swansea,Norwich,1,0,2016-03-05 19:00:00,Steven Naismith,Pass,794
+56791,85,MissedShots,0.9459999847412109,0.3029999923706055,0.062338098883628845,Cameron Jerome,h,794,OpenPlay,2015,RightFoot,405,Norwich,Sunderland,0,3,2016-04-16 15:45:00,Wes Hoolahan,Pass,794
+56823,6,MissedShots,0.8780000305175781,0.44,0.0764487013220787,Cameron Jerome,a,794,OpenPlay,2015,RightFoot,432,Arsenal,Norwich,1,0,2016-04-30 20:30:00,Ivo Pinto,Cross,794
+56827,13,SavedShot,0.750999984741211,0.6170000076293946,0.02063940092921257,Cameron Jerome,a,794,OpenPlay,2015,RightFoot,432,Arsenal,Norwich,1,0,2016-04-30 20:30:00,Robbie Brady,LayOff,794
+56847,90,MissedShots,0.9119999694824219,0.615999984741211,0.03181749954819679,Cameron Jerome,a,794,OpenPlay,2015,Head,432,Arsenal,Norwich,1,0,2016-04-30 20:30:00,Matthew Jarvis,Cross,794
+56645,3,SavedShot,0.9219999694824219,0.4809999847412109,0.3875199854373932,Cameron Jerome,h,794,OpenPlay,2015,Head,437,Norwich,Manchester United,0,1,2016-05-07 15:45:00,Nathan Redmond,Cross,794
+56644,3,BlockedShot,0.92,0.515,0.10416500270366669,Cameron Jerome,h,794,FromCorner,2015,RightFoot,437,Norwich,Manchester United,0,1,2016-05-07 15:45:00,Robbie Brady,Cross,794
+56662,73,MissedShots,0.9230000305175782,0.5129999923706055,0.3504889905452728,Cameron Jerome,h,794,SetPiece,2015,Head,437,Norwich,Manchester United,0,1,2016-05-07 15:45:00,Wes Hoolahan,Chipped,794
+52029,13,BlockedShot,0.92,0.3509999847412109,0.0900925025343895,Cameron Jerome,a,794,OpenPlay,2015,RightFoot,453,Everton,Norwich,3,0,2016-05-15 18:00:00,Steven Naismith,Pass,794
+52030,18,SavedShot,0.93,0.59,0.0477524995803833,Cameron Jerome,a,794,OpenPlay,2015,Head,453,Everton,Norwich,3,0,2016-05-15 18:00:00,Graham Dorrans,Chipped,794
+52045,65,MissedShots,0.9619999694824218,0.61,0.03585290163755417,Cameron Jerome,a,794,FromCorner,2015,Head,453,Everton,Norwich,3,0,2016-05-15 18:00:00,Nathan Redmond,Cross,794

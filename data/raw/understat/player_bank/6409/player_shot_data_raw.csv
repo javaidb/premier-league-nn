@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+185538,72,MissedShots,0.8569999694824219,0.40299999237060546,0.08350159972906113,Beram Kayal,a,6409,OpenPlay,2017,RightFoot,7310,Chelsea,Brighton,2,0,2017-12-26 15:00:00,Davy Pröpper,Pass,6409
+193649,89,SavedShot,0.9069999694824219,0.5640000152587891,0.13045400381088257,Beram Kayal,h,6409,OpenPlay,2017,RightFoot,7371,Brighton,West Ham,3,1,2018-02-03 15:00:00,Gaëtan Bong,Cross,6409
+204080,54,MissedShots,0.8130000305175781,0.445,0.047315601259469986,Beram Kayal,h,6409,FromCorner,2017,RightFoot,7430,Brighton,Leicester,0,2,2018-03-31 15:00:00,Lewis Dunk,Pass,6409
+211655,33,BlockedShot,0.8569999694824219,0.6020000076293945,0.08000969886779785,Beram Kayal,a,6409,OpenPlay,2017,RightFoot,7469,Burnley,Brighton,0,0,2018-04-28 14:00:00,Anthony Knockaert,Pass,6409
+249293,28,Goal,0.94,0.500999984741211,0.12375099956989288,Beram Kayal,a,6409,FromCorner,2018,LeftFoot,9280,Newcastle United,Brighton,0,1,2018-10-20 14:00:00,José Izquierdo,None,6409
+250363,11,SavedShot,0.874000015258789,0.38299999237060545,0.09327500313520432,Beram Kayal,h,6409,OpenPlay,2018,RightFoot,9322,Brighton,Leicester,1,1,2018-11-24 15:00:00,Pascal Groß,Pass,6409
+250382,89,MissedShots,0.8009999847412109,0.669000015258789,0.021375399082899094,Beram Kayal,h,6409,OpenPlay,2018,RightFoot,9322,Brighton,Leicester,1,1,2018-11-24 15:00:00,Jürgen Locadia,Pass,6409
+295242,53,MissedShots,0.700999984741211,0.7290000152587891,0.010941700078547001,Beram Kayal,a,6409,OpenPlay,2018,RightFoot,9537,Wolverhampton Wanderers,Brighton,0,0,2019-04-20 15:00:00,Dale Stephens,Pass,6409
+296556,87,MissedShots,0.7780000305175782,0.6869999694824219,0.040522899478673935,Beram Kayal,a,6409,OpenPlay,2018,RightFoot,9519,Tottenham,Brighton,1,0,2019-04-23 19:45:00,Glenn Murray,Pass,6409

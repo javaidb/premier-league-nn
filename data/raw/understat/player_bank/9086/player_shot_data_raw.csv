@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+395803,89,MissedShots,0.9,0.45099998474121095,0.051322199404239655,Rhys Williams,h,9086,FromCorner,2020,Head,14580,Liverpool,West Bromwich Albion,1,1,2020-12-27 16:30:00,Trent Alexander-Arnold,Cross,9086
+421647,25,MissedShots,0.855999984741211,0.505,0.04557909816503525,Rhys Williams,a,9086,FromCorner,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Trent Alexander-Arnold,Cross,9086
+422445,27,BlockedShot,0.9209999847412109,0.49599998474121093,0.1278190016746521,Rhys Williams,a,9086,FromCorner,2020,RightFoot,14789,West Bromwich Albion,Liverpool,1,2,2021-05-16 15:30:00,Nathaniel Phillips,HeadPass,9086
+424052,19,MissedShots,0.9030000305175782,0.539000015258789,0.2515830099582672,Rhys Williams,h,9086,FromCorner,2020,Head,14810,Liverpool,Crystal Palace,2,0,2021-05-23 15:00:00,Andrew Robertson,Cross,9086
+424057,35,MissedShots,0.92,0.5570000076293945,0.028648100793361664,Rhys Williams,h,9086,FromCorner,2020,Head,14810,Liverpool,Crystal Palace,2,0,2021-05-23 15:00:00,Andrew Robertson,Aerial,9086
+424061,49,MissedShots,0.9059999847412109,0.455,0.026548299938440323,Rhys Williams,h,9086,FromCorner,2020,Head,14810,Liverpool,Crystal Palace,2,0,2021-05-23 15:00:00,,Aerial,9086
+424064,53,BlockedShot,0.914000015258789,0.4370000076293945,0.021740099415183067,Rhys Williams,h,9086,FromCorner,2020,Head,14810,Liverpool,Crystal Palace,2,0,2021-05-23 15:00:00,Trent Alexander-Arnold,Aerial,9086

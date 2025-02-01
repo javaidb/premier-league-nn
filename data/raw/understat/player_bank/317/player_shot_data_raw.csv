@@ -1,0 +1,538 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+24379,54,BlockedShot,0.8830000305175781,0.57,0.073649100959301,Henrikh Mkhitaryan,h,317,OpenPlay,2014,LeftFoot,5453,Borussia Dortmund,Bayer Leverkusen,0,2,2014-08-23 17:30:00,,BallTouch,317
+24384,93,MissedShots,0.6819999694824219,0.5790000152587891,0.010098899714648724,Henrikh Mkhitaryan,h,317,FromCorner,2014,RightFoot,5453,Borussia Dortmund,Bayer Leverkusen,0,2,2014-08-23 17:30:00,Ciro Immobile,LayOff,317
+24652,6,BlockedShot,0.7440000152587891,0.5220000076293946,0.023074299097061157,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5456,Augsburg,Borussia Dortmund,2,3,2014-08-29 19:30:00,Marco Reus,Pass,317
+24655,27,BlockedShot,0.8180000305175781,0.34900001525878904,0.05719489976763725,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5456,Augsburg,Borussia Dortmund,2,3,2014-08-29 19:30:00,,TakeOn,317
+24656,29,SavedShot,0.825999984741211,0.39,0.05016370117664337,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5456,Augsburg,Borussia Dortmund,2,3,2014-08-29 19:30:00,Pierre-Emerick Aubameyang,Cross,317
+24663,46,MissedShots,0.75,0.5059999847412109,0.027559900656342506,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5456,Augsburg,Borussia Dortmund,2,3,2014-08-29 19:30:00,Kevin Großkreutz,Pass,317
+24676,77,SavedShot,0.7930000305175782,0.435,0.027204299345612526,Henrikh Mkhitaryan,a,317,FromCorner,2014,RightFoot,5456,Augsburg,Borussia Dortmund,2,3,2014-08-29 19:30:00,,None,317
+24819,37,BlockedShot,0.745,0.395,0.020263899117708206,Henrikh Mkhitaryan,h,317,SetPiece,2014,RightFoot,5414,Borussia Dortmund,Freiburg,3,1,2014-09-13 14:30:00,Milos Jojic,Pass,317
+24821,38,SavedShot,0.845,0.575,0.09752970188856125,Henrikh Mkhitaryan,h,317,OpenPlay,2014,LeftFoot,5414,Borussia Dortmund,Freiburg,3,1,2014-09-13 14:30:00,Adrián Ramos,Pass,317
+24826,60,MissedShots,0.88,0.674000015258789,0.08704020082950592,Henrikh Mkhitaryan,h,317,OpenPlay,2014,LeftFoot,5414,Borussia Dortmund,Freiburg,3,1,2014-09-13 14:30:00,Adrián Ramos,Pass,317
+24829,83,BlockedShot,0.980999984741211,0.8090000152587891,0.07623639702796936,Henrikh Mkhitaryan,h,317,DirectFreekick,2014,RightFoot,5414,Borussia Dortmund,Freiburg,3,1,2014-09-13 14:30:00,,Standard,317
+25104,89,ShotOnPost,0.77,0.28899999618530275,0.010319800116121769,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5426,Mainz 05,Borussia Dortmund,2,0,2014-09-20 17:30:00,,None,317
+26158,57,MissedShots,0.725999984741211,0.645,0.01721630059182644,Henrikh Mkhitaryan,a,317,OpenPlay,2014,LeftFoot,5397,FC Cologne,Borussia Dortmund,2,1,2014-10-18 14:30:00,Marco Reus,Pass,317
+26192,11,SavedShot,0.8130000305175781,0.30100000381469727,0.024311000481247902,Henrikh Mkhitaryan,h,317,OpenPlay,2014,LeftFoot,5406,Borussia Dortmund,Hannover 96,0,1,2014-10-25 14:30:00,Lukasz Piszczek,HeadPass,317
+26211,82,SavedShot,0.764000015258789,0.41200000762939454,0.021412799134850502,Henrikh Mkhitaryan,h,317,FromCorner,2014,RightFoot,5406,Borussia Dortmund,Hannover 96,0,1,2014-10-25 14:30:00,,BallTouch,317
+26212,83,MissedShots,0.6580000305175782,0.145,0.00705141993239522,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5406,Borussia Dortmund,Hannover 96,0,1,2014-10-25 14:30:00,,None,317
+26214,91,MissedShots,0.7269999694824218,0.715,0.013731500133872032,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5406,Borussia Dortmund,Hannover 96,0,1,2014-10-25 14:30:00,Pierre-Emerick Aubameyang,Pass,317
+26457,8,ShotOnPost,0.8209999847412109,0.4779999923706055,0.07148849964141846,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5352,Bayern Munich,Borussia Dortmund,2,1,2014-11-01 17:30:00,Shinji Kagawa,Pass,317
+26694,8,BlockedShot,0.8069999694824219,0.2670000076293945,0.01571430079638958,Henrikh Mkhitaryan,h,317,OpenPlay,2014,LeftFoot,5364,Borussia Dortmund,Borussia M.Gladbach,1,0,2014-11-09 16:30:00,,Rebound,317
+26697,18,MissedShots,0.7569999694824219,0.38299999237060545,0.02096020057797432,Henrikh Mkhitaryan,h,317,OpenPlay,2014,LeftFoot,5364,Borussia Dortmund,Borussia M.Gladbach,1,0,2014-11-09 16:30:00,Pierre-Emerick Aubameyang,Pass,317
+26698,26,SavedShot,0.7819999694824219,0.46700000762939453,0.03584200143814087,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5364,Borussia Dortmund,Borussia M.Gladbach,1,0,2014-11-09 16:30:00,Sebastian Kehl,Pass,317
+26703,36,MissedShots,0.8969999694824219,0.43099998474121093,0.38964900374412537,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5364,Borussia Dortmund,Borussia M.Gladbach,1,0,2014-11-09 16:30:00,Sven Bender,Throughball,317
+26706,45,MissedShots,0.9030000305175782,0.3089999961853027,0.034116700291633606,Henrikh Mkhitaryan,h,317,FromCorner,2014,RightFoot,5364,Borussia Dortmund,Borussia M.Gladbach,1,0,2014-11-09 16:30:00,Marco Reus,Cross,317
+26712,68,BlockedShot,0.7669999694824219,0.5609999847412109,0.043038900941610336,Henrikh Mkhitaryan,h,317,OpenPlay,2014,LeftFoot,5364,Borussia Dortmund,Borussia M.Gladbach,1,0,2014-11-09 16:30:00,Pierre-Emerick Aubameyang,LayOff,317
+27174,3,MissedShots,0.855999984741211,0.3390000152587891,0.043490201234817505,Henrikh Mkhitaryan,a,317,FromCorner,2014,LeftFoot,5382,Eintracht Frankfurt,Borussia Dortmund,2,0,2014-11-30 16:30:00,Sven Bender,Pass,317
+27176,6,SavedShot,0.86,0.32599998474121095,0.049077898263931274,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5382,Eintracht Frankfurt,Borussia Dortmund,2,0,2014-11-30 16:30:00,Shinji Kagawa,Pass,317
+27182,25,MissedShots,0.9059999847412109,0.7169999694824218,0.033342599868774414,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5382,Eintracht Frankfurt,Borussia Dortmund,2,0,2014-11-30 16:30:00,Shinji Kagawa,Chipped,317
+27194,69,BlockedShot,0.7019999694824218,0.46599998474121096,0.015993399545550346,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5382,Eintracht Frankfurt,Borussia Dortmund,2,0,2014-11-30 16:30:00,Erik Durm,Pass,317
+27199,88,MissedShots,0.7090000152587891,0.5670000076293945,0.011922099627554417,Henrikh Mkhitaryan,a,317,OpenPlay,2014,LeftFoot,5382,Eintracht Frankfurt,Borussia Dortmund,2,0,2014-11-30 16:30:00,Adrián Ramos,LayOff,317
+27257,50,BlockedShot,0.8769999694824219,0.5459999847412109,0.11578799784183502,Henrikh Mkhitaryan,h,317,OpenPlay,2014,LeftFoot,5312,Borussia Dortmund,Hoffenheim,1,0,2014-12-05 19:30:00,,Rebound,317
+27256,50,BlockedShot,0.8769999694824219,0.5459999847412109,0.10614600032567978,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5312,Borussia Dortmund,Hoffenheim,1,0,2014-12-05 19:30:00,Adrián Ramos,HeadPass,317
+27268,76,MissedShots,0.894000015258789,0.6630000305175782,0.08924400061368942,Henrikh Mkhitaryan,h,317,OpenPlay,2014,LeftFoot,5312,Borussia Dortmund,Hoffenheim,1,0,2014-12-05 19:30:00,Pierre-Emerick Aubameyang,Pass,317
+27270,88,BlockedShot,0.8090000152587891,0.5059999847412109,0.07448499649763107,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5312,Borussia Dortmund,Hoffenheim,1,0,2014-12-05 19:30:00,,TakeOn,317
+28148,32,MissedShots,0.7440000152587891,0.55,0.02166379988193512,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5322,Hertha Berlin,Borussia Dortmund,1,0,2014-12-13 14:30:00,Pierre-Emerick Aubameyang,LayOff,317
+29785,88,SavedShot,0.94,0.38599998474121094,0.08207439631223679,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5266,Borussia Dortmund,Augsburg,0,1,2015-02-04 19:00:00,Shinji Kagawa,Chipped,317
+29858,83,MissedShots,0.8230000305175781,0.6869999694824219,0.015957200899720192,Henrikh Mkhitaryan,a,317,FromCorner,2014,LeftFoot,5273,Freiburg,Borussia Dortmund,0,3,2015-02-07 14:30:00,,Aerial,317
+29860,87,SavedShot,0.7759999847412109,0.6940000152587891,0.04843699932098389,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5273,Freiburg,Borussia Dortmund,0,3,2015-02-07 14:30:00,Matthias Ginter,Chipped,317
+29455,46,BlockedShot,0.91,0.3240000152587891,0.08509170264005661,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5289,VfB Stuttgart,Borussia Dortmund,2,3,2015-02-20 19:30:00,,TakeOn,317
+28861,17,SavedShot,0.77,0.41,0.024013500660657883,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5299,Borussia Dortmund,Schalke 04,3,0,2015-02-28 14:30:00,,None,317
+28867,32,MissedShots,0.9009999847412109,0.29700000762939455,0.05046999827027321,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5299,Borussia Dortmund,Schalke 04,3,0,2015-02-28 14:30:00,Pierre-Emerick Aubameyang,Pass,317
+28878,60,BlockedShot,0.749000015258789,0.46900001525878904,0.014514399692416191,Henrikh Mkhitaryan,h,317,SetPiece,2014,RightFoot,5299,Borussia Dortmund,Schalke 04,3,0,2015-02-28 14:30:00,,None,317
+28880,62,BlockedShot,0.87,0.355,0.07316560298204422,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5299,Borussia Dortmund,Schalke 04,3,0,2015-02-28 14:30:00,Marco Reus,Pass,317
+28881,64,SavedShot,0.9619999694824218,0.6730000305175782,0.05735129863023758,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5299,Borussia Dortmund,Schalke 04,3,0,2015-02-28 14:30:00,Mats Hummels,Chipped,317
+28883,71,SavedShot,0.750999984741211,0.41200000762939454,0.022439900785684586,Henrikh Mkhitaryan,h,317,OpenPlay,2014,LeftFoot,5299,Borussia Dortmund,Schalke 04,3,0,2015-02-28 14:30:00,Oliver Kirch,Pass,317
+28886,78,Goal,0.97,0.5220000076293946,0.9505640268325806,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5299,Borussia Dortmund,Schalke 04,3,0,2015-02-28 14:30:00,Ilkay Gündogan,Pass,317
+30346,44,MissedShots,0.784000015258789,0.425,0.03354959934949875,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5234,Hamburger SV,Borussia Dortmund,0,0,2015-03-07 14:30:00,Shinji Kagawa,Pass,317
+30651,38,SavedShot,0.97,0.5770000076293945,0.11036200076341629,Henrikh Mkhitaryan,h,317,OpenPlay,2014,LeftFoot,5248,Borussia Dortmund,FC Cologne,0,0,2015-03-14 17:30:00,Ilkay Gündogan,Chipped,317
+30942,8,BlockedShot,0.8730000305175781,0.495,0.09024559706449509,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5207,Borussia M.Gladbach,Borussia Dortmund,3,1,2015-04-11 14:30:00,Ilkay Gündogan,Rebound,317
+30943,14,MissedShots,0.7569999694824219,0.5459999847412109,0.020805999636650085,Henrikh Mkhitaryan,a,317,SetPiece,2014,RightFoot,5207,Borussia M.Gladbach,Borussia Dortmund,3,1,2015-04-11 14:30:00,Marcel Schmelzer,Pass,317
+30951,52,BlockedShot,0.735999984741211,0.425,0.013061399571597576,Henrikh Mkhitaryan,a,317,FromCorner,2014,RightFoot,5207,Borussia M.Gladbach,Borussia Dortmund,3,1,2015-04-11 14:30:00,,Aerial,317
+30962,81,SavedShot,0.8030000305175782,0.705999984741211,0.015337100252509117,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5207,Borussia M.Gladbach,Borussia Dortmund,3,1,2015-04-11 14:30:00,Jeremy Dudziak,Pass,317
+30965,92,BlockedShot,0.7469999694824219,0.5520000076293945,0.02008499950170517,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5207,Borussia M.Gladbach,Borussia Dortmund,3,1,2015-04-11 14:30:00,Ilkay Gündogan,Pass,317
+31622,3,BlockedShot,0.72,0.7180000305175781,0.009149969555437565,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5217,Borussia Dortmund,Paderborn,3,0,2015-04-18 14:30:00,,None,317
+31631,36,MissedShots,0.855999984741211,0.5259999847412109,0.07883229851722717,Henrikh Mkhitaryan,h,317,OpenPlay,2014,LeftFoot,5217,Borussia Dortmund,Paderborn,3,0,2015-04-18 14:30:00,Ilkay Gündogan,Chipped,317
+31634,45,SavedShot,0.7580000305175781,0.34900001525878904,0.023424800485372543,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5217,Borussia Dortmund,Paderborn,3,0,2015-04-18 14:30:00,Shinji Kagawa,Pass,317
+31635,47,Goal,0.9569999694824218,0.43,0.49998098611831665,Henrikh Mkhitaryan,h,317,OpenPlay,2014,Head,5217,Borussia Dortmund,Paderborn,3,0,2015-04-18 14:30:00,Pierre-Emerick Aubameyang,Cross,317
+29435,69,BlockedShot,0.8159999847412109,0.4470000076293945,0.034749001264572144,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5227,Borussia Dortmund,Eintracht Frankfurt,2,0,2015-04-25 14:30:00,,Rebound,317
+29438,84,MissedShots,0.9059999847412109,0.3060000038146973,0.214368999004364,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5227,Borussia Dortmund,Eintracht Frankfurt,2,0,2015-04-25 14:30:00,Marco Reus,Pass,317
+30904,83,MissedShots,0.9119999694824219,0.27899999618530275,0.043688900768756866,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5162,Hoffenheim,Borussia Dortmund,1,1,2015-05-02 14:30:00,,None,317
+31400,14,MissedShots,0.879000015258789,0.3509999847412109,0.10796400159597397,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5170,Borussia Dortmund,Hertha Berlin,2,0,2015-05-09 14:30:00,,TakeOn,317
+30294,15,SavedShot,0.720999984741211,0.4370000076293945,0.017521100118756294,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5179,Wolfsburg,Borussia Dortmund,2,1,2015-05-16 14:30:00,Shinji Kagawa,Pass,317
+30297,20,SavedShot,0.8180000305175781,0.6619999694824219,0.028680799528956413,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5179,Wolfsburg,Borussia Dortmund,2,1,2015-05-16 14:30:00,Neven Subotic,TakeOn,317
+30302,33,MissedShots,0.73,0.4779999923706055,0.022255200892686844,Henrikh Mkhitaryan,a,317,OpenPlay,2014,LeftFoot,5179,Wolfsburg,Borussia Dortmund,2,1,2015-05-16 14:30:00,Neven Subotic,Pass,317
+30310,50,MissedShots,0.8590000152587891,0.40299999237060546,0.06977420300245285,Henrikh Mkhitaryan,a,317,OpenPlay,2014,RightFoot,5179,Wolfsburg,Borussia Dortmund,2,1,2015-05-16 14:30:00,Pierre-Emerick Aubameyang,Pass,317
+31124,1,SavedShot,0.8969999694824219,0.33299999237060546,0.05392390117049217,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5193,Borussia Dortmund,Werder Bremen,3,2,2015-05-23 14:30:00,Ilkay Gündogan,Chipped,317
+31125,1,BlockedShot,0.8969999694824219,0.34900001525878904,0.07800059765577316,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5193,Borussia Dortmund,Werder Bremen,3,2,2015-05-23 14:30:00,Marco Reus,Pass,317
+31128,4,MissedShots,0.7340000152587891,0.225,0.008276049979031086,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5193,Borussia Dortmund,Werder Bremen,3,2,2015-05-23 14:30:00,,None,317
+31141,41,Goal,0.870999984741211,0.40400001525878904,0.3630340099334717,Henrikh Mkhitaryan,h,317,OpenPlay,2014,RightFoot,5193,Borussia Dortmund,Werder Bremen,3,2,2015-05-23 14:30:00,Shinji Kagawa,Chipped,317
+31148,63,ShotOnPost,0.9009999847412109,0.48400001525878905,0.5391010046005249,Henrikh Mkhitaryan,h,317,OpenPlay,2014,LeftFoot,5193,Borussia Dortmund,Werder Bremen,3,2,2015-05-23 14:30:00,Pierre-Emerick Aubameyang,Pass,317
+76092,29,MissedShots,0.720999984741211,0.5979999923706054,0.025762999430298805,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1027,Borussia Dortmund,Borussia M.Gladbach,4,0,2015-08-15 20:30:00,Julian Weigl,HeadPass,317
+76093,32,Goal,0.9490000152587891,0.5629999923706055,0.6750289797782898,Henrikh Mkhitaryan,h,317,OpenPlay,2015,LeftFoot,1027,Borussia Dortmund,Borussia M.Gladbach,4,0,2015-08-15 20:30:00,Pierre-Emerick Aubameyang,Pass,317
+76098,38,MissedShots,0.805,0.6930000305175781,0.034208398312330246,Henrikh Mkhitaryan,h,317,OpenPlay,2015,LeftFoot,1027,Borussia Dortmund,Borussia M.Gladbach,4,0,2015-08-15 20:30:00,,Dispossessed,317
+76101,49,Goal,0.8819999694824219,0.48700000762939455,0.4795039892196655,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1027,Borussia Dortmund,Borussia M.Gladbach,4,0,2015-08-15 20:30:00,Marco Reus,Pass,317
+76105,73,MissedShots,0.9330000305175781,0.25799999237060545,0.07113560289144516,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1027,Borussia Dortmund,Borussia M.Gladbach,4,0,2015-08-15 20:30:00,Shinji Kagawa,Chipped,317
+76504,17,MissedShots,0.9419999694824219,0.3189999961853027,0.061211101710796356,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1037,Ingolstadt,Borussia Dortmund,0,4,2015-08-23 17:30:00,Shinji Kagawa,Pass,317
+76551,38,SavedShot,0.750999984741211,0.5729999923706055,0.030182499438524246,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1046,Borussia Dortmund,Hertha Berlin,3,1,2015-08-30 17:30:00,Shinji Kagawa,Pass,317
+76554,54,MissedShots,0.799000015258789,0.5670000076293945,0.09493610262870789,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1046,Borussia Dortmund,Hertha Berlin,3,1,2015-08-30 17:30:00,Julian Weigl,TakeOn,317
+76563,82,MissedShots,0.8669999694824219,0.3370000076293945,0.5248609781265259,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1046,Borussia Dortmund,Hertha Berlin,3,1,2015-08-30 17:30:00,Lukasz Piszczek,TakeOn,317
+76883,4,MissedShots,0.8230000305175781,0.4879999923706055,0.034536298364400864,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Matthias Ginter,Cross,317
+76886,12,SavedShot,0.7819999694824219,0.7130000305175781,0.017124099656939507,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Marcel Schmelzer,Pass,317
+76894,39,MissedShots,0.8030000305175782,0.3629999923706055,0.03445979952812195,Henrikh Mkhitaryan,a,317,OpenPlay,2015,LeftFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Matthias Ginter,Pass,317
+76895,43,Goal,0.845999984741211,0.46299999237060546,0.08789610117673874,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Matthias Ginter,Pass,317
+76903,83,BlockedShot,0.9290000152587891,0.6930000305175781,0.07088000327348709,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Adnan Januzaj,Pass,317
+76974,6,MissedShots,0.8180000305175781,0.580999984741211,0.05794690176844597,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1065,Borussia Dortmund,Bayer Leverkusen,3,0,2015-09-20 19:30:00,Pierre-Emerick Aubameyang,Pass,317
+76975,13,SavedShot,0.825999984741211,0.3820000076293945,0.059223901480436325,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1065,Borussia Dortmund,Bayer Leverkusen,3,0,2015-09-20 19:30:00,Ilkay Gündogan,TakeOn,317
+76982,32,SavedShot,0.8230000305175781,0.515,0.07929030060768127,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1065,Borussia Dortmund,Bayer Leverkusen,3,0,2015-09-20 19:30:00,Matthias Ginter,Pass,317
+76985,43,MissedShots,0.875,0.7390000152587891,0.024178899824619293,Henrikh Mkhitaryan,h,317,OpenPlay,2015,LeftFoot,1065,Borussia Dortmund,Bayer Leverkusen,3,0,2015-09-20 19:30:00,Jonas Hofmann,Cross,317
+77394,66,BlockedShot,0.83,0.5609999847412109,0.03676589950919151,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Matthias Ginter,Cross,317
+77442,6,MissedShots,0.725,0.6140000152587891,0.020778799429535866,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1083,Borussia Dortmund,Darmstadt,2,2,2015-09-27 19:30:00,Shinji Kagawa,Pass,317
+77453,59,SavedShot,0.875999984741211,0.67,0.04973049834370613,Henrikh Mkhitaryan,h,317,OpenPlay,2015,LeftFoot,1083,Borussia Dortmund,Darmstadt,2,2,2015-09-27 19:30:00,,Dispossessed,317
+77455,64,BlockedShot,0.799000015258789,0.544000015258789,0.04073840007185936,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1083,Borussia Dortmund,Darmstadt,2,2,2015-09-27 19:30:00,Mats Hummels,Pass,317
+77691,2,BlockedShot,0.8109999847412109,0.40799999237060547,0.03370710089802742,Henrikh Mkhitaryan,a,317,FromCorner,2015,RightFoot,1092,Bayern Munich,Borussia Dortmund,5,1,2015-10-04 19:30:00,Ilkay Gündogan,Cross,317
+77694,21,MissedShots,0.7780000305175782,0.6859999847412109,0.02167079970240593,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1092,Bayern Munich,Borussia Dortmund,5,1,2015-10-04 19:30:00,Ilkay Gündogan,Pass,317
+77707,63,MissedShots,0.9009999847412109,0.5879999923706055,0.2675209939479828,Henrikh Mkhitaryan,a,317,OpenPlay,2015,LeftFoot,1092,Bayern Munich,Borussia Dortmund,5,1,2015-10-04 19:30:00,Ilkay Gündogan,Chipped,317
+77709,70,SavedShot,0.8680000305175781,0.6519999694824219,0.06581089645624161,Henrikh Mkhitaryan,a,317,OpenPlay,2015,LeftFoot,1092,Bayern Munich,Borussia Dortmund,5,1,2015-10-04 19:30:00,Marco Reus,TakeOn,317
+77714,86,SavedShot,0.7709999847412109,0.46,0.030330099165439606,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1092,Bayern Munich,Borussia Dortmund,5,1,2015-10-04 19:30:00,Marco Reus,Pass,317
+78126,26,MissedShots,0.779000015258789,0.3729999923706055,0.033998098224401474,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1093,Mainz 05,Borussia Dortmund,0,2,2015-10-16 22:30:00,Marco Reus,Pass,317
+78140,74,SavedShot,0.8480000305175781,0.3220000076293945,0.08678270131349564,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1093,Mainz 05,Borussia Dortmund,0,2,2015-10-16 22:30:00,Pierre-Emerick Aubameyang,Pass,317
+78144,81,Goal,0.9359999847412109,0.5840000152587891,0.7203779816627502,Henrikh Mkhitaryan,a,317,OpenPlay,2015,LeftFoot,1093,Mainz 05,Borussia Dortmund,0,2,2015-10-16 22:30:00,Pierre-Emerick Aubameyang,TakeOn,317
+78543,26,SavedShot,0.955999984741211,0.6359999847412109,0.3209109902381897,Henrikh Mkhitaryan,a,317,OpenPlay,2015,LeftFoot,1115,Werder Bremen,Borussia Dortmund,1,3,2015-10-31 18:30:00,Ilkay Gündogan,Pass,317
+78549,43,Goal,0.9490000152587891,0.43900001525878907,0.415477991104126,Henrikh Mkhitaryan,a,317,OpenPlay,2015,Head,1115,Werder Bremen,Borussia Dortmund,1,3,2015-10-31 18:30:00,Mats Hummels,Cross,317
+78558,90,BlockedShot,0.754000015258789,0.40599998474121096,0.01707269996404648,Henrikh Mkhitaryan,a,317,FromCorner,2015,RightFoot,1115,Werder Bremen,Borussia Dortmund,1,3,2015-10-31 18:30:00,,None,317
+78675,53,SavedShot,0.92,0.5609999847412109,0.49820899963378906,Henrikh Mkhitaryan,h,317,OpenPlay,2015,LeftFoot,1127,Borussia Dortmund,Schalke 04,3,2,2015-11-08 18:30:00,Pierre-Emerick Aubameyang,Pass,317
+78965,49,MissedShots,0.8059999847412109,0.4,0.04109489917755127,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1129,Hamburger SV,Borussia Dortmund,3,1,2015-11-20 23:45:00,,BallTouch,317
+78975,80,MissedShots,0.925,0.6519999694824219,0.07857470214366913,Henrikh Mkhitaryan,a,317,OpenPlay,2015,LeftFoot,1129,Hamburger SV,Borussia Dortmund,3,1,2015-11-20 23:45:00,Marcel Schmelzer,Pass,317
+78979,88,MissedShots,0.9080000305175782,0.7569999694824219,0.016362199559807777,Henrikh Mkhitaryan,a,317,FromCorner,2015,RightFoot,1129,Hamburger SV,Borussia Dortmund,3,1,2015-11-20 23:45:00,,Aerial,317
+79124,2,SavedShot,0.805,0.5359999847412109,0.02439120039343834,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1144,Borussia Dortmund,VfB Stuttgart,4,1,2015-11-29 18:30:00,Marco Reus,Cross,317
+79132,29,SavedShot,0.7980000305175782,0.6669999694824219,0.03997319936752319,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1144,Borussia Dortmund,VfB Stuttgart,4,1,2015-11-29 18:30:00,Gonzalo Castro,Pass,317
+79142,70,BlockedShot,0.735,0.46099998474121096,0.02337759919464588,Henrikh Mkhitaryan,h,317,OpenPlay,2015,LeftFoot,1144,Borussia Dortmund,VfB Stuttgart,4,1,2015-11-29 18:30:00,Ilkay Gündogan,Pass,317
+79144,82,MissedShots,0.9530000305175781,0.48200000762939454,0.14247100055217743,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1144,Borussia Dortmund,VfB Stuttgart,4,1,2015-11-29 18:30:00,Marcel Schmelzer,Cross,317
+79629,23,Goal,0.980999984741211,0.48400001525878905,0.9514309763908386,Henrikh Mkhitaryan,h,317,OpenPlay,2015,LeftFoot,1164,Borussia Dortmund,Eintracht Frankfurt,4,1,2015-12-13 20:30:00,Pierre-Emerick Aubameyang,Pass,317
+79636,46,MissedShots,0.97,0.455,0.6769049763679504,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1164,Borussia Dortmund,Eintracht Frankfurt,4,1,2015-12-13 20:30:00,Marcel Schmelzer,Pass,317
+79641,60,BlockedShot,0.8530000305175781,0.6430000305175781,0.03786009922623634,Henrikh Mkhitaryan,h,317,FromCorner,2015,RightFoot,1164,Borussia Dortmund,Eintracht Frankfurt,4,1,2015-12-13 20:30:00,Shinji Kagawa,Pass,317
+79644,63,MissedShots,0.9669999694824218,0.45799999237060546,0.564490020275116,Henrikh Mkhitaryan,h,317,OpenPlay,2015,Head,1164,Borussia Dortmund,Eintracht Frankfurt,4,1,2015-12-13 20:30:00,Gonzalo Castro,HeadPass,317
+79645,67,MissedShots,0.88,0.43,0.10088799893856049,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1164,Borussia Dortmund,Eintracht Frankfurt,4,1,2015-12-13 20:30:00,,None,317
+79975,20,MissedShots,0.7609999847412109,0.7669999694824219,0.02362789958715439,Henrikh Mkhitaryan,a,317,FromCorner,2015,RightFoot,1169,FC Cologne,Borussia Dortmund,2,1,2015-12-19 18:30:00,Joo-Ho Park,TakeOn,317
+79981,42,BlockedShot,0.8580000305175781,0.295,0.053632400929927826,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1169,FC Cologne,Borussia Dortmund,2,1,2015-12-19 18:30:00,,None,317
+80101,43,MissedShots,0.9130000305175782,0.6469999694824219,0.08732959628105164,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1180,Borussia M.Gladbach,Borussia Dortmund,1,3,2016-01-23 21:30:00,,None,317
+80104,49,Goal,0.909000015258789,0.605999984741211,0.5750190019607544,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1180,Borussia M.Gladbach,Borussia Dortmund,1,3,2016-01-23 21:30:00,Marco Reus,Throughball,317
+80332,43,SavedShot,0.6669999694824219,0.815,0.022439800202846527,Henrikh Mkhitaryan,h,317,DirectFreekick,2015,RightFoot,1185,Borussia Dortmund,Ingolstadt,2,0,2016-01-30 18:30:00,,Standard,317
+80685,48,MissedShots,0.7559999847412109,0.5029999923706054,0.026627300307154655,Henrikh Mkhitaryan,a,317,OpenPlay,2015,LeftFoot,1196,Hertha Berlin,Borussia Dortmund,0,0,2016-02-06 18:30:00,Gonzalo Castro,Pass,317
+80691,69,MissedShots,0.8809999847412109,0.45099998474121095,0.11764299869537354,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1196,Hertha Berlin,Borussia Dortmund,0,0,2016-02-06 18:30:00,Pierre-Emerick Aubameyang,Pass,317
+80751,25,MissedShots,0.9530000305175781,0.6580000305175782,0.036424100399017334,Henrikh Mkhitaryan,h,317,OpenPlay,2015,LeftFoot,1203,Borussia Dortmund,Hannover 96,1,0,2016-02-13 18:30:00,Lukasz Piszczek,Cross,317
+80762,56,Goal,0.779000015258789,0.585,0.04988830164074898,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1203,Borussia Dortmund,Hannover 96,1,0,2016-02-13 18:30:00,Marco Reus,Pass,317
+81217,41,BlockedShot,0.7909999847412109,0.7380000305175781,0.010932999663054943,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Marcel Schmelzer,TakeOn,317
+81225,61,BlockedShot,0.8019999694824219,0.33599998474121096,0.02876790054142475,Henrikh Mkhitaryan,h,317,OpenPlay,2015,LeftFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Lukasz Piszczek,Pass,317
+81235,79,Goal,0.9130000305175782,0.675,0.04911069944500923,Henrikh Mkhitaryan,h,317,FromCorner,2015,LeftFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Ilkay Gündogan,Pass,317
+81689,50,MissedShots,0.764000015258789,0.4620000076293945,0.019200000911951065,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1243,Borussia Dortmund,Bayern Munich,0,0,2016-03-05 21:30:00,,Rebound,317
+81700,82,BlockedShot,0.7930000305175782,0.35400001525878905,0.028153900057077408,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1243,Borussia Dortmund,Bayern Munich,0,0,2016-03-05 21:30:00,Pierre-Emerick Aubameyang,Pass,317
+81971,64,MissedShots,0.830999984741211,0.41900001525878905,0.07962760329246521,Henrikh Mkhitaryan,h,317,OpenPlay,2015,LeftFoot,1254,Borussia Dortmund,Mainz 05,2,0,2016-03-13 20:30:00,Marco Reus,Pass,317
+81974,65,SavedShot,0.9569999694824218,0.39799999237060546,0.3710609972476959,Henrikh Mkhitaryan,h,317,OpenPlay,2015,LeftFoot,1254,Borussia Dortmund,Mainz 05,2,0,2016-03-13 20:30:00,,Rebound,317
+81973,65,BlockedShot,0.94,0.34,0.08136499673128128,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1254,Borussia Dortmund,Mainz 05,2,0,2016-03-13 20:30:00,,Rebound,317
+81979,84,BlockedShot,0.8719999694824219,0.46599998474121096,0.14485999941825867,Henrikh Mkhitaryan,h,317,OpenPlay,2015,LeftFoot,1254,Borussia Dortmund,Mainz 05,2,0,2016-03-13 20:30:00,Pierre-Emerick Aubameyang,Pass,317
+82309,17,BlockedShot,0.7140000152587891,0.3840000152587891,0.011793400160968304,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1263,Augsburg,Borussia Dortmund,1,3,2016-03-20 20:30:00,Nuri Sahin,BallRecovery,317
+82315,44,Goal,0.8819999694824219,0.5509999847412109,0.10913500189781189,Henrikh Mkhitaryan,a,317,OpenPlay,2015,LeftFoot,1263,Augsburg,Borussia Dortmund,1,3,2016-03-20 20:30:00,Nuri Sahin,LayOff,317
+82639,52,SavedShot,0.7419999694824219,0.6819999694824219,0.04578480124473572,Henrikh Mkhitaryan,a,317,DirectFreekick,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,,Standard,317
+82641,62,BlockedShot,0.8930000305175781,0.6619999694824219,0.08952829986810684,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Shinji Kagawa,Pass,317
+82645,70,BlockedShot,0.8669999694824219,0.48700000762939455,0.08976759761571884,Henrikh Mkhitaryan,a,317,OpenPlay,2015,LeftFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Adrián Ramos,Rebound,317
+83196,44,SavedShot,0.7290000152587891,0.4929999923706055,0.02182460017502308,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,Adrián Ramos,Pass,317
+83199,55,Goal,0.905,0.4329999923706055,0.4593920111656189,Henrikh Mkhitaryan,a,317,OpenPlay,2015,LeftFoot,1292,VfB Stuttgart,Borussia Dortmund,0,3,2016-04-23 17:30:00,,Rebound,317
+83305,6,MissedShots,0.8969999694824219,0.32,0.04729419946670532,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1306,Borussia Dortmund,Wolfsburg,5,1,2016-04-30 17:30:00,Marcel Schmelzer,Chipped,317
+83315,58,BlockedShot,0.8590000152587891,0.5970000076293945,0.10830599814653397,Henrikh Mkhitaryan,h,317,OpenPlay,2015,LeftFoot,1306,Borussia Dortmund,Wolfsburg,5,1,2016-04-30 17:30:00,Marcel Schmelzer,Pass,317
+83321,69,MissedShots,0.8859999847412109,0.575,0.15254099667072296,Henrikh Mkhitaryan,h,317,OpenPlay,2015,RightFoot,1306,Borussia Dortmund,Wolfsburg,5,1,2016-04-30 17:30:00,Shinji Kagawa,TakeOn,317
+83328,88,BlockedShot,0.7619999694824219,0.6309999847412109,0.025438500568270683,Henrikh Mkhitaryan,h,317,FromCorner,2015,RightFoot,1306,Borussia Dortmund,Wolfsburg,5,1,2016-04-30 17:30:00,Gonzalo Castro,Cross,317
+83327,88,SavedShot,0.884000015258789,0.7230000305175781,0.05636170133948326,Henrikh Mkhitaryan,h,317,OpenPlay,2015,LeftFoot,1306,Borussia Dortmund,Wolfsburg,5,1,2016-04-30 17:30:00,Shinji Kagawa,Pass,317
+83613,25,BlockedShot,0.9419999694824219,0.73,0.043063998222351074,Henrikh Mkhitaryan,a,317,FromCorner,2015,RightFoot,1313,Eintracht Frankfurt,Borussia Dortmund,1,0,2016-05-07 17:30:00,Shinji Kagawa,Pass,317
+83618,56,BlockedShot,0.725,0.45799999237060546,0.017758600413799286,Henrikh Mkhitaryan,a,317,OpenPlay,2015,LeftFoot,1313,Eintracht Frankfurt,Borussia Dortmund,1,0,2016-05-07 17:30:00,Sven Bender,Pass,317
+83621,71,SavedShot,0.7519999694824219,0.44799999237060545,0.02347569912672043,Henrikh Mkhitaryan,a,317,OpenPlay,2015,LeftFoot,1313,Eintracht Frankfurt,Borussia Dortmund,1,0,2016-05-07 17:30:00,Gonzalo Castro,Pass,317
+83622,81,BlockedShot,0.9259999847412109,0.4620000076293945,0.5073050260543823,Henrikh Mkhitaryan,a,317,OpenPlay,2015,RightFoot,1313,Eintracht Frankfurt,Borussia Dortmund,1,0,2016-05-07 17:30:00,,None,317
+83623,84,MissedShots,0.9030000305175782,0.43599998474121093,0.06041570007801056,Henrikh Mkhitaryan,a,317,SetPiece,2015,Head,1313,Eintracht Frankfurt,Borussia Dortmund,1,0,2016-05-07 17:30:00,Marcel Schmelzer,Chipped,317
+112988,75,SavedShot,0.764000015258789,0.44599998474121094,0.023832399398088455,Henrikh Mkhitaryan,a,317,OpenPlay,2016,LeftFoot,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,Antonio Valencia,Pass,317
+112992,81,BlockedShot,0.8959999847412109,0.3729999923706055,0.09768970310688019,Henrikh Mkhitaryan,a,317,OpenPlay,2016,RightFoot,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,Marcus Rashford,Pass,317
+112994,86,MissedShots,0.7430000305175781,0.5779999923706055,0.015611300244927406,Henrikh Mkhitaryan,a,317,FromCorner,2016,LeftFoot,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,,None,317
+112996,88,SavedShot,0.765,0.6179999923706054,0.022493600845336914,Henrikh Mkhitaryan,a,317,OpenPlay,2016,RightFoot,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,Wayne Rooney,Pass,317
+115303,69,MissedShots,0.6890000152587891,0.24399999618530274,0.010737000033259392,Henrikh Mkhitaryan,h,317,FromCorner,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,,None,317
+115304,73,BlockedShot,0.8540000152587891,0.3609999847412109,0.05852219834923744,Henrikh Mkhitaryan,h,317,OpenPlay,2016,LeftFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Antonio Valencia,Pass,317
+115307,76,SavedShot,0.9159999847412109,0.5279999923706055,0.1432799994945526,Henrikh Mkhitaryan,h,317,OpenPlay,2016,LeftFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,,Rebound,317
+115602,59,BlockedShot,0.865999984741211,0.3129999923706055,0.06280189752578735,Henrikh Mkhitaryan,a,317,OpenPlay,2016,LeftFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Paul Pogba,TakeOn,317
+117123,11,MissedShots,0.799000015258789,0.435,0.0403720997273922,Henrikh Mkhitaryan,h,317,OpenPlay,2016,LeftFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,,None,317
+117126,21,BlockedShot,0.84,0.534000015258789,0.0947343036532402,Henrikh Mkhitaryan,h,317,OpenPlay,2016,LeftFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Ander Herrera,LayOff,317
+117130,28,Goal,0.8719999694824219,0.39599998474121095,0.3319050073623657,Henrikh Mkhitaryan,h,317,OpenPlay,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Ander Herrera,Throughball,317
+116595,62,MissedShots,0.8019999694824219,0.6519999694824219,0.0367266982793808,Henrikh Mkhitaryan,h,317,OpenPlay,2016,RightFoot,3147,Manchester United,Sunderland,3,1,2016-12-26 19:00:00,Juan Mata,Chipped,317
+116602,85,Goal,0.9269999694824219,0.46799999237060547,0.13456200063228607,Henrikh Mkhitaryan,h,317,OpenPlay,2016,RightFoot,3147,Manchester United,Sunderland,3,1,2016-12-26 19:00:00,Zlatan Ibrahimovic,Cross,317
+117586,29,SavedShot,0.8480000305175781,0.49400001525878906,0.0924805998802185,Henrikh Mkhitaryan,h,317,OpenPlay,2016,LeftFoot,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,Anthony Martial,Pass,317
+117587,31,BlockedShot,0.73,0.5270000076293946,0.017566999420523643,Henrikh Mkhitaryan,h,317,OpenPlay,2016,RightFoot,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,,BallRecovery,317
+117590,34,MissedShots,0.875999984741211,0.725999984741211,0.04844969883561134,Henrikh Mkhitaryan,h,317,OpenPlay,2016,LeftFoot,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,,TakeOn,317
+117559,40,SavedShot,0.9030000305175782,0.635,0.10609299689531326,Henrikh Mkhitaryan,h,317,OpenPlay,2016,LeftFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Ander Herrera,Throughball,317
+118710,36,MissedShots,0.8440000152587891,0.455,0.07607980072498322,Henrikh Mkhitaryan,a,317,OpenPlay,2016,RightFoot,3354,Stoke,Manchester United,1,1,2017-01-21 18:00:00,Antonio Valencia,Pass,317
+118720,65,SavedShot,0.8969999694824219,0.35700000762939454,0.10501199960708618,Henrikh Mkhitaryan,a,317,OpenPlay,2016,RightFoot,3354,Stoke,Manchester United,1,1,2017-01-21 18:00:00,Paul Pogba,Throughball,317
+119036,41,BlockedShot,0.774000015258789,0.4329999923706055,0.02040950022637844,Henrikh Mkhitaryan,h,317,FromCorner,2016,LeftFoot,3368,Manchester United,Hull,0,0,2017-02-01 23:00:00,,None,317
+116744,37,SavedShot,0.845999984741211,0.48200000762939454,0.0191785991191864,Henrikh Mkhitaryan,a,317,OpenPlay,2016,Head,3379,Leicester,Manchester United,0,3,2017-02-05 16:00:00,Zlatan Ibrahimovic,Aerial,317
+116746,41,Goal,0.875999984741211,0.38,0.07161570340394974,Henrikh Mkhitaryan,a,317,OpenPlay,2016,RightFoot,3379,Leicester,Manchester United,0,3,2017-02-05 16:00:00,Chris Smalling,BallRecovery,317
+116760,82,MissedShots,0.860999984741211,0.41,0.10831599682569504,Henrikh Mkhitaryan,a,317,OpenPlay,2016,RightFoot,3379,Leicester,Manchester United,0,3,2017-02-05 16:00:00,Antonio Valencia,Pass,317
+117733,10,SavedShot,0.75,0.53,0.022883299738168716,Henrikh Mkhitaryan,h,317,OpenPlay,2016,RightFoot,3381,Manchester United,Watford,2,0,2017-02-11 15:00:00,Zlatan Ibrahimovic,Pass,317
+117744,29,MissedShots,0.850999984741211,0.48700000762939455,0.09176020324230194,Henrikh Mkhitaryan,h,317,OpenPlay,2016,RightFoot,3381,Manchester United,Watford,2,0,2017-02-11 15:00:00,Juan Mata,Pass,317
+117747,43,SavedShot,0.799000015258789,0.37099998474121093,0.040918201208114624,Henrikh Mkhitaryan,h,317,OpenPlay,2016,LeftFoot,3381,Manchester United,Watford,2,0,2017-02-11 15:00:00,Juan Mata,Pass,317
+117760,77,SavedShot,0.8880000305175781,0.31799999237060544,0.22802099585533142,Henrikh Mkhitaryan,h,317,OpenPlay,2016,RightFoot,3381,Manchester United,Watford,2,0,2017-02-11 15:00:00,Zlatan Ibrahimovic,Pass,317
+119564,66,SavedShot,0.905,0.6270000076293946,0.3531849980354309,Henrikh Mkhitaryan,h,317,OpenPlay,2016,LeftFoot,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,,BallTouch,317
+120304,45,Goal,0.8919999694824219,0.6880000305175781,0.08478900045156479,Henrikh Mkhitaryan,a,317,OpenPlay,2016,LeftFoot,3452,Sunderland,Manchester United,0,3,2017-04-09 13:30:00,Luke Shaw,TakeOn,317
+118602,24,SavedShot,0.874000015258789,0.44,0.07950550317764282,Henrikh Mkhitaryan,a,317,OpenPlay,2016,RightFoot,3398,Manchester City,Manchester United,0,0,2017-04-27 20:00:00,,None,317
+119628,19,MissedShots,0.7219999694824218,0.5920000076293945,0.01534739974886179,Henrikh Mkhitaryan,a,317,OpenPlay,2016,RightFoot,3412,Southampton,Manchester United,0,0,2017-05-17 19:45:00,Anthony Martial,Pass,317
+119646,71,MissedShots,0.84,0.41200000762939454,0.050973501056432724,Henrikh Mkhitaryan,a,317,OpenPlay,2016,RightFoot,3412,Southampton,Manchester United,0,0,2017-05-17 19:45:00,,Rebound,317
+158258,11,MissedShots,0.8490000152587891,0.28700000762939454,0.03251820057630539,Henrikh Mkhitaryan,h,317,OpenPlay,2017,LeftFoot,7128,Manchester United,West Ham,4,0,2017-08-13 16:00:00,,None,317
+158259,14,MissedShots,0.7719999694824219,0.5220000076293946,0.0299236997961998,Henrikh Mkhitaryan,h,317,FromCorner,2017,RightFoot,7128,Manchester United,West Ham,4,0,2017-08-13 16:00:00,Daley Blind,Pass,317
+158278,62,SavedShot,0.8159999847412109,0.5270000076293946,0.0910634994506836,Henrikh Mkhitaryan,h,317,OpenPlay,2017,RightFoot,7128,Manchester United,West Ham,4,0,2017-08-13 16:00:00,Romelu Lukaku,TakeOn,317
+159009,61,BlockedShot,0.7569999694824219,0.3940000152587891,0.025875799357891083,Henrikh Mkhitaryan,a,317,OpenPlay,2017,LeftFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Paul Pogba,Pass,317
+159010,67,MissedShots,0.7430000305175781,0.6580000305175782,0.0178787000477314,Henrikh Mkhitaryan,a,317,OpenPlay,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Marcus Rashford,Pass,317
+158731,0,BlockedShot,0.9459999847412109,0.33299999237060546,0.07863389700651169,Henrikh Mkhitaryan,h,317,OpenPlay,2017,RightFoot,7145,Manchester United,Leicester,2,0,2017-08-26 17:30:00,Juan Mata,Pass,317
+158734,11,BlockedShot,0.7709999847412109,0.5509999847412109,0.02943990007042885,Henrikh Mkhitaryan,h,317,OpenPlay,2017,RightFoot,7145,Manchester United,Leicester,2,0,2017-08-26 17:30:00,Anthony Martial,LayOff,317
+158781,82,Goal,0.8969999694824219,0.605999984741211,0.3615339994430542,Henrikh Mkhitaryan,h,317,OpenPlay,2017,RightFoot,7168,Manchester United,Everton,4,0,2017-09-17 16:00:00,Romelu Lukaku,Pass,317
+159791,4,SavedShot,0.77,0.7030000305175781,0.020980900153517723,Henrikh Mkhitaryan,a,317,OpenPlay,2017,LeftFoot,7172,Southampton,Manchester United,0,1,2017-09-23 15:00:00,,TakeOn,317
+159807,63,BlockedShot,0.75,0.37,0.021553199738264084,Henrikh Mkhitaryan,a,317,OpenPlay,2017,RightFoot,7172,Southampton,Manchester United,0,1,2017-09-23 15:00:00,Romelu Lukaku,Pass,317
+160240,43,MissedShots,0.9080000305175782,0.7140000152587891,0.03302450105547905,Henrikh Mkhitaryan,h,317,FromCorner,2017,RightFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Juan Mata,Cross,317
+160498,31,BlockedShot,0.7530000305175781,0.44,0.022525500506162643,Henrikh Mkhitaryan,a,317,OpenPlay,2017,LeftFoot,7193,Liverpool,Manchester United,0,0,2017-10-14 12:30:00,,Interception,317
+160078,53,SavedShot,0.8580000305175781,0.6419999694824219,0.08176759630441666,Henrikh Mkhitaryan,h,317,OpenPlay,2017,RightFoot,7218,Manchester United,Tottenham,1,0,2017-10-28 12:30:00,,TakeOn,317
+185602,79,MissedShots,0.8980000305175782,0.5720000076293945,0.015741100534796715,Henrikh Mkhitaryan,h,317,FromCorner,2017,Head,7314,Manchester United,Burnley,2,2,2017-12-26 15:00:00,Ashley Young,Aerial,317
+186147,56,SavedShot,0.7769999694824219,0.6969999694824218,0.022987000644207,Henrikh Mkhitaryan,h,317,OpenPlay,2017,RightFoot,7324,Manchester United,Southampton,0,0,2017-12-30 17:30:00,Luke Shaw,Pass,317
+194098,73,SavedShot,0.925,0.5070000076293946,0.37838101387023926,Henrikh Mkhitaryan,a,317,OpenPlay,2017,Head,7361,Swansea,Arsenal,3,1,2018-01-30 19:45:00,Mesut Özil,Throughball,317
+193575,9,MissedShots,0.749000015258789,0.629000015258789,0.02601349912583828,Henrikh Mkhitaryan,h,317,OpenPlay,2017,RightFoot,7369,Arsenal,Everton,5,1,2018-02-03 17:30:00,Granit Xhaka,Pass,317
+193591,55,SavedShot,0.8619999694824219,0.5690000152587891,0.1318410038948059,Henrikh Mkhitaryan,h,317,OpenPlay,2017,LeftFoot,7369,Arsenal,Everton,5,1,2018-02-03 17:30:00,Mesut Özil,Pass,317
+198417,12,SavedShot,0.8030000305175782,0.6329999923706054,0.03525970131158829,Henrikh Mkhitaryan,h,317,OpenPlay,2017,LeftFoot,7389,Arsenal,Manchester City,0,3,2018-03-01 19:45:00,Mesut Özil,Pass,317
+198424,37,MissedShots,0.7909999847412109,0.46599998474121096,0.026348000392317772,Henrikh Mkhitaryan,h,317,FromCorner,2017,LeftFoot,7389,Arsenal,Manchester City,0,3,2018-03-01 19:45:00,,None,317
+199360,37,SavedShot,0.9669999694824218,0.28899999618530275,0.07604079693555832,Henrikh Mkhitaryan,a,317,OpenPlay,2017,RightFoot,7399,Brighton,Arsenal,2,1,2018-03-04 13:30:00,Calum Chambers,Pass,317
+199364,48,SavedShot,0.789000015258789,0.3509999847412109,0.029010800644755363,Henrikh Mkhitaryan,a,317,OpenPlay,2017,RightFoot,7399,Brighton,Arsenal,2,1,2018-03-04 13:30:00,Granit Xhaka,Pass,317
+199370,79,BlockedShot,0.7830000305175782,0.4540000152587891,0.031797099858522415,Henrikh Mkhitaryan,a,317,OpenPlay,2017,LeftFoot,7399,Brighton,Arsenal,2,1,2018-03-04 13:30:00,,None,317
+200558,76,Goal,0.8490000152587891,0.4620000076293945,0.11585299670696259,Henrikh Mkhitaryan,h,317,OpenPlay,2017,LeftFoot,7409,Arsenal,Watford,3,0,2018-03-11 13:30:00,Pierre-Emerick Aubameyang,Pass,317
+204063,84,SavedShot,0.9430000305175781,0.34299999237060547,0.08381109684705734,Henrikh Mkhitaryan,h,317,OpenPlay,2017,RightFoot,7429,Arsenal,Stoke,3,0,2018-04-01 13:30:00,,None,317
+212470,19,MissedShots,0.8680000305175781,0.3240000152587891,0.03814990073442459,Henrikh Mkhitaryan,a,317,OpenPlay,2017,RightFoot,7473,Manchester United,Arsenal,2,1,2018-04-29 15:30:00,Ainsley Maitland-Niles,Pass,317
+212477,50,Goal,0.8119999694824219,0.46,0.055329401046037674,Henrikh Mkhitaryan,a,317,OpenPlay,2017,RightFoot,7473,Manchester United,Arsenal,2,1,2018-04-29 15:30:00,Granit Xhaka,Pass,317
+212481,54,MissedShots,0.8619999694824219,0.7180000305175781,0.034464601427316666,Henrikh Mkhitaryan,a,317,OpenPlay,2017,RightFoot,7473,Manchester United,Arsenal,2,1,2018-04-29 15:30:00,Reiss Nelson,Pass,317
+214010,32,MissedShots,0.8909999847412109,0.42200000762939455,0.12461499869823456,Henrikh Mkhitaryan,h,317,OpenPlay,2017,RightFoot,7487,Arsenal,Burnley,5,0,2018-05-06 16:30:00,Alexandre Lacazette,Pass,317
+214012,42,SavedShot,0.7519999694824219,0.415,0.02658740058541298,Henrikh Mkhitaryan,h,317,OpenPlay,2017,RightFoot,7487,Arsenal,Burnley,5,0,2018-05-06 16:30:00,Alexandre Lacazette,Pass,317
+214017,54,MissedShots,0.8340000152587891,0.345,0.06167849898338318,Henrikh Mkhitaryan,h,317,OpenPlay,2017,LeftFoot,7487,Arsenal,Burnley,5,0,2018-05-06 16:30:00,Alex Iwobi,Pass,317
+214302,0,SavedShot,0.8690000152587891,0.33,0.03692920133471489,Henrikh Mkhitaryan,a,317,FromCorner,2017,RightFoot,7422,Leicester,Arsenal,3,1,2018-05-09 19:45:00,,None,317
+214313,33,SavedShot,0.9069999694824219,0.5159999847412109,0.12255600094795227,Henrikh Mkhitaryan,a,317,OpenPlay,2017,LeftFoot,7422,Leicester,Arsenal,3,1,2018-05-09 19:45:00,Alex Iwobi,Pass,317
+214329,66,MissedShots,0.9119999694824219,0.31,0.04768440127372742,Henrikh Mkhitaryan,a,317,OpenPlay,2017,RightFoot,7422,Leicester,Arsenal,3,1,2018-05-09 19:45:00,Sead Kolasinac,Chipped,317
+215712,18,BlockedShot,0.8080000305175781,0.6840000152587891,0.07834900170564651,Henrikh Mkhitaryan,a,317,DirectFreekick,2017,RightFoot,7494,Huddersfield,Arsenal,0,1,2018-05-13 15:00:00,,Standard,317
+215715,29,BlockedShot,0.8069999694824219,0.4759999847412109,0.02752310037612915,Henrikh Mkhitaryan,a,317,OpenPlay,2017,RightFoot,7494,Huddersfield,Arsenal,0,1,2018-05-13 15:00:00,Alexandre Lacazette,Chipped,317
+232705,46,BlockedShot,0.9459999847412109,0.3,0.055641498416662216,Henrikh Mkhitaryan,h,317,OpenPlay,2018,RightFoot,9206,Arsenal,Manchester City,0,2,2018-08-12 18:00:00,Aaron Ramsey,Pass,317
+232717,88,BlockedShot,0.8690000152587891,0.52,0.10688100010156631,Henrikh Mkhitaryan,h,317,OpenPlay,2018,RightFoot,9206,Arsenal,Manchester City,0,2,2018-08-12 18:00:00,Mesut Özil,Pass,317
+233004,30,BlockedShot,0.8090000152587891,0.3120000076293945,0.023591799661517143,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9212,Chelsea,Arsenal,3,2,2018-08-18 19:30:00,Pierre-Emerick Aubameyang,Pass,317
+233006,31,MissedShots,0.915,0.485,0.40026000142097473,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9212,Chelsea,Arsenal,3,2,2018-08-18 19:30:00,Alex Iwobi,Pass,317
+233009,36,Goal,0.815,0.5329999923706055,0.03868350014090538,Henrikh Mkhitaryan,a,317,OpenPlay,2018,LeftFoot,9212,Chelsea,Arsenal,3,2,2018-08-18 19:30:00,,None,317
+233199,5,BlockedShot,0.7390000152587891,0.44299999237060544,0.018817899748682976,Henrikh Mkhitaryan,h,317,OpenPlay,2018,LeftFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,Pierre-Emerick Aubameyang,Pass,317
+233200,10,SavedShot,0.8580000305175781,0.4470000076293945,0.07253000140190125,Henrikh Mkhitaryan,h,317,OpenPlay,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,,None,317
+233211,42,BlockedShot,0.8080000305175781,0.33099998474121095,0.084619902074337,Henrikh Mkhitaryan,h,317,DirectFreekick,2018,RightFoot,9222,Arsenal,West Ham,3,1,2018-08-25 17:00:00,,Standard,317
+233883,72,BlockedShot,0.925,0.6940000152587891,0.08266010135412216,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9238,Newcastle United,Arsenal,1,2,2018-09-15 14:00:00,Aaron Ramsey,Cross,317
+249138,1,MissedShots,0.7269999694824218,0.519000015258789,0.017410600557923317,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9274,Fulham,Arsenal,1,5,2018-10-07 11:00:00,Danny Welbeck,Pass,317
+249150,31,SavedShot,0.955999984741211,0.5129999923706055,0.15571199357509613,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9274,Fulham,Arsenal,1,5,2018-10-07 11:00:00,,None,317
+249151,32,MissedShots,0.765,0.4520000076293945,0.03335040062665939,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9274,Fulham,Arsenal,1,5,2018-10-07 11:00:00,Danny Welbeck,Pass,317
+249468,49,MissedShots,0.8819999694824219,0.40599998474121096,0.07572879642248154,Henrikh Mkhitaryan,h,317,OpenPlay,2018,LeftFoot,9286,Arsenal,Leicester,3,1,2018-10-22 19:00:00,,Rebound,317
+249469,50,MissedShots,0.8480000305175781,0.495,0.07901719957590103,Henrikh Mkhitaryan,h,317,OpenPlay,2018,LeftFoot,9286,Arsenal,Leicester,3,1,2018-10-22 19:00:00,Alex Iwobi,BallTouch,317
+249876,15,MissedShots,0.9019999694824219,0.48700000762939455,0.34707799553871155,Henrikh Mkhitaryan,h,317,OpenPlay,2018,Head,9303,Arsenal,Liverpool,1,1,2018-11-03 17:30:00,Pierre-Emerick Aubameyang,Aerial,317
+250248,85,Goal,0.7919999694824219,0.81,0.014283699914813042,Henrikh Mkhitaryan,h,317,FromCorner,2018,RightFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Aaron Ramsey,Pass,317
+250416,1,BlockedShot,0.765,0.5109999847412109,0.029064800590276718,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Lucas Torreira,BallRecovery,317
+250427,39,MissedShots,0.8019999694824219,0.5029999923706054,0.060737598687410355,Henrikh Mkhitaryan,a,317,OpenPlay,2018,LeftFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,,None,317
+250428,40,SavedShot,0.8580000305175781,0.6040000152587891,0.11009799689054489,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,,TakeOn,317
+250432,54,BlockedShot,0.8880000305175781,0.42700000762939455,0.05276450142264366,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,,Aerial,317
+250438,68,MissedShots,0.9669999694824218,0.6569999694824219,0.11267100274562836,Henrikh Mkhitaryan,a,317,OpenPlay,2018,LeftFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Pierre-Emerick Aubameyang,Pass,317
+250439,69,BlockedShot,0.9459999847412109,0.6930000305175781,0.09255249798297882,Henrikh Mkhitaryan,a,317,OpenPlay,2018,LeftFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,Alex Iwobi,TakeOn,317
+250444,79,MissedShots,0.7980000305175782,0.3770000076293945,0.04595239832997322,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9324,Bournemouth,Arsenal,1,2,2018-11-25 13:30:00,,None,317
+250970,71,MissedShots,0.9590000152587891,0.5279999923706055,0.6171159744262695,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9344,Manchester United,Arsenal,2,2,2018-12-05 20:00:00,Sead Kolasinac,Cross,317
+251137,45,MissedShots,0.7669999694824219,0.49900001525878906,0.02945530042052269,Henrikh Mkhitaryan,h,317,OpenPlay,2018,LeftFoot,9356,Arsenal,Huddersfield,1,0,2018-12-08 15:00:00,Matteo Guendouzi,Pass,317
+251143,81,MissedShots,0.879000015258789,0.5159999847412109,0.04573319852352142,Henrikh Mkhitaryan,h,317,OpenPlay,2018,Head,9356,Arsenal,Huddersfield,1,0,2018-12-08 15:00:00,Sead Kolasinac,Cross,317
+251399,6,BlockedShot,0.7619999694824219,0.46700000762939453,0.0439051017165184,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9360,Southampton,Arsenal,3,2,2018-12-16 13:30:00,Pierre-Emerick Aubameyang,Pass,317
+251405,27,Goal,0.8719999694824219,0.515,0.23837199807167053,Henrikh Mkhitaryan,a,317,OpenPlay,2018,Head,9360,Southampton,Arsenal,3,2,2018-12-16 13:30:00,Nacho Monreal,Cross,317
+251411,52,Goal,0.759000015258789,0.53,0.024365799501538277,Henrikh Mkhitaryan,a,317,OpenPlay,2018,LeftFoot,9360,Southampton,Arsenal,3,2,2018-12-16 13:30:00,Alexandre Lacazette,Pass,317
+251422,95,BlockedShot,0.7119999694824218,0.5570000076293945,0.01666489988565445,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9360,Southampton,Arsenal,3,2,2018-12-16 13:30:00,Granit Xhaka,Pass,317
+275526,38,SavedShot,0.8619999694824219,0.53,0.1110600009560585,Henrikh Mkhitaryan,a,317,OpenPlay,2018,LeftFoot,9456,Huddersfield,Arsenal,1,2,2019-02-09 15:00:00,Ainsley Maitland-Niles,Pass,317
+275841,5,MissedShots,0.9,0.3840000152587891,0.06918349862098694,Henrikh Mkhitaryan,h,317,OpenPlay,2018,LeftFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Alex Iwobi,Cross,317
+275847,16,Goal,0.88,0.41900001525878905,0.37394800782203674,Henrikh Mkhitaryan,h,317,OpenPlay,2018,RightFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,,None,317
+275968,26,Goal,0.889000015258789,0.46599998474121096,0.406684011220932,Henrikh Mkhitaryan,h,317,OpenPlay,2018,RightFoot,9470,Arsenal,Bournemouth,5,1,2019-02-27 19:45:00,Mesut Özil,Pass,317
+276130,64,BlockedShot,0.7719999694824219,0.3320000076293945,0.025611700490117073,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9480,Tottenham,Arsenal,1,1,2019-03-02 12:30:00,Alex Iwobi,Pass,317
+290923,92,BlockedShot,0.879000015258789,0.4209999847412109,0.12664200365543365,Henrikh Mkhitaryan,h,317,OpenPlay,2018,LeftFoot,9507,Arsenal,Newcastle United,2,0,2019-04-01 20:00:00,Alexandre Lacazette,Pass,317
+292599,70,MissedShots,0.8109999847412109,0.705,0.016772199422121048,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9524,Everton,Arsenal,1,0,2019-04-07 14:05:00,Aaron Ramsey,Chipped,317
+294581,54,BlockedShot,0.769000015258789,0.285,0.013710600323975086,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9527,Watford,Arsenal,0,1,2019-04-15 20:00:00,Aaron Ramsey,Chipped,317
+294583,56,SavedShot,0.9530000305175781,0.47900001525878905,0.6206859946250916,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9527,Watford,Arsenal,0,1,2019-04-15 20:00:00,Alex Iwobi,Chipped,317
+294584,57,MissedShots,0.8719999694824219,0.6419999694824219,0.07704789936542511,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9527,Watford,Arsenal,0,1,2019-04-15 20:00:00,Mesut Özil,Pass,317
+294585,60,MissedShots,0.8109999847412109,0.3509999847412109,0.028116200119256973,Henrikh Mkhitaryan,a,317,OpenPlay,2018,LeftFoot,9527,Watford,Arsenal,0,1,2019-04-15 20:00:00,Mesut Özil,Cross,317
+296783,4,MissedShots,0.785,0.3129999923706055,0.021212199702858925,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9497,Wolverhampton Wanderers,Arsenal,3,1,2019-04-24 19:45:00,,Dispossessed,317
+296793,39,BlockedShot,0.710999984741211,0.5590000152587891,0.012133199721574783,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9497,Wolverhampton Wanderers,Arsenal,3,1,2019-04-24 19:45:00,Nacho Monreal,Pass,317
+300104,1,ShotOnPost,0.8219999694824218,0.519000015258789,0.05547440052032471,Henrikh Mkhitaryan,h,317,OpenPlay,2018,RightFoot,9566,Arsenal,Brighton,1,1,2019-05-05 15:30:00,,None,317
+300113,44,SavedShot,0.755,0.7080000305175781,0.02223609946668148,Henrikh Mkhitaryan,h,317,OpenPlay,2018,RightFoot,9566,Arsenal,Brighton,1,1,2019-05-05 15:30:00,Alexandre Lacazette,Pass,317
+301250,57,SavedShot,0.84,0.27700000762939453,0.03183469921350479,Henrikh Mkhitaryan,a,317,OpenPlay,2018,LeftFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Stephan Lichtsteiner,Pass,317
+301256,67,BlockedShot,0.9530000305175781,0.4,0.11752200126647949,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,,None,317
+301257,69,SavedShot,0.7980000305175782,0.544000015258789,0.06068360060453415,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Mohamed Elneny,Pass,317
+301263,90,BlockedShot,0.735999984741211,0.49,0.027288900688290596,Henrikh Mkhitaryan,a,317,OpenPlay,2018,RightFoot,9575,Burnley,Arsenal,1,3,2019-05-12 14:00:00,Mohamed Elneny,Pass,317
+310208,22,MissedShots,0.875,0.595999984741211,0.338360995054245,Henrikh Mkhitaryan,a,317,OpenPlay,2019,LeftFoot,11650,Newcastle United,Arsenal,0,1,2019-08-11 14:00:00,Nacho Monreal,Pass,317
+316434,90,BlockedShot,0.8880000305175781,0.6229999923706054,0.09115669876337051,Henrikh Mkhitaryan,h,317,OpenPlay,2019,RightFoot,11682,Arsenal,Tottenham,2,2,2019-09-01 16:30:00,Nicolas Pepe,Pass,317
+318197,21,Goal,0.875999984741211,0.6229999923706054,0.2746509909629822,Henrikh Mkhitaryan,h,317,OpenPlay,2019,LeftFoot,13116,Roma,Sassuolo,4,2,2019-09-15 16:00:00,Lorenzo Pellegrini,Pass,317
+321051,56,MissedShots,0.7519999694824219,0.47400001525878904,0.021804699674248695,Henrikh Mkhitaryan,a,317,OpenPlay,2019,LeftFoot,13120,Bologna,Roma,1,2,2019-09-22 13:00:00,,None,317
+323261,47,MissedShots,0.87,0.5520000076293945,0.36349400877952576,Henrikh Mkhitaryan,a,317,OpenPlay,2019,RightFoot,13142,Lecce,Roma,0,1,2019-09-29 13:00:00,Edin Dzeko,Throughball,317
+334626,91,Goal,0.924000015258789,0.49,0.5509340167045593,Henrikh Mkhitaryan,a,317,OpenPlay,2019,LeftFoot,13223,Verona,Roma,1,3,2019-12-01 19:45:00,Diego Perotti,Pass,317
+337788,80,MissedShots,0.965,0.5729999923706055,0.40615400671958923,Henrikh Mkhitaryan,h,317,OpenPlay,2019,LeftFoot,13248,Roma,SPAL 2013,3,1,2019-12-15 17:00:00,Alessandro Florenzi,Cross,317
+337789,82,Goal,0.960999984741211,0.5,0.7427870035171509,Henrikh Mkhitaryan,h,317,OpenPlay,2019,LeftFoot,13248,Roma,SPAL 2013,3,1,2019-12-15 17:00:00,Alessandro Florenzi,Pass,317
+337791,89,BlockedShot,0.7719999694824219,0.40700000762939453,0.02400279976427555,Henrikh Mkhitaryan,h,317,OpenPlay,2019,RightFoot,13248,Roma,SPAL 2013,3,1,2019-12-15 17:00:00,Jordan Veretout,TakeOn,317
+353920,68,MissedShots,0.7580000305175781,0.44299999237060544,0.017865899950265884,Henrikh Mkhitaryan,h,317,FromCorner,2019,RightFoot,13267,Roma,Torino,0,2,2020-01-05 19:45:00,,None,317
+353924,78,SavedShot,0.884000015258789,0.48700000762939455,0.10698600113391876,Henrikh Mkhitaryan,h,317,OpenPlay,2019,LeftFoot,13267,Roma,Torino,0,2,2020-01-05 19:45:00,Edin Dzeko,Pass,317
+353934,98,BlockedShot,0.7580000305175781,0.6659999847412109,0.013034099712967873,Henrikh Mkhitaryan,h,317,OpenPlay,2019,RightFoot,13267,Roma,Torino,0,2,2020-01-05 19:45:00,Lorenzo Pellegrini,Pass,317
+357847,71,Goal,0.9590000152587891,0.44099998474121094,0.42886000871658325,Henrikh Mkhitaryan,h,317,OpenPlay,2019,Head,13315,Roma,Bologna,2,3,2020-02-07 19:45:00,Bruno Peres,Cross,317
+359201,19,BlockedShot,0.75,0.4520000076293945,0.029815100133419037,Henrikh Mkhitaryan,a,317,OpenPlay,2019,RightFoot,13319,Atalanta,Roma,2,1,2020-02-15 19:45:00,,TakeOn,317
+360374,36,Goal,0.9080000305175782,0.6669999694824219,0.3191240131855011,Henrikh Mkhitaryan,h,317,OpenPlay,2019,LeftFoot,13335,Roma,Lecce,4,0,2020-02-23 17:00:00,Edin Dzeko,Pass,317
+361422,3,SavedShot,0.895,0.3160000038146973,0.020815400406718254,Henrikh Mkhitaryan,a,317,OpenPlay,2019,RightFoot,13339,Cagliari,Roma,3,4,2020-03-01 17:00:00,,Aerial,317
+361426,9,SavedShot,0.8540000152587891,0.6329999923706054,0.05501589924097061,Henrikh Mkhitaryan,a,317,OpenPlay,2019,LeftFoot,13339,Cagliari,Roma,3,4,2020-03-01 17:00:00,Justin Kluivert,None,317
+361444,80,Goal,0.9290000152587891,0.4209999847412109,0.1028200015425682,Henrikh Mkhitaryan,a,317,SetPiece,2019,Head,13339,Cagliari,Roma,3,4,2020-03-01 17:00:00,Aleksandar Kolarov,Cross,317
+366487,9,MissedShots,0.9640000152587891,0.3890000152587891,0.03412590175867081,Henrikh Mkhitaryan,h,317,FromCorner,2019,Head,13355,Roma,Sampdoria,2,1,2020-06-24 19:45:00,Jordan Veretout,Cross,317
+366494,18,SavedShot,0.8969999694824219,0.5629999923706055,0.07805389910936356,Henrikh Mkhitaryan,h,317,OpenPlay,2019,RightFoot,13355,Roma,Sampdoria,2,1,2020-06-24 19:45:00,,None,317
+366503,39,MissedShots,0.8930000305175781,0.46099998474121096,0.0624811016023159,Henrikh Mkhitaryan,h,317,OpenPlay,2019,Head,13355,Roma,Sampdoria,2,1,2020-06-24 19:45:00,Amadou Diawara,Cross,317
+366505,44,BlockedShot,0.9569999694824218,0.675,0.06297039985656738,Henrikh Mkhitaryan,h,317,OpenPlay,2019,LeftFoot,13355,Roma,Sampdoria,2,1,2020-06-24 19:45:00,Aleksandar Kolarov,TakeOn,317
+366508,48,MissedShots,0.8630000305175781,0.5529999923706055,0.06646490097045898,Henrikh Mkhitaryan,h,317,OpenPlay,2019,LeftFoot,13355,Roma,Sampdoria,2,1,2020-06-24 19:45:00,Aleksandar Kolarov,Chipped,317
+367381,20,MissedShots,0.715999984741211,0.315,0.011720700189471245,Henrikh Mkhitaryan,a,317,OpenPlay,2019,LeftFoot,13363,AC Milan,Roma,2,0,2020-06-28 15:15:00,Davide Zappacosta,Pass,317
+367385,49,BlockedShot,0.78,0.5820000076293945,0.031094899401068687,Henrikh Mkhitaryan,a,317,OpenPlay,2019,LeftFoot,13363,AC Milan,Roma,2,0,2020-06-28 15:15:00,Lorenzo Pellegrini,Pass,317
+368441,55,BlockedShot,0.725,0.7630000305175781,0.012413999997079372,Henrikh Mkhitaryan,h,317,OpenPlay,2019,RightFoot,13376,Roma,Udinese,0,2,2020-07-02 19:45:00,Aleksandar Kolarov,Pass,317
+368451,85,BlockedShot,0.685,0.590999984741211,0.00882640015333891,Henrikh Mkhitaryan,h,317,OpenPlay,2019,RightFoot,13376,Roma,Udinese,0,2,2020-07-02 19:45:00,Aleksandar Kolarov,Pass,317
+369253,18,MissedShots,0.909000015258789,0.6759999847412109,0.03015800006687641,Henrikh Mkhitaryan,a,317,OpenPlay,2019,LeftFoot,13380,Napoli,Roma,2,1,2020-07-05 19:45:00,Davide Zappacosta,Cross,317
+369267,59,Goal,0.7630000305175781,0.5279999923706055,0.043145500123500824,Henrikh Mkhitaryan,a,317,OpenPlay,2019,RightFoot,13380,Napoli,Roma,2,1,2020-07-05 19:45:00,Edin Dzeko,Pass,317
+369269,67,SavedShot,0.6880000305175781,0.6229999923706054,0.009122500196099281,Henrikh Mkhitaryan,a,317,OpenPlay,2019,RightFoot,13380,Napoli,Roma,2,1,2020-07-05 19:45:00,,None,317
+369960,33,MissedShots,0.7919999694824219,0.6480000305175782,0.031980000436306,Henrikh Mkhitaryan,h,317,OpenPlay,2019,RightFoot,13395,Roma,Parma Calcio 1913,2,1,2020-07-08 19:45:00,Edin Dzeko,LayOff,317
+369966,42,Goal,0.8859999847412109,0.4909999847412109,0.41079699993133545,Henrikh Mkhitaryan,h,317,OpenPlay,2019,RightFoot,13395,Roma,Parma Calcio 1913,2,1,2020-07-08 19:45:00,Bruno Peres,Pass,317
+369968,49,SavedShot,0.799000015258789,0.675,0.020846499130129814,Henrikh Mkhitaryan,h,317,OpenPlay,2019,RightFoot,13395,Roma,Parma Calcio 1913,2,1,2020-07-08 19:45:00,Lorenzo Pellegrini,Pass,317
+371760,22,MissedShots,0.9419999694824219,0.7119999694824218,0.05917070060968399,Henrikh Mkhitaryan,h,317,OpenPlay,2019,LeftFoot,13415,Roma,Verona,2,1,2020-07-15 19:45:00,Gianluca Mancini,Chipped,317
+371762,27,SavedShot,0.89,0.6630000305175782,0.08687639981508255,Henrikh Mkhitaryan,h,317,OpenPlay,2019,LeftFoot,13415,Roma,Verona,2,1,2020-07-15 19:45:00,Edin Dzeko,Pass,317
+371767,45,MissedShots,0.72,0.54,0.013082900084555149,Henrikh Mkhitaryan,h,317,OpenPlay,2019,LeftFoot,13415,Roma,Verona,2,1,2020-07-15 19:45:00,,Aerial,317
+371771,63,BlockedShot,0.925,0.40400001525878904,0.4040389955043793,Henrikh Mkhitaryan,h,317,OpenPlay,2019,RightFoot,13415,Roma,Verona,2,1,2020-07-15 19:45:00,Lorenzo Pellegrini,Pass,317
+371774,68,MissedShots,0.759000015258789,0.6669999694824219,0.018472999334335327,Henrikh Mkhitaryan,h,317,FromCorner,2019,RightFoot,13415,Roma,Verona,2,1,2020-07-15 19:45:00,Ibañez,Pass,317
+371777,80,MissedShots,0.894000015258789,0.6459999847412109,0.07567589730024338,Henrikh Mkhitaryan,h,317,OpenPlay,2019,LeftFoot,13415,Roma,Verona,2,1,2020-07-15 19:45:00,Edin Dzeko,Chipped,317
+372882,24,MissedShots,0.835999984741211,0.4759999847412109,0.051704101264476776,Henrikh Mkhitaryan,h,317,FromCorner,2019,RightFoot,13427,Roma,Inter,2,2,2020-07-19 19:45:00,,None,317
+372888,56,Goal,0.9309999847412109,0.514000015258789,0.5746210217475891,Henrikh Mkhitaryan,h,317,OpenPlay,2019,RightFoot,13427,Roma,Inter,2,2,2020-07-19 19:45:00,Edin Dzeko,None,317
+373946,52,MissedShots,0.9619999694824218,0.6480000305175782,0.29767200350761414,Henrikh Mkhitaryan,h,317,OpenPlay,2019,RightFoot,13444,Roma,Fiorentina,2,1,2020-07-26 17:30:00,Leonardo Spinazzola,Pass,317
+373949,64,SavedShot,0.895,0.664000015258789,0.06903090327978134,Henrikh Mkhitaryan,h,317,OpenPlay,2019,LeftFoot,13444,Roma,Fiorentina,2,1,2020-07-26 17:30:00,Leonardo Spinazzola,Pass,317
+374285,40,MissedShots,0.965,0.705999984741211,0.06060510128736496,Henrikh Mkhitaryan,a,317,OpenPlay,2019,LeftFoot,13454,Torino,Roma,2,3,2020-07-29 19:45:00,Gianluca Mancini,Chipped,317
+374297,90,BlockedShot,0.9069999694824219,0.67,0.08515380322933197,Henrikh Mkhitaryan,a,317,OpenPlay,2019,LeftFoot,13454,Torino,Roma,2,3,2020-07-29 19:45:00,Edin Dzeko,Pass,317
+377688,16,BlockedShot,0.805,0.534000015258789,0.07076939940452576,Henrikh Mkhitaryan,a,317,OpenPlay,2020,LeftFoot,14117,Verona,Roma,0,0,2020-09-19 18:45:00,,TakeOn,317
+377690,18,BlockedShot,0.855,0.35700000762939454,0.05615780130028725,Henrikh Mkhitaryan,a,317,OpenPlay,2020,LeftFoot,14117,Verona,Roma,0,0,2020-09-19 18:45:00,Rick Karsdorp,Chipped,317
+377692,24,MissedShots,0.9309999847412109,0.5429999923706055,0.387800008058548,Henrikh Mkhitaryan,a,317,OpenPlay,2020,LeftFoot,14117,Verona,Roma,0,0,2020-09-19 18:45:00,Leonardo Spinazzola,Cross,317
+377698,38,SavedShot,0.884000015258789,0.5940000152587891,0.21416300535202026,Henrikh Mkhitaryan,a,317,OpenPlay,2020,LeftFoot,14117,Verona,Roma,0,0,2020-09-19 18:45:00,Ibañez,BallRecovery,317
+377706,63,BlockedShot,0.8780000305175781,0.625999984741211,0.07887080311775208,Henrikh Mkhitaryan,a,317,OpenPlay,2020,RightFoot,14117,Verona,Roma,0,0,2020-09-19 18:45:00,Leonardo Spinazzola,Pass,317
+379811,11,SavedShot,0.889000015258789,0.45799999237060546,0.5469970107078552,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,14131,Roma,Juventus,2,2,2020-09-27 18:45:00,Lorenzo Pellegrini,TakeOn,317
+380786,16,BlockedShot,0.7519999694824219,0.48700000762939455,0.02312679961323738,Henrikh Mkhitaryan,a,317,OpenPlay,2020,RightFoot,15449,Udinese,Roma,0,1,2020-10-03 18:45:00,,BallTouch,317
+380795,35,SavedShot,0.775,0.5840000152587891,0.03060079924762249,Henrikh Mkhitaryan,a,317,OpenPlay,2020,RightFoot,15449,Udinese,Roma,0,1,2020-10-03 18:45:00,Pedro,Pass,317
+382816,23,SavedShot,0.9359999847412109,0.45599998474121095,0.37769800424575806,Henrikh Mkhitaryan,h,317,OpenPlay,2020,Head,15464,Roma,Benevento,5,2,2020-10-18 18:45:00,Pedro,Chipped,317
+382823,48,MissedShots,0.784000015258789,0.6609999847412109,0.03397979959845543,Henrikh Mkhitaryan,h,317,OpenPlay,2020,LeftFoot,15464,Roma,Benevento,5,2,2020-10-18 18:45:00,,BallRecovery,317
+382838,82,MissedShots,0.9130000305175782,0.549000015258789,0.5108940005302429,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15464,Roma,Benevento,5,2,2020-10-18 18:45:00,Bruno Peres,Pass,317
+384249,48,SavedShot,0.8469999694824218,0.40900001525878904,0.06096319854259491,Henrikh Mkhitaryan,a,317,OpenPlay,2020,LeftFoot,15473,AC Milan,Roma,3,3,2020-10-26 19:45:00,Pedro,Pass,317
+384255,68,SavedShot,0.9069999694824219,0.6569999694824219,0.07273410260677338,Henrikh Mkhitaryan,a,317,OpenPlay,2020,LeftFoot,15473,AC Milan,Roma,3,3,2020-10-26 19:45:00,Edin Dzeko,Pass,317
+385366,36,SavedShot,0.8930000305175781,0.545,0.3887009918689728,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15480,Roma,Fiorentina,2,0,2020-11-01 17:00:00,,Rebound,317
+385368,39,BlockedShot,0.7440000152587891,0.3609999847412109,0.021843699738383293,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15480,Roma,Fiorentina,2,0,2020-11-01 17:00:00,Jordan Veretout,Pass,317
+385369,50,BlockedShot,0.865,0.6179999923706054,0.036469899117946625,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15480,Roma,Fiorentina,2,0,2020-11-01 17:00:00,,Aerial,317
+385374,62,BlockedShot,0.899000015258789,0.6090000152587891,0.10240600258111954,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15480,Roma,Fiorentina,2,0,2020-11-01 17:00:00,Leonardo Spinazzola,None,317
+385376,71,BlockedShot,0.9530000305175781,0.42900001525878906,0.4991469979286194,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15480,Roma,Fiorentina,2,0,2020-11-01 17:00:00,Bruno Peres,Cross,317
+386453,4,MissedShots,0.965,0.7230000305175781,0.0649029016494751,Henrikh Mkhitaryan,a,317,OpenPlay,2020,LeftFoot,15490,Genoa,Roma,1,3,2020-11-08 14:00:00,Ibañez,Pass,317
+386457,18,SavedShot,0.815,0.519000015258789,0.05185319855809212,Henrikh Mkhitaryan,a,317,OpenPlay,2020,LeftFoot,15490,Genoa,Roma,1,3,2020-11-08 14:00:00,,None,317
+386465,43,MissedShots,0.899000015258789,0.3629999923706055,0.05932969972491264,Henrikh Mkhitaryan,a,317,FromCorner,2020,LeftFoot,15490,Genoa,Roma,1,3,2020-11-08 14:00:00,,None,317
+386466,46,Goal,0.9580000305175781,0.504000015258789,0.5037850141525269,Henrikh Mkhitaryan,a,317,FromCorner,2020,Head,15490,Genoa,Roma,1,3,2020-11-08 14:00:00,Jordan Veretout,Cross,317
+386471,65,Goal,0.9269999694824219,0.5059999847412109,0.5585520267486572,Henrikh Mkhitaryan,a,317,OpenPlay,2020,RightFoot,15490,Genoa,Roma,1,3,2020-11-08 14:00:00,Bruno Peres,Pass,317
+386476,84,Goal,0.8640000152587891,0.5,0.2941510081291199,Henrikh Mkhitaryan,a,317,OpenPlay,2020,RightFoot,15490,Genoa,Roma,1,3,2020-11-08 14:00:00,Pedro,Cross,317
+387811,14,MissedShots,0.8519999694824218,0.605999984741211,0.06258740276098251,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15501,Roma,Parma Calcio 1913,3,0,2020-11-22 14:00:00,Pedro,Pass,317
+387814,31,Goal,0.7240000152587891,0.5309999847412109,0.021236799657344818,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15501,Roma,Parma Calcio 1913,3,0,2020-11-22 14:00:00,,BallTouch,317
+387815,39,Goal,0.9630000305175781,0.524000015258789,0.6356509923934937,Henrikh Mkhitaryan,h,317,OpenPlay,2020,LeftFoot,15501,Roma,Parma Calcio 1913,3,0,2020-11-22 14:00:00,Rick Karsdorp,Cross,317
+387816,43,MissedShots,0.7909999847412109,0.4329999923706055,0.0400702990591526,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15501,Roma,Parma Calcio 1913,3,0,2020-11-22 14:00:00,Rick Karsdorp,Pass,317
+387823,68,SavedShot,0.919000015258789,0.6630000305175782,0.09325259923934937,Henrikh Mkhitaryan,h,317,OpenPlay,2020,LeftFoot,15501,Roma,Parma Calcio 1913,3,0,2020-11-22 14:00:00,Pedro,Pass,317
+389714,89,BlockedShot,0.879000015258789,0.634000015258789,0.06428710371255875,Henrikh Mkhitaryan,a,317,OpenPlay,2020,LeftFoot,15513,Napoli,Roma,4,0,2020-11-29 19:45:00,,BallRecovery,317
+390775,5,MissedShots,0.9,0.69,0.08547250181436539,Henrikh Mkhitaryan,h,317,OpenPlay,2020,LeftFoot,15521,Roma,Sassuolo,0,0,2020-12-06 14:00:00,Pedro,Pass,317
+390784,53,MissedShots,0.72,0.47,0.019345400854945183,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15521,Roma,Sassuolo,0,0,2020-12-06 14:00:00,Lorenzo Pellegrini,Pass,317
+390790,75,MissedShots,0.8930000305175781,0.6769999694824219,0.06811810284852982,Henrikh Mkhitaryan,h,317,OpenPlay,2020,LeftFoot,15521,Roma,Sassuolo,0,0,2020-12-06 14:00:00,Edin Dzeko,Pass,317
+392155,11,MissedShots,0.9569999694824218,0.68,0.07421480119228363,Henrikh Mkhitaryan,a,317,OpenPlay,2020,LeftFoot,15527,Bologna,Roma,1,5,2020-12-13 14:00:00,,BallRecovery,317
+392166,43,Goal,0.8959999847412109,0.45799999237060546,0.5056470036506653,Henrikh Mkhitaryan,a,317,OpenPlay,2020,RightFoot,15527,Bologna,Roma,1,5,2020-12-13 14:00:00,Rick Karsdorp,Pass,317
+392170,74,MissedShots,0.855,0.49400001525878906,0.12548300623893738,Henrikh Mkhitaryan,a,317,OpenPlay,2020,RightFoot,15527,Bologna,Roma,1,5,2020-12-13 14:00:00,Rick Karsdorp,Pass,317
+392175,87,MissedShots,0.904000015258789,0.5,0.13954700529575348,Henrikh Mkhitaryan,a,317,OpenPlay,2020,LeftFoot,15527,Bologna,Roma,1,5,2020-12-13 14:00:00,Borja Mayoral,Pass,317
+393685,26,Goal,0.8719999694824219,0.6659999847412109,0.05230170115828514,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15542,Roma,Torino,3,1,2020-12-17 19:45:00,,None,317
+395347,47,MissedShots,0.8059999847412109,0.41,0.05813559889793396,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15561,Roma,Cagliari,3,2,2020-12-23 19:45:00,Jordan Veretout,BallRecovery,317
+395350,55,BlockedShot,0.7469999694824219,0.519000015258789,0.06284099817276001,Henrikh Mkhitaryan,h,317,DirectFreekick,2020,RightFoot,15561,Roma,Cagliari,3,2,2020-12-23 19:45:00,,Standard,317
+396827,11,SavedShot,0.9180000305175782,0.4640000152587891,0.29642799496650696,Henrikh Mkhitaryan,h,317,OpenPlay,2020,OtherBodyPart,15574,Roma,Sampdoria,1,0,2021-01-03 14:00:00,Lorenzo Pellegrini,Chipped,317
+396845,74,SavedShot,0.8480000305175781,0.44,0.08977779746055603,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15574,Roma,Sampdoria,1,0,2021-01-03 14:00:00,Lorenzo Pellegrini,BallTouch,317
+396846,90,BlockedShot,0.89,0.57,0.09258919954299927,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15574,Roma,Sampdoria,1,0,2021-01-03 14:00:00,Bruno Peres,Cross,317
+397231,34,Goal,0.885,0.5,0.7612990140914917,Henrikh Mkhitaryan,a,317,Penalty,2020,RightFoot,15579,Crotone,Roma,1,3,2021-01-06 14:00:00,,Standard,317
+398226,22,SavedShot,0.7719999694824219,0.635,0.0281227994710207,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15592,Roma,Inter,2,2,2021-01-10 11:30:00,Edin Dzeko,Pass,317
+398239,73,MissedShots,0.9030000305175782,0.6430000305175781,0.07238370180130005,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15592,Roma,Inter,2,2,2021-01-10 11:30:00,Lorenzo Pellegrini,Pass,317
+398241,78,BlockedShot,0.785,0.625999984741211,0.028715800493955612,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15592,Roma,Inter,2,2,2021-01-10 11:30:00,Jordan Veretout,Pass,317
+398816,35,MissedShots,0.8809999847412109,0.51,0.06406400352716446,Henrikh Mkhitaryan,a,317,OpenPlay,2020,RightFoot,15601,Lazio,Roma,3,0,2021-01-15 19:45:00,Edin Dzeko,HeadPass,317
+402339,21,Goal,0.8109999847412109,0.6669999694824219,0.03580150008201599,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15623,Roma,Verona,3,1,2021-01-31 19:45:00,Borja Mayoral,Pass,317
+402342,31,MissedShots,0.8519999694824218,0.620999984741211,0.08441340178251266,Henrikh Mkhitaryan,h,317,OpenPlay,2020,LeftFoot,15623,Roma,Verona,3,1,2021-01-31 19:45:00,Jordan Veretout,Pass,317
+402348,55,BlockedShot,0.875999984741211,0.6079999923706054,0.1176609992980957,Henrikh Mkhitaryan,h,317,OpenPlay,2020,LeftFoot,15623,Roma,Verona,3,1,2021-01-31 19:45:00,Leonardo Spinazzola,Pass,317
+403329,60,BlockedShot,0.774000015258789,0.5929999923706055,0.029572999104857445,Henrikh Mkhitaryan,a,317,OpenPlay,2020,LeftFoot,15631,Juventus,Roma,2,0,2021-02-06 17:00:00,Borja Mayoral,Pass,317
+403330,60,SavedShot,0.8169999694824219,0.6990000152587891,0.022712599486112595,Henrikh Mkhitaryan,a,317,OpenPlay,2020,RightFoot,15631,Juventus,Roma,2,0,2021-02-06 17:00:00,Leonardo Spinazzola,Pass,317
+403333,75,BlockedShot,0.8109999847412109,0.5329999923706055,0.06831920146942139,Henrikh Mkhitaryan,a,317,OpenPlay,2020,RightFoot,15631,Juventus,Roma,2,0,2021-02-06 17:00:00,Carles Pérez,Pass,317
+404591,3,BlockedShot,0.784000015258789,0.61,0.027943400666117668,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15645,Roma,Udinese,3,0,2021-02-14 11:30:00,Lorenzo Pellegrini,None,317
+404598,38,BlockedShot,0.875999984741211,0.5979999923706054,0.12416200339794159,Henrikh Mkhitaryan,h,317,OpenPlay,2020,LeftFoot,15645,Roma,Udinese,3,0,2021-02-14 11:30:00,Leonardo Spinazzola,Pass,317
+406227,49,SavedShot,0.879000015258789,0.5370000076293945,0.12458200007677078,Henrikh Mkhitaryan,a,317,OpenPlay,2020,LeftFoot,15650,Benevento,Roma,0,0,2021-02-21 19:45:00,Lorenzo Pellegrini,Throughball,317
+406232,75,BlockedShot,0.78,0.6370000076293946,0.020722800865769386,Henrikh Mkhitaryan,a,317,OpenPlay,2020,RightFoot,15650,Benevento,Roma,0,0,2021-02-21 19:45:00,Pedro,Chipped,317
+407574,21,BlockedShot,0.7969999694824219,0.39099998474121095,0.037650901824235916,Henrikh Mkhitaryan,h,317,OpenPlay,2020,LeftFoot,15663,Roma,AC Milan,1,2,2021-02-28 19:45:00,,BallRecovery,317
+407583,37,MissedShots,0.8930000305175781,0.38,0.21492600440979004,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15663,Roma,AC Milan,1,2,2021-02-28 19:45:00,Rick Karsdorp,End,317
+407589,62,MissedShots,0.8040000152587891,0.7330000305175781,0.017930500209331512,Henrikh Mkhitaryan,h,317,OpenPlay,2020,LeftFoot,15663,Roma,AC Milan,1,2,2021-02-28 19:45:00,,None,317
+407593,71,MissedShots,0.855999984741211,0.34,0.0481267012655735,Henrikh Mkhitaryan,h,317,OpenPlay,2020,LeftFoot,15663,Roma,AC Milan,1,2,2021-02-28 19:45:00,Bruno Peres,Pass,317
+407597,78,SavedShot,0.899000015258789,0.3820000076293945,0.12881499528884888,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15663,Roma,AC Milan,1,2,2021-02-28 19:45:00,Stephan El Shaarawy,Pass,317
+407600,93,SavedShot,0.845,0.5920000076293945,0.053660400211811066,Henrikh Mkhitaryan,h,317,OpenPlay,2020,LeftFoot,15663,Roma,AC Milan,1,2,2021-02-28 19:45:00,,Rebound,317
+408037,12,MissedShots,0.7330000305175781,0.549000015258789,0.015039400197565556,Henrikh Mkhitaryan,a,317,OpenPlay,2020,RightFoot,15668,Fiorentina,Roma,1,2,2021-03-03 19:45:00,,None,317
+408044,53,MissedShots,0.8319999694824218,0.5609999847412109,0.08324869722127914,Henrikh Mkhitaryan,a,317,OpenPlay,2020,LeftFoot,15668,Fiorentina,Roma,1,2,2021-03-03 19:45:00,Jordan Veretout,Pass,317
+414673,71,BlockedShot,0.8209999847412109,0.5520000076293945,0.07700490206480026,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15717,Roma,Bologna,1,0,2021-04-11 16:00:00,Borja Mayoral,Pass,317
+416787,60,MissedShots,0.8109999847412109,0.5070000076293946,0.04319069907069206,Henrikh Mkhitaryan,h,317,OpenPlay,2020,LeftFoot,15736,Roma,Atalanta,1,1,2021-04-22 16:30:00,Edin Dzeko,TakeOn,317
+419339,2,MissedShots,0.745999984741211,0.6120000076293945,0.015309300273656845,Henrikh Mkhitaryan,a,317,FromCorner,2020,RightFoot,15764,Sampdoria,Roma,2,0,2021-05-02 18:45:00,,None,317
+420785,15,ShotOnPost,0.9669999694824218,0.6,0.10479699820280075,Henrikh Mkhitaryan,h,317,FromCorner,2020,LeftFoot,15769,Roma,Crotone,5,0,2021-05-09 16:00:00,,Rebound,317
+420788,21,SavedShot,0.855999984741211,0.5709999847412109,0.08832360059022903,Henrikh Mkhitaryan,h,317,OpenPlay,2020,LeftFoot,15769,Roma,Crotone,5,0,2021-05-09 16:00:00,Lorenzo Pellegrini,Pass,317
+420791,39,SavedShot,0.86,0.69,0.04450250044465065,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15769,Roma,Crotone,5,0,2021-05-09 16:00:00,Bryan Cristante,Chipped,317
+420797,52,MissedShots,0.76,0.6,0.029782000929117203,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15769,Roma,Crotone,5,0,2021-05-09 16:00:00,Lorenzo Pellegrini,Pass,317
+420807,77,Goal,0.9569999694824218,0.6480000305175782,0.30195900797843933,Henrikh Mkhitaryan,h,317,OpenPlay,2020,LeftFoot,15769,Roma,Crotone,5,0,2021-05-09 16:00:00,Rick Karsdorp,Pass,317
+421445,30,Goal,0.8909999847412109,0.585,0.09313730150461197,Henrikh Mkhitaryan,a,317,OpenPlay,2020,RightFoot,15782,Inter,Roma,3,1,2021-05-12 18:45:00,Edin Dzeko,Pass,317
+421449,43,SavedShot,0.8180000305175781,0.6719999694824219,0.02731899917125702,Henrikh Mkhitaryan,a,317,OpenPlay,2020,RightFoot,15782,Inter,Roma,3,1,2021-05-12 18:45:00,Davide Santon,Pass,317
+422028,41,Goal,0.91,0.46900001525878904,0.4462369978427887,Henrikh Mkhitaryan,h,317,OpenPlay,2020,RightFoot,15791,Roma,Lazio,2,0,2021-05-15 18:45:00,Edin Dzeko,Pass,317
+422033,70,BlockedShot,0.7040000152587891,0.4179999923706055,0.012351900339126587,Henrikh Mkhitaryan,h,317,OpenPlay,2020,LeftFoot,15791,Roma,Lazio,2,0,2021-05-15 18:45:00,,Rebound,317
+424293,55,SavedShot,0.875,0.4279999923706055,0.30691400170326233,Henrikh Mkhitaryan,a,317,OpenPlay,2020,RightFoot,15803,Spezia,Roma,2,2,2021-05-23 18:45:00,Rick Karsdorp,Cross,317
+424295,63,SavedShot,0.784000015258789,0.5270000076293946,0.031454898416996,Henrikh Mkhitaryan,a,317,OpenPlay,2020,LeftFoot,15803,Spezia,Roma,2,2,2021-05-23 18:45:00,Stephan El Shaarawy,Pass,317
+424301,84,Goal,0.9580000305175781,0.4929999923706055,0.6087930202484131,Henrikh Mkhitaryan,a,317,OpenPlay,2020,RightFoot,15803,Spezia,Roma,2,2,2021-05-23 18:45:00,,None,317
+424302,89,MissedShots,0.9130000305175782,0.6270000076293946,0.34282800555229187,Henrikh Mkhitaryan,a,317,OpenPlay,2020,LeftFoot,15803,Spezia,Roma,2,2,2021-05-23 18:45:00,Javier Pastore,Throughball,317
+427922,25,Goal,0.87,0.5470000076293945,0.3772130012512207,Henrikh Mkhitaryan,h,317,OpenPlay,2021,RightFoot,16763,Roma,Fiorentina,3,1,2021-08-22 18:45:00,Tammy Abraham,Throughball,317
+427930,53,SavedShot,0.75,0.4179999923706055,0.12217699736356735,Henrikh Mkhitaryan,h,317,OpenPlay,2021,RightFoot,16763,Roma,Fiorentina,3,1,2021-08-22 18:45:00,Lorenzo Pellegrini,Throughball,317
+429439,44,BlockedShot,0.8209999847412109,0.49599998474121093,0.04256179928779602,Henrikh Mkhitaryan,a,317,FromCorner,2021,RightFoot,16775,Salernitana,Roma,0,4,2021-08-29 18:45:00,,None,317
+430729,20,MissedShots,0.749000015258789,0.66,0.014878000132739544,Henrikh Mkhitaryan,h,317,OpenPlay,2021,RightFoot,16782,Roma,Sassuolo,2,1,2021-09-12 18:45:00,Tammy Abraham,Pass,317
+430741,58,BlockedShot,0.7240000152587891,0.51,0.01933399960398674,Henrikh Mkhitaryan,h,317,OpenPlay,2021,RightFoot,16782,Roma,Sassuolo,2,1,2021-09-12 18:45:00,Jordan Veretout,Pass,317
+432106,65,BlockedShot,0.7430000305175781,0.519000015258789,0.019073400646448135,Henrikh Mkhitaryan,a,317,OpenPlay,2021,RightFoot,16788,Verona,Roma,3,2,2021-09-19 16:00:00,Stephan El Shaarawy,None,317
+433040,0,MissedShots,0.7559999847412109,0.534000015258789,0.014215200208127499,Henrikh Mkhitaryan,h,317,FromCorner,2021,RightFoot,16801,Roma,Udinese,1,0,2021-09-23 18:45:00,,Aerial,317
+433041,3,ShotOnPost,0.8169999694824219,0.629000015258789,0.027749499306082726,Henrikh Mkhitaryan,h,317,FromCorner,2021,RightFoot,16801,Roma,Udinese,1,0,2021-09-23 18:45:00,,None,317
+434294,39,BlockedShot,0.8530000305175781,0.590999984741211,0.06725200265645981,Henrikh Mkhitaryan,a,317,OpenPlay,2021,LeftFoot,16810,Lazio,Roma,3,2,2021-09-26 16:00:00,Stephan El Shaarawy,Pass,317
+434306,70,MissedShots,0.8540000152587891,0.27700000762939453,0.031033100560307503,Henrikh Mkhitaryan,a,317,OpenPlay,2021,LeftFoot,16810,Lazio,Roma,3,2,2021-09-26 16:00:00,Nicolo Zaniolo,Chipped,317
+434309,75,SavedShot,0.8809999847412109,0.6129999923706054,0.05930529907345772,Henrikh Mkhitaryan,a,317,OpenPlay,2021,LeftFoot,16810,Lazio,Roma,3,2,2021-09-26 16:00:00,Tammy Abraham,HeadPass,317
+435670,6,BlockedShot,0.8440000152587891,0.5059999847412109,0.05129089951515198,Henrikh Mkhitaryan,h,317,OpenPlay,2021,RightFoot,16821,Roma,Empoli,2,0,2021-10-03 16:00:00,Nicolo Zaniolo,Cross,317
+435678,28,MissedShots,0.95,0.6719999694824219,0.043078698217868805,Henrikh Mkhitaryan,h,317,OpenPlay,2021,LeftFoot,16821,Roma,Empoli,2,0,2021-10-03 16:00:00,Lorenzo Pellegrini,Chipped,317
+435686,47,Goal,0.94,0.6270000076293946,0.32958900928497314,Henrikh Mkhitaryan,h,317,OpenPlay,2021,LeftFoot,16821,Roma,Empoli,2,0,2021-10-03 16:00:00,,Rebound,317
+437129,52,MissedShots,0.8880000305175781,0.5,0.09185899794101715,Henrikh Mkhitaryan,a,317,OpenPlay,2021,LeftFoot,16829,Juventus,Roma,1,0,2021-10-17 18:45:00,Matias Viña,Cross,317
+438577,64,SavedShot,0.745,0.524000015258789,0.01809380017220974,Henrikh Mkhitaryan,h,317,OpenPlay,2021,RightFoot,16841,Roma,Napoli,0,0,2021-10-24 16:00:00,,None,317
+443514,13,BlockedShot,0.85,0.515,0.06979890167713165,Henrikh Mkhitaryan,a,317,OpenPlay,2021,LeftFoot,16879,Genoa,Roma,0,2,2021-11-21 19:45:00,,None,317
+443520,42,MissedShots,0.8080000305175781,0.5729999923706055,0.016132500022649765,Henrikh Mkhitaryan,a,317,FromCorner,2021,RightFoot,16879,Genoa,Roma,0,2,2021-11-21 19:45:00,Ibañez,HeadPass,317
+443523,50,MissedShots,0.8130000305175781,0.46599998474121096,0.05631269887089729,Henrikh Mkhitaryan,a,317,OpenPlay,2021,LeftFoot,16879,Genoa,Roma,0,2,2021-11-21 19:45:00,Tammy Abraham,TakeOn,317
+443526,69,MissedShots,0.8830000305175781,0.7090000152587891,0.044166598469018936,Henrikh Mkhitaryan,a,317,OpenPlay,2021,LeftFoot,16879,Genoa,Roma,0,2,2021-11-21 19:45:00,Stephan El Shaarawy,Pass,317
+443527,73,BlockedShot,0.8180000305175781,0.4329999923706055,0.04932370036840439,Henrikh Mkhitaryan,a,317,OpenPlay,2021,RightFoot,16879,Genoa,Roma,0,2,2021-11-21 19:45:00,Lorenzo Pellegrini,None,317
+444863,54,MissedShots,0.7580000305175781,0.44599998474121094,0.01617869921028614,Henrikh Mkhitaryan,h,317,SetPiece,2021,RightFoot,16891,Roma,Torino,1,0,2021-11-28 17:00:00,,Rebound,317
+445207,56,BlockedShot,0.7619999694824219,0.46900001525878904,0.0246421005576849,Henrikh Mkhitaryan,a,317,OpenPlay,2021,RightFoot,16897,Bologna,Roma,1,0,2021-12-01 17:30:00,,None,317
+445209,67,SavedShot,0.7669999694824219,0.64,0.022349199280142784,Henrikh Mkhitaryan,a,317,OpenPlay,2021,RightFoot,16897,Bologna,Roma,1,0,2021-12-01 17:30:00,Eldor Shomurodov,Pass,317
+445211,69,MissedShots,0.8059999847412109,0.575,0.04034020006656647,Henrikh Mkhitaryan,a,317,OpenPlay,2021,RightFoot,16897,Bologna,Roma,1,0,2021-12-01 17:30:00,,Rebound,317
+445210,69,SavedShot,0.8640000152587891,0.5629999923706055,0.12695500254631042,Henrikh Mkhitaryan,a,317,OpenPlay,2021,RightFoot,16897,Bologna,Roma,1,0,2021-12-01 17:30:00,Tammy Abraham,Pass,317
+446315,31,BlockedShot,0.840999984741211,0.590999984741211,0.0763430967926979,Henrikh Mkhitaryan,h,317,OpenPlay,2021,RightFoot,16912,Roma,Inter,0,3,2021-12-04 17:00:00,Matias Viña,Pass,317
+446320,53,BlockedShot,0.8009999847412109,0.425,0.04534289985895157,Henrikh Mkhitaryan,h,317,OpenPlay,2021,RightFoot,16912,Roma,Inter,0,3,2021-12-04 17:00:00,Jordan Veretout,Pass,317
+446322,71,MissedShots,0.8580000305175781,0.605,0.025940800085663795,Henrikh Mkhitaryan,h,317,OpenPlay,2021,LeftFoot,16912,Roma,Inter,0,3,2021-12-04 17:00:00,Eldor Shomurodov,HeadPass,317
+448733,66,MissedShots,0.769000015258789,0.6719999694824219,0.03851339966058731,Henrikh Mkhitaryan,h,317,FromCorner,2021,LeftFoot,16921,Roma,Spezia,2,0,2021-12-13 19:45:00,,TakeOn,317
+448735,74,BlockedShot,0.794000015258789,0.25299999237060544,0.01839740015566349,Henrikh Mkhitaryan,h,317,OpenPlay,2021,RightFoot,16921,Roma,Spezia,2,0,2021-12-13 19:45:00,Jordan Veretout,Pass,317
+450160,41,SavedShot,0.7859999847412109,0.5479999923706055,0.037435900419950485,Henrikh Mkhitaryan,h,317,OpenPlay,2021,RightFoot,16942,Roma,Sampdoria,1,1,2021-12-22 17:30:00,Nicolo Zaniolo,Pass,317
+450176,90,MissedShots,0.8690000152587891,0.34700000762939454,0.042440999299287796,Henrikh Mkhitaryan,h,317,FromCorner,2021,LeftFoot,16942,Roma,Sampdoria,1,1,2021-12-22 17:30:00,,None,317
+451821,61,SavedShot,0.7619999694824219,0.5029999923706054,0.01912809908390045,Henrikh Mkhitaryan,a,317,FromCorner,2021,LeftFoot,16951,AC Milan,Roma,3,1,2022-01-06 17:30:00,,None,317
+452715,5,BlockedShot,0.7190000152587891,0.24200000762939453,0.009803890250623226,Henrikh Mkhitaryan,h,317,OpenPlay,2021,RightFoot,16962,Roma,Juventus,3,4,2022-01-09 17:30:00,,Rebound,317
+452730,47,Goal,0.7340000152587891,0.4279999923706055,0.020423199981451035,Henrikh Mkhitaryan,h,317,OpenPlay,2021,RightFoot,16962,Roma,Juventus,3,4,2022-01-09 17:30:00,Lorenzo Pellegrini,Pass,317
+453808,55,MissedShots,0.745,0.5309999847412109,0.027569999918341637,Henrikh Mkhitaryan,h,317,OpenPlay,2021,LeftFoot,16971,Roma,Cagliari,1,0,2022-01-16 17:00:00,Tammy Abraham,Pass,317
+455350,9,MissedShots,0.8159999847412109,0.6,0.04517969861626625,Henrikh Mkhitaryan,a,317,OpenPlay,2021,LeftFoot,16977,Empoli,Roma,2,4,2022-01-23 17:00:00,,None,317
+455364,48,SavedShot,0.8130000305175781,0.639000015258789,0.0418258011341095,Henrikh Mkhitaryan,a,317,OpenPlay,2021,RightFoot,16977,Empoli,Roma,2,4,2022-01-23 17:00:00,Nicolo Zaniolo,Pass,317
+455640,31,BlockedShot,0.8580000305175781,0.345,0.06301309913396835,Henrikh Mkhitaryan,h,317,OpenPlay,2021,RightFoot,16991,Roma,Genoa,0,0,2022-02-05 14:00:00,Sérgio Oliveira,Pass,317
+455646,40,SavedShot,0.9230000305175782,0.25,0.03465000167489052,Henrikh Mkhitaryan,h,317,OpenPlay,2021,RightFoot,16991,Roma,Genoa,0,0,2022-02-05 14:00:00,Nicolo Zaniolo,Pass,317
+455654,63,MissedShots,0.7530000305175781,0.5820000076293945,0.023185599595308304,Henrikh Mkhitaryan,h,317,OpenPlay,2021,LeftFoot,16991,Roma,Genoa,0,0,2022-02-05 14:00:00,Gianluca Mancini,Pass,317
+457730,86,MissedShots,0.9390000152587891,0.3390000152587891,0.07572600245475769,Henrikh Mkhitaryan,a,317,OpenPlay,2021,RightFoot,17003,Sassuolo,Roma,2,2,2022-02-13 17:00:00,Tammy Abraham,Pass,317
+460490,78,MissedShots,0.7319999694824219,0.7380000305175781,0.012360800057649612,Henrikh Mkhitaryan,a,317,OpenPlay,2021,RightFoot,17024,Spezia,Roma,0,1,2022-02-27 17:00:00,Nicola Zalewski,Pass,317
+461216,1,BlockedShot,0.7819999694824219,0.37099998474121093,0.024387899786233902,Henrikh Mkhitaryan,h,317,OpenPlay,2021,RightFoot,17033,Roma,Atalanta,1,0,2022-03-05 17:00:00,,None,317
+461217,1,BlockedShot,0.774000015258789,0.435,0.022466300055384636,Henrikh Mkhitaryan,h,317,OpenPlay,2021,LeftFoot,17033,Roma,Atalanta,1,0,2022-03-05 17:00:00,,Rebound,317
+464730,26,MissedShots,0.9019999694824219,0.6229999923706054,0.11731699854135513,Henrikh Mkhitaryan,h,317,OpenPlay,2021,LeftFoot,17053,Roma,Lazio,3,0,2022-03-20 17:00:00,,Rebound,317
+464734,41,SavedShot,0.7430000305175781,0.3820000076293945,0.043620698153972626,Henrikh Mkhitaryan,h,317,OpenPlay,2021,RightFoot,17053,Roma,Lazio,3,0,2022-03-20 17:00:00,Lorenzo Pellegrini,BallRecovery,317
+466019,26,Goal,0.9519999694824218,0.5179999923706055,0.6170629858970642,Henrikh Mkhitaryan,a,317,OpenPlay,2021,RightFoot,17063,Sampdoria,Roma,0,1,2022-04-03 16:00:00,,None,317
+467528,3,SavedShot,0.7930000305175782,0.2989999961853027,0.02469329908490181,Henrikh Mkhitaryan,h,317,OpenPlay,2021,LeftFoot,17072,Roma,Salernitana,2,1,2022-04-10 16:00:00,Rick Karsdorp,Pass,317
+467531,19,MissedShots,0.825,0.4370000076293945,0.06661400198936462,Henrikh Mkhitaryan,h,317,OpenPlay,2021,LeftFoot,17072,Roma,Salernitana,2,1,2022-04-10 16:00:00,Stephan El Shaarawy,Pass,317
+470088,19,MissedShots,0.7040000152587891,0.500999984741211,0.013328599743545055,Henrikh Mkhitaryan,a,317,OpenPlay,2021,RightFoot,17090,Inter,Roma,3,1,2022-04-23 16:00:00,,Dispossessed,317
+470102,81,BlockedShot,0.8119999694824219,0.5220000076293946,0.04783489927649498,Henrikh Mkhitaryan,a,317,OpenPlay,2021,LeftFoot,17090,Inter,Roma,3,1,2022-04-23 16:00:00,Carles Pérez,Tackle,317
+470103,84,Goal,0.855,0.53,0.3051289916038513,Henrikh Mkhitaryan,a,317,OpenPlay,2021,RightFoot,17090,Inter,Roma,3,1,2022-04-23 16:00:00,Eldor Shomurodov,Pass,317
+470104,88,BlockedShot,0.845,0.45799999237060546,0.06411439925432205,Henrikh Mkhitaryan,a,317,OpenPlay,2021,RightFoot,17090,Inter,Roma,3,1,2022-04-23 16:00:00,,BallRecovery,317
+486134,94,MissedShots,0.755,0.3970000076293945,0.019335199147462845,Henrikh Mkhitaryan,a,317,OpenPlay,2022,RightFoot,18623,AC Milan,Inter,3,2,2022-09-03 16:00:00,,None,317
+487601,77,BlockedShot,0.8919999694824219,0.6940000152587891,0.054177798330783844,Henrikh Mkhitaryan,h,317,OpenPlay,2022,RightFoot,18635,Inter,Torino,1,0,2022-09-10 16:00:00,Nicolò Barella,Pass,317
+490312,89,BlockedShot,0.81,0.5370000076293945,0.044450901448726654,Henrikh Mkhitaryan,h,317,OpenPlay,2022,RightFoot,18655,Inter,Roma,1,2,2022-10-01 16:00:00,Lautaro Martínez,BallTouch,317
+495247,94,Goal,0.899000015258789,0.5609999847412109,0.5659689903259277,Henrikh Mkhitaryan,a,317,OpenPlay,2022,LeftFoot,18685,Fiorentina,Inter,3,4,2022-10-22 18:45:00,,None,317
+496816,25,MissedShots,0.784000015258789,0.3509999847412109,0.030545499175786972,Henrikh Mkhitaryan,h,317,OpenPlay,2022,RightFoot,18695,Inter,Sampdoria,3,0,2022-10-29 18:45:00,Lautaro Martínez,Pass,317
+496832,79,BlockedShot,0.889000015258789,0.4640000152587891,0.14079800248146057,Henrikh Mkhitaryan,h,317,OpenPlay,2022,LeftFoot,18695,Inter,Sampdoria,3,0,2022-10-29 18:45:00,Nicolò Barella,Pass,317
+500442,32,MissedShots,0.8369999694824218,0.6459999847412109,0.06033109873533249,Henrikh Mkhitaryan,a,317,OpenPlay,2022,RightFoot,18722,Atalanta,Inter,2,3,2022-11-13 11:30:00,,TakeOn,317
+500441,32,BlockedShot,0.8490000152587891,0.705,0.02949949912726879,Henrikh Mkhitaryan,a,317,OpenPlay,2022,LeftFoot,18722,Atalanta,Inter,2,3,2022-11-13 11:30:00,Lautaro Martínez,Pass,317
+500450,54,MissedShots,0.8159999847412109,0.37099998474121093,0.04233299940824509,Henrikh Mkhitaryan,a,317,OpenPlay,2022,RightFoot,18722,Atalanta,Inter,2,3,2022-11-13 11:30:00,Denzel Dumfries,Pass,317
+503775,40,BlockedShot,0.8669999694824219,0.59,0.11306100338697433,Henrikh Mkhitaryan,h,317,OpenPlay,2022,RightFoot,18755,Inter,Verona,1,0,2023-01-14 19:45:00,Federico Dimarco,Pass,317
+505242,52,MissedShots,0.7830000305175782,0.7080000305175781,0.019009800627827644,Henrikh Mkhitaryan,h,317,OpenPlay,2022,RightFoot,18765,Inter,Empoli,0,1,2023-01-23 19:45:00,,BallRecovery,317
+505870,22,MissedShots,0.8569999694824219,0.47299999237060547,0.07030759751796722,Henrikh Mkhitaryan,a,317,OpenPlay,2022,RightFoot,18774,Cremonese,Inter,1,2,2023-01-28 17:00:00,Denzel Dumfries,Cross,317
+505891,60,MissedShots,0.7719999694824219,0.5179999923706055,0.02893969975411892,Henrikh Mkhitaryan,a,317,OpenPlay,2022,LeftFoot,18774,Cremonese,Inter,1,2,2023-01-28 17:00:00,Francesco Acerbi,Pass,317
+509199,2,MissedShots,0.7430000305175781,0.605,0.015177399851381779,Henrikh Mkhitaryan,a,317,FromCorner,2022,LeftFoot,18801,Sampdoria,Inter,0,0,2023-02-13 19:45:00,,None,317
+509214,45,MissedShots,0.8919999694824219,0.5879999923706055,0.022304899990558624,Henrikh Mkhitaryan,a,317,OpenPlay,2022,Head,18801,Sampdoria,Inter,0,0,2023-02-13 19:45:00,Nicolò Barella,Aerial,317
+509905,52,BlockedShot,0.7519999694824219,0.46700000762939453,0.020468899980187416,Henrikh Mkhitaryan,h,317,OpenPlay,2022,RightFoot,18804,Inter,Udinese,3,1,2023-02-18 19:45:00,Nicolò Barella,Pass,317
+509910,64,SavedShot,0.9019999694824219,0.6559999847412109,0.1007319986820221,Henrikh Mkhitaryan,h,317,OpenPlay,2022,LeftFoot,18804,Inter,Udinese,3,1,2023-02-18 19:45:00,Federico Dimarco,LayOff,317
+509917,72,Goal,0.8319999694824218,0.5479999923706055,0.07030420005321503,Henrikh Mkhitaryan,h,317,OpenPlay,2022,RightFoot,18804,Inter,Udinese,3,1,2023-02-18 19:45:00,Federico Dimarco,Pass,317
+511142,30,MissedShots,0.78,0.6320000076293946,0.02678539976477623,Henrikh Mkhitaryan,a,317,OpenPlay,2022,LeftFoot,18812,Bologna,Inter,1,0,2023-02-26 11:30:00,Lautaro Martínez,Pass,317
+512895,28,Goal,0.850999984741211,0.5320000076293945,0.09477649629116058,Henrikh Mkhitaryan,h,317,OpenPlay,2022,RightFoot,18824,Inter,Lecce,2,0,2023-03-05 17:00:00,Nicolò Barella,Pass,317
+513147,13,BlockedShot,0.9,0.6869999694824219,0.0393838994204998,Henrikh Mkhitaryan,a,317,FromCorner,2022,LeftFoot,18841,Spezia,Inter,2,1,2023-03-10 19:45:00,,None,317
+513155,28,MissedShots,0.805,0.49900001525878906,0.018178600817918777,Henrikh Mkhitaryan,a,317,OpenPlay,2022,RightFoot,18841,Spezia,Inter,2,1,2023-03-10 19:45:00,,Aerial,317
+515879,85,MissedShots,0.7759999847412109,0.34900001525878904,0.022718800231814384,Henrikh Mkhitaryan,h,317,OpenPlay,2022,RightFoot,18844,Inter,Juventus,0,1,2023-03-19 19:45:00,Marcelo Brozovic,Pass,317
+515881,93,MissedShots,0.755,0.5029999923706054,0.017940200865268707,Henrikh Mkhitaryan,h,317,FromCorner,2022,LeftFoot,18844,Inter,Juventus,0,1,2023-03-19 19:45:00,,None,317
+516494,20,MissedShots,0.955999984741211,0.38799999237060545,0.1157900020480156,Henrikh Mkhitaryan,h,317,OpenPlay,2022,RightFoot,18855,Inter,Fiorentina,0,1,2023-04-01 16:00:00,,None,317
+516493,20,SavedShot,0.9359999847412109,0.40400001525878904,0.5272539854049683,Henrikh Mkhitaryan,h,317,OpenPlay,2022,LeftFoot,18855,Inter,Fiorentina,0,1,2023-04-01 16:00:00,,TakeOn,317
+516495,26,BlockedShot,0.8630000305175781,0.4420000076293945,0.12874899804592133,Henrikh Mkhitaryan,h,317,OpenPlay,2022,RightFoot,18855,Inter,Fiorentina,0,1,2023-04-01 16:00:00,Romelu Lukaku,BallTouch,317
+517581,62,BlockedShot,0.7619999694824219,0.435,0.03437430039048195,Henrikh Mkhitaryan,a,317,OpenPlay,2022,RightFoot,18868,Salernitana,Inter,1,1,2023-04-07 15:00:00,,None,317
+519715,8,MissedShots,0.725999984741211,0.539000015258789,0.013876800425350666,Henrikh Mkhitaryan,h,317,OpenPlay,2022,RightFoot,18875,Inter,Monza,0,1,2023-04-15 18:45:00,,None,317
+522986,21,SavedShot,0.7909999847412109,0.5159999847412109,0.04150879383087158,Henrikh Mkhitaryan,h,317,OpenPlay,2022,RightFoot,18895,Inter,Lazio,3,1,2023-04-30 10:30:00,Nicolò Barella,Pass,317
+522989,36,MissedShots,0.815,0.40700000762939453,0.04046735167503357,Henrikh Mkhitaryan,h,317,OpenPlay,2022,RightFoot,18895,Inter,Lazio,3,1,2023-04-30 10:30:00,Nicolò Barella,Pass,317
+524034,21,MissedShots,0.9119999694824219,0.6930000305175781,0.061086785048246384,Henrikh Mkhitaryan,a,317,OpenPlay,2022,LeftFoot,18904,Verona,Inter,0,6,2023-05-03 19:00:00,Federico Dimarco,Pass,317
+524043,40,MissedShots,0.8159999847412109,0.500999984741211,0.08661884814500809,Henrikh Mkhitaryan,a,317,OpenPlay,2022,LeftFoot,18904,Verona,Inter,0,6,2023-05-03 19:00:00,Edin Dzeko,Pass,317
+524045,48,MissedShots,0.8130000305175781,0.5159999847412109,0.07702162116765976,Henrikh Mkhitaryan,a,317,OpenPlay,2022,RightFoot,18904,Verona,Inter,0,6,2023-05-03 19:00:00,Lautaro Martínez,Pass,317
+526242,36,BlockedShot,0.7769999694824219,0.605,0.02826724760234356,Henrikh Mkhitaryan,h,317,OpenPlay,2022,RightFoot,18925,Inter,Sassuolo,4,2,2023-05-13 18:45:00,Federico Dimarco,Pass,317
+533514,4,MissedShots,0.8830000305175781,0.605999984741211,0.071454718708992,Henrikh Mkhitaryan,h,317,OpenPlay,2023,LeftFoot,22307,Inter,Monza,2,0,2023-08-19 18:45:00,,Rebound,317
+533528,38,MissedShots,0.8569999694824219,0.5609999847412109,0.05104538053274155,Henrikh Mkhitaryan,h,317,FromCorner,2023,RightFoot,22307,Inter,Monza,2,0,2023-08-19 18:45:00,Denzel Dumfries,BallTouch,317
+537046,63,MissedShots,0.8569999694824219,0.43099998474121093,0.1212916225194931,Henrikh Mkhitaryan,h,317,OpenPlay,2023,LeftFoot,22332,Inter,Fiorentina,4,0,2023-09-03 16:30:00,Denzel Dumfries,Pass,317
+537768,4,Goal,0.9290000152587891,0.47,0.5627743005752563,Henrikh Mkhitaryan,h,317,OpenPlay,2023,LeftFoot,22336,Inter,AC Milan,5,1,2023-09-16 16:00:00,Federico Dimarco,Pass,317
+537770,10,MissedShots,0.9180000305175782,0.5629999923706055,0.3145897686481476,Henrikh Mkhitaryan,h,317,OpenPlay,2023,Head,22336,Inter,AC Milan,5,1,2023-09-16 16:00:00,Federico Dimarco,Cross,317
+537785,68,Goal,0.8690000152587891,0.40099998474121096,0.09929797053337097,Henrikh Mkhitaryan,h,317,OpenPlay,2023,RightFoot,22336,Inter,AC Milan,5,1,2023-09-16 16:00:00,Lautaro Martínez,Pass,317
+537788,85,BlockedShot,0.904000015258789,0.6659999847412109,0.07220815867185593,Henrikh Mkhitaryan,h,317,OpenPlay,2023,LeftFoot,22336,Inter,AC Milan,5,1,2023-09-16 16:00:00,,None,317
+539472,49,BlockedShot,0.8180000305175781,0.49,0.0665292963385582,Henrikh Mkhitaryan,a,317,OpenPlay,2023,LeftFoot,22347,Empoli,Inter,0,1,2023-09-24 10:30:00,Matteo Darmian,Pass,317
+542469,58,BlockedShot,0.73,0.5409999847412109,0.014598439447581768,Henrikh Mkhitaryan,h,317,OpenPlay,2023,RightFoot,22383,Inter,Bologna,2,2,2023-10-07 13:00:00,,None,317
+544182,6,BlockedShot,0.774000015258789,0.5779999923706055,0.0501251257956028,Henrikh Mkhitaryan,a,317,OpenPlay,2023,RightFoot,22390,Torino,Inter,0,3,2023-10-21 16:00:00,Nicolò Barella,Pass,317
+544195,56,MissedShots,0.8540000152587891,0.39099998474121095,0.058858830481767654,Henrikh Mkhitaryan,a,317,OpenPlay,2023,RightFoot,22390,Torino,Inter,0,3,2023-10-21 16:00:00,Marcus Thuram,None,317
+546312,23,MissedShots,0.7659999847412109,0.539000015258789,0.028363751247525215,Henrikh Mkhitaryan,h,317,OpenPlay,2023,RightFoot,22397,Inter,Roma,1,0,2023-10-29 17:00:00,,BallTouch,317
+552046,59,MissedShots,0.7759999847412109,0.7130000305175781,0.01957327127456665,Henrikh Mkhitaryan,a,317,OpenPlay,2023,RightFoot,22442,Napoli,Inter,0,3,2023-12-03 19:45:00,Lautaro Martínez,LayOff,317
+553183,27,BlockedShot,0.7869999694824219,0.43599998474121093,0.03685396537184715,Henrikh Mkhitaryan,h,317,OpenPlay,2023,RightFoot,22450,Inter,Udinese,4,0,2023-12-09 19:45:00,Hakan Calhanoglu,Pass,317
+553185,31,MissedShots,0.860999984741211,0.655,0.038789812475442886,Henrikh Mkhitaryan,h,317,FromCorner,2023,LeftFoot,22450,Inter,Udinese,4,0,2023-12-09 19:45:00,,None,317
+555078,70,SavedShot,0.9019999694824219,0.675,0.08258537948131561,Henrikh Mkhitaryan,a,317,OpenPlay,2023,LeftFoot,22463,Lazio,Inter,0,2,2023-12-17 19:45:00,Lautaro Martínez,Pass,317
+555080,90,SavedShot,0.9319999694824219,0.5609999847412109,0.1450188308954239,Henrikh Mkhitaryan,a,317,OpenPlay,2023,LeftFoot,22463,Lazio,Inter,0,2,2023-12-17 19:45:00,Carlos Augusto,Pass,317
+556361,53,MissedShots,0.8219999694824218,0.5070000076293946,0.06875211745500565,Henrikh Mkhitaryan,h,317,OpenPlay,2023,RightFoot,22467,Inter,Lecce,2,0,2023-12-23 17:00:00,Matteo Darmian,Pass,317
+556363,58,MissedShots,0.7880000305175782,0.5529999923706055,0.04842916876077652,Henrikh Mkhitaryan,h,317,OpenPlay,2023,LeftFoot,22467,Inter,Lecce,2,0,2023-12-23 17:00:00,Marko Arnautovic,Pass,317
+556371,86,BlockedShot,0.8590000152587891,0.47200000762939454,0.11629423499107361,Henrikh Mkhitaryan,h,317,OpenPlay,2023,LeftFoot,22467,Inter,Lecce,2,0,2023-12-23 17:00:00,Benjamin Pavard,Pass,317
+556822,0,MissedShots,0.895,0.6780000305175782,0.11799953132867813,Henrikh Mkhitaryan,a,317,OpenPlay,2023,LeftFoot,22478,Genoa,Inter,1,1,2023-12-29 19:45:00,Marko Arnautovic,Throughball,317
+557559,26,MissedShots,0.865999984741211,0.5629999923706055,0.09247305989265442,Henrikh Mkhitaryan,h,317,OpenPlay,2023,LeftFoot,22491,Inter,Verona,2,1,2024-01-06 11:30:00,,None,317
+558273,6,MissedShots,0.8219999694824218,0.5279999923706055,0.05965389683842659,Henrikh Mkhitaryan,a,317,OpenPlay,2023,RightFoot,22504,Monza,Inter,1,5,2024-01-13 19:45:00,Lautaro Martínez,BallTouch,317
+558284,54,MissedShots,0.764000015258789,0.5509999847412109,0.03188230097293854,Henrikh Mkhitaryan,a,317,OpenPlay,2023,RightFoot,22504,Monza,Inter,1,5,2024-01-13 19:45:00,Matteo Darmian,BallTouch,317
+558291,72,BlockedShot,0.8030000305175782,0.6270000076293946,0.023802969604730606,Henrikh Mkhitaryan,a,317,FromCorner,2023,RightFoot,22504,Monza,Inter,1,5,2024-01-13 19:45:00,,None,317
+561950,4,BlockedShot,0.7440000152587891,0.5279999923706055,0.008771341294050217,Henrikh Mkhitaryan,h,317,FromCorner,2023,Head,22532,Inter,Juventus,1,0,2024-02-04 19:45:00,Hakan Calhanoglu,Pass,317
+561956,20,MissedShots,0.850999984741211,0.43,0.013469170778989792,Henrikh Mkhitaryan,h,317,OpenPlay,2023,Head,22532,Inter,Juventus,1,0,2024-02-04 19:45:00,Matteo Darmian,Cross,317
+563553,4,MissedShots,0.7530000305175781,0.47700000762939454,0.01755535416305065,Henrikh Mkhitaryan,h,317,FromCorner,2023,RightFoot,22550,Inter,Salernitana,4,0,2024-02-16 20:00:00,,None,317
+563558,15,MissedShots,0.8030000305175782,0.625999984741211,0.0379914827644825,Henrikh Mkhitaryan,h,317,OpenPlay,2023,LeftFoot,22550,Inter,Salernitana,4,0,2024-02-16 20:00:00,Lautaro Martínez,Pass,317
+563562,26,MissedShots,0.8230000305175781,0.509000015258789,0.06494251638650894,Henrikh Mkhitaryan,h,317,OpenPlay,2023,LeftFoot,22550,Inter,Salernitana,4,0,2024-02-16 20:00:00,,None,317
+565826,21,MissedShots,0.8730000305175781,0.595999984741211,0.07112503051757812,Henrikh Mkhitaryan,a,317,OpenPlay,2023,LeftFoot,22563,Lecce,Inter,0,4,2024-02-25 17:00:00,Alexis Sánchez,Chipped,317
+567523,45,BlockedShot,0.93,0.6419999694824219,0.40904268622398376,Henrikh Mkhitaryan,h,317,OpenPlay,2023,RightFoot,22572,Inter,Genoa,2,1,2024-03-04 19:45:00,,BlockedPass,317
+567527,51,SavedShot,0.774000015258789,0.3290000152587891,0.03023543395102024,Henrikh Mkhitaryan,h,317,OpenPlay,2023,RightFoot,22572,Inter,Genoa,2,1,2024-03-04 19:45:00,Lautaro Martínez,Pass,317
+571698,36,BlockedShot,0.7830000305175782,0.4229999923706055,0.04330367222428322,Henrikh Mkhitaryan,h,317,OpenPlay,2023,LeftFoot,22599,Inter,Empoli,2,0,2024-04-01 18:45:00,Lautaro Martínez,Pass,317
+571707,57,MissedShots,0.9290000152587891,0.455,0.1487913876771927,Henrikh Mkhitaryan,h,317,OpenPlay,2023,RightFoot,22599,Inter,Empoli,2,0,2024-04-01 18:45:00,Federico Dimarco,Pass,317
+575914,28,BlockedShot,0.8580000305175781,0.43900001525878907,0.09924599528312683,Henrikh Mkhitaryan,a,317,OpenPlay,2023,RightFoot,22633,AC Milan,Inter,1,2,2024-04-22 18:45:00,Matteo Darmian,Pass,317
+575921,39,SavedShot,0.88,0.615,0.12934790551662445,Henrikh Mkhitaryan,a,317,OpenPlay,2023,LeftFoot,22633,AC Milan,Inter,1,2,2024-04-22 18:45:00,,None,317
+575925,61,MissedShots,0.6469999694824219,0.705,0.011120595037937164,Henrikh Mkhitaryan,a,317,OpenPlay,2023,LeftFoot,22633,AC Milan,Inter,1,2,2024-04-22 18:45:00,Federico Dimarco,HeadPass,317
+577081,25,MissedShots,0.6869999694824219,0.6129999923706054,0.009469302371144295,Henrikh Mkhitaryan,h,317,OpenPlay,2023,RightFoot,22641,Inter,Torino,2,0,2024-04-28 10:30:00,,None,317
+584934,62,MissedShots,0.815,0.5740000152587891,0.05483834818005562,Henrikh Mkhitaryan,a,317,OpenPlay,2024,RightFoot,27362,Genoa,Inter,2,2,2024-08-17 16:30:00,Alessandro Bastoni,Pass,317
+588929,45,MissedShots,0.7930000305175782,0.37400001525878906,0.048820316791534424,Henrikh Mkhitaryan,h,317,OpenPlay,2024,RightFoot,27383,Inter,Atalanta,4,0,2024-08-30 18:45:00,Marcus Thuram,Pass,317
+593270,37,BlockedShot,0.8009999847412109,0.519000015258789,0.050623245537281036,Henrikh Mkhitaryan,h,317,OpenPlay,2024,LeftFoot,27406,Inter,AC Milan,1,2,2024-09-22 18:45:00,Nicolò Barella,Pass,317
+593924,82,MissedShots,0.7869999694824219,0.659000015258789,0.026158278807997704,Henrikh Mkhitaryan,a,317,OpenPlay,2024,RightFoot,27413,Udinese,Inter,2,3,2024-09-28 13:00:00,Hakan Calhanoglu,Pass,317
+595841,6,BlockedShot,0.8119999694824219,0.40299999237060546,0.04308442771434784,Henrikh Mkhitaryan,h,317,OpenPlay,2024,RightFoot,27428,Inter,Torino,3,2,2024-10-05 18:45:00,,None,317
+597862,12,ShotOnPost,0.7340000152587891,0.519000015258789,0.01843217760324478,Henrikh Mkhitaryan,a,317,OpenPlay,2024,RightFoot,27441,Roma,Inter,0,1,2024-10-20 18:45:00,Lautaro Martínez,Pass,317
+599246,34,Goal,0.855999984741211,0.5470000076293945,0.08922668546438217,Henrikh Mkhitaryan,h,317,OpenPlay,2024,LeftFoot,27444,Inter,Juventus,4,4,2024-10-27 17:00:00,Marcus Thuram,LayOff,317
+600916,34,SavedShot,0.9019999694824219,0.5679999923706055,0.36761146783828735,Henrikh Mkhitaryan,h,317,OpenPlay,2024,LeftFoot,27463,Inter,Venezia,1,0,2024-11-03 19:45:00,Denzel Dumfries,Pass,317
+600926,56,MissedShots,0.8980000305175782,0.5059999847412109,0.4225253164768219,Henrikh Mkhitaryan,h,317,OpenPlay,2024,RightFoot,27463,Inter,Venezia,1,0,2024-11-03 19:45:00,,None,317
+602706,86,MissedShots,0.9019999694824219,0.654000015258789,0.07641483098268509,Henrikh Mkhitaryan,a,317,OpenPlay,2024,LeftFoot,27485,Verona,Inter,0,5,2024-11-23 14:00:00,Joaquín Correa,None,317
+605448,20,MissedShots,0.8819999694824219,0.675,0.05752667039632797,Henrikh Mkhitaryan,h,317,OpenPlay,2024,RightFoot,27507,Inter,Parma Calcio 1913,3,1,2024-12-06 17:30:00,Stefan de Vrij,Challenge,317
+609002,11,MissedShots,0.8369999694824218,0.4279999923706055,0.059272877871990204,Henrikh Mkhitaryan,h,317,OpenPlay,2024,RightFoot,27531,Inter,Como,2,0,2024-12-23 19:45:00,,None,317
+609330,13,MissedShots,0.8130000305175781,0.610999984741211,0.04750242084264755,Henrikh Mkhitaryan,a,317,OpenPlay,2024,RightFoot,27534,Cagliari,Inter,0,3,2024-12-28 17:00:00,Marcus Thuram,Pass,317
+614046,45,BlockedShot,0.7440000152587891,0.6409999847412109,0.017154930159449577,Henrikh Mkhitaryan,a,317,OpenPlay,2024,RightFoot,27575,Lecce,Inter,0,4,2025-01-26 17:00:00,,None,317

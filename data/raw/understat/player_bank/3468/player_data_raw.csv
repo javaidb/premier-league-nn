@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+3468,Jonas Lössl,38,3420,0,0,1,0.6143332105129957,0,3,1,0,GK,Huddersfield,0,0,2.1166820907965302,1.5023488802835345,2017
+3468,Jonas Lössl,31,2778,0,0,1,0.39287191070616245,0,4,1,0,GK S,Huddersfield,0,0,1.286073992960155,0.9193093804642558,2018
+3468,Jonas Lössl,2,180,0,0,0,0,0,0,0,0,GK,Brentford,0,0,0,0,2021

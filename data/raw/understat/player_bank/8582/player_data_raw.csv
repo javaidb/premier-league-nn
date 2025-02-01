@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+8582,Ellis Simms,1,63,0,0,0,0,0,0,0,0,F,Everton,0,0,0,0,2021
+8582,Ellis Simms,11,200,1,1.0451708808541298,0,0.0746167004108429,8,2,0,0,F S,Everton,1,1.0451708808541298,1.2177620641887188,0.1475772000849247,2022

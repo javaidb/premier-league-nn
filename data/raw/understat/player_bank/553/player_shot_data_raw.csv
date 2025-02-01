@@ -1,0 +1,407 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+966,51,SavedShot,0.899000015258789,0.6630000305175782,0.062608502805233,Anthony Martial,h,553,OpenPlay,2014,RightFoot,6216,Monaco,Lille,1,1,2014-08-30 16:00:00,Yannick Carrasco,Pass,553
+1481,91,Goal,0.9069999694824219,0.47200000762939454,0.44788798689842224,Anthony Martial,a,553,OpenPlay,2014,RightFoot,6123,Paris Saint Germain,Monaco,1,1,2014-10-05 20:00:00,,Rebound,553
+1822,74,SavedShot,0.7659999847412109,0.6930000305175781,0.02377679944038391,Anthony Martial,h,553,OpenPlay,2014,RightFoot,6128,Monaco,Evian Thonon Gaillard,2,0,2014-10-18 19:00:00,Layvin Kurzawa,Pass,553
+1823,81,MissedShots,0.889000015258789,0.6070000076293945,0.3450559973716736,Anthony Martial,h,553,OpenPlay,2014,LeftFoot,6128,Monaco,Evian Thonon Gaillard,2,0,2014-10-18 19:00:00,Bernardo Silva,TakeOn,553
+1825,91,BlockedShot,0.81,0.6819999694824219,0.03917960077524185,Anthony Martial,h,553,OpenPlay,2014,RightFoot,6128,Monaco,Evian Thonon Gaillard,2,0,2014-10-18 19:00:00,Bernardo Silva,Pass,553
+2090,63,MissedShots,0.9340000152587891,0.65,0.10814400017261505,Anthony Martial,a,553,OpenPlay,2014,LeftFoot,6137,SC Bastia,Monaco,1,3,2014-10-25 19:00:00,Yannick Carrasco,Pass,553
+3788,10,MissedShots,0.894000015258789,0.5940000152587891,0.08253540098667145,Anthony Martial,h,553,OpenPlay,2014,LeftFoot,6144,Monaco,Reims,1,1,2014-10-31 19:30:00,,None,553
+3793,28,BlockedShot,0.875,0.4879999923706055,0.3117769956588745,Anthony Martial,h,553,OpenPlay,2014,LeftFoot,6144,Monaco,Reims,1,1,2014-10-31 19:30:00,Yannick Carrasco,Chipped,553
+3794,34,SavedShot,0.92,0.6530000305175782,0.16453500092029572,Anthony Martial,h,553,OpenPlay,2014,RightFoot,6144,Monaco,Reims,1,1,2014-10-31 19:30:00,Valère Germain,TakeOn,553
+4926,47,BlockedShot,0.8669999694824219,0.5129999923706055,0.07456230372190475,Anthony Martial,h,553,SetPiece,2014,RightFoot,6038,Monaco,Lens,2,0,2014-12-02 20:00:00,João Moutinho,HeadPass,553
+3181,33,SavedShot,0.830999984741211,0.6309999847412109,0.041976798325777054,Anthony Martial,a,553,OpenPlay,2014,RightFoot,6046,Toulouse,Monaco,0,2,2014-12-05 19:30:00,João Moutinho,Pass,553
+4530,9,ShotOnPost,0.9009999847412109,0.34700000762939454,0.07212900370359421,Anthony Martial,h,553,OpenPlay,2014,RightFoot,6065,Monaco,Marseille,1,0,2014-12-14 20:00:00,Fabinho,BlockedPass,553
+4538,34,MissedShots,0.840999984741211,0.6980000305175781,0.03189219906926155,Anthony Martial,h,553,OpenPlay,2014,RightFoot,6065,Monaco,Marseille,1,0,2014-12-14 20:00:00,Yannick Carrasco,Pass,553
+5204,25,MissedShots,0.8769999694824219,0.39,0.35013899207115173,Anthony Martial,a,553,OpenPlay,2014,LeftFoot,6068,Metz,Monaco,0,1,2014-12-20 19:00:00,Yannick Carrasco,Throughball,553
+5215,55,MissedShots,0.779000015258789,0.41200000762939454,0.031210700049996376,Anthony Martial,a,553,OpenPlay,2014,LeftFoot,6068,Metz,Monaco,0,1,2014-12-20 19:00:00,Fabinho,Pass,553
+5217,65,MissedShots,0.895,0.5329999923706055,0.030184200033545494,Anthony Martial,a,553,SetPiece,2014,Head,6068,Metz,Monaco,0,1,2014-12-20 19:00:00,João Moutinho,Aerial,553
+3081,34,BlockedShot,0.94,0.4259999847412109,0.03856689855456352,Anthony Martial,h,553,FromCorner,2014,Head,6008,Monaco,Bordeaux,0,0,2015-01-11 20:00:00,Bernardo Silva,Aerial,553
+4552,17,MissedShots,0.8530000305175781,0.29600000381469727,0.06057630106806755,Anthony Martial,h,553,OpenPlay,2014,LeftFoot,6015,Monaco,Nantes,1,0,2015-01-17 19:00:00,Bernardo Silva,Pass,553
+3029,91,SavedShot,0.9159999847412109,0.5990000152587891,0.07507839798927307,Anthony Martial,a,553,OpenPlay,2014,RightFoot,5970,Guingamp,Monaco,1,0,2015-02-08 13:00:00,,None,553
+5083,59,BlockedShot,0.825,0.7130000305175781,0.02762489952147007,Anthony Martial,h,553,OpenPlay,2014,RightFoot,5928,Monaco,Paris Saint Germain,0,0,2015-03-01 20:00:00,Bernardo Silva,Pass,553
+7593,17,Goal,0.895,0.6229999923706054,0.1336580067873001,Anthony Martial,a,553,OpenPlay,2014,RightFoot,5933,Evian Thonon Gaillard,Monaco,1,3,2015-03-07 19:00:00,Layvin Kurzawa,TakeOn,553
+7599,47,SavedShot,0.9359999847412109,0.325,0.1511639952659607,Anthony Martial,a,553,OpenPlay,2014,RightFoot,5933,Evian Thonon Gaillard,Monaco,1,3,2015-03-07 19:00:00,Dimitar Berbatov,Throughball,553
+7932,14,MissedShots,0.93,0.5070000076293946,0.14446699619293213,Anthony Martial,h,553,OpenPlay,2014,RightFoot,5940,Monaco,SC Bastia,3,0,2015-03-13 19:30:00,Layvin Kurzawa,Pass,553
+7935,21,Goal,0.9369999694824219,0.5259999847412109,0.5049070119857788,Anthony Martial,h,553,OpenPlay,2014,RightFoot,5940,Monaco,SC Bastia,3,0,2015-03-13 19:30:00,Nabil Dirar,Cross,553
+7934,21,SavedShot,0.89,0.4620000076293945,0.3819429874420166,Anthony Martial,h,553,OpenPlay,2014,LeftFoot,5940,Monaco,SC Bastia,3,0,2015-03-13 19:30:00,João Moutinho,Throughball,553
+7942,50,Goal,0.9669999694824218,0.485,0.8928959965705872,Anthony Martial,h,553,OpenPlay,2014,RightFoot,5940,Monaco,SC Bastia,3,0,2015-03-13 19:30:00,Matheus Carvalho,Pass,553
+7943,51,BlockedShot,0.8980000305175782,0.45799999237060546,0.13981999456882477,Anthony Martial,h,553,OpenPlay,2014,RightFoot,5940,Monaco,SC Bastia,3,0,2015-03-13 19:30:00,Matheus Carvalho,Pass,553
+7944,52,MissedShots,0.919000015258789,0.534000015258789,0.09758590161800385,Anthony Martial,h,553,FromCorner,2014,Head,5940,Monaco,SC Bastia,3,0,2015-03-13 19:30:00,Nabil Dirar,Cross,553
+7945,61,SavedShot,0.9490000152587891,0.575,0.45085999369621277,Anthony Martial,h,553,OpenPlay,2014,RightFoot,5940,Monaco,SC Bastia,3,0,2015-03-13 19:30:00,Nabil Dirar,Chipped,553
+8001,13,Goal,0.784000015258789,0.595999984741211,0.31944799423217773,Anthony Martial,a,553,OpenPlay,2014,RightFoot,5958,Reims,Monaco,1,3,2015-03-22 16:00:00,João Moutinho,Throughball,553
+8009,45,MissedShots,0.8730000305175781,0.625,0.40171900391578674,Anthony Martial,a,553,OpenPlay,2014,RightFoot,5958,Reims,Monaco,1,3,2015-03-22 16:00:00,,Tackle,553
+8013,49,MissedShots,0.909000015258789,0.43099998474121093,0.4642530083656311,Anthony Martial,a,553,OpenPlay,2014,RightFoot,5958,Reims,Monaco,1,3,2015-03-22 16:00:00,Layvin Kurzawa,TakeOn,553
+8021,70,BlockedShot,0.785,0.5579999923706055,0.06773730367422104,Anthony Martial,a,553,OpenPlay,2014,LeftFoot,5958,Reims,Monaco,1,3,2015-03-22 16:00:00,Geoffrey Kondogbia,TakeOn,553
+8614,67,Goal,0.899000015258789,0.5320000076293945,0.34209200739860535,Anthony Martial,h,553,OpenPlay,2014,LeftFoot,5885,Monaco,Saint-Etienne,1,1,2015-04-03 19:30:00,Layvin Kurzawa,Cross,553
+8092,13,BlockedShot,0.8630000305175781,0.31,0.04338730126619339,Anthony Martial,a,553,OpenPlay,2014,LeftFoot,5896,Caen,Monaco,0,3,2015-04-10 19:30:00,,None,553
+8097,28,Goal,0.8819999694824219,0.6020000076293945,0.09091810137033463,Anthony Martial,a,553,OpenPlay,2014,RightFoot,5896,Caen,Monaco,0,3,2015-04-10 19:30:00,Yannick Carrasco,Pass,553
+8105,78,MissedShots,0.9009999847412109,0.485,0.510345995426178,Anthony Martial,a,553,OpenPlay,2014,LeftFoot,5896,Caen,Monaco,0,3,2015-04-10 19:30:00,João Moutinho,TakeOn,553
+6310,67,MissedShots,0.754000015258789,0.435,0.06505569815635681,Anthony Martial,h,553,OpenPlay,2014,RightFoot,5909,Monaco,Rennes,1,1,2015-04-18 19:00:00,,Tackle,553
+6630,6,MissedShots,0.9009999847412109,0.65,0.09063229709863663,Anthony Martial,a,553,OpenPlay,2014,RightFoot,5923,Lens,Monaco,0,3,2015-04-26 16:00:00,João Moutinho,Pass,553
+6639,43,Goal,0.875999984741211,0.639000015258789,0.49122199416160583,Anthony Martial,a,553,OpenPlay,2014,RightFoot,5923,Lens,Monaco,0,3,2015-04-26 16:00:00,Yannick Carrasco,Throughball,553
+6640,46,SavedShot,0.8369999694824218,0.34200000762939453,0.08520949631929398,Anthony Martial,a,553,OpenPlay,2014,LeftFoot,5923,Lens,Monaco,0,3,2015-04-26 16:00:00,Bernardo Silva,Chipped,553
+6644,66,BlockedShot,0.8109999847412109,0.6769999694824219,0.04833729937672615,Anthony Martial,a,553,OpenPlay,2014,RightFoot,5923,Lens,Monaco,0,3,2015-04-26 16:00:00,Yannick Carrasco,Pass,553
+7263,45,Goal,0.885,0.5,0.7600950002670288,Anthony Martial,h,553,Penalty,2014,RightFoot,5853,Monaco,Toulouse,4,1,2015-05-03 16:00:00,,Standard,553
+6322,20,SavedShot,0.9230000305175782,0.5879999923706055,0.3963559865951538,Anthony Martial,a,553,OpenPlay,2014,RightFoot,5864,Marseille,Monaco,2,1,2015-05-10 20:00:00,,TakeOn,553
+6332,59,MissedShots,0.8240000152587891,0.669000015258789,0.052510399371385574,Anthony Martial,a,553,OpenPlay,2014,RightFoot,5864,Marseille,Monaco,2,1,2015-05-10 20:00:00,Fabinho,Chipped,553
+6866,24,BlockedShot,0.8919999694824219,0.7019999694824218,0.04949149861931801,Anthony Martial,h,553,OpenPlay,2014,RightFoot,5871,Monaco,Metz,2,0,2015-05-16 20:00:00,Yannick Carrasco,Pass,553
+6869,28,BlockedShot,0.884000015258789,0.3940000152587891,0.09550459682941437,Anthony Martial,h,553,OpenPlay,2014,LeftFoot,5871,Monaco,Metz,2,0,2015-05-16 20:00:00,João Moutinho,Pass,553
+6875,48,BlockedShot,0.9,0.4209999847412109,0.2570880055427551,Anthony Martial,h,553,OpenPlay,2014,LeftFoot,5871,Monaco,Metz,2,0,2015-05-16 20:00:00,Bernardo Silva,TakeOn,553
+7233,25,MissedShots,0.915,0.4470000076293945,0.08567319810390472,Anthony Martial,a,553,FromCorner,2014,Head,5881,Lorient,Monaco,0,1,2015-05-23 20:00:00,Yannick Carrasco,Cross,553
+7242,47,SavedShot,0.885,0.5,0.7600950002670288,Anthony Martial,a,553,Penalty,2014,RightFoot,5881,Lorient,Monaco,0,1,2015-05-23 20:00:00,,Standard,553
+7248,63,SavedShot,0.89,0.695,0.050772201269865036,Anthony Martial,a,553,OpenPlay,2014,RightFoot,5881,Lorient,Monaco,0,1,2015-05-23 20:00:00,Yannick Carrasco,Pass,553
+61531,48,MissedShots,0.9740000152587891,0.4829999923706055,0.08177590370178223,Anthony Martial,a,553,OpenPlay,2015,Head,1874,Nice,Monaco,1,2,2015-08-08 23:00:00,Stephan El Shaarawy,LayOff,553
+57922,85,Goal,0.9130000305175782,0.6140000152587891,0.4309549927711487,Anthony Martial,h,553,OpenPlay,2015,RightFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,Ashley Young,TakeOn,553
+58223,16,MissedShots,0.82,0.504000015258789,0.06259819865226746,Anthony Martial,a,553,OpenPlay,2015,RightFoot,139,Southampton,Manchester United,2,3,2015-09-20 19:00:00,Memphis Depay,Pass,553
+58229,33,Goal,0.919000015258789,0.515,0.3434540033340454,Anthony Martial,a,553,OpenPlay,2015,RightFoot,139,Southampton,Manchester United,2,3,2015-09-20 19:00:00,,Dispossessed,553
+58231,49,Goal,0.850999984741211,0.5970000076293945,0.322050005197525,Anthony Martial,a,553,OpenPlay,2015,RightFoot,139,Southampton,Manchester United,2,3,2015-09-20 19:00:00,,BallRecovery,553
+58418,69,MissedShots,0.9009999847412109,0.43099998474121093,0.055497799068689346,Anthony Martial,h,553,OpenPlay,2015,Head,146,Manchester United,Sunderland,3,0,2015-09-26 18:00:00,Antonio Valencia,Cross,553
+58632,44,SavedShot,0.9080000305175782,0.524000015258789,0.4057430028915405,Anthony Martial,a,553,OpenPlay,2015,LeftFoot,160,Arsenal,Manchester United,3,0,2015-10-04 19:00:00,Matteo Darmian,Pass,553
+58955,41,BlockedShot,0.8530000305175781,0.43900001525878907,0.10808700323104858,Anthony Martial,a,553,OpenPlay,2015,RightFoot,166,Everton,Manchester United,0,3,2015-10-17 18:00:00,Wayne Rooney,Pass,553
+58965,78,SavedShot,0.9719999694824218,0.6040000152587891,0.07755120098590851,Anthony Martial,a,553,FromCorner,2015,RightFoot,166,Everton,Manchester United,0,3,2015-10-17 18:00:00,Chris Smalling,TakeOn,553
+59446,88,BlockedShot,0.915,0.455,0.11403100192546844,Anthony Martial,a,553,OpenPlay,2015,RightFoot,182,Crystal Palace,Manchester United,0,0,2015-10-31 19:00:00,Jesse Lingard,HeadPass,553
+55269,40,BlockedShot,0.755,0.6819999694824219,0.013677200302481651,Anthony Martial,h,553,OpenPlay,2015,RightFoot,193,Manchester United,West Bromwich Albion,2,0,2015-11-07 19:00:00,,None,553
+55270,43,SavedShot,0.8469999694824218,0.49,0.06607930362224579,Anthony Martial,h,553,SetPiece,2015,RightFoot,193,Manchester United,West Bromwich Albion,2,0,2015-11-07 19:00:00,Chris Smalling,HeadPass,553
+54268,15,BlockedShot,0.909000015258789,0.525,0.10444799810647964,Anthony Martial,h,553,OpenPlay,2015,RightFoot,226,Manchester United,West Ham,0,0,2015-12-05 19:00:00,Marouane Fellaini,HeadPass,553
+54285,68,BlockedShot,0.8419999694824218,0.664000015258789,0.0450901985168457,Anthony Martial,h,553,OpenPlay,2015,RightFoot,226,Manchester United,West Ham,0,0,2015-12-05 19:00:00,Jesse Lingard,Pass,553
+54287,79,MissedShots,0.8959999847412109,0.5770000076293945,0.11620000004768372,Anthony Martial,h,553,OpenPlay,2015,RightFoot,226,Manchester United,West Ham,0,0,2015-12-05 19:00:00,Memphis Depay,Pass,553
+53304,17,MissedShots,0.8190000152587891,0.47400001525878904,0.22613799571990967,Anthony Martial,a,553,OpenPlay,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,BallRecovery,553
+53319,76,MissedShots,0.875,0.555,0.0952674001455307,Anthony Martial,a,553,OpenPlay,2015,LeftFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,TakeOn,553
+56051,65,Goal,0.925,0.55,0.35194599628448486,Anthony Martial,h,553,OpenPlay,2015,LeftFoot,246,Manchester United,Norwich,1,2,2015-12-19 19:00:00,Wayne Rooney,TakeOn,553
+55415,39,MissedShots,0.855999984741211,0.3039999961853027,0.02848530001938343,Anthony Martial,a,553,OpenPlay,2015,RightFoot,251,Stoke,Manchester United,2,0,2015-12-26 16:45:00,,None,553
+55423,84,SavedShot,0.8090000152587891,0.52,0.05081320181488991,Anthony Martial,a,553,OpenPlay,2015,RightFoot,251,Stoke,Manchester United,2,0,2015-12-26 16:45:00,Andreas Pereira,TakeOn,553
+53325,15,ShotOnPost,0.8830000305175781,0.66,0.07058250159025192,Anthony Martial,h,553,OpenPlay,2015,RightFoot,267,Manchester United,Chelsea,0,0,2015-12-28 21:30:00,Ander Herrera,TakeOn,553
+53335,49,BlockedShot,0.8090000152587891,0.5179999923706055,0.04784519970417023,Anthony Martial,h,553,OpenPlay,2015,RightFoot,267,Manchester United,Chelsea,0,0,2015-12-28 21:30:00,,None,553
+55722,4,BlockedShot,0.9119999694824219,0.645,0.10353600233793259,Anthony Martial,h,553,OpenPlay,2015,LeftFoot,275,Manchester United,Swansea,2,1,2016-01-02 19:00:00,,TakeOn,553
+55734,46,Goal,0.9230000305175782,0.500999984741211,0.38401201367378235,Anthony Martial,h,553,OpenPlay,2015,Head,275,Manchester United,Swansea,2,1,2016-01-02 19:00:00,Ashley Young,Cross,553
+55736,57,MissedShots,0.8980000305175782,0.72,0.06006849929690361,Anthony Martial,h,553,OpenPlay,2015,RightFoot,275,Manchester United,Swansea,2,1,2016-01-02 19:00:00,Wayne Rooney,TakeOn,553
+55741,68,MissedShots,0.9540000152587891,0.66,0.09285960346460342,Anthony Martial,h,553,OpenPlay,2015,RightFoot,275,Manchester United,Swansea,2,1,2016-01-02 19:00:00,Wayne Rooney,Pass,553
+54664,45,MissedShots,0.805,0.3120000076293945,0.04829920083284378,Anthony Martial,a,553,OpenPlay,2015,LeftFoot,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,Ander Herrera,Pass,553
+56088,45,BlockedShot,0.894000015258789,0.6869999694824219,0.06497400254011154,Anthony Martial,a,553,OpenPlay,2015,LeftFoot,298,Liverpool,Manchester United,0,1,2016-01-17 18:05:00,Wayne Rooney,TakeOn,553
+56093,55,MissedShots,0.9640000152587891,0.6580000305175782,0.07878649979829788,Anthony Martial,a,553,OpenPlay,2015,LeftFoot,298,Liverpool,Manchester United,0,1,2016-01-17 18:05:00,Wayne Rooney,TakeOn,553
+54640,7,MissedShots,0.730999984741211,0.46,0.01699019968509674,Anthony Martial,h,553,OpenPlay,2015,RightFoot,303,Manchester United,Southampton,0,1,2016-01-23 19:00:00,Marouane Fellaini,Pass,553
+54989,14,MissedShots,0.9169999694824219,0.655,0.07788889855146408,Anthony Martial,h,553,OpenPlay,2015,RightFoot,317,Manchester United,Stoke,3,0,2016-02-03 00:00:00,Wayne Rooney,TakeOn,553
+54991,17,SavedShot,0.7480000305175781,0.6,0.027177799493074417,Anthony Martial,h,553,OpenPlay,2015,RightFoot,317,Manchester United,Stoke,3,0,2016-02-03 00:00:00,Wayne Rooney,Pass,553
+54992,22,Goal,0.86,0.6680000305175782,0.0845315009355545,Anthony Martial,h,553,OpenPlay,2015,RightFoot,317,Manchester United,Stoke,3,0,2016-02-03 00:00:00,Wayne Rooney,Pass,553
+54997,36,BlockedShot,0.8819999694824219,0.6840000152587891,0.07799360156059265,Anthony Martial,h,553,OpenPlay,2015,RightFoot,317,Manchester United,Stoke,3,0,2016-02-03 00:00:00,Juan Mata,Pass,553
+55004,55,MissedShots,0.8969999694824219,0.6830000305175781,0.08797650039196014,Anthony Martial,h,553,OpenPlay,2015,LeftFoot,317,Manchester United,Stoke,3,0,2016-02-03 00:00:00,Wayne Rooney,Pass,553
+55986,17,SavedShot,0.879000015258789,0.7269999694824218,0.03812729939818382,Anthony Martial,a,553,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Juan Mata,Pass,553
+56000,49,MissedShots,0.8919999694824219,0.669000015258789,0.06825219839811325,Anthony Martial,a,553,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Juan Mata,Pass,553
+55957,34,BlockedShot,0.8680000305175781,0.7269999694824218,0.035395700484514236,Anthony Martial,a,553,OpenPlay,2015,RightFoot,331,Sunderland,Manchester United,2,1,2016-02-13 16:45:00,Juan Mata,Pass,553
+55959,38,Goal,0.99,0.59,0.3093140125274658,Anthony Martial,a,553,OpenPlay,2015,LeftFoot,331,Sunderland,Manchester United,2,1,2016-02-13 16:45:00,,Rebound,553
+61207,8,MissedShots,0.9669999694824218,0.3940000152587891,0.14842399954795837,Anthony Martial,h,553,FromCorner,2015,Head,358,Manchester United,Watford,1,0,2016-03-03 00:00:00,Ander Herrera,Cross,553
+61222,27,SavedShot,0.8919999694824219,0.35700000762939454,0.06421829760074615,Anthony Martial,h,553,OpenPlay,2015,RightFoot,358,Manchester United,Watford,1,0,2016-03-03 00:00:00,Juan Mata,HeadPass,553
+61226,44,MissedShots,0.9159999847412109,0.5029999923706054,0.12491600215435028,Anthony Martial,h,553,OpenPlay,2015,Head,358,Manchester United,Watford,1,0,2016-03-03 00:00:00,Marcos Rojo,Cross,553
+60566,2,SavedShot,0.755,0.6759999847412109,0.01411920040845871,Anthony Martial,a,553,OpenPlay,2015,RightFoot,368,West Bromwich Albion,Manchester United,1,0,2016-03-06 20:00:00,Marcos Rojo,TakeOn,553
+60574,38,BlockedShot,0.8619999694824219,0.580999984741211,0.0836867019534111,Anthony Martial,a,553,OpenPlay,2015,RightFoot,368,West Bromwich Albion,Manchester United,1,0,2016-03-06 20:00:00,Jesse Lingard,Pass,553
+60256,17,SavedShot,0.7769999694824219,0.48200000762939454,0.04253000020980835,Anthony Martial,a,553,OpenPlay,2015,RightFoot,382,Manchester City,Manchester United,0,1,2016-03-20 20:00:00,Jesse Lingard,Pass,553
+60273,53,SavedShot,0.8080000305175781,0.7080000305175781,0.0233559999614954,Anthony Martial,a,553,OpenPlay,2015,RightFoot,382,Manchester City,Manchester United,0,1,2016-03-20 20:00:00,Jesse Lingard,TakeOn,553
+59909,16,MissedShots,0.875,0.34299999237060547,0.04964800179004669,Anthony Martial,h,553,OpenPlay,2015,RightFoot,393,Manchester United,Everton,1,0,2016-04-03 19:00:00,Jesse Lingard,Chipped,553
+59912,27,BlockedShot,0.9169999694824219,0.5420000076293945,0.033146798610687256,Anthony Martial,h,553,FromCorner,2015,Head,393,Manchester United,Everton,1,0,2016-04-03 19:00:00,Daley Blind,Aerial,553
+59913,34,BlockedShot,0.7930000305175782,0.66,0.026549899950623512,Anthony Martial,h,553,OpenPlay,2015,RightFoot,393,Manchester United,Everton,1,0,2016-04-03 19:00:00,Marcos Rojo,Pass,553
+59918,53,Goal,0.9390000152587891,0.5329999923706055,0.5879679918289185,Anthony Martial,h,553,OpenPlay,2015,LeftFoot,393,Manchester United,Everton,1,0,2016-04-03 19:00:00,Timothy Fosu-Mensah,Pass,553
+61139,61,SavedShot,0.879000015258789,0.5829999923706055,0.18956999480724335,Anthony Martial,a,553,OpenPlay,2015,RightFoot,402,Tottenham,Manchester United,3,0,2016-04-10 19:00:00,Marcos Rojo,TakeOn,553
+61154,21,SavedShot,0.8569999694824219,0.735999984741211,0.0280069001019001,Anthony Martial,h,553,OpenPlay,2015,RightFoot,417,Manchester United,Crystal Palace,2,0,2016-04-20 23:00:00,Marcus Rashford,Chipped,553
+61158,39,SavedShot,0.865,0.6880000305175781,0.061607301235198975,Anthony Martial,h,553,OpenPlay,2015,LeftFoot,417,Manchester United,Crystal Palace,2,0,2016-04-20 23:00:00,,Dispossessed,553
+57155,7,Goal,0.93,0.6609999847412109,0.2542630136013031,Anthony Martial,h,553,OpenPlay,2015,RightFoot,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,Antonio Valencia,Cross,553
+57170,47,MissedShots,0.9119999694824219,0.6580000305175782,0.09740229696035385,Anthony Martial,h,553,OpenPlay,2015,RightFoot,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,Marouane Fellaini,TakeOn,553
+56734,50,Goal,0.9369999694824219,0.5320000076293945,0.5540440082550049,Anthony Martial,a,553,OpenPlay,2015,RightFoot,447,West Ham,Manchester United,3,2,2016-05-10 23:30:00,Juan Mata,Pass,553
+56740,71,Goal,0.98,0.669000015258789,0.06423140317201614,Anthony Martial,a,553,OpenPlay,2015,LeftFoot,447,West Ham,Manchester United,3,2,2016-05-10 23:30:00,Marcus Rashford,TakeOn,553
+52050,11,MissedShots,0.8530000305175781,0.7269999694824218,0.03313170000910759,Anthony Martial,h,553,OpenPlay,2015,RightFoot,460,Manchester United,Bournemouth,3,1,2016-05-17 23:00:00,Cameron Borthwick-Jackson,Pass,553
+112115,23,MissedShots,0.8730000305175781,0.75,0.031526900827884674,Anthony Martial,a,553,OpenPlay,2016,RightFoot,468,Bournemouth,Manchester United,1,3,2016-08-14 16:30:00,Wayne Rooney,Pass,553
+112123,58,MissedShots,0.865999984741211,0.6,0.06466410309076309,Anthony Martial,a,553,OpenPlay,2016,LeftFoot,468,Bournemouth,Manchester United,1,3,2016-08-14 16:30:00,Antonio Valencia,Cross,553
+112127,64,BlockedShot,0.88,0.7280000305175781,0.05688619986176491,Anthony Martial,a,553,OpenPlay,2016,RightFoot,468,Bournemouth,Manchester United,1,3,2016-08-14 16:30:00,Zlatan Ibrahimovic,Pass,553
+112680,49,SavedShot,0.7759999847412109,0.7230000305175781,0.022833699360489845,Anthony Martial,h,553,OpenPlay,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Paul Pogba,Pass,553
+112686,64,BlockedShot,0.8769999694824219,0.629000015258789,0.0975228026509285,Anthony Martial,h,553,OpenPlay,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Wayne Rooney,Pass,553
+112981,59,MissedShots,0.7680000305175781,0.6780000305175782,0.01909239962697029,Anthony Martial,a,553,OpenPlay,2016,RightFoot,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,Wayne Rooney,Pass,553
+114377,68,Goal,0.88,0.6619999694824219,0.06223269924521446,Anthony Martial,h,553,OpenPlay,2016,RightFoot,527,Manchester United,Stoke,1,1,2016-10-02 15:00:00,,Dispossessed,553
+115506,40,SavedShot,0.7880000305175782,0.5920000076293945,0.022513799369335175,Anthony Martial,h,553,FromCorner,2016,LeftFoot,2697,Manchester United,Arsenal,1,1,2016-11-19 16:30:00,,None,553
+115505,40,SavedShot,0.8519999694824218,0.6969999694824218,0.040943898260593414,Anthony Martial,h,553,OpenPlay,2016,RightFoot,2697,Manchester United,Arsenal,1,1,2016-11-19 16:30:00,Ander Herrera,Pass,553
+115507,48,SavedShot,0.735999984741211,0.5879999923706055,0.021615199744701385,Anthony Martial,h,553,OpenPlay,2016,RightFoot,2697,Manchester United,Arsenal,1,1,2016-11-19 16:30:00,Marcos Rojo,Pass,553
+115597,43,SavedShot,0.749000015258789,0.695,0.017541799694299698,Anthony Martial,a,553,OpenPlay,2016,RightFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Paul Pogba,LayOff,553
+115599,54,BlockedShot,0.89,0.705,0.06171860173344612,Anthony Martial,a,553,OpenPlay,2016,RightFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Paul Pogba,Pass,553
+115601,56,MissedShots,0.8080000305175781,0.6630000305175782,0.04567360132932663,Anthony Martial,a,553,OpenPlay,2016,RightFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,,None,553
+117125,19,BlockedShot,0.745,0.5609999847412109,0.013268000446259975,Anthony Martial,h,553,SetPiece,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,,None,553
+117137,44,MissedShots,0.870999984741211,0.6730000305175782,0.026966800913214684,Anthony Martial,h,553,OpenPlay,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,,Aerial,553
+117591,37,ShotOnPost,0.720999984741211,0.620999984741211,0.01584389992058277,Anthony Martial,h,553,OpenPlay,2016,RightFoot,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,Paul Pogba,Pass,553
+117600,64,SavedShot,0.805,0.580999984741211,0.045264698565006256,Anthony Martial,h,553,OpenPlay,2016,RightFoot,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,Ander Herrera,Pass,553
+117606,80,SavedShot,0.905,0.6079999923706054,0.379925012588501,Anthony Martial,h,553,OpenPlay,2016,RightFoot,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,Henrikh Mkhitaryan,Throughball,553
+117611,84,Goal,0.875,0.41200000762939454,0.06778659671545029,Anthony Martial,h,553,OpenPlay,2016,RightFoot,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,Zlatan Ibrahimovic,HeadPass,553
+117735,12,BlockedShot,0.7969999694824219,0.6229999923706054,0.04370519891381264,Anthony Martial,h,553,OpenPlay,2016,RightFoot,3381,Manchester United,Watford,2,0,2017-02-11 15:00:00,Zlatan Ibrahimovic,TakeOn,553
+117748,45,BlockedShot,0.879000015258789,0.4420000076293945,0.12279699742794037,Anthony Martial,h,553,OpenPlay,2016,RightFoot,3381,Manchester United,Watford,2,0,2017-02-11 15:00:00,Antonio Valencia,TakeOn,553
+117749,46,MissedShots,0.8880000305175781,0.710999984741211,0.05750750005245209,Anthony Martial,h,553,OpenPlay,2016,LeftFoot,3381,Manchester United,Watford,2,0,2017-02-11 15:00:00,Zlatan Ibrahimovic,Pass,553
+117753,59,Goal,0.9080000305175782,0.6020000076293945,0.37663400173187256,Anthony Martial,h,553,OpenPlay,2016,RightFoot,3381,Manchester United,Watford,2,0,2017-02-11 15:00:00,Zlatan Ibrahimovic,Pass,553
+119572,12,SavedShot,0.8530000305175781,0.6880000305175781,0.043995101004838943,Anthony Martial,h,553,OpenPlay,2016,RightFoot,3402,Manchester United,Bournemouth,1,1,2017-03-04 12:30:00,Wayne Rooney,Pass,553
+119574,19,SavedShot,0.91,0.6859999847412109,0.12068500369787216,Anthony Martial,h,553,OpenPlay,2016,LeftFoot,3402,Manchester United,Bournemouth,1,1,2017-03-04 12:30:00,Michael Carrick,Throughball,553
+119551,17,BlockedShot,0.784000015258789,0.6469999694824219,0.02402219921350479,Anthony Martial,h,553,OpenPlay,2016,RightFoot,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,Jesse Lingard,Chipped,553
+119553,25,BlockedShot,0.7559999847412109,0.48200000762939454,0.02420170046389103,Anthony Martial,h,553,OpenPlay,2016,RightFoot,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,Antonio Valencia,Pass,553
+119555,29,MissedShots,0.9490000152587891,0.5690000152587891,0.06681209802627563,Anthony Martial,h,553,OpenPlay,2016,Head,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,Jesse Lingard,Aerial,553
+119558,37,BlockedShot,0.860999984741211,0.669000015258789,0.060399699956178665,Anthony Martial,h,553,OpenPlay,2016,RightFoot,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,Marouane Fellaini,Pass,553
+119563,56,MissedShots,0.7340000152587891,0.6930000305175781,0.014012300409376621,Anthony Martial,h,553,OpenPlay,2016,RightFoot,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,Marouane Fellaini,Pass,553
+120310,77,SavedShot,0.7809999847412109,0.49599998474121093,0.0773589015007019,Anthony Martial,a,553,OpenPlay,2016,LeftFoot,3452,Sunderland,Manchester United,0,3,2017-04-09 13:30:00,Daley Blind,Chipped,553
+120657,20,Goal,0.91,0.5420000076293945,0.5812579989433289,Anthony Martial,a,553,OpenPlay,2016,LeftFoot,3472,Burnley,Manchester United,0,2,2017-04-23 14:15:00,Ander Herrera,Pass,553
+120659,38,SavedShot,0.9690000152587891,0.6270000076293946,0.15300700068473816,Anthony Martial,a,553,OpenPlay,2016,LeftFoot,3472,Burnley,Manchester United,0,2,2017-04-23 14:15:00,Paul Pogba,TakeOn,553
+120956,29,SavedShot,0.8580000305175781,0.62,0.06787160038948059,Anthony Martial,h,553,OpenPlay,2016,RightFoot,3482,Manchester United,Swansea,1,1,2017-04-30 12:00:00,Michael Carrick,TakeOn,553
+120964,61,SavedShot,0.8180000305175781,0.45799999237060546,0.06784489750862122,Anthony Martial,h,553,OpenPlay,2016,LeftFoot,3482,Manchester United,Swansea,1,1,2017-04-30 12:00:00,Antonio Valencia,Pass,553
+120968,80,MissedShots,0.8119999694824219,0.645,0.018998799845576286,Anthony Martial,h,553,OpenPlay,2016,RightFoot,3482,Manchester United,Swansea,1,1,2017-04-30 12:00:00,Antonio Valencia,Cross,553
+121224,4,SavedShot,0.9069999694824219,0.674000015258789,0.06760670244693756,Anthony Martial,a,553,OpenPlay,2016,RightFoot,3490,Arsenal,Manchester United,2,0,2017-05-07 16:00:00,Wayne Rooney,Pass,553
+121238,77,BlockedShot,0.715999984741211,0.605,0.014121100306510925,Anthony Martial,a,553,OpenPlay,2016,RightFoot,3490,Arsenal,Manchester United,2,0,2017-05-07 16:00:00,Michael Carrick,Pass,553
+120473,17,MissedShots,0.8469999694824218,0.7090000152587891,0.037740398198366165,Anthony Martial,a,553,SetPiece,2016,RightFoot,3507,Tottenham,Manchester United,2,1,2017-05-14 16:30:00,Wayne Rooney,Chipped,553
+120486,62,MissedShots,0.8,0.6959999847412109,0.06479460000991821,Anthony Martial,a,553,OpenPlay,2016,RightFoot,3507,Tottenham,Manchester United,2,1,2017-05-14 16:30:00,Wayne Rooney,Chipped,553
+119626,14,MissedShots,0.8080000305175781,0.42200000762939455,0.06844539940357208,Anthony Martial,a,553,OpenPlay,2016,RightFoot,3412,Southampton,Manchester United,0,0,2017-05-17 19:45:00,Wayne Rooney,Pass,553
+119645,70,ShotOnPost,0.7609999847412109,0.615,0.02418779954314232,Anthony Martial,a,553,OpenPlay,2016,RightFoot,3412,Southampton,Manchester United,0,0,2017-05-17 19:45:00,Marouane Fellaini,TakeOn,553
+158284,86,Goal,0.895,0.5790000152587891,0.5102229714393616,Anthony Martial,h,553,OpenPlay,2017,RightFoot,7128,Manchester United,West Ham,4,0,2017-08-13 16:00:00,Henrikh Mkhitaryan,Throughball,553
+159012,77,BlockedShot,0.785,0.43599998474121093,0.04942990094423294,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Romelu Lukaku,LayOff,553
+159015,83,Goal,0.86,0.5320000076293945,0.12848499417304993,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Paul Pogba,Pass,553
+158742,29,SavedShot,0.775,0.4909999847412109,0.03278909996151924,Anthony Martial,h,553,OpenPlay,2017,RightFoot,7145,Manchester United,Leicester,2,0,2017-08-26 17:30:00,Henrikh Mkhitaryan,Pass,553
+158746,42,BlockedShot,0.8919999694824219,0.5790000152587891,0.02743140049278736,Anthony Martial,h,553,OpenPlay,2017,Head,7145,Manchester United,Leicester,2,0,2017-08-26 17:30:00,Antonio Valencia,Aerial,553
+158747,46,BlockedShot,0.779000015258789,0.6179999923706054,0.023708399385213852,Anthony Martial,h,553,OpenPlay,2017,LeftFoot,7145,Manchester United,Leicester,2,0,2017-08-26 17:30:00,Romelu Lukaku,Pass,553
+158786,91,Goal,0.885,0.5,0.7611690163612366,Anthony Martial,h,553,Penalty,2017,RightFoot,7168,Manchester United,Everton,4,0,2017-09-17 16:00:00,,Standard,553
+160251,80,SavedShot,0.9069999694824219,0.629000015258789,0.30180299282073975,Anthony Martial,h,553,OpenPlay,2017,LeftFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Ander Herrera,Pass,553
+160491,5,BlockedShot,0.785,0.73,0.01694449968636036,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7193,Liverpool,Manchester United,0,0,2017-10-14 12:30:00,,Clearance,553
+160087,80,Goal,0.9119999694824219,0.575999984741211,0.3253070116043091,Anthony Martial,h,553,OpenPlay,2017,LeftFoot,7218,Manchester United,Tottenham,1,0,2017-10-28 12:30:00,Romelu Lukaku,HeadPass,553
+160227,89,BlockedShot,0.860999984741211,0.36700000762939455,0.01641489937901497,Anthony Martial,a,553,OpenPlay,2017,LeftFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Marouane Fellaini,Aerial,553
+160898,36,Goal,0.9319999694824219,0.5359999847412109,0.11788199841976166,Anthony Martial,h,553,OpenPlay,2017,Head,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Paul Pogba,Cross,553
+160905,49,MissedShots,0.9540000152587891,0.4370000076293945,0.1328040063381195,Anthony Martial,h,553,OpenPlay,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,,None,553
+160908,57,BlockedShot,0.9680000305175781,0.5779999923706055,0.05473190173506737,Anthony Martial,h,553,FromCorner,2017,Head,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Paul Pogba,HeadPass,553
+160968,15,BlockedShot,0.7830000305175782,0.7030000305175781,0.01646989956498146,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7251,Watford,Manchester United,2,4,2017-11-28 20:00:00,Jesse Lingard,TakeOn,553
+160971,31,Goal,0.8169999694824219,0.47900001525878905,0.08682359755039215,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7251,Watford,Manchester United,2,4,2017-11-28 20:00:00,Romelu Lukaku,Pass,553
+161393,51,BlockedShot,0.965999984741211,0.5790000152587891,0.15138399600982666,Anthony Martial,a,553,OpenPlay,2017,LeftFoot,7266,Arsenal,Manchester United,1,3,2017-12-02 17:30:00,,Rebound,553
+179258,45,SavedShot,0.8019999694824219,0.635,0.03612679988145828,Anthony Martial,h,553,OpenPlay,2017,RightFoot,7276,Manchester United,Manchester City,1,2,2017-12-10 16:30:00,Ashley Young,TakeOn,553
+182917,59,MissedShots,0.9459999847412109,0.524000015258789,0.618270993232727,Anthony Martial,h,553,OpenPlay,2017,RightFoot,7283,Manchester United,Bournemouth,1,0,2017-12-13 20:00:00,,None,553
+183054,0,BlockedShot,0.8080000305175781,0.5070000076293946,0.057648301124572754,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7302,Leicester,Manchester United,2,2,2017-12-23 19:45:00,Jesse Lingard,LayOff,553
+183058,7,BlockedShot,0.7319999694824219,0.6809999847412109,0.013880999758839607,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7302,Leicester,Manchester United,2,2,2017-12-23 19:45:00,Ashley Young,Pass,553
+183064,22,MissedShots,0.8530000305175781,0.5870000076293945,0.08521050214767456,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7302,Leicester,Manchester United,2,2,2017-12-23 19:45:00,Juan Mata,Pass,553
+183074,52,MissedShots,0.865,0.4909999847412109,0.5504159927368164,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7302,Leicester,Manchester United,2,2,2017-12-23 19:45:00,Romelu Lukaku,Throughball,553
+186344,14,MissedShots,0.784000015258789,0.7180000305175781,0.01603120006620884,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7333,Everton,Manchester United,0,2,2018-01-01 17:30:00,,None,553
+186361,56,Goal,0.8190000152587891,0.49700000762939456,0.06461410224437714,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7333,Everton,Manchester United,0,2,2018-01-01 17:30:00,Paul Pogba,Pass,553
+188101,25,MissedShots,0.7580000305175781,0.7190000152587891,0.015223699621856213,Anthony Martial,h,553,OpenPlay,2017,RightFoot,7344,Manchester United,Stoke,3,0,2018-01-15 20:00:00,Juan Mata,Pass,553
+188103,35,BlockedShot,0.87,0.675,0.056633200496435165,Anthony Martial,h,553,OpenPlay,2017,LeftFoot,7344,Manchester United,Stoke,3,0,2018-01-15 20:00:00,Luke Shaw,Pass,553
+188104,37,Goal,0.8109999847412109,0.509000015258789,0.07351700216531754,Anthony Martial,h,553,OpenPlay,2017,RightFoot,7344,Manchester United,Stoke,3,0,2018-01-15 20:00:00,Paul Pogba,Pass,553
+188106,44,MissedShots,0.7919999694824219,0.635,0.04498939961194992,Anthony Martial,h,553,OpenPlay,2017,RightFoot,7344,Manchester United,Stoke,3,0,2018-01-15 20:00:00,Nemanja Matic,Pass,553
+188112,58,SavedShot,0.91,0.495,0.5578089952468872,Anthony Martial,h,553,OpenPlay,2017,LeftFoot,7344,Manchester United,Stoke,3,0,2018-01-15 20:00:00,,None,553
+188111,58,BlockedShot,0.879000015258789,0.46599998474121096,0.1322609931230545,Anthony Martial,h,553,OpenPlay,2017,RightFoot,7344,Manchester United,Stoke,3,0,2018-01-15 20:00:00,Paul Pogba,Pass,553
+188761,17,BlockedShot,0.87,0.6869999694824219,0.04953769966959953,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7351,Burnley,Manchester United,0,1,2018-01-20 15:00:00,Paul Pogba,Pass,553
+188766,46,MissedShots,0.8190000152587891,0.51,0.060684800148010254,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7351,Burnley,Manchester United,0,1,2018-01-20 15:00:00,Paul Pogba,TakeOn,553
+188768,53,Goal,0.879000015258789,0.6419999694824219,0.07593259960412979,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7351,Burnley,Manchester United,0,1,2018-01-20 15:00:00,Romelu Lukaku,Pass,553
+188778,87,SavedShot,0.8969999694824219,0.6930000305175781,0.06413199752569199,Anthony Martial,a,553,OpenPlay,2017,LeftFoot,7351,Burnley,Manchester United,0,1,2018-01-20 15:00:00,Paul Pogba,Pass,553
+193548,20,MissedShots,0.8619999694824219,0.355,0.053210798650979996,Anthony Martial,a,553,OpenPlay,2017,LeftFoot,7367,Tottenham,Manchester United,2,0,2018-01-31 20:00:00,Antonio Valencia,Chipped,553
+193553,29,SavedShot,0.9119999694824219,0.2979999923706055,0.05974910035729408,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7367,Tottenham,Manchester United,2,0,2018-01-31 20:00:00,Antonio Valencia,Pass,553
+193928,34,SavedShot,0.89,0.415,0.33856499195098877,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7383,Newcastle United,Manchester United,1,0,2018-02-11 14:15:00,Nemanja Matic,Throughball,553
+193929,37,MissedShots,0.8919999694824219,0.3890000152587891,0.020393600687384605,Anthony Martial,a,553,OpenPlay,2017,Head,7383,Newcastle United,Manchester United,1,0,2018-02-11 14:15:00,Romelu Lukaku,Cross,553
+193938,76,BlockedShot,0.93,0.4809999847412109,0.14002099633216858,Anthony Martial,a,553,FromCorner,2017,RightFoot,7383,Newcastle United,Manchester United,1,0,2018-02-11 14:15:00,,Rebound,553
+193937,76,BlockedShot,0.9259999847412109,0.5070000076293946,0.08096259832382202,Anthony Martial,a,553,FromCorner,2017,RightFoot,7383,Newcastle United,Manchester United,1,0,2018-02-11 14:15:00,,Aerial,553
+197825,54,BlockedShot,0.7430000305175781,0.36900001525878906,0.015646599233150482,Anthony Martial,h,553,OpenPlay,2017,RightFoot,7393,Manchester United,Chelsea,2,1,2018-02-25 14:05:00,Antonio Valencia,Pass,553
+209206,74,MissedShots,0.8569999694824219,0.44299999237060544,0.07483930140733719,Anthony Martial,h,553,OpenPlay,2017,RightFoot,7453,Manchester United,West Bromwich Albion,0,1,2018-04-15 15:00:00,Alexis Sánchez,Pass,553
+209740,22,BlockedShot,0.7280000305175781,0.40599998474121096,0.015499199740588665,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7463,Bournemouth,Manchester United,0,2,2018-04-18 18:45:00,Ander Herrera,BallRecovery,553
+209750,47,BlockedShot,0.9019999694824219,0.664000015258789,0.07924269884824753,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7463,Bournemouth,Manchester United,0,2,2018-04-18 18:45:00,Luke Shaw,TakeOn,553
+212485,78,MissedShots,0.8130000305175781,0.46299999237060546,0.03952590003609657,Anthony Martial,h,553,FromCorner,2017,RightFoot,7473,Manchester United,Arsenal,2,1,2018-04-29 15:30:00,Alexis Sánchez,Pass,553
+212865,74,MissedShots,0.7780000305175782,0.7030000305175781,0.018172500655055046,Anthony Martial,a,553,OpenPlay,2017,RightFoot,7484,Brighton,Manchester United,1,0,2018-05-04 20:00:00,Juan Mata,TakeOn,553
+212867,78,MissedShots,0.865,0.6959999847412109,0.027935899794101715,Anthony Martial,a,553,OpenPlay,2017,LeftFoot,7484,Brighton,Manchester United,1,0,2018-05-04 20:00:00,Juan Mata,Cross,553
+212871,91,MissedShots,0.89,0.6480000305175782,0.011450500227510929,Anthony Martial,a,553,OpenPlay,2017,Head,7484,Brighton,Manchester United,1,0,2018-05-04 20:00:00,Ashley Young,Aerial,553
+232938,6,BlockedShot,0.8830000305175781,0.6969999694824218,0.053950000554323196,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9215,Brighton,Manchester United,3,2,2018-08-19 18:00:00,Paul Pogba,TakeOn,553
+249133,75,Goal,0.865,0.639000015258789,0.05324849858880043,Anthony Martial,h,553,OpenPlay,2018,RightFoot,9273,Manchester United,Newcastle United,3,2,2018-10-06 16:30:00,Paul Pogba,Pass,553
+249229,54,Goal,0.92,0.495,0.5062459707260132,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9277,Chelsea,Manchester United,2,2,2018-10-20 11:30:00,,Rebound,553
+249234,72,Goal,0.8430000305175781,0.5629999923706055,0.08186429738998413,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9277,Chelsea,Manchester United,2,2,2018-10-20 11:30:00,Marcus Rashford,Pass,553
+249697,22,SavedShot,0.7869999694824219,0.7609999847412109,0.018068499863147736,Anthony Martial,h,553,OpenPlay,2018,RightFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Nemanja Matic,Pass,553
+249707,48,Goal,0.8230000305175781,0.6880000305175781,0.04112809896469116,Anthony Martial,h,553,OpenPlay,2018,RightFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Paul Pogba,Pass,553
+249719,93,SavedShot,0.9019999694824219,0.49900001525878906,0.600346028804779,Anthony Martial,h,553,OpenPlay,2018,RightFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Fred,Pass,553
+249739,5,BlockedShot,0.8480000305175781,0.7030000305175781,0.036061499267816544,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Paul Pogba,Pass,553
+249747,34,Goal,0.9,0.48900001525878906,0.42576301097869873,Anthony Martial,a,553,OpenPlay,2018,LeftFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Alexis Sánchez,Pass,553
+249755,45,BlockedShot,0.855999984741211,0.765,0.025286000221967697,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Paul Pogba,Pass,553
+249758,53,SavedShot,0.8030000305175782,0.61,0.11477400362491608,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Juan Mata,Throughball,553
+250212,24,BlockedShot,0.8219999694824218,0.68,0.0270834993571043,Anthony Martial,a,553,SetPiece,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Nemanja Matic,Pass,553
+250216,38,BlockedShot,0.8380000305175781,0.75,0.02364189922809601,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Marcus Rashford,Pass,553
+250221,57,Goal,0.885,0.5,0.7611690163612366,Anthony Martial,a,553,Penalty,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,,Standard,553
+250294,29,SavedShot,0.935,0.53,0.4164679944515228,Anthony Martial,h,553,OpenPlay,2018,Head,9319,Manchester United,Crystal Palace,0,0,2018-11-24 15:00:00,Jesse Lingard,Chipped,553
+250303,77,MissedShots,0.855999984741211,0.6759999847412109,0.04377619922161102,Anthony Martial,h,553,OpenPlay,2018,RightFoot,9319,Manchester United,Crystal Palace,0,0,2018-11-24 15:00:00,,None,553
+250957,11,SavedShot,0.789000015258789,0.7169999694824218,0.016214100643992424,Anthony Martial,h,553,OpenPlay,2018,LeftFoot,9344,Manchester United,Arsenal,2,2,2018-12-05 20:00:00,,None,553
+250961,29,Goal,0.9519999694824218,0.47400001525878904,0.626937985420227,Anthony Martial,h,553,SetPiece,2018,RightFoot,9344,Manchester United,Arsenal,2,2,2018-12-05 20:00:00,Ander Herrera,Pass,553
+251677,40,Goal,0.919000015258789,0.425,0.3984070122241974,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9374,Cardiff,Manchester United,1,5,2018-12-22 17:30:00,Jesse Lingard,TakeOn,553
+274324,14,MissedShots,0.845,0.7380000305175781,0.027757100760936737,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9399,Newcastle United,Manchester United,0,2,2019-01-02 20:00:00,Paul Pogba,Pass,553
+274327,24,MissedShots,0.915,0.59,0.09939049929380417,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9399,Newcastle United,Manchester United,0,2,2019-01-02 20:00:00,Juan Mata,Chipped,553
+274563,17,SavedShot,0.950999984741211,0.66,0.07933349907398224,Anthony Martial,a,553,OpenPlay,2018,LeftFoot,9408,Tottenham,Manchester United,0,1,2019-01-13 16:30:00,Paul Pogba,Pass,553
+274565,24,MissedShots,0.779000015258789,0.6580000305175782,0.023183099925518036,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9408,Tottenham,Manchester United,0,1,2019-01-13 16:30:00,Paul Pogba,Pass,553
+274710,33,SavedShot,0.9119999694824219,0.5159999847412109,0.33057400584220886,Anthony Martial,h,553,OpenPlay,2018,LeftFoot,9421,Manchester United,Brighton,2,1,2019-01-19 15:00:00,Victor Lindelöf,Chipped,553
+274716,56,MissedShots,0.8190000152587891,0.615999984741211,0.06978219747543335,Anthony Martial,h,553,OpenPlay,2018,RightFoot,9421,Manchester United,Brighton,2,1,2019-01-19 15:00:00,Nemanja Matic,TakeOn,553
+275317,73,BlockedShot,0.799000015258789,0.585,0.05437209829688072,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9440,Leicester,Manchester United,0,1,2019-02-03 14:05:00,,BallRecovery,553
+275321,89,SavedShot,0.8619999694824219,0.655,0.07675690203905106,Anthony Martial,a,553,OpenPlay,2018,LeftFoot,9440,Leicester,Manchester United,0,1,2019-02-03 14:05:00,Ashley Young,Pass,553
+275394,22,Goal,0.8730000305175781,0.605999984741211,0.26814401149749756,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9447,Fulham,Manchester United,0,3,2019-02-09 12:30:00,Phil Jones,TakeOn,553
+275397,39,BlockedShot,0.865,0.655,0.07942020148038864,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9447,Fulham,Manchester United,0,3,2019-02-09 12:30:00,Juan Mata,Pass,553
+275406,50,SavedShot,0.9790000152587891,0.5940000152587891,0.11189699918031693,Anthony Martial,a,553,OpenPlay,2018,LeftFoot,9447,Fulham,Manchester United,0,3,2019-02-09 12:30:00,,None,553
+287510,31,SavedShot,0.9130000305175782,0.5370000076293945,0.47565099596977234,Anthony Martial,h,553,FromCorner,2018,LeftFoot,9509,Manchester United,Watford,2,1,2019-03-30 15:00:00,,None,553
+287523,71,Goal,0.9730000305175781,0.4759999847412109,0.8456479907035828,Anthony Martial,h,553,OpenPlay,2018,LeftFoot,9509,Manchester United,Watford,2,1,2019-03-30 15:00:00,,Rebound,553
+287522,71,SavedShot,0.97,0.47,0.7820919752120972,Anthony Martial,h,553,OpenPlay,2018,RightFoot,9509,Manchester United,Watford,2,1,2019-03-30 15:00:00,Jesse Lingard,Pass,553
+293728,35,MissedShots,0.985,0.64,0.0710069015622139,Anthony Martial,h,553,OpenPlay,2018,RightFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Juan Mata,Chipped,553
+295833,69,MissedShots,0.8769999694824219,0.53,0.10200800001621246,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,Paul Pogba,Pass,553
+295838,85,SavedShot,0.775,0.664000015258789,0.014416499994695187,Anthony Martial,a,553,OpenPlay,2018,RightFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,Paul Pogba,Pass,553
+301397,58,SavedShot,0.720999984741211,0.595999984741211,0.011059099808335304,Anthony Martial,h,553,OpenPlay,2018,RightFoot,9570,Manchester United,Cardiff,0,2,2019-05-12 14:00:00,Mason Greenwood,Pass,553
+301403,75,BlockedShot,0.8669999694824219,0.5640000152587891,0.10139399766921997,Anthony Martial,h,553,OpenPlay,2018,LeftFoot,9570,Manchester United,Cardiff,0,2,2019-05-12 14:00:00,Marcus Rashford,Pass,553
+301405,82,BlockedShot,0.825,0.4640000152587891,0.06016109883785248,Anthony Martial,h,553,OpenPlay,2018,RightFoot,9570,Manchester United,Cardiff,0,2,2019-05-12 14:00:00,Antonio Valencia,Pass,553
+310295,6,SavedShot,0.8280000305175781,0.639000015258789,0.04247729852795601,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11652,Manchester United,Chelsea,4,0,2019-08-11 16:30:00,,None,553
+310298,21,BlockedShot,0.865999984741211,0.6409999847412109,0.08496689796447754,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11652,Manchester United,Chelsea,4,0,2019-08-11 16:30:00,Paul Pogba,HeadPass,553
+310299,29,MissedShots,0.7719999694824219,0.63,0.03156869858503342,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11652,Manchester United,Chelsea,4,0,2019-08-11 16:30:00,Jesse Lingard,Pass,553
+310311,64,Goal,0.9619999694824218,0.5329999923706055,0.6098459959030151,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11652,Manchester United,Chelsea,4,0,2019-08-11 16:30:00,Andreas Pereira,Cross,553
+311295,26,Goal,0.915,0.605999984741211,0.11314799636602402,Anthony Martial,a,553,OpenPlay,2019,LeftFoot,11662,Wolverhampton Wanderers,Manchester United,1,1,2019-08-19 20:00:00,Marcus Rashford,Pass,553
+312580,16,BlockedShot,0.8969999694824219,0.5640000152587891,0.12522199749946594,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,Luke Shaw,Pass,553
+312582,23,BlockedShot,0.8130000305175781,0.56,0.05931700021028519,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,Paul Pogba,Pass,553
+312593,54,MissedShots,0.8580000305175781,0.455,0.10821100324392319,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,Scott McTominay,TakeOn,553
+328036,19,SavedShot,0.9819999694824219,0.5,0.661408007144928,Anthony Martial,a,553,FromCorner,2019,Head,11739,Norwich,Manchester United,1,3,2019-10-27 16:30:00,Marcus Rashford,Pass,553
+328045,43,SavedShot,0.885,0.5,0.7611690163612366,Anthony Martial,a,553,Penalty,2019,RightFoot,11739,Norwich,Manchester United,1,3,2019-10-27 16:30:00,,Standard,553
+328051,52,SavedShot,0.895,0.5940000152587891,0.46431100368499756,Anthony Martial,a,553,OpenPlay,2019,LeftFoot,11739,Norwich,Manchester United,1,3,2019-10-27 16:30:00,,None,553
+328058,72,Goal,0.9630000305175781,0.5970000076293945,0.44823500514030457,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11739,Norwich,Manchester United,1,3,2019-10-27 16:30:00,Marcus Rashford,Pass,553
+328892,6,SavedShot,0.7330000305175781,0.575,0.01914059929549694,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11745,Bournemouth,Manchester United,1,0,2019-11-02 12:30:00,Scott McTominay,Pass,553
+331319,48,BlockedShot,0.8419999694824218,0.6459999847412109,0.07341930270195007,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,Marcus Rashford,Pass,553
+331321,54,BlockedShot,0.8069999694824219,0.6480000305175782,0.05585069954395294,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,Andreas Pereira,Pass,553
+331335,85,SavedShot,0.7980000305175782,0.61,0.05134030058979988,Anthony Martial,h,553,OpenPlay,2019,LeftFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,Aaron Wan-Bissaka,TakeOn,553
+333035,28,SavedShot,0.8669999694824219,0.710999984741211,0.03672410175204277,Anthony Martial,a,553,OpenPlay,2019,LeftFoot,11770,Sheffield United,Manchester United,3,3,2019-11-24 16:30:00,Brandon Williams,Pass,553
+333041,63,MissedShots,0.7340000152587891,0.675,0.010150300338864326,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11770,Sheffield United,Manchester United,3,3,2019-11-24 16:30:00,Jesse Lingard,Pass,553
+334493,21,SavedShot,0.8919999694824219,0.3120000076293945,0.05068109929561615,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Fred,Pass,553
+334500,49,BlockedShot,0.7759999847412109,0.44,0.03048730082809925,Anthony Martial,h,553,OpenPlay,2019,LeftFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Andreas Pereira,Pass,553
+334503,57,SavedShot,0.9,0.3920000076293945,0.11581099778413773,Anthony Martial,h,553,OpenPlay,2019,LeftFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,,TakeOn,553
+334510,75,BlockedShot,0.8119999694824219,0.38,0.04335249960422516,Anthony Martial,h,553,OpenPlay,2019,LeftFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Daniel James,Pass,553
+334511,77,MissedShots,0.9669999694824218,0.545,0.5664809942245483,Anthony Martial,h,553,OpenPlay,2019,LeftFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,,BallTouch,553
+335820,15,SavedShot,0.86,0.3340000152587891,0.05028599873185158,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,Daniel James,Pass,553
+335827,28,Goal,0.8680000305175781,0.38799999237060545,0.10561899840831757,Anthony Martial,a,553,OpenPlay,2019,LeftFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,Daniel James,Pass,553
+335835,57,BlockedShot,0.795,0.67,0.057214200496673584,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,Aaron Wan-Bissaka,Chipped,553
+337474,64,BlockedShot,0.7930000305175782,0.610999984741211,0.03504829853773117,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11809,Manchester United,Everton,1,1,2019-12-15 14:00:00,Jesse Lingard,Pass,553
+339187,5,MissedShots,0.850999984741211,0.41,0.08241190016269684,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Daniel James,Pass,553
+339200,66,BlockedShot,0.8859999847412109,0.6940000152587891,0.0442500002682209,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Luke Shaw,Pass,553
+339213,90,SavedShot,0.8719999694824219,0.6880000305175781,0.07243549823760986,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Fred,TakeOn,553
+339652,23,Goal,0.8580000305175781,0.6819999694824219,0.04489289969205856,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Andreas Pereira,Pass,553
+339662,50,Goal,0.865999984741211,0.46099998474121096,0.4535369873046875,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,,None,553
+339665,60,ShotOnPost,0.745999984741211,0.4540000152587891,0.03633610159158707,Anthony Martial,h,553,OpenPlay,2019,LeftFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Paul Pogba,Pass,553
+339887,25,BlockedShot,0.805,0.275,0.024552099406719208,Anthony Martial,a,553,OpenPlay,2019,LeftFoot,11835,Burnley,Manchester United,0,2,2019-12-28 19:45:00,Andreas Pereira,Pass,553
+339890,33,BlockedShot,0.925,0.57,0.4166170060634613,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11835,Burnley,Manchester United,0,2,2019-12-28 19:45:00,,Rebound,553
+339892,43,Goal,0.8969999694824219,0.4329999923706055,0.37005001306533813,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11835,Burnley,Manchester United,0,2,2019-12-28 19:45:00,Andreas Pereira,Pass,553
+339894,54,SavedShot,0.8640000152587891,0.3370000076293945,0.12944799661636353,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11835,Burnley,Manchester United,0,2,2019-12-28 19:45:00,Andreas Pereira,Throughball,553
+351682,28,BlockedShot,0.855999984741211,0.49900001525878906,0.11453799903392792,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11862,Manchester United,Norwich,4,0,2020-01-11 15:00:00,Andreas Pereira,Pass,553
+351688,53,Goal,0.9219999694824219,0.519000015258789,0.32103899121284485,Anthony Martial,h,553,FromCorner,2019,Head,11862,Manchester United,Norwich,4,0,2020-01-11 15:00:00,Juan Mata,Cross,553
+351689,55,BlockedShot,0.909000015258789,0.4909999847412109,0.14559200406074524,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11862,Manchester United,Norwich,4,0,2020-01-11 15:00:00,Andreas Pereira,Pass,553
+352078,39,MissedShots,0.825999984741211,0.6780000305175782,0.03612719848752022,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11865,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,Fred,Pass,553
+352090,58,MissedShots,0.8809999847412109,0.639000015258789,0.30322200059890747,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11865,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,Andreas Pereira,Pass,553
+352092,66,SavedShot,0.7319999694824219,0.5670000076293945,0.018768299371004105,Anthony Martial,a,553,OpenPlay,2019,LeftFoot,11865,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,Fred,Pass,553
+352301,15,MissedShots,0.91,0.4620000076293945,0.13571800291538239,Anthony Martial,h,553,OpenPlay,2019,LeftFoot,11879,Manchester United,Burnley,0,2,2020-01-22 20:15:00,Aaron Wan-Bissaka,Pass,553
+352307,32,MissedShots,0.905,0.505,0.11498700082302094,Anthony Martial,h,553,OpenPlay,2019,LeftFoot,11879,Manchester United,Burnley,0,2,2020-01-22 20:15:00,,Dispossessed,553
+352317,73,SavedShot,0.755,0.67,0.01398990023881197,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11879,Manchester United,Burnley,0,2,2020-01-22 20:15:00,Juan Mata,LayOff,553
+352319,77,SavedShot,0.8719999694824219,0.625,0.08239620178937912,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11879,Manchester United,Burnley,0,2,2020-01-22 20:15:00,Nemanja Matic,Pass,553
+352323,84,MissedShots,0.755,0.7169999694824218,0.012297400273382664,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11879,Manchester United,Burnley,0,2,2020-01-22 20:15:00,Mason Greenwood,Pass,553
+352852,20,BlockedShot,0.8580000305175781,0.7,0.03806009888648987,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11896,Chelsea,Manchester United,0,2,2020-02-17 20:00:00,Daniel James,Pass,553
+352858,36,MissedShots,0.860999984741211,0.6869999694824219,0.049377698451280594,Anthony Martial,a,553,OpenPlay,2019,LeftFoot,11896,Chelsea,Manchester United,0,2,2020-02-17 20:00:00,Bruno Fernandes,Pass,553
+352859,44,Goal,0.9159999847412109,0.4520000076293945,0.054213400930166245,Anthony Martial,a,553,OpenPlay,2019,Head,11896,Chelsea,Manchester United,0,2,2020-02-17 20:00:00,Aaron Wan-Bissaka,Aerial,553
+353062,27,MissedShots,0.825999984741211,0.5940000152587891,0.07853150367736816,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11910,Manchester United,Watford,3,0,2020-02-23 14:00:00,Fred,Pass,553
+353071,57,Goal,0.9390000152587891,0.6840000152587891,0.09790290147066116,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11910,Manchester United,Watford,3,0,2020-02-23 14:00:00,,TakeOn,553
+353070,57,SavedShot,0.9030000305175782,0.674000015258789,0.32093098759651184,Anthony Martial,h,553,OpenPlay,2019,LeftFoot,11910,Manchester United,Watford,3,0,2020-02-23 14:00:00,Bruno Fernandes,Throughball,553
+353340,9,MissedShots,0.8380000305175781,0.555,0.06904260069131851,Anthony Martial,a,553,OpenPlay,2019,LeftFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Luke Shaw,Pass,553
+353346,28,BlockedShot,0.8209999847412109,0.6869999694824219,0.02874559909105301,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11916,Everton,Manchester United,1,1,2020-03-01 14:00:00,Nemanja Matic,Pass,553
+353573,21,BlockedShot,0.8780000305175781,0.629000015258789,0.12167099863290787,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11932,Manchester United,Manchester City,2,0,2020-03-08 16:30:00,Brandon Williams,Throughball,553
+353575,26,SavedShot,0.8909999847412109,0.6719999694824219,0.022300399839878082,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11932,Manchester United,Manchester City,2,0,2020-03-08 16:30:00,,Aerial,553
+353576,29,Goal,0.9009999847412109,0.6509999847412109,0.10550300031900406,Anthony Martial,h,553,SetPiece,2019,RightFoot,11932,Manchester United,Manchester City,2,0,2020-03-08 16:30:00,Bruno Fernandes,Throughball,553
+353579,48,SavedShot,0.9840000152587891,0.4829999923706055,0.9324690103530884,Anthony Martial,h,553,OpenPlay,2019,LeftFoot,11932,Manchester United,Manchester City,2,0,2020-03-08 16:30:00,,None,553
+365111,63,BlockedShot,0.9009999847412109,0.40599998474121096,0.33688199520111084,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11936,Tottenham,Manchester United,1,1,2020-06-19 19:15:00,Bruno Fernandes,Pass,553
+365112,65,SavedShot,0.8780000305175781,0.575,0.09064479917287827,Anthony Martial,a,553,OpenPlay,2019,LeftFoot,11936,Tottenham,Manchester United,1,1,2020-06-19 19:15:00,Luke Shaw,Pass,553
+366289,6,Goal,0.9740000152587891,0.4370000076293945,0.5349519848823547,Anthony Martial,h,553,OpenPlay,2019,LeftFoot,11950,Manchester United,Sheffield United,3,0,2020-06-24 17:00:00,Marcus Rashford,Cross,553
+366296,43,Goal,0.915,0.45099998474121095,0.3499079942703247,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11950,Manchester United,Sheffield United,3,0,2020-06-24 17:00:00,Aaron Wan-Bissaka,Cross,553
+366300,60,MissedShots,0.8390000152587891,0.4829999923706055,0.10987800359725952,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11950,Manchester United,Sheffield United,3,0,2020-06-24 17:00:00,Paul Pogba,Pass,553
+366303,73,Goal,0.93,0.5720000076293945,0.5650219917297363,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11950,Manchester United,Sheffield United,3,0,2020-06-24 17:00:00,Marcus Rashford,Throughball,553
+368563,46,Goal,0.8180000305175781,0.7380000305175781,0.028846999630331993,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11967,Manchester United,Bournemouth,5,2,2020-07-04 14:00:00,Bruno Fernandes,Pass,553
+368570,72,BlockedShot,0.8080000305175781,0.5,0.07359089702367783,Anthony Martial,h,553,OpenPlay,2019,LeftFoot,11967,Manchester United,Bournemouth,5,2,2020-07-04 14:00:00,Luke Shaw,Pass,553
+368571,78,BlockedShot,0.9330000305175781,0.3170000076293945,0.07571329921483994,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11967,Manchester United,Bournemouth,5,2,2020-07-04 14:00:00,Paul Pogba,Pass,553
+370219,34,SavedShot,0.835999984741211,0.66,0.05157490074634552,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11974,Aston Villa,Manchester United,0,3,2020-07-09 19:15:00,Mason Greenwood,Pass,553
+370229,60,ShotOnPost,0.9459999847412109,0.6619999694824219,0.13868199288845062,Anthony Martial,a,553,OpenPlay,2019,LeftFoot,11974,Aston Villa,Manchester United,0,3,2020-07-09 19:15:00,Bruno Fernandes,Throughball,553
+371237,9,SavedShot,0.8580000305175781,0.38599998474121094,0.2574859857559204,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11987,Manchester United,Southampton,2,2,2020-07-13 19:00:00,,TakeOn,553
+371241,22,Goal,0.860999984741211,0.624000015258789,0.09801729768514633,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11987,Manchester United,Southampton,2,2,2020-07-13 19:00:00,Bruno Fernandes,TakeOn,553
+371243,32,MissedShots,0.8030000305175782,0.5159999847412109,0.0670401006937027,Anthony Martial,h,553,OpenPlay,2019,LeftFoot,11987,Manchester United,Southampton,2,2,2020-07-13 19:00:00,Paul Pogba,Pass,553
+371249,79,MissedShots,0.8190000152587891,0.5459999847412109,0.08506400138139725,Anthony Martial,h,553,OpenPlay,2019,RightFoot,11987,Manchester United,Southampton,2,2,2020-07-13 19:00:00,,TakeOn,553
+372197,77,Goal,0.9080000305175782,0.5770000076293945,0.43037599325180054,Anthony Martial,a,553,OpenPlay,2019,RightFoot,11996,Crystal Palace,Manchester United,0,2,2020-07-16 19:15:00,Marcus Rashford,Pass,553
+373253,1,SavedShot,0.925,0.32799999237060545,0.06337379664182663,Anthony Martial,h,553,OpenPlay,2019,RightFoot,12007,Manchester United,West Ham,1,1,2020-07-22 17:00:00,Bruno Fernandes,Pass,553
+373255,17,MissedShots,0.730999984741211,0.5259999847412109,0.02094089984893799,Anthony Martial,h,553,OpenPlay,2019,RightFoot,12007,Manchester United,West Ham,1,1,2020-07-22 17:00:00,Nemanja Matic,Pass,553
+373267,53,BlockedShot,0.86,0.37400001525878906,0.07397890090942383,Anthony Martial,h,553,OpenPlay,2019,RightFoot,12007,Manchester United,West Ham,1,1,2020-07-22 17:00:00,Aaron Wan-Bissaka,Pass,553
+373838,45,BlockedShot,0.855,0.5940000152587891,0.08508480340242386,Anthony Martial,a,553,OpenPlay,2019,LeftFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Bruno Fernandes,Pass,553
+377649,90,BlockedShot,0.775,0.7230000305175781,0.014051600359380245,Anthony Martial,h,553,OpenPlay,2020,RightFoot,14098,Manchester United,Crystal Palace,1,3,2020-09-19 16:30:00,Bruno Fernandes,Pass,553
+378656,74,BlockedShot,0.895,0.644000015258789,0.06069279834628105,Anthony Martial,a,553,SetPiece,2020,RightFoot,14106,Brighton,Manchester United,2,3,2020-09-26 11:30:00,,None,553
+385783,15,MissedShots,0.895,0.555,0.2913680076599121,Anthony Martial,a,553,FromCorner,2020,LeftFoot,14509,Everton,Manchester United,1,3,2020-11-07 12:30:00,Fred,Chipped,553
+387633,1,SavedShot,0.9080000305175782,0.41,0.021087300032377243,Anthony Martial,h,553,SetPiece,2020,Head,14520,Manchester United,West Bromwich Albion,1,0,2020-11-21 20:00:00,Juan Mata,Aerial,553
+387634,15,SavedShot,0.8930000305175781,0.5420000076293945,0.4133549928665161,Anthony Martial,h,553,OpenPlay,2020,RightFoot,14520,Manchester United,West Bromwich Albion,1,0,2020-11-21 20:00:00,Bruno Fernandes,Pass,553
+387637,34,BlockedShot,0.7819999694824219,0.5970000076293945,0.03633660078048706,Anthony Martial,h,553,OpenPlay,2020,RightFoot,14520,Manchester United,West Bromwich Albion,1,0,2020-11-21 20:00:00,Victor Lindelöf,TakeOn,553
+387656,91,BlockedShot,0.8619999694824219,0.519000015258789,0.11105400323867798,Anthony Martial,h,553,OpenPlay,2020,LeftFoot,14520,Manchester United,West Bromwich Albion,1,0,2020-11-21 20:00:00,Aaron Wan-Bissaka,Pass,553
+390356,17,BlockedShot,0.785,0.38799999237060545,0.029502900317311287,Anthony Martial,a,553,OpenPlay,2020,RightFoot,14544,West Ham,Manchester United,1,3,2020-12-05 17:30:00,Aaron Wan-Bissaka,Pass,553
+390366,43,SavedShot,0.8540000152587891,0.6909999847412109,0.0361034981906414,Anthony Martial,a,553,OpenPlay,2020,RightFoot,14544,West Ham,Manchester United,1,3,2020-12-05 17:30:00,Alex Telles,Pass,553
+393712,26,SavedShot,0.725,0.645,0.01467750035226345,Anthony Martial,a,553,OpenPlay,2020,RightFoot,14560,Sheffield United,Manchester United,2,3,2020-12-17 20:00:00,Paul Pogba,Pass,553
+393714,32,Goal,0.9630000305175781,0.38299999237060545,0.34264999628067017,Anthony Martial,a,553,OpenPlay,2020,RightFoot,14560,Sheffield United,Manchester United,2,3,2020-12-17 20:00:00,,None,553
+393720,47,MissedShots,0.8640000152587891,0.5,0.03317299857735634,Anthony Martial,a,553,SetPiece,2020,Head,14560,Sheffield United,Manchester United,2,3,2020-12-17 20:00:00,Alex Telles,Cross,553
+393727,74,BlockedShot,0.8919999694824219,0.49700000762939456,0.5206559896469116,Anthony Martial,a,553,OpenPlay,2020,RightFoot,14560,Sheffield United,Manchester United,2,3,2020-12-17 20:00:00,,None,553
+394684,36,MissedShots,0.9259999847412109,0.5990000152587891,0.015959100797772408,Anthony Martial,h,553,FromCorner,2020,Head,14570,Manchester United,Leeds,6,2,2020-12-20 16:30:00,Luke Shaw,Aerial,553
+394691,46,MissedShots,0.9059999847412109,0.5429999923706055,0.3271630108356476,Anthony Martial,h,553,OpenPlay,2020,RightFoot,14570,Manchester United,Leeds,6,2,2020-12-20 16:30:00,Bruno Fernandes,TakeOn,553
+394698,60,MissedShots,0.9790000152587891,0.6659999847412109,0.04726880043745041,Anthony Martial,h,553,FromCorner,2020,LeftFoot,14570,Manchester United,Leeds,6,2,2020-12-20 16:30:00,Daniel James,HeadPass,553
+394702,71,SavedShot,0.8809999847412109,0.585999984741211,0.6068980097770691,Anthony Martial,h,553,OpenPlay,2020,RightFoot,14570,Manchester United,Leeds,6,2,2020-12-20 16:30:00,Scott McTominay,TakeOn,553
+395599,5,SavedShot,0.7669999694824219,0.5270000076293946,0.028265099972486496,Anthony Martial,a,553,OpenPlay,2020,RightFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,Luke Shaw,Pass,553
+395610,59,MissedShots,0.87,0.534000015258789,0.11106300354003906,Anthony Martial,a,553,OpenPlay,2020,LeftFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,Bruno Fernandes,Pass,553
+395997,76,MissedShots,0.8009999847412109,0.515,0.051414500921964645,Anthony Martial,h,553,OpenPlay,2020,RightFoot,14592,Manchester United,Wolverhampton Wanderers,1,0,2020-12-29 20:00:00,Paul Pogba,Pass,553
+396239,9,SavedShot,0.8119999694824219,0.5509999847412109,0.054713599383831024,Anthony Martial,h,553,OpenPlay,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Bruno Fernandes,Pass,553
+396251,39,Goal,0.9330000305175781,0.44299999237060544,0.36964499950408936,Anthony Martial,h,553,OpenPlay,2020,Head,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Aaron Wan-Bissaka,Cross,553
+396259,70,SavedShot,0.9219999694824219,0.6809999847412109,0.0875110998749733,Anthony Martial,h,553,OpenPlay,2020,LeftFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Bruno Fernandes,Pass,553
+398632,19,BlockedShot,0.8859999847412109,0.5220000076293946,0.09373009949922562,Anthony Martial,a,553,OpenPlay,2020,RightFoot,14088,Burnley,Manchester United,0,1,2021-01-12 22:15:00,Bruno Fernandes,Cross,553
+398634,24,MissedShots,0.86,0.515,0.10312499850988388,Anthony Martial,a,553,OpenPlay,2020,LeftFoot,14088,Burnley,Manchester United,0,1,2021-01-12 22:15:00,Nemanja Matic,Pass,553
+398636,44,SavedShot,0.7569999694824219,0.645,0.019707899540662766,Anthony Martial,a,553,OpenPlay,2020,RightFoot,14088,Burnley,Manchester United,0,1,2021-01-12 22:15:00,Edinson Cavani,Pass,553
+398644,81,BlockedShot,0.9119999694824219,0.4209999847412109,0.13291099667549133,Anthony Martial,a,553,OpenPlay,2020,RightFoot,14088,Burnley,Manchester United,0,1,2021-01-12 22:15:00,Paul Pogba,Pass,553
+398650,93,SavedShot,0.870999984741211,0.40400001525878904,0.3807480037212372,Anthony Martial,a,553,OpenPlay,2020,RightFoot,14088,Burnley,Manchester United,0,1,2021-01-12 22:15:00,Edinson Cavani,Chipped,553
+400112,28,MissedShots,0.950999984741211,0.5770000076293945,0.23237599432468414,Anthony Martial,a,553,OpenPlay,2020,OtherBodyPart,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Aaron Wan-Bissaka,Foul,553
+400116,42,MissedShots,0.9130000305175782,0.519000015258789,0.053711898624897,Anthony Martial,a,553,OpenPlay,2020,Head,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Luke Shaw,Aerial,553
+400123,63,SavedShot,0.8980000305175782,0.5459999847412109,0.049125801771879196,Anthony Martial,a,553,OpenPlay,2020,Head,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Bruno Fernandes,Chipped,553
+401348,40,SavedShot,0.9330000305175781,0.485,0.07212559878826141,Anthony Martial,h,553,OpenPlay,2020,Head,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,Bruno Fernandes,Pass,553
+401838,45,BlockedShot,0.8809999847412109,0.580999984741211,0.03085310012102127,Anthony Martial,a,553,FromCorner,2020,RightFoot,14635,Arsenal,Manchester United,0,0,2021-01-30 17:30:00,,Aerial,553
+402481,50,BlockedShot,0.9359999847412109,0.615999984741211,0.12266600131988525,Anthony Martial,h,553,OpenPlay,2020,RightFoot,14651,Manchester United,Southampton,9,0,2021-02-02 20:15:00,Bruno Fernandes,Pass,553
+402485,68,Goal,0.975999984741211,0.40099998474121096,0.3521620035171509,Anthony Martial,h,553,OpenPlay,2020,RightFoot,14651,Manchester United,Southampton,9,0,2021-02-02 20:15:00,Bruno Fernandes,Chipped,553
+402489,73,MissedShots,0.8719999694824219,0.6990000152587891,0.3469949960708618,Anthony Martial,h,553,OpenPlay,2020,RightFoot,14651,Manchester United,Southampton,9,0,2021-02-02 20:15:00,Fred,Throughball,553
+402493,89,Goal,0.9440000152587891,0.54,0.6101189851760864,Anthony Martial,h,553,OpenPlay,2020,RightFoot,14651,Manchester United,Southampton,9,0,2021-02-02 20:15:00,,None,553
+402494,91,MissedShots,0.9159999847412109,0.549000015258789,0.045762501657009125,Anthony Martial,h,553,OpenPlay,2020,Head,14651,Manchester United,Southampton,9,0,2021-02-02 20:15:00,Mason Greenwood,Aerial,553
+406207,59,SavedShot,0.8880000305175781,0.325,0.10947500169277191,Anthony Martial,h,553,OpenPlay,2020,RightFoot,14681,Manchester United,Newcastle United,3,1,2021-02-21 19:00:00,Fred,TakeOn,553
+409120,46,BlockedShot,0.855,0.6719999694824219,0.058110401034355164,Anthony Martial,a,553,OpenPlay,2020,RightFoot,14700,Manchester City,Manchester United,0,2,2021-03-07 16:30:00,Bruno Fernandes,Pass,553
+409125,57,SavedShot,0.955999984741211,0.5309999847412109,0.5308340191841125,Anthony Martial,a,553,OpenPlay,2020,Head,14700,Manchester City,Manchester United,0,2,2021-03-07 16:30:00,,None,553
+409127,67,SavedShot,0.9080000305175782,0.4929999923706055,0.4365040063858032,Anthony Martial,a,553,OpenPlay,2020,RightFoot,14700,Manchester City,Manchester United,0,2,2021-03-07 16:30:00,Scott McTominay,BallTouch,553
+427516,6,BlockedShot,0.9580000305175781,0.5270000076293946,0.6479290127754211,Anthony Martial,a,553,SetPiece,2021,Head,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,,Aerial,553
+434646,5,MissedShots,0.9669999694824218,0.5820000076293945,0.32471999526023865,Anthony Martial,h,553,OpenPlay,2021,Head,16442,Manchester United,Everton,1,1,2021-10-02 11:30:00,Aaron Wan-Bissaka,Cross,553
+434656,42,Goal,0.8980000305175782,0.6680000305175782,0.07410690188407898,Anthony Martial,h,553,OpenPlay,2021,RightFoot,16442,Manchester United,Everton,1,1,2021-10-02 11:30:00,Bruno Fernandes,Pass,553
+434657,45,SavedShot,0.764000015258789,0.6719999694824219,0.01898379996418953,Anthony Martial,h,553,OpenPlay,2021,RightFoot,16442,Manchester United,Everton,1,1,2021-10-02 11:30:00,Edinson Cavani,Pass,553
+454645,91,MissedShots,0.865,0.5609999847412109,0.10253699868917465,Anthony Martial,h,553,OpenPlay,2021,LeftFoot,16603,Manchester United,West Ham,1,0,2022-01-22 15:00:00,Bruno Fernandes,Pass,553
+456798,80,MissedShots,0.715999984741211,0.49900001525878906,0.050941500812768936,Anthony Martial,h,553,DirectFreekick,2021,RightFoot,17373,Sevilla,Elche,2,0,2022-02-11 20:00:00,,Standard,553
+462878,93,SavedShot,0.8369999694824218,0.7440000152587891,0.01696470007300377,Anthony Martial,a,553,SetPiece,2021,RightFoot,17414,Rayo Vallecano,Sevilla,1,1,2022-03-13 13:00:00,,None,553
+464746,28,MissedShots,0.7380000305175781,0.6719999694824219,0.021235499531030655,Anthony Martial,h,553,OpenPlay,2021,RightFoot,17423,Sevilla,Real Sociedad,0,0,2022-03-20 17:30:00,Munir,Pass,553
+466148,33,BlockedShot,0.735999984741211,0.6140000152587891,0.019683800637722015,Anthony Martial,a,553,OpenPlay,2021,LeftFoot,17428,Barcelona,Sevilla,1,0,2022-04-03 19:00:00,Erik Lamela,Pass,553
+466162,70,SavedShot,0.8440000152587891,0.39299999237060546,0.04539180174469948,Anthony Martial,a,553,OpenPlay,2021,LeftFoot,17428,Barcelona,Sevilla,1,0,2022-04-03 19:00:00,Joan Jordán,Pass,553
+468967,8,MissedShots,0.8419999694824218,0.5770000076293945,0.06417179852724075,Anthony Martial,h,553,OpenPlay,2021,RightFoot,17453,Sevilla,Real Madrid,2,3,2022-04-17 19:00:00,Joan Jordán,Pass,553
+475192,89,SavedShot,0.9640000152587891,0.40200000762939453,0.29722100496292114,Anthony Martial,h,553,OpenPlay,2021,RightFoot,17492,Sevilla,Mallorca,0,0,2022-05-11 18:30:00,Alejandro Gomez,Chipped,553
+490658,83,Goal,0.9580000305175781,0.504000015258789,0.6760339736938477,Anthony Martial,a,553,OpenPlay,2022,Head,18289,Manchester City,Manchester United,6,3,2022-10-02 13:00:00,,Rebound,553
+490663,90,Goal,0.885,0.5,0.7611690163612366,Anthony Martial,a,553,Penalty,2022,RightFoot,18289,Manchester City,Manchester United,6,3,2022-10-02 13:00:00,,Standard,553
+500820,29,SavedShot,0.88,0.5570000076293945,0.40804699063301086,Anthony Martial,a,553,OpenPlay,2022,LeftFoot,18354,Fulham,Manchester United,1,2,2022-11-13 16:30:00,Bruno Fernandes,Pass,553
+500822,39,MissedShots,0.9309999847412109,0.49700000762939456,0.44575899839401245,Anthony Martial,a,553,OpenPlay,2022,Head,18354,Fulham,Manchester United,1,2,2022-11-13 16:30:00,Luke Shaw,Cross,553
+500827,49,SavedShot,0.7859999847412109,0.649000015258789,0.03590629994869232,Anthony Martial,a,553,OpenPlay,2022,LeftFoot,18354,Fulham,Manchester United,1,2,2022-11-13 16:30:00,Christian Eriksen,Pass,553
+501103,22,Goal,0.84,0.46799999237060547,0.12394099682569504,Anthony Martial,h,553,OpenPlay,2022,RightFoot,18370,Manchester United,Nottingham Forest,3,0,2022-12-27 20:00:00,Marcus Rashford,Pass,553
+501110,59,SavedShot,0.92,0.63,0.4565570056438446,Anthony Martial,h,553,OpenPlay,2022,LeftFoot,18370,Manchester United,Nottingham Forest,3,0,2022-12-27 20:00:00,Bruno Fernandes,Throughball,553
+501636,29,BlockedShot,0.88,0.4470000076293945,0.11578500270843506,Anthony Martial,a,553,OpenPlay,2022,LeftFoot,18381,Wolverhampton Wanderers,Manchester United,0,1,2022-12-31 12:30:00,Bruno Fernandes,Pass,553
+501640,45,MissedShots,0.95,0.5220000076293946,0.4894860088825226,Anthony Martial,a,553,OpenPlay,2022,Head,18381,Wolverhampton Wanderers,Manchester United,0,1,2022-12-31 12:30:00,,None,553
+502222,10,MissedShots,0.8859999847412109,0.5670000076293945,0.04955970123410225,Anthony Martial,h,553,OpenPlay,2022,Head,18390,Manchester United,Bournemouth,3,0,2023-01-03 20:00:00,Luke Shaw,Cross,553
+502231,54,MissedShots,0.955,0.539000015258789,0.5337740182876587,Anthony Martial,h,553,OpenPlay,2022,Head,18390,Manchester United,Bournemouth,3,0,2023-01-03 20:00:00,Casemiro,Aerial,553
+503449,33,BlockedShot,0.8909999847412109,0.5690000152587891,0.027037499472498894,Anthony Martial,h,553,OpenPlay,2022,Head,18397,Manchester United,Manchester City,2,1,2023-01-14 12:30:00,Casemiro,Aerial,553
+517115,81,BlockedShot,0.87,0.365,0.05999169871211052,Anthony Martial,a,553,OpenPlay,2022,LeftFoot,18489,Newcastle United,Manchester United,2,0,2023-04-02 15:30:00,Bruno Fernandes,Chipped,553
+517773,70,Goal,0.909000015258789,0.4759999847412109,0.48354899883270264,Anthony Martial,h,553,OpenPlay,2022,RightFoot,18498,Manchester United,Everton,2,0,2023-04-08 11:30:00,Marcus Rashford,Pass,553
+520182,31,SavedShot,0.899000015258789,0.6120000076293945,0.3396509885787964,Anthony Martial,a,553,OpenPlay,2022,LeftFoot,18507,Nottingham Forest,Manchester United,0,2,2023-04-16 15:30:00,Bruno Fernandes,Throughball,553
+520196,70,MissedShots,0.9369999694824219,0.5570000076293945,0.37442898750305176,Anthony Martial,a,553,OpenPlay,2022,Head,18507,Nottingham Forest,Manchester United,0,2,2023-04-16 15:30:00,Casemiro,Cross,553
+524298,32,MissedShots,0.8080000305175781,0.295,0.024530811235308647,Anthony Martial,a,553,OpenPlay,2022,RightFoot,18475,Brighton,Manchester United,1,0,2023-05-04 19:00:00,Antony,Pass,553
+524301,38,SavedShot,0.89,0.649000015258789,0.1182355061173439,Anthony Martial,a,553,OpenPlay,2022,LeftFoot,18475,Brighton,Manchester United,1,0,2023-05-04 19:00:00,Fred,Throughball,553
+525283,90,SavedShot,0.93,0.3870000076293945,0.09501152485609055,Anthony Martial,a,553,OpenPlay,2022,RightFoot,18550,West Ham,Manchester United,1,0,2023-05-07 18:00:00,Marcus Rashford,Pass,553
+525284,91,MissedShots,0.97,0.42400001525878905,0.331400990486145,Anthony Martial,a,553,FromCorner,2022,Head,18550,West Ham,Manchester United,1,0,2023-05-07 18:00:00,Bruno Fernandes,Cross,553
+526025,29,BlockedShot,0.9,0.615999984741211,0.10099560022354126,Anthony Martial,h,553,OpenPlay,2022,LeftFoot,18560,Manchester United,Wolverhampton Wanderers,2,0,2023-05-13 14:00:00,Jadon Sancho,Pass,553
+526028,31,Goal,0.914000015258789,0.54,0.45960864424705505,Anthony Martial,h,553,OpenPlay,2022,RightFoot,18560,Manchester United,Wolverhampton Wanderers,2,0,2023-05-13 14:00:00,Antony,Pass,553
+526032,45,SavedShot,0.78,0.6419999694824219,0.04888048395514488,Anthony Martial,h,553,OpenPlay,2022,RightFoot,18560,Manchester United,Wolverhampton Wanderers,2,0,2023-05-13 14:00:00,Antony,Pass,553
+527420,16,BlockedShot,0.8019999694824219,0.7130000305175781,0.02903512492775917,Anthony Martial,a,553,OpenPlay,2022,RightFoot,18562,Bournemouth,Manchester United,0,1,2023-05-20 14:00:00,Bruno Fernandes,Pass,553
+527428,36,MissedShots,0.8119999694824219,0.6619999694824219,0.034837350249290466,Anthony Martial,a,553,OpenPlay,2022,RightFoot,18562,Bournemouth,Manchester United,0,1,2023-05-20 14:00:00,Jadon Sancho,Pass,553
+527435,55,BlockedShot,0.909000015258789,0.6469999694824219,0.08775842189788818,Anthony Martial,a,553,OpenPlay,2022,RightFoot,18562,Bournemouth,Manchester United,0,1,2023-05-20 14:00:00,Bruno Fernandes,CornerAwarded,553
+528730,50,Goal,0.9569999694824218,0.5590000152587891,0.6171411275863647,Anthony Martial,h,553,OpenPlay,2022,LeftFoot,18520,Manchester United,Chelsea,4,1,2023-05-25 19:00:00,Jadon Sancho,Pass,553
+534735,29,BlockedShot,0.9330000305175781,0.32799999237060545,0.06620804965496063,Anthony Martial,h,553,OpenPlay,2023,RightFoot,22300,Manchester United,Nottingham Forest,3,2,2023-08-26 14:00:00,Antony,Pass,553
+536994,53,SavedShot,0.93,0.68,0.06190140172839165,Anthony Martial,a,553,OpenPlay,2023,LeftFoot,21934,Arsenal,Manchester United,3,1,2023-09-03 15:30:00,Bruno Fernandes,Pass,553
+542731,95,SavedShot,0.89,0.6079999923706054,0.07613110542297363,Anthony Martial,h,553,OpenPlay,2023,RightFoot,21972,Manchester United,Brentford,2,1,2023-10-07 14:00:00,,None,553
+546591,83,MissedShots,0.93,0.52,0.12797632813453674,Anthony Martial,a,553,OpenPlay,2023,LeftFoot,21998,Fulham,Manchester United,0,1,2023-11-04 12:30:00,Diogo Dalot,Cross,553
+550502,74,Goal,0.9069999694824219,0.4759999847412109,0.687644898891449,Anthony Martial,a,553,OpenPlay,2023,RightFoot,22017,Everton,Manchester United,0,3,2023-11-26 16:30:00,Bruno Fernandes,Throughball,553
+552909,35,SavedShot,0.7969999694824219,0.6129999923706054,0.03687728941440582,Anthony Martial,h,553,OpenPlay,2023,LeftFoot,22051,Manchester United,Bournemouth,0,3,2023-12-09 15:00:00,Bruno Fernandes,Pass,553

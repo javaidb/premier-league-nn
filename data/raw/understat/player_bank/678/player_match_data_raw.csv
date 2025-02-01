@@ -1,0 +1,11 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,90,GK,Arsenal,Aston Villa,4,0,2016-05-15,451,2015,57647,0,0,0,0,0,0.07361339777708054,0.07361339777708054,678
+0,0,0,90,GK,Aston Villa,Newcastle United,0,0,2016-05-07,440,2015,63629,0,0,0,0,0,0,0,678
+0,0,0,90,GK,Watford,Aston Villa,3,2,2016-04-30,430,2015,63532,0,0,0,0,0,0,0,678
+0,0,0,90,GK,Stoke,Aston Villa,2,1,2016-02-27,345,2015,66127,0,0,0,0,0,0,0,678
+0,0,0,90,GK,Aston Villa,Liverpool,0,6,2016-02-14,339,2015,60300,0,0,0,0,0,0,0,678
+0,0,0,90,GK,Aston Villa,Norwich,2,0,2016-02-06,326,2015,61591,0,0,0,0,0,0,0,678
+0,0,0,90,GK,West Ham,Aston Villa,2,0,2016-02-02,315,2015,60342,0,0,0,0,0,0,0,678
+0,0,0,90,GK,West Bromwich Albion,Aston Villa,0,0,2016-01-23,305,2015,58420,0,0,0,0,0,0.01611110009253025,0.01611110009253025,678
+0,0,0,90,GK,Aston Villa,Leicester,1,1,2016-01-16,297,2015,61509,0,0,0,0,0,0,0,678
+0,0,0,90,GK,Aston Villa,Crystal Palace,1,0,2016-01-12,282,2015,58871,0,0,0,0,0,0.0657711997628212,0.0657711997628212,678

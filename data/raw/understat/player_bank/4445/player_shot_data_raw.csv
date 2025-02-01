@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+22966,46,MissedShots,0.93,0.6040000152587891,0.3061160147190094,Reece Grego-Cox,a,4445,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,Rebound,4445

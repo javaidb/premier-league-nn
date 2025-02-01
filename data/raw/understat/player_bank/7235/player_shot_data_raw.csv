@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+525469,34,OwnGoal,0.025999999046325682,0.47,0,Jason Steele,h,7235,OpenPlay,2022,RightFoot,18543,Brighton,Everton,1,5,2023-05-08 16:30:00,,Challenge,7235

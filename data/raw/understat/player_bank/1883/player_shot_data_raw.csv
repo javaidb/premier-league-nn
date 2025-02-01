@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+312513,92,MissedShots,0.8909999847412109,0.37400001525878906,0.0266938004642725,Ravel Morrison,h,1883,FromCorner,2019,RightFoot,11665,Sheffield United,Leicester,1,2,2019-08-24 15:00:00,,Aerial,1883

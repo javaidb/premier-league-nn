@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+251743,89,SavedShot,0.7719999694824219,0.61,0.025598399341106415,Rúben Vinagre,a,6856,OpenPlay,2018,RightFoot,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,Hélder Costa,BallTouch,6856
+276151,63,SavedShot,0.8519999694824218,0.5770000076293945,0.12985700368881226,Rúben Vinagre,h,6856,OpenPlay,2018,LeftFoot,9477,Wolverhampton Wanderers,Cardiff,2,0,2019-03-02 15:00:00,Raúl Jiménez,Pass,6856
+276158,88,SavedShot,0.9119999694824219,0.705,0.2749069929122925,Rúben Vinagre,h,6856,OpenPlay,2018,LeftFoot,9477,Wolverhampton Wanderers,Cardiff,2,0,2019-03-02 15:00:00,Romain Saiss,Pass,6856
+295254,85,BlockedShot,0.7730000305175782,0.6819999694824219,0.02032729983329773,Rúben Vinagre,h,6856,FromCorner,2018,LeftFoot,9537,Wolverhampton Wanderers,Brighton,0,0,2019-04-20 15:00:00,João Moutinho,Pass,6856
+324657,26,MissedShots,0.8640000152587891,0.7269999694824218,0.033274199813604355,Rúben Vinagre,a,6856,OpenPlay,2019,LeftFoot,11716,Manchester City,Wolverhampton Wanderers,0,2,2019-10-06 14:00:00,Raúl Jiménez,Pass,6856
+339944,91,MissedShots,0.9369999694824219,0.7140000152587891,0.035034600645303726,Rúben Vinagre,a,6856,OpenPlay,2019,LeftFoot,11836,Liverpool,Wolverhampton Wanderers,1,0,2019-12-29 16:30:00,Conor Coady,Chipped,6856
+351476,81,MissedShots,0.8809999847412109,0.66,0.0679536983370781,Rúben Vinagre,a,6856,OpenPlay,2019,LeftFoot,11852,Watford,Wolverhampton Wanderers,2,1,2020-01-01 15:00:00,Diogo Jota,Pass,6856
+353104,84,BlockedShot,0.904000015258789,0.5840000152587891,0.024387700483202934,Rúben Vinagre,h,6856,OpenPlay,2019,Head,11912,Wolverhampton Wanderers,Norwich,3,0,2020-02-23 14:00:00,Matt Doherty,Aerial,6856
+353106,89,MissedShots,0.9119999694824219,0.47099998474121096,0.12720300257205963,Rúben Vinagre,h,6856,OpenPlay,2019,RightFoot,11912,Wolverhampton Wanderers,Norwich,3,0,2020-02-23 14:00:00,,None,6856
+580341,91,BlockedShot,0.67,0.639000015258789,0.011216646991670132,Rúben Vinagre,h,6856,OpenPlay,2023,LeftFoot,22659,Verona,Torino,1,2,2024-05-12 13:00:00,Ondrej Duda,Pass,6856
+583614,25,BlockedShot,0.8219999694824218,0.805,0.013150706887245178,Rúben Vinagre,h,6856,OpenPlay,2023,LeftFoot,22679,Verona,Inter,2,2,2024-05-26 18:45:00,Tijjani Noslin,Pass,6856

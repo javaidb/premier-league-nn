@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+948,Alessandro Diamanti,3,60,0,0.014098400250077248,0,0.20077699422836304,1,2,0,0,S,Watford,0,0.014098400250077248,0.18985730409622192,0.17575930058956146,2015

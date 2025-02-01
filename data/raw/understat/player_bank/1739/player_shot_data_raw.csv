@@ -1,0 +1,35 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+38426,40,MissedShots,0.9490000152587891,0.49900001525878906,0.6402279734611511,Eric Bailly,a,1739,SetPiece,2014,RightFoot,5711,Rayo Vallecano,Espanyol,1,3,2014-12-20 21:00:00,,Rebound,1739
+38425,40,SavedShot,0.965999984741211,0.544000015258789,0.09875530004501343,Eric Bailly,a,1739,SetPiece,2014,LeftFoot,5711,Rayo Vallecano,Espanyol,1,3,2014-12-20 21:00:00,Diego Colotto,HeadPass,1739
+37341,22,MissedShots,0.91,0.53,0.034577298909425735,Eric Bailly,h,1739,FromCorner,2014,Head,5481,Villarreal,Elche,1,0,2015-05-10 16:00:00,Jonathan dos Santos,Aerial,1739
+37346,32,BlockedShot,0.9009999847412109,0.47400001525878904,0.08093909919261932,Eric Bailly,h,1739,FromCorner,2014,Head,5481,Villarreal,Elche,1,0,2015-05-10 16:00:00,Manu Trigueros,Cross,1739
+85581,39,MissedShots,0.8630000305175781,0.425,0.012679800391197205,Eric Bailly,h,1739,FromCorner,2015,Head,1436,Villarreal,Athletic Club,3,1,2015-09-20 20:15:00,Samu Castillejo,Aerial,1739
+85167,73,SavedShot,0.905,0.504000015258789,0.05327010154724121,Eric Bailly,a,1739,FromCorner,2015,Head,1467,Levante,Villarreal,1,0,2015-10-04 20:15:00,Roberto Soldado,HeadPass,1739
+85835,2,MissedShots,0.8519999694824218,0.5320000076293945,0.06449759751558304,Eric Bailly,h,1739,FromCorner,2015,RightFoot,1491,Villarreal,Sevilla,2,1,2015-10-31 21:15:00,Manu Trigueros,HeadPass,1739
+90329,18,MissedShots,0.9119999694824219,0.5479999923706055,0.09474819898605347,Eric Bailly,a,1739,FromCorner,2015,RightFoot,1727,Rayo Vallecano,Villarreal,2,1,2016-04-17 20:15:00,,None,1739
+113669,67,MissedShots,0.685,0.475,0.01217500027269125,Eric Bailly,a,1739,FromCorner,2016,LeftFoot,507,Watford,Manchester United,3,1,2016-09-18 15:00:00,,None,1739
+114379,71,BlockedShot,0.919000015258789,0.4779999923706055,0.042893700301647186,Eric Bailly,h,1739,FromCorner,2016,Head,527,Manchester United,Stoke,1,1,2016-10-02 15:00:00,Daley Blind,Aerial,1739
+117581,14,BlockedShot,0.87,0.38599998474121094,0.05540530011057854,Eric Bailly,h,1739,FromCorner,2016,LeftFoot,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,,None,1739
+119552,18,MissedShots,0.9490000152587891,0.33,0.0489078015089035,Eric Bailly,h,1739,FromCorner,2016,RightFoot,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,,None,1739
+120293,15,MissedShots,0.9009999847412109,0.53,0.020766500383615494,Eric Bailly,a,1739,FromCorner,2016,Head,3452,Sunderland,Manchester United,0,3,2017-04-09 13:30:00,Luke Shaw,Aerial,1739
+119625,7,SavedShot,0.845999984741211,0.525,0.12587200105190277,Eric Bailly,a,1739,OpenPlay,2016,LeftFoot,3412,Southampton,Manchester United,0,0,2017-05-17 19:45:00,,TakeOn,1739
+159005,44,Goal,0.9930000305175781,0.5179999923706055,0.9705449938774109,Eric Bailly,a,1739,FromCorner,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,,Rebound,1739
+158770,38,BlockedShot,0.9519999694824218,0.580999984741211,0.03715129941701889,Eric Bailly,h,1739,FromCorner,2017,Head,7168,Manchester United,Everton,4,0,2017-09-17 16:00:00,Henrikh Mkhitaryan,Aerial,1739
+159800,34,MissedShots,0.9280000305175782,0.4490000152587891,0.04232160001993179,Eric Bailly,a,1739,FromCorner,2017,Head,7172,Southampton,Manchester United,0,1,2017-09-23 15:00:00,Juan Mata,Aerial,1739
+199838,65,OwnGoal,0.04400000095367432,0.38599998474121094,0,Eric Bailly,h,1739,OpenPlay,2017,LeftFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,,Challenge,1739
+298212,28,MissedShots,0.9319999694824219,0.5070000076293946,0.12116199731826782,Eric Bailly,h,1739,FromCorner,2018,Head,9550,Manchester United,Chelsea,1,1,2019-04-28 16:30:00,Ashley Young,Cross,1739
+298215,45,MissedShots,0.895,0.40799999237060547,0.07679980248212814,Eric Bailly,h,1739,FromCorner,2018,RightFoot,9550,Manchester United,Chelsea,1,1,2019-04-28 16:30:00,,None,1739
+298217,53,SavedShot,0.8680000305175781,0.645,0.05187910050153732,Eric Bailly,h,1739,SetPiece,2018,LeftFoot,9550,Manchester United,Chelsea,1,1,2019-04-28 16:30:00,,None,1739
+395994,68,BlockedShot,0.8919999694824219,0.4779999923706055,0.048785898834466934,Eric Bailly,h,1739,FromCorner,2020,Head,14592,Manchester United,Wolverhampton Wanderers,1,0,2020-12-29 20:00:00,Luke Shaw,Cross,1739
+424156,16,MissedShots,0.9130000305175782,0.47,0.03203669935464859,Eric Bailly,a,1739,FromCorner,2020,Head,14814,Wolverhampton Wanderers,Manchester United,1,2,2021-05-23 15:00:00,Alex Telles,Aerial,1739
+440825,6,OwnGoal,0.034000000953674316,0.4420000076293945,0,Eric Bailly,h,1739,OpenPlay,2021,RightFoot,16483,Manchester United,Manchester City,0,2,2021-11-06 12:30:00,,Clearance,1739
+485369,72,BlockedShot,0.8959999847412109,0.5259999847412109,0.019253600388765335,Eric Bailly,h,1739,FromCorner,2022,Head,19693,Marseille,Clermont Foot,1,0,2022-08-31 19:00:00,Cengiz Ünder,Aerial,1739
+502096,44,MissedShots,0.840999984741211,0.500999984741211,0.06762299686670303,Eric Bailly,a,1739,SetPiece,2022,RightFoot,19812,Montpellier,Marseille,1,2,2023-01-02 18:00:00,,BlockedPass,1739
+511545,47,MissedShots,0.9259999847412109,0.534000015258789,0.05390080064535141,Eric Bailly,h,1739,FromCorner,2022,Head,19896,Marseille,Paris Saint Germain,0,3,2023-02-26 19:45:00,,Aerial,1739
+557327,38,MissedShots,0.889000015258789,0.4,0.08926859498023987,Eric Bailly,a,1739,OpenPlay,2023,LeftFoot,22866,Valencia,Villarreal,3,1,2024-01-02 20:30:00,Daniel Parejo,Pass,1739
+559967,70,OwnGoal,0.050999999046325684,0.47200000762939454,0,Eric Bailly,a,1739,SetPiece,2023,OtherBodyPart,22896,Barcelona,Villarreal,3,5,2024-01-27 17:30:00,,SubstitutionOn,1739
+568943,55,BlockedShot,0.9419999694824219,0.5029999923706054,0.08101755380630493,Eric Bailly,a,1739,FromCorner,2023,Head,22957,Real Betis,Villarreal,2,3,2024-03-10 20:00:00,Daniel Parejo,Aerial,1739
+587184,21,MissedShots,0.9119999694824219,0.47900001525878905,0.03970881924033165,Eric Bailly,h,1739,FromCorner,2024,Head,27002,Villarreal,Celta Vigo,4,3,2024-08-26 19:30:00,Álex Baena,Aerial,1739
+595052,38,BlockedShot,0.9019999694824219,0.5,0.10601682215929031,Eric Bailly,h,1739,SetPiece,2024,Head,27058,Villarreal,Las Palmas,3,1,2024-09-30 19:00:00,Denis Suárez,Cross,1739
+595067,75,BlockedShot,0.965,0.445,0.07951688766479492,Eric Bailly,h,1739,FromCorner,2024,Head,27058,Villarreal,Las Palmas,3,1,2024-09-30 19:00:00,Álex Baena,Aerial,1739
+607688,4,MissedShots,0.965,0.39099998474121095,0.01492122933268547,Eric Bailly,h,1739,FromCorner,2024,Head,27148,Villarreal,Real Betis,1,2,2024-12-15 17:30:00,Álex Baena,Aerial,1739

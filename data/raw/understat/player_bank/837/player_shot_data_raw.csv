@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+52735,25,BlockedShot,0.764000015258789,0.3920000076293945,0.017348799854516983,Jordy Clasie,h,837,FromCorner,2015,RightFoot,189,Southampton,Bournemouth,2,0,2015-11-01 20:00:00,,None,837
+52758,7,MissedShots,0.6990000152587891,0.46299999237060546,0.009759670123457909,Jordy Clasie,a,837,OpenPlay,2015,RightFoot,196,Sunderland,Southampton,0,1,2015-11-07 19:00:00,Sadio Mané,LayOff,837
+54565,18,MissedShots,0.73,0.455,0.018666300922632217,Jordy Clasie,h,837,OpenPlay,2015,LeftFoot,203,Southampton,Stoke,0,1,2015-11-21 19:00:00,Shane Long,Pass,837
+54567,27,MissedShots,0.765,0.6530000305175782,0.015968099236488342,Jordy Clasie,h,837,FromCorner,2015,RightFoot,203,Southampton,Stoke,0,1,2015-11-21 19:00:00,,None,837
+55915,41,SavedShot,0.7430000305175781,0.5120000076293946,0.019506199285387993,Jordy Clasie,a,837,OpenPlay,2015,RightFoot,276,Norwich,Southampton,1,0,2016-01-02 19:00:00,James Ward-Prowse,Pass,837
+53163,24,BlockedShot,0.7680000305175781,0.41200000762939454,0.01690630055963993,Jordy Clasie,h,837,SetPiece,2015,RightFoot,328,Southampton,West Ham,1,0,2016-02-06 21:30:00,,Rebound,837
+56117,39,BlockedShot,0.8209999847412109,0.5320000076293945,0.04631759971380234,Jordy Clasie,a,837,OpenPlay,2015,LeftFoot,332,Swansea,Southampton,0,1,2016-02-13 19:00:00,,Rebound,837
+59885,16,BlockedShot,0.789000015258789,0.6959999847412109,0.021255100145936012,Jordy Clasie,h,837,FromCorner,2015,RightFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Steven Davis,Pass,837
+59659,67,MissedShots,0.8419999694824218,0.55,0.09006880223751068,Jordy Clasie,a,837,OpenPlay,2015,LeftFoot,370,Stoke,Southampton,1,2,2016-03-12 19:00:00,Shane Long,Pass,837
+60487,18,BlockedShot,0.7269999694824218,0.44299999237060544,0.01627190038561821,Jordy Clasie,h,837,OpenPlay,2015,RightFoot,380,Southampton,Liverpool,3,2,2016-03-20 17:30:00,Dusan Tadic,Pass,837
+59698,35,MissedShots,0.795,0.6990000152587891,0.016983700916171074,Jordy Clasie,a,837,FromCorner,2015,RightFoot,392,Leicester,Southampton,1,0,2016-04-03 16:30:00,,None,837
+59702,62,MissedShots,0.7559999847412109,0.4229999923706055,0.021374400705099106,Jordy Clasie,a,837,OpenPlay,2015,RightFoot,392,Leicester,Southampton,1,0,2016-04-03 16:30:00,,None,837
+56355,78,MissedShots,0.874000015258789,0.600999984741211,0.08249910175800323,Jordy Clasie,a,837,OpenPlay,2015,LeftFoot,407,Everton,Southampton,1,1,2016-04-16 18:00:00,Sadio Mané,Pass,837
+57328,35,BlockedShot,0.8490000152587891,0.4,0.09495820105075836,Jordy Clasie,h,837,OpenPlay,2015,RightFoot,435,Southampton,Manchester City,4,2,2016-05-01 19:30:00,Cuco Martina,Pass,837
+112684,60,MissedShots,0.78,0.6140000152587891,0.0185116995126009,Jordy Clasie,a,837,OpenPlay,2016,LeftFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Nathan Redmond,Pass,837
+113595,42,SavedShot,0.755,0.3060000038146973,0.0184129998087883,Jordy Clasie,h,837,OpenPlay,2016,RightFoot,509,Southampton,Swansea,1,0,2016-09-18 17:15:00,Dusan Tadic,TakeOn,837
+114045,42,BlockedShot,0.855,0.48900001525878906,0.023367300629615784,Jordy Clasie,h,837,OpenPlay,2016,Head,539,Southampton,Burnley,3,1,2016-10-16 19:00:00,,None,837
+114503,19,MissedShots,0.84,0.36900001525878906,0.05095149949193001,Jordy Clasie,a,837,OpenPlay,2016,RightFoot,549,Manchester City,Southampton,1,1,2016-10-23 16:30:00,Nathan Redmond,Pass,837
+114508,45,MissedShots,0.725,0.4809999847412109,0.02158989943563938,Jordy Clasie,a,837,OpenPlay,2016,RightFoot,549,Manchester City,Southampton,1,1,2016-10-23 16:30:00,,BallRecovery,837
+115570,43,SavedShot,0.779000015258789,0.40299999237060546,0.02022010087966919,Jordy Clasie,a,837,FromCorner,2016,RightFoot,2694,Hull,Southampton,2,1,2016-11-06 18:15:00,Steven Davis,None,837
+115569,43,SavedShot,0.8959999847412109,0.5329999923706055,0.14574399590492249,Jordy Clasie,a,837,OpenPlay,2016,RightFoot,2694,Hull,Southampton,2,1,2016-11-06 18:15:00,Nathan Redmond,Throughball,837
+117227,11,MissedShots,0.815,0.3,0.028108200058341026,Jordy Clasie,h,837,OpenPlay,2016,RightFoot,3123,Southampton,Middlesbrough,1,0,2016-12-11 18:15:00,Jay Rodriguez,Pass,837
+117228,16,MissedShots,0.85,0.46900001525878904,0.0687619000673294,Jordy Clasie,h,837,OpenPlay,2016,LeftFoot,3123,Southampton,Middlesbrough,1,0,2016-12-11 18:15:00,,None,837
+117234,36,BlockedShot,0.8959999847412109,0.6930000305175781,0.056295398622751236,Jordy Clasie,h,837,OpenPlay,2016,RightFoot,3123,Southampton,Middlesbrough,1,0,2016-12-11 18:15:00,Sofiane Boufal,Pass,837
+116370,38,BlockedShot,0.7969999694824219,0.545,0.028200900182127953,Jordy Clasie,a,837,FromCorner,2016,RightFoot,3331,Everton,Southampton,3,0,2017-01-02 15:00:00,,None,837
+120495,24,Goal,0.8080000305175781,0.4520000076293945,0.044411301612854004,Jordy Clasie,a,837,OpenPlay,2016,RightFoot,3454,West Bromwich Albion,Southampton,0,1,2017-04-08 15:00:00,Dusan Tadic,Pass,837

@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+9406,Nathan Broadhead,1,1,0,0,0,0,0,0,0,0,S,Everton,0,0,0,0,2020
+9406,Nathan Broadhead,8,302,0,0.42002556659281254,0,0.5786967873573303,6,4,1,0,M S,Ipswich,0,0.42002556659281254,1.3376628253608942,0.828992479480803,2024
+9406,Nathan Broadhead,8,302,0,0.42002556659281254,0,0.5786967873573303,6,4,1,0,M S,Ipswich,0,0.42002556659281254,1.3376628253608942,0.828992479480803,2025

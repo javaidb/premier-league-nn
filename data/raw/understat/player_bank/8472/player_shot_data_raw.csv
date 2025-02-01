@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+369692,92,BlockedShot,0.9,0.38299999237060545,0.06403879821300507,Richairo Zivkovic,h,8472,FromCorner,2019,RightFoot,11980,Sheffield United,Wolverhampton Wanderers,1,0,2020-07-08 17:00:00,Ben Osborn,Pass,8472

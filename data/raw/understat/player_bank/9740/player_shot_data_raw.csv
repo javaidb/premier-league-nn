@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+459268,94,OwnGoal,0.022999999523162843,0.555,0,José Sá,a,9740,OpenPlay,2021,OtherBodyPart,16566,Arsenal,Wolverhampton Wanderers,2,1,2022-02-24 19:45:00,,None,9740

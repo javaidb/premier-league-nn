@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+324957,27,ShotOnPost,0.7780000305175782,0.5720000076293945,0.030290700495243073,Matthew Longstaff,h,8016,OpenPlay,2019,RightFoot,11721,Newcastle United,Manchester United,1,0,2019-10-06 16:30:00,Allan Saint-Maximin,Pass,8016
+324971,71,Goal,0.7809999847412109,0.4520000076293945,0.029656099155545235,Matthew Longstaff,h,8016,OpenPlay,2019,RightFoot,11721,Newcastle United,Manchester United,1,0,2019-10-06 16:30:00,Jetro Willems,Pass,8016
+339648,16,Goal,0.8730000305175781,0.500999984741211,0.5488989949226379,Matthew Longstaff,a,8016,OpenPlay,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Joelinton,Pass,8016
+369723,89,BlockedShot,0.8619999694824219,0.425,0.08767250180244446,Matthew Longstaff,a,8016,OpenPlay,2019,LeftFoot,11979,Manchester City,Newcastle United,5,0,2020-07-08 17:00:00,Javier Manquillo,Pass,8016

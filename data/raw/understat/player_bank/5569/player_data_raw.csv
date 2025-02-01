@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+5569,Rhian Brewster,27,1102,0,1.9326187949627638,0,1.76662964746356,25,11,1,0,F M S,Sheffield United,0,1.9326187949627638,3.989293944090605,0.724409413523972,2020
+5569,Rhian Brewster,13,302,0,0.34494016505777836,0,0.10135408118367195,7,2,0,1,F S,Sheffield United,0,0.34494016505777836,0.784455269575119,0.3381610158830881,2023

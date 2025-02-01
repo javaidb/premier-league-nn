@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+202,Håvard Nordtveit,16,955,0,0.1332853026688099,1,0.7496677190065384,7,4,2,0,D M S,West Ham,0,0.1332853026688099,1.644134528003633,0.8764191921800375,2016
+202,Håvard Nordtveit,5,361,0,0,1,0.1195162981748581,0,3,0,0,D S,Fulham,0,0,0.7121488973498344,0.6134674996137619,2018

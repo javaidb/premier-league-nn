@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+556998,63,BlockedShot,0.9059999847412109,0.5029999923706054,0.1764965057373047,Oscar Bobb,h,11903,OpenPlay,2023,LeftFoot,22090,Manchester City,Sheffield United,2,0,2023-12-30 15:00:00,Phil Foden,TakeOn,11903
+558239,90,Goal,0.95,0.5259999847412109,0.9112597703933716,Oscar Bobb,a,11903,OpenPlay,2023,RightFoot,22100,Newcastle United,Manchester City,2,3,2024-01-13 17:30:00,Kevin De Bruyne,TakeOn,11903
+564824,36,BlockedShot,0.904000015258789,0.5520000076293945,0.2901679277420044,Oscar Bobb,h,11903,OpenPlay,2023,RightFoot,22074,Manchester City,Brentford,1,0,2024-02-20 18:30:00,,TakeOn,11903
+571942,89,MissedShots,0.850999984741211,0.54,0.11629755049943924,Oscar Bobb,h,11903,OpenPlay,2023,LeftFoot,22204,Manchester City,Aston Villa,4,1,2024-04-03 19:15:00,Jack Grealish,Pass,11903

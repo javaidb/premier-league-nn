@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+2674,Thilo Kehrer,27,2228,0,0.654550208710134,2,0.7119171218946576,8,8,4,0,D S,West Ham,0,0.654550208710134,4.627194926142693,4.0061189122498035,2022
+2674,Thilo Kehrer,4,12,0,0,0,0,0,0,2,0,S,West Ham,0,0,0.09207619726657867,0.09207619726657867,2023

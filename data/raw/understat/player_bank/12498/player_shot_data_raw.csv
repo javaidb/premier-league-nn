@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+576431,36,BlockedShot,0.8830000305175781,0.7709999847412109,0.013543174602091312,Valentín Barco,h,12498,OpenPlay,2023,LeftFoot,22176,Brighton,Manchester City,0,4,2024-04-25 19:00:00,João Pedro,Cross,12498
+577204,59,BlockedShot,0.715,0.6509999847412109,0.009662320837378502,Valentín Barco,a,12498,OpenPlay,2023,LeftFoot,22235,Bournemouth,Brighton,3,0,2024-04-28 13:00:00,João Pedro,Pass,12498
+581208,79,SavedShot,0.6859999847412109,0.625,0.009568397887051105,Valentín Barco,h,12498,OpenPlay,2023,LeftFoot,22226,Brighton,Chelsea,1,2,2024-05-15 18:45:00,Igor Julio,Pass,12498
+582130,11,SavedShot,0.9069999694824219,0.6569999694824219,0.27490857243537903,Valentín Barco,h,12498,OpenPlay,2023,LeftFoot,22267,Brighton,Manchester United,0,2,2024-05-19 15:00:00,Carlos Baleba,Pass,12498
+590106,4,MissedShots,0.79,0.6220000076293946,0.020360790193080902,Valentín Barco,h,12498,SetPiece,2024,LeftFoot,27019,Sevilla,Girona,0,2,2024-09-01 17:00:00,,Rebound,12498
+590105,4,BlockedShot,0.7830000305175782,0.6359999847412109,0.08403220772743225,Valentín Barco,h,12498,DirectFreekick,2024,LeftFoot,27019,Sevilla,Girona,0,2,2024-09-01 17:00:00,,Standard,12498
+590131,87,MissedShots,0.7519999694824219,0.6359999847412109,0.06161506101489067,Valentín Barco,h,12498,DirectFreekick,2024,LeftFoot,27019,Sevilla,Girona,0,2,2024-09-01 17:00:00,,Standard,12498
+593404,44,BlockedShot,0.8169999694824219,0.49900001525878906,0.06183392554521561,Valentín Barco,h,12498,OpenPlay,2024,RightFoot,27046,Sevilla,Real Valladolid,2,1,2024-09-24 17:00:00,,BallTouch,12498
+593407,53,MissedShots,0.7519999694824219,0.5790000152587891,0.02760978229343891,Valentín Barco,h,12498,OpenPlay,2024,LeftFoot,27046,Sevilla,Real Valladolid,2,1,2024-09-24 17:00:00,Kelechi Iheanacho,Pass,12498
+593417,79,MissedShots,0.705,0.740999984741211,0.013807668350636959,Valentín Barco,h,12498,OpenPlay,2024,LeftFoot,27046,Sevilla,Real Valladolid,2,1,2024-09-24 17:00:00,Suso,Pass,12498
+593420,86,MissedShots,0.7269999694824218,0.69,0.015959007665514946,Valentín Barco,h,12498,OpenPlay,2024,LeftFoot,27046,Sevilla,Real Valladolid,2,1,2024-09-24 17:00:00,Peque,Pass,12498

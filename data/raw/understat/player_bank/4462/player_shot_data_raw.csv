@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14897,67,MissedShots,0.8930000305175781,0.245,0.029069999232888222,Liam Rosenior,a,4462,OpenPlay,2014,RightFoot,4776,Aston Villa,Hull,2,1,2014-08-31 13:30:00,Robbie Brady,Pass,4462
+17986,47,MissedShots,0.7440000152587891,0.5990000152587891,0.016623899340629578,Liam Rosenior,a,4462,OpenPlay,2014,RightFoot,4632,Sunderland,Hull,1,3,2014-12-26 15:00:00,Stephen Quinn,LayOff,4462
+19439,25,BlockedShot,0.7219999694824218,0.7190000152587891,0.009631520137190819,Liam Rosenior,h,4462,OpenPlay,2014,RightFoot,4558,Hull,Everton,2,0,2015-01-01 15:00:00,,None,4462
+22197,86,ShotOnPost,0.769000015258789,0.6409999847412109,0.014401400461792946,Liam Rosenior,a,4462,SetPiece,2014,RightFoot,4474,Crystal Palace,Hull,0,2,2015-04-25 15:00:00,,None,4462
+159834,74,MissedShots,0.7959999847412109,0.34299999237060547,0.026475200429558754,Liam Rosenior,a,4462,OpenPlay,2017,RightFoot,7159,Bournemouth,Brighton,2,1,2017-09-15 20:00:00,,None,4462
+159836,85,MissedShots,0.825,0.295,0.027737200260162354,Liam Rosenior,a,4462,FromCorner,2017,RightFoot,7159,Bournemouth,Brighton,2,1,2017-09-15 20:00:00,Solly March,Cross,4462

@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+128815,91,Goal,0.905,0.44299999237060544,0.07585260272026062,Michael Hector,h,5274,OpenPlay,2016,Head,1368,Eintracht Frankfurt,Hertha Berlin,3,3,2016-09-24 17:30:00,Ante Rebic,Cross,5274
+130278,84,BlockedShot,0.9,0.40099998474121096,0.03627470135688782,Michael Hector,h,5274,FromCorner,2016,OtherBodyPart,2829,Eintracht Frankfurt,Borussia Dortmund,2,1,2016-11-26 18:30:00,Marco Fabián,Aerial,5274
+132423,21,BlockedShot,0.7219999694824218,0.54,0.04996839910745621,Michael Hector,a,5274,DirectFreekick,2016,RightFoot,3750,Bayer Leverkusen,Eintracht Frankfurt,3,0,2017-02-11 14:30:00,,Standard,5274
+131858,89,SavedShot,0.9219999694824219,0.6140000152587891,0.03541480004787445,Michael Hector,h,5274,OpenPlay,2016,Head,3759,Eintracht Frankfurt,Ingolstadt,0,2,2017-02-18 14:30:00,Bastian Oczipka,Cross,5274
+132057,76,BlockedShot,0.71,0.3920000076293945,0.014960999600589275,Michael Hector,a,5274,OpenPlay,2016,RightFoot,3773,Hertha Berlin,Eintracht Frankfurt,2,0,2017-02-25 17:30:00,Makoto Hasebe,Pass,5274
+132793,71,SavedShot,0.9259999847412109,0.5479999923706055,0.0842875987291336,Michael Hector,h,5274,SetPiece,2016,LeftFoot,3800,Eintracht Frankfurt,Hamburger SV,0,0,2017-03-18 17:30:00,,None,5274
+128061,54,MissedShots,0.8430000305175781,0.48,0.009329319931566715,Michael Hector,h,5274,SetPiece,2016,Head,3882,Eintracht Frankfurt,RasenBallsport Leipzig,2,2,2017-05-20 14:30:00,Marco Fabián,Aerial,5274
+377524,12,BlockedShot,0.9169999694824219,0.4640000152587891,0.08639729768037796,Michael Hector,a,5274,FromCorner,2020,Head,14097,Leeds,Fulham,4,3,2020-09-19 14:00:00,Ivan Cavaleiro,Cross,5274

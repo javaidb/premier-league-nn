@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1702,Mike van der Hoorn,8,659,1,1.3173155840486288,0,0,4,0,1,0,D S,Swansea,1,1.3173155840486288,1.2172971926629543,0.7885931991040707,2016
+1702,Mike van der Hoorn,24,1963,1,0.9428765969350934,0,0.6178052080795169,10,5,4,0,D,Swansea,1,0.9428765969350934,1.99550262093544,1.3907501138746738,2017

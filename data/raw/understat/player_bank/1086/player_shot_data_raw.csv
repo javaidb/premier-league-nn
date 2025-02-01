@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15373,75,MissedShots,0.700999984741211,0.46599998474121096,0.01636659912765026,Dean Hammond,a,1086,OpenPlay,2014,RightFoot,4723,Stoke,Leicester,0,1,2014-09-13 15:00:00,Paul Konchesky,Pass,1086
+15374,79,MissedShots,0.9159999847412109,0.6020000076293945,0.05018329992890358,Dean Hammond,a,1086,SetPiece,2014,Head,4723,Stoke,Leicester,0,1,2014-09-13 15:00:00,Esteban Cambiasso,Cross,1086
+15520,63,BlockedShot,0.775,0.5820000076293945,0.02693770080804825,Dean Hammond,h,1086,OpenPlay,2014,RightFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,,None,1086
+16998,15,BlockedShot,0.8430000305175781,0.544000015258789,0.05447230115532875,Dean Hammond,h,1086,FromCorner,2014,RightFoot,4690,Leicester,Burnley,2,2,2014-10-04 15:00:00,,None,1086
+21178,74,MissedShots,0.7709999847412109,0.37400001525878906,0.015648700296878815,Dean Hammond,h,1086,SetPiece,2014,RightFoot,4399,Leicester,Newcastle United,3,0,2015-05-02 12:45:00,,None,1086
+21180,91,MissedShots,0.7390000152587891,0.6819999694824219,0.015166400000452995,Dean Hammond,h,1086,OpenPlay,2014,RightFoot,4399,Leicester,Newcastle United,3,0,2015-05-02 12:45:00,,BallRecovery,1086

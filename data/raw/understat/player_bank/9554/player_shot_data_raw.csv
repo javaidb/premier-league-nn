@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+471656,51,MissedShots,0.9019999694824219,0.534000015258789,0.10066100209951401,Tim Iroegbunam,h,9554,FromCorner,2021,LeftFoot,16725,Aston Villa,Norwich,2,0,2022-04-30 14:00:00,,None,9554
+584770,19,MissedShots,0.8640000152587891,0.6419999694824219,0.06267308443784714,Tim Iroegbunam,h,9554,OpenPlay,2024,RightFoot,26605,Everton,Brighton,0,3,2024-08-17 14:00:00,,BallRecovery,9554
+584774,36,BlockedShot,0.8090000152587891,0.5640000152587891,0.04179658368229866,Tim Iroegbunam,h,9554,OpenPlay,2024,LeftFoot,26605,Everton,Brighton,0,3,2024-08-17 14:00:00,,None,9554
+589192,45,BlockedShot,0.8090000152587891,0.37599998474121094,0.03858618065714836,Tim Iroegbunam,h,9554,OpenPlay,2024,LeftFoot,26624,Everton,Bournemouth,2,3,2024-08-31 14:00:00,Jack Harrison,Pass,9554
+589202,79,MissedShots,0.7980000305175782,0.43900001525878907,0.05084100738167763,Tim Iroegbunam,h,9554,OpenPlay,2024,RightFoot,26624,Everton,Bournemouth,2,3,2024-08-31 14:00:00,,BallRecovery,9554

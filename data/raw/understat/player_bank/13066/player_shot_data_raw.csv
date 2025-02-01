@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+590766,91,BlockedShot,0.799000015258789,0.5729999923706055,0.03909818083047867,Ferdi Kadioglu,h,13066,FromCorner,2024,RightFoot,26633,Brighton,Ipswich,0,0,2024-09-14 14:00:00,,Rebound,13066
+597092,71,BlockedShot,0.8819999694824219,0.435,0.3732757270336151,Ferdi Kadioglu,a,13066,OpenPlay,2024,RightFoot,26676,Newcastle United,Brighton,0,1,2024-10-19 14:00:00,,None,13066
+600138,13,Goal,0.8719999694824219,0.31,0.0506795309484005,Ferdi Kadioglu,a,13066,OpenPlay,2024,RightFoot,26696,Liverpool,Brighton,2,1,2024-11-02 15:00:00,Danny Welbeck,BallTouch,13066
+600144,35,MissedShots,0.919000015258789,0.4209999847412109,0.13933981955051422,Ferdi Kadioglu,a,13066,OpenPlay,2024,RightFoot,26696,Liverpool,Brighton,2,1,2024-11-02 15:00:00,Kaoru Mitoma,Cross,13066

@@ -1,0 +1,52 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+165838,14,BlockedShot,0.895,0.7169999694824218,0.04663269966840744,Jetro Willems,a,6143,OpenPlay,2017,LeftFoot,8266,Freiburg,Eintracht Frankfurt,0,0,2017-08-20 14:30:00,Mijat Gacinovic,TakeOn,6143
+166614,40,SavedShot,0.710999984741211,0.5220000076293946,0.04500740021467209,Jetro Willems,h,6143,DirectFreekick,2017,LeftFoot,8288,Eintracht Frankfurt,Augsburg,1,2,2017-09-16 14:30:00,,Standard,6143
+166553,47,SavedShot,0.7969999694824219,0.7290000152587891,0.009448129683732986,Jetro Willems,a,6143,OpenPlay,2017,LeftFoot,8308,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2017-09-23 14:30:00,Sébastien Haller,Chipped,6143
+167250,69,SavedShot,0.8809999847412109,0.6759999847412109,0.05501139909029007,Jetro Willems,h,6143,OpenPlay,2017,LeftFoot,8320,Eintracht Frankfurt,VfB Stuttgart,2,1,2017-09-30 14:30:00,Sébastien Haller,Pass,6143
+167249,69,BlockedShot,0.7440000152587891,0.7080000305175781,0.013879699632525444,Jetro Willems,h,6143,OpenPlay,2017,LeftFoot,8320,Eintracht Frankfurt,VfB Stuttgart,2,1,2017-09-30 14:30:00,,Dispossessed,6143
+167893,69,MissedShots,0.870999984741211,0.5820000076293945,0.127920001745224,Jetro Willems,a,6143,OpenPlay,2017,RightFoot,8329,Hannover 96,Eintracht Frankfurt,1,2,2017-10-14 14:30:00,Ante Rebic,TakeOn,6143
+167560,49,BlockedShot,0.7469999694824219,0.590999984741211,0.06108060106635094,Jetro Willems,h,6143,DirectFreekick,2017,LeftFoot,8353,Eintracht Frankfurt,Werder Bremen,2,1,2017-11-03 19:30:00,,Standard,6143
+167563,54,MissedShots,0.955,0.5609999847412109,0.4394780099391937,Jetro Willems,h,6143,OpenPlay,2017,Head,8353,Eintracht Frankfurt,Werder Bremen,2,1,2017-11-03 19:30:00,Kevin-Prince Boateng,Rebound,6143
+167565,63,SavedShot,0.909000015258789,0.6029999923706054,0.3871850073337555,Jetro Willems,h,6143,OpenPlay,2017,RightFoot,8353,Eintracht Frankfurt,Werder Bremen,2,1,2017-11-03 19:30:00,,None,6143
+168911,85,SavedShot,0.715999984741211,0.5659999847412109,0.04579960182309151,Jetro Willems,a,6143,DirectFreekick,2017,LeftFoot,8378,Hertha Berlin,Eintracht Frankfurt,1,2,2017-12-03 14:30:00,,Standard,6143
+179722,39,SavedShot,0.8159999847412109,0.51,0.07656899839639664,Jetro Willems,h,6143,SetPiece,2017,LeftFoot,8391,Eintracht Frankfurt,Bayern Munich,0,1,2017-12-09 14:30:00,Kevin-Prince Boateng,LayOff,6143
+201333,12,BlockedShot,0.76,0.29700000762939455,0.04995879903435707,Jetro Willems,h,6143,DirectFreekick,2017,LeftFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,,Standard,6143
+201334,12,BlockedShot,0.8109999847412109,0.4470000076293945,0.034486498683691025,Jetro Willems,h,6143,SetPiece,2017,LeftFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,,Rebound,6143
+201353,68,SavedShot,0.8769999694824219,0.66,0.08737079799175262,Jetro Willems,h,6143,OpenPlay,2017,LeftFoot,8495,Eintracht Frankfurt,Mainz 05,3,0,2018-03-17 14:30:00,Marius Wolf,Pass,6143
+207352,21,SavedShot,0.8490000152587891,0.7630000305175781,0.014840399846434593,Jetro Willems,h,6143,OpenPlay,2017,LeftFoot,8516,Eintracht Frankfurt,Hoffenheim,1,1,2018-04-08 16:00:00,Marco Fabián,Chipped,6143
+207367,63,BlockedShot,0.7280000305175781,0.720999984741211,0.01231009978801012,Jetro Willems,h,6143,FromCorner,2017,LeftFoot,8516,Eintracht Frankfurt,Hoffenheim,1,1,2018-04-08 16:00:00,,None,6143
+207368,65,BlockedShot,0.7959999847412109,0.745,0.016169000416994095,Jetro Willems,h,6143,OpenPlay,2017,LeftFoot,8516,Eintracht Frankfurt,Hoffenheim,1,1,2018-04-08 16:00:00,Marco Fabián,Pass,6143
+211537,18,BlockedShot,0.8230000305175781,0.7180000305175781,0.022748099640011787,Jetro Willems,a,6143,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,Branimir Hrgota,Pass,6143
+213252,11,MissedShots,0.865,0.6969999694824218,0.033528201282024384,Jetro Willems,h,6143,OpenPlay,2017,RightFoot,8555,Eintracht Frankfurt,Hamburger SV,3,0,2018-05-05 14:30:00,,Rebound,6143
+213251,11,BlockedShot,0.889000015258789,0.7469999694824219,0.032550398260354996,Jetro Willems,h,6143,OpenPlay,2017,LeftFoot,8555,Eintracht Frankfurt,Hamburger SV,3,0,2018-05-05 14:30:00,Kevin-Prince Boateng,Chipped,6143
+213266,76,SavedShot,0.909000015258789,0.6630000305175782,0.2685309946537018,Jetro Willems,h,6143,OpenPlay,2017,LeftFoot,8555,Eintracht Frankfurt,Hamburger SV,3,0,2018-05-05 14:30:00,Sébastien Haller,Pass,6143
+257376,34,SavedShot,0.9119999694824219,0.3320000076293945,0.11962799727916718,Jetro Willems,h,6143,OpenPlay,2018,LeftFoot,10467,Eintracht Frankfurt,Bayer Leverkusen,2,1,2018-12-16 17:00:00,Danny da Costa,TakeOn,6143
+257811,50,MissedShots,0.7280000305175781,0.5029999923706054,0.0154381999745965,Jetro Willems,h,6143,OpenPlay,2018,LeftFoot,10487,Eintracht Frankfurt,Bayern Munich,0,3,2018-12-22 17:30:00,Jonathan de Guzmán,BallTouch,6143
+293099,9,BlockedShot,0.789000015258789,0.27700000762939453,0.019238600507378578,Jetro Willems,a,6143,SetPiece,2018,LeftFoot,10581,Schalke 04,Eintracht Frankfurt,1,2,2019-04-06 14:30:00,Jonathan de Guzmán,Pass,6143
+293108,52,MissedShots,0.9459999847412109,0.31,0.021761199459433556,Jetro Willems,a,6143,FromCorner,2018,LeftFoot,10581,Schalke 04,Eintracht Frankfurt,1,2,2019-04-06 14:30:00,,Aerial,6143
+300203,29,BlockedShot,0.78,0.7,0.020525600761175156,Jetro Willems,a,6143,OpenPlay,2018,LeftFoot,10618,Bayer Leverkusen,Eintracht Frankfurt,6,1,2019-05-05 17:00:00,Filip Kostic,Pass,6143
+315877,25,BlockedShot,0.7969999694824219,0.5579999923706055,0.012160100042819977,Jetro Willems,h,6143,FromCorner,2019,LeftFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Christian Atsu,Chipped,6143
+317023,6,Goal,0.8809999847412109,0.7119999694824218,0.04237329959869385,Jetro Willems,a,6143,OpenPlay,2019,RightFoot,11683,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,Christian Atsu,Pass,6143
+320610,7,BlockedShot,0.9209999847412109,0.710999984741211,0.03780199959874153,Jetro Willems,h,6143,OpenPlay,2019,LeftFoot,11699,Newcastle United,Brighton,0,0,2019-09-21 16:30:00,Joelinton,Chipped,6143
+324962,41,BlockedShot,0.865,0.7269999694824218,0.019690899178385735,Jetro Willems,h,6143,OpenPlay,2019,LeftFoot,11721,Newcastle United,Manchester United,1,0,2019-10-06 16:30:00,Joelinton,HeadPass,6143
+325612,81,MissedShots,0.9209999847412109,0.6880000305175781,0.03883549943566322,Jetro Willems,a,6143,OpenPlay,2019,RightFoot,11725,Chelsea,Newcastle United,1,0,2019-10-19 15:00:00,Allan Saint-Maximin,Cross,6143
+327867,75,MissedShots,0.7819999694824219,0.7480000305175781,0.018308399245142937,Jetro Willems,h,6143,OpenPlay,2019,RightFoot,11738,Newcastle United,Wolverhampton Wanderers,1,1,2019-10-27 14:00:00,Allan Saint-Maximin,Pass,6143
+327869,79,SavedShot,0.885,0.5220000076293946,0.03386180102825165,Jetro Willems,h,6143,OpenPlay,2019,Head,11738,Newcastle United,Wolverhampton Wanderers,1,1,2019-10-27 14:00:00,DeAndre Yedlin,Aerial,6143
+330689,8,SavedShot,0.9059999847412109,0.7030000305175781,0.04640660062432289,Jetro Willems,h,6143,OpenPlay,2019,LeftFoot,11756,Newcastle United,Bournemouth,2,1,2019-11-09 15:00:00,,None,6143
+330699,38,SavedShot,0.8219999694824218,0.700999984741211,0.029157500714063644,Jetro Willems,h,6143,OpenPlay,2019,LeftFoot,11756,Newcastle United,Bournemouth,2,1,2019-11-09 15:00:00,,Rebound,6143
+330708,57,SavedShot,0.6830000305175781,0.8230000305175781,0.010641300119459629,Jetro Willems,h,6143,OpenPlay,2019,LeftFoot,11756,Newcastle United,Bournemouth,2,1,2019-11-09 15:00:00,Allan Saint-Maximin,Pass,6143
+330712,61,BlockedShot,0.889000015258789,0.66,0.07327040284872055,Jetro Willems,h,6143,OpenPlay,2019,LeftFoot,11756,Newcastle United,Bournemouth,2,1,2019-11-09 15:00:00,,None,6143
+333420,24,Goal,0.855,0.6029999923706054,0.06473629921674728,Jetro Willems,h,6143,OpenPlay,2019,RightFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,Miguel Almirón,Pass,6143
+339774,56,BlockedShot,0.86,0.6409999847412109,0.04439400136470795,Jetro Willems,h,6143,OpenPlay,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,Fabian Schär,TakeOn,6143
+339775,57,MissedShots,0.7440000152587891,0.509000015258789,0.01367220003157854,Jetro Willems,h,6143,FromCorner,2019,RightFoot,11838,Newcastle United,Everton,1,2,2019-12-28 15:00:00,,Aerial,6143
+430944,0,MissedShots,0.855999984741211,0.8119999694824219,0.014599000103771687,Jetro Willems,a,6143,OpenPlay,2021,LeftFoot,17552,Hertha Berlin,Greuther Fuerth,2,1,2021-09-17 18:30:00,,None,6143
+430956,49,MissedShots,0.855999984741211,0.615999984741211,0.07284119725227356,Jetro Willems,a,6143,OpenPlay,2021,RightFoot,17552,Hertha Berlin,Greuther Fuerth,2,1,2021-09-17 18:30:00,Jeremy Dudziak,Pass,6143
+436081,56,BlockedShot,0.86,0.29100000381469726,0.031522300094366074,Jetro Willems,h,6143,SetPiece,2021,LeftFoot,17579,Greuther Fuerth,Bochum,0,1,2021-10-16 13:30:00,Paul Seguin,Pass,6143
+437660,58,BlockedShot,0.7469999694824219,0.6909999847412109,0.00977076031267643,Jetro Willems,a,6143,OpenPlay,2021,LeftFoot,17595,RasenBallsport Leipzig,Greuther Fuerth,4,1,2021-10-23 13:30:00,Max Christiansen,Chipped,6143
+442028,47,BlockedShot,0.8819999694824219,0.6079999923706054,0.07348790019750595,Jetro Willems,h,6143,OpenPlay,2021,LeftFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,,None,6143
+442038,59,BlockedShot,0.7980000305175782,0.6140000152587891,0.03382999822497368,Jetro Willems,h,6143,OpenPlay,2021,RightFoot,17606,Greuther Fuerth,Eintracht Frankfurt,1,2,2021-11-07 18:30:00,Branimir Hrgota,Pass,6143
+454568,7,SavedShot,0.9169999694824219,0.6819999694824219,0.06838549673557281,Jetro Willems,h,6143,OpenPlay,2021,LeftFoot,17687,Greuther Fuerth,Mainz 05,2,1,2022-01-22 14:30:00,Jamie Leweling,Pass,6143
+454570,15,SavedShot,0.754000015258789,0.34900001525878904,0.05639319866895676,Jetro Willems,h,6143,DirectFreekick,2021,LeftFoot,17687,Greuther Fuerth,Mainz 05,2,1,2022-01-22 14:30:00,,Standard,6143
+468876,84,MissedShots,0.8909999847412109,0.7169999694824218,0.047431301325559616,Jetro Willems,a,6143,OpenPlay,2021,LeftFoot,17780,Hoffenheim,Greuther Fuerth,0,0,2022-04-17 15:30:00,Branimir Hrgota,Pass,6143
+469972,4,Goal,0.904000015258789,0.600999984741211,0.3694080114364624,Jetro Willems,h,6143,OpenPlay,2021,RightFoot,17786,Greuther Fuerth,Bayer Leverkusen,1,4,2022-04-23 13:30:00,Jessic Ngankam,Pass,6143
+471145,37,BlockedShot,0.7909999847412109,0.6919999694824219,0.03205350041389465,Jetro Willems,a,6143,OpenPlay,2021,RightFoot,17801,Union Berlin,Greuther Fuerth,1,1,2022-04-29 18:30:00,,None,6143

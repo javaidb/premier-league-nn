@@ -1,0 +1,566 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+2,6,Goal,0.9,0.6090000152587891,0.3810720145702362,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,LeftFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Javier Pastore,Throughball,1741
+5,17,ShotOnPost,0.919000015258789,0.5790000152587891,0.5708619952201843,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Marco Verratti,Pass,1741
+6,18,SavedShot,0.885,0.5,0.7600950002670288,Zlatan Ibrahimovic,a,1741,Penalty,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,,Standard,1741
+15,55,BlockedShot,0.720999984741211,0.6120000076293945,0.04388659819960594,Zlatan Ibrahimovic,a,1741,DirectFreekick,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,,Standard,1741
+16,62,Goal,0.9890000152587891,0.7519999694824219,0.027277300134301186,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,LeftFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Javier Pastore,Chipped,1741
+17,66,MissedShots,0.7080000305175781,0.600999984741211,0.03954410180449486,Zlatan Ibrahimovic,a,1741,DirectFreekick,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,,Standard,1741
+25,93,BlockedShot,0.8780000305175781,0.3770000076293945,0.013491899706423283,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,Head,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Lucas Digne,Aerial,1741
+1071,10,SavedShot,0.7219999694824218,0.730999984741211,0.0331449992954731,Zlatan Ibrahimovic,h,1741,DirectFreekick,2014,RightFoot,6224,Paris Saint Germain,Saint-Etienne,5,0,2014-08-31 20:00:00,,Standard,1741
+1072,16,BlockedShot,0.6990000152587891,0.39,0.036023400723934174,Zlatan Ibrahimovic,h,1741,DirectFreekick,2014,RightFoot,6224,Paris Saint Germain,Saint-Etienne,5,0,2014-08-31 20:00:00,,Standard,1741
+1078,40,Goal,0.9159999847412109,0.4759999847412109,0.13387900590896606,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,Head,6224,Paris Saint Germain,Saint-Etienne,5,0,2014-08-31 20:00:00,Maxwell,Cross,1741
+1083,60,MissedShots,0.9380000305175781,0.5770000076293945,0.14205899834632874,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,6224,Paris Saint Germain,Saint-Etienne,5,0,2014-08-31 20:00:00,,Rebound,1741
+1084,61,Goal,0.899000015258789,0.585,0.48469099402427673,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,6224,Paris Saint Germain,Saint-Etienne,5,0,2014-08-31 20:00:00,,None,1741
+1086,71,Goal,0.9,0.415,0.467195987701416,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,6224,Paris Saint Germain,Saint-Etienne,5,0,2014-08-31 20:00:00,Marco Verratti,Throughball,1741
+976,3,SavedShot,0.755,0.5220000076293946,0.0248246006667614,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,LeftFoot,6146,Rennes,Paris Saint Germain,1,1,2014-09-13 16:00:00,,Tackle,1741
+978,27,SavedShot,0.905,0.5309999847412109,0.10044500231742859,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,RightFoot,6146,Rennes,Paris Saint Germain,1,1,2014-09-13 16:00:00,,None,1741
+981,41,ShotOnPost,0.909000015258789,0.580999984741211,0.36274999380111694,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,RightFoot,6146,Rennes,Paris Saint Germain,1,1,2014-09-13 16:00:00,Marco Verratti,Throughball,1741
+989,57,SavedShot,0.8930000305175781,0.655,0.06509249657392502,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,LeftFoot,6146,Rennes,Paris Saint Germain,1,1,2014-09-13 16:00:00,Javier Pastore,Chipped,1741
+991,65,BlockedShot,0.6990000152587891,0.37599998474121094,0.035252299159765244,Zlatan Ibrahimovic,a,1741,DirectFreekick,2014,RightFoot,6146,Rennes,Paris Saint Germain,1,1,2014-09-13 16:00:00,,Standard,1741
+992,67,SavedShot,0.6769999694824219,0.544000015258789,0.032092999666929245,Zlatan Ibrahimovic,a,1741,DirectFreekick,2014,RightFoot,6146,Rennes,Paris Saint Germain,1,1,2014-09-13 16:00:00,,Standard,1741
+995,73,BlockedShot,0.8040000152587891,0.644000015258789,0.03393629938364029,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,LeftFoot,6146,Rennes,Paris Saint Germain,1,1,2014-09-13 16:00:00,Edinson Cavani,Pass,1741
+1405,76,SavedShot,0.9359999847412109,0.5120000076293946,0.5997470021247864,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,,Rebound,1741
+1407,80,BlockedShot,0.945,0.3940000152587891,0.04448869824409485,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,Head,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Lucas Digne,Aerial,1741
+5404,91,SavedShot,0.8469999694824218,0.5479999923706055,0.11368399858474731,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,LeftFoot,6094,Paris Saint Germain,Marseille,2,0,2014-11-09 20:00:00,Blaise Matuidi,TakeOn,1741
+5405,92,SavedShot,0.7759999847412109,0.6309999847412109,0.062379900366067886,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,6094,Paris Saint Germain,Marseille,2,0,2014-11-09 20:00:00,Yohan Cabaye,Chipped,1741
+5917,29,MissedShots,0.78,0.6559999847412109,0.015979299321770668,Zlatan Ibrahimovic,a,1741,SetPiece,2014,LeftFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,,Rebound,1741
+5916,29,BlockedShot,0.754000015258789,0.6469999694824219,0.05584770068526268,Zlatan Ibrahimovic,a,1741,DirectFreekick,2014,RightFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,,Standard,1741
+5925,66,BlockedShot,0.92,0.524000015258789,0.06515579670667648,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,Head,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Maxwell,Aerial,1741
+5929,82,SavedShot,0.9159999847412109,0.625,0.3324120044708252,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,LeftFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,,Rebound,1741
+5933,85,SavedShot,0.8519999694824218,0.6120000076293945,0.06849779933691025,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,RightFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,,Rebound,1741
+3490,5,BlockedShot,0.6730000305175782,0.539000015258789,0.03121439926326275,Zlatan Ibrahimovic,h,1741,DirectFreekick,2014,RightFoot,6105,Paris Saint Germain,Nice,1,0,2014-11-29 16:00:00,,Standard,1741
+3494,8,ShotOnPost,0.855999984741211,0.49900001525878906,0.08050429821014404,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,LeftFoot,6105,Paris Saint Germain,Nice,1,0,2014-11-29 16:00:00,Thiago Silva,Chipped,1741
+3496,14,Goal,0.885,0.5,0.7600950002670288,Zlatan Ibrahimovic,h,1741,Penalty,2014,RightFoot,6105,Paris Saint Germain,Nice,1,0,2014-11-29 16:00:00,,Standard,1741
+2676,33,Goal,0.9169999694824219,0.46900001525878904,0.5065000057220459,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,LeftFoot,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,Lucas Moura,Pass,1741
+2680,47,Goal,0.7730000305175782,0.3609999847412109,0.06953900307416916,Zlatan Ibrahimovic,h,1741,DirectFreekick,2014,RightFoot,6047,Paris Saint Germain,Nantes,2,1,2014-12-06 16:00:00,,Standard,1741
+3448,28,BlockedShot,0.7340000152587891,0.4520000076293945,0.055253300815820694,Zlatan Ibrahimovic,a,1741,DirectFreekick,2014,RightFoot,6063,Guingamp,Paris Saint Germain,1,0,2014-12-14 16:00:00,,Standard,1741
+3452,46,SavedShot,0.8859999847412109,0.6619999694824219,0.020374100655317307,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,RightFoot,6063,Guingamp,Paris Saint Germain,1,0,2014-12-14 16:00:00,,Aerial,1741
+3462,86,MissedShots,0.985999984741211,0.59,0.1008400022983551,Zlatan Ibrahimovic,a,1741,SetPiece,2014,RightFoot,6063,Guingamp,Paris Saint Germain,1,0,2014-12-14 16:00:00,,Rebound,1741
+3461,86,SavedShot,0.9569999694824218,0.575,0.43389400839805603,Zlatan Ibrahimovic,a,1741,SetPiece,2014,RightFoot,6063,Guingamp,Paris Saint Germain,1,0,2014-12-14 16:00:00,Gregory Van der Wiel,Cross,1741
+3464,94,BlockedShot,0.935,0.4929999923706055,0.11592499911785126,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,RightFoot,6063,Guingamp,Paris Saint Germain,1,0,2014-12-14 16:00:00,Edinson Cavani,Cross,1741
+5300,21,SavedShot,0.7769999694824219,0.3659999847412109,0.07380429655313492,Zlatan Ibrahimovic,h,1741,DirectFreekick,2014,RightFoot,6067,Paris Saint Germain,Montpellier,0,0,2014-12-20 16:00:00,,Standard,1741
+5301,45,MissedShots,0.899000015258789,0.545,0.04638740047812462,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,Head,6067,Paris Saint Germain,Montpellier,0,0,2014-12-20 16:00:00,Edinson Cavani,Aerial,1741
+5303,57,BlockedShot,0.8590000152587891,0.32599998474121095,0.04576820135116577,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,6067,Paris Saint Germain,Montpellier,0,0,2014-12-20 16:00:00,Lucas Moura,Pass,1741
+5304,60,BlockedShot,0.72,0.4520000076293945,0.018574299290776253,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,6067,Paris Saint Germain,Montpellier,0,0,2014-12-20 16:00:00,Thiago Motta,Pass,1741
+5679,47,SavedShot,0.7909999847412109,0.7830000305175782,0.04430289939045906,Zlatan Ibrahimovic,a,1741,DirectFreekick,2014,RightFoot,6000,SC Bastia,Paris Saint Germain,4,2,2015-01-10 16:00:00,,Standard,1741
+4677,28,SavedShot,0.93,0.5279999923706055,0.5181549787521362,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,6016,Paris Saint Germain,Evian Thonon Gaillard,4,2,2015-01-18 13:00:00,Blaise Matuidi,Pass,1741
+4681,37,BlockedShot,0.915,0.42,0.08754979819059372,Zlatan Ibrahimovic,h,1741,SetPiece,2014,RightFoot,6016,Paris Saint Germain,Evian Thonon Gaillard,4,2,2015-01-18 13:00:00,,Goal,1741
+4684,65,SavedShot,0.8830000305175781,0.40799999237060547,0.35029399394989014,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,6016,Paris Saint Germain,Evian Thonon Gaillard,4,2,2015-01-18 13:00:00,Javier Pastore,Throughball,1741
+5866,44,BlockedShot,0.9059999847412109,0.674000015258789,0.057539500296115875,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,RightFoot,6028,Saint-Etienne,Paris Saint Germain,0,1,2015-01-25 20:00:00,,None,1741
+5872,57,SavedShot,0.895,0.34700000762939454,0.3233630061149597,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,RightFoot,6028,Saint-Etienne,Paris Saint Germain,0,1,2015-01-25 20:00:00,Marco Verratti,Throughball,1741
+5874,59,Goal,0.885,0.5,0.7600950002670288,Zlatan Ibrahimovic,a,1741,Penalty,2014,RightFoot,6028,Saint-Etienne,Paris Saint Germain,0,1,2015-01-25 20:00:00,,Standard,1741
+5876,69,BlockedShot,0.9,0.6270000076293946,0.34419500827789307,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,RightFoot,6028,Saint-Etienne,Paris Saint Germain,0,1,2015-01-25 20:00:00,Marco Verratti,Pass,1741
+2561,41,MissedShots,0.9490000152587891,0.4979999923706055,0.6036700010299683,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,6029,Paris Saint Germain,Rennes,1,0,2015-01-30 19:30:00,Lucas Digne,Cross,1741
+3140,49,SavedShot,0.92,0.534000015258789,0.04446620121598244,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,Head,5972,Lyon,Paris Saint Germain,1,1,2015-02-08 20:00:00,Maxwell,Aerial,1741
+3142,53,SavedShot,0.919000015258789,0.4779999923706055,0.3401840031147003,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,Head,5972,Lyon,Paris Saint Germain,1,1,2015-02-08 20:00:00,Maxwell,Cross,1741
+3146,68,Goal,0.885,0.5,0.7600950002670288,Zlatan Ibrahimovic,a,1741,Penalty,2014,RightFoot,5972,Lyon,Paris Saint Germain,1,1,2015-02-08 20:00:00,,Standard,1741
+3149,78,BlockedShot,0.7069999694824218,0.6070000076293945,0.03881929814815521,Zlatan Ibrahimovic,a,1741,DirectFreekick,2014,RightFoot,5972,Lyon,Paris Saint Germain,1,1,2015-02-08 20:00:00,,Standard,1741
+2759,1,Goal,0.94,0.48700000762939455,0.11897999793291092,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Serge Aurier,Cross,1741
+2774,58,MissedShots,0.8959999847412109,0.5690000152587891,0.06371980160474777,Zlatan Ibrahimovic,h,1741,SetPiece,2014,Head,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,Lucas Moura,Cross,1741
+2777,65,MissedShots,0.9469999694824218,0.30700000762939456,0.041364699602127075,Zlatan Ibrahimovic,h,1741,FromCorner,2014,RightFoot,5974,Paris Saint Germain,Caen,2,2,2015-02-14 15:00:00,,None,1741
+3841,55,MissedShots,0.8019999694824219,0.534000015258789,0.06067420169711113,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,LeftFoot,5983,Paris Saint Germain,Toulouse,3,1,2015-02-21 16:00:00,Blaise Matuidi,Pass,1741
+7742,2,MissedShots,0.919000015258789,0.5170000076293946,0.11306799948215485,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,Gregory Van der Wiel,Cross,1741
+7743,10,MissedShots,0.7219999694824218,0.46900001525878904,0.049172498285770416,Zlatan Ibrahimovic,h,1741,DirectFreekick,2014,RightFoot,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,,Standard,1741
+7744,13,ShotOnPost,0.8780000305175781,0.6070000076293945,0.3128170073032379,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,LeftFoot,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,Marco Verratti,Pass,1741
+7747,17,SavedShot,0.8080000305175781,0.41,0.30621400475502014,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,Adrien Rabiot,Throughball,1741
+7749,31,BlockedShot,0.750999984741211,0.39099998474121095,0.06001029908657074,Zlatan Ibrahimovic,h,1741,DirectFreekick,2014,RightFoot,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,,Standard,1741
+7754,44,BlockedShot,0.875999984741211,0.2879999923706055,0.03285659849643707,Zlatan Ibrahimovic,h,1741,FromCorner,2014,LeftFoot,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,Marco Verratti,Pass,1741
+7759,59,Goal,0.885,0.5,0.7600950002670288,Zlatan Ibrahimovic,h,1741,Penalty,2014,RightFoot,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,,Standard,1741
+7762,63,SavedShot,0.8540000152587891,0.5640000152587891,0.10594700276851654,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,Thiago Motta,Pass,1741
+7763,65,SavedShot,0.7140000152587891,0.5129999923706055,0.0540350005030632,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,Maxwell,Pass,1741
+7773,89,SavedShot,0.8969999694824219,0.5629999923706055,0.020903000608086586,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,Head,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,Gregory Van der Wiel,Aerial,1741
+7663,34,SavedShot,0.8619999694824219,0.35900001525878905,0.32903599739074707,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,RightFoot,5948,Bordeaux,Paris Saint Germain,3,2,2015-03-15 16:00:00,Thiago Motta,Throughball,1741
+7667,49,Goal,0.8719999694824219,0.4520000076293945,0.07281579822301865,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,RightFoot,5948,Bordeaux,Paris Saint Germain,3,2,2015-03-15 16:00:00,Javier Pastore,HeadPass,1741
+7682,76,MissedShots,0.9,0.49400001525878906,0.09720879793167114,Zlatan Ibrahimovic,a,1741,FromCorner,2014,RightFoot,5948,Bordeaux,Paris Saint Germain,3,2,2015-03-15 16:00:00,Adrien Rabiot,HeadPass,1741
+7685,84,Goal,0.885,0.5,0.7600950002670288,Zlatan Ibrahimovic,a,1741,Penalty,2014,RightFoot,5948,Bordeaux,Paris Saint Germain,3,2,2015-03-15 16:00:00,,Standard,1741
+8393,3,Goal,0.885,0.5,0.7600950002670288,Zlatan Ibrahimovic,h,1741,Penalty,2014,RightFoot,5950,Paris Saint Germain,Lorient,3,1,2015-03-20 19:30:00,,Standard,1741
+8398,23,SavedShot,0.884000015258789,0.37099998474121093,0.09693309664726257,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,5950,Paris Saint Germain,Lorient,3,1,2015-03-20 19:30:00,Javier Pastore,Pass,1741
+8399,31,BlockedShot,0.8519999694824218,0.415,0.09859450161457062,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,5950,Paris Saint Germain,Lorient,3,1,2015-03-20 19:30:00,Ezequiel Lavezzi,Pass,1741
+8412,78,SavedShot,0.909000015258789,0.52,0.09894119948148727,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,5950,Paris Saint Germain,Lorient,3,1,2015-03-20 19:30:00,,None,1741
+8413,81,Goal,0.885,0.5,0.7600950002670288,Zlatan Ibrahimovic,h,1741,Penalty,2014,RightFoot,5950,Paris Saint Germain,Lorient,3,1,2015-03-20 19:30:00,,Standard,1741
+8418,90,Goal,0.845,0.54,0.33359000086784363,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,RightFoot,5950,Paris Saint Germain,Lorient,3,1,2015-03-20 19:30:00,Marco Verratti,Pass,1741
+7345,2,BlockedShot,0.8059999847412109,0.445,0.02625250071287155,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,LeftFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Maxwell,Cross,1741
+7348,12,BlockedShot,0.9790000152587891,0.61,0.04432249814271927,Zlatan Ibrahimovic,a,1741,FromCorner,2014,LeftFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Thiago Motta,Cross,1741
+7360,43,SavedShot,0.774000015258789,0.6170000076293946,0.04152660071849823,Zlatan Ibrahimovic,a,1741,OpenPlay,2014,RightFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Blaise Matuidi,TakeOn,1741
+6418,17,Goal,0.894000015258789,0.42,0.2834329903125763,Zlatan Ibrahimovic,h,1741,OpenPlay,2014,LeftFoot,5855,Paris Saint Germain,Guingamp,6,0,2015-05-08 19:30:00,Marco Verratti,TakeOn,1741
+6430,75,SavedShot,0.95,0.534000015258789,0.47321200370788574,Zlatan Ibrahimovic,h,1741,FromCorner,2014,Head,5855,Paris Saint Germain,Guingamp,6,0,2015-05-08 19:30:00,Marquinhos,Pass,1741
+6429,75,SavedShot,0.6819999694824219,0.41700000762939454,0.03242979943752289,Zlatan Ibrahimovic,h,1741,DirectFreekick,2014,RightFoot,5855,Paris Saint Germain,Guingamp,6,0,2015-05-08 19:30:00,,Standard,1741
+6432,89,Goal,0.885,0.5,0.7600950002670288,Zlatan Ibrahimovic,h,1741,Penalty,2014,RightFoot,5855,Paris Saint Germain,Guingamp,6,0,2015-05-08 19:30:00,,Standard,1741
+62021,5,MissedShots,0.8880000305175781,0.6320000076293946,0.037887800484895706,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,1908,Monaco,Paris Saint Germain,0,3,2015-08-30 23:00:00,Serge Aurier,Cross,1741
+62028,28,MissedShots,0.825,0.66,0.042090099304914474,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,1908,Monaco,Paris Saint Germain,0,3,2015-08-30 23:00:00,David Luiz,Chipped,1741
+62038,45,SavedShot,0.9359999847412109,0.40599998474121096,0.040831901133060455,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,Head,1908,Monaco,Paris Saint Germain,0,3,2015-08-30 23:00:00,Maxwell,Aerial,1741
+62346,42,MissedShots,0.915,0.56,0.05253329873085022,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,Head,1920,Reims,Paris Saint Germain,1,1,2015-09-19 19:30:00,Gregory Van der Wiel,Aerial,1741
+62347,46,MissedShots,0.8780000305175781,0.6469999694824219,0.06149109825491905,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,LeftFoot,1920,Reims,Paris Saint Germain,1,1,2015-09-19 19:30:00,Javier Pastore,Chipped,1741
+62351,58,MissedShots,0.945,0.5990000152587891,0.1125359982252121,Zlatan Ibrahimovic,a,1741,FromCorner,2015,RightFoot,1920,Reims,Paris Saint Germain,1,1,2015-09-19 19:30:00,,Rebound,1741
+62353,61,MissedShots,0.8969999694824219,0.5479999923706055,0.24456100165843964,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,Head,1920,Reims,Paris Saint Germain,1,1,2015-09-19 19:30:00,,Rebound,1741
+62354,63,MissedShots,0.8490000152587891,0.6730000305175782,0.044935598969459534,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,LeftFoot,1920,Reims,Paris Saint Germain,1,1,2015-09-19 19:30:00,Lucas Moura,Pass,1741
+62356,69,SavedShot,0.7619999694824219,0.720999984741211,0.018970100209116936,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,1920,Reims,Paris Saint Germain,1,1,2015-09-19 19:30:00,Layvin Kurzawa,Pass,1741
+63036,18,MissedShots,0.8380000305175781,0.6659999847412109,0.052406299859285355,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,LeftFoot,1930,Paris Saint Germain,Guingamp,3,0,2015-09-22 23:00:00,Maxwell,Pass,1741
+63042,25,SavedShot,0.7390000152587891,0.46,0.029605599120259285,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,1930,Paris Saint Germain,Guingamp,3,0,2015-09-22 23:00:00,Edinson Cavani,LayOff,1741
+63053,48,SavedShot,0.7090000152587891,0.5629999923706055,0.04192589968442917,Zlatan Ibrahimovic,h,1741,DirectFreekick,2015,RightFoot,1930,Paris Saint Germain,Guingamp,3,0,2015-09-22 23:00:00,,Standard,1741
+63054,50,MissedShots,0.9680000305175781,0.6669999694824219,0.09002230316400528,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,1930,Paris Saint Germain,Guingamp,3,0,2015-09-22 23:00:00,Javier Pastore,Pass,1741
+63062,75,SavedShot,0.895,0.295,0.05836769938468933,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,LeftFoot,1930,Paris Saint Germain,Guingamp,3,0,2015-09-22 23:00:00,Marco Verratti,Pass,1741
+63065,82,Goal,0.909000015258789,0.669000015258789,0.09332019835710526,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,1930,Paris Saint Germain,Guingamp,3,0,2015-09-22 23:00:00,Ángel Di María,Pass,1741
+63066,86,SavedShot,0.885,0.5,0.7600950002670288,Zlatan Ibrahimovic,h,1741,Penalty,2015,RightFoot,1930,Paris Saint Germain,Guingamp,3,0,2015-09-22 23:00:00,,Standard,1741
+65723,19,SavedShot,0.875999984741211,0.6930000305175781,0.042691901326179504,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,1939,Nantes,Paris Saint Germain,1,4,2015-09-26 19:30:00,,Dispossessed,1741
+65729,44,BlockedShot,0.7330000305175781,0.3110000038146973,0.040560800582170486,Zlatan Ibrahimovic,a,1741,DirectFreekick,2015,RightFoot,1939,Nantes,Paris Saint Germain,1,4,2015-09-26 19:30:00,,Standard,1741
+65731,47,Goal,0.97,0.47,0.6674489974975586,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,1939,Nantes,Paris Saint Germain,1,4,2015-09-26 19:30:00,,None,1741
+65732,57,BlockedShot,0.7190000152587891,0.6070000076293945,0.04344400018453598,Zlatan Ibrahimovic,a,1741,DirectFreekick,2015,RightFoot,1939,Nantes,Paris Saint Germain,1,4,2015-09-26 19:30:00,,Standard,1741
+65735,69,MissedShots,0.9219999694824219,0.41700000762939454,0.232915997505188,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,Head,1939,Nantes,Paris Saint Germain,1,4,2015-09-26 19:30:00,Ángel Di María,Cross,1741
+63195,11,SavedShot,0.88,0.27899999618530275,0.039708301424980164,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,1957,Paris Saint Germain,Marseille,2,1,2015-10-04 23:00:00,Serge Aurier,Pass,1741
+63197,18,SavedShot,0.8819999694824219,0.6459999847412109,0.07345719635486603,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,1957,Paris Saint Germain,Marseille,2,1,2015-10-04 23:00:00,Edinson Cavani,Pass,1741
+63201,22,SavedShot,0.9319999694824219,0.41,0.38705700635910034,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,1957,Paris Saint Germain,Marseille,2,1,2015-10-04 23:00:00,,Rebound,1741
+63198,22,BlockedShot,0.8480000305175781,0.500999984741211,0.09391680359840393,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,1957,Paris Saint Germain,Marseille,2,1,2015-10-04 23:00:00,Marco Verratti,Pass,1741
+63221,40,Goal,0.885,0.5,0.7600950002670288,Zlatan Ibrahimovic,h,1741,Penalty,2015,RightFoot,1957,Paris Saint Germain,Marseille,2,1,2015-10-04 23:00:00,,Standard,1741
+63222,43,Goal,0.885,0.5,0.7600950002670288,Zlatan Ibrahimovic,h,1741,Penalty,2015,RightFoot,1957,Paris Saint Germain,Marseille,2,1,2015-10-04 23:00:00,,Standard,1741
+63297,12,MissedShots,0.7030000305175781,0.40799999237060547,0.038271598517894745,Zlatan Ibrahimovic,a,1741,DirectFreekick,2015,RightFoot,1959,SC Bastia,Paris Saint Germain,0,2,2015-10-17 19:00:00,,Standard,1741
+63302,35,MissedShots,0.7419999694824219,0.655,0.016059299930930138,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,1959,SC Bastia,Paris Saint Germain,0,2,2015-10-17 19:00:00,Javier Pastore,Pass,1741
+63306,39,MissedShots,0.9790000152587891,0.39799999237060546,0.07431499660015106,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,1959,SC Bastia,Paris Saint Germain,0,2,2015-10-17 19:00:00,Maxwell,Cross,1741
+63310,55,MissedShots,0.9330000305175781,0.5709999847412109,0.05735030025243759,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,Head,1959,SC Bastia,Paris Saint Germain,0,2,2015-10-17 19:00:00,Lucas Moura,Aerial,1741
+63320,71,Goal,0.9519999694824218,0.41,0.4586710035800934,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,1959,SC Bastia,Paris Saint Germain,0,2,2015-10-17 19:00:00,Edinson Cavani,Pass,1741
+63325,82,Goal,0.919000015258789,0.48900001525878906,0.5337690114974976,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,1959,SC Bastia,Paris Saint Germain,0,2,2015-10-17 19:00:00,Serge Aurier,Pass,1741
+63946,11,SavedShot,0.865999984741211,0.29700000762939455,0.038905899971723557,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,1977,Paris Saint Germain,Saint-Etienne,4,1,2015-10-26 00:00:00,Ángel Di María,Pass,1741
+63961,26,SavedShot,0.6769999694824219,0.5929999923706055,0.0309578999876976,Zlatan Ibrahimovic,h,1741,DirectFreekick,2015,RightFoot,1977,Paris Saint Germain,Saint-Etienne,4,1,2015-10-26 00:00:00,,Standard,1741
+63975,44,MissedShots,0.925,0.5379999923706055,0.37241899967193604,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,Head,1977,Paris Saint Germain,Saint-Etienne,4,1,2015-10-26 00:00:00,Ángel Di María,Cross,1741
+63996,57,SavedShot,0.97,0.3220000076293945,0.07917240262031555,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,1977,Paris Saint Germain,Saint-Etienne,4,1,2015-10-26 00:00:00,Marco Verratti,Pass,1741
+63998,66,Goal,0.9219999694824219,0.47900001525878905,0.5792459845542908,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,1977,Paris Saint Germain,Saint-Etienne,4,1,2015-10-26 00:00:00,Edinson Cavani,Pass,1741
+64549,17,Goal,0.9630000305175781,0.5220000076293946,0.6370880007743835,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,Head,1990,Paris Saint Germain,Toulouse,5,0,2015-11-07 20:00:00,,None,1741
+64555,23,SavedShot,0.945,0.7119999694824218,0.0416422002017498,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,1990,Paris Saint Germain,Toulouse,5,0,2015-11-07 20:00:00,Thiago Silva,Cross,1741
+64561,27,MissedShots,0.8959999847412109,0.4829999923706055,0.09352920204401016,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,Head,1990,Paris Saint Germain,Toulouse,5,0,2015-11-07 20:00:00,Thiago Silva,Cross,1741
+64572,61,MissedShots,0.9,0.365,0.014969799667596817,Zlatan Ibrahimovic,h,1741,FromCorner,2015,Head,1990,Paris Saint Germain,Toulouse,5,0,2015-11-07 20:00:00,Ángel Di María,Cross,1741
+64588,74,Goal,0.91,0.580999984741211,0.44650799036026,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,1990,Paris Saint Germain,Toulouse,5,0,2015-11-07 20:00:00,,Rebound,1741
+64943,11,MissedShots,0.8590000152587891,0.5179999923706055,0.1050179973244667,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2000,Lorient,Paris Saint Germain,1,2,2015-11-21 20:00:00,Blaise Matuidi,Pass,1741
+64947,21,BlockedShot,0.749000015258789,0.5870000076293945,0.0615835003554821,Zlatan Ibrahimovic,a,1741,DirectFreekick,2015,RightFoot,2000,Lorient,Paris Saint Germain,1,2,2015-11-21 20:00:00,,Standard,1741
+64950,35,BlockedShot,0.8880000305175781,0.6509999847412109,0.13241000473499298,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,LeftFoot,2000,Lorient,Paris Saint Germain,1,2,2015-11-21 20:00:00,Adrien Rabiot,Throughball,1741
+64962,85,SavedShot,0.8519999694824218,0.63,0.07553990185260773,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2000,Lorient,Paris Saint Germain,1,2,2015-11-21 20:00:00,Blaise Matuidi,Pass,1741
+64764,28,BlockedShot,0.8719999694824219,0.40799999237060547,0.0995367020368576,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2010,Paris Saint Germain,Troyes,4,1,2015-11-28 20:00:00,,Foul,1741
+64772,42,MissedShots,0.8859999847412109,0.32599998474121095,0.07535230368375778,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2010,Paris Saint Germain,Troyes,4,1,2015-11-28 20:00:00,Gregory Van der Wiel,Pass,1741
+64784,57,Goal,0.885,0.5,0.7600950002670288,Zlatan Ibrahimovic,h,1741,Penalty,2015,RightFoot,2010,Paris Saint Germain,Troyes,4,1,2015-11-28 20:00:00,,Standard,1741
+64793,72,BlockedShot,0.88,0.639000015258789,0.09695930033922195,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,LeftFoot,2010,Paris Saint Germain,Troyes,4,1,2015-11-28 20:00:00,Blaise Matuidi,Pass,1741
+64806,81,BlockedShot,0.725,0.654000015258789,0.041561100631952286,Zlatan Ibrahimovic,h,1741,DirectFreekick,2015,RightFoot,2010,Paris Saint Germain,Troyes,4,1,2015-11-28 20:00:00,,Standard,1741
+64431,83,BlockedShot,0.7559999847412109,0.4470000076293945,0.07053790241479874,Zlatan Ibrahimovic,a,1741,DirectFreekick,2015,RightFoot,2019,Angers,Paris Saint Germain,0,0,2015-12-01 22:00:00,,Standard,1741
+65607,12,SavedShot,0.8080000305175781,0.36200000762939455,0.2724829912185669,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,,None,1741
+65609,19,MissedShots,0.919000015258789,0.40599998474121096,0.41046300530433655,Zlatan Ibrahimovic,a,1741,SetPiece,2015,RightFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Serge Aurier,Rebound,1741
+65615,43,Goal,0.885,0.5,0.7600950002670288,Zlatan Ibrahimovic,a,1741,Penalty,2015,RightFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,,Standard,1741
+65617,50,SavedShot,0.92,0.41700000762939454,0.17297600209712982,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,Head,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Blaise Matuidi,Cross,1741
+65621,60,Goal,0.9519999694824218,0.31799999237060544,0.3888390064239502,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Ángel Di María,Throughball,1741
+65086,3,SavedShot,0.8619999694824219,0.5690000152587891,0.12273900210857391,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2048,Paris Saint Germain,Lyon,5,1,2015-12-14 00:00:00,Ángel Di María,Throughball,1741
+65087,10,Goal,0.9119999694824219,0.38599998474121094,0.3581939935684204,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2048,Paris Saint Germain,Lyon,5,1,2015-12-14 00:00:00,,None,1741
+65100,76,Goal,0.885,0.5,0.7600950002670288,Zlatan Ibrahimovic,h,1741,Penalty,2015,RightFoot,2048,Paris Saint Germain,Lyon,5,1,2015-12-14 00:00:00,,Standard,1741
+65329,21,ShotOnPost,0.94,0.5179999923706055,0.6118050217628479,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2050,Caen,Paris Saint Germain,0,3,2015-12-19 20:00:00,,Rebound,1741
+65327,21,SavedShot,0.855999984741211,0.5870000076293945,0.10212299972772598,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2050,Caen,Paris Saint Germain,0,3,2015-12-19 20:00:00,Ángel Di María,Pass,1741
+65330,21,SavedShot,0.9540000152587891,0.5259999847412109,0.1639470010995865,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2050,Caen,Paris Saint Germain,0,3,2015-12-19 20:00:00,,Rebound,1741
+65334,35,Goal,0.755,0.49900001525878906,0.03402100130915642,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2050,Caen,Paris Saint Germain,0,3,2015-12-19 20:00:00,,None,1741
+65340,62,MissedShots,0.7959999847412109,0.580999984741211,0.11014500260353088,Zlatan Ibrahimovic,a,1741,DirectFreekick,2015,RightFoot,2050,Caen,Paris Saint Germain,0,3,2015-12-19 20:00:00,,Standard,1741
+65939,31,BlockedShot,0.6919999694824219,0.5659999847412109,0.03573340177536011,Zlatan Ibrahimovic,h,1741,DirectFreekick,2015,RightFoot,2059,Paris Saint Germain,SC Bastia,2,0,2016-01-08 23:30:00,,Standard,1741
+65943,57,BlockedShot,0.8669999694824219,0.5359999847412109,0.11799000203609467,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2059,Paris Saint Germain,SC Bastia,2,0,2016-01-08 23:30:00,Marco Verratti,Pass,1741
+65950,88,MissedShots,0.92,0.5529999923706055,0.13538800179958344,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,LeftFoot,2059,Paris Saint Germain,SC Bastia,2,0,2016-01-08 23:30:00,Ezequiel Lavezzi,Cross,1741
+66183,1,MissedShots,0.6730000305175782,0.4229999923706055,0.00825497042387724,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2070,Toulouse,Paris Saint Germain,0,1,2016-01-16 20:00:00,,None,1741
+66184,9,BlockedShot,0.9530000305175781,0.59,0.09374760091304779,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,LeftFoot,2070,Toulouse,Paris Saint Germain,0,1,2016-01-16 20:00:00,,None,1741
+66186,29,MissedShots,0.659000015258789,0.519000015258789,0.028525499626994133,Zlatan Ibrahimovic,a,1741,DirectFreekick,2015,RightFoot,2070,Toulouse,Paris Saint Germain,0,1,2016-01-16 20:00:00,,Standard,1741
+66189,34,SavedShot,0.865999984741211,0.664000015258789,0.05276929959654808,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,LeftFoot,2070,Toulouse,Paris Saint Germain,0,1,2016-01-16 20:00:00,Lucas Moura,Pass,1741
+66193,50,MissedShots,0.7230000305175781,0.43400001525878906,0.0212118998169899,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2070,Toulouse,Paris Saint Germain,0,1,2016-01-16 20:00:00,Thiago Motta,Pass,1741
+66195,54,MissedShots,0.9269999694824219,0.5259999847412109,0.08156059682369232,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,Head,2070,Toulouse,Paris Saint Germain,0,1,2016-01-16 20:00:00,Serge Aurier,Aerial,1741
+66198,72,Goal,0.9719999694824218,0.5709999847412109,0.3303309977054596,Zlatan Ibrahimovic,a,1741,FromCorner,2015,Head,2070,Toulouse,Paris Saint Germain,0,1,2016-01-16 20:00:00,David Luiz,Rebound,1741
+66202,91,SavedShot,0.6890000152587891,0.74,0.026875900104641914,Zlatan Ibrahimovic,a,1741,DirectFreekick,2015,RightFoot,2070,Toulouse,Paris Saint Germain,0,1,2016-01-16 20:00:00,,Standard,1741
+66366,1,MissedShots,0.9390000152587891,0.295,0.044916000217199326,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2080,Paris Saint Germain,Angers,5,1,2016-01-23 20:00:00,Lucas Moura,Pass,1741
+66367,6,MissedShots,0.7219999694824218,0.509000015258789,0.049583401530981064,Zlatan Ibrahimovic,h,1741,DirectFreekick,2015,RightFoot,2080,Paris Saint Germain,Angers,5,1,2016-01-23 20:00:00,,Standard,1741
+66374,31,Goal,0.865999984741211,0.33599998474121096,0.058194998651742935,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2080,Paris Saint Germain,Angers,5,1,2016-01-23 20:00:00,Blaise Matuidi,Pass,1741
+66391,84,SavedShot,0.7819999694824219,0.5420000076293945,0.09936179965734482,Zlatan Ibrahimovic,h,1741,DirectFreekick,2015,RightFoot,2080,Paris Saint Germain,Angers,5,1,2016-01-23 20:00:00,,Standard,1741
+66440,5,MissedShots,0.855,0.4779999923706055,0.05622909963130951,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,LeftFoot,2098,Saint-Etienne,Paris Saint Germain,0,2,2016-02-01 00:00:00,Ángel Di María,Cross,1741
+66445,22,BlockedShot,0.725999984741211,0.2989999961853027,0.03703249990940094,Zlatan Ibrahimovic,a,1741,DirectFreekick,2015,RightFoot,2098,Saint-Etienne,Paris Saint Germain,0,2,2016-02-01 00:00:00,,Standard,1741
+66448,34,SavedShot,0.899000015258789,0.47400001525878904,0.3201889991760254,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2098,Saint-Etienne,Paris Saint Germain,0,2,2016-02-01 00:00:00,Ángel Di María,Chipped,1741
+66453,57,BlockedShot,0.8690000152587891,0.5359999847412109,0.1413619965314865,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,LeftFoot,2098,Saint-Etienne,Paris Saint Germain,0,2,2016-02-01 00:00:00,Ángel Di María,TakeOn,1741
+66456,60,Goal,0.9230000305175782,0.505,0.42374101281166077,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2098,Saint-Etienne,Paris Saint Germain,0,2,2016-02-01 00:00:00,Serge Aurier,Cross,1741
+66462,91,Goal,0.9630000305175781,0.5729999923706055,0.516638994216919,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2098,Saint-Etienne,Paris Saint Germain,0,2,2016-02-01 00:00:00,Ángel Di María,Rebound,1741
+69142,8,SavedShot,0.6840000152587891,0.395,0.03216790035367012,Zlatan Ibrahimovic,h,1741,DirectFreekick,2015,RightFoot,2107,Paris Saint Germain,Lorient,3,1,2016-02-04 00:00:00,,Standard,1741
+69150,25,BlockedShot,0.759000015258789,0.6830000305175781,0.05205930024385452,Zlatan Ibrahimovic,h,1741,DirectFreekick,2015,RightFoot,2107,Paris Saint Germain,Lorient,3,1,2016-02-04 00:00:00,,Standard,1741
+69152,54,Goal,0.9359999847412109,0.48900001525878906,0.5081859827041626,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2107,Paris Saint Germain,Lorient,3,1,2016-02-04 00:00:00,Layvin Kurzawa,Cross,1741
+69330,1,Goal,0.9590000152587891,0.47400001525878904,0.6120349764823914,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2118,Marseille,Paris Saint Germain,1,2,2016-02-08 00:00:00,Maxwell,Cross,1741
+69350,59,MissedShots,0.925,0.44099998474121094,0.37008601427078247,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2118,Marseille,Paris Saint Germain,1,2,2016-02-08 00:00:00,Blaise Matuidi,Cross,1741
+69865,42,Goal,0.915,0.5829999923706055,0.38721200823783875,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,LeftFoot,2130,Paris Saint Germain,Reims,4,1,2016-02-20 20:00:00,Lucas Moura,Rebound,1741
+69864,42,BlockedShot,0.8880000305175781,0.54,0.11960600316524506,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,LeftFoot,2130,Paris Saint Germain,Reims,4,1,2016-02-20 20:00:00,Lucas Moura,Pass,1741
+69867,45,MissedShots,0.7730000305175782,0.385,0.03213939815759659,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2130,Paris Saint Germain,Reims,4,1,2016-02-20 20:00:00,Edinson Cavani,Pass,1741
+69871,67,Goal,0.9230000305175782,0.615999984741211,0.4629420042037964,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,LeftFoot,2130,Paris Saint Germain,Reims,4,1,2016-02-20 20:00:00,,None,1741
+70096,7,MissedShots,0.4259999847412109,0.14699999809265138,0.00607493007555604,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2146,Lyon,Paris Saint Germain,2,1,2016-02-29 00:00:00,Gregory Van der Wiel,Pass,1741
+70099,13,MissedShots,0.8719999694824219,0.590999984741211,0.056486599147319794,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,LeftFoot,2146,Lyon,Paris Saint Germain,2,1,2016-02-29 00:00:00,Edinson Cavani,HeadPass,1741
+70107,43,SavedShot,0.735,0.500999984741211,0.017851900309324265,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2146,Lyon,Paris Saint Germain,2,1,2016-02-29 00:00:00,Benjamin Stambouli,Pass,1741
+70115,64,MissedShots,0.7759999847412109,0.40400001525878904,0.02870430052280426,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2146,Lyon,Paris Saint Germain,2,1,2016-02-29 00:00:00,Javier Pastore,Pass,1741
+66987,79,MissedShots,0.7909999847412109,0.8140000152587891,0.038554299622774124,Zlatan Ibrahimovic,h,1741,DirectFreekick,2015,RightFoot,2148,Paris Saint Germain,Montpellier,0,0,2016-03-05 20:00:00,,Standard,1741
+66989,91,SavedShot,0.8830000305175781,0.33599998474121096,0.2643499970436096,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2148,Paris Saint Germain,Montpellier,0,0,2016-03-05 20:00:00,Jean-Kevin Augustin,Pass,1741
+67250,9,MissedShots,0.7580000305175781,0.5979999923706054,0.02587280049920082,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,Edinson Cavani,LayOff,1741
+67258,26,MissedShots,0.8030000305175782,0.649000015258789,0.04402260109782219,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,LeftFoot,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,,TakeOn,1741
+67265,45,Goal,0.8130000305175781,0.51,0.08737830072641373,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,LeftFoot,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,Edinson Cavani,Pass,1741
+67267,51,MissedShots,0.885,0.3509999847412109,0.07192710041999817,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,LeftFoot,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,,None,1741
+67268,51,Goal,0.9080000305175782,0.45099998474121095,0.42302799224853516,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,Ángel Di María,Cross,1741
+67269,54,Goal,0.815,0.5129999923706055,0.08714789897203445,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,Layvin Kurzawa,Pass,1741
+67278,77,SavedShot,0.7019999694824218,0.62,0.015430900268256664,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,Javier Pastore,Pass,1741
+67283,87,Goal,0.889000015258789,0.629000015258789,0.15285199880599976,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,LeftFoot,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,Javier Pastore,Throughball,1741
+67167,17,SavedShot,0.749000015258789,0.33,0.013240000233054161,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2178,Paris Saint Germain,Monaco,0,2,2016-03-21 00:00:00,Lucas Moura,HeadPass,1741
+67176,38,MissedShots,0.909000015258789,0.67,0.07031229883432388,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,LeftFoot,2178,Paris Saint Germain,Monaco,0,2,2016-03-21 00:00:00,Thiago Motta,Pass,1741
+67177,40,MissedShots,0.885,0.47900001525878905,0.04639510065317154,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,Head,2178,Paris Saint Germain,Monaco,0,2,2016-03-21 00:00:00,Ángel Di María,Chipped,1741
+67179,45,SavedShot,0.8690000152587891,0.3320000076293945,0.11038099974393845,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2178,Paris Saint Germain,Monaco,0,2,2016-03-21 00:00:00,Ángel Di María,Throughball,1741
+67189,76,BlockedShot,0.805,0.495,0.037337999790906906,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2178,Paris Saint Germain,Monaco,0,2,2016-03-21 00:00:00,,None,1741
+67191,79,MissedShots,0.9830000305175781,0.4229999923706055,0.2502540051937103,Zlatan Ibrahimovic,h,1741,FromCorner,2015,Head,2178,Paris Saint Germain,Monaco,0,2,2016-03-21 00:00:00,,Rebound,1741
+67192,82,BlockedShot,0.86,0.46799999237060547,0.05610470101237297,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2178,Paris Saint Germain,Monaco,0,2,2016-03-21 00:00:00,Lucas Moura,Chipped,1741
+67197,87,MissedShots,0.9640000152587891,0.5690000152587891,0.5318289995193481,Zlatan Ibrahimovic,h,1741,FromCorner,2015,RightFoot,2178,Paris Saint Germain,Monaco,0,2,2016-03-21 00:00:00,Thiago Silva,Rebound,1741
+67526,4,MissedShots,0.779000015258789,0.4229999923706055,0.03183729946613312,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2180,Paris Saint Germain,Nice,4,1,2016-04-02 19:00:00,Lucas Moura,Pass,1741
+67528,14,Goal,0.9690000152587891,0.345,0.11107099801301956,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2180,Paris Saint Germain,Nice,4,1,2016-04-02 19:00:00,David Luiz,Throughball,1741
+67531,33,Goal,0.8169999694824219,0.45099998474121095,0.16023099422454834,Zlatan Ibrahimovic,h,1741,DirectFreekick,2015,RightFoot,2180,Paris Saint Germain,Nice,4,1,2016-04-02 19:00:00,,Standard,1741
+67535,45,SavedShot,0.8440000152587891,0.4929999923706055,0.041023701429367065,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,LeftFoot,2180,Paris Saint Germain,Nice,4,1,2016-04-02 19:00:00,Maxwell,Aerial,1741
+67538,49,BlockedShot,0.9590000152587891,0.5840000152587891,0.4459240138530731,Zlatan Ibrahimovic,h,1741,FromCorner,2015,RightFoot,2180,Paris Saint Germain,Nice,4,1,2016-04-02 19:00:00,David Luiz,Rebound,1741
+67543,81,Goal,0.875999984741211,0.6619999694824219,0.40446799993515015,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,LeftFoot,2180,Paris Saint Germain,Nice,4,1,2016-04-02 19:00:00,Adrien Rabiot,Throughball,1741
+68086,11,Goal,0.7380000305175781,0.5570000076293945,0.02296469919383526,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2200,Paris Saint Germain,Caen,6,0,2016-04-16 19:00:00,Ángel Di María,Pass,1741
+68094,27,BlockedShot,0.7719999694824219,0.4209999847412109,0.037087999284267426,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,LeftFoot,2200,Paris Saint Germain,Caen,6,0,2016-04-16 19:00:00,Ángel Di María,Pass,1741
+68097,38,MissedShots,0.855999984741211,0.6659999847412109,0.06427620351314545,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2200,Paris Saint Germain,Caen,6,0,2016-04-16 19:00:00,,None,1741
+68110,55,Goal,0.855999984741211,0.4620000076293945,0.08721660077571869,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2200,Paris Saint Germain,Caen,6,0,2016-04-16 19:00:00,Layvin Kurzawa,Cross,1741
+68112,64,MissedShots,0.7240000152587891,0.38,0.027447400614619255,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2200,Paris Saint Germain,Caen,6,0,2016-04-16 19:00:00,Ángel Di María,Pass,1741
+68114,71,MissedShots,0.8480000305175781,0.46,0.11147300153970718,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2200,Paris Saint Germain,Caen,6,0,2016-04-16 19:00:00,Lucas Moura,Pass,1741
+68635,16,MissedShots,0.53,0.500999984741211,0.007530000060796738,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2218,Paris Saint Germain,Rennes,4,0,2016-04-29 22:30:00,Benjamin Stambouli,BallRecovery,1741
+68639,24,MissedShots,0.87,0.3320000076293945,0.05452439934015274,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2218,Paris Saint Germain,Rennes,4,0,2016-04-29 22:30:00,Javier Pastore,Pass,1741
+68642,35,MissedShots,0.794000015258789,0.4490000152587891,0.11537200212478638,Zlatan Ibrahimovic,h,1741,DirectFreekick,2015,RightFoot,2218,Paris Saint Germain,Rennes,4,0,2016-04-29 22:30:00,,Standard,1741
+68645,45,SavedShot,0.87,0.4520000076293945,0.10994400084018707,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2218,Paris Saint Germain,Rennes,4,0,2016-04-29 22:30:00,Ángel Di María,Pass,1741
+68650,53,Goal,0.9369999694824219,0.534000015258789,0.47154200077056885,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2218,Paris Saint Germain,Rennes,4,0,2016-04-29 22:30:00,Ángel Di María,Cross,1741
+68658,75,SavedShot,0.88,0.5590000152587891,0.4294619858264923,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2218,Paris Saint Germain,Rennes,4,0,2016-04-29 22:30:00,Maxwell,Throughball,1741
+68660,77,Goal,0.8719999694824219,0.5570000076293945,0.1256439983844757,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,LeftFoot,2218,Paris Saint Germain,Rennes,4,0,2016-04-29 22:30:00,Javier Pastore,Pass,1741
+68661,79,MissedShots,0.9309999847412109,0.3039999961853027,0.05146750062704086,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2218,Paris Saint Germain,Rennes,4,0,2016-04-29 22:30:00,Edinson Cavani,Cross,1741
+67869,52,SavedShot,0.95,0.4520000076293945,0.0945558026432991,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,Head,2232,GFC Ajaccio,Paris Saint Germain,0,4,2016-05-07 23:00:00,,Aerial,1741
+67879,91,Goal,0.82,0.445,0.4031899869441986,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,RightFoot,2232,GFC Ajaccio,Paris Saint Germain,0,4,2016-05-07 23:00:00,Maxwell,Throughball,1741
+68507,35,MissedShots,0.8059999847412109,0.62,0.03747570142149925,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,LeftFoot,2238,Bordeaux,Paris Saint Germain,1,1,2016-05-11 22:30:00,Layvin Kurzawa,Pass,1741
+68512,58,Goal,0.9540000152587891,0.5609999847412109,0.42993900179862976,Zlatan Ibrahimovic,a,1741,OpenPlay,2015,Head,2238,Bordeaux,Paris Saint Germain,1,1,2016-05-11 22:30:00,Ángel Di María,Cross,1741
+68891,7,SavedShot,0.8830000305175781,0.295,0.11415400356054306,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2244,Paris Saint Germain,Nantes,4,0,2016-05-14 23:00:00,Ángel Di María,Throughball,1741
+68894,17,Goal,0.9619999694824218,0.53,0.6105599999427795,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,OtherBodyPart,2244,Paris Saint Germain,Nantes,4,0,2016-05-14 23:00:00,Ángel Di María,Cross,1741
+68897,29,SavedShot,0.875,0.5659999847412109,0.3893960118293762,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2244,Paris Saint Germain,Nantes,4,0,2016-05-14 23:00:00,Javier Pastore,Throughball,1741
+68896,29,SavedShot,0.9130000305175782,0.534000015258789,0.34940600395202637,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2244,Paris Saint Germain,Nantes,4,0,2016-05-14 23:00:00,Lucas Moura,Cross,1741
+68901,47,SavedShot,0.7980000305175782,0.509000015258789,0.06340710073709488,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2244,Paris Saint Germain,Nantes,4,0,2016-05-14 23:00:00,Maxwell,Pass,1741
+68904,51,SavedShot,0.8080000305175781,0.62,0.11117400228977203,Zlatan Ibrahimovic,h,1741,DirectFreekick,2015,RightFoot,2244,Paris Saint Germain,Nantes,4,0,2016-05-14 23:00:00,,Standard,1741
+68906,60,BlockedShot,0.8580000305175781,0.42400001525878905,0.10813099890947342,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,LeftFoot,2244,Paris Saint Germain,Nantes,4,0,2016-05-14 23:00:00,Ángel Di María,Pass,1741
+68908,65,MissedShots,0.875,0.605999984741211,0.11543399840593338,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,LeftFoot,2244,Paris Saint Germain,Nantes,4,0,2016-05-14 23:00:00,Lucas Moura,Pass,1741
+68913,80,SavedShot,0.779000015258789,0.315,0.06211460009217262,Zlatan Ibrahimovic,h,1741,DirectFreekick,2015,RightFoot,2244,Paris Saint Germain,Nantes,4,0,2016-05-14 23:00:00,,Standard,1741
+68914,81,BlockedShot,0.750999984741211,0.43,0.057012900710105896,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,LeftFoot,2244,Paris Saint Germain,Nantes,4,0,2016-05-14 23:00:00,Javier Pastore,Chipped,1741
+68915,82,SavedShot,0.779000015258789,0.385,0.13592399656772614,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2244,Paris Saint Germain,Nantes,4,0,2016-05-14 23:00:00,Ángel Di María,Throughball,1741
+68916,84,MissedShots,0.8809999847412109,0.41,0.11397600173950195,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,RightFoot,2244,Paris Saint Germain,Nantes,4,0,2016-05-14 23:00:00,Javier Pastore,Chipped,1741
+68919,88,Goal,0.9159999847412109,0.5670000076293945,0.34596899151802063,Zlatan Ibrahimovic,h,1741,OpenPlay,2015,Head,2244,Paris Saint Germain,Nantes,4,0,2016-05-14 23:00:00,Javier Pastore,Aerial,1741
+112125,62,SavedShot,0.7930000305175782,0.5509999847412109,0.11032900214195251,Zlatan Ibrahimovic,a,1741,DirectFreekick,2016,RightFoot,468,Bournemouth,Manchester United,1,3,2016-08-14 16:30:00,,Standard,1741
+112126,63,Goal,0.715,0.27899999618530275,0.015263199806213379,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,RightFoot,468,Bournemouth,Manchester United,1,3,2016-08-14 16:30:00,Anthony Martial,Pass,1741
+112674,28,MissedShots,0.904000015258789,0.5270000076293946,0.10651999711990356,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Juan Mata,HeadPass,1741
+112677,35,Goal,0.9,0.5479999923706055,0.06711989641189575,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,Head,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Wayne Rooney,Cross,1741
+112681,51,Goal,0.885,0.5,0.7611690163612366,Zlatan Ibrahimovic,h,1741,Penalty,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,,Standard,1741
+112967,9,MissedShots,0.925,0.545,0.12559300661087036,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,Head,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,Anthony Martial,Cross,1741
+112968,18,BlockedShot,0.850999984741211,0.6730000305175782,0.024132000282406807,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,LeftFoot,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,Antonio Valencia,Cross,1741
+112976,36,MissedShots,0.889000015258789,0.5820000076293945,0.023398399353027344,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,Head,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,Marouane Fellaini,Aerial,1741
+112978,45,MissedShots,0.985999984741211,0.595999984741211,0.04325539991259575,Zlatan Ibrahimovic,a,1741,SetPiece,2016,RightFoot,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,Wayne Rooney,Cross,1741
+112982,61,BlockedShot,0.7859999847412109,0.595999984741211,0.03056189976632595,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,RightFoot,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,,None,1741
+112984,71,BlockedShot,0.725,0.5459999847412109,0.047995999455451965,Zlatan Ibrahimovic,a,1741,DirectFreekick,2016,RightFoot,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,,Standard,1741
+112991,79,BlockedShot,0.879000015258789,0.669000015258789,0.040377501398324966,Zlatan Ibrahimovic,a,1741,FromCorner,2016,RightFoot,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,,None,1741
+113251,12,BlockedShot,0.7709999847412109,0.544000015258789,0.028963200747966766,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Marouane Fellaini,Pass,1741
+113253,25,BlockedShot,0.805,0.365,0.03212809935212135,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,,None,1741
+113258,41,Goal,0.875,0.6409999847412109,0.05560449883341789,Zlatan Ibrahimovic,h,1741,SetPiece,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,,None,1741
+113261,45,MissedShots,0.9219999694824219,0.500999984741211,0.10646100342273712,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,LeftFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Marcus Rashford,Cross,1741
+113259,45,SavedShot,0.97,0.6040000152587891,0.16976599395275116,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,Head,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Wayne Rooney,Cross,1741
+113260,46,BlockedShot,0.8519999694824218,0.5570000076293945,0.35045599937438965,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,LeftFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Jesse Lingard,Pass,1741
+113263,47,MissedShots,0.8190000152587891,0.5159999847412109,0.03776729851961136,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Wayne Rooney,Cross,1741
+113268,65,MissedShots,0.8219999694824218,0.45799999237060546,0.05586389824748039,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Marouane Fellaini,HeadPass,1741
+113279,91,MissedShots,0.7969999694824219,0.605999984741211,0.026726000010967255,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,LeftFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Marouane Fellaini,Pass,1741
+113280,92,BlockedShot,0.8180000305175781,0.49700000762939456,0.04798879846930504,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,,None,1741
+113654,20,MissedShots,0.915,0.5879999923706055,0.3969469964504242,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,LeftFoot,507,Watford,Manchester United,3,1,2016-09-18 15:00:00,,None,1741
+113661,40,BlockedShot,0.875,0.6430000305175781,0.05363810062408447,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,LeftFoot,507,Watford,Manchester United,3,1,2016-09-18 15:00:00,,BallRecovery,1741
+113664,46,MissedShots,0.7609999847412109,0.575999984741211,0.022991500794887543,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,RightFoot,507,Watford,Manchester United,3,1,2016-09-18 15:00:00,,None,1741
+113670,75,BlockedShot,0.7969999694824219,0.754000015258789,0.05056929960846901,Zlatan Ibrahimovic,a,1741,DirectFreekick,2016,RightFoot,507,Watford,Manchester United,3,1,2016-09-18 15:00:00,,Standard,1741
+113671,78,SavedShot,0.88,0.415,0.02991960011422634,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,Head,507,Watford,Manchester United,3,1,2016-09-18 15:00:00,Marouane Fellaini,Chipped,1741
+113814,6,MissedShots,0.89,0.6759999847412109,0.04100140184164047,Zlatan Ibrahimovic,h,1741,FromCorner,2016,RightFoot,511,Manchester United,Leicester,4,1,2016-09-24 15:30:00,,None,1741
+113823,26,MissedShots,0.9019999694824219,0.620999984741211,0.35948601365089417,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,511,Manchester United,Leicester,4,1,2016-09-24 15:30:00,Paul Pogba,Throughball,1741
+113828,52,MissedShots,0.9269999694824219,0.44599998474121094,0.05646149814128876,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,Head,511,Manchester United,Leicester,4,1,2016-09-24 15:30:00,,Aerial,1741
+113833,65,SavedShot,0.8030000305175782,0.43400001525878906,0.06131710112094879,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,511,Manchester United,Leicester,4,1,2016-09-24 15:30:00,Jesse Lingard,Pass,1741
+113838,84,SavedShot,0.8540000152587891,0.720999984741211,0.05244880169630051,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,511,Manchester United,Leicester,4,1,2016-09-24 15:30:00,Paul Pogba,Pass,1741
+114356,1,SavedShot,0.9890000152587891,0.595999984741211,0.07901159673929214,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,LeftFoot,527,Manchester United,Stoke,1,1,2016-10-02 15:00:00,,Rebound,1741
+114355,1,SavedShot,0.899000015258789,0.5820000076293945,0.3831470012664795,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,527,Manchester United,Stoke,1,1,2016-10-02 15:00:00,Paul Pogba,Throughball,1741
+114366,30,BlockedShot,0.9769999694824218,0.59,0.09292680025100708,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,LeftFoot,527,Manchester United,Stoke,1,1,2016-10-02 15:00:00,Jesse Lingard,Cross,1741
+114376,67,MissedShots,0.740999984741211,0.575,0.019545599818229675,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,527,Manchester United,Stoke,1,1,2016-10-02 15:00:00,Marcus Rashford,Pass,1741
+114381,72,SavedShot,0.9159999847412109,0.6659999847412109,0.05035389959812164,Zlatan Ibrahimovic,h,1741,FromCorner,2016,RightFoot,527,Manchester United,Stoke,1,1,2016-10-02 15:00:00,,None,1741
+114384,85,SavedShot,0.860999984741211,0.5779999923706055,0.1276019960641861,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,527,Manchester United,Stoke,1,1,2016-10-02 15:00:00,Paul Pogba,Throughball,1741
+113979,5,MissedShots,0.69,0.4909999847412109,0.034761298447847366,Zlatan Ibrahimovic,a,1741,DirectFreekick,2016,RightFoot,540,Liverpool,Manchester United,0,0,2016-10-17 23:00:00,,Standard,1741
+113983,16,SavedShot,0.7809999847412109,0.6020000076293945,0.02885659970343113,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,LeftFoot,540,Liverpool,Manchester United,0,0,2016-10-17 23:00:00,Antonio Valencia,Pass,1741
+113986,53,MissedShots,0.9580000305175781,0.5670000076293945,0.3768489956855774,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,Head,540,Liverpool,Manchester United,0,0,2016-10-17 23:00:00,Paul Pogba,Cross,1741
+114285,7,MissedShots,0.9619999694824218,0.5579999923706055,0.06571310013532639,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,Head,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Antonio Valencia,Aerial,1741
+114306,72,MissedShots,0.909000015258789,0.44799999237060545,0.08443769812583923,Zlatan Ibrahimovic,a,1741,SetPiece,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Daley Blind,Cross,1741
+114308,80,SavedShot,0.8769999694824219,0.6,0.052013300359249115,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Juan Mata,Chipped,1741
+114312,90,BlockedShot,0.92,0.5690000152587891,0.12632299959659576,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,LeftFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Marcos Rojo,Pass,1741
+114773,0,SavedShot,0.8119999694824219,0.504000015258789,0.05866429954767227,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,Juan Mata,Pass,1741
+114776,7,MissedShots,0.815,0.38299999237060545,0.04133189842104912,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,LeftFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,,None,1741
+114778,16,SavedShot,0.895,0.5879999923706055,0.3628999888896942,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,LeftFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,Juan Mata,Throughball,1741
+114782,29,SavedShot,0.92,0.504000015258789,0.06541989743709564,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,Head,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,,Aerial,1741
+114789,40,BlockedShot,0.88,0.5709999847412109,0.10364600270986557,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,Paul Pogba,Pass,1741
+114792,47,BlockedShot,0.8540000152587891,0.7,0.025826700031757355,Zlatan Ibrahimovic,h,1741,FromCorner,2016,RightFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,,None,1741
+114794,52,BlockedShot,0.8819999694824219,0.4129999923706055,0.08047749847173691,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,Juan Mata,Chipped,1741
+114801,57,BlockedShot,0.8930000305175781,0.3609999847412109,0.06558690220117569,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,,None,1741
+114803,60,SavedShot,0.955999984741211,0.57,0.11721999943256378,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,Ander Herrera,Cross,1741
+114807,66,BlockedShot,0.9469999694824218,0.5479999923706055,0.12292599678039551,Zlatan Ibrahimovic,h,1741,SetPiece,2016,Head,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,Juan Mata,Cross,1741
+114810,71,MissedShots,0.7440000152587891,0.4129999923706055,0.022626500576734543,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,Jesse Lingard,Pass,1741
+114815,89,MissedShots,0.9669999694824218,0.4329999923706055,0.46406200528144836,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,Paul Pogba,Cross,1741
+115316,20,Goal,0.7709999847412109,0.575,0.03199579939246178,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,RightFoot,2695,Swansea,Manchester United,1,3,2016-11-06 19:00:00,Wayne Rooney,Pass,1741
+115317,32,Goal,0.904000015258789,0.57,0.5080900192260742,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,LeftFoot,2695,Swansea,Manchester United,1,3,2016-11-06 19:00:00,Wayne Rooney,TakeOn,1741
+115292,20,Goal,0.924000015258789,0.54,0.3138740062713623,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,Head,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Paul Pogba,Throughball,1741
+115297,43,MissedShots,0.924000015258789,0.44,0.05146089941263199,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,Head,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Juan Mata,Aerial,1741
+115298,45,BlockedShot,0.8919999694824219,0.3820000076293945,0.09880650043487549,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Paul Pogba,Pass,1741
+115309,78,MissedShots,0.9330000305175781,0.415,0.06967680156230927,Zlatan Ibrahimovic,h,1741,FromCorner,2016,Head,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Wayne Rooney,Cross,1741
+115594,28,BlockedShot,0.7830000305175782,0.4809999847412109,0.09956789761781693,Zlatan Ibrahimovic,a,1741,DirectFreekick,2016,RightFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,,Standard,1741
+115596,41,Goal,0.7719999694824219,0.720999984741211,0.016212400048971176,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,RightFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Anthony Martial,Chipped,1741
+115600,55,BlockedShot,0.9219999694824219,0.7,0.04492359980940819,Zlatan Ibrahimovic,a,1741,SetPiece,2016,RightFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,,None,1741
+117131,33,SavedShot,0.8719999694824219,0.615999984741211,0.06516759842634201,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Antonio Valencia,Cross,1741
+117138,47,MissedShots,0.9030000305175782,0.46099998474121096,0.1191129982471466,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,Head,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Ander Herrera,Cross,1741
+117913,35,BlockedShot,0.710999984741211,0.5529999923706055,0.011507599614560604,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,RightFoot,3130,Crystal Palace,Manchester United,1,2,2016-12-15 00:00:00,,None,1741
+117922,57,MissedShots,0.6959999847412109,0.4909999847412109,0.03663510084152222,Zlatan Ibrahimovic,a,1741,DirectFreekick,2016,RightFoot,3130,Crystal Palace,Manchester United,1,2,2016-12-15 00:00:00,,Standard,1741
+117930,85,BlockedShot,0.865,0.7180000305175781,0.03836429864168167,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,RightFoot,3130,Crystal Palace,Manchester United,1,2,2016-12-15 00:00:00,Paul Pogba,Chipped,1741
+117931,87,Goal,0.9269999694824219,0.6680000305175782,0.11926200240850449,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,LeftFoot,3130,Crystal Palace,Manchester United,1,2,2016-12-15 00:00:00,Paul Pogba,Throughball,1741
+115943,4,Goal,0.8930000305175781,0.5609999847412109,0.20874199271202087,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,Head,3140,West Bromwich Albion,Manchester United,0,2,2016-12-17 21:30:00,Jesse Lingard,Cross,1741
+115954,55,Goal,0.8590000152587891,0.6619999694824219,0.10811799764633179,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,RightFoot,3140,West Bromwich Albion,Manchester United,0,2,2016-12-17 21:30:00,Wayne Rooney,TakeOn,1741
+116594,51,MissedShots,0.865999984741211,0.3220000076293945,0.12943300604820251,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,3147,Manchester United,Sunderland,3,1,2016-12-26 19:00:00,Juan Mata,Throughball,1741
+116597,64,SavedShot,0.8969999694824219,0.3529999923706055,0.3471499979496002,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,3147,Manchester United,Sunderland,3,1,2016-12-26 19:00:00,Henrikh Mkhitaryan,Throughball,1741
+116601,81,Goal,0.9030000305175782,0.5709999847412109,0.43051499128341675,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,3147,Manchester United,Sunderland,3,1,2016-12-26 19:00:00,Paul Pogba,Throughball,1741
+116605,93,SavedShot,0.805,0.5379999923706055,0.1354150027036667,Zlatan Ibrahimovic,h,1741,DirectFreekick,2016,RightFoot,3147,Manchester United,Sunderland,3,1,2016-12-26 19:00:00,,Standard,1741
+117576,5,BlockedShot,0.9330000305175781,0.31799999237060544,0.06971210241317749,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,Henrikh Mkhitaryan,Pass,1741
+117594,50,SavedShot,0.9119999694824219,0.5520000076293945,0.13368499279022217,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,Paul Pogba,Throughball,1741
+117596,52,MissedShots,0.86,0.3509999847412109,0.06384529918432236,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,Paul Pogba,Pass,1741
+117603,68,SavedShot,0.915,0.4,0.3511900007724762,Zlatan Ibrahimovic,h,1741,FromCorner,2016,RightFoot,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,,Rebound,1741
+117079,36,MissedShots,0.955,0.6780000305175782,0.05653170123696327,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,LeftFoot,3335,West Ham,Manchester United,0,2,2017-01-02 21:15:00,Henrikh Mkhitaryan,Chipped,1741
+117089,77,Goal,0.879000015258789,0.5979999923706054,0.09012550115585327,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,RightFoot,3335,West Ham,Manchester United,0,2,2017-01-02 21:15:00,Ander Herrera,Interception,1741
+117090,78,SavedShot,0.855999984741211,0.710999984741211,0.04583609849214554,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,RightFoot,3335,West Ham,Manchester United,0,2,2017-01-02 21:15:00,Marcos Rojo,Pass,1741
+117093,89,BlockedShot,0.7680000305175781,0.710999984741211,0.04850750043988228,Zlatan Ibrahimovic,a,1741,DirectFreekick,2016,RightFoot,3335,West Ham,Manchester United,0,2,2017-01-02 21:15:00,,Standard,1741
+117552,12,MissedShots,0.9840000152587891,0.40400001525878904,0.07093489915132523,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Anthony Martial,Cross,1741
+117557,32,SavedShot,0.82,0.47200000762939454,0.17335599660873413,Zlatan Ibrahimovic,h,1741,DirectFreekick,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,,Standard,1741
+117569,83,Goal,0.9540000152587891,0.45599998474121095,0.11085200309753418,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,Head,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Antonio Valencia,Chipped,1741
+118703,7,BlockedShot,0.9069999694824219,0.5179999923706055,0.08670689910650253,Zlatan Ibrahimovic,a,1741,SetPiece,2016,RightFoot,3354,Stoke,Manchester United,1,1,2017-01-21 18:00:00,,None,1741
+119029,13,SavedShot,0.7390000152587891,0.5790000152587891,0.019461700692772865,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,3368,Manchester United,Hull,0,0,2017-02-01 23:00:00,Marcus Rashford,Pass,1741
+119034,34,SavedShot,0.8480000305175781,0.6730000305175782,0.04931019991636276,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,LeftFoot,3368,Manchester United,Hull,0,0,2017-02-01 23:00:00,Paul Pogba,Pass,1741
+119040,59,MissedShots,0.905,0.41900001525878905,0.09249039739370346,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,3368,Manchester United,Hull,0,0,2017-02-01 23:00:00,Marcus Rashford,HeadPass,1741
+119042,74,BlockedShot,0.8519999694824218,0.37099998474121093,0.062956303358078,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,LeftFoot,3368,Manchester United,Hull,0,0,2017-02-01 23:00:00,Juan Mata,Pass,1741
+116747,43,Goal,0.8730000305175781,0.5220000076293946,0.30594199895858765,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,RightFoot,3379,Leicester,Manchester United,0,3,2017-02-05 16:00:00,Antonio Valencia,Cross,1741
+117732,2,MissedShots,0.8730000305175781,0.5879999923706055,0.07331780344247818,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,3381,Manchester United,Watford,2,0,2017-02-11 15:00:00,,None,1741
+117736,15,MissedShots,0.750999984741211,0.6869999694824219,0.015222899615764618,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,3381,Manchester United,Watford,2,0,2017-02-11 15:00:00,Henrikh Mkhitaryan,LayOff,1741
+117741,25,MissedShots,0.904000015258789,0.6580000305175782,0.06429599970579147,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,LeftFoot,3381,Manchester United,Watford,2,0,2017-02-11 15:00:00,Paul Pogba,Chipped,1741
+117745,30,SavedShot,0.9359999847412109,0.5279999923706055,0.4526270031929016,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,Head,3381,Manchester United,Watford,2,0,2017-02-11 15:00:00,Juan Mata,Cross,1741
+117752,55,MissedShots,0.9690000152587891,0.7019999694824218,0.09274770319461823,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,LeftFoot,3381,Manchester United,Watford,2,0,2017-02-11 15:00:00,,TakeOn,1741
+117755,63,BlockedShot,0.815,0.49,0.0829458013176918,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,3381,Manchester United,Watford,2,0,2017-02-11 15:00:00,Henrikh Mkhitaryan,Pass,1741
+117756,69,SavedShot,0.7519999694824219,0.6569999694824219,0.02671309933066368,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,3381,Manchester United,Watford,2,0,2017-02-11 15:00:00,Henrikh Mkhitaryan,Pass,1741
+119573,16,MissedShots,0.9569999694824218,0.4329999923706055,0.05966290086507797,Zlatan Ibrahimovic,h,1741,FromCorner,2016,Head,3402,Manchester United,Bournemouth,1,1,2017-03-04 12:30:00,Paul Pogba,Aerial,1741
+119580,43,MissedShots,0.9369999694824219,0.34700000762939454,0.014768499881029129,Zlatan Ibrahimovic,h,1741,FromCorner,2016,Head,3402,Manchester United,Bournemouth,1,1,2017-03-04 12:30:00,Wayne Rooney,Cross,1741
+119583,49,BlockedShot,0.69,0.685,0.010499300435185432,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,3402,Manchester United,Bournemouth,1,1,2017-03-04 12:30:00,Paul Pogba,Pass,1741
+119581,49,BlockedShot,0.879000015258789,0.6859999847412109,0.20076900720596313,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,RightFoot,3402,Manchester United,Bournemouth,1,1,2017-03-04 12:30:00,Paul Pogba,Pass,1741
+119586,63,BlockedShot,0.745999984741211,0.4490000152587891,0.06021140143275261,Zlatan Ibrahimovic,h,1741,DirectFreekick,2016,RightFoot,3402,Manchester United,Bournemouth,1,1,2017-03-04 12:30:00,,Standard,1741
+119587,71,SavedShot,0.885,0.5,0.7611690163612366,Zlatan Ibrahimovic,h,1741,Penalty,2016,RightFoot,3402,Manchester United,Bournemouth,1,1,2017-03-04 12:30:00,,Standard,1741
+119589,75,BlockedShot,0.9130000305175782,0.7090000152587891,0.03358830139040947,Zlatan Ibrahimovic,h,1741,FromCorner,2016,RightFoot,3402,Manchester United,Bournemouth,1,1,2017-03-04 12:30:00,,None,1741
+119315,4,BlockedShot,0.8730000305175781,0.655,0.06752940267324448,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,LeftFoot,3446,Manchester United,Everton,1,1,2017-04-04 20:00:00,,TakeOn,1741
+119341,88,MissedShots,0.9119999694824219,0.544000015258789,0.08784410357475281,Zlatan Ibrahimovic,h,1741,OpenPlay,2016,Head,3446,Manchester United,Everton,1,1,2017-04-04 20:00:00,Marcus Rashford,Cross,1741
+119343,93,Goal,0.885,0.5,0.7611690163612366,Zlatan Ibrahimovic,h,1741,Penalty,2016,RightFoot,3446,Manchester United,Everton,1,1,2017-04-04 20:00:00,,Standard,1741
+120292,6,BlockedShot,0.794000015258789,0.6079999923706054,0.09467600286006927,Zlatan Ibrahimovic,a,1741,DirectFreekick,2016,RightFoot,3452,Sunderland,Manchester United,0,3,2017-04-09 13:30:00,,Standard,1741
+120298,29,Goal,0.789000015258789,0.6580000305175782,0.0271914005279541,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,RightFoot,3452,Sunderland,Manchester United,0,3,2017-04-09 13:30:00,Ander Herrera,Pass,1741
+120316,90,SavedShot,0.904000015258789,0.42400001525878905,0.3510960042476654,Zlatan Ibrahimovic,a,1741,OpenPlay,2016,RightFoot,3452,Sunderland,Manchester United,0,3,2017-04-09 13:30:00,Anthony Martial,Chipped,1741
+160912,89,SavedShot,0.899000015258789,0.685,0.08756010234355927,Zlatan Ibrahimovic,h,1741,OpenPlay,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Nemanja Matic,Chipped,1741
+161366,80,BlockedShot,0.8469999694824218,0.6669999694824219,0.06118990108370781,Zlatan Ibrahimovic,h,1741,OpenPlay,2017,LeftFoot,7243,Manchester United,Brighton,1,0,2017-11-25 15:00:00,Paul Pogba,BallRecovery,1741
+161370,88,MissedShots,0.8219999694824218,0.48400001525878905,0.08290179818868637,Zlatan Ibrahimovic,h,1741,OpenPlay,2017,RightFoot,7243,Manchester United,Brighton,1,0,2017-11-25 15:00:00,Paul Pogba,Pass,1741
+185590,41,BlockedShot,0.875,0.669000015258789,0.06371250003576279,Zlatan Ibrahimovic,h,1741,OpenPlay,2017,LeftFoot,7314,Manchester United,Burnley,2,2,2017-12-26 15:00:00,Juan Mata,Pass,1741
+354055,58,MissedShots,0.970999984741211,0.5879999923706055,0.10525000095367432,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,Head,13265,AC Milan,Sampdoria,0,0,2020-01-06 14:00:00,Suso,Cross,1741
+354147,29,SavedShot,0.9569999694824218,0.3820000076293945,0.046765100210905075,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,Head,13269,Cagliari,AC Milan,0,2,2020-01-11 14:00:00,Rafael Leão,Cross,1741
+354156,43,MissedShots,0.94,0.4929999923706055,0.0714552029967308,Zlatan Ibrahimovic,a,1741,FromCorner,2019,Head,13269,Cagliari,AC Milan,0,2,2020-01-11 14:00:00,Samu Castillejo,Aerial,1741
+354160,56,BlockedShot,0.7630000305175781,0.4420000076293945,0.07326620072126389,Zlatan Ibrahimovic,a,1741,DirectFreekick,2019,RightFoot,13269,Cagliari,AC Milan,0,2,2020-01-11 14:00:00,,Standard,1741
+354161,63,Goal,0.8880000305175781,0.5990000152587891,0.09648259729146957,Zlatan Ibrahimovic,a,1741,SetPiece,2019,LeftFoot,13269,Cagliari,AC Milan,0,2,2020-01-11 14:00:00,Theo Hernández,Pass,1741
+355087,14,MissedShots,0.7269999694824218,0.4159999847412109,0.047016698867082596,Zlatan Ibrahimovic,h,1741,DirectFreekick,2019,RightFoot,13286,AC Milan,Udinese,3,2,2020-01-19 11:30:00,,Standard,1741
+355093,41,MissedShots,0.879000015258789,0.43599998474121093,0.03668449819087982,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,Head,13286,AC Milan,Udinese,3,2,2020-01-19 11:30:00,Samu Castillejo,Cross,1741
+355101,51,BlockedShot,0.904000015258789,0.5270000076293946,0.1043820008635521,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,RightFoot,13286,AC Milan,Udinese,3,2,2020-01-19 11:30:00,Samu Castillejo,Cross,1741
+355109,67,SavedShot,0.904000015258789,0.46599998474121096,0.04502519965171814,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,Head,13286,AC Milan,Udinese,3,2,2020-01-19 11:30:00,Rafael Leão,Aerial,1741
+355110,68,MissedShots,0.7519999694824219,0.6809999847412109,0.01559040043503046,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,RightFoot,13286,AC Milan,Udinese,3,2,2020-01-19 11:30:00,,BallRecovery,1741
+355116,83,MissedShots,0.9030000305175782,0.4179999923706055,0.39754998683929443,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,RightFoot,13286,AC Milan,Udinese,3,2,2020-01-19 11:30:00,Rafael Leão,Pass,1741
+355538,1,BlockedShot,0.7909999847412109,0.5729999923706055,0.029306499287486076,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,RightFoot,13289,Brescia,AC Milan,0,1,2020-01-24 19:45:00,Rafael Leão,Pass,1741
+355544,18,SavedShot,0.91,0.509000015258789,0.05285020172595978,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,Head,13289,Brescia,AC Milan,0,1,2020-01-24 19:45:00,Rafael Leão,Aerial,1741
+355549,39,MissedShots,0.9290000152587891,0.5059999847412109,0.567255973815918,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,LeftFoot,13289,Brescia,AC Milan,0,1,2020-01-24 19:45:00,Theo Hernández,Pass,1741
+355559,63,BlockedShot,0.835,0.504000015258789,0.06310240179300308,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,LeftFoot,13289,Brescia,AC Milan,0,1,2020-01-24 19:45:00,,None,1741
+358641,1,MissedShots,0.875,0.5359999847412109,0.08075819909572601,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,RightFoot,13312,Inter,AC Milan,4,2,2020-02-09 19:45:00,Samu Castillejo,Cross,1741
+358658,45,Goal,0.965999984741211,0.5690000152587891,0.3301829993724823,Zlatan Ibrahimovic,a,1741,FromCorner,2019,Head,13312,Inter,AC Milan,4,2,2020-02-09 19:45:00,Franck Kessié,Rebound,1741
+358663,66,MissedShots,0.715999984741211,0.49400001525878906,0.04473419860005379,Zlatan Ibrahimovic,a,1741,DirectFreekick,2019,RightFoot,13312,Inter,AC Milan,4,2,2020-02-09 19:45:00,,Standard,1741
+358671,89,ShotOnPost,0.9730000305175781,0.4620000076293945,0.5918809771537781,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,Head,13312,Inter,AC Milan,4,2,2020-02-09 19:45:00,Lucas Paquetá,Aerial,1741
+359595,3,BlockedShot,0.8109999847412109,0.29100000381469726,0.020034199580550194,Zlatan Ibrahimovic,h,1741,FromCorner,2019,LeftFoot,13325,AC Milan,Torino,1,0,2020-02-17 19:45:00,Samu Castillejo,BallTouch,1741
+359601,28,BlockedShot,0.855999984741211,0.2879999923706055,0.043894801288843155,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,LeftFoot,13325,AC Milan,Torino,1,0,2020-02-17 19:45:00,Samu Castillejo,Pass,1741
+359605,47,MissedShots,0.879000015258789,0.3579999923706055,0.3100300133228302,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,RightFoot,13325,AC Milan,Torino,1,0,2020-02-17 19:45:00,Samu Castillejo,Pass,1741
+359610,71,MissedShots,0.909000015258789,0.4520000076293945,0.05157649889588356,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,Head,13325,AC Milan,Torino,1,0,2020-02-17 19:45:00,Theo Hernández,Aerial,1741
+359616,80,MissedShots,0.805,0.5029999923706054,0.03450179845094681,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,LeftFoot,13325,AC Milan,Torino,1,0,2020-02-17 19:45:00,Giacomo Bonaventura,TakeOn,1741
+360124,63,BlockedShot,0.8159999847412109,0.35700000762939454,0.10634999722242355,Zlatan Ibrahimovic,a,1741,DirectFreekick,2019,RightFoot,13332,Fiorentina,AC Milan,1,1,2020-02-22 19:45:00,,Standard,1741
+360131,89,BlockedShot,0.835999984741211,0.5170000076293946,0.07015380263328552,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,RightFoot,13332,Fiorentina,AC Milan,1,1,2020-02-22 19:45:00,Hakan Calhanoglu,BallTouch,1741
+362133,16,SavedShot,0.955999984741211,0.43099998474121093,0.3179529905319214,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,Head,13343,AC Milan,Genoa,1,2,2020-03-08 14:00:00,Hakan Calhanoglu,Cross,1741
+362137,21,MissedShots,0.6309999847412109,0.6790000152587891,0.022634100168943405,Zlatan Ibrahimovic,h,1741,DirectFreekick,2019,RightFoot,13343,AC Milan,Genoa,1,2,2020-03-08 14:00:00,,Standard,1741
+362141,28,MissedShots,0.7780000305175782,0.624000015258789,0.026052899658679962,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,RightFoot,13343,AC Milan,Genoa,1,2,2020-03-08 14:00:00,Hakan Calhanoglu,Pass,1741
+362144,37,BlockedShot,0.720999984741211,0.6790000152587891,0.012310300022363663,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,RightFoot,13343,AC Milan,Genoa,1,2,2020-03-08 14:00:00,Ante Rebic,BallTouch,1741
+362151,66,MissedShots,0.9069999694824219,0.5259999847412109,0.08739069849252701,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,RightFoot,13343,AC Milan,Genoa,1,2,2020-03-08 14:00:00,Franck Kessié,Cross,1741
+362156,76,Goal,0.9330000305175781,0.49700000762939456,0.5437949895858765,Zlatan Ibrahimovic,h,1741,FromCorner,2019,LeftFoot,13343,AC Milan,Genoa,1,2,2020-03-08 14:00:00,,Rebound,1741
+362159,80,MissedShots,0.9230000305175782,0.4520000076293945,0.043775301426649094,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,Head,13343,AC Milan,Genoa,1,2,2020-03-08 14:00:00,Ismael Bennacer,Aerial,1741
+362161,92,MissedShots,0.924000015258789,0.5129999923706055,0.051621899008750916,Zlatan Ibrahimovic,h,1741,FromCorner,2019,Head,13343,AC Milan,Genoa,1,2,2020-03-08 14:00:00,Samu Castillejo,Aerial,1741
+368262,67,BlockedShot,0.909000015258789,0.46700000762939453,0.056298598647117615,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,Head,13375,SPAL 2013,AC Milan,2,2,2020-07-01 19:45:00,Diego Laxalt,Aerial,1741
+368263,69,MissedShots,0.9269999694824219,0.575999984741211,0.10335399955511093,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,Head,13375,SPAL 2013,AC Milan,2,2,2020-07-01 19:45:00,Alexis Saelemaekers,Cross,1741
+368269,86,BlockedShot,0.7619999694824219,0.43900001525878907,0.07203570008277893,Zlatan Ibrahimovic,a,1741,DirectFreekick,2019,RightFoot,13375,SPAL 2013,AC Milan,2,2,2020-07-01 19:45:00,,Standard,1741
+368833,33,Goal,0.885,0.5,0.7612990140914917,Zlatan Ibrahimovic,a,1741,Penalty,2019,RightFoot,13379,Lazio,AC Milan,0,3,2020-07-04 19:45:00,,Standard,1741
+369554,22,SavedShot,0.86,0.6,0.08817709982395172,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,LeftFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Ante Rebic,Pass,1741
+369555,24,SavedShot,0.875,0.585,0.10040599852800369,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,LeftFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,Theo Hernández,Pass,1741
+369566,61,Goal,0.885,0.5,0.7612990140914917,Zlatan Ibrahimovic,h,1741,Penalty,2019,RightFoot,13394,AC Milan,Juventus,4,2,2020-07-07 19:45:00,,Standard,1741
+371136,45,SavedShot,0.8480000305175781,0.41,0.08558560162782669,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,RightFoot,13401,Napoli,AC Milan,2,2,2020-07-12 19:45:00,Ante Rebic,Pass,1741
+371563,3,BlockedShot,0.7809999847412109,0.62,0.02876419946551323,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,LeftFoot,13416,AC Milan,Parma Calcio 1913,3,1,2020-07-15 17:30:00,Hakan Calhanoglu,Pass,1741
+371566,14,BlockedShot,0.81,0.4779999923706055,0.14989900588989258,Zlatan Ibrahimovic,h,1741,DirectFreekick,2019,RightFoot,13416,AC Milan,Parma Calcio 1913,3,1,2020-07-15 17:30:00,,Standard,1741
+371569,19,SavedShot,0.9409999847412109,0.624000015258789,0.015144799835979939,Zlatan Ibrahimovic,h,1741,FromCorner,2019,Head,13416,AC Milan,Parma Calcio 1913,3,1,2020-07-15 17:30:00,,Aerial,1741
+371570,20,MissedShots,0.9030000305175782,0.5429999923706055,0.13098600506782532,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,LeftFoot,13416,AC Milan,Parma Calcio 1913,3,1,2020-07-15 17:30:00,Theo Hernández,Pass,1741
+371574,30,MissedShots,0.7959999847412109,0.5059999847412109,0.04578930139541626,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,RightFoot,13416,AC Milan,Parma Calcio 1913,3,1,2020-07-15 17:30:00,Andrea Conti,Pass,1741
+371577,34,MissedShots,0.664000015258789,0.325,0.010023499839007854,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,RightFoot,13416,AC Milan,Parma Calcio 1913,3,1,2020-07-15 17:30:00,Giacomo Bonaventura,Pass,1741
+371579,42,MissedShots,0.8119999694824219,0.615,0.04070879891514778,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,RightFoot,13416,AC Milan,Parma Calcio 1913,3,1,2020-07-15 17:30:00,Lucas Biglia,Pass,1741
+371590,69,BlockedShot,0.8640000152587891,0.47200000762939454,0.12166400253772736,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,RightFoot,13416,AC Milan,Parma Calcio 1913,3,1,2020-07-15 17:30:00,Hakan Calhanoglu,Pass,1741
+371596,84,MissedShots,0.9369999694824219,0.49700000762939456,0.0821755975484848,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,Head,13416,AC Milan,Parma Calcio 1913,3,1,2020-07-15 17:30:00,Franck Kessié,Aerial,1741
+372400,17,MissedShots,0.8719999694824219,0.3060000038146973,0.06456869840621948,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,RightFoot,13424,AC Milan,Bologna,5,1,2020-07-18 19:45:00,Ismael Bennacer,Pass,1741
+373055,16,MissedShots,0.750999984741211,0.639000015258789,0.05328809842467308,Zlatan Ibrahimovic,a,1741,DirectFreekick,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,,Standard,1741
+373056,18,Goal,0.92,0.5359999847412109,0.3194819986820221,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,Head,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Hakan Calhanoglu,Cross,1741
+373057,21,BlockedShot,0.86,0.46599998474121096,0.11543100327253342,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,LeftFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Theo Hernández,Pass,1741
+373060,31,SavedShot,0.9230000305175782,0.5729999923706055,0.289247989654541,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,Head,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Ismael Bennacer,Cross,1741
+373065,46,Goal,0.935,0.415,0.9035750031471252,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,RightFoot,13435,Sassuolo,AC Milan,1,2,2020-07-21 19:45:00,Hakan Calhanoglu,TakeOn,1741
+374150,3,Goal,0.915,0.48700000762939455,0.34749799966812134,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,Head,13456,Sampdoria,AC Milan,1,4,2020-07-29 17:30:00,Ante Rebic,Cross,1741
+374151,5,MissedShots,0.6419999694824219,0.23,0.010500299744307995,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,RightFoot,13456,Sampdoria,AC Milan,1,4,2020-07-29 17:30:00,Ismael Bennacer,Pass,1741
+374162,29,BlockedShot,0.8780000305175781,0.5209999847412109,0.371535986661911,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,LeftFoot,13456,Sampdoria,AC Milan,1,4,2020-07-29 17:30:00,Theo Hernández,Pass,1741
+374172,57,Goal,0.899000015258789,0.6509999847412109,0.2986229956150055,Zlatan Ibrahimovic,a,1741,OpenPlay,2019,LeftFoot,13456,Sampdoria,AC Milan,1,4,2020-07-29 17:30:00,Hakan Calhanoglu,Pass,1741
+374429,21,BlockedShot,0.8190000152587891,0.3609999847412109,0.05343849956989288,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,LeftFoot,13464,AC Milan,Cagliari,3,0,2020-08-01 18:45:00,Rafael Leão,Pass,1741
+374430,22,SavedShot,0.9680000305175781,0.5540000152587891,0.5116490125656128,Zlatan Ibrahimovic,h,1741,FromCorner,2019,RightFoot,13464,AC Milan,Cagliari,3,0,2020-08-01 18:45:00,Samu Castillejo,Cross,1741
+374435,42,BlockedShot,0.9340000152587891,0.5970000076293945,0.042154598981142044,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,Head,13464,AC Milan,Cagliari,3,0,2020-08-01 18:45:00,Davide Calabria,Aerial,1741
+374436,43,SavedShot,0.885,0.5,0.7612990140914917,Zlatan Ibrahimovic,h,1741,Penalty,2019,RightFoot,13464,AC Milan,Cagliari,3,0,2020-08-01 18:45:00,,Standard,1741
+374439,54,Goal,0.8869999694824219,0.33,0.07998020201921463,Zlatan Ibrahimovic,h,1741,OpenPlay,2019,RightFoot,13464,AC Milan,Cagliari,3,0,2020-08-01 18:45:00,Samu Castillejo,Pass,1741
+378497,11,BlockedShot,0.8730000305175781,0.38799999237060545,0.093476802110672,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,LeftFoot,14122,AC Milan,Bologna,2,0,2020-09-21 18:45:00,Davide Calabria,Pass,1741
+378504,34,Goal,0.899000015258789,0.4759999847412109,0.04603619873523712,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,Head,14122,AC Milan,Bologna,2,0,2020-09-21 18:45:00,Theo Hernández,Aerial,1741
+378506,46,SavedShot,0.8469999694824218,0.485,0.10449100285768509,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,RightFoot,14122,AC Milan,Bologna,2,0,2020-09-21 18:45:00,Alexis Saelemaekers,Pass,1741
+378508,50,Goal,0.885,0.5,0.7611770033836365,Zlatan Ibrahimovic,h,1741,Penalty,2020,RightFoot,14122,AC Milan,Bologna,2,0,2020-09-21 18:45:00,,Standard,1741
+378514,53,SavedShot,0.7480000305175781,0.34799999237060547,0.03166690096259117,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,RightFoot,14122,AC Milan,Bologna,2,0,2020-09-21 18:45:00,Ante Rebic,Pass,1741
+378515,62,MissedShots,0.9019999694824219,0.6480000305175782,0.35432401299476624,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,LeftFoot,14122,AC Milan,Bologna,2,0,2020-09-21 18:45:00,,None,1741
+378520,76,BlockedShot,0.86,0.504000015258789,0.06931900233030319,Zlatan Ibrahimovic,h,1741,FromCorner,2020,RightFoot,14122,AC Milan,Bologna,2,0,2020-09-21 18:45:00,,None,1741
+381955,8,MissedShots,0.8969999694824219,0.4520000076293945,0.07543189823627472,Zlatan Ibrahimovic,a,1741,SetPiece,2020,RightFoot,15457,Inter,AC Milan,1,2,2020-10-17 16:00:00,Alexis Saelemaekers,Foul,1741
+381958,12,Goal,0.9380000305175781,0.5179999923706055,0.6055269837379456,Zlatan Ibrahimovic,a,1741,SetPiece,2020,LeftFoot,15457,Inter,AC Milan,1,2,2020-10-17 16:00:00,,Rebound,1741
+381957,12,SavedShot,0.885,0.5,0.7612990140914917,Zlatan Ibrahimovic,a,1741,Penalty,2020,RightFoot,15457,Inter,AC Milan,1,2,2020-10-17 16:00:00,,Standard,1741
+381960,15,Goal,0.93,0.47,0.4074220061302185,Zlatan Ibrahimovic,a,1741,OpenPlay,2020,RightFoot,15457,Inter,AC Milan,1,2,2020-10-17 16:00:00,Rafael Leão,Cross,1741
+381980,88,MissedShots,0.7469999694824219,0.549000015258789,0.06135860085487366,Zlatan Ibrahimovic,a,1741,DirectFreekick,2020,RightFoot,15457,Inter,AC Milan,1,2,2020-10-17 16:00:00,,Standard,1741
+384238,1,Goal,0.9330000305175781,0.4779999923706055,0.41255098581314087,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,RightFoot,15473,AC Milan,Roma,3,3,2020-10-26 19:45:00,Rafael Leão,Chipped,1741
+384259,78,Goal,0.885,0.5,0.7612990140914917,Zlatan Ibrahimovic,h,1741,Penalty,2020,RightFoot,15473,AC Milan,Roma,3,3,2020-10-26 19:45:00,,Standard,1741
+384917,39,SavedShot,0.8059999847412109,0.705999984741211,0.029663700610399246,Zlatan Ibrahimovic,a,1741,OpenPlay,2020,RightFoot,15484,Udinese,AC Milan,1,2,2020-11-01 11:30:00,Hakan Calhanoglu,Pass,1741
+384916,39,BlockedShot,0.754000015258789,0.6630000305175782,0.05103180184960365,Zlatan Ibrahimovic,a,1741,DirectFreekick,2020,RightFoot,15484,Udinese,AC Milan,1,2,2020-11-01 11:30:00,,Standard,1741
+384925,82,Goal,0.9359999847412109,0.5079999923706054,0.11158400028944016,Zlatan Ibrahimovic,a,1741,OpenPlay,2020,RightFoot,15484,Udinese,AC Milan,1,2,2020-11-01 11:30:00,,None,1741
+384926,93,MissedShots,0.7709999847412109,0.28899999618530275,0.05001769959926605,Zlatan Ibrahimovic,a,1741,DirectFreekick,2020,RightFoot,15484,Udinese,AC Milan,1,2,2020-11-01 11:30:00,,Standard,1741
+386921,1,MissedShots,0.8919999694824219,0.485,0.06529270112514496,Zlatan Ibrahimovic,h,1741,FromCorner,2020,RightFoot,15492,AC Milan,Verona,2,2,2020-11-08 19:45:00,Hakan Calhanoglu,Cross,1741
+386936,35,BlockedShot,0.9319999694824219,0.669000015258789,0.06452599912881851,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,LeftFoot,15492,AC Milan,Verona,2,2,2020-11-08 19:45:00,Rafael Leão,Pass,1741
+386937,41,MissedShots,0.7080000305175781,0.580999984741211,0.03915829956531525,Zlatan Ibrahimovic,h,1741,DirectFreekick,2020,RightFoot,15492,AC Milan,Verona,2,2,2020-11-08 19:45:00,,Standard,1741
+386946,61,BlockedShot,0.7769999694824219,0.625999984741211,0.021779200062155724,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,LeftFoot,15492,AC Milan,Verona,2,2,2020-11-08 19:45:00,Hakan Calhanoglu,Pass,1741
+386948,65,MissedShots,0.885,0.5,0.7612990140914917,Zlatan Ibrahimovic,h,1741,Penalty,2020,RightFoot,15492,AC Milan,Verona,2,2,2020-11-08 19:45:00,,Standard,1741
+386949,66,MissedShots,0.9290000152587891,0.4929999923706055,0.1170319989323616,Zlatan Ibrahimovic,h,1741,FromCorner,2020,Head,15492,AC Milan,Verona,2,2,2020-11-08 19:45:00,Hakan Calhanoglu,Cross,1741
+386950,69,MissedShots,0.905,0.4570000076293945,0.07275170087814331,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,Head,15492,AC Milan,Verona,2,2,2020-11-08 19:45:00,Davide Calabria,Cross,1741
+386952,75,ShotOnPost,0.9469999694824218,0.5070000076293946,0.07790320366621017,Zlatan Ibrahimovic,h,1741,FromCorner,2020,Head,15492,AC Milan,Verona,2,2,2020-11-08 19:45:00,Hakan Calhanoglu,Aerial,1741
+386951,75,BlockedShot,0.9059999847412109,0.35700000762939454,0.07342679798603058,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,RightFoot,15492,AC Milan,Verona,2,2,2020-11-08 19:45:00,Hakan Calhanoglu,Pass,1741
+386954,76,SavedShot,0.9580000305175781,0.4370000076293945,0.3995400071144104,Zlatan Ibrahimovic,h,1741,FromCorner,2020,RightFoot,15492,AC Milan,Verona,2,2,2020-11-08 19:45:00,,Aerial,1741
+386955,77,MissedShots,0.9180000305175782,0.5059999847412109,0.09859839826822281,Zlatan Ibrahimovic,h,1741,FromCorner,2020,Head,15492,AC Milan,Verona,2,2,2020-11-08 19:45:00,Hakan Calhanoglu,Cross,1741
+386959,87,BlockedShot,0.845,0.5429999923706055,0.047227900475263596,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,RightFoot,15492,AC Milan,Verona,2,2,2020-11-08 19:45:00,Davide Calabria,Cross,1741
+386961,92,Goal,0.9180000305175782,0.49700000762939456,0.04834029823541641,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,Head,15492,AC Milan,Verona,2,2,2020-11-08 19:45:00,Brahim Diaz,Aerial,1741
+386960,92,SavedShot,0.8590000152587891,0.4909999847412109,0.06130149960517883,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,RightFoot,15492,AC Milan,Verona,2,2,2020-11-08 19:45:00,Theo Hernández,Cross,1741
+388209,19,Goal,0.8680000305175781,0.5509999847412109,0.018062500283122063,Zlatan Ibrahimovic,a,1741,OpenPlay,2020,Head,15500,Napoli,AC Milan,1,3,2020-11-22 19:45:00,Theo Hernández,Aerial,1741
+388224,53,Goal,0.9830000305175781,0.4620000076293945,0.7510480284690857,Zlatan Ibrahimovic,a,1741,OpenPlay,2020,RightFoot,15500,Napoli,AC Milan,1,3,2020-11-22 19:45:00,Ante Rebic,Chipped,1741
+388228,66,MissedShots,0.915,0.4540000152587891,0.02914319932460785,Zlatan Ibrahimovic,a,1741,FromCorner,2020,Head,15500,Napoli,AC Milan,1,3,2020-11-22 19:45:00,Hakan Calhanoglu,Aerial,1741
+399613,6,Goal,0.885,0.5,0.7612990140914917,Zlatan Ibrahimovic,a,1741,Penalty,2020,RightFoot,15598,Cagliari,AC Milan,0,2,2021-01-18 19:45:00,,Standard,1741
+399622,51,Goal,0.909000015258789,0.5790000152587891,0.3076089918613434,Zlatan Ibrahimovic,a,1741,OpenPlay,2020,LeftFoot,15598,Cagliari,AC Milan,0,2,2021-01-18 19:45:00,Davide Calabria,Chipped,1741
+399627,63,SavedShot,0.904000015258789,0.6229999923706054,0.3357279896736145,Zlatan Ibrahimovic,a,1741,OpenPlay,2020,LeftFoot,15598,Cagliari,AC Milan,0,2,2021-01-18 19:45:00,Jens Petter Hauge,Pass,1741
+399633,85,BlockedShot,0.9280000305175782,0.6669999694824219,0.10474900156259537,Zlatan Ibrahimovic,a,1741,OpenPlay,2020,LeftFoot,15598,Cagliari,AC Milan,0,2,2021-01-18 19:45:00,Franck Kessié,Chipped,1741
+399638,93,MissedShots,0.45599998474121095,0.6759999847412109,0.010209900327026844,Zlatan Ibrahimovic,a,1741,OpenPlay,2020,LeftFoot,15598,Cagliari,AC Milan,0,2,2021-01-18 19:45:00,Pierre Kalulu Kyatengwa,BallRecovery,1741
+400532,1,BlockedShot,0.9530000305175781,0.524000015258789,0.1511410027742386,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,RightFoot,15611,AC Milan,Atalanta,0,3,2021-01-23 17:00:00,Theo Hernández,Pass,1741
+400541,40,MissedShots,0.975999984741211,0.555,0.5776900053024292,Zlatan Ibrahimovic,h,1741,SetPiece,2020,RightFoot,15611,AC Milan,Atalanta,0,3,2021-01-23 17:00:00,Sandro Tonali,Chipped,1741
+400553,71,BlockedShot,0.8169999694824219,0.5129999923706055,0.053444601595401764,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,RightFoot,15611,AC Milan,Atalanta,0,3,2021-01-23 17:00:00,Brahim Diaz,BallTouch,1741
+400558,88,BlockedShot,0.8680000305175781,0.4759999847412109,0.08072490245103836,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,RightFoot,15611,AC Milan,Atalanta,0,3,2021-01-23 17:00:00,Theo Hernández,Foul,1741
+401519,22,SavedShot,0.975999984741211,0.549000015258789,0.6656299829483032,Zlatan Ibrahimovic,a,1741,FromCorner,2020,RightFoot,15619,Bologna,AC Milan,1,2,2021-01-30 14:00:00,,Rebound,1741
+401518,22,SavedShot,0.905,0.5409999847412109,0.03151329979300499,Zlatan Ibrahimovic,a,1741,FromCorner,2020,Head,15619,Bologna,AC Milan,1,2,2021-01-30 14:00:00,Sandro Tonali,Aerial,1741
+401521,25,SavedShot,0.885,0.5,0.7612990140914917,Zlatan Ibrahimovic,a,1741,Penalty,2020,RightFoot,15619,Bologna,AC Milan,1,2,2021-01-30 14:00:00,,Standard,1741
+401541,93,BlockedShot,0.875,0.47200000762939454,0.12709100544452667,Zlatan Ibrahimovic,a,1741,OpenPlay,2020,LeftFoot,15619,Bologna,AC Milan,1,2,2021-01-30 14:00:00,Theo Hernández,Pass,1741
+403716,6,MissedShots,0.745,0.35,0.0175113994628191,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,RightFoot,15628,AC Milan,Crotone,4,0,2021-02-07 14:00:00,Theo Hernández,LayOff,1741
+403723,19,BlockedShot,0.745,0.5159999847412109,0.06146489828824997,Zlatan Ibrahimovic,h,1741,DirectFreekick,2020,RightFoot,15628,AC Milan,Crotone,4,0,2021-02-07 14:00:00,,Standard,1741
+403726,29,Goal,0.9590000152587891,0.61,0.3722209930419922,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,RightFoot,15628,AC Milan,Crotone,4,0,2021-02-07 14:00:00,Rafael Leão,Pass,1741
+403733,63,Goal,0.9569999694824218,0.4640000152587891,0.6315330266952515,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,LeftFoot,15628,AC Milan,Crotone,4,0,2021-02-07 14:00:00,Theo Hernández,Pass,1741
+403734,66,MissedShots,0.5170000076293946,0.549000015258789,0.010178600437939167,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,RightFoot,15628,AC Milan,Crotone,4,0,2021-02-07 14:00:00,Franck Kessié,Pass,1741
+403736,69,SavedShot,0.75,0.3320000076293945,0.029551099985837936,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,RightFoot,15628,AC Milan,Crotone,4,0,2021-02-07 14:00:00,Soualiho Meité,Pass,1741
+403738,73,SavedShot,0.9019999694824219,0.5590000152587891,0.030818499624729156,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,Head,15628,AC Milan,Crotone,4,0,2021-02-07 14:00:00,,None,1741
+404496,59,BlockedShot,0.7030000305175781,0.48700000762939455,0.03924550116062164,Zlatan Ibrahimovic,a,1741,DirectFreekick,2020,RightFoot,15642,Spezia,AC Milan,2,0,2021-02-13 19:45:00,,Standard,1741
+405931,14,SavedShot,0.915,0.5329999923706055,0.11983399838209152,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,RightFoot,15648,AC Milan,Inter,0,3,2021-02-21 14:00:00,,Rebound,1741
+405939,37,SavedShot,0.825,0.475,0.0351794995367527,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,LeftFoot,15648,AC Milan,Inter,0,3,2021-02-21 14:00:00,Ante Rebic,HeadPass,1741
+405942,46,SavedShot,0.985999984741211,0.610999984741211,0.021488599479198456,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,Head,15648,AC Milan,Inter,0,3,2021-02-21 14:00:00,Alexis Saelemaekers,Cross,1741
+405941,46,SavedShot,0.909000015258789,0.5970000076293945,0.031132599338889122,Zlatan Ibrahimovic,h,1741,FromCorner,2020,Head,15648,AC Milan,Inter,0,3,2021-02-21 14:00:00,Hakan Calhanoglu,Cross,1741
+405949,64,SavedShot,0.9059999847412109,0.54,0.10573200136423111,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,Head,15648,AC Milan,Inter,0,3,2021-02-21 14:00:00,Ante Rebic,Cross,1741
+407566,2,SavedShot,0.9130000305175782,0.669000015258789,0.06697549670934677,Zlatan Ibrahimovic,a,1741,OpenPlay,2020,LeftFoot,15663,Roma,AC Milan,1,2,2021-02-28 19:45:00,Theo Hernández,BallTouch,1741
+407567,4,MissedShots,0.9430000305175781,0.5379999923706055,0.5730909705162048,Zlatan Ibrahimovic,a,1741,OpenPlay,2020,RightFoot,15663,Roma,AC Milan,1,2,2021-02-28 19:45:00,,TakeOn,1741
+407569,13,BlockedShot,0.924000015258789,0.6220000076293946,0.35526999831199646,Zlatan Ibrahimovic,a,1741,OpenPlay,2020,RightFoot,15663,Roma,AC Milan,1,2,2021-02-28 19:45:00,,BallTouch,1741
+407571,17,MissedShots,0.9380000305175781,0.57,0.04322979971766472,Zlatan Ibrahimovic,a,1741,FromCorner,2020,OtherBodyPart,15663,Roma,AC Milan,1,2,2021-02-28 19:45:00,Hakan Calhanoglu,Aerial,1741
+411989,8,Goal,0.8690000152587891,0.5059999847412109,0.2992199957370758,Zlatan Ibrahimovic,a,1741,OpenPlay,2020,LeftFoot,15701,Fiorentina,AC Milan,2,3,2021-03-21 17:00:00,Simon Kjaer,Chipped,1741
+411994,34,ShotOnPost,0.889000015258789,0.539000015258789,0.4034700095653534,Zlatan Ibrahimovic,a,1741,OpenPlay,2020,LeftFoot,15701,Fiorentina,AC Milan,2,3,2021-03-21 17:00:00,Hakan Calhanoglu,Pass,1741
+412000,63,ShotOnPost,0.7980000305175782,0.89,0.00976529996842146,Zlatan Ibrahimovic,a,1741,OpenPlay,2020,RightFoot,15701,Fiorentina,AC Milan,2,3,2021-03-21 17:00:00,Hakan Calhanoglu,Pass,1741
+412130,29,BlockedShot,0.7230000305175781,0.625,0.041916098445653915,Zlatan Ibrahimovic,h,1741,DirectFreekick,2020,RightFoot,15712,AC Milan,Sampdoria,1,1,2021-04-03 10:30:00,,Standard,1741
+413976,15,BlockedShot,0.830999984741211,0.595999984741211,0.09047529846429825,Zlatan Ibrahimovic,a,1741,OpenPlay,2020,LeftFoot,15722,Parma Calcio 1913,AC Milan,1,3,2021-04-10 16:00:00,Theo Hernández,TakeOn,1741
+413982,37,MissedShots,0.9569999694824218,0.5970000076293945,0.03530680015683174,Zlatan Ibrahimovic,a,1741,SetPiece,2020,Head,15722,Parma Calcio 1913,AC Milan,1,3,2021-04-10 16:00:00,Hakan Calhanoglu,Aerial,1741
+413985,49,SavedShot,0.9119999694824219,0.7019999694824218,0.03269070014357567,Zlatan Ibrahimovic,a,1741,FromCorner,2020,RightFoot,15722,Parma Calcio 1913,AC Milan,1,3,2021-04-10 16:00:00,Franck Kessié,BallTouch,1741
+418747,13,SavedShot,0.88,0.4879999923706055,0.13934099674224854,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,LeftFoot,15757,AC Milan,Benevento,2,0,2021-05-01 18:45:00,,TakeOn,1741
+418750,15,BlockedShot,0.924000015258789,0.5659999847412109,0.16367299854755402,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,LeftFoot,15757,AC Milan,Benevento,2,0,2021-05-01 18:45:00,,Rebound,1741
+418759,45,SavedShot,0.9169999694824219,0.6809999847412109,0.08249600231647491,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,LeftFoot,15757,AC Milan,Benevento,2,0,2021-05-01 18:45:00,Hakan Calhanoglu,Pass,1741
+418757,47,SavedShot,0.8959999847412109,0.34700000762939454,0.25538700819015503,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,RightFoot,15757,AC Milan,Benevento,2,0,2021-05-01 18:45:00,Franck Kessié,Pass,1741
+418765,54,SavedShot,0.9340000152587891,0.5640000152587891,0.5197700262069702,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,LeftFoot,15757,AC Milan,Benevento,2,0,2021-05-01 18:45:00,Alexis Saelemaekers,TakeOn,1741
+418768,59,SavedShot,0.8969999694824219,0.655,0.09401950240135193,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,LeftFoot,15757,AC Milan,Benevento,2,0,2021-05-01 18:45:00,Theo Hernández,Pass,1741
+418772,84,BlockedShot,0.74,0.4490000152587891,0.023216500878334045,Zlatan Ibrahimovic,h,1741,OpenPlay,2020,RightFoot,15757,AC Milan,Benevento,2,0,2021-05-01 18:45:00,Franck Kessié,Pass,1741
+420868,16,BlockedShot,0.740999984741211,0.36200000762939455,0.017536599189043045,Zlatan Ibrahimovic,a,1741,OpenPlay,2020,RightFoot,15771,Juventus,AC Milan,0,3,2021-05-09 18:45:00,Hakan Calhanoglu,Pass,1741
+430660,61,BlockedShot,0.9680000305175781,0.654000015258789,0.0844665989279747,Zlatan Ibrahimovic,h,1741,OpenPlay,2021,LeftFoot,16780,AC Milan,Lazio,2,0,2021-09-12 16:00:00,Theo Hernández,BallTouch,1741
+430664,66,Goal,0.9790000152587891,0.47400001525878904,0.9703050255775452,Zlatan Ibrahimovic,h,1741,OpenPlay,2021,RightFoot,16780,AC Milan,Lazio,2,0,2021-09-12 16:00:00,Ante Rebic,Pass,1741
+430665,77,MissedShots,0.899000015258789,0.675,0.09336350113153458,Zlatan Ibrahimovic,h,1741,OpenPlay,2021,RightFoot,16780,AC Milan,Lazio,2,0,2021-09-12 16:00:00,Alexis Saelemaekers,Pass,1741
+436562,84,BlockedShot,0.8469999694824218,0.6370000076293946,0.0918928012251854,Zlatan Ibrahimovic,h,1741,OpenPlay,2021,LeftFoot,16831,AC Milan,Verona,3,2,2021-10-16 18:45:00,Rade Krunic,Pass,1741
+438016,22,BlockedShot,0.789000015258789,0.575999984741211,0.0986865982413292,Zlatan Ibrahimovic,a,1741,DirectFreekick,2021,RightFoot,16837,Bologna,AC Milan,2,4,2021-10-23 18:45:00,,Standard,1741
+438017,26,SavedShot,0.9359999847412109,0.47900001525878905,0.09950239956378937,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,Head,16837,Bologna,AC Milan,2,4,2021-10-23 18:45:00,Rafael Leão,Aerial,1741
+438023,48,OwnGoal,0.02700000047683716,0.4159999847412109,0,Zlatan Ibrahimovic,a,1741,FromCorner,2021,Head,16837,Bologna,AC Milan,2,4,2021-10-23 18:45:00,,CornerAwarded,1741
+438026,74,BlockedShot,0.759000015258789,0.3559999847412109,0.01748800091445446,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,RightFoot,16837,Bologna,AC Milan,2,4,2021-10-23 18:45:00,Davide Calabria,Pass,1741
+438035,89,Goal,0.8169999694824219,0.5729999923706055,0.07135549932718277,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,RightFoot,16837,Bologna,AC Milan,2,4,2021-10-23 18:45:00,Ismael Bennacer,Pass,1741
+440536,16,MissedShots,0.9219999694824219,0.639000015258789,0.33824801445007324,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,LeftFoot,16862,Roma,AC Milan,1,2,2021-10-31 19:45:00,Rade Krunic,Throughball,1741
+440537,24,Goal,0.7969999694824219,0.715999984741211,0.06097780168056488,Zlatan Ibrahimovic,a,1741,DirectFreekick,2021,RightFoot,16862,Roma,AC Milan,1,2,2021-10-31 19:45:00,,Standard,1741
+442104,68,MissedShots,0.8969999694824219,0.32299999237060545,0.0369253009557724,Zlatan Ibrahimovic,h,1741,FromCorner,2021,LeftFoot,16870,AC Milan,Inter,1,1,2021-11-07 19:45:00,Alexis Saelemaekers,BallTouch,1741
+442107,81,SavedShot,0.76,0.674000015258789,0.05207350105047226,Zlatan Ibrahimovic,h,1741,DirectFreekick,2021,RightFoot,16870,AC Milan,Inter,1,1,2021-11-07 19:45:00,,Standard,1741
+442905,33,SavedShot,0.8780000305175781,0.43900001525878907,0.09498269855976105,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,LeftFoot,16878,Fiorentina,AC Milan,4,3,2021-11-20 19:45:00,Brahim Diaz,Pass,1741
+442908,41,MissedShots,0.9319999694824219,0.5429999923706055,0.3092069923877716,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,Head,16878,Fiorentina,AC Milan,4,3,2021-11-20 19:45:00,Simon Kjaer,Cross,1741
+442910,44,MissedShots,0.904000015258789,0.3940000152587891,0.04756079986691475,Zlatan Ibrahimovic,a,1741,FromCorner,2021,RightFoot,16878,Fiorentina,AC Milan,4,3,2021-11-20 19:45:00,Sandro Tonali,Cross,1741
+442912,49,MissedShots,0.915,0.5590000152587891,0.08106330037117004,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,LeftFoot,16878,Fiorentina,AC Milan,4,3,2021-11-20 19:45:00,Rafael Leão,HeadPass,1741
+442917,61,Goal,0.904000015258789,0.6270000076293946,0.0735991969704628,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,RightFoot,16878,Fiorentina,AC Milan,4,3,2021-11-20 19:45:00,,BallRecovery,1741
+442918,66,Goal,0.9180000305175782,0.5379999923706055,0.4011729955673218,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,LeftFoot,16878,Fiorentina,AC Milan,4,3,2021-11-20 19:45:00,Theo Hernández,Pass,1741
+442922,95,ShotOnPost,0.9230000305175782,0.4159999847412109,0.07778999954462051,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,Head,16878,Fiorentina,AC Milan,4,3,2021-11-20 19:45:00,Theo Hernández,Cross,1741
+444564,8,BlockedShot,0.9030000305175782,0.33799999237060546,0.06565970182418823,Zlatan Ibrahimovic,h,1741,OpenPlay,2021,RightFoot,16889,AC Milan,Sassuolo,1,3,2021-11-28 14:00:00,Alessandro Florenzi,Chipped,1741
+444579,62,MissedShots,0.740999984741211,0.6140000152587891,0.015364499762654305,Zlatan Ibrahimovic,h,1741,OpenPlay,2021,RightFoot,16889,AC Milan,Sassuolo,1,3,2021-11-28 14:00:00,,Dispossessed,1741
+444590,90,MissedShots,0.9409999847412109,0.44799999237060545,0.11578500270843506,Zlatan Ibrahimovic,h,1741,FromCorner,2021,Head,16889,AC Milan,Sassuolo,1,3,2021-11-28 14:00:00,Sandro Tonali,Cross,1741
+445445,7,BlockedShot,0.7280000305175781,0.4570000076293945,0.014872300438582897,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,RightFoot,16899,Genoa,AC Milan,0,3,2021-12-01 19:45:00,,None,1741
+445447,9,Goal,0.745999984741211,0.49599998474121093,0.06236179918050766,Zlatan Ibrahimovic,a,1741,DirectFreekick,2021,RightFoot,16899,Genoa,AC Milan,0,3,2021-12-01 19:45:00,,Standard,1741
+445448,10,MissedShots,0.924000015258789,0.33099998474121095,0.05027180165052414,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,RightFoot,16899,Genoa,AC Milan,0,3,2021-12-01 19:45:00,Theo Hernández,Cross,1741
+445449,16,BlockedShot,0.905,0.43900001525878907,0.13735100626945496,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,RightFoot,16899,Genoa,AC Milan,0,3,2021-12-01 19:45:00,Junior Messias,Pass,1741
+445450,17,MissedShots,0.9,0.6990000152587891,0.019287200644612312,Zlatan Ibrahimovic,a,1741,FromCorner,2021,RightFoot,16899,Genoa,AC Milan,0,3,2021-12-01 19:45:00,,Aerial,1741
+445451,17,MissedShots,0.8959999847412109,0.6830000305175781,0.05013259872794151,Zlatan Ibrahimovic,a,1741,FromCorner,2021,RightFoot,16899,Genoa,AC Milan,0,3,2021-12-01 19:45:00,,Rebound,1741
+445460,46,SavedShot,0.9109999847412109,0.5870000076293945,0.12347300350666046,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,RightFoot,16899,Genoa,AC Milan,0,3,2021-12-01 19:45:00,Alessandro Florenzi,Cross,1741
+447984,11,MissedShots,0.8719999694824219,0.33799999237060546,0.11419600248336792,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,RightFoot,16924,Udinese,AC Milan,1,1,2021-12-11 19:45:00,Ismael Bennacer,Throughball,1741
+447992,45,MissedShots,0.8619999694824219,0.46900001525878904,0.0696130022406578,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,RightFoot,16924,Udinese,AC Milan,1,1,2021-12-11 19:45:00,Alessandro Florenzi,Cross,1741
+447995,67,MissedShots,0.8590000152587891,0.56,0.01988290064036846,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,Head,16924,Udinese,AC Milan,1,1,2021-12-11 19:45:00,Sandro Tonali,Cross,1741
+448003,91,Goal,0.9209999847412109,0.48200000762939454,0.5118520259857178,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,RightFoot,16924,Udinese,AC Milan,1,1,2021-12-11 19:45:00,,None,1741
+449966,16,MissedShots,0.9769999694824218,0.38599998474121094,0.03219759836792946,Zlatan Ibrahimovic,h,1741,FromCorner,2021,Head,16931,AC Milan,Napoli,0,1,2021-12-19 19:45:00,,None,1741
+449967,17,MissedShots,0.914000015258789,0.555,0.033031899482011795,Zlatan Ibrahimovic,h,1741,OpenPlay,2021,Head,16931,AC Milan,Napoli,0,1,2021-12-19 19:45:00,Fode Toure,Aerial,1741
+449975,48,SavedShot,0.9269999694824219,0.6959999847412109,0.05483639985322952,Zlatan Ibrahimovic,h,1741,OpenPlay,2021,LeftFoot,16931,AC Milan,Napoli,0,1,2021-12-19 19:45:00,Rade Krunic,Pass,1741
+451830,93,SavedShot,0.885,0.5,0.7612990140914917,Zlatan Ibrahimovic,h,1741,Penalty,2021,RightFoot,16951,AC Milan,Roma,3,1,2022-01-06 17:30:00,,Standard,1741
+452318,1,Goal,0.9840000152587891,0.49,0.9579190015792847,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,RightFoot,16965,Venezia,AC Milan,0,3,2022-01-09 11:30:00,Rafael Leão,Pass,1741
+452333,56,BlockedShot,0.92,0.35200000762939454,0.37448298931121826,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,RightFoot,16965,Venezia,AC Milan,0,3,2022-01-09 11:30:00,,TakeOn,1741
+453902,19,MissedShots,0.9409999847412109,0.33799999237060546,0.08719920367002487,Zlatan Ibrahimovic,h,1741,OpenPlay,2021,RightFoot,16970,AC Milan,Spezia,1,2,2022-01-17 17:30:00,Rade Krunic,Pass,1741
+453904,26,SavedShot,0.9109999847412109,0.345,0.08407139778137207,Zlatan Ibrahimovic,h,1741,OpenPlay,2021,RightFoot,16970,AC Milan,Spezia,1,2,2022-01-17 17:30:00,Alexis Saelemaekers,Pass,1741
+453906,29,MissedShots,0.705999984741211,0.37900001525878907,0.012651899829506874,Zlatan Ibrahimovic,h,1741,OpenPlay,2021,RightFoot,16970,AC Milan,Spezia,1,2,2022-01-17 17:30:00,Rade Krunic,Pass,1741
+453911,55,MissedShots,0.889000015258789,0.36400001525878906,0.10179799795150757,Zlatan Ibrahimovic,h,1741,OpenPlay,2021,LeftFoot,16970,AC Milan,Spezia,1,2,2022-01-17 17:30:00,Alexis Saelemaekers,Pass,1741
+453923,70,BlockedShot,0.8540000152587891,0.57,0.06321310251951218,Zlatan Ibrahimovic,h,1741,OpenPlay,2021,RightFoot,16970,AC Milan,Spezia,1,2,2022-01-17 17:30:00,Junior Messias,Rebound,1741
+453927,89,SavedShot,0.9009999847412109,0.57,0.09594029933214188,Zlatan Ibrahimovic,h,1741,OpenPlay,2021,RightFoot,16970,AC Milan,Spezia,1,2,2022-01-17 17:30:00,Ante Rebic,HeadPass,1741
+453930,93,SavedShot,0.9269999694824219,0.6040000152587891,0.038244299590587616,Zlatan Ibrahimovic,h,1741,FromCorner,2021,Head,16970,AC Milan,Spezia,1,2,2022-01-17 17:30:00,Theo Hernández,Cross,1741
+453929,93,SavedShot,0.700999984741211,0.4879999923706055,0.03851589933037758,Zlatan Ibrahimovic,h,1741,DirectFreekick,2021,RightFoot,16970,AC Milan,Spezia,1,2,2022-01-17 17:30:00,,Standard,1741
+466221,91,MissedShots,0.9169999694824219,0.5359999847412109,0.055836599320173264,Zlatan Ibrahimovic,h,1741,OpenPlay,2021,Head,17061,AC Milan,Bologna,0,0,2022-04-04 18:45:00,Sandro Tonali,Aerial,1741
+470882,69,SavedShot,0.7330000305175781,0.6980000305175781,0.010604999959468842,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,RightFoot,17091,Lazio,AC Milan,1,2,2022-04-24 18:45:00,Sandro Tonali,Chipped,1741
+470886,88,BlockedShot,0.88,0.40400001525878904,0.05881030112504959,Zlatan Ibrahimovic,a,1741,OpenPlay,2021,RightFoot,17091,Lazio,AC Milan,1,2,2022-04-24 18:45:00,Theo Hernández,Cross,1741
+472128,86,MissedShots,0.9059999847412109,0.40099998474121096,0.013279199600219727,Zlatan Ibrahimovic,h,1741,SetPiece,2021,Head,17100,AC Milan,Fiorentina,1,0,2022-05-01 13:00:00,Theo Hernández,Aerial,1741
+512427,92,SavedShot,0.7880000305175782,0.54,0.036088600754737854,Zlatan Ibrahimovic,a,1741,OpenPlay,2022,RightFoot,18823,Fiorentina,AC Milan,2,1,2023-03-04 19:45:00,,Dispossessed,1741
+514486,75,MissedShots,0.9530000305175781,0.5279999923706055,0.11010300368070602,Zlatan Ibrahimovic,h,1741,OpenPlay,2022,Head,18838,AC Milan,Salernitana,1,1,2023-03-13 19:45:00,Alexis Saelemaekers,Aerial,1741
+514488,76,BlockedShot,0.735,0.4470000076293945,0.015375000424683094,Zlatan Ibrahimovic,h,1741,OpenPlay,2022,RightFoot,18838,AC Milan,Salernitana,1,1,2023-03-13 19:45:00,,None,1741
+514493,90,SavedShot,0.8430000305175781,0.2989999961853027,0.036240700632333755,Zlatan Ibrahimovic,h,1741,OpenPlay,2022,RightFoot,18838,AC Milan,Salernitana,1,1,2023-03-13 19:45:00,Divock Origi,Pass,1741
+515260,13,MissedShots,0.725,0.5270000076293946,0.048885900527238846,Zlatan Ibrahimovic,a,1741,DirectFreekick,2022,RightFoot,18851,Udinese,AC Milan,3,1,2023-03-18 19:45:00,,Standard,1741
+515268,48,Goal,0.885,0.5,0.7612990140914917,Zlatan Ibrahimovic,a,1741,Penalty,2022,RightFoot,18851,Udinese,AC Milan,3,1,2023-03-18 19:45:00,,Standard,1741

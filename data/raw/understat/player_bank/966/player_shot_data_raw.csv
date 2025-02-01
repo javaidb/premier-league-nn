@@ -1,0 +1,209 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14728,10,MissedShots,0.7469999694824219,0.28899999618530275,0.013504699803888798,Alex Oxlade-Chamberlain,a,966,OpenPlay,2014,RightFoot,4764,Everton,Arsenal,2,2,2014-08-23 17:30:00,Calum Chambers,BallRecovery,966
+14729,14,MissedShots,0.7609999847412109,0.48200000762939454,0.024348700419068336,Alex Oxlade-Chamberlain,a,966,OpenPlay,2014,RightFoot,4764,Everton,Arsenal,2,2,2014-08-23 17:30:00,,None,966
+14732,24,MissedShots,0.8469999694824218,0.549000015258789,0.07501710206270218,Alex Oxlade-Chamberlain,a,966,OpenPlay,2014,LeftFoot,4764,Everton,Arsenal,2,2,2014-08-23 17:30:00,Mesut Özil,Pass,966
+14733,29,MissedShots,0.764000015258789,0.47,0.03131439909338951,Alex Oxlade-Chamberlain,a,966,SetPiece,2014,RightFoot,4764,Everton,Arsenal,2,2,2014-08-23 17:30:00,Alexis Sánchez,LayOff,966
+14734,30,MissedShots,0.8159999847412109,0.5429999923706055,0.046020399779081345,Alex Oxlade-Chamberlain,a,966,OpenPlay,2014,RightFoot,4764,Everton,Arsenal,2,2,2014-08-23 17:30:00,,None,966
+15680,42,SavedShot,0.7719999694824219,0.5729999923706055,0.02730800025165081,Alex Oxlade-Chamberlain,h,966,OpenPlay,2014,RightFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Aaron Ramsey,Pass,966
+15682,46,BlockedShot,0.7380000305175781,0.4329999923706055,0.014747800305485725,Alex Oxlade-Chamberlain,h,966,OpenPlay,2014,RightFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,,None,966
+15695,73,Goal,0.9319999694824219,0.46700000762939453,0.5270119905471802,Alex Oxlade-Chamberlain,h,966,OpenPlay,2014,RightFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,,Rebound,966
+17848,16,BlockedShot,0.8830000305175781,0.5609999847412109,0.12357299774885178,Alex Oxlade-Chamberlain,h,966,OpenPlay,2014,RightFoot,4705,Arsenal,Hull,2,2,2014-10-18 15:00:00,Kieran Gibbs,Pass,966
+17852,33,BlockedShot,0.764000015258789,0.625,0.01847420074045658,Alex Oxlade-Chamberlain,h,966,OpenPlay,2014,RightFoot,4705,Arsenal,Hull,2,2,2014-10-18 15:00:00,Danny Welbeck,Pass,966
+17857,72,BlockedShot,0.835,0.3320000076293945,0.027025900781154633,Alex Oxlade-Chamberlain,h,966,FromCorner,2014,RightFoot,4705,Arsenal,Hull,2,2,2014-10-18 15:00:00,,None,966
+17863,87,MissedShots,0.750999984741211,0.4640000152587891,0.020990900695323944,Alex Oxlade-Chamberlain,h,966,OpenPlay,2014,RightFoot,4705,Arsenal,Hull,2,2,2014-10-18 15:00:00,,None,966
+16731,58,SavedShot,0.7659999847412109,0.4420000076293945,0.014648299664258957,Alex Oxlade-Chamberlain,h,966,FromCorner,2014,RightFoot,4652,Arsenal,Burnley,3,0,2014-11-01 15:00:00,,Aerial,966
+16732,59,BlockedShot,0.735,0.5940000152587891,0.017722899094223976,Alex Oxlade-Chamberlain,h,966,OpenPlay,2014,RightFoot,4652,Arsenal,Burnley,3,0,2014-11-01 15:00:00,Mathieu Flamini,Pass,966
+17176,29,BlockedShot,0.875999984741211,0.3120000076293945,0.05660630017518997,Alex Oxlade-Chamberlain,a,966,OpenPlay,2014,RightFoot,4668,Swansea,Arsenal,2,1,2014-11-09 16:00:00,Santiago Cazorla,Pass,966
+17183,45,SavedShot,0.8680000305175781,0.415,0.3461660146713257,Alex Oxlade-Chamberlain,a,966,OpenPlay,2014,LeftFoot,4668,Swansea,Arsenal,2,1,2014-11-09 16:00:00,Alexis Sánchez,Throughball,966
+17184,56,BlockedShot,0.845999984741211,0.43599998474121093,0.08929009735584259,Alex Oxlade-Chamberlain,a,966,OpenPlay,2014,RightFoot,4668,Swansea,Arsenal,2,1,2014-11-09 16:00:00,Santiago Cazorla,Pass,966
+17193,92,BlockedShot,0.749000015258789,0.5129999923706055,0.02222760021686554,Alex Oxlade-Chamberlain,a,966,OpenPlay,2014,RightFoot,4668,Swansea,Arsenal,2,1,2014-11-09 16:00:00,Alexis Sánchez,Pass,966
+16057,21,SavedShot,0.8819999694824219,0.725999984741211,0.2902899980545044,Alex Oxlade-Chamberlain,h,966,OpenPlay,2014,LeftFoot,4675,Arsenal,Manchester United,1,2,2014-11-22 17:30:00,Alexis Sánchez,Throughball,966
+16068,47,BlockedShot,0.8490000152587891,0.52,0.06064540147781372,Alex Oxlade-Chamberlain,h,966,FromCorner,2014,RightFoot,4675,Arsenal,Manchester United,1,2,2014-11-22 17:30:00,,None,966
+18787,25,SavedShot,0.8530000305175781,0.46900001525878904,0.07118380069732666,Alex Oxlade-Chamberlain,h,966,OpenPlay,2014,RightFoot,4598,Arsenal,Southampton,1,0,2014-12-03 19:45:00,,None,966
+17635,18,MissedShots,0.720999984741211,0.57,0.01406139973551035,Alex Oxlade-Chamberlain,h,966,OpenPlay,2014,RightFoot,4615,Arsenal,Newcastle United,4,1,2014-12-13 17:30:00,Kieran Gibbs,TakeOn,966
+17651,68,MissedShots,0.8,0.46,0.024424299597740173,Alex Oxlade-Chamberlain,h,966,OpenPlay,2014,RightFoot,4615,Arsenal,Newcastle United,4,1,2014-12-13 17:30:00,,Rebound,966
+19233,73,SavedShot,0.924000015258789,0.5259999847412109,0.38903000950813293,Alex Oxlade-Chamberlain,a,966,OpenPlay,2014,Head,4645,West Ham,Arsenal,1,2,2014-12-28 15:00:00,Alexis Sánchez,Cross,966
+19240,85,MissedShots,0.8919999694824219,0.3320000076293945,0.09425800293684006,Alex Oxlade-Chamberlain,a,966,OpenPlay,2014,RightFoot,4645,West Ham,Arsenal,1,2,2014-12-28 15:00:00,Santiago Cazorla,Pass,966
+19241,87,MissedShots,0.76,0.4829999923706055,0.03463819995522499,Alex Oxlade-Chamberlain,a,966,OpenPlay,2014,RightFoot,4645,West Ham,Arsenal,1,2,2014-12-28 15:00:00,Alexis Sánchez,Pass,966
+19924,26,MissedShots,0.8480000305175781,0.4179999923706055,0.08176010102033615,Alex Oxlade-Chamberlain,a,966,OpenPlay,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,Alexis Sánchez,Pass,966
+19940,77,SavedShot,0.7430000305175781,0.5020000076293946,0.010610399767756462,Alex Oxlade-Chamberlain,a,966,OpenPlay,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,,Aerial,966
+20126,14,MissedShots,0.8190000152587891,0.34299999237060547,0.048866599798202515,Alex Oxlade-Chamberlain,h,966,OpenPlay,2014,RightFoot,4569,Arsenal,Stoke,3,0,2015-01-11 13:30:00,Alexis Sánchez,Pass,966
+20134,48,MissedShots,0.7809999847412109,0.4809999847412109,0.04641050100326538,Alex Oxlade-Chamberlain,h,966,OpenPlay,2014,RightFoot,4569,Arsenal,Stoke,3,0,2015-01-11 13:30:00,Alexis Sánchez,Pass,966
+20138,64,BlockedShot,0.81,0.5220000076293946,0.07555080205202103,Alex Oxlade-Chamberlain,h,966,OpenPlay,2014,LeftFoot,4569,Arsenal,Stoke,3,0,2015-01-11 13:30:00,Santiago Cazorla,LayOff,966
+21913,90,BlockedShot,0.8580000305175781,0.5740000152587891,0.11138200014829636,Alex Oxlade-Chamberlain,h,966,OpenPlay,2014,LeftFoot,4433,Arsenal,West Bromwich Albion,4,1,2015-05-24 15:00:00,Aaron Ramsey,Pass,966
+51478,10,MissedShots,0.779000015258789,0.5509999847412109,0.03129430115222931,Alex Oxlade-Chamberlain,h,966,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,,None,966
+51491,50,BlockedShot,0.8730000305175781,0.705999984741211,0.04512130096554756,Alex Oxlade-Chamberlain,h,966,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Santiago Cazorla,Pass,966
+51500,80,MissedShots,0.8490000152587891,0.295,0.03800249844789505,Alex Oxlade-Chamberlain,h,966,OpenPlay,2015,RightFoot,88,Arsenal,West Ham,0,2,2015-08-09 16:30:00,Aaron Ramsey,Pass,966
+51757,71,BlockedShot,0.875999984741211,0.32599998474121095,0.04670749977231026,Alex Oxlade-Chamberlain,a,966,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Petr Cech,Pass,966
+51763,93,SavedShot,0.904000015258789,0.3129999923706055,0.07755280286073685,Alex Oxlade-Chamberlain,a,966,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Aaron Ramsey,Pass,966
+56390,84,MissedShots,0.8069999694824219,0.4929999923706055,0.031406499445438385,Alex Oxlade-Chamberlain,h,966,FromCorner,2015,RightFoot,110,Arsenal,Liverpool,0,0,2015-08-24 23:00:00,,BallTouch,966
+56393,93,SavedShot,0.750999984741211,0.3820000076293945,0.015937600284814835,Alex Oxlade-Chamberlain,h,966,OpenPlay,2015,LeftFoot,110,Arsenal,Liverpool,0,0,2015-08-24 23:00:00,Theo Walcott,Pass,966
+57624,5,BlockedShot,0.795,0.24299999237060546,0.020228300243616104,Alex Oxlade-Chamberlain,a,966,OpenPlay,2015,RightFoot,111,Newcastle United,Arsenal,0,1,2015-08-29 15:45:00,Santiago Cazorla,Pass,966
+57637,51,MissedShots,0.91,0.2879999923706055,0.03639350086450577,Alex Oxlade-Chamberlain,a,966,OpenPlay,2015,RightFoot,111,Newcastle United,Arsenal,0,1,2015-08-29 15:45:00,,Rebound,966
+58644,91,ShotOnPost,0.9159999847412109,0.33,0.37419798970222473,Alex Oxlade-Chamberlain,h,966,OpenPlay,2015,RightFoot,160,Arsenal,Manchester United,3,0,2015-10-04 19:00:00,Héctor Bellerín,Throughball,966
+59197,42,BlockedShot,0.84,0.43400001525878906,0.10374400019645691,Alex Oxlade-Chamberlain,h,966,OpenPlay,2015,RightFoot,176,Arsenal,Everton,2,1,2015-10-24 20:30:00,Santiago Cazorla,Pass,966
+59204,63,BlockedShot,0.9,0.30100000381469727,0.03462060168385506,Alex Oxlade-Chamberlain,h,966,OpenPlay,2015,RightFoot,176,Arsenal,Everton,2,1,2015-10-24 20:30:00,Nacho Monreal,Cross,966
+53479,51,BlockedShot,0.74,0.5470000076293945,0.017453599721193314,Alex Oxlade-Chamberlain,h,966,OpenPlay,2015,RightFoot,225,Arsenal,Sunderland,3,1,2015-12-05 19:00:00,Aaron Ramsey,Pass,966
+53057,81,SavedShot,0.875999984741211,0.41,0.11070399731397629,Alex Oxlade-Chamberlain,a,966,OpenPlay,2015,RightFoot,237,Aston Villa,Arsenal,0,2,2015-12-13 17:30:00,Aaron Ramsey,Pass,966
+52324,82,BlockedShot,0.8390000152587891,0.5309999847412109,0.12104500085115433,Alex Oxlade-Chamberlain,h,966,OpenPlay,2015,RightFoot,266,Arsenal,Bournemouth,2,0,2015-12-28 21:30:00,Theo Walcott,Pass,966
+54861,1,MissedShots,0.889000015258789,0.4909999847412109,0.12775500118732452,Alex Oxlade-Chamberlain,h,966,OpenPlay,2015,LeftFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Héctor Bellerín,Pass,966
+54866,35,MissedShots,0.6940000152587891,0.675,0.012771699577569962,Alex Oxlade-Chamberlain,h,966,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Aaron Ramsey,Pass,966
+52828,28,SavedShot,0.8019999694824219,0.5970000076293945,0.0336265005171299,Alex Oxlade-Chamberlain,a,966,OpenPlay,2015,RightFoot,299,Stoke,Arsenal,0,0,2016-01-17 20:15:00,Theo Walcott,Pass,966
+52829,29,BlockedShot,0.8080000305175781,0.5659999847412109,0.024252699688076973,Alex Oxlade-Chamberlain,a,966,FromCorner,2015,LeftFoot,299,Stoke,Arsenal,0,0,2016-01-17 20:15:00,Olivier Giroud,TakeOn,966
+52838,72,BlockedShot,0.7340000152587891,0.5929999923706055,0.017902500927448273,Alex Oxlade-Chamberlain,a,966,OpenPlay,2015,RightFoot,299,Stoke,Arsenal,0,0,2016-01-17 20:15:00,Mathieu Flamini,Pass,966
+53616,86,MissedShots,0.9009999847412109,0.40700000762939453,0.07827240228652954,Alex Oxlade-Chamberlain,h,966,OpenPlay,2015,RightFoot,310,Arsenal,Chelsea,0,1,2016-01-24 20:00:00,Héctor Bellerín,Cross,966
+55829,19,BlockedShot,0.7380000305175781,0.4209999847412109,0.010552199557423592,Alex Oxlade-Chamberlain,a,966,OpenPlay,2015,RightFoot,329,Bournemouth,Arsenal,0,2,2016-02-07 17:30:00,Olivier Giroud,Chipped,966
+55831,23,Goal,0.925,0.32799999237060545,0.09393049776554108,Alex Oxlade-Chamberlain,a,966,OpenPlay,2015,RightFoot,329,Bournemouth,Arsenal,0,2,2016-02-07 17:30:00,Aaron Ramsey,Pass,966
+112108,63,Goal,0.9030000305175782,0.7030000305175781,0.06660830229520798,Alex Oxlade-Chamberlain,h,966,OpenPlay,2016,RightFoot,469,Arsenal,Liverpool,3,4,2016-08-14 19:00:00,Santiago Cazorla,TakeOn,966
+112631,24,MissedShots,0.7880000305175782,0.6229999923706054,0.02910050004720688,Alex Oxlade-Chamberlain,a,966,OpenPlay,2016,RightFoot,478,Leicester,Arsenal,0,0,2016-08-20 20:30:00,Nacho Monreal,Pass,966
+112637,42,BlockedShot,0.8880000305175781,0.655,0.07411520183086395,Alex Oxlade-Chamberlain,a,966,OpenPlay,2016,RightFoot,478,Leicester,Arsenal,0,0,2016-08-20 20:30:00,Alexis Sánchez,Pass,966
+113114,66,MissedShots,0.774000015258789,0.28299999237060547,0.13274000585079193,Alex Oxlade-Chamberlain,a,966,OpenPlay,2016,RightFoot,482,Watford,Arsenal,1,3,2016-08-27 18:00:00,Héctor Bellerín,Throughball,966
+113144,8,BlockedShot,0.799000015258789,0.6530000305175782,0.02374669909477234,Alex Oxlade-Chamberlain,h,966,OpenPlay,2016,RightFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Nacho Monreal,Pass,966
+113152,41,BlockedShot,0.895,0.6609999847412109,0.03719890117645264,Alex Oxlade-Chamberlain,h,966,OpenPlay,2016,RightFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,Theo Walcott,Cross,966
+114174,91,BlockedShot,0.8430000305175781,0.4209999847412109,0.06952899694442749,Alex Oxlade-Chamberlain,a,966,OpenPlay,2016,RightFoot,530,Burnley,Arsenal,0,1,2016-10-02 19:30:00,Alexis Sánchez,Pass,966
+114947,3,BlockedShot,0.9319999694824219,0.5259999847412109,0.0700433999300003,Alex Oxlade-Chamberlain,a,966,OpenPlay,2016,Head,2677,Sunderland,Arsenal,1,4,2016-10-29 15:30:00,Héctor Bellerín,Aerial,966
+114955,34,SavedShot,0.9219999694824219,0.750999984741211,0.05121849849820137,Alex Oxlade-Chamberlain,a,966,OpenPlay,2016,RightFoot,2677,Sunderland,Arsenal,1,4,2016-10-29 15:30:00,,BallRecovery,966
+114959,58,MissedShots,0.8819999694824219,0.3120000076293945,0.2961150109767914,Alex Oxlade-Chamberlain,a,966,OpenPlay,2016,RightFoot,2677,Sunderland,Arsenal,1,4,2016-10-29 15:30:00,Mesut Özil,Chipped,966
+114960,61,MissedShots,0.905,0.30700000762939456,0.061925601214170456,Alex Oxlade-Chamberlain,a,966,OpenPlay,2016,RightFoot,2677,Sunderland,Arsenal,1,4,2016-10-29 15:30:00,Shkodran Mustafi,Pass,966
+116085,46,BlockedShot,0.7440000152587891,0.6930000305175781,0.013329800218343735,Alex Oxlade-Chamberlain,h,966,OpenPlay,2016,RightFoot,2714,Arsenal,Bournemouth,3,1,2016-11-27 18:15:00,Mesut Özil,Pass,966
+116088,60,BlockedShot,0.8859999847412109,0.6580000305175782,0.09018299728631973,Alex Oxlade-Chamberlain,h,966,OpenPlay,2016,LeftFoot,2714,Arsenal,Bournemouth,3,1,2016-11-27 18:15:00,Alexis Sánchez,Pass,966
+116130,29,MissedShots,0.924000015258789,0.669000015258789,0.09381680190563202,Alex Oxlade-Chamberlain,a,966,OpenPlay,2016,RightFoot,3111,West Ham,Arsenal,1,5,2016-12-03 21:30:00,Alexis Sánchez,Pass,966
+116146,75,BlockedShot,0.8980000305175782,0.6930000305175781,0.07781810313463211,Alex Oxlade-Chamberlain,a,966,OpenPlay,2016,RightFoot,3111,West Ham,Arsenal,1,5,2016-12-03 21:30:00,Mesut Özil,Pass,966
+116151,83,Goal,0.774000015258789,0.6469999694824219,0.023253999650478363,Alex Oxlade-Chamberlain,a,966,OpenPlay,2016,RightFoot,3111,West Ham,Arsenal,1,5,2016-12-03 21:30:00,Mesut Özil,Pass,966
+116153,89,SavedShot,0.905,0.63,0.32963699102401733,Alex Oxlade-Chamberlain,a,966,OpenPlay,2016,RightFoot,3111,West Ham,Arsenal,1,5,2016-12-03 21:30:00,Aaron Ramsey,Pass,966
+116500,46,MissedShots,0.8680000305175781,0.47,0.11089800298213959,Alex Oxlade-Chamberlain,h,966,OpenPlay,2016,RightFoot,3118,Arsenal,Stoke,3,1,2016-12-10 19:00:00,Héctor Bellerín,Pass,966
+116505,52,MissedShots,0.8819999694824219,0.47,0.08456099778413773,Alex Oxlade-Chamberlain,h,966,OpenPlay,2016,Head,3118,Arsenal,Stoke,3,1,2016-12-10 19:00:00,Alexis Sánchez,Cross,966
+116507,57,SavedShot,0.789000015258789,0.655,0.02598539926111698,Alex Oxlade-Chamberlain,h,966,OpenPlay,2016,RightFoot,3118,Arsenal,Stoke,3,1,2016-12-10 19:00:00,Alexis Sánchez,Chipped,966
+117022,92,SavedShot,0.8719999694824219,0.435,0.12924399971961975,Alex Oxlade-Chamberlain,h,966,OpenPlay,2016,LeftFoot,3329,Arsenal,Crystal Palace,2,0,2017-01-01 20:00:00,Alexis Sánchez,Pass,966
+118827,72,BlockedShot,0.8419999694824218,0.685,0.03475840017199516,Alex Oxlade-Chamberlain,h,966,OpenPlay,2016,RightFoot,3360,Arsenal,Watford,1,2,2017-01-31 22:45:00,Mesut Özil,Pass,966
+117362,45,MissedShots,0.735,0.5,0.024053800851106644,Alex Oxlade-Chamberlain,h,966,OpenPlay,2016,RightFoot,3380,Arsenal,Hull,2,0,2017-02-11 12:30:00,,None,966
+119821,92,MissedShots,0.7430000305175781,0.37900001525878907,0.016317399218678474,Alex Oxlade-Chamberlain,a,966,OpenPlay,2016,RightFoot,3459,Crystal Palace,Arsenal,3,0,2017-04-10 20:00:00,Granit Xhaka,Pass,966
+121264,91,SavedShot,0.9590000152587891,0.385,0.2981950044631958,Alex Oxlade-Chamberlain,a,966,OpenPlay,2016,RightFoot,3461,Middlesbrough,Arsenal,1,2,2017-04-17 20:00:00,Héctor Bellerín,TakeOn,966
+121265,92,MissedShots,0.8969999694824219,0.31799999237060544,0.10041499882936478,Alex Oxlade-Chamberlain,a,966,OpenPlay,2016,RightFoot,3461,Middlesbrough,Arsenal,1,2,2017-04-17 20:00:00,Granit Xhaka,Pass,966
+121230,30,SavedShot,0.77,0.385,0.024430399760603905,Alex Oxlade-Chamberlain,h,966,FromCorner,2016,RightFoot,3490,Arsenal,Manchester United,2,0,2017-05-07 16:00:00,Mesut Özil,Pass,966
+118681,19,BlockedShot,0.8530000305175781,0.3270000076293945,0.05085109919309616,Alex Oxlade-Chamberlain,a,966,OpenPlay,2016,LeftFoot,3390,Southampton,Arsenal,0,2,2017-05-10 19:45:00,Mesut Özil,Pass,966
+158136,7,MissedShots,0.8069999694824219,0.72,0.017941800877451897,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,LeftFoot,7119,Arsenal,Leicester,4,3,2017-08-11 19:45:00,Mesut Özil,TakeOn,966
+158137,13,SavedShot,0.7859999847412109,0.6430000305175781,0.028922799974679947,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7119,Arsenal,Leicester,4,3,2017-08-11 19:45:00,Mesut Özil,Dispossessed,966
+158151,58,SavedShot,0.78,0.4570000076293945,0.03048430010676384,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7119,Arsenal,Leicester,4,3,2017-08-11 19:45:00,Danny Welbeck,Pass,966
+158156,73,BlockedShot,0.84,0.23100000381469726,0.021888399496674538,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7119,Arsenal,Leicester,4,3,2017-08-11 19:45:00,Aaron Ramsey,Pass,966
+158157,73,BlockedShot,0.710999984741211,0.35700000762939454,0.019586699083447456,Alex Oxlade-Chamberlain,h,966,FromCorner,2017,RightFoot,7119,Arsenal,Leicester,4,3,2017-08-11 19:45:00,Héctor Bellerín,Pass,966
+158159,78,MissedShots,0.774000015258789,0.3129999923706055,0.020262999460101128,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7119,Arsenal,Leicester,4,3,2017-08-11 19:45:00,Granit Xhaka,Pass,966
+158540,19,BlockedShot,0.7669999694824219,0.3920000076293945,0.019999900832772255,Alex Oxlade-Chamberlain,a,966,FromCorner,2017,RightFoot,7135,Stoke,Arsenal,1,0,2017-08-19 17:30:00,Sead Kolasinac,Pass,966
+158547,35,MissedShots,0.8,0.26399999618530273,0.01473269984126091,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7135,Stoke,Arsenal,1,0,2017-08-19 17:30:00,Alexandre Lacazette,Chipped,966
+158563,77,BlockedShot,0.799000015258789,0.32799999237060545,0.023021500557661057,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7135,Stoke,Arsenal,1,0,2017-08-19 17:30:00,,BallRecovery,966
+159373,79,MissedShots,0.8880000305175781,0.7569999694824219,0.037716399878263474,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Daniel Sturridge,Pass,966
+160296,87,MissedShots,0.9219999694824219,0.4620000076293945,0.11911600083112717,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,Head,7188,Newcastle United,Liverpool,1,1,2017-10-01 16:30:00,Alberto Moreno,Cross,966
+159660,77,BlockedShot,0.805,0.48400001525878905,0.05606070160865784,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7207,Tottenham,Liverpool,4,1,2017-10-22 16:00:00,Daniel Sturridge,Pass,966
+159662,91,BlockedShot,0.7780000305175782,0.7440000152587891,0.009618580341339111,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7207,Tottenham,Liverpool,4,1,2017-10-22 16:00:00,,None,966
+161420,55,Goal,0.9580000305175781,0.455,0.6468600034713745,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,LeftFoot,7227,West Ham,Liverpool,1,4,2017-11-04 17:30:00,,Rebound,966
+161419,55,SavedShot,0.88,0.37900001525878907,0.10821399837732315,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7227,West Ham,Liverpool,1,4,2017-11-04 17:30:00,Roberto Firmino,Pass,966
+161429,83,BlockedShot,0.8830000305175781,0.6790000152587891,0.05828909948468208,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,LeftFoot,7227,West Ham,Liverpool,1,4,2017-11-04 17:30:00,,None,966
+161301,25,SavedShot,0.8519999694824218,0.38799999237060545,0.03342390060424805,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,LeftFoot,7258,Stoke,Liverpool,0,3,2017-11-29 20:00:00,,Aerial,966
+179225,12,MissedShots,0.754000015258789,0.3820000076293945,0.014641400426626205,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7275,Liverpool,Everton,1,1,2017-12-10 14:15:00,,Rebound,966
+179232,44,MissedShots,0.7319999694824219,0.425,0.014661099761724472,Alex Oxlade-Chamberlain,h,966,FromCorner,2017,RightFoot,7275,Liverpool,Everton,1,1,2017-12-10 14:15:00,,None,966
+185346,85,SavedShot,0.8569999694824219,0.6659999847412109,0.05314109846949577,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7287,Liverpool,West Bromwich Albion,0,0,2017-12-13 20:00:00,Dominic Solanke,Pass,966
+183200,39,SavedShot,0.8030000305175782,0.37099998474121093,0.0500263012945652,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7290,Bournemouth,Liverpool,0,4,2017-12-17 16:30:00,,Tackle,966
+183206,58,ShotOnPost,0.909000015258789,0.64,0.16336899995803833,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,LeftFoot,7290,Bournemouth,Liverpool,0,4,2017-12-17 16:30:00,,TakeOn,966
+183212,82,MissedShots,0.915,0.2620000076293945,0.05761390179395676,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7290,Bournemouth,Liverpool,0,4,2017-12-17 16:30:00,Philippe Coutinho,Pass,966
+185659,25,MissedShots,0.7440000152587891,0.5729999923706055,0.024735599756240845,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7313,Liverpool,Swansea,5,0,2017-12-26 17:30:00,Andrew Robertson,Pass,966
+185674,82,Goal,0.899000015258789,0.3340000152587891,0.06889960169792175,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7313,Liverpool,Swansea,5,0,2017-12-26 17:30:00,,None,966
+185676,84,BlockedShot,0.8490000152587891,0.3920000076293945,0.08807390183210373,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7313,Liverpool,Swansea,5,0,2017-12-26 17:30:00,Philippe Coutinho,HeadPass,966
+186277,16,SavedShot,0.754000015258789,0.5690000152587891,0.023171599954366684,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7332,Burnley,Liverpool,1,2,2018-01-01 15:00:00,Adam Lallana,Pass,966
+186286,41,BlockedShot,0.8959999847412109,0.655,0.08097510039806366,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7332,Burnley,Liverpool,1,2,2018-01-01 15:00:00,Dominic Solanke,Pass,966
+186288,46,BlockedShot,0.850999984741211,0.5929999923706055,0.0794747993350029,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,LeftFoot,7332,Burnley,Liverpool,1,2,2018-01-01 15:00:00,Adam Lallana,Pass,966
+186301,83,SavedShot,0.9469999694824218,0.35900001525878905,0.11086799949407578,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7332,Burnley,Liverpool,1,2,2018-01-01 15:00:00,Dominic Solanke,Pass,966
+187937,8,Goal,0.8080000305175781,0.3060000038146973,0.01924999989569187,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Roberto Firmino,TakeOn,966
+187951,55,SavedShot,0.9330000305175781,0.6880000305175781,0.07097849994897842,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Emre Can,TakeOn,966
+189604,32,SavedShot,0.8230000305175781,0.27299999237060546,0.012568400241434574,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7357,Swansea,Liverpool,1,0,2018-01-22 20:00:00,,Aerial,966
+189612,64,BlockedShot,0.7959999847412109,0.42400001525878905,0.034095801413059235,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,LeftFoot,7357,Swansea,Liverpool,1,0,2018-01-22 20:00:00,,BallTouch,966
+193741,65,BlockedShot,0.7919999694824219,0.53,0.030799299478530884,Alex Oxlade-Chamberlain,h,966,SetPiece,2017,RightFoot,7375,Liverpool,Tottenham,2,2,2018-02-04 16:30:00,,None,966
+193942,7,SavedShot,0.815,0.6730000305175782,0.04172300174832344,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7384,Southampton,Liverpool,0,2,2018-02-11 16:30:00,Sadio Mané,Pass,966
+197374,53,MissedShots,0.8909999847412109,0.31,0.06731490045785904,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7395,Liverpool,West Ham,4,1,2018-02-24 15:00:00,Trent Alexander-Arnold,Pass,966
+197382,67,SavedShot,0.735,0.3890000152587891,0.03054879978299141,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7395,Liverpool,West Ham,4,1,2018-02-24 15:00:00,Emre Can,Pass,966
+197387,92,SavedShot,0.8,0.3,0.03839389979839325,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7395,Liverpool,West Ham,4,1,2018-02-24 15:00:00,Trent Alexander-Arnold,TakeOn,966
+199831,40,BlockedShot,0.7319999694824219,0.3729999923706055,0.0133888004347682,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Roberto Firmino,Pass,966
+199834,49,BlockedShot,0.720999984741211,0.39799999237060546,0.011723199859261513,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Sadio Mané,Pass,966
+199836,53,BlockedShot,0.764000015258789,0.32799999237060545,0.01632389985024929,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Emre Can,Pass,966
+201643,76,SavedShot,0.7809999847412109,0.33099998474121095,0.037967499345541,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7423,Liverpool,Watford,5,0,2018-03-17 17:30:00,,TakeOn,966
+206998,69,MissedShots,0.774000015258789,0.5709999847412109,0.013330300338566303,Alex Oxlade-Chamberlain,a,966,OpenPlay,2017,RightFoot,7443,Everton,Liverpool,0,0,2018-04-07 11:30:00,,Aerial,966
+208645,34,BlockedShot,0.720999984741211,0.504000015258789,0.020135900005698204,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7452,Liverpool,Bournemouth,3,0,2018-04-14 16:30:00,Sadio Mané,Pass,966
+208653,79,MissedShots,0.7430000305175781,0.4570000076293945,0.022289499640464783,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7452,Liverpool,Bournemouth,3,0,2018-04-14 16:30:00,Georginio Wijnaldum,Pass,966
+208659,88,MissedShots,0.725999984741211,0.4159999847412109,0.022998400032520294,Alex Oxlade-Chamberlain,h,966,OpenPlay,2017,RightFoot,7452,Liverpool,Bournemouth,3,0,2018-04-14 16:30:00,Georginio Wijnaldum,Pass,966
+297147,75,SavedShot,0.91,0.40700000762939453,0.46647098660469055,Alex Oxlade-Chamberlain,h,966,OpenPlay,2018,LeftFoot,9551,Liverpool,Huddersfield,5,0,2019-04-26 20:00:00,Mohamed Salah,TakeOn,966
+310440,12,MissedShots,0.885,0.285,0.03864549845457077,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Mohamed Salah,Pass,966
+310455,59,BlockedShot,0.7609999847412109,0.3659999847412109,0.025568200275301933,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Andrew Robertson,Pass,966
+316021,78,SavedShot,0.805,0.3129999923706055,0.08259370177984238,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11680,Burnley,Liverpool,0,3,2019-08-31 17:30:00,Mohamed Salah,Pass,966
+317024,10,MissedShots,0.7440000152587891,0.40599998474121096,0.019560499116778374,Alex Oxlade-Chamberlain,h,966,OpenPlay,2019,RightFoot,11683,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,Fabinho,Pass,966
+317044,64,BlockedShot,0.840999984741211,0.6519999694824219,0.06582009792327881,Alex Oxlade-Chamberlain,h,966,OpenPlay,2019,RightFoot,11683,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,Sadio Mané,Pass,966
+326450,63,MissedShots,0.7919999694824219,0.40700000762939453,0.032858699560165405,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11729,Manchester United,Liverpool,1,1,2019-10-20 16:30:00,Fabinho,Pass,966
+326457,91,MissedShots,0.7680000305175781,0.51,0.027418799698352814,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,LeftFoot,11729,Manchester United,Liverpool,1,1,2019-10-20 16:30:00,Sadio Mané,Pass,966
+329259,65,BlockedShot,0.860999984741211,0.4159999847412109,0.060735899955034256,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11744,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,Roberto Firmino,Rebound,966
+329258,65,BlockedShot,0.8569999694824219,0.555,0.08142539858818054,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11744,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,Andrew Robertson,Pass,966
+329260,66,BlockedShot,0.8809999847412109,0.40700000762939453,0.06797630339860916,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11744,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,,Rebound,966
+329264,74,BlockedShot,0.865999984741211,0.66,0.06071989983320236,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11744,Aston Villa,Liverpool,1,2,2019-11-02 15:00:00,Adam Lallana,Pass,966
+332254,7,BlockedShot,0.7809999847412109,0.605,0.036277998238801956,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,Georginio Wijnaldum,HeadPass,966
+333642,3,BlockedShot,0.8090000152587891,0.49599998474121093,0.05433399975299835,Alex Oxlade-Chamberlain,h,966,OpenPlay,2019,LeftFoot,11776,Liverpool,Brighton,2,1,2019-11-30 15:00:00,,BallRecovery,966
+333647,20,MissedShots,0.7859999847412109,0.415,0.022410500794649124,Alex Oxlade-Chamberlain,h,966,FromCorner,2019,RightFoot,11776,Liverpool,Brighton,2,1,2019-11-30 15:00:00,,None,966
+333654,44,SavedShot,0.855,0.46,0.1254979968070984,Alex Oxlade-Chamberlain,h,966,OpenPlay,2019,LeftFoot,11776,Liverpool,Brighton,2,1,2019-11-30 15:00:00,Mohamed Salah,Pass,966
+333659,64,BlockedShot,0.8730000305175781,0.48200000762939454,0.09789469838142395,Alex Oxlade-Chamberlain,h,966,OpenPlay,2019,LeftFoot,11776,Liverpool,Brighton,2,1,2019-11-30 15:00:00,,Rebound,966
+335677,34,Goal,0.8869999694824219,0.5579999923706055,0.32736799120903015,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Jordan Henderson,Throughball,966
+335693,82,BlockedShot,0.8009999847412109,0.23600000381469727,0.03052150085568428,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11794,Bournemouth,Liverpool,0,3,2019-12-07 15:00:00,Naby Keita,Pass,966
+351771,1,ShotOnPost,0.875999984741211,0.46,0.11239399760961533,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Roberto Firmino,Pass,966
+351783,47,MissedShots,0.7369999694824219,0.6659999847412109,0.020674699917435646,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Roberto Firmino,Pass,966
+352074,12,BlockedShot,0.7140000152587891,0.6359999847412109,0.013079999946057796,Alex Oxlade-Chamberlain,h,966,OpenPlay,2019,RightFoot,11865,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,,BallRecovery,966
+352087,51,SavedShot,0.8040000152587891,0.3659999847412109,0.06152249872684479,Alex Oxlade-Chamberlain,h,966,OpenPlay,2019,RightFoot,11865,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,Roberto Firmino,TakeOn,966
+352353,41,MissedShots,0.7280000305175781,0.5790000152587891,0.020833099260926247,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,LeftFoot,11822,West Ham,Liverpool,0,2,2020-01-29 19:45:00,Jordan Henderson,Pass,966
+352358,51,Goal,0.875999984741211,0.4779999923706055,0.36221998929977417,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11822,West Ham,Liverpool,0,2,2020-01-29 19:45:00,Mohamed Salah,TakeOn,966
+352541,29,SavedShot,0.78,0.5209999847412109,0.033068299293518066,Alex Oxlade-Chamberlain,h,966,OpenPlay,2019,RightFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,Jordan Henderson,Pass,966
+352554,46,Goal,0.7980000305175782,0.66,0.022952400147914886,Alex Oxlade-Chamberlain,h,966,OpenPlay,2019,RightFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,Roberto Firmino,Pass,966
+352761,6,SavedShot,0.7859999847412109,0.3920000076293945,0.02919520065188408,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11899,Norwich,Liverpool,0,1,2020-02-15 17:30:00,,None,966
+353152,57,MissedShots,0.735,0.40200000762939453,0.01763710007071495,Alex Oxlade-Chamberlain,h,966,OpenPlay,2019,RightFoot,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Georginio Wijnaldum,Pass,966
+353398,30,BlockedShot,0.7390000152587891,0.4640000152587891,0.01621359959244728,Alex Oxlade-Chamberlain,h,966,OpenPlay,2019,RightFoot,11928,Liverpool,Bournemouth,2,1,2020-03-07 12:30:00,Sadio Mané,Pass,966
+353403,48,BlockedShot,0.7040000152587891,0.43099998474121093,0.018207600340247154,Alex Oxlade-Chamberlain,h,966,OpenPlay,2019,RightFoot,11928,Liverpool,Bournemouth,2,1,2020-03-07 12:30:00,Virgil van Dijk,Pass,966
+353412,81,MissedShots,0.715,0.46599998474121096,0.01945759914815426,Alex Oxlade-Chamberlain,h,966,OpenPlay,2019,RightFoot,11928,Liverpool,Bournemouth,2,1,2020-03-07 12:30:00,Georginio Wijnaldum,Pass,966
+366445,65,MissedShots,0.8540000152587891,0.705,0.03570830076932907,Alex Oxlade-Chamberlain,h,966,OpenPlay,2019,LeftFoot,11951,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,Georginio Wijnaldum,None,966
+368415,60,BlockedShot,0.8690000152587891,0.29700000762939455,0.037702299654483795,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Mohamed Salah,Pass,966
+368419,65,OwnGoal,0.03299999952316284,0.46700000762939453,0,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,,BallTouch,966
+369875,26,MissedShots,0.8690000152587891,0.28,0.024823399260640144,Alex Oxlade-Chamberlain,a,966,FromCorner,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,,None,966
+369883,46,BlockedShot,0.8630000305175781,0.6880000305175781,0.06118980050086975,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Roberto Firmino,Pass,966
+369886,56,BlockedShot,0.835,0.48900001525878906,0.0908891037106514,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11976,Brighton,Liverpool,1,3,2020-07-08 19:15:00,Mohamed Salah,Pass,966
+371631,27,BlockedShot,0.7069999694824218,0.40700000762939453,0.0181099995970726,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11993,Arsenal,Liverpool,2,1,2020-07-15 19:15:00,Georginio Wijnaldum,Pass,966
+371636,44,SavedShot,0.8080000305175781,0.5129999923706055,0.054254200309515,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,11993,Arsenal,Liverpool,2,1,2020-07-15 19:15:00,Sadio Mané,Pass,966
+373321,83,Goal,0.9080000305175782,0.43400001525878906,0.15184499323368073,Alex Oxlade-Chamberlain,h,966,OpenPlay,2019,RightFoot,12006,Liverpool,Chelsea,5,3,2020-07-22 19:15:00,Andrew Robertson,Pass,966
+373779,41,MissedShots,0.7709999847412109,0.3770000076293945,0.024861199781298637,Alex Oxlade-Chamberlain,a,966,OpenPlay,2019,RightFoot,12016,Newcastle United,Liverpool,1,3,2020-07-26 15:00:00,Georginio Wijnaldum,Pass,966
+395800,83,MissedShots,0.7719999694824219,0.5029999923706054,0.021142199635505676,Alex Oxlade-Chamberlain,h,966,FromCorner,2020,RightFoot,14580,Liverpool,West Bromwich Albion,1,1,2020-12-27 16:30:00,,None,966
+395801,85,BlockedShot,0.7969999694824219,0.3970000076293945,0.03746870160102844,Alex Oxlade-Chamberlain,h,966,OpenPlay,2020,RightFoot,14580,Liverpool,West Bromwich Albion,1,1,2020-12-27 16:30:00,Sadio Mané,Pass,966
+400176,22,SavedShot,0.759000015258789,0.42200000762939455,0.02349339984357357,Alex Oxlade-Chamberlain,h,966,OpenPlay,2020,RightFoot,14613,Liverpool,Burnley,0,1,2021-01-21 20:00:00,Sadio Mané,Pass,966
+402839,72,MissedShots,0.7390000152587891,0.4909999847412109,0.018330300226807594,Alex Oxlade-Chamberlain,h,966,OpenPlay,2020,RightFoot,14654,Liverpool,Brighton,0,1,2021-02-03 20:15:00,Divock Origi,Pass,966
+402844,76,SavedShot,0.774000015258789,0.3920000076293945,0.025871900841593742,Alex Oxlade-Chamberlain,h,966,OpenPlay,2020,RightFoot,14654,Liverpool,Brighton,0,1,2021-02-03 20:15:00,,Rebound,966
+410796,102,MissedShots,0.895,0.38,0.026358800008893013,Alex Oxlade-Chamberlain,a,966,SetPiece,2020,Head,14714,Wolverhampton Wanderers,Liverpool,0,1,2021-03-15 20:00:00,Trent Alexander-Arnold,Cross,966
+416169,91,SavedShot,0.855999984741211,0.45,0.09737099707126617,Alex Oxlade-Chamberlain,a,966,OpenPlay,2020,RightFoot,14749,Leeds,Liverpool,1,1,2021-04-19 19:00:00,Roberto Firmino,Pass,966
+423367,87,Goal,0.895,0.6619999694824219,0.050614599138498306,Alex Oxlade-Chamberlain,a,966,FromCorner,2020,LeftFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Andrew Robertson,Pass,966
+425979,18,MissedShots,0.7419999694824219,0.4829999923706055,0.013574999757111073,Alex Oxlade-Chamberlain,a,966,FromCorner,2021,RightFoot,16383,Norwich,Liverpool,0,3,2021-08-14 16:30:00,,Aerial,966
+425993,50,MissedShots,0.7469999694824219,0.545,0.016502300277352333,Alex Oxlade-Chamberlain,a,966,FromCorner,2021,RightFoot,16383,Norwich,Liverpool,0,3,2021-08-14 16:30:00,,None,966
+438527,84,MissedShots,0.72,0.45799999237060546,0.022110000252723694,Alex Oxlade-Chamberlain,a,966,OpenPlay,2021,LeftFoot,16463,Manchester United,Liverpool,0,5,2021-10-24 15:30:00,Jordan Henderson,Pass,966
+439689,54,BlockedShot,0.7869999694824219,0.61,0.050807200372219086,Alex Oxlade-Chamberlain,h,966,OpenPlay,2021,RightFoot,16469,Liverpool,Brighton,2,2,2021-10-30 14:00:00,Trent Alexander-Arnold,TakeOn,966
+439690,58,MissedShots,0.7919999694824219,0.6309999847412109,0.015234099701046944,Alex Oxlade-Chamberlain,h,966,FromCorner,2021,RightFoot,16469,Liverpool,Brighton,2,2,2021-10-30 14:00:00,,Aerial,966
+441920,56,BlockedShot,0.7269999694824218,0.580999984741211,0.01759509928524494,Alex Oxlade-Chamberlain,a,966,OpenPlay,2021,LeftFoot,16485,West Ham,Liverpool,3,2,2021-11-07 16:30:00,Diogo Jota,Pass,966
+442767,21,BlockedShot,0.8680000305175781,0.28200000762939453,0.057000599801540375,Alex Oxlade-Chamberlain,h,966,OpenPlay,2021,LeftFoot,16489,Liverpool,Arsenal,4,0,2021-11-20 17:30:00,,TakeOn,966
+442770,26,BlockedShot,0.8009999847412109,0.27700000762939453,0.01009989995509386,Alex Oxlade-Chamberlain,h,966,OpenPlay,2021,RightFoot,16489,Liverpool,Arsenal,4,0,2021-11-20 17:30:00,Sadio Mané,Chipped,966
+442778,49,MissedShots,0.8569999694824219,0.6140000152587891,0.09527959674596786,Alex Oxlade-Chamberlain,h,966,OpenPlay,2021,RightFoot,16489,Liverpool,Arsenal,4,0,2021-11-20 17:30:00,Fabinho,Pass,966
+444115,78,SavedShot,0.815,0.45799999237060546,0.08303169906139374,Alex Oxlade-Chamberlain,h,966,OpenPlay,2021,RightFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Diogo Jota,Pass,966
+444117,83,BlockedShot,0.735999984741211,0.43,0.022681700065732002,Alex Oxlade-Chamberlain,h,966,OpenPlay,2021,RightFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Fabinho,Pass,966
+447680,18,MissedShots,0.7190000152587891,0.5420000076293945,0.019753100350499153,Alex Oxlade-Chamberlain,h,966,OpenPlay,2021,RightFoot,16533,Liverpool,Aston Villa,1,0,2021-12-11 15:00:00,Thiago Alcántara,Pass,966
+449192,33,MissedShots,0.7980000305175782,0.6569999694824219,0.020080100744962692,Alex Oxlade-Chamberlain,h,966,FromCorner,2021,RightFoot,16544,Liverpool,Newcastle United,3,1,2021-12-16 20:00:00,,None,966
+453612,58,MissedShots,0.9259999847412109,0.30100000381469727,0.0645425021648407,Alex Oxlade-Chamberlain,h,966,OpenPlay,2021,RightFoot,16589,Liverpool,Brentford,3,0,2022-01-16 14:00:00,Andrew Robertson,Chipped,966
+453616,68,Goal,0.9180000305175782,0.45099998474121095,0.29680100083351135,Alex Oxlade-Chamberlain,h,966,OpenPlay,2021,Head,16589,Liverpool,Brentford,3,0,2022-01-16 14:00:00,Andrew Robertson,Cross,966
+454969,11,MissedShots,0.970999984741211,0.39,0.10003499686717987,Alex Oxlade-Chamberlain,a,966,OpenPlay,2021,RightFoot,16599,Crystal Palace,Liverpool,1,3,2022-01-23 14:00:00,Andrew Robertson,Chipped,966
+454970,12,MissedShots,0.7809999847412109,0.26399999618530273,0.017895100638270378,Alex Oxlade-Chamberlain,a,966,OpenPlay,2021,LeftFoot,16599,Crystal Palace,Liverpool,1,3,2022-01-23 14:00:00,Jordan Henderson,Pass,966
+454973,31,Goal,0.9459999847412109,0.3990000152587891,0.11670099943876266,Alex Oxlade-Chamberlain,a,966,OpenPlay,2021,LeftFoot,16599,Crystal Palace,Liverpool,1,3,2022-01-23 14:00:00,Andrew Robertson,Chipped,966
+458304,25,MissedShots,0.8069999694824219,0.33099998474121095,0.031094200909137726,Alex Oxlade-Chamberlain,h,966,OpenPlay,2021,RightFoot,16631,Liverpool,Norwich,3,1,2022-02-19 15:00:00,Joel Matip,Pass,966
+458307,37,BlockedShot,0.749000015258789,0.6020000076293945,0.015771299600601196,Alex Oxlade-Chamberlain,h,966,FromCorner,2021,RightFoot,16631,Liverpool,Norwich,3,1,2022-02-19 15:00:00,,None,966
+458310,45,BlockedShot,0.8469999694824218,0.4909999847412109,0.09436409920454025,Alex Oxlade-Chamberlain,h,966,OpenPlay,2021,LeftFoot,16631,Liverpool,Norwich,3,1,2022-02-19 15:00:00,Mohamed Salah,Pass,966
+501573,36,MissedShots,0.8859999847412109,0.6020000076293945,0.06576810032129288,Alex Oxlade-Chamberlain,h,966,OpenPlay,2022,RightFoot,18375,Liverpool,Leicester,2,1,2022-12-30 20:00:00,Andrew Robertson,Cross,966
+502067,23,MissedShots,0.8930000305175781,0.524000015258789,0.08190570026636124,Alex Oxlade-Chamberlain,a,966,OpenPlay,2022,RightFoot,18384,Brentford,Liverpool,3,1,2023-01-02 17:30:00,,None,966
+502075,32,SavedShot,0.73,0.43900001525878907,0.011383799836039543,Alex Oxlade-Chamberlain,a,966,FromCorner,2022,RightFoot,18384,Brentford,Liverpool,3,1,2023-01-02 17:30:00,Harvey Elliott,HeadPass,966
+502079,49,Goal,0.9080000305175782,0.5,0.2886030077934265,Alex Oxlade-Chamberlain,a,966,OpenPlay,2022,Head,18384,Brentford,Liverpool,3,1,2023-01-02 17:30:00,Trent Alexander-Arnold,Cross,966
+503506,26,MissedShots,0.9569999694824218,0.4570000076293945,0.6482110023498535,Alex Oxlade-Chamberlain,a,966,OpenPlay,2022,RightFoot,18394,Brighton,Liverpool,3,0,2023-01-14 15:00:00,Trent Alexander-Arnold,Pass,966
+503512,54,SavedShot,0.9330000305175781,0.524000015258789,0.3824959993362427,Alex Oxlade-Chamberlain,a,966,OpenPlay,2022,Head,18394,Brighton,Liverpool,3,0,2023-01-14 15:00:00,Trent Alexander-Arnold,Cross,966
+507125,89,BlockedShot,0.7130000305175781,0.5929999923706055,0.014923700131475925,Alex Oxlade-Chamberlain,a,966,OpenPlay,2022,RightFoot,18421,Wolverhampton Wanderers,Liverpool,3,0,2023-02-04 15:00:00,Konstantinos Tsimikas,Pass,966

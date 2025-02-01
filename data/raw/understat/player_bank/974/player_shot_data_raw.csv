@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+41954,76,SavedShot,0.6469999694824219,0.605999984741211,0.008367889560759068,Yohan Benalouane,h,974,OpenPlay,2014,RightFoot,5126,Atalanta,Fiorentina,0,1,2014-09-21 17:00:00,,None,974
+42308,55,MissedShots,0.960999984741211,0.519000015258789,0.0894559994339943,Yohan Benalouane,a,974,FromCorner,2014,Head,5132,Inter,Atalanta,2,0,2014-09-24 19:45:00,Luca Cigarini,Aerial,974
+42314,74,MissedShots,0.6869999694824219,0.33299999237060546,0.011787200346589088,Yohan Benalouane,a,974,OpenPlay,2014,RightFoot,5132,Inter,Atalanta,2,0,2014-09-24 19:45:00,Luca Cigarini,Pass,974
+42467,68,MissedShots,0.6990000152587891,0.5529999923706055,0.009613499976694584,Yohan Benalouane,h,974,OpenPlay,2014,RightFoot,5140,Atalanta,Juventus,0,3,2014-09-27 19:45:00,,BallRecovery,974
+42955,38,MissedShots,0.92,0.40099998474121096,0.03863010182976723,Yohan Benalouane,a,974,FromCorner,2014,Head,5073,Sampdoria,Atalanta,1,0,2014-10-05 14:00:00,Luca Cigarini,Cross,974
+43009,83,SavedShot,0.6759999847412109,0.590999984741211,0.008868180215358734,Yohan Benalouane,h,974,OpenPlay,2014,LeftFoot,5084,Atalanta,Parma,1,0,2014-10-19 14:00:00,,None,974
+43506,19,MissedShots,0.7330000305175781,0.5870000076293945,0.011309199966490269,Yohan Benalouane,a,974,SetPiece,2014,RightFoot,5092,Udinese,Atalanta,2,0,2014-10-26 14:00:00,,None,974
+43526,67,MissedShots,0.865,0.46799999237060547,0.034592799842357635,Yohan Benalouane,a,974,SetPiece,2014,Head,5092,Udinese,Atalanta,2,0,2014-10-26 14:00:00,Luca Cigarini,Cross,974
+43549,79,MissedShots,0.725999984741211,0.3039999961853027,0.008273620158433914,Yohan Benalouane,h,974,SetPiece,2014,RightFoot,5104,Atalanta,Napoli,1,1,2014-10-29 19:45:00,,Aerial,974
+44301,38,BlockedShot,0.735,0.52,0.020266899839043617,Yohan Benalouane,a,974,FromCorner,2014,RightFoot,5040,Sassuolo,Atalanta,0,0,2014-11-08 17:00:00,Salvatore Molina,Pass,974
+44831,45,Goal,0.88,0.4420000076293945,0.06996729969978333,Yohan Benalouane,h,974,FromCorner,2014,RightFoot,5006,Atalanta,Cesena,3,2,2014-12-07 14:00:00,Luca Cigarini,Chipped,974
+45999,12,BlockedShot,0.79,0.3579999923706055,0.029075099155306816,Yohan Benalouane,a,974,OpenPlay,2014,RightFoot,4980,AC Milan,Atalanta,0,1,2015-01-18 14:00:00,Germán Denis,Dispossessed,974
+47843,39,MissedShots,0.6780000305175782,0.52,0.011141300201416016,Yohan Benalouane,a,974,OpenPlay,2014,RightFoot,4894,Parma,Atalanta,0,0,2015-03-08 14:00:00,Luca Cigarini,Pass,974
+50967,68,MissedShots,0.8590000152587891,0.42700000762939455,0.07814910262823105,Yohan Benalouane,h,974,OpenPlay,2014,LeftFoot,4863,Atalanta,Empoli,2,2,2015-04-26 11:30:00,Germán Denis,Pass,974
+49893,75,BlockedShot,0.9269999694824219,0.495,0.1351339966058731,Yohan Benalouane,h,974,SetPiece,2014,Head,4803,Atalanta,Genoa,1,4,2015-05-17 14:00:00,Alejandro Gomez,Cross,974
+49899,92,SavedShot,0.9290000152587891,0.504000015258789,0.11683999747037888,Yohan Benalouane,h,974,FromCorner,2014,Head,4803,Atalanta,Genoa,1,4,2015-05-17 14:00:00,Maximiliano Moralez,Cross,974
+120634,49,SavedShot,0.5379999923706055,0.40099998474121096,0.019139299169182777,Yohan Benalouane,a,974,DirectFreekick,2016,RightFoot,3421,West Ham,Leicester,2,3,2017-03-18 15:00:00,,Standard,974
+119370,6,MissedShots,0.9540000152587891,0.4,0.08923149853944778,Yohan Benalouane,h,974,SetPiece,2016,RightFoot,3434,Leicester,Stoke,2,0,2017-04-01 15:00:00,,BallTouch,974
+120792,46,MissedShots,0.919000015258789,0.48700000762939455,0.12503500282764435,Yohan Benalouane,h,974,SetPiece,2016,Head,3475,Leicester,Tottenham,1,6,2017-05-18 19:45:00,Marc Albrighton,Cross,974
+112483,39,BlockedShot,0.9119999694824219,0.524000015258789,0.1217620000243187,Yohan Benalouane,h,974,OpenPlay,2016,RightFoot,3514,Leicester,Bournemouth,1,1,2017-05-21 15:00:00,Wilfred Ndidi,Rebound,974
+213303,45,MissedShots,0.7709999847412109,0.26399999618530273,0.014139300212264061,Yohan Benalouane,h,974,OpenPlay,2017,RightFoot,7479,Leicester,West Ham,0,2,2018-05-05 15:00:00,,None,974

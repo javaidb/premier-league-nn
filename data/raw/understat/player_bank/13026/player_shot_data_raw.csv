@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+609607,93,BlockedShot,0.7959999847412109,0.29100000381469726,0.019988445565104485,Luis Guilherme,h,13026,OpenPlay,2024,LeftFoot,26791,West Ham,Liverpool,0,5,2024-12-29 17:15:00,Aaron Wan-Bissaka,Pass,13026

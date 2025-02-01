@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+425986,32,BlockedShot,0.874000015258789,0.7090000152587891,0.05945789813995361,Konstantinos Tsimikas,a,8852,OpenPlay,2021,LeftFoot,16383,Norwich,Liverpool,0,3,2021-08-14 16:30:00,Mohamed Salah,Pass,8852
+425997,62,SavedShot,0.8959999847412109,0.6469999694824219,0.10001099854707718,Konstantinos Tsimikas,a,8852,OpenPlay,2021,LeftFoot,16383,Norwich,Liverpool,0,3,2021-08-14 16:30:00,Sadio Mané,Pass,8852
+431337,30,BlockedShot,0.8330000305175781,0.7119999694824218,0.02163740061223507,Konstantinos Tsimikas,h,8852,OpenPlay,2021,LeftFoot,16420,Liverpool,Crystal Palace,3,0,2021-09-18 14:00:00,,Rebound,8852
+451192,65,MissedShots,0.799000015258789,0.63,0.02388549968600273,Konstantinos Tsimikas,a,8852,FromCorner,2021,LeftFoot,16578,Chelsea,Liverpool,2,2,2022-01-02 16:30:00,Mohamed Salah,Pass,8852
+458296,4,MissedShots,0.9740000152587891,0.59,0.31499001383781433,Konstantinos Tsimikas,h,8852,OpenPlay,2021,LeftFoot,16631,Liverpool,Norwich,3,1,2022-02-19 15:00:00,Mohamed Salah,Cross,8852
+458306,36,SavedShot,0.88,0.6669999694824219,0.05772149935364723,Konstantinos Tsimikas,h,8852,OpenPlay,2021,LeftFoot,16631,Liverpool,Norwich,3,1,2022-02-19 15:00:00,Luis Díaz,Pass,8852
+458309,45,MissedShots,0.8290000152587891,0.5570000076293945,0.05708780139684677,Konstantinos Tsimikas,h,8852,OpenPlay,2021,RightFoot,16631,Liverpool,Norwich,3,1,2022-02-19 15:00:00,,None,8852
+476904,17,BlockedShot,0.805,0.624000015258789,0.03578310087323189,Konstantinos Tsimikas,a,8852,FromCorner,2021,LeftFoot,16740,Southampton,Liverpool,1,2,2022-05-17 18:45:00,,Rebound,8852
+481451,85,BlockedShot,0.9069999694824219,0.7390000152587891,0.01947689987719059,Konstantinos Tsimikas,h,8852,OpenPlay,2022,LeftFoot,18221,Liverpool,Crystal Palace,1,1,2022-08-15 19:00:00,Jordan Henderson,Cross,8852
+485627,2,BlockedShot,0.7919999694824219,0.5690000152587891,0.025053199380636215,Konstantinos Tsimikas,a,8852,FromCorner,2022,LeftFoot,18252,Everton,Liverpool,0,0,2022-09-03 11:30:00,,None,8852
+485642,48,MissedShots,0.9690000152587891,0.6780000305175782,0.04626769945025444,Konstantinos Tsimikas,a,8852,OpenPlay,2022,LeftFoot,18252,Everton,Liverpool,0,0,2022-09-03 11:30:00,Roberto Firmino,Rebound,8852
+501595,86,BlockedShot,0.8230000305175781,0.5620000076293945,0.0794890969991684,Konstantinos Tsimikas,h,8852,OpenPlay,2022,LeftFoot,18375,Liverpool,Leicester,2,1,2022-12-30 20:00:00,Naby Keita,Pass,8852
+502068,23,SavedShot,0.909000015258789,0.6179999923706054,0.3512920141220093,Konstantinos Tsimikas,a,8852,OpenPlay,2022,LeftFoot,18384,Brentford,Liverpool,3,1,2023-01-02 17:30:00,Alex Oxlade-Chamberlain,Pass,8852
+502069,24,BlockedShot,0.9119999694824219,0.754000015258789,0.019777700304985046,Konstantinos Tsimikas,a,8852,FromCorner,2022,LeftFoot,18384,Brentford,Liverpool,3,1,2023-01-02 17:30:00,Alex Oxlade-Chamberlain,Chipped,8852
+502078,43,SavedShot,0.92,0.515,0.06703410297632217,Konstantinos Tsimikas,a,8852,OpenPlay,2022,Head,18384,Brentford,Liverpool,3,1,2023-01-02 17:30:00,Harvey Elliott,Aerial,8852
+548840,51,MissedShots,0.8019999694824219,0.7240000152587891,0.027138691395521164,Konstantinos Tsimikas,h,8852,OpenPlay,2023,LeftFoot,22011,Liverpool,Brentford,3,0,2023-11-12 14:00:00,Joel Matip,Pass,8852
+552627,2,MissedShots,0.749000015258789,0.7280000305175781,0.01149686612188816,Konstantinos Tsimikas,a,8852,OpenPlay,2023,LeftFoot,22047,Crystal Palace,Liverpool,1,2,2023-12-09 12:30:00,Trent Alexander-Arnold,None,8852
+566669,98,BlockedShot,0.8519999694824218,0.580999984741211,0.054098840802907944,Konstantinos Tsimikas,a,8852,FromCorner,2023,LeftFoot,22162,Nottingham Forest,Liverpool,0,1,2024-03-02 15:00:00,,None,8852
+595226,41,BlockedShot,0.8030000305175782,0.7330000305175781,0.026425983756780624,Konstantinos Tsimikas,a,8852,OpenPlay,2024,LeftFoot,26662,Crystal Palace,Liverpool,0,1,2024-10-05 11:30:00,Alexis Mac Allister,Pass,8852
+600159,80,SavedShot,0.855,0.610999984741211,0.07724325358867645,Konstantinos Tsimikas,h,8852,OpenPlay,2024,LeftFoot,26696,Liverpool,Brighton,2,1,2024-11-02 15:00:00,,None,8852

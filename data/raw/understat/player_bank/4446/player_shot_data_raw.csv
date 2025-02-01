@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+22982,80,BlockedShot,0.754000015258789,0.55,0.013827499933540821,Brandon Comley,a,4446,OpenPlay,2014,LeftFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,None,4446

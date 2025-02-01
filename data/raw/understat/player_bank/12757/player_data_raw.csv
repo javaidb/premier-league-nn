@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+12757,Harrison Armstrong,3,41,0,0.2571773827075958,0,0.07110223919153214,1,1,1,0,S,Everton,0,0.2571773827075958,0.32827961444854736,0,2024
+12757,Harrison Armstrong,3,41,0,0.2571773827075958,0,0.07110223919153214,1,1,1,0,S,Everton,0,0.2571773827075958,0.32827961444854736,0,2025

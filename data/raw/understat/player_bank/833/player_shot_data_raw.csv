@@ -1,0 +1,267 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+58001,46,MissedShots,0.9340000152587891,0.5070000076293946,0.06398580223321915,Virgil van Dijk,a,833,FromCorner,2015,Head,125,West Bromwich Albion,Southampton,0,0,2015-09-12 18:00:00,James Ward-Prowse,Aerial,833
+58456,10,Goal,0.9769999694824218,0.5229999923706055,0.6190919876098633,Virgil van Dijk,h,833,FromCorner,2015,Head,142,Southampton,Swansea,3,1,2015-09-26 18:00:00,James Ward-Prowse,Cross,833
+58469,66,SavedShot,0.7709999847412109,0.6519999694824219,0.06228579953312874,Virgil van Dijk,h,833,DirectFreekick,2015,RightFoot,142,Southampton,Swansea,3,1,2015-09-26 18:00:00,,Standard,833
+59061,10,BlockedShot,0.9369999694824219,0.4759999847412109,0.12126900255680084,Virgil van Dijk,h,833,FromCorner,2015,Head,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,James Ward-Prowse,Cross,833
+59070,36,Goal,0.9769999694824218,0.45299999237060545,0.6934430003166199,Virgil van Dijk,h,833,FromCorner,2015,LeftFoot,162,Southampton,Leicester,2,2,2015-10-17 18:00:00,,Rebound,833
+59302,38,SavedShot,0.9230000305175782,0.44299999237060544,0.26861000061035156,Virgil van Dijk,a,833,SetPiece,2015,Head,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,Steven Davis,Chipped,833
+52761,17,MissedShots,0.6930000305175781,0.6930000305175781,0.013248300179839134,Virgil van Dijk,a,833,OpenPlay,2015,RightFoot,196,Sunderland,Southampton,0,1,2015-11-07 19:00:00,Jordy Clasie,Pass,833
+56201,21,ShotOnPost,0.769000015258789,0.639000015258789,0.012416600249707699,Virgil van Dijk,a,833,OpenPlay,2015,RightFoot,215,Manchester City,Southampton,3,1,2015-11-28 19:00:00,Ryan Bertrand,TakeOn,833
+56202,26,SavedShot,0.955999984741211,0.49,0.09224560111761093,Virgil van Dijk,a,833,SetPiece,2015,Head,215,Manchester City,Southampton,3,1,2015-11-28 19:00:00,James Ward-Prowse,TakeOn,833
+54774,62,MissedShots,0.9169999694824219,0.46700000762939453,0.0880092978477478,Virgil van Dijk,h,833,FromCorner,2015,Head,227,Southampton,Aston Villa,1,1,2015-12-05 19:00:00,Dusan Tadic,Cross,833
+54784,89,MissedShots,0.9330000305175781,0.49400001525878906,0.12077900022268295,Virgil van Dijk,h,833,FromCorner,2015,Head,227,Southampton,Aston Villa,1,1,2015-12-05 19:00:00,James Ward-Prowse,Cross,833
+53571,56,MissedShots,0.7630000305175781,0.34799999237060547,0.01985049992799759,Virgil van Dijk,a,833,OpenPlay,2015,RightFoot,234,Crystal Palace,Southampton,1,0,2015-12-12 19:00:00,Steven Davis,Pass,833
+54628,54,BlockedShot,0.7480000305175781,0.5870000076293945,0.058222800493240356,Virgil van Dijk,a,833,DirectFreekick,2015,RightFoot,268,West Ham,Southampton,2,1,2015-12-28 21:30:00,,Standard,833
+54639,90,MissedShots,0.8569999694824219,0.6090000152587891,0.05393749848008156,Virgil van Dijk,a,833,OpenPlay,2015,RightFoot,268,West Ham,Southampton,2,1,2015-12-28 21:30:00,,None,833
+55913,36,MissedShots,0.9340000152587891,0.5059999847412109,0.12218999862670898,Virgil van Dijk,a,833,FromCorner,2015,Head,276,Norwich,Southampton,1,0,2016-01-02 19:00:00,James Ward-Prowse,Cross,833
+59899,67,MissedShots,0.755,0.705999984741211,0.02122359909117222,Virgil van Dijk,h,833,OpenPlay,2015,RightFoot,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Oriol Romeu,TakeOn,833
+60699,11,BlockedShot,0.7190000152587891,0.35900001525878905,0.015253599733114243,Virgil van Dijk,a,833,OpenPlay,2015,RightFoot,350,Bournemouth,Southampton,2,0,2016-03-01 23:45:00,James Ward-Prowse,Pass,833
+60151,35,SavedShot,0.9359999847412109,0.544000015258789,0.11405300348997116,Virgil van Dijk,h,833,FromCorner,2015,Head,360,Southampton,Sunderland,1,1,2016-03-05 19:00:00,Steven Davis,Cross,833
+60180,92,Goal,0.91,0.5470000076293945,0.11848700046539307,Virgil van Dijk,h,833,OpenPlay,2015,LeftFoot,360,Southampton,Sunderland,1,1,2016-03-05 19:00:00,Dusan Tadic,Pass,833
+60480,5,MissedShots,0.9390000152587891,0.48,0.06750849634408951,Virgil van Dijk,h,833,FromCorner,2015,Head,380,Southampton,Liverpool,3,2,2016-03-20 17:30:00,Steven Davis,Aerial,833
+60501,58,BlockedShot,0.6980000305175781,0.5740000152587891,0.010097299702465534,Virgil van Dijk,h,833,OpenPlay,2015,RightFoot,380,Southampton,Liverpool,3,2,2016-03-20 17:30:00,Victor Wanyama,Pass,833
+59686,20,BlockedShot,0.9069999694824219,0.59,0.06847439706325531,Virgil van Dijk,a,833,FromCorner,2015,LeftFoot,392,Leicester,Southampton,1,0,2016-04-03 16:30:00,Graziano Pellè,HeadPass,833
+60828,45,MissedShots,0.7280000305175781,0.49599998474121093,0.023178499191999435,Virgil van Dijk,h,833,OpenPlay,2015,RightFoot,396,Southampton,Newcastle United,3,1,2016-04-09 18:00:00,Jordy Clasie,Pass,833
+56348,48,MissedShots,0.855,0.445,0.042449500411748886,Virgil van Dijk,a,833,FromCorner,2015,RightFoot,407,Everton,Southampton,1,1,2016-04-16 18:00:00,Ryan Bertrand,Cross,833
+57104,29,ShotOnPost,0.9,0.6279999923706054,0.06871329993009567,Virgil van Dijk,a,833,FromCorner,2015,RightFoot,421,Aston Villa,Southampton,2,4,2016-04-23 18:00:00,,Rebound,833
+57332,56,SavedShot,0.9409999847412109,0.5270000076293946,0.1256439983844757,Virgil van Dijk,h,833,FromCorner,2015,Head,435,Southampton,Manchester City,4,2,2016-05-01 19:30:00,Steven Davis,Cross,833
+57334,66,SavedShot,0.904000015258789,0.525,0.05006049945950508,Virgil van Dijk,h,833,FromCorner,2015,RightFoot,435,Southampton,Manchester City,4,2,2016-05-01 19:30:00,,Aerial,833
+52115,34,ShotOnPost,0.7240000152587891,0.46900001525878904,0.048013798892498016,Virgil van Dijk,h,833,DirectFreekick,2015,RightFoot,455,Southampton,Crystal Palace,4,1,2016-05-15 18:00:00,,Standard,833
+52122,47,MissedShots,0.9319999694824219,0.500999984741211,0.11697600036859512,Virgil van Dijk,h,833,SetPiece,2015,Head,455,Southampton,Crystal Palace,4,1,2016-05-15 18:00:00,Steven Davis,Cross,833
+112316,1,MissedShots,0.894000015258789,0.6120000076293945,0.07883010059595108,Virgil van Dijk,h,833,SetPiece,2016,LeftFoot,466,Southampton,Watford,1,1,2016-08-13 18:00:00,,Rebound,833
+112672,25,BlockedShot,0.8780000305175781,0.555,0.07958710193634033,Virgil van Dijk,a,833,SetPiece,2016,RightFoot,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Steven Davis,Chipped,833
+112690,77,MissedShots,0.885,0.48200000762939454,0.020532900467514992,Virgil van Dijk,a,833,SetPiece,2016,Head,471,Manchester United,Southampton,2,0,2016-08-19 23:00:00,Pierre-Emile Højbjerg,Aerial,833
+113593,33,SavedShot,0.9330000305175781,0.5220000076293946,0.11855600029230118,Virgil van Dijk,h,833,FromCorner,2016,Head,509,Southampton,Swansea,1,0,2016-09-18 17:15:00,Steven Davis,Cross,833
+113604,62,BlockedShot,0.8009999847412109,0.5309999847412109,0.03529009968042374,Virgil van Dijk,h,833,OpenPlay,2016,RightFoot,509,Southampton,Swansea,1,0,2016-09-18 17:15:00,,Rebound,833
+114048,48,SavedShot,0.705999984741211,0.64,0.014709300361573696,Virgil van Dijk,h,833,OpenPlay,2016,RightFoot,539,Southampton,Burnley,3,1,2016-10-16 19:00:00,José Fonte,Pass,833
+114051,51,BlockedShot,0.9369999694824219,0.5629999923706055,0.0942583978176117,Virgil van Dijk,h,833,FromCorner,2016,Head,539,Southampton,Burnley,3,1,2016-10-16 19:00:00,Dusan Tadic,Cross,833
+115573,50,ShotOnPost,0.945,0.4909999847412109,0.1285499930381775,Virgil van Dijk,a,833,FromCorner,2016,Head,2694,Hull,Southampton,2,1,2016-11-06 18:15:00,Steven Davis,Cross,833
+115585,87,MissedShots,0.915,0.504000015258789,0.09227550029754639,Virgil van Dijk,a,833,FromCorner,2016,Head,2694,Hull,Southampton,2,1,2016-11-06 18:15:00,James Ward-Prowse,Cross,833
+115338,36,BlockedShot,0.93,0.515,0.11511799693107605,Virgil van Dijk,h,833,FromCorner,2016,Head,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,James Ward-Prowse,Cross,833
+115535,76,ShotOnPost,0.95,0.4490000152587891,0.06017430126667023,Virgil van Dijk,a,833,FromCorner,2016,Head,3106,Crystal Palace,Southampton,3,0,2016-12-03 19:00:00,James Ward-Prowse,Rebound,833
+118228,48,BlockedShot,0.8219999694824218,0.4929999923706055,0.18211700022220612,Virgil van Dijk,a,833,DirectFreekick,2016,RightFoot,3133,Stoke,Southampton,0,0,2016-12-15 00:00:00,,Standard,833
+118235,61,MissedShots,0.9369999694824219,0.509000015258789,0.06756850332021713,Virgil van Dijk,a,833,FromCorner,2016,Head,3133,Stoke,Southampton,0,0,2016-12-15 00:00:00,James Ward-Prowse,Aerial,833
+118386,89,SavedShot,0.7819999694824219,0.6940000152587891,0.020410999655723572,Virgil van Dijk,a,833,OpenPlay,2016,RightFoot,3141,Bournemouth,Southampton,1,3,2016-12-18 17:30:00,,None,833
+116693,1,Goal,0.915,0.455,0.11191699653863907,Virgil van Dijk,h,833,SetPiece,2016,Head,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,James Ward-Prowse,Cross,833
+117198,87,SavedShot,0.9290000152587891,0.5,0.11673200130462646,Virgil van Dijk,a,833,FromCorner,2016,Head,3345,Burnley,Southampton,1,0,2017-01-14 19:00:00,James Ward-Prowse,Cross,833
+117202,92,MissedShots,0.7759999847412109,0.3609999847412109,0.029370300471782684,Virgil van Dijk,a,833,OpenPlay,2016,RightFoot,3345,Burnley,Southampton,1,0,2017-01-14 19:00:00,Josh Sims,HeadPass,833
+160336,58,MissedShots,0.9159999847412109,0.5420000076293945,0.08043470233678818,Virgil van Dijk,a,833,FromCorner,2017,Head,7181,Stoke,Southampton,2,1,2017-09-30 15:00:00,Nathan Redmond,Cross,833
+160348,94,BlockedShot,0.8319999694824218,0.5279999923706055,0.06504169851541519,Virgil van Dijk,a,833,OpenPlay,2017,RightFoot,7181,Stoke,Southampton,2,1,2017-09-30 15:00:00,Sofiane Boufal,Pass,833
+160351,97,MissedShots,0.879000015258789,0.6459999847412109,0.01017529983073473,Virgil van Dijk,a,833,FromCorner,2017,Head,7181,Stoke,Southampton,2,1,2017-09-30 15:00:00,Sofiane Boufal,Cross,833
+160546,21,MissedShots,0.9369999694824219,0.53,0.24606500566005707,Virgil van Dijk,h,833,FromCorner,2017,Head,7195,Southampton,Newcastle United,2,2,2017-10-15 16:00:00,Nathan Redmond,Aerial,833
+159568,23,MissedShots,0.7040000152587891,0.545,0.014958499930799007,Virgil van Dijk,h,833,OpenPlay,2017,RightFoot,7204,Southampton,West Bromwich Albion,1,0,2017-10-21 17:30:00,Maya Yoshida,Pass,833
+160822,42,BlockedShot,0.92,0.4370000076293945,0.03393860161304474,Virgil van Dijk,a,833,FromCorner,2017,Head,7231,Liverpool,Southampton,3,0,2017-11-18 15:00:00,Dusan Tadic,End,833
+161524,40,MissedShots,0.9530000305175781,0.504000015258789,0.1325870007276535,Virgil van Dijk,h,833,FromCorner,2017,Head,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,James Ward-Prowse,Cross,833
+161252,70,MissedShots,0.9640000152587891,0.5070000076293946,0.09527529776096344,Virgil van Dijk,a,833,FromCorner,2017,Head,7257,Manchester City,Southampton,2,1,2017-11-29 20:00:00,Nathan Redmond,Aerial,833
+161459,11,MissedShots,0.94,0.485,0.07029060274362564,Virgil van Dijk,a,833,FromCorner,2017,Head,7267,Bournemouth,Southampton,1,1,2017-12-03 13:30:00,James Ward-Prowse,Aerial,833
+183010,42,MissedShots,0.855,0.615999984741211,0.02559869922697544,Virgil van Dijk,h,833,OpenPlay,2017,RightFoot,7285,Southampton,Leicester,1,4,2017-12-13 19:45:00,Ryan Bertrand,HeadPass,833
+183014,48,MissedShots,0.89,0.4640000152587891,0.04379719868302345,Virgil van Dijk,h,833,FromCorner,2017,Head,7285,Southampton,Leicester,1,4,2017-12-13 19:45:00,Sofiane Boufal,Cross,833
+189602,22,MissedShots,0.9330000305175781,0.565,0.037969399243593216,Virgil van Dijk,a,833,FromCorner,2017,Head,7357,Swansea,Liverpool,1,0,2018-01-22 20:00:00,Alex Oxlade-Chamberlain,Aerial,833
+189619,81,MissedShots,0.7530000305175781,0.6580000305175782,0.01470670010894537,Virgil van Dijk,a,833,OpenPlay,2017,RightFoot,7357,Swansea,Liverpool,1,0,2018-01-22 20:00:00,Roberto Firmino,Cross,833
+189620,84,SavedShot,0.9019999694824219,0.4929999923706055,0.02837730012834072,Virgil van Dijk,a,833,FromCorner,2017,Head,7357,Swansea,Liverpool,1,0,2018-01-22 20:00:00,Mohamed Salah,Aerial,833
+193734,32,MissedShots,0.9030000305175782,0.48,0.09994780272245407,Virgil van Dijk,h,833,SetPiece,2017,Head,7375,Liverpool,Tottenham,2,2,2018-02-04 16:30:00,Mohamed Salah,Cross,833
+193735,33,SavedShot,0.895,0.4909999847412109,0.08696489781141281,Virgil van Dijk,h,833,SetPiece,2017,Head,7375,Liverpool,Tottenham,2,2,2018-02-04 16:30:00,James Milner,Cross,833
+197361,6,SavedShot,0.91,0.46700000762939453,0.02783769927918911,Virgil van Dijk,h,833,FromCorner,2017,Head,7395,Liverpool,West Ham,4,1,2018-02-24 15:00:00,James Milner,Aerial,833
+199038,67,BlockedShot,0.9419999694824219,0.5590000152587891,0.12637600302696228,Virgil van Dijk,h,833,FromCorner,2017,RightFoot,7403,Liverpool,Newcastle United,2,0,2018-03-03 17:30:00,Dejan Lovren,HeadPass,833
+199826,22,MissedShots,0.9540000152587891,0.5670000076293945,0.35842400789260864,Virgil van Dijk,a,833,FromCorner,2017,Head,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,James Milner,Cross,833
+199833,47,MissedShots,0.9369999694824219,0.59,0.061798401176929474,Virgil van Dijk,a,833,FromCorner,2017,Head,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Mohamed Salah,Cross,833
+204116,10,BlockedShot,0.905,0.5259999847412109,0.06868469715118408,Virgil van Dijk,a,833,FromCorner,2017,Head,7432,Crystal Palace,Liverpool,1,2,2018-03-31 12:30:00,Mohamed Salah,Cross,833
+206995,34,SavedShot,0.7,0.48400001525878905,0.037951499223709106,Virgil van Dijk,a,833,DirectFreekick,2017,RightFoot,7443,Everton,Liverpool,0,0,2018-04-07 11:30:00,,Standard,833
+208647,55,MissedShots,0.69,0.575,0.012739299796521664,Virgil van Dijk,h,833,OpenPlay,2017,RightFoot,7452,Liverpool,Bournemouth,3,0,2018-04-14 16:30:00,Georginio Wijnaldum,Pass,833
+211496,83,BlockedShot,0.7140000152587891,0.3920000076293945,0.007915359921753407,Virgil van Dijk,h,833,OpenPlay,2017,RightFoot,7472,Liverpool,Stoke,0,0,2018-04-28 11:30:00,James Milner,Chipped,833
+214006,94,SavedShot,0.8640000152587891,0.3970000076293945,0.010205400176346302,Virgil van Dijk,a,833,OpenPlay,2017,Head,7485,Chelsea,Liverpool,1,0,2018-05-06 16:30:00,Sadio Mané,Aerial,833
+215735,19,MissedShots,0.9059999847412109,0.4909999847412109,0.05056019872426987,Virgil van Dijk,h,833,OpenPlay,2017,Head,7495,Liverpool,Brighton,4,0,2018-05-13 15:00:00,Georginio Wijnaldum,Aerial,833
+215751,49,SavedShot,0.860999984741211,0.5370000076293945,0.0959324985742569,Virgil van Dijk,h,833,OpenPlay,2017,RightFoot,7495,Liverpool,Brighton,4,0,2018-05-13 15:00:00,Dominic Solanke,BallTouch,833
+233914,2,MissedShots,0.9269999694824219,0.4640000152587891,0.04924440011382103,Virgil van Dijk,a,833,FromCorner,2018,Head,9237,Tottenham,Liverpool,1,2,2018-09-15 11:30:00,James Milner,Aerial,833
+233927,59,MissedShots,0.9,0.5029999923706054,0.09918960183858871,Virgil van Dijk,a,833,SetPiece,2018,Head,9237,Tottenham,Liverpool,1,2,2018-09-15 11:30:00,James Milner,Cross,833
+249481,12,ShotOnPost,0.9359999847412109,0.5459999847412109,0.057553499937057495,Virgil van Dijk,h,833,FromCorner,2018,Head,9288,Liverpool,Cardiff,4,1,2018-10-27 14:00:00,Mohamed Salah,Aerial,833
+249487,40,MissedShots,0.9219999694824219,0.41200000762939454,0.06318899989128113,Virgil van Dijk,h,833,FromCorner,2018,RightFoot,9288,Liverpool,Cardiff,4,1,2018-10-27 14:00:00,Trent Alexander-Arnold,Cross,833
+249878,22,SavedShot,0.919000015258789,0.509000015258789,0.34968799352645874,Virgil van Dijk,a,833,OpenPlay,2018,RightFoot,9303,Arsenal,Liverpool,1,1,2018-11-03 17:30:00,Mohamed Salah,Chipped,833
+249886,44,ShotOnPost,0.8730000305175781,0.539000015258789,0.011441499926149845,Virgil van Dijk,a,833,SetPiece,2018,Head,9303,Arsenal,Liverpool,1,1,2018-11-03 17:30:00,James Milner,Aerial,833
+249891,73,SavedShot,0.905,0.5570000076293945,0.055125199258327484,Virgil van Dijk,a,833,FromCorner,2018,Head,9303,Arsenal,Liverpool,1,1,2018-11-03 17:30:00,Mohamed Salah,Cross,833
+250178,58,BlockedShot,0.735,0.40700000762939453,0.05006520077586174,Virgil van Dijk,h,833,DirectFreekick,2018,RightFoot,9313,Liverpool,Fulham,2,0,2018-11-11 12:00:00,,Standard,833
+250754,86,MissedShots,0.92,0.505,0.10215000063180923,Virgil van Dijk,h,833,FromCorner,2018,Head,9330,Liverpool,Everton,1,0,2018-12-02 16:15:00,Trent Alexander-Arnold,Cross,833
+250758,95,MissedShots,0.8130000305175781,0.695,0.01862340047955513,Virgil van Dijk,h,833,SetPiece,2018,RightFoot,9330,Liverpool,Everton,1,0,2018-12-02 16:15:00,,None,833
+250901,28,SavedShot,0.899000015258789,0.47,0.05866599828004837,Virgil van Dijk,a,833,FromCorner,2018,Head,9343,Burnley,Liverpool,1,3,2018-12-05 19:45:00,James Milner,Cross,833
+250911,51,MissedShots,0.9159999847412109,0.5359999847412109,0.034522101283073425,Virgil van Dijk,a,833,FromCorner,2018,Head,9343,Burnley,Liverpool,1,3,2018-12-05 19:45:00,James Milner,Aerial,833
+250909,51,BlockedShot,0.9280000305175782,0.5209999847412109,0.054755799472332,Virgil van Dijk,a,833,FromCorner,2018,Head,9343,Burnley,Liverpool,1,3,2018-12-05 19:45:00,Xherdan Shaqiri,Aerial,833
+251446,9,BlockedShot,0.884000015258789,0.5570000076293945,0.08809340000152588,Virgil van Dijk,h,833,FromCorner,2018,RightFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,,Rebound,833
+251464,60,BlockedShot,0.7519999694824219,0.745999984741211,0.01287929993122816,Virgil van Dijk,h,833,OpenPlay,2018,RightFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,Andrew Robertson,Pass,833
+251467,62,BlockedShot,0.8580000305175781,0.525,0.09315049648284912,Virgil van Dijk,h,833,OpenPlay,2018,LeftFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,Sadio Mané,Pass,833
+251485,12,BlockedShot,0.8680000305175781,0.6140000152587891,0.062480200082063675,Virgil van Dijk,a,833,FromCorner,2018,RightFoot,9367,Wolverhampton Wanderers,Liverpool,0,2,2018-12-21 20:00:00,,TakeOn,833
+251499,67,Goal,0.9290000152587891,0.5109999847412109,0.3918839991092682,Virgil van Dijk,a,833,FromCorner,2018,LeftFoot,9367,Wolverhampton Wanderers,Liverpool,0,2,2018-12-21 20:00:00,Mohamed Salah,Chipped,833
+251894,40,SavedShot,0.9440000152587891,0.5259999847412109,0.07242249697446823,Virgil van Dijk,h,833,FromCorner,2018,Head,9381,Liverpool,Newcastle United,4,0,2018-12-26 15:00:00,Trent Alexander-Arnold,Aerial,833
+274656,31,BlockedShot,0.92,0.49400001525878906,0.06229960173368454,Virgil van Dijk,h,833,SetPiece,2018,Head,9422,Liverpool,Crystal Palace,4,3,2019-01-19 15:00:00,James Milner,Aerial,833
+274659,36,MissedShots,0.8919999694824219,0.4279999923706055,0.04593930020928383,Virgil van Dijk,h,833,OpenPlay,2018,Head,9422,Liverpool,Crystal Palace,4,3,2019-01-19 15:00:00,Andrew Robertson,Cross,833
+274662,45,MissedShots,0.7069999694824218,0.5570000076293945,0.014994299970567226,Virgil van Dijk,h,833,OpenPlay,2018,RightFoot,9422,Liverpool,Crystal Palace,4,3,2019-01-19 15:00:00,Jordan Henderson,Pass,833
+276062,78,Goal,0.950999984741211,0.519000015258789,0.5421389937400818,Virgil van Dijk,h,833,SetPiece,2018,Head,9476,Liverpool,Watford,5,0,2019-02-27 20:00:00,Trent Alexander-Arnold,Cross,833
+276063,81,Goal,0.9219999694824219,0.49599998474121093,0.4164179861545563,Virgil van Dijk,h,833,SetPiece,2018,Head,9476,Liverpool,Watford,5,0,2019-02-27 20:00:00,Andrew Robertson,Aerial,833
+276340,43,MissedShots,0.9490000152587891,0.33799999237060546,0.025721799582242966,Virgil van Dijk,a,833,SetPiece,2018,Head,9483,Everton,Liverpool,0,0,2019-03-03 16:15:00,Andrew Robertson,Chipped,833
+284939,69,BlockedShot,0.6809999847412109,0.5670000076293945,0.012599499896168709,Virgil van Dijk,h,833,OpenPlay,2018,RightFoot,9490,Liverpool,Burnley,4,2,2019-03-10 12:00:00,Sadio Mané,Pass,833
+288244,48,MissedShots,0.95,0.5690000152587891,0.11068999767303467,Virgil van Dijk,h,833,FromCorner,2018,Head,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,James Milner,Cross,833
+296021,71,MissedShots,0.9619999694824218,0.5279999923706055,0.08783979713916779,Virgil van Dijk,a,833,FromCorner,2018,Head,9544,Cardiff,Liverpool,0,2,2019-04-21 16:00:00,Trent Alexander-Arnold,Aerial,833
+297133,16,MissedShots,0.9230000305175782,0.5459999847412109,0.03880450129508972,Virgil van Dijk,h,833,FromCorner,2018,Head,9551,Liverpool,Huddersfield,5,0,2019-04-26 20:00:00,Trent Alexander-Arnold,Aerial,833
+299600,12,Goal,0.9369999694824219,0.5059999847412109,0.410971999168396,Virgil van Dijk,a,833,FromCorner,2018,Head,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Trent Alexander-Arnold,Cross,833
+301370,82,ShotOnPost,0.9169999694824219,0.5920000076293945,0.017003899440169334,Virgil van Dijk,h,833,FromCorner,2018,Head,9571,Liverpool,Wolverhampton Wanderers,2,0,2019-05-12 14:00:00,Trent Alexander-Arnold,Aerial,833
+309901,27,Goal,0.9219999694824219,0.5109999847412109,0.10531599819660187,Virgil van Dijk,h,833,FromCorner,2019,Head,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Mohamed Salah,Cross,833
+312710,38,BlockedShot,0.8969999694824219,0.580999984741211,0.031786900013685226,Virgil van Dijk,h,833,FromCorner,2019,Head,11670,Liverpool,Arsenal,3,1,2019-08-24 17:30:00,Fabinho,Cross,833
+316019,70,MissedShots,0.65,0.509000015258789,0.009337659925222397,Virgil van Dijk,a,833,OpenPlay,2019,RightFoot,11680,Burnley,Liverpool,0,3,2019-08-31 17:30:00,Trent Alexander-Arnold,Chipped,833
+317025,16,MissedShots,0.895,0.49,0.018939899280667305,Virgil van Dijk,h,833,FromCorner,2019,Head,11683,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,Mohamed Salah,Aerial,833
+317032,31,MissedShots,0.7040000152587891,0.5929999923706055,0.015141299925744534,Virgil van Dijk,h,833,OpenPlay,2019,RightFoot,11683,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,Trent Alexander-Arnold,Pass,833
+317047,68,BlockedShot,0.965999984741211,0.649000015258789,0.01795779913663864,Virgil van Dijk,h,833,SetPiece,2019,Head,11683,Liverpool,Newcastle United,3,1,2019-09-14 11:30:00,Trent Alexander-Arnold,Cross,833
+324108,84,MissedShots,0.8919999694824219,0.525,0.017261700704693794,Virgil van Dijk,h,833,FromCorner,2019,Head,11715,Liverpool,Leicester,2,1,2019-10-05 15:00:00,Andrew Robertson,Aerial,833
+328010,28,SavedShot,0.9080000305175782,0.5179999923706055,0.0481657013297081,Virgil van Dijk,h,833,SetPiece,2019,Head,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Trent Alexander-Arnold,Aerial,833
+332261,37,MissedShots,0.9030000305175782,0.4909999847412109,0.024311399087309837,Virgil van Dijk,a,833,FromCorner,2019,Head,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,Trent Alexander-Arnold,Aerial,833
+332278,84,BlockedShot,0.95,0.549000015258789,0.1102529987692833,Virgil van Dijk,a,833,FromCorner,2019,RightFoot,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,,CornerAwarded,833
+332277,84,BlockedShot,0.9380000305175781,0.5479999923706055,0.11946199834346771,Virgil van Dijk,a,833,FromCorner,2019,RightFoot,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,Trent Alexander-Arnold,Cross,833
+333645,17,Goal,0.9180000305175782,0.5929999923706055,0.020786099135875702,Virgil van Dijk,h,833,SetPiece,2019,Head,11776,Liverpool,Brighton,2,1,2019-11-30 15:00:00,Trent Alexander-Arnold,Aerial,833
+333649,23,Goal,0.94,0.5579999923706055,0.051600001752376556,Virgil van Dijk,h,833,FromCorner,2019,Head,11776,Liverpool,Brighton,2,1,2019-11-30 15:00:00,Trent Alexander-Arnold,Aerial,833
+351777,22,SavedShot,0.955,0.5409999847412109,0.41736599802970886,Virgil van Dijk,a,833,FromCorner,2019,Head,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Jordan Henderson,Chipped,833
+352075,13,Goal,0.9290000152587891,0.485,0.05703359842300415,Virgil van Dijk,h,833,FromCorner,2019,Head,11865,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,Trent Alexander-Arnold,Aerial,833
+352542,30,SavedShot,0.9269999694824219,0.509000015258789,0.3537159860134125,Virgil van Dijk,h,833,FromCorner,2019,RightFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,Mohamed Salah,Chipped,833
+352766,45,MissedShots,0.905,0.5629999923706055,0.05283759906888008,Virgil van Dijk,a,833,FromCorner,2019,Head,11899,Norwich,Liverpool,0,1,2020-02-15 17:30:00,Andrew Robertson,Cross,833
+352770,58,SavedShot,0.875999984741211,0.48700000762939455,0.01396699994802475,Virgil van Dijk,a,833,FromCorner,2019,Head,11899,Norwich,Liverpool,0,1,2020-02-15 17:30:00,Trent Alexander-Arnold,Aerial,833
+353148,38,ShotOnPost,0.9490000152587891,0.524000015258789,0.07718530297279358,Virgil van Dijk,h,833,FromCorner,2019,Head,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Trent Alexander-Arnold,Aerial,833
+353153,58,SavedShot,0.8909999847412109,0.41,0.012710699811577797,Virgil van Dijk,h,833,FromCorner,2019,Head,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Alex Oxlade-Chamberlain,Aerial,833
+353158,72,BlockedShot,0.87,0.35900001525878905,0.04897639900445938,Virgil van Dijk,h,833,FromCorner,2019,RightFoot,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Fabinho,Pass,833
+353336,88,MissedShots,0.7019999694824218,0.5529999923706055,0.008995410054922104,Virgil van Dijk,a,833,OpenPlay,2019,RightFoot,11921,Watford,Liverpool,3,0,2020-02-29 17:30:00,Divock Origi,Pass,833
+353408,65,SavedShot,0.9059999847412109,0.5609999847412109,0.053863801062107086,Virgil van Dijk,h,833,FromCorner,2019,Head,11928,Liverpool,Bournemouth,2,1,2020-03-07 12:30:00,Trent Alexander-Arnold,Cross,833
+365873,57,SavedShot,0.9259999847412109,0.5309999847412109,0.0495917983353138,Virgil van Dijk,a,833,FromCorner,2019,Head,11940,Everton,Liverpool,0,0,2020-06-21 18:00:00,Trent Alexander-Arnold,Aerial,833
+366433,27,BlockedShot,0.93,0.5629999923706055,0.5083000063896179,Virgil van Dijk,h,833,SetPiece,2019,RightFoot,11951,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,,Rebound,833
+366434,27,MissedShots,0.9269999694824219,0.4759999847412109,0.05308679863810539,Virgil van Dijk,h,833,FromCorner,2019,Head,11951,Liverpool,Crystal Palace,4,0,2020-06-24 19:15:00,Andrew Robertson,Aerial,833
+371630,21,SavedShot,0.919000015258789,0.5359999847412109,0.03833939880132675,Virgil van Dijk,a,833,FromCorner,2019,Head,11993,Arsenal,Liverpool,2,1,2020-07-15 19:15:00,Trent Alexander-Arnold,Aerial,833
+371648,74,MissedShots,0.965,0.3970000076293945,0.05131620168685913,Virgil van Dijk,a,833,FromCorner,2019,Head,11993,Arsenal,Liverpool,2,1,2020-07-15 19:15:00,Andrew Robertson,Cross,833
+373322,91,MissedShots,0.980999984741211,0.43,0.49632498621940613,Virgil van Dijk,h,833,SetPiece,2019,RightFoot,12006,Liverpool,Chelsea,5,3,2020-07-22 19:15:00,Andrew Robertson,Cross,833
+373778,37,Goal,0.925,0.544000015258789,0.057411499321460724,Virgil van Dijk,a,833,SetPiece,2019,Head,12016,Newcastle United,Liverpool,1,3,2020-07-26 15:00:00,Alex Oxlade-Chamberlain,Aerial,833
+373782,47,SavedShot,0.8969999694824219,0.5479999923706055,0.01647450029850006,Virgil van Dijk,a,833,FromCorner,2019,Head,12016,Newcastle United,Liverpool,1,3,2020-07-26 15:00:00,James Milner,Aerial,833
+376606,19,Goal,0.9459999847412109,0.5420000076293945,0.4193130135536194,Virgil van Dijk,h,833,FromCorner,2020,Head,14090,Liverpool,Leeds,4,3,2020-09-12 16:30:00,Andrew Robertson,Cross,833
+376616,52,MissedShots,0.8859999847412109,0.575999984741211,0.012910000048577785,Virgil van Dijk,h,833,FromCorner,2020,Head,14090,Liverpool,Leeds,4,3,2020-09-12 16:30:00,Trent Alexander-Arnold,Aerial,833
+379994,11,BlockedShot,0.924000015258789,0.57,0.10453599691390991,Virgil van Dijk,h,833,OpenPlay,2020,Head,14115,Liverpool,Arsenal,3,1,2020-09-28 19:15:00,Trent Alexander-Arnold,Cross,833
+380010,61,SavedShot,0.72,0.615,0.016623200848698616,Virgil van Dijk,h,833,OpenPlay,2020,RightFoot,14115,Liverpool,Arsenal,3,1,2020-09-28 19:15:00,Andrew Robertson,Pass,833
+425989,34,MissedShots,0.8719999694824219,0.5579999923706055,0.047449398785829544,Virgil van Dijk,a,833,FromCorner,2021,RightFoot,16383,Norwich,Liverpool,0,3,2021-08-14 16:30:00,James Milner,Cross,833
+426778,21,MissedShots,0.9230000305175782,0.5379999923706055,0.0428117997944355,Virgil van Dijk,h,833,FromCorner,2021,Head,16386,Liverpool,Burnley,2,0,2021-08-21 11:30:00,Konstantinos Tsimikas,Aerial,833
+426786,57,BlockedShot,0.8830000305175781,0.5479999923706055,0.05241899937391281,Virgil van Dijk,h,833,FromCorner,2021,RightFoot,16386,Liverpool,Burnley,2,0,2021-08-21 11:30:00,Trent Alexander-Arnold,Cross,833
+426795,72,MissedShots,0.950999984741211,0.5370000076293945,0.08342040330171585,Virgil van Dijk,h,833,SetPiece,2021,Head,16386,Liverpool,Burnley,2,0,2021-08-21 11:30:00,Trent Alexander-Arnold,Aerial,833
+428806,10,MissedShots,0.8780000305175781,0.5840000152587891,0.009935920126736164,Virgil van Dijk,h,833,SetPiece,2021,Head,16402,Liverpool,Chelsea,1,1,2021-08-28 16:30:00,Trent Alexander-Arnold,Aerial,833
+428807,16,MissedShots,0.92,0.5529999923706055,0.03125569969415665,Virgil van Dijk,h,833,FromCorner,2021,Head,16402,Liverpool,Chelsea,1,1,2021-08-28 16:30:00,Trent Alexander-Arnold,Aerial,833
+428818,51,SavedShot,0.6890000152587891,0.47,0.011950300075113773,Virgil van Dijk,h,833,OpenPlay,2021,RightFoot,16402,Liverpool,Chelsea,1,1,2021-08-28 16:30:00,,BallRecovery,833
+430562,26,MissedShots,0.9259999847412109,0.5640000152587891,0.07912150025367737,Virgil van Dijk,a,833,FromCorner,2021,Head,16414,Leeds,Liverpool,0,3,2021-09-12 15:30:00,Trent Alexander-Arnold,Cross,833
+430571,49,BlockedShot,0.8719999694824219,0.47400001525878904,0.02506049908697605,Virgil van Dijk,a,833,FromCorner,2021,Head,16414,Leeds,Liverpool,0,3,2021-09-12 15:30:00,Trent Alexander-Arnold,Cross,833
+431355,63,MissedShots,0.8909999847412109,0.48700000762939455,0.02731030061841011,Virgil van Dijk,h,833,SetPiece,2021,Head,16420,Liverpool,Crystal Palace,3,0,2021-09-18 14:00:00,Konstantinos Tsimikas,Aerial,833
+433694,39,SavedShot,0.87,0.5179999923706055,0.025750400498509407,Virgil van Dijk,a,833,FromCorner,2021,Head,16432,Brentford,Liverpool,3,3,2021-09-25 16:30:00,Fabinho,Cross,833
+441910,32,BlockedShot,0.88,0.5320000076293945,0.02144859917461872,Virgil van Dijk,a,833,SetPiece,2021,Head,16485,West Ham,Liverpool,3,2,2021-11-07 16:30:00,Trent Alexander-Arnold,BlockedPass,833
+442765,12,MissedShots,0.9009999847412109,0.49900001525878906,0.10058999806642532,Virgil van Dijk,h,833,SetPiece,2021,Head,16489,Liverpool,Arsenal,4,0,2021-11-20 17:30:00,Konstantinos Tsimikas,Cross,833
+442769,24,BlockedShot,0.889000015258789,0.5870000076293945,0.02265949919819832,Virgil van Dijk,h,833,FromCorner,2021,Head,16489,Liverpool,Arsenal,4,0,2021-11-20 17:30:00,Trent Alexander-Arnold,Cross,833
+444108,51,Goal,0.8859999847412109,0.5,0.059443701058626175,Virgil van Dijk,h,833,FromCorner,2021,RightFoot,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,Trent Alexander-Arnold,Cross,833
+445710,54,BlockedShot,0.7280000305175781,0.5129999923706055,0.05052490159869194,Virgil van Dijk,a,833,DirectFreekick,2021,RightFoot,16507,Everton,Liverpool,1,4,2021-12-01 20:15:00,,Standard,833
+447688,52,SavedShot,0.9130000305175782,0.5159999847412109,0.2860879898071289,Virgil van Dijk,h,833,FromCorner,2021,Head,16533,Liverpool,Aston Villa,1,0,2021-12-11 15:00:00,Andrew Robertson,Cross,833
+450832,85,SavedShot,0.9180000305175782,0.6780000305175782,0.021964799612760544,Virgil van Dijk,a,833,FromCorner,2021,LeftFoot,16573,Leicester,Liverpool,1,0,2021-12-28 20:00:00,,Aerial,833
+453599,21,SavedShot,0.914000015258789,0.56,0.10220199823379517,Virgil van Dijk,h,833,FromCorner,2021,LeftFoot,16589,Liverpool,Brentford,3,0,2022-01-16 14:00:00,,None,833
+453601,25,SavedShot,0.899000015258789,0.534000015258789,0.05665989965200424,Virgil van Dijk,h,833,FromCorner,2021,Head,16589,Liverpool,Brentford,3,0,2022-01-16 14:00:00,Trent Alexander-Arnold,Cross,833
+454966,7,Goal,0.9180000305175782,0.534000015258789,0.08921419829130173,Virgil van Dijk,a,833,FromCorner,2021,Head,16599,Crystal Palace,Liverpool,1,3,2022-01-23 14:00:00,Andrew Robertson,Cross,833
+456719,33,SavedShot,0.915,0.44799999237060545,0.026493599638342857,Virgil van Dijk,h,833,FromCorner,2021,Head,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Trent Alexander-Arnold,Aerial,833
+456738,85,MissedShots,0.8969999694824219,0.534000015258789,0.01827540062367916,Virgil van Dijk,h,833,FromCorner,2021,Head,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Andrew Robertson,Aerial,833
+458297,13,SavedShot,0.925,0.36400001525878906,0.02566239982843399,Virgil van Dijk,h,833,OpenPlay,2021,Head,16631,Liverpool,Norwich,3,1,2022-02-19 15:00:00,Sadio Mané,Cross,833
+459220,92,Goal,0.9219999694824219,0.5120000076293946,0.32710400223731995,Virgil van Dijk,h,833,FromCorner,2021,Head,16559,Liverpool,Leeds,6,0,2022-02-23 19:45:00,Andrew Robertson,Cross,833
+461237,2,MissedShots,0.9069999694824219,0.485,0.09080959856510162,Virgil van Dijk,h,833,SetPiece,2021,RightFoot,16649,Liverpool,West Ham,1,0,2022-03-05 17:30:00,Trent Alexander-Arnold,Cross,833
+463601,1,SavedShot,0.8730000305175781,0.4809999847412109,0.026173099875450134,Virgil van Dijk,a,833,FromCorner,2021,Head,16636,Arsenal,Liverpool,0,2,2022-03-16 20:15:00,Trent Alexander-Arnold,Cross,833
+464966,55,MissedShots,0.8859999847412109,0.5529999923706055,0.0316275991499424,Virgil van Dijk,h,833,FromCorner,2021,Head,16680,Liverpool,Watford,2,0,2022-04-02 11:30:00,Curtis Jones,Cross,833
+470773,70,MissedShots,0.705999984741211,0.515,0.016095099970698357,Virgil van Dijk,h,833,OpenPlay,2021,RightFoot,16708,Liverpool,Everton,2,0,2022-04-24 15:30:00,,None,833
+471206,9,MissedShots,0.894000015258789,0.53,0.06257089972496033,Virgil van Dijk,a,833,FromCorner,2021,RightFoot,16721,Newcastle United,Liverpool,0,1,2022-04-30 11:30:00,James Milner,Cross,833
+471221,67,SavedShot,0.884000015258789,0.5479999923706055,0.013878799974918365,Virgil van Dijk,a,833,FromCorner,2021,Head,16721,Newcastle United,Liverpool,0,1,2022-04-30 11:30:00,James Milner,Aerial,833
+473764,21,MissedShots,0.915,0.4329999923706055,0.06154229864478111,Virgil van Dijk,h,833,FromCorner,2021,Head,16728,Liverpool,Tottenham,1,1,2022-05-07 18:45:00,Andrew Robertson,Cross,833
+473767,38,ShotOnPost,0.95,0.5029999923706054,0.08097779750823975,Virgil van Dijk,h,833,FromCorner,2021,Head,16728,Liverpool,Tottenham,1,1,2022-05-07 18:45:00,Trent Alexander-Arnold,Aerial,833
+473770,40,BlockedShot,0.955,0.7230000305175781,0.043136801570653915,Virgil van Dijk,h,833,SetPiece,2021,LeftFoot,16728,Liverpool,Tottenham,1,1,2022-05-07 18:45:00,Sadio Mané,BallTouch,833
+475025,5,SavedShot,0.9490000152587891,0.615999984741211,0.09796009957790375,Virgil van Dijk,a,833,SetPiece,2021,LeftFoot,16705,Aston Villa,Liverpool,1,2,2022-05-10 19:00:00,Diogo Jota,Rebound,833
+481433,23,MissedShots,0.665,0.5940000152587891,0.009840790182352066,Virgil van Dijk,h,833,OpenPlay,2022,RightFoot,18221,Liverpool,Crystal Palace,1,1,2022-08-15 19:00:00,Luis Díaz,Pass,833
+483658,44,Goal,0.89,0.5159999847412109,0.04681679978966713,Virgil van Dijk,h,833,FromCorner,2022,Head,18236,Liverpool,Bournemouth,9,0,2022-08-27 14:00:00,Andrew Robertson,Cross,833
+483664,65,MissedShots,0.905,0.5459999847412109,0.06195859983563423,Virgil van Dijk,h,833,FromCorner,2022,Head,18236,Liverpool,Bournemouth,9,0,2022-08-27 14:00:00,Trent Alexander-Arnold,Cross,833
+483665,65,BlockedShot,0.9109999847412109,0.529000015258789,0.029944799840450287,Virgil van Dijk,h,833,FromCorner,2022,Head,18236,Liverpool,Bournemouth,9,0,2022-08-27 14:00:00,Trent Alexander-Arnold,Aerial,833
+485310,53,SavedShot,0.904000015258789,0.5379999923706055,0.09657090157270432,Virgil van Dijk,h,833,FromCorner,2022,RightFoot,18250,Liverpool,Newcastle United,2,1,2022-08-31 19:00:00,Jordan Henderson,Pass,833
+485638,45,BlockedShot,0.8680000305175781,0.4779999923706055,0.013029700145125389,Virgil van Dijk,a,833,FromCorner,2022,Head,18252,Everton,Liverpool,0,0,2022-09-03 11:30:00,Konstantinos Tsimikas,Aerial,833
+485646,57,MissedShots,0.8919999694824219,0.38599998474121094,0.016171500086784363,Virgil van Dijk,a,833,FromCorner,2022,Head,18252,Everton,Liverpool,0,0,2022-09-03 11:30:00,Konstantinos Tsimikas,Cross,833
+485651,64,BlockedShot,0.9380000305175781,0.5020000076293946,0.05707089975476265,Virgil van Dijk,a,833,FromCorner,2022,Head,18252,Everton,Liverpool,0,0,2022-09-03 11:30:00,Andrew Robertson,OffsideProvoked,833
+490154,45,SavedShot,0.9069999694824219,0.485,0.027933700010180473,Virgil van Dijk,h,833,FromCorner,2022,Head,18288,Liverpool,Brighton,3,3,2022-10-01 14:00:00,Konstantinos Tsimikas,Aerial,833
+492363,11,MissedShots,0.8690000152587891,0.53,0.021496199071407318,Virgil van Dijk,a,833,FromCorner,2022,Head,18292,Arsenal,Liverpool,3,2,2022-10-09 15:30:00,Trent Alexander-Arnold,Cross,833
+494776,89,MissedShots,0.94,0.580999984741211,0.36330100893974304,Virgil van Dijk,a,833,SetPiece,2022,LeftFoot,18327,Nottingham Forest,Liverpool,1,0,2022-10-22 11:30:00,Trent Alexander-Arnold,Cross,833
+494777,91,SavedShot,0.924000015258789,0.5120000076293946,0.339354008436203,Virgil van Dijk,a,833,FromCorner,2022,Head,18327,Nottingham Forest,Liverpool,1,0,2022-10-22 11:30:00,Andrew Robertson,Cross,833
+496840,5,MissedShots,0.9,0.5479999923706055,0.017227299511432648,Virgil van Dijk,h,833,FromCorner,2022,Head,18339,Liverpool,Leeds,1,2,2022-10-29 18:45:00,Trent Alexander-Arnold,Aerial,833
+500182,71,MissedShots,0.9080000305175782,0.519000015258789,0.08059339970350266,Virgil van Dijk,h,833,FromCorner,2022,Head,18355,Liverpool,Southampton,3,1,2022-11-12 15:00:00,Andrew Robertson,Cross,833
+500185,87,MissedShots,0.91,0.49900001525878906,0.032574400305747986,Virgil van Dijk,h,833,FromCorner,2022,Head,18355,Liverpool,Southampton,3,1,2022-11-12 15:00:00,Konstantinos Tsimikas,Aerial,833
+500187,92,BlockedShot,0.8869999694824219,0.47900001525878905,0.015258800238370895,Virgil van Dijk,h,833,FromCorner,2022,Head,18355,Liverpool,Southampton,3,1,2022-11-12 15:00:00,Konstantinos Tsimikas,Aerial,833
+501032,36,Goal,0.9480000305175781,0.6719999694824219,0.041648801416158676,Virgil van Dijk,a,833,FromCorner,2022,LeftFoot,18363,Aston Villa,Liverpool,1,3,2022-12-26 17:30:00,Mohamed Salah,Pass,833
+501575,39,MissedShots,0.9130000305175782,0.4929999923706055,0.05451120063662529,Virgil van Dijk,h,833,SetPiece,2022,Head,18375,Liverpool,Leicester,2,1,2022-12-30 20:00:00,Andrew Robertson,Aerial,833
+511739,72,SavedShot,0.93,0.505,0.17615699768066406,Virgil van Dijk,h,833,SetPiece,2022,OtherBodyPart,18264,Liverpool,Wolverhampton Wanderers,2,0,2023-03-01 20:00:00,Trent Alexander-Arnold,Cross,833
+511740,72,Goal,0.965,0.504000015258789,0.6113049983978271,Virgil van Dijk,h,833,SetPiece,2022,Head,18264,Liverpool,Wolverhampton Wanderers,2,0,2023-03-01 20:00:00,Diogo Jota,Chipped,833
+513235,5,BlockedShot,0.9330000305175781,0.544000015258789,0.3274109959602356,Virgil van Dijk,a,833,FromCorner,2022,Head,18462,Bournemouth,Liverpool,1,0,2023-03-11 12:30:00,Trent Alexander-Arnold,Cross,833
+513242,40,MissedShots,0.935,0.5379999923706055,0.39585599303245544,Virgil van Dijk,a,833,SetPiece,2022,Head,18462,Bournemouth,Liverpool,1,0,2023-03-11 12:30:00,Andrew Robertson,Cross,833
+513245,45,SavedShot,0.9130000305175782,0.7030000305175781,0.018047800287604332,Virgil van Dijk,a,833,SetPiece,2022,Head,18462,Bournemouth,Liverpool,1,0,2023-03-11 12:30:00,Trent Alexander-Arnold,Chipped,833
+520868,25,SavedShot,0.9080000305175782,0.5309999847412109,0.045349232852458954,Virgil van Dijk,h,833,SetPiece,2022,Head,18519,Liverpool,Nottingham Forest,3,2,2023-04-22 14:00:00,Trent Alexander-Arnold,Aerial,833
+520870,34,BlockedShot,0.8880000305175781,0.37099998474121093,0.011431007646024227,Virgil van Dijk,h,833,FromCorner,2022,Head,18519,Liverpool,Nottingham Forest,3,2,2023-04-22 14:00:00,Andrew Robertson,Aerial,833
+522118,7,BlockedShot,0.909000015258789,0.49,0.031112996861338615,Virgil van Dijk,a,833,FromCorner,2022,Head,18526,West Ham,Liverpool,1,2,2023-04-26 18:45:00,Trent Alexander-Arnold,Aerial,833
+522125,35,MissedShots,0.9309999847412109,0.534000015258789,0.0824960395693779,Virgil van Dijk,a,833,FromCorner,2022,OtherBodyPart,18526,West Ham,Liverpool,1,2,2023-04-26 18:45:00,Andrew Robertson,Cross,833
+523442,47,BlockedShot,0.955999984741211,0.5540000152587891,0.06796859949827194,Virgil van Dijk,h,833,FromCorner,2022,Head,18539,Liverpool,Tottenham,4,3,2023-04-30 15:30:00,Andrew Robertson,Aerial,833
+523449,72,MissedShots,0.6890000152587891,0.6309999847412109,0.013736872933804989,Virgil van Dijk,h,833,OpenPlay,2022,RightFoot,18539,Liverpool,Tottenham,4,3,2023-04-30 15:30:00,Fabinho,Pass,833
+524777,21,MissedShots,0.705999984741211,0.524000015258789,0.01631832867860794,Virgil van Dijk,h,833,OpenPlay,2022,RightFoot,18545,Liverpool,Brentford,1,0,2023-05-06 16:30:00,Darwin Núñez,Pass,833
+532599,48,MissedShots,0.8190000152587891,0.74,0.018909156322479248,Virgil van Dijk,a,833,FromCorner,2023,RightFoot,22283,Chelsea,Liverpool,1,1,2023-08-13 15:30:00,Diogo Jota,Pass,833
+533197,5,ShotOnPost,0.925,0.495,0.05305583029985428,Virgil van Dijk,h,833,FromCorner,2023,Head,22288,Liverpool,Bournemouth,3,1,2023-08-19 14:00:00,Andrew Robertson,Aerial,833
+533209,45,MissedShots,0.9269999694824219,0.5379999923706055,0.04848124831914902,Virgil van Dijk,h,833,FromCorner,2023,Head,22288,Liverpool,Bournemouth,3,1,2023-08-19 14:00:00,Andrew Robertson,Aerial,833
+533225,71,SavedShot,0.534000015258789,0.3579999923706055,0.018901178613305092,Virgil van Dijk,h,833,DirectFreekick,2023,RightFoot,22288,Liverpool,Bournemouth,3,1,2023-08-19 14:00:00,,Standard,833
+539664,19,MissedShots,0.9219999694824219,0.48,0.3393264412879944,Virgil van Dijk,h,833,FromCorner,2023,RightFoot,21953,Liverpool,West Ham,3,1,2023-09-24 13:00:00,Andrew Robertson,Cross,833
+539667,25,MissedShots,0.9109999847412109,0.485,0.052107758820056915,Virgil van Dijk,h,833,SetPiece,2023,Head,21953,Liverpool,West Ham,3,1,2023-09-24 13:00:00,Andrew Robertson,Aerial,833
+539677,48,BlockedShot,0.9,0.51,0.021714594215154648,Virgil van Dijk,h,833,FromCorner,2023,Head,21953,Liverpool,West Ham,3,1,2023-09-24 13:00:00,Dominik Szoboszlai,Aerial,833
+541496,74,MissedShots,0.904000015258789,0.46099998474121096,0.06195857375860214,Virgil van Dijk,a,833,FromCorner,2023,Head,21962,Tottenham,Liverpool,2,1,2023-09-30 16:30:00,Trent Alexander-Arnold,Cross,833
+547542,79,MissedShots,0.9130000305175782,0.5479999923706055,0.07167540490627289,Virgil van Dijk,a,833,FromCorner,2023,Head,21999,Luton,Liverpool,1,1,2023-11-05 16:30:00,Trent Alexander-Arnold,Cross,833
+548830,26,SavedShot,0.9159999847412109,0.49700000762939456,0.09436357766389847,Virgil van Dijk,h,833,FromCorner,2023,Head,22011,Liverpool,Brentford,3,0,2023-11-12 14:00:00,Konstantinos Tsimikas,Cross,833
+549455,60,SavedShot,0.9119999694824219,0.509000015258789,0.03497466444969177,Virgil van Dijk,a,833,FromCorner,2023,Head,22020,Manchester City,Liverpool,1,1,2023-11-25 12:30:00,Konstantinos Tsimikas,Aerial,833
+551728,33,BlockedShot,0.8859999847412109,0.5370000076293945,0.09624777734279633,Virgil van Dijk,h,833,FromCorner,2023,LeftFoot,22030,Liverpool,Fulham,4,3,2023-12-03 14:00:00,,Rebound,833
+551727,33,BlockedShot,0.8859999847412109,0.5370000076293945,0.08734755218029022,Virgil van Dijk,h,833,FromCorner,2023,LeftFoot,22030,Liverpool,Fulham,4,3,2023-12-03 14:00:00,,None,833
+552238,20,SavedShot,0.92,0.46099998474121096,0.04371168464422226,Virgil van Dijk,a,833,FromCorner,2023,OtherBodyPart,22040,Sheffield United,Liverpool,0,2,2023-12-06 19:30:00,Trent Alexander-Arnold,Aerial,833
+552240,36,Goal,0.91,0.5159999847412109,0.28921401500701904,Virgil van Dijk,a,833,FromCorner,2023,RightFoot,22040,Sheffield United,Liverpool,0,2,2023-12-06 19:30:00,Trent Alexander-Arnold,Cross,833
+552241,39,MissedShots,0.8909999847412109,0.555,0.03691308572888374,Virgil van Dijk,a,833,FromCorner,2023,Head,22040,Sheffield United,Liverpool,0,2,2023-12-06 19:30:00,Trent Alexander-Arnold,Cross,833
+552641,69,MissedShots,0.9359999847412109,0.4909999847412109,0.40542420744895935,Virgil van Dijk,a,833,FromCorner,2023,Head,22047,Crystal Palace,Liverpool,1,2,2023-12-09 12:30:00,Trent Alexander-Arnold,Cross,833
+554952,18,BlockedShot,0.8869999694824219,0.600999984741211,0.017922550439834595,Virgil van Dijk,h,833,FromCorner,2023,Head,22060,Liverpool,Manchester United,0,0,2023-12-17 16:30:00,Trent Alexander-Arnold,Cross,833
+554953,27,SavedShot,0.8969999694824219,0.519000015258789,0.019162025302648544,Virgil van Dijk,h,833,FromCorner,2023,Head,22060,Liverpool,Manchester United,0,0,2023-12-17 16:30:00,Trent Alexander-Arnold,Aerial,833
+554975,78,SavedShot,0.870999984741211,0.5720000076293945,0.016895530745387077,Virgil van Dijk,h,833,FromCorner,2023,Head,22060,Liverpool,Manchester United,0,0,2023-12-17 16:30:00,Konstantinos Tsimikas,Cross,833
+556574,88,MissedShots,0.9290000152587891,0.495,0.1164257749915123,Virgil van Dijk,a,833,FromCorner,2023,Head,22079,Burnley,Liverpool,0,2,2023-12-26 17:30:00,Trent Alexander-Arnold,Cross,833
+557222,25,BlockedShot,0.870999984741211,0.5609999847412109,0.07066086679697037,Virgil van Dijk,h,833,FromCorner,2023,RightFoot,22088,Liverpool,Newcastle United,4,2,2024-01-01 19:00:00,Curtis Jones,None,833
+560764,18,BlockedShot,0.9080000305175782,0.5829999923706055,0.014918684959411621,Virgil van Dijk,h,833,FromCorner,2023,Head,22113,Liverpool,Chelsea,4,1,2024-01-31 20:15:00,Dominik Szoboszlai,Aerial,833
+561857,28,MissedShots,0.9059999847412109,0.5279999923706055,0.07008197903633118,Virgil van Dijk,a,833,FromCorner,2023,Head,22116,Arsenal,Liverpool,3,1,2024-02-04 16:30:00,Trent Alexander-Arnold,Cross,833
+562468,74,SavedShot,0.9169999694824219,0.4759999847412109,0.36946308612823486,Virgil van Dijk,h,833,SetPiece,2023,Head,22128,Liverpool,Burnley,3,1,2024-02-10 15:00:00,Andrew Robertson,Cross,833
+563638,96,ShotOnPost,0.9209999847412109,0.52,0.10144589841365814,Virgil van Dijk,a,833,FromCorner,2023,Head,22135,Brentford,Liverpool,1,4,2024-02-17 12:30:00,Andrew Robertson,Cross,833
+564861,55,Goal,0.9119999694824219,0.46599998474121096,0.07727798074483871,Virgil van Dijk,h,833,FromCorner,2023,Head,22151,Liverpool,Luton,4,1,2024-02-21 15:00:00,Alexis Mac Allister,Cross,833
+564865,59,SavedShot,0.9209999847412109,0.4859999847412109,0.047342076897621155,Virgil van Dijk,h,833,FromCorner,2023,OtherBodyPart,22151,Liverpool,Luton,4,1,2024-02-21 15:00:00,Alexis Mac Allister,Aerial,833
+568722,81,MissedShots,0.8859999847412109,0.5790000152587891,0.013872247189283371,Virgil van Dijk,h,833,FromCorner,2023,Head,22171,Liverpool,Manchester City,1,1,2024-03-10 15:45:00,Andrew Robertson,Aerial,833
+571988,64,SavedShot,0.9030000305175782,0.5270000076293946,0.06509120017290115,Virgil van Dijk,h,833,FromCorner,2023,Head,22203,Liverpool,Sheffield United,3,1,2024-04-04 18:30:00,Dominik Szoboszlai,Cross,833
+574169,54,BlockedShot,0.9030000305175782,0.47400001525878904,0.022402558475732803,Virgil van Dijk,h,833,FromCorner,2023,Head,22220,Liverpool,Crystal Palace,0,1,2024-04-14 13:00:00,Andrew Robertson,Aerial,833
+574174,68,MissedShots,0.9009999847412109,0.4779999923706055,0.06271743774414062,Virgil van Dijk,h,833,FromCorner,2023,Head,22220,Liverpool,Crystal Palace,0,1,2024-04-14 13:00:00,Dominik Szoboszlai,Cross,833
+574176,72,MissedShots,0.9,0.47700000762939454,0.02067432552576065,Virgil van Dijk,h,833,FromCorner,2023,Head,22220,Liverpool,Crystal Palace,0,1,2024-04-14 13:00:00,Andrew Robertson,Aerial,833
+574179,82,MissedShots,0.909000015258789,0.545,0.023595139384269714,Virgil van Dijk,h,833,FromCorner,2023,Head,22220,Liverpool,Crystal Palace,0,1,2024-04-14 13:00:00,Dominik Szoboszlai,Aerial,833
+576239,47,SavedShot,0.9109999847412109,0.4929999923706055,0.03319454938173294,Virgil van Dijk,a,833,FromCorner,2023,Head,22179,Everton,Liverpool,2,0,2024-04-24 19:00:00,Andrew Robertson,Aerial,833
+576248,61,BlockedShot,0.9,0.4640000152587891,0.01920306496322155,Virgil van Dijk,a,833,FromCorner,2023,Head,22179,Everton,Liverpool,2,0,2024-04-24 19:00:00,Andrew Robertson,Aerial,833
+576554,7,MissedShots,0.9580000305175781,0.6220000076293946,0.07600433379411697,Virgil van Dijk,a,833,SetPiece,2023,RightFoot,22243,West Ham,Liverpool,2,2,2024-04-27 11:30:00,Trent Alexander-Arnold,Chipped,833
+576592,90,MissedShots,0.9169999694824219,0.500999984741211,0.043452292680740356,Virgil van Dijk,a,833,FromCorner,2023,Head,22243,West Ham,Liverpool,2,2,2024-04-27 11:30:00,Andrew Robertson,Aerial,833
+579033,89,MissedShots,0.914000015258789,0.544000015258789,0.028377652168273926,Virgil van Dijk,h,833,FromCorner,2023,Head,22251,Liverpool,Tottenham,4,2,2024-05-05 15:30:00,Trent Alexander-Arnold,Aerial,833
+579035,92,BlockedShot,0.899000015258789,0.5379999923706055,0.018550962209701538,Virgil van Dijk,h,833,FromCorner,2023,Head,22251,Liverpool,Tottenham,4,2,2024-05-05 15:30:00,Dominik Szoboszlai,Aerial,833
+582013,12,SavedShot,0.6759999847412109,0.664000015258789,0.01093294657766819,Virgil van Dijk,h,833,OpenPlay,2023,RightFoot,22271,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19 15:00:00,Wataru Endo,Pass,833
+582015,16,SavedShot,0.9740000152587891,0.43400001525878906,0.09530691057443619,Virgil van Dijk,h,833,SetPiece,2023,LeftFoot,22271,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19 15:00:00,,None,833
+582021,36,BlockedShot,0.9009999847412109,0.5279999923706055,0.020825723186135292,Virgil van Dijk,h,833,FromCorner,2023,Head,22271,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19 15:00:00,Trent Alexander-Arnold,Aerial,833
+582042,82,MissedShots,0.7269999694824218,0.5609999847412109,0.029930250719189644,Virgil van Dijk,h,833,OpenPlay,2023,RightFoot,22271,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19 15:00:00,Jarell Quansah,Pass,833
+582047,90,MissedShots,0.899000015258789,0.5259999847412109,0.019912704825401306,Virgil van Dijk,h,833,FromCorner,2023,Head,22271,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19 15:00:00,Andrew Robertson,Aerial,833
+586864,59,SavedShot,0.919000015258789,0.39599998474121095,0.016815248876810074,Virgil van Dijk,h,833,FromCorner,2024,Head,26621,Liverpool,Brentford,2,0,2024-08-25 15:30:00,,Aerial,833
+590858,28,MissedShots,0.9309999847412109,0.5329999923706055,0.05476589873433113,Virgil van Dijk,h,833,FromCorner,2024,Head,26635,Liverpool,Nottingham Forest,0,1,2024-09-14 14:00:00,Andrew Robertson,Aerial,833
+590873,87,MissedShots,0.9059999847412109,0.5120000076293946,0.027058914303779602,Virgil van Dijk,h,833,FromCorner,2024,Head,26635,Liverpool,Nottingham Forest,0,1,2024-09-14 14:00:00,Dominik Szoboszlai,Aerial,833
+595225,39,MissedShots,0.9219999694824219,0.5790000152587891,0.020309193059802055,Virgil van Dijk,a,833,FromCorner,2024,Head,26662,Crystal Palace,Liverpool,0,1,2024-10-05 11:30:00,Trent Alexander-Arnold,Aerial,833
+599064,17,Goal,0.9590000152587891,0.5079999923706054,0.47227153182029724,Virgil van Dijk,a,833,FromCorner,2024,Head,26691,Arsenal,Liverpool,2,2,2024-10-27 16:30:00,Luis Díaz,HeadPass,833
+604815,10,SavedShot,0.9580000305175781,0.5790000152587891,0.047479141503572464,Virgil van Dijk,h,833,FromCorner,2024,Head,26726,Liverpool,Manchester City,2,0,2024-12-01 16:00:00,Dominik Szoboszlai,Aerial,833
+604817,18,MissedShots,0.9369999694824219,0.49900001525878906,0.41625234484672546,Virgil van Dijk,h,833,FromCorner,2024,Head,26726,Liverpool,Manchester City,2,0,2024-12-01 16:00:00,Alexis Mac Allister,Cross,833
+604824,50,MissedShots,0.960999984741211,0.5790000152587891,0.09854098409414291,Virgil van Dijk,h,833,FromCorner,2024,Head,26726,Liverpool,Manchester City,2,0,2024-12-01 16:00:00,Trent Alexander-Arnold,Cross,833
+607125,92,BlockedShot,0.89,0.555,0.1225854903459549,Virgil van Dijk,h,833,OpenPlay,2024,LeftFoot,26752,Liverpool,Fulham,2,2,2024-12-14 15:00:00,Diogo Jota,Pass,833
+609581,6,MissedShots,0.9030000305175782,0.5370000076293945,0.02069873921573162,Virgil van Dijk,a,833,FromCorner,2024,Head,26791,West Ham,Liverpool,0,5,2024-12-29 17:15:00,Alexis Mac Allister,Aerial,833
+609605,81,SavedShot,0.794000015258789,0.645,0.05024772882461548,Virgil van Dijk,a,833,OpenPlay,2024,RightFoot,26791,West Ham,Liverpool,0,5,2024-12-29 17:15:00,Luis Díaz,TakeOn,833
+610342,90,SavedShot,0.9440000152587891,0.509000015258789,0.37439677119255066,Virgil van Dijk,h,833,FromCorner,2024,Head,26797,Liverpool,Manchester United,2,2,2025-01-05 16:30:00,Alexis Mac Allister,HeadPass,833
+610345,93,MissedShots,0.9209999847412109,0.39299999237060546,0.030297329649329185,Virgil van Dijk,h,833,FromCorner,2024,Head,26797,Liverpool,Manchester United,2,2,2025-01-05 16:30:00,Andrew Robertson,Cross,833
+612236,18,MissedShots,0.9569999694824218,0.5579999923706055,0.12452395260334015,Virgil van Dijk,a,833,FromCorner,2024,Head,26813,Brentford,Liverpool,0,2,2025-01-18 15:00:00,Trent Alexander-Arnold,Cross,833
+612270,78,BlockedShot,0.895,0.4620000076293945,0.04216856136918068,Virgil van Dijk,a,833,OpenPlay,2024,Head,26813,Brentford,Liverpool,0,2,2025-01-18 15:00:00,,Aerial,833
+613388,23,SavedShot,0.710999984741211,0.5520000076293945,0.017260625958442688,Virgil van Dijk,h,833,OpenPlay,2024,RightFoot,26827,Liverpool,Ipswich,4,1,2025-01-25 15:00:00,Alexis Mac Allister,Pass,833
+613401,85,MissedShots,0.9059999847412109,0.4179999923706055,0.014460522681474686,Virgil van Dijk,h,833,FromCorner,2024,Head,26827,Liverpool,Ipswich,4,1,2025-01-25 15:00:00,Andrew Robertson,Aerial,833

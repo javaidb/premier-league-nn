@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+539597,62,MissedShots,0.9119999694824219,0.565,0.058793675154447556,Illia Zabarnyi,a,11486,FromCorner,2023,Head,21951,Brighton,Bournemouth,3,1,2023-09-24 13:00:00,Lewis Cook,Cross,11486
+542668,76,BlockedShot,0.955,0.4909999847412109,0.46564781665802,Illia Zabarnyi,a,11486,FromCorner,2023,Head,21969,Everton,Bournemouth,3,0,2023-10-07 14:00:00,Kieffer Moore,HeadPass,11486
+551574,36,MissedShots,0.9319999694824219,0.5570000076293945,0.04266754910349846,Illia Zabarnyi,h,11486,FromCorner,2023,Head,22025,Bournemouth,Aston Villa,2,2,2023-12-03 14:00:00,Lewis Cook,Aerial,11486
+552906,27,MissedShots,0.9230000305175782,0.4540000152587891,0.03908140957355499,Illia Zabarnyi,a,11486,FromCorner,2023,Head,22051,Manchester United,Bournemouth,0,3,2023-12-09 15:00:00,Marcus Tavernier,Aerial,11486
+562495,53,BlockedShot,0.9519999694824218,0.6129999923706054,0.013469929806888103,Illia Zabarnyi,a,11486,FromCorner,2023,Head,22127,Fulham,Bournemouth,3,1,2024-02-10 15:00:00,Marcus Tavernier,Aerial,11486
+562504,78,BlockedShot,0.9159999847412109,0.37200000762939456,0.03727148845791817,Illia Zabarnyi,a,11486,SetPiece,2023,Head,22127,Fulham,Bournemouth,3,1,2024-02-10 15:00:00,Lewis Cook,Chipped,11486
+568052,77,SavedShot,0.9459999847412109,0.5059999847412109,0.4699699878692627,Illia Zabarnyi,h,11486,FromCorner,2023,RightFoot,22165,Bournemouth,Sheffield United,2,2,2024-03-09 15:00:00,Philip Billing,Cross,11486
+569085,61,Goal,0.97,0.5,0.6100215911865234,Illia Zabarnyi,h,11486,FromCorner,2023,Head,25861,Bournemouth,Luton,4,3,2024-03-13 19:30:00,,Rebound,11486
+589203,81,BlockedShot,0.9469999694824218,0.5059999847412109,0.1287432610988617,Illia Zabarnyi,a,11486,FromCorner,2024,Head,26624,Everton,Bournemouth,2,3,2024-08-31 14:00:00,Marcus Tavernier,Cross,11486
+595441,48,ShotOnPost,0.9169999694824219,0.5420000076293945,0.274906724691391,Illia Zabarnyi,a,11486,SetPiece,2024,Head,26663,Leicester,Bournemouth,1,0,2024-10-05 14:00:00,Lewis Cook,Cross,11486
+607953,56,MissedShots,0.9490000152587891,0.5559999847412109,0.12102314084768295,Illia Zabarnyi,h,11486,FromCorner,2024,Head,26754,Bournemouth,West Ham,1,1,2024-12-16 20:00:00,Ryan Christie,Cross,11486
+609503,3,MissedShots,0.970999984741211,0.44799999237060545,0.142866849899292,Illia Zabarnyi,a,11486,FromCorner,2024,RightFoot,26786,Fulham,Bournemouth,2,2,2024-12-29 15:00:00,Lewis Cook,Cross,11486
+609882,29,BlockedShot,0.8190000152587891,0.5559999847412109,0.033975787460803986,Illia Zabarnyi,h,11486,FromCorner,2024,RightFoot,26792,Bournemouth,Everton,1,0,2025-01-04 15:00:00,Lewis Cook,BallTouch,11486
+611496,47,MissedShots,0.91,0.4570000076293945,0.04438576474785805,Illia Zabarnyi,a,11486,SetPiece,2024,Head,26809,Chelsea,Bournemouth,2,2,2025-01-14 19:30:00,Dean Huijsen,Aerial,11486
+612062,55,MissedShots,0.9319999694824219,0.46700000762939453,0.06896251440048218,Illia Zabarnyi,a,11486,SetPiece,2024,Head,26819,Newcastle United,Bournemouth,1,4,2025-01-18 12:30:00,David Brooks,Aerial,11486

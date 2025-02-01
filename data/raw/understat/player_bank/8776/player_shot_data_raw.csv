@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+542695,75,OwnGoal,0.012000000476837159,0.4779999923706055,0,Wes Foderingham,a,8776,OpenPlay,2023,Head,21970,Fulham,Sheffield United,3,1,2023-10-07 14:00:00,,BallTouch,8776

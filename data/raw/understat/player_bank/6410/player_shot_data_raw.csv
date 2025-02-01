@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+297406,51,MissedShots,0.9230000305175782,0.615999984741211,0.025647899135947227,Jack Simpson,a,6410,FromCorner,2018,Head,9549,Southampton,Bournemouth,3,3,2019-04-27 15:00:00,Ryan Fraser,Cross,6410
+299105,46,SavedShot,0.9230000305175782,0.509000015258789,0.3437289893627167,Jack Simpson,h,6410,FromCorner,2018,Head,9565,Bournemouth,Tottenham,1,0,2019-05-04 11:30:00,Ryan Fraser,Cross,6410
+301275,36,OwnGoal,0.075,0.46,0,Jack Simpson,a,6410,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,,Save,6410
+339527,90,BlockedShot,0.8669999694824219,0.634000015258789,0.011818800121545792,Jack Simpson,h,6410,OpenPlay,2019,Head,11824,Bournemouth,Arsenal,1,1,2019-12-26 15:00:00,Philip Billing,Pass,6410

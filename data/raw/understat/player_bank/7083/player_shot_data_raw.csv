@@ -1,0 +1,103 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+425582,72,Goal,0.9690000152587891,0.4809999847412109,0.8865979909896851,Christian Nørgaard,h,7083,OpenPlay,2021,Head,16376,Brentford,Arsenal,2,0,2021-08-13 19:00:00,,Aerial,7083
+425585,79,MissedShots,0.9730000305175781,0.5279999923706055,0.5586959719657898,Christian Nørgaard,h,7083,FromCorner,2021,Head,16376,Brentford,Arsenal,2,0,2021-08-13 19:00:00,Sergi Canos,Aerial,7083
+436432,83,BlockedShot,0.9219999694824219,0.4,0.07435320317745209,Christian Nørgaard,h,7083,OpenPlay,2021,LeftFoot,16448,Brentford,Chelsea,0,1,2021-10-16 16:30:00,,BallTouch,7083
+436434,84,BlockedShot,0.8819999694824219,0.6329999923706054,0.023737799376249313,Christian Nørgaard,h,7083,OpenPlay,2021,RightFoot,16448,Brentford,Chelsea,0,1,2021-10-16 16:30:00,,Aerial,7083
+436436,86,MissedShots,0.784000015258789,0.62,0.02688179910182953,Christian Nørgaard,h,7083,OpenPlay,2021,RightFoot,16448,Brentford,Chelsea,0,1,2021-10-16 16:30:00,,None,7083
+436438,92,BlockedShot,0.8969999694824219,0.495,0.02568110078573227,Christian Nørgaard,h,7083,FromCorner,2021,Head,16448,Brentford,Chelsea,0,1,2021-10-16 16:30:00,Mathias Jensen,Aerial,7083
+436437,92,SavedShot,0.875,0.41200000762939454,0.062426500022411346,Christian Nørgaard,h,7083,OpenPlay,2021,RightFoot,16448,Brentford,Chelsea,0,1,2021-10-16 16:30:00,Ethan Pinnock,Cross,7083
+436440,95,BlockedShot,0.88,0.505,0.030889200046658516,Christian Nørgaard,h,7083,OpenPlay,2021,Head,16448,Brentford,Chelsea,0,1,2021-10-16 16:30:00,,None,7083
+438188,1,SavedShot,0.9,0.45,0.06690309941768646,Christian Nørgaard,h,7083,OpenPlay,2021,RightFoot,16457,Brentford,Leicester,1,2,2021-10-24 13:00:00,,Aerial,7083
+438205,72,MissedShots,0.840999984741211,0.4859999847412109,0.01789570041000843,Christian Nørgaard,h,7083,SetPiece,2021,Head,16457,Brentford,Leicester,1,2,2021-10-24 13:00:00,Mathias Jensen,Cross,7083
+438209,86,BlockedShot,0.7859999847412109,0.580999984741211,0.02554040029644966,Christian Nørgaard,h,7083,OpenPlay,2021,RightFoot,16457,Brentford,Leicester,1,2,2021-10-24 13:00:00,Ivan Toney,Pass,7083
+439714,49,SavedShot,0.8,0.3129999923706055,0.015349600464105606,Christian Nørgaard,a,7083,OpenPlay,2021,RightFoot,16467,Burnley,Brentford,3,1,2021-10-30 14:00:00,,None,7083
+439721,66,MissedShots,0.7780000305175782,0.6020000076293945,0.028478899970650673,Christian Nørgaard,a,7083,OpenPlay,2021,RightFoot,16467,Burnley,Brentford,3,1,2021-10-30 14:00:00,Mathias Jensen,Pass,7083
+441083,13,SavedShot,0.9690000152587891,0.544000015258789,0.5963969826698303,Christian Nørgaard,h,7083,OpenPlay,2021,RightFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Ethan Pinnock,HeadPass,7083
+441097,55,SavedShot,0.965999984741211,0.475,0.7000659704208374,Christian Nørgaard,h,7083,FromCorner,2021,LeftFoot,16477,Brentford,Norwich,1,2,2021-11-06 15:00:00,Charlie Goode,Rebound,7083
+447386,25,MissedShots,0.9459999847412109,0.4370000076293945,0.11875499784946442,Christian Nørgaard,h,7083,OpenPlay,2021,RightFoot,16527,Brentford,Watford,2,1,2021-12-10 20:00:00,Charlie Goode,Pass,7083
+447390,61,BlockedShot,0.9230000305175782,0.44099998474121094,0.03815919905900955,Christian Nørgaard,h,7083,OpenPlay,2021,Head,16527,Brentford,Watford,2,1,2021-12-10 20:00:00,Charlie Goode,Card,7083
+454208,13,MissedShots,0.919000015258789,0.6,0.3621029853820801,Christian Nørgaard,h,7083,FromCorner,2021,LeftFoot,16537,Brentford,Manchester United,1,3,2022-01-19 20:00:00,Mathias Jensen,Pass,7083
+457033,10,MissedShots,0.7480000305175781,0.285,0.011270299553871155,Christian Nørgaard,h,7083,OpenPlay,2021,RightFoot,16616,Brentford,Crystal Palace,0,0,2022-02-12 15:00:00,,None,7083
+458250,72,MissedShots,0.8490000152587891,0.31799999237060544,0.037661198526620865,Christian Nørgaard,a,7083,OpenPlay,2021,RightFoot,16626,Arsenal,Brentford,2,1,2022-02-19 15:00:00,,None,7083
+458256,92,Goal,0.9080000305175782,0.44,0.43744000792503357,Christian Nørgaard,a,7083,SetPiece,2021,LeftFoot,16626,Arsenal,Brentford,2,1,2022-02-19 15:00:00,Kristoffer Ajer,BallTouch,7083
+459795,49,MissedShots,0.879000015258789,0.5359999847412109,0.016901399940252304,Christian Nørgaard,h,7083,SetPiece,2021,Head,16637,Brentford,Newcastle United,0,2,2022-02-26 15:00:00,Bryan Mbeumo,Aerial,7083
+459797,58,MissedShots,0.7519999694824219,0.44799999237060545,0.020690899342298508,Christian Nørgaard,h,7083,OpenPlay,2021,LeftFoot,16637,Brentford,Newcastle United,0,2,2022-02-26 15:00:00,Yoane Wissa,Pass,7083
+462498,62,BlockedShot,0.725999984741211,0.42400001525878905,0.013636499643325806,Christian Nørgaard,h,7083,OpenPlay,2021,RightFoot,16657,Brentford,Burnley,2,0,2022-03-12 15:00:00,,None,7083
+465262,77,BlockedShot,0.9130000305175782,0.5020000076293946,0.11077900230884552,Christian Nørgaard,a,7083,FromCorner,2021,RightFoot,16683,Chelsea,Brentford,1,4,2022-04-02 14:00:00,,None,7083
+468187,14,Goal,0.9540000152587891,0.4779999923706055,0.6064590215682983,Christian Nørgaard,a,7083,OpenPlay,2021,RightFoot,16698,Watford,Brentford,1,2,2022-04-16 14:00:00,Kristoffer Ajer,HeadPass,7083
+474727,62,MissedShots,0.9490000152587891,0.4370000076293945,0.05529019981622696,Christian Nørgaard,h,7083,FromCorner,2021,Head,16734,Brentford,Southampton,3,0,2022-05-07 14:00:00,Christian Eriksen,Aerial,7083
+481856,43,Goal,0.914000015258789,0.44299999237060544,0.27097100019454956,Christian Nørgaard,a,7083,FromCorner,2022,RightFoot,18225,Fulham,Brentford,3,2,2022-08-20 14:00:00,Mathias Jensen,Cross,7083
+481867,75,SavedShot,0.7930000305175782,0.33799999237060546,0.024834999814629555,Christian Nørgaard,a,7083,OpenPlay,2022,RightFoot,18225,Fulham,Brentford,3,2,2022-08-20 14:00:00,,None,7083
+483703,20,SavedShot,0.975,0.6129999923706054,0.046471498906612396,Christian Nørgaard,h,7083,FromCorner,2022,RightFoot,18233,Brentford,Everton,1,1,2022-08-27 14:00:00,Mathias Jensen,Cross,7083
+483713,51,ShotOnPost,0.8969999694824219,0.455,0.08391399681568146,Christian Nørgaard,h,7083,OpenPlay,2022,RightFoot,18233,Brentford,Everton,1,1,2022-08-27 14:00:00,Zanka,HeadPass,7083
+483716,57,BlockedShot,0.8190000152587891,0.35200000762939454,0.03782070055603981,Christian Nørgaard,h,7083,OpenPlay,2022,RightFoot,18233,Brentford,Everton,1,1,2022-08-27 14:00:00,Bryan Mbeumo,Pass,7083
+500920,53,BlockedShot,0.93,0.39,0.03264490142464638,Christian Nørgaard,h,7083,FromCorner,2022,Head,18364,Brentford,Tottenham,2,2,2022-12-26 12:30:00,Bryan Mbeumo,Cross,7083
+501542,17,SavedShot,0.9259999847412109,0.519000015258789,0.12543299794197083,Christian Nørgaard,a,7083,OpenPlay,2022,LeftFoot,18380,West Ham,Brentford,0,2,2022-12-30 19:45:00,Ethan Pinnock,HeadPass,7083
+502071,25,SavedShot,0.9669999694824218,0.39,0.031877800822257996,Christian Nørgaard,h,7083,FromCorner,2022,Head,18384,Brentford,Liverpool,3,1,2023-01-02 17:30:00,Bryan Mbeumo,Cross,7083
+503730,59,SavedShot,0.9130000305175782,0.7319999694824219,0.055201899260282516,Christian Nørgaard,h,7083,OpenPlay,2022,RightFoot,18393,Brentford,Bournemouth,2,0,2023-01-14 17:30:00,,None,7083
+508392,94,BlockedShot,0.9580000305175781,0.5620000076293945,0.09536399692296982,Christian Nørgaard,a,7083,FromCorner,2022,RightFoot,18422,Arsenal,Brentford,1,1,2023-02-11 15:00:00,Mathias Jensen,Card,7083
+509702,6,MissedShots,0.850999984741211,0.49900001525878906,0.07144849747419357,Christian Nørgaard,h,7083,OpenPlay,2022,RightFoot,18433,Brentford,Crystal Palace,1,1,2023-02-18 15:00:00,,None,7083
+509711,53,MissedShots,0.91,0.46,0.10386800020933151,Christian Nørgaard,h,7083,SetPiece,2022,Head,18433,Brentford,Crystal Palace,1,1,2023-02-18 15:00:00,Mathias Jensen,Cross,7083
+509713,59,SavedShot,0.825,0.4540000152587891,0.037341900169849396,Christian Nørgaard,h,7083,OpenPlay,2022,LeftFoot,18433,Brentford,Crystal Palace,1,1,2023-02-18 15:00:00,Mathias Jensen,HeadPass,7083
+513482,61,MissedShots,0.9169999694824219,0.41,0.01622370071709156,Christian Nørgaard,a,7083,FromCorner,2022,Head,18464,Everton,Brentford,1,0,2023-03-11 15:00:00,Bryan Mbeumo,Aerial,7083
+514521,31,BlockedShot,0.9619999694824218,0.41200000762939454,0.07732579857110977,Christian Nørgaard,a,7083,FromCorner,2022,Head,18265,Southampton,Brentford,0,2,2023-03-15 19:30:00,Bryan Mbeumo,Cross,7083
+517555,65,MissedShots,0.9319999694824219,0.639000015258789,0.0163480993360281,Christian Nørgaard,a,7083,FromCorner,2022,Head,18448,Manchester United,Brentford,1,0,2023-04-05 19:00:00,Shandon Baptiste,Cross,7083
+517975,7,BlockedShot,0.9519999694824218,0.5940000152587891,0.031759198755025864,Christian Nørgaard,h,7083,FromCorner,2022,Head,18493,Brentford,Newcastle United,1,2,2023-04-08 14:00:00,Mathias Jensen,CornerAwarded,7083
+519417,65,BlockedShot,0.875999984741211,0.519000015258789,0.07353179901838303,Christian Nørgaard,a,7083,OpenPlay,2022,RightFoot,18511,Wolverhampton Wanderers,Brentford,2,0,2023-04-15 14:00:00,,None,7083
+519422,83,SavedShot,0.9130000305175782,0.46799999237060547,0.11536300182342529,Christian Nørgaard,a,7083,SetPiece,2022,Head,18511,Wolverhampton Wanderers,Brentford,2,0,2023-04-15 14:00:00,Bryan Mbeumo,Cross,7083
+533176,23,MissedShots,0.8959999847412109,0.615999984741211,0.009728962555527687,Christian Nørgaard,a,7083,SetPiece,2023,Head,22287,Fulham,Brentford,0,3,2023-08-19 14:00:00,Mathias Jensen,Aerial,7083
+534698,94,BlockedShot,0.740999984741211,0.40299999237060546,0.013679422438144684,Christian Nørgaard,h,7083,OpenPlay,2023,RightFoot,22298,Brentford,Crystal Palace,1,1,2023-08-26 14:00:00,,Rebound,7083
+536236,54,MissedShots,0.9280000305175782,0.5740000152587891,0.026131179183721542,Christian Nørgaard,h,7083,FromCorner,2023,Head,21928,Brentford,Bournemouth,2,2,2023-09-02 14:00:00,Mathias Jensen,Aerial,7083
+536241,73,SavedShot,0.9219999694824219,0.46,0.09261831641197205,Christian Nørgaard,h,7083,FromCorner,2023,Head,21928,Brentford,Bournemouth,2,2,2023-09-02 14:00:00,Bryan Mbeumo,Cross,7083
+537837,10,BlockedShot,0.850999984741211,0.5479999923706055,0.07597501575946808,Christian Nørgaard,a,7083,OpenPlay,2023,RightFoot,21943,Newcastle United,Brentford,1,0,2023-09-16 16:30:00,Ethan Pinnock,BallTouch,7083
+537849,64,MissedShots,0.7219999694824218,0.5070000076293946,0.014068172313272953,Christian Nørgaard,a,7083,OpenPlay,2023,RightFoot,21943,Newcastle United,Brentford,1,0,2023-09-16 16:30:00,,BallRecovery,7083
+539286,68,MissedShots,0.975,0.575999984741211,0.1351466327905655,Christian Nørgaard,h,7083,SetPiece,2023,LeftFoot,21949,Brentford,Everton,1,3,2023-09-23 16:30:00,,Rebound,7083
+541714,25,BlockedShot,0.92,0.5329999923706055,0.04075712710618973,Christian Nørgaard,a,7083,FromCorner,2023,Head,21963,Nottingham Forest,Brentford,1,1,2023-10-01 13:00:00,Mathias Jensen,Aerial,7083
+541717,46,BlockedShot,0.955,0.5029999923706054,0.1174188107252121,Christian Nørgaard,a,7083,SetPiece,2023,LeftFoot,21963,Nottingham Forest,Brentford,1,1,2023-10-01 13:00:00,Vitaly Janelt,HeadPass,7083
+541721,57,Goal,0.92,0.48200000762939454,0.35108864307403564,Christian Nørgaard,a,7083,SetPiece,2023,Head,21963,Nottingham Forest,Brentford,1,1,2023-10-01 13:00:00,Mathias Jensen,Chipped,7083
+541732,97,MissedShots,0.7719999694824219,0.6229999923706054,0.029024478048086166,Christian Nørgaard,a,7083,FromCorner,2023,RightFoot,21963,Nottingham Forest,Brentford,1,1,2023-10-01 13:00:00,Saman Ghoddos,Pass,7083
+542712,43,MissedShots,0.9680000305175781,0.46900001525878904,0.18579666316509247,Christian Nørgaard,a,7083,FromCorner,2023,OtherBodyPart,21972,Manchester United,Brentford,2,1,2023-10-07 14:00:00,Bryan Mbeumo,Cross,7083
+542725,83,SavedShot,0.9490000152587891,0.539000015258789,0.1276218742132187,Christian Nørgaard,a,7083,FromCorner,2023,Head,21972,Manchester United,Brentford,2,1,2023-10-07 14:00:00,Saman Ghoddos,Cross,7083
+544049,22,BlockedShot,0.925,0.4,0.1057964563369751,Christian Nørgaard,h,7083,OpenPlay,2023,RightFoot,21977,Brentford,Burnley,3,0,2023-10-21 14:00:00,Yoane Wissa,Rebound,7083
+544053,28,MissedShots,0.9290000152587891,0.41,0.09644925594329834,Christian Nørgaard,h,7083,FromCorner,2023,RightFoot,21977,Brentford,Burnley,3,0,2023-10-21 14:00:00,Vitaly Janelt,None,7083
+544057,40,MissedShots,0.795,0.42900001525878906,0.04098647087812424,Christian Nørgaard,h,7083,OpenPlay,2023,RightFoot,21977,Brentford,Burnley,3,0,2023-10-21 14:00:00,Bryan Mbeumo,Pass,7083
+546865,36,MissedShots,0.915,0.56,0.06636610627174377,Christian Nørgaard,h,7083,FromCorner,2023,Head,21995,Brentford,West Ham,3,2,2023-11-04 15:00:00,Mathias Jensen,Cross,7083
+546871,48,MissedShots,0.8030000305175782,0.24399999618530274,0.016493605449795723,Christian Nørgaard,h,7083,OpenPlay,2023,RightFoot,21995,Brentford,West Ham,3,2,2023-11-04 15:00:00,,None,7083
+548843,60,BlockedShot,0.875,0.605,0.07764586061239243,Christian Nørgaard,a,7083,OpenPlay,2023,LeftFoot,22011,Liverpool,Brentford,3,0,2023-11-12 14:00:00,Nathan Collins,Pass,7083
+548846,65,MissedShots,0.9130000305175782,0.5879999923706055,0.05827609449625015,Christian Nørgaard,a,7083,FromCorner,2023,LeftFoot,22011,Liverpool,Brentford,3,0,2023-11-12 14:00:00,Bryan Mbeumo,Cross,7083
+549929,22,MissedShots,0.7859999847412109,0.3679999923706055,0.026329919695854187,Christian Nørgaard,h,7083,OpenPlay,2023,RightFoot,22015,Brentford,Arsenal,0,1,2023-11-25 17:30:00,,None,7083
+551047,7,BlockedShot,0.77,0.48200000762939454,0.031103696674108505,Christian Nørgaard,h,7083,OpenPlay,2023,RightFoot,22027,Brentford,Luton,3,1,2023-12-02 15:00:00,Yehor Yarmolyuk,BallTouch,7083
+552935,48,BlockedShot,0.8490000152587891,0.5159999847412109,0.08334849029779434,Christian Nørgaard,a,7083,OpenPlay,2023,LeftFoot,22052,Sheffield United,Brentford,1,0,2023-12-09 15:00:00,Keane Lewis-Potter,Pass,7083
+552940,67,MissedShots,0.855,0.4809999847412109,0.06647544354200363,Christian Nørgaard,a,7083,OpenPlay,2023,RightFoot,22052,Sheffield United,Brentford,1,0,2023-12-09 15:00:00,,Rebound,7083
+556670,54,BlockedShot,0.8859999847412109,0.47400001525878904,0.1088247075676918,Christian Nørgaard,h,7083,SetPiece,2023,RightFoot,22077,Brentford,Wolverhampton Wanderers,1,4,2023-12-27 19:30:00,Ethan Pinnock,Rebound,7083
+557043,52,SavedShot,0.8240000152587891,0.54,0.04933370649814606,Christian Nørgaard,a,7083,OpenPlay,2023,RightFoot,22086,Crystal Palace,Brentford,3,1,2023-12-30 15:00:00,,BallTouch,7083
+560739,93,MissedShots,0.9380000305175781,0.40099998474121096,0.017528219148516655,Christian Nørgaard,a,7083,FromCorner,2023,Head,22109,Tottenham,Brentford,3,2,2024-01-31 19:30:00,Josh Dasilva,Aerial,7083
+562085,59,BlockedShot,0.875,0.485,0.07277671247720718,Christian Nørgaard,h,7083,OpenPlay,2023,RightFoot,22117,Brentford,Manchester City,1,3,2024-02-05 20:00:00,,None,7083
+562088,65,MissedShots,0.79,0.46599998474121096,0.03512447699904442,Christian Nørgaard,h,7083,OpenPlay,2023,RightFoot,22117,Brentford,Manchester City,1,3,2024-02-05 20:00:00,,None,7083
+562091,77,SavedShot,0.9159999847412109,0.575,0.01914108358323574,Christian Nørgaard,h,7083,FromCorner,2023,Head,22117,Brentford,Manchester City,1,3,2024-02-05 20:00:00,Mikkel Damsgaard,Aerial,7083
+562591,34,Goal,0.9780000305175781,0.49,0.6641467809677124,Christian Nørgaard,a,7083,FromCorner,2023,Head,22134,Wolverhampton Wanderers,Brentford,0,2,2024-02-10 15:00:00,Sergio Reguilón,Cross,7083
+563618,28,MissedShots,0.7980000305175782,0.5329999923706055,0.03568902239203453,Christian Nørgaard,h,7083,OpenPlay,2023,RightFoot,22135,Brentford,Liverpool,1,4,2024-02-17 12:30:00,Mathias Jensen,Pass,7083
+566034,92,BlockedShot,0.895,0.4520000076293945,0.12084347009658813,Christian Nørgaard,a,7083,OpenPlay,2023,RightFoot,22153,West Ham,Brentford,4,2,2024-02-26 20:00:00,Ivan Toney,Pass,7083
+568249,15,SavedShot,0.909000015258789,0.5159999847412109,0.078730009496212,Christian Nørgaard,a,7083,FromCorner,2023,Head,22166,Arsenal,Brentford,2,1,2024-03-09 17:30:00,Vitaly Janelt,Cross,7083
+578408,36,MissedShots,0.8590000152587891,0.3029999923706055,0.04027799516916275,Christian Nørgaard,h,7083,OpenPlay,2023,RightFoot,22246,Brentford,Fulham,0,0,2024-05-04 14:00:00,,None,7083
+579959,3,BlockedShot,0.9219999694824219,0.6519999694824219,0.04155030474066734,Christian Nørgaard,a,7083,FromCorner,2023,RightFoot,22255,Bournemouth,Brentford,1,2,2024-05-11 14:00:00,Sergio Reguilón,Cross,7083
+586851,31,MissedShots,0.914000015258789,0.54,0.24957649409770966,Christian Nørgaard,a,7083,SetPiece,2024,Head,26621,Liverpool,Brentford,2,0,2024-08-25 15:30:00,Bryan Mbeumo,Cross,7083
+589152,34,BlockedShot,0.8159999847412109,0.6659999847412109,0.027461525052785873,Christian Nørgaard,h,7083,OpenPlay,2024,RightFoot,26623,Brentford,Southampton,3,1,2024-08-31 14:00:00,Yoane Wissa,Pass,7083
+589164,63,BlockedShot,0.8569999694824219,0.4520000076293945,0.0459100678563118,Christian Nørgaard,h,7083,OpenPlay,2024,RightFoot,26623,Brentford,Southampton,3,1,2024-08-31 14:00:00,,Aerial,7083
+589172,85,MissedShots,0.8590000152587891,0.4809999847412109,0.12841542065143585,Christian Nørgaard,h,7083,OpenPlay,2024,RightFoot,26623,Brentford,Southampton,3,1,2024-08-31 14:00:00,Yoane Wissa,Pass,7083
+595557,6,BlockedShot,0.915,0.45099998474121095,0.02751733362674713,Christian Nørgaard,h,7083,FromCorner,2024,Head,26667,Brentford,Wolverhampton Wanderers,5,3,2024-10-05 14:00:00,Mikkel Damsgaard,Aerial,7083
+595563,27,Goal,0.91,0.36200000762939455,0.29688093066215515,Christian Nørgaard,h,7083,OpenPlay,2024,RightFoot,26667,Brentford,Wolverhampton Wanderers,5,3,2024-10-05 14:00:00,Vitaly Janelt,Pass,7083
+595571,53,SavedShot,0.7809999847412109,0.3110000038146973,0.02137882634997368,Christian Nørgaard,h,7083,OpenPlay,2024,RightFoot,26667,Brentford,Wolverhampton Wanderers,5,3,2024-10-05 14:00:00,Sepp van den Berg,Pass,7083
+597019,30,SavedShot,0.784000015258789,0.28700000762939454,0.022386742755770683,Christian Nørgaard,a,7083,OpenPlay,2024,RightFoot,26675,Manchester United,Brentford,2,1,2024-10-19 14:00:00,Bryan Mbeumo,Pass,7083
+598457,6,BlockedShot,0.7780000305175782,0.5409999847412109,0.03139897808432579,Christian Nørgaard,h,7083,OpenPlay,2024,RightFoot,26685,Brentford,Ipswich,4,3,2024-10-26 14:00:00,Mikkel Damsgaard,None,7083
+598458,24,BlockedShot,0.7290000152587891,0.534000015258789,0.018640438094735146,Christian Nørgaard,h,7083,OpenPlay,2024,RightFoot,26685,Brentford,Ipswich,4,3,2024-10-26 14:00:00,Mikkel Damsgaard,Pass,7083
+598475,64,MissedShots,0.965,0.4590000152587891,0.6494210958480835,Christian Nørgaard,h,7083,OpenPlay,2024,Head,26685,Brentford,Ipswich,4,3,2024-10-26 14:00:00,Keane Lewis-Potter,Aerial,7083
+601421,72,SavedShot,0.8080000305175781,0.519000015258789,0.06436163932085037,Christian Nørgaard,h,7083,OpenPlay,2024,RightFoot,26702,Brentford,Bournemouth,3,2,2024-11-09 15:00:00,Keane Lewis-Potter,Pass,7083
+604167,13,MissedShots,0.845,0.5259999847412109,0.06483372300863266,Christian Nørgaard,h,7083,OpenPlay,2024,LeftFoot,26722,Brentford,Leicester,4,1,2024-11-30 15:00:00,Ethan Pinnock,Rebound,7083
+607761,72,SavedShot,0.914000015258789,0.5579999923706055,0.3159642517566681,Christian Nørgaard,a,7083,FromCorner,2024,RightFoot,26757,Chelsea,Brentford,2,1,2024-12-15 19:00:00,Nathan Collins,Cross,7083
+607760,72,MissedShots,0.915,0.6359999847412109,0.04419904202222824,Christian Nørgaard,a,7083,FromCorner,2024,LeftFoot,26757,Chelsea,Brentford,2,1,2024-12-15 19:00:00,Bryan Mbeumo,Cross,7083
+608368,72,BlockedShot,0.93,0.46599998474121096,0.053106773644685745,Christian Nørgaard,h,7083,FromCorner,2024,Head,26766,Brentford,Nottingham Forest,0,2,2024-12-21 15:00:00,Bryan Mbeumo,Aerial,7083
+609256,63,BlockedShot,0.8059999847412109,0.5229999923706055,0.04767419025301933,Christian Nørgaard,a,7083,OpenPlay,2024,RightFoot,26774,Brighton,Brentford,0,0,2024-12-27 19:30:00,,None,7083
+609932,22,ShotOnPost,0.9359999847412109,0.47400001525878904,0.4226331412792206,Christian Nørgaard,a,7083,SetPiece,2024,OtherBodyPart,26799,Southampton,Brentford,0,5,2025-01-04 15:00:00,Mathias Jensen,Cross,7083
+611396,91,Goal,0.92,0.45799999237060546,0.048361100256443024,Christian Nørgaard,h,7083,OpenPlay,2024,Head,26803,Brentford,Manchester City,2,2,2025-01-14 19:30:00,Keane Lewis-Potter,Aerial,7083
+612240,22,MissedShots,0.9080000305175782,0.555,0.09096439182758331,Christian Nørgaard,h,7083,SetPiece,2024,Head,26813,Brentford,Liverpool,0,2,2025-01-18 15:00:00,Bryan Mbeumo,Cross,7083

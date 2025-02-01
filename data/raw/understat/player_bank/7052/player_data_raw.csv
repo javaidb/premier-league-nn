@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+7052,Wout Weghorst,20,1459,2,5.398303970694542,3,1.8519033044576645,30,14,3,0,F S,Burnley,2,5.398303970694542,6.137320865876973,1.178776697255671,2021
+7052,Wout Weghorst,17,798,0,2.2213404029607773,1,1.1286072386428714,14,14,1,0,F M S,Manchester United,0,2.2213404029607773,4.879476927220821,2.340124439448118,2022

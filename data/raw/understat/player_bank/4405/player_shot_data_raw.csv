@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+24124,15,BlockedShot,0.8930000305175781,0.58,0.02250410057604313,Florin Gardos,h,4405,SetPiece,2014,Head,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,,Aerial,4405

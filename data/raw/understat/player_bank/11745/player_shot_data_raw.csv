@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+532944,55,MissedShots,0.710999984741211,0.4520000076293945,0.01220124401152134,Julián Araujo,a,11745,FromCorner,2023,RightFoot,22696,Valencia,Las Palmas,1,0,2023-08-18 19:30:00,,Aerial,11745
+536727,57,SavedShot,0.9330000305175781,0.485,0.47636348009109497,Julián Araujo,a,11745,OpenPlay,2023,Head,22719,Girona,Las Palmas,1,0,2023-09-03 12:00:00,Sergi Cardona,Cross,11745
+538495,57,MissedShots,0.7709999847412109,0.3529999923706055,0.01503431610763073,Julián Araujo,a,11745,OpenPlay,2023,RightFoot,22733,Sevilla,Las Palmas,1,0,2023-09-17 16:30:00,Munir,Chipped,11745
+550900,42,Goal,0.9290000152587891,0.544000015258789,0.37150663137435913,Julián Araujo,h,11745,OpenPlay,2023,Head,22832,Las Palmas,Getafe,2,0,2023-12-01 19:00:00,Kirian Rodríguez,Cross,11745
+552664,59,MissedShots,0.7280000305175781,0.3609999847412109,0.02174973674118519,Julián Araujo,a,11745,OpenPlay,2023,RightFoot,22840,Alaves,Las Palmas,0,1,2023-12-09 13:00:00,Alberto Moleiro,Pass,11745
+570035,10,MissedShots,0.9130000305175782,0.34599998474121096,0.011800557374954224,Julián Araujo,h,11745,OpenPlay,2023,Head,22968,Las Palmas,Almeria,0,1,2024-03-17 16:15:00,Sergi Cardona,Aerial,11745
+579675,33,MissedShots,0.715,0.51,0.016888707876205444,Julián Araujo,a,11745,OpenPlay,2023,RightFoot,23034,Mallorca,Las Palmas,1,0,2024-05-11 12:00:00,Enzo Loiodice,Pass,11745

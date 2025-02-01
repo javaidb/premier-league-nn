@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+676,Jores Okore,23,2005,1,0.7885554805397987,0,0.5431609079241753,6,6,6,0,D S,Aston Villa,1,0.7885554805397987,3.58841136097908,3.4798337519168854,2014
+676,Jores Okore,12,1080,0,0,0,0.12150000035762787,0,1,1,0,D,Aston Villa,0,0,1.2886639153584838,1.167163915000856,2015

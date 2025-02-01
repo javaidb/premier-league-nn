@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+456709,82,BlockedShot,0.9569999694824218,0.42700000762939455,0.06362859904766083,Chiquinho,h,10327,OpenPlay,2021,Head,16611,Wolverhampton Wanderers,Arsenal,0,1,2022-02-10 19:45:00,Raúl Jiménez,Chipped,10327
+461146,83,SavedShot,0.950999984741211,0.40700000762939453,0.33319100737571716,Chiquinho,h,10327,OpenPlay,2021,RightFoot,16655,Wolverhampton Wanderers,Crystal Palace,0,2,2022-03-05 15:00:00,Daniel Podence,Throughball,10327
+475274,8,MissedShots,0.9390000152587891,0.3820000076293945,0.027947500348091125,Chiquinho,h,10327,FromCorner,2021,Head,16696,Wolverhampton Wanderers,Manchester City,1,5,2022-05-11 19:15:00,Pedro Neto,Cross,10327
+475285,64,MissedShots,0.9109999847412109,0.3220000076293945,0.07129830121994019,Chiquinho,h,10327,OpenPlay,2021,RightFoot,16696,Wolverhampton Wanderers,Manchester City,1,5,2022-05-11 19:15:00,Pedro Neto,Pass,10327
+476299,85,SavedShot,0.9280000305175782,0.27399999618530274,0.06504759937524796,Chiquinho,h,10327,OpenPlay,2021,RightFoot,16736,Wolverhampton Wanderers,Norwich,1,1,2022-05-15 13:00:00,,TakeOn,10327
+595260,91,SavedShot,0.9730000305175781,0.34,0.050787560641765594,Chiquinho,a,10327,OpenPlay,2024,RightFoot,27071,Espanyol,Mallorca,2,1,2024-10-05 12:00:00,Toni Lato,CornerAwarded,10327
+599763,23,SavedShot,0.899000015258789,0.6220000076293946,0.11249025166034698,Chiquinho,a,10327,OpenPlay,2024,RightFoot,27097,Alaves,Mallorca,1,0,2024-11-01 20:00:00,,TakeOn,10327
+602128,80,MissedShots,0.875,0.549000015258789,0.06715816259384155,Chiquinho,h,10327,OpenPlay,2024,RightFoot,27107,Mallorca,Atletico Madrid,0,1,2024-11-10 15:15:00,Raíllo,HeadPass,10327
+605545,93,MissedShots,0.7819999694824219,0.735999984741211,0.018601058050990105,Chiquinho,a,10327,OpenPlay,2024,RightFoot,27136,Celta Vigo,Mallorca,2,0,2024-12-06 20:00:00,Sergi Darder,Pass,10327

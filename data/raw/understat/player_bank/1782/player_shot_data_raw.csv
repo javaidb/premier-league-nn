@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+112301,48,BlockedShot,0.789000015258789,0.32599998474121095,0.045802801847457886,Albert Adomah,h,1782,OpenPlay,2016,LeftFoot,465,Middlesbrough,Stoke,1,1,2016-08-13 18:00:00,,TakeOn,1782
+112302,50,MissedShots,0.7980000305175782,0.32599998474121095,0.023537300527095795,Albert Adomah,h,1782,FromCorner,2016,LeftFoot,465,Middlesbrough,Stoke,1,1,2016-08-13 18:00:00,,TakeOn,1782
+112313,86,MissedShots,0.965999984741211,0.3629999923706055,0.2715739905834198,Albert Adomah,h,1782,OpenPlay,2016,RightFoot,465,Middlesbrough,Stoke,1,1,2016-08-13 18:00:00,Stewart Downing,Cross,1782
+112728,61,BlockedShot,0.81,0.6659999847412109,0.04319370165467262,Albert Adomah,a,1782,OpenPlay,2016,RightFoot,479,Sunderland,Middlesbrough,1,2,2016-08-21 16:30:00,Adam Forshaw,Pass,1782

@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+17133,33,MissedShots,0.7659999847412109,0.28,0.01707489974796772,Javier Manquillo,h,1719,OpenPlay,2014,LeftFoot,4691,Liverpool,West Bromwich Albion,2,1,2014-10-04 15:00:00,Philippe Coutinho,Pass,1719
+16385,70,MissedShots,0.8780000305175781,0.32,0.06213340163230896,Javier Manquillo,a,1719,OpenPlay,2014,RightFoot,4676,Crystal Palace,Liverpool,3,1,2014-11-23 13:30:00,Raheem Sterling,Pass,1719
+62706,77,SavedShot,0.9019999694824219,0.3240000152587891,0.019958799704909325,Javier Manquillo,a,1719,OpenPlay,2015,Head,1899,Guingamp,Marseille,2,0,2015-08-28 22:30:00,Lass Diarra,Chipped,1719
+63388,33,MissedShots,0.8630000305175781,0.3559999847412109,0.06350360065698624,Javier Manquillo,h,1719,OpenPlay,2015,RightFoot,1965,Marseille,Lorient,1,1,2015-10-18 16:00:00,,Rebound,1719
+65889,42,SavedShot,0.8780000305175781,0.5729999923706055,0.07698030024766922,Javier Manquillo,h,1719,OpenPlay,2015,RightFoot,2068,Marseille,Guingamp,0,0,2016-01-11 00:00:00,,None,1719
+66561,3,MissedShots,0.85,0.67,0.03466780111193657,Javier Manquillo,h,1719,OpenPlay,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,,Rebound,1719
+69536,52,MissedShots,0.7290000152587891,0.6270000076293946,0.013898800127208233,Javier Manquillo,a,1719,FromCorner,2015,RightFoot,2128,Nice,Marseille,1,1,2016-02-15 00:00:00,,None,1719
+67104,91,MissedShots,0.749000015258789,0.625,0.012209000065922737,Javier Manquillo,h,1719,OpenPlay,2015,RightFoot,2169,Marseille,Rennes,2,5,2016-03-18 23:30:00,,None,1719
+68803,95,SavedShot,0.9130000305175782,0.63,0.015664199367165565,Javier Manquillo,a,1719,OpenPlay,2015,Head,2242,Troyes,Marseille,1,1,2016-05-14 23:00:00,Abdel Barrada,Aerial,1719
+114097,89,BlockedShot,0.865,0.5220000076293946,0.08938930183649063,Javier Manquillo,a,1719,OpenPlay,2016,RightFoot,535,Stoke,Sunderland,2,0,2016-10-15 18:00:00,Victor Anichebe,LayOff,1719
+120311,79,MissedShots,0.8219999694824218,0.7069999694824218,0.022910600528120995,Javier Manquillo,h,1719,OpenPlay,2016,RightFoot,3452,Sunderland,Manchester United,0,3,2017-04-09 13:30:00,Jack Rodwell,Pass,1719
+112407,2,Goal,0.9359999847412109,0.37,0.3796750009059906,Javier Manquillo,a,1719,SetPiece,2016,RightFoot,3512,Chelsea,Sunderland,5,1,2017-05-21 15:00:00,,None,1719
+158308,82,MissedShots,0.8859999847412109,0.40599998474121096,0.023352500051259995,Javier Manquillo,h,1719,OpenPlay,2017,Head,7127,Newcastle United,Tottenham,0,2,2017-08-13 13:30:00,Isaac Hayden,Cross,1719
+159894,92,MissedShots,0.91,0.5659999847412109,0.06458549946546555,Javier Manquillo,a,1719,FromCorner,2017,Head,7212,Burnley,Newcastle United,1,0,2017-10-30 20:00:00,Jonjo Shelvey,Cross,1719
+251562,48,MissedShots,0.78,0.31799999237060544,0.016318699344992638,Javier Manquillo,h,1719,FromCorner,2018,RightFoot,9369,Newcastle United,Fulham,0,0,2018-12-22 15:00:00,,None,1719
+299604,23,SavedShot,0.905,0.4279999923706055,0.06671780347824097,Javier Manquillo,h,1719,OpenPlay,2018,Head,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Matt Ritchie,Cross,1719
+336309,64,BlockedShot,0.9340000152587891,0.3189999961853027,0.03594759851694107,Javier Manquillo,h,1719,OpenPlay,2019,RightFoot,11798,Newcastle United,Southampton,2,1,2019-12-08 14:00:00,Miguel Almirón,Cross,1719
+380817,64,BlockedShot,0.7769999694824219,0.36900001525878906,0.02316189929842949,Javier Manquillo,h,1719,OpenPlay,2020,LeftFoot,14472,Newcastle United,Burnley,3,1,2020-10-03 19:00:00,,None,1719
+429908,55,Goal,0.9330000305175781,0.32799999237060545,0.2649439871311188,Javier Manquillo,a,1719,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Allan Saint-Maximin,Pass,1719
+439654,83,SavedShot,0.8590000152587891,0.27100000381469724,0.032542601227760315,Javier Manquillo,h,1719,OpenPlay,2021,LeftFoot,16471,Newcastle United,Chelsea,0,3,2021-10-30 14:00:00,Jonjo Shelvey,Pass,1719
+448211,46,MissedShots,0.9169999694824219,0.30100000381469727,0.036223798990249634,Javier Manquillo,a,1719,OpenPlay,2021,RightFoot,16532,Leicester,Newcastle United,4,0,2021-12-12 14:00:00,Joe Willock,Cross,1719
+448222,87,BlockedShot,0.8859999847412109,0.27299999237060546,0.044249601662158966,Javier Manquillo,a,1719,OpenPlay,2021,RightFoot,16532,Leicester,Newcastle United,4,0,2021-12-12 14:00:00,Jacob Murphy,Pass,1719
+562879,55,MissedShots,0.885,0.39099998474121095,0.062201205641031265,Javier Manquillo,a,1719,OpenPlay,2023,RightFoot,22922,Getafe,Celta Vigo,3,2,2024-02-11 13:00:00,Jørgen Strand Larsen,None,1719

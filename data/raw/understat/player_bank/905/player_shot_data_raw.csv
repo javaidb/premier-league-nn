@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14429,33,BlockedShot,0.5679999923706055,0.3370000076293945,0.007046250160783529,Marouane Chamakh,a,905,OpenPlay,2014,RightFoot,4755,Arsenal,Crystal Palace,2,1,2014-08-16 17:30:00,,None,905
+14719,47,Goal,0.794000015258789,0.6170000076293946,0.03134490177035332,Marouane Chamakh,h,905,OpenPlay,2014,RightFoot,4761,Crystal Palace,West Ham,1,3,2014-08-23 15:00:00,Mile Jedinak,Pass,905
+15006,0,SavedShot,0.8569999694824219,0.500999984741211,0.07643190026283264,Marouane Chamakh,a,905,OpenPlay,2014,RightFoot,4771,Newcastle United,Crystal Palace,3,3,2014-08-30 15:00:00,,None,905
+15738,76,MissedShots,0.9059999847412109,0.545,0.09714169800281525,Marouane Chamakh,h,905,OpenPlay,2014,Head,4743,Crystal Palace,Leicester,2,0,2014-09-27 15:00:00,Joel Ward,Cross,905
+17164,54,SavedShot,0.9690000152587891,0.45599998474121095,0.5173580050468445,Marouane Chamakh,h,905,FromCorner,2014,Head,4658,Crystal Palace,Sunderland,1,3,2014-11-03 20:00:00,Wilfried Zaha,Cross,905
+16383,66,BlockedShot,0.7869999694824219,0.639000015258789,0.02754569984972477,Marouane Chamakh,h,905,OpenPlay,2014,RightFoot,4676,Crystal Palace,Liverpool,3,1,2014-11-23 13:30:00,Yannick Bolasie,HeadPass,905
+18406,28,SavedShot,0.9030000305175782,0.515,0.4658550024032593,Marouane Chamakh,a,905,OpenPlay,2014,LeftFoot,4681,Swansea,Crystal Palace,1,1,2014-11-29 15:00:00,,None,905
+19320,49,MissedShots,0.9290000152587891,0.4929999923706055,0.1029210016131401,Marouane Chamakh,h,905,OpenPlay,2014,Head,4593,Crystal Palace,Aston Villa,0,1,2014-12-02 20:00:00,Yannick Bolasie,Cross,905
+19662,11,BlockedShot,0.8619999694824219,0.5459999847412109,0.10681000351905823,Marouane Chamakh,h,905,OpenPlay,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,,TakeOn,905
+19663,12,MissedShots,0.8859999847412109,0.555,0.049908898770809174,Marouane Chamakh,h,905,OpenPlay,2014,Head,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Dwight Gayle,Cross,905
+22576,56,Goal,0.9269999694824219,0.485,0.5307559967041016,Marouane Chamakh,h,905,SetPiece,2014,LeftFoot,4432,Crystal Palace,Swansea,1,0,2015-05-24 15:00:00,Scott Dann,HeadPass,905
+52634,65,MissedShots,0.765,0.47200000762939454,0.055978499352931976,Marouane Chamakh,a,905,OpenPlay,2015,RightFoot,243,Stoke,Crystal Palace,1,2,2015-12-19 19:00:00,Yannick Bolasie,Pass,905
+54752,82,SavedShot,0.904000015258789,0.5520000076293945,0.42830899357795715,Marouane Chamakh,h,905,OpenPlay,2015,RightFoot,316,Crystal Palace,Bournemouth,1,2,2016-02-03 00:00:00,Mile Jedinak,Pass,905

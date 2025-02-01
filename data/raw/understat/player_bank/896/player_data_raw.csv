@@ -1,0 +1,5 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+896,Jay Fulton,2,112,0,0,0,0,0,0,0,0,M S,Swansea,0,0,0.16985679417848587,0.16985679417848587,2014
+896,Jay Fulton,2,19,0,0,0,0,0,0,0,0,S,Swansea,0,0,0,0,2015
+896,Jay Fulton,11,700,0,0.08629010058939457,0,0.07504050061106682,3,3,2,0,M S,Swansea,0,0.08629010058939457,1.191829588264227,1.0529324002563953,2016
+896,Jay Fulton,2,16,0,0,0,0,0,0,1,0,S,Swansea,0,0,0,0,2017

@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+184595,94,MissedShots,0.9069999694824219,0.5220000076293946,0.4786849915981293,Neto,h,1297,FromCorner,2017,RightFoot,8048,Valencia,Villarreal,0,1,2017-12-23 15:15:00,,None,1297

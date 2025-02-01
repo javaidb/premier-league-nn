@@ -1,0 +1,5 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+10036,Jeremy Sarmiento,5,35,0,0,0,0,0,0,0,0,M S,Brighton,0,0,0.056968700140714645,0.056968700140714645,2021
+10036,Jeremy Sarmiento,9,156,0,0.2745006997138262,1,0.20081399381160736,5,2,1,0,M S,Brighton,0,0.2745006997138262,1.288041802123189,0.812727190554142,2022
+10036,Jeremy Sarmiento,1,4,0,0,0,0,0,0,0,0,S,Brighton,0,0,0.09746789187192917,0.09746789187192917,2024
+10036,Jeremy Sarmiento,1,4,0,0,0,0,0,0,0,0,S,Brighton,0,0,0.09746789187192917,0.09746789187192917,2025

@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,18,Sub,Aston Villa,Queens Park Rangers,3,3,2015-04-07,4450,2014,25289,0,0,0,0,0,0.028841199353337288,0.028841199353337288,4432
+0,0,0,23,Sub,Hull,Queens Park Rangers,2,1,2015-02-21,4540,2014,27096,0,0,0,0,0,0,0,4432
+0,0,0,3,Sub,Sunderland,Queens Park Rangers,0,2,2015-02-10,4526,2014,26548,0.14174099266529083,0,1,0,0,0.1872369945049286,0.1872369945049286,4432

@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+119631,32,BlockedShot,0.784000015258789,0.37900001525878907,0.023749899119138718,Axel Tuanzebe,a,934,OpenPlay,2016,RightFoot,3412,Southampton,Manchester United,0,0,2017-05-17 19:45:00,Juan Mata,Pass,934
+112541,38,MissedShots,0.915,0.41900001525878905,0.016571899875998497,Axel Tuanzebe,h,934,FromCorner,2016,Head,3516,Manchester United,Crystal Palace,2,0,2017-05-21 15:00:00,Josh Harrop,Aerial,934
+395614,84,OwnGoal,0.07,0.4620000076293945,0,Axel Tuanzebe,a,934,OpenPlay,2020,RightFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,,None,934
+428721,35,SavedShot,0.9180000305175782,0.515,0.05882750079035759,Axel Tuanzebe,h,934,SetPiece,2021,Head,16399,Aston Villa,Brentford,1,1,2021-08-28 14:00:00,Emiliano Buendía,Aerial,934
+431565,41,BlockedShot,0.9080000305175782,0.45099998474121095,0.09604059904813766,Axel Tuanzebe,h,934,SetPiece,2021,Head,16422,Aston Villa,Everton,3,0,2021-09-18 16:30:00,Matt Targett,Cross,934
+584691,40,MissedShots,0.91,0.534000015258789,0.048458486795425415,Axel Tuanzebe,h,934,SetPiece,2024,Head,26603,Ipswich,Liverpool,0,2,2024-08-17 11:30:00,,Aerial,934
+594552,17,MissedShots,0.8809999847412109,0.4909999847412109,0.24139665067195892,Axel Tuanzebe,h,934,SetPiece,2024,Head,26659,Ipswich,Aston Villa,2,2,2024-09-29 13:00:00,Leif Davis,Chipped,934
+594562,76,BlockedShot,0.909000015258789,0.45599998474121095,0.04719507321715355,Axel Tuanzebe,h,934,OpenPlay,2024,Head,26659,Ipswich,Aston Villa,2,2,2024-09-29 13:00:00,Leif Davis,Aerial,934

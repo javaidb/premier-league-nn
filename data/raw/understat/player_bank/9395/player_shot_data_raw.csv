@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+408767,35,SavedShot,0.7859999847412109,0.46599998474121096,0.02079850062727928,Sidnei Tavares,a,9395,OpenPlay,2020,RightFoot,14696,Brighton,Leicester,1,2,2021-03-06 20:00:00,Jamie Vardy,HeadPass,9395

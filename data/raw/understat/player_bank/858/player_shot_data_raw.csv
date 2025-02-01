@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+27844,79,MissedShots,0.8959999847412109,0.4209999847412109,0.014768700115382671,Philipp Wollscheid,a,858,SetPiece,2014,Head,5332,FC Cologne,Mainz 05,0,0,2014-12-16 19:00:00,Johannes Geis,Aerial,858
+18748,36,MissedShots,0.9059999847412109,0.509000015258789,0.07390250265598297,Philipp Wollscheid,a,858,FromCorner,2014,Head,4573,Leicester,Stoke,0,1,2015-01-17 15:00:00,Victor Moses,Cross,858
+18755,65,MissedShots,0.92,0.4520000076293945,0.07353450357913971,Philipp Wollscheid,a,858,SetPiece,2014,Head,4573,Leicester,Stoke,0,1,2015-01-17 15:00:00,Phil Bardsley,Chipped,858
+21233,22,BlockedShot,0.8719999694824219,0.4759999847412109,0.07663170248270035,Philipp Wollscheid,a,858,SetPiece,2014,RightFoot,4446,Chelsea,Stoke,2,1,2015-04-04 17:30:00,Steven N&#039;Zonzi,HeadPass,858
+52632,59,BlockedShot,0.8780000305175781,0.39,0.06627929955720901,Philipp Wollscheid,h,858,FromCorner,2015,LeftFoot,243,Stoke,Crystal Palace,1,2,2015-12-19 19:00:00,,Rebound,858
+59632,40,MissedShots,0.7069999694824218,0.6229999923706054,0.00936041958630085,Philipp Wollscheid,h,858,OpenPlay,2015,LeftFoot,370,Stoke,Southampton,1,2,2016-03-12 19:00:00,Glenn Whelan,Pass,858
+112312,76,MissedShots,0.9209999847412109,0.6090000152587891,0.014228399842977524,Philipp Wollscheid,a,858,FromCorner,2016,Head,465,Middlesbrough,Stoke,1,1,2016-08-13 18:00:00,Phil Bardsley,Aerial,858
+128341,7,SavedShot,0.9359999847412109,0.6,0.05244189873337746,Philipp Wollscheid,a,858,FromCorner,2016,Head,1347,Hoffenheim,Wolfsburg,0,0,2016-09-17 17:30:00,Ricardo Rodríguez,Cross,858
+128350,28,SavedShot,0.88,0.5159999847412109,0.042073700577020645,Philipp Wollscheid,a,858,FromCorner,2016,Head,1347,Hoffenheim,Wolfsburg,0,0,2016-09-17 17:30:00,Yannick Gerhardt,HeadPass,858
+128363,63,MissedShots,0.9069999694824219,0.5370000076293945,0.07319430261850357,Philipp Wollscheid,a,858,FromCorner,2016,Head,1347,Hoffenheim,Wolfsburg,0,0,2016-09-17 17:30:00,Ricardo Rodríguez,Cross,858
+128479,56,MissedShots,0.899000015258789,0.5570000076293945,0.05083969980478287,Philipp Wollscheid,h,858,FromCorner,2016,Head,1354,Wolfsburg,Borussia Dortmund,1,5,2016-09-20 22:00:00,Ricardo Rodríguez,Cross,858
+133939,12,MissedShots,0.9669999694824218,0.42700000762939455,0.058518100529909134,Philipp Wollscheid,h,858,FromCorner,2016,Head,3819,Wolfsburg,Freiburg,0,1,2017-04-05 19:00:00,Maximilian Arnold,Aerial,858
+132771,37,MissedShots,0.9169999694824219,0.4909999847412109,0.04526359960436821,Philipp Wollscheid,a,858,FromCorner,2016,Head,3857,Eintracht Frankfurt,Wolfsburg,0,2,2017-05-06 14:30:00,Daniel Didavi,Aerial,858

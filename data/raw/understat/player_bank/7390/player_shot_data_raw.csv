@@ -1,0 +1,38 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+275539,83,BlockedShot,0.9330000305175781,0.565,0.13372400403022766,Karlan Grant,h,7390,OpenPlay,2018,LeftFoot,9456,Huddersfield,Arsenal,1,2,2019-02-09 15:00:00,,Rebound,7390
+275541,92,Goal,0.97,0.505,0.7780399918556213,Karlan Grant,h,7390,OpenPlay,2018,LeftFoot,9456,Huddersfield,Arsenal,1,2,2019-02-09 15:00:00,,Aerial,7390
+275898,17,MissedShots,0.740999984741211,0.32,0.019733499735593796,Karlan Grant,h,7390,OpenPlay,2018,RightFoot,9468,Huddersfield,Wolverhampton Wanderers,1,0,2019-02-26 19:45:00,Jonathan Hogg,Pass,7390
+275905,42,MissedShots,0.855999984741211,0.39,0.04769270122051239,Karlan Grant,h,7390,OpenPlay,2018,RightFoot,9468,Huddersfield,Wolverhampton Wanderers,1,0,2019-02-26 19:45:00,Alex Pritchard,Cross,7390
+275916,90,SavedShot,0.9459999847412109,0.5609999847412109,0.1098570004105568,Karlan Grant,h,7390,OpenPlay,2018,RightFoot,9468,Huddersfield,Wolverhampton Wanderers,1,0,2019-02-26 19:45:00,,None,7390
+276233,88,BlockedShot,0.87,0.654000015258789,0.05381080135703087,Karlan Grant,a,7390,OpenPlay,2018,RightFoot,9485,Brighton,Huddersfield,1,0,2019-03-02 15:00:00,Terence Kongolo,Pass,7390
+286235,29,Goal,0.8959999847412109,0.49900001525878906,0.08403579890727997,Karlan Grant,a,7390,SetPiece,2018,LeftFoot,9498,West Ham,Huddersfield,4,3,2019-03-16 15:00:00,,None,7390
+286242,64,Goal,0.7919999694824219,0.6309999847412109,0.03606240078806877,Karlan Grant,a,7390,OpenPlay,2018,RightFoot,9498,West Ham,Huddersfield,4,3,2019-03-16 15:00:00,Terence Kongolo,Pass,7390
+287579,37,MissedShots,0.8919999694824219,0.23899999618530274,0.2505260109901428,Karlan Grant,a,7390,OpenPlay,2018,RightFoot,9513,Crystal Palace,Huddersfield,2,0,2019-03-30 15:00:00,,TakeOn,7390
+287580,41,BlockedShot,0.8590000152587891,0.5070000076293946,0.07000750303268433,Karlan Grant,a,7390,SetPiece,2018,RightFoot,9513,Crystal Palace,Huddersfield,2,0,2019-03-30 15:00:00,,None,7390
+287582,46,MissedShots,0.6840000152587891,0.7669999694824219,0.011951600201427937,Karlan Grant,a,7390,OpenPlay,2018,RightFoot,9513,Crystal Palace,Huddersfield,2,0,2019-03-30 15:00:00,Juninho Bacuna,Pass,7390
+287590,70,SavedShot,0.9869999694824219,0.6469999694824219,0.068756103515625,Karlan Grant,a,7390,OpenPlay,2018,LeftFoot,9513,Crystal Palace,Huddersfield,2,0,2019-03-30 15:00:00,,TakeOn,7390
+291982,46,SavedShot,0.9459999847412109,0.51,0.5610700249671936,Karlan Grant,h,7390,OpenPlay,2018,RightFoot,9523,Huddersfield,Leicester,1,4,2019-04-06 15:00:00,Isaac Mbenza,Cross,7390
+293370,69,MissedShots,0.8930000305175781,0.6630000305175782,0.1019200012087822,Karlan Grant,a,7390,OpenPlay,2018,LeftFoot,9528,Tottenham,Huddersfield,4,0,2019-04-13 12:30:00,Juninho Bacuna,Pass,7390
+293375,75,MissedShots,0.875999984741211,0.6880000305175781,0.09184300154447556,Karlan Grant,a,7390,OpenPlay,2018,RightFoot,9528,Tottenham,Huddersfield,4,0,2019-04-13 12:30:00,Juninho Bacuna,TakeOn,7390
+295303,92,Goal,0.9469999694824218,0.524000015258789,0.5526080131530762,Karlan Grant,h,7390,OpenPlay,2018,Head,9541,Huddersfield,Watford,1,2,2019-04-20 15:00:00,Chris Löwe,HeadPass,7390
+299808,38,SavedShot,0.8830000305175781,0.4179999923706055,0.08318600058555603,Karlan Grant,h,7390,OpenPlay,2018,RightFoot,9561,Huddersfield,Manchester United,1,1,2019-05-05 13:00:00,Juninho Bacuna,Pass,7390
+299813,51,MissedShots,0.87,0.3370000076293945,0.08959139883518219,Karlan Grant,h,7390,OpenPlay,2018,LeftFoot,9561,Huddersfield,Manchester United,1,1,2019-05-05 13:00:00,Juninho Bacuna,Pass,7390
+299825,88,SavedShot,0.904000015258789,0.664000015258789,0.10051000118255615,Karlan Grant,h,7390,OpenPlay,2018,LeftFoot,9561,Huddersfield,Manchester United,1,1,2019-05-05 13:00:00,Alex Pritchard,Pass,7390
+301411,7,SavedShot,0.8919999694824219,0.82,0.016732800751924515,Karlan Grant,a,7390,OpenPlay,2018,RightFoot,9569,Southampton,Huddersfield,1,1,2019-05-12 14:00:00,Isaac Mbenza,Pass,7390
+301418,33,SavedShot,0.78,0.764000015258789,0.014700699597597122,Karlan Grant,a,7390,OpenPlay,2018,RightFoot,9569,Southampton,Huddersfield,1,1,2019-05-12 14:00:00,Alex Pritchard,HeadPass,7390
+382882,19,MissedShots,0.914000015258789,0.7090000152587891,0.04571409896016121,Karlan Grant,h,7390,OpenPlay,2020,LeftFoot,14484,West Bromwich Albion,Burnley,0,0,2020-10-19 16:30:00,Matheus Pereira,Pass,7390
+384214,82,Goal,0.8619999694824219,0.49400001525878906,0.06684070080518723,Karlan Grant,a,7390,OpenPlay,2020,RightFoot,14487,Brighton,West Bromwich Albion,1,1,2020-10-26 17:30:00,,None,7390
+385500,35,MissedShots,0.835,0.6120000076293945,0.04853690043091774,Karlan Grant,a,7390,OpenPlay,2020,LeftFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Conor Gallagher,BallRecovery,7390
+385506,65,SavedShot,0.919000015258789,0.5940000152587891,0.051615700125694275,Karlan Grant,a,7390,OpenPlay,2020,Head,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Darnell Furlong,Cross,7390
+386339,17,MissedShots,0.9169999694824219,0.48200000762939454,0.3330639898777008,Karlan Grant,h,7390,OpenPlay,2020,Head,14513,West Bromwich Albion,Tottenham,0,1,2020-11-08 12:00:00,Darnell Furlong,Cross,7390
+386357,70,MissedShots,0.9069999694824219,0.41,0.0932231992483139,Karlan Grant,h,7390,FromCorner,2020,RightFoot,14513,West Bromwich Albion,Tottenham,0,1,2020-11-08 12:00:00,,Rebound,7390
+387635,19,SavedShot,0.8490000152587891,0.37799999237060544,0.06338120251893997,Karlan Grant,a,7390,OpenPlay,2020,RightFoot,14520,Manchester United,West Bromwich Albion,1,0,2020-11-21 20:00:00,Matheus Pereira,Pass,7390
+389051,11,BlockedShot,0.925,0.33,0.11662600189447403,Karlan Grant,h,7390,OpenPlay,2020,RightFoot,14527,West Bromwich Albion,Sheffield United,1,0,2020-11-28 20:00:00,Matheus Pereira,Throughball,7390
+389058,33,SavedShot,0.9669999694824218,0.41,0.12067099660634995,Karlan Grant,h,7390,FromCorner,2020,RightFoot,14527,West Bromwich Albion,Sheffield United,1,0,2020-11-28 20:00:00,Darnell Furlong,Rebound,7390
+390563,18,SavedShot,0.7619999694824219,0.775,0.011388099752366543,Karlan Grant,h,7390,OpenPlay,2020,RightFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,,None,7390
+390570,42,BlockedShot,0.925,0.49400001525878906,0.11684200167655945,Karlan Grant,h,7390,FromCorner,2020,RightFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,,None,7390
+391623,19,BlockedShot,0.7040000152587891,0.6769999694824219,0.032055698335170746,Karlan Grant,a,7390,DirectFreekick,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,,Standard,7390
+392707,7,SavedShot,0.8830000305175781,0.5820000076293945,0.08157970011234283,Karlan Grant,a,7390,OpenPlay,2020,RightFoot,14564,Manchester City,West Bromwich Albion,1,1,2020-12-15 20:00:00,,None,7390
+395794,50,SavedShot,0.8190000152587891,0.555,0.03503330051898956,Karlan Grant,a,7390,OpenPlay,2020,LeftFoot,14580,Liverpool,West Bromwich Albion,1,1,2020-12-27 16:30:00,Darnell Furlong,Cross,7390
+395797,71,SavedShot,0.8669999694824219,0.6919999694824219,0.4457769989967346,Karlan Grant,a,7390,OpenPlay,2020,LeftFoot,14580,Liverpool,West Bromwich Albion,1,1,2020-12-27 16:30:00,Romaine Sawyers,Throughball,7390
+401686,40,SavedShot,0.845999984741211,0.669000015258789,0.031892698258161545,Karlan Grant,h,7390,OpenPlay,2020,LeftFoot,14640,West Bromwich Albion,Fulham,2,2,2021-01-30 15:00:00,Kieran Gibbs,Cross,7390

@@ -1,0 +1,44 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+51647,7,MissedShots,0.7090000152587891,0.47900001525878905,0.012083600275218487,Alexander Tettey,h,791,OpenPlay,2015,RightFoot,85,Norwich,Crystal Palace,1,3,2015-08-08 18:00:00,,None,791
+51657,42,MissedShots,0.8069999694824219,0.4520000076293945,0.047411300241947174,Alexander Tettey,h,791,OpenPlay,2015,LeftFoot,85,Norwich,Crystal Palace,1,3,2015-08-08 18:00:00,Lewis Grabban,Pass,791
+56918,23,MissedShots,0.7130000305175781,0.38299999237060545,0.015274900011718273,Alexander Tettey,h,791,OpenPlay,2015,RightFoot,102,Norwich,Stoke,1,1,2015-08-22 18:00:00,Graham Dorrans,Pass,791
+57698,84,MissedShots,0.7319999694824219,0.3509999847412109,0.011640500277280807,Alexander Tettey,a,791,OpenPlay,2015,RightFoot,119,Southampton,Norwich,3,0,2015-08-30 16:30:00,Bradley Johnson,Pass,791
+57925,11,MissedShots,0.7719999694824219,0.43099998474121093,0.02899700030684471,Alexander Tettey,h,791,FromCorner,2015,LeftFoot,126,Norwich,Bournemouth,3,1,2015-09-12 18:00:00,,Rebound,791
+58141,51,BlockedShot,0.745,0.55,0.020836500450968742,Alexander Tettey,a,791,OpenPlay,2015,LeftFoot,140,Liverpool,Norwich,1,1,2015-09-20 19:00:00,Graham Dorrans,Pass,791
+59324,15,BlockedShot,0.7659999847412109,0.41,0.025178100913763046,Alexander Tettey,h,791,OpenPlay,2015,RightFoot,174,Norwich,West Bromwich Albion,0,1,2015-10-24 18:00:00,,Dispossessed,791
+59346,85,SavedShot,0.7119999694824218,0.43900001525878907,0.015758899971842766,Alexander Tettey,h,791,OpenPlay,2015,RightFoot,174,Norwich,West Bromwich Albion,0,1,2015-10-24 18:00:00,Robbie Brady,Pass,791
+59469,13,BlockedShot,0.8719999694824219,0.4279999923706055,0.0451367013156414,Alexander Tettey,a,791,FromCorner,2015,RightFoot,183,Manchester City,Norwich,2,1,2015-10-31 19:00:00,Matthew Jarvis,Cross,791
+54589,10,MissedShots,0.784000015258789,0.28899999618530275,0.017887400463223457,Alexander Tettey,h,791,OpenPlay,2015,RightFoot,231,Norwich,Everton,1,1,2015-12-12 16:45:00,Wes Hoolahan,Pass,791
+54605,72,MissedShots,0.7680000305175781,0.30700000762939456,0.019067799672484398,Alexander Tettey,h,791,OpenPlay,2015,RightFoot,231,Norwich,Everton,1,1,2015-12-12 16:45:00,Gary O&#039;Neil,Pass,791
+56043,20,MissedShots,0.7759999847412109,0.48700000762939455,0.033036500215530396,Alexander Tettey,a,791,OpenPlay,2015,RightFoot,246,Manchester United,Norwich,1,2,2015-12-19 19:00:00,Wes Hoolahan,TakeOn,791
+56048,53,Goal,0.8209999847412109,0.5570000076293945,0.137130007147789,Alexander Tettey,a,791,OpenPlay,2015,RightFoot,246,Manchester United,Norwich,1,2,2015-12-19 19:00:00,Cameron Jerome,Throughball,791
+55917,61,MissedShots,0.8069999694824219,0.39599998474121095,0.04292859882116318,Alexander Tettey,h,791,OpenPlay,2015,LeftFoot,276,Norwich,Southampton,1,0,2016-01-02 19:00:00,Gary O&#039;Neil,Pass,791
+55922,74,MissedShots,0.8159999847412109,0.3390000152587891,0.030836500227451324,Alexander Tettey,h,791,OpenPlay,2015,RightFoot,276,Norwich,Southampton,1,0,2016-01-02 19:00:00,Vadis Odjidja-Ofoe,Pass,791
+55923,75,Goal,0.8569999694824219,0.43599998474121093,0.08634710311889648,Alexander Tettey,h,791,OpenPlay,2015,LeftFoot,276,Norwich,Southampton,1,0,2016-01-02 19:00:00,Vadis Odjidja-Ofoe,Pass,791
+55757,36,MissedShots,0.7419999694824219,0.3840000152587891,0.01658250018954277,Alexander Tettey,a,791,OpenPlay,2015,RightFoot,296,Bournemouth,Norwich,3,0,2016-01-16 19:00:00,Vadis Odjidja-Ofoe,Pass,791
+53696,5,MissedShots,0.835,0.6229999923706054,0.035715501755476,Alexander Tettey,h,791,FromCorner,2015,LeftFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,,None,791
+53708,41,MissedShots,0.7609999847412109,0.39599998474121095,0.018980300053954124,Alexander Tettey,h,791,OpenPlay,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Dieumerci Mbokani,Pass,791
+56154,22,MissedShots,0.76,0.845,0.013750500045716763,Alexander Tettey,a,791,OpenPlay,2015,RightFoot,343,Leicester,Norwich,1,0,2016-02-27 19:00:00,Steven Naismith,Pass,791
+330337,18,MissedShots,0.965999984741211,0.6569999694824219,0.057932499796152115,Alexander Tettey,h,791,SetPiece,2019,RightFoot,11757,Norwich,Watford,0,2,2019-11-08 20:00:00,,None,791
+336272,26,Goal,0.8669999694824219,0.3870000076293945,0.045249298214912415,Alexander Tettey,h,791,FromCorner,2019,LeftFoot,11799,Norwich,Sheffield United,1,2,2019-12-08 14:00:00,Christoph Zimmermann,BallTouch,791
+336291,90,MissedShots,0.745,0.519000015258789,0.019525200128555298,Alexander Tettey,h,791,OpenPlay,2019,LeftFoot,11799,Norwich,Sheffield United,1,2,2019-12-08 14:00:00,Todd Cantwell,Pass,791
+337038,9,BlockedShot,0.7609999847412109,0.5840000152587891,0.019318899139761925,Alexander Tettey,a,791,SetPiece,2019,RightFoot,11807,Leicester,Norwich,1,1,2019-12-14 15:00:00,Teemu Pukki,BallTouch,791
+337039,10,BlockedShot,0.8869999694824219,0.38,0.06143920123577118,Alexander Tettey,a,791,FromCorner,2019,LeftFoot,11807,Leicester,Norwich,1,1,2019-12-14 15:00:00,,None,791
+337063,88,MissedShots,0.705999984741211,0.41900001525878905,0.013435199856758118,Alexander Tettey,a,791,OpenPlay,2019,RightFoot,11807,Leicester,Norwich,1,1,2019-12-14 15:00:00,Emiliano Buendía,Pass,791
+338642,12,SavedShot,0.765,0.275,0.015262899920344353,Alexander Tettey,h,791,OpenPlay,2019,LeftFoot,11819,Norwich,Wolverhampton Wanderers,1,2,2019-12-21 15:00:00,Emiliano Buendía,Pass,791
+338653,55,BlockedShot,0.8080000305175781,0.3509999847412109,0.027886999770998955,Alexander Tettey,h,791,SetPiece,2019,RightFoot,11819,Norwich,Wolverhampton Wanderers,1,2,2019-12-21 15:00:00,Emiliano Buendía,Pass,791
+339609,49,BlockedShot,0.894000015258789,0.575999984741211,0.08251159638166428,Alexander Tettey,a,791,FromCorner,2019,RightFoot,11823,Aston Villa,Norwich,1,0,2019-12-26 15:00:00,,None,791
+351558,60,BlockedShot,0.8119999694824219,0.475,0.06785769760608673,Alexander Tettey,h,791,OpenPlay,2019,RightFoot,11850,Norwich,Crystal Palace,1,1,2020-01-01 17:30:00,Todd Cantwell,Pass,791
+351691,55,MissedShots,0.7380000305175781,0.33299999237060546,0.00854581966996193,Alexander Tettey,a,791,OpenPlay,2019,RightFoot,11862,Manchester United,Norwich,4,0,2020-01-11 15:00:00,,Rebound,791
+351964,26,MissedShots,0.735999984741211,0.4759999847412109,0.015147600322961807,Alexander Tettey,h,791,OpenPlay,2019,RightFoot,11869,Norwich,Bournemouth,1,0,2020-01-18 15:00:00,Emiliano Buendía,HeadPass,791
+351967,42,MissedShots,0.725,0.4209999847412109,0.01919719949364662,Alexander Tettey,h,791,OpenPlay,2019,RightFoot,11869,Norwich,Bournemouth,1,0,2020-01-18 15:00:00,Ondrej Duda,Pass,791
+352287,53,SavedShot,0.7480000305175781,0.4370000076293945,0.02097889967262745,Alexander Tettey,a,791,OpenPlay,2019,LeftFoot,11880,Tottenham,Norwich,2,1,2020-01-22 19:30:00,Ondrej Duda,Pass,791
+352396,26,MissedShots,0.7559999847412109,0.495,0.02265620045363903,Alexander Tettey,a,791,OpenPlay,2019,LeftFoot,11889,Newcastle United,Norwich,0,0,2020-02-01 15:00:00,,None,791
+352400,31,BlockedShot,0.7469999694824219,0.43099998474121093,0.01727830059826374,Alexander Tettey,a,791,OpenPlay,2019,RightFoot,11889,Newcastle United,Norwich,0,0,2020-02-01 15:00:00,,None,791
+352775,71,ShotOnPost,0.8690000152587891,0.20100000381469726,0.020926399156451225,Alexander Tettey,h,791,OpenPlay,2019,RightFoot,11899,Norwich,Liverpool,0,1,2020-02-15 17:30:00,Todd Cantwell,Pass,791
+353086,16,BlockedShot,0.740999984741211,0.4,0.017772899940609932,Alexander Tettey,a,791,OpenPlay,2019,RightFoot,11912,Wolverhampton Wanderers,Norwich,3,0,2020-02-23 14:00:00,Ondrej Duda,Pass,791
+353183,44,BlockedShot,0.7559999847412109,0.34200000762939453,0.017503900453448296,Alexander Tettey,h,791,OpenPlay,2019,RightFoot,11919,Norwich,Leicester,1,0,2020-02-28 20:00:00,,BallRecovery,791
+366309,27,MissedShots,0.725999984741211,0.549000015258789,0.014606599695980549,Alexander Tettey,h,791,OpenPlay,2019,LeftFoot,11948,Norwich,Everton,0,1,2020-06-24 17:00:00,Onel Hernández,Pass,791
+366320,65,BlockedShot,0.715999984741211,0.3609999847412109,0.014640700072050095,Alexander Tettey,h,791,OpenPlay,2019,RightFoot,11948,Norwich,Everton,0,1,2020-06-24 17:00:00,,Rebound,791
+368507,28,BlockedShot,0.7719999694824219,0.35700000762939454,0.022745899856090546,Alexander Tettey,h,791,OpenPlay,2019,RightFoot,11969,Norwich,Brighton,0,1,2020-07-04 11:30:00,Onel Hernández,Pass,791
+372354,18,BlockedShot,0.875999984741211,0.375,0.05465799942612648,Alexander Tettey,h,791,FromCorner,2019,LeftFoot,12008,Norwich,Burnley,0,2,2020-07-18 16:30:00,,None,791

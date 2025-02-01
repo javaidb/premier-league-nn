@@ -1,0 +1,76 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15318,77,MissedShots,0.8980000305175782,0.34200000762939453,0.09699039906263351,Eduardo Vargas,a,85,OpenPlay,2014,RightFoot,4727,Manchester United,Queens Park Rangers,4,0,2014-09-14 16:00:00,,TakeOn,85
+15589,0,SavedShot,0.7780000305175782,0.30100000381469727,0.02290330082178116,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,Joey Barton,Pass,85
+16691,86,Goal,0.9459999847412109,0.4779999923706055,0.5817040205001831,Eduardo Vargas,h,85,SetPiece,2014,RightFoot,4706,Queens Park Rangers,Liverpool,2,3,2014-10-19 13:30:00,Charlie Austin,HeadPass,85
+16694,91,BlockedShot,0.9230000305175782,0.6140000152587891,0.027515500783920288,Eduardo Vargas,h,85,FromCorner,2014,Head,4706,Queens Park Rangers,Liverpool,2,3,2014-10-19 13:30:00,Leroy Fer,Cross,85
+17607,75,SavedShot,0.879000015258789,0.5979999923706054,0.3290179967880249,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Junior Hoilett,Chipped,85
+17043,90,MissedShots,0.815,0.4370000076293945,0.04729500040411949,Eduardo Vargas,a,85,SetPiece,2014,RightFoot,4653,Chelsea,Queens Park Rangers,2,1,2014-11-01 15:00:00,Bobby Zamora,Pass,85
+16759,23,BlockedShot,0.8859999847412109,0.8059999847412109,0.062033601105213165,Eduardo Vargas,h,85,DirectFreekick,2014,RightFoot,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,,Standard,85
+16770,45,BlockedShot,0.7340000152587891,0.504000015258789,0.013577399775385857,Eduardo Vargas,h,85,SetPiece,2014,RightFoot,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,,Rebound,85
+16769,45,BlockedShot,0.74,0.509000015258789,0.05783789977431297,Eduardo Vargas,h,85,DirectFreekick,2014,RightFoot,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,,Standard,85
+16775,62,MissedShots,0.8369999694824218,0.33299999237060546,0.026024099439382553,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Richard Dunne,Cross,85
+16777,65,SavedShot,0.9169999694824219,0.35900001525878905,0.050668101757764816,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Joey Barton,Cross,85
+16782,79,MissedShots,0.8480000305175781,0.5879999923706055,0.056721899658441544,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Yun Suk-Young,Cross,85
+18050,0,BlockedShot,0.7659999847412109,0.37900001525878907,0.02003910019993782,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,,None,85
+18051,3,MissedShots,0.960999984741211,0.4209999847412109,0.12822400033473969,Eduardo Vargas,h,85,OpenPlay,2014,Head,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,Mauricio Isla,Cross,85
+18061,17,MissedShots,0.9290000152587891,0.52,0.08142130076885223,Eduardo Vargas,h,85,FromCorner,2014,RightFoot,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,Niko Kranjcar,Aerial,85
+18065,28,BlockedShot,0.8490000152587891,0.4129999923706055,0.04813440144062042,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,Mauricio Isla,Cross,85
+18071,39,MissedShots,0.9059999847412109,0.49900001525878906,0.11258900165557861,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,Joey Barton,Chipped,85
+19199,44,MissedShots,0.754000015258789,0.5179999923706055,0.02092679962515831,Eduardo Vargas,a,85,OpenPlay,2014,RightFoot,4592,Swansea,Queens Park Rangers,2,0,2014-12-02 19:45:00,,None,85
+20102,22,SavedShot,0.72,0.3629999923706055,0.012005300261080265,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4600,Queens Park Rangers,Burnley,2,0,2014-12-06 15:00:00,Bobby Zamora,LayOff,85
+20105,29,BlockedShot,0.88,0.3290000152587891,0.06108260154724121,Eduardo Vargas,h,85,OpenPlay,2014,LeftFoot,4600,Queens Park Rangers,Burnley,2,0,2014-12-06 15:00:00,Leroy Fer,TakeOn,85
+20118,71,BlockedShot,0.914000015258789,0.325,0.06403650343418121,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4600,Queens Park Rangers,Burnley,2,0,2014-12-06 15:00:00,,Rebound,85
+18019,2,BlockedShot,0.75,0.3770000076293945,0.015907499939203262,Eduardo Vargas,a,85,OpenPlay,2014,RightFoot,4618,Everton,Queens Park Rangers,3,1,2014-12-15 20:00:00,,None,85
+19163,46,BlockedShot,0.7719999694824219,0.35200000762939454,0.014521799981594086,Eduardo Vargas,h,85,SetPiece,2014,LeftFoot,4622,Queens Park Rangers,West Bromwich Albion,3,2,2014-12-20 15:00:00,Steven Caulker,None,85
+19167,47,BlockedShot,0.8480000305175781,0.37099998474121093,0.04780469834804535,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4622,Queens Park Rangers,West Bromwich Albion,3,2,2014-12-20 15:00:00,,Rebound,85
+19688,22,BlockedShot,0.7830000305175782,0.17899999618530274,0.007911739870905876,Eduardo Vargas,a,85,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Niko Kranjcar,Chipped,85
+19713,89,BlockedShot,0.9319999694824219,0.395,0.03981519863009453,Eduardo Vargas,a,85,FromCorner,2014,Head,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Niko Kranjcar,Cross,85
+19714,89,BlockedShot,0.860999984741211,0.515,0.06612709909677505,Eduardo Vargas,a,85,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,,None,85
+19819,9,BlockedShot,0.7669999694824219,0.35,0.02056940086185932,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Leroy Fer,Pass,85
+19820,14,BlockedShot,0.84,0.54,0.0489095002412796,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Bobby Zamora,HeadPass,85
+19822,15,MissedShots,0.8080000305175781,0.5420000076293945,0.010036899708211422,Eduardo Vargas,h,85,SetPiece,2014,Head,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Clint Hill,Cross,85
+19838,42,ShotOnPost,0.98,0.29700000762939455,0.07014019787311554,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Bobby Zamora,Pass,85
+19858,81,MissedShots,0.9340000152587891,0.34400001525878904,0.47161000967025757,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Leroy Fer,Throughball,85
+17444,34,SavedShot,0.8069999694824219,0.39799999237060546,0.03842540085315704,Eduardo Vargas,a,85,OpenPlay,2014,LeftFoot,4564,Burnley,Queens Park Rangers,2,1,2015-01-10 15:00:00,Joey Barton,Chipped,85
+17453,62,SavedShot,0.8930000305175781,0.3629999923706055,0.01975890062749386,Eduardo Vargas,a,85,SetPiece,2014,Head,4564,Burnley,Queens Park Rangers,2,1,2015-01-10 15:00:00,Adel Taarabt,Cross,85
+19031,18,MissedShots,0.9259999847412109,0.5070000076293946,0.1162559986114502,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4574,Queens Park Rangers,Manchester United,0,2,2015-01-17 15:00:00,Bobby Zamora,HeadPass,85
+19042,63,SavedShot,0.715,0.22700000762939454,0.00924025010317564,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4574,Queens Park Rangers,Manchester United,0,2,2015-01-17 15:00:00,,None,85
+19052,89,BlockedShot,0.7090000152587891,0.44299999237060544,0.015549499541521072,Eduardo Vargas,h,85,OpenPlay,2014,RightFoot,4574,Queens Park Rangers,Manchester United,0,2,2015-01-17 15:00:00,,Rebound,85
+23677,49,MissedShots,0.86,0.26600000381469724,0.031992699950933456,Eduardo Vargas,a,85,OpenPlay,2014,RightFoot,4584,Stoke,Queens Park Rangers,3,1,2015-01-31 15:00:00,Leroy Fer,Pass,85
+23681,55,SavedShot,0.8380000305175781,0.5070000076293946,0.05818340182304382,Eduardo Vargas,a,85,SetPiece,2014,RightFoot,4584,Stoke,Queens Park Rangers,3,1,2015-01-31 15:00:00,Leroy Fer,Rebound,85
+22251,64,Goal,0.9780000305175781,0.4179999923706055,0.4405589997768402,Eduardo Vargas,h,85,FromCorner,2014,RightFoot,4512,Queens Park Rangers,Everton,1,2,2015-03-22 16:00:00,Charlie Austin,Pass,85
+22716,14,Goal,0.774000015258789,0.315,0.01367610041052103,Eduardo Vargas,a,85,OpenPlay,2014,RightFoot,4445,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04 15:00:00,Charlie Austin,TakeOn,85
+76938,48,Goal,0.8590000152587891,0.43099998474121093,0.427605003118515,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1055,Hoffenheim,Werder Bremen,1,3,2015-09-13 17:30:00,Mark Uth,Pass,85
+76948,82,SavedShot,0.87,0.7169999694824218,0.04231030121445656,Eduardo Vargas,h,85,OpenPlay,2015,LeftFoot,1055,Hoffenheim,Werder Bremen,1,3,2015-09-13 17:30:00,Kevin Volland,Chipped,85
+77184,86,BlockedShot,0.8619999694824219,0.669000015258789,0.05152669921517372,Eduardo Vargas,a,85,OpenPlay,2015,RightFoot,1057,Mainz 05,Hoffenheim,3,1,2015-09-18 22:30:00,Kevin Volland,Pass,85
+77381,23,SavedShot,0.925,0.38599998474121094,0.08297280222177505,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,,None,85
+77384,31,SavedShot,0.7759999847412109,0.4520000076293945,0.03144000098109245,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,Sebastian Rudy,Pass,85
+77389,50,ShotOnPost,0.9009999847412109,0.66,0.08555790036916733,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,,BallTouch,85
+77554,18,SavedShot,0.8180000305175781,0.539000015258789,0.09968789666891098,Eduardo Vargas,a,85,OpenPlay,2015,RightFoot,1078,Augsburg,Hoffenheim,1,3,2015-09-26 17:30:00,Sebastian Rudy,Pass,85
+77578,74,ShotOnPost,0.745,0.5459999847412109,0.020609600469470024,Eduardo Vargas,a,85,OpenPlay,2015,RightFoot,1078,Augsburg,Hoffenheim,1,3,2015-09-26 17:30:00,,None,85
+77842,3,BlockedShot,0.765,0.6370000076293946,0.030112499371170998,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,,TakeOn,85
+77848,34,BlockedShot,0.8880000305175781,0.3659999847412109,0.057856399565935135,Eduardo Vargas,h,85,FromCorner,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,,None,85
+77850,38,SavedShot,0.764000015258789,0.23700000762939452,0.03849640116095543,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,Pavel Kaderábek,BallRecovery,85
+77854,49,BlockedShot,0.8830000305175781,0.53,0.12438599765300751,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1088,Hoffenheim,VfB Stuttgart,2,2,2015-10-03 17:30:00,,Rebound,85
+78306,86,MissedShots,0.8540000152587891,0.37900001525878907,0.05277470126748085,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1102,Hoffenheim,Hamburger SV,0,1,2015-10-23 22:30:00,,Rebound,85
+78581,23,SavedShot,0.89,0.48700000762939455,0.3867909908294678,Eduardo Vargas,a,85,OpenPlay,2015,RightFoot,1112,FC Cologne,Hoffenheim,0,0,2015-10-31 18:30:00,,Rebound,85
+78794,7,SavedShot,0.68,0.4179999923706055,0.015492400154471397,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1121,Hoffenheim,Eintracht Frankfurt,0,0,2015-11-07 18:30:00,Sebastian Rudy,Pass,85
+79070,80,MissedShots,0.9159999847412109,0.435,0.027062900364398956,Eduardo Vargas,a,85,FromCorner,2015,Head,1136,Hertha Berlin,Hoffenheim,1,0,2015-11-22 18:30:00,Steven Zuber,Aerial,85
+79786,92,MissedShots,0.710999984741211,0.155,0.02504969947040081,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1160,Hoffenheim,Hannover 96,1,0,2015-12-12 18:30:00,Jin-Su Kim,BallRecovery,85
+79823,3,MissedShots,0.8780000305175781,0.500999984741211,0.0782649964094162,Eduardo Vargas,a,85,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Jin-Su Kim,Cross,85
+79842,66,BlockedShot,0.720999984741211,0.485,0.050081901252269745,Eduardo Vargas,a,85,DirectFreekick,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,,Standard,85
+79843,68,MissedShots,0.8490000152587891,0.43,0.07478310167789459,Eduardo Vargas,a,85,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,Fabian Schär,Pass,85
+79854,92,MissedShots,0.759000015258789,0.6309999847412109,0.018332699313759804,Eduardo Vargas,a,85,OpenPlay,2015,RightFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,,None,85
+80254,10,SavedShot,0.8959999847412109,0.7290000152587891,0.040849100798368454,Eduardo Vargas,h,85,FromCorner,2015,RightFoot,1178,Hoffenheim,Bayer Leverkusen,1,1,2016-01-23 18:30:00,Jiloan Hamad,Pass,85
+80264,58,SavedShot,0.9769999694824218,0.524000015258789,0.16836300492286682,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1178,Hoffenheim,Bayer Leverkusen,1,1,2016-01-23 18:30:00,,None,85
+80314,59,MissedShots,0.92,0.5279999923706055,0.046072401106357574,Eduardo Vargas,a,85,FromCorner,2015,Head,1191,Bayern Munich,Hoffenheim,2,0,2016-01-31 20:30:00,Jonathan Schmid,Aerial,85
+80879,52,MissedShots,0.8490000152587891,0.5990000152587891,0.07714509963989258,Eduardo Vargas,a,85,OpenPlay,2015,RightFoot,1206,Werder Bremen,Hoffenheim,1,1,2016-02-13 18:30:00,Ermin Bicakcic,Pass,85
+81176,45,MissedShots,0.754000015258789,0.445,0.01959029957652092,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1213,Hoffenheim,Mainz 05,3,2,2016-02-20 18:30:00,,None,85
+81613,23,ShotOnPost,0.75,0.3390000152587891,0.02097249962389469,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1232,Hoffenheim,Augsburg,2,1,2016-03-02 23:00:00,Mark Uth,Pass,85
+81618,46,MissedShots,0.81,0.27100000381469724,0.022560400888323784,Eduardo Vargas,h,85,OpenPlay,2015,RightFoot,1232,Hoffenheim,Augsburg,2,1,2016-03-02 23:00:00,Pavel Kaderábek,Pass,85
+81621,54,SavedShot,0.8980000305175782,0.5429999923706055,0.0543677993118763,Eduardo Vargas,h,85,SetPiece,2015,Head,1232,Hoffenheim,Augsburg,2,1,2016-03-02 23:00:00,Niklas Süle,HeadPass,85
+82265,66,Goal,0.865999984741211,0.3370000076293945,0.09022960066795349,Eduardo Vargas,a,85,OpenPlay,2015,RightFoot,1257,Hamburger SV,Hoffenheim,1,3,2016-03-19 18:30:00,Kevin Volland,Pass,85
+83118,84,BlockedShot,0.7709999847412109,0.4640000152587891,0.027627499774098396,Eduardo Vargas,a,85,OpenPlay,2015,RightFoot,1298,Borussia M.Gladbach,Hoffenheim,3,1,2016-04-24 17:30:00,Sebastian Rudy,Pass,85
+128550,59,SavedShot,0.9719999694824218,0.4179999923706055,0.47603800892829895,Eduardo Vargas,a,85,OpenPlay,2016,RightFoot,1356,Darmstadt,Hoffenheim,1,1,2016-09-20 22:00:00,Sebastian Rudy,Throughball,85
+128794,78,BlockedShot,0.845999984741211,0.3160000038146973,0.04890120029449463,Eduardo Vargas,h,85,OpenPlay,2016,RightFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Nadiem Amiri,Chipped,85
+130797,93,SavedShot,0.7709999847412109,0.6969999694824218,0.05628940090537071,Eduardo Vargas,h,85,DirectFreekick,2016,RightFoot,2822,Hoffenheim,Hamburger SV,2,2,2016-11-20 18:30:00,,Standard,85

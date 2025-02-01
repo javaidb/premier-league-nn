@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+566687,65,SavedShot,0.7959999847412109,0.3629999923706055,0.06666151434183121,Nathan Fraser,a,11210,OpenPlay,2023,RightFoot,22161,Newcastle United,Wolverhampton Wanderers,3,0,2024-03-02 15:00:00,Mario Lemina,Pass,11210
+568105,58,SavedShot,0.9019999694824219,0.6609999847412109,0.3127199113368988,Nathan Fraser,h,11210,OpenPlay,2023,LeftFoot,22174,Wolverhampton Wanderers,Fulham,2,1,2024-03-09 15:00:00,Mario Lemina,Pass,11210
+570951,98,MissedShots,0.9330000305175781,0.285,0.05154711753129959,Nathan Fraser,a,11210,OpenPlay,2023,RightFoot,22186,Aston Villa,Wolverhampton Wanderers,2,0,2024-03-30 17:30:00,Matt Doherty,Pass,11210

@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14859,10,MissedShots,0.9180000305175782,0.504000015258789,0.1299940049648285,Emmanuel Adebayor,h,521,OpenPlay,2014,Head,4766,Tottenham,Queens Park Rangers,4,0,2014-08-24 13:30:00,Nabil Bentaleb,Cross,521
+14861,14,SavedShot,0.8080000305175781,0.500999984741211,0.11215300112962723,Emmanuel Adebayor,h,521,OpenPlay,2014,LeftFoot,4766,Tottenham,Queens Park Rangers,4,0,2014-08-24 13:30:00,,None,521
+14870,43,BlockedShot,0.919000015258789,0.5790000152587891,0.1383340060710907,Emmanuel Adebayor,h,521,OpenPlay,2014,LeftFoot,4766,Tottenham,Queens Park Rangers,4,0,2014-08-24 13:30:00,Christian Eriksen,Pass,521
+14876,64,Goal,0.89,0.47400001525878904,0.44276899099349976,Emmanuel Adebayor,h,521,OpenPlay,2014,RightFoot,4766,Tottenham,Queens Park Rangers,4,0,2014-08-24 13:30:00,Danny Rose,Pass,521
+15105,8,MissedShots,0.899000015258789,0.37099998474121093,0.24471600353717804,Emmanuel Adebayor,h,521,OpenPlay,2014,RightFoot,4777,Tottenham,Liverpool,0,3,2014-08-31 13:30:00,Nabil Bentaleb,Chipped,521
+15114,52,BlockedShot,0.9319999694824219,0.7140000152587891,0.05310029909014702,Emmanuel Adebayor,h,521,OpenPlay,2014,RightFoot,4777,Tottenham,Liverpool,0,3,2014-08-31 13:30:00,,TakeOn,521
+15120,68,MissedShots,0.8969999694824219,0.5459999847412109,0.03198020160198212,Emmanuel Adebayor,h,521,OpenPlay,2014,Head,4777,Tottenham,Liverpool,0,3,2014-08-31 13:30:00,Etienne Capoue,Chipped,521
+15380,1,SavedShot,0.7930000305175782,0.4929999923706055,0.04382200166583061,Emmanuel Adebayor,a,521,OpenPlay,2014,RightFoot,4724,Sunderland,Tottenham,2,2,2014-09-13 15:00:00,Erik Lamela,Pass,521
+15384,5,SavedShot,0.9069999694824219,0.5120000076293946,0.32853999733924866,Emmanuel Adebayor,a,521,OpenPlay,2014,RightFoot,4724,Sunderland,Tottenham,2,2,2014-09-13 15:00:00,Christian Eriksen,Chipped,521
+15387,14,BlockedShot,0.95,0.585,0.103084996342659,Emmanuel Adebayor,a,521,OpenPlay,2014,LeftFoot,4724,Sunderland,Tottenham,2,2,2014-09-13 15:00:00,Danny Rose,Cross,521
+15392,45,BlockedShot,0.725,0.4520000076293945,0.021201999858021736,Emmanuel Adebayor,a,521,OpenPlay,2014,RightFoot,4724,Sunderland,Tottenham,2,2,2014-09-13 15:00:00,Etienne Capoue,Pass,521
+15636,4,MissedShots,0.8959999847412109,0.524000015258789,0.04556509852409363,Emmanuel Adebayor,h,521,OpenPlay,2014,Head,4735,Tottenham,West Bromwich Albion,0,1,2014-09-21 13:30:00,Danny Rose,Aerial,521
+15678,22,SavedShot,0.89,0.5359999847412109,0.05202630162239075,Emmanuel Adebayor,a,521,SetPiece,2014,Head,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Erik Lamela,Chipped,521
+15683,47,SavedShot,0.86,0.38,0.06365620344877243,Emmanuel Adebayor,a,521,OpenPlay,2014,RightFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,Erik Lamela,Chipped,521
+16319,17,Goal,0.9469999694824218,0.46,0.5096160173416138,Emmanuel Adebayor,h,521,OpenPlay,2014,Head,4715,Tottenham,Newcastle United,1,2,2014-10-26 13:30:00,Ryan Mason,Cross,521
+16893,26,SavedShot,0.8519999694824218,0.4540000152587891,0.3467560112476349,Emmanuel Adebayor,a,521,OpenPlay,2014,RightFoot,4657,Aston Villa,Tottenham,1,2,2014-11-02 16:00:00,Roberto Soldado,Throughball,521
+16899,51,SavedShot,0.97,0.4520000076293945,0.10854099690914154,Emmanuel Adebayor,a,521,OpenPlay,2014,RightFoot,4657,Aston Villa,Tottenham,1,2,2014-11-02 16:00:00,,None,521
+17328,94,MissedShots,0.9259999847412109,0.5229999923706055,0.09022749960422516,Emmanuel Adebayor,h,521,OpenPlay,2014,Head,4666,Tottenham,Stoke,1,2,2014-11-09 13:30:00,Nacer Chadli,Cross,521
+19269,72,SavedShot,0.7619999694824219,0.5170000076293946,0.03798680007457733,Emmanuel Adebayor,h,521,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,TakeOn,521
+54750,72,BlockedShot,0.9290000152587891,0.41200000762939454,0.08276510238647461,Emmanuel Adebayor,h,521,SetPiece,2015,Head,316,Crystal Palace,Bournemouth,1,2,2016-02-03 00:00:00,Jason Puncheon,Cross,521
+54754,91,MissedShots,0.9330000305175781,0.3840000152587891,0.06951969861984253,Emmanuel Adebayor,h,521,OpenPlay,2015,RightFoot,316,Crystal Palace,Bournemouth,1,2,2016-02-03 00:00:00,Wilfried Zaha,Cross,521
+53667,18,MissedShots,0.9530000305175781,0.5940000152587891,0.0943182036280632,Emmanuel Adebayor,a,521,SetPiece,2015,Head,325,Swansea,Crystal Palace,1,1,2016-02-06 19:00:00,Yohan Cabaye,Cross,521
+53670,42,BlockedShot,0.8619999694824219,0.39,0.07304520159959793,Emmanuel Adebayor,a,521,OpenPlay,2015,RightFoot,325,Swansea,Crystal Palace,1,1,2016-02-06 19:00:00,Wilfried Zaha,Pass,521
+53676,54,SavedShot,0.8190000152587891,0.4470000076293945,0.061625998467206955,Emmanuel Adebayor,a,521,OpenPlay,2015,RightFoot,325,Swansea,Crystal Palace,1,1,2016-02-06 19:00:00,Wilfried Zaha,Pass,521
+55186,44,Goal,0.9059999847412109,0.4979999923706055,0.08652430027723312,Emmanuel Adebayor,h,521,OpenPlay,2015,Head,335,Crystal Palace,Watford,1,2,2016-02-13 19:00:00,Connor Wickham,Cross,521
+55187,57,SavedShot,0.9519999694824218,0.509000015258789,0.5836470127105713,Emmanuel Adebayor,h,521,OpenPlay,2015,RightFoot,335,Crystal Palace,Watford,1,2,2016-02-13 19:00:00,Wilfried Zaha,Cross,521
+59719,9,SavedShot,0.840999984741211,0.750999984741211,0.02618120051920414,Emmanuel Adebayor,h,521,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Yannick Bolasie,Pass,521
+59720,10,ShotOnPost,0.9469999694824218,0.5379999923706055,0.49238499999046326,Emmanuel Adebayor,h,521,OpenPlay,2015,Head,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Pape Souaré,Cross,521
+57289,72,MissedShots,0.9130000305175782,0.5590000152587891,0.05633009970188141,Emmanuel Adebayor,h,521,OpenPlay,2015,Head,404,Crystal Palace,Everton,0,0,2016-04-13 23:00:00,Jason Puncheon,Chipped,521
+57292,86,MissedShots,0.95,0.5579999923706055,0.1433970034122467,Emmanuel Adebayor,h,521,OpenPlay,2015,Head,404,Crystal Palace,Everton,0,0,2016-04-13 23:00:00,Jason Puncheon,Cross,521
+61152,8,MissedShots,0.865999984741211,0.5770000076293945,0.054125700145959854,Emmanuel Adebayor,a,521,OpenPlay,2015,RightFoot,417,Manchester United,Crystal Palace,2,0,2016-04-20 23:00:00,Lee Chung-yong,HeadPass,521

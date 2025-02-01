@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+20458,87,MissedShots,0.8680000305175781,0.48700000762939455,0.022843699902296066,Shola Ameobi,a,4436,OpenPlay,2014,Head,4484,Southampton,Crystal Palace,1,0,2015-03-03 19:45:00,Joe Ledley,Foul,4436

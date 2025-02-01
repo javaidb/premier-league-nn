@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+483253,37,MissedShots,0.9330000305175781,0.5709999847412109,0.09273110330104828,Santiago Bueno,h,10945,FromCorner,2022,Head,18982,Girona,Celta Vigo,0,1,2022-08-26 18:00:00,Aleix García,Cross,10945
+483268,90,BlockedShot,0.8809999847412109,0.5620000076293945,0.013043999671936035,Santiago Bueno,h,10945,SetPiece,2022,Head,18982,Girona,Celta Vigo,0,1,2022-08-26 18:00:00,Aleix García,Aerial,10945
+487265,63,MissedShots,0.9740000152587891,0.41700000762939454,0.08061599731445312,Santiago Bueno,h,10945,FromCorner,2022,RightFoot,19008,Girona,Real Valladolid,2,1,2022-09-09 19:00:00,Aleix García,Cross,10945
+489583,52,SavedShot,0.6969999694824218,0.44799999237060545,0.015272299759089947,Santiago Bueno,a,10945,OpenPlay,2022,RightFoot,19014,Real Betis,Girona,2,1,2022-09-18 16:30:00,Oriol Romeu,Pass,10945
+494551,55,MissedShots,0.9169999694824219,0.514000015258789,0.06352990120649338,Santiago Bueno,a,10945,SetPiece,2022,Head,19056,Almeria,Girona,3,2,2022-10-20 17:00:00,Aleix García,Aerial,10945
+495872,56,MissedShots,0.925,0.504000015258789,0.05413290113210678,Santiago Bueno,h,10945,FromCorner,2022,Head,19064,Girona,Osasuna,1,1,2022-10-23 16:30:00,Aleix García,BallTouch,10945
+499107,73,MissedShots,0.9280000305175782,0.4490000152587891,0.0635697990655899,Santiago Bueno,a,10945,SetPiece,2022,Head,19093,Elche,Girona,1,2,2022-11-08 18:00:00,Aleix García,Aerial,10945
+499109,75,MissedShots,0.9319999694824219,0.54,0.08016820251941681,Santiago Bueno,a,10945,SetPiece,2022,Head,19093,Elche,Girona,1,2,2022-11-08 18:00:00,,None,10945
+502809,67,MissedShots,0.735,0.3579999923706055,0.015903400257229805,Santiago Bueno,a,10945,OpenPlay,2022,RightFoot,19115,Espanyol,Girona,2,2,2023-01-07 20:00:00,,BallRecovery,10945
+507683,17,SavedShot,0.9830000305175781,0.43900001525878907,0.10758499801158905,Santiago Bueno,h,10945,FromCorner,2022,Head,19160,Girona,Valencia,1,0,2023-02-05 15:15:00,,Aerial,10945
+507706,93,MissedShots,0.9359999847412109,0.5659999847412109,0.11560600250959396,Santiago Bueno,h,10945,SetPiece,2022,Head,19160,Girona,Valencia,1,0,2023-02-05 15:15:00,Aleix García,Cross,10945
+511193,18,SavedShot,0.9390000152587891,0.5320000076293945,0.06614220142364502,Santiago Bueno,a,10945,FromCorner,2022,Head,19184,Athletic Club,Girona,2,3,2023-02-26 13:00:00,Oriol Romeu,Rebound,10945
+525771,77,MissedShots,0.87,0.51,0.012419672682881355,Santiago Bueno,a,10945,SetPiece,2022,Head,19292,Real Sociedad,Girona,2,2,2023-05-13 12:00:00,Viktor Tsygankov,Aerial,10945
+598510,70,SavedShot,0.9219999694824219,0.525,0.08826123178005219,Santiago Bueno,a,10945,SetPiece,2024,Head,26686,Brighton,Wolverhampton Wanderers,2,2,2024-10-26 14:00:00,Pablo Sarabia,Chipped,10945
+608661,68,ShotOnPost,0.9009999847412109,0.46099998474121096,0.02511376328766346,Santiago Bueno,a,10945,FromCorner,2024,Head,26770,Leicester,Wolverhampton Wanderers,0,3,2024-12-22 14:00:00,Matheus Cunha,Aerial,10945
+609542,57,MissedShots,0.750999984741211,0.545,0.019521662965416908,Santiago Bueno,a,10945,OpenPlay,2024,RightFoot,26790,Tottenham,Wolverhampton Wanderers,2,2,2024-12-29 15:00:00,Nélson Semedo,BallRecovery,10945
+610397,14,SavedShot,0.965999984741211,0.415,0.10751844942569733,Santiago Bueno,h,10945,FromCorner,2024,LeftFoot,26801,Wolverhampton Wanderers,Nottingham Forest,0,3,2025-01-06 20:00:00,Jørgen Strand Larsen,None,10945
+610402,30,SavedShot,0.875,0.48700000762939455,0.04103833809494972,Santiago Bueno,h,10945,FromCorner,2024,Head,26801,Wolverhampton Wanderers,Nottingham Forest,0,3,2025-01-06 20:00:00,Pedro Lima,Cross,10945
+610412,84,MissedShots,0.879000015258789,0.32799999237060545,0.046952564269304276,Santiago Bueno,h,10945,SetPiece,2024,RightFoot,26801,Wolverhampton Wanderers,Nottingham Forest,0,3,2025-01-06 20:00:00,,None,10945

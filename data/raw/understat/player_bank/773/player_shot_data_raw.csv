@@ -1,0 +1,369 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+56801,18,BlockedShot,0.9219999694824219,0.534000015258789,0.1253190040588379,Aleksandar Mitrovic,a,773,SetPiece,2015,Head,101,Manchester United,Newcastle United,0,0,2015-08-22 15:45:00,Georginio Wijnaldum,Cross,773
+56803,22,ShotOnPost,0.8630000305175781,0.4779999923706055,0.014132900163531303,Aleksandar Mitrovic,a,773,OpenPlay,2015,Head,101,Manchester United,Newcastle United,0,0,2015-08-22 15:45:00,Chancel Mbemba,Aerial,773
+56805,26,MissedShots,0.895,0.509000015258789,0.06864850223064423,Aleksandar Mitrovic,a,773,FromCorner,2015,Head,101,Manchester United,Newcastle United,0,0,2015-08-22 15:45:00,Vurnon Anita,Cross,773
+56809,42,BlockedShot,0.955999984741211,0.595999984741211,0.06683900207281113,Aleksandar Mitrovic,a,773,FromCorner,2015,Head,101,Manchester United,Newcastle United,0,0,2015-08-22 15:45:00,Ayoze Pérez,Cross,773
+58427,15,MissedShots,0.87,0.5359999847412109,0.02120869979262352,Aleksandar Mitrovic,h,773,OpenPlay,2015,Head,148,Newcastle United,Chelsea,2,2,2015-09-26 20:30:00,Georginio Wijnaldum,Aerial,773
+58438,41,BlockedShot,0.9019999694824219,0.28899999618530275,0.04916299879550934,Aleksandar Mitrovic,h,773,OpenPlay,2015,RightFoot,148,Newcastle United,Chelsea,2,2,2015-09-26 20:30:00,Daryl Janmaat,Pass,773
+58776,13,SavedShot,0.9,0.5459999847412109,0.10677500069141388,Aleksandar Mitrovic,a,773,OpenPlay,2015,RightFoot,154,Manchester City,Newcastle United,6,1,2015-10-03 18:00:00,Kevin Mbabu,Chipped,773
+58777,17,Goal,0.915,0.534000015258789,0.3509620130062103,Aleksandar Mitrovic,a,773,OpenPlay,2015,Head,154,Manchester City,Newcastle United,6,1,2015-10-03 18:00:00,Georginio Wijnaldum,Pass,773
+58779,25,MissedShots,0.875,0.5309999847412109,0.05794540047645569,Aleksandar Mitrovic,a,773,OpenPlay,2015,Head,154,Manchester City,Newcastle United,6,1,2015-10-03 18:00:00,Moussa Sissoko,Cross,773
+58780,26,SavedShot,0.8969999694824219,0.45799999237060546,0.392657995223999,Aleksandar Mitrovic,a,773,OpenPlay,2015,RightFoot,154,Manchester City,Newcastle United,6,1,2015-10-03 18:00:00,Moussa Sissoko,Pass,773
+59006,63,Goal,0.86,0.5609999847412109,0.30499500036239624,Aleksandar Mitrovic,h,773,OpenPlay,2015,LeftFoot,169,Newcastle United,Norwich,6,2,2015-10-18 19:00:00,Moussa Sissoko,Chipped,773
+59368,11,MissedShots,0.8859999847412109,0.3920000076293945,0.02047630026936531,Aleksandar Mitrovic,a,773,OpenPlay,2015,Head,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Daryl Janmaat,Cross,773
+59377,26,MissedShots,0.9359999847412109,0.415,0.07418859750032425,Aleksandar Mitrovic,a,773,FromCorner,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Jack Colback,Cross,773
+59388,54,SavedShot,0.9,0.605999984741211,0.3517400026321411,Aleksandar Mitrovic,a,773,OpenPlay,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,,TakeOn,773
+59407,76,MissedShots,0.9219999694824219,0.48700000762939455,0.0692284032702446,Aleksandar Mitrovic,a,773,OpenPlay,2015,Head,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Daryl Janmaat,Aerial,773
+52479,3,SavedShot,0.8580000305175781,0.6370000076293946,0.07221080362796783,Aleksandar Mitrovic,h,773,OpenPlay,2015,RightFoot,184,Newcastle United,Stoke,0,0,2015-10-31 19:00:00,Ayoze Pérez,Pass,773
+52480,6,BlockedShot,0.8680000305175781,0.4520000076293945,0.06529519706964493,Aleksandar Mitrovic,h,773,OpenPlay,2015,LeftFoot,184,Newcastle United,Stoke,0,0,2015-10-31 19:00:00,Paul Dummett,Cross,773
+52483,27,ShotOnPost,0.92,0.5359999847412109,0.12901699542999268,Aleksandar Mitrovic,h,773,OpenPlay,2015,Head,184,Newcastle United,Stoke,0,0,2015-10-31 19:00:00,Moussa Sissoko,Cross,773
+54317,40,MissedShots,0.7719999694824219,0.5459999847412109,0.04700789973139763,Aleksandar Mitrovic,h,773,OpenPlay,2015,LeftFoot,205,Newcastle United,Leicester,0,3,2015-11-21 19:00:00,Moussa Sissoko,Pass,773
+55111,73,Goal,0.99,0.5059999847412109,0.9622690081596375,Aleksandar Mitrovic,a,773,SetPiece,2015,RightFoot,239,Tottenham,Newcastle United,1,2,2015-12-13 20:00:00,,None,773
+52265,36,SavedShot,0.8680000305175781,0.4909999847412109,0.03554670140147209,Aleksandar Mitrovic,h,773,SetPiece,2015,Head,247,Newcastle United,Aston Villa,1,1,2015-12-19 21:30:00,Jack Colback,Cross,773
+52277,82,MissedShots,0.91,0.57,0.05209510028362274,Aleksandar Mitrovic,h,773,FromCorner,2015,Head,247,Newcastle United,Aston Villa,1,1,2015-12-19 21:30:00,Ayoze Pérez,Cross,773
+54932,24,MissedShots,0.95,0.515,0.13251399993896484,Aleksandar Mitrovic,h,773,OpenPlay,2015,Head,259,Newcastle United,Everton,0,1,2015-12-26 21:30:00,Daryl Janmaat,Aerial,773
+54935,29,MissedShots,0.9219999694824219,0.49700000762939456,0.06782609969377518,Aleksandar Mitrovic,h,773,OpenPlay,2015,Head,259,Newcastle United,Everton,0,1,2015-12-26 21:30:00,,None,773
+54949,72,MissedShots,0.924000015258789,0.49,0.3883650004863739,Aleksandar Mitrovic,h,773,OpenPlay,2015,Head,259,Newcastle United,Everton,0,1,2015-12-26 21:30:00,Moussa Sissoko,Cross,773
+54369,20,BlockedShot,0.885,0.6070000076293945,0.06201859936118126,Aleksandar Mitrovic,a,773,OpenPlay,2015,LeftFoot,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,Georginio Wijnaldum,Cross,773
+54380,60,BlockedShot,0.895,0.539000015258789,0.10756800323724747,Aleksandar Mitrovic,a,773,OpenPlay,2015,RightFoot,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,Ayoze Pérez,BallTouch,773
+54382,64,SavedShot,0.8430000305175781,0.28200000762939453,0.03120950050652027,Aleksandar Mitrovic,a,773,OpenPlay,2015,RightFoot,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,Ayoze Pérez,Pass,773
+54869,37,BlockedShot,0.7980000305175782,0.5470000076293945,0.04589520022273064,Aleksandar Mitrovic,a,773,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,,BallRecovery,773
+54870,41,SavedShot,0.9059999847412109,0.5609999847412109,0.09612839668989182,Aleksandar Mitrovic,a,773,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,,None,773
+54875,48,MissedShots,0.950999984741211,0.5629999923706055,0.14348100125789642,Aleksandar Mitrovic,a,773,OpenPlay,2015,LeftFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Ayoze Pérez,Pass,773
+54885,80,MissedShots,0.925,0.5559999847412109,0.04537300020456314,Aleksandar Mitrovic,a,773,OpenPlay,2015,Head,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Ayoze Pérez,Aerial,773
+54671,66,Goal,0.885,0.5,0.7611690163612366,Aleksandar Mitrovic,h,773,Penalty,2015,RightFoot,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,,Standard,773
+54673,69,BlockedShot,0.889000015258789,0.4229999923706055,0.09065940231084824,Aleksandar Mitrovic,h,773,OpenPlay,2015,LeftFoot,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,Georginio Wijnaldum,Rebound,773
+54676,76,MissedShots,0.8440000152587891,0.38599998474121094,0.05912970006465912,Aleksandar Mitrovic,h,773,OpenPlay,2015,LeftFoot,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,Moussa Sissoko,Pass,773
+52331,6,SavedShot,0.8219999694824218,0.8069999694824219,0.024403199553489685,Aleksandar Mitrovic,h,773,OpenPlay,2015,RightFoot,293,Newcastle United,West Ham,2,1,2016-01-16 19:00:00,Ayoze Pérez,Pass,773
+52334,18,SavedShot,0.8819999694824219,0.52,0.11224199831485748,Aleksandar Mitrovic,h,773,OpenPlay,2015,LeftFoot,293,Newcastle United,West Ham,2,1,2016-01-16 19:00:00,,None,773
+52346,59,MissedShots,0.879000015258789,0.46299999237060546,0.09703660011291504,Aleksandar Mitrovic,h,773,OpenPlay,2015,LeftFoot,293,Newcastle United,West Ham,2,1,2016-01-16 19:00:00,Daryl Janmaat,Cross,773
+52348,64,SavedShot,0.879000015258789,0.3089999961853027,0.06125180050730705,Aleksandar Mitrovic,h,773,OpenPlay,2015,RightFoot,293,Newcastle United,West Ham,2,1,2016-01-16 19:00:00,,None,773
+52351,75,SavedShot,0.8680000305175781,0.6469999694824219,0.07256399840116501,Aleksandar Mitrovic,h,773,OpenPlay,2015,RightFoot,293,Newcastle United,West Ham,2,1,2016-01-16 19:00:00,Jonjo Shelvey,Pass,773
+52355,88,BlockedShot,0.8490000152587891,0.445,0.09872470051050186,Aleksandar Mitrovic,h,773,OpenPlay,2015,RightFoot,293,Newcastle United,West Ham,2,1,2016-01-16 19:00:00,Moussa Sissoko,Pass,773
+52359,93,SavedShot,0.9640000152587891,0.6830000305175781,0.09673859924077988,Aleksandar Mitrovic,h,773,OpenPlay,2015,RightFoot,293,Newcastle United,West Ham,2,1,2016-01-16 19:00:00,Fabricio Coloccini,Pass,773
+52443,23,SavedShot,0.805,0.44400001525878907,0.04876650124788284,Aleksandar Mitrovic,a,773,OpenPlay,2015,RightFoot,307,Watford,Newcastle United,2,1,2016-01-23 19:00:00,Georginio Wijnaldum,Pass,773
+52446,47,MissedShots,0.9269999694824219,0.6509999847412109,0.05415249988436699,Aleksandar Mitrovic,a,773,SetPiece,2015,LeftFoot,307,Watford,Newcastle United,2,1,2016-01-23 19:00:00,Jonjo Shelvey,Pass,773
+52458,90,MissedShots,0.909000015258789,0.5479999923706055,0.06566160172224045,Aleksandar Mitrovic,a,773,FromCorner,2015,Head,307,Watford,Newcastle United,2,1,2016-01-23 19:00:00,Jonjo Shelvey,Cross,773
+55481,65,MissedShots,0.92,0.52,0.3977690041065216,Aleksandar Mitrovic,a,773,OpenPlay,2015,RightFoot,319,Everton,Newcastle United,3,0,2016-02-03 23:45:00,Moussa Sissoko,Cross,773
+52922,5,SavedShot,0.9590000152587891,0.42900001525878906,0.5260189771652222,Aleksandar Mitrovic,h,773,FromCorner,2015,LeftFoot,322,Newcastle United,West Bromwich Albion,1,0,2016-02-06 19:00:00,,None,773
+52926,31,Goal,0.79,0.5520000076293945,0.3021570146083832,Aleksandar Mitrovic,h,773,OpenPlay,2015,RightFoot,322,Newcastle United,West Bromwich Albion,1,0,2016-02-06 19:00:00,Jonjo Shelvey,Throughball,773
+52937,66,SavedShot,0.8859999847412109,0.544000015258789,0.06143999844789505,Aleksandar Mitrovic,h,773,OpenPlay,2015,Head,322,Newcastle United,West Bromwich Albion,1,0,2016-02-06 19:00:00,Rolando Aarons,Cross,773
+54973,51,BlockedShot,0.9119999694824219,0.42900001525878906,0.07955329865217209,Aleksandar Mitrovic,a,773,OpenPlay,2015,RightFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Andros Townsend,Cross,773
+54976,57,MissedShots,0.879000015258789,0.34200000762939453,0.02343060076236725,Aleksandar Mitrovic,a,773,OpenPlay,2015,RightFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,,Aerial,773
+59515,4,BlockedShot,0.8630000305175781,0.455,0.06169300153851509,Aleksandar Mitrovic,a,773,OpenPlay,2015,LeftFoot,356,Stoke,Newcastle United,1,0,2016-03-02 23:45:00,Moussa Sissoko,Cross,773
+59519,20,SavedShot,0.875,0.6279999923706054,0.027736999094486237,Aleksandar Mitrovic,a,773,SetPiece,2015,Head,356,Stoke,Newcastle United,1,0,2016-03-02 23:45:00,Jonjo Shelvey,Chipped,773
+60046,60,MissedShots,0.769000015258789,0.534000015258789,0.026266999542713165,Aleksandar Mitrovic,h,773,OpenPlay,2015,RightFoot,365,Newcastle United,Bournemouth,1,3,2016-03-05 19:00:00,Jack Colback,Pass,773
+60049,66,BlockedShot,0.8959999847412109,0.39099998474121095,0.05344739928841591,Aleksandar Mitrovic,h,773,OpenPlay,2015,LeftFoot,365,Newcastle United,Bournemouth,1,3,2016-03-05 19:00:00,Ayoze Pérez,TakeOn,773
+60942,3,BlockedShot,0.8630000305175781,0.6140000152587891,0.03954249992966652,Aleksandar Mitrovic,a,773,OpenPlay,2015,RightFoot,373,Leicester,Newcastle United,1,0,2016-03-14 00:00:00,Moussa Sissoko,Cross,773
+60955,54,SavedShot,0.8280000305175781,0.5879999923706055,0.007132609840482473,Aleksandar Mitrovic,a,773,OpenPlay,2015,Head,373,Leicester,Newcastle United,1,0,2016-03-14 00:00:00,Daryl Janmaat,Aerial,773
+60962,82,BlockedShot,0.8830000305175781,0.5379999923706055,0.022898400202393532,Aleksandar Mitrovic,a,773,OpenPlay,2015,Head,373,Leicester,Newcastle United,1,0,2016-03-14 00:00:00,Andros Townsend,Aerial,773
+60385,7,MissedShots,0.9030000305175782,0.4209999847412109,0.08457739651203156,Aleksandar Mitrovic,h,773,OpenPlay,2015,RightFoot,381,Newcastle United,Sunderland,1,1,2016-03-20 17:30:00,Andros Townsend,Cross,773
+60399,47,MissedShots,0.9069999694824219,0.445,0.05819670110940933,Aleksandar Mitrovic,h,773,FromCorner,2015,Head,381,Newcastle United,Sunderland,1,1,2016-03-20 17:30:00,Andros Townsend,Cross,773
+60401,52,SavedShot,0.909000015258789,0.5929999923706055,0.05302120000123978,Aleksandar Mitrovic,h,773,OpenPlay,2015,Head,381,Newcastle United,Sunderland,1,1,2016-03-20 17:30:00,Moussa Sissoko,Cross,773
+60423,82,Goal,0.965999984741211,0.5790000152587891,0.04425720125436783,Aleksandar Mitrovic,h,773,OpenPlay,2015,Head,381,Newcastle United,Sunderland,1,1,2016-03-20 17:30:00,Georginio Wijnaldum,Aerial,773
+60013,66,SavedShot,0.8590000152587891,0.46,0.06114659830927849,Aleksandar Mitrovic,a,773,OpenPlay,2015,LeftFoot,387,Norwich,Newcastle United,3,2,2016-04-02 18:00:00,Moussa Sissoko,Cross,773
+60014,70,Goal,0.889000015258789,0.47099998474121096,0.06353510171175003,Aleksandar Mitrovic,a,773,OpenPlay,2015,Head,387,Norwich,Newcastle United,3,2,2016-04-02 18:00:00,Andros Townsend,Cross,773
+60018,76,MissedShots,0.9569999694824218,0.3820000076293945,0.045378800481557846,Aleksandar Mitrovic,a,773,OpenPlay,2015,Head,387,Norwich,Newcastle United,3,2,2016-04-02 18:00:00,Jonjo Shelvey,Cross,773
+60024,79,MissedShots,0.9469999694824218,0.45299999237060545,0.09778939932584763,Aleksandar Mitrovic,a,773,OpenPlay,2015,Head,387,Norwich,Newcastle United,3,2,2016-04-02 18:00:00,Moussa Sissoko,Cross,773
+60026,85,Goal,0.885,0.5,0.7611690163612366,Aleksandar Mitrovic,a,773,Penalty,2015,RightFoot,387,Norwich,Newcastle United,3,2,2016-04-02 18:00:00,,Standard,773
+60029,88,MissedShots,0.935,0.56,0.1270740032196045,Aleksandar Mitrovic,a,773,OpenPlay,2015,Head,387,Norwich,Newcastle United,3,2,2016-04-02 18:00:00,Georginio Wijnaldum,Cross,773
+56683,81,BlockedShot,0.9009999847412109,0.5059999847412109,0.0654158964753151,Aleksandar Mitrovic,h,773,FromCorner,2015,Head,408,Newcastle United,Swansea,3,0,2016-04-16 18:00:00,Andros Townsend,Cross,773
+56689,93,MissedShots,0.8530000305175781,0.5940000152587891,0.1342560052871704,Aleksandar Mitrovic,h,773,OpenPlay,2015,LeftFoot,408,Newcastle United,Swansea,3,0,2016-04-16 18:00:00,Ayoze Pérez,Throughball,773
+57617,60,MissedShots,0.8880000305175781,0.47099998474121096,0.3917419910430908,Aleksandar Mitrovic,a,773,SetPiece,2015,RightFoot,440,Aston Villa,Newcastle United,0,0,2016-05-07 18:00:00,Cheick Tioté,Pass,773
+57619,73,MissedShots,0.9180000305175782,0.4420000076293945,0.11288599669933319,Aleksandar Mitrovic,a,773,OpenPlay,2015,Head,440,Aston Villa,Newcastle United,0,0,2016-05-07 18:00:00,Jack Colback,Cross,773
+57620,82,MissedShots,0.9369999694824219,0.5420000076293945,0.13385100662708282,Aleksandar Mitrovic,a,773,OpenPlay,2015,Head,440,Aston Villa,Newcastle United,0,0,2016-05-07 18:00:00,Chancel Mbemba,Cross,773
+52074,7,SavedShot,0.9069999694824219,0.5109999847412109,0.04229059815406799,Aleksandar Mitrovic,h,773,OpenPlay,2015,Head,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,,Rebound,773
+52075,9,BlockedShot,0.845999984741211,0.625999984741211,0.06737550348043442,Aleksandar Mitrovic,h,773,OpenPlay,2015,RightFoot,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,Andros Townsend,Pass,773
+52078,17,BlockedShot,0.7769999694824219,0.40900001525878904,0.02660910040140152,Aleksandar Mitrovic,h,773,OpenPlay,2015,RightFoot,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,Andros Townsend,Pass,773
+52081,31,SavedShot,0.7969999694824219,0.5329999923706055,0.047229599207639694,Aleksandar Mitrovic,h,773,OpenPlay,2015,RightFoot,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,Andros Townsend,Chipped,773
+52085,38,Goal,0.8830000305175781,0.529000015258789,0.074522003531456,Aleksandar Mitrovic,h,773,OpenPlay,2015,Head,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,Moussa Sissoko,Cross,773
+52091,62,BlockedShot,0.865999984741211,0.7659999847412109,0.017346400767564774,Aleksandar Mitrovic,h,773,SetPiece,2015,LeftFoot,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,,None,773
+158806,75,MissedShots,0.95,0.5940000152587891,0.03713199868798256,Aleksandar Mitrovic,h,773,OpenPlay,2017,Head,7142,Newcastle United,West Ham,3,0,2017-08-26 15:00:00,Isaac Hayden,Aerial,773
+158808,84,SavedShot,0.8880000305175781,0.3770000076293945,0.2847070097923279,Aleksandar Mitrovic,h,773,OpenPlay,2017,RightFoot,7142,Newcastle United,West Ham,3,0,2017-08-26 15:00:00,Mikel Merino,Pass,773
+158809,85,Goal,0.9130000305175782,0.5129999923706055,0.8193230032920837,Aleksandar Mitrovic,h,773,OpenPlay,2017,LeftFoot,7142,Newcastle United,West Ham,3,0,2017-08-26 15:00:00,Ayoze Pérez,TakeOn,773
+161456,85,BlockedShot,0.9180000305175782,0.4490000152587891,0.0842226967215538,Aleksandar Mitrovic,h,773,OpenPlay,2017,RightFoot,7242,Newcastle United,Watford,0,3,2017-11-25 15:00:00,Mikel Merino,Chipped,773
+232742,2,BlockedShot,0.7969999694824219,0.655,0.03396359831094742,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9201,Fulham,Crystal Palace,0,2,2018-08-11 17:00:00,Jean Michael Seri,TakeOn,773
+232746,12,MissedShots,0.92,0.4229999923706055,0.019255200400948524,Aleksandar Mitrovic,h,773,FromCorner,2018,Head,9201,Fulham,Crystal Palace,0,2,2018-08-11 17:00:00,Ryan Sessegnon,Aerial,773
+232745,12,SavedShot,0.870999984741211,0.41200000762939454,0.09845980256795883,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9201,Fulham,Crystal Palace,0,2,2018-08-11 17:00:00,André Schürrle,Pass,773
+232748,17,BlockedShot,0.7609999847412109,0.629000015258789,0.06048699840903282,Aleksandar Mitrovic,h,773,DirectFreekick,2018,RightFoot,9201,Fulham,Crystal Palace,0,2,2018-08-11 17:00:00,,Standard,773
+232749,17,MissedShots,0.764000015258789,0.5279999923706055,0.017601599916815758,Aleksandar Mitrovic,h,773,SetPiece,2018,RightFoot,9201,Fulham,Crystal Palace,0,2,2018-08-11 17:00:00,,Rebound,773
+232752,37,SavedShot,0.8090000152587891,0.3220000076293945,0.02750379964709282,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9201,Fulham,Crystal Palace,0,2,2018-08-11 17:00:00,,None,773
+232759,63,SavedShot,0.925,0.5270000076293946,0.10833500325679779,Aleksandar Mitrovic,h,773,OpenPlay,2018,Head,9201,Fulham,Crystal Palace,0,2,2018-08-11 17:00:00,Joe Bryan,Cross,773
+233149,28,MissedShots,0.9180000305175782,0.48200000762939454,0.06120439991354942,Aleksandar Mitrovic,a,773,OpenPlay,2018,Head,9209,Tottenham,Fulham,3,1,2018-08-18 17:00:00,Joe Bryan,Aerial,773
+233157,47,ShotOnPost,0.8159999847412109,0.38,0.04448720067739487,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9209,Tottenham,Fulham,3,1,2018-08-18 17:00:00,Aboubakar Kamara,Pass,773
+233161,51,Goal,0.965999984741211,0.5320000076293945,0.5339310169219971,Aleksandar Mitrovic,a,773,OpenPlay,2018,Head,9209,Tottenham,Fulham,3,1,2018-08-18 17:00:00,Ryan Sessegnon,Pass,773
+233165,66,MissedShots,0.855,0.5220000076293946,0.3464919924736023,Aleksandar Mitrovic,a,773,OpenPlay,2018,LeftFoot,9209,Tottenham,Fulham,3,1,2018-08-18 17:00:00,Aboubakar Kamara,Pass,773
+233265,35,Goal,0.9769999694824218,0.44299999237060544,0.40679100155830383,Aleksandar Mitrovic,h,773,FromCorner,2018,Head,9220,Fulham,Burnley,4,2,2018-08-26 17:00:00,Tom Cairney,Chipped,773
+233268,37,Goal,0.9030000305175782,0.5279999923706055,0.4379200041294098,Aleksandar Mitrovic,h,773,OpenPlay,2018,Head,9220,Fulham,Burnley,4,2,2018-08-26 17:00:00,Luciano Vietto,Aerial,773
+233273,47,MissedShots,0.905,0.545,0.10916800051927567,Aleksandar Mitrovic,h,773,OpenPlay,2018,Head,9220,Fulham,Burnley,4,2,2018-08-26 17:00:00,Luciano Vietto,Cross,773
+233288,82,SavedShot,0.8159999847412109,0.355,0.045645199716091156,Aleksandar Mitrovic,h,773,OpenPlay,2018,LeftFoot,9220,Fulham,Burnley,4,2,2018-08-26 17:00:00,Franck Zambo,Pass,773
+233470,15,MissedShots,0.9,0.5179999923706055,0.08254150301218033,Aleksandar Mitrovic,a,773,OpenPlay,2018,Head,9233,Brighton,Fulham,2,2,2018-09-01 14:00:00,André Schürrle,Cross,773
+233481,61,Goal,0.895,0.415,0.3833320140838623,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9233,Brighton,Fulham,2,2,2018-09-01 14:00:00,,None,773
+233480,61,SavedShot,0.895,0.35200000762939454,0.08028779923915863,Aleksandar Mitrovic,a,773,OpenPlay,2018,LeftFoot,9233,Brighton,Fulham,2,2,2018-09-01 14:00:00,,None,773
+233845,27,MissedShots,0.915,0.685,0.054945699870586395,Aleksandar Mitrovic,a,773,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Ryan Sessegnon,BallTouch,773
+233871,92,SavedShot,0.7909999847412109,0.5720000076293945,0.03562749922275543,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Ryan Sessegnon,Pass,773
+234127,24,BlockedShot,0.8580000305175781,0.54,0.11212199926376343,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9247,Fulham,Watford,1,1,2018-09-22 11:30:00,Timothy Fosu-Mensah,Throughball,773
+234130,48,MissedShots,0.9159999847412109,0.5070000076293946,0.27329498529434204,Aleksandar Mitrovic,h,773,OpenPlay,2018,Head,9247,Fulham,Watford,1,1,2018-09-22 11:30:00,André Schürrle,Aerial,773
+234133,60,BlockedShot,0.9230000305175782,0.580999984741211,0.034821100533008575,Aleksandar Mitrovic,h,773,OpenPlay,2018,Head,9247,Fulham,Watford,1,1,2018-09-22 11:30:00,Timothy Fosu-Mensah,Aerial,773
+234135,62,BlockedShot,0.8019999694824219,0.5720000076293945,0.017051100730895996,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9247,Fulham,Watford,1,1,2018-09-22 11:30:00,André Schürrle,Aerial,773
+234137,65,MissedShots,0.9009999847412109,0.4779999923706055,0.06289850175380707,Aleksandar Mitrovic,h,773,FromCorner,2018,Head,9247,Fulham,Watford,1,1,2018-09-22 11:30:00,Jean Michael Seri,Cross,773
+234142,77,Goal,0.97,0.55,0.6335440278053284,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9247,Fulham,Watford,1,1,2018-09-22 11:30:00,Luciano Vietto,Pass,773
+234144,88,SavedShot,0.8130000305175781,0.3029999923706055,0.027573099359869957,Aleksandar Mitrovic,h,773,OpenPlay,2018,LeftFoot,9247,Fulham,Watford,1,1,2018-09-22 11:30:00,Luciano Vietto,Pass,773
+234145,89,ShotOnPost,0.9430000305175781,0.41200000762939454,0.06775069981813431,Aleksandar Mitrovic,h,773,FromCorner,2018,Head,9247,Fulham,Watford,1,1,2018-09-22 11:30:00,Jean Michael Seri,Cross,773
+234335,10,MissedShots,0.730999984741211,0.509000015258789,0.01817600056529045,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9262,Everton,Fulham,3,0,2018-09-29 14:00:00,André Schürrle,Pass,773
+234343,46,MissedShots,0.850999984741211,0.43400001525878906,0.08958029747009277,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9262,Everton,Fulham,3,0,2018-09-29 14:00:00,André Schürrle,Pass,773
+234344,49,MissedShots,0.7319999694824219,0.40700000762939453,0.016913199797272682,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9262,Everton,Fulham,3,0,2018-09-29 14:00:00,Luciano Vietto,Pass,773
+249141,6,BlockedShot,0.894000015258789,0.4640000152587891,0.12308300286531448,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9274,Fulham,Arsenal,1,5,2018-10-07 11:00:00,Luciano Vietto,Pass,773
+249144,17,MissedShots,0.8809999847412109,0.7019999694824218,0.036940399557352066,Aleksandar Mitrovic,h,773,SetPiece,2018,RightFoot,9274,Fulham,Arsenal,1,5,2018-10-07 11:00:00,,None,773
+249163,72,SavedShot,0.89,0.5209999847412109,0.04229550063610077,Aleksandar Mitrovic,h,773,OpenPlay,2018,Head,9274,Fulham,Arsenal,1,5,2018-10-07 11:00:00,Cyrus Christie,Aerial,773
+249516,63,MissedShots,0.9030000305175782,0.54,0.03162119910120964,Aleksandar Mitrovic,h,773,OpenPlay,2018,Head,9289,Fulham,Bournemouth,0,3,2018-10-27 14:00:00,Timothy Fosu-Mensah,Aerial,773
+249519,79,MissedShots,0.7859999847412109,0.325,0.023705000057816505,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9289,Fulham,Bournemouth,0,3,2018-10-27 14:00:00,Denis Odoi,Pass,773
+249984,46,BlockedShot,0.904000015258789,0.46099998474121096,0.07124210149049759,Aleksandar Mitrovic,a,773,FromCorner,2018,RightFoot,9306,Huddersfield,Fulham,1,0,2018-11-05 20:00:00,Jean Michael Seri,Cross,773
+249987,53,MissedShots,0.905,0.5729999923706055,0.04482259973883629,Aleksandar Mitrovic,a,773,FromCorner,2018,Head,9306,Huddersfield,Fulham,1,0,2018-11-05 20:00:00,Jean Michael Seri,Cross,773
+249986,53,BlockedShot,0.8969999694824219,0.45,0.016609199345111847,Aleksandar Mitrovic,a,773,FromCorner,2018,Head,9306,Huddersfield,Fulham,1,0,2018-11-05 20:00:00,Jean Michael Seri,Aerial,773
+249989,70,BlockedShot,0.8340000152587891,0.37099998474121093,0.05213819816708565,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9306,Huddersfield,Fulham,1,0,2018-11-05 20:00:00,Stefan Johansen,Pass,773
+249993,85,BlockedShot,0.8959999847412109,0.47,0.028250200673937798,Aleksandar Mitrovic,a,773,FromCorner,2018,Head,9306,Huddersfield,Fulham,1,0,2018-11-05 20:00:00,Jean Michael Seri,Challenge,773
+250173,42,SavedShot,0.885,0.6,0.13117200136184692,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9313,Liverpool,Fulham,2,0,2018-11-11 12:00:00,Tom Cairney,Pass,773
+250183,84,MissedShots,0.7619999694824219,0.505,0.026333000510931015,Aleksandar Mitrovic,a,773,OpenPlay,2018,LeftFoot,9313,Liverpool,Fulham,2,0,2018-11-11 12:00:00,Cyrus Christie,Pass,773
+250318,32,Goal,0.9419999694824219,0.534000015258789,0.47420600056648254,Aleksandar Mitrovic,h,773,OpenPlay,2018,Head,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Maxime Le Marchand,Cross,773
+250324,50,SavedShot,0.875,0.47900001525878905,0.14986799657344818,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,André Schürrle,Pass,773
+250329,62,Goal,0.9080000305175782,0.5520000076293945,0.0962044969201088,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Ryan Sessegnon,HeadPass,773
+250330,66,BlockedShot,0.8719999694824219,0.5479999923706055,0.1250700056552887,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Tom Cairney,Pass,773
+250695,78,MissedShots,0.6880000305175781,0.7030000305175781,0.008890620432794094,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9334,Chelsea,Fulham,2,0,2018-12-02 12:00:00,Alfie Mawson,HeadPass,773
+250863,7,SavedShot,0.7630000305175781,0.40700000762939453,0.0680387020111084,Aleksandar Mitrovic,h,773,DirectFreekick,2018,RightFoot,9342,Fulham,Leicester,1,1,2018-12-05 19:45:00,,Standard,773
+250865,10,SavedShot,0.855999984741211,0.500999984741211,0.07324930280447006,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9342,Fulham,Leicester,1,1,2018-12-05 19:45:00,Maxime Le Marchand,Rebound,773
+250874,33,MissedShots,0.899000015258789,0.51,0.0617096982896328,Aleksandar Mitrovic,h,773,FromCorner,2018,Head,9342,Fulham,Leicester,1,1,2018-12-05 19:45:00,Jean Michael Seri,Cross,773
+250892,84,MissedShots,0.885,0.3940000152587891,0.015930000692605972,Aleksandar Mitrovic,h,773,FromCorner,2018,Head,9342,Fulham,Leicester,1,1,2018-12-05 19:45:00,Ryan Sessegnon,Cross,773
+250898,92,BlockedShot,0.899000015258789,0.625999984741211,0.04342389851808548,Aleksandar Mitrovic,h,773,FromCorner,2018,LeftFoot,9342,Fulham,Leicester,1,1,2018-12-05 19:45:00,Jean Michael Seri,Cross,773
+251046,10,BlockedShot,0.915,0.37099998474121093,0.011743700131773949,Aleksandar Mitrovic,a,773,FromCorner,2018,Head,9349,Manchester United,Fulham,4,1,2018-12-08 15:00:00,Ryan Sessegnon,Aerial,773
+251050,19,SavedShot,0.8030000305175782,0.6519999694824219,0.030862899497151375,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9349,Manchester United,Fulham,4,1,2018-12-08 15:00:00,Tom Cairney,TakeOn,773
+251380,25,MissedShots,0.9459999847412109,0.37099998474121093,0.1531679928302765,Aleksandar Mitrovic,h,773,OpenPlay,2018,Head,9364,Fulham,West Ham,0,2,2018-12-15 17:30:00,Joe Bryan,Chipped,773
+251385,32,SavedShot,0.8009999847412109,0.29100000381469726,0.021609600633382797,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9364,Fulham,West Ham,0,2,2018-12-15 17:30:00,Aboubakar Kamara,Pass,773
+251387,39,MissedShots,0.889000015258789,0.4209999847412109,0.012729300186038017,Aleksandar Mitrovic,h,773,SetPiece,2018,Head,9364,Fulham,West Ham,0,2,2018-12-15 17:30:00,Jean Michael Seri,Aerial,773
+251393,59,BlockedShot,0.92,0.495,0.10173200070858002,Aleksandar Mitrovic,h,773,FromCorner,2018,Head,9364,Fulham,West Ham,0,2,2018-12-15 17:30:00,Jean Michael Seri,Cross,773
+251554,2,SavedShot,0.8969999694824219,0.7280000305175781,0.03436800092458725,Aleksandar Mitrovic,a,773,OpenPlay,2018,LeftFoot,9369,Newcastle United,Fulham,0,0,2018-12-22 15:00:00,Joe Bryan,Pass,773
+251566,87,BlockedShot,0.8959999847412109,0.5179999923706055,0.1306840032339096,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9369,Newcastle United,Fulham,0,0,2018-12-22 15:00:00,Aboubakar Kamara,Pass,773
+251723,9,BlockedShot,0.86,0.5129999923706055,0.04646119847893715,Aleksandar Mitrovic,h,773,FromCorner,2018,RightFoot,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,André Schürrle,Cross,773
+251724,9,MissedShots,0.9569999694824218,0.47200000762939454,0.07771019637584686,Aleksandar Mitrovic,h,773,FromCorner,2018,Head,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,André Schürrle,Aerial,773
+251726,16,MissedShots,0.8880000305175781,0.3509999847412109,0.07882539927959442,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,André Schürrle,Pass,773
+251727,25,SavedShot,0.9490000152587891,0.5920000076293945,0.04954120144248009,Aleksandar Mitrovic,h,773,OpenPlay,2018,Head,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,Cyrus Christie,Aerial,773
+251730,30,MissedShots,0.730999984741211,0.5129999923706055,0.020304299890995026,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,Sergio Rico,Pass,773
+251732,39,SavedShot,0.8930000305175781,0.53,0.358271986246109,Aleksandar Mitrovic,h,773,OpenPlay,2018,LeftFoot,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,,TakeOn,773
+251733,42,MissedShots,0.7780000305175782,0.6079999923706054,0.028046399354934692,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,Joe Bryan,Pass,773
+251744,89,BlockedShot,0.8780000305175781,0.629000015258789,0.05616540089249611,Aleksandar Mitrovic,h,773,OpenPlay,2018,LeftFoot,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,Sergio Rico,Pass,773
+263611,20,MissedShots,0.924000015258789,0.5120000076293946,0.051491398364305496,Aleksandar Mitrovic,h,773,FromCorner,2018,Head,9393,Fulham,Huddersfield,1,0,2018-12-29 15:00:00,Jean Michael Seri,Aerial,773
+263612,27,MissedShots,0.9,0.52,0.02088329941034317,Aleksandar Mitrovic,h,773,FromCorner,2018,Head,9393,Fulham,Huddersfield,1,0,2018-12-29 15:00:00,Jean Michael Seri,Aerial,773
+263619,61,SavedShot,0.9030000305175782,0.5309999847412109,0.28253600001335144,Aleksandar Mitrovic,h,773,OpenPlay,2018,Head,9393,Fulham,Huddersfield,1,0,2018-12-29 15:00:00,Joe Bryan,Cross,773
+263624,84,MissedShots,0.9259999847412109,0.5479999923706055,0.047088101506233215,Aleksandar Mitrovic,h,773,OpenPlay,2018,Head,9393,Fulham,Huddersfield,1,0,2018-12-29 15:00:00,Ryan Sessegnon,Rebound,773
+263627,90,Goal,0.8580000305175781,0.395,0.10540799796581268,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9393,Fulham,Huddersfield,1,0,2018-12-29 15:00:00,Ryan Sessegnon,Pass,773
+274146,31,SavedShot,0.9390000152587891,0.47200000762939454,0.40237200260162354,Aleksandar Mitrovic,a,773,OpenPlay,2018,Head,9406,Arsenal,Fulham,4,1,2019-01-01 15:00:00,Joe Bryan,Aerial,773
+274153,46,SavedShot,0.9,0.5220000076293946,0.0612758994102478,Aleksandar Mitrovic,a,773,FromCorner,2018,Head,9406,Arsenal,Fulham,4,1,2019-01-01 15:00:00,Ryan Sessegnon,Cross,773
+274158,68,SavedShot,0.9030000305175782,0.515,0.261817991733551,Aleksandar Mitrovic,a,773,OpenPlay,2018,Head,9406,Arsenal,Fulham,4,1,2019-01-01 15:00:00,Jean Michael Seri,Cross,773
+274450,60,MissedShots,0.909000015258789,0.5179999923706055,0.038626499474048615,Aleksandar Mitrovic,a,773,OpenPlay,2018,Head,9415,Burnley,Fulham,2,1,2019-01-12 15:00:00,Joe Bryan,Aerial,773
+274842,42,BlockedShot,0.785,0.6469999694824219,0.01934720017015934,Aleksandar Mitrovic,h,773,OpenPlay,2018,LeftFoot,9424,Fulham,Tottenham,1,2,2019-01-20 16:00:00,Tim Ream,Aerial,773
+274846,46,BlockedShot,0.7559999847412109,0.5029999923706054,0.03647499904036522,Aleksandar Mitrovic,h,773,OpenPlay,2018,LeftFoot,9424,Fulham,Tottenham,1,2,2019-01-20 16:00:00,Tim Ream,Chipped,773
+274900,32,BlockedShot,0.8119999694824219,0.4520000076293945,0.06461810320615768,Aleksandar Mitrovic,h,773,OpenPlay,2018,LeftFoot,9429,Fulham,Brighton,4,2,2019-01-29 19:45:00,Jean Michael Seri,Pass,773
+274915,57,Goal,0.9469999694824218,0.5070000076293946,0.08660410344600677,Aleksandar Mitrovic,h,773,FromCorner,2018,Head,9429,Fulham,Brighton,4,2,2019-01-29 19:45:00,,None,773
+274919,73,Goal,0.915,0.4879999923706055,0.39490601420402527,Aleksandar Mitrovic,h,773,OpenPlay,2018,Head,9429,Fulham,Brighton,4,2,2019-01-29 19:45:00,Joe Bryan,Aerial,773
+274920,76,SavedShot,0.740999984741211,0.4929999923706055,0.026434699073433876,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9429,Fulham,Brighton,4,2,2019-01-29 19:45:00,,None,773
+274930,93,MissedShots,0.9619999694824218,0.585,0.6504330039024353,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9429,Fulham,Brighton,4,2,2019-01-29 19:45:00,,TakeOn,773
+275250,10,MissedShots,0.925,0.5459999847412109,0.35666999220848083,Aleksandar Mitrovic,a,773,OpenPlay,2018,Head,9442,Crystal Palace,Fulham,2,0,2019-02-02 15:00:00,Joe Bryan,Cross,773
+275254,43,MissedShots,0.924000015258789,0.49900001525878906,0.052282799035310745,Aleksandar Mitrovic,a,773,OpenPlay,2018,Head,9442,Crystal Palace,Fulham,2,0,2019-02-02 15:00:00,Jean Michael Seri,Aerial,773
+275266,75,MissedShots,0.7709999847412109,0.48700000762939455,0.02748730033636093,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9442,Crystal Palace,Fulham,2,0,2019-02-02 15:00:00,Jean Michael Seri,Pass,773
+275390,3,MissedShots,0.9680000305175781,0.46700000762939453,0.6597890257835388,Aleksandar Mitrovic,h,773,OpenPlay,2018,Head,9447,Fulham,Manchester United,0,3,2019-02-09 12:30:00,Joe Bryan,Aerial,773
+275409,57,BlockedShot,0.92,0.49,0.08714090287685394,Aleksandar Mitrovic,h,773,FromCorner,2018,LeftFoot,9447,Fulham,Manchester United,0,3,2019-02-09 12:30:00,Jean Michael Seri,BallTouch,773
+275414,72,SavedShot,0.9009999847412109,0.5159999847412109,0.08920890092849731,Aleksandar Mitrovic,h,773,OpenPlay,2018,Head,9447,Fulham,Manchester United,0,3,2019-02-09 12:30:00,Cyrus Christie,Cross,773
+275659,1,MissedShots,0.8190000152587891,0.5670000076293945,0.05737119913101196,Aleksandar Mitrovic,a,773,OpenPlay,2018,LeftFoot,9457,West Ham,Fulham,3,1,2019-02-22 19:45:00,Jean Michael Seri,Pass,773
+275679,83,BlockedShot,0.8619999694824219,0.4779999923706055,0.08384700119495392,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9457,West Ham,Fulham,3,1,2019-02-22 19:45:00,Tom Cairney,Pass,773
+275991,13,SavedShot,0.8380000305175781,0.485,0.02116280049085617,Aleksandar Mitrovic,a,773,OpenPlay,2018,Head,9472,Southampton,Fulham,2,0,2019-02-27 19:45:00,Denis Odoi,Chipped,773
+276000,38,MissedShots,0.9459999847412109,0.7069999694824218,0.25021499395370483,Aleksandar Mitrovic,a,773,OpenPlay,2018,LeftFoot,9472,Southampton,Fulham,2,0,2019-02-27 19:45:00,Calum Chambers,Chipped,773
+276005,45,MissedShots,0.9169999694824219,0.68,0.044672999531030655,Aleksandar Mitrovic,a,773,OpenPlay,2018,LeftFoot,9472,Southampton,Fulham,2,0,2019-02-27 19:45:00,Håvard Nordtveit,Chipped,773
+276312,26,SavedShot,0.8930000305175781,0.5259999847412109,0.08166400343179703,Aleksandar Mitrovic,h,773,OpenPlay,2018,LeftFoot,9482,Fulham,Chelsea,1,2,2019-03-03 14:05:00,,None,773
+276326,59,MissedShots,0.7880000305175782,0.505,0.03439690172672272,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9482,Fulham,Chelsea,1,2,2019-03-03 14:05:00,,TakeOn,773
+276329,67,MissedShots,0.9330000305175781,0.46,0.057617101818323135,Aleksandar Mitrovic,h,773,FromCorner,2018,Head,9482,Fulham,Chelsea,1,2,2019-03-03 14:05:00,Tom Cairney,Aerial,773
+276334,87,SavedShot,0.885,0.5329999923706055,0.23012399673461914,Aleksandar Mitrovic,h,773,OpenPlay,2018,Head,9482,Fulham,Chelsea,1,2,2019-03-03 14:05:00,Floyd Ayité,Chipped,773
+284478,61,BlockedShot,0.7140000152587891,0.524000015258789,0.009365299716591835,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9491,Leicester,Fulham,3,1,2019-03-09 15:00:00,Floyd Ayité,Chipped,773
+284481,67,SavedShot,0.8669999694824219,0.5609999847412109,0.02497510053217411,Aleksandar Mitrovic,a,773,OpenPlay,2018,Head,9491,Leicester,Fulham,3,1,2019-03-09 15:00:00,Joe Bryan,Cross,773
+291029,7,MissedShots,0.905,0.51,0.11012999713420868,Aleksandar Mitrovic,a,773,OpenPlay,2018,Head,9518,Watford,Fulham,4,1,2019-04-02 19:45:00,Tom Cairney,Cross,773
+291031,21,SavedShot,0.8080000305175781,0.5179999923706055,0.05916909873485565,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9518,Watford,Fulham,4,1,2019-04-02 19:45:00,Franck Zambo,Pass,773
+291036,36,MissedShots,0.8880000305175781,0.5870000076293945,0.09125140309333801,Aleksandar Mitrovic,a,773,OpenPlay,2018,LeftFoot,9518,Watford,Fulham,4,1,2019-04-02 19:45:00,Joe Bryan,BallTouch,773
+291040,39,MissedShots,0.8669999694824219,0.28899999618530275,0.06338190287351608,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9518,Watford,Fulham,4,1,2019-04-02 19:45:00,Ryan Sessegnon,Pass,773
+291046,66,SavedShot,0.875999984741211,0.5070000076293946,0.02750919945538044,Aleksandar Mitrovic,a,773,OpenPlay,2018,Head,9518,Watford,Fulham,4,1,2019-04-02 19:45:00,,Aerial,773
+291053,78,BlockedShot,0.8480000305175781,0.435,0.04561129957437515,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9518,Watford,Fulham,4,1,2019-04-02 19:45:00,Maxime Le Marchand,Chipped,773
+291055,79,BlockedShot,0.965,0.5570000076293945,0.07173720002174377,Aleksandar Mitrovic,a,773,FromCorner,2018,Head,9518,Watford,Fulham,4,1,2019-04-02 19:45:00,Joe Bryan,Aerial,773
+291056,82,BlockedShot,0.9590000152587891,0.38,0.03604859858751297,Aleksandar Mitrovic,a,773,OpenPlay,2018,Head,9518,Watford,Fulham,4,1,2019-04-02 19:45:00,Franck Zambo,Aerial,773
+291059,90,SavedShot,0.9390000152587891,0.5940000152587891,0.23862400650978088,Aleksandar Mitrovic,a,773,SetPiece,2018,Head,9518,Watford,Fulham,4,1,2019-04-02 19:45:00,Jean Michael Seri,Chipped,773
+293573,2,MissedShots,0.674000015258789,0.645,0.008289589546620846,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9533,Fulham,Everton,2,0,2019-04-13 15:00:00,Franck Zambo,TakeOn,773
+293574,4,SavedShot,0.795,0.7469999694824219,0.021197199821472168,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9533,Fulham,Everton,2,0,2019-04-13 15:00:00,Joe Bryan,Pass,773
+293575,11,SavedShot,0.8919999694824219,0.6370000076293946,0.0848890021443367,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9533,Fulham,Everton,2,0,2019-04-13 15:00:00,Tom Cairney,Pass,773
+293578,20,SavedShot,0.9330000305175781,0.4909999847412109,0.06243709847331047,Aleksandar Mitrovic,h,773,FromCorner,2018,Head,9533,Fulham,Everton,2,0,2019-04-13 15:00:00,Ryan Babel,Aerial,773
+293579,21,MissedShots,0.925,0.505,0.11051999777555466,Aleksandar Mitrovic,h,773,FromCorner,2018,Head,9533,Fulham,Everton,2,0,2019-04-13 15:00:00,Ryan Babel,Cross,773
+293581,36,MissedShots,0.8340000152587891,0.5790000152587891,0.05752529948949814,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9533,Fulham,Everton,2,0,2019-04-13 15:00:00,Timothy Fosu-Mensah,Chipped,773
+293582,41,ShotOnPost,0.8780000305175781,0.6840000152587891,0.04791479930281639,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9533,Fulham,Everton,2,0,2019-04-13 15:00:00,Calum Chambers,Pass,773
+295311,16,MissedShots,0.9369999694824219,0.5609999847412109,0.5078979730606079,Aleksandar Mitrovic,a,773,FromCorner,2018,LeftFoot,9545,Bournemouth,Fulham,0,1,2019-04-20 15:00:00,,None,773
+295322,52,Goal,0.885,0.5,0.7611690163612366,Aleksandar Mitrovic,a,773,Penalty,2018,RightFoot,9545,Bournemouth,Fulham,0,1,2019-04-20 15:00:00,,Standard,773
+295330,74,BlockedShot,0.8130000305175781,0.5220000076293946,0.06849980354309082,Aleksandar Mitrovic,a,773,OpenPlay,2018,LeftFoot,9545,Bournemouth,Fulham,0,1,2019-04-20 15:00:00,Ryan Babel,Pass,773
+295331,75,MissedShots,0.9169999694824219,0.44,0.024492599070072174,Aleksandar Mitrovic,a,773,FromCorner,2018,Head,9545,Bournemouth,Fulham,0,1,2019-04-20 15:00:00,Ryan Babel,Aerial,773
+295334,94,SavedShot,0.8069999694824219,0.7119999694824218,0.03161400184035301,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9545,Bournemouth,Fulham,0,1,2019-04-20 15:00:00,Floyd Ayité,Pass,773
+297421,11,SavedShot,0.8159999847412109,0.4779999923706055,0.0602869987487793,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9553,Fulham,Cardiff,1,0,2019-04-27 15:00:00,Ryan Babel,Pass,773
+297426,47,MissedShots,0.860999984741211,0.524000015258789,0.10296899825334549,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9553,Fulham,Cardiff,1,0,2019-04-27 15:00:00,Tom Cairney,Pass,773
+297428,68,MissedShots,0.8209999847412109,0.5479999923706055,0.07320009917020798,Aleksandar Mitrovic,h,773,OpenPlay,2018,LeftFoot,9553,Fulham,Cardiff,1,0,2019-04-27 15:00:00,Calum Chambers,TakeOn,773
+297440,92,MissedShots,0.655,0.9259999847412109,0.08443299680948257,Aleksandar Mitrovic,h,773,OpenPlay,2018,LeftFoot,9553,Fulham,Cardiff,1,0,2019-04-27 15:00:00,,BallRecovery,773
+299278,61,MissedShots,0.88,0.47200000762939454,0.37934398651123047,Aleksandar Mitrovic,a,773,OpenPlay,2018,RightFoot,9557,Wolverhampton Wanderers,Fulham,1,0,2019-05-04 14:00:00,Ryan Sessegnon,Pass,773
+301302,2,MissedShots,0.9219999694824219,0.4759999847412109,0.06635130196809769,Aleksandar Mitrovic,h,773,OpenPlay,2018,Head,9573,Fulham,Newcastle United,0,4,2019-05-12 14:00:00,Joe Bryan,Aerial,773
+301308,21,MissedShots,0.919000015258789,0.4879999923706055,0.09945040196180344,Aleksandar Mitrovic,h,773,FromCorner,2018,Head,9573,Fulham,Newcastle United,0,4,2019-05-12 14:00:00,Floyd Ayité,Cross,773
+301323,77,SavedShot,0.8540000152587891,0.7419999694824219,0.03978079929947853,Aleksandar Mitrovic,h,773,OpenPlay,2018,RightFoot,9573,Fulham,Newcastle United,0,4,2019-05-12 14:00:00,,TakeOn,773
+376490,66,SavedShot,0.8030000305175782,0.655,0.03421450033783913,Aleksandar Mitrovic,h,773,OpenPlay,2020,RightFoot,14086,Fulham,Arsenal,0,3,2020-09-12 11:30:00,Franck Zambo,Pass,773
+377528,34,Goal,0.885,0.5,0.7611690163612366,Aleksandar Mitrovic,a,773,Penalty,2020,RightFoot,14097,Leeds,Fulham,4,3,2020-09-19 14:00:00,,Standard,773
+377532,52,SavedShot,0.805,0.710999984741211,0.023559100925922394,Aleksandar Mitrovic,a,773,OpenPlay,2020,RightFoot,14097,Leeds,Fulham,4,3,2020-09-19 14:00:00,Harrison Reed,Pass,773
+377537,66,Goal,0.9430000305175781,0.555,0.07823450118303299,Aleksandar Mitrovic,a,773,OpenPlay,2020,Head,14097,Leeds,Fulham,4,3,2020-09-19 14:00:00,Kenny Tete,Aerial,773
+377536,66,BlockedShot,0.8230000305175781,0.40599998474121096,0.06404300034046173,Aleksandar Mitrovic,a,773,OpenPlay,2020,RightFoot,14097,Leeds,Fulham,4,3,2020-09-19 14:00:00,Ivan Cavaleiro,Pass,773
+377539,69,MissedShots,0.8780000305175781,0.525,0.046835798770189285,Aleksandar Mitrovic,a,773,OpenPlay,2020,Head,14097,Leeds,Fulham,4,3,2020-09-19 14:00:00,Kenny Tete,Cross,773
+377542,74,SavedShot,0.8330000305175781,0.47400001525878904,0.05335009843111038,Aleksandar Mitrovic,a,773,OpenPlay,2020,RightFoot,14097,Leeds,Fulham,4,3,2020-09-19 14:00:00,,None,773
+379948,11,SavedShot,0.899000015258789,0.524000015258789,0.03104970045387745,Aleksandar Mitrovic,h,773,OpenPlay,2020,Head,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,Kenny Tete,Aerial,773
+379949,13,MissedShots,0.9569999694824218,0.5970000076293945,0.03444790095090866,Aleksandar Mitrovic,h,773,OpenPlay,2020,Head,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,Kenny Tete,Aerial,773
+379952,18,MissedShots,0.919000015258789,0.5879999923706055,0.06694839894771576,Aleksandar Mitrovic,h,773,OpenPlay,2020,Head,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,Joe Bryan,Cross,773
+379960,59,MissedShots,0.935,0.39,0.01670669950544834,Aleksandar Mitrovic,h,773,SetPiece,2020,Head,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,Tom Cairney,Aerial,773
+379961,61,MissedShots,0.919000015258789,0.5129999923706055,0.07576029747724533,Aleksandar Mitrovic,h,773,OpenPlay,2020,Head,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,Aboubakar Kamara,Aerial,773
+379963,63,MissedShots,0.895,0.5109999847412109,0.05019240081310272,Aleksandar Mitrovic,h,773,OpenPlay,2020,Head,14114,Fulham,Aston Villa,0,3,2020-09-28 17:00:00,Denis Odoi,Aerial,773
+381218,47,MissedShots,0.8619999694824219,0.49,0.04676099866628647,Aleksandar Mitrovic,a,773,SetPiece,2020,RightFoot,14474,Wolverhampton Wanderers,Fulham,1,0,2020-10-04 13:00:00,Antonee Robinson,Cross,773
+381225,62,BlockedShot,0.8969999694824219,0.639000015258789,0.041304100304841995,Aleksandar Mitrovic,a,773,FromCorner,2020,RightFoot,14474,Wolverhampton Wanderers,Fulham,1,0,2020-10-04 13:00:00,Ola Aina,Cross,773
+381224,62,MissedShots,0.914000015258789,0.4879999923706055,0.03755899891257286,Aleksandar Mitrovic,a,773,FromCorner,2020,Head,14474,Wolverhampton Wanderers,Fulham,1,0,2020-10-04 13:00:00,Joe Bryan,Aerial,773
+382346,41,SavedShot,0.77,0.575999984741211,0.07682730257511139,Aleksandar Mitrovic,a,773,DirectFreekick,2020,RightFoot,14482,Sheffield United,Fulham,1,1,2020-10-18 11:00:00,,Standard,773
+382350,56,ShotOnPost,0.885,0.5,0.7611690163612366,Aleksandar Mitrovic,a,773,Penalty,2020,RightFoot,14482,Sheffield United,Fulham,1,1,2020-10-18 11:00:00,,Standard,773
+382355,78,SavedShot,0.8930000305175781,0.5459999847412109,0.10793899744749069,Aleksandar Mitrovic,a,773,OpenPlay,2020,LeftFoot,14482,Sheffield United,Fulham,1,1,2020-10-18 11:00:00,Franck Zambo,Cross,773
+382360,91,MissedShots,0.9119999694824219,0.5579999923706055,0.025906499475240707,Aleksandar Mitrovic,a,773,FromCorner,2020,Head,14482,Sheffield United,Fulham,1,1,2020-10-18 11:00:00,Ademola Lookman,Aerial,773
+382361,93,MissedShots,0.8769999694824219,0.5329999923706055,0.02525850012898445,Aleksandar Mitrovic,a,773,OpenPlay,2020,Head,14482,Sheffield United,Fulham,1,1,2020-10-18 11:00:00,Tom Cairney,Aerial,773
+383328,6,BlockedShot,0.8719999694824219,0.32799999237060545,0.06127360090613365,Aleksandar Mitrovic,h,773,OpenPlay,2020,RightFoot,14489,Fulham,Crystal Palace,1,2,2020-10-24 14:00:00,Ademola Lookman,Pass,773
+383332,13,BlockedShot,0.8680000305175781,0.6309999847412109,0.06511209905147552,Aleksandar Mitrovic,h,773,OpenPlay,2020,RightFoot,14489,Fulham,Crystal Palace,1,2,2020-10-24 14:00:00,Ademola Lookman,Pass,773
+383338,25,MissedShots,0.8930000305175781,0.485,0.40546199679374695,Aleksandar Mitrovic,h,773,OpenPlay,2020,LeftFoot,14489,Fulham,Crystal Palace,1,2,2020-10-24 14:00:00,,Rebound,773
+383342,57,MissedShots,0.909000015258789,0.41900001525878905,0.02165439911186695,Aleksandar Mitrovic,h,773,SetPiece,2020,Head,14489,Fulham,Crystal Palace,1,2,2020-10-24 14:00:00,Tom Cairney,Aerial,773
+383344,62,BlockedShot,0.8669999694824219,0.6819999694824219,0.04964210093021393,Aleksandar Mitrovic,h,773,OpenPlay,2020,RightFoot,14489,Fulham,Crystal Palace,1,2,2020-10-24 14:00:00,Antonee Robinson,Pass,773
+386203,8,BlockedShot,0.769000015258789,0.6029999923706054,0.07108379900455475,Aleksandar Mitrovic,a,773,DirectFreekick,2020,RightFoot,14514,West Ham,Fulham,1,0,2020-11-07 20:00:00,,Standard,773
+386206,14,MissedShots,0.9440000152587891,0.47,0.5161610245704651,Aleksandar Mitrovic,a,773,OpenPlay,2020,RightFoot,14514,West Ham,Fulham,1,0,2020-11-07 20:00:00,Harrison Reed,Cross,773
+386209,23,MissedShots,0.9219999694824219,0.4620000076293945,0.13052700459957123,Aleksandar Mitrovic,a,773,OpenPlay,2020,Head,14514,West Ham,Fulham,1,0,2020-11-07 20:00:00,Tom Cairney,Cross,773
+387713,71,SavedShot,0.9119999694824219,0.43599998474121093,0.03223960101604462,Aleksandar Mitrovic,h,773,OpenPlay,2020,Head,14517,Fulham,Everton,2,3,2020-11-22 12:00:00,Antonee Robinson,Aerial,773
+387712,71,BlockedShot,0.779000015258789,0.5520000076293945,0.03415659815073013,Aleksandar Mitrovic,h,773,OpenPlay,2020,RightFoot,14517,Fulham,Everton,2,3,2020-11-22 12:00:00,Harrison Reed,Pass,773
+393507,78,MissedShots,0.9069999694824219,0.5520000076293945,0.04549949988722801,Aleksandar Mitrovic,h,773,OpenPlay,2020,Head,14557,Fulham,Brighton,0,0,2020-12-16 20:00:00,,Aerial,773
+394220,0,SavedShot,0.71,0.745,0.008645500056445599,Aleksandar Mitrovic,a,773,OpenPlay,2020,RightFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,Joachim Andersen,Chipped,773
+395628,91,MissedShots,0.830999984741211,0.555,0.0496102012693882,Aleksandar Mitrovic,h,773,OpenPlay,2020,LeftFoot,14577,Fulham,Southampton,0,0,2020-12-26 15:00:00,Antonee Robinson,Chipped,773
+400132,92,MissedShots,0.909000015258789,0.605999984741211,0.033019598573446274,Aleksandar Mitrovic,h,773,FromCorner,2020,Head,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Kenny Tete,Cross,773
+401290,88,SavedShot,0.875,0.500999984741211,0.025074400007724762,Aleksandar Mitrovic,a,773,OpenPlay,2020,Head,14625,Brighton,Fulham,0,0,2021-01-27 19:30:00,Ademola Lookman,Aerial,773
+401693,80,SavedShot,0.93,0.49900001525878906,0.05937419831752777,Aleksandar Mitrovic,a,773,FromCorner,2020,Head,14640,West Bromwich Albion,Fulham,2,2,2021-01-30 15:00:00,Ademola Lookman,Aerial,773
+402629,11,BlockedShot,0.9219999694824219,0.5159999847412109,0.15376999974250793,Aleksandar Mitrovic,h,773,OpenPlay,2020,RightFoot,14647,Fulham,Leicester,0,2,2021-02-03 18:00:00,Franck Zambo,Pass,773
+402633,26,MissedShots,0.7380000305175781,0.47900001525878905,0.010514499619603157,Aleksandar Mitrovic,h,773,OpenPlay,2020,RightFoot,14647,Fulham,Leicester,0,2,2021-02-03 18:00:00,,Aerial,773
+402642,82,MissedShots,0.8690000152587891,0.6020000076293945,0.01775209978222847,Aleksandar Mitrovic,h,773,OpenPlay,2020,Head,14647,Fulham,Leicester,0,2,2021-02-03 18:00:00,Harrison Reed,Aerial,773
+403377,81,BlockedShot,0.8109999847412109,0.3820000076293945,0.042631201446056366,Aleksandar Mitrovic,h,773,OpenPlay,2020,LeftFoot,14657,Fulham,West Ham,0,0,2021-02-06 17:30:00,Harrison Reed,Pass,773
+403378,82,MissedShots,0.845999984741211,0.5940000152587891,0.059574101120233536,Aleksandar Mitrovic,h,773,OpenPlay,2020,RightFoot,14657,Fulham,West Ham,0,0,2021-02-06 17:30:00,,None,773
+408968,88,SavedShot,0.7559999847412109,0.5870000076293945,0.048435598611831665,Aleksandar Mitrovic,a,773,OpenPlay,2020,RightFoot,14699,Liverpool,Fulham,0,1,2021-03-07 14:00:00,Ruben Loftus-Cheek,Pass,773
+410195,86,BlockedShot,0.885,0.375,0.08579950034618378,Aleksandar Mitrovic,h,773,OpenPlay,2020,RightFoot,14708,Fulham,Manchester City,0,3,2021-03-13 20:00:00,Franck Zambo,Pass,773
+411149,78,BlockedShot,0.95,0.524000015258789,0.07879660278558731,Aleksandar Mitrovic,h,773,FromCorner,2020,Head,14718,Fulham,Leeds,1,2,2021-03-19 20:00:00,Ademola Lookman,Aerial,773
+411156,88,SavedShot,0.8780000305175781,0.3370000076293945,0.007497970014810562,Aleksandar Mitrovic,h,773,SetPiece,2020,Head,14718,Fulham,Leeds,1,2,2021-03-19 20:00:00,Ademola Lookman,Aerial,773
+413214,2,SavedShot,0.8,0.6530000305175782,0.02927280031144619,Aleksandar Mitrovic,a,773,OpenPlay,2020,RightFoot,14726,Aston Villa,Fulham,3,1,2021-04-04 15:30:00,Ademola Lookman,Pass,773
+413215,3,MissedShots,0.45,0.33099998474121095,0.00966838002204895,Aleksandar Mitrovic,a,773,OpenPlay,2020,RightFoot,14726,Aston Villa,Fulham,3,1,2021-04-04 15:30:00,Mario Lemina,BallRecovery,773
+413218,7,SavedShot,0.8690000152587891,0.3609999847412109,0.06531240046024323,Aleksandar Mitrovic,a,773,OpenPlay,2020,LeftFoot,14726,Aston Villa,Fulham,3,1,2021-04-04 15:30:00,,Dispossessed,773
+413229,48,SavedShot,0.8859999847412109,0.51,0.031993500888347626,Aleksandar Mitrovic,a,773,OpenPlay,2020,Head,14726,Aston Villa,Fulham,3,1,2021-04-04 15:30:00,Kenny Tete,Aerial,773
+413231,60,Goal,0.850999984741211,0.4779999923706055,0.6264809966087341,Aleksandar Mitrovic,a,773,OpenPlay,2020,LeftFoot,14726,Aston Villa,Fulham,3,1,2021-04-04 15:30:00,,TakeOn,773
+413588,28,BlockedShot,0.9019999694824219,0.42700000762939455,0.08038759976625443,Aleksandar Mitrovic,h,773,SetPiece,2020,RightFoot,14738,Fulham,Wolverhampton Wanderers,0,1,2021-04-09 19:00:00,Harrison Reed,HeadPass,773
+413590,42,MissedShots,0.889000015258789,0.46599998474121096,0.031797099858522415,Aleksandar Mitrovic,h,773,OpenPlay,2020,Head,14738,Fulham,Wolverhampton Wanderers,0,1,2021-04-09 19:00:00,Antonee Robinson,Aerial,773
+413592,60,SavedShot,0.8930000305175781,0.6179999923706054,0.008729729801416397,Aleksandar Mitrovic,h,773,SetPiece,2020,Head,14738,Fulham,Wolverhampton Wanderers,0,1,2021-04-09 19:00:00,Harrison Reed,Aerial,773
+413597,72,MissedShots,0.909000015258789,0.59,0.025441600009799004,Aleksandar Mitrovic,h,773,OpenPlay,2020,Head,14738,Fulham,Wolverhampton Wanderers,0,1,2021-04-09 19:00:00,Mario Lemina,Aerial,773
+421020,56,SavedShot,0.919000015258789,0.4829999923706055,0.0437932014465332,Aleksandar Mitrovic,h,773,FromCorner,2020,Head,14777,Fulham,Burnley,0,2,2021-05-10 19:00:00,Ivan Cavaleiro,Aerial,773
+421021,57,MissedShots,0.874000015258789,0.39,0.02411549910902977,Aleksandar Mitrovic,h,773,OpenPlay,2020,Head,14777,Fulham,Burnley,0,2,2021-05-10 19:00:00,,None,773
+421030,88,MissedShots,0.88,0.48700000762939455,0.03867679834365845,Aleksandar Mitrovic,h,773,OpenPlay,2020,Head,14777,Fulham,Burnley,0,2,2021-05-10 19:00:00,Ivan Cavaleiro,Aerial,773
+421032,92,MissedShots,0.9169999694824219,0.5279999923706055,0.08915189653635025,Aleksandar Mitrovic,h,773,OpenPlay,2020,RightFoot,14777,Fulham,Burnley,0,2,2021-05-10 19:00:00,,None,773
+479060,0,MissedShots,0.8859999847412109,0.664000015258789,0.06337209790945053,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18203,Fulham,Liverpool,2,2,2022-08-06 11:30:00,Bobby Reid,BallRecovery,773
+479066,31,Goal,0.9640000152587891,0.5670000076293945,0.0871042013168335,Aleksandar Mitrovic,h,773,OpenPlay,2022,Head,18203,Fulham,Liverpool,2,2,2022-08-06 11:30:00,Kenny Tete,Aerial,773
+479075,71,Goal,0.885,0.5,0.7611690163612366,Aleksandar Mitrovic,h,773,Penalty,2022,RightFoot,18203,Fulham,Liverpool,2,2,2022-08-06 11:30:00,,Standard,773
+480357,14,MissedShots,0.86,0.48200000762939454,0.07195740193128586,Aleksandar Mitrovic,a,773,OpenPlay,2022,LeftFoot,18216,Wolverhampton Wanderers,Fulham,0,0,2022-08-13 14:00:00,Antonee Robinson,Cross,773
+480359,20,MissedShots,0.985999984741211,0.4159999847412109,0.020519299432635307,Aleksandar Mitrovic,a,773,FromCorner,2022,Head,18216,Wolverhampton Wanderers,Fulham,0,0,2022-08-13 14:00:00,,Aerial,773
+480368,80,SavedShot,0.885,0.5,0.7611690163612366,Aleksandar Mitrovic,a,773,Penalty,2022,RightFoot,18216,Wolverhampton Wanderers,Fulham,0,0,2022-08-13 14:00:00,,Standard,773
+480369,87,MissedShots,0.8969999694824219,0.45799999237060546,0.050097301602363586,Aleksandar Mitrovic,a,773,FromCorner,2022,Head,18216,Wolverhampton Wanderers,Fulham,0,0,2022-08-13 14:00:00,Harrison Reed,Cross,773
+481846,10,SavedShot,0.8180000305175781,0.43200000762939456,0.05896500125527382,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18225,Fulham,Brentford,3,2,2022-08-20 14:00:00,Jay Stansfield,Pass,773
+481848,14,SavedShot,0.9059999847412109,0.48700000762939455,0.2555209994316101,Aleksandar Mitrovic,h,773,SetPiece,2022,Head,18225,Fulham,Brentford,3,2,2022-08-20 14:00:00,Andreas Pereira,Cross,773
+481849,19,BlockedShot,0.86,0.46700000762939453,0.045475199818611145,Aleksandar Mitrovic,h,773,FromCorner,2022,RightFoot,18225,Fulham,Brentford,3,2,2022-08-20 14:00:00,Andreas Pereira,Cross,773
+481859,65,SavedShot,0.8730000305175781,0.38,0.3310669958591461,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18225,Fulham,Brentford,3,2,2022-08-20 14:00:00,,None,773
+481860,65,MissedShots,0.8719999694824219,0.5740000152587891,0.01712159998714924,Aleksandar Mitrovic,h,773,FromCorner,2022,Head,18225,Fulham,Brentford,3,2,2022-08-20 14:00:00,Andreas Pereira,Cross,773
+481868,81,SavedShot,0.965999984741211,0.5529999923706055,0.521356999874115,Aleksandar Mitrovic,h,773,OpenPlay,2022,Head,18225,Fulham,Brentford,3,2,2022-08-20 14:00:00,Kevin Mbabu,Aerial,773
+481871,88,MissedShots,0.874000015258789,0.6179999923706054,0.2897239923477173,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18225,Fulham,Brentford,3,2,2022-08-20 14:00:00,Tom Cairney,Chipped,773
+481872,89,Goal,0.9109999847412109,0.5690000152587891,0.038181599229574203,Aleksandar Mitrovic,h,773,OpenPlay,2022,Head,18225,Fulham,Brentford,3,2,2022-08-20 14:00:00,Kevin Mbabu,Aerial,773
+483821,51,MissedShots,0.7040000152587891,0.42700000762939455,0.013425200246274471,Aleksandar Mitrovic,a,773,OpenPlay,2022,RightFoot,18238,Arsenal,Fulham,2,1,2022-08-27 16:30:00,Harrison Reed,BallRecovery,773
+483824,55,Goal,0.87,0.34200000762939453,0.3106920123100281,Aleksandar Mitrovic,a,773,OpenPlay,2022,RightFoot,18238,Arsenal,Fulham,2,1,2022-08-27 16:30:00,,BallRecovery,773
+483827,66,SavedShot,0.9159999847412109,0.455,0.030485600233078003,Aleksandar Mitrovic,a,773,FromCorner,2022,Head,18238,Arsenal,Fulham,2,1,2022-08-27 16:30:00,Andreas Pereira,Aerial,773
+483829,67,MissedShots,0.8730000305175781,0.4370000076293945,0.028919000178575516,Aleksandar Mitrovic,a,773,OpenPlay,2022,Head,18238,Arsenal,Fulham,2,1,2022-08-27 16:30:00,Bobby Reid,Cross,773
+484827,17,SavedShot,0.8130000305175781,0.6120000076293945,0.03081269934773445,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18242,Fulham,Brighton,2,1,2022-08-30 18:30:00,Bernd Leno,Pass,773
+484832,47,Goal,0.9290000152587891,0.4129999923706055,0.3891749978065491,Aleksandar Mitrovic,h,773,FromCorner,2022,RightFoot,18242,Fulham,Brighton,2,1,2022-08-30 18:30:00,Neeskens Kebano,Rebound,773
+484837,70,MissedShots,0.8980000305175782,0.38299999237060545,0.02018439956009388,Aleksandar Mitrovic,h,773,OpenPlay,2022,Head,18242,Fulham,Brighton,2,1,2022-08-30 18:30:00,Antonee Robinson,Aerial,773
+485885,13,MissedShots,0.9,0.5729999923706055,0.03262820094823837,Aleksandar Mitrovic,a,773,OpenPlay,2022,Head,18255,Tottenham,Fulham,2,1,2022-09-03 14:00:00,Kenny Tete,Aerial,773
+485897,53,SavedShot,0.784000015258789,0.385,0.03367789834737778,Aleksandar Mitrovic,a,773,OpenPlay,2022,RightFoot,18255,Tottenham,Fulham,2,1,2022-09-03 14:00:00,Harrison Reed,TakeOn,773
+485903,64,MissedShots,0.9280000305175782,0.485,0.059831999242305756,Aleksandar Mitrovic,a,773,OpenPlay,2022,Head,18255,Tottenham,Fulham,2,1,2022-09-03 14:00:00,,None,773
+485910,82,Goal,0.8690000152587891,0.6990000152587891,0.04582170024514198,Aleksandar Mitrovic,a,773,OpenPlay,2022,RightFoot,18255,Tottenham,Fulham,2,1,2022-09-03 14:00:00,Kenny Tete,TakeOn,773
+485912,87,SavedShot,0.7709999847412109,0.6709999847412109,0.020150700584053993,Aleksandar Mitrovic,a,773,OpenPlay,2022,RightFoot,18255,Tottenham,Fulham,2,1,2022-09-03 14:00:00,Tom Cairney,Pass,773
+488392,12,MissedShots,0.7709999847412109,0.34099998474121096,0.01818089932203293,Aleksandar Mitrovic,a,773,OpenPlay,2022,LeftFoot,18273,Nottingham Forest,Fulham,2,3,2022-09-16 19:00:00,Andreas Pereira,BallRecovery,773
+488393,15,BlockedShot,0.8880000305175781,0.30100000381469727,0.06105690076947212,Aleksandar Mitrovic,a,773,OpenPlay,2022,RightFoot,18273,Nottingham Forest,Fulham,2,3,2022-09-16 19:00:00,,TakeOn,773
+488395,29,SavedShot,0.91,0.37900001525878907,0.019034000113606453,Aleksandar Mitrovic,a,773,FromCorner,2022,Head,18273,Nottingham Forest,Fulham,2,3,2022-09-16 19:00:00,Andreas Pereira,Cross,773
+488402,56,BlockedShot,0.845999984741211,0.4159999847412109,0.041339099407196045,Aleksandar Mitrovic,a,773,OpenPlay,2022,RightFoot,18273,Nottingham Forest,Fulham,2,3,2022-09-16 19:00:00,Harrison Reed,Cross,773
+493096,20,BlockedShot,0.8569999694824219,0.315,0.04736119881272316,Aleksandar Mitrovic,h,773,OpenPlay,2022,LeftFoot,18304,Fulham,Bournemouth,2,2,2022-10-15 14:00:00,Andreas Pereira,TakeOn,773
+493100,31,MissedShots,0.9430000305175781,0.509000015258789,0.0661654993891716,Aleksandar Mitrovic,h,773,OpenPlay,2022,Head,18304,Fulham,Bournemouth,2,2,2022-10-15 14:00:00,Andreas Pereira,Aerial,773
+493107,51,Goal,0.885,0.5,0.7611690163612366,Aleksandar Mitrovic,h,773,Penalty,2022,RightFoot,18304,Fulham,Bournemouth,2,2,2022-10-15 14:00:00,,Standard,773
+493116,84,SavedShot,0.855999984741211,0.664000015258789,0.04552220180630684,Aleksandar Mitrovic,h,773,OpenPlay,2022,LeftFoot,18304,Fulham,Bournemouth,2,2,2022-10-15 14:00:00,Willian,Pass,773
+493118,92,MissedShots,0.855,0.625999984741211,0.07118859887123108,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18304,Fulham,Bournemouth,2,2,2022-10-15 14:00:00,Tom Cairney,Pass,773
+494585,10,MissedShots,0.884000015258789,0.5629999923706055,0.022633200511336327,Aleksandar Mitrovic,h,773,OpenPlay,2022,Head,18316,Fulham,Aston Villa,3,0,2022-10-20 18:30:00,Bobby Reid,Aerial,773
+494589,16,BlockedShot,0.9480000305175781,0.395,0.185712993144989,Aleksandar Mitrovic,h,773,FromCorner,2022,Head,18316,Fulham,Aston Villa,3,0,2022-10-20 18:30:00,Andreas Pereira,Cross,773
+494601,37,MissedShots,0.970999984741211,0.43599998474121093,0.7870680093765259,Aleksandar Mitrovic,h,773,OpenPlay,2022,Head,18316,Fulham,Aston Villa,3,0,2022-10-20 18:30:00,,Aerial,773
+494605,47,MissedShots,0.8869999694824219,0.37099998474121093,0.09564299881458282,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18316,Fulham,Aston Villa,3,0,2022-10-20 18:30:00,Harrison Reed,Pass,773
+494608,53,BlockedShot,0.884000015258789,0.36700000762939455,0.12854699790477753,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18316,Fulham,Aston Villa,3,0,2022-10-20 18:30:00,Willian,Chipped,773
+494610,65,BlockedShot,0.9719999694824218,0.705,0.05080360174179077,Aleksandar Mitrovic,h,773,OpenPlay,2022,LeftFoot,18316,Fulham,Aston Villa,3,0,2022-10-20 18:30:00,Bobby Reid,Chipped,773
+494611,67,Goal,0.885,0.5,0.7611690163612366,Aleksandar Mitrovic,h,773,Penalty,2022,RightFoot,18316,Fulham,Aston Villa,3,0,2022-10-20 18:30:00,,Standard,773
+495499,25,Goal,0.9730000305175781,0.5779999923706055,0.30848199129104614,Aleksandar Mitrovic,a,773,FromCorner,2022,Head,18325,Leeds,Fulham,2,3,2022-10-23 13:00:00,Andreas Pereira,Cross,773
+495511,69,MissedShots,0.909000015258789,0.45,0.08986389636993408,Aleksandar Mitrovic,a,773,SetPiece,2022,Head,18325,Leeds,Fulham,2,3,2022-10-23 13:00:00,Andreas Pereira,Cross,773
+495512,72,BlockedShot,0.8780000305175781,0.5479999923706055,0.08080919831991196,Aleksandar Mitrovic,a,773,OpenPlay,2022,RightFoot,18325,Leeds,Fulham,2,3,2022-10-23 13:00:00,Harrison Reed,Cross,773
+496784,8,SavedShot,0.8869999694824219,0.44299999237060544,0.014458900317549706,Aleksandar Mitrovic,h,773,FromCorner,2022,Head,18337,Fulham,Everton,0,0,2022-10-29 16:30:00,Andreas Pereira,Aerial,773
+496786,11,BlockedShot,0.875999984741211,0.655,0.03452660143375397,Aleksandar Mitrovic,h,773,FromCorner,2022,RightFoot,18337,Fulham,Everton,0,0,2022-10-29 16:30:00,Andreas Pereira,HeadPass,773
+496790,30,BlockedShot,0.87,0.425,0.09710919857025146,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18337,Fulham,Everton,0,0,2022-10-29 16:30:00,Neeskens Kebano,Pass,773
+496794,34,BlockedShot,0.8159999847412109,0.5420000076293945,0.05039820075035095,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18337,Fulham,Everton,0,0,2022-10-29 16:30:00,Willian,Chipped,773
+496798,45,BlockedShot,0.8009999847412109,0.6669999694824219,0.0293503999710083,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18337,Fulham,Everton,0,0,2022-10-29 16:30:00,Willian,BallTouch,773
+496799,47,MissedShots,0.919000015258789,0.535,0.12744399905204773,Aleksandar Mitrovic,h,773,OpenPlay,2022,Head,18337,Fulham,Everton,0,0,2022-10-29 16:30:00,Andreas Pereira,Cross,773
+496802,59,MissedShots,0.8530000305175781,0.445,0.06773430109024048,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18337,Fulham,Everton,0,0,2022-10-29 16:30:00,,None,773
+496803,61,MissedShots,0.895,0.605,0.06722159683704376,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18337,Fulham,Everton,0,0,2022-10-29 16:30:00,Bobby Reid,Cross,773
+496810,85,MissedShots,0.879000015258789,0.4259999847412109,0.012043599970638752,Aleksandar Mitrovic,h,773,FromCorner,2022,Head,18337,Fulham,Everton,0,0,2022-10-29 16:30:00,Harrison Reed,Aerial,773
+496811,89,MissedShots,0.8769999694824219,0.539000015258789,0.08352019637823105,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18337,Fulham,Everton,0,0,2022-10-29 16:30:00,Kenny Tete,Cross,773
+500996,2,MissedShots,0.8880000305175781,0.435,0.07128489762544632,Aleksandar Mitrovic,a,773,SetPiece,2022,RightFoot,18366,Crystal Palace,Fulham,0,3,2022-12-26 15:00:00,Andreas Pereira,Cross,773
+501001,41,MissedShots,0.8969999694824219,0.41,0.05113780125975609,Aleksandar Mitrovic,a,773,FromCorner,2022,RightFoot,18366,Crystal Palace,Fulham,0,3,2022-12-26 15:00:00,Andreas Pereira,Cross,773
+501007,63,SavedShot,0.9169999694824219,0.605999984741211,0.03430879861116409,Aleksandar Mitrovic,a,773,OpenPlay,2022,Head,18366,Crystal Palace,Fulham,0,3,2022-12-26 15:00:00,Bobby Reid,Aerial,773
+501009,66,SavedShot,0.9059999847412109,0.4379999923706055,0.05237530171871185,Aleksandar Mitrovic,a,773,FromCorner,2022,Head,18366,Crystal Palace,Fulham,0,3,2022-12-26 15:00:00,Andreas Pereira,Cross,773
+501011,70,BlockedShot,0.8880000305175781,0.585999984741211,0.022391999140381813,Aleksandar Mitrovic,a,773,FromCorner,2022,Head,18366,Crystal Palace,Fulham,0,3,2022-12-26 15:00:00,Andreas Pereira,Cross,773
+501015,77,SavedShot,0.8930000305175781,0.5509999847412109,0.022506000474095345,Aleksandar Mitrovic,a,773,OpenPlay,2022,Head,18366,Crystal Palace,Fulham,0,3,2022-12-26 15:00:00,Kenny Tete,Aerial,773
+501017,79,Goal,0.9580000305175781,0.48200000762939454,0.5778769850730896,Aleksandar Mitrovic,a,773,OpenPlay,2022,Head,18366,Crystal Palace,Fulham,0,3,2022-12-26 15:00:00,,Rebound,773
+501713,36,MissedShots,0.7530000305175781,0.615,0.02877099998295307,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18374,Fulham,Southampton,2,1,2022-12-31 15:00:00,Willian,Pass,773
+501721,95,SavedShot,0.885,0.5,0.7611690163612366,Aleksandar Mitrovic,h,773,Penalty,2022,RightFoot,18374,Fulham,Southampton,2,1,2022-12-31 15:00:00,,Standard,773
+502146,13,BlockedShot,0.9180000305175782,0.48400001525878905,0.05594509840011597,Aleksandar Mitrovic,a,773,OpenPlay,2022,Head,18389,Leicester,Fulham,0,1,2023-01-03 19:45:00,Harrison Reed,Aerial,773
+502147,16,Goal,0.9119999694824219,0.42700000762939455,0.30936199426651,Aleksandar Mitrovic,a,773,OpenPlay,2022,LeftFoot,18389,Leicester,Fulham,0,1,2023-01-03 19:45:00,Willian,Chipped,773
+502148,20,MissedShots,0.8440000152587891,0.4809999847412109,0.09261839836835861,Aleksandar Mitrovic,a,773,OpenPlay,2022,RightFoot,18389,Leicester,Fulham,0,1,2023-01-03 19:45:00,Bobby Reid,Pass,773
+502157,46,BlockedShot,0.7030000305175781,0.529000015258789,0.01806260086596012,Aleksandar Mitrovic,a,773,OpenPlay,2022,RightFoot,18389,Leicester,Fulham,0,1,2023-01-03 19:45:00,Andreas Pereira,Pass,773
+503949,9,BlockedShot,0.874000015258789,0.5509999847412109,0.0737709030508995,Aleksandar Mitrovic,a,773,OpenPlay,2022,LeftFoot,18398,Newcastle United,Fulham,1,0,2023-01-15 14:00:00,Andreas Pereira,Cross,773
+503966,68,MissedShots,0.885,0.5,0.7611690163612366,Aleksandar Mitrovic,a,773,Penalty,2022,RightFoot,18398,Newcastle United,Fulham,1,0,2023-01-15 14:00:00,,Standard,773
+503967,75,MissedShots,0.8859999847412109,0.5179999923706055,0.0884803980588913,Aleksandar Mitrovic,a,773,SetPiece,2022,LeftFoot,18398,Newcastle United,Fulham,1,0,2023-01-15 14:00:00,João Palhinha,BallTouch,773
+505290,24,MissedShots,0.8680000305175781,0.45799999237060546,0.02992060035467148,Aleksandar Mitrovic,h,773,OpenPlay,2022,Head,18405,Fulham,Tottenham,0,1,2023-01-23 20:00:00,Kenny Tete,Cross,773
+505301,74,MissedShots,0.94,0.4329999923706055,0.08538489788770676,Aleksandar Mitrovic,h,773,OpenPlay,2022,Head,18405,Fulham,Tottenham,0,1,2023-01-23 20:00:00,Tom Cairney,Cross,773
+506870,69,SavedShot,0.54,0.6859999847412109,0.010288399644196033,Aleksandar Mitrovic,a,773,OpenPlay,2022,RightFoot,18415,Chelsea,Fulham,0,0,2023-02-03 20:00:00,,BallRecovery,773
+508446,13,MissedShots,0.905,0.485,0.04804839938879013,Aleksandar Mitrovic,h,773,OpenPlay,2022,Head,18425,Fulham,Nottingham Forest,2,0,2023-02-11 15:00:00,Antonee Robinson,Aerial,773
+508453,34,SavedShot,0.9119999694824219,0.5609999847412109,0.4560930132865906,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18425,Fulham,Nottingham Forest,2,0,2023-02-11 15:00:00,Willian,TakeOn,773
+508454,35,MissedShots,0.9130000305175782,0.5570000076293945,0.06493110209703445,Aleksandar Mitrovic,h,773,FromCorner,2022,Head,18425,Fulham,Nottingham Forest,2,0,2023-02-11 15:00:00,Andreas Pereira,Cross,773
+508457,48,MissedShots,0.9180000305175782,0.33299999237060546,0.08934909850358963,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18425,Fulham,Nottingham Forest,2,0,2023-02-11 15:00:00,Kenny Tete,Pass,773
+508458,49,MissedShots,0.9630000305175781,0.445,0.13895699381828308,Aleksandar Mitrovic,h,773,FromCorner,2022,RightFoot,18425,Fulham,Nottingham Forest,2,0,2023-02-11 15:00:00,Andreas Pereira,Cross,773
+508465,65,MissedShots,0.874000015258789,0.4759999847412109,0.033266499638557434,Aleksandar Mitrovic,h,773,OpenPlay,2022,Head,18425,Fulham,Nottingham Forest,2,0,2023-02-11 15:00:00,Antonee Robinson,Aerial,773
+508469,77,MissedShots,0.9069999694824219,0.5329999923706055,0.1189040020108223,Aleksandar Mitrovic,h,773,OpenPlay,2022,Head,18425,Fulham,Nottingham Forest,2,0,2023-02-11 15:00:00,Harrison Reed,Cross,773
+513097,88,SavedShot,0.9169999694824219,0.5970000076293945,0.06457369774580002,Aleksandar Mitrovic,a,773,OpenPlay,2022,RightFoot,18454,Brentford,Fulham,3,2,2023-03-06 20:00:00,Antonee Robinson,Cross,773
+514106,56,BlockedShot,0.769000015258789,0.5529999923706055,0.03048129938542843,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18465,Fulham,Arsenal,0,3,2023-03-12 14:00:00,Bobby Reid,Pass,773
+514113,68,ShotOnPost,0.9080000305175782,0.5429999923706055,0.08013980090618134,Aleksandar Mitrovic,h,773,OpenPlay,2022,Head,18465,Fulham,Arsenal,0,3,2023-03-12 14:00:00,Andreas Pereira,Cross,773
+514121,91,BlockedShot,0.860999984741211,0.4379999923706055,0.06363649666309357,Aleksandar Mitrovic,h,773,FromCorner,2022,RightFoot,18465,Fulham,Arsenal,0,3,2023-03-12 14:00:00,,None,773
+526059,71,Goal,0.9230000305175782,0.53,0.38060882687568665,Aleksandar Mitrovic,a,773,OpenPlay,2022,Head,18561,Southampton,Fulham,0,2,2023-05-13 14:00:00,Harry Wilson,Cross,773
+527454,45,MissedShots,0.915,0.5609999847412109,0.42707327008247375,Aleksandar Mitrovic,h,773,OpenPlay,2022,RightFoot,18564,Fulham,Crystal Palace,2,2,2023-05-20 14:00:00,Harrison Reed,Pass,773
+527453,49,Goal,0.885,0.5,0.7611688375473022,Aleksandar Mitrovic,h,773,Penalty,2022,RightFoot,18564,Fulham,Crystal Palace,2,2,2023-05-20 14:00:00,,Standard,773
+527456,60,Goal,0.919000015258789,0.48200000762939454,0.3816220760345459,Aleksandar Mitrovic,h,773,SetPiece,2022,Head,18564,Fulham,Crystal Palace,2,2,2023-05-20 14:00:00,Willian,Cross,773
+529858,6,MissedShots,0.9490000152587891,0.4620000076293945,0.47773343324661255,Aleksandar Mitrovic,a,773,SetPiece,2022,Head,18580,Manchester United,Fulham,2,1,2023-05-28 15:30:00,Issa Diop,HeadPass,773
+529863,25,SavedShot,0.885,0.5,0.7611688375473022,Aleksandar Mitrovic,a,773,Penalty,2022,RightFoot,18580,Manchester United,Fulham,2,1,2023-05-28 15:30:00,,Standard,773
+529877,57,MissedShots,0.899000015258789,0.46700000762939453,0.040276482701301575,Aleksandar Mitrovic,a,773,FromCorner,2022,OtherBodyPart,18580,Manchester United,Fulham,2,1,2023-05-28 15:30:00,Willian,Aerial,773
+532102,86,SavedShot,0.9269999694824219,0.644000015258789,0.06621070206165314,Aleksandar Mitrovic,a,773,OpenPlay,2023,RightFoot,22279,Everton,Fulham,0,1,2023-08-12 14:00:00,Kenny Tete,Cross,773
+532103,87,BlockedShot,0.9,0.5220000076293946,0.12477675080299377,Aleksandar Mitrovic,a,773,OpenPlay,2023,LeftFoot,22279,Everton,Fulham,0,1,2023-08-12 14:00:00,,None,773

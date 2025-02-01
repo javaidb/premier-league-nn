@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+405696,37,MissedShots,0.9619999694824218,0.35900001525878905,0.030086999759078026,Nathaniel Phillips,h,8228,SetPiece,2020,Head,14680,Liverpool,Everton,0,2,2021-02-20 17:30:00,Andrew Robertson,Chipped,8228
+405707,92,MissedShots,0.9169999694824219,0.5370000076293945,0.0350273996591568,Nathaniel Phillips,h,8228,FromCorner,2020,Head,14680,Liverpool,Everton,0,2,2021-02-20 17:30:00,Trent Alexander-Arnold,Aerial,8228
+407544,26,BlockedShot,0.93,0.509000015258789,0.05915119871497154,Nathaniel Phillips,a,8228,FromCorner,2020,Head,14694,Sheffield United,Liverpool,0,2,2021-02-28 19:15:00,Andrew Robertson,Aerial,8228
+408967,83,BlockedShot,0.879000015258789,0.620999984741211,0.011486000381410122,Nathaniel Phillips,h,8228,FromCorner,2020,Head,14699,Liverpool,Fulham,0,1,2021-03-07 14:00:00,Trent Alexander-Arnold,Aerial,8228
+408970,94,MissedShots,0.86,0.48400001525878905,0.028620800003409386,Nathaniel Phillips,h,8228,OpenPlay,2020,Head,14699,Liverpool,Fulham,0,1,2021-03-07 14:00:00,Sadio Mané,Cross,8228
+413895,73,SavedShot,0.9259999847412109,0.5540000152587891,0.051151201128959656,Nathaniel Phillips,h,8228,SetPiece,2020,Head,14739,Liverpool,Aston Villa,2,1,2021-04-10 14:00:00,Andrew Robertson,End,8228
+420342,18,MissedShots,0.914000015258789,0.56,0.07088430225849152,Nathaniel Phillips,h,8228,FromCorner,2020,Head,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Trent Alexander-Arnold,Cross,8228
+420357,49,MissedShots,0.9219999694824219,0.46799999237060547,0.2784619927406311,Nathaniel Phillips,h,8228,FromCorner,2020,Head,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Trent Alexander-Arnold,Cross,8228
+421651,33,MissedShots,0.8809999847412109,0.4109999847412109,0.07450979948043823,Nathaniel Phillips,a,8228,FromCorner,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,,Rebound,8228
+422438,3,MissedShots,0.919000015258789,0.509000015258789,0.04976940155029297,Nathaniel Phillips,a,8228,FromCorner,2020,Head,14789,West Bromwich Albion,Liverpool,1,2,2021-05-16 15:30:00,Trent Alexander-Arnold,Aerial,8228
+422439,5,MissedShots,0.9259999847412109,0.44799999237060545,0.03913440182805061,Nathaniel Phillips,a,8228,FromCorner,2020,Head,14789,West Bromwich Albion,Liverpool,1,2,2021-05-16 15:30:00,Andrew Robertson,Aerial,8228
+423353,40,MissedShots,0.9030000305175782,0.4759999847412109,0.07355090230703354,Nathaniel Phillips,a,8228,FromCorner,2020,Head,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Trent Alexander-Arnold,Cross,8228
+423354,40,MissedShots,0.899000015258789,0.500999984741211,0.10335899889469147,Nathaniel Phillips,a,8228,FromCorner,2020,RightFoot,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Rhys Williams,HeadPass,8228
+423358,51,Goal,0.9159999847412109,0.4879999923706055,0.057189300656318665,Nathaniel Phillips,a,8228,FromCorner,2020,Head,14796,Burnley,Liverpool,0,3,2021-05-19 19:15:00,Sadio Mané,Chipped,8228
+424062,47,MissedShots,0.9159999847412109,0.5629999923706055,0.0653257966041565,Nathaniel Phillips,h,8228,FromCorner,2020,Head,14810,Liverpool,Crystal Palace,2,0,2021-05-23 15:00:00,Trent Alexander-Arnold,Cross,8228
+481444,47,BlockedShot,0.9230000305175782,0.5579999923706055,0.03138919919729233,Nathaniel Phillips,h,8228,FromCorner,2022,Head,18221,Liverpool,Crystal Palace,1,1,2022-08-15 19:00:00,Trent Alexander-Arnold,Aerial,8228

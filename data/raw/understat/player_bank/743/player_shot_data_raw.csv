@@ -1,0 +1,151 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15007,0,Goal,0.9469999694824218,0.485,0.6379320025444031,Dwight Gayle,a,743,OpenPlay,2014,LeftFoot,4771,Newcastle United,Crystal Palace,3,3,2014-08-30 15:00:00,,Rebound,743
+15228,21,SavedShot,0.860999984741211,0.40099998474121096,0.062117598950862885,Dwight Gayle,h,743,OpenPlay,2014,RightFoot,4721,Crystal Palace,Burnley,0,0,2014-09-13 15:00:00,Scott Dann,Chipped,743
+15229,22,MissedShots,0.8390000152587891,0.5579999923706055,0.061663899570703506,Dwight Gayle,h,743,OpenPlay,2014,RightFoot,4721,Crystal Palace,Burnley,0,0,2014-09-13 15:00:00,,None,743
+16875,81,BlockedShot,0.9119999694824219,0.32799999237060545,0.06561139971017838,Dwight Gayle,a,743,OpenPlay,2014,RightFoot,4689,Hull,Crystal Palace,2,0,2014-10-04 15:00:00,Marouane Chamakh,Pass,743
+16366,2,BlockedShot,0.8680000305175781,0.34799999237060547,0.049013301730155945,Dwight Gayle,h,743,OpenPlay,2014,LeftFoot,4676,Crystal Palace,Liverpool,3,1,2014-11-23 13:30:00,,None,743
+16369,16,Goal,0.9159999847412109,0.52,0.47953900694847107,Dwight Gayle,h,743,OpenPlay,2014,RightFoot,4676,Crystal Palace,Liverpool,3,1,2014-11-23 13:30:00,,Rebound,743
+16390,90,BlockedShot,0.885,0.675,0.06946109980344772,Dwight Gayle,h,743,OpenPlay,2014,RightFoot,4676,Crystal Palace,Liverpool,3,1,2014-11-23 13:30:00,Barry Bannan,Pass,743
+17563,62,MissedShots,0.9640000152587891,0.605999984741211,0.058222200721502304,Dwight Gayle,h,743,OpenPlay,2014,Head,4635,Crystal Palace,Southampton,1,3,2014-12-26 15:00:00,Jason Puncheon,Cross,743
+17566,73,BlockedShot,0.845,0.2589999961853027,0.017507199198007584,Dwight Gayle,h,743,OpenPlay,2014,LeftFoot,4635,Crystal Palace,Southampton,1,3,2014-12-26 15:00:00,,None,743
+17699,47,BlockedShot,0.8730000305175781,0.5520000076293945,0.08190479874610901,Dwight Gayle,h,743,OpenPlay,2014,RightFoot,4568,Crystal Palace,Tottenham,2,1,2015-01-10 17:30:00,Scott Dann,HeadPass,743
+17701,51,SavedShot,0.9419999694824219,0.49400001525878906,0.5780889987945557,Dwight Gayle,h,743,SetPiece,2014,RightFoot,4568,Crystal Palace,Tottenham,2,1,2015-01-10 17:30:00,Scott Dann,HeadPass,743
+17702,53,BlockedShot,0.89,0.5320000076293945,0.082184799015522,Dwight Gayle,h,743,SetPiece,2014,RightFoot,4568,Crystal Palace,Tottenham,2,1,2015-01-10 17:30:00,Scott Dann,HeadPass,743
+17705,68,Goal,0.885,0.5,0.7611690163612366,Dwight Gayle,h,743,Penalty,2014,RightFoot,4568,Crystal Palace,Tottenham,2,1,2015-01-10 17:30:00,,Standard,743
+18561,19,MissedShots,0.8640000152587891,0.6070000076293945,0.059480998665094376,Dwight Gayle,a,743,FromCorner,2014,RightFoot,4572,Burnley,Crystal Palace,2,3,2015-01-17 15:00:00,Damien Delaney,HeadPass,743
+18562,27,Goal,0.8980000305175782,0.5820000076293945,0.0728406012058258,Dwight Gayle,a,743,OpenPlay,2014,RightFoot,4572,Burnley,Crystal Palace,2,3,2015-01-17 15:00:00,,None,743
+18567,45,BlockedShot,0.8080000305175781,0.6930000305175781,0.024884499609470367,Dwight Gayle,a,743,OpenPlay,2014,LeftFoot,4572,Burnley,Crystal Palace,2,3,2015-01-17 15:00:00,Martin Kelly,Pass,743
+18565,45,BlockedShot,0.8869999694824219,0.7290000152587891,0.03879040107131004,Dwight Gayle,a,743,OpenPlay,2014,LeftFoot,4572,Burnley,Crystal Palace,2,3,2015-01-17 15:00:00,Martin Kelly,Pass,743
+18574,86,Goal,0.9430000305175781,0.674000015258789,0.05603859946131706,Dwight Gayle,a,743,OpenPlay,2014,LeftFoot,4572,Burnley,Crystal Palace,2,3,2015-01-17 15:00:00,Jason Puncheon,Chipped,743
+19659,4,BlockedShot,0.9730000305175781,0.5379999923706055,0.670041024684906,Dwight Gayle,h,743,SetPiece,2014,RightFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,,None,743
+19661,5,MissedShots,0.925,0.4470000076293945,0.09493549913167953,Dwight Gayle,h,743,OpenPlay,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Joe Ledley,HeadPass,743
+19673,59,MissedShots,0.7290000152587891,0.4929999923706055,0.01906220056116581,Dwight Gayle,h,743,OpenPlay,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Jason Puncheon,Pass,743
+23104,47,MissedShots,0.884000015258789,0.555,0.08083689957857132,Dwight Gayle,a,743,OpenPlay,2014,LeftFoot,4518,Leicester,Crystal Palace,0,1,2015-02-07 15:00:00,Martin Kelly,Cross,743
+23111,76,SavedShot,0.7769999694824219,0.6480000305175782,0.032118599861860275,Dwight Gayle,a,743,OpenPlay,2014,LeftFoot,4518,Leicester,Crystal Palace,0,1,2015-02-07 15:00:00,,None,743
+23793,26,MissedShots,0.794000015258789,0.860999984741211,0.03117999993264675,Dwight Gayle,h,743,DirectFreekick,2014,RightFoot,4537,Crystal Palace,Arsenal,1,2,2015-02-21 15:00:00,,Standard,743
+23796,41,BlockedShot,0.925,0.7290000152587891,0.049432601779699326,Dwight Gayle,h,743,OpenPlay,2014,RightFoot,4537,Crystal Palace,Arsenal,1,2,2015-02-21 15:00:00,,TakeOn,743
+23810,69,MissedShots,0.9109999847412109,0.5579999923706055,0.05511520057916641,Dwight Gayle,h,743,OpenPlay,2014,Head,4537,Crystal Palace,Arsenal,1,2,2015-02-21 15:00:00,Pape Souaré,Aerial,743
+22597,67,BlockedShot,0.919000015258789,0.695,0.04876739904284477,Dwight Gayle,h,743,FromCorner,2014,RightFoot,4493,Crystal Palace,Queens Park Rangers,3,1,2015-03-14 12:45:00,Yannick Bolasie,Rebound,743
+22602,76,SavedShot,0.8219999694824218,0.7319999694824219,0.06814870238304138,Dwight Gayle,h,743,DirectFreekick,2014,RightFoot,4493,Crystal Palace,Queens Park Rangers,3,1,2015-03-14 12:45:00,,Standard,743
+20273,55,ShotOnPost,0.975,0.46900001525878904,0.6674069762229919,Dwight Gayle,h,743,SetPiece,2014,Head,4462,Crystal Palace,West Bromwich Albion,0,2,2015-04-18 15:00:00,Pape Souaré,Cross,743
+22199,89,MissedShots,0.909000015258789,0.515,0.08980190008878708,Dwight Gayle,h,743,OpenPlay,2014,RightFoot,4474,Crystal Palace,Hull,0,2,2015-04-25 15:00:00,,None,743
+56501,58,MissedShots,0.865999984741211,0.5879999923706055,0.09274160116910934,Dwight Gayle,h,743,OpenPlay,2015,RightFoot,104,Crystal Palace,Aston Villa,2,1,2015-08-22 18:00:00,Yohan Cabaye,Pass,743
+57839,88,MissedShots,0.9319999694824219,0.5129999923706055,0.4439699947834015,Dwight Gayle,h,743,OpenPlay,2015,RightFoot,123,Crystal Palace,Manchester City,0,1,2015-09-12 18:00:00,Wilfried Zaha,Cross,743
+58556,59,ShotOnPost,0.9119999694824219,0.4520000076293945,0.32581400871276855,Dwight Gayle,a,743,OpenPlay,2015,RightFoot,149,Watford,Crystal Palace,0,1,2015-09-27 19:00:00,Bakary Sako,Cross,743
+58562,78,MissedShots,0.9669999694824218,0.4329999923706055,0.5368980169296265,Dwight Gayle,a,743,OpenPlay,2015,RightFoot,149,Watford,Crystal Palace,0,1,2015-09-27 19:00:00,Yannick Bolasie,HeadPass,743
+58565,83,MissedShots,0.8590000152587891,0.7140000152587891,0.048434700816869736,Dwight Gayle,a,743,OpenPlay,2015,LeftFoot,149,Watford,Crystal Palace,0,1,2015-09-27 19:00:00,Jason Puncheon,Chipped,743
+58717,3,BlockedShot,0.7919999694824219,0.425,0.011018799617886543,Dwight Gayle,h,743,FromCorner,2015,RightFoot,151,Crystal Palace,West Bromwich Albion,2,0,2015-10-03 15:45:00,Jason Puncheon,Chipped,743
+58735,54,BlockedShot,0.9069999694824219,0.375,0.061921101063489914,Dwight Gayle,h,743,OpenPlay,2015,RightFoot,151,Crystal Palace,West Bromwich Albion,2,0,2015-10-03 15:45:00,Wilfried Zaha,Cross,743
+59428,1,SavedShot,0.9,0.6309999847412109,0.10731600224971771,Dwight Gayle,h,743,OpenPlay,2015,LeftFoot,182,Crystal Palace,Manchester United,0,0,2015-10-31 19:00:00,,TakeOn,743
+59434,39,SavedShot,0.889000015258789,0.5590000152587891,0.0875374972820282,Dwight Gayle,h,743,OpenPlay,2015,RightFoot,182,Crystal Palace,Manchester United,0,0,2015-10-31 19:00:00,Yohan Cabaye,Chipped,743
+59442,75,SavedShot,0.87,0.365,0.0592276006937027,Dwight Gayle,h,743,OpenPlay,2015,RightFoot,182,Crystal Palace,Manchester United,0,0,2015-10-31 19:00:00,,None,743
+60316,88,MissedShots,0.7190000152587891,0.485,0.04585050046443939,Dwight Gayle,a,743,DirectFreekick,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,,Standard,743
+60346,74,Goal,0.905,0.54,0.4518370032310486,Dwight Gayle,a,743,OpenPlay,2015,RightFoot,390,West Ham,Crystal Palace,2,2,2016-04-02 18:00:00,,None,743
+57268,5,MissedShots,0.9059999847412109,0.4979999923706055,0.13760699331760406,Dwight Gayle,h,743,OpenPlay,2015,RightFoot,404,Crystal Palace,Everton,0,0,2016-04-13 23:00:00,Wilfried Zaha,Throughball,743
+57278,33,MissedShots,0.89,0.575,0.09272520244121552,Dwight Gayle,h,743,OpenPlay,2015,RightFoot,404,Crystal Palace,Everton,0,0,2016-04-13 23:00:00,,Rebound,743
+57280,44,SavedShot,0.95,0.555,0.0771716982126236,Dwight Gayle,h,743,SetPiece,2015,Head,404,Crystal Palace,Everton,0,0,2016-04-13 23:00:00,Yohan Cabaye,Aerial,743
+56227,20,BlockedShot,0.7390000152587891,0.34799999237060547,0.01312089990824461,Dwight Gayle,h,743,OpenPlay,2015,RightFoot,438,Crystal Palace,Stoke,2,1,2016-05-07 18:00:00,Jason Puncheon,LayOff,743
+56234,46,Goal,0.8930000305175781,0.5609999847412109,0.43904998898506165,Dwight Gayle,h,743,OpenPlay,2015,RightFoot,438,Crystal Palace,Stoke,2,1,2016-05-07 18:00:00,Yannick Bolasie,TakeOn,743
+56242,67,Goal,0.7419999694824219,0.38799999237060545,0.05180459842085838,Dwight Gayle,h,743,DirectFreekick,2015,RightFoot,438,Crystal Palace,Stoke,2,1,2016-05-07 18:00:00,,Standard,743
+56244,75,BlockedShot,0.97,0.38799999237060545,0.0804625004529953,Dwight Gayle,h,743,OpenPlay,2015,RightFoot,438,Crystal Palace,Stoke,2,1,2016-05-07 18:00:00,Yannick Bolasie,Cross,743
+52108,17,SavedShot,0.8630000305175781,0.69,0.06536290049552917,Dwight Gayle,a,743,OpenPlay,2015,LeftFoot,455,Southampton,Crystal Palace,4,1,2016-05-15 18:00:00,,TakeOn,743
+52120,44,SavedShot,0.8819999694824219,0.555,0.35026898980140686,Dwight Gayle,a,743,OpenPlay,2015,RightFoot,455,Southampton,Crystal Palace,4,1,2016-05-15 18:00:00,Jason Puncheon,Pass,743
+52140,88,MissedShots,0.919000015258789,0.5170000076293946,0.31042400002479553,Dwight Gayle,a,743,FromCorner,2015,Head,455,Southampton,Crystal Palace,4,1,2016-05-15 18:00:00,Sullay Kaikai,Cross,743
+158288,4,MissedShots,0.9030000305175782,0.664000015258789,0.1199129968881607,Dwight Gayle,h,743,OpenPlay,2017,LeftFoot,7127,Newcastle United,Tottenham,0,2,2017-08-13 13:30:00,Paul Dummett,Throughball,743
+158299,48,SavedShot,0.945,0.669000015258789,0.06806399673223495,Dwight Gayle,h,743,OpenPlay,2017,LeftFoot,7127,Newcastle United,Tottenham,0,2,2017-08-13 13:30:00,,Dispossessed,743
+158455,34,BlockedShot,0.9319999694824219,0.4520000076293945,0.1447799950838089,Dwight Gayle,a,743,OpenPlay,2017,LeftFoot,7136,Huddersfield,Newcastle United,1,0,2017-08-20 13:30:00,Christian Atsu,Pass,743
+159154,90,SavedShot,0.855999984741211,0.44299999237060544,0.08248010277748108,Dwight Gayle,a,743,OpenPlay,2017,LeftFoot,7177,Brighton,Newcastle United,1,0,2017-09-24 16:00:00,Ayoze Pérez,Pass,743
+160568,88,BlockedShot,0.9059999847412109,0.6580000305175782,0.034376900643110275,Dwight Gayle,a,743,OpenPlay,2017,LeftFoot,7195,Southampton,Newcastle United,2,2,2017-10-15 16:00:00,DeAndre Yedlin,Cross,743
+159892,89,SavedShot,0.884000015258789,0.5720000076293945,0.017596600577235222,Dwight Gayle,a,743,OpenPlay,2017,Head,7212,Burnley,Newcastle United,1,0,2017-10-30 20:00:00,Jonjo Shelvey,Aerial,743
+161053,12,BlockedShot,0.960999984741211,0.57,0.13421200215816498,Dwight Gayle,h,743,OpenPlay,2017,Head,7222,Newcastle United,Bournemouth,0,1,2017-11-04 15:00:00,Matt Ritchie,Cross,743
+161061,31,BlockedShot,0.9080000305175782,0.4929999923706055,0.13396300375461578,Dwight Gayle,h,743,OpenPlay,2017,LeftFoot,7222,Newcastle United,Bournemouth,0,1,2017-11-04 15:00:00,Isaac Hayden,Pass,743
+161066,39,MissedShots,0.899000015258789,0.524000015258789,0.044318199157714844,Dwight Gayle,h,743,OpenPlay,2017,Head,7222,Newcastle United,Bournemouth,0,1,2017-11-04 15:00:00,Matt Ritchie,Aerial,743
+160890,13,Goal,0.8880000305175781,0.4520000076293945,0.3697510063648224,Dwight Gayle,a,743,OpenPlay,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,DeAndre Yedlin,Pass,743
+161611,11,Goal,0.9169999694824219,0.3609999847412109,0.3165229856967926,Dwight Gayle,a,743,OpenPlay,2017,RightFoot,7259,Chelsea,Newcastle United,3,1,2017-12-02 12:30:00,,TakeOn,743
+179271,6,MissedShots,0.8109999847412109,0.6370000076293946,0.046025898307561874,Dwight Gayle,h,743,OpenPlay,2017,LeftFoot,7277,Newcastle United,Leicester,2,3,2017-12-09 17:30:00,Mikel Merino,Pass,743
+179289,72,Goal,0.8580000305175781,0.38799999237060545,0.04796769842505455,Dwight Gayle,h,743,FromCorner,2017,LeftFoot,7277,Newcastle United,Leicester,2,3,2017-12-09 17:30:00,Mikel Merino,HeadPass,743
+179290,77,MissedShots,0.9169999694824219,0.67,0.07834450155496597,Dwight Gayle,h,743,OpenPlay,2017,LeftFoot,7277,Newcastle United,Leicester,2,3,2017-12-09 17:30:00,Joselu,Pass,743
+179293,93,BlockedShot,0.7859999847412109,0.61,0.027574999257922173,Dwight Gayle,h,743,OpenPlay,2017,LeftFoot,7277,Newcastle United,Leicester,2,3,2017-12-09 17:30:00,,None,743
+182963,43,SavedShot,0.8530000305175781,0.5320000076293945,0.07576730102300644,Dwight Gayle,h,743,OpenPlay,2017,RightFoot,7284,Newcastle United,Everton,0,1,2017-12-13 19:45:00,Christian Atsu,Pass,743
+182964,51,BlockedShot,0.9330000305175781,0.425,0.0926641970872879,Dwight Gayle,h,743,OpenPlay,2017,RightFoot,7284,Newcastle United,Everton,0,1,2017-12-13 19:45:00,Jonjo Shelvey,Cross,743
+185268,7,BlockedShot,0.7319999694824219,0.6959999847412109,0.03778870031237602,Dwight Gayle,a,743,DirectFreekick,2017,RightFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,,Standard,743
+185271,16,ShotOnPost,0.9319999694824219,0.4909999847412109,0.5357739925384521,Dwight Gayle,a,743,OpenPlay,2017,LeftFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,DeAndre Yedlin,Rebound,743
+185280,38,MissedShots,0.87,0.415,0.09764859825372696,Dwight Gayle,a,743,OpenPlay,2017,RightFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,Matt Ritchie,Pass,743
+185741,81,BlockedShot,0.7619999694824219,0.43400001525878906,0.023142099380493164,Dwight Gayle,h,743,OpenPlay,2017,RightFoot,7315,Newcastle United,Manchester City,0,1,2017-12-27 19:45:00,Jonjo Shelvey,Pass,743
+185743,88,MissedShots,0.875999984741211,0.5309999847412109,0.04335489869117737,Dwight Gayle,h,743,OpenPlay,2017,Head,7315,Newcastle United,Manchester City,0,1,2017-12-27 19:45:00,Christian Atsu,Cross,743
+186034,36,BlockedShot,0.7530000305175781,0.46,0.02017419971525669,Dwight Gayle,h,743,OpenPlay,2017,LeftFoot,7325,Newcastle United,Brighton,0,0,2017-12-30 15:00:00,Joselu,BallRecovery,743
+186043,57,SavedShot,0.92,0.5870000076293945,0.19870500266551971,Dwight Gayle,h,743,OpenPlay,2017,Head,7325,Newcastle United,Brighton,0,0,2017-12-30 15:00:00,Christian Atsu,Cross,743
+186047,69,BlockedShot,0.855,0.42700000762939455,0.10012000054121017,Dwight Gayle,h,743,OpenPlay,2017,RightFoot,7325,Newcastle United,Brighton,0,0,2017-12-30 15:00:00,Isaac Hayden,LayOff,743
+187419,3,SavedShot,0.919000015258789,0.4809999847412109,0.34774601459503174,Dwight Gayle,h,743,OpenPlay,2017,Head,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Paul Dummett,Cross,743
+187421,11,MissedShots,0.9269999694824219,0.5070000076293946,0.3816620111465454,Dwight Gayle,h,743,OpenPlay,2017,Head,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Ayoze Pérez,Chipped,743
+187430,48,MissedShots,0.855999984741211,0.6519999694824219,0.05729139968752861,Dwight Gayle,h,743,OpenPlay,2017,LeftFoot,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Ayoze Pérez,Pass,743
+188938,90,MissedShots,0.9230000305175782,0.5309999847412109,0.32820001244544983,Dwight Gayle,a,743,OpenPlay,2017,Head,7354,Manchester City,Newcastle United,3,1,2018-01-20 17:30:00,Jonjo Shelvey,Cross,743
+193679,5,SavedShot,0.8640000152587891,0.580999984741211,0.07184969633817673,Dwight Gayle,a,743,SetPiece,2017,RightFoot,7373,Crystal Palace,Newcastle United,1,1,2018-02-04 14:15:00,Paul Dummett,Chipped,743
+193918,4,MissedShots,0.81,0.7,0.07344719767570496,Dwight Gayle,h,743,DirectFreekick,2017,RightFoot,7383,Newcastle United,Manchester United,1,0,2018-02-11 14:15:00,,Standard,743
+197315,16,Goal,0.9819999694824219,0.5,0.9296249747276306,Dwight Gayle,a,743,OpenPlay,2017,RightFoot,7390,Bournemouth,Newcastle United,2,2,2018-02-24 15:00:00,,None,743
+197314,16,SavedShot,0.9569999694824218,0.5029999923706054,0.6891520023345947,Dwight Gayle,a,743,OpenPlay,2017,LeftFoot,7390,Bournemouth,Newcastle United,2,2,2018-02-24 15:00:00,Matt Ritchie,Pass,743
+197319,36,MissedShots,0.8580000305175781,0.7419999694824219,0.04046750068664551,Dwight Gayle,a,743,OpenPlay,2017,LeftFoot,7390,Bournemouth,Newcastle United,2,2,2018-02-24 15:00:00,Paul Dummett,BallRecovery,743
+197324,45,Goal,0.9819999694824219,0.52,0.9352440237998962,Dwight Gayle,a,743,OpenPlay,2017,LeftFoot,7390,Bournemouth,Newcastle United,2,2,2018-02-24 15:00:00,Ayoze Pérez,Pass,743
+197330,71,BlockedShot,0.8,0.385,0.09941429644823074,Dwight Gayle,a,743,DirectFreekick,2017,RightFoot,7390,Bournemouth,Newcastle United,2,2,2018-02-24 15:00:00,,Standard,743
+199031,28,MissedShots,0.7390000152587891,0.5359999847412109,0.01968280039727688,Dwight Gayle,a,743,OpenPlay,2017,RightFoot,7403,Liverpool,Newcastle United,2,0,2018-03-03 17:30:00,Christian Atsu,Pass,743
+199959,24,SavedShot,0.81,0.524000015258789,0.06382810324430466,Dwight Gayle,h,743,OpenPlay,2017,LeftFoot,7415,Newcastle United,Southampton,3,0,2018-03-10 15:00:00,Mohamed Diamé,None,743
+203971,13,MissedShots,0.8819999694824219,0.49700000762939456,0.09114989638328552,Dwight Gayle,h,743,OpenPlay,2017,LeftFoot,7436,Newcastle United,Huddersfield,1,0,2018-03-31 15:00:00,Jonjo Shelvey,None,743
+203969,13,BlockedShot,0.8690000152587891,0.5329999923706055,0.09142360091209412,Dwight Gayle,h,743,OpenPlay,2017,RightFoot,7436,Newcastle United,Huddersfield,1,0,2018-03-31 15:00:00,,BallTouch,743
+203975,25,SavedShot,0.8480000305175781,0.7669999694824219,0.0226329006254673,Dwight Gayle,h,743,OpenPlay,2017,RightFoot,7436,Newcastle United,Huddersfield,1,0,2018-03-31 15:00:00,Jonjo Shelvey,Pass,743
+203976,27,MissedShots,0.845,0.54,0.2806189954280853,Dwight Gayle,h,743,SetPiece,2017,RightFoot,7436,Newcastle United,Huddersfield,1,0,2018-03-31 15:00:00,Jonjo Shelvey,Chipped,743
+203977,32,MissedShots,0.905,0.534000015258789,0.325764000415802,Dwight Gayle,h,743,OpenPlay,2017,RightFoot,7436,Newcastle United,Huddersfield,1,0,2018-03-31 15:00:00,DeAndre Yedlin,Cross,743
+203980,41,MissedShots,0.9419999694824219,0.42900001525878906,0.10469699651002884,Dwight Gayle,h,743,OpenPlay,2017,RightFoot,7436,Newcastle United,Huddersfield,1,0,2018-03-31 15:00:00,,None,743
+207005,3,SavedShot,0.9269999694824219,0.4909999847412109,0.05668430030345917,Dwight Gayle,a,743,FromCorner,2017,Head,7444,Leicester,Newcastle United,1,2,2018-04-07 14:00:00,Kenedy,Aerial,743
+207010,47,MissedShots,0.7880000305175782,0.6669999694824219,0.0697564035654068,Dwight Gayle,a,743,DirectFreekick,2017,RightFoot,7444,Leicester,Newcastle United,1,2,2018-04-07 14:00:00,,Standard,743
+211302,63,MissedShots,0.91,0.5520000076293945,0.10509099811315536,Dwight Gayle,a,743,FromCorner,2017,RightFoot,7461,Everton,Newcastle United,1,0,2018-04-23 19:00:00,Jamaal Lascelles,HeadPass,743
+211705,16,SavedShot,0.7759999847412109,0.5070000076293946,0.030894000083208084,Dwight Gayle,h,743,OpenPlay,2017,LeftFoot,7474,Newcastle United,West Bromwich Albion,0,1,2018-04-28 14:00:00,,None,743
+211710,42,MissedShots,0.9069999694824219,0.5029999923706054,0.038325898349285126,Dwight Gayle,h,743,OpenPlay,2017,Head,7474,Newcastle United,West Bromwich Albion,0,1,2018-04-28 14:00:00,Ayoze Pérez,Aerial,743
+211712,44,SavedShot,0.9780000305175781,0.49700000762939456,0.4718480110168457,Dwight Gayle,h,743,FromCorner,2017,Head,7474,Newcastle United,West Bromwich Albion,0,1,2018-04-28 14:00:00,Florian Lejeune,End,743
+213327,56,BlockedShot,0.855999984741211,0.24,0.021949799731373787,Dwight Gayle,a,743,OpenPlay,2017,RightFoot,7482,Watford,Newcastle United,2,1,2018-05-05 15:00:00,,BallRecovery,743
+213330,71,MissedShots,0.9459999847412109,0.5870000076293945,0.08318120241165161,Dwight Gayle,a,743,OpenPlay,2017,Head,7482,Watford,Newcastle United,2,1,2018-05-05 15:00:00,Matt Ritchie,Cross,743
+214360,5,BlockedShot,0.8490000152587891,0.27,0.10510600358247757,Dwight Gayle,a,743,OpenPlay,2017,RightFoot,7427,Tottenham,Newcastle United,1,0,2018-05-09 20:00:00,Jonjo Shelvey,Throughball,743
+214366,28,MissedShots,0.9180000305175782,0.4420000076293945,0.050692301243543625,Dwight Gayle,a,743,OpenPlay,2017,Head,7427,Tottenham,Newcastle United,1,0,2018-05-09 20:00:00,Ayoze Pérez,Aerial,743
+214370,39,SavedShot,0.8980000305175782,0.610999984741211,0.06412550061941147,Dwight Gayle,a,743,OpenPlay,2017,LeftFoot,7427,Tottenham,Newcastle United,1,0,2018-05-09 20:00:00,Mohamed Diamé,Cross,743
+215775,22,Goal,0.965,0.4909999847412109,0.696681022644043,Dwight Gayle,h,743,OpenPlay,2017,Head,7497,Newcastle United,Chelsea,3,0,2018-05-13 15:00:00,,Rebound,743
+215778,26,SavedShot,0.759000015258789,0.5220000076293946,0.03341139853000641,Dwight Gayle,h,743,OpenPlay,2017,LeftFoot,7497,Newcastle United,Chelsea,3,0,2018-05-13 15:00:00,Ayoze Pérez,Pass,743
+337096,80,MissedShots,0.960999984741211,0.44599998474121094,0.5642099976539612,Dwight Gayle,a,743,OpenPlay,2019,LeftFoot,11804,Burnley,Newcastle United,1,0,2019-12-14 15:00:00,Joelinton,Pass,743
+339647,14,MissedShots,0.8859999847412109,0.6370000076293946,0.3323349952697754,Dwight Gayle,a,743,OpenPlay,2019,LeftFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Joelinton,Throughball,743
+353232,17,BlockedShot,0.8880000305175781,0.5590000152587891,0.07908780127763748,Dwight Gayle,h,743,OpenPlay,2019,RightFoot,11918,Newcastle United,Burnley,0,0,2020-02-29 15:00:00,Javier Manquillo,Cross,743
+353243,41,MissedShots,0.9030000305175782,0.5709999847412109,0.04233429953455925,Dwight Gayle,h,743,FromCorner,2019,Head,11918,Newcastle United,Burnley,0,0,2020-02-29 15:00:00,Matt Ritchie,Cross,743
+353244,43,SavedShot,0.8730000305175781,0.34700000762939454,0.09606750309467316,Dwight Gayle,h,743,OpenPlay,2019,RightFoot,11918,Newcastle United,Burnley,0,0,2020-02-29 15:00:00,Miguel Almirón,Pass,743
+353250,64,MissedShots,0.9069999694824219,0.5359999847412109,0.11463700234889984,Dwight Gayle,h,743,OpenPlay,2019,RightFoot,11918,Newcastle United,Burnley,0,0,2020-02-29 15:00:00,Miguel Almirón,Cross,743
+353460,7,SavedShot,0.9319999694824219,0.6969999694824218,0.03368910029530525,Dwight Gayle,a,743,FromCorner,2019,LeftFoot,11930,Southampton,Newcastle United,0,1,2020-03-07 15:00:00,Matt Ritchie,Cross,743
+353457,7,SavedShot,0.9440000152587891,0.4640000152587891,0.5290300250053406,Dwight Gayle,a,743,OpenPlay,2019,RightFoot,11930,Southampton,Newcastle United,0,1,2020-03-07 15:00:00,Miguel Almirón,BallTouch,743
+353462,30,SavedShot,0.8980000305175782,0.5,0.20040999352931976,Dwight Gayle,a,743,OpenPlay,2019,Head,11930,Southampton,Newcastle United,0,1,2020-03-07 15:00:00,Jonjo Shelvey,Cross,743
+353463,33,MissedShots,0.9230000305175782,0.565,0.46335598826408386,Dwight Gayle,a,743,OpenPlay,2019,RightFoot,11930,Southampton,Newcastle United,0,1,2020-03-07 15:00:00,Allan Saint-Maximin,Pass,743
+353466,47,BlockedShot,0.92,0.6719999694824219,0.06988979876041412,Dwight Gayle,a,743,OpenPlay,2019,LeftFoot,11930,Southampton,Newcastle United,0,1,2020-03-07 15:00:00,Jonjo Shelvey,Pass,743
+366358,67,Goal,0.91,0.395,0.11448000371456146,Dwight Gayle,h,743,OpenPlay,2019,RightFoot,11949,Newcastle United,Aston Villa,1,1,2020-06-24 17:00:00,Andy Carroll,Pass,743
+367968,4,Goal,0.8809999847412109,0.3920000076293945,0.29002800583839417,Dwight Gayle,a,743,OpenPlay,2019,RightFoot,11955,Bournemouth,Newcastle United,1,4,2020-07-01 17:00:00,Allan Saint-Maximin,Pass,743
+368905,9,SavedShot,0.745999984741211,0.504000015258789,0.06204469874501228,Dwight Gayle,h,743,DirectFreekick,2019,RightFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,,Standard,743
+370379,22,Goal,0.9830000305175781,0.5309999847412109,0.9273250102996826,Dwight Gayle,a,743,FromCorner,2019,LeftFoot,11991,Watford,Newcastle United,2,1,2020-07-11 11:30:00,Federico Fernández,Rebound,743
+370390,49,MissedShots,0.909000015258789,0.5120000076293946,0.12318900227546692,Dwight Gayle,a,743,OpenPlay,2019,LeftFoot,11991,Watford,Newcastle United,2,1,2020-07-11 11:30:00,Matt Ritchie,Cross,743
+370392,52,SavedShot,0.7759999847412109,0.6930000305175781,0.017916200682520866,Dwight Gayle,a,743,OpenPlay,2019,RightFoot,11991,Watford,Newcastle United,2,1,2020-07-11 11:30:00,Miguel Almirón,Pass,743
+371488,19,BlockedShot,0.860999984741211,0.6930000305175781,0.03364939987659454,Dwight Gayle,h,743,OpenPlay,2019,RightFoot,12000,Newcastle United,Tottenham,1,3,2020-07-15 17:00:00,Jonjo Shelvey,Pass,743
+371496,41,ShotOnPost,0.93,0.40900001525878904,0.030849700793623924,Dwight Gayle,h,743,OpenPlay,2019,Head,12000,Newcastle United,Tottenham,1,3,2020-07-15 17:00:00,Jonjo Shelvey,Aerial,743
+372897,17,BlockedShot,0.9080000305175782,0.7019999694824218,0.051350899040699005,Dwight Gayle,a,743,OpenPlay,2019,LeftFoot,12005,Brighton,Newcastle United,0,0,2020-07-20 17:00:00,Matt Ritchie,Pass,743
+372904,46,BlockedShot,0.9530000305175781,0.5659999847412109,0.10906700044870377,Dwight Gayle,a,743,FromCorner,2019,Head,12005,Brighton,Newcastle United,0,0,2020-07-20 17:00:00,Matt Ritchie,Cross,743
+372905,47,MissedShots,0.9569999694824218,0.5629999923706055,0.062249600887298584,Dwight Gayle,a,743,FromCorner,2019,Head,12005,Brighton,Newcastle United,0,0,2020-07-20 17:00:00,Jonjo Shelvey,Aerial,743
+373773,0,Goal,0.9,0.6079999923706054,0.29230400919914246,Dwight Gayle,h,743,SetPiece,2019,RightFoot,12016,Newcastle United,Liverpool,1,3,2020-07-26 15:00:00,Jonjo Shelvey,Chipped,743
+391638,70,BlockedShot,0.9059999847412109,0.5209999847412109,0.02592659927904606,Dwight Gayle,h,743,FromCorner,2020,Head,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Matt Ritchie,Aerial,743
+391639,72,BlockedShot,0.855999984741211,0.53,0.07390239834785461,Dwight Gayle,h,743,OpenPlay,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,,None,743
+391643,81,Goal,0.9119999694824219,0.47,0.11908300220966339,Dwight Gayle,h,743,OpenPlay,2020,Head,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Jacob Murphy,Cross,743
+400688,91,MissedShots,0.9219999694824219,0.57,0.10314600169658661,Dwight Gayle,a,743,FromCorner,2020,RightFoot,14535,Aston Villa,Newcastle United,2,0,2021-01-23 20:00:00,Jeff Hendrick,None,743
+401151,83,MissedShots,0.7440000152587891,0.575,0.0569147989153862,Dwight Gayle,h,743,DirectFreekick,2020,RightFoot,14631,Newcastle United,Leeds,1,2,2021-01-26 18:00:00,,Standard,743
+405122,45,SavedShot,0.8690000152587891,0.524000015258789,0.06830359995365143,Dwight Gayle,a,743,OpenPlay,2020,RightFoot,14667,Chelsea,Newcastle United,2,0,2021-02-15 20:00:00,Isaac Hayden,Rebound,743
+409671,44,MissedShots,0.9019999694824219,0.649000015258789,0.06665399670600891,Dwight Gayle,h,743,OpenPlay,2020,LeftFoot,14712,Newcastle United,Aston Villa,1,1,2021-03-12 20:00:00,Joe Willock,Chipped,743
+409688,92,SavedShot,0.9630000305175781,0.47200000762939454,0.14736099541187286,Dwight Gayle,h,743,OpenPlay,2020,RightFoot,14712,Newcastle United,Aston Villa,1,1,2021-03-12 20:00:00,Jacob Murphy,Pass,743
+413078,15,BlockedShot,0.925,0.504000015258789,0.06375910341739655,Dwight Gayle,h,743,OpenPlay,2020,Head,14732,Newcastle United,Tottenham,2,2,2021-04-04 13:05:00,Jacob Murphy,Aerial,743
+413080,18,SavedShot,0.970999984741211,0.53,0.7498540282249451,Dwight Gayle,h,743,OpenPlay,2020,LeftFoot,14732,Newcastle United,Tottenham,2,2,2021-04-04 13:05:00,,Rebound,743
+413079,18,SavedShot,0.9259999847412109,0.5029999923706054,0.3543640077114105,Dwight Gayle,h,743,OpenPlay,2020,Head,14732,Newcastle United,Tottenham,2,2,2021-04-04 13:05:00,Jonjo Shelvey,Chipped,743
+413094,60,MissedShots,0.9169999694824219,0.40400001525878904,0.0724375993013382,Dwight Gayle,h,743,FromCorner,2020,RightFoot,14732,Newcastle United,Tottenham,2,2,2021-04-04 13:05:00,,Clearance,743
+414201,4,BlockedShot,0.9209999847412109,0.5,0.06133430078625679,Dwight Gayle,a,743,OpenPlay,2020,Head,14736,Burnley,Newcastle United,1,2,2021-04-11 11:00:00,Federico Fernández,Aerial,743
+414212,37,SavedShot,0.965,0.4420000076293945,0.5515760183334351,Dwight Gayle,a,743,OpenPlay,2020,LeftFoot,14736,Burnley,Newcastle United,1,2,2021-04-11 11:00:00,Jacob Murphy,Cross,743
+414214,38,MissedShots,0.8819999694824219,0.6370000076293946,0.05580509826540947,Dwight Gayle,a,743,OpenPlay,2020,LeftFoot,14736,Burnley,Newcastle United,1,2,2021-04-11 11:00:00,,None,743
+423988,66,MissedShots,0.9319999694824219,0.45,0.359375,Dwight Gayle,a,743,SetPiece,2020,Head,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,Matt Ritchie,Cross,743
+434939,77,MissedShots,0.9259999847412109,0.509000015258789,0.0604202002286911,Dwight Gayle,a,743,OpenPlay,2021,Head,16445,Wolverhampton Wanderers,Newcastle United,2,1,2021-10-02 14:00:00,Matt Ritchie,Aerial,743
+476900,95,MissedShots,0.9640000152587891,0.44299999237060544,0.15192599594593048,Dwight Gayle,h,743,OpenPlay,2021,RightFoot,16741,Newcastle United,Arsenal,2,0,2022-05-16 19:00:00,Sean Longstaff,Pass,743

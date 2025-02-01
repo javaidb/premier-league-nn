@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15033,87,Goal,0.9790000152587891,0.47200000762939454,0.907043993473053,Mike Williamson,h,984,OpenPlay,2014,LeftFoot,4771,Newcastle United,Crystal Palace,3,3,2014-08-30 15:00:00,,Rebound,984
+17585,70,BlockedShot,0.7580000305175781,0.46299999237060546,0.019810199737548828,Mike Williamson,a,984,SetPiece,2014,LeftFoot,4565,Chelsea,Newcastle United,2,0,2015-01-10 15:00:00,Jack Colback,Pass,984
+23261,15,MissedShots,0.75,0.4879999923706055,0.018795199692249298,Mike Williamson,a,984,SetPiece,2014,LeftFoot,4581,Hull,Newcastle United,0,3,2015-01-31 12:45:00,Ayoze Pérez,Pass,984
+24217,49,MissedShots,0.8030000305175782,0.36400001525878906,0.02438019961118698,Mike Williamson,a,984,SetPiece,2014,LeftFoot,4533,Crystal Palace,Newcastle United,1,1,2015-02-11 20:00:00,,None,984
+23559,71,SavedShot,0.8869999694824219,0.52,0.017393799498677254,Mike Williamson,h,984,FromCorner,2014,Head,4548,Newcastle United,Aston Villa,1,0,2015-02-28 15:00:00,Emmanuel Rivière,Aerial,984
+21282,40,BlockedShot,0.955999984741211,0.605999984741211,0.02299319952726364,Mike Williamson,h,984,SetPiece,2014,Head,4487,Newcastle United,Manchester United,0,1,2015-03-04 19:45:00,Ryan Taylor,Aerial,984
+22771,2,BlockedShot,0.9640000152587891,0.54,0.1494929939508438,Mike Williamson,a,984,FromCorner,2014,LeftFoot,4500,Everton,Newcastle United,3,0,2015-03-15 16:00:00,,Rebound,984
+21320,26,MissedShots,0.9259999847412109,0.48700000762939455,0.06751800328493118,Mike Williamson,h,984,SetPiece,2014,Head,4467,Newcastle United,Tottenham,1,3,2015-04-19 16:00:00,Ryan Taylor,Aerial,984
+21160,36,MissedShots,0.9259999847412109,0.5309999847412109,0.06346070021390915,Mike Williamson,a,984,SetPiece,2014,Head,4399,Leicester,Newcastle United,3,0,2015-05-02 12:45:00,Ryan Taylor,Aerial,984
+23132,47,MissedShots,0.9269999694824219,0.42900001525878906,0.07314399629831314,Mike Williamson,h,984,FromCorner,2014,Head,4438,Newcastle United,West Ham,2,0,2015-05-24 15:00:00,Jack Colback,Cross,984

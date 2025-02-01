@@ -1,0 +1,482 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+16299,34,BlockedShot,0.96,0.545,0.058422498404979706,Christian Benteke,a,606,FromCorner,2014,Head,4700,Everton,Aston Villa,3,0,2014-10-18 15:00:00,Ashley Westwood,Card,606
+16302,50,BlockedShot,0.9059999847412109,0.49,0.08839509636163712,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4700,Everton,Aston Villa,3,0,2014-10-18 15:00:00,Aly Cissokho,Cross,606
+17594,19,MissedShots,0.8580000305175781,0.45,0.05768259987235069,Christian Benteke,a,606,OpenPlay,2014,Head,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Ashley Westwood,Throughball,606
+17597,22,BlockedShot,0.8780000305175781,0.705,0.04344459995627403,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Andreas Weimann,Pass,606
+17601,38,SavedShot,0.85,0.66,0.04201409965753555,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Andreas Weimann,Dispossessed,606
+17610,79,MissedShots,0.9119999694824219,0.45599998474121095,0.03211839869618416,Christian Benteke,a,606,FromCorner,2014,Head,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,,Aerial,606
+17614,88,MissedShots,0.705,0.5829999923706055,0.008217819966375828,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Darren Bent,HeadPass,606
+16881,2,BlockedShot,0.8969999694824219,0.6580000305175782,0.061304401606321335,Christian Benteke,h,606,OpenPlay,2014,LeftFoot,4657,Aston Villa,Tottenham,1,2,2014-11-02 16:00:00,,None,606
+16884,10,MissedShots,0.9030000305175782,0.47200000762939454,0.24199600517749786,Christian Benteke,h,606,OpenPlay,2014,Head,4657,Aston Villa,Tottenham,1,2,2014-11-02 16:00:00,Matthew Lowton,Cross,606
+16887,13,ShotOnPost,0.8530000305175781,0.54,0.08995009958744049,Christian Benteke,h,606,OpenPlay,2014,LeftFoot,4657,Aston Villa,Tottenham,1,2,2014-11-02 16:00:00,Aly Cissokho,Pass,606
+16898,42,MissedShots,0.875999984741211,0.53,0.01284720003604889,Christian Benteke,h,606,SetPiece,2014,Head,4657,Aston Villa,Tottenham,1,2,2014-11-02 16:00:00,Aly Cissokho,Aerial,606
+19309,27,SavedShot,0.784000015258789,0.6120000076293945,0.030239300802350044,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4593,Crystal Palace,Aston Villa,0,1,2014-12-02 20:00:00,Carlos Sánchez,Pass,606
+19311,31,Goal,0.825,0.6759999847412109,0.03734710067510605,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4593,Crystal Palace,Aston Villa,0,1,2014-12-02 20:00:00,,BallRecovery,606
+19792,9,MissedShots,0.764000015258789,0.5729999923706055,0.02670539915561676,Christian Benteke,h,606,OpenPlay,2014,RightFoot,4607,Aston Villa,Leicester,2,1,2014-12-07 16:00:00,Tom Cleverley,Pass,606
+19793,11,MissedShots,0.8919999694824219,0.3189999961853027,0.05001800134778023,Christian Benteke,h,606,OpenPlay,2014,RightFoot,4607,Aston Villa,Leicester,2,1,2014-12-07 16:00:00,Alan Hutton,Chipped,606
+19801,38,BlockedShot,0.8859999847412109,0.5629999923706055,0.028780700638890266,Christian Benteke,h,606,FromCorner,2014,Head,4607,Aston Villa,Leicester,2,1,2014-12-07 16:00:00,Ashley Westwood,Cross,606
+19800,38,BlockedShot,0.8390000152587891,0.47200000762939454,0.08800099790096283,Christian Benteke,h,606,OpenPlay,2014,RightFoot,4607,Aston Villa,Leicester,2,1,2014-12-07 16:00:00,Tom Cleverley,Pass,606
+19805,52,SavedShot,0.8640000152587891,0.5870000076293945,0.3205139935016632,Christian Benteke,h,606,OpenPlay,2014,RightFoot,4607,Aston Villa,Leicester,2,1,2014-12-07 16:00:00,Kieran Richardson,Throughball,606
+19810,75,SavedShot,0.9230000305175782,0.42700000762939455,0.30088499188423157,Christian Benteke,h,606,OpenPlay,2014,Head,4607,Aston Villa,Leicester,2,1,2014-12-07 16:00:00,Jack Grealish,Cross,606
+18592,78,MissedShots,0.9459999847412109,0.54,0.10620299726724625,Christian Benteke,a,606,SetPiece,2014,RightFoot,4612,West Bromwich Albion,Aston Villa,1,0,2014-12-13 15:00:00,Ciaran Clark,HeadPass,606
+18594,92,MissedShots,0.840999984741211,0.5979999923706054,0.051333099603652954,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4612,West Bromwich Albion,Aston Villa,1,0,2014-12-13 15:00:00,Gabriel Agbonlahor,BallTouch,606
+18675,17,Goal,0.8830000305175781,0.3559999847412109,0.05733039975166321,Christian Benteke,h,606,SetPiece,2014,LeftFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,,None,606
+18680,47,SavedShot,0.955999984741211,0.42900001525878906,0.1041719987988472,Christian Benteke,h,606,FromCorner,2014,Head,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Fabian Delph,Cross,606
+18107,31,MissedShots,0.7380000305175781,0.58,0.052870798856019974,Christian Benteke,a,606,DirectFreekick,2014,RightFoot,4631,Swansea,Aston Villa,1,0,2014-12-26 15:00:00,,Standard,606
+18111,54,MissedShots,0.8159999847412109,0.615,0.04500420019030571,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4631,Swansea,Aston Villa,1,0,2014-12-26 15:00:00,Andreas Weimann,Pass,606
+18118,90,SavedShot,0.9,0.48900001525878906,0.291238009929657,Christian Benteke,a,606,OpenPlay,2014,Head,4631,Swansea,Aston Villa,1,0,2014-12-26 15:00:00,Jores Okore,Aerial,606
+18316,4,MissedShots,0.77,0.6830000305175781,0.022520700469613075,Christian Benteke,h,606,OpenPlay,2014,RightFoot,4644,Aston Villa,Sunderland,0,0,2014-12-28 15:00:00,Tom Cleverley,Pass,606
+18337,86,BlockedShot,0.8430000305175781,0.524000015258789,0.05045219883322716,Christian Benteke,h,606,OpenPlay,2014,RightFoot,4644,Aston Villa,Sunderland,0,0,2014-12-28 15:00:00,Andreas Weimann,Cross,606
+18341,89,MissedShots,0.9540000152587891,0.49400001525878906,0.13258400559425354,Christian Benteke,h,606,FromCorner,2014,Head,4644,Aston Villa,Sunderland,0,0,2014-12-28 15:00:00,Leandro Bacuna,Cross,606
+19327,0,SavedShot,0.9,0.32,0.052063100039958954,Christian Benteke,h,606,OpenPlay,2014,RightFoot,4557,Aston Villa,Crystal Palace,0,0,2015-01-01 15:00:00,Andreas Weimann,Pass,606
+19339,53,MissedShots,0.9109999847412109,0.4640000152587891,0.07461410015821457,Christian Benteke,h,606,FromCorner,2014,Head,4557,Aston Villa,Crystal Palace,0,0,2015-01-01 15:00:00,Leandro Bacuna,Cross,606
+19342,70,MissedShots,0.9059999847412109,0.42900001525878906,0.33771899342536926,Christian Benteke,h,606,SetPiece,2014,RightFoot,4557,Aston Villa,Crystal Palace,0,0,2015-01-01 15:00:00,Carlos Sánchez,Cross,606
+19345,83,MissedShots,0.885,0.5020000076293946,0.015448000282049179,Christian Benteke,h,606,FromCorner,2014,Head,4557,Aston Villa,Crystal Palace,0,0,2015-01-01 15:00:00,Leandro Bacuna,Aerial,606
+17929,57,SavedShot,0.8490000152587891,0.675,0.048336099833250046,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4567,Leicester,Aston Villa,1,0,2015-01-10 15:00:00,Ashley Westwood,Pass,606
+17937,94,MissedShots,0.909000015258789,0.55,0.06544449925422668,Christian Benteke,a,606,FromCorner,2014,Head,4567,Leicester,Aston Villa,1,0,2015-01-10 15:00:00,Ashley Westwood,Cross,606
+18451,16,SavedShot,0.8780000305175781,0.5790000152587891,0.014777599833905697,Christian Benteke,h,606,OpenPlay,2014,Head,4571,Aston Villa,Liverpool,0,2,2015-01-17 15:00:00,Alan Hutton,Aerial,606
+18458,60,SavedShot,0.925,0.38799999237060545,0.07553870230913162,Christian Benteke,h,606,OpenPlay,2014,RightFoot,4571,Aston Villa,Liverpool,0,2,2015-01-17 15:00:00,Nathan Baker,HeadPass,606
+18462,67,BlockedShot,0.8930000305175781,0.3370000076293945,0.09936100244522095,Christian Benteke,h,606,OpenPlay,2014,RightFoot,4571,Aston Villa,Liverpool,0,2,2015-01-17 15:00:00,Fabian Delph,Throughball,606
+18465,69,MissedShots,0.8690000152587891,0.52,0.07661750167608261,Christian Benteke,h,606,OpenPlay,2014,RightFoot,4571,Aston Villa,Liverpool,0,2,2015-01-17 15:00:00,Alan Hutton,Cross,606
+18466,72,MissedShots,0.9030000305175782,0.5220000076293946,0.06823469698429108,Christian Benteke,h,606,FromCorner,2014,Head,4571,Aston Villa,Liverpool,0,2,2015-01-17 15:00:00,Carles Gil,Cross,606
+19464,33,BlockedShot,0.8490000152587891,0.45599998474121095,0.06915629655122757,Christian Benteke,a,606,OpenPlay,2014,LeftFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Andreas Weimann,Pass,606
+19467,45,MissedShots,0.865,0.5209999847412109,0.0916886031627655,Christian Benteke,a,606,OpenPlay,2014,LeftFoot,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Andreas Weimann,Pass,606
+19468,50,MissedShots,0.905,0.5209999847412109,0.09070350229740143,Christian Benteke,a,606,OpenPlay,2014,Head,4513,Arsenal,Aston Villa,5,0,2015-02-01 13:30:00,Kieran Richardson,Cross,606
+24004,91,MissedShots,0.915,0.44400001525878907,0.07241649925708771,Christian Benteke,h,606,OpenPlay,2014,Head,4516,Aston Villa,Chelsea,1,2,2015-02-07 15:00:00,Alan Hutton,Cross,606
+23939,48,MissedShots,0.7390000152587891,0.674000015258789,0.013447600416839123,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4527,Hull,Aston Villa,2,0,2015-02-10 19:45:00,,None,606
+23943,62,BlockedShot,0.89,0.355,0.011723100207746029,Christian Benteke,a,606,OpenPlay,2014,Head,4527,Hull,Aston Villa,2,0,2015-02-10 19:45:00,Alan Hutton,Aerial,606
+23947,75,SavedShot,0.8490000152587891,0.3770000076293945,0.06267230212688446,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4527,Hull,Aston Villa,2,0,2015-02-10 19:45:00,Gabriel Agbonlahor,Pass,606
+23950,91,SavedShot,0.919000015258789,0.5579999923706055,0.1272599995136261,Christian Benteke,a,606,OpenPlay,2014,LeftFoot,4527,Hull,Aston Villa,2,0,2015-02-10 19:45:00,,Rebound,606
+23600,80,BlockedShot,0.8830000305175781,0.45799999237060546,0.03829989954829216,Christian Benteke,h,606,OpenPlay,2014,Head,4535,Aston Villa,Stoke,1,2,2015-02-21 15:00:00,Fabian Delph,Chipped,606
+23542,23,MissedShots,0.9290000152587891,0.7680000305175781,0.03243520110845566,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4548,Newcastle United,Aston Villa,1,0,2015-02-28 15:00:00,Ashley Westwood,Chipped,606
+23543,27,SavedShot,0.8719999694824219,0.6309999847412109,0.061539098620414734,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4548,Newcastle United,Aston Villa,1,0,2015-02-28 15:00:00,,None,606
+23544,32,MissedShots,0.8480000305175781,0.509000015258789,0.0486006997525692,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4548,Newcastle United,Aston Villa,1,0,2015-02-28 15:00:00,Alan Hutton,Cross,606
+23545,32,BlockedShot,0.8540000152587891,0.5470000076293945,0.07028750330209732,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4548,Newcastle United,Aston Villa,1,0,2015-02-28 15:00:00,,None,606
+23558,69,BlockedShot,0.96,0.45799999237060546,0.14714999496936798,Christian Benteke,a,606,FromCorner,2014,RightFoot,4548,Newcastle United,Aston Villa,1,0,2015-02-28 15:00:00,,Rebound,606
+24071,93,Goal,0.885,0.5,0.7611690163612366,Christian Benteke,h,606,Penalty,2014,RightFoot,4482,Aston Villa,West Bromwich Albion,2,1,2015-03-03 19:45:00,,Standard,606
+20538,15,Goal,0.8690000152587891,0.43599998474121093,0.10508400201797485,Christian Benteke,a,606,OpenPlay,2014,LeftFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Leandro Bacuna,Pass,606
+20547,43,Goal,0.935,0.53,0.11525999754667282,Christian Benteke,a,606,OpenPlay,2014,Head,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Leandro Bacuna,Cross,606
+22077,15,SavedShot,0.7219999694824218,0.6480000305175782,0.014575500041246414,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Gabriel Agbonlahor,Pass,606
+22086,48,MissedShots,0.895,0.5629999923706055,0.10995599627494812,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Andreas Weimann,Pass,606
+22095,79,Goal,0.91,0.4259999847412109,0.06280980259180069,Christian Benteke,a,606,FromCorner,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Joe Cole,Cross,606
+22259,1,MissedShots,0.91,0.345,0.026324400678277016,Christian Benteke,h,606,SetPiece,2014,RightFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,,Aerial,606
+22263,9,Goal,0.8880000305175781,0.69,0.04495390132069588,Christian Benteke,h,606,OpenPlay,2014,RightFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Fabian Delph,Pass,606
+22273,32,Goal,0.8480000305175781,0.505,0.3284420073032379,Christian Benteke,h,606,OpenPlay,2014,RightFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Gabriel Agbonlahor,Pass,606
+22287,82,Goal,0.774000015258789,0.5879999923706055,0.0784521996974945,Christian Benteke,h,606,DirectFreekick,2014,RightFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,,Standard,606
+22288,87,MissedShots,0.8719999694824219,0.35900001525878905,0.07478339970111847,Christian Benteke,h,606,OpenPlay,2014,RightFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Matthew Lowton,Pass,606
+21409,34,Goal,0.89,0.5109999847412109,0.07995309680700302,Christian Benteke,a,606,OpenPlay,2014,Head,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Leandro Bacuna,Cross,606
+21413,41,BlockedShot,0.7340000152587891,0.6609999847412109,0.017499199137091637,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Fabian Delph,Pass,606
+22633,20,MissedShots,0.9259999847412109,0.49700000762939456,0.11242800205945969,Christian Benteke,a,606,FromCorner,2014,Head,4475,Manchester City,Aston Villa,3,2,2015-04-25 17:30:00,Jack Grealish,Cross,606
+22636,26,SavedShot,0.889000015258789,0.5129999923706055,0.37918099761009216,Christian Benteke,a,606,FromCorner,2014,RightFoot,4475,Manchester City,Aston Villa,3,2,2015-04-25 17:30:00,,Rebound,606
+22640,34,MissedShots,0.9209999847412109,0.4909999847412109,0.048141900449991226,Christian Benteke,a,606,OpenPlay,2014,Head,4475,Manchester City,Aston Villa,3,2,2015-04-25 17:30:00,Kieran Richardson,Aerial,606
+20514,7,MissedShots,0.9180000305175782,0.5120000076293946,0.09178899973630905,Christian Benteke,h,606,FromCorner,2014,Head,4401,Aston Villa,Everton,3,2,2015-05-02 15:00:00,Jack Grealish,Cross,606
+20515,9,Goal,0.93,0.55,0.1285420060157776,Christian Benteke,h,606,OpenPlay,2014,Head,4401,Aston Villa,Everton,3,2,2015-05-02 15:00:00,Fabian Delph,Cross,606
+20520,44,Goal,0.970999984741211,0.44400001525878907,0.5445160269737244,Christian Benteke,h,606,FromCorner,2014,RightFoot,4401,Aston Villa,Everton,3,2,2015-05-02 15:00:00,Ron Vlaar,HeadPass,606
+20288,15,MissedShots,0.9690000152587891,0.39599998474121095,0.07814490050077438,Christian Benteke,h,606,SetPiece,2014,RightFoot,4411,Aston Villa,West Ham,1,0,2015-05-09 15:00:00,Jores Okore,HeadPass,606
+20608,10,MissedShots,0.9269999694824219,0.6370000076293946,0.33029699325561523,Christian Benteke,a,606,OpenPlay,2014,RightFoot,4419,Southampton,Aston Villa,6,1,2015-05-16 12:45:00,Fabian Delph,Throughball,606
+20620,47,Goal,0.9219999694824219,0.534000015258789,0.31735900044441223,Christian Benteke,a,606,OpenPlay,2014,Head,4419,Southampton,Aston Villa,6,1,2015-05-16 12:45:00,Leandro Bacuna,Cross,606
+20628,77,BlockedShot,0.899000015258789,0.4229999923706055,0.07868929952383041,Christian Benteke,a,606,SetPiece,2014,LeftFoot,4419,Southampton,Aston Villa,6,1,2015-05-16 12:45:00,,None,606
+22105,35,BlockedShot,0.8780000305175781,0.6170000076293946,0.04846249893307686,Christian Benteke,h,606,OpenPlay,2014,RightFoot,4430,Aston Villa,Burnley,0,1,2015-05-24 15:00:00,Leandro Bacuna,Cross,606
+22106,37,SavedShot,0.9290000152587891,0.6419999694824219,0.021668100729584694,Christian Benteke,h,606,OpenPlay,2014,Head,4430,Aston Villa,Burnley,0,1,2015-05-24 15:00:00,Fabian Delph,Chipped,606
+22111,49,MissedShots,0.924000015258789,0.34799999237060547,0.058465201407670975,Christian Benteke,h,606,OpenPlay,2014,RightFoot,4430,Aston Villa,Burnley,0,1,2015-05-24 15:00:00,Fabian Delph,Chipped,606
+51684,66,BlockedShot,0.899000015258789,0.575,0.11668899655342102,Christian Benteke,a,606,OpenPlay,2015,RightFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,Philippe Coutinho,Pass,606
+51766,23,MissedShots,0.754000015258789,0.6140000152587891,0.01962430030107498,Christian Benteke,h,606,OpenPlay,2015,RightFoot,100,Liverpool,Bournemouth,1,0,2015-08-17 23:00:00,,BallRecovery,606
+51767,25,Goal,0.9569999694824218,0.4759999847412109,0.5297859907150269,Christian Benteke,h,606,FromCorner,2015,RightFoot,100,Liverpool,Bournemouth,1,0,2015-08-17 23:00:00,Jordan Henderson,Cross,606
+51792,89,SavedShot,0.9330000305175781,0.48700000762939455,0.4758009910583496,Christian Benteke,h,606,OpenPlay,2015,RightFoot,100,Liverpool,Bournemouth,1,0,2015-08-17 23:00:00,Nathaniel Clyne,Cross,606
+56361,1,MissedShots,0.875999984741211,0.6140000152587891,0.09575109928846359,Christian Benteke,a,606,OpenPlay,2015,LeftFoot,110,Arsenal,Liverpool,0,0,2015-08-24 23:00:00,Emre Can,Pass,606
+56364,8,SavedShot,0.9119999694824219,0.2929999923706055,0.052152298390865326,Christian Benteke,a,606,OpenPlay,2015,RightFoot,110,Arsenal,Liverpool,0,0,2015-08-24 23:00:00,Philippe Coutinho,Pass,606
+56371,38,SavedShot,0.9540000152587891,0.47900001525878905,0.5971940159797668,Christian Benteke,a,606,OpenPlay,2015,RightFoot,110,Arsenal,Liverpool,0,0,2015-08-24 23:00:00,Roberto Firmino,Cross,606
+56387,72,MissedShots,0.7190000152587891,0.539000015258789,0.012141400016844273,Christian Benteke,a,606,OpenPlay,2015,LeftFoot,110,Arsenal,Liverpool,0,0,2015-08-24 23:00:00,,None,606
+57553,58,BlockedShot,0.8219999694824218,0.47099998474121096,0.041750501841306686,Christian Benteke,h,606,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,James Milner,Chipped,606
+57563,93,MissedShots,0.915,0.5059999847412109,0.07392659783363342,Christian Benteke,h,606,OpenPlay,2015,Head,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,James Milner,Chipped,606
+57918,75,MissedShots,0.919000015258789,0.41900001525878905,0.053994499146938324,Christian Benteke,a,606,OpenPlay,2015,Head,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,James Milner,Cross,606
+57921,83,Goal,0.8730000305175781,0.5879999923706055,0.06493999809026718,Christian Benteke,a,606,FromCorner,2015,RightFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,,None,606
+58134,40,BlockedShot,0.904000015258789,0.6359999847412109,0.09208930283784866,Christian Benteke,h,606,OpenPlay,2015,RightFoot,140,Liverpool,Norwich,1,1,2015-09-20 19:00:00,Alberto Moreno,Pass,606
+59306,47,BlockedShot,0.91,0.445,0.0718604028224945,Christian Benteke,h,606,FromCorner,2015,RightFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,James Milner,Cross,606
+59315,76,Goal,0.8719999694824219,0.52,0.03918210044503212,Christian Benteke,h,606,OpenPlay,2015,Head,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,James Milner,Cross,606
+59451,82,Goal,0.895,0.37599998474121094,0.10320399701595306,Christian Benteke,a,606,OpenPlay,2015,RightFoot,181,Chelsea,Liverpool,1,3,2015-10-31 16:45:00,Jordon Ibe,Pass,606
+55033,28,SavedShot,0.8930000305175781,0.46700000762939453,0.04741910099983215,Christian Benteke,h,606,FromCorner,2015,Head,200,Liverpool,Crystal Palace,1,2,2015-11-08 20:00:00,Jordon Ibe,Cross,606
+55034,31,MissedShots,0.9030000305175782,0.46599998474121096,0.11875399947166443,Christian Benteke,h,606,OpenPlay,2015,RightFoot,200,Liverpool,Crystal Palace,1,2,2015-11-08 20:00:00,Adam Lallana,Pass,606
+55035,32,MissedShots,0.9159999847412109,0.4929999923706055,0.09794560074806213,Christian Benteke,h,606,OpenPlay,2015,Head,200,Liverpool,Crystal Palace,1,2,2015-11-08 20:00:00,Nathaniel Clyne,Cross,606
+55041,47,MissedShots,0.91,0.43900001525878907,0.12396900355815887,Christian Benteke,h,606,OpenPlay,2015,LeftFoot,200,Liverpool,Crystal Palace,1,2,2015-11-08 20:00:00,Philippe Coutinho,Pass,606
+55045,61,MissedShots,0.9540000152587891,0.45,0.4982909858226776,Christian Benteke,h,606,OpenPlay,2015,Head,200,Liverpool,Crystal Palace,1,2,2015-11-08 20:00:00,Alberto Moreno,Cross,606
+54066,79,SavedShot,0.905,0.345,0.4080060124397278,Christian Benteke,a,606,OpenPlay,2015,RightFoot,208,Manchester City,Liverpool,1,4,2015-11-21 21:30:00,Jordon Ibe,Throughball,606
+56181,56,BlockedShot,0.8580000305175781,0.6719999694824219,0.018190700560808182,Christian Benteke,h,606,OpenPlay,2015,LeftFoot,219,Liverpool,Swansea,1,0,2015-11-29 20:15:00,,Aerial,606
+54519,20,MissedShots,0.9669999694824218,0.48200000762939454,0.5759689807891846,Christian Benteke,a,606,FromCorner,2015,RightFoot,229,Newcastle United,Liverpool,2,0,2015-12-06 20:00:00,Joe Allen,HeadPass,606
+54071,9,BlockedShot,0.764000015258789,0.67,0.017729999497532845,Christian Benteke,h,606,OpenPlay,2015,RightFoot,238,Liverpool,West Bromwich Albion,2,2,2015-12-13 20:00:00,Adam Lallana,Pass,606
+54075,16,MissedShots,0.9459999847412109,0.46299999237060546,0.14776399731636047,Christian Benteke,h,606,OpenPlay,2015,Head,238,Liverpool,West Bromwich Albion,2,2,2015-12-13 20:00:00,Alberto Moreno,Cross,606
+54077,25,BlockedShot,0.875999984741211,0.6559999847412109,0.07905440032482147,Christian Benteke,h,606,OpenPlay,2015,RightFoot,238,Liverpool,West Bromwich Albion,2,2,2015-12-13 20:00:00,Philippe Coutinho,Pass,606
+54082,37,MissedShots,0.8590000152587891,0.47700000762939454,0.07973349839448929,Christian Benteke,h,606,OpenPlay,2015,RightFoot,238,Liverpool,West Bromwich Albion,2,2,2015-12-13 20:00:00,Alberto Moreno,Chipped,606
+54087,51,MissedShots,0.92,0.475,0.13170699775218964,Christian Benteke,h,606,OpenPlay,2015,Head,238,Liverpool,West Bromwich Albion,2,2,2015-12-13 20:00:00,Alberto Moreno,Cross,606
+54090,60,MissedShots,0.88,0.49900001525878906,0.09070339798927307,Christian Benteke,h,606,OpenPlay,2015,RightFoot,238,Liverpool,West Bromwich Albion,2,2,2015-12-13 20:00:00,,None,606
+53154,78,MissedShots,0.889000015258789,0.615999984741211,0.03596299886703491,Christian Benteke,a,606,SetPiece,2015,Head,248,Watford,Liverpool,3,0,2015-12-20 17:30:00,Jordan Henderson,Chipped,606
+54462,59,MissedShots,0.9069999694824219,0.505,0.05231599882245064,Christian Benteke,h,606,OpenPlay,2015,Head,257,Liverpool,Leicester,1,0,2015-12-26 19:00:00,Jordan Henderson,Aerial,606
+54463,62,Goal,0.9069999694824219,0.49900001525878906,0.11435999721288681,Christian Benteke,h,606,OpenPlay,2015,RightFoot,257,Liverpool,Leicester,1,0,2015-12-26 19:00:00,Roberto Firmino,Cross,606
+54469,94,BlockedShot,0.885,0.48,0.46185600757598877,Christian Benteke,h,606,OpenPlay,2015,RightFoot,257,Liverpool,Leicester,1,0,2015-12-26 19:00:00,Roberto Firmino,Pass,606
+53827,4,BlockedShot,0.8669999694824219,0.575,0.06470110267400742,Christian Benteke,a,606,FromCorner,2015,RightFoot,270,Sunderland,Liverpool,0,1,2015-12-30 23:45:00,,None,606
+53841,45,Goal,0.9180000305175782,0.47900001525878905,0.5055850148200989,Christian Benteke,a,606,OpenPlay,2015,RightFoot,270,Sunderland,Liverpool,0,1,2015-12-30 23:45:00,Adam Lallana,Pass,606
+53851,91,SavedShot,0.85,0.4570000076293945,0.33305999636650085,Christian Benteke,a,606,OpenPlay,2015,RightFoot,270,Sunderland,Liverpool,0,1,2015-12-30 23:45:00,Roberto Firmino,Throughball,606
+52857,33,BlockedShot,0.8830000305175781,0.5359999847412109,0.04616110026836395,Christian Benteke,a,606,FromCorner,2015,Head,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Alberto Moreno,Cross,606
+52867,50,MissedShots,0.875,0.5670000076293945,0.09077910333871841,Christian Benteke,a,606,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Alberto Moreno,Pass,606
+52871,57,MissedShots,0.8580000305175781,0.5609999847412109,0.08937980234622955,Christian Benteke,a,606,OpenPlay,2015,LeftFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Philippe Coutinho,Pass,606
+52878,75,MissedShots,0.865,0.5479999923706055,0.04881199821829796,Christian Benteke,a,606,OpenPlay,2015,LeftFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Brad Smith,Cross,606
+52882,80,BlockedShot,0.87,0.5179999923706055,0.026557600125670433,Christian Benteke,a,606,OpenPlay,2015,Head,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Brad Smith,Cross,606
+53917,73,SavedShot,0.895,0.7580000305175781,0.034610599279403687,Christian Benteke,h,606,OpenPlay,2015,RightFoot,289,Liverpool,Arsenal,3,3,2016-01-14 00:00:00,Adam Lallana,Pass,606
+53920,79,BlockedShot,0.850999984741211,0.625999984741211,0.05604330077767372,Christian Benteke,h,606,OpenPlay,2015,RightFoot,289,Liverpool,Arsenal,3,3,2016-01-14 00:00:00,Jordan Henderson,Chipped,606
+56104,88,MissedShots,0.89,0.605999984741211,0.06356330215930939,Christian Benteke,h,606,OpenPlay,2015,RightFoot,298,Liverpool,Manchester United,0,1,2016-01-17 18:05:00,Jordon Ibe,Cross,606
+59759,79,SavedShot,0.8980000305175782,0.655,0.04395170137286186,Christian Benteke,a,606,FromCorner,2015,LeftFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Dejan Lovren,HeadPass,606
+59769,92,SavedShot,0.835999984741211,0.6120000076293945,0.059188101440668106,Christian Benteke,a,606,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Philippe Coutinho,Pass,606
+59772,95,Goal,0.885,0.5,0.7611690163612366,Christian Benteke,a,606,Penalty,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,,Standard,606
+60509,73,MissedShots,0.8690000152587891,0.3529999923706055,0.15569999814033508,Christian Benteke,a,606,OpenPlay,2015,RightFoot,380,Southampton,Liverpool,3,2,2016-03-20 17:30:00,Adam Lallana,Throughball,606
+57467,64,Goal,0.9359999847412109,0.49900001525878906,0.4074169993400574,Christian Benteke,a,606,FromCorner,2015,Head,433,Swansea,Liverpool,3,1,2016-05-01 15:00:00,Sheyi Ojo,Cross,606
+56432,27,MissedShots,0.8930000305175781,0.3290000152587891,0.021588599309325218,Christian Benteke,h,606,SetPiece,2015,Head,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,Alberto Moreno,Chipped,606
+56436,33,BlockedShot,0.7759999847412109,0.5690000152587891,0.0191539004445076,Christian Benteke,h,606,SetPiece,2015,RightFoot,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,,Rebound,606
+56435,33,BlockedShot,0.78,0.5629999923706055,0.08975669741630554,Christian Benteke,h,606,DirectFreekick,2015,RightFoot,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,,Standard,606
+56453,81,SavedShot,0.899000015258789,0.41,0.1269579976797104,Christian Benteke,h,606,OpenPlay,2015,RightFoot,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,Joe Allen,Pass,606
+56454,82,BlockedShot,0.9130000305175782,0.5520000076293945,0.06933010369539261,Christian Benteke,h,606,FromCorner,2015,Head,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,Cameron Brannagan,Cross,606
+56455,86,MissedShots,0.9630000305175781,0.445,0.15214699506759644,Christian Benteke,h,606,OpenPlay,2015,RightFoot,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,Roberto Firmino,Pass,606
+56457,88,BlockedShot,0.8540000152587891,0.6980000305175781,0.03507300093770027,Christian Benteke,h,606,OpenPlay,2015,RightFoot,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,Roberto Firmino,TakeOn,606
+56458,91,MissedShots,0.9540000152587891,0.5229999923706055,0.5917329788208008,Christian Benteke,h,606,OpenPlay,2015,Head,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,Cameron Brannagan,Cross,606
+61105,91,Goal,0.9690000152587891,0.42900001525878906,0.3758310079574585,Christian Benteke,h,606,OpenPlay,2015,Head,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,,None,606
+52219,15,MissedShots,0.8859999847412109,0.6229999923706054,0.07906579971313477,Christian Benteke,a,606,OpenPlay,2015,LeftFoot,459,West Bromwich Albion,Liverpool,1,1,2016-05-15 18:00:00,Sheyi Ojo,Pass,606
+52224,45,BlockedShot,0.784000015258789,0.5629999923706055,0.09473489969968796,Christian Benteke,a,606,DirectFreekick,2015,RightFoot,459,West Bromwich Albion,Liverpool,1,1,2016-05-15 18:00:00,,Standard,606
+112918,64,MissedShots,0.93,0.5,0.11795900017023087,Christian Benteke,h,606,FromCorner,2016,Head,486,Crystal Palace,Bournemouth,1,1,2016-08-27 18:00:00,Jason Puncheon,Cross,606
+112921,67,MissedShots,0.915,0.4,0.013643600046634674,Christian Benteke,h,606,FromCorner,2016,Head,486,Crystal Palace,Bournemouth,1,1,2016-08-27 18:00:00,Jason Puncheon,Aerial,606
+112931,91,MissedShots,0.855,0.6419999694824219,0.05359889939427376,Christian Benteke,h,606,OpenPlay,2016,RightFoot,486,Crystal Palace,Bournemouth,1,1,2016-08-27 18:00:00,Damien Delaney,HeadPass,606
+113285,15,Goal,0.9569999694824218,0.5570000076293945,0.4285460114479065,Christian Benteke,a,606,OpenPlay,2016,Head,492,Middlesbrough,Crystal Palace,1,2,2016-09-10 18:00:00,Wilfried Zaha,Cross,606
+113886,11,SavedShot,0.8959999847412109,0.5059999847412109,0.08892949670553207,Christian Benteke,a,606,OpenPlay,2016,Head,514,Sunderland,Crystal Palace,2,3,2016-09-24 18:00:00,Joel Ward,Cross,606
+113887,12,MissedShots,0.884000015258789,0.4370000076293945,0.05031679943203926,Christian Benteke,a,606,FromCorner,2016,RightFoot,514,Sunderland,Crystal Palace,2,3,2016-09-24 18:00:00,Jason Puncheon,Cross,606
+113888,24,MissedShots,0.9459999847412109,0.5279999923706055,0.15155300498008728,Christian Benteke,a,606,OpenPlay,2016,RightFoot,514,Sunderland,Crystal Palace,2,3,2016-09-24 18:00:00,Jason Puncheon,Pass,606
+113891,28,MissedShots,0.8909999847412109,0.685,0.04891809821128845,Christian Benteke,a,606,OpenPlay,2016,RightFoot,514,Sunderland,Crystal Palace,2,3,2016-09-24 18:00:00,James McArthur,Chipped,606
+113895,42,MissedShots,0.88,0.5129999923706055,0.03403269872069359,Christian Benteke,a,606,FromCorner,2016,Head,514,Sunderland,Crystal Palace,2,3,2016-09-24 18:00:00,Jason Puncheon,Cross,606
+113901,57,MissedShots,0.8719999694824219,0.5920000076293945,0.01413199957460165,Christian Benteke,a,606,OpenPlay,2016,Head,514,Sunderland,Crystal Palace,2,3,2016-09-24 18:00:00,Jason Puncheon,Aerial,606
+113908,73,BlockedShot,0.7959999847412109,0.41700000762939454,0.030136000365018845,Christian Benteke,a,606,OpenPlay,2016,LeftFoot,514,Sunderland,Crystal Palace,2,3,2016-09-24 18:00:00,Jason Puncheon,Chipped,606
+113916,93,Goal,0.9390000152587891,0.4759999847412109,0.4947820007801056,Christian Benteke,a,606,SetPiece,2016,Head,514,Sunderland,Crystal Palace,2,3,2016-09-24 18:00:00,Lee Chung-yong,Cross,606
+114209,49,Goal,0.8969999694824219,0.6020000076293945,0.031953901052474976,Christian Benteke,a,606,OpenPlay,2016,Head,521,Everton,Crystal Palace,1,1,2016-09-30 23:00:00,Joel Ward,Cross,606
+114211,54,MissedShots,0.8859999847412109,0.56,0.01423569954931736,Christian Benteke,a,606,FromCorner,2016,Head,521,Everton,Crystal Palace,1,1,2016-09-30 23:00:00,Jason Puncheon,Aerial,606
+114219,75,BlockedShot,0.9459999847412109,0.41700000762939454,0.079926997423172,Christian Benteke,a,606,FromCorner,2016,Head,521,Everton,Crystal Palace,1,1,2016-09-30 23:00:00,Jason Puncheon,Cross,606
+114878,45,MissedShots,0.885,0.5,0.7611690163612366,Christian Benteke,h,606,Penalty,2016,RightFoot,537,Crystal Palace,West Ham,0,1,2016-10-15 20:30:00,,Standard,606
+114879,46,ShotOnPost,0.8859999847412109,0.5420000076293945,0.04874179884791374,Christian Benteke,h,606,OpenPlay,2016,Head,537,Crystal Palace,West Ham,0,1,2016-10-15 20:30:00,James McArthur,Cross,606
+114888,80,MissedShots,0.9519999694824218,0.495,0.49079400300979614,Christian Benteke,h,606,FromCorner,2016,Head,537,Crystal Palace,West Ham,0,1,2016-10-15 20:30:00,Jason Puncheon,Cross,606
+114889,84,MissedShots,0.8490000152587891,0.5309999847412109,0.06010320037603378,Christian Benteke,h,606,OpenPlay,2016,RightFoot,537,Crystal Palace,West Ham,0,1,2016-10-15 20:30:00,,None,606
+114391,11,ShotOnPost,0.9130000305175782,0.46799999237060547,0.11330199986696243,Christian Benteke,a,606,OpenPlay,2016,Head,544,Leicester,Crystal Palace,3,1,2016-10-22 18:00:00,Martin Kelly,Cross,606
+114403,48,MissedShots,0.9519999694824218,0.565,0.11061800271272659,Christian Benteke,a,606,FromCorner,2016,Head,544,Leicester,Crystal Palace,3,1,2016-10-22 18:00:00,Andros Townsend,Cross,606
+114414,73,BlockedShot,0.92,0.5029999923706054,0.0466063991189003,Christian Benteke,a,606,FromCorner,2016,Head,544,Leicester,Crystal Palace,3,1,2016-10-22 18:00:00,Yohan Cabaye,Aerial,606
+114416,82,SavedShot,0.885,0.6530000305175782,0.29050299525260925,Christian Benteke,a,606,OpenPlay,2016,RightFoot,544,Leicester,Crystal Palace,3,1,2016-10-22 18:00:00,Wilfried Zaha,Throughball,606
+114421,90,BlockedShot,0.845,0.47900001525878905,0.09029310196638107,Christian Benteke,a,606,OpenPlay,2016,RightFoot,544,Leicester,Crystal Palace,3,1,2016-10-22 18:00:00,Yohan Cabaye,Pass,606
+114671,48,SavedShot,0.89,0.5520000076293945,0.03727329894900322,Christian Benteke,h,606,FromCorner,2016,Head,2683,Crystal Palace,Liverpool,2,4,2016-10-29 20:30:00,Yohan Cabaye,Cross,606
+114670,48,SavedShot,0.8930000305175781,0.36400001525878906,0.06811600178480148,Christian Benteke,h,606,SetPiece,2016,RightFoot,2683,Crystal Palace,Liverpool,2,4,2016-10-29 20:30:00,Scott Dann,HeadPass,606
+114674,56,SavedShot,0.8859999847412109,0.649000015258789,0.0703182965517044,Christian Benteke,h,606,OpenPlay,2016,RightFoot,2683,Crystal Palace,Liverpool,2,4,2016-10-29 20:30:00,Yohan Cabaye,Pass,606
+115125,31,BlockedShot,0.894000015258789,0.5359999847412109,0.07713989913463593,Christian Benteke,a,606,OpenPlay,2016,Head,2688,Burnley,Crystal Palace,3,2,2016-11-05 19:00:00,Andros Townsend,Cross,606
+115128,41,SavedShot,0.86,0.46099998474121096,0.10317300260066986,Christian Benteke,a,606,OpenPlay,2016,RightFoot,2688,Burnley,Crystal Palace,3,2,2016-11-05 19:00:00,James McArthur,Pass,606
+115129,42,MissedShots,0.8830000305175781,0.4520000076293945,0.04751500114798546,Christian Benteke,a,606,OpenPlay,2016,Head,2688,Burnley,Crystal Palace,3,2,2016-11-05 19:00:00,Jason Puncheon,Cross,606
+115141,80,Goal,0.885,0.5,0.7611690163612366,Christian Benteke,a,606,Penalty,2016,RightFoot,2688,Burnley,Crystal Palace,3,2,2016-11-05 19:00:00,,Standard,606
+115412,14,MissedShots,0.7880000305175782,0.6630000305175782,0.01653430052101612,Christian Benteke,h,606,SetPiece,2016,RightFoot,2703,Crystal Palace,Manchester City,1,2,2016-11-19 19:00:00,,None,606
+115418,55,MissedShots,0.9019999694824219,0.4229999923706055,0.014548799954354763,Christian Benteke,h,606,FromCorner,2016,Head,2703,Crystal Palace,Manchester City,1,2,2016-11-19 19:00:00,Jason Puncheon,Aerial,606
+115416,55,SavedShot,0.9519999694824218,0.48900001525878906,0.0953977033495903,Christian Benteke,h,606,OpenPlay,2016,Head,2703,Crystal Palace,Manchester City,1,2,2016-11-19 19:00:00,Jason Puncheon,Aerial,606
+115382,5,MissedShots,0.9469999694824218,0.61,0.09597340226173401,Christian Benteke,a,606,FromCorner,2016,RightFoot,2709,Swansea,Crystal Palace,5,4,2016-11-26 19:00:00,,Rebound,606
+115404,83,Goal,0.965,0.5209999847412109,0.6326879858970642,Christian Benteke,a,606,FromCorner,2016,RightFoot,2709,Swansea,Crystal Palace,5,4,2016-11-26 19:00:00,Scott Dann,HeadPass,606
+115516,23,MissedShots,0.9019999694824219,0.445,0.0669386014342308,Christian Benteke,h,606,OpenPlay,2016,Head,3106,Crystal Palace,Southampton,3,0,2016-12-03 19:00:00,Wilfried Zaha,Cross,606
+115517,32,Goal,0.9530000305175781,0.47,0.5402479767799377,Christian Benteke,h,606,OpenPlay,2016,RightFoot,3106,Crystal Palace,Southampton,3,0,2016-12-03 19:00:00,,BlockedPass,606
+115539,84,Goal,0.955,0.49,0.5962949991226196,Christian Benteke,h,606,FromCorner,2016,RightFoot,3106,Crystal Palace,Southampton,3,0,2016-12-03 19:00:00,Jason Puncheon,Pass,606
+115537,84,MissedShots,0.925,0.590999984741211,0.04950350150465965,Christian Benteke,h,606,FromCorner,2016,Head,3106,Crystal Palace,Southampton,3,0,2016-12-03 19:00:00,Jason Puncheon,Cross,606
+116822,1,MissedShots,0.88,0.44099998474121094,0.03492319956421852,Christian Benteke,a,606,OpenPlay,2016,Head,3116,Hull,Crystal Palace,3,3,2016-12-10 19:00:00,Andros Townsend,Cross,606
+116836,51,Goal,0.885,0.5,0.7611690163612366,Christian Benteke,a,606,Penalty,2016,RightFoot,3116,Hull,Crystal Palace,3,3,2016-12-10 19:00:00,,Standard,606
+117916,38,MissedShots,0.9130000305175782,0.534000015258789,0.11277200281620026,Christian Benteke,h,606,SetPiece,2016,Head,3130,Crystal Palace,Manchester United,1,2,2016-12-15 00:00:00,Yohan Cabaye,Cross,606
+118453,70,SavedShot,0.865999984741211,0.41,0.06643649935722351,Christian Benteke,h,606,OpenPlay,2016,RightFoot,3135,Crystal Palace,Chelsea,0,1,2016-12-17 16:30:00,Damien Delaney,Chipped,606
+116895,14,SavedShot,0.93,0.525,0.13851100206375122,Christian Benteke,a,606,OpenPlay,2016,Head,3145,Watford,Crystal Palace,1,1,2016-12-26 16:30:00,Andros Townsend,Cross,606
+116901,36,SavedShot,0.885,0.5,0.7611690163612366,Christian Benteke,a,606,Penalty,2016,RightFoot,3145,Watford,Crystal Palace,1,1,2016-12-26 16:30:00,,Standard,606
+117005,46,MissedShots,0.9269999694824219,0.5529999923706055,0.049008700996637344,Christian Benteke,a,606,OpenPlay,2016,Head,3329,Arsenal,Crystal Palace,2,0,2017-01-01 20:00:00,Andros Townsend,Aerial,606
+117012,59,SavedShot,0.8590000152587891,0.5359999847412109,0.01243599969893694,Christian Benteke,a,606,FromCorner,2016,Head,3329,Arsenal,Crystal Palace,2,0,2017-01-01 20:00:00,Jason Puncheon,Aerial,606
+118340,7,ShotOnPost,0.924000015258789,0.54,0.1330289989709854,Christian Benteke,h,606,OpenPlay,2016,Head,3353,Crystal Palace,Everton,0,1,2017-01-21 18:00:00,James McArthur,Cross,606
+118349,38,BlockedShot,0.8080000305175781,0.4909999847412109,0.04100320115685463,Christian Benteke,h,606,OpenPlay,2016,RightFoot,3353,Crystal Palace,Everton,0,1,2017-01-21 18:00:00,Loïc Remy,Chipped,606
+118863,16,MissedShots,0.9130000305175782,0.6680000305175782,0.04779529944062233,Christian Benteke,a,606,SetPiece,2016,LeftFoot,3361,Bournemouth,Crystal Palace,0,2,2017-01-31 22:45:00,Scott Dann,HeadPass,606
+118872,53,MissedShots,0.8780000305175781,0.5570000076293945,0.0409465990960598,Christian Benteke,a,606,OpenPlay,2016,Head,3361,Bournemouth,Crystal Palace,0,2,2017-01-31 22:45:00,Patrick van Aanholt,Cross,606
+118880,91,Goal,0.9469999694824218,0.4929999923706055,0.5806390047073364,Christian Benteke,a,606,OpenPlay,2016,Head,3361,Bournemouth,Crystal Palace,0,2,2017-01-31 22:45:00,Andros Townsend,Cross,606
+116408,19,MissedShots,0.919000015258789,0.565,0.06820350140333176,Christian Benteke,h,606,FromCorner,2016,Head,3371,Crystal Palace,Sunderland,0,4,2017-02-04 15:00:00,Yohan Cabaye,Cross,606
+116410,25,SavedShot,0.764000015258789,0.6,0.01882000081241131,Christian Benteke,h,606,OpenPlay,2016,RightFoot,3371,Crystal Palace,Sunderland,0,4,2017-02-04 15:00:00,Wilfried Zaha,TakeOn,606
+116412,31,BlockedShot,0.9630000305175781,0.595999984741211,0.06698840111494064,Christian Benteke,h,606,OpenPlay,2016,Head,3371,Crystal Palace,Sunderland,0,4,2017-02-04 15:00:00,Scott Dann,Cross,606
+116419,64,MissedShots,0.9119999694824219,0.525,0.12829400599002838,Christian Benteke,h,606,FromCorner,2016,RightFoot,3371,Crystal Palace,Sunderland,0,4,2017-02-04 15:00:00,,Rebound,606
+116420,71,BlockedShot,0.7969999694824219,0.56,0.11465200036764145,Christian Benteke,h,606,DirectFreekick,2016,RightFoot,3371,Crystal Palace,Sunderland,0,4,2017-02-04 15:00:00,,Standard,606
+116426,81,MissedShots,0.9330000305175781,0.5570000076293945,0.4271880090236664,Christian Benteke,h,606,OpenPlay,2016,LeftFoot,3371,Crystal Palace,Sunderland,0,4,2017-02-04 15:00:00,Wilfried Zaha,Pass,606
+116433,92,MissedShots,0.8969999694824219,0.5529999923706055,0.09477099776268005,Christian Benteke,h,606,OpenPlay,2016,RightFoot,3371,Crystal Palace,Sunderland,0,4,2017-02-04 15:00:00,,Rebound,606
+116432,92,SavedShot,0.9019999694824219,0.509000015258789,0.3100700080394745,Christian Benteke,h,606,OpenPlay,2016,Head,3371,Crystal Palace,Sunderland,0,4,2017-02-04 15:00:00,,Rebound,606
+118315,12,SavedShot,0.9,0.49900001525878906,0.09062580019235611,Christian Benteke,h,606,OpenPlay,2016,Head,3392,Crystal Palace,Middlesbrough,1,0,2017-02-25 15:00:00,Patrick van Aanholt,Cross,606
+118316,19,MissedShots,0.895,0.5629999923706055,0.03290129825472832,Christian Benteke,h,606,OpenPlay,2016,Head,3392,Crystal Palace,Middlesbrough,1,0,2017-02-25 15:00:00,Joel Ward,Aerial,606
+118321,39,MissedShots,0.9030000305175782,0.43400001525878906,0.04673760011792183,Christian Benteke,h,606,OpenPlay,2016,Head,3392,Crystal Palace,Middlesbrough,1,0,2017-02-25 15:00:00,Yohan Cabaye,Aerial,606
+118331,68,BlockedShot,0.8519999694824218,0.5429999923706055,0.08187559992074966,Christian Benteke,h,606,OpenPlay,2016,LeftFoot,3392,Crystal Palace,Middlesbrough,1,0,2017-02-25 15:00:00,Wilfried Zaha,Chipped,606
+118334,75,BlockedShot,0.865,0.69,0.041095998138189316,Christian Benteke,h,606,OpenPlay,2016,RightFoot,3392,Crystal Palace,Middlesbrough,1,0,2017-02-25 15:00:00,Wayne Hennessey,TakeOn,606
+118335,77,MissedShots,0.9319999694824219,0.48400001525878905,0.10688100010156631,Christian Benteke,h,606,SetPiece,2016,RightFoot,3392,Crystal Palace,Middlesbrough,1,0,2017-02-25 15:00:00,Andros Townsend,Cross,606
+120184,17,BlockedShot,0.909000015258789,0.52,0.27110299468040466,Christian Benteke,a,606,FromCorner,2016,Head,3408,West Bromwich Albion,Crystal Palace,0,2,2017-03-04 15:00:00,Yohan Cabaye,Cross,606
+120187,45,MissedShots,0.905,0.44099998474121094,0.07728929817676544,Christian Benteke,a,606,OpenPlay,2016,Head,3408,West Bromwich Albion,Crystal Palace,0,2,2017-03-04 15:00:00,Patrick van Aanholt,Cross,606
+119832,79,MissedShots,0.7819999694824219,0.5509999847412109,0.05710029974579811,Christian Benteke,h,606,OpenPlay,2016,LeftFoot,3428,Crystal Palace,Watford,1,0,2017-03-18 15:00:00,Luka Milivojevic,HeadPass,606
+119220,10,Goal,0.8969999694824219,0.485,0.7279869914054871,Christian Benteke,a,606,OpenPlay,2016,RightFoot,3432,Chelsea,Crystal Palace,1,2,2017-04-01 15:00:00,Wilfried Zaha,TakeOn,606
+119239,71,MissedShots,0.9669999694824218,0.4570000076293945,0.1065950021147728,Christian Benteke,a,606,SetPiece,2016,RightFoot,3432,Chelsea,Crystal Palace,1,2,2017-04-01 15:00:00,,None,606
+119493,8,MissedShots,0.919000015258789,0.495,0.31088098883628845,Christian Benteke,a,606,FromCorner,2016,Head,3447,Southampton,Crystal Palace,3,1,2017-04-05 19:45:00,Yohan Cabaye,Cross,606
+119498,23,BlockedShot,0.8519999694824218,0.6719999694824219,0.057966601103544235,Christian Benteke,a,606,OpenPlay,2016,RightFoot,3447,Southampton,Crystal Palace,3,1,2017-04-05 19:45:00,Luka Milivojevic,TakeOn,606
+119501,30,Goal,0.9690000152587891,0.4879999923706055,0.667110025882721,Christian Benteke,a,606,OpenPlay,2016,LeftFoot,3447,Southampton,Crystal Palace,3,1,2017-04-05 19:45:00,Andros Townsend,Cross,606
+119507,47,SavedShot,0.7319999694824219,0.615,0.01779239997267723,Christian Benteke,a,606,OpenPlay,2016,RightFoot,3447,Southampton,Crystal Palace,3,1,2017-04-05 19:45:00,Jason Puncheon,HeadPass,606
+119512,52,BlockedShot,0.9259999847412109,0.41,0.06416629999876022,Christian Benteke,a,606,FromCorner,2016,RightFoot,3447,Southampton,Crystal Palace,3,1,2017-04-05 19:45:00,Andros Townsend,Cross,606
+119804,40,SavedShot,0.87,0.6840000152587891,0.0665292963385582,Christian Benteke,h,606,OpenPlay,2016,LeftFoot,3459,Crystal Palace,Arsenal,3,0,2017-04-10 20:00:00,Wilfried Zaha,Pass,606
+119806,44,MissedShots,0.899000015258789,0.48,0.054371900856494904,Christian Benteke,h,606,OpenPlay,2016,Head,3459,Crystal Palace,Arsenal,3,0,2017-04-10 20:00:00,Jeffrey Schlupp,Aerial,606
+119808,49,BlockedShot,0.8930000305175781,0.5529999923706055,0.1345130056142807,Christian Benteke,h,606,OpenPlay,2016,LeftFoot,3459,Crystal Palace,Arsenal,3,0,2017-04-10 20:00:00,Andros Townsend,Pass,606
+119815,65,MissedShots,0.879000015258789,0.6840000152587891,0.027925599366426468,Christian Benteke,h,606,SetPiece,2016,RightFoot,3459,Crystal Palace,Arsenal,3,0,2017-04-10 20:00:00,Wayne Hennessey,Pass,606
+119819,85,MissedShots,0.8959999847412109,0.40900001525878904,0.11699199676513672,Christian Benteke,h,606,OpenPlay,2016,RightFoot,3459,Crystal Palace,Arsenal,3,0,2017-04-10 20:00:00,Andros Townsend,Cross,606
+119820,89,BlockedShot,0.784000015258789,0.5320000076293945,0.049348898231983185,Christian Benteke,h,606,OpenPlay,2016,RightFoot,3459,Crystal Palace,Arsenal,3,0,2017-04-10 20:00:00,Jeffrey Schlupp,Pass,606
+120706,3,MissedShots,0.914000015258789,0.45099998474121095,0.07150179892778397,Christian Benteke,h,606,FromCorner,2016,Head,3468,Crystal Palace,Leicester,2,2,2017-04-15 15:00:00,Yohan Cabaye,Cross,606
+120709,16,SavedShot,0.9569999694824218,0.6229999923706054,0.2701539993286133,Christian Benteke,h,606,OpenPlay,2016,RightFoot,3468,Crystal Palace,Leicester,2,2,2017-04-15 15:00:00,Joel Ward,Cross,606
+120720,56,MissedShots,0.9030000305175782,0.4909999847412109,0.04300279915332794,Christian Benteke,h,606,SetPiece,2016,Head,3468,Crystal Palace,Leicester,2,2,2017-04-15 15:00:00,Yohan Cabaye,Aerial,606
+120722,69,Goal,0.9519999694824218,0.46,0.47481200098991394,Christian Benteke,h,606,OpenPlay,2016,Head,3468,Crystal Palace,Leicester,2,2,2017-04-15 15:00:00,Andros Townsend,Cross,606
+120723,71,SavedShot,0.899000015258789,0.664000015258789,0.06747020035982132,Christian Benteke,h,606,OpenPlay,2016,LeftFoot,3468,Crystal Palace,Leicester,2,2,2017-04-15 15:00:00,Andros Townsend,Pass,606
+120818,20,MissedShots,0.7919999694824219,0.5479999923706055,0.05332209914922714,Christian Benteke,a,606,OpenPlay,2016,RightFoot,3476,Liverpool,Crystal Palace,1,2,2017-04-23 16:30:00,,TakeOn,606
+120822,41,Goal,0.9369999694824219,0.54,0.44722500443458557,Christian Benteke,a,606,OpenPlay,2016,LeftFoot,3476,Liverpool,Crystal Palace,1,2,2017-04-23 16:30:00,Yohan Cabaye,Cross,606
+120823,45,SavedShot,0.8490000152587891,0.575999984741211,0.050869498401880264,Christian Benteke,a,606,OpenPlay,2016,RightFoot,3476,Liverpool,Crystal Palace,1,2,2017-04-23 16:30:00,Jason Puncheon,Cross,606
+120831,70,MissedShots,0.8969999694824219,0.34700000762939454,0.06311070173978806,Christian Benteke,a,606,SetPiece,2016,RightFoot,3476,Liverpool,Crystal Palace,1,2,2017-04-23 16:30:00,James Tomkins,HeadPass,606
+120833,73,Goal,0.955999984741211,0.519000015258789,0.466060996055603,Christian Benteke,a,606,FromCorner,2016,Head,3476,Liverpool,Crystal Palace,1,2,2017-04-23 16:30:00,Jason Puncheon,Pass,606
+119196,13,SavedShot,0.8419999694824218,0.4329999923706055,0.08311460167169571,Christian Benteke,h,606,OpenPlay,2016,RightFoot,3415,Crystal Palace,Tottenham,0,1,2017-04-26 20:00:00,Andros Townsend,Pass,606
+119199,27,BlockedShot,0.8419999694824218,0.6619999694824219,0.04526270180940628,Christian Benteke,h,606,OpenPlay,2016,RightFoot,3415,Crystal Palace,Tottenham,0,1,2017-04-26 20:00:00,Wilfried Zaha,Pass,606
+120901,0,BlockedShot,0.9469999694824218,0.3970000076293945,0.05989459902048111,Christian Benteke,h,606,FromCorner,2016,Head,3480,Crystal Palace,Burnley,0,2,2017-04-29 17:30:00,Patrick van Aanholt,Cross,606
+120903,4,SavedShot,0.835999984741211,0.6759999847412109,0.033177100121974945,Christian Benteke,h,606,OpenPlay,2016,RightFoot,3480,Crystal Palace,Burnley,0,2,2017-04-29 17:30:00,Patrick van Aanholt,Pass,606
+120917,64,MissedShots,0.9219999694824219,0.4929999923706055,0.049430400133132935,Christian Benteke,h,606,FromCorner,2016,Head,3480,Crystal Palace,Burnley,0,2,2017-04-29 17:30:00,Jason Puncheon,Aerial,606
+121581,34,SavedShot,0.93,0.5479999923706055,0.11614099889993668,Christian Benteke,a,606,OpenPlay,2016,Head,3497,Manchester City,Crystal Palace,5,0,2017-05-06 12:30:00,Andros Townsend,Cross,606
+121748,17,BlockedShot,0.8,0.7180000305175781,0.021022699773311615,Christian Benteke,h,606,SetPiece,2016,RightFoot,3501,Crystal Palace,Hull,4,0,2017-05-14 12:00:00,Wayne Hennessey,Pass,606
+121750,33,Goal,0.9630000305175781,0.46599998474121096,0.5004130005836487,Christian Benteke,h,606,FromCorner,2016,Head,3501,Crystal Palace,Hull,4,0,2017-05-14 12:00:00,Jason Puncheon,Cross,606
+121758,65,MissedShots,0.9219999694824219,0.7030000305175781,0.08486650139093399,Christian Benteke,h,606,OpenPlay,2016,LeftFoot,3501,Crystal Palace,Hull,4,0,2017-05-14 12:00:00,Wilfried Zaha,Chipped,606
+121760,78,MissedShots,0.9469999694824218,0.33299999237060546,0.07184310257434845,Christian Benteke,h,606,OpenPlay,2016,RightFoot,3501,Crystal Palace,Hull,4,0,2017-05-14 12:00:00,James McArthur,Cross,606
+112534,8,BlockedShot,0.855999984741211,0.5770000076293945,0.08210570365190506,Christian Benteke,a,606,OpenPlay,2016,RightFoot,3516,Manchester United,Crystal Palace,2,0,2017-05-21 15:00:00,Wilfried Zaha,Pass,606
+112544,54,ShotOnPost,0.885,0.495,0.04681859910488129,Christian Benteke,a,606,OpenPlay,2016,Head,3516,Manchester United,Crystal Palace,2,0,2017-05-21 15:00:00,Wilfried Zaha,Cross,606
+158226,44,MissedShots,0.9180000305175782,0.46,0.03509270027279854,Christian Benteke,h,606,FromCorner,2017,Head,7124,Crystal Palace,Huddersfield,0,3,2017-08-12 15:00:00,Patrick van Aanholt,Aerial,606
+158230,54,SavedShot,0.919000015258789,0.48200000762939454,0.09750829637050629,Christian Benteke,h,606,FromCorner,2017,Head,7124,Crystal Palace,Huddersfield,0,3,2017-08-12 15:00:00,Patrick van Aanholt,Cross,606
+158237,83,MissedShots,0.924000015258789,0.47,0.10194899886846542,Christian Benteke,h,606,FromCorner,2017,Head,7124,Crystal Palace,Huddersfield,0,3,2017-08-12 15:00:00,Andros Townsend,Cross,606
+158496,54,MissedShots,0.915,0.4420000076293945,0.44846001267433167,Christian Benteke,a,606,OpenPlay,2017,RightFoot,7134,Liverpool,Crystal Palace,1,0,2017-08-19 15:00:00,Ruben Loftus-Cheek,Pass,606
+159157,5,MissedShots,0.885,0.5590000152587891,0.035201601684093475,Christian Benteke,a,606,OpenPlay,2017,Head,7156,Burnley,Crystal Palace,1,0,2017-09-10 13:30:00,Andros Townsend,Chipped,606
+159166,45,MissedShots,0.8830000305175781,0.5429999923706055,0.029201000928878784,Christian Benteke,a,606,OpenPlay,2017,Head,7156,Burnley,Crystal Palace,1,0,2017-09-10 13:30:00,Jeffrey Schlupp,Aerial,606
+159173,76,BlockedShot,0.750999984741211,0.36900001525878906,0.0164474006742239,Christian Benteke,a,606,OpenPlay,2017,RightFoot,7156,Burnley,Crystal Palace,1,0,2017-09-10 13:30:00,,None,606
+159174,78,SavedShot,0.904000015258789,0.5870000076293945,0.41074201464653015,Christian Benteke,a,606,OpenPlay,2017,RightFoot,7156,Burnley,Crystal Palace,1,0,2017-09-10 13:30:00,Andros Townsend,TakeOn,606
+158595,15,SavedShot,0.9540000152587891,0.4779999923706055,0.5862879753112793,Christian Benteke,h,606,OpenPlay,2017,RightFoot,7160,Crystal Palace,Southampton,0,1,2017-09-16 12:30:00,,None,606
+158610,59,MissedShots,0.8780000305175781,0.5670000076293945,0.027490099892020226,Christian Benteke,h,606,OpenPlay,2017,Head,7160,Crystal Palace,Southampton,0,1,2017-09-16 12:30:00,Yohan Cabaye,Chipped,606
+160709,80,MissedShots,0.8680000305175781,0.5729999923706055,0.32030999660491943,Christian Benteke,h,606,OpenPlay,2017,LeftFoot,7234,Crystal Palace,Everton,2,2,2017-11-18 15:00:00,Wilfried Zaha,Pass,606
+160713,89,SavedShot,0.7580000305175781,0.48900001525878906,0.022693300619721413,Christian Benteke,h,606,OpenPlay,2017,RightFoot,7234,Crystal Palace,Everton,2,2,2017-11-18 15:00:00,,None,606
+161156,51,MissedShots,0.9630000305175781,0.34599998474121096,0.07697270065546036,Christian Benteke,h,606,OpenPlay,2017,RightFoot,7246,Crystal Palace,Stoke,2,1,2017-11-25 15:00:00,Yohan Cabaye,Pass,606
+161161,73,SavedShot,0.870999984741211,0.7659999847412109,0.027737300843000412,Christian Benteke,h,606,OpenPlay,2017,RightFoot,7246,Crystal Palace,Stoke,2,1,2017-11-25 15:00:00,Andros Townsend,Pass,606
+160838,13,SavedShot,0.87,0.5320000076293945,0.08023510128259659,Christian Benteke,a,606,OpenPlay,2017,RightFoot,7250,Brighton,Crystal Palace,0,0,2017-11-28 19:45:00,Wilfried Zaha,None,606
+160865,21,MissedShots,0.9130000305175782,0.47900001525878905,0.03453189879655838,Christian Benteke,a,606,FromCorner,2017,Head,7265,West Bromwich Albion,Crystal Palace,0,0,2017-12-02 15:00:00,Andros Townsend,Aerial,606
+160867,40,SavedShot,0.919000015258789,0.38599998474121094,0.2096399962902069,Christian Benteke,a,606,OpenPlay,2017,RightFoot,7265,West Bromwich Albion,Crystal Palace,0,0,2017-12-02 15:00:00,Andros Townsend,TakeOn,606
+160869,41,SavedShot,0.9209999847412109,0.47900001525878905,0.3083780109882355,Christian Benteke,a,606,FromCorner,2017,Head,7265,West Bromwich Albion,Crystal Palace,0,0,2017-12-02 15:00:00,Andros Townsend,Cross,606
+160868,41,BlockedShot,0.915,0.534000015258789,0.03348829969763756,Christian Benteke,a,606,FromCorner,2017,Head,7265,West Bromwich Albion,Crystal Palace,0,0,2017-12-02 15:00:00,Andros Townsend,Aerial,606
+179162,4,MissedShots,0.9440000152587891,0.534000015258789,0.12504999339580536,Christian Benteke,h,606,OpenPlay,2017,Head,7273,Crystal Palace,Bournemouth,2,2,2017-12-09 15:00:00,Wilfried Zaha,Pass,606
+179166,15,SavedShot,0.9,0.625,0.08154109865427017,Christian Benteke,h,606,OpenPlay,2017,LeftFoot,7273,Crystal Palace,Bournemouth,2,2,2017-12-09 15:00:00,Wilfried Zaha,Pass,606
+179169,32,MissedShots,0.9630000305175781,0.4209999847412109,0.11132500320672989,Christian Benteke,h,606,OpenPlay,2017,Head,7273,Crystal Palace,Bournemouth,2,2,2017-12-09 15:00:00,Wilfried Zaha,Cross,606
+179186,77,MissedShots,0.9159999847412109,0.49900001525878906,0.05692330002784729,Christian Benteke,h,606,SetPiece,2017,Head,7273,Crystal Palace,Bournemouth,2,2,2017-12-09 15:00:00,Andros Townsend,Aerial,606
+179192,92,SavedShot,0.885,0.5,0.7611690163612366,Christian Benteke,h,606,Penalty,2017,RightFoot,7273,Crystal Palace,Bournemouth,2,2,2017-12-09 15:00:00,,Standard,606
+182661,18,Goal,0.899000015258789,0.500999984741211,0.2265930026769638,Christian Benteke,a,606,OpenPlay,2017,Head,7294,Leicester,Crystal Palace,0,3,2017-12-16 12:30:00,Andros Townsend,Cross,606
+182668,47,MissedShots,0.9230000305175782,0.46599998474121096,0.37927499413490295,Christian Benteke,a,606,OpenPlay,2017,Head,7294,Leicester,Crystal Palace,0,3,2017-12-16 12:30:00,Andros Townsend,Cross,606
+182673,79,SavedShot,0.97,0.5729999923706055,0.4574959874153137,Christian Benteke,a,606,OpenPlay,2017,Head,7294,Leicester,Crystal Palace,0,3,2017-12-16 12:30:00,Andros Townsend,Cross,606
+182676,83,BlockedShot,0.845,0.40599998474121096,0.09933339804410934,Christian Benteke,a,606,OpenPlay,2017,RightFoot,7294,Leicester,Crystal Palace,0,3,2017-12-16 12:30:00,Wilfried Zaha,Pass,606
+186181,8,BlockedShot,0.8690000152587891,0.3039999961853027,0.2899540066719055,Christian Benteke,h,606,OpenPlay,2017,RightFoot,7321,Crystal Palace,Manchester City,0,0,2017-12-31 12:00:00,,None,606
+186187,31,MissedShots,0.919000015258789,0.485,0.04436109960079193,Christian Benteke,h,606,FromCorner,2017,Head,7321,Crystal Palace,Manchester City,0,0,2017-12-31 12:00:00,Yohan Cabaye,Aerial,606
+186203,97,MissedShots,0.9030000305175782,0.5429999923706055,0.019730500876903534,Christian Benteke,h,606,FromCorner,2017,Head,7321,Crystal Palace,Manchester City,0,0,2017-12-31 12:00:00,Andros Townsend,Aerial,606
+186407,64,SavedShot,0.8519999694824218,0.46099998474121096,0.06082870066165924,Christian Benteke,a,606,OpenPlay,2017,RightFoot,7336,Southampton,Crystal Palace,1,2,2018-01-02 19:45:00,,None,606
+186416,89,BlockedShot,0.8119999694824219,0.47900001525878905,0.0727555975317955,Christian Benteke,a,606,OpenPlay,2017,RightFoot,7336,Southampton,Crystal Palace,1,2,2018-01-02 19:45:00,Wilfried Zaha,Pass,606
+187382,26,MissedShots,0.915,0.51,0.2949190139770508,Christian Benteke,h,606,FromCorner,2017,Head,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Luka Milivojevic,Cross,606
+187389,42,SavedShot,0.9359999847412109,0.47299999237060547,0.5932729840278625,Christian Benteke,h,606,SetPiece,2017,RightFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Patrick van Aanholt,Rebound,606
+187394,56,MissedShots,0.9130000305175782,0.595999984741211,0.07041630148887634,Christian Benteke,h,606,OpenPlay,2017,Head,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Bakary Sako,Cross,606
+187397,68,MissedShots,0.925,0.48400001525878905,0.07813619822263718,Christian Benteke,h,606,OpenPlay,2017,Head,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,Bakary Sako,Aerial,606
+187401,89,MissedShots,0.894000015258789,0.36,0.04001149907708168,Christian Benteke,h,606,OpenPlay,2017,RightFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,,Aerial,606
+188731,59,SavedShot,0.8669999694824219,0.34599998474121096,0.14967000484466553,Christian Benteke,a,606,OpenPlay,2017,RightFoot,7349,Arsenal,Crystal Palace,4,1,2018-01-20 15:00:00,Bakary Sako,Cross,606
+194102,23,Goal,0.9459999847412109,0.5029999923706054,0.8904970288276672,Christian Benteke,a,606,OpenPlay,2017,Head,7360,West Ham,Crystal Palace,1,1,2018-01-30 19:45:00,Andros Townsend,Aerial,606
+193680,8,SavedShot,0.855,0.565,0.5230770111083984,Christian Benteke,h,606,OpenPlay,2017,RightFoot,7373,Crystal Palace,Newcastle United,1,1,2018-02-04 14:15:00,Patrick van Aanholt,Throughball,606
+193698,58,MissedShots,0.9169999694824219,0.500999984741211,0.04300370067358017,Christian Benteke,h,606,FromCorner,2017,Head,7373,Crystal Palace,Newcastle United,1,1,2018-02-04 14:15:00,Yohan Cabaye,Aerial,606
+193708,87,BlockedShot,0.9530000305175781,0.39599998474121095,0.06721190363168716,Christian Benteke,h,606,OpenPlay,2017,Head,7373,Crystal Palace,Newcastle United,1,1,2018-02-04 14:15:00,Wilfried Zaha,Cross,606
+193857,44,BlockedShot,0.8640000152587891,0.585,0.07646139711141586,Christian Benteke,a,606,OpenPlay,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Alexander Sørloth,Chipped,606
+193858,44,MissedShots,0.9030000305175782,0.42200000762939455,0.03897060081362724,Christian Benteke,a,606,OpenPlay,2017,Head,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Alexander Sørloth,Chipped,606
+193861,55,MissedShots,0.894000015258789,0.5670000076293945,0.29141899943351746,Christian Benteke,a,606,OpenPlay,2017,Head,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Yohan Cabaye,Chipped,606
+193872,81,BlockedShot,0.9290000152587891,0.5179999923706055,0.12462099641561508,Christian Benteke,a,606,FromCorner,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Alexander Sørloth,HeadPass,606
+193871,81,BlockedShot,0.9359999847412109,0.4929999923706055,0.07209450006484985,Christian Benteke,a,606,FromCorner,2017,Head,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,James Tomkins,HeadPass,606
+199611,65,MissedShots,0.8880000305175781,0.44299999237060544,0.038665398955345154,Christian Benteke,h,606,OpenPlay,2017,Head,7401,Crystal Palace,Manchester United,2,3,2018-03-05 20:00:00,Patrick van Aanholt,Aerial,606
+199614,69,MissedShots,0.905,0.49700000762939456,0.06054190173745155,Christian Benteke,h,606,OpenPlay,2017,Head,7401,Crystal Palace,Manchester United,2,3,2018-03-05 20:00:00,Aaron Wan-Bissaka,Aerial,606
+199619,76,SavedShot,0.9169999694824219,0.5320000076293945,0.11890000104904175,Christian Benteke,h,606,OpenPlay,2017,Head,7401,Crystal Palace,Manchester United,2,3,2018-03-05 20:00:00,Andros Townsend,Cross,606
+201449,17,BlockedShot,0.8909999847412109,0.5929999923706055,0.10523699969053268,Christian Benteke,a,606,OpenPlay,2017,RightFoot,7421,Huddersfield,Crystal Palace,0,2,2018-03-17 15:00:00,Wilfried Zaha,Pass,606
+201453,55,BlockedShot,0.779000015258789,0.5570000076293945,0.04165950044989586,Christian Benteke,a,606,OpenPlay,2017,RightFoot,7421,Huddersfield,Crystal Palace,0,2,2018-03-17 15:00:00,Andros Townsend,Pass,606
+201462,84,MissedShots,0.914000015258789,0.48700000762939455,0.09254419803619385,Christian Benteke,a,606,OpenPlay,2017,Head,7421,Huddersfield,Crystal Palace,0,2,2018-03-17 15:00:00,Andros Townsend,Aerial,606
+204131,57,MissedShots,0.8490000152587891,0.5279999923706055,0.3057760000228882,Christian Benteke,h,606,OpenPlay,2017,RightFoot,7432,Crystal Palace,Liverpool,1,2,2018-03-31 12:30:00,Andros Townsend,HeadPass,606
+204132,58,MissedShots,0.8569999694824219,0.524000015258789,0.4558970034122467,Christian Benteke,h,606,OpenPlay,2017,RightFoot,7432,Crystal Palace,Liverpool,1,2,2018-03-31 12:30:00,Andros Townsend,Pass,606
+211687,89,Goal,0.885,0.5,0.7611690163612366,Christian Benteke,h,606,Penalty,2017,RightFoot,7470,Crystal Palace,Leicester,5,0,2018-04-28 14:00:00,,Standard,606
+213035,78,MissedShots,0.879000015258789,0.5790000152587891,0.10803399980068207,Christian Benteke,a,606,OpenPlay,2017,RightFoot,7481,Stoke,Crystal Palace,1,2,2018-05-05 12:30:00,Wilfried Zaha,Pass,606
+215701,73,SavedShot,0.885,0.5540000152587891,0.03532329946756363,Christian Benteke,h,606,OpenPlay,2017,Head,7493,Crystal Palace,West Bromwich Albion,2,0,2018-05-13 15:00:00,Andros Townsend,Aerial,606
+232751,29,SavedShot,0.9280000305175782,0.49400001525878906,0.06864920258522034,Christian Benteke,a,606,OpenPlay,2018,Head,9201,Fulham,Crystal Palace,0,2,2018-08-11 17:00:00,Andros Townsend,Aerial,606
+232758,62,BlockedShot,0.879000015258789,0.49900001525878906,0.014095700345933437,Christian Benteke,a,606,FromCorner,2018,Head,9201,Fulham,Crystal Palace,0,2,2018-08-11 17:00:00,Luka Milivojevic,Aerial,606
+232760,74,SavedShot,0.7859999847412109,0.27,0.02131580002605915,Christian Benteke,a,606,OpenPlay,2018,RightFoot,9201,Fulham,Crystal Palace,0,2,2018-08-11 17:00:00,,None,606
+233048,65,MissedShots,0.784000015258789,0.669000015258789,0.031249800696969032,Christian Benteke,h,606,OpenPlay,2018,RightFoot,9216,Crystal Palace,Liverpool,0,2,2018-08-20 22:00:00,,TakeOn,606
+233416,4,MissedShots,0.9259999847412109,0.5979999923706054,0.04225179925560951,Christian Benteke,a,606,OpenPlay,2018,Head,9224,Watford,Crystal Palace,2,1,2018-08-26 15:30:00,Andros Townsend,Chipped,606
+233417,11,SavedShot,0.9209999847412109,0.4779999923706055,0.13028700649738312,Christian Benteke,a,606,OpenPlay,2018,Head,9224,Watford,Crystal Palace,2,1,2018-08-26 15:30:00,Andros Townsend,Cross,606
+233430,68,MissedShots,0.84,0.575,0.05850119888782501,Christian Benteke,a,606,OpenPlay,2018,RightFoot,9224,Watford,Crystal Palace,2,1,2018-08-26 15:30:00,Mamadou Sakho,Chipped,606
+233585,1,MissedShots,0.889000015258789,0.5359999847412109,0.03646640107035637,Christian Benteke,h,606,OpenPlay,2018,Head,9230,Crystal Palace,Southampton,0,2,2018-09-01 14:00:00,Andros Townsend,Aerial,606
+233592,25,MissedShots,0.9330000305175781,0.519000015258789,0.4470190107822418,Christian Benteke,h,606,OpenPlay,2018,Head,9230,Crystal Palace,Southampton,0,2,2018-09-01 14:00:00,Aaron Wan-Bissaka,Cross,606
+233603,59,SavedShot,0.955,0.625999984741211,0.4228070080280304,Christian Benteke,h,606,OpenPlay,2018,LeftFoot,9230,Crystal Palace,Southampton,0,2,2018-09-01 14:00:00,James McArthur,TakeOn,606
+233615,76,MissedShots,0.909000015258789,0.42700000762939455,0.02884019911289215,Christian Benteke,h,606,OpenPlay,2018,Head,9230,Crystal Palace,Southampton,0,2,2018-09-01 14:00:00,Max Meyer,Aerial,606
+233618,85,MissedShots,0.914000015258789,0.46700000762939453,0.26633599400520325,Christian Benteke,h,606,FromCorner,2018,Head,9230,Crystal Palace,Southampton,0,2,2018-09-01 14:00:00,Luka Milivojevic,Cross,606
+233620,89,SavedShot,0.965999984741211,0.5029999923706054,0.5440390110015869,Christian Benteke,h,606,OpenPlay,2018,Head,9230,Crystal Palace,Southampton,0,2,2018-09-01 14:00:00,Alexander Sørloth,HeadPass,606
+274417,86,MissedShots,0.889000015258789,0.575,0.012648100033402443,Christian Benteke,h,606,SetPiece,2018,Head,9412,Crystal Palace,Watford,1,2,2019-01-12 15:00:00,Luka Milivojevic,Aerial,606
+275253,35,ShotOnPost,0.9390000152587891,0.575,0.12264800071716309,Christian Benteke,h,606,OpenPlay,2018,RightFoot,9442,Crystal Palace,Fulham,2,0,2019-02-02 15:00:00,Andros Townsend,Cross,606
+275263,69,BlockedShot,0.925,0.41,0.016871599480509758,Christian Benteke,h,606,FromCorner,2018,Head,9442,Crystal Palace,Fulham,2,0,2019-02-02 15:00:00,Luka Milivojevic,Aerial,606
+275264,70,MissedShots,0.92,0.575,0.020382199436426163,Christian Benteke,h,606,FromCorner,2018,Head,9442,Crystal Palace,Fulham,2,0,2019-02-02 15:00:00,Luka Milivojevic,Aerial,606
+275427,30,SavedShot,0.9019999694824219,0.355,0.3482840061187744,Christian Benteke,h,606,OpenPlay,2018,RightFoot,9448,Crystal Palace,West Ham,1,1,2019-02-09 15:00:00,Andros Townsend,Throughball,606
+275428,31,MissedShots,0.92,0.41700000762939454,0.06304170191287994,Christian Benteke,h,606,FromCorner,2018,RightFoot,9448,Crystal Palace,West Ham,1,1,2019-02-09 15:00:00,Luka Milivojevic,Cross,606
+276114,92,BlockedShot,0.750999984741211,0.5879999923706055,0.01762380078434944,Christian Benteke,h,606,OpenPlay,2018,RightFoot,9471,Crystal Palace,Manchester United,1,3,2019-02-27 20:00:00,Wilfried Zaha,Pass,606
+287596,84,BlockedShot,0.9340000152587891,0.4490000152587891,0.049583300948143005,Christian Benteke,h,606,FromCorner,2018,Head,9513,Crystal Palace,Huddersfield,2,0,2019-03-30 15:00:00,Luka Milivojevic,Aerial,606
+291360,85,MissedShots,0.9519999694824218,0.4520000076293945,0.3732460141181946,Christian Benteke,a,606,FromCorner,2018,Head,9500,Tottenham,Crystal Palace,2,0,2019-04-03 19:45:00,James McArthur,Chipped,606
+294170,69,SavedShot,0.85,0.48,0.04408210143446922,Christian Benteke,h,606,OpenPlay,2018,RightFoot,9534,Crystal Palace,Manchester City,1,3,2019-04-14 14:05:00,Luka Milivojevic,Cross,606
+295954,16,Goal,0.9290000152587891,0.5220000076293946,0.3801249861717224,Christian Benteke,a,606,SetPiece,2018,Head,9546,Arsenal,Crystal Palace,2,3,2019-04-21 16:00:00,Luka Milivojevic,Cross,606
+295963,43,BlockedShot,0.9280000305175782,0.57,0.02854740060865879,Christian Benteke,a,606,FromCorner,2018,Head,9546,Arsenal,Crystal Palace,2,3,2019-04-21 16:00:00,Luka Milivojevic,Aerial,606
+295964,45,MissedShots,0.86,0.45799999237060546,0.14009499549865723,Christian Benteke,a,606,OpenPlay,2018,RightFoot,9546,Arsenal,Crystal Palace,2,3,2019-04-21 16:00:00,Wilfried Zaha,Pass,606
+311079,4,SavedShot,0.9530000305175781,0.32799999237060545,0.05858220160007477,Christian Benteke,a,606,OpenPlay,2019,RightFoot,11660,Sheffield United,Crystal Palace,1,0,2019-08-18 14:00:00,,None,606
+315827,94,MissedShots,0.794000015258789,0.585,0.04916299879550934,Christian Benteke,h,606,OpenPlay,2019,RightFoot,11676,Crystal Palace,Aston Villa,1,0,2019-08-31 15:00:00,Andros Townsend,Pass,606
+317373,78,BlockedShot,0.8330000305175781,0.475,0.08357509970664978,Christian Benteke,a,606,OpenPlay,2019,LeftFoot,11687,Tottenham,Crystal Palace,4,0,2019-09-14 14:00:00,James McCarthy,Pass,606
+317377,92,SavedShot,0.889000015258789,0.3990000152587891,0.0728570967912674,Christian Benteke,a,606,OpenPlay,2019,LeftFoot,11687,Tottenham,Crystal Palace,4,0,2019-09-14 14:00:00,Luka Milivojevic,BallRecovery,606
+321506,77,SavedShot,0.8959999847412109,0.5259999847412109,0.1373099982738495,Christian Benteke,h,606,OpenPlay,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Jeffrey Schlupp,Pass,606
+325891,75,SavedShot,0.8819999694824219,0.445,0.027553899213671684,Christian Benteke,h,606,FromCorner,2019,Head,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,Patrick van Aanholt,Cross,606
+329765,85,SavedShot,0.8780000305175781,0.605999984741211,0.01659270003437996,Christian Benteke,h,606,SetPiece,2019,Head,11747,Crystal Palace,Leicester,0,2,2019-11-03 14:00:00,,None,606
+332274,77,MissedShots,0.8780000305175781,0.53,0.07562480121850967,Christian Benteke,h,606,OpenPlay,2019,RightFoot,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,Martin Kelly,Cross,606
+337948,69,SavedShot,0.8669999694824219,0.5059999847412109,0.018514899536967278,Christian Benteke,h,606,OpenPlay,2019,Head,11806,Crystal Palace,Brighton,1,1,2019-12-16 19:45:00,Martin Kelly,Aerial,606
+337949,72,SavedShot,0.865999984741211,0.3160000038146973,0.05070799961686134,Christian Benteke,h,606,OpenPlay,2019,RightFoot,11806,Crystal Palace,Brighton,1,1,2019-12-16 19:45:00,Jordan Ayew,Pass,606
+337951,74,BlockedShot,0.9219999694824219,0.5379999923706055,0.04269760102033615,Christian Benteke,h,606,OpenPlay,2019,Head,11806,Crystal Palace,Brighton,1,1,2019-12-16 19:45:00,Martin Kelly,Aerial,606
+337959,92,SavedShot,0.8830000305175781,0.705,0.03500109910964966,Christian Benteke,h,606,OpenPlay,2019,RightFoot,11806,Crystal Palace,Brighton,1,1,2019-12-16 19:45:00,Martin Kelly,Pass,606
+338621,26,MissedShots,0.914000015258789,0.4879999923706055,0.12160400301218033,Christian Benteke,a,606,OpenPlay,2019,Head,11818,Newcastle United,Crystal Palace,1,0,2019-12-21 15:00:00,Patrick van Aanholt,Cross,606
+338628,46,BlockedShot,0.8830000305175781,0.6909999847412109,0.060050301253795624,Christian Benteke,a,606,OpenPlay,2019,RightFoot,11818,Newcastle United,Crystal Palace,1,0,2019-12-21 15:00:00,Jordan Ayew,Pass,606
+338635,73,SavedShot,0.89,0.39799999237060546,0.1247820034623146,Christian Benteke,a,606,OpenPlay,2019,RightFoot,11818,Newcastle United,Crystal Palace,1,0,2019-12-21 15:00:00,Jordan Ayew,Throughball,606
+352480,24,MissedShots,0.9530000305175781,0.6659999847412109,0.09718109667301178,Christian Benteke,h,606,OpenPlay,2019,LeftFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,Jordan Ayew,Pass,606
+352486,47,SavedShot,0.8490000152587891,0.46700000762939453,0.08960539847612381,Christian Benteke,h,606,OpenPlay,2019,LeftFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,Wilfried Zaha,Pass,606
+352660,50,Goal,0.895,0.32,0.053829800337553024,Christian Benteke,a,606,OpenPlay,2019,RightFoot,11897,Everton,Crystal Palace,3,1,2020-02-08 12:30:00,Wilfried Zaha,Pass,606
+352664,60,SavedShot,0.96,0.52,0.48505699634552,Christian Benteke,a,606,OpenPlay,2019,Head,11897,Everton,Crystal Palace,3,1,2020-02-08 12:30:00,,None,606
+352667,83,MissedShots,0.9080000305175782,0.445,0.07605379819869995,Christian Benteke,a,606,OpenPlay,2019,RightFoot,11897,Everton,Crystal Palace,3,1,2020-02-08 12:30:00,Cheikhou Kouyaté,BallTouch,606
+352945,14,BlockedShot,0.8380000305175781,0.4779999923706055,0.07153250277042389,Christian Benteke,h,606,OpenPlay,2019,RightFoot,11905,Crystal Palace,Newcastle United,1,0,2020-02-22 15:00:00,,BallRecovery,606
+352948,20,MissedShots,0.9569999694824218,0.4909999847412109,0.5540099740028381,Christian Benteke,h,606,SetPiece,2019,Head,11905,Crystal Palace,Newcastle United,1,0,2020-02-22 15:00:00,Patrick van Aanholt,Cross,606
+352960,54,SavedShot,0.7930000305175782,0.6940000152587891,0.049524299800395966,Christian Benteke,h,606,OpenPlay,2019,RightFoot,11905,Crystal Palace,Newcastle United,1,0,2020-02-22 15:00:00,James McArthur,Pass,606
+353198,3,MissedShots,0.8530000305175781,0.57,0.29383599758148193,Christian Benteke,a,606,OpenPlay,2019,RightFoot,11915,Brighton,Crystal Palace,0,1,2020-02-29 12:30:00,James McArthur,Chipped,606
+353210,44,BlockedShot,0.925,0.6780000305175782,0.09263560175895691,Christian Benteke,a,606,OpenPlay,2019,LeftFoot,11915,Brighton,Crystal Palace,0,1,2020-02-29 12:30:00,Patrick van Aanholt,TakeOn,606
+353215,58,MissedShots,0.955999984741211,0.46799999237060547,0.08105509728193283,Christian Benteke,a,606,FromCorner,2019,Head,11915,Brighton,Crystal Palace,0,1,2020-02-29 12:30:00,Patrick van Aanholt,Aerial,606
+353218,62,SavedShot,0.8880000305175781,0.7380000305175781,0.014923700131475925,Christian Benteke,a,606,OpenPlay,2019,RightFoot,11915,Brighton,Crystal Palace,0,1,2020-02-29 12:30:00,,Aerial,606
+353428,63,MissedShots,0.9169999694824219,0.46299999237060546,0.0349930003285408,Christian Benteke,h,606,FromCorner,2019,Head,11926,Crystal Palace,Watford,1,0,2020-03-07 15:00:00,James McCarthy,Aerial,606
+353432,72,MissedShots,0.93,0.6630000305175782,0.06572529673576355,Christian Benteke,h,606,SetPiece,2019,RightFoot,11926,Crystal Palace,Watford,1,0,2020-03-07 15:00:00,Scott Dann,HeadPass,606
+368587,37,MissedShots,0.884000015258789,0.44599998474121094,0.016868699342012405,Christian Benteke,a,606,SetPiece,2019,Head,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Wilfried Zaha,Aerial,606
+368590,54,MissedShots,0.7469999694824219,0.47,0.022426100447773933,Christian Benteke,a,606,OpenPlay,2019,RightFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Patrick van Aanholt,Pass,606
+369420,46,SavedShot,0.879000015258789,0.555,0.012177499942481518,Christian Benteke,h,606,SetPiece,2019,Head,11977,Crystal Palace,Chelsea,2,3,2020-07-07 17:00:00,Luka Milivojevic,Aerial,606
+369426,71,Goal,0.9730000305175781,0.5129999923706055,0.8140050172805786,Christian Benteke,h,606,OpenPlay,2019,RightFoot,11977,Crystal Palace,Chelsea,2,3,2020-07-07 17:00:00,Patrick van Aanholt,Pass,606
+369433,93,BlockedShot,0.9030000305175782,0.5940000152587891,0.08368589729070663,Christian Benteke,h,606,OpenPlay,2019,RightFoot,11977,Crystal Palace,Chelsea,2,3,2020-07-07 17:00:00,Patrick van Aanholt,Pass,606
+370749,40,SavedShot,0.9,0.37799999237060544,0.07433179765939713,Christian Benteke,a,606,OpenPlay,2019,RightFoot,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,,None,606
+370748,40,BlockedShot,0.904000015258789,0.4420000076293945,0.10948900133371353,Christian Benteke,a,606,OpenPlay,2019,RightFoot,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,Wilfried Zaha,Foul,606
+370750,41,SavedShot,0.895,0.43900001525878907,0.10556399822235107,Christian Benteke,a,606,OpenPlay,2019,LeftFoot,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,,Rebound,606
+370753,49,SavedShot,0.8830000305175781,0.335,0.060670800507068634,Christian Benteke,a,606,OpenPlay,2019,RightFoot,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,Wilfried Zaha,Pass,606
+370763,77,MissedShots,0.9619999694824218,0.500999984741211,0.15251900255680084,Christian Benteke,a,606,SetPiece,2019,Head,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,Andros Townsend,Cross,606
+370764,89,MissedShots,0.8530000305175781,0.5429999923706055,0.09068729728460312,Christian Benteke,a,606,OpenPlay,2019,RightFoot,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,James McCarthy,Pass,606
+370765,91,MissedShots,0.909000015258789,0.5,0.05082650110125542,Christian Benteke,a,606,SetPiece,2019,Head,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,Patrick van Aanholt,Aerial,606
+388350,79,MissedShots,0.9009999847412109,0.5420000076293945,0.03259959816932678,Christian Benteke,a,606,SetPiece,2020,Head,14516,Burnley,Crystal Palace,1,0,2020-11-23 17:30:00,Andros Townsend,Aerial,606
+388354,89,SavedShot,0.9569999694824218,0.46099998474121096,0.5819510221481323,Christian Benteke,a,606,SetPiece,2020,RightFoot,14516,Burnley,Crystal Palace,1,0,2020-11-23 17:30:00,Cheikhou Kouyaté,Aerial,606
+388457,68,MissedShots,0.88,0.46900001525878904,0.04497610032558441,Christian Benteke,h,606,OpenPlay,2020,Head,14530,Crystal Palace,Newcastle United,0,2,2020-11-27 20:00:00,James McArthur,HeadPass,606
+388459,72,MissedShots,0.93,0.6940000152587891,0.048413701355457306,Christian Benteke,h,606,OpenPlay,2020,LeftFoot,14530,Crystal Palace,Newcastle United,0,2,2020-11-27 20:00:00,Patrick van Aanholt,Chipped,606
+388461,79,SavedShot,0.894000015258789,0.46900001525878904,0.03817249834537506,Christian Benteke,h,606,OpenPlay,2020,Head,14530,Crystal Palace,Newcastle United,0,2,2020-11-27 20:00:00,Patrick van Aanholt,Aerial,606
+390565,28,SavedShot,0.8880000305175781,0.475,0.02192539907991886,Christian Benteke,a,606,SetPiece,2020,Head,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Patrick van Aanholt,Aerial,606
+390572,49,MissedShots,0.94,0.649000015258789,0.089683897793293,Christian Benteke,a,606,OpenPlay,2020,LeftFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Eberechi Eze,Pass,606
+390576,54,BlockedShot,0.9390000152587891,0.5020000076293946,0.14361099898815155,Christian Benteke,a,606,FromCorner,2020,RightFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Gary Cahill,Chipped,606
+390579,58,Goal,0.9580000305175781,0.5690000152587891,0.12073200196027756,Christian Benteke,a,606,OpenPlay,2020,Head,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Patrick van Aanholt,Pass,606
+390583,81,Goal,0.86,0.49700000762939456,0.1269019991159439,Christian Benteke,a,606,OpenPlay,2020,LeftFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Nathaniel Clyne,Pass,606
+392194,59,SavedShot,0.8819999694824219,0.38599998474121094,0.00878066010773182,Christian Benteke,h,606,SetPiece,2020,Head,14545,Crystal Palace,Tottenham,1,1,2020-12-13 14:15:00,Luka Milivojevic,Aerial,606
+392195,63,BlockedShot,0.8690000152587891,0.5429999923706055,0.018240299075841904,Christian Benteke,h,606,FromCorner,2020,Head,14545,Crystal Palace,Tottenham,1,1,2020-12-13 14:15:00,Eberechi Eze,Foul,606
+392200,77,MissedShots,0.915,0.56,0.06676279753446579,Christian Benteke,h,606,FromCorner,2020,Head,14545,Crystal Palace,Tottenham,1,1,2020-12-13 14:15:00,Eberechi Eze,Cross,606
+392201,79,SavedShot,0.914000015258789,0.46700000762939453,0.049554601311683655,Christian Benteke,h,606,FromCorner,2020,Head,14545,Crystal Palace,Tottenham,1,1,2020-12-13 14:15:00,Gary Cahill,HeadPass,606
+393477,13,MissedShots,0.9440000152587891,0.5379999923706055,0.08447969704866409,Christian Benteke,a,606,OpenPlay,2020,Head,14561,West Ham,Crystal Palace,1,1,2020-12-16 20:00:00,Joel Ward,Aerial,606
+393479,34,Goal,0.905,0.4879999923706055,0.24796099960803986,Christian Benteke,a,606,OpenPlay,2020,Head,14561,West Ham,Crystal Palace,1,1,2020-12-16 20:00:00,Joel Ward,Cross,606
+393480,37,MissedShots,0.9009999847412109,0.4490000152587891,0.048722799867391586,Christian Benteke,a,606,OpenPlay,2020,Head,14561,West Ham,Crystal Palace,1,1,2020-12-16 20:00:00,Andros Townsend,Aerial,606
+393483,42,SavedShot,0.9169999694824219,0.49,0.5121129751205444,Christian Benteke,a,606,OpenPlay,2020,RightFoot,14561,West Ham,Crystal Palace,1,1,2020-12-16 20:00:00,Andros Townsend,Pass,606
+393484,46,MissedShots,0.875999984741211,0.7290000152587891,0.04846369847655296,Christian Benteke,a,606,OpenPlay,2020,RightFoot,14561,West Ham,Crystal Palace,1,1,2020-12-16 20:00:00,Patrick van Aanholt,Pass,606
+395654,77,MissedShots,0.9219999694824219,0.36900001525878906,0.018277300521731377,Christian Benteke,a,606,OpenPlay,2020,Head,14576,Aston Villa,Crystal Palace,3,0,2020-12-26 15:00:00,Michy Batshuayi,Cross,606
+395662,91,MissedShots,0.9169999694824219,0.61,0.09908200055360794,Christian Benteke,a,606,OpenPlay,2020,LeftFoot,14576,Aston Villa,Crystal Palace,3,0,2020-12-26 15:00:00,Patrick van Aanholt,Pass,606
+395826,21,MissedShots,0.9519999694824218,0.5270000076293946,0.07708380371332169,Christian Benteke,h,606,FromCorner,2020,Head,14594,Crystal Palace,Leicester,1,1,2020-12-28 15:00:00,Andros Townsend,Aerial,606
+396451,30,ShotOnPost,0.9669999694824218,0.6079999923706054,0.12536999583244324,Christian Benteke,h,606,OpenPlay,2020,RightFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,Wilfried Zaha,Pass,606
+398744,26,SavedShot,0.874000015258789,0.73,0.05831350013613701,Christian Benteke,a,606,OpenPlay,2020,RightFoot,14605,Arsenal,Crystal Palace,0,0,2021-01-14 20:00:00,Eberechi Eze,Pass,606
+398745,28,MissedShots,0.88,0.6020000076293945,0.09261830151081085,Christian Benteke,a,606,OpenPlay,2020,LeftFoot,14605,Arsenal,Crystal Palace,0,0,2021-01-14 20:00:00,Tyrick Mitchell,Pass,606
+398748,38,MissedShots,0.8009999847412109,0.669000015258789,0.025756899267435074,Christian Benteke,a,606,OpenPlay,2020,RightFoot,14605,Arsenal,Crystal Palace,0,0,2021-01-14 20:00:00,Joel Ward,Chipped,606
+398749,41,SavedShot,0.8819999694824219,0.5029999923706054,0.0349837988615036,Christian Benteke,a,606,OpenPlay,2020,Head,14605,Arsenal,Crystal Palace,0,0,2021-01-14 20:00:00,Tyrick Mitchell,Aerial,606
+398754,69,MissedShots,0.919000015258789,0.4640000152587891,0.0893276035785675,Christian Benteke,a,606,FromCorner,2020,Head,14605,Arsenal,Crystal Palace,0,0,2021-01-14 20:00:00,Andros Townsend,Cross,606
+398755,70,BlockedShot,0.730999984741211,0.6840000152587891,0.012777400203049183,Christian Benteke,a,606,OpenPlay,2020,RightFoot,14605,Arsenal,Crystal Palace,0,0,2021-01-14 20:00:00,Andros Townsend,Pass,606
+404046,88,SavedShot,0.8859999847412109,0.5129999923706055,0.045657701790332794,Christian Benteke,a,606,OpenPlay,2020,Head,14658,Leeds,Crystal Palace,2,0,2021-02-08 20:00:00,Andros Townsend,Aerial,606
+404273,2,BlockedShot,0.8690000152587891,0.629000015258789,0.08254840224981308,Christian Benteke,h,606,OpenPlay,2020,RightFoot,14668,Crystal Palace,Burnley,0,3,2021-02-13 15:00:00,Eberechi Eze,Pass,606
+404280,17,SavedShot,0.815,0.5520000076293945,0.059149399399757385,Christian Benteke,h,606,OpenPlay,2020,RightFoot,14668,Crystal Palace,Burnley,0,3,2021-02-13 15:00:00,Luka Milivojevic,BallRecovery,606
+404282,24,SavedShot,0.9359999847412109,0.69,0.07468180358409882,Christian Benteke,h,606,OpenPlay,2020,LeftFoot,14668,Crystal Palace,Burnley,0,3,2021-02-13 15:00:00,,TakeOn,606
+404290,50,SavedShot,0.915,0.51,0.12758299708366394,Christian Benteke,h,606,OpenPlay,2020,Head,14668,Crystal Palace,Burnley,0,3,2021-02-13 15:00:00,Jordan Ayew,Cross,606
+406337,77,MissedShots,0.7609999847412109,0.575999984741211,0.02947540022432804,Christian Benteke,a,606,OpenPlay,2020,LeftFoot,14677,Brighton,Crystal Palace,1,2,2021-02-22 20:00:00,Luka Milivojevic,TakeOn,606
+406340,94,Goal,0.9259999847412109,0.31799999237060544,0.03077620081603527,Christian Benteke,a,606,OpenPlay,2020,RightFoot,14677,Brighton,Crystal Palace,1,2,2021-02-22 20:00:00,Andros Townsend,Cross,606
+407075,79,MissedShots,0.9280000305175782,0.59,0.01760059967637062,Christian Benteke,h,606,FromCorner,2020,Head,14687,Crystal Palace,Fulham,0,0,2021-02-28 12:00:00,Andros Townsend,Aerial,606
+408200,6,MissedShots,0.8830000305175781,0.5579999923706055,0.08583830296993256,Christian Benteke,h,606,OpenPlay,2020,RightFoot,14717,Crystal Palace,Manchester United,0,0,2021-03-03 20:15:00,Andros Townsend,Cross,606
+408210,49,MissedShots,0.91,0.54,0.07911469787359238,Christian Benteke,h,606,FromCorner,2020,RightFoot,14717,Crystal Palace,Manchester United,0,0,2021-03-03 20:15:00,James McCarthy,Cross,606
+409203,45,Goal,0.9280000305175782,0.5179999923706055,0.35013601183891296,Christian Benteke,a,606,OpenPlay,2020,Head,14702,Tottenham,Crystal Palace,4,1,2021-03-07 19:15:00,Luka Milivojevic,Aerial,606
+409208,56,BlockedShot,0.91,0.5540000152587891,0.040048498660326004,Christian Benteke,a,606,SetPiece,2020,Head,14702,Tottenham,Crystal Palace,4,1,2021-03-07 19:15:00,Andros Townsend,Aerial,606
+409961,5,SavedShot,0.7769999694824219,0.5640000152587891,0.030887799337506294,Christian Benteke,h,606,OpenPlay,2020,RightFoot,14706,Crystal Palace,West Bromwich Albion,1,0,2021-03-13 15:00:00,Eberechi Eze,Pass,606
+409969,46,SavedShot,0.845999984741211,0.4179999923706055,0.3452390134334564,Christian Benteke,h,606,OpenPlay,2020,LeftFoot,14706,Crystal Palace,West Bromwich Albion,1,0,2021-03-13 15:00:00,,None,606
+409975,65,BlockedShot,0.9540000152587891,0.33299999237060546,0.08822490274906158,Christian Benteke,h,606,OpenPlay,2020,RightFoot,14706,Crystal Palace,West Bromwich Albion,1,0,2021-03-13 15:00:00,Wilfried Zaha,Pass,606
+413411,36,BlockedShot,0.8469999694824218,0.57,0.06302779912948608,Christian Benteke,a,606,OpenPlay,2020,RightFoot,14728,Everton,Crystal Palace,1,1,2021-04-05 17:00:00,,None,606
+414062,62,Goal,0.9490000152587891,0.46,0.602167010307312,Christian Benteke,h,606,OpenPlay,2020,Head,14737,Crystal Palace,Chelsea,1,4,2021-04-10 16:30:00,Jeffrey Schlupp,Aerial,606
+418242,25,BlockedShot,0.789000015258789,0.5520000076293945,0.04314510151743889,Christian Benteke,a,606,OpenPlay,2020,RightFoot,14759,Leicester,Crystal Palace,2,1,2021-04-26 19:00:00,Wilfried Zaha,Pass,606
+418249,67,SavedShot,0.9390000152587891,0.49599998474121093,0.06995739787817001,Christian Benteke,a,606,FromCorner,2020,Head,14759,Leicester,Crystal Palace,2,1,2021-04-26 19:00:00,Eberechi Eze,Aerial,606
+418254,86,MissedShots,0.919000015258789,0.3970000076293945,0.04565630108118057,Christian Benteke,a,606,SetPiece,2020,Head,14759,Leicester,Crystal Palace,2,1,2021-04-26 19:00:00,Eberechi Eze,Chipped,606
+418483,9,MissedShots,0.9269999694824219,0.5609999847412109,0.05950620025396347,Christian Benteke,h,606,OpenPlay,2020,Head,14768,Crystal Palace,Manchester City,0,2,2021-05-01 11:30:00,Andros Townsend,Aerial,606
+418485,14,SavedShot,0.730999984741211,0.6040000152587891,0.00994053017348051,Christian Benteke,h,606,OpenPlay,2020,RightFoot,14768,Crystal Palace,Manchester City,0,2,2021-05-01 11:30:00,Eberechi Eze,TakeOn,606
+418487,27,SavedShot,0.9769999694824218,0.4279999923706055,0.11040399968624115,Christian Benteke,h,606,OpenPlay,2020,RightFoot,14768,Crystal Palace,Manchester City,0,2,2021-05-01 11:30:00,,None,606
+420074,1,Goal,0.895,0.595999984741211,0.11287599802017212,Christian Benteke,a,606,OpenPlay,2020,RightFoot,14782,Sheffield United,Crystal Palace,0,2,2021-05-08 14:00:00,Eberechi Eze,Pass,606
+420076,14,SavedShot,0.8680000305175781,0.514000015258789,0.06746350228786469,Christian Benteke,a,606,FromCorner,2020,LeftFoot,14782,Sheffield United,Crystal Palace,0,2,2021-05-08 14:00:00,Luka Milivojevic,Chipped,606
+420083,32,MissedShots,0.8090000152587891,0.524000015258789,0.07955700159072876,Christian Benteke,a,606,OpenPlay,2020,RightFoot,14782,Sheffield United,Crystal Palace,0,2,2021-05-08 14:00:00,Wilfried Zaha,TakeOn,606
+420084,40,SavedShot,0.9219999694824219,0.5029999923706054,0.39395400881767273,Christian Benteke,a,606,OpenPlay,2020,Head,14782,Sheffield United,Crystal Palace,0,2,2021-05-08 14:00:00,Jeffrey Schlupp,Cross,606
+420089,53,BlockedShot,0.919000015258789,0.524000015258789,0.07832150161266327,Christian Benteke,a,606,OpenPlay,2020,Head,14782,Sheffield United,Crystal Palace,0,2,2021-05-08 14:00:00,Andros Townsend,Aerial,606
+420090,57,SavedShot,0.8819999694824219,0.32799999237060545,0.07248169928789139,Christian Benteke,a,606,OpenPlay,2020,RightFoot,14782,Sheffield United,Crystal Palace,0,2,2021-05-08 14:00:00,,BallRecovery,606
+420091,60,BlockedShot,0.9059999847412109,0.34599998474121096,0.11863800138235092,Christian Benteke,a,606,OpenPlay,2020,RightFoot,14782,Sheffield United,Crystal Palace,0,2,2021-05-08 14:00:00,Eberechi Eze,Pass,606
+421145,0,MissedShots,0.745999984741211,0.55,0.02039879932999611,Christian Benteke,a,606,OpenPlay,2020,RightFoot,14753,Southampton,Crystal Palace,3,1,2021-05-11 21:00:00,Eberechi Eze,BallRecovery,606
+421146,1,Goal,0.9580000305175781,0.5990000152587891,0.10496100038290024,Christian Benteke,a,606,SetPiece,2020,LeftFoot,14753,Southampton,Crystal Palace,3,1,2021-05-11 21:00:00,,TakeOn,606
+421158,50,SavedShot,0.9109999847412109,0.4979999923706055,0.03348160162568092,Christian Benteke,a,606,FromCorner,2020,Head,14753,Southampton,Crystal Palace,3,1,2021-05-11 21:00:00,Eberechi Eze,Aerial,606
+421161,60,BlockedShot,0.870999984741211,0.49700000762939456,0.07116390019655228,Christian Benteke,a,606,OpenPlay,2020,LeftFoot,14753,Southampton,Crystal Palace,3,1,2021-05-11 21:00:00,,BallRecovery,606
+421164,70,MissedShots,0.879000015258789,0.534000015258789,0.07360749691724777,Christian Benteke,a,606,OpenPlay,2020,RightFoot,14753,Southampton,Crystal Palace,3,1,2021-05-11 21:00:00,,None,606
+422292,6,MissedShots,0.92,0.5370000076293945,0.05723080039024353,Christian Benteke,h,606,OpenPlay,2020,Head,14794,Crystal Palace,Aston Villa,3,2,2021-05-16 11:00:00,Andros Townsend,Aerial,606
+422303,31,Goal,0.9380000305175781,0.45799999237060546,0.10327699780464172,Christian Benteke,h,606,OpenPlay,2020,Head,14794,Crystal Palace,Aston Villa,3,2,2021-05-16 11:00:00,Tyrick Mitchell,Cross,606
+422313,58,SavedShot,0.9259999847412109,0.4540000152587891,0.050579000264406204,Christian Benteke,h,606,FromCorner,2020,Head,14794,Crystal Palace,Aston Villa,3,2,2021-05-16 11:00:00,,None,606
+423325,29,MissedShots,0.9130000305175782,0.46700000762939453,0.05026949942111969,Christian Benteke,h,606,SetPiece,2020,Head,14798,Crystal Palace,Arsenal,1,3,2021-05-19 18:00:00,Andros Townsend,Aerial,606
+423328,45,MissedShots,0.905,0.43099998474121093,0.026763100177049637,Christian Benteke,h,606,OpenPlay,2020,Head,14798,Crystal Palace,Arsenal,1,3,2021-05-19 18:00:00,Andros Townsend,Aerial,606
+423329,61,Goal,0.925,0.46599998474121096,0.37146300077438354,Christian Benteke,h,606,SetPiece,2020,Head,14798,Crystal Palace,Arsenal,1,3,2021-05-19 18:00:00,Andros Townsend,Cross,606
+423331,69,SavedShot,0.9640000152587891,0.580999984741211,0.11251100152730942,Christian Benteke,h,606,OpenPlay,2020,LeftFoot,14798,Crystal Palace,Arsenal,1,3,2021-05-19 18:00:00,Wilfried Zaha,Cross,606
+425839,89,MissedShots,0.9130000305175782,0.30700000762939456,0.03642880171537399,Christian Benteke,a,606,OpenPlay,2021,RightFoot,16379,Chelsea,Crystal Palace,3,0,2021-08-14 14:00:00,James McArthur,Chipped,606
+427042,53,MissedShots,0.914000015258789,0.524000015258789,0.11084699630737305,Christian Benteke,h,606,OpenPlay,2021,Head,16389,Crystal Palace,Brentford,0,0,2021-08-21 14:00:00,Joel Ward,Cross,606
+428677,64,MissedShots,0.8580000305175781,0.475,0.012525700032711029,Christian Benteke,a,606,FromCorner,2021,Head,16401,West Ham,Crystal Palace,2,2,2021-08-28 14:00:00,Joachim Andersen,Aerial,606
+428683,88,BlockedShot,0.7719999694824219,0.615,0.0261049997061491,Christian Benteke,a,606,OpenPlay,2021,RightFoot,16401,West Ham,Crystal Palace,2,2,2021-08-28 14:00:00,Tyrick Mitchell,Pass,606
+429599,42,MissedShots,0.9369999694824219,0.44,0.0465519018471241,Christian Benteke,h,606,FromCorner,2021,Head,16406,Crystal Palace,Tottenham,3,0,2021-09-11 11:30:00,Conor Gallagher,Aerial,606
+431328,2,ShotOnPost,0.8959999847412109,0.43,0.0319983996450901,Christian Benteke,a,606,FromCorner,2021,Head,16420,Liverpool,Crystal Palace,3,0,2021-09-18 14:00:00,James McArthur,Chipped,606
+431333,19,MissedShots,0.875999984741211,0.555,0.02286910079419613,Christian Benteke,a,606,FromCorner,2021,Head,16420,Liverpool,Crystal Palace,3,0,2021-09-18 14:00:00,Conor Gallagher,Cross,606
+431334,25,BlockedShot,0.9130000305175782,0.3340000152587891,0.11982700228691101,Christian Benteke,a,606,OpenPlay,2021,RightFoot,16420,Liverpool,Crystal Palace,3,0,2021-09-18 14:00:00,Jordan Ayew,Throughball,606
+437262,27,SavedShot,0.8169999694824219,0.56,0.054112598299980164,Christian Benteke,a,606,OpenPlay,2021,LeftFoot,16446,Arsenal,Crystal Palace,2,2,2021-10-18 19:00:00,James McArthur,Pass,606
+437266,49,Goal,0.860999984741211,0.525,0.06361279636621475,Christian Benteke,a,606,OpenPlay,2021,RightFoot,16446,Arsenal,Crystal Palace,2,2,2021-10-18 19:00:00,Jordan Ayew,BallRecovery,606
+437755,20,ShotOnPost,0.9480000305175781,0.5309999847412109,0.5213069915771484,Christian Benteke,h,606,OpenPlay,2021,Head,16460,Crystal Palace,Newcastle United,1,1,2021-10-23 14:00:00,Michael Olise,Cross,606
+437759,49,MissedShots,0.875,0.55,0.07702690362930298,Christian Benteke,h,606,OpenPlay,2021,RightFoot,16460,Crystal Palace,Newcastle United,1,1,2021-10-23 14:00:00,Conor Gallagher,Cross,606
+437760,55,Goal,0.945,0.46,0.47011798620224,Christian Benteke,h,606,OpenPlay,2021,Head,16460,Crystal Palace,Newcastle United,1,1,2021-10-23 14:00:00,Tyrick Mitchell,Aerial,606
+437761,62,ShotOnPost,0.9169999694824219,0.524000015258789,0.4716449975967407,Christian Benteke,h,606,OpenPlay,2021,Head,16460,Crystal Palace,Newcastle United,1,1,2021-10-23 14:00:00,Michael Olise,Aerial,606
+437765,71,MissedShots,0.8819999694824219,0.5879999923706055,0.32047298550605774,Christian Benteke,h,606,OpenPlay,2021,LeftFoot,16460,Crystal Palace,Newcastle United,1,1,2021-10-23 14:00:00,James McArthur,Pass,606
+437767,77,SavedShot,0.8540000152587891,0.41400001525878904,0.08756639808416367,Christian Benteke,h,606,OpenPlay,2021,LeftFoot,16460,Crystal Palace,Newcastle United,1,1,2021-10-23 14:00:00,Wilfried Zaha,Pass,606
+439675,78,BlockedShot,0.8090000152587891,0.6859999847412109,0.043114300817251205,Christian Benteke,a,606,OpenPlay,2021,RightFoot,16470,Manchester City,Crystal Palace,0,2,2021-10-30 14:00:00,James McArthur,BallRecovery,606
+441108,6,MissedShots,0.865,0.544000015258789,0.0176922008395195,Christian Benteke,h,606,FromCorner,2021,Head,16480,Crystal Palace,Wolverhampton Wanderers,2,0,2021-11-06 15:00:00,Conor Gallagher,Cross,606
+441113,53,SavedShot,0.8669999694824219,0.590999984741211,0.10221800208091736,Christian Benteke,h,606,OpenPlay,2021,RightFoot,16480,Crystal Palace,Wolverhampton Wanderers,2,0,2021-11-06 15:00:00,Wilfried Zaha,TakeOn,606
+441116,55,SavedShot,0.919000015258789,0.5429999923706055,0.035083599388599396,Christian Benteke,h,606,FromCorner,2021,Head,16480,Crystal Palace,Wolverhampton Wanderers,2,0,2021-11-06 15:00:00,Conor Gallagher,Aerial,606
+442548,7,Goal,0.855,0.5540000152587891,0.0982624962925911,Christian Benteke,a,606,OpenPlay,2021,LeftFoot,16487,Burnley,Crystal Palace,3,3,2021-11-20 15:00:00,Joachim Andersen,Pass,606
+442554,19,MissedShots,0.9719999694824218,0.40200000762939453,0.14754299819469452,Christian Benteke,a,606,OpenPlay,2021,RightFoot,16487,Burnley,Crystal Palace,3,3,2021-11-20 15:00:00,Wilfried Zaha,Rebound,606
+442556,27,MissedShots,0.92,0.4759999847412109,0.29596999287605286,Christian Benteke,a,606,OpenPlay,2021,Head,16487,Burnley,Crystal Palace,3,3,2021-11-20 15:00:00,Conor Gallagher,Cross,606
+442558,35,Goal,0.86,0.46,0.3695479929447174,Christian Benteke,a,606,OpenPlay,2021,RightFoot,16487,Burnley,Crystal Palace,3,3,2021-11-20 15:00:00,Conor Gallagher,Pass,606
+442569,54,BlockedShot,0.8540000152587891,0.565,0.013821699656546116,Christian Benteke,a,606,FromCorner,2021,Head,16487,Burnley,Crystal Palace,3,3,2021-11-20 15:00:00,,Aerial,606
+444124,22,MissedShots,0.8909999847412109,0.5309999847412109,0.06166969984769821,Christian Benteke,h,606,OpenPlay,2021,Head,16501,Crystal Palace,Aston Villa,1,2,2021-11-27 15:00:00,Tyrick Mitchell,Cross,606
+444131,79,SavedShot,0.9059999847412109,0.5729999923706055,0.08021660149097443,Christian Benteke,h,606,OpenPlay,2021,RightFoot,16501,Crystal Palace,Aston Villa,1,2,2021-11-27 15:00:00,James Tomkins,HeadPass,606
+444135,92,MissedShots,0.9640000152587891,0.3920000076293945,0.0757514014840126,Christian Benteke,h,606,FromCorner,2021,RightFoot,16501,Crystal Palace,Aston Villa,1,2,2021-11-27 15:00:00,Joel Ward,Pass,606
+445189,73,MissedShots,0.96,0.4329999923706055,0.1409119963645935,Christian Benteke,a,606,OpenPlay,2021,Head,16508,Leeds,Crystal Palace,1,0,2021-11-30 20:15:00,Wilfried Zaha,Chipped,606
+445192,79,SavedShot,0.909000015258789,0.5059999847412109,0.10563299804925919,Christian Benteke,a,606,OpenPlay,2021,LeftFoot,16508,Leeds,Crystal Palace,1,0,2021-11-30 20:15:00,Jordan Ayew,Chipped,606
+445193,82,MissedShots,0.82,0.515,0.07193420082330704,Christian Benteke,a,606,OpenPlay,2021,RightFoot,16508,Leeds,Crystal Palace,1,0,2021-11-30 20:15:00,Wilfried Zaha,Pass,606
+446706,6,SavedShot,0.8959999847412109,0.6090000152587891,0.14868499338626862,Christian Benteke,a,606,OpenPlay,2021,LeftFoot,16519,Manchester United,Crystal Palace,1,0,2021-12-05 14:00:00,Wilfried Zaha,Throughball,606
+446719,40,BlockedShot,0.8780000305175781,0.515,0.015178300440311432,Christian Benteke,a,606,SetPiece,2021,Head,16519,Manchester United,Crystal Palace,1,0,2021-12-05 14:00:00,Conor Gallagher,Aerial,606
+448521,77,BlockedShot,0.9459999847412109,0.549000015258789,0.12233299762010574,Christian Benteke,h,606,FromCorner,2021,Head,16531,Crystal Palace,Everton,3,1,2021-12-12 16:30:00,Conor Gallagher,Cross,606
+451000,31,BlockedShot,0.865999984741211,0.40599998474121096,0.09612099826335907,Christian Benteke,h,606,OpenPlay,2021,RightFoot,16579,Crystal Palace,West Ham,2,3,2022-01-01 17:30:00,Will Hughes,Pass,606
+451003,32,MissedShots,0.92,0.47,0.04677150025963783,Christian Benteke,h,606,FromCorner,2021,Head,16579,Crystal Palace,West Ham,2,3,2022-01-01 17:30:00,Luka Milivojevic,Aerial,606
+451002,32,SavedShot,0.9219999694824219,0.585,0.10439799726009369,Christian Benteke,h,606,OpenPlay,2021,RightFoot,16579,Crystal Palace,West Ham,2,3,2022-01-01 17:30:00,,Rebound,606
+451006,41,SavedShot,0.8580000305175781,0.5279999923706055,0.053497400134801865,Christian Benteke,h,606,OpenPlay,2021,RightFoot,16579,Crystal Palace,West Ham,2,3,2022-01-01 17:30:00,Joel Ward,Cross,606

@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+849,Chancel Mbemba,33,2923,0,0.7767010671086609,0,0.2683054096996784,12,4,5,0,D,Newcastle United,0,0.7767010671086609,4.485577578656375,4.202229606918991,2015
+849,Chancel Mbemba,9,673,0,0,0,0.6038043815642595,0,4,0,0,D S,Newcastle United,0,0,1.096686489880085,0.9644999951124191,2017

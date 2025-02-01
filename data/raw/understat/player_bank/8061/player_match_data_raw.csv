@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,17,Sub,Southampton,Sheffield United,3,1,2020-07-26,12015,2019,411439,0,0,0,0,0,0,0,8061
+0,1,0.42813000082969666,12,Sub,Sheffield United,Liverpool,0,1,2019-09-28,11703,2019,354343,0,0,0,0,0.42813000082969666,0.48809200525283813,0.05996190011501312,8061

@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+53117,1,BlockedShot,0.850999984741211,0.26399999618530273,0.026515299454331398,Libor Kozák,h,1026,OpenPlay,2015,RightFoot,282,Aston Villa,Crystal Palace,1,0,2016-01-12 23:45:00,,None,1026
+53129,51,SavedShot,0.840999984741211,0.500999984741211,0.09675289690494537,Libor Kozák,h,1026,OpenPlay,2015,RightFoot,282,Aston Villa,Crystal Palace,1,0,2016-01-12 23:45:00,Jordan Ayew,TakeOn,1026
+55579,19,SavedShot,0.9169999694824219,0.33799999237060546,0.07084629684686661,Libor Kozák,h,1026,OpenPlay,2015,RightFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,,BallRecovery,1026
+55595,67,MissedShots,0.945,0.5070000076293946,0.10054700076580048,Libor Kozák,h,1026,SetPiece,2015,Head,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Jordan Veretout,Aerial,1026
+55599,85,MissedShots,0.905,0.46599998474121096,0.0827421024441719,Libor Kozák,h,1026,SetPiece,2015,RightFoot,297,Aston Villa,Leicester,1,1,2016-01-16 21:30:00,Rudy Gestede,HeadPass,1026
+52691,42,BlockedShot,0.8780000305175781,0.47,0.0941494032740593,Libor Kozák,a,1026,OpenPlay,2015,LeftFoot,305,West Bromwich Albion,Aston Villa,0,0,2016-01-23 19:00:00,Joleon Lescott,Chipped,1026

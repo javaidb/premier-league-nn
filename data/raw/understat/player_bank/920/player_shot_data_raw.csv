@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+59732,8,MissedShots,0.885,0.38799999237060545,0.013627300038933754,Matthew Pennington,a,920,OpenPlay,2015,Head,449,Sunderland,Everton,3,0,2016-05-11 22:45:00,Gareth Barry,Aerial,920
+59750,46,SavedShot,0.95,0.5670000076293945,0.06544239819049835,Matthew Pennington,a,920,SetPiece,2015,Head,449,Sunderland,Everton,3,0,2016-05-11 22:45:00,Gareth Barry,HeadPass,920
+119452,27,Goal,0.9640000152587891,0.515,0.6383320093154907,Matthew Pennington,a,920,FromCorner,2016,RightFoot,3435,Liverpool,Everton,3,1,2017-04-01 12:30:00,Ashley Williams,None,920

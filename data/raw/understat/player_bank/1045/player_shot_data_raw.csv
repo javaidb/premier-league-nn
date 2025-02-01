@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+52558,63,BlockedShot,0.79,0.44400001525878907,0.0164778009057045,Matt Grimes,a,1045,FromCorner,2015,LeftFoot,264,Crystal Palace,Swansea,0,0,2015-12-28 19:00:00,,Aerial,1045

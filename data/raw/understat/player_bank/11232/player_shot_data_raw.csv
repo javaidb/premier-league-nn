@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+500215,75,SavedShot,0.879000015258789,0.524000015258789,0.050507400184869766,Thomas Cannon,a,11232,OpenPlay,2022,Head,18352,Bournemouth,Everton,3,0,2022-11-12 15:00:00,Anthony Gordon,Cross,11232

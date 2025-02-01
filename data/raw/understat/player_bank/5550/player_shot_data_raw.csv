@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+120007,31,MissedShots,0.9069999694824219,0.6309999847412109,0.08150699734687805,Evandro,a,5550,OpenPlay,2016,RightFoot,3457,Manchester City,Hull,3,1,2017-04-08 15:00:00,Kamil Grosicki,Pass,5550
+121442,87,MissedShots,0.7759999847412109,0.41200000762939454,0.02472650073468685,Evandro,h,5550,OpenPlay,2016,RightFoot,3494,Hull,Sunderland,0,2,2017-05-06 15:00:00,,Dispossessed,5550
+121754,51,MissedShots,0.81,0.31799999237060544,0.014998500235378742,Evandro,a,5550,FromCorner,2016,RightFoot,3501,Crystal Palace,Hull,4,0,2017-05-14 12:00:00,Michael Dawson,Aerial,5550

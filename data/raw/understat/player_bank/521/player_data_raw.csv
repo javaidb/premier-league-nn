@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+521,Emmanuel Adebayor,13,811,2,2.904069386422634,1,1.3501760102808475,19,12,1,0,F S,Tottenham,2,2.904069386422634,5.354455184191465,1.697083406150341,2014
+521,Emmanuel Adebayor,12,619,1,1.8238637335598469,1,0.14526743069291115,12,6,1,0,F S,Crystal Palace,1,1.8238637335598469,2.034254115074873,0.3548254258930683,2015

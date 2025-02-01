@@ -1,0 +1,9 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+624,Willy Caballero,2,180,0,0,0,0,0,0,0,0,GK,Manchester City,0,0,0.20175950229167938,0.20175950229167938,2014
+624,Willy Caballero,4,308,0,0,0,0,0,0,0,0,GK S,Manchester City,0,0,0.34738520439714193,0.34738520439714193,2015
+624,Willy Caballero,17,1450,0,0,0,0,0,0,0,0,GK S,Manchester City,0,0,2.995119832456112,2.995119832456112,2016
+624,Willy Caballero,3,270,0,0,0,0,0,0,0,0,GK,Chelsea,0,0,0.6864269971847534,0.6864269971847534,2017
+624,Willy Caballero,2,180,0,0,0,0,0,0,0,0,GK,Chelsea,0,0,0.4159580171108246,0.4159580171108246,2018
+624,Willy Caballero,5,450,0,0,0,0,0,0,0,0,GK,Chelsea,0,0,0.14698050171136856,0.14698050171136856,2019
+624,Willy Caballero,1,90,0,0,0,0,0,0,0,0,GK,Chelsea,0,0,0.14356300234794617,0.14356300234794617,2020
+624,Willy Caballero,2,180,0,0,0,0,0,0,1,0,GK,Southampton,0,0,0,0,2021

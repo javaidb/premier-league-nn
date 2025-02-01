@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14606,30,MissedShots,0.9219999694824219,0.46,0.28255900740623474,Valentin Roberge,a,4530,SetPiece,2014,Head,4753,West Bromwich Albion,Sunderland,2,2,2014-08-16 15:00:00,Sebastian Larsson,Cross,4530
+4710,70,MissedShots,0.865,0.4,0.062067899852991104,Valentin Roberge,a,4530,SetPiece,2014,LeftFoot,6045,Lyon,Reims,2,1,2014-12-04 20:00:00,,None,4530
+3882,2,OwnGoal,0.06300000190734863,0.45799999237060546,0,Valentin Roberge,a,4530,SetPiece,2014,Head,6013,Caen,Reims,4,1,2015-01-17 19:00:00,,Foul,4530
+3886,10,MissedShots,0.88,0.6179999923706054,0.06967899948358536,Valentin Roberge,a,4530,SetPiece,2014,LeftFoot,6013,Caen,Reims,4,1,2015-01-17 19:00:00,Mickaël Tacalfred,BallTouch,4530
+3887,23,BlockedShot,0.6919999694824219,0.5309999847412109,0.007917930372059345,Valentin Roberge,a,4530,OpenPlay,2014,LeftFoot,6013,Caen,Reims,4,1,2015-01-17 19:00:00,,None,4530
+6807,76,MissedShots,0.78,0.764000015258789,0.00986855011433363,Valentin Roberge,h,4530,OpenPlay,2014,LeftFoot,5924,Reims,Lyon,2,4,2015-04-26 20:00:00,Diego,Pass,4530

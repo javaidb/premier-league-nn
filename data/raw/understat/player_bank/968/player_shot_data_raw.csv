@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+16835,51,BlockedShot,0.7519999694824219,0.40599998474121096,0.01056050043553114,Liam Bridcutt,a,968,OpenPlay,2014,LeftFoot,4703,Southampton,Sunderland,8,0,2014-10-18 15:00:00,,Aerial,968
+16841,62,OwnGoal,0.008999999761581421,0.4829999923706055,0,Liam Bridcutt,a,968,OpenPlay,2014,RightFoot,4703,Southampton,Sunderland,8,0,2014-10-18 15:00:00,,None,968
+17058,44,MissedShots,0.7340000152587891,0.47400001525878904,0.01525299996137619,Liam Bridcutt,h,968,FromCorner,2014,RightFoot,4665,Sunderland,Everton,1,1,2014-11-09 13:30:00,,None,968
+23786,89,BlockedShot,0.7440000152587891,0.4829999923706055,0.016354499384760857,Liam Bridcutt,h,968,FromCorner,2014,RightFoot,4585,Sunderland,Burnley,2,0,2015-01-31 15:00:00,,None,968
+20554,79,BlockedShot,0.735999984741211,0.5129999923706055,0.012673499993979931,Liam Bridcutt,h,968,OpenPlay,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,,None,968

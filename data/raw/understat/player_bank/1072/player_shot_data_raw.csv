@@ -1,0 +1,3 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15962,94,MissedShots,0.9059999847412109,0.6990000152587891,0.04400600120425224,Nick Powell,h,1072,OpenPlay,2014,LeftFoot,4651,Leicester,West Bromwich Albion,0,1,2014-11-01 15:00:00,,None,1072
+16930,85,MissedShots,0.6919999694824219,0.28600000381469726,0.007323760073632002,Nick Powell,a,1072,OpenPlay,2014,LeftFoot,4663,Southampton,Leicester,2,0,2014-11-08 15:00:00,Daniel Drinkwater,Pass,1072

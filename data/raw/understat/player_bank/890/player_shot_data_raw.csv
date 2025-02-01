@@ -1,0 +1,64 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14587,24,MissedShots,0.914000015258789,0.445,0.4485819935798645,Gabriel Agbonlahor,a,890,OpenPlay,2014,RightFoot,4752,Stoke,Aston Villa,0,1,2014-08-16 15:00:00,Kieran Richardson,Pass,890
+14649,4,BlockedShot,0.82,0.5640000152587891,0.056529100984334946,Gabriel Agbonlahor,h,890,OpenPlay,2014,RightFoot,4759,Aston Villa,Newcastle United,0,0,2014-08-23 12:45:00,,BallRecovery,890
+14660,38,MissedShots,0.935,0.515,0.14481200277805328,Gabriel Agbonlahor,h,890,OpenPlay,2014,Head,4759,Aston Villa,Newcastle United,0,0,2014-08-23 12:45:00,Fabian Delph,Cross,890
+14886,13,Goal,0.8440000152587891,0.44799999237060545,0.09043750166893005,Gabriel Agbonlahor,h,890,OpenPlay,2014,RightFoot,4776,Aston Villa,Hull,2,1,2014-08-31 13:30:00,Andreas Weimann,Pass,890
+14891,39,SavedShot,0.904000015258789,0.6930000305175781,0.06769970059394836,Gabriel Agbonlahor,h,890,OpenPlay,2014,LeftFoot,4776,Aston Villa,Hull,2,1,2014-08-31 13:30:00,,BallRecovery,890
+15278,8,Goal,0.95,0.49700000762939456,0.14749400317668915,Gabriel Agbonlahor,a,890,FromCorner,2014,RightFoot,4726,Liverpool,Aston Villa,0,1,2014-09-13 17:30:00,,Rebound,890
+15430,15,BlockedShot,0.8669999694824219,0.39299999237060546,0.015407100319862366,Gabriel Agbonlahor,h,890,OpenPlay,2014,Head,4731,Aston Villa,Arsenal,0,3,2014-09-20 15:00:00,Fabian Delph,Cross,890
+16309,78,SavedShot,0.8690000152587891,0.4129999923706055,0.038841601461172104,Gabriel Agbonlahor,a,890,OpenPlay,2014,LeftFoot,4700,Everton,Aston Villa,3,0,2014-10-18 15:00:00,,Aerial,890
+17591,12,BlockedShot,0.8730000305175781,0.635,0.06770549714565277,Gabriel Agbonlahor,a,890,OpenPlay,2014,LeftFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Andreas Weimann,HeadPass,890
+15966,12,MissedShots,0.875,0.6709999847412109,0.08869980275630951,Gabriel Agbonlahor,a,890,OpenPlay,2014,LeftFoot,4662,West Ham,Aston Villa,0,0,2014-11-08 15:00:00,Ashley Westwood,TakeOn,890
+15969,16,MissedShots,0.745,0.5790000152587891,0.01974870078265667,Gabriel Agbonlahor,a,890,OpenPlay,2014,RightFoot,4662,West Ham,Aston Villa,0,0,2014-11-08 15:00:00,Aly Cissokho,Chipped,890
+15977,38,BlockedShot,0.87,0.40400001525878904,0.06711109727621078,Gabriel Agbonlahor,a,890,OpenPlay,2014,RightFoot,4662,West Ham,Aston Villa,0,0,2014-11-08 15:00:00,,Rebound,890
+15980,40,MissedShots,0.904000015258789,0.6179999923706054,0.025489000603556633,Gabriel Agbonlahor,a,890,OpenPlay,2014,Head,4662,West Ham,Aston Villa,0,0,2014-11-08 15:00:00,Carlos Sánchez,Cross,890
+16171,1,BlockedShot,0.7680000305175781,0.5459999847412109,0.02881450019776821,Gabriel Agbonlahor,h,890,OpenPlay,2014,RightFoot,4678,Aston Villa,Southampton,1,1,2014-11-24 20:00:00,Tom Cleverley,Pass,890
+16180,28,Goal,0.885,0.67,0.40851399302482605,Gabriel Agbonlahor,h,890,OpenPlay,2014,LeftFoot,4678,Aston Villa,Southampton,1,1,2014-11-24 20:00:00,Ciaran Clark,TakeOn,890
+17330,4,BlockedShot,0.754000015258789,0.39599998474121095,0.019289100542664528,Gabriel Agbonlahor,a,890,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Joe Cole,LayOff,890
+17340,18,SavedShot,0.8390000152587891,0.46900001525878904,0.12646499276161194,Gabriel Agbonlahor,a,890,OpenPlay,2014,RightFoot,4685,Burnley,Aston Villa,1,1,2014-11-29 15:00:00,Joe Cole,Throughball,890
+19798,24,BlockedShot,0.82,0.5720000076293945,0.05542200058698654,Gabriel Agbonlahor,h,890,OpenPlay,2014,RightFoot,4607,Aston Villa,Leicester,2,1,2014-12-07 16:00:00,Charles N&#039;Zogbia,BallRecovery,890
+19806,55,SavedShot,0.9,0.29100000381469726,0.044610101729631424,Gabriel Agbonlahor,h,890,OpenPlay,2014,RightFoot,4607,Aston Villa,Leicester,2,1,2014-12-07 16:00:00,Tom Cleverley,Pass,890
+19807,58,MissedShots,0.909000015258789,0.49700000762939456,0.10999500006437302,Gabriel Agbonlahor,h,890,OpenPlay,2014,Head,4607,Aston Villa,Leicester,2,1,2014-12-07 16:00:00,Alan Hutton,Cross,890
+18578,37,BlockedShot,0.8340000152587891,0.6140000152587891,0.059508100152015686,Gabriel Agbonlahor,a,890,OpenPlay,2014,LeftFoot,4612,West Bromwich Albion,Aston Villa,1,0,2014-12-13 15:00:00,Charles N&#039;Zogbia,Pass,890
+18105,9,MissedShots,0.8030000305175782,0.4540000152587891,0.04449699819087982,Gabriel Agbonlahor,a,890,OpenPlay,2014,RightFoot,4631,Swansea,Aston Villa,1,0,2014-12-26 15:00:00,,None,890
+18109,44,MissedShots,0.8980000305175782,0.605999984741211,0.031093399971723557,Gabriel Agbonlahor,a,890,SetPiece,2014,Head,4631,Swansea,Aston Villa,1,0,2014-12-26 15:00:00,Fabian Delph,Cross,890
+18116,71,MissedShots,0.875,0.46700000762939453,0.2892819941043854,Gabriel Agbonlahor,a,890,OpenPlay,2014,RightFoot,4631,Swansea,Aston Villa,1,0,2014-12-26 15:00:00,Christian Benteke,Chipped,890
+18119,91,SavedShot,0.94,0.48200000762939454,0.3624410033226013,Gabriel Agbonlahor,a,890,OpenPlay,2014,Head,4631,Swansea,Aston Villa,1,0,2014-12-26 15:00:00,Alan Hutton,HeadPass,890
+19328,5,MissedShots,0.875999984741211,0.45,0.08174479752779007,Gabriel Agbonlahor,h,890,OpenPlay,2014,RightFoot,4557,Aston Villa,Crystal Palace,0,0,2015-01-01 15:00:00,Alan Hutton,Cross,890
+19341,63,MissedShots,0.8919999694824219,0.45,0.03908900171518326,Gabriel Agbonlahor,h,890,OpenPlay,2014,Head,4557,Aston Villa,Crystal Palace,0,0,2015-01-01 15:00:00,Aly Cissokho,Chipped,890
+17918,27,MissedShots,0.8209999847412109,0.27700000762939453,0.03520580008625984,Gabriel Agbonlahor,a,890,OpenPlay,2014,RightFoot,4567,Leicester,Aston Villa,1,0,2015-01-10 15:00:00,,TakeOn,890
+23987,18,MissedShots,0.9109999847412109,0.44400001525878907,0.0702005997300148,Gabriel Agbonlahor,h,890,OpenPlay,2014,Head,4516,Aston Villa,Chelsea,1,2,2015-02-07 15:00:00,Fabian Delph,Cross,890
+23994,49,MissedShots,0.8869999694824219,0.40400001525878904,0.012772800400853157,Gabriel Agbonlahor,h,890,OpenPlay,2014,Head,4516,Aston Villa,Chelsea,1,2,2015-02-07 15:00:00,Ciaran Clark,Aerial,890
+23933,19,SavedShot,0.8640000152587891,0.5059999847412109,0.017772499471902847,Gabriel Agbonlahor,a,890,OpenPlay,2014,Head,4527,Hull,Aston Villa,2,0,2015-02-10 19:45:00,Ashley Westwood,Aerial,890
+23551,53,MissedShots,0.765,0.36900001525878906,0.014236199669539928,Gabriel Agbonlahor,a,890,SetPiece,2014,RightFoot,4548,Newcastle United,Aston Villa,1,0,2015-02-28 15:00:00,,None,890
+23557,69,BlockedShot,0.970999984741211,0.46900001525878904,0.14133499562740326,Gabriel Agbonlahor,a,890,FromCorner,2014,RightFoot,4548,Newcastle United,Aston Villa,1,0,2015-02-28 15:00:00,,None,890
+24053,13,SavedShot,0.8959999847412109,0.47200000762939454,0.09982000291347504,Gabriel Agbonlahor,h,890,OpenPlay,2014,LeftFoot,4482,Aston Villa,West Bromwich Albion,2,1,2015-03-03 19:45:00,Christian Benteke,HeadPass,890
+24056,21,Goal,0.9259999847412109,0.3579999923706055,0.07680340111255646,Gabriel Agbonlahor,h,890,OpenPlay,2014,RightFoot,4482,Aston Villa,West Bromwich Albion,2,1,2015-03-03 19:45:00,Christian Benteke,HeadPass,890
+24058,27,BlockedShot,0.905,0.654000015258789,0.3117539882659912,Gabriel Agbonlahor,h,890,OpenPlay,2014,LeftFoot,4482,Aston Villa,West Bromwich Albion,2,1,2015-03-03 19:45:00,Ashley Westwood,Throughball,890
+20539,17,Goal,0.9269999694824219,0.7230000305175781,0.2865450084209442,Gabriel Agbonlahor,a,890,OpenPlay,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Ciaran Clark,Chipped,890
+20545,36,Goal,0.889000015258789,0.3659999847412109,0.17382200062274933,Gabriel Agbonlahor,a,890,OpenPlay,2014,LeftFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Charles N&#039;Zogbia,TakeOn,890
+21192,56,BlockedShot,0.9169999694824219,0.49700000762939456,0.10207699984312057,Gabriel Agbonlahor,h,890,OpenPlay,2014,RightFoot,4504,Aston Villa,Swansea,0,1,2015-03-21 15:00:00,Christian Benteke,HeadPass,890
+21200,90,BlockedShot,0.875,0.41200000762939454,0.06853239983320236,Gabriel Agbonlahor,h,890,OpenPlay,2014,RightFoot,4504,Aston Villa,Swansea,0,1,2015-03-21 15:00:00,Alan Hutton,HeadPass,890
+21202,93,MissedShots,0.915,0.40099998474121096,0.03494919836521149,Gabriel Agbonlahor,h,890,FromCorner,2014,Head,4504,Aston Villa,Swansea,0,1,2015-03-21 15:00:00,Ashley Westwood,Cross,890
+22074,5,BlockedShot,0.92,0.68,0.05933009833097458,Gabriel Agbonlahor,a,890,SetPiece,2014,LeftFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Christian Benteke,HeadPass,890
+22261,8,BlockedShot,0.9369999694824219,0.445,0.11403699964284897,Gabriel Agbonlahor,h,890,OpenPlay,2014,LeftFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Leandro Bacuna,Cross,890
+22270,24,BlockedShot,0.8730000305175781,0.6409999847412109,0.10916399955749512,Gabriel Agbonlahor,h,890,OpenPlay,2014,LeftFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Christian Benteke,TakeOn,890
+22271,28,MissedShots,0.9219999694824219,0.43900001525878907,0.07874029874801636,Gabriel Agbonlahor,h,890,FromCorner,2014,Head,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Tom Cleverley,Cross,890
+22277,39,MissedShots,0.915,0.445,0.05529870092868805,Gabriel Agbonlahor,h,890,OpenPlay,2014,Head,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Leandro Bacuna,Aerial,890
+22290,93,MissedShots,0.8859999847412109,0.4540000152587891,0.07978940010070801,Gabriel Agbonlahor,h,890,SetPiece,2014,RightFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Ron Vlaar,HeadPass,890
+21416,45,ShotOnPost,0.8119999694824219,0.5459999847412109,0.07413490116596222,Gabriel Agbonlahor,a,890,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Christian Benteke,HeadPass,890
+20301,90,MissedShots,0.9059999847412109,0.5940000152587891,0.13664600253105164,Gabriel Agbonlahor,h,890,OpenPlay,2014,LeftFoot,4411,Aston Villa,West Ham,1,0,2015-05-09 15:00:00,Jack Grealish,Chipped,890
+20630,89,SavedShot,0.9230000305175782,0.54,0.29910001158714294,Gabriel Agbonlahor,a,890,OpenPlay,2014,RightFoot,4419,Southampton,Aston Villa,6,1,2015-05-16 12:45:00,Alan Hutton,Cross,890
+20632,92,SavedShot,0.8680000305175781,0.37099998474121093,0.08626309782266617,Gabriel Agbonlahor,a,890,OpenPlay,2014,RightFoot,4419,Southampton,Aston Villa,6,1,2015-05-16 12:45:00,Christian Benteke,Pass,890
+22103,18,BlockedShot,0.8019999694824219,0.3370000076293945,0.031031399965286255,Gabriel Agbonlahor,h,890,OpenPlay,2014,LeftFoot,4430,Aston Villa,Burnley,0,1,2015-05-24 15:00:00,Fabian Delph,Pass,890
+22112,62,SavedShot,0.8469999694824218,0.4929999923706055,0.08193639665842056,Gabriel Agbonlahor,h,890,OpenPlay,2014,LeftFoot,4430,Aston Villa,Burnley,0,1,2015-05-24 15:00:00,,TakeOn,890
+487146,67,BlockedShot,0.86,0.5029999923706054,0.07548429816961288,Gabriel Agbonlahor,a,890,OpenPlay,2015,LeftFoot,82,Bournemouth,Aston Villa,0,1,2015-08-08 18:00:00,,None,890
+487150,81,SavedShot,0.795,0.5070000076293946,0.05467610061168671,Gabriel Agbonlahor,a,890,OpenPlay,2015,LeftFoot,82,Bournemouth,Aston Villa,0,1,2015-08-08 18:00:00,Micah Richards,TakeOn,890
+51725,54,SavedShot,0.909000015258789,0.42900001525878906,0.052019599825143814,Gabriel Agbonlahor,h,890,FromCorner,2015,Head,91,Aston Villa,Manchester United,0,1,2015-08-14 22:45:00,Ashley Westwood,Cross,890
+56487,13,SavedShot,0.899000015258789,0.565,0.38324299454689026,Gabriel Agbonlahor,a,890,OpenPlay,2015,RightFoot,104,Crystal Palace,Aston Villa,2,1,2015-08-22 18:00:00,Ashley Westwood,Throughball,890
+57881,19,SavedShot,0.9269999694824219,0.4540000152587891,0.05875759944319725,Gabriel Agbonlahor,a,890,OpenPlay,2015,Head,129,Leicester,Aston Villa,3,2,2015-09-13 19:00:00,,Aerial,890
+59224,46,MissedShots,0.884000015258789,0.644000015258789,0.08298250287771225,Gabriel Agbonlahor,h,890,OpenPlay,2015,RightFoot,171,Aston Villa,Swansea,1,2,2015-10-24 18:00:00,Jack Grealish,Pass,890
+55644,10,MissedShots,0.9019999694824219,0.5179999923706055,0.10142400115728378,Gabriel Agbonlahor,h,890,OpenPlay,2015,RightFoot,326,Aston Villa,Norwich,2,0,2016-02-06 19:00:00,Leandro Bacuna,Cross,890
+55653,50,Goal,0.8480000305175781,0.7419999694824219,0.2954249978065491,Gabriel Agbonlahor,h,890,OpenPlay,2015,LeftFoot,326,Aston Villa,Norwich,2,0,2016-02-06 19:00:00,Jordan Veretout,Throughball,890
+55652,50,SavedShot,0.8,0.605999984741211,0.04496460035443306,Gabriel Agbonlahor,h,890,OpenPlay,2015,RightFoot,326,Aston Villa,Norwich,2,0,2016-02-06 19:00:00,Idrissa Gueye,Pass,890
+55655,62,BlockedShot,0.8390000152587891,0.5209999847412109,0.09390439838171005,Gabriel Agbonlahor,h,890,OpenPlay,2015,LeftFoot,326,Aston Villa,Norwich,2,0,2016-02-06 19:00:00,Idrissa Gueye,Pass,890

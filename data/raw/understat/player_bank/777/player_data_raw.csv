@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+777,Emmanuel Rivière,23,1231,1,3.6540457904338837,1,0.9126386996358633,32,15,0,0,F M S,Newcastle United,1,3.6540457904338837,4.948962766677141,1.4548593144863844,2014
+777,Emmanuel Rivière,3,64,0,0.2406504973769188,0,0.08394379913806915,3,1,0,0,F S,Newcastle United,0,0.2406504973769188,0.4482399895787239,0.12364590167999268,2015

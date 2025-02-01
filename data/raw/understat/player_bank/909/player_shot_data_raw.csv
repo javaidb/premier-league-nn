@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+58281,49,MissedShots,0.9480000305175781,0.6869999694824219,0.0580051988363266,Brendan Galloway,a,909,OpenPlay,2015,LeftFoot,136,Swansea,Everton,0,0,2015-09-19 18:00:00,Ross Barkley,TakeOn,909
+58290,71,BlockedShot,0.8580000305175781,0.625,0.05862800031900406,Brendan Galloway,a,909,OpenPlay,2015,LeftFoot,136,Swansea,Everton,0,0,2015-09-19 18:00:00,,None,909
+58581,57,MissedShots,0.9680000305175781,0.6569999694824219,0.02729159966111183,Brendan Galloway,a,909,OpenPlay,2015,LeftFoot,150,West Bromwich Albion,Everton,2,3,2015-09-28 23:00:00,Romelu Lukaku,Aerial,909
+59192,26,BlockedShot,0.77,0.605,0.023401200771331787,Brendan Galloway,a,909,OpenPlay,2015,LeftFoot,176,Arsenal,Everton,2,1,2015-10-24 20:30:00,,None,909
+59208,73,MissedShots,0.9690000152587891,0.5990000152587891,0.06020500138401985,Brendan Galloway,a,909,OpenPlay,2015,Head,176,Arsenal,Everton,2,1,2015-10-24 20:30:00,James McCarthy,Cross,909
+53008,12,MissedShots,0.8530000305175781,0.669000015258789,0.03665969893336296,Brendan Galloway,a,909,OpenPlay,2015,LeftFoot,195,West Ham,Everton,1,1,2015-11-07 19:00:00,,Rebound,909
+53800,76,BlockedShot,0.9369999694824219,0.6,0.1197429969906807,Brendan Galloway,h,909,OpenPlay,2015,LeftFoot,206,Everton,Aston Villa,4,0,2015-11-21 19:00:00,Kevin Mirallas,BallTouch,909
+52808,31,MissedShots,0.8230000305175781,0.5670000076293945,0.06442210078239441,Brendan Galloway,h,909,OpenPlay,2015,LeftFoot,265,Everton,Stoke,3,4,2015-12-28 19:00:00,Ross Barkley,Pass,909
+113131,28,BlockedShot,0.8080000305175781,0.6409999847412109,0.03755950182676315,Brendan Galloway,h,909,OpenPlay,2016,LeftFoot,489,West Bromwich Albion,Middlesbrough,0,0,2016-08-28 16:30:00,,Dispossessed,909
+113132,37,SavedShot,0.8190000152587891,0.655,0.046880800276994705,Brendan Galloway,h,909,OpenPlay,2016,LeftFoot,489,West Bromwich Albion,Middlesbrough,0,0,2016-08-28 16:30:00,Sam Field,TakeOn,909

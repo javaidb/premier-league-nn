@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,90,DC,Arsenal,Huddersfield,5,0,2017-11-29,7254,2017,178671,0,0,0,0,0,0.03714919835329056,0.03714919835329056,6344
+0,0,0,66,DC,Bournemouth,Huddersfield,4,0,2017-11-18,7237,2017,179660,0,0,0,0,0,0.11987700313329697,0.11987700313329697,6344
+0,0,0,28,Sub,Huddersfield,West Bromwich Albion,1,0,2017-11-04,7221,2017,178200,0,0,0,0,0,0,0,6344

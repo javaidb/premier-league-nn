@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+24030,4,SavedShot,0.7530000305175781,0.34400001525878904,0.014618000015616417,Paddy McNair,h,559,OpenPlay,2014,RightFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,,None,559
+22528,12,BlockedShot,0.7290000152587891,0.40200000762939453,0.015004499815404415,Paddy McNair,a,559,OpenPlay,2014,RightFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Ander Herrera,TakeOn,559
+22537,60,SavedShot,0.7390000152587891,0.585,0.017820799723267555,Paddy McNair,a,559,OpenPlay,2014,RightFoot,4465,Chelsea,Manchester United,1,0,2015-04-18 17:30:00,Juan Mata,Pass,559
+21580,75,MissedShots,0.9319999694824219,0.565,0.2633729875087738,Paddy McNair,h,559,FromCorner,2014,Head,4405,Manchester United,West Bromwich Albion,0,1,2015-05-02 17:30:00,Ángel Di María,Cross,559
+54263,1,MissedShots,0.8019999694824219,0.31,0.03651399910449982,Paddy McNair,h,559,OpenPlay,2015,RightFoot,226,Manchester United,West Ham,0,0,2015-12-05 19:00:00,,TakeOn,559
+53301,4,SavedShot,0.895,0.5479999923706055,0.01824280060827732,Paddy McNair,a,559,SetPiece,2015,Head,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,Rebound,559
+53302,5,MissedShots,0.935,0.45599998474121095,0.09428559988737106,Paddy McNair,a,559,FromCorner,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,Daley Blind,Error,559
+112289,86,OwnGoal,0.024000000953674317,0.47400001525878904,0,Paddy McNair,a,559,OpenPlay,2016,Head,467,Manchester City,Sunderland,2,1,2016-08-13 20:30:00,,None,559
+114432,47,MissedShots,0.8930000305175781,0.6020000076293945,0.07151660323143005,Paddy McNair,h,559,FromCorner,2016,RightFoot,523,Sunderland,West Bromwich Albion,1,1,2016-10-01 18:00:00,,None,559

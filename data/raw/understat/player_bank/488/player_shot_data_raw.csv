@@ -1,0 +1,658 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14777,5,BlockedShot,0.785,0.42700000762939455,0.03559400141239166,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4768,Manchester City,Liverpool,3,1,2014-08-25 20:00:00,Daniel Sturridge,Pass,488
+15286,46,BlockedShot,0.774000015258789,0.5659999847412109,0.030438700690865517,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4726,Liverpool,Aston Villa,0,1,2014-09-13 17:30:00,Lazar Markovic,Pass,488
+15291,67,BlockedShot,0.8859999847412109,0.720999984741211,0.03674430027604103,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4726,Liverpool,Aston Villa,0,1,2014-09-13 17:30:00,,None,488
+15290,67,BlockedShot,0.750999984741211,0.5940000152587891,0.019471799954771996,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4726,Liverpool,Aston Villa,0,1,2014-09-13 17:30:00,Raheem Sterling,Pass,488
+15293,80,ShotOnPost,0.8490000152587891,0.7069999694824218,0.03328390046954155,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4726,Liverpool,Aston Villa,0,1,2014-09-13 17:30:00,Alberto Moreno,Pass,488
+15295,87,BlockedShot,0.7419999694824219,0.505,0.01871570013463497,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4726,Liverpool,Aston Villa,0,1,2014-09-13 17:30:00,,None,488
+15296,88,MissedShots,0.759000015258789,0.585,0.02157519944012165,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4726,Liverpool,Aston Villa,0,1,2014-09-13 17:30:00,,None,488
+15802,70,BlockedShot,0.8580000305175781,0.6309999847412109,0.08214929699897766,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4739,Liverpool,Everton,1,1,2014-09-27 12:45:00,Raheem Sterling,TakeOn,488
+17142,64,BlockedShot,0.8,0.725,0.029388099908828735,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4691,Liverpool,West Bromwich Albion,2,1,2014-10-04 15:00:00,Raheem Sterling,Pass,488
+16693,89,Goal,0.8830000305175781,0.62,0.11708500236272812,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4706,Queens Park Rangers,Liverpool,2,3,2014-10-19 13:30:00,Steven Gerrard,Pass,488
+17375,77,BlockedShot,0.764000015258789,0.5920000076293945,0.017846599221229553,Philippe Coutinho,h,488,FromCorner,2014,RightFoot,4713,Liverpool,Hull,0,0,2014-10-25 15:00:00,,None,488
+17378,85,MissedShots,0.9640000152587891,0.5979999923706054,0.2229200005531311,Philippe Coutinho,h,488,SetPiece,2014,Head,4713,Liverpool,Hull,0,0,2014-10-25 15:00:00,Steven Gerrard,Cross,488
+17379,87,BlockedShot,0.745999984741211,0.555,0.02715650014579296,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4713,Liverpool,Hull,0,0,2014-10-25 15:00:00,,TakeOn,488
+17380,91,SavedShot,0.785,0.37099998474121093,0.016711700707674026,Philippe Coutinho,h,488,FromCorner,2014,RightFoot,4713,Liverpool,Hull,0,0,2014-10-25 15:00:00,,TakeOn,488
+16457,1,SavedShot,0.8169999694824219,0.4929999923706055,0.03835209831595421,Philippe Coutinho,h,488,SetPiece,2014,LeftFoot,4659,Liverpool,Chelsea,1,2,2014-11-08 12:45:00,Emre Can,HeadPass,488
+16465,25,SavedShot,0.759000015258789,0.43900001525878907,0.09262359887361526,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4659,Liverpool,Chelsea,1,2,2014-11-08 12:45:00,Emre Can,TakeOn,488
+17873,44,MissedShots,0.8680000305175781,0.5279999923706055,0.08490719646215439,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4682,Liverpool,Stoke,1,0,2014-11-29 15:00:00,Jordan Henderson,TakeOn,488
+19944,24,MissedShots,0.850999984741211,0.6990000152587891,0.03677770122885704,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4604,Liverpool,Sunderland,0,0,2014-12-06 15:00:00,Jordan Henderson,Pass,488
+19946,45,BlockedShot,0.7380000305175781,0.6880000305175781,0.012932400219142437,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4604,Liverpool,Sunderland,0,0,2014-12-06 15:00:00,Raheem Sterling,Pass,488
+19955,63,MissedShots,0.7319999694824219,0.6229999923706054,0.016879700124263763,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4604,Liverpool,Sunderland,0,0,2014-12-06 15:00:00,Adam Lallana,Pass,488
+19956,72,BlockedShot,0.8080000305175781,0.475,0.03179109841585159,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4604,Liverpool,Sunderland,0,0,2014-12-06 15:00:00,Rickie Lambert,HeadPass,488
+19957,76,SavedShot,0.8859999847412109,0.36900001525878906,0.09254930168390274,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4604,Liverpool,Sunderland,0,0,2014-12-06 15:00:00,Raheem Sterling,Pass,488
+18856,29,SavedShot,0.7330000305175781,0.51,0.02105339989066124,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4627,Liverpool,Arsenal,2,2,2014-12-21 16:00:00,Adam Lallana,Pass,488
+18859,44,Goal,0.8530000305175781,0.44799999237060545,0.09677570313215256,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4627,Liverpool,Arsenal,2,2,2014-12-21 16:00:00,Jordan Henderson,Pass,488
+18861,47,MissedShots,0.8,0.3940000152587891,0.027582399547100067,Philippe Coutinho,h,488,SetPiece,2014,RightFoot,4627,Liverpool,Arsenal,2,2,2014-12-21 16:00:00,,None,488
+18868,65,BlockedShot,0.84,0.49900001525878906,0.07477179914712906,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4627,Liverpool,Arsenal,2,2,2014-12-21 16:00:00,Adam Lallana,Pass,488
+18873,75,MissedShots,0.85,0.49700000762939456,0.07119689881801605,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4627,Liverpool,Arsenal,2,2,2014-12-21 16:00:00,Adam Lallana,Pass,488
+19768,13,SavedShot,0.8140000152587891,0.27899999618530275,0.022357100620865822,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Raheem Sterling,Pass,488
+19772,24,BlockedShot,0.909000015258789,0.3559999847412109,0.0401977002620697,Philippe Coutinho,a,488,FromCorner,2014,LeftFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Steven Gerrard,Cross,488
+19779,57,BlockedShot,0.8009999847412109,0.66,0.0292821004986763,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Steven Gerrard,Pass,488
+19784,71,BlockedShot,0.8230000305175781,0.35200000762939454,0.06961119920015335,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Steven Gerrard,TakeOn,488
+18527,15,SavedShot,0.8219999694824218,0.5220000076293946,0.0716060996055603,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4648,Liverpool,Swansea,4,1,2014-12-29 20:00:00,Lucas Leiva,Pass,488
+18528,21,MissedShots,0.7819999694824219,0.805,0.01714489981532097,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4648,Liverpool,Swansea,4,1,2014-12-29 20:00:00,Mamadou Sakho,Pass,488
+18532,35,SavedShot,0.965999984741211,0.68,0.038773298263549805,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4648,Liverpool,Swansea,4,1,2014-12-29 20:00:00,Alberto Moreno,Chipped,488
+18534,44,SavedShot,0.7559999847412109,0.524000015258789,0.03822200000286102,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4648,Liverpool,Swansea,4,1,2014-12-29 20:00:00,Mamadou Sakho,TakeOn,488
+18545,67,BlockedShot,0.865999984741211,0.629000015258789,0.09380190074443817,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4648,Liverpool,Swansea,4,1,2014-12-29 20:00:00,Raheem Sterling,Pass,488
+18550,77,MissedShots,0.8090000152587891,0.685,0.027805199846625328,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4648,Liverpool,Swansea,4,1,2014-12-29 20:00:00,,None,488
+19535,1,MissedShots,0.740999984741211,0.595999984741211,0.017480600625276566,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,,BallRecovery,488
+19558,78,SavedShot,0.8880000305175781,0.7719999694824219,0.027078699320554733,Philippe Coutinho,h,488,OpenPlay,2014,LeftFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Fabio Borini,Pass,488
+19560,82,BlockedShot,0.8230000305175781,0.72,0.021511299535632133,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Raheem Sterling,Pass,488
+18134,66,MissedShots,0.815,0.49700000762939456,0.08055440336465836,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4561,Sunderland,Liverpool,0,1,2015-01-10 12:45:00,Jordan Henderson,Pass,488
+18138,70,SavedShot,0.7430000305175781,0.53,0.026228299364447594,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4561,Sunderland,Liverpool,0,1,2015-01-10 12:45:00,Lazar Markovic,LayOff,488
+18140,76,MissedShots,0.730999984741211,0.49,0.02680560015141964,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4561,Sunderland,Liverpool,0,1,2015-01-10 12:45:00,Lucas Leiva,Pass,488
+18144,88,BlockedShot,0.86,0.31799999237060544,0.045506399124860764,Philippe Coutinho,a,488,SetPiece,2014,RightFoot,4561,Sunderland,Liverpool,0,1,2015-01-10 12:45:00,Jordan Henderson,TakeOn,488
+18449,1,MissedShots,0.9490000152587891,0.3340000152587891,0.03640180081129074,Philippe Coutinho,a,488,FromCorner,2014,RightFoot,4571,Aston Villa,Liverpool,0,2,2015-01-17 15:00:00,Jordan Henderson,Cross,488
+18453,30,SavedShot,0.8769999694824219,0.46299999237060546,0.06465490162372589,Philippe Coutinho,a,488,OpenPlay,2014,Head,4571,Aston Villa,Liverpool,0,2,2015-01-17 15:00:00,Lazar Markovic,Cross,488
+18471,87,BlockedShot,0.8830000305175781,0.769000015258789,0.03973010182380676,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4571,Aston Villa,Liverpool,0,2,2015-01-17 15:00:00,José Enrique,Pass,488
+18474,92,MissedShots,0.9580000305175781,0.46700000762939453,0.1555130034685135,Philippe Coutinho,a,488,OpenPlay,2014,LeftFoot,4571,Aston Villa,Liverpool,0,2,2015-01-17 15:00:00,Jordon Ibe,Pass,488
+23353,23,SavedShot,0.905,0.6630000305175782,0.07805609703063965,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4582,Liverpool,West Ham,2,0,2015-01-31 15:00:00,Raheem Sterling,Pass,488
+23366,64,SavedShot,0.7530000305175781,0.5279999923706055,0.03759809955954552,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4582,Liverpool,West Ham,2,0,2015-01-31 15:00:00,,TakeOn,488
+24178,35,SavedShot,0.740999984741211,0.534000015258789,0.018472300842404366,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4521,Everton,Liverpool,0,0,2015-02-07 17:30:00,Alberto Moreno,Pass,488
+23072,29,BlockedShot,0.7609999847412109,0.505,0.026885900646448135,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4528,Liverpool,Tottenham,3,2,2015-02-10 20:00:00,Jordan Henderson,Pass,488
+24191,2,Goal,0.7130000305175781,0.6229999923706054,0.014733100309967995,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4544,Southampton,Liverpool,0,2,2015-02-22 16:15:00,Lazar Markovic,Pass,488
+23331,12,MissedShots,0.7190000152587891,0.5729999923706055,0.017093200236558914,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4480,Liverpool,Manchester City,2,1,2015-03-01 12:00:00,Alberto Moreno,Pass,488
+23336,42,SavedShot,0.740999984741211,0.6430000305175781,0.015069900080561638,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4480,Liverpool,Manchester City,2,1,2015-03-01 12:00:00,Alberto Moreno,Pass,488
+23340,74,Goal,0.7709999847412109,0.7440000152587891,0.019748499616980553,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4480,Liverpool,Manchester City,2,1,2015-03-01 12:00:00,Raheem Sterling,Pass,488
+23342,84,BlockedShot,0.835,0.5929999923706055,0.08268260210752487,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4480,Liverpool,Manchester City,2,1,2015-03-01 12:00:00,Raheem Sterling,Pass,488
+20843,23,BlockedShot,0.9059999847412109,0.40799999237060547,0.05382779985666275,Philippe Coutinho,h,488,FromCorner,2014,RightFoot,4491,Liverpool,Burnley,2,0,2015-03-04 20:00:00,Joe Allen,Cross,488
+20845,27,BlockedShot,0.85,0.5590000152587891,0.09101589769124985,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4491,Liverpool,Burnley,2,0,2015-03-04 20:00:00,Adam Lallana,Pass,488
+20848,30,MissedShots,0.764000015258789,0.6229999923706054,0.02343989908695221,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4491,Liverpool,Burnley,2,0,2015-03-04 20:00:00,Adam Lallana,Pass,488
+20853,47,SavedShot,0.7930000305175782,0.2520000076293945,0.02199690043926239,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4491,Liverpool,Burnley,2,0,2015-03-04 20:00:00,Emre Can,Pass,488
+20737,28,SavedShot,0.754000015258789,0.7609999847412109,0.012897499836981297,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4502,Swansea,Liverpool,0,1,2015-03-16 20:00:00,Adam Lallana,BallRecovery,488
+20746,57,SavedShot,0.9130000305175782,0.445,0.13619700074195862,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4502,Swansea,Liverpool,0,1,2015-03-16 20:00:00,Raheem Sterling,Pass,488
+20752,75,MissedShots,0.7869999694824219,0.7140000152587891,0.019750399515032768,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4502,Swansea,Liverpool,0,1,2015-03-16 20:00:00,Joe Allen,Pass,488
+20751,75,BlockedShot,0.769000015258789,0.6359999847412109,0.02416509948670864,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4502,Swansea,Liverpool,0,1,2015-03-16 20:00:00,Adam Lallana,Pass,488
+21592,36,MissedShots,0.795,0.6179999923706054,0.028879700228571892,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4510,Liverpool,Manchester United,1,2,2015-03-22 13:30:00,Alberto Moreno,Pass,488
+21595,53,MissedShots,0.7169999694824218,0.759000015258789,0.013976000249385834,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4510,Liverpool,Manchester United,1,2,2015-03-22 13:30:00,Mamadou Sakho,Pass,488
+20787,21,MissedShots,0.740999984741211,0.575,0.018164999783039093,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4440,Arsenal,Liverpool,4,1,2015-04-04 12:45:00,Alberto Moreno,Pass,488
+20801,62,MissedShots,0.735999984741211,0.43099998474121093,0.01260450016707182,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4440,Arsenal,Liverpool,4,1,2015-04-04 12:45:00,Jordan Henderson,HeadPass,488
+22924,15,SavedShot,0.725,0.7869999694824219,0.010779599659144878,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4460,Liverpool,Newcastle United,2,0,2015-04-13 20:00:00,,None,488
+22925,25,BlockedShot,0.925,0.32599998474121095,0.04467169940471649,Philippe Coutinho,h,488,SetPiece,2014,RightFoot,4460,Liverpool,Newcastle United,2,0,2015-04-13 20:00:00,Jordan Henderson,Pass,488
+22936,60,SavedShot,0.919000015258789,0.7340000152587891,0.04248100146651268,Philippe Coutinho,h,488,FromCorner,2014,RightFoot,4460,Liverpool,Newcastle United,2,0,2015-04-13 20:00:00,Raheem Sterling,Pass,488
+22937,65,BlockedShot,0.755,0.6179999923706054,0.02664720080792904,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4460,Liverpool,Newcastle United,2,0,2015-04-13 20:00:00,,None,488
+22941,79,MissedShots,0.875999984741211,0.38799999237060545,0.05906340107321739,Philippe Coutinho,h,488,FromCorner,2014,LeftFoot,4460,Liverpool,Newcastle United,2,0,2015-04-13 20:00:00,,None,488
+20306,9,BlockedShot,0.730999984741211,0.4370000076293945,0.016605600714683533,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4471,West Bromwich Albion,Liverpool,0,0,2015-04-25 15:00:00,Jordon Ibe,Pass,488
+20308,20,MissedShots,0.7419999694824219,0.61,0.014973499812185764,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4471,West Bromwich Albion,Liverpool,0,0,2015-04-25 15:00:00,,None,488
+20310,27,MissedShots,0.525,0.6580000305175782,0.005255970172584057,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4471,West Bromwich Albion,Liverpool,0,0,2015-04-25 15:00:00,,TakeOn,488
+20315,47,BlockedShot,0.7619999694824219,0.38799999237060545,0.020796800032258034,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4471,West Bromwich Albion,Liverpool,0,0,2015-04-25 15:00:00,Jordan Henderson,Pass,488
+20318,55,SavedShot,0.855999984741211,0.5220000076293946,0.07175540179014206,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4471,West Bromwich Albion,Liverpool,0,0,2015-04-25 15:00:00,,Rebound,488
+20321,59,SavedShot,0.7330000305175781,0.475,0.017024999484419823,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4471,West Bromwich Albion,Liverpool,0,0,2015-04-25 15:00:00,Jordan Henderson,Pass,488
+20326,72,BlockedShot,0.8040000152587891,0.49900001525878906,0.054954998195171356,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4471,West Bromwich Albion,Liverpool,0,0,2015-04-25 15:00:00,Raheem Sterling,Pass,488
+20328,75,BlockedShot,0.7959999847412109,0.6719999694824219,0.020961400121450424,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4471,West Bromwich Albion,Liverpool,0,0,2015-04-25 15:00:00,Jordan Henderson,Pass,488
+20331,80,MissedShots,0.7430000305175781,0.6070000076293945,0.0110489996150136,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4471,West Bromwich Albion,Liverpool,0,0,2015-04-25 15:00:00,,Aerial,488
+20692,19,SavedShot,0.865,0.4329999923706055,0.04464749991893768,Philippe Coutinho,a,488,FromCorner,2014,RightFoot,4478,Hull,Liverpool,1,0,2015-04-28 19:45:00,Jordan Henderson,Cross,488
+20696,32,SavedShot,0.7390000152587891,0.75,0.01185229979455471,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4478,Hull,Liverpool,1,0,2015-04-28 19:45:00,,BallRecovery,488
+20707,93,SavedShot,0.730999984741211,0.6120000076293945,0.016681799665093422,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4478,Hull,Liverpool,1,0,2015-04-28 19:45:00,Glen Johnson,Pass,488
+21341,1,BlockedShot,0.7330000305175781,0.6129999923706054,0.018555400893092155,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,Steven Gerrard,Pass,488
+21347,17,BlockedShot,0.7440000152587891,0.74,0.01172189973294735,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,Glen Johnson,Pass,488
+21348,18,Goal,0.9059999847412109,0.620999984741211,0.1033250018954277,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,Rickie Lambert,Pass,488
+21354,37,BlockedShot,0.7809999847412109,0.64,0.03378630056977272,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,Rickie Lambert,TakeOn,488
+21372,86,BlockedShot,0.7780000305175782,0.77,0.01920589990913868,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,Raheem Sterling,Pass,488
+20462,6,BlockedShot,0.8080000305175781,0.685,0.028073199093341827,Philippe Coutinho,a,488,FromCorner,2014,RightFoot,4417,Chelsea,Liverpool,1,1,2015-05-10 16:00:00,,Rebound,488
+20461,6,BlockedShot,0.8209999847412109,0.754000015258789,0.024494800716638565,Philippe Coutinho,a,488,FromCorner,2014,RightFoot,4417,Chelsea,Liverpool,1,1,2015-05-10 16:00:00,Steven Gerrard,Cross,488
+20465,13,SavedShot,0.9209999847412109,0.67,0.06238330155611038,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4417,Chelsea,Liverpool,1,1,2015-05-10 16:00:00,Adam Lallana,Pass,488
+20471,48,MissedShots,0.9119999694824219,0.5870000076293945,0.1231359988451004,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4417,Chelsea,Liverpool,1,1,2015-05-10 16:00:00,Raheem Sterling,Pass,488
+20480,88,SavedShot,0.769000015258789,0.49400001525878906,0.027413299307227135,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4417,Chelsea,Liverpool,1,1,2015-05-10 16:00:00,,None,488
+22393,4,BlockedShot,0.9019999694824219,0.695,0.05004270002245903,Philippe Coutinho,h,488,OpenPlay,2014,LeftFoot,4425,Liverpool,Crystal Palace,1,3,2015-05-16 17:30:00,Alberto Moreno,None,488
+22398,29,BlockedShot,0.7619999694824219,0.62,0.017625000327825546,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4425,Liverpool,Crystal Palace,1,3,2015-05-16 17:30:00,Jordan Henderson,HeadPass,488
+22409,51,MissedShots,0.815,0.5609999847412109,0.054393500089645386,Philippe Coutinho,h,488,OpenPlay,2014,RightFoot,4425,Liverpool,Crystal Palace,1,3,2015-05-16 17:30:00,Raheem Sterling,Pass,488
+23214,12,MissedShots,0.909000015258789,0.2989999961853027,0.045670900493860245,Philippe Coutinho,a,488,OpenPlay,2014,LeftFoot,4439,Stoke,Liverpool,6,1,2015-05-24 15:00:00,Steven Gerrard,TakeOn,488
+23228,57,BlockedShot,0.8230000305175781,0.7090000152587891,0.02955169975757599,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4439,Stoke,Liverpool,6,1,2015-05-24 15:00:00,Steven Gerrard,Pass,488
+23234,70,SavedShot,0.7809999847412109,0.4229999923706055,0.03616730123758316,Philippe Coutinho,a,488,OpenPlay,2014,RightFoot,4439,Stoke,Liverpool,6,1,2015-05-24 15:00:00,Rickie Lambert,Pass,488
+23235,75,MissedShots,0.8719999694824219,0.6869999694824219,0.035999398678541183,Philippe Coutinho,a,488,FromCorner,2014,RightFoot,4439,Stoke,Liverpool,6,1,2015-05-24 15:00:00,Jordon Ibe,Pass,488
+51677,20,BlockedShot,0.7519999694824219,0.59,0.020529000088572502,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,,BallRecovery,488
+51686,76,MissedShots,0.7019999694824218,0.4759999847412109,0.010916800238192081,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,,None,488
+51688,85,Goal,0.7269999694824218,0.5359999847412109,0.01364929974079132,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,Joseph Gomez,TakeOn,488
+51769,30,BlockedShot,0.7809999847412109,0.45099998474121095,0.0461324006319046,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,100,Liverpool,Bournemouth,1,0,2015-08-17 23:00:00,Christian Benteke,Pass,488
+51770,43,MissedShots,0.7969999694824219,0.30100000381469727,0.017776399850845337,Philippe Coutinho,h,488,OpenPlay,2015,LeftFoot,100,Liverpool,Bournemouth,1,0,2015-08-17 23:00:00,Christian Benteke,HeadPass,488
+51771,43,MissedShots,0.845,0.47,0.3563770055770874,Philippe Coutinho,h,488,OpenPlay,2015,LeftFoot,100,Liverpool,Bournemouth,1,0,2015-08-17 23:00:00,,None,488
+51776,50,BlockedShot,0.7709999847412109,0.37599998474121094,0.03337100148200989,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,100,Liverpool,Bournemouth,1,0,2015-08-17 23:00:00,,Dispossessed,488
+51782,67,BlockedShot,0.805,0.24399999618530274,0.05305569991469383,Philippe Coutinho,h,488,DirectFreekick,2015,RightFoot,100,Liverpool,Bournemouth,1,0,2015-08-17 23:00:00,,Standard,488
+51783,69,MissedShots,0.8669999694824219,0.26799999237060546,0.04357289895415306,Philippe Coutinho,h,488,OpenPlay,2015,LeftFoot,100,Liverpool,Bournemouth,1,0,2015-08-17 23:00:00,Christian Benteke,Pass,488
+51784,71,BlockedShot,0.8780000305175781,0.5209999847412109,0.11291000247001648,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,100,Liverpool,Bournemouth,1,0,2015-08-17 23:00:00,,None,488
+51785,73,BlockedShot,0.8490000152587891,0.43400001525878906,0.12812000513076782,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,100,Liverpool,Bournemouth,1,0,2015-08-17 23:00:00,Christian Benteke,Pass,488
+56362,2,ShotOnPost,0.88,0.44099998474121094,0.11721300333738327,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,110,Arsenal,Liverpool,0,0,2015-08-24 23:00:00,Christian Benteke,Pass,488
+56374,44,SavedShot,0.9209999847412109,0.705,0.02306470088660717,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,110,Arsenal,Liverpool,0,0,2015-08-24 23:00:00,Christian Benteke,Aerial,488
+56379,60,SavedShot,0.730999984741211,0.51,0.022108400240540504,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,110,Arsenal,Liverpool,0,0,2015-08-24 23:00:00,Lucas Leiva,Pass,488
+56388,80,SavedShot,0.9019999694824219,0.6969999694824218,0.055675800889730453,Philippe Coutinho,a,488,OpenPlay,2015,LeftFoot,110,Arsenal,Liverpool,0,0,2015-08-24 23:00:00,Joseph Gomez,Pass,488
+57541,6,MissedShots,0.7630000305175781,0.6980000305175781,0.017577100545167923,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,James Milner,Pass,488
+57549,38,BlockedShot,0.8619999694824219,0.54,0.0933585986495018,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Roberto Firmino,Pass,488
+57550,49,MissedShots,0.7290000152587891,0.37400001525878906,0.010968700051307678,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,116,Liverpool,West Ham,0,3,2015-08-29 18:00:00,Roberto Firmino,Pass,488
+58133,34,MissedShots,0.87,0.4640000152587891,0.03442990034818649,Philippe Coutinho,h,488,OpenPlay,2015,Head,140,Liverpool,Norwich,1,1,2015-09-20 19:00:00,Lucas Leiva,Chipped,488
+58135,40,BlockedShot,0.745999984741211,0.455,0.015175499953329563,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,140,Liverpool,Norwich,1,1,2015-09-20 19:00:00,,Rebound,488
+58140,49,MissedShots,0.7559999847412109,0.6990000152587891,0.019484300166368484,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,140,Liverpool,Norwich,1,1,2015-09-20 19:00:00,Alberto Moreno,Pass,488
+58142,53,BlockedShot,0.899000015258789,0.67,0.07668250054121017,Philippe Coutinho,h,488,OpenPlay,2015,LeftFoot,140,Liverpool,Norwich,1,1,2015-09-20 19:00:00,Alberto Moreno,Pass,488
+58143,54,MissedShots,0.875999984741211,0.664000015258789,0.07982829958200455,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,140,Liverpool,Norwich,1,1,2015-09-20 19:00:00,Daniel Sturridge,Pass,488
+58151,77,SavedShot,0.8969999694824219,0.40900001525878904,0.3039090037345886,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,140,Liverpool,Norwich,1,1,2015-09-20 19:00:00,Roberto Firmino,Pass,488
+58152,78,SavedShot,0.7669999694824219,0.36400001525878906,0.023496100679039955,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,140,Liverpool,Norwich,1,1,2015-09-20 19:00:00,James Milner,Pass,488
+58153,79,BlockedShot,0.785,0.6279999923706054,0.02885819971561432,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,140,Liverpool,Norwich,1,1,2015-09-20 19:00:00,Roberto Firmino,Pass,488
+58154,90,MissedShots,0.8980000305175782,0.5829999923706055,0.11882700026035309,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,140,Liverpool,Norwich,1,1,2015-09-20 19:00:00,Alberto Moreno,Pass,488
+58155,91,BlockedShot,0.874000015258789,0.6909999847412109,0.05009140074253082,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,140,Liverpool,Norwich,1,1,2015-09-20 19:00:00,Adam Lallana,Pass,488
+58378,19,MissedShots,0.8430000305175781,0.8040000152587891,0.02608959935605526,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Alberto Moreno,Pass,488
+58380,36,BlockedShot,0.749000015258789,0.65,0.018054500222206116,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Alberto Moreno,Pass,488
+58384,48,BlockedShot,0.8469999694824218,0.51,0.09164849668741226,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Danny Ings,BallTouch,488
+58389,53,SavedShot,0.779000015258789,0.735999984741211,0.04787420108914375,Philippe Coutinho,h,488,DirectFreekick,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,,Standard,488
+58391,61,BlockedShot,0.845,0.48200000762939454,0.08445210009813309,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,,BallRecovery,488
+58396,73,SavedShot,0.7290000152587891,0.5609999847412109,0.04931449890136719,Philippe Coutinho,h,488,DirectFreekick,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,,Standard,488
+58397,76,SavedShot,0.805,0.42900001525878906,0.05505739897489548,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Nathaniel Clyne,Pass,488
+58759,65,BlockedShot,0.715,0.61,0.01566839963197708,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,158,Everton,Liverpool,1,1,2015-10-04 16:30:00,Alberto Moreno,Pass,488
+58763,71,SavedShot,0.870999984741211,0.5970000076293945,0.06758499890565872,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,158,Everton,Liverpool,1,1,2015-10-04 16:30:00,Lucas Leiva,TakeOn,488
+58766,80,BlockedShot,0.865999984741211,0.585,0.05322229862213135,Philippe Coutinho,a,488,FromCorner,2015,RightFoot,158,Everton,Liverpool,1,1,2015-10-04 16:30:00,James Milner,Pass,488
+59137,42,SavedShot,0.789000015258789,0.6819999694824219,0.024956099689006805,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,161,Tottenham,Liverpool,0,0,2015-10-17 15:45:00,Emre Can,Pass,488
+59284,3,BlockedShot,0.865,0.37099998474121093,0.07424820214509964,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,Nathaniel Clyne,Pass,488
+59292,23,MissedShots,0.835999984741211,0.8119999694824219,0.01602650061249733,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,Alberto Moreno,Pass,488
+59293,28,BlockedShot,0.749000015258789,0.6759999847412109,0.013709300197660923,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,,None,488
+59312,67,MissedShots,0.769000015258789,0.435,0.028519699349999428,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,180,Liverpool,Southampton,1,1,2015-10-25 20:15:00,James Milner,Pass,488
+59424,47,Goal,0.815,0.44299999237060544,0.04973049834370613,Philippe Coutinho,a,488,OpenPlay,2015,LeftFoot,181,Chelsea,Liverpool,1,3,2015-10-31 16:45:00,Roberto Firmino,Pass,488
+59425,52,BlockedShot,0.8880000305175781,0.67,0.03684199973940849,Philippe Coutinho,a,488,FromCorner,2015,LeftFoot,181,Chelsea,Liverpool,1,3,2015-10-31 16:45:00,Emre Can,Pass,488
+59443,73,Goal,0.8490000152587891,0.4879999923706055,0.06959210336208344,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,181,Chelsea,Liverpool,1,3,2015-10-31 16:45:00,Christian Benteke,HeadPass,488
+59454,90,BlockedShot,0.89,0.6619999694824219,0.08731559664011002,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,181,Chelsea,Liverpool,1,3,2015-10-31 16:45:00,Christian Benteke,Pass,488
+55026,15,MissedShots,0.754000015258789,0.6419999694824219,0.016148600727319717,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,200,Liverpool,Crystal Palace,1,2,2015-11-08 20:00:00,Alberto Moreno,Pass,488
+55030,25,BlockedShot,0.904000015258789,0.455,0.11587099730968475,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,200,Liverpool,Crystal Palace,1,2,2015-11-08 20:00:00,Jordon Ibe,Pass,488
+55037,41,Goal,0.92,0.5709999847412109,0.4348849952220917,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,200,Liverpool,Crystal Palace,1,2,2015-11-08 20:00:00,Adam Lallana,Pass,488
+55054,83,BlockedShot,0.7290000152587891,0.5740000152587891,0.017631299793720245,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,200,Liverpool,Crystal Palace,1,2,2015-11-08 20:00:00,Lucas Leiva,Pass,488
+55055,85,SavedShot,0.8009999847412109,0.725,0.022635899484157562,Philippe Coutinho,h,488,OpenPlay,2015,LeftFoot,200,Liverpool,Crystal Palace,1,2,2015-11-08 20:00:00,Lucas Leiva,Pass,488
+54048,22,Goal,0.9069999694824219,0.55,0.4174189865589142,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,208,Manchester City,Liverpool,1,4,2015-11-21 21:30:00,Roberto Firmino,Throughball,488
+54049,31,SavedShot,0.7340000152587891,0.500999984741211,0.023757999762892723,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,208,Manchester City,Liverpool,1,4,2015-11-21 21:30:00,Emre Can,Pass,488
+54055,50,BlockedShot,0.8480000305175781,0.7290000152587891,0.031062200665473938,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,208,Manchester City,Liverpool,1,4,2015-11-21 21:30:00,Roberto Firmino,Pass,488
+54074,13,MissedShots,0.8619999694824219,0.49900001525878906,0.07959479838609695,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,238,Liverpool,West Bromwich Albion,2,2,2015-12-13 20:00:00,,None,488
+54078,27,SavedShot,0.7619999694824219,0.68,0.02507610060274601,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,238,Liverpool,West Bromwich Albion,2,2,2015-12-13 20:00:00,Emre Can,Pass,488
+54081,33,SavedShot,0.735999984741211,0.565,0.0180526003241539,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,238,Liverpool,West Bromwich Albion,2,2,2015-12-13 20:00:00,Emre Can,KeeperSweeper,488
+54083,39,SavedShot,0.769000015258789,0.500999984741211,0.029659900814294815,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,238,Liverpool,West Bromwich Albion,2,2,2015-12-13 20:00:00,Dejan Lovren,Pass,488
+53141,10,SavedShot,0.7759999847412109,0.6409999847412109,0.015681499615311623,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,248,Watford,Liverpool,3,0,2015-12-20 17:30:00,Jordan Henderson,Chipped,488
+54438,2,MissedShots,0.7809999847412109,0.7830000305175782,0.018120499327778816,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,257,Liverpool,Leicester,1,0,2015-12-26 19:00:00,Alberto Moreno,Pass,488
+54441,10,BlockedShot,0.7980000305175782,0.6170000076293946,0.03441990166902542,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,257,Liverpool,Leicester,1,0,2015-12-26 19:00:00,Alberto Moreno,Pass,488
+54445,15,MissedShots,0.8230000305175781,0.5420000076293945,0.06290239840745926,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,257,Liverpool,Leicester,1,0,2015-12-26 19:00:00,Divock Origi,Pass,488
+54450,23,MissedShots,0.7709999847412109,0.6419999694824219,0.019861500710248947,Philippe Coutinho,h,488,FromCorner,2015,RightFoot,257,Liverpool,Leicester,1,0,2015-12-26 19:00:00,Dejan Lovren,Pass,488
+54466,83,MissedShots,0.730999984741211,0.6580000305175782,0.01800989918410778,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,257,Liverpool,Leicester,1,0,2015-12-26 19:00:00,Roberto Firmino,Tackle,488
+53830,12,MissedShots,0.745999984741211,0.5179999923706055,0.02437940053641796,Philippe Coutinho,a,488,OpenPlay,2015,LeftFoot,270,Sunderland,Liverpool,0,1,2015-12-30 23:45:00,Dejan Lovren,Pass,488
+53832,16,MissedShots,0.7719999694824219,0.649000015258789,0.06359150260686874,Philippe Coutinho,a,488,DirectFreekick,2015,RightFoot,270,Sunderland,Liverpool,0,1,2015-12-30 23:45:00,,Standard,488
+53844,61,BlockedShot,0.8619999694824219,0.555,0.1028750017285347,Philippe Coutinho,a,488,OpenPlay,2015,LeftFoot,270,Sunderland,Liverpool,0,1,2015-12-30 23:45:00,Christian Benteke,Pass,488
+53845,61,MissedShots,0.8830000305175781,0.5979999923706054,0.09166780114173889,Philippe Coutinho,a,488,OpenPlay,2015,LeftFoot,270,Sunderland,Liverpool,0,1,2015-12-30 23:45:00,,Rebound,488
+53846,70,SavedShot,0.8109999847412109,0.6580000305175782,0.04281559959053993,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,270,Sunderland,Liverpool,0,1,2015-12-30 23:45:00,Lucas Leiva,Pass,488
+53848,74,MissedShots,0.74,0.7330000305175781,0.021142100915312767,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,270,Sunderland,Liverpool,0,1,2015-12-30 23:45:00,Alberto Moreno,Pass,488
+52856,32,BlockedShot,0.7759999847412109,0.735999984741211,0.017656400799751282,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Roberto Firmino,Pass,488
+52860,39,BlockedShot,0.685,0.610999984741211,0.015611199662089348,Philippe Coutinho,a,488,SetPiece,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Lucas Leiva,Pass,488
+52866,47,MissedShots,0.7380000305175781,0.445,0.018997499719262123,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Jordon Ibe,Pass,488
+52865,49,BlockedShot,0.7130000305175781,0.580999984741211,0.014509500004351139,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Lucas Leiva,HeadPass,488
+52870,56,BlockedShot,0.7909999847412109,0.5629999923706055,0.04334999993443489,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,Emre Can,Pass,488
+52881,78,BlockedShot,0.8190000152587891,0.5379999923706055,0.03974070027470589,Philippe Coutinho,a,488,FromCorner,2015,RightFoot,271,West Ham,Liverpool,2,0,2016-01-02 16:45:00,,None,488
+54476,33,MissedShots,0.6809999847412109,0.5990000152587891,0.03065509907901287,Philippe Coutinho,a,488,DirectFreekick,2015,RightFoot,339,Aston Villa,Liverpool,0,6,2016-02-14 18:05:00,,Standard,488
+59754,74,MissedShots,0.7419999694824219,0.7980000305175782,0.015613400377333164,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Alberto Moreno,Pass,488
+59763,86,MissedShots,0.845999984741211,0.5320000076293945,0.06822309643030167,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,,None,488
+60479,2,MissedShots,0.7480000305175781,0.5790000152587891,0.01836940087378025,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,380,Southampton,Liverpool,3,2,2016-03-20 17:30:00,,None,488
+60486,16,Goal,0.7190000152587891,0.6519999694824219,0.01740569993853569,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,380,Southampton,Liverpool,3,2,2016-03-20 17:30:00,Adam Lallana,Pass,488
+60518,91,MissedShots,0.7519999694824219,0.625,0.01710600033402443,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,380,Southampton,Liverpool,3,2,2016-03-20 17:30:00,,None,488
+59790,3,BlockedShot,0.8909999847412109,0.6459999847412109,0.0590209998190403,Philippe Coutinho,h,488,SetPiece,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,,None,488
+59798,11,SavedShot,0.8169999694824219,0.5359999847412109,0.04410969838500023,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,,Rebound,488
+59810,50,Goal,0.855999984741211,0.55,0.09844420105218887,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Daniel Sturridge,Pass,488
+59836,84,BlockedShot,0.8009999847412109,0.6659999847412109,0.029244299978017807,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Jordan Henderson,Pass,488
+59835,84,MissedShots,0.845,0.565,0.07683560252189636,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Divock Origi,Pass,488
+59550,5,BlockedShot,0.889000015258789,0.39099998474121095,0.09854669868946075,Philippe Coutinho,h,488,OpenPlay,2015,LeftFoot,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,Adam Lallana,LayOff,488
+59553,20,MissedShots,0.740999984741211,0.37099998474121093,0.016570400446653366,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,Roberto Firmino,Pass,488
+59557,26,MissedShots,0.7859999847412109,0.4209999847412109,0.09360440075397491,Philippe Coutinho,h,488,DirectFreekick,2015,RightFoot,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,,Standard,488
+59567,31,BlockedShot,0.875999984741211,0.7880000305175782,0.016225000843405724,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,,Rebound,488
+59579,64,BlockedShot,0.9030000305175782,0.5870000076293945,0.12598299980163574,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,James Milner,Cross,488
+59580,68,BlockedShot,0.8059999847412109,0.5420000076293945,0.05170689895749092,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,Nathaniel Clyne,Cross,488
+59583,69,MissedShots,0.77,0.5279999923706055,0.024771999567747116,Philippe Coutinho,h,488,SetPiece,2015,RightFoot,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,James Milner,Pass,488
+59596,75,Goal,0.82,0.6229999923706054,0.062242601066827774,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,Joe Allen,Pass,488
+59599,77,SavedShot,0.7780000305175782,0.595999984741211,0.04967160150408745,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,Lucas Leiva,Pass,488
+57433,78,BlockedShot,0.755,0.52,0.017819099128246307,Philippe Coutinho,h,488,FromCorner,2015,LeftFoot,423,Liverpool,Newcastle United,2,2,2016-04-23 18:00:00,,None,488
+57436,84,MissedShots,0.7730000305175782,0.5609999847412109,0.030609900131821632,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,423,Liverpool,Newcastle United,2,2,2016-04-23 18:00:00,Lucas Leiva,Pass,488
+57437,86,BlockedShot,0.855,0.5209999847412109,0.09504909813404083,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,423,Liverpool,Newcastle United,2,2,2016-04-23 18:00:00,Sheyi Ojo,Pass,488
+57463,41,BlockedShot,0.759000015258789,0.43099998474121093,0.022699300199747086,Philippe Coutinho,a,488,OpenPlay,2015,RightFoot,433,Swansea,Liverpool,3,1,2016-05-01 15:00:00,Jordon Ibe,Pass,488
+56428,11,BlockedShot,0.9219999694824219,0.69,0.0573728010058403,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,Sheyi Ojo,Pass,488
+56440,40,MissedShots,0.6840000152587891,0.7669999694824219,0.010051400400698185,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,Alberto Moreno,Pass,488
+56441,41,BlockedShot,0.789000015258789,0.5129999923706055,0.04045090079307556,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,Alberto Moreno,BallRecovery,488
+56442,47,MissedShots,0.909000015258789,0.5229999923706055,0.14688800275325775,Philippe Coutinho,h,488,OpenPlay,2015,LeftFoot,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,Christian Benteke,Pass,488
+56443,48,SavedShot,0.865999984741211,0.6090000152587891,0.10426899790763855,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,Christian Benteke,Pass,488
+61040,4,BlockedShot,0.8590000152587891,0.5070000076293946,0.09573239833116531,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,Alberto Moreno,Pass,488
+61043,7,SavedShot,0.865,0.7280000305175781,0.03320550173521042,Philippe Coutinho,h,488,FromCorner,2015,RightFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,,Rebound,488
+61058,23,MissedShots,0.795,0.534000015258789,0.044383201748132706,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,Adam Lallana,Pass,488
+61068,34,SavedShot,0.7919999694824219,0.6719999694824219,0.024347199127078056,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,Alberto Moreno,Pass,488
+61073,36,BlockedShot,0.7619999694824219,0.45,0.02488669939339161,Philippe Coutinho,h,488,OpenPlay,2015,RightFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,Roberto Firmino,Pass,488
+112101,45,Goal,0.715999984741211,0.5579999923706055,0.04323039948940277,Philippe Coutinho,a,488,DirectFreekick,2016,RightFoot,469,Arsenal,Liverpool,3,4,2016-08-14 19:00:00,,Standard,488
+112104,55,Goal,0.93,0.435,0.3653680086135864,Philippe Coutinho,a,488,OpenPlay,2016,LeftFoot,469,Arsenal,Liverpool,3,4,2016-08-14 19:00:00,Nathaniel Clyne,Cross,488
+112105,57,SavedShot,0.899000015258789,0.509000015258789,0.14175200462341309,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,469,Arsenal,Liverpool,3,4,2016-08-14 19:00:00,Roberto Firmino,Pass,488
+120543,8,MissedShots,0.745999984741211,0.6659999847412109,0.01740650087594986,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,473,Burnley,Liverpool,2,0,2016-08-20 18:00:00,Georginio Wijnaldum,Pass,488
+120544,11,MissedShots,0.7580000305175781,0.585,0.021714400500059128,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,473,Burnley,Liverpool,2,0,2016-08-20 18:00:00,Roberto Firmino,Pass,488
+120545,15,MissedShots,0.7330000305175781,0.43900001525878907,0.024429500102996826,Philippe Coutinho,a,488,FromCorner,2016,RightFoot,473,Burnley,Liverpool,2,0,2016-08-20 18:00:00,Roberto Firmino,Pass,488
+120554,40,MissedShots,0.835999984741211,0.5729999923706055,0.08205849677324295,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,473,Burnley,Liverpool,2,0,2016-08-20 18:00:00,Adam Lallana,Pass,488
+120556,49,SavedShot,0.7480000305175781,0.524000015258789,0.019007299095392227,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,473,Burnley,Liverpool,2,0,2016-08-20 18:00:00,Georginio Wijnaldum,LayOff,488
+120560,56,MissedShots,0.8030000305175782,0.495,0.03214799985289574,Philippe Coutinho,a,488,FromCorner,2016,LeftFoot,473,Burnley,Liverpool,2,0,2016-08-20 18:00:00,Ragnar Klavan,None,488
+120562,70,MissedShots,0.73,0.7319999694824219,0.008546539582312107,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,473,Burnley,Liverpool,2,0,2016-08-20 18:00:00,James Milner,Pass,488
+120565,84,BlockedShot,0.81,0.525,0.03500489890575409,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,473,Burnley,Liverpool,2,0,2016-08-20 18:00:00,,None,488
+113075,4,SavedShot,0.9209999847412109,0.5570000076293945,0.4771209955215454,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,481,Tottenham,Liverpool,1,1,2016-08-27 15:30:00,Roberto Firmino,Pass,488
+113080,17,MissedShots,0.75,0.6609999847412109,0.01532050035893917,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,481,Tottenham,Liverpool,1,1,2016-08-27 15:30:00,Roberto Firmino,Pass,488
+113081,22,BlockedShot,0.835999984741211,0.664000015258789,0.040727999061346054,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,481,Tottenham,Liverpool,1,1,2016-08-27 15:30:00,James Milner,Pass,488
+113082,25,SavedShot,0.9419999694824219,0.6530000305175782,0.06799159944057465,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,481,Tottenham,Liverpool,1,1,2016-08-27 15:30:00,Sadio Mané,Chipped,488
+113243,76,BlockedShot,0.7130000305175781,0.669000015258789,0.022569799795746803,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Roberto Firmino,Pass,488
+113248,93,BlockedShot,0.789000015258789,0.7230000305175781,0.051336098462343216,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,James Milner,Chipped,488
+113453,49,BlockedShot,0.7969999694824219,0.625999984741211,0.046756599098443985,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,501,Chelsea,Liverpool,1,2,2016-09-16 23:00:00,Daniel Sturridge,Pass,488
+113459,77,BlockedShot,0.8640000152587891,0.4159999847412109,0.10676400363445282,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,501,Chelsea,Liverpool,1,2,2016-09-16 23:00:00,Nathaniel Clyne,Pass,488
+113781,8,BlockedShot,0.9519999694824218,0.47,0.6129109859466553,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,516,Liverpool,Hull,5,1,2016-09-24 18:00:00,,None,488
+113784,28,BlockedShot,0.87,0.4779999923706055,0.12051600217819214,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,516,Liverpool,Hull,5,1,2016-09-24 18:00:00,Sadio Mané,Pass,488
+113791,43,SavedShot,0.7759999847412109,0.5220000076293946,0.05279869958758354,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,516,Liverpool,Hull,5,1,2016-09-24 18:00:00,Sadio Mané,Pass,488
+113798,51,Goal,0.730999984741211,0.53,0.022349899634718895,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,516,Liverpool,Hull,5,1,2016-09-24 18:00:00,Adam Lallana,Pass,488
+113799,53,BlockedShot,0.7619999694824219,0.52,0.014003000222146511,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,516,Liverpool,Hull,5,1,2016-09-24 18:00:00,,Aerial,488
+113805,60,BlockedShot,0.7619999694824219,0.355,0.058194201439619064,Philippe Coutinho,h,488,DirectFreekick,2016,RightFoot,516,Liverpool,Hull,5,1,2016-09-24 18:00:00,,Standard,488
+114489,53,BlockedShot,0.7269999694824218,0.39099998474121095,0.044769998639822006,Philippe Coutinho,a,488,DirectFreekick,2016,RightFoot,522,Swansea,Liverpool,1,2,2016-10-01 15:30:00,,Standard,488
+114491,57,MissedShots,0.8019999694824219,0.48700000762939455,0.04731360077857971,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,522,Swansea,Liverpool,1,2,2016-10-01 15:30:00,Georginio Wijnaldum,Pass,488
+114497,79,BlockedShot,0.7290000152587891,0.46,0.028226900845766068,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,522,Swansea,Liverpool,1,2,2016-10-01 15:30:00,James Milner,TakeOn,488
+114500,85,SavedShot,0.9680000305175781,0.6580000305175782,0.08431229740381241,Philippe Coutinho,a,488,OpenPlay,2016,LeftFoot,522,Swansea,Liverpool,1,2,2016-10-01 15:30:00,Divock Origi,Pass,488
+113989,70,SavedShot,0.7419999694824219,0.5420000076293945,0.022374499589204788,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,540,Liverpool,Manchester United,0,0,2016-10-17 23:00:00,Emre Can,Pass,488
+113990,75,BlockedShot,0.8690000152587891,0.649000015258789,0.05656379833817482,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,540,Liverpool,Manchester United,0,0,2016-10-17 23:00:00,,None,488
+114449,5,BlockedShot,0.795,0.5509999847412109,0.060730401426553726,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,548,Liverpool,West Bromwich Albion,2,1,2016-10-22 20:30:00,,TakeOn,488
+114450,16,BlockedShot,0.7130000305175781,0.41,0.017004799097776413,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,548,Liverpool,West Bromwich Albion,2,1,2016-10-22 20:30:00,Joel Matip,Pass,488
+114453,23,BlockedShot,0.815,0.715,0.024678699672222137,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,548,Liverpool,West Bromwich Albion,2,1,2016-10-22 20:30:00,James Milner,Pass,488
+114455,34,Goal,0.8919999694824219,0.66,0.08736850321292877,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,548,Liverpool,West Bromwich Albion,2,1,2016-10-22 20:30:00,Sadio Mané,Pass,488
+114457,46,BlockedShot,0.879000015258789,0.664000015258789,0.08625379949808121,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,548,Liverpool,West Bromwich Albion,2,1,2016-10-22 20:30:00,Sadio Mané,Pass,488
+114472,85,SavedShot,0.77,0.654000015258789,0.028709299862384796,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,548,Liverpool,West Bromwich Albion,2,1,2016-10-22 20:30:00,Emre Can,Pass,488
+114666,36,SavedShot,0.9030000305175782,0.48200000762939454,0.04936069995164871,Philippe Coutinho,a,488,OpenPlay,2016,Head,2683,Crystal Palace,Liverpool,2,4,2016-10-29 20:30:00,,None,488
+114675,60,MissedShots,0.9119999694824219,0.5840000152587891,0.11017400026321411,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,2683,Crystal Palace,Liverpool,2,4,2016-10-29 20:30:00,Sadio Mané,Cross,488
+114678,78,SavedShot,0.8980000305175782,0.6309999847412109,0.09172219783067703,Philippe Coutinho,a,488,OpenPlay,2016,LeftFoot,2683,Crystal Palace,Liverpool,2,4,2016-10-29 20:30:00,,BallTouch,488
+114680,87,SavedShot,0.89,0.43099998474121093,0.1372849941253662,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,2683,Crystal Palace,Liverpool,2,4,2016-10-29 20:30:00,Sadio Mané,Pass,488
+115193,19,MissedShots,0.88,0.5779999923706055,0.15497499704360962,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,2693,Liverpool,Watford,6,1,2016-11-06 18:15:00,Sadio Mané,TakeOn,488
+115200,29,Goal,0.8180000305175781,0.5029999923706054,0.08151710033416748,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,2693,Liverpool,Watford,6,1,2016-11-06 18:15:00,Roberto Firmino,Pass,488
+115201,36,MissedShots,0.8619999694824219,0.47,0.016885099932551384,Philippe Coutinho,h,488,OpenPlay,2016,Head,2693,Liverpool,Watford,6,1,2016-11-06 18:15:00,Adam Lallana,Aerial,488
+115206,48,MissedShots,0.7469999694824219,0.45099998474121095,0.019498899579048157,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,2693,Liverpool,Watford,6,1,2016-11-06 18:15:00,Sadio Mané,Pass,488
+115218,85,MissedShots,0.8430000305175781,0.5270000076293946,0.11045999825000763,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,2693,Liverpool,Watford,6,1,2016-11-06 18:15:00,Nathaniel Clyne,Pass,488
+115616,32,MissedShots,0.7290000152587891,0.6329999923706054,0.014583599753677845,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,2698,Southampton,Liverpool,0,0,2016-11-19 19:00:00,Emre Can,Pass,488
+115620,48,MissedShots,0.885,0.5729999923706055,0.1154249981045723,Philippe Coutinho,a,488,OpenPlay,2016,LeftFoot,2698,Southampton,Liverpool,0,0,2016-11-19 19:00:00,Roberto Firmino,Pass,488
+115627,81,BlockedShot,0.7759999847412109,0.5,0.030239399522542953,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,2698,Southampton,Liverpool,0,0,2016-11-19 19:00:00,Roberto Firmino,Pass,488
+117563,62,BlockedShot,0.815,0.710999984741211,0.03038249909877777,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Trent Alexander-Arnold,Chipped,488
+116644,20,BlockedShot,0.894000015258789,0.5220000076293946,0.09917949885129929,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3373,Hull,Liverpool,2,0,2017-02-04 15:00:00,,None,488
+116645,34,BlockedShot,0.8059999847412109,0.6569999694824219,0.03175029903650284,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3373,Hull,Liverpool,2,0,2017-02-04 15:00:00,James Milner,Pass,488
+116648,38,BlockedShot,0.7869999694824219,0.29100000381469726,0.017003700137138367,Philippe Coutinho,a,488,SetPiece,2016,RightFoot,3373,Hull,Liverpool,2,0,2017-02-04 15:00:00,James Milner,Pass,488
+116654,56,MissedShots,0.7630000305175781,0.5370000076293945,0.020962800830602646,Philippe Coutinho,a,488,FromCorner,2016,RightFoot,3373,Hull,Liverpool,2,0,2017-02-04 15:00:00,Roberto Firmino,Pass,488
+116660,66,MissedShots,0.95,0.415,0.1258780062198639,Philippe Coutinho,a,488,FromCorner,2016,LeftFoot,3373,Hull,Liverpool,2,0,2017-02-04 15:00:00,,Rebound,488
+117639,12,BlockedShot,0.8809999847412109,0.555,0.09583540260791779,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3386,Liverpool,Tottenham,2,0,2017-02-11 17:30:00,Nathaniel Clyne,BallTouch,488
+117649,31,SavedShot,0.845999984741211,0.545,0.10547000169754028,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3386,Liverpool,Tottenham,2,0,2017-02-11 17:30:00,Roberto Firmino,Pass,488
+117657,73,MissedShots,0.805,0.46700000762939453,0.07003069669008255,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3386,Liverpool,Tottenham,2,0,2017-02-11 17:30:00,Adam Lallana,Pass,488
+118530,23,BlockedShot,0.765,0.46099998474121096,0.02593879960477352,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Roberto Firmino,Pass,488
+118532,29,SavedShot,0.965999984741211,0.620999984741211,0.06737609952688217,Philippe Coutinho,a,488,OpenPlay,2016,LeftFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,,None,488
+118541,53,SavedShot,0.7669999694824219,0.4420000076293945,0.016690300777554512,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,,None,488
+118547,66,BlockedShot,0.7369999694824219,0.42200000762939455,0.01940310001373291,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Joel Matip,Pass,488
+118548,67,Goal,0.8519999694824218,0.534000015258789,0.09190870076417923,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Emre Can,Pass,488
+118554,86,SavedShot,0.8390000152587891,0.46,0.04622260108590126,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Nathaniel Clyne,Cross,488
+119468,27,SavedShot,0.825999984741211,0.545,0.08694340288639069,Philippe Coutinho,h,488,OpenPlay,2016,LeftFoot,3401,Liverpool,Arsenal,3,1,2017-03-04 17:30:00,Georginio Wijnaldum,Pass,488
+119470,31,BlockedShot,0.8540000152587891,0.6029999923706054,0.09906210005283356,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3401,Liverpool,Arsenal,3,1,2017-03-04 17:30:00,Roberto Firmino,Pass,488
+119474,43,SavedShot,0.91,0.49400001525878906,0.5357490181922913,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3401,Liverpool,Arsenal,3,1,2017-03-04 17:30:00,,Rebound,488
+119475,45,BlockedShot,0.8340000152587891,0.509000015258789,0.10453499853610992,Philippe Coutinho,h,488,OpenPlay,2016,LeftFoot,3401,Liverpool,Arsenal,3,1,2017-03-04 17:30:00,Adam Lallana,Chipped,488
+119479,53,BlockedShot,0.789000015258789,0.40700000762939453,0.09346669912338257,Philippe Coutinho,h,488,DirectFreekick,2016,RightFoot,3401,Liverpool,Arsenal,3,1,2017-03-04 17:30:00,,Standard,488
+119483,73,MissedShots,0.799000015258789,0.43,0.059571899473667145,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3401,Liverpool,Arsenal,3,1,2017-03-04 17:30:00,Roberto Firmino,TakeOn,488
+120030,34,MissedShots,0.8519999694824218,0.639000015258789,0.06195300072431564,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3426,Manchester City,Liverpool,1,1,2017-03-19 16:30:00,Georginio Wijnaldum,Pass,488
+119449,18,BlockedShot,0.8690000152587891,0.5979999923706054,0.08393120020627975,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3435,Liverpool,Everton,3,1,2017-04-01 12:30:00,Emre Can,Chipped,488
+119454,30,Goal,0.8719999694824219,0.6309999847412109,0.08212299644947052,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3435,Liverpool,Everton,3,1,2017-04-01 12:30:00,Lucas Leiva,TakeOn,488
+119605,33,MissedShots,0.795,0.225,0.04513530060648918,Philippe Coutinho,h,488,DirectFreekick,2016,RightFoot,3449,Liverpool,Bournemouth,2,2,2017-04-05 20:00:00,,Standard,488
+119607,39,Goal,0.9019999694824219,0.46700000762939453,0.46890199184417725,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3449,Liverpool,Bournemouth,2,2,2017-04-05 20:00:00,Roberto Firmino,Throughball,488
+119608,45,BlockedShot,0.889000015258789,0.4779999923706055,0.057569898664951324,Philippe Coutinho,h,488,OpenPlay,2016,Head,3449,Liverpool,Bournemouth,2,2,2017-04-05 20:00:00,Roberto Firmino,Cross,488
+119610,47,BlockedShot,0.7559999847412109,0.6659999847412109,0.021779999136924744,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3449,Liverpool,Bournemouth,2,2,2017-04-05 20:00:00,James Milner,Pass,488
+119613,57,MissedShots,0.7930000305175782,0.7769999694824219,0.014582700096070766,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3449,Liverpool,Bournemouth,2,2,2017-04-05 20:00:00,,BallRecovery,488
+120213,58,SavedShot,0.775,0.475,0.031694598495960236,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3451,Stoke,Liverpool,1,2,2017-04-08 15:00:00,Nathaniel Clyne,Pass,488
+120215,60,BlockedShot,0.8430000305175781,0.6759999847412109,0.037315599620342255,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3451,Stoke,Liverpool,1,2,2017-04-08 15:00:00,,None,488
+120219,69,Goal,0.88,0.4759999847412109,0.41147100925445557,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3451,Stoke,Liverpool,1,2,2017-04-08 15:00:00,,None,488
+121553,23,MissedShots,0.875999984741211,0.635,0.06403610110282898,Philippe Coutinho,a,488,OpenPlay,2016,LeftFoot,3469,West Bromwich Albion,Liverpool,0,1,2017-04-16 13:30:00,Roberto Firmino,Chipped,488
+121556,33,MissedShots,0.84,0.6930000305175781,0.037199798971414566,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3469,West Bromwich Albion,Liverpool,0,1,2017-04-16 13:30:00,Roberto Firmino,Pass,488
+121563,62,MissedShots,0.769000015258789,0.6179999923706054,0.04295890033245087,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3469,West Bromwich Albion,Liverpool,0,1,2017-04-16 13:30:00,James Milner,TakeOn,488
+121565,75,BlockedShot,0.830999984741211,0.835,0.04142770171165466,Philippe Coutinho,a,488,DirectFreekick,2016,RightFoot,3469,West Bromwich Albion,Liverpool,0,1,2017-04-16 13:30:00,,Standard,488
+120817,19,BlockedShot,0.7669999694824219,0.7230000305175781,0.019057700410485268,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3476,Liverpool,Crystal Palace,1,2,2017-04-23 16:30:00,Georginio Wijnaldum,Pass,488
+120819,22,BlockedShot,0.7480000305175781,0.6029999923706054,0.017342500388622284,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3476,Liverpool,Crystal Palace,1,2,2017-04-23 16:30:00,Roberto Firmino,Pass,488
+120820,23,Goal,0.715999984741211,0.5870000076293945,0.041715700179338455,Philippe Coutinho,h,488,DirectFreekick,2016,RightFoot,3476,Liverpool,Crystal Palace,1,2,2017-04-23 16:30:00,,Standard,488
+120824,49,MissedShots,0.8240000152587891,0.605999984741211,0.053320299834012985,Philippe Coutinho,h,488,OpenPlay,2016,LeftFoot,3476,Liverpool,Crystal Palace,1,2,2017-04-23 16:30:00,Lucas Leiva,Pass,488
+120826,51,BlockedShot,0.8969999694824219,0.509000015258789,0.2934960126876831,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3476,Liverpool,Crystal Palace,1,2,2017-04-23 16:30:00,,TakeOn,488
+120828,55,MissedShots,0.9,0.525,0.08192980289459229,Philippe Coutinho,h,488,OpenPlay,2016,Head,3476,Liverpool,Crystal Palace,1,2,2017-04-23 16:30:00,Nathaniel Clyne,Cross,488
+120835,86,MissedShots,0.710999984741211,0.590999984741211,0.015674499794840813,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3476,Liverpool,Crystal Palace,1,2,2017-04-23 16:30:00,Emre Can,Pass,488
+121530,23,SavedShot,0.7269999694824218,0.6,0.019660500809550285,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3496,Liverpool,Southampton,0,0,2017-05-07 13:30:00,Emre Can,Pass,488
+121540,75,SavedShot,0.8159999847412109,0.45099998474121095,0.05158590152859688,Philippe Coutinho,h,488,OpenPlay,2016,LeftFoot,3496,Liverpool,Southampton,0,0,2017-05-07 13:30:00,Daniel Sturridge,Pass,488
+121546,90,BlockedShot,0.7230000305175781,0.48400001525878905,0.01727999933063984,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3496,Liverpool,Southampton,0,0,2017-05-07 13:30:00,Daniel Sturridge,Pass,488
+120675,14,SavedShot,0.7969999694824219,0.6020000076293945,0.035328298807144165,Philippe Coutinho,a,488,OpenPlay,2016,LeftFoot,3509,West Ham,Liverpool,0,4,2017-05-14 14:15:00,,None,488
+120677,25,MissedShots,0.7269999694824218,0.4520000076293945,0.02032269909977913,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3509,West Ham,Liverpool,0,4,2017-05-14 14:15:00,James Milner,Pass,488
+120678,30,BlockedShot,0.7930000305175782,0.34900001525878904,0.028531599789857864,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3509,West Ham,Liverpool,0,4,2017-05-14 14:15:00,Daniel Sturridge,Pass,488
+120692,56,Goal,0.8,0.475,0.0841682031750679,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3509,West Ham,Liverpool,0,4,2017-05-14 14:15:00,,TakeOn,488
+120694,60,Goal,0.8959999847412109,0.524000015258789,0.4684619903564453,Philippe Coutinho,a,488,OpenPlay,2016,RightFoot,3509,West Ham,Liverpool,0,4,2017-05-14 14:15:00,Georginio Wijnaldum,Pass,488
+120698,71,MissedShots,0.745,0.620999984741211,0.052313100546598434,Philippe Coutinho,a,488,DirectFreekick,2016,RightFoot,3509,West Ham,Liverpool,0,4,2017-05-14 14:15:00,,Standard,488
+112508,22,SavedShot,0.745,0.5359999847412109,0.020826200023293495,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,James Milner,Pass,488
+112510,24,BlockedShot,0.715,0.500999984741211,0.013989600352942944,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,Nathaniel Clyne,Pass,488
+112512,29,MissedShots,0.7530000305175781,0.5790000152587891,0.01898059993982315,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,,None,488
+112518,50,Goal,0.725,0.4329999923706055,0.04693220183253288,Philippe Coutinho,h,488,DirectFreekick,2016,RightFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,,Standard,488
+112523,57,SavedShot,0.8090000152587891,0.45799999237060546,0.10104099661111832,Philippe Coutinho,h,488,OpenPlay,2016,RightFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,Nathaniel Clyne,Pass,488
+158694,17,BlockedShot,0.710999984741211,0.5459999847412109,0.015815699473023415,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7162,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Roberto Firmino,Pass,488
+158697,23,BlockedShot,0.6919999694824219,0.615999984741211,0.013074999675154686,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7162,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Roberto Firmino,Pass,488
+158702,37,BlockedShot,0.8419999694824218,0.5609999847412109,0.08403140306472778,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7162,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Emre Can,Pass,488
+158709,49,MissedShots,0.7330000305175781,0.525,0.01788190007209778,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7162,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Ragnar Klavan,TakeOn,488
+158710,50,MissedShots,0.799000015258789,0.5690000152587891,0.04110829904675484,Philippe Coutinho,h,488,OpenPlay,2017,LeftFoot,7162,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Mohamed Salah,Pass,488
+158713,57,BlockedShot,0.8,0.629000015258789,0.02859029918909073,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7162,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Andrew Robertson,Pass,488
+158721,76,MissedShots,0.7169999694824218,0.5829999923706055,0.016864199191331863,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7162,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Trent Alexander-Arnold,Pass,488
+159344,12,BlockedShot,0.8180000305175781,0.6990000152587891,0.024701600894331932,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Alberto Moreno,Pass,488
+159350,22,Goal,0.7480000305175781,0.585,0.0584460012614727,Philippe Coutinho,a,488,DirectFreekick,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,,Standard,488
+159359,46,SavedShot,0.9030000305175782,0.74,0.038052499294281006,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Emre Can,HeadPass,488
+159362,60,BlockedShot,0.799000015258789,0.7030000305175781,0.02507619932293892,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Jordan Henderson,Pass,488
+159365,66,BlockedShot,0.9119999694824219,0.6719999694824219,0.10560999810695648,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,,TakeOn,488
+160283,28,Goal,0.7709999847412109,0.710999984741211,0.014218700118362904,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7188,Newcastle United,Liverpool,1,1,2017-10-01 16:30:00,,None,488
+160284,32,MissedShots,0.7559999847412109,0.41200000762939454,0.030163099989295006,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7188,Newcastle United,Liverpool,1,1,2017-10-01 16:30:00,Jordan Henderson,Pass,488
+160290,51,BlockedShot,0.7580000305175781,0.6040000152587891,0.00876483041793108,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7188,Newcastle United,Liverpool,1,1,2017-10-01 16:30:00,Alberto Moreno,Chipped,488
+160291,55,BlockedShot,0.720999984741211,0.5770000076293945,0.04445619881153107,Philippe Coutinho,a,488,DirectFreekick,2017,RightFoot,7188,Newcastle United,Liverpool,1,1,2017-10-01 16:30:00,,Standard,488
+160294,84,BlockedShot,0.740999984741211,0.555,0.017455700784921646,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7188,Newcastle United,Liverpool,1,1,2017-10-01 16:30:00,Roberto Firmino,Pass,488
+160499,33,BlockedShot,0.8130000305175781,0.4370000076293945,0.057247698307037354,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7193,Liverpool,Manchester United,0,0,2017-10-14 12:30:00,Mohamed Salah,Pass,488
+160508,54,BlockedShot,0.7619999694824219,0.47400001525878904,0.01574539951980114,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7193,Liverpool,Manchester United,0,0,2017-10-14 12:30:00,Roberto Firmino,Chipped,488
+159656,66,SavedShot,0.8069999694824219,0.525,0.053833600133657455,Philippe Coutinho,a,488,OpenPlay,2017,LeftFoot,7207,Tottenham,Liverpool,4,1,2017-10-22 16:00:00,Mohamed Salah,Pass,488
+159659,72,SavedShot,0.765,0.654000015258789,0.02828340046107769,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7207,Tottenham,Liverpool,4,1,2017-10-22 16:00:00,Joseph Gomez,TakeOn,488
+160811,7,BlockedShot,0.7219999694824218,0.40599998474121096,0.015088600106537342,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7231,Liverpool,Southampton,3,0,2017-11-18 15:00:00,Georginio Wijnaldum,Pass,488
+160817,21,SavedShot,0.754000015258789,0.46599998474121096,0.04642169922590256,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7231,Liverpool,Southampton,3,0,2017-11-18 15:00:00,Georginio Wijnaldum,Pass,488
+160818,23,MissedShots,0.740999984741211,0.6580000305175782,0.04557010158896446,Philippe Coutinho,h,488,DirectFreekick,2017,RightFoot,7231,Liverpool,Southampton,3,0,2017-11-18 15:00:00,,Standard,488
+160830,62,MissedShots,0.8680000305175781,0.45799999237060546,0.10347899794578552,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7231,Liverpool,Southampton,3,0,2017-11-18 15:00:00,Mohamed Salah,TakeOn,488
+160833,67,Goal,0.8819999694824219,0.48,0.43885600566864014,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7231,Liverpool,Southampton,3,0,2017-11-18 15:00:00,,Rebound,488
+161288,52,BlockedShot,0.715999984741211,0.5609999847412109,0.043097298592329025,Philippe Coutinho,h,488,DirectFreekick,2017,RightFoot,7244,Liverpool,Chelsea,1,1,2017-11-25 17:30:00,,Standard,488
+161290,53,BlockedShot,0.96,0.7609999847412109,0.032951198518276215,Philippe Coutinho,h,488,FromCorner,2017,RightFoot,7244,Liverpool,Chelsea,1,1,2017-11-25 17:30:00,Daniel Sturridge,Rebound,488
+161545,41,SavedShot,0.750999984741211,0.649000015258789,0.020670000463724136,Philippe Coutinho,a,488,SetPiece,2017,RightFoot,7268,Brighton,Liverpool,1,5,2017-12-02 15:00:00,James Milner,Pass,488
+161549,61,MissedShots,0.870999984741211,0.799000015258789,0.06105329841375351,Philippe Coutinho,a,488,DirectFreekick,2017,RightFoot,7268,Brighton,Liverpool,1,5,2017-12-02 15:00:00,,Standard,488
+161551,65,BlockedShot,0.8030000305175782,0.5829999923706055,0.06249700114130974,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7268,Brighton,Liverpool,1,5,2017-12-02 15:00:00,Mohamed Salah,Pass,488
+161555,86,Goal,0.78,0.5629999923706055,0.08975669741630554,Philippe Coutinho,a,488,DirectFreekick,2017,RightFoot,7268,Brighton,Liverpool,1,5,2017-12-02 15:00:00,,Standard,488
+161556,88,MissedShots,0.865999984741211,0.6459999847412109,0.061808399856090546,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7268,Brighton,Liverpool,1,5,2017-12-02 15:00:00,Georginio Wijnaldum,TakeOn,488
+179244,85,SavedShot,0.725,0.4909999847412109,0.04894590005278587,Philippe Coutinho,h,488,DirectFreekick,2017,RightFoot,7275,Liverpool,Everton,1,1,2017-12-10 14:15:00,,Standard,488
+179245,86,BlockedShot,0.7519999694824219,0.4229999923706055,0.021100500598549843,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7275,Liverpool,Everton,1,1,2017-12-10 14:15:00,Danny Ings,Pass,488
+185334,30,SavedShot,0.745,0.6270000076293946,0.019764600321650505,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7287,Liverpool,West Bromwich Albion,0,0,2017-12-13 20:00:00,Emre Can,Pass,488
+185341,63,SavedShot,0.7069999694824218,0.4540000152587891,0.039973799139261246,Philippe Coutinho,h,488,DirectFreekick,2017,RightFoot,7287,Liverpool,West Bromwich Albion,0,0,2017-12-13 20:00:00,,Standard,488
+183190,2,MissedShots,0.8730000305175781,0.6040000152587891,0.013869499787688255,Philippe Coutinho,a,488,OpenPlay,2017,Head,7290,Bournemouth,Liverpool,0,4,2017-12-17 16:30:00,Alex Oxlade-Chamberlain,Cross,488
+183191,10,ShotOnPost,0.8190000152587891,0.33,0.09426009654998779,Philippe Coutinho,a,488,DirectFreekick,2017,RightFoot,7290,Bournemouth,Liverpool,0,4,2017-12-17 16:30:00,,Standard,488
+183192,10,MissedShots,0.754000015258789,0.6329999923706054,0.016448000445961952,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7290,Bournemouth,Liverpool,0,4,2017-12-17 16:30:00,Alex Oxlade-Chamberlain,Pass,488
+183195,19,Goal,0.8669999694824219,0.5609999847412109,0.10407999902963638,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7290,Bournemouth,Liverpool,0,4,2017-12-17 16:30:00,Andrew Robertson,Pass,488
+183210,68,BlockedShot,0.8530000305175781,0.4329999923706055,0.11179699748754501,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7290,Bournemouth,Liverpool,0,4,2017-12-17 16:30:00,Mohamed Salah,Pass,488
+183211,73,MissedShots,0.91,0.5420000076293945,0.4402320086956024,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7290,Bournemouth,Liverpool,0,4,2017-12-17 16:30:00,Roberto Firmino,Foul,488
+183213,85,MissedShots,0.7330000305175781,0.43099998474121093,0.02352830022573471,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,7290,Bournemouth,Liverpool,0,4,2017-12-17 16:30:00,Jordan Henderson,Pass,488
+182879,13,MissedShots,0.7659999847412109,0.37099998474121093,0.018693499267101288,Philippe Coutinho,a,488,OpenPlay,2017,LeftFoot,7301,Arsenal,Liverpool,3,3,2017-12-22 19:45:00,Mohamed Salah,Pass,488
+182882,25,Goal,0.955,0.44799999237060545,0.4840719997882843,Philippe Coutinho,a,488,OpenPlay,2017,Head,7301,Arsenal,Liverpool,3,3,2017-12-22 19:45:00,,None,488
+185653,5,Goal,0.775,0.5529999923706055,0.03125390037894249,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7313,Liverpool,Swansea,5,0,2017-12-26 17:30:00,Mohamed Salah,Pass,488
+185662,39,BlockedShot,0.8569999694824219,0.6359999847412109,0.10923399776220322,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7313,Liverpool,Swansea,5,0,2017-12-26 17:30:00,,TakeOn,488
+185669,57,BlockedShot,0.7780000305175782,0.6659999847412109,0.026878099888563156,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7313,Liverpool,Swansea,5,0,2017-12-26 17:30:00,,BallRecovery,488
+185680,91,BlockedShot,0.8130000305175781,0.639000015258789,0.10440400242805481,Philippe Coutinho,h,488,DirectFreekick,2017,RightFoot,7313,Liverpool,Swansea,5,0,2017-12-26 17:30:00,,Standard,488
+186010,14,SavedShot,0.7130000305175781,0.605999984741211,0.014894399791955948,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7323,Liverpool,Leicester,2,1,2017-12-30 15:00:00,Sadio Mané,Pass,488
+186015,27,BlockedShot,0.764000015258789,0.48700000762939455,0.011763700284063816,Philippe Coutinho,h,488,OpenPlay,2017,LeftFoot,7323,Liverpool,Leicester,2,1,2017-12-30 15:00:00,,Aerial,488
+186017,30,BlockedShot,0.8690000152587891,0.3970000076293945,0.07721959799528122,Philippe Coutinho,h,488,OpenPlay,2017,LeftFoot,7323,Liverpool,Leicester,2,1,2017-12-30 15:00:00,Joseph Gomez,Pass,488
+186027,74,SavedShot,0.8669999694824219,0.6459999847412109,0.06685519963502884,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,7323,Liverpool,Leicester,2,1,2017-12-30 15:00:00,Alex Oxlade-Chamberlain,Pass,488
+190518,31,BlockedShot,0.825,0.48700000762939455,0.05339920148253441,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,8081,Barcelona,Alaves,2,1,2018-01-28 19:45:00,,None,488
+196122,21,ShotOnPost,0.8180000305175781,0.66,0.033666498959064484,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,8093,Espanyol,Barcelona,1,1,2018-02-04 15:15:00,Lucas Digne,Pass,488
+196124,26,BlockedShot,0.7290000152587891,0.48700000762939455,0.018059400841593742,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,8093,Espanyol,Barcelona,1,1,2018-02-04 15:15:00,Paco Alcácer,LayOff,488
+195488,49,SavedShot,0.7190000152587891,0.7069999694824218,0.017037300392985344,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,8104,Barcelona,Getafe,0,0,2018-02-11 15:15:00,Jordi Alba,Pass,488
+195492,57,SavedShot,0.7680000305175781,0.700999984741211,0.021896500140428543,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,8104,Barcelona,Getafe,0,0,2018-02-11 15:15:00,Ivan Rakitic,Pass,488
+197664,25,BlockedShot,0.7809999847412109,0.6609999847412109,0.025770200416445732,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Sergio Busquets,Pass,488
+197676,58,SavedShot,0.7719999694824219,0.649000015258789,0.03846390172839165,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Luis Suárez,Pass,488
+197677,65,Goal,0.785,0.7,0.021566400304436684,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,8122,Barcelona,Girona,6,1,2018-02-24 19:45:00,Luis Suárez,Pass,488
+199422,33,SavedShot,0.785,0.36700000762939455,0.03621029853820801,Philippe Coutinho,h,488,OpenPlay,2017,LeftFoot,8146,Barcelona,Atletico Madrid,1,0,2018-03-04 15:15:00,Luis Suárez,Pass,488
+199423,36,SavedShot,0.8690000152587891,0.7119999694824218,0.04756850004196167,Philippe Coutinho,h,488,OpenPlay,2017,LeftFoot,8146,Barcelona,Atletico Madrid,1,0,2018-03-04 15:15:00,Lionel Messi,Pass,488
+200391,3,BlockedShot,0.8969999694824219,0.7330000305175781,0.0392347015440464,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,8156,Malaga,Barcelona,0,2,2018-03-10 19:45:00,,None,488
+200396,27,Goal,0.9490000152587891,0.4759999847412109,0.1526149958372116,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,8156,Malaga,Barcelona,0,2,2018-03-10 19:45:00,Ousmane Dembélé,Pass,488
+200400,37,SavedShot,0.7290000152587891,0.5690000152587891,0.02785939909517765,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,8156,Malaga,Barcelona,0,2,2018-03-10 19:45:00,Ousmane Dembélé,Pass,488
+200402,41,SavedShot,0.9069999694824219,0.565,0.4571009874343872,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,8156,Malaga,Barcelona,0,2,2018-03-10 19:45:00,Paulinho,Pass,488
+200408,57,MissedShots,0.71,0.669000015258789,0.017576200887560844,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,8156,Malaga,Barcelona,0,2,2018-03-10 19:45:00,Luis Suárez,Pass,488
+200409,59,BlockedShot,0.8430000305175781,0.54,0.10905399918556213,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,8156,Malaga,Barcelona,0,2,2018-03-10 19:45:00,Sergio Busquets,Pass,488
+200413,69,SavedShot,0.775,0.580999984741211,0.05031460151076317,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,8156,Malaga,Barcelona,0,2,2018-03-10 19:45:00,Ousmane Dembélé,Pass,488
+202106,13,ShotOnPost,0.905,0.6480000305175782,0.09167130291461945,Philippe Coutinho,h,488,OpenPlay,2017,LeftFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Jordi Alba,Pass,488
+202111,33,ShotOnPost,0.9690000152587891,0.5420000076293945,0.854453980922699,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Paulinho,Throughball,488
+202120,57,SavedShot,0.8680000305175781,0.6409999847412109,0.08146189898252487,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,8167,Barcelona,Athletic Club,2,0,2018-03-18 15:15:00,Lionel Messi,Pass,488
+204785,17,SavedShot,0.7240000152587891,0.63,0.01821189932525158,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,8177,Sevilla,Barcelona,2,2,2018-03-31 00:00:00,Andrés Iniesta,Pass,488
+204802,55,BlockedShot,0.855,0.6659999847412109,0.04658529907464981,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,8177,Sevilla,Barcelona,2,2,2018-03-31 00:00:00,Andrés Iniesta,TakeOn,488
+207787,15,SavedShot,0.8719999694824219,0.700999984741211,0.03945320099592209,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,8182,Barcelona,Leganes,3,1,2018-04-07 18:45:00,Sergi Roberto,Pass,488
+208534,58,MissedShots,0.779000015258789,0.38,0.04436599835753441,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,8197,Barcelona,Valencia,2,1,2018-04-14 14:15:00,Luis Suárez,TakeOn,488
+209581,39,MissedShots,0.7609999847412109,0.634000015258789,0.017312299460172653,Philippe Coutinho,a,488,FromCorner,2017,RightFoot,8208,Celta Vigo,Barcelona,2,2,2018-04-17 19:00:00,,None,488
+212610,6,Goal,0.8590000152587891,0.42700000762939455,0.0943002998828888,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,8227,Deportivo La Coruna,Barcelona,2,4,2018-04-29 15:00:00,Ousmane Dembélé,Pass,488
+212614,24,BlockedShot,0.8159999847412109,0.53,0.07130579650402069,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,8227,Deportivo La Coruna,Barcelona,2,4,2018-04-29 15:00:00,Lionel Messi,Pass,488
+212618,30,MissedShots,0.785,0.524000015258789,0.04665619879961014,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,8227,Deportivo La Coruna,Barcelona,2,4,2018-04-29 15:00:00,Ousmane Dembélé,Pass,488
+212624,40,SavedShot,0.7559999847412109,0.61,0.02892789989709854,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,8227,Deportivo La Coruna,Barcelona,2,4,2018-04-29 15:00:00,Lionel Messi,Pass,488
+214272,10,Goal,0.95,0.519000015258789,0.6438429951667786,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,8217,Barcelona,Villarreal,5,1,2018-05-09 19:00:00,,Rebound,488
+214275,19,BlockedShot,0.7559999847412109,0.61,0.014069600030779839,Philippe Coutinho,h,488,SetPiece,2017,RightFoot,8217,Barcelona,Villarreal,5,1,2018-05-09 19:00:00,,None,488
+214287,58,BlockedShot,0.815,0.615999984741211,0.021410200744867325,Philippe Coutinho,h,488,FromCorner,2017,RightFoot,8217,Barcelona,Villarreal,5,1,2018-05-09 19:00:00,Lionel Messi,Chipped,488
+215858,37,Goal,0.8209999847412109,0.5270000076293946,0.06880509853363037,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,8246,Levante,Barcelona,5,4,2018-05-13 19:45:00,Luis Suárez,Pass,488
+215870,58,Goal,0.9119999694824219,0.48,0.3896239995956421,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,8246,Levante,Barcelona,5,4,2018-05-13 19:45:00,,Rebound,488
+215871,63,Goal,0.8069999694824219,0.5070000076293946,0.03435879945755005,Philippe Coutinho,a,488,SetPiece,2017,RightFoot,8246,Levante,Barcelona,5,4,2018-05-13 19:45:00,Sergio Busquets,Pass,488
+215877,83,MissedShots,0.825999984741211,0.6680000305175782,0.054103199392557144,Philippe Coutinho,a,488,OpenPlay,2017,RightFoot,8246,Levante,Barcelona,5,4,2018-05-13 19:45:00,,TakeOn,488
+216622,56,Goal,0.750999984741211,0.67,0.01855349913239479,Philippe Coutinho,h,488,OpenPlay,2017,RightFoot,8258,Barcelona,Real Sociedad,1,0,2018-05-20 16:00:00,Luis Suárez,Pass,488
+218421,54,BlockedShot,0.7759999847412109,0.73,0.016284700483083725,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,9961,Barcelona,Alaves,3,0,2018-08-18 23:15:00,Jordi Alba,Pass,488
+218424,60,BlockedShot,0.8169999694824219,0.6569999694824219,0.04065990075469017,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,9961,Barcelona,Alaves,3,0,2018-08-18 23:15:00,,Dispossessed,488
+218430,81,SavedShot,0.9269999694824219,0.6,0.3878760039806366,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,9961,Barcelona,Alaves,3,0,2018-08-18 23:15:00,Lionel Messi,Throughball,488
+218431,82,Goal,0.8580000305175781,0.6020000076293945,0.09210489690303802,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,9961,Barcelona,Alaves,3,0,2018-08-18 23:15:00,Arthur,Pass,488
+220507,34,SavedShot,0.8119999694824219,0.6580000305175782,0.035431601107120514,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,9971,Real Valladolid,Barcelona,0,1,2018-08-25 23:15:00,Sergio Busquets,Pass,488
+222457,23,BlockedShot,0.7559999847412109,0.49,0.028956200927495956,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,9985,Barcelona,SD Huesca,8,2,2018-09-02 16:30:00,Lionel Messi,TakeOn,488
+222467,43,SavedShot,0.9069999694824219,0.669000015258789,0.0803908035159111,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,9985,Barcelona,SD Huesca,8,2,2018-09-02 16:30:00,Jordi Alba,Pass,488
+222468,44,MissedShots,0.7519999694824219,0.4370000076293945,0.041280001401901245,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,9985,Barcelona,SD Huesca,8,2,2018-09-02 16:30:00,Sergio Busquets,TakeOn,488
+222475,56,SavedShot,0.89,0.5729999923706055,0.4819299876689911,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,9985,Barcelona,SD Huesca,8,2,2018-09-02 16:30:00,Luis Suárez,TakeOn,488
+222476,59,BlockedShot,0.7880000305175782,0.5829999923706055,0.04520529881119728,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,9985,Barcelona,SD Huesca,8,2,2018-09-02 16:30:00,Ousmane Dembélé,Pass,488
+223642,64,SavedShot,0.7669999694824219,0.639000015258789,0.023861000314354897,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,9989,Real Sociedad,Barcelona,1,2,2018-09-15 14:15:00,Lionel Messi,Pass,488
+226084,66,BlockedShot,0.7959999847412109,0.695,0.025525400415062904,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,9997,Barcelona,Girona,2,2,2018-09-23 18:45:00,Lionel Messi,Pass,488
+226086,72,BlockedShot,0.845,0.75,0.026822900399565697,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,9997,Barcelona,Girona,2,2,2018-09-23 18:45:00,Lionel Messi,Pass,488
+226089,82,SavedShot,0.7440000152587891,0.6659999847412109,0.021623900160193443,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,9997,Barcelona,Girona,2,2,2018-09-23 18:45:00,Jordi Alba,Pass,488
+226090,87,MissedShots,0.735,0.605999984741211,0.02029220014810562,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,9997,Barcelona,Girona,2,2,2018-09-23 18:45:00,Lionel Messi,Pass,488
+226626,11,Goal,0.8109999847412109,0.5420000076293945,0.05295199900865555,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,10013,Leganes,Barcelona,2,1,2018-09-26 18:00:00,Lionel Messi,Pass,488
+226639,79,SavedShot,0.8730000305175781,0.675,0.03324979916214943,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,10013,Leganes,Barcelona,2,1,2018-09-26 18:00:00,Luis Suárez,Cross,488
+228102,38,MissedShots,0.855,0.7030000305175781,0.04144350066781044,Philippe Coutinho,h,488,FromCorner,2018,LeftFoot,10020,Barcelona,Athletic Club,1,1,2018-09-29 14:15:00,,TakeOn,488
+228104,42,SavedShot,0.9080000305175782,0.44799999237060545,0.20468400418758392,Philippe Coutinho,h,488,OpenPlay,2018,Head,10020,Barcelona,Athletic Club,1,1,2018-09-29 14:15:00,Luis Suárez,Chipped,488
+228105,45,SavedShot,0.855999984741211,0.5320000076293945,0.06469020247459412,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10020,Barcelona,Athletic Club,1,1,2018-09-29 14:15:00,,None,488
+228107,61,ShotOnPost,0.9130000305175782,0.629000015258789,0.05528470128774643,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10020,Barcelona,Athletic Club,1,1,2018-09-29 14:15:00,Ousmane Dembélé,Cross,488
+258156,49,SavedShot,0.8230000305175781,0.715,0.025051599368453026,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,10030,Valencia,Barcelona,1,1,2018-10-07 18:45:00,,None,488
+258290,1,Goal,0.855,0.5540000152587891,0.3863140046596527,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10037,Barcelona,Sevilla,4,2,2018-10-20 18:45:00,Lionel Messi,Throughball,488
+258299,35,MissedShots,0.7440000152587891,0.625,0.019756099209189415,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10037,Barcelona,Sevilla,4,2,2018-10-20 18:45:00,Luis Suárez,Pass,488
+258306,51,SavedShot,0.7909999847412109,0.8080000305175781,0.026288999244570732,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10037,Barcelona,Sevilla,4,2,2018-10-20 18:45:00,Jordi Alba,Pass,488
+258318,71,BlockedShot,0.92,0.7169999694824218,0.06912410259246826,Philippe Coutinho,h,488,OpenPlay,2018,LeftFoot,10037,Barcelona,Sevilla,4,2,2018-10-20 18:45:00,Sergi Roberto,Pass,488
+258324,82,SavedShot,0.6819999694824219,0.48200000762939454,0.03655340149998665,Philippe Coutinho,h,488,DirectFreekick,2018,RightFoot,10037,Barcelona,Sevilla,4,2,2018-10-20 18:45:00,,Standard,488
+258641,10,Goal,0.9069999694824219,0.47,0.48524999618530273,Philippe Coutinho,h,488,OpenPlay,2018,LeftFoot,10047,Barcelona,Real Madrid,5,1,2018-10-28 14:15:00,Jordi Alba,Pass,488
+258642,12,BlockedShot,0.855999984741211,0.6430000305175781,0.06820020079612732,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10047,Barcelona,Real Madrid,5,1,2018-10-28 14:15:00,Luis Suárez,Pass,488
+258802,15,BlockedShot,0.825999984741211,0.47,0.045433398336172104,Philippe Coutinho,a,488,OpenPlay,2018,LeftFoot,10060,Rayo Vallecano,Barcelona,2,3,2018-11-03 19:45:00,Sergi Roberto,Cross,488
+259676,76,MissedShots,0.759000015258789,0.6270000076293946,0.028404600918293,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10095,Barcelona,Villarreal,2,0,2018-12-02 17:30:00,Lionel Messi,Pass,488
+259860,68,SavedShot,0.8859999847412109,0.67,0.09729120135307312,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,10100,Espanyol,Barcelona,0,4,2018-12-08 19:45:00,Jordi Alba,Chipped,488
+260242,84,MissedShots,0.815,0.53,0.08204060047864914,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,10110,Levante,Barcelona,0,5,2018-12-16 19:45:00,Lionel Messi,Pass,488
+260371,89,BlockedShot,0.7319999694824219,0.66,0.028477700427174568,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10117,Barcelona,Celta Vigo,2,0,2018-12-22 17:30:00,Ivan Rakitic,Pass,488
+280248,56,SavedShot,0.9769999694824218,0.67,0.12891800701618195,Philippe Coutinho,h,488,OpenPlay,2018,LeftFoot,10144,Barcelona,Eibar,3,0,2019-01-13 17:30:00,Lionel Messi,Throughball,488
+280496,8,BlockedShot,0.88,0.5829999923706055,0.07779990136623383,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,,None,488
+280502,44,MissedShots,0.8380000305175781,0.47900001525878905,0.09523259848356247,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,Ousmane Dembélé,Pass,488
+280503,47,MissedShots,0.8590000152587891,0.37400001525878906,0.07493890076875687,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10148,Barcelona,Leganes,3,1,2019-01-20 19:45:00,,None,488
+280679,15,SavedShot,0.86,0.5940000152587891,0.35324299335479736,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,10161,Girona,Barcelona,0,2,2019-01-27 15:15:00,Lionel Messi,Throughball,488
+280696,71,BlockedShot,0.8,0.6730000305175782,0.04729370027780533,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,10161,Girona,Barcelona,0,2,2019-01-27 15:15:00,Ivan Rakitic,Pass,488
+280702,90,BlockedShot,0.960999984741211,0.28200000762939453,0.3271400034427643,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,10161,Girona,Barcelona,0,2,2019-01-27 15:15:00,Luis Suárez,Throughball,488
+280860,14,SavedShot,0.7669999694824219,0.69,0.022603899240493774,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10167,Barcelona,Valencia,2,2,2019-02-02 17:30:00,Arturo Vidal,Pass,488
+280881,71,MissedShots,0.720999984741211,0.6819999694824219,0.04084840044379234,Philippe Coutinho,h,488,DirectFreekick,2018,RightFoot,10167,Barcelona,Valencia,2,2,2019-02-02 17:30:00,,Standard,488
+280882,75,BlockedShot,0.8630000305175781,0.655,0.061171598732471466,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10167,Barcelona,Valencia,2,2,2019-02-02 17:30:00,Jordi Alba,Pass,488
+281238,48,BlockedShot,0.7969999694824219,0.6020000076293945,0.030890900641679764,Philippe Coutinho,a,488,SetPiece,2018,RightFoot,10184,Athletic Club,Barcelona,0,0,2019-02-10 19:45:00,,BallTouch,488
+281412,93,MissedShots,0.774000015258789,0.5029999923706054,0.049735598266124725,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10187,Barcelona,Real Valladolid,1,0,2019-02-16 19:45:00,Luis Suárez,Dispossessed,488
+281597,10,SavedShot,0.775,0.735999984741211,0.021796900779008865,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,10198,Sevilla,Barcelona,2,4,2019-02-23 15:15:00,Jordi Alba,Pass,488
+281603,43,BlockedShot,0.835999984741211,0.5879999923706055,0.06164449825882912,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,10198,Sevilla,Barcelona,2,4,2019-02-23 15:15:00,Luis Suárez,Pass,488
+284683,23,SavedShot,0.8640000152587891,0.580999984741211,0.3744109869003296,Philippe Coutinho,h,488,OpenPlay,2018,LeftFoot,10223,Barcelona,Rayo Vallecano,3,1,2019-03-09 17:30:00,Lionel Messi,Pass,488
+284691,62,BlockedShot,0.779000015258789,0.5670000076293945,0.04218050092458725,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10223,Barcelona,Rayo Vallecano,3,1,2019-03-09 17:30:00,Ousmane Dembélé,Pass,488
+287635,67,MissedShots,0.8590000152587891,0.6309999847412109,0.058899398893117905,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10241,Barcelona,Espanyol,2,0,2019-03-30 15:15:00,,None,488
+291091,11,Goal,0.97,0.5129999923706055,0.8529850244522095,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,10250,Villarreal,Barcelona,4,4,2019-04-02 20:30:00,Malcom,Pass,488
+291094,18,ShotOnPost,0.905,0.4520000076293945,0.5544250011444092,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,10250,Villarreal,Barcelona,4,4,2019-04-02 20:30:00,Luis Suárez,Throughball,488
+291095,22,SavedShot,0.7680000305175781,0.6329999923706054,0.0509365014731884,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,10250,Villarreal,Barcelona,4,4,2019-04-02 20:30:00,Luis Suárez,LayOff,488
+292324,9,BlockedShot,0.7580000305175781,0.6819999694824219,0.021485300734639168,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10261,Barcelona,Atletico Madrid,2,0,2019-04-06 19:45:00,Arthur,TakeOn,488
+292331,26,SavedShot,0.8519999694824218,0.54,0.3106279969215393,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10261,Barcelona,Atletico Madrid,2,0,2019-04-06 19:45:00,Luis Suárez,TakeOn,488
+292334,47,SavedShot,0.9390000152587891,0.6,0.09147650003433228,Philippe Coutinho,h,488,OpenPlay,2018,Head,10261,Barcelona,Atletico Madrid,2,0,2019-04-06 19:45:00,Luis Suárez,Chipped,488
+295714,88,BlockedShot,0.785,0.610999984741211,0.03921689838171005,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10285,Barcelona,Real Sociedad,2,1,2019-04-20 19:45:00,Jordi Alba,Pass,488
+296561,5,BlockedShot,0.865,0.5459999847412109,0.08820120245218277,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,10287,Alaves,Barcelona,0,2,2019-04-23 20:30:00,,Rebound,488
+296564,21,BlockedShot,0.750999984741211,0.6659999847412109,0.01857919991016388,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,10287,Alaves,Barcelona,0,2,2019-04-23 20:30:00,Sergi Roberto,Pass,488
+296565,22,SavedShot,0.7680000305175781,0.7440000152587891,0.01580839976668358,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,10287,Alaves,Barcelona,0,2,2019-04-23 20:30:00,Luis Suárez,Pass,488
+296570,44,BlockedShot,0.7659999847412109,0.4640000152587891,0.02565860003232956,Philippe Coutinho,a,488,OpenPlay,2018,RightFoot,10287,Alaves,Barcelona,0,2,2019-04-23 20:30:00,,None,488
+296581,89,MissedShots,0.8919999694824219,0.645,0.09887020289897919,Philippe Coutinho,a,488,OpenPlay,2018,LeftFoot,10287,Alaves,Barcelona,0,2,2019-04-23 20:30:00,Lionel Messi,Pass,488
+297615,1,BlockedShot,0.740999984741211,0.49,0.023939700797200203,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10305,Barcelona,Levante,1,0,2019-04-27 19:45:00,Arthur,Pass,488
+297617,4,SavedShot,0.7380000305175781,0.51,0.021517600864171982,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10305,Barcelona,Levante,1,0,2019-04-27 19:45:00,,TakeOn,488
+297621,24,SavedShot,0.895,0.6309999847412109,0.08109519630670547,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10305,Barcelona,Levante,1,0,2019-04-27 19:45:00,Arthur,Pass,488
+297622,25,SavedShot,0.9209999847412109,0.49599998474121093,0.3681040108203888,Philippe Coutinho,h,488,OpenPlay,2018,Head,10305,Barcelona,Levante,1,0,2019-04-27 19:45:00,Jordi Alba,Chipped,488
+297623,26,SavedShot,0.805,0.6329999923706054,0.03229239955544472,Philippe Coutinho,h,488,OpenPlay,2018,RightFoot,10305,Barcelona,Levante,1,0,2019-04-27 19:45:00,Jordi Alba,Pass,488
+297625,40,ShotOnPost,0.7880000305175782,0.7269999694824218,0.06109920144081116,Philippe Coutinho,h,488,DirectFreekick,2018,RightFoot,10305,Barcelona,Levante,1,0,2019-04-27 19:45:00,,Standard,488
+320273,4,BlockedShot,0.8059999847412109,0.6140000152587891,0.027471300214529037,Philippe Coutinho,h,488,FromCorner,2019,RightFoot,12442,Bayern Munich,FC Cologne,4,0,2019-09-21 13:30:00,,None,488
+320274,13,ShotOnPost,0.8019999694824219,0.7419999694824219,0.05950729921460152,Philippe Coutinho,h,488,DirectFreekick,2019,RightFoot,12442,Bayern Munich,FC Cologne,4,0,2019-09-21 13:30:00,,Standard,488
+320283,42,BlockedShot,0.9119999694824219,0.33799999237060546,0.07860539853572845,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12442,Bayern Munich,FC Cologne,4,0,2019-09-21 13:30:00,,None,488
+320291,61,Goal,0.885,0.5,0.7577769756317139,Philippe Coutinho,h,488,Penalty,2019,RightFoot,12442,Bayern Munich,FC Cologne,4,0,2019-09-21 13:30:00,,Standard,488
+320299,75,BlockedShot,0.8780000305175781,0.6229999923706054,0.07973740249872208,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12442,Bayern Munich,FC Cologne,4,0,2019-09-21 13:30:00,Ivan Perisic,BallRecovery,488
+322649,7,MissedShots,0.89,0.5520000076293945,0.08405070006847382,Philippe Coutinho,a,488,OpenPlay,2019,LeftFoot,12449,Paderborn,Bayern Munich,2,3,2019-09-28 13:30:00,Kingsley Coman,Cross,488
+322657,39,BlockedShot,0.8959999847412109,0.40299999237060546,0.11020199954509735,Philippe Coutinho,a,488,OpenPlay,2019,LeftFoot,12449,Paderborn,Bayern Munich,2,3,2019-09-28 13:30:00,,Rebound,488
+322660,48,BlockedShot,0.769000015258789,0.6840000152587891,0.022330500185489655,Philippe Coutinho,a,488,OpenPlay,2019,RightFoot,12449,Paderborn,Bayern Munich,2,3,2019-09-28 13:30:00,Kingsley Coman,Pass,488
+322662,54,Goal,0.9319999694824219,0.5359999847412109,0.5835340023040771,Philippe Coutinho,a,488,OpenPlay,2019,RightFoot,12449,Paderborn,Bayern Munich,2,3,2019-09-28 13:30:00,Serge Gnabry,Pass,488
+322674,93,MissedShots,0.7619999694824219,0.5720000076293945,0.07495100051164627,Philippe Coutinho,a,488,DirectFreekick,2019,RightFoot,12449,Paderborn,Bayern Munich,2,3,2019-09-28 13:30:00,,Standard,488
+324003,33,MissedShots,0.7280000305175781,0.4520000076293945,0.02010989934206009,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12461,Bayern Munich,Hoffenheim,1,2,2019-10-05 14:30:00,Corentin Tolisso,Pass,488
+324009,59,BlockedShot,0.754000015258789,0.3340000152587891,0.018587399274110794,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12461,Bayern Munich,Hoffenheim,1,2,2019-10-05 14:30:00,Serge Gnabry,Pass,488
+325387,49,MissedShots,0.924000015258789,0.48200000762939454,0.1357630044221878,Philippe Coutinho,a,488,OpenPlay,2019,LeftFoot,12466,Augsburg,Bayern Munich,2,2,2019-10-19 14:30:00,Robert Lewandowski,Cross,488
+325388,50,MissedShots,0.715999984741211,0.72,0.017661500722169876,Philippe Coutinho,a,488,OpenPlay,2019,RightFoot,12466,Augsburg,Bayern Munich,2,2,2019-10-19 14:30:00,David Alaba,Pass,488
+325389,51,SavedShot,0.914000015258789,0.525,0.48034998774528503,Philippe Coutinho,a,488,OpenPlay,2019,LeftFoot,12466,Augsburg,Bayern Munich,2,2,2019-10-19 14:30:00,Serge Gnabry,Pass,488
+325394,60,BlockedShot,0.7340000152587891,0.5120000076293946,0.024237100034952164,Philippe Coutinho,a,488,OpenPlay,2019,RightFoot,12466,Augsburg,Bayern Munich,2,2,2019-10-19 14:30:00,Kingsley Coman,Pass,488
+327139,35,BlockedShot,0.8190000152587891,0.46599998474121096,0.07752779871225357,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Thomas Müller,Pass,488
+327141,41,SavedShot,0.7969999694824219,0.720999984741211,0.029503900557756424,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12476,Bayern Munich,Union Berlin,2,1,2019-10-26 14:30:00,Alphonso Davies,Pass,488
+330905,91,MissedShots,0.845999984741211,0.37,0.08492130041122437,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12493,Bayern Munich,Borussia Dortmund,4,0,2019-11-09 17:30:00,Thomas Müller,Pass,488
+332087,23,MissedShots,0.925,0.48200000762939454,0.12969399988651276,Philippe Coutinho,a,488,OpenPlay,2019,RightFoot,12505,Fortuna Duesseldorf,Bayern Munich,0,4,2019-11-23 14:30:00,Benjamin Pavard,Cross,488
+332095,46,BlockedShot,0.81,0.504000015258789,0.04278939962387085,Philippe Coutinho,a,488,SetPiece,2019,RightFoot,12505,Fortuna Duesseldorf,Bayern Munich,0,4,2019-11-23 14:30:00,,None,488
+332103,69,Goal,0.98,0.4929999923706055,0.9751499891281128,Philippe Coutinho,a,488,OpenPlay,2019,LeftFoot,12505,Fortuna Duesseldorf,Bayern Munich,0,4,2019-11-23 14:30:00,Robert Lewandowski,Pass,488
+333874,76,BlockedShot,0.7759999847412109,0.7440000152587891,0.019005799666047096,Philippe Coutinho,h,488,FromCorner,2019,RightFoot,12512,Bayern Munich,Bayer Leverkusen,1,2,2019-11-30 17:30:00,Joshua Kimmich,Pass,488
+333875,76,SavedShot,0.7280000305175781,0.500999984741211,0.03048750013113022,Philippe Coutinho,h,488,FromCorner,2019,RightFoot,12512,Bayern Munich,Bayer Leverkusen,1,2,2019-11-30 17:30:00,David Alaba,Pass,488
+333877,83,SavedShot,0.8209999847412109,0.649000015258789,0.03604799881577492,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12512,Bayern Munich,Bayer Leverkusen,1,2,2019-11-30 17:30:00,Thiago Alcántara,BallTouch,488
+333881,94,SavedShot,0.7619999694824219,0.6430000305175781,0.021778300404548645,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12512,Bayern Munich,Bayer Leverkusen,1,2,2019-11-30 17:30:00,Serge Gnabry,Pass,488
+336942,0,MissedShots,0.7659999847412109,0.6780000305175782,0.016922900453209877,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12529,Bayern Munich,Werder Bremen,6,1,2019-12-14 14:30:00,Alphonso Davies,Pass,488
+336953,38,SavedShot,0.8,0.605,0.033858101814985275,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12529,Bayern Munich,Werder Bremen,6,1,2019-12-14 14:30:00,,Tackle,488
+336959,44,Goal,0.985,0.54,0.9271249771118164,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12529,Bayern Munich,Werder Bremen,6,1,2019-12-14 14:30:00,Serge Gnabry,Pass,488
+336962,46,SavedShot,0.915,0.5070000076293946,0.533394992351532,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12529,Bayern Munich,Werder Bremen,6,1,2019-12-14 14:30:00,Robert Lewandowski,Throughball,488
+336968,62,Goal,0.8630000305175781,0.595999984741211,0.3504369854927063,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12529,Bayern Munich,Werder Bremen,6,1,2019-12-14 14:30:00,David Alaba,Throughball,488
+336974,74,BlockedShot,0.8090000152587891,0.5279999923706055,0.07214590162038803,Philippe Coutinho,h,488,OpenPlay,2019,LeftFoot,12529,Bayern Munich,Werder Bremen,6,1,2019-12-14 14:30:00,Robert Lewandowski,BallTouch,488
+336977,76,SavedShot,0.7959999847412109,0.6780000305175782,0.02700359933078289,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12529,Bayern Munich,Werder Bremen,6,1,2019-12-14 14:30:00,Ivan Perisic,Pass,488
+336978,77,Goal,0.8209999847412109,0.69,0.036783598363399506,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12529,Bayern Munich,Werder Bremen,6,1,2019-12-14 14:30:00,Ivan Perisic,Pass,488
+338215,1,BlockedShot,0.8680000305175781,0.6,0.3082819879055023,Philippe Coutinho,a,488,OpenPlay,2019,RightFoot,12544,Freiburg,Bayern Munich,1,3,2019-12-18 19:30:00,David Alaba,Throughball,488
+338224,22,MissedShots,0.855,0.6609999847412109,0.06321799755096436,Philippe Coutinho,a,488,OpenPlay,2019,LeftFoot,12544,Freiburg,Bayern Munich,1,3,2019-12-18 19:30:00,Ivan Perisic,Pass,488
+338226,32,BlockedShot,0.7930000305175782,0.624000015258789,0.04068220034241676,Philippe Coutinho,a,488,OpenPlay,2019,RightFoot,12544,Freiburg,Bayern Munich,1,3,2019-12-18 19:30:00,Serge Gnabry,Pass,488
+338229,38,MissedShots,0.8009999847412109,0.4329999923706055,0.046314701437950134,Philippe Coutinho,a,488,OpenPlay,2019,RightFoot,12544,Freiburg,Bayern Munich,1,3,2019-12-18 19:30:00,,Rebound,488
+338232,43,SavedShot,0.7419999694824219,0.40200000762939453,0.027303099632263184,Philippe Coutinho,a,488,OpenPlay,2019,RightFoot,12544,Freiburg,Bayern Munich,1,3,2019-12-18 19:30:00,Joshua Kimmich,Pass,488
+338544,26,SavedShot,0.874000015258789,0.4229999923706055,0.07680439949035645,Philippe Coutinho,h,488,OpenPlay,2019,LeftFoot,12547,Bayern Munich,Wolfsburg,2,0,2019-12-21 14:30:00,,None,488
+338550,40,MissedShots,0.9030000305175782,0.5709999847412109,0.12432000041007996,Philippe Coutinho,h,488,OpenPlay,2019,LeftFoot,12547,Bayern Munich,Wolfsburg,2,0,2019-12-21 14:30:00,Robert Lewandowski,Pass,488
+338555,52,SavedShot,0.7480000305175781,0.5159999847412109,0.021469200029969215,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12547,Bayern Munich,Wolfsburg,2,0,2019-12-21 14:30:00,Robert Lewandowski,Pass,488
+355246,34,SavedShot,0.8669999694824219,0.4640000152587891,0.06308600306510925,Philippe Coutinho,a,488,OpenPlay,2019,RightFoot,12559,Hertha Berlin,Bayern Munich,0,4,2020-01-19 14:30:00,Alphonso Davies,Cross,488
+355247,35,SavedShot,0.905,0.5820000076293945,0.059021200984716415,Philippe Coutinho,a,488,OpenPlay,2019,Head,12559,Hertha Berlin,Bayern Munich,0,4,2020-01-19 14:30:00,Thomas Müller,Cross,488
+355250,49,MissedShots,0.805,0.7730000305175782,0.01704229973256588,Philippe Coutinho,a,488,OpenPlay,2019,RightFoot,12559,Hertha Berlin,Bayern Munich,0,4,2020-01-19 14:30:00,Alphonso Davies,BallRecovery,488
+355265,80,ShotOnPost,0.8980000305175782,0.4179999923706055,0.3659999966621399,Philippe Coutinho,a,488,OpenPlay,2019,RightFoot,12559,Hertha Berlin,Bayern Munich,0,4,2020-01-19 14:30:00,Robert Lewandowski,TakeOn,488
+355924,69,SavedShot,0.8180000305175781,0.6370000076293946,0.06822480261325836,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12565,Bayern Munich,Schalke 04,5,0,2020-01-25 17:30:00,Alphonso Davies,TakeOn,488
+355927,85,SavedShot,0.865,0.69,0.059035200625658035,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12565,Bayern Munich,Schalke 04,5,0,2020-01-25 17:30:00,Alphonso Davies,Pass,488
+356668,74,SavedShot,0.7519999694824219,0.42700000762939455,0.03399600088596344,Philippe Coutinho,a,488,OpenPlay,2019,RightFoot,12579,Mainz 05,Bayern Munich,1,3,2020-02-01 14:30:00,Thiago Alcántara,Pass,488
+359651,40,SavedShot,0.860999984741211,0.6630000305175782,0.07147890329360962,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12601,Bayern Munich,Paderborn,3,2,2020-02-21 19:30:00,,BallRecovery,488
+360757,11,SavedShot,0.8830000305175781,0.710999984741211,0.06385970115661621,Philippe Coutinho,a,488,OpenPlay,2019,RightFoot,12613,Hoffenheim,Bayern Munich,0,6,2020-02-29 14:30:00,Alphonso Davies,Pass,488
+360761,20,MissedShots,0.8590000152587891,0.7290000152587891,0.04900370165705681,Philippe Coutinho,a,488,OpenPlay,2019,RightFoot,12613,Hoffenheim,Bayern Munich,0,6,2020-02-29 14:30:00,Alphonso Davies,Pass,488
+360768,32,Goal,0.879000015258789,0.6229999923706054,0.06826650351285934,Philippe Coutinho,a,488,OpenPlay,2019,RightFoot,12613,Hoffenheim,Bayern Munich,0,6,2020-02-29 14:30:00,,Rebound,488
+360771,44,MissedShots,0.755,0.6120000076293945,0.02270429953932762,Philippe Coutinho,a,488,OpenPlay,2019,RightFoot,12613,Hoffenheim,Bayern Munich,0,6,2020-02-29 14:30:00,Joshua Zirkzee,Pass,488
+360772,46,Goal,0.9030000305175782,0.4759999847412109,0.4092159867286682,Philippe Coutinho,a,488,OpenPlay,2019,RightFoot,12613,Hoffenheim,Bayern Munich,0,6,2020-02-29 14:30:00,Thomas Müller,Cross,488
+360773,52,MissedShots,0.975999984741211,0.5729999923706055,0.40308699011802673,Philippe Coutinho,a,488,OpenPlay,2019,Head,12613,Hoffenheim,Bayern Munich,0,6,2020-02-29 14:30:00,Serge Gnabry,Cross,488
+362193,64,BlockedShot,0.8619999694824219,0.585,0.10821700096130371,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12619,Bayern Munich,Augsburg,2,0,2020-03-08 14:30:00,Serge Gnabry,Pass,488
+362196,68,SavedShot,0.904000015258789,0.4779999923706055,0.4788680076599121,Philippe Coutinho,h,488,OpenPlay,2019,RightFoot,12619,Bayern Munich,Augsburg,2,0,2020-03-08 14:30:00,Serge Gnabry,Pass,488
+379829,5,BlockedShot,0.7759999847412109,0.624000015258789,0.032758601009845734,Philippe Coutinho,h,488,FromCorner,2020,RightFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Lionel Messi,Pass,488
+379837,39,SavedShot,0.9219999694824219,0.5579999923706055,0.4485499858856201,Philippe Coutinho,h,488,OpenPlay,2020,RightFoot,14156,Barcelona,Villarreal,4,0,2020-09-27 19:00:00,Sergi Roberto,Cross,488
+380255,58,ShotOnPost,0.8109999847412109,0.48200000762939454,0.08138640224933624,Philippe Coutinho,a,488,OpenPlay,2020,RightFoot,14165,Celta Vigo,Barcelona,0,3,2020-10-01 19:30:00,Lionel Messi,Pass,488
+380256,59,SavedShot,0.85,0.5029999923706054,0.12261500209569931,Philippe Coutinho,a,488,OpenPlay,2020,RightFoot,14165,Celta Vigo,Barcelona,0,3,2020-10-01 19:30:00,Lionel Messi,Pass,488
+381526,9,Goal,0.885,0.5670000076293945,0.409745991230011,Philippe Coutinho,h,488,OpenPlay,2020,RightFoot,14817,Barcelona,Sevilla,1,1,2020-10-04 19:00:00,,None,488
+382217,95,BlockedShot,0.855,0.625999984741211,0.054464299231767654,Philippe Coutinho,a,488,OpenPlay,2020,RightFoot,14830,Getafe,Barcelona,1,0,2020-10-17 19:00:00,Trincão,BallTouch,488
+383304,12,BlockedShot,0.7909999847412109,0.759000015258789,0.011245000176131725,Philippe Coutinho,h,488,SetPiece,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,,None,488
+383305,14,SavedShot,0.7830000305175782,0.625999984741211,0.02778800018131733,Philippe Coutinho,h,488,OpenPlay,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Sergiño Dest,Pass,488
+383315,53,MissedShots,0.9380000305175781,0.575,0.3284670114517212,Philippe Coutinho,h,488,OpenPlay,2020,Head,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Anssumane Fati,Cross,488
+383318,66,BlockedShot,0.8590000152587891,0.6869999694824219,0.03510500118136406,Philippe Coutinho,h,488,OpenPlay,2020,LeftFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,Frenkie de Jong,TakeOn,488
+383319,69,BlockedShot,0.9130000305175782,0.5209999847412109,0.09847909957170486,Philippe Coutinho,h,488,FromCorner,2020,RightFoot,14836,Barcelona,Real Madrid,1,3,2020-10-24 14:00:00,,None,488
+389198,10,BlockedShot,0.909000015258789,0.4370000076293945,0.4293299913406372,Philippe Coutinho,h,488,OpenPlay,2020,RightFoot,14875,Barcelona,Osasuna,4,0,2020-11-29 13:00:00,Antoine Griezmann,Pass,488
+389204,18,SavedShot,0.779000015258789,0.6990000152587891,0.02024249918758869,Philippe Coutinho,h,488,OpenPlay,2020,RightFoot,14875,Barcelona,Osasuna,4,0,2020-11-29 13:00:00,Jordi Alba,Pass,488
+389206,27,MissedShots,0.8209999847412109,0.54,0.048218999058008194,Philippe Coutinho,h,488,FromCorner,2020,RightFoot,14875,Barcelona,Osasuna,4,0,2020-11-29 13:00:00,Lionel Messi,Pass,488
+389207,28,SavedShot,0.9580000305175781,0.5270000076293946,0.6451429724693298,Philippe Coutinho,h,488,OpenPlay,2020,RightFoot,14875,Barcelona,Osasuna,4,0,2020-11-29 13:00:00,Jordi Alba,Pass,488
+389211,44,MissedShots,0.745,0.8230000305175781,0.01128469966351986,Philippe Coutinho,h,488,OpenPlay,2020,RightFoot,14875,Barcelona,Osasuna,4,0,2020-11-29 13:00:00,,None,488
+389218,56,Goal,0.9680000305175781,0.525,0.7841460108757019,Philippe Coutinho,h,488,OpenPlay,2020,RightFoot,14875,Barcelona,Osasuna,4,0,2020-11-29 13:00:00,Antoine Griezmann,Pass,488
+390478,13,MissedShots,0.965999984741211,0.6619999694824219,0.03214909881353378,Philippe Coutinho,a,488,OpenPlay,2020,LeftFoot,14885,Cadiz,Barcelona,2,1,2020-12-05 20:00:00,Sergiño Dest,Cross,488
+392487,1,MissedShots,0.8880000305175781,0.43099998474121093,0.11061099916696548,Philippe Coutinho,h,488,OpenPlay,2020,RightFoot,14898,Barcelona,Levante,1,0,2020-12-13 20:00:00,Sergiño Dest,Pass,488
+392505,51,MissedShots,0.8569999694824219,0.720999984741211,0.032172299921512604,Philippe Coutinho,h,488,OpenPlay,2020,RightFoot,14898,Barcelona,Levante,1,0,2020-12-13 20:00:00,Frenkie de Jong,Pass,488
+392507,55,SavedShot,0.7819999694824219,0.6020000076293945,0.041490599513053894,Philippe Coutinho,h,488,OpenPlay,2020,RightFoot,14898,Barcelona,Levante,1,0,2020-12-13 20:00:00,Frenkie de Jong,LayOff,488
+394006,30,MissedShots,0.7709999847412109,0.639000015258789,0.023911399766802788,Philippe Coutinho,h,488,OpenPlay,2020,RightFoot,14909,Barcelona,Valencia,2,2,2020-12-19 15:15:00,Jordi Alba,Pass,488
+394020,61,MissedShots,0.8719999694824219,0.590999984741211,0.09422370046377182,Philippe Coutinho,h,488,OpenPlay,2020,RightFoot,14909,Barcelona,Valencia,2,2,2020-12-19 15:15:00,Lionel Messi,Chipped,488
+394023,64,BlockedShot,0.765,0.7530000305175781,0.025926999747753143,Philippe Coutinho,h,488,FromCorner,2020,RightFoot,14909,Barcelona,Valencia,2,2,2020-12-19 15:15:00,Jordi Alba,Pass,488
+394026,71,SavedShot,0.9030000305175782,0.654000015258789,0.08134560286998749,Philippe Coutinho,h,488,OpenPlay,2020,LeftFoot,14909,Barcelona,Valencia,2,2,2020-12-19 15:15:00,Jordi Alba,Pass,488
+394030,77,MissedShots,0.8580000305175781,0.7130000305175781,0.029534900560975075,Philippe Coutinho,h,488,OpenPlay,2020,RightFoot,14909,Barcelona,Valencia,2,2,2020-12-19 15:15:00,Frenkie de Jong,Pass,488
+395057,89,ShotOnPost,0.8290000152587891,0.585,0.08217670023441315,Philippe Coutinho,a,488,OpenPlay,2020,RightFoot,14924,Real Valladolid,Barcelona,0,3,2020-12-22 21:00:00,Lionel Messi,Pass,488
+395977,84,BlockedShot,0.9209999847412109,0.46099998474121096,0.1474580019712448,Philippe Coutinho,h,488,OpenPlay,2020,RightFoot,14928,Barcelona,Eibar,1,1,2020-12-29 18:00:00,Martin Braithwaite,Pass,488
+432327,47,BlockedShot,0.7909999847412109,0.69,0.020552700385451317,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,17178,Barcelona,Granada,1,1,2021-09-20 19:00:00,Sergiño Dest,BallTouch,488
+433072,90,MissedShots,0.7330000305175781,0.40700000762939453,0.0560574010014534,Philippe Coutinho,a,488,DirectFreekick,2021,RightFoot,17191,Cadiz,Barcelona,0,0,2021-09-23 20:00:00,,Standard,488
+434154,9,SavedShot,0.7619999694824219,0.7269999694824218,0.023429200053215027,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,17196,Barcelona,Levante,3,0,2021-09-26 14:15:00,Memphis Depay,Pass,488
+434156,17,SavedShot,0.775,0.5129999923706055,0.047841500490903854,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,17196,Barcelona,Levante,3,0,2021-09-26 14:15:00,Óscar Mingueza,Pass,488
+435173,2,BlockedShot,0.8130000305175781,0.5820000076293945,0.04913900047540665,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,17212,Atletico Madrid,Barcelona,2,0,2021-10-02 19:00:00,Sergiño Dest,Pass,488
+435178,26,MissedShots,0.8319999694824218,0.4590000152587891,0.05512480065226555,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,17212,Atletico Madrid,Barcelona,2,0,2021-10-02 19:00:00,,None,488
+435182,51,BlockedShot,0.7319999694824219,0.685,0.012110300362110138,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,17212,Atletico Madrid,Barcelona,2,0,2021-10-02 19:00:00,Memphis Depay,Pass,488
+435183,59,SavedShot,0.874000015258789,0.6170000076293946,0.3579699993133545,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,17212,Atletico Madrid,Barcelona,2,0,2021-10-02 19:00:00,Gavi,Pass,488
+437182,80,BlockedShot,0.8780000305175781,0.6580000305175782,0.07929810136556625,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,17217,Barcelona,Valencia,3,1,2021-10-17 19:00:00,Jordi Alba,Pass,488
+437184,84,Goal,0.9180000305175782,0.4640000152587891,0.5218819975852966,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,17217,Barcelona,Valencia,3,1,2021-10-17 19:00:00,Sergiño Dest,Pass,488
+437185,87,MissedShots,0.9590000152587891,0.5629999923706055,0.14839600026607513,Philippe Coutinho,h,488,OpenPlay,2021,LeftFoot,17217,Barcelona,Valencia,3,1,2021-10-17 19:00:00,Memphis Depay,Pass,488
+438441,47,BlockedShot,0.8859999847412109,0.6120000076293945,0.0844561979174614,Philippe Coutinho,h,488,OpenPlay,2021,LeftFoot,17234,Barcelona,Real Madrid,1,2,2021-10-24 14:15:00,Memphis Depay,Pass,488
+439000,39,BlockedShot,0.7069999694824218,0.6140000152587891,0.01595900021493435,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,17236,Rayo Vallecano,Barcelona,1,0,2021-10-27 17:00:00,Sergio Busquets,Pass,488
+439006,61,MissedShots,0.879000015258789,0.549000015258789,0.06963740289211273,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,17236,Rayo Vallecano,Barcelona,1,0,2021-10-27 17:00:00,Jordi Alba,Cross,488
+439007,63,BlockedShot,0.8269999694824218,0.3,0.031255900859832764,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,17236,Rayo Vallecano,Barcelona,1,0,2021-10-27 17:00:00,Sergiño Dest,Pass,488
+439947,53,SavedShot,0.879000015258789,0.6859999847412109,0.04553839936852455,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,17252,Barcelona,Alaves,1,1,2021-10-30 19:00:00,Memphis Depay,Pass,488
+439955,76,MissedShots,0.8809999847412109,0.4829999923706055,0.028102099895477295,Philippe Coutinho,h,488,OpenPlay,2021,Head,17252,Barcelona,Alaves,1,1,2021-10-30 19:00:00,Óscar Mingueza,Aerial,488
+439956,83,MissedShots,0.8119999694824219,0.45799999237060546,0.15170800685882568,Philippe Coutinho,h,488,DirectFreekick,2021,RightFoot,17252,Barcelona,Alaves,1,1,2021-10-30 19:00:00,,Standard,488
+439957,85,MissedShots,0.7369999694824219,0.37099998474121093,0.0212274007499218,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,17252,Barcelona,Alaves,1,1,2021-10-30 19:00:00,Eric Garcia,Pass,488
+444360,93,Goal,0.885,0.5,0.7432780265808105,Philippe Coutinho,a,488,Penalty,2021,RightFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,,Standard,488
+444361,95,MissedShots,0.9159999847412109,0.5170000076293946,0.12731300294399261,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,17285,Villarreal,Barcelona,1,3,2021-11-27 20:00:00,Memphis Depay,HeadPass,488
+446236,6,MissedShots,0.815,0.46700000762939453,0.08202429860830307,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,17287,Barcelona,Real Betis,0,1,2021-12-04 15:15:00,Gavi,TakeOn,488
+446237,10,SavedShot,0.9369999694824219,0.575999984741211,0.35546499490737915,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,17287,Barcelona,Real Betis,0,1,2021-12-04 15:15:00,Jordi Alba,Cross,488
+448467,95,MissedShots,0.9219999694824219,0.509000015258789,0.10068900138139725,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,17302,Osasuna,Barcelona,2,2,2021-12-12 15:15:00,Ferrán Jutglà,Cross,488
+453362,81,Goal,0.9590000152587891,0.48200000762939454,0.6792759895324707,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16586,Aston Villa,Manchester United,2,2,2022-01-15 17:30:00,Jacob Ramsey,Pass,488
+453363,86,SavedShot,0.799000015258789,0.5629999923706055,0.04683990031480789,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16586,Aston Villa,Manchester United,2,2,2022-01-15 17:30:00,Emiliano Buendía,Pass,488
+454420,46,SavedShot,0.899000015258789,0.47,0.03977850079536438,Philippe Coutinho,a,488,SetPiece,2021,Head,16600,Everton,Aston Villa,0,1,2022-01-22 12:30:00,,Aerial,488
+454427,58,MissedShots,0.8140000152587891,0.5990000152587891,0.1281609982252121,Philippe Coutinho,a,488,DirectFreekick,2021,RightFoot,16600,Everton,Aston Villa,0,1,2022-01-22 12:30:00,,Standard,488
+456665,29,Goal,0.8669999694824219,0.4109999847412109,0.06116209924221039,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16606,Aston Villa,Leeds,3,3,2022-02-09 20:00:00,Matthew Cash,Cross,488
+456681,66,MissedShots,0.7369999694824219,0.7040000152587891,0.015893900766968727,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16606,Aston Villa,Leeds,3,3,2022-02-09 20:00:00,Ollie Watkins,Pass,488
+457549,60,MissedShots,0.909000015258789,0.5829999923706055,0.108194999396801,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,Lucas Digne,Pass,488
+457553,89,BlockedShot,0.6969999694824218,0.6329999923706054,0.01384430006146431,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,Jacob Ramsey,Pass,488
+458360,16,BlockedShot,0.8109999847412109,0.6270000076293946,0.02759229950606823,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16627,Aston Villa,Watford,0,1,2022-02-19 15:00:00,John McGinn,TakeOn,488
+458365,42,MissedShots,0.9080000305175782,0.3509999847412109,0.0500498004257679,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16627,Aston Villa,Watford,0,1,2022-02-19 15:00:00,Matthew Cash,Cross,488
+458369,46,MissedShots,0.889000015258789,0.6320000076293946,0.06372620165348053,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16627,Aston Villa,Watford,0,1,2022-02-19 15:00:00,Emiliano Buendía,Chipped,488
+458378,74,MissedShots,0.754000015258789,0.54,0.02058500051498413,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16627,Aston Villa,Watford,0,1,2022-02-19 15:00:00,Danny Ings,Pass,488
+459883,26,MissedShots,0.7709999847412109,0.5279999923706055,0.030843399465084076,Philippe Coutinho,a,488,FromCorner,2021,RightFoot,16638,Brighton,Aston Villa,0,2,2022-02-26 15:30:00,John McGinn,Pass,488
+459889,49,SavedShot,0.7569999694824219,0.6869999694824219,0.048165298998355865,Philippe Coutinho,a,488,DirectFreekick,2021,RightFoot,16638,Brighton,Aston Villa,0,2,2022-02-26 15:30:00,,Standard,488
+461043,41,MissedShots,0.8769999694824219,0.3160000038146973,0.06222119927406311,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16646,Aston Villa,Southampton,4,0,2022-03-05 15:00:00,,None,488
+461044,42,SavedShot,0.875999984741211,0.5690000152587891,0.36529600620269775,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16646,Aston Villa,Southampton,4,0,2022-03-05 15:00:00,Ollie Watkins,Pass,488
+461046,45,MissedShots,0.8480000305175781,0.5659999847412109,0.3673959970474243,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16646,Aston Villa,Southampton,4,0,2022-03-05 15:00:00,Ollie Watkins,HeadPass,488
+461048,51,Goal,0.924000015258789,0.2979999923706055,0.08640500158071518,Philippe Coutinho,h,488,SetPiece,2021,RightFoot,16646,Aston Villa,Southampton,4,0,2022-03-05 15:00:00,Danny Ings,TakeOn,488
+462183,21,Goal,0.855999984741211,0.54,0.09360840171575546,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,16572,Leeds,Aston Villa,0,3,2022-03-10 19:45:00,Matthew Cash,Pass,488
+462193,69,SavedShot,0.9130000305175782,0.485,0.1447950005531311,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,16572,Leeds,Aston Villa,0,3,2022-03-10 19:45:00,,TakeOn,488
+462196,75,MissedShots,0.764000015258789,0.545,0.02623859979212284,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,16572,Leeds,Aston Villa,0,3,2022-03-10 19:45:00,Jacob Ramsey,Pass,488
+463056,18,SavedShot,0.960999984741211,0.56,0.1488880068063736,Philippe Coutinho,a,488,OpenPlay,2021,LeftFoot,16665,West Ham,Aston Villa,2,1,2022-03-13 14:00:00,Jacob Ramsey,Pass,488
+463058,49,MissedShots,0.8019999694824219,0.7040000152587891,0.024745499715209007,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,16665,West Ham,Aston Villa,2,1,2022-03-13 14:00:00,Jacob Ramsey,Pass,488
+463067,78,BlockedShot,0.7559999847412109,0.34700000762939454,0.05343639850616455,Philippe Coutinho,a,488,DirectFreekick,2021,RightFoot,16665,West Ham,Aston Villa,2,1,2022-03-13 14:00:00,,Standard,488
+463834,95,SavedShot,0.795,0.8030000305175782,0.03969020023941994,Philippe Coutinho,h,488,DirectFreekick,2021,RightFoot,16666,Aston Villa,Arsenal,0,1,2022-03-19 12:30:00,,Standard,488
+465302,25,MissedShots,0.7069999694824218,0.534000015258789,0.04028109833598137,Philippe Coutinho,a,488,DirectFreekick,2021,RightFoot,16676,Wolverhampton Wanderers,Aston Villa,2,1,2022-04-02 14:00:00,,Standard,488
+465311,50,MissedShots,0.8180000305175781,0.7709999847412109,0.018430199474096298,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,16676,Wolverhampton Wanderers,Aston Villa,2,1,2022-04-02 14:00:00,Ashley Young,Pass,488
+465316,72,SavedShot,0.8780000305175781,0.3240000152587891,0.04643139988183975,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,16676,Wolverhampton Wanderers,Aston Villa,2,1,2022-04-02 14:00:00,,BallRecovery,488
+466873,40,MissedShots,0.6980000305175781,0.41700000762939454,0.013701699674129486,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16694,Aston Villa,Tottenham,0,4,2022-04-09 16:30:00,John McGinn,Pass,488
+466877,48,BlockedShot,0.7959999847412109,0.575,0.025902800261974335,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16694,Aston Villa,Tottenham,0,4,2022-04-09 16:30:00,Danny Ings,HeadPass,488
+466878,49,SavedShot,0.9319999694824219,0.884000015258789,0.044098298996686935,Philippe Coutinho,h,488,DirectFreekick,2021,RightFoot,16694,Aston Villa,Tottenham,0,4,2022-04-09 16:30:00,,Standard,488
+471640,3,BlockedShot,0.87,0.6719999694824219,0.050045400857925415,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16725,Aston Villa,Norwich,2,0,2022-04-30 14:00:00,,None,488
+471644,17,BlockedShot,0.8480000305175781,0.555,0.08744700253009796,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16725,Aston Villa,Norwich,2,0,2022-04-30 14:00:00,Jacob Ramsey,Pass,488
+471657,53,MissedShots,0.76,0.6780000305175782,0.022010300308465958,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16725,Aston Villa,Norwich,2,0,2022-04-30 14:00:00,Ollie Watkins,None,488
+471659,55,BlockedShot,0.7390000152587891,0.49900001525878906,0.024010799825191498,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16725,Aston Villa,Norwich,2,0,2022-04-30 14:00:00,Ollie Watkins,Pass,488
+475032,32,MissedShots,0.7619999694824219,0.764000015258789,0.010561499744653702,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16705,Aston Villa,Liverpool,1,2,2022-05-10 19:00:00,Lucas Digne,LayOff,488
+476365,10,MissedShots,0.7130000305175781,0.7440000152587891,0.00985694956034422,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16745,Aston Villa,Crystal Palace,1,1,2022-05-15 13:00:00,Lucas Digne,Pass,488
+476381,82,BlockedShot,0.9209999847412109,0.6370000076293946,0.05526209995150566,Philippe Coutinho,h,488,OpenPlay,2021,LeftFoot,16745,Aston Villa,Crystal Palace,1,1,2022-05-15 13:00:00,Lucas Digne,Cross,488
+476384,83,SavedShot,0.7980000305175782,0.5029999923706054,0.04190149903297424,Philippe Coutinho,h,488,FromCorner,2021,RightFoot,16745,Aston Villa,Crystal Palace,1,1,2022-05-15 13:00:00,,Rebound,488
+476970,76,BlockedShot,0.7830000305175782,0.774000015258789,0.01192769967019558,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16546,Aston Villa,Burnley,1,1,2022-05-19 19:00:00,,None,488
+476977,87,SavedShot,0.7190000152587891,0.49700000762939456,0.017431100830435753,Philippe Coutinho,h,488,OpenPlay,2021,RightFoot,16546,Aston Villa,Burnley,1,1,2022-05-19 19:00:00,Douglas Luiz,Pass,488
+477939,41,MissedShots,0.7319999694824219,0.4159999847412109,0.02091990038752556,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,16754,Manchester City,Aston Villa,3,2,2022-05-22 15:00:00,Ollie Watkins,None,488
+477951,68,Goal,0.855999984741211,0.6229999923706054,0.07991970330476761,Philippe Coutinho,a,488,OpenPlay,2021,RightFoot,16754,Manchester City,Aston Villa,3,2,2022-05-22 15:00:00,Ollie Watkins,HeadPass,488
+479256,60,BlockedShot,0.899000015258789,0.44,0.035593800246715546,Philippe Coutinho,a,488,OpenPlay,2022,Head,18204,Bournemouth,Aston Villa,2,0,2022-08-06 14:00:00,,Aerial,488
+479259,73,MissedShots,0.749000015258789,0.44299999237060544,0.02232610061764717,Philippe Coutinho,a,488,OpenPlay,2022,RightFoot,18204,Bournemouth,Aston Villa,2,0,2022-08-06 14:00:00,Ollie Watkins,Pass,488
+481894,76,BlockedShot,0.8669999694824219,0.43,0.026328999549150467,Philippe Coutinho,a,488,OpenPlay,2022,Head,18223,Crystal Palace,Aston Villa,3,1,2022-08-20 14:00:00,Matthew Cash,Aerial,488
+481897,84,SavedShot,0.93,0.7169999694824218,0.029447900131344795,Philippe Coutinho,a,488,OpenPlay,2022,RightFoot,18223,Crystal Palace,Aston Villa,3,1,2022-08-20 14:00:00,,TakeOn,488
+481902,93,SavedShot,0.6840000152587891,0.5640000152587891,0.011457400396466255,Philippe Coutinho,a,488,OpenPlay,2022,RightFoot,18223,Crystal Palace,Aston Villa,3,1,2022-08-20 14:00:00,Boubacar Kamara,Pass,488
+484351,33,SavedShot,0.6869999694824219,0.6780000305175782,0.01066260039806366,Philippe Coutinho,h,488,OpenPlay,2022,RightFoot,18239,Aston Villa,West Ham,0,1,2022-08-28 13:00:00,Lucas Digne,Pass,488
+488471,33,MissedShots,0.7559999847412109,0.6530000305175782,0.021344300359487534,Philippe Coutinho,h,488,OpenPlay,2022,RightFoot,18272,Aston Villa,Southampton,1,0,2022-09-16 19:00:00,John McGinn,Pass,488
+488472,40,SavedShot,0.9669999694824218,0.625,0.10225199908018112,Philippe Coutinho,h,488,OpenPlay,2022,Head,18272,Aston Villa,Southampton,1,0,2022-09-16 19:00:00,Ashley Young,Cross,488
+488476,48,BlockedShot,0.7669999694824219,0.65,0.06022470071911812,Philippe Coutinho,h,488,DirectFreekick,2022,RightFoot,18272,Aston Villa,Southampton,1,0,2022-09-16 19:00:00,,Standard,488
+490923,14,SavedShot,0.955999984741211,0.555,0.5855900049209595,Philippe Coutinho,a,488,OpenPlay,2022,LeftFoot,18286,Leeds,Aston Villa,0,0,2022-10-02 15:30:00,,Rebound,488
+490925,17,SavedShot,0.7980000305175782,0.5690000152587891,0.03869109973311424,Philippe Coutinho,a,488,OpenPlay,2022,RightFoot,18286,Leeds,Aston Villa,0,0,2022-10-02 15:30:00,,None,488
+490931,49,ShotOnPost,0.8919999694824219,0.59,0.07348489761352539,Philippe Coutinho,a,488,OpenPlay,2022,RightFoot,18286,Leeds,Aston Villa,0,0,2022-10-02 15:30:00,Leon Bailey,Cross,488
+490936,73,MissedShots,0.8780000305175781,0.6609999847412109,0.06666570156812668,Philippe Coutinho,a,488,OpenPlay,2022,LeftFoot,18286,Leeds,Aston Villa,0,0,2022-10-02 15:30:00,Ashley Young,Pass,488
+492647,12,BlockedShot,0.7140000152587891,0.6619999694824219,0.035629499703645706,Philippe Coutinho,a,488,DirectFreekick,2022,RightFoot,18300,Nottingham Forest,Aston Villa,1,1,2022-10-10 19:00:00,,Standard,488
+492654,47,MissedShots,0.885,0.7230000305175781,0.04392920061945915,Philippe Coutinho,a,488,OpenPlay,2022,RightFoot,18300,Nottingham Forest,Aston Villa,1,1,2022-10-10 19:00:00,Ashley Young,TakeOn,488
+493565,88,BlockedShot,0.7390000152587891,0.6780000305175782,0.014112699776887894,Philippe Coutinho,h,488,OpenPlay,2022,RightFoot,18302,Aston Villa,Chelsea,0,2,2022-10-16 13:00:00,Leander Dendoncker,Pass,488
+503444,84,MissedShots,0.65,0.6880000305175781,0.010737700387835503,Philippe Coutinho,h,488,OpenPlay,2022,RightFoot,18392,Aston Villa,Leeds,2,1,2023-01-13 20:00:00,,BallRecovery,488
+507202,65,MissedShots,0.8209999847412109,0.48900001525878906,0.042283300310373306,Philippe Coutinho,h,488,FromCorner,2022,RightFoot,18412,Aston Villa,Leicester,2,4,2023-02-04 15:00:00,,None,488
+507209,91,MissedShots,0.8130000305175781,0.4759999847412109,0.05328499898314476,Philippe Coutinho,h,488,OpenPlay,2022,RightFoot,18412,Aston Villa,Leicester,2,4,2023-02-04 15:00:00,Emiliano Buendía,Pass,488
+509045,80,SavedShot,0.765,0.7530000305175781,0.006815429776906967,Philippe Coutinho,a,488,OpenPlay,2022,RightFoot,18429,Manchester City,Aston Villa,3,1,2023-02-12 16:30:00,Ollie Watkins,Chipped,488
+509421,30,Goal,0.855,0.5320000076293945,0.09526629745960236,Philippe Coutinho,h,488,OpenPlay,2022,RightFoot,18432,Aston Villa,Arsenal,2,4,2023-02-18 12:30:00,Álex Moreno,Pass,488
+532218,89,MissedShots,0.9,0.5970000076293945,0.10713136941194534,Philippe Coutinho,a,488,OpenPlay,2023,RightFoot,22281,Newcastle United,Aston Villa,5,1,2023-08-12 16:30:00,Youri Tielemans,Pass,488
+533742,66,SavedShot,0.76,0.5459999847412109,0.023278456181287766,Philippe Coutinho,h,488,OpenPlay,2023,RightFoot,22292,Aston Villa,Everton,4,0,2023-08-20 13:00:00,Ollie Watkins,Pass,488
+533744,79,MissedShots,0.6830000305175781,0.6809999847412109,0.011847329325973988,Philippe Coutinho,h,488,OpenPlay,2023,RightFoot,22292,Aston Villa,Everton,4,0,2023-08-20 13:00:00,Jhon Durán,Pass,488

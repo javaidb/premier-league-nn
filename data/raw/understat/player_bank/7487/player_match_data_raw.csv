@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,56,AMR,West Ham,Huddersfield,4,3,2019-03-16,9498,2018,316387,0,0,0,0,0,0.022514399141073227,0.022514399141073227,7487
+0,0,0,12,Sub,Huddersfield,Bournemouth,0,2,2019-03-09,9492,2018,314496,0,0,0,0,0,0,0,7487

@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+450678,49,MissedShots,0.874000015258789,0.645,0.025226600468158722,Dominic Thompson,a,9915,OpenPlay,2021,RightFoot,16557,Brighton,Brentford,2,0,2021-12-26 20:00:00,,Aerial,9915

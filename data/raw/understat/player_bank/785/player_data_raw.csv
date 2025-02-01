@@ -1,0 +1,5 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+785,John Ruddy,27,2430,0,0,0,0,0,0,0,0,GK,Norwich,0,0,0.9111145082861185,0.9111145082861185,2015
+785,John Ruddy,1,90,0,0,0,0,0,0,0,0,GK,Wolverhampton Wanderers,0,0,0,0,2018
+785,John Ruddy,2,91,0,0,0,0,0,0,0,0,GK S,Wolverhampton Wanderers,0,0,0,0,2020
+785,John Ruddy,2,129,0,0,0,0,0,0,0,0,GK S,Wolverhampton Wanderers,0,0,0,0,2021

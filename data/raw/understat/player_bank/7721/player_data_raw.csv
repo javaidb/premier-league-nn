@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+7721,Conor Hourihane,27,1549,3,1.62833839841187,5,5.731440666131675,29,38,4,0,M S,Aston Villa,3,1.62833839841187,6.0079372227191925,3.157471826300025,2019
+7721,Conor Hourihane,4,236,1,0.5679541006684303,1,0.919187881052494,5,5,0,0,M S,Aston Villa,1,0.5679541006684303,0.6681756898760796,0.19055769592523575,2020

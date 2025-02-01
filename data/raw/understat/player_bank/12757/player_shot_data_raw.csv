@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+609892,51,MissedShots,0.9730000305175781,0.6179999923706054,0.2571773827075958,Harrison Armstrong,a,12757,OpenPlay,2024,Head,26792,Bournemouth,Everton,1,0,2025-01-04 15:00:00,,None,12757

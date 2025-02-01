@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+449177,73,Goal,0.9540000152587891,0.4570000076293945,0.5619040131568909,Jarrad Branthwaite,a,8476,SetPiece,2021,RightFoot,16543,Chelsea,Everton,1,1,2021-12-16 19:45:00,Anthony Gordon,Cross,8476
+456533,58,SavedShot,0.779000015258789,0.4909999847412109,0.021407699212431908,Jarrad Branthwaite,a,8476,SetPiece,2021,LeftFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,,Rebound,8476
+466372,65,MissedShots,0.8969999694824219,0.5220000076293946,0.01890910044312477,Jarrad Branthwaite,a,8476,FromCorner,2021,Head,16558,Burnley,Everton,3,2,2022-04-06 18:30:00,Anthony Gordon,Aerial,8476
+534654,29,MissedShots,0.9219999694824219,0.4779999923706055,0.062069591134786606,Jarrad Branthwaite,h,8476,SetPiece,2023,Head,22299,Everton,Wolverhampton Wanderers,0,1,2023-08-26 14:00:00,Ashley Young,Aerial,8476
+534662,52,SavedShot,0.9130000305175782,0.485,0.04293317347764969,Jarrad Branthwaite,h,8476,OpenPlay,2023,Head,22299,Everton,Wolverhampton Wanderers,0,1,2023-08-26 14:00:00,,Rebound,8476
+534668,85,MissedShots,0.9490000152587891,0.620999984741211,0.06373784691095352,Jarrad Branthwaite,h,8476,FromCorner,2023,LeftFoot,22299,Everton,Wolverhampton Wanderers,0,1,2023-08-26 14:00:00,,BallTouch,8476
+552416,6,MissedShots,0.92,0.539000015258789,0.08924511075019836,Jarrad Branthwaite,h,8476,FromCorner,2023,Head,22037,Everton,Newcastle United,3,0,2023-12-07 19:30:00,Dwight McNeil,Cross,8476
+556210,85,BlockedShot,0.7809999847412109,0.4229999923706055,0.02600432001054287,Jarrad Branthwaite,a,8476,SetPiece,2023,LeftFoot,22071,Tottenham,Everton,2,1,2023-12-23 15:00:00,James Garner,Pass,8476
+556969,48,BlockedShot,0.8630000305175781,0.5420000076293945,0.0793011337518692,Jarrad Branthwaite,a,8476,SetPiece,2023,RightFoot,22094,Wolverhampton Wanderers,Everton,3,0,2023-12-30 15:00:00,Jack Harrison,Rebound,8476
+560993,93,Goal,0.985999984741211,0.47200000762939454,0.8909584283828735,Jarrad Branthwaite,h,8476,SetPiece,2023,Head,22121,Everton,Tottenham,2,2,2024-02-03 12:30:00,,None,8476
+565199,72,Goal,0.8590000152587891,0.5929999923706055,0.06102287396788597,Jarrad Branthwaite,a,8476,SetPiece,2023,LeftFoot,22148,Brighton,Everton,1,1,2024-02-24 15:00:00,,None,8476
+572394,14,MissedShots,0.7080000305175781,0.6930000305175781,0.011466075666248798,Jarrad Branthwaite,h,8476,OpenPlay,2023,LeftFoot,22208,Everton,Burnley,1,0,2024-04-06 14:00:00,,BallRecovery,8476
+574580,8,MissedShots,0.9590000152587891,0.5890000152587891,0.028237199410796165,Jarrad Branthwaite,a,8476,FromCorner,2023,Head,22219,Chelsea,Everton,6,0,2024-04-15 19:00:00,James Garner,Aerial,8476
+574593,49,MissedShots,0.93,0.595,0.016505537554621696,Jarrad Branthwaite,a,8476,FromCorner,2023,Head,22219,Chelsea,Everton,6,0,2024-04-15 19:00:00,Dwight McNeil,Aerial,8476
+575360,81,BlockedShot,0.945,0.5990000152587891,0.03295565024018288,Jarrad Branthwaite,h,8476,SetPiece,2023,Head,22228,Everton,Nottingham Forest,2,0,2024-04-21 12:30:00,Dwight McNeil,Aerial,8476
+576231,26,Goal,0.9159999847412109,0.565,0.45761367678642273,Jarrad Branthwaite,h,8476,SetPiece,2023,LeftFoot,22179,Everton,Liverpool,2,0,2024-04-24 19:00:00,,Rebound,8476
+576229,26,MissedShots,0.9290000152587891,0.620999984741211,0.04884139448404312,Jarrad Branthwaite,h,8476,SetPiece,2023,OtherBodyPart,22179,Everton,Liverpool,2,0,2024-04-24 19:00:00,Dwight McNeil,Chipped,8476
+602947,90,MissedShots,0.870999984741211,0.53,0.039598073810338974,Jarrad Branthwaite,h,8476,SetPiece,2024,Head,26715,Everton,Brentford,0,0,2024-11-23 15:00:00,Dwight McNeil,Cross,8476
+609052,82,SavedShot,0.9630000305175781,0.6790000152587891,0.010218758136034012,Jarrad Branthwaite,a,8476,FromCorner,2024,Head,26777,Manchester City,Everton,1,1,2024-12-26 12:30:00,Jack Harrison,Aerial,8476
+609483,21,MissedShots,0.9459999847412109,0.45799999237060546,0.06654450297355652,Jarrad Branthwaite,h,8476,FromCorner,2024,Head,26785,Everton,Nottingham Forest,0,2,2024-12-29 15:00:00,Ashley Young,Aerial,8476
+611645,73,BlockedShot,0.91,0.455,0.087311752140522,Jarrad Branthwaite,h,8476,OpenPlay,2024,LeftFoot,26804,Everton,Aston Villa,0,1,2025-01-15 19:30:00,,None,8476

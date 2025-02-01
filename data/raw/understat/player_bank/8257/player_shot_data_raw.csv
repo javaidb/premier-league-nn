@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+365116,91,BlockedShot,0.7669999694824219,0.6930000305175781,0.01995060034096241,Gedson Fernandes,h,8257,OpenPlay,2019,RightFoot,11936,Tottenham,Manchester United,1,1,2020-06-19 19:15:00,Harry Winks,Pass,8257

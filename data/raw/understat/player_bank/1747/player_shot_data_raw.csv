@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+121341,80,MissedShots,0.9169999694824219,0.385,0.024663500487804413,Kevin Long,h,1747,FromCorner,2016,Head,3492,Burnley,West Bromwich Albion,2,2,2017-05-06 15:00:00,Scott Arfield,Cross,1747
+185994,12,SavedShot,0.925,0.5540000152587891,0.17433999478816986,Kevin Long,a,1747,SetPiece,2017,Head,7322,Huddersfield,Burnley,0,0,2017-12-30 15:00:00,Johann Berg Gudmundsson,CornerAwarded,1747
+194188,84,BlockedShot,0.915,0.4759999847412109,0.08649750053882599,Kevin Long,a,1747,FromCorner,2017,Head,7364,Newcastle United,Burnley,1,1,2018-01-31 19:45:00,Jack Cork,Cross,1747
+193676,76,MissedShots,0.9159999847412109,0.539000015258789,0.032878901809453964,Kevin Long,h,1747,FromCorner,2017,Head,7372,Burnley,Manchester City,1,1,2018-02-03 12:30:00,Johann Berg Gudmundsson,Aerial,1747
+208424,8,Goal,0.9630000305175781,0.5579999923706055,0.4153459966182709,Kevin Long,h,1747,FromCorner,2017,Head,7449,Burnley,Leicester,2,1,2018-04-14 14:00:00,Johann Berg Gudmundsson,Cross,1747
+210043,19,OwnGoal,0.029000000953674318,0.5129999923706055,0,Kevin Long,h,1747,OpenPlay,2017,OtherBodyPart,7420,Burnley,Chelsea,1,2,2018-04-19 18:45:00,,Clearance,1747
+210800,8,BlockedShot,0.9369999694824219,0.59,0.0626005008816719,Kevin Long,a,1747,FromCorner,2017,Head,7466,Stoke,Burnley,1,1,2018-04-22 12:30:00,Johann Berg Gudmundsson,Cross,1747
+211653,23,ShotOnPost,0.98,0.55,0.7512180209159851,Kevin Long,h,1747,SetPiece,2017,LeftFoot,7469,Burnley,Brighton,0,0,2018-04-28 14:00:00,James Tarkowski,Pass,1747
+211660,43,BlockedShot,0.924000015258789,0.5870000076293945,0.05402280017733574,Kevin Long,h,1747,FromCorner,2017,Head,7469,Burnley,Brighton,0,0,2018-04-28 14:00:00,Johann Berg Gudmundsson,Cross,1747
+214019,60,MissedShots,0.9469999694824218,0.61,0.0393374003469944,Kevin Long,a,1747,FromCorner,2017,Head,7487,Arsenal,Burnley,5,0,2018-05-06 16:30:00,Johann Berg Gudmundsson,Cross,1747
+214020,62,BlockedShot,0.925,0.40400001525878904,0.043975699692964554,Kevin Long,a,1747,FromCorner,2017,Head,7487,Arsenal,Burnley,5,0,2018-05-06 16:30:00,Johann Berg Gudmundsson,Cross,1747
+215679,68,BlockedShot,0.9009999847412109,0.44799999237060545,0.051545400172472,Kevin Long,h,1747,FromCorner,2017,Head,7492,Burnley,Bournemouth,1,2,2018-05-13 15:00:00,Johann Berg Gudmundsson,Cross,1747
+250645,79,MissedShots,0.9119999694824219,0.46799999237060547,0.030711399391293526,Kevin Long,a,1747,FromCorner,2018,Head,9333,Crystal Palace,Burnley,2,0,2018-12-01 15:00:00,Johann Berg Gudmundsson,Aerial,1747
+371452,65,MissedShots,0.925,0.6809999847412109,0.012983200140297413,Kevin Long,h,1747,SetPiece,2019,Head,11994,Burnley,Wolverhampton Wanderers,1,1,2020-07-15 17:00:00,Ashley Westwood,Cross,1747
+373660,62,BlockedShot,0.899000015258789,0.5,0.09300690144300461,Kevin Long,h,1747,OpenPlay,2019,RightFoot,12022,Burnley,Brighton,1,2,2020-07-26 15:00:00,James Tarkowski,HeadPass,1747
+380822,92,MissedShots,0.8719999694824219,0.4179999923706055,0.09299550205469131,Kevin Long,a,1747,SetPiece,2020,RightFoot,14472,Newcastle United,Burnley,3,1,2020-10-03 19:00:00,Josh Brownhill,Pass,1747
+405161,24,MissedShots,0.9619999694824218,0.49900001525878906,0.5170080065727234,Kevin Long,h,1747,FromCorner,2020,Head,14602,Burnley,Fulham,1,1,2021-02-17 18:00:00,Dwight McNeil,Cross,1747
+465218,34,MissedShots,0.8909999847412109,0.595999984741211,0.012398400343954563,Kevin Long,h,1747,FromCorner,2021,Head,16684,Burnley,Manchester City,0,2,2022-04-02 14:00:00,Ashley Westwood,Aerial,1747
+476259,47,MissedShots,0.8980000305175782,0.5459999847412109,0.02839919924736023,Kevin Long,a,1747,SetPiece,2021,Head,16739,Tottenham,Burnley,1,0,2022-05-15 11:00:00,Josh Brownhill,Aerial,1747
+476272,84,MissedShots,0.875999984741211,0.5220000076293946,0.07969679683446884,Kevin Long,a,1747,SetPiece,2021,RightFoot,16739,Tottenham,Burnley,1,0,2022-05-15 11:00:00,Wout Weghorst,HeadPass,1747
+476966,68,MissedShots,0.865999984741211,0.45,0.01776690036058426,Kevin Long,a,1747,FromCorner,2021,Head,16546,Aston Villa,Burnley,1,1,2022-05-19 19:00:00,Dwight McNeil,Cross,1747

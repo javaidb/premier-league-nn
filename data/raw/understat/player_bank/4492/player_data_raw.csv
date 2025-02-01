@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+4492,José Enrique,4,201,0,0.0123947998508811,0,0.06088370084762573,1,2,0,0,D S,Liverpool,0,0.0123947998508811,0.8027419969439507,0.763011984527111,2014

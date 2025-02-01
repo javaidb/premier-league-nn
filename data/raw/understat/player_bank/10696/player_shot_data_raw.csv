@@ -1,0 +1,30 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+479017,81,MissedShots,0.775,0.40700000762939453,0.020468199625611305,Noussair Mazraoui,a,10696,OpenPlay,2022,RightFoot,19342,Eintracht Frankfurt,Bayern Munich,1,6,2022-08-05 18:30:00,,Rebound,10696
+491761,84,MissedShots,0.85,0.3290000152587891,0.051573000848293304,Noussair Mazraoui,a,10696,OpenPlay,2022,RightFoot,19414,Borussia Dortmund,Bayern Munich,2,2,2022-10-08 16:30:00,,Rebound,10696
+496439,63,MissedShots,0.935,0.4859999847412109,0.08346399664878845,Noussair Mazraoui,h,10696,OpenPlay,2022,Head,19441,Bayern Munich,Mainz 05,6,2,2022-10-29 13:30:00,Sadio Mané,Aerial,10696
+499178,45,MissedShots,0.7730000305175782,0.36200000762939455,0.04203040152788162,Noussair Mazraoui,h,10696,OpenPlay,2022,RightFoot,19459,Bayern Munich,Werder Bremen,6,1,2022-11-08 19:30:00,Serge Gnabry,Pass,10696
+523315,39,BlockedShot,0.835,0.29700000762939455,0.03222506120800972,Noussair Mazraoui,h,10696,OpenPlay,2022,RightFoot,19603,Bayern Munich,Hertha Berlin,2,0,2023-04-30 13:30:00,Serge Gnabry,Pass,10696
+524797,30,BlockedShot,0.8059999847412109,0.335,0.031274911016225815,Noussair Mazraoui,a,10696,OpenPlay,2022,RightFoot,19620,Werder Bremen,Bayern Munich,1,2,2023-05-06 16:30:00,Ryan Gravenberch,Pass,10696
+525933,86,SavedShot,0.905,0.40700000762939453,0.12140234559774399,Noussair Mazraoui,h,10696,OpenPlay,2022,RightFoot,19621,Bayern Munich,Schalke 04,6,0,2023-05-13 13:30:00,Leroy Sané,Pass,10696
+525935,91,Goal,0.8730000305175781,0.4329999923706055,0.4797384738922119,Noussair Mazraoui,h,10696,OpenPlay,2022,RightFoot,19621,Bayern Munich,Schalke 04,6,0,2023-05-13 13:30:00,Sadio Mané,Throughball,10696
+532853,20,MissedShots,0.7909999847412109,0.3509999847412109,0.03648580238223076,Noussair Mazraoui,a,10696,OpenPlay,2023,RightFoot,23065,Werder Bremen,Bayern Munich,0,4,2023-08-18 18:30:00,Alphonso Davies,Pass,10696
+532875,84,SavedShot,0.8980000305175782,0.40900001525878904,0.3973287045955658,Noussair Mazraoui,a,10696,OpenPlay,2023,LeftFoot,23065,Werder Bremen,Bayern Munich,0,4,2023-08-18 18:30:00,Thomas Müller,TakeOn,10696
+535469,62,BlockedShot,0.7959999847412109,0.37200000762939456,0.034183207899332047,Noussair Mazraoui,h,10696,OpenPlay,2023,LeftFoot,23082,Bayern Munich,Augsburg,3,1,2023-08-27 15:30:00,Leroy Sané,Pass,10696
+539013,20,BlockedShot,0.8530000305175781,0.4909999847412109,0.05550336465239525,Noussair Mazraoui,h,10696,FromCorner,2023,RightFoot,23104,Bayern Munich,Bochum,7,0,2023-09-23 13:30:00,Kingsley Coman,Pass,10696
+539028,68,MissedShots,0.9290000152587891,0.4640000152587891,0.054381363093853,Noussair Mazraoui,h,10696,FromCorner,2023,Head,23104,Bayern Munich,Bochum,7,0,2023-09-23 13:30:00,Joshua Kimmich,Aerial,10696
+547025,46,MissedShots,0.904000015258789,0.4640000152587891,0.12174127250909805,Noussair Mazraoui,a,10696,FromCorner,2023,LeftFoot,23146,Borussia Dortmund,Bayern Munich,0,4,2023-11-04 17:30:00,,Rebound,10696
+549331,40,BlockedShot,0.7930000305175782,0.375,0.022682826966047287,Noussair Mazraoui,a,10696,FromCorner,2023,RightFoot,23169,FC Cologne,Bayern Munich,0,1,2023-11-24 19:30:00,,None,10696
+549340,69,BlockedShot,0.7730000305175782,0.6959999847412109,0.02269621193408966,Noussair Mazraoui,a,10696,FromCorner,2023,RightFoot,23169,FC Cologne,Bayern Munich,0,1,2023-11-24 19:30:00,Joshua Kimmich,Pass,10696
+549346,82,BlockedShot,0.865999984741211,0.625,0.07952625304460526,Noussair Mazraoui,a,10696,OpenPlay,2023,LeftFoot,23169,FC Cologne,Bayern Munich,0,1,2023-11-24 19:30:00,,None,10696
+562734,26,SavedShot,0.8140000152587891,0.27399999618530274,0.024017108604311943,Noussair Mazraoui,a,10696,OpenPlay,2023,LeftFoot,23250,Bayer Leverkusen,Bayern Munich,3,0,2024-02-10 17:30:00,Aleksandar Pavlovic,Pass,10696
+575165,72,SavedShot,0.78,0.325,0.02691761404275894,Noussair Mazraoui,a,10696,OpenPlay,2023,RightFoot,23327,Union Berlin,Bayern Munich,1,5,2024-04-20 16:30:00,Harry Kane,Pass,10696
+576681,58,BlockedShot,0.8030000305175782,0.519000015258789,0.05236915871500969,Noussair Mazraoui,h,10696,OpenPlay,2023,RightFoot,23335,Bayern Munich,Eintracht Frankfurt,2,1,2024-04-27 13:30:00,Raphael Guerreiro,Pass,10696
+589903,31,MissedShots,0.8669999694824219,0.5170000076293946,0.07979319989681244,Noussair Mazraoui,h,10696,OpenPlay,2024,RightFoot,26631,Manchester United,Liverpool,0,3,2024-09-01 15:00:00,Alejandro Garnacho,Chipped,10696
+589905,38,SavedShot,0.840999984741211,0.3340000152587891,0.03780299797654152,Noussair Mazraoui,h,10696,OpenPlay,2024,RightFoot,26631,Manchester United,Liverpool,0,3,2024-09-01 15:00:00,,None,10696
+590472,16,SavedShot,0.784000015258789,0.46299999237060546,0.023922674357891083,Noussair Mazraoui,a,10696,FromCorner,2024,RightFoot,26632,Southampton,Manchester United,0,3,2024-09-14 11:30:00,,None,10696
+590486,48,MissedShots,0.93,0.33,0.08710137009620667,Noussair Mazraoui,a,10696,OpenPlay,2024,RightFoot,26632,Southampton,Manchester United,0,3,2024-09-14 11:30:00,Amad Diallo Traore,Pass,10696
+602046,3,BlockedShot,0.730999984741211,0.46700000762939453,0.011739891953766346,Noussair Mazraoui,h,10696,SetPiece,2024,RightFoot,26708,Manchester United,Leicester,3,0,2024-11-10 14:00:00,,None,10696
+608721,85,MissedShots,0.8269999694824218,0.5120000076293946,0.07029445469379425,Noussair Mazraoui,h,10696,OpenPlay,2024,LeftFoot,26769,Manchester United,Bournemouth,0,3,2024-12-22 14:00:00,Alejandro Garnacho,Pass,10696
+609208,86,BlockedShot,0.8019999694824219,0.3110000038146973,0.02413150481879711,Noussair Mazraoui,a,10696,OpenPlay,2024,LeftFoot,26781,Wolverhampton Wanderers,Manchester United,2,0,2024-12-26 17:30:00,,None,10696
+609742,50,BlockedShot,0.8090000152587891,0.5320000076293945,0.03446919843554497,Noussair Mazraoui,h,10696,FromCorner,2024,RightFoot,26789,Manchester United,Newcastle United,0,2,2024-12-30 20:00:00,,None,10696
+610320,19,BlockedShot,0.86,0.31,0.04596451297402382,Noussair Mazraoui,a,10696,OpenPlay,2024,RightFoot,26797,Liverpool,Manchester United,2,2,2025-01-05 16:30:00,Bruno Fernandes,Pass,10696

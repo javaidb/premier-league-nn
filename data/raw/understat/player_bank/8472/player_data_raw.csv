@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+8472,Richairo Zivkovic,5,95,0,0.06403879821300507,0,0.1380251944065094,1,2,0,0,S,Sheffield United,0,0.06403879821300507,0.2056465968489647,0.2056465968489647,2019

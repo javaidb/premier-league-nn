@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+51871,87,Goal,0.865999984741211,0.48,0.07275640219449997,Duncan Watmore,h,919,SetPiece,2015,RightFoot,93,Sunderland,Norwich,1,3,2015-08-15 18:00:00,,None,919
+59511,88,SavedShot,0.885,0.33599998474121096,0.24474899470806122,Duncan Watmore,a,919,OpenPlay,2015,RightFoot,188,Everton,Sunderland,6,2,2015-11-01 17:30:00,,None,919
+52710,39,BlockedShot,0.89,0.2720000076293945,0.023622600361704826,Duncan Watmore,h,919,OpenPlay,2015,LeftFoot,211,Sunderland,Stoke,2,0,2015-11-28 19:00:00,Costel Pantilimon,TakeOn,919
+52726,83,Goal,0.9330000305175781,0.3240000152587891,0.07584639638662338,Duncan Watmore,h,919,OpenPlay,2015,RightFoot,211,Sunderland,Stoke,2,0,2015-11-28 19:00:00,,None,919
+53471,8,MissedShots,0.9369999694824219,0.49700000762939456,0.09891310334205627,Duncan Watmore,a,919,SetPiece,2015,Head,225,Arsenal,Sunderland,3,1,2015-12-05 19:00:00,Steven Fletcher,HeadPass,919
+53490,74,SavedShot,0.8919999694824219,0.32599998474121095,0.049095600843429565,Duncan Watmore,a,919,OpenPlay,2015,RightFoot,225,Arsenal,Sunderland,3,1,2015-12-05 19:00:00,Yann M&#039;Vila,Chipped,919
+54852,76,MissedShots,0.7180000305175781,0.44299999237060544,0.017730699852108955,Duncan Watmore,h,919,OpenPlay,2015,RightFoot,233,Sunderland,Watford,0,1,2015-12-12 19:00:00,Jack Rodwell,Pass,919
+55699,32,MissedShots,0.835,0.47,0.0483039990067482,Duncan Watmore,a,919,OpenPlay,2015,LeftFoot,244,Chelsea,Sunderland,3,1,2015-12-19 19:00:00,Yann M&#039;Vila,Chipped,919
+53849,77,SavedShot,0.925,0.5309999847412109,0.10222700238227844,Duncan Watmore,h,919,FromCorner,2015,LeftFoot,270,Sunderland,Liverpool,0,1,2015-12-30 23:45:00,,BallTouch,919
+56058,2,MissedShots,0.8109999847412109,0.45299999237060545,0.053947001695632935,Duncan Watmore,h,919,OpenPlay,2015,RightFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Fabio Borini,Pass,919
+56062,12,SavedShot,0.7930000305175782,0.46,0.04343530163168907,Duncan Watmore,h,919,OpenPlay,2015,LeftFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Fabio Borini,BallTouch,919
+52300,72,BlockedShot,0.86,0.45,0.06789880245923996,Duncan Watmore,h,919,SetPiece,2015,LeftFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,,None,919
+56793,90,Goal,0.9669999694824218,0.6020000076293945,0.49887698888778687,Duncan Watmore,a,919,OpenPlay,2015,LeftFoot,405,Norwich,Sunderland,0,3,2016-04-16 15:45:00,Sebastian Larsson,Throughball,919
+52213,86,SavedShot,0.9369999694824219,0.6819999694824219,0.06804429739713669,Duncan Watmore,a,919,OpenPlay,2015,LeftFoot,458,Watford,Sunderland,2,2,2016-05-15 18:00:00,George Honeyman,Pass,919
+112268,2,MissedShots,0.9519999694824218,0.4129999923706055,0.10806000232696533,Duncan Watmore,a,919,SetPiece,2016,Head,467,Manchester City,Sunderland,2,1,2016-08-13 20:30:00,Lynden Gooch,Cross,919
+112733,70,SavedShot,0.7830000305175782,0.504000015258789,0.047328799962997437,Duncan Watmore,h,919,OpenPlay,2016,RightFoot,479,Sunderland,Middlesbrough,1,2,2016-08-21 16:30:00,Jeremain Lens,LayOff,919
+113360,63,BlockedShot,0.8719999694824219,0.29700000762939455,0.06593140214681625,Duncan Watmore,h,919,OpenPlay,2016,RightFoot,500,Sunderland,Everton,0,3,2016-09-12 23:00:00,Adnan Januzaj,Pass,919
+113644,87,MissedShots,0.91,0.534000015258789,0.03614329919219017,Duncan Watmore,a,919,OpenPlay,2016,Head,510,Tottenham,Sunderland,1,0,2016-09-18 19:30:00,Javier Manquillo,Aerial,919
+113894,40,BlockedShot,0.8569999694824219,0.53,0.11767800152301788,Duncan Watmore,h,919,OpenPlay,2016,RightFoot,514,Sunderland,Crystal Palace,2,3,2016-09-24 18:00:00,Didier Ndong,Pass,919
+114092,63,MissedShots,0.7380000305175781,0.705999984741211,0.00885371956974268,Duncan Watmore,a,919,OpenPlay,2016,RightFoot,535,Stoke,Sunderland,2,0,2016-10-15 18:00:00,,TakeOn,919
+115087,5,BlockedShot,0.779000015258789,0.6659999847412109,0.019048400223255157,Duncan Watmore,a,919,OpenPlay,2016,LeftFoot,2687,Bournemouth,Sunderland,1,2,2016-11-05 19:00:00,Victor Anichebe,HeadPass,919
+115093,24,SavedShot,0.93,0.28299999237060547,0.04140549898147583,Duncan Watmore,a,919,OpenPlay,2016,RightFoot,2687,Bournemouth,Sunderland,1,2,2016-11-05 19:00:00,Billy Jones,Pass,919
+115759,40,BlockedShot,0.7290000152587891,0.5120000076293946,0.022804100066423416,Duncan Watmore,h,919,OpenPlay,2016,RightFoot,2700,Sunderland,Hull,3,0,2016-11-19 19:00:00,Patrick van Aanholt,Pass,919
+115760,45,SavedShot,0.9430000305175781,0.6079999923706054,0.11436200141906738,Duncan Watmore,h,919,OpenPlay,2016,LeftFoot,2700,Sunderland,Hull,3,0,2016-11-19 19:00:00,Jermain Defoe,HeadPass,919
+115227,2,BlockedShot,0.7859999847412109,0.41,0.023098500445485115,Duncan Watmore,a,919,SetPiece,2016,RightFoot,2710,Liverpool,Sunderland,2,0,2016-11-26 19:00:00,,None,919
+115879,0,SavedShot,0.8969999694824219,0.40900001525878904,0.08465229719877243,Duncan Watmore,h,919,OpenPlay,2016,RightFoot,3108,Sunderland,Leicester,2,1,2016-12-03 15:00:00,,None,919
+115884,7,MissedShots,0.894000015258789,0.580999984741211,0.04430469870567322,Duncan Watmore,h,919,OpenPlay,2016,Head,3108,Sunderland,Leicester,2,1,2016-12-03 15:00:00,Patrick van Aanholt,Cross,919
+115886,13,BlockedShot,0.875,0.43900001525878907,0.08194190263748169,Duncan Watmore,h,919,OpenPlay,2016,RightFoot,3108,Sunderland,Leicester,2,1,2016-12-03 15:00:00,,None,919
+115891,21,MissedShots,0.7959999847412109,0.38599998474121094,0.034513700753450394,Duncan Watmore,h,919,OpenPlay,2016,LeftFoot,3108,Sunderland,Leicester,2,1,2016-12-03 15:00:00,Billy Jones,Pass,919
+115908,76,MissedShots,0.8669999694824219,0.575999984741211,0.10530199855566025,Duncan Watmore,h,919,OpenPlay,2016,LeftFoot,3108,Sunderland,Leicester,2,1,2016-12-03 15:00:00,Victor Anichebe,Pass,919

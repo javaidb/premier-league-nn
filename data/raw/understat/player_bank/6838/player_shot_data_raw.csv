@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+249372,62,MissedShots,0.710999984741211,0.41,0.039605800062417984,Stefan Johansen,a,6838,DirectFreekick,2018,LeftFoot,9282,Cardiff,Fulham,4,2,2018-10-20 14:00:00,,Standard,6838

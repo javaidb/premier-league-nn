@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+8254,Indiana Vassilev,4,35,0,0.032814398407936096,0,0,1,0,0,0,S,Aston Villa,0,0.032814398407936096,0.032814398407936096,0,2019

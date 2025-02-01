@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+589278,94,BlockedShot,0.8369999694824218,0.5640000152587891,0.044771354645490646,Ramón Sosa,h,13021,OpenPlay,2024,LeftFoot,26627,Nottingham Forest,Wolverhampton Wanderers,1,1,2024-08-31 14:00:00,Ryan Yates,TakeOn,13021
+592949,69,Goal,0.9019999694824219,0.46799999237060547,0.4491705894470215,Ramón Sosa,a,13021,OpenPlay,2024,RightFoot,26650,Brighton,Nottingham Forest,2,2,2024-09-22 13:00:00,Jota Silva,Pass,13021
+598006,87,BlockedShot,0.8690000152587891,0.6959999847412109,0.06086535006761551,Ramón Sosa,h,13021,OpenPlay,2024,RightFoot,26677,Nottingham Forest,Crystal Palace,1,0,2024-10-21 19:00:00,Neco Williams,Pass,13021
+598165,81,MissedShots,0.7280000305175781,0.5790000152587891,0.01970675028860569,Ramón Sosa,a,13021,OpenPlay,2024,RightFoot,26682,Leicester,Nottingham Forest,1,3,2024-10-25 19:00:00,Murillo,Pass,13021
+600188,95,SavedShot,0.7819999694824219,0.6359999847412109,0.042089808732271194,Ramón Sosa,h,13021,OpenPlay,2024,RightFoot,26698,Nottingham Forest,West Ham,3,0,2024-11-02 15:00:00,Nicolás Domínguez,TakeOn,13021
+602038,73,BlockedShot,0.845999984741211,0.6669999694824219,0.039546094834804535,Ramón Sosa,h,13021,OpenPlay,2024,RightFoot,26704,Nottingham Forest,Newcastle United,1,3,2024-11-10 14:00:00,,BallTouch,13021
+609487,46,MissedShots,0.8209999847412109,0.47,0.32564032077789307,Ramón Sosa,a,13021,OpenPlay,2024,RightFoot,26785,Everton,Nottingham Forest,0,2,2024-12-29 15:00:00,Morgan Gibbs-White,Throughball,13021
+609494,63,SavedShot,0.8780000305175781,0.6890000152587891,0.03285794332623482,Ramón Sosa,a,13021,OpenPlay,2024,LeftFoot,26785,Everton,Nottingham Forest,0,2,2024-12-29 15:00:00,,Rebound,13021
+609492,63,SavedShot,0.8159999847412109,0.710999984741211,0.035440750420093536,Ramón Sosa,a,13021,OpenPlay,2024,RightFoot,26785,Everton,Nottingham Forest,0,2,2024-12-29 15:00:00,,BallTouch,13021
+613433,88,SavedShot,0.905,0.37200000762939456,0.01763324625790119,Ramón Sosa,a,13021,OpenPlay,2024,Head,26822,Bournemouth,Nottingham Forest,5,0,2025-01-25 15:00:00,Anthony Elanga,Cross,13021

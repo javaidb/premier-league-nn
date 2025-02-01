@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+905,Marouane Chamakh,18,1163,2,2.01311945496127,0,0.6836252976208925,11,18,4,0,F M S,Crystal Palace,2,2.01311945496127,2.579960484057665,1.0949432915076613,2014
+905,Marouane Chamakh,10,239,0,0.48428749293088913,0,0.17514710128307343,2,4,1,0,F S,Crystal Palace,0,0.48428749293088913,0.6829480901360512,0.08855319768190384,2015

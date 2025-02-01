@@ -1,0 +1,104 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+76411,83,MissedShots,0.7480000305175781,0.5820000076293945,0.02715579979121685,Konstantinos Stafylidis,a,368,OpenPlay,2015,RightFoot,1033,Eintracht Frankfurt,Augsburg,1,1,2015-08-22 17:30:00,Dong-Won Ji,TakeOn,368
+77094,37,MissedShots,0.5740000152587891,0.7090000152587891,0.009239910170435905,Konstantinos Stafylidis,h,368,OpenPlay,2015,LeftFoot,1064,Augsburg,Hannover 96,2,0,2015-09-20 19:30:00,Tobias Werner,BlockedPass,368
+77105,71,SavedShot,0.8159999847412109,0.47299999237060547,0.1641860008239746,Konstantinos Stafylidis,h,368,DirectFreekick,2015,LeftFoot,1064,Augsburg,Hannover 96,2,0,2015-09-20 19:30:00,,Standard,368
+77303,40,SavedShot,0.799000015258789,0.6869999694824219,0.017517000436782837,Konstantinos Stafylidis,a,368,OpenPlay,2015,RightFoot,1073,Borussia M.Gladbach,Augsburg,4,2,2015-09-23 22:00:00,,None,368
+77557,21,BlockedShot,0.754000015258789,0.720999984741211,0.0173202995210886,Konstantinos Stafylidis,h,368,OpenPlay,2015,LeftFoot,1078,Augsburg,Hoffenheim,1,3,2015-09-26 17:30:00,Daniel Baier,Pass,368
+80720,13,Goal,0.7719999694824219,0.68,0.016154799610376358,Konstantinos Stafylidis,a,368,OpenPlay,2015,LeftFoot,1197,Ingolstadt,Augsburg,2,1,2016-02-06 18:30:00,,None,368
+80744,70,BlockedShot,0.7290000152587891,0.56,0.013124899938702583,Konstantinos Stafylidis,a,368,OpenPlay,2015,RightFoot,1197,Ingolstadt,Augsburg,2,1,2016-02-06 18:30:00,,Rebound,368
+81609,5,SavedShot,0.8809999847412109,0.7169999694824218,0.03959650173783302,Konstantinos Stafylidis,a,368,OpenPlay,2015,LeftFoot,1232,Hoffenheim,Augsburg,2,1,2016-03-02 23:00:00,Caiuby,Pass,368
+81630,76,MissedShots,0.8130000305175781,0.7290000152587891,0.023715000599622726,Konstantinos Stafylidis,a,368,OpenPlay,2015,LeftFoot,1232,Hoffenheim,Augsburg,2,1,2016-03-02 23:00:00,Caiuby,Pass,368
+82575,74,MissedShots,0.8169999694824219,0.710999984741211,0.022366100922226906,Konstantinos Stafylidis,a,368,OpenPlay,2015,LeftFoot,1266,Mainz 05,Augsburg,4,2,2016-04-02 17:30:00,Caiuby,Pass,368
+127470,62,MissedShots,0.764000015258789,0.590999984741211,0.016458699479699135,Konstantinos Stafylidis,h,368,SetPiece,2016,RightFoot,1328,Augsburg,Wolfsburg,0,2,2016-08-27 17:30:00,,Rebound,368
+127469,62,BlockedShot,0.705,0.5829999923706055,0.040283698588609695,Konstantinos Stafylidis,h,368,DirectFreekick,2016,LeftFoot,1328,Augsburg,Wolfsburg,0,2,2016-08-27 17:30:00,,Standard,368
+127991,67,BlockedShot,0.749000015258789,0.5770000076293945,0.01681620068848133,Konstantinos Stafylidis,a,368,FromCorner,2016,LeftFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,,None,368
+127994,72,Goal,0.8219999694824218,0.5359999847412109,0.1759209930896759,Konstantinos Stafylidis,a,368,DirectFreekick,2016,LeftFoot,1343,Werder Bremen,Augsburg,1,2,2016-09-11 17:30:00,,Standard,368
+128323,60,BlockedShot,0.7019999694824218,0.495,0.013133499771356583,Konstantinos Stafylidis,h,368,FromCorner,2016,RightFoot,1352,Augsburg,Mainz 05,1,3,2016-09-18 17:30:00,,None,368
+128327,72,Goal,0.705,0.6179999923706054,0.01479129958897829,Konstantinos Stafylidis,h,368,OpenPlay,2016,LeftFoot,1352,Augsburg,Mainz 05,1,3,2016-09-18 17:30:00,Jeffrey Gouweleeuw,Pass,368
+128332,83,SavedShot,0.8419999694824218,0.7559999847412109,0.02155819907784462,Konstantinos Stafylidis,h,368,OpenPlay,2016,RightFoot,1352,Augsburg,Mainz 05,1,3,2016-09-18 17:30:00,Jeffrey Gouweleeuw,Chipped,368
+128421,32,BlockedShot,0.710999984741211,0.6469999694824219,0.012631800025701523,Konstantinos Stafylidis,a,368,FromCorner,2016,LeftFoot,1361,Bayer Leverkusen,Augsburg,0,0,2016-09-21 22:00:00,,None,368
+128729,41,MissedShots,0.7809999847412109,0.6309999847412109,0.0197806004434824,Konstantinos Stafylidis,h,368,FromCorner,2016,LeftFoot,1367,Augsburg,Darmstadt,1,0,2016-09-24 17:30:00,,None,368
+128728,41,SavedShot,0.7240000152587891,0.24299999237060546,0.03186560049653053,Konstantinos Stafylidis,h,368,DirectFreekick,2016,LeftFoot,1367,Augsburg,Darmstadt,1,0,2016-09-24 17:30:00,,Standard,368
+128744,88,MissedShots,0.78,0.7630000305175781,0.021260200068354607,Konstantinos Stafylidis,h,368,OpenPlay,2016,LeftFoot,1367,Augsburg,Darmstadt,1,0,2016-09-24 17:30:00,Gojko Kacar,Pass,368
+129043,22,BlockedShot,0.8040000152587891,0.6940000152587891,0.021980099380016327,Konstantinos Stafylidis,a,368,SetPiece,2016,LeftFoot,1372,RasenBallsport Leipzig,Augsburg,2,1,2016-09-30 22:30:00,Daniel Baier,Pass,368
+129194,55,MissedShots,0.7069999694824218,0.6630000305175782,0.03566659986972809,Konstantinos Stafylidis,h,368,DirectFreekick,2016,LeftFoot,1384,Augsburg,Schalke 04,1,1,2016-10-15 17:30:00,,Standard,368
+129206,88,MissedShots,0.8180000305175781,0.21799999237060547,0.054249100387096405,Konstantinos Stafylidis,h,368,DirectFreekick,2016,LeftFoot,1384,Augsburg,Schalke 04,1,1,2016-10-15 17:30:00,,Standard,368
+129458,71,MissedShots,0.7240000152587891,0.705,0.014859099872410297,Konstantinos Stafylidis,a,368,OpenPlay,2016,RightFoot,1393,Freiburg,Augsburg,2,1,2016-10-22 17:30:00,Philipp Max,Pass,368
+129654,24,SavedShot,0.7530000305175781,0.7169999694824218,0.016701599583029747,Konstantinos Stafylidis,a,368,OpenPlay,2016,LeftFoot,2808,Ingolstadt,Augsburg,0,2,2016-11-05 18:30:00,Ja-Cheol Koo,Pass,368
+130026,57,MissedShots,0.785,0.6359999847412109,0.020206600427627563,Konstantinos Stafylidis,h,368,FromCorner,2016,LeftFoot,2819,Augsburg,Hertha Berlin,0,0,2016-11-19 18:30:00,,None,368
+131148,20,SavedShot,0.7780000305175782,0.30700000762939456,0.06087709963321686,Konstantinos Stafylidis,a,368,DirectFreekick,2016,LeftFoot,2825,FC Cologne,Augsburg,0,0,2016-11-26 18:30:00,,Standard,368
+131149,21,BlockedShot,0.7719999694824219,0.6790000152587891,0.013437200337648392,Konstantinos Stafylidis,a,368,FromCorner,2016,RightFoot,2825,FC Cologne,Augsburg,0,0,2016-11-26 18:30:00,,Aerial,368
+131164,70,MissedShots,0.8340000152587891,0.715,0.028251200914382935,Konstantinos Stafylidis,a,368,OpenPlay,2016,LeftFoot,2825,FC Cologne,Augsburg,0,0,2016-11-26 18:30:00,,None,368
+130552,61,MissedShots,0.7169999694824218,0.2720000076293945,0.032898999750614166,Konstantinos Stafylidis,h,368,DirectFreekick,2016,LeftFoot,3200,Augsburg,Eintracht Frankfurt,1,1,2016-12-04 20:30:00,,Standard,368
+131221,35,MissedShots,0.7580000305175781,0.7240000152587891,0.00971325021237135,Konstantinos Stafylidis,a,368,OpenPlay,2016,LeftFoot,3204,Hamburger SV,Augsburg,1,0,2016-12-10 18:30:00,Daniel Baier,Chipped,368
+130667,31,MissedShots,0.894000015258789,0.3920000076293945,0.08102390170097351,Konstantinos Stafylidis,h,368,OpenPlay,2016,LeftFoot,3725,Augsburg,Hoffenheim,0,2,2017-01-21 17:30:00,Philipp Max,Chipped,368
+130669,44,MissedShots,0.715,0.6580000305175782,0.014716300182044506,Konstantinos Stafylidis,h,368,OpenPlay,2016,RightFoot,3725,Augsburg,Hoffenheim,0,2,2017-01-21 17:30:00,Ja-Cheol Koo,Pass,368
+132532,35,SavedShot,0.6969999694824218,0.6509999847412109,0.013713300228118896,Konstantinos Stafylidis,a,368,OpenPlay,2016,LeftFoot,3749,Mainz 05,Augsburg,2,0,2017-02-10 19:30:00,Martin Hinteregger,Pass,368
+132535,56,MissedShots,0.705,0.575,0.011452799662947655,Konstantinos Stafylidis,a,368,OpenPlay,2016,LeftFoot,3749,Mainz 05,Augsburg,2,0,2017-02-10 19:30:00,,None,368
+132540,88,SavedShot,0.7290000152587891,0.485,0.05460520088672638,Konstantinos Stafylidis,a,368,DirectFreekick,2016,LeftFoot,3749,Mainz 05,Augsburg,2,0,2017-02-10 19:30:00,,Standard,368
+132275,80,BlockedShot,0.8519999694824218,0.17299999237060548,0.051115598529577255,Konstantinos Stafylidis,a,368,DirectFreekick,2016,LeftFoot,3768,Darmstadt,Augsburg,1,2,2017-02-25 14:30:00,,Standard,368
+132280,89,MissedShots,0.7390000152587891,0.5540000152587891,0.024480899795889854,Konstantinos Stafylidis,a,368,OpenPlay,2016,LeftFoot,3768,Darmstadt,Augsburg,1,2,2017-02-25 14:30:00,,None,368
+132700,18,Goal,0.740999984741211,0.655,0.013012399896979332,Konstantinos Stafylidis,h,368,OpenPlay,2016,LeftFoot,3776,Augsburg,RasenBallsport Leipzig,2,2,2017-03-03 19:30:00,,None,368
+132713,84,MissedShots,0.710999984741211,0.5820000076293945,0.042718999087810516,Konstantinos Stafylidis,h,368,DirectFreekick,2016,LeftFoot,3776,Augsburg,RasenBallsport Leipzig,2,2,2017-03-03 19:30:00,,Standard,368
+132714,86,ShotOnPost,0.95,0.6509999847412109,0.06699399650096893,Konstantinos Stafylidis,h,368,OpenPlay,2016,LeftFoot,3776,Augsburg,RasenBallsport Leipzig,2,2,2017-03-03 19:30:00,,None,368
+133722,39,SavedShot,0.8130000305175781,0.23399999618530273,0.05704310163855553,Konstantinos Stafylidis,a,368,DirectFreekick,2016,LeftFoot,3792,Schalke 04,Augsburg,3,0,2017-03-12 14:30:00,,Standard,368
+133727,61,MissedShots,0.7669999694824219,0.745,0.015087000094354153,Konstantinos Stafylidis,a,368,OpenPlay,2016,LeftFoot,3792,Schalke 04,Augsburg,3,0,2017-03-12 14:30:00,Dominik Kohr,Pass,368
+134672,25,BlockedShot,0.88,0.735999984741211,0.026456400752067566,Konstantinos Stafylidis,h,368,OpenPlay,2016,LeftFoot,3797,Augsburg,Freiburg,1,1,2017-03-18 14:30:00,,Rebound,368
+134679,37,Goal,0.9169999694824219,0.52,0.29653000831604004,Konstantinos Stafylidis,h,368,OpenPlay,2016,Head,3797,Augsburg,Freiburg,1,1,2017-03-18 14:30:00,Georg Teigl,Cross,368
+134686,56,MissedShots,0.795,0.6430000305175781,0.0198551993817091,Konstantinos Stafylidis,h,368,OpenPlay,2016,LeftFoot,3797,Augsburg,Freiburg,1,1,2017-03-18 14:30:00,Moritz Leitner,HeadPass,368
+134099,19,MissedShots,0.785,0.5979999923706054,0.014322400093078613,Konstantinos Stafylidis,h,368,OpenPlay,2016,LeftFoot,3817,Augsburg,Ingolstadt,2,3,2017-04-05 19:00:00,Raúl Bobadilla,Chipped,368
+134106,54,MissedShots,0.7119999694824218,0.725999984741211,0.009523339569568634,Konstantinos Stafylidis,h,368,OpenPlay,2016,LeftFoot,3817,Augsburg,Ingolstadt,2,3,2017-04-05 19:00:00,Daniel Baier,Pass,368
+134107,58,MissedShots,0.789000015258789,0.6809999847412109,0.021316399797797203,Konstantinos Stafylidis,h,368,OpenPlay,2016,LeftFoot,3817,Augsburg,Ingolstadt,2,3,2017-04-05 19:00:00,Jan Morávek,Pass,368
+134482,13,MissedShots,0.745,0.2620000076293945,0.03901759907603264,Konstantinos Stafylidis,h,368,DirectFreekick,2016,LeftFoot,3853,Augsburg,Hamburger SV,4,0,2017-04-30 14:30:00,,Standard,368
+134487,31,MissedShots,0.7430000305175781,0.720999984741211,0.019178500398993492,Konstantinos Stafylidis,h,368,OpenPlay,2016,LeftFoot,3853,Augsburg,Hamburger SV,4,0,2017-04-30 14:30:00,Dominik Kohr,Pass,368
+134495,51,SavedShot,0.855999984741211,0.17399999618530274,0.05233189836144447,Konstantinos Stafylidis,h,368,DirectFreekick,2016,LeftFoot,3853,Augsburg,Hamburger SV,4,0,2017-04-30 14:30:00,,Standard,368
+134499,71,BlockedShot,0.69,0.5609999847412109,0.03597220033407211,Konstantinos Stafylidis,h,368,DirectFreekick,2016,LeftFoot,3853,Augsburg,Hamburger SV,4,0,2017-04-30 14:30:00,,Standard,368
+128003,8,MissedShots,0.6919999694824219,0.64,0.013821300119161606,Konstantinos Stafylidis,a,368,OpenPlay,2016,LeftFoot,3881,Hoffenheim,Augsburg,0,0,2017-05-20 14:30:00,Daniel Baier,Pass,368
+166630,89,MissedShots,0.7559999847412109,0.64,0.02478340081870556,Konstantinos Stafylidis,a,368,OpenPlay,2017,RightFoot,8288,Eintracht Frankfurt,Augsburg,1,2,2017-09-16 14:30:00,,None,368
+197187,20,BlockedShot,0.7430000305175781,0.6509999847412109,0.013609400019049644,Konstantinos Stafylidis,a,368,OpenPlay,2017,LeftFoot,7396,Leicester,Stoke,1,1,2018-02-24 12:30:00,,None,368
+198846,24,MissedShots,0.8,0.715,0.01940310001373291,Konstantinos Stafylidis,a,368,OpenPlay,2017,LeftFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Eric Maxim Choupo-Moting,Pass,368
+198847,26,MissedShots,0.7869999694824219,0.6759999847412109,0.02115749940276146,Konstantinos Stafylidis,a,368,OpenPlay,2017,RightFoot,7405,Southampton,Stoke,0,0,2018-03-03 15:00:00,Xherdan Shaqiri,TakeOn,368
+201036,90,BlockedShot,0.7269999694824218,0.63,0.011930299922823906,Konstantinos Stafylidis,h,368,OpenPlay,2017,LeftFoot,7416,Stoke,Manchester City,0,2,2018-03-12 20:00:00,Joe Allen,Pass,368
+278912,59,MissedShots,0.7519999694824219,0.6819999694824219,0.029720300808548927,Konstantinos Stafylidis,h,368,OpenPlay,2018,LeftFoot,10512,Augsburg,Mainz 05,3,0,2019-02-03 14:30:00,Daniel Baier,Pass,368
+279183,51,MissedShots,0.6079999923706054,0.485,0.006861540023237467,Konstantinos Stafylidis,h,368,SetPiece,2018,LeftFoot,10531,Augsburg,Bayern Munich,2,3,2019-02-15 19:30:00,,None,368
+279433,19,MissedShots,0.7019999694824218,0.7469999694824219,0.008814389817416668,Konstantinos Stafylidis,a,368,OpenPlay,2018,LeftFoot,10541,Freiburg,Augsburg,5,1,2019-02-23 14:30:00,,None,368
+279452,74,BlockedShot,0.7319999694824219,0.3729999923706055,0.0484095998108387,Konstantinos Stafylidis,a,368,DirectFreekick,2018,LeftFoot,10541,Freiburg,Augsburg,5,1,2019-02-23 14:30:00,,Standard,368
+294371,93,MissedShots,0.715,0.8080000305175781,0.015176099725067616,Konstantinos Stafylidis,a,368,OpenPlay,2018,LeftFoot,10593,Eintracht Frankfurt,Augsburg,1,3,2019-04-14 17:00:00,Michael Gregoritsch,Pass,368
+295212,52,MissedShots,0.8930000305175781,0.6309999847412109,0.09758300334215164,Konstantinos Stafylidis,h,368,OpenPlay,2018,LeftFoot,10602,Augsburg,VfB Stuttgart,6,0,2019-04-20 14:30:00,,Dispossessed,368
+295225,75,MissedShots,0.75,0.605999984741211,0.013448700308799744,Konstantinos Stafylidis,h,368,FromCorner,2018,LeftFoot,10602,Augsburg,VfB Stuttgart,6,0,2019-04-20 14:30:00,,Aerial,368
+295229,84,MissedShots,0.3679999923706055,0.3129999923706055,0.00860895961523056,Konstantinos Stafylidis,h,368,OpenPlay,2018,LeftFoot,10602,Augsburg,VfB Stuttgart,6,0,2019-04-20 14:30:00,,BallRecovery,368
+299726,28,SavedShot,0.754000015258789,0.805,0.014553099870681763,Konstantinos Stafylidis,a,368,OpenPlay,2018,LeftFoot,10617,Schalke 04,Augsburg,0,0,2019-05-05 12:30:00,Ja-Cheol Koo,Pass,368
+299741,87,MissedShots,0.6719999694824219,0.634000015258789,0.011205299757421017,Konstantinos Stafylidis,a,368,OpenPlay,2018,LeftFoot,10617,Schalke 04,Augsburg,0,0,2019-05-05 12:30:00,Jan Morávek,Pass,368
+333081,85,MissedShots,0.7390000152587891,0.37900001525878907,0.014853600412607193,Konstantinos Stafylidis,h,368,FromCorner,2019,LeftFoot,12506,Hoffenheim,Mainz 05,1,5,2019-11-24 17:00:00,,None,368
+362567,35,BlockedShot,0.774000015258789,0.6869999694824219,0.02166520059108734,Konstantinos Stafylidis,h,368,OpenPlay,2019,LeftFoot,12557,Hoffenheim,Eintracht Frankfurt,1,2,2020-01-18 14:30:00,Sebastian Rudy,Pass,368
+362571,40,SavedShot,0.745,0.6990000152587891,0.016565600410103798,Konstantinos Stafylidis,h,368,OpenPlay,2019,LeftFoot,12557,Hoffenheim,Eintracht Frankfurt,1,2,2020-01-18 14:30:00,Dennis Geiger,Pass,368
+362574,47,Goal,0.7580000305175781,0.595999984741211,0.017563199624419212,Konstantinos Stafylidis,h,368,FromCorner,2019,LeftFoot,12557,Hoffenheim,Eintracht Frankfurt,1,2,2020-01-18 14:30:00,,None,368
+430597,48,BlockedShot,0.7030000305175781,0.485,0.022687099874019623,Konstantinos Stafylidis,h,368,FromCorner,2021,LeftFoot,17550,Bochum,Hertha Berlin,1,3,2021-09-12 15:30:00,Danilo Soares,Pass,368
+430600,54,SavedShot,0.8109999847412109,0.225,0.05376749858260155,Konstantinos Stafylidis,h,368,DirectFreekick,2021,LeftFoot,17550,Bochum,Hertha Berlin,1,3,2021-09-12 15:30:00,,Standard,368
+430605,64,MissedShots,0.7719999694824219,0.40700000762939453,0.02000189945101738,Konstantinos Stafylidis,h,368,FromCorner,2021,RightFoot,17550,Bochum,Hertha Berlin,1,3,2021-09-12 15:30:00,,None,368
+438644,91,SavedShot,0.950999984741211,0.595999984741211,0.43316999077796936,Konstantinos Stafylidis,h,368,OpenPlay,2021,LeftFoot,17588,Bochum,Eintracht Frankfurt,2,0,2021-10-24 17:30:00,Danilo Soares,Throughball,368
+441041,71,BlockedShot,0.695,0.40700000762939453,0.015622500330209732,Konstantinos Stafylidis,h,368,OpenPlay,2021,LeftFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,,BallRecovery,368
+442408,23,MissedShots,0.7430000305175781,0.545,0.01823580078780651,Konstantinos Stafylidis,a,368,OpenPlay,2021,LeftFoot,17622,Bayer Leverkusen,Bochum,1,0,2021-11-20 14:30:00,,BallRecovery,368
+443920,22,BlockedShot,0.7340000152587891,0.445,0.014260799624025822,Konstantinos Stafylidis,h,368,OpenPlay,2021,LeftFoot,17625,Bochum,Freiburg,2,1,2021-11-27 14:30:00,,None,368
+446131,8,BlockedShot,0.7090000152587891,0.4,0.01337449997663498,Konstantinos Stafylidis,a,368,OpenPlay,2021,LeftFoot,17634,Augsburg,Bochum,2,3,2021-12-04 14:30:00,Gerrit Holtmann,Pass,368
+446138,33,MissedShots,0.735,0.4929999923706055,0.02182050049304962,Konstantinos Stafylidis,a,368,OpenPlay,2021,LeftFoot,17634,Augsburg,Bochum,2,3,2021-12-04 14:30:00,Gerrit Holtmann,Pass,368
+448884,93,SavedShot,0.7519999694824219,0.4759999847412109,0.07060880213975906,Konstantinos Stafylidis,a,368,DirectFreekick,2021,LeftFoot,17651,Arminia Bielefeld,Bochum,2,0,2021-12-14 19:30:00,,Standard,368
+449444,27,BlockedShot,0.710999984741211,0.4759999847412109,0.04497189819812775,Konstantinos Stafylidis,h,368,DirectFreekick,2021,LeftFoot,17661,Bochum,Union Berlin,0,1,2021-12-18 14:30:00,,Standard,368
+449451,52,SavedShot,0.6809999847412109,0.23200000762939454,0.010703399777412415,Konstantinos Stafylidis,h,368,OpenPlay,2021,LeftFoot,17661,Bochum,Union Berlin,0,1,2021-12-18 14:30:00,Milos Pantovic,Pass,368
+472894,37,BlockedShot,0.7290000152587891,0.7230000305175781,0.0116955004632473,Konstantinos Stafylidis,h,368,FromCorner,2021,LeftFoot,17751,Bochum,Borussia M.Gladbach,0,2,2022-03-18 17:30:00,,Aerial,368
+465117,2,SavedShot,0.7369999694824219,0.45299999237060545,0.015311299823224545,Konstantinos Stafylidis,a,368,OpenPlay,2021,LeftFoot,17761,Hoffenheim,Bochum,1,2,2022-04-02 13:30:00,,Rebound,368
+467390,56,BlockedShot,0.740999984741211,0.43,0.020117100328207016,Konstantinos Stafylidis,h,368,OpenPlay,2021,RightFoot,17769,Bochum,Bayer Leverkusen,0,0,2022-04-10 13:30:00,Danilo Soares,Pass,368
+468005,23,MissedShots,0.6709999847412109,0.46299999237060546,0.015260799787938595,Konstantinos Stafylidis,a,368,SetPiece,2021,LeftFoot,17781,Freiburg,Bochum,3,0,2022-04-16 13:30:00,Eduard Löwen,Pass,368
+479204,57,MissedShots,0.7390000152587891,0.535,0.014171799644827843,Konstantinos Stafylidis,h,368,SetPiece,2022,LeftFoot,19346,Bochum,Mainz 05,1,2,2022-08-06 13:30:00,,Rebound,368
+479210,89,MissedShots,0.7469999694824219,0.730999984741211,0.009737590327858925,Konstantinos Stafylidis,h,368,OpenPlay,2022,RightFoot,19346,Bochum,Mainz 05,1,2,2022-08-06 13:30:00,Erhan Masovic,Chipped,368
+496364,73,MissedShots,0.745999984741211,0.49,0.014243200421333313,Konstantinos Stafylidis,a,368,OpenPlay,2022,LeftFoot,19446,Wolfsburg,Bochum,4,0,2022-10-29 13:30:00,,None,368
+505774,49,BlockedShot,0.7380000305175781,0.6370000076293946,0.011485399678349495,Konstantinos Stafylidis,a,368,OpenPlay,2022,RightFoot,19499,Mainz 05,Bochum,5,2,2023-01-28 14:30:00,,BallRecovery,368
+505783,72,BlockedShot,0.6969999694824218,0.49599998474121093,0.011457700282335281,Konstantinos Stafylidis,a,368,SetPiece,2022,LeftFoot,19499,Mainz 05,Bochum,5,2,2023-01-28 14:30:00,Takuma Asano,BallTouch,368
+508317,45,MissedShots,0.7340000152587891,0.4640000152587891,0.01560280006378889,Konstantinos Stafylidis,a,368,FromCorner,2022,LeftFoot,19513,Bayern Munich,Bochum,3,0,2023-02-11 14:30:00,,None,368
+508321,53,MissedShots,0.7419999694824219,0.6309999847412109,0.015145599842071533,Konstantinos Stafylidis,a,368,OpenPlay,2022,LeftFoot,19513,Bayern Munich,Bochum,3,0,2023-02-11 14:30:00,Philipp Hofmann,BallRecovery,368
+509485,52,MissedShots,0.8319999694824218,0.665,0.03614160045981407,Konstantinos Stafylidis,h,368,FromCorner,2022,LeftFoot,19528,Bochum,Freiburg,0,2,2023-02-18 14:30:00,Kevin Stöger,Pass,368
+513138,62,BlockedShot,0.6909999847412109,0.44,0.015279900282621384,Konstantinos Stafylidis,a,368,OpenPlay,2022,LeftFoot,19552,FC Cologne,Bochum,0,2,2023-03-10 19:30:00,Kevin Stöger,Pass,368
+515972,19,MissedShots,0.7180000305175781,0.485,0.012922200374305248,Konstantinos Stafylidis,a,368,OpenPlay,2022,RightFoot,19570,Eintracht Frankfurt,Bochum,1,1,2023-03-31 19:30:00,,Aerial,368
+518791,46,SavedShot,0.7090000152587891,0.3220000076293945,0.013267000205814838,Konstantinos Stafylidis,h,368,OpenPlay,2022,LeftFoot,19582,Bochum,VfB Stuttgart,2,3,2023-04-09 15:30:00,Takuma Asano,Pass,368
+524482,57,MissedShots,0.7319999694824219,0.539000015258789,0.055694133043289185,Konstantinos Stafylidis,a,368,DirectFreekick,2022,LeftFoot,19617,Borussia M.Gladbach,Bochum,2,0,2023-05-06 13:30:00,,Standard,368
+525808,8,SavedShot,0.745,0.395,0.013227374292910099,Konstantinos Stafylidis,h,368,FromCorner,2022,RightFoot,19628,Bochum,Augsburg,3,2,2023-05-13 13:30:00,,Aerial,368

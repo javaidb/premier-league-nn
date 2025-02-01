@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+546585,62,BlockedShot,0.895,0.46,0.062184613198041916,Calvin Bassey,h,11728,FromCorner,2023,RightFoot,21998,Fulham,Manchester United,0,1,2023-11-04 12:30:00,Andreas Pereira,Cross,11728
+565246,64,Goal,0.905,0.43099998474121093,0.10451941937208176,Calvin Bassey,a,11728,FromCorner,2023,RightFoot,22152,Manchester United,Fulham,1,2,2024-02-24 15:00:00,Timothy Castagne,Rebound,11728
+565245,64,BlockedShot,0.8859999847412109,0.4179999923706055,0.049044109880924225,Calvin Bassey,a,11728,FromCorner,2023,RightFoot,22152,Manchester United,Fulham,1,2,2024-02-24 15:00:00,Andreas Pereira,Cross,11728
+569579,60,ShotOnPost,0.965999984741211,0.585,0.12779000401496887,Calvin Bassey,h,11728,FromCorner,2023,LeftFoot,22180,Fulham,Tottenham,3,0,2024-03-16 17:30:00,,Rebound,11728
+570798,92,MissedShots,0.914000015258789,0.3890000152587891,0.02493368647992611,Calvin Bassey,a,11728,FromCorner,2023,Head,22193,Sheffield United,Fulham,3,3,2024-03-30 15:00:00,Willian,Cross,11728
+584646,75,BlockedShot,0.8230000305175781,0.5720000076293945,0.03420756012201309,Calvin Bassey,a,11728,FromCorner,2024,LeftFoot,26602,Manchester United,Fulham,1,0,2024-08-16 19:00:00,Rodrigo Muniz,BallTouch,11728
+584649,90,MissedShots,0.915,0.4279999923706055,0.0817909836769104,Calvin Bassey,a,11728,SetPiece,2024,Head,26602,Manchester United,Fulham,1,0,2024-08-16 19:00:00,Andreas Pereira,Cross,11728
+590854,95,MissedShots,0.8909999847412109,0.504000015258789,0.07896795868873596,Calvin Bassey,h,11728,SetPiece,2024,Head,26634,Fulham,West Ham,1,1,2024-09-14 14:00:00,Harrison Reed,Cross,11728
+594072,91,MissedShots,0.69,0.4370000076293945,0.015046975575387478,Calvin Bassey,a,11728,OpenPlay,2024,LeftFoot,26653,Nottingham Forest,Fulham,0,1,2024-09-28 14:00:00,,BallRecovery,11728
+601023,69,SavedShot,0.82,0.5429999923706055,0.04711812362074852,Calvin Bassey,h,11728,FromCorner,2024,RightFoot,26693,Fulham,Brentford,2,1,2024-11-04 20:00:00,Adama Traoré,Pass,11728
+601031,88,SavedShot,0.77,0.6780000305175782,0.019991571083664894,Calvin Bassey,h,11728,OpenPlay,2024,LeftFoot,26693,Fulham,Brentford,2,1,2024-11-04 20:00:00,Sander Berge,Pass,11728
+604629,20,BlockedShot,0.8530000305175781,0.5879999923706055,0.06019973009824753,Calvin Bassey,a,11728,FromCorner,2024,LeftFoot,26729,Tottenham,Fulham,1,1,2024-12-01 13:30:00,,Rebound,11728
+609090,25,SavedShot,0.914000015258789,0.675,0.05356782302260399,Calvin Bassey,a,11728,OpenPlay,2024,LeftFoot,26775,Chelsea,Fulham,1,2,2024-12-26 15:00:00,Alex Iwobi,TakeOn,11728
+612284,35,MissedShots,0.8530000305175781,0.6909999847412109,0.042953360825777054,Calvin Bassey,a,11728,OpenPlay,2024,LeftFoot,26817,Leicester,Fulham,0,2,2025-01-18 15:00:00,Harry Wilson,Pass,11728
+612289,42,BlockedShot,0.96,0.47700000762939454,0.15136565268039703,Calvin Bassey,a,11728,FromCorner,2024,LeftFoot,26817,Leicester,Fulham,0,2,2025-01-18 15:00:00,,Rebound,11728

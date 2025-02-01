@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+52478,91,BlockedShot,0.785,0.6020000076293945,0.032444700598716736,Vadis Odjidja-Ofoe,h,823,OpenPlay,2015,RightFoot,220,Norwich,Arsenal,1,1,2015-11-29 20:15:00,,BallRecovery,823
+55774,4,SavedShot,0.779000015258789,0.55,0.033424001187086105,Vadis Odjidja-Ofoe,a,823,OpenPlay,2015,RightFoot,253,Tottenham,Norwich,3,0,2015-12-26 19:00:00,Robbie Brady,Pass,823
+56421,91,MissedShots,0.7330000305175781,0.6040000152587891,0.016075100749731064,Vadis Odjidja-Ofoe,h,823,OpenPlay,2015,RightFoot,448,Norwich,Watford,4,2,2016-05-11 22:45:00,Matthew Jarvis,Pass,823

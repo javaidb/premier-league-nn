@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+516362,58,OwnGoal,0.017000000476837158,0.48,0,Daniel Iversen,a,10808,SetPiece,2022,OtherBodyPart,18486,Crystal Palace,Leicester,2,1,2023-04-01 14:00:00,,Foul,10808

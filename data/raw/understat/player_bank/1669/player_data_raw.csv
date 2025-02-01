@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1669,Marko Grujic,5,31,0,0.21030020155012608,0,0.02963469922542572,4,1,1,0,S,Liverpool,0,0.21030020155012608,0.3090549949556589,0.13353350199759007,2016
+1669,Marko Grujic,3,9,0,0,0,0.029996199533343315,0,1,0,0,S,Liverpool,0,0,0.029996199533343315,0,2017

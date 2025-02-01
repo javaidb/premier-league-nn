@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14622,22,MissedShots,0.9280000305175782,0.5870000076293945,0.09932240098714828,Ricardo Vaz Te,h,4503,FromCorner,2014,RightFoot,4754,West Ham,Tottenham,0,1,2014-08-16 15:00:00,James Collins,HeadPass,4503
+14623,23,MissedShots,0.9,0.4879999923706055,0.09903629869222641,Ricardo Vaz Te,h,4503,OpenPlay,2014,Head,4754,West Ham,Tottenham,0,1,2014-08-16 15:00:00,Stewart Downing,Cross,4503
+14628,35,MissedShots,0.7769999694824219,0.7040000152587891,0.021328000351786613,Ricardo Vaz Te,h,4503,OpenPlay,2014,LeftFoot,4754,West Ham,Tottenham,0,1,2014-08-16 15:00:00,Mark Noble,Pass,4503
+14630,36,BlockedShot,0.9269999694824219,0.32799999237060545,0.04874410107731819,Ricardo Vaz Te,h,4503,FromCorner,2014,RightFoot,4754,West Ham,Tottenham,0,1,2014-08-16 15:00:00,Joey O&#039;Brien,None,4503
+14632,41,SavedShot,0.905,0.5279999923706055,0.2695089876651764,Ricardo Vaz Te,h,4503,OpenPlay,2014,Head,4754,West Ham,Tottenham,0,1,2014-08-16 15:00:00,Joey O&#039;Brien,Cross,4503
+14715,41,SavedShot,0.7340000152587891,0.3529999923706055,0.015959899872541428,Ricardo Vaz Te,a,4503,OpenPlay,2014,RightFoot,4761,Crystal Palace,West Ham,1,3,2014-08-23 15:00:00,,BallRecovery,4503
+15128,21,SavedShot,0.9319999694824219,0.44299999237060544,0.5308899879455566,Ricardo Vaz Te,h,4503,SetPiece,2014,RightFoot,4774,West Ham,Southampton,1,3,2014-08-30 15:00:00,,Rebound,4503

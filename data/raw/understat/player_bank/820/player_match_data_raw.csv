@@ -1,0 +1,36 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,90,GK,Leicester,West Bromwich Albion,1,1,2017-10-16,7192,2017,178396,0,0,0,0,0,0,0,820
+0,0,0,90,GK,Tottenham,West Bromwich Albion,1,1,2016-04-25,426,2015,62626,0,0,0,0,0,0,0,820
+0,0,0,90,GK,Southampton,West Bromwich Albion,3,0,2016-01-16,294,2015,58310,0,0,0,0,0,0.1407420039176941,0.1407420039176941,820
+0,0,0,90,GK,Chelsea,West Bromwich Albion,2,2,2016-01-13,287,2015,59985,0,0,0,0,0,0,0,820
+0,0,0,90,GK,West Bromwich Albion,Stoke,2,1,2016-01-02,272,2015,58324,0,0,0,0,0,0.07135149836540222,0.07135149836540222,820
+0,0,0,90,GK,West Bromwich Albion,Newcastle United,1,0,2015-12-28,261,2015,60192,0,0,0,0,0,0,0,820
+0,0,0,90,GK,Swansea,West Bromwich Albion,1,0,2015-12-26,252,2015,61550,0,0,0,0,0,0,0,820
+0,0,0,90,GK,West Bromwich Albion,Bournemouth,1,2,2015-12-19,241,2015,59172,0,0,0,0,0,0,0,820
+0,0,0,90,GK,Liverpool,West Bromwich Albion,2,2,2015-12-13,238,2015,59904,0,0,0,0,0,0,0,820
+0,0,0,90,GK,West Bromwich Albion,Tottenham,1,1,2015-12-05,224,2015,58517,0,0,0,0,0,0,0,820
+0,0,0,90,GK,West Ham,West Bromwich Albion,1,1,2015-11-29,218,2015,58994,0,0,0,0,0,0,0,820
+0,0,0,90,GK,West Bromwich Albion,Arsenal,2,1,2015-11-21,204,2015,61426,0,0,0,0,0,0,0,820
+0,0,0,90,GK,Manchester United,West Bromwich Albion,2,0,2015-11-07,193,2015,61195,0,0,0,0,0,0.43446001410484314,0.43446001410484314,820
+0,0,0,90,GK,West Bromwich Albion,Leicester,2,3,2015-10-31,187,2015,59558,0,0,0,0,0,0,0,820
+0,0,0,90,GK,Norwich,West Bromwich Albion,0,1,2015-10-24,174,2015,65405,0,0,0,0,0,0,0,820
+0,0,0,90,GK,West Bromwich Albion,Sunderland,1,0,2015-10-17,163,2015,65201,0,0,0,0,0,0,0,820
+0,0,0,90,GK,Crystal Palace,West Bromwich Albion,2,0,2015-10-03,151,2015,64776,0,0,0,0,0,0,0,820
+0,0,0,90,GK,West Bromwich Albion,Everton,2,3,2015-09-28,150,2015,64596,0,0,0,0,0,0.012868699617683887,0.012868699617683887,820
+0,0,0,90,GK,Aston Villa,West Bromwich Albion,0,1,2015-09-19,133,2015,64112,0,0,0,0,0,0,0,820
+0,0,0,90,GK,West Bromwich Albion,Southampton,0,0,2015-09-12,125,2015,64043,0,0,0,0,0,0,0,820
+0,0,0,90,GK,Stoke,West Bromwich Albion,0,1,2015-08-29,112,2015,63751,0,0,0,0,0,0.2858690023422241,0.2858690023422241,820
+0,0,0,90,GK,West Bromwich Albion,Chelsea,2,3,2015-08-23,107,2015,63187,0,0,0,0,0,0.026988400146365166,0.026988400146365166,820
+0,0,0,90,GK,Watford,West Bromwich Albion,0,0,2015-08-15,96,2015,57591,0,0,0,0,0,0,0,820
+0,0,0,90,GK,West Bromwich Albion,Manchester City,0,3,2015-08-10,90,2015,57329,0,0,0,0,0,0.04032209888100624,0.04032209888100624,820
+0,0,0,90,GK,Arsenal,West Bromwich Albion,4,1,2015-05-24,4433,2014,24892,0,0,0,0,0,0.07549989968538284,0.07549989968538284,820
+0,0,0,90,GK,West Bromwich Albion,Chelsea,3,0,2015-05-18,4428,2014,24439,0,0,0,0,0,0.0960111990571022,0.0960111990571022,820
+0,0,0,90,GK,Newcastle United,West Bromwich Albion,1,1,2015-05-09,4413,2014,24726,0,0,0,0,0,0,0,820
+0,0,0,90,GK,Manchester United,West Bromwich Albion,0,1,2015-05-02,4405,2014,24564,0,0,0,0,0,0,0,820
+0,0,0,90,GK,West Bromwich Albion,Liverpool,0,0,2015-04-25,4471,2014,23227,0,0,0,0,0,0,0,820
+0,0,0,90,GK,Crystal Palace,West Bromwich Albion,0,2,2015-04-18,4462,2014,23185,0,0,0,0,0,0,0,820
+0,0,0,90,GK,West Bromwich Albion,Leicester,2,3,2015-04-11,4456,2014,24604,0,0,0,0,0,0,0,820
+0,0,0,90,GK,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04,4445,2014,25699,0,0,0,0,0,0,0,820
+0,0,0,90,GK,Manchester City,West Bromwich Albion,3,0,2015-03-21,4503,2014,24809,0,0,0,0,0,0,0,820
+0,0,0,32,Sub,West Bromwich Albion,Stoke,1,0,2015-03-14,4496,2014,23928,0,0,0,0,0,0,0,820
+0,0,0,90,GK,West Bromwich Albion,Manchester United,2,2,2014-10-20,4708,2014,19815,0,0,0,0,0,0.39950698614120483,0.39950698614120483,820

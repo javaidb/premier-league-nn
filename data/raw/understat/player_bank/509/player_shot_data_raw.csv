@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+53133,57,OwnGoal,0.012999999523162841,0.500999984741211,0,Wayne Hennessey,a,509,FromCorner,2015,OtherBodyPart,282,Aston Villa,Crystal Palace,1,0,2016-01-12 23:45:00,,Save,509

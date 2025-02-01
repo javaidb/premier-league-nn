@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+479606,75,MissedShots,0.6969999694824218,0.610999984741211,0.013501299545168877,Lisandro Martínez,h,10802,OpenPlay,2022,LeftFoot,18209,Manchester United,Brighton,1,2,2022-08-07 13:00:00,Luke Shaw,Pass,10802
+479611,86,BlockedShot,0.965999984741211,0.669000015258789,0.05400789901614189,Lisandro Martínez,h,10802,FromCorner,2022,LeftFoot,18209,Manchester United,Brighton,1,2,2022-08-07 13:00:00,,Rebound,10802
+479610,86,BlockedShot,0.8859999847412109,0.6569999694824219,0.009742439724504948,Lisandro Martínez,h,10802,FromCorner,2022,Head,18209,Manchester United,Brighton,1,2,2022-08-07 13:00:00,Christian Eriksen,Cross,10802
+505087,58,Goal,0.9159999847412109,0.534000015258789,0.047229498624801636,Lisandro Martínez,a,10802,FromCorner,2022,Head,18402,Arsenal,Manchester United,3,2,2023-01-22 16:30:00,,None,10802
+510128,48,ShotOnPost,0.909000015258789,0.44299999237060544,0.20259200036525726,Lisandro Martínez,h,10802,SetPiece,2022,Head,18437,Manchester United,Leicester,3,0,2023-02-19 14:00:00,Luke Shaw,Cross,10802
+510144,72,MissedShots,0.9009999847412109,0.5309999847412109,0.06059959903359413,Lisandro Martínez,h,10802,FromCorner,2022,Head,18437,Manchester United,Leicester,3,0,2023-02-19 14:00:00,Bruno Fernandes,Cross,10802
+513915,38,MissedShots,0.9169999694824219,0.54,0.03362629935145378,Lisandro Martínez,h,10802,FromCorner,2022,Head,18468,Manchester United,Southampton,0,0,2023-03-12 14:00:00,Luke Shaw,Aerial,10802
+513925,67,MissedShots,0.8959999847412109,0.41700000762939454,0.02818799950182438,Lisandro Martínez,h,10802,FromCorner,2022,Head,18468,Manchester United,Southampton,0,0,2023-03-12 14:00:00,Luke Shaw,Cross,10802
+517755,30,BlockedShot,0.81,0.6809999847412109,0.015026199631392956,Lisandro Martínez,h,10802,FromCorner,2022,LeftFoot,18498,Manchester United,Everton,2,0,2023-04-08 11:30:00,,Aerial,10802
+517763,45,MissedShots,0.87,0.555,0.06065690144896507,Lisandro Martínez,h,10802,FromCorner,2022,LeftFoot,18498,Manchester United,Everton,2,0,2023-04-08 11:30:00,Jadon Sancho,Pass,10802
+533350,82,OwnGoal,0.04699999809265137,0.48700000762939455,0,Lisandro Martínez,a,10802,OpenPlay,2023,RightFoot,22290,Tottenham,Manchester United,2,0,2023-08-19 16:30:00,,Challenge,10802
+589914,72,MissedShots,0.91,0.47400001525878904,0.34333536028862,Lisandro Martínez,h,10802,FromCorner,2024,LeftFoot,26631,Manchester United,Liverpool,0,3,2024-09-01 15:00:00,Amad Diallo Traore,Cross,10802
+592620,13,SavedShot,0.9630000305175781,0.5590000152587891,0.5962288975715637,Lisandro Martínez,a,10802,OpenPlay,2024,LeftFoot,26649,Crystal Palace,Manchester United,0,0,2024-09-21 16:30:00,,None,10802
+594794,25,SavedShot,0.5929999923706055,0.72,0.007528273388743401,Lisandro Martínez,h,10802,OpenPlay,2024,LeftFoot,26660,Manchester United,Tottenham,0,3,2024-09-29 15:30:00,,None,10802
+594808,59,BlockedShot,0.9169999694824219,0.6530000305175782,0.012668974697589874,Lisandro Martínez,h,10802,FromCorner,2024,Head,26660,Manchester United,Tottenham,0,3,2024-09-29 15:30:00,Mason Mount,Cross,10802
+594809,60,MissedShots,0.889000015258789,0.644000015258789,0.04949546605348587,Lisandro Martínez,h,10802,FromCorner,2024,LeftFoot,26660,Manchester United,Tottenham,0,3,2024-09-29 15:30:00,Casemiro,Pass,10802
+594812,71,BlockedShot,0.8569999694824219,0.5620000076293945,0.09785651415586472,Lisandro Martínez,h,10802,OpenPlay,2024,LeftFoot,26660,Manchester United,Tottenham,0,3,2024-09-29 15:30:00,Casemiro,Pass,10802
+597017,20,SavedShot,0.95,0.64,0.01609337329864502,Lisandro Martínez,h,10802,FromCorner,2024,Head,26675,Manchester United,Brentford,2,1,2024-10-19 14:00:00,Christian Eriksen,Cross,10802
+606008,73,BlockedShot,0.759000015258789,0.654000015258789,0.017530592158436775,Lisandro Martínez,h,10802,OpenPlay,2024,LeftFoot,26744,Manchester United,Nottingham Forest,2,3,2024-12-07 17:30:00,Diogo Dalot,Pass,10802
+606013,94,MissedShots,0.9019999694824219,0.4,0.04861457273364067,Lisandro Martínez,h,10802,FromCorner,2024,LeftFoot,26744,Manchester United,Nottingham Forest,2,3,2024-12-07 17:30:00,Marcus Rashford,Cross,10802
+607628,31,BlockedShot,0.815,0.715999984741211,0.02497120574116707,Lisandro Martínez,a,10802,OpenPlay,2024,LeftFoot,26753,Manchester City,Manchester United,1,2,2024-12-15 16:30:00,Manuel Ugarte,Pass,10802
+608702,35,BlockedShot,0.904000015258789,0.32799999237060545,0.04574083164334297,Lisandro Martínez,h,10802,FromCorner,2024,LeftFoot,26769,Manchester United,Bournemouth,0,3,2024-12-22 14:00:00,,None,10802
+608706,42,MissedShots,0.9309999847412109,0.534000015258789,0.11091578751802444,Lisandro Martínez,h,10802,FromCorner,2024,Head,26769,Manchester United,Bournemouth,0,3,2024-12-22 14:00:00,Amad Diallo Traore,Cross,10802
+609200,33,SavedShot,0.9030000305175782,0.44,0.05416097119450569,Lisandro Martínez,a,10802,SetPiece,2024,Head,26781,Wolverhampton Wanderers,Manchester United,2,0,2024-12-26 17:30:00,Diogo Dalot,HeadPass,10802
+610331,51,Goal,0.9390000152587891,0.6819999694824219,0.11607535928487778,Lisandro Martínez,a,10802,OpenPlay,2024,LeftFoot,26797,Liverpool,Manchester United,2,2,2025-01-05 16:30:00,Bruno Fernandes,Throughball,10802
+614107,77,Goal,0.78,0.6659999847412109,0.020723477005958557,Lisandro Martínez,a,10802,OpenPlay,2024,LeftFoot,26826,Fulham,Manchester United,0,1,2025-01-26 19:00:00,,None,10802

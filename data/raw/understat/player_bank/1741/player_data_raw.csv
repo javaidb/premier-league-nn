@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1741,Zlatan Ibrahimovic,28,2435,17,14.637965865433216,5,5.118233298882842,115,48,7,0,F S,Manchester United,15,12.354456894099712,20.056939974427223,6.219505451619625,2016
+1741,Zlatan Ibrahimovic,5,97,0,0.2953645959496498,0,0.11908110231161118,4,2,0,0,M S,Manchester United,0,0.2953645959496498,1.0263181030750275,0.7336299922317266,2017

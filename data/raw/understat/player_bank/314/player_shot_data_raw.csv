@@ -1,0 +1,439 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+26150,43,SavedShot,0.745,0.47200000762939454,0.02315239980816841,Ilkay Gündogan,a,314,OpenPlay,2014,RightFoot,5397,FC Cologne,Borussia Dortmund,2,1,2014-10-18 14:30:00,Sebastian Kehl,Pass,314
+26157,55,BlockedShot,0.78,0.720999984741211,0.01569250039756298,Ilkay Gündogan,a,314,OpenPlay,2014,RightFoot,5397,FC Cologne,Borussia Dortmund,2,1,2014-10-18 14:30:00,Kevin Großkreutz,Pass,314
+27385,38,BlockedShot,0.7919999694824219,0.5609999847412109,0.01714479923248291,Ilkay Gündogan,a,314,FromCorner,2014,LeftFoot,5370,Paderborn,Borussia Dortmund,2,2,2014-11-22 14:30:00,,Aerial,314
+27391,57,MissedShots,0.7380000305175781,0.40799999237060547,0.01798729971051216,Ilkay Gündogan,a,314,OpenPlay,2014,RightFoot,5370,Paderborn,Borussia Dortmund,2,2,2014-11-22 14:30:00,,None,314
+27198,80,SavedShot,0.784000015258789,0.49,0.10659799724817276,Ilkay Gündogan,a,314,DirectFreekick,2014,RightFoot,5382,Eintracht Frankfurt,Borussia Dortmund,2,0,2014-11-30 16:30:00,,Standard,314
+27250,16,Goal,0.9640000152587891,0.5570000076293945,0.5275170207023621,Ilkay Gündogan,h,314,OpenPlay,2014,Head,5312,Borussia Dortmund,Hoffenheim,1,0,2014-12-05 19:30:00,Pierre-Emerick Aubameyang,Cross,314
+27260,59,MissedShots,0.81,0.534000015258789,0.06480810046195984,Ilkay Gündogan,h,314,OpenPlay,2014,RightFoot,5312,Borussia Dortmund,Hoffenheim,1,0,2014-12-05 19:30:00,Henrikh Mkhitaryan,Pass,314
+27264,67,BlockedShot,0.7769999694824219,0.5070000076293946,0.038491200655698776,Ilkay Gündogan,h,314,OpenPlay,2014,RightFoot,5312,Borussia Dortmund,Hoffenheim,1,0,2014-12-05 19:30:00,Adrián Ramos,Pass,314
+27269,82,MissedShots,0.8919999694824219,0.38,0.09985149651765823,Ilkay Gündogan,h,314,OpenPlay,2014,RightFoot,5312,Borussia Dortmund,Hoffenheim,1,0,2014-12-05 19:30:00,Pierre-Emerick Aubameyang,BallTouch,314
+28150,40,BlockedShot,0.81,0.5420000076293945,0.04896790161728859,Ilkay Gündogan,a,314,OpenPlay,2014,LeftFoot,5322,Hertha Berlin,Borussia Dortmund,1,0,2014-12-13 14:30:00,Jakub Blaszczykowski,Pass,314
+28152,41,MissedShots,0.740999984741211,0.664000015258789,0.010536200366914272,Ilkay Gündogan,a,314,FromCorner,2014,RightFoot,5322,Hertha Berlin,Borussia Dortmund,1,0,2014-12-13 14:30:00,Jakub Blaszczykowski,HeadPass,314
+28158,72,BlockedShot,0.8009999847412109,0.639000015258789,0.09581240266561508,Ilkay Gündogan,a,314,DirectFreekick,2014,RightFoot,5322,Hertha Berlin,Borussia Dortmund,1,0,2014-12-13 14:30:00,,Standard,314
+28162,79,SavedShot,0.6819999694824219,0.4640000152587891,0.008833140134811401,Ilkay Gündogan,a,314,OpenPlay,2014,RightFoot,5322,Hertha Berlin,Borussia Dortmund,1,0,2014-12-13 14:30:00,,Aerial,314
+28274,83,SavedShot,0.865999984741211,0.575,0.024819400161504745,Ilkay Gündogan,a,314,OpenPlay,2014,Head,5341,Werder Bremen,Borussia Dortmund,2,1,2014-12-20 14:30:00,Marcel Schmelzer,Cross,314
+29783,70,SavedShot,0.710999984741211,0.524000015258789,0.016273800283670425,Ilkay Gündogan,h,314,FromCorner,2014,LeftFoot,5266,Borussia Dortmund,Augsburg,0,1,2015-02-04 19:00:00,,BallRecovery,314
+29833,2,SavedShot,0.73,0.33099998474121095,0.014252799563109875,Ilkay Gündogan,a,314,OpenPlay,2014,RightFoot,5273,Freiburg,Borussia Dortmund,0,3,2015-02-07 14:30:00,Kevin Kampl,Pass,314
+29835,4,SavedShot,0.795,0.32799999237060545,0.018452899530529976,Ilkay Gündogan,a,314,OpenPlay,2014,RightFoot,5273,Freiburg,Borussia Dortmund,0,3,2015-02-07 14:30:00,,Rebound,314
+29836,7,MissedShots,0.7269999694824218,0.225,0.010614999569952488,Ilkay Gündogan,a,314,OpenPlay,2014,RightFoot,5273,Freiburg,Borussia Dortmund,0,3,2015-02-07 14:30:00,,Interception,314
+29839,23,MissedShots,0.7219999694824218,0.29700000762939455,0.018118100240826607,Ilkay Gündogan,a,314,OpenPlay,2014,RightFoot,5273,Freiburg,Borussia Dortmund,0,3,2015-02-07 14:30:00,,TakeOn,314
+28895,13,BlockedShot,0.8040000152587891,0.48700000762939455,0.052672598510980606,Ilkay Gündogan,h,314,OpenPlay,2014,RightFoot,5280,Borussia Dortmund,Mainz 05,4,2,2015-02-13 19:30:00,Marco Reus,TakeOn,314
+28910,73,MissedShots,0.74,0.51,0.021854499354958534,Ilkay Gündogan,h,314,OpenPlay,2014,RightFoot,5280,Borussia Dortmund,Mainz 05,4,2,2015-02-13 19:30:00,Nuri Sahin,Pass,314
+29445,14,SavedShot,0.745999984741211,0.3920000076293945,0.01853249967098236,Ilkay Gündogan,a,314,OpenPlay,2014,RightFoot,5289,VfB Stuttgart,Borussia Dortmund,2,3,2015-02-20 19:30:00,,Dispossessed,314
+29454,38,Goal,0.8819999694824219,0.3160000038146973,0.05095319822430611,Ilkay Gündogan,a,314,OpenPlay,2014,RightFoot,5289,VfB Stuttgart,Borussia Dortmund,2,3,2015-02-20 19:30:00,,None,314
+28877,57,MissedShots,0.67,0.46799999237060547,0.011571899987757206,Ilkay Gündogan,h,314,FromCorner,2014,RightFoot,5299,Borussia Dortmund,Schalke 04,3,0,2015-02-28 14:30:00,,None,314
+31915,63,BlockedShot,0.7909999847412109,0.5529999923706055,0.05397919937968254,Ilkay Gündogan,a,314,OpenPlay,2014,RightFoot,5254,Hannover 96,Borussia Dortmund,2,3,2015-03-21 14:30:00,Marco Reus,Pass,314
+32244,38,BlockedShot,0.774000015258789,0.41,0.025467699393630028,Ilkay Gündogan,h,314,OpenPlay,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,None,314
+32249,50,MissedShots,0.7390000152587891,0.44299999237060544,0.010441199876368046,Ilkay Gündogan,h,314,OpenPlay,2014,LeftFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,Aerial,314
+32251,53,BlockedShot,0.7480000305175781,0.53,0.01941619999706745,Ilkay Gündogan,h,314,OpenPlay,2014,RightFoot,5201,Borussia Dortmund,Bayern Munich,0,1,2015-04-04 17:30:00,,BallRecovery,314
+30945,31,BlockedShot,0.749000015258789,0.524000015258789,0.02212510071694851,Ilkay Gündogan,a,314,OpenPlay,2014,RightFoot,5207,Borussia M.Gladbach,Borussia Dortmund,3,1,2015-04-11 14:30:00,Shinji Kagawa,Pass,314
+30958,76,Goal,0.899000015258789,0.580999984741211,0.3233500123023987,Ilkay Gündogan,a,314,OpenPlay,2014,LeftFoot,5207,Borussia M.Gladbach,Borussia Dortmund,3,1,2015-04-11 14:30:00,Jeremy Dudziak,Pass,314
+30959,78,MissedShots,0.735999984741211,0.45799999237060546,0.009663869626820087,Ilkay Gündogan,a,314,OpenPlay,2014,RightFoot,5207,Borussia M.Gladbach,Borussia Dortmund,3,1,2015-04-11 14:30:00,Jakub Blaszczykowski,Chipped,314
+31625,11,MissedShots,0.6940000152587891,0.5629999923706055,0.012813599780201912,Ilkay Gündogan,h,314,OpenPlay,2014,LeftFoot,5217,Borussia Dortmund,Paderborn,3,0,2015-04-18 14:30:00,Shinji Kagawa,BallRecovery,314
+31638,53,BlockedShot,0.89,0.674000015258789,0.06413400173187256,Ilkay Gündogan,h,314,OpenPlay,2014,RightFoot,5217,Borussia Dortmund,Paderborn,3,0,2015-04-18 14:30:00,,Rebound,314
+31637,53,BlockedShot,0.860999984741211,0.6509999847412109,0.07681780308485031,Ilkay Gündogan,h,314,OpenPlay,2014,LeftFoot,5217,Borussia Dortmund,Paderborn,3,0,2015-04-18 14:30:00,Jakub Blaszczykowski,Pass,314
+31643,73,MissedShots,0.7430000305175781,0.6580000305175782,0.01786229945719242,Ilkay Gündogan,h,314,OpenPlay,2014,LeftFoot,5217,Borussia Dortmund,Paderborn,3,0,2015-04-18 14:30:00,Mats Hummels,BallRecovery,314
+30885,22,BlockedShot,0.7090000152587891,0.44,0.009538100101053715,Ilkay Gündogan,a,314,OpenPlay,2014,RightFoot,5162,Hoffenheim,Borussia Dortmund,1,1,2015-05-02 14:30:00,,Aerial,314
+30906,89,BlockedShot,0.89,0.6140000152587891,0.0951559990644455,Ilkay Gündogan,a,314,OpenPlay,2014,LeftFoot,5162,Hoffenheim,Borussia Dortmund,1,1,2015-05-02 14:30:00,Ciro Immobile,Pass,314
+31405,48,MissedShots,0.8159999847412109,0.4329999923706055,0.05146440118551254,Ilkay Gündogan,h,314,OpenPlay,2014,RightFoot,5170,Borussia Dortmund,Hertha Berlin,2,0,2015-05-09 14:30:00,,None,314
+31407,69,BlockedShot,0.875999984741211,0.6930000305175781,0.04856279864907265,Ilkay Gündogan,h,314,OpenPlay,2014,LeftFoot,5170,Borussia Dortmund,Hertha Berlin,2,0,2015-05-09 14:30:00,Kevin Kampl,None,314
+31136,28,BlockedShot,0.7669999694824219,0.49700000762939456,0.05543050169944763,Ilkay Gündogan,h,314,OpenPlay,2014,RightFoot,5193,Borussia Dortmund,Werder Bremen,3,2,2015-05-23 14:30:00,Henrikh Mkhitaryan,TakeOn,314
+76090,20,BlockedShot,0.6990000152587891,0.39599998474121095,0.037077099084854126,Ilkay Gündogan,h,314,DirectFreekick,2015,RightFoot,1027,Borussia Dortmund,Borussia M.Gladbach,4,0,2015-08-15 20:30:00,,Standard,314
+76107,86,SavedShot,0.7719999694824219,0.5570000076293945,0.04125870019197464,Ilkay Gündogan,h,314,OpenPlay,2015,RightFoot,1027,Borussia Dortmund,Borussia M.Gladbach,4,0,2015-08-15 20:30:00,Julian Weigl,Pass,314
+76557,66,BlockedShot,0.9269999694824219,0.35900001525878905,0.1082020029425621,Ilkay Gündogan,h,314,OpenPlay,2015,RightFoot,1046,Borussia Dortmund,Hertha Berlin,3,1,2015-08-30 17:30:00,Shinji Kagawa,Pass,314
+76888,15,MissedShots,0.765,0.39,0.02967360056936741,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Mats Hummels,TakeOn,314
+76891,24,MissedShots,0.825999984741211,0.4370000076293945,0.062249600887298584,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Henrikh Mkhitaryan,Pass,314
+76905,86,MissedShots,0.7390000152587891,0.41900001525878905,0.01802160032093525,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1050,Hannover 96,Borussia Dortmund,2,4,2015-09-12 17:30:00,Adnan Januzaj,Pass,314
+76977,14,MissedShots,0.8190000152587891,0.41,0.06428830325603485,Ilkay Gündogan,h,314,OpenPlay,2015,RightFoot,1065,Borussia Dortmund,Bayer Leverkusen,3,0,2015-09-20 19:30:00,Shinji Kagawa,LayOff,314
+76988,53,BlockedShot,0.745999984741211,0.605,0.058687400072813034,Ilkay Gündogan,h,314,DirectFreekick,2015,RightFoot,1065,Borussia Dortmund,Bayer Leverkusen,3,0,2015-09-20 19:30:00,,Standard,314
+76993,72,BlockedShot,0.7319999694824219,0.5820000076293945,0.02371790073812008,Ilkay Gündogan,h,314,OpenPlay,2015,RightFoot,1065,Borussia Dortmund,Bayer Leverkusen,3,0,2015-09-20 19:30:00,Henrikh Mkhitaryan,Pass,314
+76999,85,SavedShot,0.86,0.315,0.060454998165369034,Ilkay Gündogan,h,314,OpenPlay,2015,LeftFoot,1065,Borussia Dortmund,Bayer Leverkusen,3,0,2015-09-20 19:30:00,Adnan Januzaj,Pass,314
+77393,60,BlockedShot,0.7340000152587891,0.355,0.01197190023958683,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1070,Hoffenheim,Borussia Dortmund,1,1,2015-09-23 22:00:00,,Rebound,314
+77452,46,MissedShots,0.8069999694824219,0.5520000076293945,0.04322410002350807,Ilkay Gündogan,h,314,OpenPlay,2015,RightFoot,1083,Borussia Dortmund,Darmstadt,2,2,2015-09-27 19:30:00,,BallTouch,314
+77692,4,BlockedShot,0.774000015258789,0.6930000305175781,0.05873269960284233,Ilkay Gündogan,a,314,DirectFreekick,2015,RightFoot,1092,Bayern Munich,Borussia Dortmund,5,1,2015-10-04 19:30:00,,Standard,314
+78122,12,MissedShots,0.7559999847412109,0.500999984741211,0.018814099952578545,Ilkay Gündogan,a,314,FromCorner,2015,RightFoot,1093,Mainz 05,Borussia Dortmund,0,2,2015-10-16 22:30:00,,None,314
+78137,65,BlockedShot,0.7469999694824219,0.4420000076293945,0.021553199738264084,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1093,Mainz 05,Borussia Dortmund,0,2,2015-10-16 22:30:00,,Rebound,314
+78186,27,SavedShot,0.7609999847412109,0.500999984741211,0.026019500568509102,Ilkay Gündogan,h,314,OpenPlay,2015,LeftFoot,1109,Borussia Dortmund,Augsburg,5,1,2015-10-25 18:30:00,Shinji Kagawa,Pass,314
+78668,34,MissedShots,0.6990000152587891,0.46,0.012841899879276752,Ilkay Gündogan,h,314,OpenPlay,2015,RightFoot,1127,Borussia Dortmund,Schalke 04,3,2,2015-11-08 18:30:00,Henrikh Mkhitaryan,BallRecovery,314
+78671,46,MissedShots,0.9330000305175781,0.8209999847412109,0.06813889741897583,Ilkay Gündogan,h,314,DirectFreekick,2015,RightFoot,1127,Borussia Dortmund,Schalke 04,3,2,2015-11-08 18:30:00,,Standard,314
+78673,48,MissedShots,0.7530000305175781,0.525,0.02673809975385666,Ilkay Gündogan,h,314,OpenPlay,2015,LeftFoot,1127,Borussia Dortmund,Schalke 04,3,2,2015-11-08 18:30:00,Pierre-Emerick Aubameyang,Pass,314
+78674,49,SavedShot,0.799000015258789,0.40900001525878904,0.059380099177360535,Ilkay Gündogan,h,314,OpenPlay,2015,RightFoot,1127,Borussia Dortmund,Schalke 04,3,2,2015-11-08 18:30:00,Pierre-Emerick Aubameyang,Pass,314
+78684,92,SavedShot,0.8919999694824219,0.42200000762939455,0.42017000913619995,Ilkay Gündogan,h,314,OpenPlay,2015,RightFoot,1127,Borussia Dortmund,Schalke 04,3,2,2015-11-08 18:30:00,Matthias Ginter,Pass,314
+78960,24,BlockedShot,0.769000015258789,0.5379999923706055,0.02706650085747242,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1129,Hamburger SV,Borussia Dortmund,3,1,2015-11-20 23:45:00,Henrikh Mkhitaryan,Pass,314
+78971,63,MissedShots,0.825,0.5270000076293946,0.026554100215435028,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1129,Hamburger SV,Borussia Dortmund,3,1,2015-11-20 23:45:00,Gonzalo Castro,HeadPass,314
+78973,75,SavedShot,0.7909999847412109,0.56,0.11015400290489197,Ilkay Gündogan,a,314,DirectFreekick,2015,RightFoot,1129,Hamburger SV,Borussia Dortmund,3,1,2015-11-20 23:45:00,,Standard,314
+78974,77,MissedShots,0.789000015258789,0.38,0.023402199149131775,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1129,Hamburger SV,Borussia Dortmund,3,1,2015-11-20 23:45:00,,None,314
+79137,51,SavedShot,0.72,0.92,0.02220119908452034,Ilkay Gündogan,h,314,DirectFreekick,2015,RightFoot,1144,Borussia Dortmund,VfB Stuttgart,4,1,2015-11-29 18:30:00,,Standard,314
+79402,2,ShotOnPost,0.7519999694824219,0.49700000762939456,0.07110120356082916,Ilkay Gündogan,a,314,DirectFreekick,2015,RightFoot,1153,Wolfsburg,Borussia Dortmund,1,2,2015-12-05 21:30:00,,Standard,314
+79625,5,SavedShot,0.8580000305175781,0.3129999923706055,0.04381920024752617,Ilkay Gündogan,h,314,OpenPlay,2015,RightFoot,1164,Borussia Dortmund,Eintracht Frankfurt,4,1,2015-12-13 20:30:00,Henrikh Mkhitaryan,Pass,314
+79631,32,BlockedShot,0.7730000305175782,0.49700000762939456,0.022987399250268936,Ilkay Gündogan,h,314,OpenPlay,2015,RightFoot,1164,Borussia Dortmund,Eintracht Frankfurt,4,1,2015-12-13 20:30:00,Lukasz Piszczek,HeadPass,314
+79633,39,SavedShot,0.9790000152587891,0.41900001525878905,0.4286380112171173,Ilkay Gündogan,h,314,OpenPlay,2015,RightFoot,1164,Borussia Dortmund,Eintracht Frankfurt,4,1,2015-12-13 20:30:00,Henrikh Mkhitaryan,TakeOn,314
+79973,11,BlockedShot,0.764000015258789,0.4,0.02297619916498661,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1169,FC Cologne,Borussia Dortmund,2,1,2015-12-19 18:30:00,Henrikh Mkhitaryan,Pass,314
+79986,58,MissedShots,0.7480000305175781,0.5940000152587891,0.02265780046582222,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1169,FC Cologne,Borussia Dortmund,2,1,2015-12-19 18:30:00,Shinji Kagawa,Pass,314
+80092,1,MissedShots,0.81,0.5459999847412109,0.0817255973815918,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1180,Borussia M.Gladbach,Borussia Dortmund,1,3,2016-01-23 21:30:00,Marco Reus,Pass,314
+80096,25,BlockedShot,0.7630000305175781,0.34299999237060547,0.018285999074578285,Ilkay Gündogan,a,314,OpenPlay,2015,LeftFoot,1180,Borussia M.Gladbach,Borussia Dortmund,1,3,2016-01-23 21:30:00,Gonzalo Castro,Dispossessed,314
+80097,32,ShotOnPost,0.7519999694824219,0.41700000762939454,0.021067600697278976,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1180,Borussia M.Gladbach,Borussia Dortmund,1,3,2016-01-23 21:30:00,Henrikh Mkhitaryan,Pass,314
+80111,74,Goal,0.925,0.445,0.5262749791145325,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1180,Borussia M.Gladbach,Borussia Dortmund,1,3,2016-01-23 21:30:00,Henrikh Mkhitaryan,Cross,314
+80677,7,MissedShots,0.7280000305175781,0.3659999847412109,0.023739999160170555,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1196,Hertha Berlin,Borussia Dortmund,0,0,2016-02-06 18:30:00,,None,314
+80758,43,SavedShot,0.795,0.4490000152587891,0.0400983989238739,Ilkay Gündogan,h,314,OpenPlay,2015,LeftFoot,1203,Borussia Dortmund,Hannover 96,1,0,2016-02-13 18:30:00,,None,314
+80760,53,MissedShots,0.8469999694824218,0.455,0.09162230044603348,Ilkay Gündogan,h,314,OpenPlay,2015,RightFoot,1203,Borussia Dortmund,Hannover 96,1,0,2016-02-13 18:30:00,Henrikh Mkhitaryan,Pass,314
+80761,55,BlockedShot,0.7880000305175782,0.5259999847412109,0.037126101553440094,Ilkay Gündogan,h,314,FromCorner,2015,RightFoot,1203,Borussia Dortmund,Hannover 96,1,0,2016-02-13 18:30:00,Marco Reus,Pass,314
+81219,47,ShotOnPost,0.8580000305175781,0.555,0.08973129838705063,Ilkay Gündogan,h,314,OpenPlay,2015,LeftFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Julian Weigl,TakeOn,314
+81229,67,SavedShot,0.85,0.40900001525878904,0.055600401014089584,Ilkay Gündogan,h,314,OpenPlay,2015,RightFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,,None,314
+81232,70,BlockedShot,0.87,0.5120000076293946,0.0680588036775589,Ilkay Gündogan,h,314,OpenPlay,2015,LeftFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Lukasz Piszczek,Cross,314
+81233,71,MissedShots,0.6980000305175781,0.305,0.012900000438094139,Ilkay Gündogan,h,314,OpenPlay,2015,LeftFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,Lukasz Piszczek,Pass,314
+81240,87,BlockedShot,0.6809999847412109,0.48200000762939454,0.012476500123739243,Ilkay Gündogan,h,314,OpenPlay,2015,RightFoot,1225,Borussia Dortmund,Hoffenheim,3,1,2016-02-28 20:30:00,,None,314
+81658,4,SavedShot,0.8430000305175781,0.8809999847412109,0.03715360164642334,Ilkay Gündogan,a,314,DirectFreekick,2015,RightFoot,1230,Darmstadt,Borussia Dortmund,0,2,2016-03-02 23:00:00,,Standard,314
+81659,19,MissedShots,0.675,0.395,0.013117600232362747,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1230,Darmstadt,Borussia Dortmund,0,2,2016-03-02 23:00:00,Julian Weigl,Pass,314
+81664,43,SavedShot,0.895,0.45,0.4588789939880371,Ilkay Gündogan,a,314,OpenPlay,2015,RightFoot,1230,Darmstadt,Borussia Dortmund,0,2,2016-03-02 23:00:00,Gonzalo Castro,Throughball,314
+81669,54,MissedShots,0.8690000152587891,0.685,0.08225660026073456,Ilkay Gündogan,a,314,OpenPlay,2015,LeftFoot,1230,Darmstadt,Borussia Dortmund,0,2,2016-03-02 23:00:00,Erik Durm,TakeOn,314
+82868,18,BlockedShot,0.7390000152587891,0.49599998474121093,0.019757799804210663,Ilkay Gündogan,h,314,OpenPlay,2015,RightFoot,1289,Borussia Dortmund,Hamburger SV,3,0,2016-04-17 17:30:00,,BallRecovery,314
+113573,51,BlockedShot,0.8380000305175781,0.4470000076293945,0.10371000319719315,Ilkay Gündogan,h,314,OpenPlay,2016,RightFoot,504,Manchester City,Bournemouth,4,0,2016-09-17 18:00:00,Kelechi Iheanacho,Pass,314
+113579,65,Goal,0.855,0.47,0.443450003862381,Ilkay Gündogan,h,314,OpenPlay,2016,RightFoot,504,Manchester City,Bournemouth,4,0,2016-09-17 18:00:00,Kevin De Bruyne,Throughball,314
+113930,42,BlockedShot,0.855,0.3220000076293945,0.036797601729631424,Ilkay Gündogan,a,314,OpenPlay,2016,RightFoot,515,Swansea,Manchester City,1,3,2016-09-24 15:00:00,Raheem Sterling,Pass,314
+113929,42,MissedShots,0.8590000152587891,0.48700000762939455,0.10066699981689453,Ilkay Gündogan,a,314,OpenPlay,2016,RightFoot,515,Swansea,Manchester City,1,3,2016-09-24 15:00:00,Kevin De Bruyne,Pass,314
+114543,77,MissedShots,0.7680000305175781,0.49700000762939456,0.01215710025280714,Ilkay Gündogan,a,314,OpenPlay,2016,RightFoot,529,Tottenham,Manchester City,2,0,2016-10-02 17:15:00,,Aerial,314
+114505,37,MissedShots,0.7530000305175781,0.39099998474121095,0.019612299278378487,Ilkay Gündogan,h,314,OpenPlay,2016,RightFoot,549,Manchester City,Southampton,1,1,2016-10-23 16:30:00,Leroy Sané,Pass,314
+114511,68,SavedShot,0.8440000152587891,0.5509999847412109,0.08714090287685394,Ilkay Gündogan,h,314,OpenPlay,2016,RightFoot,549,Manchester City,Southampton,1,1,2016-10-23 16:30:00,Kelechi Iheanacho,Pass,314
+115044,46,BlockedShot,0.8190000152587891,0.5220000076293946,0.0926399976015091,Ilkay Gündogan,a,314,OpenPlay,2016,RightFoot,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,Raheem Sterling,Pass,314
+115048,50,BlockedShot,0.8519999694824218,0.39599998474121095,0.08260560035705566,Ilkay Gündogan,a,314,OpenPlay,2016,LeftFoot,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,Raheem Sterling,Pass,314
+115057,78,Goal,0.8690000152587891,0.5109999847412109,0.4736329913139343,Ilkay Gündogan,a,314,OpenPlay,2016,LeftFoot,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,,None,314
+115060,89,Goal,0.875999984741211,0.544000015258789,0.13258400559425354,Ilkay Gündogan,a,314,OpenPlay,2016,LeftFoot,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,Kevin De Bruyne,Pass,314
+115260,12,BlockedShot,0.7469999694824219,0.5640000152587891,0.016253100708127022,Ilkay Gündogan,h,314,FromCorner,2016,LeftFoot,2689,Manchester City,Middlesbrough,1,1,2016-11-05 19:00:00,,None,314
+115262,14,MissedShots,0.8959999847412109,0.48200000762939454,0.10266900062561035,Ilkay Gündogan,h,314,OpenPlay,2016,RightFoot,2689,Manchester City,Middlesbrough,1,1,2016-11-05 19:00:00,Jesús Navas,Cross,314
+115281,64,MissedShots,0.8219999694824218,0.515,0.07534140348434448,Ilkay Gündogan,h,314,OpenPlay,2016,RightFoot,2689,Manchester City,Middlesbrough,1,1,2016-11-05 19:00:00,David Silva,BallTouch,314
+116920,29,MissedShots,0.8190000152587891,0.4570000076293945,0.07170660048723221,Ilkay Gündogan,a,314,OpenPlay,2016,LeftFoot,3120,Leicester,Manchester City,4,2,2016-12-10 21:30:00,Pablo Zabaleta,Pass,314
+116931,56,MissedShots,0.8469999694824218,0.445,0.0702228993177414,Ilkay Gündogan,a,314,OpenPlay,2016,RightFoot,3120,Leicester,Manchester City,4,2,2016-12-10 21:30:00,Kelechi Iheanacho,Pass,314
+158967,90,BlockedShot,0.769000015258789,0.4329999923706055,0.07680249959230423,Ilkay Gündogan,a,314,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Benjamin Mendy,Pass,314
+161234,23,MissedShots,0.9119999694824219,0.6020000076293945,0.0946417972445488,Ilkay Gündogan,h,314,OpenPlay,2017,RightFoot,7257,Manchester City,Southampton,2,1,2017-11-29 20:00:00,,Rebound,314
+161243,53,MissedShots,0.8109999847412109,0.6569999694824219,0.04457329958677292,Ilkay Gündogan,h,314,OpenPlay,2017,LeftFoot,7257,Manchester City,Southampton,2,1,2017-11-29 20:00:00,Kevin De Bruyne,Pass,314
+161247,59,BlockedShot,0.8109999847412109,0.3039999961853027,0.022570200264453888,Ilkay Gündogan,h,314,SetPiece,2017,RightFoot,7257,Manchester City,Southampton,2,1,2017-11-29 20:00:00,Kevin De Bruyne,Pass,314
+182705,13,Goal,0.9230000305175782,0.5220000076293946,0.3261609971523285,Ilkay Gündogan,h,314,FromCorner,2017,Head,7298,Manchester City,Tottenham,4,1,2017-12-16 17:30:00,Leroy Sané,Cross,314
+182709,26,SavedShot,0.8619999694824219,0.67,0.06979300081729889,Ilkay Gündogan,h,314,OpenPlay,2017,RightFoot,7298,Manchester City,Tottenham,4,1,2017-12-16 17:30:00,Leroy Sané,Pass,314
+182714,45,SavedShot,0.759000015258789,0.54,0.035093098878860474,Ilkay Gündogan,h,314,OpenPlay,2017,RightFoot,7298,Manchester City,Tottenham,4,1,2017-12-16 17:30:00,,Dispossessed,314
+183134,90,BlockedShot,0.7390000152587891,0.4229999923706055,0.02088410034775734,Ilkay Gündogan,h,314,OpenPlay,2017,RightFoot,7308,Manchester City,Bournemouth,4,0,2017-12-23 15:00:00,David Silva,Pass,314
+185738,53,SavedShot,0.8180000305175781,0.5720000076293945,0.06770230084657669,Ilkay Gündogan,a,314,OpenPlay,2017,RightFoot,7315,Newcastle United,Manchester City,0,1,2017-12-27 19:45:00,,BallRecovery,314
+185742,85,MissedShots,0.794000015258789,0.6669999694824219,0.036985501646995544,Ilkay Gündogan,a,314,OpenPlay,2017,LeftFoot,7315,Newcastle United,Manchester City,0,1,2017-12-27 19:45:00,Gabriel Jesus,LayOff,314
+186191,56,MissedShots,0.7909999847412109,0.6809999847412109,0.01915539987385273,Ilkay Gündogan,a,314,OpenPlay,2017,RightFoot,7321,Crystal Palace,Manchester City,0,0,2017-12-31 12:00:00,Kevin De Bruyne,Pass,314
+187957,80,BlockedShot,0.7530000305175781,0.5459999847412109,0.02034500055015087,Ilkay Gündogan,a,314,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Bernardo Silva,Pass,314
+187959,83,BlockedShot,0.8959999847412109,0.585,0.09904380142688751,Ilkay Gündogan,a,314,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Sergio Agüero,Pass,314
+187961,90,Goal,0.9230000305175782,0.49900001525878906,0.09119939804077148,Ilkay Gündogan,a,314,OpenPlay,2017,RightFoot,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Sergio Agüero,Cross,314
+193665,48,BlockedShot,0.9269999694824219,0.31799999237060544,0.04887159913778305,Ilkay Gündogan,a,314,FromCorner,2017,LeftFoot,7372,Burnley,Manchester City,1,1,2018-02-03 12:30:00,Kevin De Bruyne,Pass,314
+193667,52,BlockedShot,0.8480000305175781,0.44,0.09257999807596207,Ilkay Gündogan,a,314,OpenPlay,2017,RightFoot,7372,Burnley,Manchester City,1,1,2018-02-03 12:30:00,Sergio Agüero,Pass,314
+193900,24,SavedShot,0.8069999694824219,0.6819999694824219,0.029260799288749695,Ilkay Gündogan,h,314,OpenPlay,2017,RightFoot,7382,Manchester City,Leicester,5,1,2018-02-10 17:30:00,Oleksandr Zinchenko,Pass,314
+193904,45,SavedShot,0.860999984741211,0.7230000305175781,0.034564800560474396,Ilkay Gündogan,h,314,OpenPlay,2017,RightFoot,7382,Manchester City,Leicester,5,1,2018-02-10 17:30:00,Sergio Agüero,Pass,314
+193908,57,BlockedShot,0.8669999694824219,0.5479999923706055,0.12230399996042252,Ilkay Gündogan,h,314,OpenPlay,2017,LeftFoot,7382,Manchester City,Leicester,5,1,2018-02-10 17:30:00,Raheem Sterling,Pass,314
+207024,30,Goal,0.89,0.5790000152587891,0.12797799706459045,Ilkay Gündogan,h,314,OpenPlay,2017,RightFoot,7445,Manchester City,Manchester United,2,3,2018-04-07 16:30:00,Raheem Sterling,Pass,314
+207028,42,SavedShot,0.914000015258789,0.5359999847412109,0.4059720039367676,Ilkay Gündogan,h,314,OpenPlay,2017,Head,7445,Manchester City,Manchester United,2,3,2018-04-07 16:30:00,Fernandinho,Throughball,314
+207030,50,ShotOnPost,0.860999984741211,0.4370000076293945,0.11558999866247177,Ilkay Gündogan,h,314,OpenPlay,2017,RightFoot,7445,Manchester City,Manchester United,2,3,2018-04-07 16:30:00,Raheem Sterling,Pass,314
+207034,64,MissedShots,0.7719999694824219,0.6759999847412109,0.05760300159454346,Ilkay Gündogan,h,314,DirectFreekick,2017,RightFoot,7445,Manchester City,Manchester United,2,3,2018-04-07 16:30:00,,Standard,314
+207036,73,BlockedShot,0.7190000152587891,0.5920000076293945,0.013567999936640263,Ilkay Gündogan,h,314,OpenPlay,2017,RightFoot,7445,Manchester City,Manchester United,2,3,2018-04-07 16:30:00,,None,314
+208826,18,BlockedShot,0.8190000152587891,0.45799999237060546,0.05588449910283089,Ilkay Gündogan,a,314,OpenPlay,2017,RightFoot,7457,Tottenham,Manchester City,1,3,2018-04-14 18:45:00,Raheem Sterling,Pass,314
+208828,24,Goal,0.885,0.5,0.7611690163612366,Ilkay Gündogan,a,314,Penalty,2017,RightFoot,7457,Tottenham,Manchester City,1,3,2018-04-14 18:45:00,,Standard,314
+211062,46,SavedShot,0.8169999694824219,0.455,0.07762230187654495,Ilkay Gündogan,h,314,OpenPlay,2017,RightFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,Bernardo Silva,Pass,314
+211077,90,MissedShots,0.88,0.39099998474121095,0.11820100247859955,Ilkay Gündogan,h,314,OpenPlay,2017,RightFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,Bernardo Silva,Pass,314
+212340,8,MissedShots,0.93,0.4909999847412109,0.14589199423789978,Ilkay Gündogan,a,314,OpenPlay,2017,LeftFoot,7478,West Ham,Manchester City,1,4,2018-04-29 13:15:00,Kyle Walker,Pass,314
+212356,60,MissedShots,0.825,0.46599998474121096,0.07914649695158005,Ilkay Gündogan,a,314,OpenPlay,2017,RightFoot,7478,West Ham,Manchester City,1,4,2018-04-29 13:15:00,Gabriel Jesus,BallRecovery,314
+214335,9,BlockedShot,0.92,0.46,0.1432729959487915,Ilkay Gündogan,h,314,OpenPlay,2017,LeftFoot,7424,Manchester City,Brighton,3,1,2018-05-09 20:00:00,Fernandinho,Pass,314
+214338,13,MissedShots,0.8469999694824218,0.7290000152587891,0.03126410022377968,Ilkay Gündogan,h,314,OpenPlay,2017,RightFoot,7424,Manchester City,Brighton,3,1,2018-05-09 20:00:00,,BallRecovery,314
+214341,25,MissedShots,0.76,0.5129999923706055,0.02638540044426918,Ilkay Gündogan,h,314,OpenPlay,2017,RightFoot,7424,Manchester City,Brighton,3,1,2018-05-09 20:00:00,Oleksandr Zinchenko,Pass,314
+214353,71,BlockedShot,0.860999984741211,0.715,0.05298449844121933,Ilkay Gündogan,h,314,OpenPlay,2017,RightFoot,7424,Manchester City,Brighton,3,1,2018-05-09 20:00:00,Leroy Sané,Pass,314
+215551,25,MissedShots,0.7340000152587891,0.5129999923706055,0.018600499257445335,Ilkay Gündogan,a,314,OpenPlay,2017,RightFoot,7498,Southampton,Manchester City,0,1,2018-05-13 15:00:00,Bernardo Silva,Pass,314
+232709,56,MissedShots,0.7909999847412109,0.39,0.044908300042152405,Ilkay Gündogan,a,314,OpenPlay,2018,RightFoot,9206,Arsenal,Manchester City,0,2,2018-08-12 18:00:00,,None,314
+232714,74,BlockedShot,0.7909999847412109,0.534000015258789,0.04311259835958481,Ilkay Gündogan,a,314,OpenPlay,2018,LeftFoot,9206,Arsenal,Manchester City,0,2,2018-08-12 18:00:00,,None,314
+233107,17,BlockedShot,0.855,0.639000015258789,0.050049200654029846,Ilkay Gündogan,h,314,OpenPlay,2018,LeftFoot,9213,Manchester City,Huddersfield,6,1,2018-08-19 15:30:00,David Silva,Pass,314
+233438,12,BlockedShot,0.7880000305175782,0.534000015258789,0.03111889958381653,Ilkay Gündogan,a,314,OpenPlay,2018,RightFoot,9217,Wolverhampton Wanderers,Manchester City,1,1,2018-08-25 14:30:00,David Silva,Pass,314
+233439,14,SavedShot,0.9180000305175782,0.6730000305175782,0.0678791031241417,Ilkay Gündogan,a,314,OpenPlay,2018,LeftFoot,9217,Wolverhampton Wanderers,Manchester City,1,1,2018-08-25 14:30:00,Sergio Agüero,HeadPass,314
+233458,64,SavedShot,0.81,0.63,0.03990359976887703,Ilkay Gündogan,a,314,OpenPlay,2018,RightFoot,9217,Wolverhampton Wanderers,Manchester City,1,1,2018-08-25 14:30:00,David Silva,Pass,314
+233691,90,MissedShots,0.7759999847412109,0.42700000762939455,0.041603900492191315,Ilkay Gündogan,h,314,OpenPlay,2018,RightFoot,9234,Manchester City,Newcastle United,2,1,2018-09-01 16:30:00,,None,314
+233862,67,BlockedShot,0.7709999847412109,0.36900001525878906,0.024073800072073936,Ilkay Gündogan,h,314,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,,None,314
+234077,28,MissedShots,0.9,0.47,0.4562639892101288,Ilkay Gündogan,a,314,OpenPlay,2018,RightFoot,9252,Cardiff,Manchester City,0,5,2018-09-22 14:00:00,,None,314
+234083,40,BlockedShot,0.8519999694824218,0.45799999237060546,0.04850830137729645,Ilkay Gündogan,a,314,FromCorner,2018,LeftFoot,9252,Cardiff,Manchester City,0,5,2018-09-22 14:00:00,Sergio Agüero,Pass,314
+234085,43,Goal,0.779000015258789,0.524000015258789,0.05478759855031967,Ilkay Gündogan,a,314,OpenPlay,2018,RightFoot,9252,Cardiff,Manchester City,0,5,2018-09-22 14:00:00,Raheem Sterling,LayOff,314
+250227,80,MissedShots,0.8030000305175782,0.6359999847412109,0.037174198776483536,Ilkay Gündogan,h,314,OpenPlay,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Raheem Sterling,Pass,314
+250229,85,Goal,0.9590000152587891,0.5179999923706055,0.6344969868659973,Ilkay Gündogan,h,314,OpenPlay,2018,LeftFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Bernardo Silva,Cross,314
+250266,64,SavedShot,0.9159999847412109,0.6880000305175781,0.11397399753332138,Ilkay Gündogan,a,314,OpenPlay,2018,LeftFoot,9317,West Ham,Manchester City,0,4,2018-11-24 15:00:00,Leroy Sané,Pass,314
+250578,78,Goal,0.9519999694824218,0.5109999847412109,0.5822010040283203,Ilkay Gündogan,h,314,FromCorner,2018,RightFoot,9329,Manchester City,Bournemouth,3,1,2018-12-01 15:00:00,Leroy Sané,Pass,314
+251161,69,BlockedShot,0.84,0.7230000305175781,0.025349099189043045,Ilkay Gündogan,a,314,FromCorner,2018,RightFoot,9352,Chelsea,Manchester City,2,0,2018-12-08 17:30:00,Bernardo Silva,LayOff,314
+251251,39,BlockedShot,0.8119999694824219,0.69,0.03849299997091293,Ilkay Gündogan,h,314,OpenPlay,2018,LeftFoot,9361,Manchester City,Everton,3,1,2018-12-15 12:30:00,Gabriel Jesus,Pass,314
+251255,61,MissedShots,0.925,0.43099998474121093,0.1328199952840805,Ilkay Gündogan,h,314,OpenPlay,2018,RightFoot,9361,Manchester City,Everton,3,1,2018-12-15 12:30:00,Gabriel Jesus,Pass,314
+251573,26,Goal,0.9209999847412109,0.44799999237060545,0.2909010052680969,Ilkay Gündogan,h,314,OpenPlay,2018,Head,9370,Manchester City,Crystal Palace,2,3,2018-12-22 15:00:00,Fabian Delph,Cross,314
+251584,68,MissedShots,0.745,0.42700000762939455,0.012328599579632282,Ilkay Gündogan,h,314,OpenPlay,2018,RightFoot,9370,Manchester City,Crystal Palace,2,3,2018-12-22 15:00:00,,None,314
+274619,91,SavedShot,0.9119999694824219,0.495,0.1375579982995987,Ilkay Gündogan,h,314,OpenPlay,2018,RightFoot,9409,Manchester City,Wolverhampton Wanderers,3,0,2019-01-14 20:00:00,Raheem Sterling,Pass,314
+274620,92,BlockedShot,0.84,0.6719999694824219,0.05487370118498802,Ilkay Gündogan,h,314,OpenPlay,2018,RightFoot,9409,Manchester City,Wolverhampton Wanderers,3,0,2019-01-14 20:00:00,,BallTouch,314
+274821,39,BlockedShot,0.93,0.62,0.1350799947977066,Ilkay Gündogan,a,314,OpenPlay,2018,RightFoot,9423,Huddersfield,Manchester City,0,3,2019-01-20 13:30:00,Fernandinho,Throughball,314
+274823,46,MissedShots,0.9159999847412109,0.34200000762939453,0.09782259911298752,Ilkay Gündogan,a,314,OpenPlay,2018,RightFoot,9423,Huddersfield,Manchester City,0,3,2019-01-20 13:30:00,Kyle Walker,Pass,314
+275025,83,BlockedShot,0.794000015258789,0.6869999694824219,0.06767220050096512,Ilkay Gündogan,a,314,DirectFreekick,2018,RightFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,,Standard,314
+275372,15,BlockedShot,0.8809999847412109,0.580999984741211,0.10296700149774551,Ilkay Gündogan,a,314,OpenPlay,2018,LeftFoot,9461,Everton,Manchester City,0,2,2019-02-06 19:45:00,Leroy Sané,Pass,314
+275374,18,ShotOnPost,0.9730000305175781,0.5540000152587891,0.13033799827098846,Ilkay Gündogan,a,314,OpenPlay,2018,LeftFoot,9461,Everton,Manchester City,0,2,2019-02-06 19:45:00,,None,314
+275607,24,Goal,0.7919999694824219,0.6079999923706054,0.0659559965133667,Ilkay Gündogan,h,314,OpenPlay,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,,TakeOn,314
+276023,12,MissedShots,0.8159999847412109,0.54,0.055382199585437775,Ilkay Gündogan,h,314,OpenPlay,2018,LeftFoot,9475,Manchester City,West Ham,1,0,2019-02-27 20:00:00,David Silva,Pass,314
+284679,87,MissedShots,0.76,0.5940000152587891,0.01723399944603443,Ilkay Gündogan,h,314,FromCorner,2018,RightFoot,9489,Manchester City,Watford,3,1,2019-03-09 17:30:00,,None,314
+287295,13,SavedShot,0.8130000305175781,0.5070000076293946,0.07620140165090561,Ilkay Gündogan,a,314,OpenPlay,2018,RightFoot,9512,Fulham,Manchester City,0,2,2019-03-30 12:30:00,Raheem Sterling,Pass,314
+287306,43,MissedShots,0.8209999847412109,0.3240000152587891,0.03562229871749878,Ilkay Gündogan,a,314,OpenPlay,2018,RightFoot,9512,Fulham,Manchester City,0,2,2019-03-30 12:30:00,Bernardo Silva,Pass,314
+287314,83,MissedShots,0.799000015258789,0.62,0.052227601408958435,Ilkay Gündogan,a,314,OpenPlay,2018,RightFoot,9512,Fulham,Manchester City,0,2,2019-03-30 12:30:00,Bernardo Silva,Pass,314
+294166,61,MissedShots,0.75,0.48400001525878905,0.028957199305295944,Ilkay Gündogan,a,314,OpenPlay,2018,RightFoot,9534,Crystal Palace,Manchester City,1,3,2019-04-14 14:05:00,Kevin De Bruyne,Pass,314
+294175,76,MissedShots,0.8119999694824219,0.48,0.054020099341869354,Ilkay Gündogan,a,314,OpenPlay,2018,LeftFoot,9534,Crystal Palace,Manchester City,1,3,2019-04-14 14:05:00,,None,314
+300370,30,BlockedShot,0.7880000305175782,0.4209999847412109,0.05233389884233475,Ilkay Gündogan,h,314,OpenPlay,2018,RightFoot,9560,Manchester City,Leicester,1,0,2019-05-06 19:00:00,,TakeOn,314
+300375,40,MissedShots,0.8030000305175782,0.565,0.029399700462818146,Ilkay Gündogan,h,314,FromCorner,2018,RightFoot,9560,Manchester City,Leicester,1,0,2019-05-06 19:00:00,,None,314
+300382,57,MissedShots,0.7980000305175782,0.375,0.03121439926326275,Ilkay Gündogan,h,314,OpenPlay,2018,RightFoot,9560,Manchester City,Leicester,1,0,2019-05-06 19:00:00,Bernardo Silva,Pass,314
+301209,3,BlockedShot,0.735999984741211,0.43900001525878907,0.016916900873184204,Ilkay Gündogan,a,314,OpenPlay,2018,RightFoot,9576,Brighton,Manchester City,1,4,2019-05-12 14:00:00,Bernardo Silva,Pass,314
+301214,18,BlockedShot,0.8119999694824219,0.4370000076293945,0.05245089903473854,Ilkay Gündogan,a,314,OpenPlay,2018,RightFoot,9576,Brighton,Manchester City,1,4,2019-05-12 14:00:00,Bernardo Silva,Pass,314
+301227,56,BlockedShot,0.8069999694824219,0.48200000762939454,0.052077099680900574,Ilkay Gündogan,a,314,OpenPlay,2018,RightFoot,9576,Brighton,Manchester City,1,4,2019-05-12 14:00:00,Sergio Agüero,Pass,314
+301230,66,MissedShots,0.7780000305175782,0.5790000152587891,0.02892260067164898,Ilkay Gündogan,a,314,OpenPlay,2018,RightFoot,9576,Brighton,Manchester City,1,4,2019-05-12 14:00:00,,None,314
+301232,71,Goal,0.755,0.48200000762939454,0.06882079690694809,Ilkay Gündogan,a,314,DirectFreekick,2018,RightFoot,9576,Brighton,Manchester City,1,4,2019-05-12 14:00:00,,Standard,314
+310771,10,BlockedShot,0.7930000305175782,0.7119999694824218,0.02024569921195507,Ilkay Gündogan,h,314,FromCorner,2019,RightFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Kevin De Bruyne,Pass,314
+310778,42,MissedShots,0.865999984741211,0.48700000762939455,0.08866830170154572,Ilkay Gündogan,h,314,OpenPlay,2019,RightFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Kevin De Bruyne,Cross,314
+315869,71,MissedShots,0.795,0.66,0.07722549885511398,Ilkay Gündogan,h,314,DirectFreekick,2019,RightFoot,11678,Manchester City,Brighton,4,0,2019-08-31 15:00:00,,Standard,314
+322837,11,ShotOnPost,0.97,0.5329999923706055,0.7683050036430359,Ilkay Gündogan,a,314,OpenPlay,2019,LeftFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Riyad Mahrez,Pass,314
+322853,46,BlockedShot,0.8919999694824219,0.5820000076293945,0.11379899829626083,Ilkay Gündogan,a,314,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Raheem Sterling,Pass,314
+322852,48,SavedShot,0.8180000305175781,0.4570000076293945,0.06638479977846146,Ilkay Gündogan,a,314,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Rodri,Pass,314
+324658,29,MissedShots,0.7559999847412109,0.5690000152587891,0.06586460024118423,Ilkay Gündogan,h,314,DirectFreekick,2019,RightFoot,11716,Manchester City,Wolverhampton Wanderers,0,2,2019-10-06 14:00:00,,Standard,314
+325877,20,SavedShot,0.774000015258789,0.6559999847412109,0.018773699179291725,Ilkay Gündogan,a,314,OpenPlay,2019,RightFoot,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,Raheem Sterling,Pass,314
+325886,53,BlockedShot,0.7709999847412109,0.6430000305175781,0.023452000692486763,Ilkay Gündogan,a,314,FromCorner,2019,RightFoot,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,Kevin De Bruyne,Pass,314
+326915,4,BlockedShot,0.8430000305175781,0.6229999923706054,0.050526298582553864,Ilkay Gündogan,h,314,OpenPlay,2019,RightFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,David Silva,Pass,314
+326938,69,Goal,0.8730000305175781,0.5509999847412109,0.0796457976102829,Ilkay Gündogan,h,314,FromCorner,2019,RightFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,,Rebound,314
+329196,4,MissedShots,0.7919999694824219,0.6329999923706054,0.028565699234604836,Ilkay Gündogan,h,314,OpenPlay,2019,LeftFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,,None,314
+329201,21,BlockedShot,0.785,0.605999984741211,0.028124699369072914,Ilkay Gündogan,h,314,OpenPlay,2019,RightFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,,None,314
+329203,24,BlockedShot,0.8490000152587891,0.5420000076293945,0.059182099997997284,Ilkay Gündogan,h,314,OpenPlay,2019,RightFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,,None,314
+329207,28,BlockedShot,0.7959999847412109,0.64,0.030670899897813797,Ilkay Gündogan,h,314,FromCorner,2019,RightFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,,Rebound,314
+329213,64,BlockedShot,0.8130000305175781,0.5309999847412109,0.04531940072774887,Ilkay Gündogan,h,314,OpenPlay,2019,LeftFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,,None,314
+329221,82,BlockedShot,0.8169999694824219,0.62,0.04077079892158508,Ilkay Gündogan,h,314,FromCorner,2019,LeftFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,Fernandinho,Rebound,314
+331550,23,MissedShots,0.8069999694824219,0.69,0.01896980032324791,Ilkay Gündogan,a,314,FromCorner,2019,LeftFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,,None,314
+331562,47,BlockedShot,0.8030000305175782,0.5279999923706055,0.04363759979605675,Ilkay Gündogan,a,314,FromCorner,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,,Rebound,314
+333436,71,BlockedShot,0.7780000305175782,0.6140000152587891,0.021159300580620766,Ilkay Gündogan,a,314,OpenPlay,2019,RightFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,Gabriel Jesus,Pass,314
+337716,21,MissedShots,0.7390000152587891,0.585,0.01757580041885376,Ilkay Gündogan,a,314,OpenPlay,2019,RightFoot,11803,Arsenal,Manchester City,0,3,2019-12-15 16:30:00,,None,314
+338742,2,MissedShots,0.755,0.3920000076293945,0.018208200111985207,Ilkay Gündogan,h,314,OpenPlay,2019,RightFoot,11817,Manchester City,Leicester,3,1,2019-12-21 17:30:00,Riyad Mahrez,Pass,314
+338756,42,Goal,0.885,0.5,0.761132001876831,Ilkay Gündogan,h,314,Penalty,2019,RightFoot,11817,Manchester City,Leicester,3,1,2019-12-21 17:30:00,,Standard,314
+351572,29,SavedShot,0.765,0.515,0.019582299515604973,Ilkay Gündogan,h,314,FromCorner,2019,RightFoot,11848,Manchester City,Everton,2,1,2020-01-01 17:30:00,,None,314
+351887,9,MissedShots,0.735999984741211,0.5179999923706055,0.018260400742292404,Ilkay Gündogan,h,314,OpenPlay,2019,RightFoot,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,,Dispossessed,314
+352635,39,SavedShot,0.885,0.5,0.7611690163612366,Ilkay Gündogan,a,314,Penalty,2019,RightFoot,11890,Tottenham,Manchester City,2,0,2020-02-02 16:30:00,,Standard,314
+352640,48,MissedShots,0.9159999847412109,0.5659999847412109,0.5765500068664551,Ilkay Gündogan,a,314,OpenPlay,2019,LeftFoot,11890,Tottenham,Manchester City,2,0,2020-02-02 16:30:00,Raheem Sterling,Pass,314
+353031,16,SavedShot,0.8680000305175781,0.415,0.32880699634552,Ilkay Gündogan,a,314,OpenPlay,2019,LeftFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,Sergio Agüero,Pass,314
+353044,59,BlockedShot,0.8330000305175781,0.35900001525878905,0.031297601759433746,Ilkay Gündogan,a,314,FromCorner,2019,RightFoot,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,,None,314
+364868,76,SavedShot,0.894000015258789,0.30700000762939456,0.03298560157418251,Ilkay Gündogan,h,314,SetPiece,2019,RightFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,Raheem Sterling,Pass,314
+369719,73,BlockedShot,0.8059999847412109,0.475,0.06334660202264786,Ilkay Gündogan,h,314,OpenPlay,2019,RightFoot,11979,Manchester City,Newcastle United,5,0,2020-07-08 17:00:00,Bernardo Silva,Pass,314
+373754,46,MissedShots,0.7669999694824219,0.44299999237060544,0.02849780023097992,Ilkay Gündogan,h,314,OpenPlay,2019,RightFoot,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,Kevin De Bruyne,Pass,314
+383113,12,MissedShots,0.8430000305175781,0.6580000305175782,0.05179170146584511,Ilkay Gündogan,a,314,OpenPlay,2020,LeftFoot,14493,West Ham,Manchester City,1,1,2020-10-24 11:30:00,Riyad Mahrez,Pass,314
+383120,46,MissedShots,0.8719999694824219,0.5129999923706055,0.03737080097198486,Ilkay Gündogan,a,314,OpenPlay,2020,OtherBodyPart,14493,West Ham,Manchester City,1,1,2020-10-24 11:30:00,Kyle Walker,Cross,314
+388744,23,MissedShots,0.7069999694824218,0.6370000076293946,0.013646399602293968,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14533,Manchester City,Burnley,5,0,2020-11-28 15:00:00,,None,314
+390160,15,MissedShots,0.8730000305175781,0.40900001525878904,0.10164300352334976,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,João Cancelo,Pass,314
+392712,29,Goal,0.9,0.4420000076293945,0.3977220058441162,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14564,Manchester City,West Bromwich Albion,1,1,2020-12-15 20:00:00,Raheem Sterling,Pass,314
+392721,54,BlockedShot,0.909000015258789,0.3240000152587891,0.05706939846277237,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14564,Manchester City,West Bromwich Albion,1,1,2020-12-15 20:00:00,,None,314
+392735,90,SavedShot,0.9469999694824218,0.555,0.4075700044631958,Ilkay Gündogan,h,314,OpenPlay,2020,Head,14564,Manchester City,West Bromwich Albion,1,1,2020-12-15 20:00:00,Kevin De Bruyne,Cross,314
+392737,92,MissedShots,0.74,0.36900001525878906,0.04851369932293892,Ilkay Gündogan,h,314,DirectFreekick,2020,RightFoot,14564,Manchester City,West Bromwich Albion,1,1,2020-12-15 20:00:00,,Standard,314
+393981,11,BlockedShot,0.815,0.31799999237060544,0.023433299735188484,Ilkay Gündogan,a,314,FromCorner,2020,RightFoot,14572,Southampton,Manchester City,0,1,2020-12-19 15:00:00,Bernardo Silva,Pass,314
+393996,77,SavedShot,0.769000015258789,0.575,0.038161199539899826,Ilkay Gündogan,a,314,OpenPlay,2020,LeftFoot,14572,Southampton,Manchester City,0,1,2020-12-19 15:00:00,,None,314
+395715,13,Goal,0.93,0.4779999923706055,0.14735999703407288,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14581,Manchester City,Newcastle United,2,0,2020-12-26 20:00:00,Raheem Sterling,Pass,314
+396935,17,Goal,0.8419999694824218,0.5,0.092461496591568,Ilkay Gündogan,a,314,OpenPlay,2020,RightFoot,14603,Chelsea,Manchester City,1,3,2021-01-03 16:30:00,Phil Foden,Pass,314
+396941,29,BlockedShot,0.8569999694824219,0.5209999847412109,0.0754655972123146,Ilkay Gündogan,a,314,OpenPlay,2020,LeftFoot,14603,Chelsea,Manchester City,1,3,2021-01-03 16:30:00,,Rebound,314
+396945,43,MissedShots,0.9219999694824219,0.5220000076293946,0.5808939933776855,Ilkay Gündogan,a,314,OpenPlay,2020,LeftFoot,14603,Chelsea,Manchester City,1,3,2021-01-03 16:30:00,Phil Foden,Pass,314
+398696,40,MissedShots,0.8730000305175781,0.40200000762939453,0.04373680055141449,Ilkay Gündogan,h,314,FromCorner,2020,RightFoot,14614,Manchester City,Brighton,1,0,2021-01-13 18:00:00,Kevin De Bruyne,Cross,314
+398701,58,SavedShot,0.8809999847412109,0.62,0.10630500316619873,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14614,Manchester City,Brighton,1,0,2021-01-13 18:00:00,Riyad Mahrez,Pass,314
+399531,11,BlockedShot,0.7380000305175781,0.4129999923706055,0.01795700006186962,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14621,Manchester City,Crystal Palace,4,0,2021-01-17 19:15:00,Gabriel Jesus,Pass,314
+399535,22,BlockedShot,0.8490000152587891,0.5279999923706055,0.06577020138502121,Ilkay Gündogan,h,314,FromCorner,2020,RightFoot,14621,Manchester City,Crystal Palace,4,0,2021-01-17 19:15:00,,Rebound,314
+399538,34,MissedShots,0.720999984741211,0.6029999923706054,0.04268389940261841,Ilkay Gündogan,h,314,DirectFreekick,2020,RightFoot,14621,Manchester City,Crystal Palace,4,0,2021-01-17 19:15:00,,Standard,314
+399540,55,Goal,0.8119999694824219,0.62,0.03599470108747482,Ilkay Gündogan,h,314,FromCorner,2020,RightFoot,14621,Manchester City,Crystal Palace,4,0,2021-01-17 19:15:00,,TakeOn,314
+399955,50,MissedShots,0.8830000305175781,0.6630000305175782,0.07514610141515732,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Phil Foden,Pass,314
+399962,62,MissedShots,0.9119999694824219,0.5420000076293945,0.11510500311851501,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Gabriel Jesus,BallTouch,314
+399968,68,SavedShot,0.9159999847412109,0.5979999923706054,0.03531239926815033,Ilkay Gündogan,h,314,FromCorner,2020,Head,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Phil Foden,Cross,314
+399967,68,BlockedShot,0.8830000305175781,0.5420000076293945,0.12043700367212296,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Phil Foden,Pass,314
+399970,71,BlockedShot,0.8690000152587891,0.555,0.09852869808673859,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Raheem Sterling,Pass,314
+399976,89,Goal,0.885,0.5,0.7611690163612366,Ilkay Gündogan,h,314,Penalty,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,,Standard,314
+401201,5,Goal,0.8169999694824219,0.45299999237060545,0.05327349901199341,Ilkay Gündogan,a,314,OpenPlay,2020,RightFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,João Cancelo,Chipped,314
+401206,29,Goal,0.8830000305175781,0.45799999237060546,0.42194199562072754,Ilkay Gündogan,a,314,OpenPlay,2020,LeftFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,,TakeOn,314
+402650,47,MissedShots,0.8009999847412109,0.3509999847412109,0.04138540104031563,Ilkay Gündogan,a,314,OpenPlay,2020,RightFoot,14646,Burnley,Manchester City,0,2,2021-02-03 18:00:00,,BallRecovery,314
+403858,36,MissedShots,0.885,0.5,0.7611690163612366,Ilkay Gündogan,a,314,Penalty,2020,RightFoot,14659,Liverpool,Manchester City,1,4,2021-02-07 16:30:00,,Standard,314
+403863,48,Goal,0.9569999694824218,0.49599998474121093,0.7038310170173645,Ilkay Gündogan,a,314,OpenPlay,2020,RightFoot,14659,Liverpool,Manchester City,1,4,2021-02-07 16:30:00,,Rebound,314
+403868,72,Goal,0.9819999694824219,0.49400001525878906,0.9639760255813599,Ilkay Gündogan,a,314,OpenPlay,2020,RightFoot,14659,Liverpool,Manchester City,1,4,2021-02-07 16:30:00,Phil Foden,Pass,314
+404419,41,BlockedShot,0.9030000305175782,0.43,0.4064610004425049,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,Raheem Sterling,Pass,314
+404422,49,Goal,0.9209999847412109,0.595,0.13722899556159973,Ilkay Gündogan,h,314,OpenPlay,2020,LeftFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,Raheem Sterling,Pass,314
+404423,57,BlockedShot,0.9,0.5129999923706055,0.1442060023546219,Ilkay Gündogan,h,314,OpenPlay,2020,LeftFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,Phil Foden,Pass,314
+404425,65,Goal,0.8780000305175781,0.555,0.3033579885959625,Ilkay Gündogan,h,314,OpenPlay,2020,LeftFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,Ederson,Chipped,314
+406117,33,BlockedShot,0.855,0.5770000076293945,0.10382799804210663,Ilkay Gündogan,a,314,OpenPlay,2020,RightFoot,14675,Arsenal,Manchester City,0,1,2021-02-21 16:30:00,Fernandinho,Pass,314
+406125,55,SavedShot,0.840999984741211,0.49900001525878906,0.07496260106563568,Ilkay Gündogan,a,314,OpenPlay,2020,RightFoot,14675,Arsenal,Manchester City,0,1,2021-02-21 16:30:00,,Rebound,314
+407758,92,SavedShot,0.749000015258789,0.45,0.02327609993517399,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14720,Manchester City,Wolverhampton Wanderers,4,1,2021-03-02 20:00:00,Gabriel Jesus,Pass,314
+409106,8,SavedShot,0.8119999694824219,0.49900001525878906,0.05924440175294876,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14700,Manchester City,Manchester United,0,2,2021-03-07 16:30:00,Riyad Mahrez,Pass,314
+409109,18,MissedShots,0.82,0.610999984741211,0.04726950079202652,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14700,Manchester City,Manchester United,0,2,2021-03-07 16:30:00,Raheem Sterling,Pass,314
+409116,37,SavedShot,0.845,0.5029999923706054,0.05971449986100197,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14700,Manchester City,Manchester United,0,2,2021-03-07 16:30:00,Riyad Mahrez,TakeOn,314
+409131,86,MissedShots,0.9430000305175781,0.575999984741211,0.03687110170722008,Ilkay Gündogan,h,314,FromCorner,2020,Head,14700,Manchester City,Manchester United,0,2,2021-03-07 16:30:00,Kevin De Bruyne,Aerial,314
+409505,47,Goal,0.9519999694824218,0.49700000762939456,0.6720619797706604,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,,Rebound,314
+413700,66,MissedShots,0.8180000305175781,0.580999984741211,0.04155939817428589,Ilkay Gündogan,h,314,SetPiece,2020,LeftFoot,14740,Manchester City,Leeds,1,2,2021-04-10 11:30:00,,None,314
+416724,17,BlockedShot,0.79,0.6220000076293946,0.024872800335288048,Ilkay Gündogan,a,314,OpenPlay,2020,RightFoot,14746,Aston Villa,Manchester City,1,2,2021-04-21 19:15:00,Gabriel Jesus,Pass,314
+416738,75,MissedShots,0.7680000305175781,0.33299999237060546,0.05731530115008354,Ilkay Gündogan,a,314,DirectFreekick,2020,RightFoot,14746,Aston Villa,Manchester City,1,2,2021-04-21 19:15:00,,Standard,314
+420225,70,MissedShots,0.825,0.47,0.04399000108242035,Ilkay Gündogan,h,314,FromCorner,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,,None,314
+420230,86,BlockedShot,0.8769999694824219,0.5790000152587891,0.05941630154848099,Ilkay Gündogan,h,314,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Gabriel Jesus,HeadPass,314
+421705,11,MissedShots,0.8469999694824218,0.3189999961853027,0.046485498547554016,Ilkay Gündogan,a,314,OpenPlay,2020,RightFoot,14791,Newcastle United,Manchester City,3,4,2021-05-14 19:00:00,Ferrán Torres,Pass,314
+421710,31,SavedShot,0.7719999694824219,0.3089999961853027,0.05435829982161522,Ilkay Gündogan,a,314,DirectFreekick,2020,RightFoot,14791,Newcastle United,Manchester City,3,4,2021-05-14 19:00:00,,Standard,314
+421725,76,MissedShots,0.7909999847412109,0.5420000076293945,0.05033139884471893,Ilkay Gündogan,a,314,OpenPlay,2020,RightFoot,14791,Newcastle United,Manchester City,3,4,2021-05-14 19:00:00,Raheem Sterling,TakeOn,314
+421728,93,MissedShots,0.7769999694824219,0.624000015258789,0.032644301652908325,Ilkay Gündogan,a,314,OpenPlay,2020,RightFoot,14791,Newcastle United,Manchester City,3,4,2021-05-14 19:00:00,Rodri,Pass,314
+423159,1,Goal,0.9719999694824218,0.5579999923706055,0.5506020188331604,Ilkay Gündogan,a,314,OpenPlay,2020,Head,14795,Brighton,Manchester City,3,2,2021-05-18 18:00:00,Riyad Mahrez,Cross,314
+426425,3,BlockedShot,0.8059999847412109,0.73,0.06091199815273285,Ilkay Gündogan,a,314,DirectFreekick,2021,RightFoot,16385,Tottenham,Manchester City,1,0,2021-08-15 15:30:00,,Standard,314
+426439,47,BlockedShot,0.8669999694824219,0.5179999923706055,0.11210999637842178,Ilkay Gündogan,a,314,OpenPlay,2021,LeftFoot,16385,Tottenham,Manchester City,1,0,2021-08-15 15:30:00,Jack Grealish,Pass,314
+428468,6,Goal,0.9569999694824218,0.56,0.1449809968471527,Ilkay Gündogan,h,314,OpenPlay,2021,Head,16396,Manchester City,Arsenal,5,0,2021-08-28 11:30:00,Gabriel Jesus,Cross,314
+428476,50,BlockedShot,0.7440000152587891,0.485,0.03408050164580345,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16396,Manchester City,Arsenal,5,0,2021-08-28 11:30:00,Rúben Dias,Pass,314
+428487,85,BlockedShot,0.7780000305175782,0.48,0.0398654006421566,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16396,Manchester City,Arsenal,5,0,2021-08-28 11:30:00,Rodri,Pass,314
+429922,5,BlockedShot,0.894000015258789,0.47400001525878904,0.11576099693775177,Ilkay Gündogan,a,314,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,,Rebound,314
+429925,13,BlockedShot,0.8619999694824219,0.5359999847412109,0.06868989765644073,Ilkay Gündogan,a,314,OpenPlay,2021,LeftFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Bernardo Silva,Cross,314
+429931,41,BlockedShot,0.9030000305175782,0.32599998474121095,0.05119900032877922,Ilkay Gündogan,a,314,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,,Rebound,314
+429932,42,SavedShot,0.7719999694824219,0.40299999237060546,0.027082499116659164,Ilkay Gündogan,a,314,OpenPlay,2021,LeftFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Jack Grealish,Pass,314
+429937,55,MissedShots,0.9340000152587891,0.44799999237060545,0.06176789849996567,Ilkay Gündogan,a,314,OpenPlay,2021,Head,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,João Cancelo,Aerial,314
+429942,71,BlockedShot,0.8730000305175781,0.6270000076293946,0.07955069839954376,Ilkay Gündogan,a,314,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,,None,314
+431368,21,MissedShots,0.9619999694824218,0.57,0.39061298966407776,Ilkay Gündogan,h,314,OpenPlay,2021,Head,16421,Manchester City,Southampton,0,0,2021-09-18 14:00:00,Kyle Walker,Cross,314
+431372,32,MissedShots,0.8690000152587891,0.835999984741211,0.04875769838690758,Ilkay Gündogan,h,314,DirectFreekick,2021,RightFoot,16421,Manchester City,Southampton,0,0,2021-09-18 14:00:00,,Standard,314
+437983,12,Goal,0.9869999694824219,0.49400001525878906,0.9693750143051147,Ilkay Gündogan,a,314,OpenPlay,2021,RightFoot,16458,Brighton,Manchester City,1,4,2021-10-23 16:30:00,Bernardo Silva,Rebound,314
+440824,6,MissedShots,0.9669999694824218,0.5609999847412109,0.49623000621795654,Ilkay Gündogan,a,314,OpenPlay,2021,LeftFoot,16483,Manchester United,Manchester City,0,2,2021-11-06 12:30:00,Kyle Walker,Cross,314
+440836,65,ShotOnPost,0.945,0.7140000152587891,0.08296570181846619,Ilkay Gündogan,a,314,OpenPlay,2021,LeftFoot,16483,Manchester United,Manchester City,0,2,2021-11-06 12:30:00,Rodri,Chipped,314
+443147,24,BlockedShot,0.8640000152587891,0.549000015258789,0.10249699652194977,Ilkay Gündogan,h,314,OpenPlay,2021,LeftFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,Cole Palmer,Pass,314
+443150,27,ShotOnPost,0.9119999694824219,0.5990000152587891,0.16843000054359436,Ilkay Gündogan,h,314,OpenPlay,2021,Head,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,,Rebound,314
+444707,18,SavedShot,0.8719999694824219,0.515,0.07766930013895035,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16504,Manchester City,West Ham,2,1,2021-11-28 14:00:00,Bernardo Silva,Cross,314
+444710,23,MissedShots,0.774000015258789,0.45599998474121095,0.02387229911983013,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16504,Manchester City,West Ham,2,1,2021-11-28 14:00:00,Gabriel Jesus,Pass,314
+444714,32,Goal,0.9769999694824218,0.5320000076293945,0.8039680123329163,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16504,Manchester City,West Ham,2,1,2021-11-28 14:00:00,,Rebound,314
+444724,79,SavedShot,0.919000015258789,0.649000015258789,0.3124000132083893,Ilkay Gündogan,h,314,OpenPlay,2021,LeftFoot,16504,Manchester City,West Ham,2,1,2021-11-28 14:00:00,Raheem Sterling,Pass,314
+446389,27,BlockedShot,0.8380000305175781,0.565,0.09657839685678482,Ilkay Gündogan,a,314,OpenPlay,2021,LeftFoot,16523,Watford,Manchester City,1,3,2021-12-04 17:30:00,Jack Grealish,Pass,314
+446392,30,SavedShot,0.8880000305175781,0.40200000762939453,0.3488759994506836,Ilkay Gündogan,a,314,OpenPlay,2021,RightFoot,16523,Watford,Manchester City,1,3,2021-12-04 17:30:00,Bernardo Silva,Pass,314
+446402,61,MissedShots,0.845,0.46,0.13169799745082855,Ilkay Gündogan,a,314,OpenPlay,2021,RightFoot,16523,Watford,Manchester City,1,3,2021-12-04 17:30:00,Raheem Sterling,Pass,314
+447437,49,MissedShots,0.8080000305175781,0.5359999847412109,0.04127059876918793,Ilkay Gündogan,h,314,OpenPlay,2021,LeftFoot,16534,Manchester City,Wolverhampton Wanderers,1,0,2021-12-11 12:30:00,Bernardo Silva,Pass,314
+447442,54,BlockedShot,0.9690000152587891,0.5659999847412109,0.4538480043411255,Ilkay Gündogan,h,314,OpenPlay,2021,Head,16534,Manchester City,Wolverhampton Wanderers,1,0,2021-12-11 12:30:00,João Cancelo,Cross,314
+448928,52,MissedShots,0.9459999847412109,0.5709999847412109,0.13863399624824524,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16545,Manchester City,Leeds,7,0,2021-12-14 20:00:00,Riyad Mahrez,Chipped,314
+448943,89,SavedShot,0.915,0.705999984741211,0.08574420213699341,Ilkay Gündogan,h,314,OpenPlay,2021,LeftFoot,16545,Manchester City,Leeds,7,0,2021-12-14 20:00:00,Aymeric Laporte,Chipped,314
+450599,20,Goal,0.9119999694824219,0.49400001525878906,0.5637239813804626,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,,None,314
+450609,45,SavedShot,0.8240000152587891,0.47400001525878904,0.058074500411748886,Ilkay Gündogan,h,314,SetPiece,2021,RightFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Kevin De Bruyne,Pass,314
+457204,7,SavedShot,0.914000015258789,0.545,0.10395199805498123,Ilkay Gündogan,a,314,OpenPlay,2021,Head,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Oleksandr Zinchenko,Cross,314
+457216,39,MissedShots,0.9630000305175781,0.4909999847412109,0.18055100739002228,Ilkay Gündogan,a,314,OpenPlay,2021,Head,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Bernardo Silva,Aerial,314
+458465,20,ShotOnPost,0.879000015258789,0.6179999923706054,0.06059210002422333,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,,Dispossessed,314
+458469,30,MissedShots,0.905,0.5,0.10105100274085999,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Rodri,Cross,314
+458470,32,Goal,0.9059999847412109,0.5429999923706055,0.45212599635124207,Ilkay Gündogan,h,314,OpenPlay,2021,LeftFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,,None,314
+458478,65,SavedShot,0.789000015258789,0.645,0.022252999246120453,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Bernardo Silva,Pass,314
+458482,80,BlockedShot,0.8769999694824219,0.6270000076293946,0.07666140049695969,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,Rodri,Pass,314
+461821,88,MissedShots,0.8930000305175781,0.43400001525878906,0.13845300674438477,Ilkay Gündogan,h,314,OpenPlay,2021,LeftFoot,16650,Manchester City,Manchester United,4,1,2022-03-06 16:30:00,Jack Grealish,Pass,314
+465216,15,MissedShots,0.84,0.3820000076293945,0.017677299678325653,Ilkay Gündogan,a,314,FromCorner,2021,RightFoot,16684,Burnley,Manchester City,0,2,2022-04-02 14:00:00,Kevin De Bruyne,Chipped,314
+465217,24,Goal,0.9030000305175782,0.4540000152587891,0.13887199759483337,Ilkay Gündogan,a,314,OpenPlay,2021,RightFoot,16684,Burnley,Manchester City,0,2,2022-04-02 14:00:00,Raheem Sterling,Pass,314
+465222,48,SavedShot,0.865999984741211,0.524000015258789,0.12955200672149658,Ilkay Gündogan,a,314,OpenPlay,2021,RightFoot,16684,Burnley,Manchester City,0,2,2022-04-02 14:00:00,Kevin De Bruyne,Pass,314
+469543,37,BlockedShot,0.875999984741211,0.4159999847412109,0.10334599763154984,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16670,Manchester City,Brighton,3,0,2022-04-20 19:00:00,Kevin De Bruyne,Pass,314
+469553,70,BlockedShot,0.8930000305175781,0.5879999923706055,0.1541530042886734,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16670,Manchester City,Brighton,3,0,2022-04-20 19:00:00,Kevin De Bruyne,TakeOn,314
+471795,61,MissedShots,0.759000015258789,0.5620000076293945,0.028046300634741783,Ilkay Gündogan,a,314,OpenPlay,2021,RightFoot,16723,Leeds,Manchester City,0,4,2022-04-30 16:30:00,Jack Grealish,Pass,314
+471796,66,BlockedShot,0.905,0.40200000762939453,0.13535700738430023,Ilkay Gündogan,a,314,OpenPlay,2021,RightFoot,16723,Leeds,Manchester City,0,4,2022-04-30 16:30:00,Phil Foden,Pass,314
+471807,89,MissedShots,0.9059999847412109,0.4279999923706055,0.02804189920425415,Ilkay Gündogan,a,314,OpenPlay,2021,Head,16723,Leeds,Manchester City,0,4,2022-04-30 16:30:00,Gabriel Jesus,BallTouch,314
+474283,29,BlockedShot,0.8719999694824219,0.685,0.05171329900622368,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16727,Manchester City,Newcastle United,5,0,2022-05-08 15:30:00,Rodri,Pass,314
+474284,30,MissedShots,0.740999984741211,0.6880000305175781,0.017711300402879715,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16727,Manchester City,Newcastle United,5,0,2022-05-08 15:30:00,Jack Grealish,Pass,314
+474285,37,SavedShot,0.8040000152587891,0.615,0.012057900428771973,Ilkay Gündogan,h,314,FromCorner,2021,RightFoot,16727,Manchester City,Newcastle United,5,0,2022-05-08 15:30:00,Kevin De Bruyne,Chipped,314
+474288,48,BlockedShot,0.7380000305175781,0.5109999847412109,0.024976300075650215,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16727,Manchester City,Newcastle United,5,0,2022-05-08 15:30:00,Rodri,Pass,314
+474296,80,MissedShots,0.8119999694824219,0.48,0.07947870343923569,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16727,Manchester City,Newcastle United,5,0,2022-05-08 15:30:00,Raheem Sterling,Pass,314
+477954,73,MissedShots,0.9280000305175782,0.5420000076293945,0.06157840043306351,Ilkay Gündogan,h,314,SetPiece,2021,Head,16754,Manchester City,Aston Villa,3,2,2022-05-22 15:00:00,Kevin De Bruyne,Aerial,314
+477955,75,Goal,0.9669999694824218,0.555,0.5095549821853638,Ilkay Gündogan,h,314,OpenPlay,2021,Head,16754,Manchester City,Aston Villa,3,2,2022-05-22 15:00:00,Raheem Sterling,Cross,314
+477960,80,Goal,0.980999984741211,0.5359999847412109,0.9017159938812256,Ilkay Gündogan,h,314,OpenPlay,2021,RightFoot,16754,Manchester City,Aston Villa,3,2,2022-05-22 15:00:00,Kevin De Bruyne,Rebound,314
+479848,38,BlockedShot,0.7280000305175781,0.4329999923706055,0.04843270033597946,Ilkay Gündogan,a,314,DirectFreekick,2022,RightFoot,18211,West Ham,Manchester City,0,2,2022-08-07 15:30:00,,Standard,314
+479852,61,MissedShots,0.9459999847412109,0.6140000152587891,0.09435780346393585,Ilkay Gündogan,a,314,OpenPlay,2022,LeftFoot,18211,West Ham,Manchester City,0,2,2022-08-07 15:30:00,Kevin De Bruyne,Cross,314
+480312,18,Goal,0.8980000305175782,0.5509999847412109,0.41682299971580505,Ilkay Gündogan,h,314,OpenPlay,2022,LeftFoot,18214,Manchester City,Bournemouth,4,0,2022-08-13 14:00:00,Erling Haaland,Pass,314
+480322,59,MissedShots,0.7780000305175782,0.43400001525878906,0.032127201557159424,Ilkay Gündogan,h,314,OpenPlay,2022,RightFoot,18214,Manchester City,Bournemouth,4,0,2022-08-13 14:00:00,Riyad Mahrez,Pass,314
+482560,4,Goal,0.9219999694824219,0.5259999847412109,0.36338600516319275,Ilkay Gündogan,a,314,OpenPlay,2022,RightFoot,18230,Newcastle United,Manchester City,3,3,2022-08-21 15:30:00,Bernardo Silva,Chipped,314
+482571,36,BlockedShot,0.8719999694824219,0.5379999923706055,0.08380589634180069,Ilkay Gündogan,a,314,OpenPlay,2022,RightFoot,18230,Newcastle United,Manchester City,3,3,2022-08-21 15:30:00,,None,314
+482580,59,BlockedShot,0.86,0.63,0.038988299667835236,Ilkay Gündogan,a,314,FromCorner,2022,RightFoot,18230,Newcastle United,Manchester City,3,3,2022-08-21 15:30:00,Rúben Dias,BallTouch,314
+483644,84,SavedShot,0.925,0.5640000152587891,0.05323699861764908,Ilkay Gündogan,h,314,OpenPlay,2022,Head,18237,Manchester City,Crystal Palace,4,2,2022-08-27 14:00:00,Kevin De Bruyne,Aerial,314
+485193,2,MissedShots,0.764000015258789,0.4,0.024161800742149353,Ilkay Gündogan,h,314,OpenPlay,2022,LeftFoot,18246,Manchester City,Nottingham Forest,6,0,2022-08-31 18:30:00,Rodri,Pass,314
+485203,45,MissedShots,0.74,0.44599998474121094,0.028363199904561043,Ilkay Gündogan,h,314,OpenPlay,2022,LeftFoot,18246,Manchester City,Nottingham Forest,6,0,2022-08-31 18:30:00,Julián Álvarez,LayOff,314
+490635,17,ShotOnPost,0.785,0.4909999847412109,0.103022001683712,Ilkay Gündogan,h,314,DirectFreekick,2022,RightFoot,18289,Manchester City,Manchester United,6,3,2022-10-02 13:00:00,,Standard,314
+490640,30,BlockedShot,0.8180000305175781,0.44,0.054475899785757065,Ilkay Gündogan,h,314,OpenPlay,2022,RightFoot,18289,Manchester City,Manchester United,6,3,2022-10-02 13:00:00,,Rebound,314
+493833,14,SavedShot,0.759000015258789,0.595999984741211,0.019172100350260735,Ilkay Gündogan,a,314,OpenPlay,2022,RightFoot,18307,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,,None,314
+493844,57,BlockedShot,0.8009999847412109,0.5729999923706055,0.04264200106263161,Ilkay Gündogan,a,314,OpenPlay,2022,LeftFoot,18307,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,Phil Foden,Pass,314
+493849,68,BlockedShot,0.8480000305175781,0.52,0.07782330363988876,Ilkay Gündogan,a,314,OpenPlay,2022,RightFoot,18307,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,Erling Haaland,Pass,314
+493856,83,SavedShot,0.8569999694824219,0.7480000305175781,0.02237910032272339,Ilkay Gündogan,a,314,FromCorner,2022,RightFoot,18307,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,Phil Foden,Pass,314
+496246,8,SavedShot,0.93,0.600999984741211,0.0433788001537323,Ilkay Gündogan,a,314,OpenPlay,2022,Head,18338,Leicester,Manchester City,0,1,2022-10-29 11:30:00,João Cancelo,Chipped,314
+498056,12,SavedShot,0.76,0.585,0.02106880024075508,Ilkay Gündogan,h,314,OpenPlay,2022,RightFoot,18346,Manchester City,Fulham,2,1,2022-11-05 15:00:00,,None,314
+499890,7,MissedShots,0.6519999694824219,0.735999984741211,0.006846429780125618,Ilkay Gündogan,h,314,OpenPlay,2022,RightFoot,18356,Manchester City,Brentford,1,2,2022-11-12 12:30:00,,None,314
+499910,65,MissedShots,0.909000015258789,0.4640000152587891,0.463005006313324,Ilkay Gündogan,h,314,OpenPlay,2022,LeftFoot,18356,Manchester City,Brentford,1,2,2022-11-12 12:30:00,Erling Haaland,Pass,314
+499915,77,MissedShots,0.8419999694824218,0.4470000076293945,0.05269639939069748,Ilkay Gündogan,h,314,FromCorner,2022,RightFoot,18356,Manchester City,Brentford,1,2,2022-11-12 12:30:00,,None,314
+501275,14,MissedShots,0.919000015258789,0.5059999847412109,0.1362369954586029,Ilkay Gündogan,a,314,OpenPlay,2022,Head,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,Kevin De Bruyne,Cross,314
+501276,19,MissedShots,0.6819999694824219,0.47900001525878905,0.014764799736440182,Ilkay Gündogan,a,314,SetPiece,2022,RightFoot,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,Riyad Mahrez,Pass,314
+501282,34,SavedShot,0.935,0.32,0.3133780062198639,Ilkay Gündogan,a,314,OpenPlay,2022,RightFoot,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,Riyad Mahrez,Throughball,314
+501294,59,BlockedShot,0.875,0.5570000076293945,0.3718540072441101,Ilkay Gündogan,a,314,OpenPlay,2022,LeftFoot,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,Erling Haaland,Pass,314
+501737,95,BlockedShot,0.8190000152587891,0.6469999694824219,0.04234910011291504,Ilkay Gündogan,h,314,OpenPlay,2022,RightFoot,18376,Manchester City,Everton,1,1,2022-12-31 15:00:00,Rodri,Pass,314
+502598,32,MissedShots,0.8130000305175781,0.6580000305175782,0.030034799128770828,Ilkay Gündogan,a,314,OpenPlay,2022,RightFoot,18385,Chelsea,Manchester City,0,1,2023-01-05 20:00:00,Kevin De Bruyne,HeadPass,314
+504348,18,MissedShots,0.77,0.6840000152587891,0.015959899872541428,Ilkay Gündogan,h,314,OpenPlay,2022,RightFoot,18267,Manchester City,Tottenham,4,2,2023-01-19 19:00:00,Jack Grealish,Pass,314
+504361,50,BlockedShot,0.9519999694824218,0.4620000076293945,0.1262820065021515,Ilkay Gündogan,h,314,OpenPlay,2022,Head,18267,Manchester City,Tottenham,4,2,2023-01-19 19:00:00,Riyad Mahrez,Aerial,314
+504945,29,MissedShots,0.92,0.51,0.06565500050783157,Ilkay Gündogan,h,314,OpenPlay,2022,Head,18409,Manchester City,Wolverhampton Wanderers,3,0,2023-01-22 14:00:00,Rico Lewis,Aerial,314
+504959,79,MissedShots,0.9719999694824218,0.5429999923706055,0.6056900024414062,Ilkay Gündogan,h,314,OpenPlay,2022,Head,18409,Manchester City,Wolverhampton Wanderers,3,0,2023-01-22 14:00:00,Bernardo Silva,Cross,314
+509027,10,SavedShot,0.8719999694824219,0.44299999237060544,0.36052799224853516,Ilkay Gündogan,h,314,OpenPlay,2022,LeftFoot,18429,Manchester City,Aston Villa,3,1,2023-02-12 16:30:00,Rodri,Throughball,314
+509035,38,Goal,0.9630000305175781,0.5790000152587891,0.5183249711990356,Ilkay Gündogan,h,314,OpenPlay,2022,LeftFoot,18429,Manchester City,Aston Villa,3,1,2023-02-12 16:30:00,Erling Haaland,Pass,314
+509042,67,SavedShot,0.7730000305175782,0.38799999237060545,0.03669939935207367,Ilkay Gündogan,h,314,OpenPlay,2022,RightFoot,18429,Manchester City,Aston Villa,3,1,2023-02-12 16:30:00,Rodri,Pass,314
+509043,71,SavedShot,0.7830000305175782,0.3890000152587891,0.03395780175924301,Ilkay Gündogan,h,314,OpenPlay,2022,RightFoot,18429,Manchester City,Aston Villa,3,1,2023-02-12 16:30:00,Rodri,Pass,314
+509758,8,BlockedShot,0.875999984741211,0.575,0.05342959985136986,Ilkay Gündogan,a,314,FromCorner,2022,LeftFoot,18439,Nottingham Forest,Manchester City,1,1,2023-02-18 15:00:00,Aymeric Laporte,HeadPass,314
+509768,46,MissedShots,0.784000015258789,0.6959999847412109,0.023503199219703674,Ilkay Gündogan,a,314,OpenPlay,2022,RightFoot,18439,Nottingham Forest,Manchester City,1,1,2023-02-18 15:00:00,Jack Grealish,Pass,314
+509779,72,SavedShot,0.7630000305175781,0.46900001525878904,0.07534229755401611,Ilkay Gündogan,a,314,DirectFreekick,2022,RightFoot,18439,Nottingham Forest,Manchester City,1,1,2023-02-18 15:00:00,,Standard,314
+511874,0,MissedShots,0.93,0.505,0.43988698720932007,Ilkay Gündogan,h,314,OpenPlay,2022,Head,18458,Manchester City,Newcastle United,2,0,2023-03-04 12:30:00,Jack Grealish,Cross,314
+511887,76,MissedShots,0.7780000305175782,0.3160000038146973,0.05906179919838905,Ilkay Gündogan,h,314,DirectFreekick,2022,RightFoot,18458,Manchester City,Newcastle United,2,0,2023-03-04 12:30:00,,Standard,314
+516061,20,MissedShots,0.9119999694824219,0.595999984741211,0.1062690019607544,Ilkay Gündogan,h,314,OpenPlay,2022,LeftFoot,18488,Manchester City,Liverpool,4,1,2023-04-01 11:30:00,Kevin De Bruyne,Pass,314
+516065,43,BlockedShot,0.77,0.42400001525878905,0.023635100573301315,Ilkay Gündogan,h,314,OpenPlay,2022,RightFoot,18488,Manchester City,Liverpool,4,1,2023-04-01 11:30:00,Riyad Mahrez,Pass,314
+516069,52,Goal,0.9290000152587891,0.534000015258789,0.5289329886436462,Ilkay Gündogan,h,314,OpenPlay,2022,RightFoot,18488,Manchester City,Liverpool,4,1,2023-04-01 11:30:00,,Rebound,314
+518221,14,BlockedShot,0.845,0.515,0.05754369869828224,Ilkay Gündogan,a,314,FromCorner,2022,RightFoot,18499,Southampton,Manchester City,1,4,2023-04-08 16:30:00,Riyad Mahrez,HeadPass,314
+518222,31,SavedShot,0.9630000305175781,0.325,0.009039299562573433,Ilkay Gündogan,a,314,FromCorner,2022,Head,18499,Southampton,Manchester City,1,4,2023-04-08 16:30:00,Kevin De Bruyne,Cross,314
+518227,50,MissedShots,0.9109999847412109,0.705999984741211,0.08328279852867126,Ilkay Gündogan,a,314,OpenPlay,2022,RightFoot,18499,Southampton,Manchester City,1,4,2023-04-08 16:30:00,,TakeOn,314
+522184,63,MissedShots,0.7630000305175781,0.385,0.027797363698482513,Ilkay Gündogan,h,314,OpenPlay,2022,RightFoot,18531,Manchester City,Arsenal,4,1,2023-04-26 19:00:00,Jack Grealish,Pass,314
+523297,40,SavedShot,0.9290000152587891,0.3890000152587891,0.40165430307388306,Ilkay Gündogan,a,314,OpenPlay,2022,RightFoot,18537,Fulham,Manchester City,1,2,2023-04-30 13:00:00,Riyad Mahrez,Throughball,314
+524649,18,Goal,0.8419999694824218,0.4329999923706055,0.08027282357215881,Ilkay Gündogan,h,314,OpenPlay,2022,RightFoot,18546,Manchester City,Leeds,2,1,2023-05-06 14:00:00,Riyad Mahrez,Pass,314
+524651,26,Goal,0.8159999847412109,0.46599998474121096,0.07086614519357681,Ilkay Gündogan,h,314,OpenPlay,2022,RightFoot,18546,Manchester City,Leeds,2,1,2023-05-06 14:00:00,Riyad Mahrez,Pass,314
+524663,83,ShotOnPost,0.885,0.5,0.7611688375473022,Ilkay Gündogan,h,314,Penalty,2022,RightFoot,18546,Manchester City,Leeds,2,1,2023-05-06 14:00:00,,Standard,314
+526442,36,Goal,0.9219999694824219,0.5220000076293946,0.11730725318193436,Ilkay Gündogan,a,314,OpenPlay,2022,RightFoot,18557,Everton,Manchester City,0,3,2023-05-14 13:00:00,Riyad Mahrez,Cross,314
+526445,50,Goal,0.7980000305175782,0.6459999847412109,0.08491066098213196,Ilkay Gündogan,a,314,DirectFreekick,2022,RightFoot,18557,Everton,Manchester City,0,3,2023-05-14 13:00:00,,Standard,314
+528624,48,BlockedShot,0.92,0.3220000076293945,0.07688251882791519,Ilkay Gündogan,a,314,OpenPlay,2022,RightFoot,18515,Brighton,Manchester City,1,1,2023-05-24 19:00:00,Erling Haaland,Pass,314
+534007,39,BlockedShot,0.7659999847412109,0.44799999237060545,0.027342161163687706,Ilkay Gündogan,h,314,OpenPlay,2023,RightFoot,22701,Barcelona,Cadiz,2,0,2023-08-20 17:30:00,Pedri,Pass,314
+534008,49,MissedShots,0.764000015258789,0.4,0.07643810659646988,Ilkay Gündogan,h,314,DirectFreekick,2023,RightFoot,22701,Barcelona,Cadiz,2,0,2023-08-20 17:30:00,,Standard,314
+535416,1,MissedShots,0.8640000152587891,0.4420000076293945,0.03438225015997887,Ilkay Gündogan,a,314,OpenPlay,2023,Head,22710,Villarreal,Barcelona,3,4,2023-08-27 15:30:00,Frenkie de Jong,Chipped,314
+535429,37,SavedShot,0.735999984741211,0.4759999847412109,0.02646312676370144,Ilkay Gündogan,a,314,OpenPlay,2023,RightFoot,22710,Villarreal,Barcelona,3,4,2023-08-27 15:30:00,Frenkie de Jong,Pass,314
+537186,9,MissedShots,0.9159999847412109,0.47200000762939454,0.13731077313423157,Ilkay Gündogan,a,314,OpenPlay,2023,RightFoot,22722,Osasuna,Barcelona,1,2,2023-09-03 19:00:00,,Rebound,314
+537993,90,MissedShots,0.9219999694824219,0.4590000152587891,0.4313566982746124,Ilkay Gündogan,h,314,OpenPlay,2023,LeftFoot,22726,Barcelona,Real Betis,5,0,2023-09-16 19:00:00,Marcos Alonso,Cross,314
+539302,42,MissedShots,0.8109999847412109,0.519000015258789,0.053818341344594955,Ilkay Gündogan,h,314,OpenPlay,2023,LeftFoot,22737,Barcelona,Celta Vigo,3,2,2023-09-23 16:30:00,Gavi,Pass,314
+540758,92,SavedShot,0.8180000305175781,0.77,0.01883464679121971,Ilkay Gündogan,h,314,FromCorner,2023,RightFoot,22757,Barcelona,Sevilla,1,0,2023-09-29 19:00:00,Gavi,TakeOn,314
+543577,76,SavedShot,0.8140000152587891,0.49900001525878906,0.04885268956422806,Ilkay Gündogan,a,314,OpenPlay,2023,LeftFoot,22771,Granada,Barcelona,2,2,2023-10-08 19:00:00,,None,314
+543582,89,MissedShots,0.850999984741211,0.620999984741211,0.0651392787694931,Ilkay Gündogan,a,314,OpenPlay,2023,RightFoot,22771,Granada,Barcelona,2,2,2023-10-08 19:00:00,Oriol Romeu,Pass,314
+545508,5,Goal,0.9259999847412109,0.5359999847412109,0.548054039478302,Ilkay Gündogan,h,314,OpenPlay,2023,RightFoot,22787,Barcelona,Real Madrid,1,2,2023-10-28 14:15:00,,None,314
+553824,29,BlockedShot,0.8340000152587891,0.5940000152587891,0.055818766355514526,Ilkay Gündogan,h,314,OpenPlay,2023,RightFoot,22835,Barcelona,Girona,2,4,2023-12-10 20:00:00,Frenkie de Jong,Pass,314
+553834,56,SavedShot,0.740999984741211,0.5790000152587891,0.020295828580856323,Ilkay Gündogan,h,314,OpenPlay,2023,RightFoot,22835,Barcelona,Girona,2,4,2023-12-10 20:00:00,João Cancelo,Pass,314
+553838,63,BlockedShot,0.7830000305175782,0.5570000076293945,0.031368762254714966,Ilkay Gündogan,h,314,OpenPlay,2023,RightFoot,22835,Barcelona,Girona,2,4,2023-12-10 20:00:00,Robert Lewandowski,Pass,314
+553840,66,MissedShots,0.909000015258789,0.8119999694824219,0.07259184122085571,Ilkay Gündogan,h,314,DirectFreekick,2023,RightFoot,22835,Barcelona,Girona,2,4,2023-12-10 20:00:00,,Standard,314
+553841,67,MissedShots,0.89,0.575,0.09859826415777206,Ilkay Gündogan,h,314,OpenPlay,2023,RightFoot,22835,Barcelona,Girona,2,4,2023-12-10 20:00:00,Ferrán Torres,Pass,314
+553843,75,SavedShot,0.82,0.46099998474121096,0.06117613986134529,Ilkay Gündogan,h,314,OpenPlay,2023,RightFoot,22835,Barcelona,Girona,2,4,2023-12-10 20:00:00,Jules Koundé,Pass,314
+553848,85,MissedShots,0.9580000305175781,0.5320000076293945,0.6037603616714478,Ilkay Gündogan,h,314,OpenPlay,2023,Head,22835,Barcelona,Girona,2,4,2023-12-10 20:00:00,Lamine Yamal,Cross,314
+553854,91,Goal,0.909000015258789,0.45799999237060546,0.10395906865596771,Ilkay Gündogan,h,314,OpenPlay,2023,LeftFoot,22835,Barcelona,Girona,2,4,2023-12-10 20:00:00,Ferrán Torres,Pass,314
+554542,51,MissedShots,0.8730000305175781,0.44299999237060544,0.10529716312885284,Ilkay Gündogan,a,314,OpenPlay,2023,RightFoot,22850,Valencia,Barcelona,1,1,2023-12-16 20:00:00,João Cancelo,Pass,314
+555434,77,MissedShots,0.960999984741211,0.4879999923706055,0.662178635597229,Ilkay Gündogan,h,314,OpenPlay,2023,Head,22863,Barcelona,Almeria,3,2,2023-12-20 18:00:00,Robert Lewandowski,Rebound,314
+557519,68,BlockedShot,0.8530000305175781,0.585,0.07432325929403305,Ilkay Gündogan,a,314,OpenPlay,2023,LeftFoot,22870,Las Palmas,Barcelona,1,2,2024-01-04 20:30:00,,BallRecovery,314
+557527,92,Goal,0.885,0.5,0.7432776093482971,Ilkay Gündogan,a,314,Penalty,2023,RightFoot,22870,Las Palmas,Barcelona,1,2,2024-01-04 20:30:00,,Standard,314
+559948,3,BlockedShot,0.8909999847412109,0.40900001525878904,0.10463348776102066,Ilkay Gündogan,h,314,OpenPlay,2023,RightFoot,22896,Barcelona,Villarreal,3,5,2024-01-27 17:30:00,Lamine Yamal,Pass,314
+559964,59,Goal,0.84,0.43900001525878907,0.06254676729440689,Ilkay Gündogan,h,314,OpenPlay,2023,LeftFoot,22896,Barcelona,Villarreal,3,5,2024-01-27 17:30:00,Robert Lewandowski,BallTouch,314
+559973,89,BlockedShot,0.9330000305175781,0.24899999618530275,0.022628163918852806,Ilkay Gündogan,h,314,FromCorner,2023,RightFoot,22896,Barcelona,Villarreal,3,5,2024-01-27 17:30:00,Pedri,Chipped,314
+559976,97,BlockedShot,0.8869999694824219,0.3509999847412109,0.062186796218156815,Ilkay Gündogan,h,314,OpenPlay,2023,LeftFoot,22896,Barcelona,Villarreal,3,5,2024-01-27 17:30:00,,None,314
+560675,61,MissedShots,0.955,0.5379999923706055,0.5631044507026672,Ilkay Gündogan,h,314,OpenPlay,2023,Head,22878,Barcelona,Osasuna,1,0,2024-01-31 18:00:00,Lamine Yamal,Cross,314
+560683,81,BlockedShot,0.76,0.6020000076293945,0.07290632277727127,Ilkay Gündogan,h,314,DirectFreekick,2023,RightFoot,22878,Barcelona,Osasuna,1,0,2024-01-31 18:00:00,,Standard,314
+561376,48,Goal,0.960999984741211,0.40099998474121096,0.3166758418083191,Ilkay Gündogan,a,314,OpenPlay,2023,RightFoot,22910,Alaves,Barcelona,1,3,2024-02-03 17:30:00,Pedri,Chipped,314
+563308,83,SavedShot,0.924000015258789,0.47200000762939454,0.13778674602508545,Ilkay Gündogan,h,314,OpenPlay,2023,Head,22916,Barcelona,Granada,3,3,2024-02-11 20:00:00,Lamine Yamal,Cross,314
+567706,23,SavedShot,0.885,0.5,0.7432776093482971,Ilkay Gündogan,h,314,Penalty,2023,RightFoot,22956,Barcelona,Mallorca,1,0,2024-03-08 20:00:00,,Standard,314
+567717,40,SavedShot,0.9490000152587891,0.3129999923706055,0.09930693358182907,Ilkay Gündogan,h,314,OpenPlay,2023,RightFoot,22956,Barcelona,Mallorca,1,0,2024-03-08 20:00:00,Fermín López,Throughball,314
+567718,44,BlockedShot,0.7809999847412109,0.5929999923706055,0.04349973425269127,Ilkay Gündogan,h,314,OpenPlay,2023,LeftFoot,22956,Barcelona,Mallorca,1,0,2024-03-08 20:00:00,,TakeOn,314
+567726,59,SavedShot,0.8490000152587891,0.54,0.32365643978118896,Ilkay Gündogan,h,314,OpenPlay,2023,RightFoot,22956,Barcelona,Mallorca,1,0,2024-03-08 20:00:00,Marc Guiu,Pass,314
+570196,90,SavedShot,0.735999984741211,0.6830000305175781,0.04635167121887207,Ilkay Gündogan,a,314,DirectFreekick,2023,RightFoot,22965,Atletico Madrid,Barcelona,0,3,2024-03-17 20:00:00,,Standard,314
+575832,45,MissedShots,0.7669999694824219,0.6730000305175782,0.0633137971162796,Ilkay Gündogan,a,314,DirectFreekick,2023,RightFoot,23000,Real Madrid,Barcelona,3,2,2024-04-21 19:00:00,,Standard,314
+577959,75,BlockedShot,0.8719999694824219,0.395,0.06945938616991043,Ilkay Gündogan,h,314,OpenPlay,2023,RightFoot,23006,Barcelona,Valencia,4,2,2024-04-29 19:00:00,,None,314
+578627,6,SavedShot,0.7609999847412109,0.435,0.026510508731007576,Ilkay Gündogan,a,314,OpenPlay,2023,RightFoot,23019,Girona,Barcelona,4,2,2024-05-04 16:30:00,Sergi Roberto,Pass,314
+578633,32,ShotOnPost,0.945,0.5220000076293946,0.1488432139158249,Ilkay Gündogan,a,314,OpenPlay,2023,Head,23019,Girona,Barcelona,4,2,2024-05-04 16:30:00,João Cancelo,Cross,314
+578641,58,SavedShot,0.7909999847412109,0.43200000762939456,0.052433039993047714,Ilkay Gündogan,a,314,OpenPlay,2023,LeftFoot,23019,Girona,Barcelona,4,2,2024-05-04 16:30:00,Lamine Yamal,Pass,314
+578639,58,BlockedShot,0.855,0.385,0.08300571888685226,Ilkay Gündogan,a,314,OpenPlay,2023,RightFoot,23019,Girona,Barcelona,4,2,2024-05-04 16:30:00,Sergi Roberto,BlockedPass,314
+580881,37,MissedShots,0.895,0.5429999923706055,0.11839766800403595,Ilkay Gündogan,h,314,OpenPlay,2023,RightFoot,23027,Barcelona,Real Sociedad,2,0,2024-05-13 19:00:00,,Rebound,314
+590771,12,MissedShots,0.975,0.39,0.02508147992193699,Ilkay Gündogan,h,314,FromCorner,2024,Head,26637,Manchester City,Brentford,2,1,2024-09-14 14:00:00,Kevin De Bruyne,Cross,314
+590785,69,BlockedShot,0.774000015258789,0.44299999237060544,0.02973138354718685,Ilkay Gündogan,h,314,FromCorner,2024,LeftFoot,26637,Manchester City,Brentford,2,1,2024-09-14 14:00:00,Sávio,Pass,314
+593120,6,MissedShots,0.889000015258789,0.3679999923706055,0.31916213035583496,Ilkay Gündogan,h,314,OpenPlay,2024,RightFoot,26651,Manchester City,Arsenal,2,2,2024-09-22 15:30:00,Bernardo Silva,TakeOn,314
+593122,14,ShotOnPost,0.7719999694824219,0.31799999237060544,0.056295156478881836,Ilkay Gündogan,h,314,DirectFreekick,2024,RightFoot,26651,Manchester City,Arsenal,2,2,2024-09-22 15:30:00,,Standard,314
+593810,26,MissedShots,0.8540000152587891,0.4209999847412109,0.08762262761592865,Ilkay Gündogan,a,314,OpenPlay,2024,RightFoot,26652,Newcastle United,Manchester City,1,1,2024-09-28 11:30:00,Bernardo Silva,Pass,314
+593813,39,SavedShot,0.6769999694824219,0.37900001525878907,0.012766469269990921,Ilkay Gündogan,a,314,OpenPlay,2024,RightFoot,26652,Newcastle United,Manchester City,1,1,2024-09-28 11:30:00,,BallRecovery,314
+595453,2,MissedShots,0.8519999694824218,0.5659999847412109,0.06640903651714325,Ilkay Gündogan,h,314,OpenPlay,2024,LeftFoot,26664,Manchester City,Fulham,3,2,2024-10-05 14:00:00,Erling Haaland,None,314
+595463,24,MissedShots,0.9359999847412109,0.55,0.37435343861579895,Ilkay Gündogan,h,314,OpenPlay,2024,Head,26664,Manchester City,Fulham,3,2,2024-10-05 14:00:00,Bernardo Silva,Cross,314
+597489,10,MissedShots,0.9340000152587891,0.46599998474121096,0.06007945537567139,Ilkay Gündogan,a,314,OpenPlay,2024,Head,26681,Wolverhampton Wanderers,Manchester City,1,2,2024-10-20 13:00:00,Sávio,Aerial,314
+597502,62,BlockedShot,0.8190000152587891,0.539000015258789,0.1675838679075241,Ilkay Gündogan,a,314,DirectFreekick,2024,RightFoot,26681,Wolverhampton Wanderers,Manchester City,1,2,2024-10-20 13:00:00,,Standard,314
+597503,64,SavedShot,0.8490000152587891,0.515,0.09876441955566406,Ilkay Gündogan,a,314,OpenPlay,2024,RightFoot,26681,Wolverhampton Wanderers,Manchester City,1,2,2024-10-20 13:00:00,Jéremy Doku,Pass,314
+603119,76,SavedShot,0.9480000305175781,0.34700000762939454,0.27819252014160156,Ilkay Gündogan,h,314,OpenPlay,2024,RightFoot,26720,Manchester City,Tottenham,0,4,2024-11-23 17:30:00,Kevin De Bruyne,Pass,314
+605208,2,BlockedShot,0.765,0.525,0.021361669525504112,Ilkay Gündogan,h,314,OpenPlay,2024,LeftFoot,26739,Manchester City,Nottingham Forest,3,0,2024-12-04 19:30:00,Jack Grealish,BallRecovery,314
+605850,11,BlockedShot,0.8440000152587891,0.40400001525878904,0.05954928696155548,Ilkay Gündogan,a,314,OpenPlay,2024,RightFoot,26747,Crystal Palace,Manchester City,2,2,2024-12-07 15:00:00,Sávio,Pass,314
+605853,22,ShotOnPost,0.8230000305175781,0.6409999847412109,0.03762725368142128,Ilkay Gündogan,a,314,OpenPlay,2024,LeftFoot,26747,Crystal Palace,Manchester City,2,2,2024-12-07 15:00:00,,None,314
+613533,33,SavedShot,0.7680000305175781,0.5129999923706055,0.028539160266518593,Ilkay Gündogan,h,314,OpenPlay,2024,RightFoot,26828,Manchester City,Chelsea,3,1,2025-01-25 17:30:00,Mateo Kovacic,Pass,314

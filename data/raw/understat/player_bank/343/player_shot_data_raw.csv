@@ -1,0 +1,317 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+25976,35,BlockedShot,0.9459999847412109,0.639000015258789,0.10922899842262268,Pierre-Emile Højbjerg,h,343,OpenPlay,2014,LeftFoot,5392,Bayern Munich,Werder Bremen,6,0,2014-10-18 14:30:00,Thomas Müller,Pass,343
+25986,80,MissedShots,0.7440000152587891,0.34200000762939453,0.014439200051128864,Pierre-Emile Højbjerg,h,343,FromCorner,2014,RightFoot,5392,Bayern Munich,Werder Bremen,6,0,2014-10-18 14:30:00,,None,343
+25987,82,BlockedShot,0.720999984741211,0.30100000381469727,0.018108699470758438,Pierre-Emile Højbjerg,h,343,OpenPlay,2014,RightFoot,5392,Bayern Munich,Werder Bremen,6,0,2014-10-18 14:30:00,Philipp Lahm,Pass,343
+28140,72,BlockedShot,0.8580000305175781,0.34299999237060547,0.01870260015130043,Pierre-Emile Højbjerg,a,343,SetPiece,2014,RightFoot,5339,Mainz 05,Bayern Munich,1,2,2014-12-19 19:30:00,,Aerial,343
+28142,82,MissedShots,0.749000015258789,0.36,0.020173199474811554,Pierre-Emile Højbjerg,a,343,OpenPlay,2014,RightFoot,5339,Mainz 05,Bayern Munich,1,2,2014-12-19 19:30:00,Rafinha,Pass,343
+28505,37,MissedShots,0.794000015258789,0.08899999618530273,0.027644699439406395,Pierre-Emile Højbjerg,h,343,DirectFreekick,2014,RightFoot,5261,Augsburg,Hoffenheim,3,1,2015-02-01 16:30:00,,Standard,343
+28511,55,MissedShots,0.7969999694824219,0.2589999961853027,0.02388880029320717,Pierre-Emile Højbjerg,h,343,OpenPlay,2014,RightFoot,5261,Augsburg,Hoffenheim,3,1,2015-02-01 16:30:00,Paul Verhaegh,Pass,343
+28515,70,MissedShots,0.92,0.46700000762939453,0.04428749904036522,Pierre-Emile Højbjerg,h,343,FromCorner,2014,Head,5261,Augsburg,Hoffenheim,3,1,2015-02-01 16:30:00,Raúl Bobadilla,Aerial,343
+29784,82,SavedShot,0.7319999694824219,0.3129999923706055,0.04133240133523941,Pierre-Emile Højbjerg,a,343,DirectFreekick,2014,RightFoot,5266,Borussia Dortmund,Augsburg,0,1,2015-02-04 19:00:00,,Standard,343
+29588,3,MissedShots,0.8109999847412109,0.47200000762939454,0.03777540102601051,Pierre-Emile Højbjerg,h,343,FromCorner,2014,RightFoot,5279,Augsburg,Eintracht Frankfurt,2,2,2015-02-08 16:30:00,,None,343
+29613,90,MissedShots,0.7830000305175782,0.455,0.03547529876232147,Pierre-Emile Højbjerg,h,343,OpenPlay,2014,RightFoot,5279,Augsburg,Eintracht Frankfurt,2,2,2015-02-08 16:30:00,Halil Altintop,Pass,343
+28717,46,MissedShots,0.91,0.505,0.03613229840993881,Pierre-Emile Højbjerg,a,343,FromCorner,2014,Head,5284,Werder Bremen,Augsburg,3,2,2015-02-14 14:30:00,Tobias Werner,Aerial,343
+29234,23,SavedShot,0.8669999694824219,0.27700000762939453,0.04201719909906387,Pierre-Emile Højbjerg,h,343,OpenPlay,2014,RightFoot,5291,Augsburg,Bayer Leverkusen,2,2,2015-02-21 14:30:00,Dominik Kohr,TakeOn,343
+29240,44,MissedShots,0.6809999847412109,0.27899999618530275,0.02699970081448555,Pierre-Emile Højbjerg,h,343,DirectFreekick,2014,RightFoot,5291,Augsburg,Bayer Leverkusen,2,2,2015-02-21 14:30:00,,Standard,343
+29388,68,MissedShots,0.7119999694824218,0.625999984741211,0.04012810066342354,Pierre-Emile Højbjerg,a,343,DirectFreekick,2014,RightFoot,5303,Hertha Berlin,Augsburg,1,0,2015-02-28 14:30:00,,Standard,343
+29390,83,MissedShots,0.7140000152587891,0.66,0.03802580013871193,Pierre-Emile Højbjerg,a,343,DirectFreekick,2014,RightFoot,5303,Hertha Berlin,Augsburg,1,0,2015-02-28 14:30:00,,Standard,343
+31084,72,MissedShots,0.7119999694824218,0.6530000305175782,0.011544900014996529,Pierre-Emile Højbjerg,h,343,SetPiece,2014,RightFoot,5243,Augsburg,Mainz 05,0,2,2015-03-14 14:30:00,Tobias Werner,Foul,343
+31088,84,MissedShots,0.764000015258789,0.27399999618530274,0.009916270151734352,Pierre-Emile Højbjerg,h,343,OpenPlay,2014,RightFoot,5243,Augsburg,Mainz 05,0,2,2015-03-14 14:30:00,,Aerial,343
+32002,48,SavedShot,0.8180000305175781,0.34299999237060547,0.03967209905385971,Pierre-Emile Højbjerg,a,343,OpenPlay,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Jan-Ingwer Callsen-Bracker,TakeOn,343
+32003,49,BlockedShot,0.95,0.4520000076293945,0.12742599844932556,Pierre-Emile Højbjerg,a,343,FromCorner,2014,Head,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,Raúl Bobadilla,Cross,343
+32006,63,MissedShots,0.76,0.44799999237060545,0.02586580067873001,Pierre-Emile Højbjerg,a,343,OpenPlay,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,,BallRecovery,343
+32007,65,BlockedShot,0.7780000305175782,0.7080000305175781,0.05723090097308159,Pierre-Emile Højbjerg,a,343,DirectFreekick,2014,RightFoot,5255,Freiburg,Augsburg,2,0,2015-03-21 14:30:00,,Standard,343
+30082,1,MissedShots,0.7230000305175781,0.5720000076293945,0.0190373994410038,Pierre-Emile Højbjerg,h,343,OpenPlay,2014,RightFoot,5202,Augsburg,Schalke 04,0,0,2015-04-05 14:30:00,Tobias Werner,Pass,343
+30085,7,MissedShots,0.8859999847412109,0.49900001525878906,0.07288569957017899,Pierre-Emile Højbjerg,h,343,OpenPlay,2014,Head,5202,Augsburg,Schalke 04,0,0,2015-04-05 14:30:00,Markus Feulner,Cross,343
+30095,41,BlockedShot,0.8,0.645,0.09234379976987839,Pierre-Emile Højbjerg,h,343,DirectFreekick,2014,RightFoot,5202,Augsburg,Schalke 04,0,0,2015-04-05 14:30:00,,Standard,343
+30105,56,SavedShot,0.7580000305175781,0.30700000762939456,0.01699800044298172,Pierre-Emile Højbjerg,h,343,OpenPlay,2014,RightFoot,5202,Augsburg,Schalke 04,0,0,2015-04-05 14:30:00,Caiuby,HeadPass,343
+31567,51,Goal,0.8219999694824218,0.649000015258789,0.030342500656843185,Pierre-Emile Højbjerg,a,343,OpenPlay,2014,RightFoot,5209,Paderborn,Augsburg,2,1,2015-04-11 14:30:00,Raúl Bobadilla,TakeOn,343
+31957,10,MissedShots,0.8719999694824219,0.16799999237060548,0.05404679849743843,Pierre-Emile Højbjerg,h,343,DirectFreekick,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,,Standard,343
+31965,39,BlockedShot,0.6990000152587891,0.425,0.03846520185470581,Pierre-Emile Højbjerg,h,343,DirectFreekick,2014,RightFoot,5219,Augsburg,VfB Stuttgart,2,1,2015-04-18 17:30:00,,Standard,343
+30775,81,BlockedShot,0.8919999694824219,0.6759999847412109,0.06835810095071793,Pierre-Emile Højbjerg,h,343,OpenPlay,2014,RightFoot,5161,Augsburg,FC Cologne,0,0,2015-05-02 14:30:00,Dong-Won Ji,Pass,343
+30519,85,BlockedShot,0.8109999847412109,0.20700000762939452,0.014143800362944603,Pierre-Emile Højbjerg,h,343,FromCorner,2014,RightFoot,5180,Augsburg,Hannover 96,1,2,2015-05-16 14:30:00,,None,343
+31250,71,Goal,0.764000015258789,0.3920000076293945,0.02374590002000332,Pierre-Emile Højbjerg,a,343,OpenPlay,2014,RightFoot,5191,Borussia M.Gladbach,Augsburg,1,3,2015-05-23 14:30:00,,Rebound,343
+77067,62,SavedShot,0.8009999847412109,0.62,0.044197700917720795,Pierre-Emile Højbjerg,a,343,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Max Meyer,Pass,343
+77072,72,SavedShot,0.8619999694824219,0.3940000152587891,0.08301299810409546,Pierre-Emile Højbjerg,a,343,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Franco Di Santo,HeadPass,343
+77078,88,MissedShots,0.9890000152587891,0.3220000076293945,0.0651794970035553,Pierre-Emile Højbjerg,a,343,OpenPlay,2015,RightFoot,1063,VfB Stuttgart,Schalke 04,0,1,2015-09-20 17:30:00,Júnior Caiçara,TakeOn,343
+78247,54,BlockedShot,0.965999984741211,0.6179999923706054,0.04691379889845848,Pierre-Emile Højbjerg,a,343,FromCorner,2015,RightFoot,1110,Borussia M.Gladbach,Schalke 04,3,1,2015-10-25 20:30:00,Dennis Aogo,Cross,343
+78246,54,SavedShot,0.8919999694824219,0.34900001525878904,0.08066970109939575,Pierre-Emile Højbjerg,a,343,OpenPlay,2015,RightFoot,1110,Borussia M.Gladbach,Schalke 04,3,1,2015-10-25 20:30:00,Sascha Riether,Pass,343
+78680,79,SavedShot,0.765,0.29200000762939454,0.018955500796437263,Pierre-Emile Højbjerg,a,343,OpenPlay,2015,RightFoot,1127,Borussia Dortmund,Schalke 04,3,2,2015-11-08 18:30:00,Júnior Caiçara,Pass,343
+78872,45,MissedShots,0.7380000305175781,0.61,0.014982099644839764,Pierre-Emile Højbjerg,h,343,FromCorner,2015,RightFoot,1135,Schalke 04,Bayern Munich,1,3,2015-11-21 21:30:00,,None,343
+79847,77,BlockedShot,0.85,0.40400001525878904,0.03430689871311188,Pierre-Emile Højbjerg,h,343,OpenPlay,2015,LeftFoot,1165,Schalke 04,Hoffenheim,1,0,2015-12-18 23:30:00,,Aerial,343
+80515,85,SavedShot,0.91,0.325,0.2634199857711792,Pierre-Emile Højbjerg,a,343,OpenPlay,2015,RightFoot,1184,Darmstadt,Schalke 04,0,2,2016-01-30 18:30:00,Leroy Sané,Pass,343
+81397,84,SavedShot,0.705,0.44,0.017049500718712807,Pierre-Emile Højbjerg,a,343,OpenPlay,2015,RightFoot,1227,Eintracht Frankfurt,Schalke 04,0,0,2016-02-28 22:30:00,Max Meyer,Pass,343
+81476,17,BlockedShot,0.774000015258789,0.5629999923706055,0.02507990039885044,Pierre-Emile Højbjerg,h,343,OpenPlay,2015,RightFoot,1234,Schalke 04,Hamburger SV,3,2,2016-03-02 23:00:00,Max Meyer,Pass,343
+81489,49,MissedShots,0.9259999847412109,0.39799999237060546,0.04332280158996582,Pierre-Emile Højbjerg,h,343,FromCorner,2015,Head,1234,Schalke 04,Hamburger SV,3,2,2016-03-02 23:00:00,Johannes Geis,Cross,343
+81875,3,MissedShots,0.7859999847412109,0.4420000076293945,0.05267329886555672,Pierre-Emile Højbjerg,a,343,OpenPlay,2015,RightFoot,1241,FC Cologne,Schalke 04,1,3,2016-03-05 18:30:00,,BallTouch,343
+81878,11,SavedShot,0.874000015258789,0.6969999694824218,0.03497089818120003,Pierre-Emile Højbjerg,a,343,FromCorner,2015,RightFoot,1241,FC Cologne,Schalke 04,1,3,2016-03-05 18:30:00,Alessandro Schöpf,HeadPass,343
+82065,41,MissedShots,0.6980000305175781,0.5970000076293945,0.013610799796879292,Pierre-Emile Højbjerg,a,343,OpenPlay,2015,RightFoot,1246,Hertha Berlin,Schalke 04,2,0,2016-03-11 23:30:00,Younès Belhanda,Pass,343
+82083,80,SavedShot,0.7980000305175782,0.595999984741211,0.030591599643230438,Pierre-Emile Højbjerg,a,343,OpenPlay,2015,LeftFoot,1246,Hertha Berlin,Schalke 04,2,0,2016-03-11 23:30:00,Younès Belhanda,Pass,343
+82184,24,BlockedShot,0.8090000152587891,0.6759999847412109,0.021512800827622414,Pierre-Emile Højbjerg,h,343,FromCorner,2015,RightFoot,1255,Schalke 04,Borussia M.Gladbach,2,1,2016-03-18 23:30:00,,None,343
+82637,50,BlockedShot,0.8009999847412109,0.40599998474121096,0.033605098724365234,Pierre-Emile Højbjerg,h,343,OpenPlay,2015,RightFoot,1280,Schalke 04,Borussia Dortmund,2,2,2016-04-10 17:30:00,Júnior Caiçara,Pass,343
+82843,9,SavedShot,0.8019999694824219,0.29100000381469726,0.04658440127968788,Pierre-Emile Højbjerg,a,343,OpenPlay,2015,RightFoot,1288,Bayern Munich,Schalke 04,3,0,2016-04-16 20:30:00,Sascha Riether,BallRecovery,343
+82862,90,BlockedShot,0.919000015258789,0.524000015258789,0.1290079951286316,Pierre-Emile Højbjerg,a,343,SetPiece,2015,Head,1288,Bayern Munich,Schalke 04,3,0,2016-04-16 20:30:00,Dennis Aogo,Cross,343
+83047,3,MissedShots,0.7290000152587891,0.515,0.019645800814032555,Pierre-Emile Højbjerg,h,343,OpenPlay,2015,RightFoot,1297,Schalke 04,Bayer Leverkusen,2,3,2016-04-23 20:30:00,Eric Maxim Choupo-Moting,Pass,343
+83435,68,MissedShots,0.86,0.24399999618530274,0.03354319930076599,Pierre-Emile Højbjerg,a,343,OpenPlay,2015,RightFoot,1301,Hannover 96,Schalke 04,1,3,2016-04-30 17:30:00,Max Meyer,Pass,343
+112337,83,MissedShots,0.745999984741211,0.605999984741211,0.0194109994918108,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,RightFoot,466,Southampton,Watford,1,1,2016-08-13 18:00:00,Dusan Tadic,Pass,343
+112338,84,BlockedShot,0.7580000305175781,0.6459999847412109,0.016044700518250465,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,RightFoot,466,Southampton,Watford,1,1,2016-08-13 18:00:00,Dusan Tadic,Pass,343
+113057,14,BlockedShot,0.749000015258789,0.385,0.013944500125944614,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,RightFoot,484,Southampton,Sunderland,1,1,2016-08-27 18:00:00,Nathan Redmond,HeadPass,343
+113062,58,BlockedShot,0.76,0.5659999847412109,0.020821500569581985,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,RightFoot,484,Southampton,Sunderland,1,1,2016-08-27 18:00:00,Dusan Tadic,Pass,343
+113166,82,SavedShot,0.775,0.455,0.039806198328733444,Pierre-Emile Højbjerg,a,343,OpenPlay,2016,RightFoot,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,James Ward-Prowse,LayOff,343
+113603,62,BlockedShot,0.8919999694824219,0.6029999923706054,0.06940720230340958,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,RightFoot,509,Southampton,Swansea,1,0,2016-09-18 17:15:00,Cédric Soares,Cross,343
+113950,7,BlockedShot,0.8440000152587891,0.43,0.04647599905729294,Pierre-Emile Højbjerg,a,343,OpenPlay,2016,RightFoot,519,West Ham,Southampton,0,3,2016-09-25 19:00:00,Ryan Bertrand,Cross,343
+113975,81,MissedShots,0.7480000305175781,0.445,0.016274599358439445,Pierre-Emile Højbjerg,a,343,OpenPlay,2016,RightFoot,519,West Ham,Southampton,0,3,2016-09-25 19:00:00,,Rebound,343
+113977,86,MissedShots,0.9259999847412109,0.34700000762939454,0.10778799653053284,Pierre-Emile Højbjerg,a,343,OpenPlay,2016,RightFoot,519,West Ham,Southampton,0,3,2016-09-25 19:00:00,Shane Long,Pass,343
+114328,68,SavedShot,0.745999984741211,0.485,0.02019610069692135,Pierre-Emile Højbjerg,a,343,OpenPlay,2016,RightFoot,528,Leicester,Southampton,0,0,2016-10-02 17:15:00,Steven Davis,Pass,343
+115330,13,MissedShots,0.7380000305175781,0.4640000152587891,0.00994527991861105,Pierre-Emile Højbjerg,h,343,SetPiece,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,,Aerial,343
+115332,19,MissedShots,0.7340000152587891,0.47400001525878904,0.023227199912071228,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,James Ward-Prowse,Pass,343
+115339,38,MissedShots,0.965999984741211,0.639000015258789,0.020878899842500687,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,Head,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Cédric Soares,Cross,343
+115342,48,ShotOnPost,0.9769999694824218,0.35200000762939454,0.05167900025844574,Pierre-Emile Højbjerg,h,343,FromCorner,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Virgil van Dijk,TakeOn,343
+115522,46,MissedShots,0.8680000305175781,0.6580000305175782,0.031214000657200813,Pierre-Emile Højbjerg,a,343,OpenPlay,2016,LeftFoot,3106,Crystal Palace,Southampton,3,0,2016-12-03 19:00:00,Charlie Austin,HeadPass,343
+118370,25,MissedShots,0.730999984741211,0.5459999847412109,0.016976099461317062,Pierre-Emile Højbjerg,a,343,OpenPlay,2016,RightFoot,3141,Bournemouth,Southampton,1,3,2016-12-18 17:30:00,,BallRecovery,343
+118380,66,BlockedShot,0.9130000305175782,0.27700000762939453,0.03280400112271309,Pierre-Emile Højbjerg,a,343,OpenPlay,2016,RightFoot,3141,Bournemouth,Southampton,1,3,2016-12-18 17:30:00,Ryan Bertrand,Cross,343
+116715,79,SavedShot,0.7040000152587891,0.544000015258789,0.012125100009143353,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,LeftFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,,None,343
+117693,33,MissedShots,0.8040000152587891,0.654000015258789,0.027518000453710556,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,RightFoot,3160,Southampton,West Bromwich Albion,1,2,2016-12-31 19:00:00,Sofiane Boufal,Pass,343
+117696,46,ShotOnPost,0.9969999694824219,0.4,0.06244080141186714,Pierre-Emile Højbjerg,h,343,SetPiece,2016,RightFoot,3160,Southampton,West Bromwich Albion,1,2,2016-12-31 19:00:00,,None,343
+117189,57,BlockedShot,0.845999984741211,0.2670000076293945,0.026235299184918404,Pierre-Emile Højbjerg,a,343,OpenPlay,2016,RightFoot,3345,Burnley,Southampton,1,0,2017-01-14 19:00:00,,None,343
+118623,8,MissedShots,0.8769999694824219,0.4279999923706055,0.10550999641418457,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,LeftFoot,3357,Southampton,Leicester,3,0,2017-01-22 15:00:00,Ryan Bertrand,Pass,343
+118626,16,MissedShots,0.7269999694824218,0.580999984741211,0.013259000144898891,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,RightFoot,3357,Southampton,Leicester,3,0,2017-01-22 15:00:00,,None,343
+118630,27,BlockedShot,0.8490000152587891,0.28899999618530275,0.02702309936285019,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,RightFoot,3357,Southampton,Leicester,3,0,2017-01-22 15:00:00,Ryan Bertrand,Cross,343
+118635,46,MissedShots,0.8519999694824218,0.3270000076293945,0.04612249881029129,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,RightFoot,3357,Southampton,Leicester,3,0,2017-01-22 15:00:00,Dusan Tadic,Cross,343
+118637,59,MissedShots,0.889000015258789,0.39099998474121095,0.4130769968032837,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,RightFoot,3357,Southampton,Leicester,3,0,2017-01-22 15:00:00,,BallRecovery,343
+121304,38,BlockedShot,0.774000015258789,0.5879999923706055,0.025865599513053894,Pierre-Emile Højbjerg,h,343,OpenPlay,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,,None,343
+121826,37,BlockedShot,0.7240000152587891,0.495,0.0484469011425972,Pierre-Emile Højbjerg,a,343,DirectFreekick,2016,RightFoot,3504,Middlesbrough,Southampton,1,2,2017-05-13 15:00:00,,Standard,343
+161538,92,MissedShots,0.740999984741211,0.500999984741211,0.016042200848460197,Pierre-Emile Højbjerg,h,343,FromCorner,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,,None,343
+179309,91,BlockedShot,0.8030000305175782,0.6680000305175782,0.024182399734854698,Pierre-Emile Højbjerg,h,343,OpenPlay,2017,RightFoot,7278,Southampton,Arsenal,1,1,2017-12-10 12:00:00,Sofiane Boufal,Pass,343
+183217,7,MissedShots,0.7480000305175781,0.37099998474121093,0.015084399841725826,Pierre-Emile Højbjerg,a,343,FromCorner,2017,RightFoot,7292,Chelsea,Southampton,1,0,2017-12-16 15:00:00,,None,343
+185473,80,SavedShot,0.7730000305175782,0.54,0.027659999206662178,Pierre-Emile Højbjerg,a,343,OpenPlay,2017,RightFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Sofiane Boufal,Pass,343
+186400,15,SavedShot,0.7169999694824218,0.425,0.015546400099992752,Pierre-Emile Højbjerg,h,343,OpenPlay,2017,RightFoot,7336,Southampton,Crystal Palace,1,2,2018-01-02 19:45:00,Oriol Romeu,Pass,343
+187460,68,MissedShots,0.835,0.5120000076293946,0.021060500293970108,Pierre-Emile Højbjerg,a,343,OpenPlay,2017,Head,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Ryan Bertrand,Chipped,343
+194199,24,BlockedShot,0.775,0.44099998474121094,0.012238900177180767,Pierre-Emile Højbjerg,h,343,OpenPlay,2017,RightFoot,7363,Southampton,Brighton,1,1,2018-01-31 19:45:00,,Aerial,343
+194207,44,BlockedShot,0.7090000152587891,0.4370000076293945,0.015581400133669376,Pierre-Emile Højbjerg,h,343,OpenPlay,2017,RightFoot,7363,Southampton,Brighton,1,1,2018-01-31 19:45:00,Dusan Tadic,Pass,343
+194213,69,SavedShot,0.7219999694824218,0.345,0.013259399682283401,Pierre-Emile Højbjerg,h,343,OpenPlay,2017,RightFoot,7363,Southampton,Brighton,1,1,2018-01-31 19:45:00,,BallRecovery,343
+193944,17,SavedShot,0.9330000305175781,0.37099998474121093,0.2814269959926605,Pierre-Emile Højbjerg,h,343,OpenPlay,2017,RightFoot,7384,Southampton,Liverpool,0,2,2018-02-11 16:30:00,Oriol Romeu,Chipped,343
+203947,79,BlockedShot,0.9,0.5420000076293945,0.06616389751434326,Pierre-Emile Højbjerg,a,343,FromCorner,2017,LeftFoot,7434,West Ham,Southampton,3,0,2018-03-31 15:00:00,Sofiane Boufal,Cross,343
+206871,8,MissedShots,0.8069999694824219,0.44,0.018187599256634712,Pierre-Emile Højbjerg,a,343,FromCorner,2017,LeftFoot,7439,Arsenal,Southampton,3,2,2018-04-08 13:15:00,,Aerial,343
+206884,53,SavedShot,0.75,0.43099998474121093,0.01515480037778616,Pierre-Emile Højbjerg,a,343,OpenPlay,2017,RightFoot,7439,Arsenal,Southampton,3,2,2018-04-08 13:15:00,Ryan Bertrand,HeadPass,343
+206896,91,BlockedShot,0.8680000305175781,0.61,0.08917249739170074,Pierre-Emile Højbjerg,a,343,OpenPlay,2017,RightFoot,7439,Arsenal,Southampton,3,2,2018-04-08 13:15:00,,TakeOn,343
+209349,87,SavedShot,0.899000015258789,0.5129999923706055,0.06143200024962425,Pierre-Emile Højbjerg,h,343,FromCorner,2017,Head,7455,Southampton,Chelsea,2,3,2018-04-14 11:30:00,Ryan Bertrand,Cross,343
+213480,30,MissedShots,0.6780000305175782,0.6480000305175782,0.010007600300014019,Pierre-Emile Højbjerg,a,343,OpenPlay,2017,RightFoot,7486,Everton,Southampton,1,1,2018-05-05 17:30:00,Ryan Bertrand,Pass,343
+233398,19,MissedShots,0.935,0.3120000076293945,0.0421936996281147,Pierre-Emile Højbjerg,h,343,FromCorner,2018,RightFoot,9218,Southampton,Leicester,1,2,2018-08-25 17:00:00,,None,343
+233409,75,MissedShots,0.7069999694824218,0.6270000076293946,0.017267899587750435,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,RightFoot,9218,Southampton,Leicester,1,2,2018-08-25 17:00:00,Wesley Hoedt,Pass,343
+233591,23,MissedShots,0.7340000152587891,0.6869999694824219,0.012721999548375607,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,RightFoot,9230,Crystal Palace,Southampton,0,2,2018-09-01 14:00:00,Nathan Redmond,Pass,343
+233593,26,SavedShot,0.735999984741211,0.45599998474121095,0.018011100590229034,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,RightFoot,9230,Crystal Palace,Southampton,0,2,2018-09-01 14:00:00,,BallTouch,343
+233623,91,Goal,0.8390000152587891,0.6859999847412109,0.2543649971485138,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,LeftFoot,9230,Crystal Palace,Southampton,0,2,2018-09-01 14:00:00,Matt Targett,Pass,343
+233897,34,Goal,0.7040000152587891,0.3220000076293945,0.009536639787256718,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,RightFoot,9246,Southampton,Brighton,2,2,2018-09-17 19:00:00,,None,343
+234181,27,BlockedShot,0.8430000305175781,0.33,0.029673799872398376,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,RightFoot,9249,Liverpool,Southampton,3,0,2018-09-22 14:00:00,,None,343
+234184,42,BlockedShot,0.865999984741211,0.539000015258789,0.049810901284217834,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,LeftFoot,9249,Liverpool,Southampton,3,0,2018-09-22 14:00:00,Ryan Bertrand,Chipped,343
+249191,66,BlockedShot,0.88,0.585,0.04630960151553154,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,LeftFoot,9275,Southampton,Chelsea,0,3,2018-10-07 13:15:00,,Aerial,343
+249384,11,BlockedShot,0.7830000305175782,0.34599998474121096,0.0179843008518219,Pierre-Emile Højbjerg,a,343,FromCorner,2018,RightFoot,9283,Bournemouth,Southampton,0,0,2018-10-20 14:00:00,,None,343
+249388,44,SavedShot,0.750999984741211,0.580999984741211,0.018286200240254402,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,RightFoot,9283,Bournemouth,Southampton,0,0,2018-10-20 14:00:00,,None,343
+249392,68,SavedShot,0.7469999694824219,0.5420000076293945,0.01851869933307171,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,RightFoot,9283,Bournemouth,Southampton,0,0,2018-10-20 14:00:00,,None,343
+250032,38,MissedShots,0.7559999847412109,0.28899999618530275,0.019006000831723213,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,RightFoot,9308,Southampton,Watford,1,1,2018-11-10 15:00:00,Stuart Armstrong,BallTouch,343
+250328,59,BlockedShot,0.695,0.48900001525878906,0.014585400000214577,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Nathan Redmond,Pass,343
+250331,71,SavedShot,0.87,0.635,0.065652996301651,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,LeftFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Nathan Redmond,Pass,343
+250335,90,MissedShots,0.9030000305175782,0.620999984741211,0.011846600100398064,Pierre-Emile Højbjerg,a,343,FromCorner,2018,Head,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Cédric Soares,Aerial,343
+250339,94,SavedShot,0.7809999847412109,0.3820000076293945,0.026693100109696388,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,LeftFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,,Rebound,343
+250338,94,BlockedShot,0.7680000305175781,0.3970000076293945,0.024545099586248398,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Maya Yoshida,Pass,343
+250660,37,MissedShots,0.78,0.3370000076293945,0.06546139717102051,Pierre-Emile Højbjerg,h,343,DirectFreekick,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,,Standard,343
+250672,75,SavedShot,0.695,0.5829999923706055,0.012114400044083595,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,,BallRecovery,343
+250674,80,MissedShots,0.889000015258789,0.42700000762939455,0.026255900040268898,Pierre-Emile Højbjerg,h,343,FromCorner,2018,Head,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Nathan Redmond,Cross,343
+250979,24,SavedShot,0.7519999694824219,0.39,0.018100999295711517,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,RightFoot,9346,Tottenham,Southampton,3,1,2018-12-05 20:00:00,Manolo Gabbiadini,Pass,343
+250995,69,MissedShots,0.889000015258789,0.5270000076293946,0.043205201625823975,Pierre-Emile Højbjerg,a,343,FromCorner,2018,Head,9346,Tottenham,Southampton,3,1,2018-12-05 20:00:00,James Ward-Prowse,Cross,343
+250997,74,SavedShot,0.755,0.3340000152587891,0.015293600037693977,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,RightFoot,9346,Tottenham,Southampton,3,1,2018-12-05 20:00:00,Charlie Austin,Pass,343
+251000,75,MissedShots,0.8980000305175782,0.5579999923706055,0.04490780085325241,Pierre-Emile Højbjerg,a,343,FromCorner,2018,Head,9346,Tottenham,Southampton,3,1,2018-12-05 20:00:00,James Ward-Prowse,Cross,343
+251082,17,BlockedShot,0.7680000305175781,0.7959999847412109,0.011496400460600853,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,RightFoot,9353,Cardiff,Southampton,1,0,2018-12-08 15:00:00,Matt Targett,Pass,343
+251092,53,MissedShots,0.7190000152587891,0.5729999923706055,0.013737300410866737,Pierre-Emile Højbjerg,a,343,FromCorner,2018,RightFoot,9353,Cardiff,Southampton,1,0,2018-12-08 15:00:00,,None,343
+251415,79,BlockedShot,0.7119999694824218,0.5259999847412109,0.01226549968123436,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,RightFoot,9360,Southampton,Arsenal,3,2,2018-12-16 13:30:00,,None,343
+251593,25,MissedShots,0.7169999694824218,0.40400001525878904,0.019177300855517387,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,RightFoot,9371,Huddersfield,Southampton,1,3,2018-12-22 15:00:00,Stuart Armstrong,Pass,343
+251599,45,SavedShot,0.7219999694824218,0.38799999237060545,0.017837999388575554,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,RightFoot,9371,Huddersfield,Southampton,1,3,2018-12-22 15:00:00,Stuart Armstrong,Pass,343
+251601,47,MissedShots,0.870999984741211,0.645,0.042920298874378204,Pierre-Emile Højbjerg,a,343,FromCorner,2018,LeftFoot,9371,Huddersfield,Southampton,1,3,2018-12-22 15:00:00,Stuart Armstrong,Pass,343
+263758,36,Goal,0.8719999694824219,0.4329999923706055,0.06445000320672989,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,RightFoot,9389,Southampton,Manchester City,1,3,2018-12-30 14:15:00,,BallRecovery,343
+263763,45,SavedShot,0.7390000152587891,0.40599998474121096,0.014056799933314323,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,RightFoot,9389,Southampton,Manchester City,1,3,2018-12-30 14:15:00,Nathan Redmond,Pass,343
+263771,80,SavedShot,0.7230000305175781,0.5870000076293945,0.013866200111806393,Pierre-Emile Højbjerg,h,343,FromCorner,2018,RightFoot,9389,Southampton,Manchester City,1,3,2018-12-30 14:15:00,,None,343
+275056,22,MissedShots,0.9069999694824219,0.5370000076293945,0.05384260043501854,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,Head,9433,Southampton,Crystal Palace,1,1,2019-01-30 19:45:00,,Aerial,343
+275057,23,SavedShot,0.8169999694824219,0.5220000076293946,0.2731199860572815,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,RightFoot,9433,Southampton,Crystal Palace,1,1,2019-01-30 19:45:00,Danny Ings,Pass,343
+275061,42,MissedShots,0.899000015258789,0.39599998474121095,0.010879100300371647,Pierre-Emile Højbjerg,h,343,SetPiece,2018,Head,9433,Southampton,Crystal Palace,1,1,2019-01-30 19:45:00,James Ward-Prowse,Aerial,343
+275468,37,SavedShot,0.7980000305175782,0.33599998474121096,0.01884170062839985,Pierre-Emile Højbjerg,h,343,SetPiece,2018,RightFoot,9453,Southampton,Cardiff,1,2,2019-02-09 15:00:00,,None,343
+275470,49,SavedShot,0.7480000305175781,0.29100000381469726,0.015800800174474716,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,RightFoot,9453,Southampton,Cardiff,1,2,2019-02-09 15:00:00,Jannik Vestergaard,Pass,343
+275855,71,MissedShots,0.745999984741211,0.38599998474121094,0.009776289574801922,Pierre-Emile Højbjerg,a,343,SetPiece,2018,RightFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,,Aerial,343
+275995,30,MissedShots,0.7609999847412109,0.4909999847412109,0.027017800137400627,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,RightFoot,9472,Southampton,Fulham,2,0,2019-02-27 19:45:00,Nathan Redmond,Pass,343
+276169,44,SavedShot,0.765,0.5479999923706055,0.034730300307273865,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,LeftFoot,9481,Manchester United,Southampton,3,2,2019-03-02 15:00:00,Nathan Redmond,Pass,343
+276175,61,MissedShots,0.7809999847412109,0.3509999847412109,0.022043099626898766,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,RightFoot,9481,Manchester United,Southampton,3,2,2019-03-02 15:00:00,James Ward-Prowse,Pass,343
+284524,61,MissedShots,0.8830000305175781,0.5770000076293945,0.06623230129480362,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,LeftFoot,9487,Southampton,Tottenham,2,1,2019-03-09 15:00:00,,BallTouch,343
+287603,17,MissedShots,0.874000015258789,0.5429999923706055,0.0589308999478817,Pierre-Emile Højbjerg,a,343,FromCorner,2018,LeftFoot,9516,Brighton,Southampton,0,1,2019-03-30 15:00:00,Maya Yoshida,HeadPass,343
+287613,52,Goal,0.955999984741211,0.6140000152587891,0.3671639859676361,Pierre-Emile Højbjerg,a,343,OpenPlay,2018,RightFoot,9516,Brighton,Southampton,0,1,2019-03-30 15:00:00,Nathan Redmond,Pass,343
+291728,14,MissedShots,0.8430000305175781,0.38799999237060545,0.020878899842500687,Pierre-Emile Højbjerg,h,343,FromCorner,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,,Aerial,343
+291733,24,BlockedShot,0.7169999694824218,0.40599998474121096,0.016440199688076973,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,,None,343
+291754,89,MissedShots,0.775,0.35400001525878905,0.010872799903154373,Pierre-Emile Højbjerg,h,343,SetPiece,2018,RightFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,,Aerial,343
+293536,43,MissedShots,0.774000015258789,0.27700000762939453,0.02084909938275814,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,LeftFoot,9529,Southampton,Wolverhampton Wanderers,3,1,2019-04-13 15:00:00,Yan Valery,Pass,343
+297394,3,BlockedShot,0.8619999694824219,0.624000015258789,0.06636340171098709,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,LeftFoot,9549,Southampton,Bournemouth,3,3,2019-04-27 15:00:00,,BallRecovery,343
+297413,71,MissedShots,0.6840000152587891,0.639000015258789,0.011735299602150917,Pierre-Emile Højbjerg,h,343,OpenPlay,2018,RightFoot,9549,Southampton,Bournemouth,3,3,2019-04-27 15:00:00,James Ward-Prowse,Pass,343
+297416,81,MissedShots,0.5059999847412109,0.3340000152587891,0.01817210018634796,Pierre-Emile Højbjerg,h,343,DirectFreekick,2018,RightFoot,9549,Southampton,Bournemouth,3,3,2019-04-27 15:00:00,,Standard,343
+310451,52,BlockedShot,0.7980000305175782,0.5070000076293946,0.040923699736595154,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,,Rebound,343
+310450,52,BlockedShot,0.7559999847412109,0.605999984741211,0.022850200533866882,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,Nathan Redmond,Pass,343
+310460,72,SavedShot,0.7280000305175781,0.6969999694824218,0.009775539860129356,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,11658,Southampton,Liverpool,1,2,2019-08-17 15:00:00,,BallRecovery,343
+315563,11,MissedShots,0.7619999694824219,0.6459999847412109,0.017085600644350052,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,,BallRecovery,343
+315578,65,MissedShots,0.745999984741211,0.40200000762939453,0.020062899217009544,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Oriol Romeu,Pass,343
+320103,28,BlockedShot,0.8519999694824218,0.629000015258789,0.06196980178356171,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,11693,Southampton,Bournemouth,1,3,2019-09-20 19:00:00,Nathan Redmond,Pass,343
+320107,36,SavedShot,0.9630000305175781,0.42700000762939455,0.4603799879550934,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,11693,Southampton,Bournemouth,1,3,2019-09-20 19:00:00,,None,343
+320118,81,MissedShots,0.92,0.5479999923706055,0.08502770215272903,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,Head,11693,Southampton,Bournemouth,1,3,2019-09-20 19:00:00,Ryan Bertrand,Cross,343
+322677,9,SavedShot,0.8569999694824219,0.5129999923706055,0.10510700196027756,Pierre-Emile Højbjerg,a,343,OpenPlay,2019,RightFoot,11704,Tottenham,Southampton,2,1,2019-09-28 14:00:00,Nathan Redmond,Pass,343
+322685,32,MissedShots,0.7290000152587891,0.3270000076293945,0.009534389711916447,Pierre-Emile Højbjerg,a,343,SetPiece,2019,RightFoot,11704,Tottenham,Southampton,2,1,2019-09-28 14:00:00,,None,343
+322692,56,MissedShots,0.8059999847412109,0.7030000305175781,0.025957999750971794,Pierre-Emile Højbjerg,a,343,FromCorner,2019,RightFoot,11704,Tottenham,Southampton,2,1,2019-09-28 14:00:00,Ryan Bertrand,Cross,343
+324678,4,MissedShots,0.7480000305175781,0.3729999923706055,0.015129299834370613,Pierre-Emile Højbjerg,h,343,FromCorner,2019,RightFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,,None,343
+325670,26,MissedShots,0.87,0.6869999694824219,0.04725079983472824,Pierre-Emile Højbjerg,a,343,OpenPlay,2019,RightFoot,11732,Wolverhampton Wanderers,Southampton,1,1,2019-10-19 15:00:00,Danny Ings,Pass,343
+332320,20,MissedShots,0.9640000152587891,0.4159999847412109,0.03615500032901764,Pierre-Emile Højbjerg,a,343,FromCorner,2019,Head,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,James Ward-Prowse,Aerial,343
+332321,29,MissedShots,0.745,0.47200000762939454,0.01651410013437271,Pierre-Emile Højbjerg,a,343,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Danny Ings,Pass,343
+332332,62,MissedShots,0.740999984741211,0.7469999694824219,0.010853400453925133,Pierre-Emile Højbjerg,a,343,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Ryan Bertrand,Pass,343
+333801,2,MissedShots,0.769000015258789,0.4640000152587891,0.027915600687265396,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,11778,Southampton,Watford,2,1,2019-11-30 17:30:00,,None,343
+335093,44,SavedShot,0.7480000305175781,0.37099998474121093,0.015084399841725826,Pierre-Emile Højbjerg,h,343,FromCorner,2019,RightFoot,11790,Southampton,Norwich,2,1,2019-12-04 19:30:00,,None,343
+335094,46,MissedShots,0.715,0.67,0.012443399988114834,Pierre-Emile Højbjerg,h,343,FromCorner,2019,RightFoot,11790,Southampton,Norwich,2,1,2019-12-04 19:30:00,,None,343
+336299,32,MissedShots,0.7130000305175781,0.32099998474121094,0.012041700072586536,Pierre-Emile Højbjerg,a,343,FromCorner,2019,RightFoot,11798,Newcastle United,Southampton,2,1,2019-12-08 14:00:00,,Aerial,343
+337166,42,MissedShots,0.904000015258789,0.5020000076293946,0.08327040076255798,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,Head,11811,Southampton,West Ham,0,1,2019-12-14 17:30:00,Cédric Soares,Cross,343
+337170,62,MissedShots,0.710999984741211,0.45599998474121095,0.013424900360405445,Pierre-Emile Højbjerg,h,343,FromCorner,2019,RightFoot,11811,Southampton,West Ham,0,1,2019-12-14 17:30:00,,None,343
+337179,85,MissedShots,0.875,0.5579999923706055,0.06559179723262787,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,11811,Southampton,West Ham,0,1,2019-12-14 17:30:00,Moussa Djenepo,BallTouch,343
+338690,40,BlockedShot,0.7430000305175781,0.6170000076293946,0.014916700311005116,Pierre-Emile Højbjerg,a,343,FromCorner,2019,RightFoot,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,,None,343
+338692,42,MissedShots,0.8030000305175782,0.6329999923706054,0.02312690019607544,Pierre-Emile Højbjerg,a,343,FromCorner,2019,RightFoot,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,,None,343
+338710,83,MissedShots,0.9309999847412109,0.42700000762939455,0.5247349739074707,Pierre-Emile Højbjerg,a,343,OpenPlay,2019,RightFoot,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,,Rebound,343
+338712,87,SavedShot,0.774000015258789,0.6909999847412109,0.023314300924539566,Pierre-Emile Højbjerg,a,343,OpenPlay,2019,RightFoot,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,Nathan Redmond,Dispossessed,343
+339789,43,MissedShots,0.705999984741211,0.37900001525878907,0.008058520033955574,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,11840,Southampton,Crystal Palace,1,1,2019-12-28 15:00:00,Nathan Redmond,TakeOn,343
+339794,50,BlockedShot,0.8030000305175782,0.5740000152587891,0.03075519949197769,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,11840,Southampton,Crystal Palace,1,1,2019-12-28 15:00:00,Che Adams,Cross,343
+351708,27,SavedShot,0.7580000305175781,0.74,0.009883429855108261,Pierre-Emile Højbjerg,a,343,OpenPlay,2019,RightFoot,11861,Leicester,Southampton,1,2,2020-01-11 15:00:00,Shane Long,HeadPass,343
+352126,24,MissedShots,0.6959999847412109,0.4370000076293945,0.01742430031299591,Pierre-Emile Højbjerg,a,343,OpenPlay,2019,RightFoot,11882,Crystal Palace,Southampton,0,2,2020-01-21 19:30:00,Oriol Romeu,Pass,343
+352144,85,MissedShots,0.6519999694824219,0.7380000305175781,0.010090099647641182,Pierre-Emile Højbjerg,a,343,OpenPlay,2019,RightFoot,11882,Crystal Palace,Southampton,0,2,2020-01-21 19:30:00,Che Adams,BallTouch,343
+352550,42,SavedShot,0.8530000305175781,0.28899999618530275,0.03750839829444885,Pierre-Emile Højbjerg,a,343,OpenPlay,2019,RightFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,,BallRecovery,343
+352555,50,BlockedShot,0.7909999847412109,0.634000015258789,0.020445900037884712,Pierre-Emile Højbjerg,a,343,FromCorner,2019,RightFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,,None,343
+352558,63,MissedShots,0.8880000305175781,0.6659999847412109,0.07158440351486206,Pierre-Emile Højbjerg,a,343,OpenPlay,2019,RightFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,Danny Ings,Pass,343
+352741,6,MissedShots,0.8190000152587891,0.6759999847412109,0.025496600195765495,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,11901,Southampton,Burnley,1,2,2020-02-15 12:30:00,Ryan Bertrand,Pass,343
+352758,89,SavedShot,0.9330000305175781,0.3609999847412109,0.25885000824928284,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,11901,Southampton,Burnley,1,2,2020-02-15 12:30:00,Ryan Bertrand,Cross,343
+353009,51,MissedShots,0.9069999694824219,0.38799999237060545,0.048497799783945084,Pierre-Emile Højbjerg,h,343,FromCorner,2019,RightFoot,11908,Southampton,Aston Villa,2,0,2020-02-22 15:00:00,James Ward-Prowse,Cross,343
+353015,58,SavedShot,0.815,0.5159999847412109,0.11317899823188782,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,LeftFoot,11908,Southampton,Aston Villa,2,0,2020-02-22 15:00:00,Shane Long,Chipped,343
+353296,27,BlockedShot,0.8519999694824218,0.34200000762939453,0.03448820114135742,Pierre-Emile Højbjerg,a,343,FromCorner,2019,RightFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,,None,343
+353313,76,BlockedShot,0.9069999694824219,0.445,0.058262500911951065,Pierre-Emile Højbjerg,a,343,FromCorner,2019,Head,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Ryan Bertrand,Cross,343
+372144,4,SavedShot,0.9069999694824219,0.31,0.29220500588417053,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,12002,Southampton,Brighton,1,1,2020-07-16 19:15:00,Oriol Romeu,Chipped,343
+372154,21,BlockedShot,0.710999984741211,0.3820000076293945,0.014183299615979195,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,12002,Southampton,Brighton,1,1,2020-07-16 19:15:00,Michael Obafemi,Pass,343
+372165,64,MissedShots,0.9540000152587891,0.6229999923706054,0.2646560072898865,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,12002,Southampton,Brighton,1,1,2020-07-16 19:15:00,Kyle Walker-Peters,Chipped,343
+372174,94,SavedShot,0.7269999694824218,0.575,0.01938669942319393,Pierre-Emile Højbjerg,h,343,OpenPlay,2019,RightFoot,12002,Southampton,Brighton,1,1,2020-07-16 19:15:00,,TakeOn,343
+372449,86,BlockedShot,0.84,0.33,0.043531399220228195,Pierre-Emile Højbjerg,a,343,OpenPlay,2019,RightFoot,12004,Bournemouth,Southampton,0,2,2020-07-19 13:00:00,Danny Ings,Pass,343
+379419,49,BlockedShot,0.7269999694824218,0.385,0.020596500486135483,Pierre-Emile Højbjerg,h,343,OpenPlay,2020,RightFoot,14111,Tottenham,Newcastle United,1,1,2020-09-27 13:00:00,Harry Winks,Pass,343
+381367,29,MissedShots,0.6909999847412109,0.68,0.012918599881231785,Pierre-Emile Højbjerg,a,343,FromCorner,2020,RightFoot,14471,Manchester United,Tottenham,1,6,2020-10-04 15:30:00,Son Heung-Min,Pass,343
+390927,25,SavedShot,0.7290000152587891,0.49900001525878906,0.022047599777579308,Pierre-Emile Højbjerg,h,343,OpenPlay,2020,RightFoot,14542,Tottenham,Arsenal,2,0,2020-12-06 16:30:00,,None,343
+392196,65,MissedShots,0.7230000305175781,0.5579999923706055,0.018021700903773308,Pierre-Emile Højbjerg,a,343,OpenPlay,2020,RightFoot,14545,Crystal Palace,Tottenham,1,1,2020-12-13 14:15:00,Tanguy NDombele Alvaro,Pass,343
+396278,20,SavedShot,0.8530000305175781,0.5970000076293945,0.07006169855594635,Pierre-Emile Højbjerg,h,343,SetPiece,2020,RightFoot,14599,Tottenham,Leeds,3,0,2021-01-02 12:30:00,Steven Bergwijn,Pass,343
+396306,82,MissedShots,0.7859999847412109,0.3629999923706055,0.02767759934067726,Pierre-Emile Højbjerg,h,343,OpenPlay,2020,RightFoot,14599,Tottenham,Leeds,3,0,2021-01-02 12:30:00,Matt Doherty,Pass,343
+398724,39,SavedShot,0.8059999847412109,0.575999984741211,0.2551180124282837,Pierre-Emile Højbjerg,h,343,OpenPlay,2020,RightFoot,14589,Tottenham,Fulham,1,1,2021-01-13 20:00:00,Harry Kane,Pass,343
+399373,0,BlockedShot,0.8,0.5659999847412109,0.03522000089287758,Pierre-Emile Højbjerg,a,343,OpenPlay,2020,LeftFoot,14622,Sheffield United,Tottenham,1,3,2021-01-17 14:00:00,Son Heung-Min,Pass,343
+401373,48,Goal,0.7769999694824219,0.54,0.029252799227833748,Pierre-Emile Højbjerg,h,343,OpenPlay,2020,RightFoot,14633,Tottenham,Liverpool,1,3,2021-01-28 20:00:00,Steven Bergwijn,Pass,343
+412055,77,SavedShot,0.845999984741211,0.4420000076293945,0.08070850372314453,Pierre-Emile Højbjerg,a,343,OpenPlay,2020,RightFoot,14606,Aston Villa,Tottenham,0,2,2021-03-21 19:30:00,,Tackle,343
+413099,77,MissedShots,0.754000015258789,0.629000015258789,0.012681599706411362,Pierre-Emile Højbjerg,a,343,SetPiece,2020,RightFoot,14732,Newcastle United,Tottenham,2,2,2021-04-04 13:05:00,,None,343
+422399,5,SavedShot,0.895,0.3609999847412109,0.011197499930858612,Pierre-Emile Højbjerg,h,343,OpenPlay,2020,Head,14793,Tottenham,Wolverhampton Wanderers,2,0,2021-05-16 13:05:00,Toby Alderweireld,Aerial,343
+422414,46,MissedShots,0.7040000152587891,0.415,0.008389350026845932,Pierre-Emile Højbjerg,h,343,SetPiece,2020,RightFoot,14793,Tottenham,Wolverhampton Wanderers,2,0,2021-05-16 13:05:00,,Aerial,343
+422425,61,Goal,0.9259999847412109,0.4809999847412109,0.5340359807014465,Pierre-Emile Højbjerg,h,343,OpenPlay,2020,RightFoot,14793,Tottenham,Wolverhampton Wanderers,2,0,2021-05-16 13:05:00,,Rebound,343
+426443,53,BlockedShot,0.7030000305175781,0.5990000152587891,0.01280870009213686,Pierre-Emile Højbjerg,h,343,OpenPlay,2021,RightFoot,16385,Tottenham,Manchester City,1,0,2021-08-15 15:30:00,Lucas Moura,Pass,343
+427569,87,BlockedShot,0.8780000305175781,0.41200000762939454,0.15846699476242065,Pierre-Emile Højbjerg,a,343,OpenPlay,2021,RightFoot,16393,Wolverhampton Wanderers,Tottenham,0,1,2021-08-22 13:00:00,Harry Kane,TakeOn,343
+429083,72,SavedShot,0.71,0.5379999923706055,0.04138530045747757,Pierre-Emile Højbjerg,h,343,DirectFreekick,2021,RightFoot,16404,Tottenham,Watford,1,0,2021-08-29 13:00:00,,Standard,343
+435336,26,Goal,0.8230000305175781,0.549000015258789,0.06895320117473602,Pierre-Emile Højbjerg,h,343,OpenPlay,2021,RightFoot,16443,Tottenham,Aston Villa,2,1,2021-10-03 13:00:00,Son Heung-Min,Pass,343
+437021,12,SavedShot,0.7040000152587891,0.5429999923706055,0.014856900088489056,Pierre-Emile Højbjerg,a,343,OpenPlay,2021,RightFoot,16452,Newcastle United,Tottenham,2,3,2021-10-17 15:30:00,,Rebound,343
+438240,10,SavedShot,0.705,0.6930000305175781,0.011668399907648563,Pierre-Emile Højbjerg,a,343,OpenPlay,2021,RightFoot,16465,West Ham,Tottenham,1,0,2021-10-24 13:00:00,Son Heung-Min,Pass,343
+443378,27,BlockedShot,0.7730000305175782,0.41200000762939454,0.01945590041577816,Pierre-Emile Højbjerg,h,343,FromCorner,2021,RightFoot,16493,Tottenham,Leeds,2,1,2021-11-21 16:30:00,,None,343
+443391,57,Goal,0.8540000152587891,0.5179999923706055,0.350722998380661,Pierre-Emile Højbjerg,h,343,OpenPlay,2021,LeftFoot,16493,Tottenham,Leeds,2,1,2021-11-21 16:30:00,Lucas Moura,Pass,343
+445749,36,SavedShot,0.9680000305175781,0.37400001525878906,0.05795019865036011,Pierre-Emile Højbjerg,h,343,FromCorner,2021,RightFoot,16515,Tottenham,Brentford,2,0,2021-12-02 19:30:00,,TakeOn,343
+445754,52,MissedShots,0.9719999694824218,0.585,0.4577980041503906,Pierre-Emile Højbjerg,h,343,OpenPlay,2021,LeftFoot,16515,Tottenham,Brentford,2,0,2021-12-02 19:30:00,Harry Kane,Pass,343
+446745,56,MissedShots,0.7830000305175782,0.3729999923706055,0.01942339912056923,Pierre-Emile Højbjerg,h,343,FromCorner,2021,RightFoot,16522,Tottenham,Norwich,3,0,2021-12-05 14:00:00,,None,343
+446750,69,SavedShot,0.865,0.33099998474121095,0.05790720134973526,Pierre-Emile Højbjerg,h,343,OpenPlay,2021,RightFoot,16522,Tottenham,Norwich,3,0,2021-12-05 14:00:00,Lucas Moura,BallRecovery,343
+450747,92,BlockedShot,0.8180000305175781,0.49,0.052692800760269165,Pierre-Emile Højbjerg,a,343,OpenPlay,2021,RightFoot,16575,Southampton,Tottenham,1,1,2021-12-28 15:00:00,,None,343
+450963,16,MissedShots,0.8469999694824218,0.56,0.0650779977440834,Pierre-Emile Højbjerg,a,343,OpenPlay,2021,RightFoot,16585,Watford,Tottenham,0,1,2022-01-01 15:00:00,,None,343
+450971,39,SavedShot,0.8730000305175781,0.5629999923706055,0.025726400315761566,Pierre-Emile Højbjerg,a,343,OpenPlay,2021,Head,16585,Watford,Tottenham,0,1,2022-01-01 15:00:00,Emerson,Chipped,343
+450985,81,SavedShot,0.7330000305175781,0.5270000076293946,0.01763099990785122,Pierre-Emile Højbjerg,a,343,OpenPlay,2021,RightFoot,16585,Watford,Tottenham,0,1,2022-01-01 15:00:00,Harry Kane,Pass,343
+454178,35,BlockedShot,0.855,0.47,0.6348810195922852,Pierre-Emile Højbjerg,a,343,OpenPlay,2021,RightFoot,16540,Leicester,Tottenham,2,3,2022-01-19 19:30:00,,TakeOn,343
+454182,46,BlockedShot,0.7069999694824218,0.4929999923706055,0.01263440027832985,Pierre-Emile Højbjerg,a,343,OpenPlay,2021,RightFoot,16540,Leicester,Tottenham,2,3,2022-01-19 19:30:00,Matt Doherty,Pass,343
+454184,48,MissedShots,0.8390000152587891,0.5479999923706055,0.051386501640081406,Pierre-Emile Højbjerg,a,343,FromCorner,2021,LeftFoot,16540,Leicester,Tottenham,2,3,2022-01-19 19:30:00,,None,343
+454200,92,BlockedShot,0.8119999694824219,0.5379999923706055,0.05486530065536499,Pierre-Emile Højbjerg,a,343,OpenPlay,2021,RightFoot,16540,Leicester,Tottenham,2,3,2022-01-19 19:30:00,Steven Bergwijn,LayOff,343
+462655,16,SavedShot,0.750999984741211,0.46299999237060546,0.019612399861216545,Pierre-Emile Højbjerg,a,343,OpenPlay,2021,RightFoot,16663,Manchester United,Tottenham,3,2,2022-03-12 17:30:00,,BallRecovery,343
+462658,25,MissedShots,0.860999984741211,0.4540000152587891,0.049229998141527176,Pierre-Emile Højbjerg,a,343,FromCorner,2021,RightFoot,16663,Manchester United,Tottenham,3,2,2022-03-12 17:30:00,Cristian Romero,HeadPass,343
+463598,90,MissedShots,0.789000015258789,0.3370000076293945,0.03066149912774563,Pierre-Emile Højbjerg,a,343,OpenPlay,2021,RightFoot,16528,Brighton,Tottenham,0,2,2022-03-16 19:30:00,Emerson,BallRecovery,343
+464659,31,BlockedShot,0.7330000305175781,0.3579999923706055,0.015077900141477585,Pierre-Emile Højbjerg,h,343,SetPiece,2021,RightFoot,16673,Tottenham,West Ham,3,1,2022-03-20 16:30:00,Dejan Kulusevski,Pass,343
+465997,34,MissedShots,0.9530000305175781,0.5429999923706055,0.11419200152158737,Pierre-Emile Højbjerg,h,343,OpenPlay,2021,Head,16678,Tottenham,Newcastle United,5,1,2022-04-03 15:30:00,Dejan Kulusevski,Aerial,343
+466864,14,BlockedShot,0.750999984741211,0.6129999923706054,0.01916849985718727,Pierre-Emile Højbjerg,a,343,OpenPlay,2021,RightFoot,16694,Aston Villa,Tottenham,0,4,2022-04-09 16:30:00,,Rebound,343
+466875,43,BlockedShot,0.7719999694824219,0.555,0.020351899787783623,Pierre-Emile Højbjerg,a,343,FromCorner,2021,RightFoot,16694,Aston Villa,Tottenham,0,4,2022-04-09 16:30:00,,None,343
+466880,49,BlockedShot,0.7909999847412109,0.40400001525878904,0.01589380018413067,Pierre-Emile Højbjerg,a,343,FromCorner,2021,RightFoot,16694,Aston Villa,Tottenham,0,4,2022-04-09 16:30:00,,Aerial,343
+473773,41,ShotOnPost,0.764000015258789,0.39099998474121095,0.022127799689769745,Pierre-Emile Højbjerg,a,343,OpenPlay,2021,RightFoot,16728,Liverpool,Tottenham,1,1,2022-05-07 18:45:00,Son Heung-Min,Pass,343
+476268,66,BlockedShot,0.7069999694824218,0.5659999847412109,0.013076500035822392,Pierre-Emile Højbjerg,h,343,FromCorner,2021,RightFoot,16739,Tottenham,Burnley,1,0,2022-05-15 11:00:00,,None,343
+477962,6,MissedShots,0.895,0.5979999923706054,0.1388469934463501,Pierre-Emile Højbjerg,a,343,OpenPlay,2021,RightFoot,16755,Norwich,Tottenham,0,5,2022-05-22 15:00:00,Dejan Kulusevski,Pass,343
+481018,67,Goal,0.784000015258789,0.3679999923706055,0.026101399213075638,Pierre-Emile Højbjerg,a,343,OpenPlay,2022,RightFoot,18220,Chelsea,Tottenham,2,2,2022-08-14 15:30:00,Ben Davies,Pass,343
+481647,92,SavedShot,0.759000015258789,0.5970000076293945,0.028613200411200523,Pierre-Emile Højbjerg,h,343,OpenPlay,2022,RightFoot,18222,Tottenham,Wolverhampton Wanderers,1,0,2022-08-20 11:30:00,Harry Kane,Pass,343
+484490,68,MissedShots,0.9069999694824219,0.2989999961853027,0.08797270059585571,Pierre-Emile Højbjerg,a,343,OpenPlay,2022,RightFoot,18241,Nottingham Forest,Tottenham,0,2,2022-08-28 15:30:00,Harry Kane,Pass,343
+485277,24,SavedShot,0.7580000305175781,0.3559999847412109,0.01729089953005314,Pierre-Emile Højbjerg,a,343,OpenPlay,2022,RightFoot,18249,West Ham,Tottenham,1,1,2022-08-31 18:45:00,Dejan Kulusevski,Pass,343
+485892,39,Goal,0.9130000305175782,0.4129999923706055,0.12728600203990936,Pierre-Emile Højbjerg,h,343,OpenPlay,2022,RightFoot,18255,Tottenham,Fulham,2,1,2022-09-03 14:00:00,Richarlison,Pass,343
+488929,15,MissedShots,0.7419999694824219,0.5379999923706055,0.025871500372886658,Pierre-Emile Højbjerg,h,343,OpenPlay,2022,RightFoot,18278,Tottenham,Leicester,6,2,2022-09-17 16:30:00,,TakeOn,343
+489846,50,BlockedShot,0.8059999847412109,0.3559999847412109,0.022790400311350822,Pierre-Emile Højbjerg,a,343,FromCorner,2022,RightFoot,18282,Arsenal,Tottenham,3,1,2022-10-01 11:30:00,,None,343
+489848,58,MissedShots,0.8009999847412109,0.43599998474121093,0.039228301495313644,Pierre-Emile Højbjerg,a,343,OpenPlay,2022,RightFoot,18282,Arsenal,Tottenham,3,1,2022-10-01 11:30:00,Richarlison,Pass,343
+493267,24,MissedShots,0.7390000152587891,0.44299999237060544,0.016121700406074524,Pierre-Emile Højbjerg,h,343,OpenPlay,2022,RightFoot,18310,Tottenham,Everton,2,0,2022-10-15 16:30:00,,None,343
+493285,85,Goal,0.86,0.5179999923706055,0.1150600016117096,Pierre-Emile Højbjerg,h,343,OpenPlay,2022,RightFoot,18310,Tottenham,Everton,2,0,2022-10-15 16:30:00,Rodrigo Bentancur,Cross,343
+496602,50,MissedShots,0.8180000305175781,0.4859999847412109,0.03373289853334427,Pierre-Emile Højbjerg,a,343,OpenPlay,2022,LeftFoot,18333,Bournemouth,Tottenham,2,3,2022-10-29 14:00:00,,Rebound,343
+496601,50,BlockedShot,0.7909999847412109,0.37799999237060544,0.02480890043079853,Pierre-Emile Højbjerg,a,343,OpenPlay,2022,RightFoot,18333,Bournemouth,Tottenham,2,3,2022-10-29 14:00:00,Son Heung-Min,Pass,343
+496611,78,MissedShots,0.89,0.5479999923706055,0.05469200015068054,Pierre-Emile Højbjerg,a,343,FromCorner,2022,Head,18333,Bournemouth,Tottenham,2,3,2022-10-29 14:00:00,Lucas Moura,Cross,343
+496613,83,MissedShots,0.925,0.6859999847412109,0.022154899314045906,Pierre-Emile Højbjerg,a,343,OpenPlay,2022,RightFoot,18333,Bournemouth,Tottenham,2,3,2022-10-29 14:00:00,,Aerial,343
+498838,14,SavedShot,0.855999984741211,0.6120000076293945,0.07123520225286484,Pierre-Emile Højbjerg,h,343,OpenPlay,2022,RightFoot,18349,Tottenham,Liverpool,1,2,2022-11-06 16:30:00,Ivan Perisic,Pass,343
+500919,46,BlockedShot,0.805,0.46900001525878904,0.04193489998579025,Pierre-Emile Højbjerg,a,343,OpenPlay,2022,RightFoot,18364,Brentford,Tottenham,2,2,2022-12-26 12:30:00,,None,343
+500925,70,Goal,0.9019999694824219,0.4570000076293945,0.08392179757356644,Pierre-Emile Højbjerg,a,343,OpenPlay,2022,RightFoot,18364,Brentford,Tottenham,2,2,2022-12-26 12:30:00,,None,343
+500932,86,BlockedShot,0.73,0.5329999923706055,0.016949700191617012,Pierre-Emile Højbjerg,a,343,FromCorner,2022,RightFoot,18364,Brentford,Tottenham,2,2,2022-12-26 12:30:00,Yves Bissouma,CornerAwarded,343
+502541,12,BlockedShot,0.8159999847412109,0.55,0.051136501133441925,Pierre-Emile Højbjerg,a,343,OpenPlay,2022,RightFoot,18386,Crystal Palace,Tottenham,0,4,2023-01-04 20:00:00,,None,343
+504160,21,BlockedShot,0.715999984741211,0.629000015258789,0.015041399747133255,Pierre-Emile Højbjerg,h,343,OpenPlay,2022,RightFoot,18400,Tottenham,Arsenal,0,2,2023-01-15 16:30:00,Pape Sarr,Pass,343
+504168,47,MissedShots,0.8719999694824219,0.585,0.06519550085067749,Pierre-Emile Højbjerg,h,343,FromCorner,2022,RightFoot,18400,Tottenham,Arsenal,0,2,2023-01-15 16:30:00,,None,343
+505286,13,MissedShots,0.8730000305175781,0.6969999694824218,0.030474599450826645,Pierre-Emile Højbjerg,a,343,FromCorner,2022,LeftFoot,18405,Fulham,Tottenham,0,1,2023-01-23 20:00:00,,None,343
+507768,76,MissedShots,0.8009999847412109,0.38599998474121094,0.01976490020751953,Pierre-Emile Højbjerg,h,343,OpenPlay,2022,RightFoot,18420,Tottenham,Manchester City,1,0,2023-02-05 16:30:00,Harry Kane,Chipped,343
+510357,35,SavedShot,0.745,0.38,0.017160700634121895,Pierre-Emile Højbjerg,h,343,OpenPlay,2022,RightFoot,18440,Tottenham,West Ham,2,0,2023-02-19 16:30:00,Emerson,Pass,343
+510369,70,BlockedShot,0.750999984741211,0.53,0.022241899743676186,Pierre-Emile Højbjerg,h,343,OpenPlay,2022,RightFoot,18440,Tottenham,West Ham,2,0,2023-02-19 16:30:00,,Rebound,343
+511220,26,BlockedShot,0.8130000305175781,0.48700000762939455,0.06470280140638351,Pierre-Emile Højbjerg,h,343,OpenPlay,2022,RightFoot,18450,Tottenham,Chelsea,2,0,2023-02-26 13:30:00,Richarlison,Pass,343
+518029,28,BlockedShot,0.9030000305175782,0.62,0.11502499878406525,Pierre-Emile Højbjerg,h,343,OpenPlay,2022,LeftFoot,18500,Tottenham,Brighton,2,1,2023-04-08 14:00:00,Son Heung-Min,Pass,343
+519537,71,MissedShots,0.8769999694824219,0.40400001525878904,0.015389700420200825,Pierre-Emile Højbjerg,h,343,FromCorner,2022,Head,18509,Tottenham,Bournemouth,2,3,2023-04-15 14:00:00,Pedro Porro,Cross,343
+522379,49,MissedShots,0.6830000305175781,0.4640000152587891,0.010762826539576054,Pierre-Emile Højbjerg,h,343,OpenPlay,2022,RightFoot,18525,Tottenham,Manchester United,2,2,2023-04-27 19:15:00,Ivan Perisic,Pass,343
+522385,59,MissedShots,0.7780000305175782,0.5640000152587891,0.021406281739473343,Pierre-Emile Højbjerg,h,343,FromCorner,2022,RightFoot,18525,Tottenham,Manchester United,2,2,2023-04-27 19:15:00,,None,343
+522387,62,SavedShot,0.7780000305175782,0.47,0.022379783913493156,Pierre-Emile Højbjerg,h,343,FromCorner,2022,RightFoot,18525,Tottenham,Manchester United,2,2,2023-04-27 19:15:00,,None,343
+523451,78,MissedShots,0.91,0.5179999923706055,0.08228716999292374,Pierre-Emile Højbjerg,a,343,OpenPlay,2022,Head,18539,Liverpool,Tottenham,4,3,2023-04-30 15:30:00,Pedro Porro,Cross,343
+524666,22,MissedShots,0.870999984741211,0.36400001525878906,0.12081689387559891,Pierre-Emile Højbjerg,h,343,OpenPlay,2022,RightFoot,18549,Tottenham,Crystal Palace,1,0,2023-05-06 14:00:00,Harry Kane,Throughball,343
+541504,93,BlockedShot,0.7240000152587891,0.659000015258789,0.01252270583063364,Pierre-Emile Højbjerg,h,343,OpenPlay,2023,RightFoot,21962,Tottenham,Liverpool,2,1,2023-09-30 16:30:00,Manor Solomon,Pass,343
+542417,50,BlockedShot,0.8130000305175781,0.5359999847412109,0.03641628101468086,Pierre-Emile Højbjerg,a,343,FromCorner,2023,RightFoot,21971,Luton,Tottenham,0,1,2023-10-07 11:30:00,,None,343
+545037,26,SavedShot,0.7659999847412109,0.505,0.026690436527132988,Pierre-Emile Højbjerg,h,343,OpenPlay,2023,RightFoot,21984,Tottenham,Fulham,2,0,2023-10-23 19:00:00,James Maddison,Pass,343
+547920,81,SavedShot,0.44099998474121094,0.6869999694824219,0.0168115496635437,Pierre-Emile Højbjerg,h,343,DirectFreekick,2023,RightFoot,22004,Tottenham,Chelsea,1,4,2023-11-06 20:00:00,,Standard,343
+550309,72,SavedShot,0.7280000305175781,0.395,0.01522904448211193,Pierre-Emile Højbjerg,h,343,OpenPlay,2023,RightFoot,22024,Tottenham,Aston Villa,1,2,2023-11-26 14:00:00,Dejan Kulusevski,Pass,343
+551927,71,BlockedShot,0.735999984741211,0.48200000762939454,0.01332769449800253,Pierre-Emile Højbjerg,a,343,FromCorner,2023,RightFoot,22031,Manchester City,Tottenham,3,3,2023-12-03 16:30:00,,Aerial,343
+556700,70,BlockedShot,0.7519999694824219,0.595999984741211,0.01302204467356205,Pierre-Emile Højbjerg,a,343,OpenPlay,2023,RightFoot,22078,Brighton,Tottenham,4,2,2023-12-28 19:30:00,Iyenoma Destiny Udogie,Pass,343
+556706,94,ShotOnPost,0.8730000305175781,0.644000015258789,0.06588226556777954,Pierre-Emile Højbjerg,a,343,OpenPlay,2023,RightFoot,22078,Brighton,Tottenham,4,2,2023-12-28 19:30:00,Iyenoma Destiny Udogie,Pass,343
+558662,47,MissedShots,0.8169999694824219,0.514000015258789,0.020250041037797928,Pierre-Emile Højbjerg,a,343,FromCorner,2023,RightFoot,22099,Manchester United,Tottenham,2,2,2024-01-14 16:30:00,,Aerial,343
+560974,9,MissedShots,0.825999984741211,0.625,0.03151600435376167,Pierre-Emile Højbjerg,a,343,FromCorner,2023,RightFoot,22121,Everton,Tottenham,2,2,2024-02-03 12:30:00,,None,343
+560986,51,MissedShots,0.8780000305175781,0.634000015258789,0.04024987667798996,Pierre-Emile Højbjerg,a,343,FromCorner,2023,LeftFoot,22121,Everton,Tottenham,2,2,2024-02-03 12:30:00,Richarlison,HeadPass,343
+562580,93,MissedShots,0.784000015258789,0.37400001525878906,0.027763038873672485,Pierre-Emile Højbjerg,h,343,OpenPlay,2023,RightFoot,22132,Tottenham,Brighton,2,1,2024-02-10 15:00:00,James Maddison,Pass,343
+573160,46,SavedShot,0.7630000305175781,0.58,0.01804114505648613,Pierre-Emile Højbjerg,h,343,FromCorner,2023,RightFoot,22213,Tottenham,Nottingham Forest,3,1,2024-04-07 19:00:00,,None,343
+573167,62,SavedShot,0.7290000152587891,0.48900001525878906,0.021773559972643852,Pierre-Emile Højbjerg,h,343,FromCorner,2023,RightFoot,22213,Tottenham,Nottingham Forest,3,1,2024-04-07 19:00:00,Pedro Porro,Pass,343
+573169,78,BlockedShot,0.750999984741211,0.6419999694824219,0.05256294459104538,Pierre-Emile Højbjerg,h,343,DirectFreekick,2023,RightFoot,22213,Tottenham,Nottingham Forest,3,1,2024-04-07 19:00:00,,Standard,343
+573429,75,BlockedShot,0.7440000152587891,0.6079999923706054,0.012131357565522194,Pierre-Emile Højbjerg,a,343,OpenPlay,2023,RightFoot,22222,Newcastle United,Tottenham,4,0,2024-04-13 11:30:00,Timo Werner,Pass,343
+577219,14,OwnGoal,0.022999999523162843,0.565,0,Pierre-Emile Højbjerg,h,343,FromCorner,2023,Head,22241,Tottenham,Arsenal,2,3,2024-04-28 13:00:00,,CornerAwarded,343
+577990,63,SavedShot,0.71,0.5309999847412109,0.014699590392410755,Pierre-Emile Højbjerg,a,343,OpenPlay,2023,RightFoot,22149,Chelsea,Tottenham,2,0,2024-05-02 18:30:00,Emerson,Pass,343
+578000,90,BlockedShot,0.895,0.654000015258789,0.058209020644426346,Pierre-Emile Højbjerg,a,343,FromCorner,2023,RightFoot,22149,Chelsea,Tottenham,2,0,2024-05-02 18:30:00,,Rebound,343
+582095,93,BlockedShot,0.7609999847412109,0.7040000152587891,0.046925079077482224,Pierre-Emile Højbjerg,a,343,DirectFreekick,2023,RightFoot,22274,Sheffield United,Tottenham,0,3,2024-05-19 15:00:00,,Standard,343
+587075,13,SavedShot,0.764000015258789,0.6580000305175782,0.01667000725865364,Pierre-Emile Højbjerg,h,343,OpenPlay,2024,RightFoot,28065,Marseille,Reims,2,2,2024-08-25 18:45:00,,None,343
+587082,30,SavedShot,0.805,0.664000015258789,0.03839113190770149,Pierre-Emile Højbjerg,h,343,OpenPlay,2024,RightFoot,28065,Marseille,Reims,2,2,2024-08-25 18:45:00,Quentin Merlin,Pass,343
+589649,50,BlockedShot,0.7269999694824218,0.595999984741211,0.047971460968256,Pierre-Emile Højbjerg,a,343,DirectFreekick,2024,RightFoot,28069,Toulouse,Marseille,1,3,2024-08-31 19:00:00,,Standard,343
+589654,78,MissedShots,0.9680000305175781,0.3170000076293945,0.05284466594457626,Pierre-Emile Højbjerg,a,343,FromCorner,2024,RightFoot,28069,Toulouse,Marseille,1,3,2024-08-31 19:00:00,,Rebound,343
+595168,55,MissedShots,0.8490000152587891,0.42,0.04521091654896736,Pierre-Emile Højbjerg,h,343,FromCorner,2024,RightFoot,28109,Marseille,Angers,1,1,2024-10-04 18:45:00,Derek Cornelius,Pass,343
+595174,80,MissedShots,0.9290000152587891,0.46299999237060546,0.10994675755500793,Pierre-Emile Højbjerg,h,343,FromCorner,2024,Head,28109,Marseille,Angers,1,1,2024-10-04 18:45:00,Jonathan Rowe,Cross,343
+595175,82,MissedShots,0.9069999694824219,0.580999984741211,0.08793008327484131,Pierre-Emile Højbjerg,h,343,FromCorner,2024,RightFoot,28109,Marseille,Angers,1,1,2024-10-04 18:45:00,,None,343
+597891,32,MissedShots,0.7519999694824219,0.44599998474121094,0.028824543580412865,Pierre-Emile Højbjerg,a,343,OpenPlay,2024,RightFoot,28112,Montpellier,Marseille,0,5,2024-10-20 18:45:00,Pol Lirola,Pass,343
+597895,39,Goal,0.8530000305175781,0.47400001525878904,0.320360004901886,Pierre-Emile Højbjerg,a,343,OpenPlay,2024,RightFoot,28112,Montpellier,Marseille,0,5,2024-10-20 18:45:00,Mason Greenwood,Pass,343
+601108,54,BlockedShot,0.9430000305175781,0.48,0.07547429203987122,Pierre-Emile Højbjerg,h,343,FromCorner,2024,Head,28146,Marseille,Auxerre,1,3,2024-11-08 19:45:00,Mason Greenwood,Aerial,343
+601116,93,BlockedShot,0.759000015258789,0.5690000152587891,0.07129988819360733,Pierre-Emile Højbjerg,h,343,DirectFreekick,2024,RightFoot,28146,Marseille,Auxerre,1,3,2024-11-08 19:45:00,,Standard,343
+603027,8,MissedShots,0.8109999847412109,0.5990000152587891,0.042169541120529175,Pierre-Emile Højbjerg,a,343,OpenPlay,2024,RightFoot,28148,Lens,Marseille,1,3,2024-11-23 16:00:00,,None,343
+603045,84,BlockedShot,0.8569999694824219,0.5740000152587891,0.10383997857570648,Pierre-Emile Højbjerg,a,343,OpenPlay,2024,RightFoot,28148,Lens,Marseille,1,3,2024-11-23 16:00:00,Jonathan Rowe,Pass,343
+603047,88,Goal,0.805,0.5020000076293946,0.14229317009449005,Pierre-Emile Højbjerg,a,343,DirectFreekick,2024,RightFoot,28148,Lens,Marseille,1,3,2024-11-23 16:00:00,,Standard,343
+604999,37,MissedShots,0.759000015258789,0.5670000076293945,0.07154481112957001,Pierre-Emile Højbjerg,h,343,DirectFreekick,2024,RightFoot,28162,Marseille,Monaco,2,1,2024-12-01 19:45:00,,Standard,343
+610959,82,BlockedShot,0.7730000305175782,0.265,0.047989074140787125,Pierre-Emile Højbjerg,a,343,DirectFreekick,2024,RightFoot,28200,Rennes,Marseille,1,2,2025-01-11 20:00:00,,Standard,343
+610960,91,MissedShots,0.91,0.5279999923706055,0.03436027467250824,Pierre-Emile Højbjerg,a,343,FromCorner,2024,Head,28200,Rennes,Marseille,1,2,2025-01-11 20:00:00,Bilal Nadir,Aerial,343
+612984,95,BlockedShot,0.92,0.4909999847412109,0.10496223717927933,Pierre-Emile Højbjerg,h,343,FromCorner,2024,Head,28201,Marseille,Strasbourg,1,1,2025-01-19 19:45:00,Quentin Merlin,Cross,343
+614147,23,BlockedShot,0.76,0.55,0.025299135595560074,Pierre-Emile Højbjerg,a,343,OpenPlay,2024,RightFoot,28217,Nice,Marseille,2,0,2025-01-26 19:45:00,Neal Maupay,Pass,343
+614163,70,BlockedShot,0.7440000152587891,0.625999984741211,0.05351919308304787,Pierre-Emile Højbjerg,a,343,DirectFreekick,2024,RightFoot,28217,Nice,Marseille,2,0,2025-01-26 19:45:00,,Standard,343
+614164,71,MissedShots,0.9169999694824219,0.5929999923706055,0.04599020257592201,Pierre-Emile Højbjerg,a,343,FromCorner,2024,Head,28217,Nice,Marseille,2,0,2025-01-26 19:45:00,Quentin Merlin,Cross,343

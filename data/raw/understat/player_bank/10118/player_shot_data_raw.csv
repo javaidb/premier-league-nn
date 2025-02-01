@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+453622,87,SavedShot,0.8269999694824218,0.49,0.49112099409103394,Kaide Gordon,h,10118,OpenPlay,2021,RightFoot,16589,Liverpool,Brentford,3,0,2022-01-16 14:00:00,Takumi Minamino,Throughball,10118

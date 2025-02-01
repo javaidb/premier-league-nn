@@ -1,0 +1,3 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+234291,17,MissedShots,0.9669999694824218,0.6809999847412109,0.0464479997754097,Greg Cunningham,h,6831,OpenPlay,2018,LeftFoot,9265,Cardiff,Burnley,1,2,2018-09-30 15:00:00,,Rebound,6831
+274167,11,SavedShot,0.7709999847412109,0.735,0.02033100090920925,Greg Cunningham,h,6831,FromCorner,2018,LeftFoot,9404,Cardiff,Tottenham,0,3,2019-01-01 17:30:00,Callum Paterson,Pass,6831

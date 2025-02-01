@@ -1,0 +1,5 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+680,Thibaut Courtois,32,2813,0,0,0,0.21537960320711136,0,3,1,0,GK,Chelsea,0,0,1.737821089103818,1.5224414858967066,2014
+680,Thibaut Courtois,23,2023,0,0,0,0,0,0,1,2,GK,Chelsea,0,0,3.1832834305241704,3.1832834305241704,2015
+680,Thibaut Courtois,36,3240,0,0,0,0,0,0,1,0,GK,Chelsea,0,0,3.5769765060395002,3.5769765060395002,2016
+680,Thibaut Courtois,35,3150,0,0,0,0,0,0,2,0,GK,Chelsea,0,0,3.6695466581732035,3.6695466581732035,2017

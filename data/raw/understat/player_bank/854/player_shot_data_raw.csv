@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15573,54,MissedShots,0.77,0.6170000076293946,0.02164679951965809,Cheick Tioté,h,854,OpenPlay,2014,RightFoot,4733,Newcastle United,Hull,2,2,2014-09-20 15:00:00,Rémy Cabella,Pass,854
+15576,56,BlockedShot,0.6990000152587891,0.5929999923706055,0.013754299841821194,Cheick Tioté,h,854,OpenPlay,2014,RightFoot,4733,Newcastle United,Hull,2,2,2014-09-20 15:00:00,Paul Dummett,Pass,854
+15582,77,BlockedShot,0.7769999694824219,0.6170000076293946,0.022908000275492668,Cheick Tioté,h,854,OpenPlay,2014,RightFoot,4733,Newcastle United,Hull,2,2,2014-09-20 15:00:00,,Dispossessed,854
+15864,20,MissedShots,0.795,0.3139999961853027,0.015858300030231476,Cheick Tioté,a,854,SetPiece,2014,RightFoot,4748,Stoke,Newcastle United,1,0,2014-09-29 20:00:00,,None,854
+18896,55,SavedShot,0.7390000152587891,0.41200000762939454,0.02444469928741455,Cheick Tioté,a,854,FromCorner,2014,RightFoot,4589,Burnley,Newcastle United,1,1,2014-12-02 19:45:00,Mehdi Abeid,Pass,854
+17633,12,BlockedShot,0.755,0.6569999694824219,0.014971000142395496,Cheick Tioté,a,854,FromCorner,2014,RightFoot,4615,Arsenal,Newcastle United,4,1,2014-12-13 17:30:00,,None,854
+17645,62,BlockedShot,0.7040000152587891,0.6780000305175782,0.00882728025317192,Cheick Tioté,a,854,OpenPlay,2014,RightFoot,4615,Arsenal,Newcastle United,4,1,2014-12-13 17:30:00,,BallRecovery,854
+17654,85,MissedShots,0.7119999694824218,0.5840000152587891,0.013223299756646156,Cheick Tioté,a,854,FromCorner,2014,LeftFoot,4615,Arsenal,Newcastle United,4,1,2014-12-13 17:30:00,,None,854
+19067,36,BlockedShot,0.7119999694824218,0.6329999923706054,0.013670399785041809,Cheick Tioté,h,854,OpenPlay,2014,RightFoot,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,Yoan Gouffran,Pass,854
+18735,90,BlockedShot,0.6969999694824218,0.5129999923706055,0.011686200276017189,Cheick Tioté,h,854,OpenPlay,2014,RightFoot,4647,Newcastle United,Everton,3,2,2014-12-28 16:15:00,Paul Dummett,TakeOn,854
+52927,38,BlockedShot,0.7219999694824218,0.4640000152587891,0.019212599843740463,Cheick Tioté,h,854,FromCorner,2015,RightFoot,322,Newcastle United,West Bromwich Albion,1,0,2016-02-06 19:00:00,Andros Townsend,Pass,854

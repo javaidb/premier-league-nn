@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15162,58,MissedShots,0.904000015258789,0.6309999847412109,0.3600369989871979,Gaël Clichy,a,613,OpenPlay,2014,LeftFoot,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,David Silva,Throughball,613
+16766,38,BlockedShot,0.8019999694824219,0.6509999847412109,0.028547000139951706,Gaël Clichy,a,613,OpenPlay,2014,LeftFoot,4664,Queens Park Rangers,Manchester City,2,2,2014-11-08 17:30:00,Samir Nasri,Pass,613
+16938,39,SavedShot,0.7719999694824219,0.7340000152587891,0.016381600871682167,Gaël Clichy,h,613,OpenPlay,2014,LeftFoot,4671,Manchester City,Swansea,2,1,2014-11-22 15:00:00,Sergio Agüero,Pass,613
+18163,5,MissedShots,0.735,0.6840000152587891,0.014985400252044201,Gaël Clichy,a,613,OpenPlay,2014,LeftFoot,4687,Southampton,Manchester City,0,3,2014-11-30 13:30:00,Samir Nasri,Pass,613
+18189,87,Goal,0.9340000152587891,0.42200000762939455,0.5219359993934631,Gaël Clichy,a,613,OpenPlay,2014,RightFoot,4687,Southampton,Manchester City,0,3,2014-11-30 13:30:00,Sergio Agüero,Pass,613
+19725,40,MissedShots,0.885,0.6020000076293945,0.027900099754333496,Gaël Clichy,a,613,OpenPlay,2014,Head,4597,Sunderland,Manchester City,1,4,2014-12-03 19:45:00,Jesús Navas,Cross,613
+19632,30,MissedShots,0.855,0.649000015258789,0.04279889911413193,Gaël Clichy,h,613,OpenPlay,2014,RightFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,,Rebound,613
+21782,28,MissedShots,0.9459999847412109,0.710999984741211,0.06668219715356827,Gaël Clichy,h,613,OpenPlay,2014,LeftFoot,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,David Silva,Pass,613
+52955,57,MissedShots,0.7709999847412109,0.6759999847412109,0.020159399136900902,Gaël Clichy,a,613,OpenPlay,2015,RightFoot,308,West Ham,Manchester City,2,2,2016-01-23 21:30:00,Yaya Touré,Pass,613
+60279,67,MissedShots,0.7619999694824219,0.6819999694824219,0.01799890026450157,Gaël Clichy,h,613,OpenPlay,2015,RightFoot,382,Manchester City,Manchester United,0,1,2016-03-20 20:00:00,Sergio Agüero,Pass,613
+116447,57,Goal,0.8180000305175781,0.710999984741211,0.012771300040185452,Gaël Clichy,h,613,OpenPlay,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,,Aerial,613
+121814,73,MissedShots,0.779000015258789,0.7119999694824218,0.020512200891971588,Gaël Clichy,h,613,OpenPlay,2016,LeftFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,David Silva,Pass,613

@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+535194,49,MissedShots,0.889000015258789,0.5579999923706055,0.05459049344062805,Hannes Delcroix,h,11998,FromCorner,2023,LeftFoot,22302,Burnley,Aston Villa,1,3,2023-08-27 13:00:00,Johann Berg Gudmundsson,Cross,11998
+535195,58,SavedShot,0.8680000305175781,0.4620000076293945,0.020013444125652313,Hannes Delcroix,h,11998,FromCorner,2023,Head,22302,Burnley,Aston Villa,1,3,2023-08-27 13:00:00,Johann Berg Gudmundsson,Cross,11998
+536273,56,MissedShots,0.9319999694824219,0.5720000076293945,0.03140951320528984,Hannes Delcroix,h,11998,FromCorner,2023,Head,21929,Burnley,Tottenham,2,5,2023-09-02 14:00:00,Josh Brownhill,Aerial,11998
+536286,81,SavedShot,0.919000015258789,0.4909999847412109,0.12678086757659912,Hannes Delcroix,h,11998,SetPiece,2023,Head,21929,Burnley,Tottenham,2,5,2023-09-02 14:00:00,Nathan Redmond,Cross,11998

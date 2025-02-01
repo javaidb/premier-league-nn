@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+941,Fabricio Coloccini,32,2839,1,1.313181420788169,0,0.7221941277384758,9,2,3,1,D,Newcastle United,1,1.313181420788169,3.846536375582218,3.2423979863524437,2014
+941,Fabricio Coloccini,26,2294,1,0.9142137980088592,0,0.30866459757089615,10,3,2,1,D,Newcastle United,1,0.9142137980088592,3.4135534837841988,3.2123251855373383,2015

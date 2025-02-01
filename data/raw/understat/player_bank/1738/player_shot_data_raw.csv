@@ -1,0 +1,49 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+114473,86,BlockedShot,0.86,0.40400001525878904,0.05500039830803871,Hal Robson-Kanu,a,1738,SetPiece,2016,LeftFoot,548,Liverpool,West Bromwich Albion,2,1,2016-10-22 20:30:00,Gareth McAuley,HeadPass,1738
+116305,83,MissedShots,0.9209999847412109,0.4779999923706055,0.34659600257873535,Hal Robson-Kanu,a,1738,OpenPlay,2016,Head,2708,Hull,West Bromwich Albion,1,1,2016-11-26 19:00:00,James McClean,Cross,1738
+117697,49,Goal,0.8119999694824219,0.649000015258789,0.11926600337028503,Hal Robson-Kanu,a,1738,OpenPlay,2016,LeftFoot,3160,Southampton,West Bromwich Albion,1,2,2016-12-31 19:00:00,Matt Phillips,Throughball,1738
+117882,75,BlockedShot,0.855,0.485,0.06795889884233475,Hal Robson-Kanu,a,1738,SetPiece,2016,LeftFoot,3340,Tottenham,West Bromwich Albion,4,0,2017-01-14 16:30:00,,None,1738
+118967,76,BlockedShot,0.960999984741211,0.37400001525878906,0.07774420082569122,Hal Robson-Kanu,a,1738,OpenPlay,2016,RightFoot,3363,Middlesbrough,West Bromwich Albion,1,1,2017-01-31 22:45:00,,None,1738
+118971,89,SavedShot,0.8980000305175782,0.4879999923706055,0.10166099667549133,Hal Robson-Kanu,a,1738,OpenPlay,2016,RightFoot,3363,Middlesbrough,West Bromwich Albion,1,1,2017-01-31 22:45:00,Matt Phillips,Cross,1738
+120199,88,BlockedShot,0.8130000305175781,0.5359999847412109,0.06545030325651169,Hal Robson-Kanu,h,1738,OpenPlay,2016,LeftFoot,3408,West Bromwich Albion,Crystal Palace,0,2,2017-03-04 15:00:00,Jake Livermore,Pass,1738
+120529,54,Goal,0.9030000305175782,0.4759999847412109,0.10243900120258331,Hal Robson-Kanu,h,1738,OpenPlay,2016,LeftFoot,3420,West Bromwich Albion,Arsenal,3,1,2017-03-18 12:30:00,,None,1738
+120531,65,SavedShot,0.8619999694824219,0.6930000305175781,0.40248098969459534,Hal Robson-Kanu,h,1738,OpenPlay,2016,LeftFoot,3420,West Bromwich Albion,Arsenal,3,1,2017-03-18 12:30:00,Chris Brunt,Throughball,1738
+119254,17,MissedShots,0.8669999694824219,0.515,0.01176500041037798,Hal Robson-Kanu,a,1738,SetPiece,2016,Head,3443,Watford,West Bromwich Albion,2,0,2017-04-04 19:45:00,Nacer Chadli,Aerial,1738
+119265,60,MissedShots,0.9890000152587891,0.6,0.018011700361967087,Hal Robson-Kanu,a,1738,FromCorner,2016,Head,3443,Watford,West Bromwich Albion,2,0,2017-04-04 19:45:00,Nacer Chadli,Cross,1738
+119268,75,MissedShots,0.8469999694824218,0.624000015258789,0.05328650027513504,Hal Robson-Kanu,a,1738,OpenPlay,2016,RightFoot,3443,Watford,West Bromwich Albion,2,0,2017-04-04 19:45:00,Craig Dawson,Dispossessed,1738
+120511,79,MissedShots,0.9319999694824219,0.365,0.06496790051460266,Hal Robson-Kanu,h,1738,OpenPlay,2016,RightFoot,3454,West Bromwich Albion,Southampton,0,1,2017-04-08 15:00:00,,None,1738
+121550,1,MissedShots,0.8919999694824219,0.47,0.10410500317811966,Hal Robson-Kanu,h,1738,OpenPlay,2016,LeftFoot,3469,West Bromwich Albion,Liverpool,0,1,2017-04-16 13:30:00,,OffsidePass,1738
+121557,34,SavedShot,0.8119999694824219,0.46,0.05746990069746971,Hal Robson-Kanu,h,1738,OpenPlay,2016,RightFoot,3469,West Bromwich Albion,Liverpool,0,1,2017-04-16 13:30:00,Jake Livermore,Chipped,1738
+120862,86,Goal,0.9280000305175782,0.43099998474121093,0.29074299335479736,Hal Robson-Kanu,a,1738,OpenPlay,2016,RightFoot,3477,Manchester City,West Bromwich Albion,3,1,2017-05-16 20:00:00,Nyom,Cross,1738
+158389,84,MissedShots,0.9159999847412109,0.55,0.12443099915981293,Hal Robson-Kanu,h,1738,OpenPlay,2017,LeftFoot,7121,West Bromwich Albion,Bournemouth,1,0,2017-08-12 15:00:00,Jake Livermore,HeadPass,1738
+158439,70,Goal,0.8919999694824219,0.41200000762939454,0.0837756022810936,Hal Robson-Kanu,a,1738,OpenPlay,2017,RightFoot,7132,Burnley,West Bromwich Albion,0,1,2017-08-19 15:00:00,Matt Phillips,BallRecovery,1738
+158440,75,MissedShots,0.915,0.4809999847412109,0.13512399792671204,Hal Robson-Kanu,a,1738,OpenPlay,2017,Head,7132,Burnley,West Bromwich Albion,0,1,2017-08-19 15:00:00,Jay Rodriguez,Cross,1738
+159031,87,SavedShot,0.9059999847412109,0.509000015258789,0.11774999648332596,Hal Robson-Kanu,h,1738,OpenPlay,2017,Head,7165,West Bromwich Albion,West Ham,0,0,2017-09-16 15:00:00,James McClean,Cross,1738
+161689,93,SavedShot,0.8440000152587891,0.4929999923706055,0.028279999271035194,Hal Robson-Kanu,a,1738,SetPiece,2017,LeftFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,,Aerial,1738
+161037,37,SavedShot,0.915,0.48400001525878905,0.056647300720214844,Hal Robson-Kanu,h,1738,SetPiece,2017,Head,7252,West Bromwich Albion,Newcastle United,2,2,2017-11-28 20:00:00,Ahmed Hegazy,Aerial,1738
+161038,41,MissedShots,0.955,0.5420000076293945,0.13386300206184387,Hal Robson-Kanu,h,1738,OpenPlay,2017,LeftFoot,7252,West Bromwich Albion,Newcastle United,2,2,2017-11-28 20:00:00,Salomón Rondón,Cross,1738
+161039,45,Goal,0.94,0.46599998474121096,0.14420999586582184,Hal Robson-Kanu,h,1738,OpenPlay,2017,Head,7252,West Bromwich Albion,Newcastle United,2,2,2017-11-28 20:00:00,Kieran Gibbs,Cross,1738
+161045,62,SavedShot,0.845999984741211,0.37,0.07682490348815918,Hal Robson-Kanu,h,1738,OpenPlay,2017,RightFoot,7252,West Bromwich Albion,Newcastle United,2,2,2017-11-28 20:00:00,Jake Livermore,Pass,1738
+160857,7,MissedShots,0.9219999694824219,0.5029999923706054,0.5449849963188171,Hal Robson-Kanu,h,1738,OpenPlay,2017,LeftFoot,7265,West Bromwich Albion,Crystal Palace,0,0,2017-12-02 15:00:00,,None,1738
+160866,36,MissedShots,0.8230000305175781,0.3039999961853027,0.03095339983701706,Hal Robson-Kanu,h,1738,OpenPlay,2017,LeftFoot,7265,West Bromwich Albion,Crystal Palace,0,0,2017-12-02 15:00:00,Nyom,Pass,1738
+160875,55,MissedShots,0.8209999847412109,0.509000015258789,0.047263700515031815,Hal Robson-Kanu,h,1738,OpenPlay,2017,LeftFoot,7265,West Bromwich Albion,Crystal Palace,0,0,2017-12-02 15:00:00,,Rebound,1738
+160880,69,SavedShot,0.8919999694824219,0.6630000305175782,0.07618290185928345,Hal Robson-Kanu,h,1738,OpenPlay,2017,LeftFoot,7265,West Bromwich Albion,Crystal Palace,0,0,2017-12-02 15:00:00,Sam Field,Pass,1738
+185333,29,ShotOnPost,0.7319999694824219,0.539000015258789,0.01935720071196556,Hal Robson-Kanu,a,1738,OpenPlay,2017,RightFoot,7287,Liverpool,West Bromwich Albion,0,0,2017-12-13 20:00:00,Grzegorz Krychowiak,Pass,1738
+185646,77,SavedShot,0.875,0.485,0.04223889857530594,Hal Robson-Kanu,h,1738,FromCorner,2017,Head,7318,West Bromwich Albion,Everton,0,0,2017-12-26 15:00:00,Gareth Barry,Cross,1738
+186205,6,BlockedShot,0.8780000305175781,0.4540000152587891,0.0854215994477272,Hal Robson-Kanu,h,1738,OpenPlay,2017,RightFoot,7328,West Bromwich Albion,Arsenal,1,1,2017-12-31 16:30:00,,None,1738
+186208,11,BlockedShot,0.9169999694824219,0.534000015258789,0.03923349827528,Hal Robson-Kanu,h,1738,FromCorner,2017,Head,7328,West Bromwich Albion,Arsenal,1,1,2017-12-31 16:30:00,Craig Dawson,Aerial,1738
+186219,56,BlockedShot,0.9,0.4929999923706055,0.04104610159993172,Hal Robson-Kanu,h,1738,OpenPlay,2017,Head,7328,West Bromwich Albion,Arsenal,1,1,2017-12-31 16:30:00,Matt Phillips,Aerial,1738
+201445,97,BlockedShot,0.8590000152587891,0.5029999923706054,0.07054399698972702,Hal Robson-Kanu,a,1738,OpenPlay,2017,LeftFoot,7419,Bournemouth,West Bromwich Albion,2,1,2018-03-17 15:00:00,Sam Field,HeadPass,1738
+376853,91,MissedShots,0.7330000305175781,0.4279999923706055,0.017775099724531174,Hal Robson-Kanu,h,1738,OpenPlay,2020,LeftFoot,14092,West Bromwich Albion,Leicester,0,3,2020-09-13 13:00:00,Grady Diangana,Pass,1738
+379035,77,MissedShots,0.879000015258789,0.725999984741211,0.047165900468826294,Hal Robson-Kanu,h,1738,OpenPlay,2020,LeftFoot,14108,West Bromwich Albion,Chelsea,3,3,2020-09-26 16:30:00,Matheus Pereira,Pass,1738
+380962,73,SavedShot,0.7680000305175781,0.275,0.0163355004042387,Hal Robson-Kanu,a,1738,OpenPlay,2020,LeftFoot,14473,Southampton,West Bromwich Albion,2,0,2020-10-04 11:00:00,Dara O&#039;Shea,Pass,1738
+389077,84,SavedShot,0.7680000305175781,0.4470000076293945,0.0371164008975029,Hal Robson-Kanu,h,1738,OpenPlay,2020,LeftFoot,14527,West Bromwich Albion,Sheffield United,1,0,2020-11-28 20:00:00,Filip Krovinovic,Pass,1738
+422442,14,Goal,0.8809999847412109,0.3559999847412109,0.2382660061120987,Hal Robson-Kanu,h,1738,OpenPlay,2020,LeftFoot,14789,West Bromwich Albion,Liverpool,1,2,2021-05-16 15:30:00,Matheus Pereira,Pass,1738
+422450,35,BlockedShot,0.8830000305175781,0.33599998474121096,0.2825390100479126,Hal Robson-Kanu,h,1738,OpenPlay,2020,LeftFoot,14789,West Bromwich Albion,Liverpool,1,2,2021-05-16 15:30:00,Darnell Furlong,HeadPass,1738
+422465,77,SavedShot,0.905,0.3920000076293945,0.2957020103931427,Hal Robson-Kanu,h,1738,OpenPlay,2020,LeftFoot,14789,West Bromwich Albion,Liverpool,1,2,2021-05-16 15:30:00,Semi Ajayi,Chipped,1738
+423380,36,BlockedShot,0.8780000305175781,0.6140000152587891,0.09503860026597977,Hal Robson-Kanu,h,1738,OpenPlay,2020,LeftFoot,14804,West Bromwich Albion,West Ham,1,3,2021-05-19 19:15:00,Matt Phillips,Pass,1738
+423396,73,BlockedShot,0.8069999694824219,0.3390000152587891,0.02934899926185608,Hal Robson-Kanu,h,1738,OpenPlay,2020,LeftFoot,14804,West Bromwich Albion,West Ham,1,3,2021-05-19 19:15:00,,None,1738
+424015,72,MissedShots,0.9069999694824219,0.565,0.08097279816865921,Hal Robson-Kanu,a,1738,SetPiece,2020,Head,14808,Leeds,West Bromwich Albion,3,1,2021-05-23 15:00:00,Conor Gallagher,Cross,1738
+424019,79,BlockedShot,0.8230000305175781,0.4570000076293945,0.0716376006603241,Hal Robson-Kanu,a,1738,OpenPlay,2020,LeftFoot,14808,Leeds,West Bromwich Albion,3,1,2021-05-23 15:00:00,Grady Diangana,Pass,1738
+424020,86,SavedShot,0.8130000305175781,0.19600000381469726,0.01180879957973957,Hal Robson-Kanu,a,1738,OpenPlay,2020,LeftFoot,14808,Leeds,West Bromwich Albion,3,1,2021-05-23 15:00:00,,BallRecovery,1738
+424022,89,Goal,0.7769999694824219,0.43099998474121093,0.2723749876022339,Hal Robson-Kanu,a,1738,OpenPlay,2020,LeftFoot,14808,Leeds,West Bromwich Albion,3,1,2021-05-23 15:00:00,,BallRecovery,1738

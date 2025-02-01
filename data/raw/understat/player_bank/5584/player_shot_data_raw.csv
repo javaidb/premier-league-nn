@@ -1,0 +1,54 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+234101,12,BlockedShot,0.9230000305175782,0.3029999923706055,0.027030399069190025,Aaron Wan-Bissaka,h,5584,OpenPlay,2018,RightFoot,9251,Crystal Palace,Newcastle United,0,0,2018-09-22 14:00:00,Andros Townsend,Cross,5584
+249645,26,MissedShots,0.925,0.26399999618530273,0.04401860013604164,Aaron Wan-Bissaka,h,5584,OpenPlay,2018,RightFoot,9294,Crystal Palace,Arsenal,2,2,2018-10-28 12:30:00,Andros Townsend,Pass,5584
+250135,12,MissedShots,0.7430000305175781,0.40700000762939453,0.01597829908132553,Aaron Wan-Bissaka,h,5584,OpenPlay,2018,RightFoot,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,,None,5584
+250631,59,BlockedShot,0.865,0.3340000152587891,0.031271401792764664,Aaron Wan-Bissaka,h,5584,OpenPlay,2018,RightFoot,9333,Crystal Palace,Burnley,2,0,2018-12-01 15:00:00,Max Meyer,TakeOn,5584
+251031,50,BlockedShot,0.8919999694824219,0.5379999923706055,0.0402011014521122,Aaron Wan-Bissaka,a,5584,FromCorner,2018,RightFoot,9347,West Ham,Crystal Palace,3,2,2018-12-08 15:00:00,,Aerial,5584
+251822,17,MissedShots,0.8419999694824218,0.29200000762939454,0.04094399884343147,Aaron Wan-Bissaka,h,5584,OpenPlay,2018,LeftFoot,9384,Crystal Palace,Cardiff,0,0,2018-12-26 15:00:00,Andros Townsend,TakeOn,5584
+251849,79,BlockedShot,0.855,0.3840000152587891,0.052570998668670654,Aaron Wan-Bissaka,h,5584,OpenPlay,2018,RightFoot,9384,Crystal Palace,Cardiff,0,0,2018-12-26 15:00:00,,Rebound,5584
+275421,6,BlockedShot,0.799000015258789,0.44299999237060544,0.04306919872760773,Aaron Wan-Bissaka,h,5584,OpenPlay,2018,RightFoot,9448,Crystal Palace,West Ham,1,1,2019-02-09 15:00:00,,None,5584
+301272,31,MissedShots,0.895,0.325,0.07814030349254608,Aaron Wan-Bissaka,h,5584,OpenPlay,2018,RightFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Wilfried Zaha,Pass,5584
+311306,72,MissedShots,0.7680000305175781,0.295,0.017114700749516487,Aaron Wan-Bissaka,a,5584,FromCorner,2019,RightFoot,11662,Wolverhampton Wanderers,Manchester United,1,1,2019-08-19 20:00:00,Paul Pogba,Pass,5584
+315565,17,MissedShots,0.8930000305175781,0.41900001525878905,0.29665398597717285,Aaron Wan-Bissaka,a,5584,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Scott McTominay,Cross,5584
+334506,63,SavedShot,0.8730000305175781,0.3729999923706055,0.08318530023097992,Aaron Wan-Bissaka,h,5584,OpenPlay,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Fred,Pass,5584
+352095,91,BlockedShot,0.7830000305175782,0.4490000152587891,0.01592640019953251,Aaron Wan-Bissaka,a,5584,FromCorner,2019,RightFoot,11865,Liverpool,Manchester United,2,0,2020-01-19 16:30:00,,Aerial,5584
+353058,16,MissedShots,0.9219999694824219,0.3340000152587891,0.061320699751377106,Aaron Wan-Bissaka,h,5584,OpenPlay,2019,RightFoot,11910,Manchester United,Watford,3,0,2020-02-23 14:00:00,,None,5584
+370225,48,MissedShots,0.9590000152587891,0.40700000762939453,0.30431100726127625,Aaron Wan-Bissaka,a,5584,OpenPlay,2019,Head,11974,Aston Villa,Manchester United,0,3,2020-07-09 19:15:00,Marcus Rashford,Cross,5584
+372179,28,BlockedShot,0.9069999694824219,0.3340000152587891,0.0364064984023571,Aaron Wan-Bissaka,a,5584,OpenPlay,2019,LeftFoot,11996,Crystal Palace,Manchester United,0,2,2020-07-16 19:15:00,Timothy Fosu-Mensah,Cross,5584
+382190,60,SavedShot,0.8530000305175781,0.285,0.034562401473522186,Aaron Wan-Bissaka,a,5584,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Fred,Pass,5584
+382200,89,Goal,0.904000015258789,0.35,0.10146500170230865,Aaron Wan-Bissaka,a,5584,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Marcus Rashford,Pass,5584
+401350,51,BlockedShot,0.769000015258789,0.35200000762939454,0.019760500639677048,Aaron Wan-Bissaka,h,5584,OpenPlay,2020,RightFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,,None,5584
+401834,32,MissedShots,0.9080000305175782,0.44299999237060544,0.08664830029010773,Aaron Wan-Bissaka,a,5584,OpenPlay,2020,Head,14635,Arsenal,Manchester United,0,0,2021-01-30 17:30:00,Luke Shaw,Cross,5584
+402472,17,Goal,0.9680000305175781,0.475,0.615185022354126,Aaron Wan-Bissaka,h,5584,OpenPlay,2020,RightFoot,14651,Manchester United,Southampton,9,0,2021-02-02 20:15:00,Luke Shaw,Cross,5584
+406199,28,MissedShots,0.81,0.33599998474121096,0.03336210176348686,Aaron Wan-Bissaka,h,5584,OpenPlay,2020,LeftFoot,14681,Manchester United,Newcastle United,3,1,2021-02-21 19:00:00,Bruno Fernandes,Pass,5584
+414633,48,SavedShot,0.955999984741211,0.3,0.041471198201179504,Aaron Wan-Bissaka,a,5584,OpenPlay,2020,RightFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Luke Shaw,Chipped,5584
+431755,33,SavedShot,0.914000015258789,0.26799999237060546,0.03528910130262375,Aaron Wan-Bissaka,a,5584,OpenPlay,2021,RightFoot,16424,West Ham,Manchester United,1,2,2021-09-19 13:00:00,Luke Shaw,TakeOn,5584
+439900,38,BlockedShot,0.8490000152587891,0.34,0.027618899941444397,Aaron Wan-Bissaka,a,5584,OpenPlay,2021,RightFoot,16473,Tottenham,Manchester United,0,3,2021-10-30 16:30:00,Luke Shaw,Cross,5584
+458663,87,BlockedShot,0.85,0.46,0.10628099739551544,Aaron Wan-Bissaka,a,5584,OpenPlay,2021,RightFoot,16630,Leeds,Manchester United,2,4,2022-02-20 14:00:00,Bruno Fernandes,Pass,5584
+459853,74,MissedShots,0.884000015258789,0.41,0.017271699383854866,Aaron Wan-Bissaka,h,5584,OpenPlay,2021,Head,16643,Manchester United,Watford,0,0,2022-02-26 15:00:00,Luke Shaw,Aerial,5584
+466539,82,BlockedShot,0.9290000152587891,0.41200000762939454,0.10144899785518646,Aaron Wan-Bissaka,a,5584,OpenPlay,2021,RightFoot,16692,Everton,Manchester United,1,0,2022-04-09 11:30:00,Jadon Sancho,Chipped,5584
+503454,66,BlockedShot,0.779000015258789,0.295,0.01963079907000065,Aaron Wan-Bissaka,h,5584,OpenPlay,2022,RightFoot,18397,Manchester United,Manchester City,2,1,2023-01-14 12:30:00,Fred,Pass,5584
+513931,82,BlockedShot,0.7919999694824219,0.47400001525878904,0.026956500485539436,Aaron Wan-Bissaka,h,5584,FromCorner,2022,RightFoot,18468,Manchester United,Southampton,0,0,2023-03-12 14:00:00,,None,5584
+517747,11,MissedShots,0.9440000152587891,0.544000015258789,0.5456550121307373,Aaron Wan-Bissaka,h,5584,FromCorner,2022,LeftFoot,18498,Manchester United,Everton,2,0,2023-04-08 11:30:00,,Rebound,5584
+517761,41,BlockedShot,0.8669999694824219,0.2520000076293945,0.02917730063199997,Aaron Wan-Bissaka,h,5584,OpenPlay,2022,RightFoot,18498,Manchester United,Everton,2,0,2023-04-08 11:30:00,Antony,Pass,5584
+517771,67,SavedShot,0.91,0.46,0.09745419770479202,Aaron Wan-Bissaka,h,5584,FromCorner,2022,RightFoot,18498,Manchester United,Everton,2,0,2023-04-08 11:30:00,Anthony Martial,Pass,5584
+520188,54,BlockedShot,0.8619999694824219,0.3970000076293945,0.10566999763250351,Aaron Wan-Bissaka,a,5584,OpenPlay,2022,LeftFoot,18507,Nottingham Forest,Manchester United,0,2,2023-04-16 15:30:00,Anthony Martial,Pass,5584
+522383,56,SavedShot,0.9,0.5609999847412109,0.029400043189525604,Aaron Wan-Bissaka,a,5584,OpenPlay,2022,Head,18525,Tottenham,Manchester United,2,2,2023-04-27 19:15:00,,Rebound,5584
+524302,40,BlockedShot,0.9030000305175782,0.37900001525878907,0.09749441593885422,Aaron Wan-Bissaka,a,5584,OpenPlay,2022,RightFoot,18475,Brighton,Manchester United,1,0,2023-05-04 19:00:00,Antony,Pass,5584
+527421,17,BlockedShot,0.914000015258789,0.6359999847412109,0.09579962491989136,Aaron Wan-Bissaka,a,5584,OpenPlay,2022,LeftFoot,18562,Bournemouth,Manchester United,0,1,2023-05-20 14:00:00,Jadon Sancho,Pass,5584
+528733,51,BlockedShot,0.9159999847412109,0.590999984741211,0.1240784302353859,Aaron Wan-Bissaka,h,5584,OpenPlay,2022,RightFoot,18520,Manchester United,Chelsea,4,1,2023-05-25 19:00:00,Tyrell Malacia,Pass,5584
+551407,12,BlockedShot,0.7659999847412109,0.4370000076293945,0.022585567086935043,Aaron Wan-Bissaka,a,5584,OpenPlay,2023,RightFoot,22032,Newcastle United,Manchester United,1,0,2023-12-02 20:00:00,Alejandro Garnacho,Pass,5584
+557111,32,SavedShot,0.8059999847412109,0.4879999923706055,0.05375545099377632,Aaron Wan-Bissaka,a,5584,OpenPlay,2023,RightFoot,22091,Nottingham Forest,Manchester United,2,1,2023-12-30 17:30:00,Christian Eriksen,Pass,5584
+581185,87,BlockedShot,0.9380000305175781,0.32099998474121094,0.06987116485834122,Aaron Wan-Bissaka,h,5584,OpenPlay,2023,RightFoot,22231,Manchester United,Newcastle United,3,2,2024-05-15 19:00:00,,None,5584
+594149,30,BlockedShot,0.7869999694824219,0.36400001525878906,0.019595276564359665,Aaron Wan-Bissaka,a,5584,FromCorner,2024,RightFoot,26656,Brentford,West Ham,1,1,2024-09-28 14:00:00,,None,5584
+595500,47,SavedShot,0.8069999694824219,0.32299999237060545,0.027565667405724525,Aaron Wan-Bissaka,h,5584,FromCorner,2024,RightFoot,26665,West Ham,Ipswich,4,1,2024-10-05 14:00:00,Jarrod Bowen,Cross,5584
+596720,17,MissedShots,0.86,0.2989999961853027,0.05864058434963226,Aaron Wan-Bissaka,a,5584,OpenPlay,2024,RightFoot,26672,Tottenham,West Ham,4,1,2024-10-19 11:30:00,,TakeOn,5584
+603774,52,Goal,0.9269999694824219,0.3079999923706055,0.08205825835466385,Aaron Wan-Bissaka,a,5584,OpenPlay,2024,RightFoot,26713,Newcastle United,West Ham,0,2,2024-11-25 20:00:00,Jarrod Bowen,Pass,5584
+604411,37,Goal,0.9230000305175782,0.4109999847412109,0.32653796672821045,Aaron Wan-Bissaka,h,5584,OpenPlay,2024,RightFoot,26730,West Ham,Arsenal,2,5,2024-11-30 17:30:00,Carlos Soler,Throughball,5584
+604423,78,MissedShots,0.9519999694824218,0.675,0.050065215677022934,Aaron Wan-Bissaka,h,5584,OpenPlay,2024,RightFoot,26730,West Ham,Arsenal,2,5,2024-11-30 17:30:00,Guido Rodríguez,TakeOn,5584
+605184,34,BlockedShot,0.8380000305175781,0.649000015258789,0.041501183062791824,Aaron Wan-Bissaka,a,5584,OpenPlay,2024,RightFoot,26738,Leicester,West Ham,3,1,2024-12-03 20:15:00,,Rebound,5584
+609172,43,MissedShots,0.9109999847412109,0.3970000076293945,0.07759757339954376,Aaron Wan-Bissaka,a,5584,OpenPlay,2024,RightFoot,26780,Southampton,West Ham,0,1,2024-12-26 15:00:00,Mohammed Kudus,Chipped,5584
+609183,66,MissedShots,0.965,0.3160000038146973,0.030937999486923218,Aaron Wan-Bissaka,a,5584,OpenPlay,2024,RightFoot,26780,Southampton,West Ham,0,1,2024-12-26 15:00:00,Mohammed Kudus,Cross,5584
+609604,77,MissedShots,0.9069999694824219,0.545,0.30611273646354675,Aaron Wan-Bissaka,h,5584,OpenPlay,2024,Head,26791,West Ham,Liverpool,0,5,2024-12-29 17:15:00,Mohammed Kudus,Rebound,5584
+610022,76,MissedShots,0.8109999847412109,0.6790000152587891,0.03699508309364319,Aaron Wan-Bissaka,a,5584,SetPiece,2024,LeftFoot,26798,Manchester City,West Ham,4,1,2025-01-04 15:00:00,Niclas Füllkrug,LayOff,5584
+612303,7,MissedShots,0.9080000305175782,0.30100000381469727,0.027531851083040237,Aaron Wan-Bissaka,h,5584,OpenPlay,2024,RightFoot,26821,West Ham,Crystal Palace,0,2,2025-01-18 15:00:00,Emerson,Cross,5584

@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+18143,82,BlockedShot,0.8130000305175781,0.53,0.05297410115599632,Danny Graham,h,932,OpenPlay,2014,RightFoot,4561,Sunderland,Liverpool,0,1,2015-01-10 12:45:00,Wes Brown,Chipped,932
+19274,80,SavedShot,0.9109999847412109,0.585,0.34675300121307373,Danny Graham,a,932,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,Rebound,932
+19278,92,SavedShot,0.8680000305175781,0.51,0.08383350074291229,Danny Graham,a,932,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Patrick van Aanholt,Pass,932
+24152,33,MissedShots,0.8540000152587891,0.4909999847412109,0.012817500159144402,Danny Graham,a,932,OpenPlay,2014,Head,4483,Hull,Sunderland,1,1,2015-03-03 19:45:00,Liam Bridcutt,Aerial,932
+21750,14,MissedShots,0.86,0.27399999618530274,0.03322890028357506,Danny Graham,h,932,OpenPlay,2014,RightFoot,4402,Sunderland,Southampton,2,1,2015-05-02 15:00:00,Billy Jones,Pass,932
+21755,27,BlockedShot,0.875999984741211,0.45,0.02177719958126545,Danny Graham,h,932,OpenPlay,2014,Head,4402,Sunderland,Southampton,2,1,2015-05-02 15:00:00,Sebastian Larsson,Card,932
+20878,51,MissedShots,0.895,0.48,0.09571000188589096,Danny Graham,a,932,OpenPlay,2014,LeftFoot,4409,Everton,Sunderland,0,2,2015-05-09 12:45:00,Sebastian Larsson,Cross,932
+20880,52,Goal,0.8819999694824219,0.5259999847412109,0.1010190024971962,Danny Graham,a,932,OpenPlay,2014,LeftFoot,4409,Everton,Sunderland,0,2,2015-05-09 12:45:00,Jordi Gómez,Rebound,932
+20814,8,BlockedShot,0.8490000152587891,0.7019999694824218,0.05287750065326691,Danny Graham,h,932,OpenPlay,2014,RightFoot,4421,Sunderland,Leicester,0,0,2015-05-16 15:00:00,Jermain Defoe,Pass,932
+20817,23,SavedShot,0.9130000305175782,0.5829999923706055,0.30856698751449585,Danny Graham,h,932,OpenPlay,2014,RightFoot,4421,Sunderland,Leicester,0,0,2015-05-16 15:00:00,Lee Cattermole,Chipped,932
+57039,35,SavedShot,0.9019999694824219,0.5379999923706055,0.08430580049753189,Danny Graham,h,932,SetPiece,2015,RightFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Sebastián Coates,None,932
+59188,86,MissedShots,0.8819999694824219,0.53,0.046820200979709625,Danny Graham,a,932,OpenPlay,2015,Head,163,West Bromwich Albion,Sunderland,1,0,2015-10-17 18:00:00,Adam Johnson,Cross,932
+54685,19,MissedShots,0.894000015258789,0.544000015258789,0.07212570309638977,Danny Graham,a,932,OpenPlay,2015,Head,258,Manchester City,Sunderland,4,1,2015-12-26 19:00:00,Fabio Borini,Cross,932
+56077,84,SavedShot,0.8869999694824219,0.529000015258789,0.11182300001382828,Danny Graham,h,932,OpenPlay,2015,RightFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Billy Jones,HeadPass,932

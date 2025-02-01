@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1668,Michael Kightly,17,959,1,1.5443958789110184,2,1.1303878743201494,14,9,3,0,M S,Burnley,1,1.5443958789110184,3.126599995419383,0.6678652856498957,2014
+1668,Michael Kightly,5,96,0,0.0816970020532608,0,0,1,0,0,0,M S,Burnley,0,0.0816970020532608,0,0,2016

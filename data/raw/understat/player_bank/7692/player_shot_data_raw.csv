@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+309903,34,MissedShots,0.9,0.4809999847412109,0.021541999652981758,Tom Trybull,a,7692,FromCorner,2019,Head,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Emiliano Buendía,Aerial,7692
+310549,15,MissedShots,0.9159999847412109,0.4620000076293945,0.03355799987912178,Tom Trybull,h,7692,FromCorner,2019,Head,11657,Norwich,Newcastle United,3,1,2019-08-17 15:00:00,Emiliano Buendía,Aerial,7692
+325726,82,MissedShots,0.7040000152587891,0.38799999237060545,0.012716099619865417,Tom Trybull,a,7692,OpenPlay,2019,RightFoot,11724,Bournemouth,Norwich,0,0,2019-10-19 15:00:00,Emiliano Buendía,Pass,7692
+329170,4,MissedShots,0.9,0.455,0.05323079973459244,Tom Trybull,a,7692,FromCorner,2019,Head,11746,Brighton,Norwich,2,0,2019-11-02 15:00:00,Emiliano Buendía,Cross,7692
+329187,71,BlockedShot,0.8819999694824219,0.49599998474121093,0.08510039746761322,Tom Trybull,a,7692,FromCorner,2019,LeftFoot,11746,Brighton,Norwich,2,0,2019-11-02 15:00:00,Teemu Pukki,HeadPass,7692
+330359,83,BlockedShot,0.7380000305175781,0.555,0.010207200422883034,Tom Trybull,h,7692,OpenPlay,2019,RightFoot,11757,Norwich,Watford,0,2,2019-11-08 20:00:00,,Rebound,7692
+330358,83,BlockedShot,0.715,0.6509999847412109,0.008528529666364193,Tom Trybull,h,7692,OpenPlay,2019,RightFoot,11757,Norwich,Watford,0,2,2019-11-08 20:00:00,Teemu Pukki,Pass,7692
+332282,10,SavedShot,0.9069999694824219,0.48700000762939455,0.07498940080404282,Tom Trybull,a,7692,FromCorner,2019,Head,11768,Everton,Norwich,0,2,2019-11-23 15:00:00,Kenny McLean,Cross,7692
+332292,40,MissedShots,0.87,0.4,0.04122519865632057,Tom Trybull,a,7692,FromCorner,2019,RightFoot,11768,Everton,Norwich,0,2,2019-11-23 15:00:00,Kenny McLean,Cross,7692
+334215,60,MissedShots,0.759000015258789,0.5379999923706055,0.022925900295376778,Tom Trybull,h,7692,OpenPlay,2019,RightFoot,11781,Norwich,Arsenal,2,2,2019-12-01 14:00:00,Teemu Pukki,Pass,7692
+339610,50,SavedShot,0.9230000305175782,0.4420000076293945,0.08023019880056381,Tom Trybull,a,7692,FromCorner,2019,Head,11823,Aston Villa,Norwich,1,0,2019-12-26 15:00:00,Emiliano Buendía,Cross,7692

@@ -1,0 +1,82 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14823,41,MissedShots,0.91,0.46599998474121096,0.11064600199460983,Steven Fletcher,h,930,OpenPlay,2014,LeftFoot,4767,Sunderland,Manchester United,1,1,2014-08-24 16:00:00,Jack Rodwell,HeadPass,930
+15040,10,SavedShot,0.899000015258789,0.605999984741211,0.3478119969367981,Steven Fletcher,a,930,OpenPlay,2014,LeftFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,Adam Johnson,Throughball,930
+15056,57,SavedShot,0.8959999847412109,0.45799999237060546,0.06271730363368988,Steven Fletcher,a,930,OpenPlay,2014,Head,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,Adam Johnson,Cross,930
+15905,83,MissedShots,0.9280000305175782,0.5170000076293946,0.44221100211143494,Steven Fletcher,h,930,OpenPlay,2014,Head,4745,Sunderland,Swansea,0,0,2014-09-27 15:00:00,Ricardo Álvarez,Aerial,930
+17386,22,Goal,0.9330000305175781,0.509000015258789,0.12117400020360947,Steven Fletcher,h,930,FromCorner,2014,Head,4692,Sunderland,Stoke,3,1,2014-10-04 15:00:00,Jordi Gómez,Cross,930
+17398,78,Goal,0.94,0.6309999847412109,0.5362719893455505,Steven Fletcher,h,930,OpenPlay,2014,LeftFoot,4692,Sunderland,Stoke,3,1,2014-10-04 15:00:00,Connor Wickham,BallTouch,930
+16820,14,MissedShots,0.9130000305175782,0.545,0.04656890034675598,Steven Fletcher,a,930,SetPiece,2014,Head,4703,Southampton,Sunderland,8,0,2014-10-18 15:00:00,Jordi Gómez,Aerial,930
+16826,34,MissedShots,0.889000015258789,0.49599998474121093,0.33837199211120605,Steven Fletcher,a,930,OpenPlay,2014,LeftFoot,4703,Southampton,Sunderland,8,0,2014-10-18 15:00:00,Lee Cattermole,Throughball,930
+16832,46,MissedShots,0.8519999694824218,0.3120000076293945,0.038382500410079956,Steven Fletcher,a,930,SetPiece,2014,LeftFoot,4703,Southampton,Sunderland,8,0,2014-10-18 15:00:00,Sebastian Larsson,Chipped,930
+17157,30,Goal,0.885,0.4420000076293945,0.04094709828495979,Steven Fletcher,a,930,OpenPlay,2014,Head,4658,Crystal Palace,Sunderland,1,3,2014-11-03 20:00:00,Patrick van Aanholt,Cross,930
+17158,39,SavedShot,0.8719999694824219,0.735999984741211,0.04359100013971329,Steven Fletcher,a,930,OpenPlay,2014,LeftFoot,4658,Crystal Palace,Sunderland,1,3,2014-11-03 20:00:00,Anthony Réveillere,Pass,930
+17171,94,Goal,0.9019999694824219,0.4209999847412109,0.4045119881629944,Steven Fletcher,a,930,OpenPlay,2014,LeftFoot,4658,Crystal Palace,Sunderland,1,3,2014-11-03 20:00:00,Liam Bridcutt,Pass,930
+16796,22,SavedShot,0.909000015258789,0.555,0.444362998008728,Steven Fletcher,a,930,OpenPlay,2014,LeftFoot,4672,Leicester,Sunderland,0,0,2014-11-22 15:00:00,Adam Johnson,Throughball,930
+16804,47,MissedShots,0.8969999694824219,0.5459999847412109,0.062425099313259125,Steven Fletcher,a,930,FromCorner,2014,LeftFoot,4672,Leicester,Sunderland,0,0,2014-11-22 15:00:00,Adam Johnson,Cross,930
+16813,68,SavedShot,0.9130000305175782,0.7280000305175781,0.056724101305007935,Steven Fletcher,a,930,OpenPlay,2014,LeftFoot,4672,Leicester,Sunderland,0,0,2014-11-22 15:00:00,Adam Johnson,Pass,930
+18390,72,SavedShot,0.9069999694824219,0.720999984741211,0.05132580175995827,Steven Fletcher,h,930,OpenPlay,2014,LeftFoot,4613,Sunderland,West Ham,1,1,2014-12-13 15:00:00,Connor Wickham,HeadPass,930
+19062,16,MissedShots,0.74,0.27100000381469724,0.01089280005544424,Steven Fletcher,a,930,OpenPlay,2014,LeftFoot,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,Sebastian Larsson,LayOff,930
+19064,25,ShotOnPost,0.8819999694824219,0.515,0.13104499876499176,Steven Fletcher,a,930,OpenPlay,2014,LeftFoot,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,Sebastian Larsson,Throughball,930
+18327,63,BlockedShot,0.9069999694824219,0.5979999923706054,0.11902199685573578,Steven Fletcher,a,930,OpenPlay,2014,LeftFoot,4644,Aston Villa,Sunderland,0,0,2014-12-28 15:00:00,Emanuele Giaccherini,Pass,930
+19251,27,MissedShots,0.9619999694824218,0.529000015258789,0.5693320035934448,Steven Fletcher,a,930,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Billy Jones,Cross,930
+20540,23,MissedShots,0.9,0.5629999923706055,0.04020350053906441,Steven Fletcher,h,930,OpenPlay,2014,Head,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Liam Bridcutt,Aerial,930
+20555,80,ShotOnPost,0.9180000305175782,0.6680000305175782,0.09479440003633499,Steven Fletcher,h,930,OpenPlay,2014,LeftFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Jack Rodwell,Throughball,930
+22301,48,MissedShots,0.884000015258789,0.45799999237060546,0.1087070032954216,Steven Fletcher,h,930,OpenPlay,2014,LeftFoot,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,Jordi Gómez,Chipped,930
+22303,58,SavedShot,0.850999984741211,0.5329999923706055,0.015784600749611855,Steven Fletcher,h,930,OpenPlay,2014,Head,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,Sebastian Larsson,Aerial,930
+22306,69,MissedShots,0.8590000152587891,0.445,0.08527159690856934,Steven Fletcher,h,930,OpenPlay,2014,LeftFoot,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,Jermain Defoe,Chipped,930
+20978,4,MissedShots,0.9519999694824218,0.4979999923706055,0.08186069875955582,Steven Fletcher,h,930,FromCorner,2014,Head,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Jordi Gómez,Aerial,930
+20979,10,BlockedShot,0.8009999847412109,0.5979999923706054,0.03757070004940033,Steven Fletcher,h,930,OpenPlay,2014,LeftFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,,None,930
+20983,26,MissedShots,0.8859999847412109,0.2720000076293945,0.04121299833059311,Steven Fletcher,h,930,SetPiece,2014,LeftFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Jordi Gómez,Chipped,930
+20986,43,SavedShot,0.88,0.5529999923706055,0.0826369971036911,Steven Fletcher,h,930,OpenPlay,2014,LeftFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Patrick van Aanholt,Cross,930
+20832,83,MissedShots,0.8969999694824219,0.4929999923706055,0.09275290369987488,Steven Fletcher,h,930,SetPiece,2014,Head,4421,Sunderland,Leicester,0,0,2015-05-16 15:00:00,Adam Johnson,Cross,930
+22050,49,SavedShot,0.8859999847412109,0.38599998474121094,0.0954618975520134,Steven Fletcher,a,930,OpenPlay,2014,RightFoot,4429,Arsenal,Sunderland,0,0,2015-05-20 19:45:00,Adam Johnson,Pass,930
+22053,54,BlockedShot,0.9169999694824219,0.705,0.05818279832601547,Steven Fletcher,a,930,OpenPlay,2014,LeftFoot,4429,Arsenal,Sunderland,0,0,2015-05-20 19:45:00,Jermain Defoe,Pass,930
+22058,59,SavedShot,0.9019999694824219,0.655,0.4542030096054077,Steven Fletcher,a,930,OpenPlay,2014,LeftFoot,4429,Arsenal,Sunderland,0,0,2015-05-20 19:45:00,Jermain Defoe,Throughball,930
+22066,67,MissedShots,0.9290000152587891,0.45599998474121095,0.5096520185470581,Steven Fletcher,a,930,OpenPlay,2014,LeftFoot,4429,Arsenal,Sunderland,0,0,2015-05-20 19:45:00,Patrick van Aanholt,Pass,930
+22323,25,Goal,0.960999984741211,0.5509999847412109,0.4386500120162964,Steven Fletcher,a,930,FromCorner,2014,Head,4431,Chelsea,Sunderland,3,1,2015-05-24 15:00:00,Adam Johnson,Cross,930
+22342,62,MissedShots,0.970999984741211,0.40900001525878904,0.04999040067195892,Steven Fletcher,a,930,OpenPlay,2014,Head,4431,Chelsea,Sunderland,3,1,2015-05-24 15:00:00,Adam Johnson,Aerial,930
+22348,70,MissedShots,0.9269999694824219,0.53,0.37718600034713745,Steven Fletcher,a,930,OpenPlay,2014,Head,4431,Chelsea,Sunderland,3,1,2015-05-24 15:00:00,Patrick van Aanholt,Cross,930
+51585,32,MissedShots,0.845999984741211,0.13699999809265137,0.010447399690747261,Steven Fletcher,a,930,OpenPlay,2015,LeftFoot,84,Leicester,Sunderland,4,2,2015-08-08 18:00:00,Jermain Defoe,Pass,930
+51589,52,MissedShots,0.9540000152587891,0.5709999847412109,0.10265299677848816,Steven Fletcher,a,930,FromCorner,2015,Head,84,Leicester,Sunderland,4,2,2015-08-08 18:00:00,Adam Johnson,Cross,930
+51599,70,Goal,0.9540000152587891,0.5179999923706055,0.702413022518158,Steven Fletcher,a,930,OpenPlay,2015,Head,84,Leicester,Sunderland,4,2,2015-08-08 18:00:00,Jeremain Lens,Aerial,930
+51861,40,MissedShots,0.9209999847412109,0.4279999923706055,0.09944389760494232,Steven Fletcher,h,930,OpenPlay,2015,Head,93,Sunderland,Norwich,1,3,2015-08-15 18:00:00,Jeremain Lens,Cross,930
+57377,48,SavedShot,0.8869999694824219,0.40200000762939453,0.031167499721050262,Steven Fletcher,a,930,OpenPlay,2015,Head,113,Aston Villa,Sunderland,2,2,2015-08-29 18:00:00,Billy Jones,Cross,930
+57381,55,MissedShots,0.9490000152587891,0.4209999847412109,0.03778240084648132,Steven Fletcher,a,930,FromCorner,2015,Head,113,Aston Villa,Sunderland,2,2,2015-08-29 18:00:00,Yann M&#039;Vila,Aerial,930
+58833,9,Goal,0.8859999847412109,0.52,0.1145780012011528,Steven Fletcher,h,930,SetPiece,2015,LeftFoot,156,Sunderland,West Ham,2,2,2015-10-03 18:00:00,Yann M&#039;Vila,Pass,930
+58837,26,BlockedShot,0.8480000305175781,0.6980000305175781,0.057381000369787216,Steven Fletcher,h,930,OpenPlay,2015,LeftFoot,156,Sunderland,West Ham,2,2,2015-10-03 18:00:00,Fabio Borini,Pass,930
+58850,51,BlockedShot,0.855999984741211,0.26899999618530274,0.05024680122733116,Steven Fletcher,h,930,OpenPlay,2015,LeftFoot,156,Sunderland,West Ham,2,2,2015-10-03 18:00:00,Ola Toivonen,HeadPass,930
+59172,10,BlockedShot,0.94,0.3940000152587891,0.09406139701604843,Steven Fletcher,a,930,OpenPlay,2015,RightFoot,163,West Bromwich Albion,Sunderland,1,0,2015-10-17 18:00:00,Lee Cattermole,Chipped,930
+59374,24,BlockedShot,0.8919999694824219,0.49900001525878906,0.0373602993786335,Steven Fletcher,h,930,OpenPlay,2015,Head,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Billy Jones,Aerial,930
+59391,63,BlockedShot,0.7619999694824219,0.62,0.027059700340032578,Steven Fletcher,h,930,OpenPlay,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Jeremain Lens,Pass,930
+59411,85,Goal,0.9230000305175782,0.3940000152587891,0.5082929730415344,Steven Fletcher,h,930,OpenPlay,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Younes Kaboul,Chipped,930
+59461,14,SavedShot,0.9359999847412109,0.6580000305175782,0.06073550134897232,Steven Fletcher,a,930,OpenPlay,2015,LeftFoot,188,Everton,Sunderland,6,2,2015-11-01 17:30:00,,Rebound,930
+59468,23,BlockedShot,0.86,0.46599998474121096,0.06515149772167206,Steven Fletcher,a,930,OpenPlay,2015,LeftFoot,188,Everton,Sunderland,6,2,2015-11-01 17:30:00,Patrick van Aanholt,Cross,930
+59480,47,SavedShot,0.8680000305175781,0.3529999923706055,0.07128410041332245,Steven Fletcher,a,930,OpenPlay,2015,LeftFoot,188,Everton,Sunderland,6,2,2015-11-01 17:30:00,DeAndre Yedlin,Pass,930
+59484,49,Goal,0.9630000305175781,0.48200000762939454,0.11051099747419357,Steven Fletcher,a,930,OpenPlay,2015,Head,188,Everton,Sunderland,6,2,2015-11-01 17:30:00,Patrick van Aanholt,Aerial,930
+53525,1,MissedShots,0.9259999847412109,0.5870000076293945,0.09586340188980103,Steven Fletcher,a,930,OpenPlay,2015,LeftFoot,210,Crystal Palace,Sunderland,0,1,2015-11-24 00:00:00,Jermain Defoe,HeadPass,930
+52705,7,SavedShot,0.904000015258789,0.6880000305175781,0.06424269825220108,Steven Fletcher,h,930,OpenPlay,2015,LeftFoot,211,Sunderland,Stoke,2,0,2015-11-28 19:00:00,Patrick van Aanholt,Pass,930
+53481,56,SavedShot,0.7680000305175781,0.355,0.020697999745607376,Steven Fletcher,a,930,OpenPlay,2015,LeftFoot,225,Arsenal,Sunderland,3,1,2015-12-05 19:00:00,Duncan Watmore,Pass,930
+53482,57,SavedShot,0.98,0.555,0.5684189796447754,Steven Fletcher,a,930,FromCorner,2015,LeftFoot,225,Arsenal,Sunderland,3,1,2015-12-05 19:00:00,Ola Toivonen,HeadPass,930
+54848,50,BlockedShot,0.8569999694824219,0.2560000038146973,0.02662920020520687,Steven Fletcher,h,930,OpenPlay,2015,LeftFoot,233,Sunderland,Watford,0,1,2015-12-12 19:00:00,,None,930
+54683,17,MissedShots,0.8769999694824219,0.4129999923706055,0.022822299972176552,Steven Fletcher,a,930,OpenPlay,2015,Head,258,Manchester City,Sunderland,4,1,2015-12-26 19:00:00,Adam Johnson,Aerial,930
+54691,32,MissedShots,0.9,0.534000015258789,0.07071980088949203,Steven Fletcher,a,930,OpenPlay,2015,LeftFoot,258,Manchester City,Sunderland,4,1,2015-12-26 19:00:00,Patrick van Aanholt,Cross,930
+54696,42,MissedShots,0.9030000305175782,0.5609999847412109,0.05938490107655525,Steven Fletcher,a,930,OpenPlay,2015,Head,258,Manchester City,Sunderland,4,1,2015-12-26 19:00:00,Patrick van Aanholt,Cross,930
+69833,34,MissedShots,0.899000015258789,0.5420000076293945,0.0872403010725975,Steven Fletcher,h,930,SetPiece,2015,Head,2135,Marseille,Saint-Etienne,1,1,2016-02-21 17:00:00,Florian Thauvin,Cross,930
+66743,12,MissedShots,0.8919999694824219,0.5609999847412109,0.03350580111145973,Steven Fletcher,h,930,OpenPlay,2015,Head,2154,Marseille,Toulouse,1,1,2016-03-06 17:00:00,Rémy Cabella,Aerial,930
+66747,24,BlockedShot,0.894000015258789,0.43099998474121093,0.05975240096449852,Steven Fletcher,h,930,OpenPlay,2015,Head,2154,Marseille,Toulouse,1,1,2016-03-06 17:00:00,Benjamin Mendy,Cross,930
+66748,25,MissedShots,0.909000015258789,0.580999984741211,0.016877200454473495,Steven Fletcher,h,930,FromCorner,2015,Head,2154,Marseille,Toulouse,1,1,2016-03-06 17:00:00,Mauricio Isla,Aerial,930
+66760,49,SavedShot,0.94,0.6020000076293945,0.12543100118637085,Steven Fletcher,h,930,OpenPlay,2015,LeftFoot,2154,Marseille,Toulouse,1,1,2016-03-06 17:00:00,Abdel Barrada,Pass,930
+66770,73,Goal,0.875,0.44299999237060544,0.39219900965690613,Steven Fletcher,h,930,OpenPlay,2015,RightFoot,2154,Marseille,Toulouse,1,1,2016-03-06 17:00:00,,None,930
+67553,58,BlockedShot,0.8969999694824219,0.625,0.04792660102248192,Steven Fletcher,a,930,OpenPlay,2015,LeftFoot,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,Florian Thauvin,Chipped,930
+68522,5,MissedShots,0.894000015258789,0.37400001525878906,0.015406699851155281,Steven Fletcher,h,930,OpenPlay,2015,Head,2198,Marseille,Bordeaux,0,0,2016-04-10 23:00:00,Florian Thauvin,Cross,930
+68532,67,MissedShots,0.8959999847412109,0.47200000762939454,0.09324190020561218,Steven Fletcher,h,930,OpenPlay,2015,LeftFoot,2198,Marseille,Bordeaux,0,0,2016-04-10 23:00:00,,None,930
+68535,84,SavedShot,0.8180000305175781,0.5590000152587891,0.05098729953169823,Steven Fletcher,h,930,OpenPlay,2015,LeftFoot,2198,Marseille,Bordeaux,0,0,2016-04-10 23:00:00,,None,930
+68536,85,BlockedShot,0.8380000305175781,0.46,0.0456232987344265,Steven Fletcher,h,930,OpenPlay,2015,LeftFoot,2198,Marseille,Bordeaux,0,0,2016-04-10 23:00:00,Georges-Kévin Nkoudou,Cross,930
+67852,29,SavedShot,0.7530000305175781,0.59,0.021237000823020935,Steven Fletcher,h,930,OpenPlay,2015,LeftFoot,2211,Marseille,Nantes,1,1,2016-04-24 16:00:00,Jacques-Alaixys Romao,Pass,930
+68051,18,MissedShots,0.9069999694824219,0.5,0.11246299743652344,Steven Fletcher,a,930,OpenPlay,2015,Head,2227,Angers,Marseille,0,1,2016-05-01 19:00:00,Javier Manquillo,Cross,930
+68155,23,SavedShot,0.8819999694824219,0.5259999847412109,0.3306489884853363,Steven Fletcher,h,930,OpenPlay,2015,LeftFoot,2229,Marseille,Reims,1,0,2016-05-07 23:00:00,Michy Batshuayi,TakeOn,930
+68159,36,MissedShots,0.93,0.5659999847412109,0.35240599513053894,Steven Fletcher,h,930,OpenPlay,2015,LeftFoot,2229,Marseille,Reims,1,0,2016-05-07 23:00:00,Abdel Barrada,Cross,930
+68163,44,MissedShots,0.779000015258789,0.5829999923706055,0.01836320012807846,Steven Fletcher,h,930,OpenPlay,2015,LeftFoot,2229,Marseille,Reims,1,0,2016-05-07 23:00:00,Michy Batshuayi,TakeOn,930
+68778,7,MissedShots,0.8930000305175781,0.6719999694824219,0.11671599745750427,Steven Fletcher,a,930,OpenPlay,2015,LeftFoot,2242,Troyes,Marseille,1,1,2016-05-14 23:00:00,Rémy Cabella,Throughball,930
+68794,60,Goal,0.879000015258789,0.6819999694824219,0.047121498733758926,Steven Fletcher,a,930,OpenPlay,2015,LeftFoot,2242,Troyes,Marseille,1,1,2016-05-14 23:00:00,Bouna Sarr,Pass,930
+68799,81,SavedShot,0.885,0.5,0.7600950002670288,Steven Fletcher,a,930,Penalty,2015,LeftFoot,2242,Troyes,Marseille,1,1,2016-05-14 23:00:00,,Standard,930

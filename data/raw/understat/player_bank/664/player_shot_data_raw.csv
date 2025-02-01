@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15637,10,BlockedShot,0.895,0.45,0.09169849753379822,Joleon Lescott,a,664,FromCorner,2014,LeftFoot,4735,Tottenham,West Bromwich Albion,0,1,2014-09-21 13:30:00,,None,664
+17106,42,MissedShots,0.9269999694824219,0.455,0.12592600286006927,Joleon Lescott,h,664,SetPiece,2014,Head,4708,West Bromwich Albion,Manchester United,2,2,2014-10-20 20:00:00,Chris Brunt,Cross,664
+18611,58,MissedShots,0.9019999694824219,0.46299999237060546,0.022354599088430405,Joleon Lescott,h,664,FromCorner,2014,Head,4679,West Bromwich Albion,Arsenal,0,1,2014-11-29 12:45:00,Graham Dorrans,Aerial,664
+19156,9,Goal,0.95,0.4909999847412109,0.10860799998044968,Joleon Lescott,a,664,FromCorner,2014,Head,4622,Queens Park Rangers,West Bromwich Albion,3,2,2014-12-20 15:00:00,Stéphane Sessegnon,HeadPass,664
+18212,74,MissedShots,0.9580000305175781,0.5209999847412109,0.4905039966106415,Joleon Lescott,h,664,FromCorner,2014,Head,4633,West Bromwich Albion,Manchester City,1,3,2014-12-26 15:00:00,Gareth McAuley,Rebound,664
+23875,27,MissedShots,0.9369999694824219,0.52,0.12408100068569183,Joleon Lescott,h,664,FromCorner,2014,Head,4586,West Bromwich Albion,Tottenham,0,3,2015-01-31 15:00:00,James Morrison,Cross,664
+24079,20,MissedShots,0.97,0.5120000076293946,0.24357900023460388,Joleon Lescott,a,664,SetPiece,2014,Head,4522,Burnley,West Bromwich Albion,2,2,2015-02-08 12:00:00,Darren Fletcher,Aerial,664
+24084,65,BlockedShot,0.9390000152587891,0.47,0.12323299795389175,Joleon Lescott,a,664,FromCorner,2014,Head,4522,Burnley,West Bromwich Albion,2,2,2015-02-08 12:00:00,Chris Brunt,Cross,664
+24088,71,SavedShot,0.9580000305175781,0.5659999847412109,0.11346100270748138,Joleon Lescott,a,664,FromCorner,2014,Head,4522,Burnley,West Bromwich Albion,2,2,2015-02-08 12:00:00,Chris Brunt,Cross,664
+21811,72,MissedShots,0.975,0.5179999923706055,0.1509390026330948,Joleon Lescott,a,664,FromCorner,2014,Head,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,Saido Berahino,Rebound,664
+21601,5,MissedShots,0.9680000305175781,0.4829999923706055,0.6427130103111267,Joleon Lescott,h,664,SetPiece,2014,Head,4456,West Bromwich Albion,Leicester,2,3,2015-04-11 15:00:00,Craig Gardner,Cross,664
+21611,53,BlockedShot,0.9519999694824218,0.4520000076293945,0.05973590165376663,Joleon Lescott,h,664,SetPiece,2014,Head,4456,West Bromwich Albion,Leicester,2,3,2015-04-11 15:00:00,Chris Brunt,CornerAwarded,664
+21558,14,SavedShot,0.9019999694824219,0.48,0.06512629985809326,Joleon Lescott,a,664,FromCorner,2014,Head,4405,Manchester United,West Bromwich Albion,0,1,2015-05-02 17:30:00,Craig Gardner,Cross,664
+21916,92,MissedShots,0.960999984741211,0.41,0.0347369983792305,Joleon Lescott,a,664,FromCorner,2014,Head,4433,Arsenal,West Bromwich Albion,4,1,2015-05-24 15:00:00,Craig Gardner,Aerial,664
+58912,70,BlockedShot,0.965,0.600999984741211,0.08730869740247726,Joleon Lescott,a,664,SetPiece,2015,LeftFoot,164,Chelsea,Aston Villa,2,0,2015-10-17 18:00:00,,CornerAwarded,664
+58911,70,BlockedShot,0.9330000305175781,0.534000015258789,0.06857919692993164,Joleon Lescott,a,664,SetPiece,2015,Head,164,Chelsea,Aston Villa,2,0,2015-10-17 18:00:00,Carles Gil,Aerial,664
+59237,89,MissedShots,0.9290000152587891,0.5070000076293946,0.38046500086784363,Joleon Lescott,h,664,FromCorner,2015,RightFoot,171,Aston Villa,Swansea,1,2,2015-10-24 18:00:00,Leandro Bacuna,Cross,664
+54766,43,Goal,0.9719999694824218,0.48200000762939454,0.5613560080528259,Joleon Lescott,a,664,FromCorner,2015,LeftFoot,227,Southampton,Aston Villa,1,1,2015-12-05 19:00:00,Jordan Veretout,Cross,664
+54772,60,MissedShots,0.9269999694824219,0.375,0.021860599517822266,Joleon Lescott,a,664,FromCorner,2015,Head,227,Southampton,Aston Villa,1,1,2015-12-05 19:00:00,Jordan Veretout,Cross,664
+53132,57,SavedShot,0.925,0.485,0.05439480021595955,Joleon Lescott,h,664,FromCorner,2015,Head,282,Aston Villa,Crystal Palace,1,0,2016-01-12 23:45:00,Jordan Veretout,TakeOn,664
+55650,44,MissedShots,0.92,0.5559999847412109,0.046530500054359436,Joleon Lescott,h,664,SetPiece,2015,Head,326,Aston Villa,Norwich,2,0,2016-02-06 19:00:00,Carles Gil,Tackle,664
+60774,87,ShotOnPost,0.9730000305175781,0.5720000076293945,0.5162609815597534,Joleon Lescott,h,664,FromCorner,2015,LeftFoot,372,Aston Villa,Tottenham,0,2,2016-03-13 20:00:00,Rudy Gestede,Rebound,664
+60572,2,MissedShots,0.845,0.33,0.04208869859576225,Joleon Lescott,a,664,SetPiece,2015,LeftFoot,379,Swansea,Aston Villa,1,0,2016-03-19 21:30:00,Idrissa Gueye,Chipped,664
+60599,72,SavedShot,0.915,0.5359999847412109,0.08292920142412186,Joleon Lescott,a,664,FromCorner,2015,Head,379,Swansea,Aston Villa,1,0,2016-03-19 21:30:00,Carles Gil,Cross,664
+61056,21,BlockedShot,0.865999984741211,0.6179999923706054,0.0114892004057765,Joleon Lescott,h,664,FromCorner,2015,Head,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Ashley Westwood,Aerial,664

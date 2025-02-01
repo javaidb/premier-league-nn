@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+5598,Angel Gomes,1,1,0,0,0,0,0,0,0,0,S,Manchester United,0,0,0,0,2016
+5598,Angel Gomes,2,23,0,0.10693320259451866,0,0,2,0,0,0,S,Manchester United,0,0.10693320259451866,0.2809922993183136,0.17405900359153748,2018
+5598,Angel Gomes,2,17,0,0,0,0.229203000664711,0,2,0,0,S,Manchester United,0,0,0.25239700078964233,0.16221599280834198,2019

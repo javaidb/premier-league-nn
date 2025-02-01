@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+479338,66,BlockedShot,0.805,0.32,0.018676400184631348,Romeo Lavia,a,10004,SetPiece,2022,RightFoot,18207,Tottenham,Southampton,4,1,2022-08-06 14:00:00,,None,10004
+481829,11,SavedShot,0.7569999694824219,0.585999984741211,0.013926399871706963,Romeo Lavia,a,10004,FromCorner,2022,RightFoot,18226,Leicester,Southampton,1,2,2022-08-20 14:00:00,,Aerial,10004
+483404,72,MissedShots,0.774000015258789,0.67,0.021625500172376633,Romeo Lavia,h,10004,OpenPlay,2022,RightFoot,18232,Southampton,Manchester United,0,1,2022-08-27 11:30:00,Moussa Djenepo,Pass,10004
+484930,27,Goal,0.8180000305175781,0.4329999923706055,0.03640139847993851,Romeo Lavia,h,10004,FromCorner,2022,RightFoot,18244,Southampton,Chelsea,2,1,2022-08-30 18:45:00,,None,10004
+504664,50,BlockedShot,0.7130000305175781,0.549000015258789,0.014009700156748295,Romeo Lavia,h,10004,SetPiece,2022,RightFoot,18410,Southampton,Aston Villa,0,1,2023-01-21 15:00:00,Che Adams,Pass,10004
+513919,64,BlockedShot,0.7709999847412109,0.509000015258789,0.026637300848960876,Romeo Lavia,a,10004,FromCorner,2022,LeftFoot,18468,Manchester United,Southampton,0,0,2023-03-12 14:00:00,Theo Walcott,Pass,10004
+513930,75,MissedShots,0.755,0.509000015258789,0.023820800706744194,Romeo Lavia,a,10004,OpenPlay,2022,RightFoot,18468,Manchester United,Southampton,0,0,2023-03-12 14:00:00,James Ward-Prowse,Pass,10004
+516835,62,SavedShot,0.8109999847412109,0.7169999694824218,0.017530400305986404,Romeo Lavia,a,10004,FromCorner,2022,RightFoot,18491,West Ham,Southampton,1,0,2023-04-02 13:00:00,,None,10004
+519429,6,BlockedShot,0.7169999694824218,0.51,0.014595800079405308,Romeo Lavia,h,10004,OpenPlay,2022,RightFoot,18508,Southampton,Crystal Palace,0,2,2023-04-15 14:00:00,Kamaldeen Sulemana,Pass,10004
+522360,91,MissedShots,0.7880000305175782,0.4829999923706055,0.03516530245542526,Romeo Lavia,h,10004,OpenPlay,2022,RightFoot,18530,Southampton,Bournemouth,0,1,2023-04-27 18:45:00,,None,10004
+525524,40,BlockedShot,0.73,0.34599998474121096,0.015461417846381664,Romeo Lavia,a,10004,OpenPlay,2022,RightFoot,18548,Nottingham Forest,Southampton,4,3,2023-05-08 19:00:00,James Ward-Prowse,Pass,10004
+526061,83,BlockedShot,0.7419999694824219,0.5120000076293946,0.02532738819718361,Romeo Lavia,h,10004,FromCorner,2022,RightFoot,18561,Southampton,Fulham,0,2,2023-05-13 14:00:00,Moussa Djenepo,Pass,10004
+604673,24,BlockedShot,0.860999984741211,0.4909999847412109,0.08131378144025803,Romeo Lavia,h,10004,SetPiece,2024,RightFoot,26724,Chelsea,Aston Villa,3,0,2024-12-01 13:30:00,,Rebound,10004

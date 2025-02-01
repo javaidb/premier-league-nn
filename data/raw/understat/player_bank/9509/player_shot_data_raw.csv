@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+420094,68,MissedShots,0.9390000152587891,0.5570000076293945,0.35931500792503357,Daniel Jebbison,h,9509,OpenPlay,2020,Head,14782,Sheffield United,Crystal Palace,0,2,2021-05-08 14:00:00,Ben Osborn,Cross,9509
+422767,6,Goal,0.9490000152587891,0.48900001525878906,0.6712549924850464,Daniel Jebbison,a,9509,OpenPlay,2020,RightFoot,14787,Everton,Sheffield United,0,1,2021-05-16 18:00:00,Jack Robinson,Pass,9509
+422775,33,BlockedShot,0.899000015258789,0.565,0.13374599814414978,Daniel Jebbison,a,9509,OpenPlay,2020,LeftFoot,14787,Everton,Sheffield United,0,1,2021-05-16 18:00:00,Ben Osborn,Pass,9509
+422774,33,SavedShot,0.8080000305175781,0.575,0.31967800855636597,Daniel Jebbison,a,9509,OpenPlay,2020,RightFoot,14787,Everton,Sheffield United,0,1,2021-05-16 18:00:00,,BallRecovery,9509
+612070,89,MissedShots,0.970999984741211,0.39099998474121095,0.030469251796603203,Daniel Jebbison,a,9509,FromCorner,2024,Head,26819,Newcastle United,Bournemouth,1,4,2025-01-18 12:30:00,Justin Kluivert,Cross,9509
+612072,93,SavedShot,0.8340000152587891,0.6419999694824219,0.4144294559955597,Daniel Jebbison,a,9509,OpenPlay,2024,RightFoot,26819,Newcastle United,Bournemouth,1,4,2025-01-18 12:30:00,Ryan Christie,TakeOn,9509

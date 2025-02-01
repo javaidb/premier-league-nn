@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+18247,91,BlockedShot,0.7180000305175781,0.28200000762939453,0.016440000385046005,Nélson Oliveira,h,4386,FromCorner,2014,LeftFoot,4562,Swansea,West Ham,1,1,2015-01-10 15:00:00,Neil Taylor,Cross,4386
+19124,8,BlockedShot,0.8169999694824219,0.27899999618530275,0.02258710004389286,Nélson Oliveira,h,4386,OpenPlay,2014,RightFoot,4575,Swansea,Chelsea,0,5,2015-01-17 15:00:00,,None,4386
+19143,61,MissedShots,0.6840000152587891,0.39599998474121095,0.008886449970304966,Nélson Oliveira,h,4386,OpenPlay,2014,RightFoot,4575,Swansea,Chelsea,0,5,2015-01-17 15:00:00,Bafétimbi Gomis,Pass,4386
+19144,65,MissedShots,0.6940000152587891,0.6070000076293945,0.009064409881830215,Nélson Oliveira,h,4386,OpenPlay,2014,LeftFoot,4575,Swansea,Chelsea,0,5,2015-01-17 15:00:00,Dwight Tiendalli,TakeOn,4386
+23539,89,SavedShot,0.9059999847412109,0.674000015258789,0.056356098502874374,Nélson Oliveira,h,4386,OpenPlay,2014,LeftFoot,4517,Swansea,Sunderland,1,1,2015-02-07 15:00:00,,None,4386
+23164,92,MissedShots,0.99,0.30700000762939456,0.06404200196266174,Nélson Oliveira,a,4386,OpenPlay,2014,RightFoot,4549,Burnley,Swansea,0,1,2015-02-28 15:00:00,,None,4386
+20915,65,SavedShot,0.909000015258789,0.5420000076293945,0.5047460198402405,Nélson Oliveira,a,4386,OpenPlay,2014,LeftFoot,4463,Leicester,Swansea,2,0,2015-04-18 15:00:00,Gylfi Sigurdsson,TakeOn,4386
+22805,46,Goal,0.9469999694824218,0.48900001525878906,0.12989899516105652,Nélson Oliveira,a,4386,FromCorner,2014,Head,4470,Newcastle United,Swansea,2,3,2015-04-25 15:00:00,Gylfi Sigurdsson,Cross,4386
+22808,52,BlockedShot,0.9080000305175782,0.7580000305175781,0.037276800721883774,Nélson Oliveira,a,4386,OpenPlay,2014,LeftFoot,4470,Newcastle United,Swansea,2,3,2015-04-25 15:00:00,Jordi Amat,Pass,4386
+21989,2,BlockedShot,0.8919999694824219,0.4370000076293945,0.05299549922347069,Nélson Oliveira,h,4386,OpenPlay,2014,Head,4403,Swansea,Stoke,2,0,2015-05-02 15:00:00,Nathan Dyer,Cross,4386
+21990,13,MissedShots,0.9930000305175781,0.3770000076293945,0.03574040159583092,Nélson Oliveira,h,4386,OpenPlay,2014,RightFoot,4403,Swansea,Stoke,2,0,2015-05-02 15:00:00,Jefferson Montero,Cross,4386

@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+761,Gökhan Inler,5,195,0,0.03594139963388443,0,0.029947200790047646,2,1,0,0,M S,Leicester,0,0.03594139963388443,0.44601298682391644,0.38012469187378883,2015

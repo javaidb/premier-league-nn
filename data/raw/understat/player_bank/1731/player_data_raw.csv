@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1731,Claudio Bravo,22,1970,0,0,0,0,0,0,0,0,GK,Manchester City,0,0,3.065899409353733,3.065899409353733,2016
+1731,Claudio Bravo,3,225,0,0,0,0,0,0,0,0,GK S,Manchester City,0,0,0.05785829946398735,0.05785829946398735,2017
+1731,Claudio Bravo,4,347,0,0,0,0,0,0,0,0,GK S,Manchester City,0,0,0.7041245102882385,0.7041245102882385,2019

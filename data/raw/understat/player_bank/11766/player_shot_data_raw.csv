@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+532369,68,BlockedShot,0.7559999847412109,0.30100000381469727,0.014624309726059437,Manuel Ugarte,h,11766,OpenPlay,2023,RightFoot,23379,Paris Saint Germain,Lorient,0,0,2023-08-12 18:00:00,Fabián,TakeOn,11766
+532377,94,MissedShots,0.7680000305175781,0.46299999237060546,0.030382072553038597,Manuel Ugarte,h,11766,OpenPlay,2023,RightFoot,23379,Paris Saint Germain,Lorient,0,0,2023-08-12 18:00:00,Hugo Ekitike,BallTouch,11766
+535119,88,BlockedShot,0.7769999694824219,0.43,0.03797202929854393,Manuel Ugarte,h,11766,OpenPlay,2023,RightFoot,23389,Paris Saint Germain,Lens,3,1,2023-08-26 19:00:00,,BallRecovery,11766
+549394,93,SavedShot,0.9719999694824218,0.615,0.13319513201713562,Manuel Ugarte,h,11766,OpenPlay,2023,LeftFoot,23479,Paris Saint Germain,Monaco,5,2,2023-11-24 20:00:00,Randal Kolo Muani,Pass,11766
+564178,26,MissedShots,0.78,0.6029999923706054,0.031099490821361542,Manuel Ugarte,a,11766,OpenPlay,2023,RightFoot,23566,Nantes,Paris Saint Germain,0,2,2024-02-17 20:00:00,Warren Zaïre-Emery,BallTouch,11766
+564194,85,MissedShots,0.7659999847412109,0.385,0.02161429263651371,Manuel Ugarte,a,11766,OpenPlay,2023,RightFoot,23566,Nantes,Paris Saint Germain,0,2,2024-02-17 20:00:00,,None,11766
+572658,52,BlockedShot,0.7819999694824219,0.7080000305175781,0.017849016934633255,Manuel Ugarte,h,11766,OpenPlay,2023,RightFoot,23614,Paris Saint Germain,Clermont Foot,1,1,2024-04-06 19:00:00,Randal Kolo Muani,Pass,11766
+582666,52,MissedShots,0.840999984741211,0.4979999923706055,0.09068982303142548,Manuel Ugarte,a,11766,OpenPlay,2023,LeftFoot,23668,Metz,Paris Saint Germain,0,2,2024-05-19 19:00:00,,BallTouch,11766
+582667,57,MissedShots,0.754000015258789,0.5770000076293945,0.030440211296081543,Manuel Ugarte,a,11766,OpenPlay,2023,RightFoot,23668,Metz,Paris Saint Germain,0,2,2024-05-19 19:00:00,Marco Asensio,Pass,11766
+582676,91,MissedShots,0.7319999694824219,0.4759999847412109,0.024328963831067085,Manuel Ugarte,a,11766,OpenPlay,2023,RightFoot,23668,Metz,Paris Saint Germain,0,2,2024-05-19 19:00:00,Marco Asensio,Pass,11766
+602058,41,BlockedShot,0.7819999694824219,0.32099998474121094,0.02312275394797325,Manuel Ugarte,h,11766,OpenPlay,2024,RightFoot,26708,Manchester United,Leicester,3,0,2024-11-10 14:00:00,Bruno Fernandes,Pass,11766
+607629,31,MissedShots,0.75,0.5729999923706055,0.01921464316546917,Manuel Ugarte,a,11766,OpenPlay,2024,RightFoot,26753,Manchester City,Manchester United,1,2,2024-12-15 16:30:00,Kobbie Mainoo,Pass,11766
+608701,34,BlockedShot,0.9580000305175781,0.5479999923706055,0.09779980778694153,Manuel Ugarte,h,11766,SetPiece,2024,Head,26769,Manchester United,Bournemouth,0,3,2024-12-22 14:00:00,Bruno Fernandes,Aerial,11766
+609199,29,MissedShots,0.74,0.495,0.018221979960799217,Manuel Ugarte,a,11766,OpenPlay,2024,RightFoot,26781,Wolverhampton Wanderers,Manchester United,2,0,2024-12-26 17:30:00,Kobbie Mainoo,Pass,11766
+611891,42,OwnGoal,0.03799999952316284,0.4620000076293945,0,Manuel Ugarte,h,11766,FromCorner,2024,OtherBodyPart,26811,Manchester United,Southampton,3,1,2025-01-16 20:00:00,,CornerAwarded,11766
+612630,16,BlockedShot,0.769000015258789,0.475,0.02676306664943695,Manuel Ugarte,h,11766,OpenPlay,2024,RightFoot,26818,Manchester United,Brighton,1,3,2025-01-19 14:00:00,Diogo Dalot,Pass,11766

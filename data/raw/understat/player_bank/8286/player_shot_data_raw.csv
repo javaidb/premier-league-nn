@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+379253,27,MissedShots,0.8669999694824219,0.5790000152587891,0.011598000302910805,Jack Robinson,h,8286,SetPiece,2020,Head,14110,Sheffield United,Leeds,0,1,2020-09-27 11:00:00,John Lundstram,BlockedPass,8286
+379255,29,MissedShots,0.909000015258789,0.5329999923706055,0.02678230032324791,Jack Robinson,h,8286,FromCorner,2020,Head,14110,Sheffield United,Leeds,0,1,2020-09-27 11:00:00,John Lundstram,Aerial,8286
+379275,80,MissedShots,0.955999984741211,0.4909999847412109,0.5098270177841187,Jack Robinson,h,8286,FromCorner,2020,RightFoot,14110,Sheffield United,Leeds,0,1,2020-09-27 11:00:00,Ben Osborn,Cross,8286
+395698,2,BlockedShot,0.8869999694824219,0.4929999923706055,0.046713899821043015,Jack Robinson,h,8286,FromCorner,2020,Head,14582,Sheffield United,Everton,0,1,2020-12-26 20:00:00,Ben Osborn,Cross,8286
+423257,57,MissedShots,0.9080000305175782,0.4879999923706055,0.07613600045442581,Jack Robinson,a,8286,FromCorner,2020,Head,14801,Newcastle United,Sheffield United,1,0,2021-05-19 17:00:00,John Fleck,Cross,8286
+424116,59,MissedShots,0.76,0.6409999847412109,0.025339800864458084,Jack Robinson,h,8286,OpenPlay,2020,LeftFoot,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,Oliver Norwood,Pass,8286
+532893,50,MissedShots,0.8680000305175781,0.710999984741211,0.04274601489305496,Jack Robinson,a,8286,OpenPlay,2023,LeftFoot,22285,Nottingham Forest,Sheffield United,2,1,2023-08-18 18:45:00,Vinicius Souza,BallRecovery,8286
+535966,75,MissedShots,0.8430000305175781,0.6819999694824219,0.030707858502864838,Jack Robinson,h,8286,SetPiece,2023,LeftFoot,21926,Sheffield United,Everton,2,2,2023-09-02 11:30:00,,None,8286
+535968,89,BlockedShot,0.8680000305175781,0.5379999923706055,0.0762643963098526,Jack Robinson,h,8286,OpenPlay,2023,RightFoot,21926,Sheffield United,Everton,2,2,2023-09-02 11:30:00,George Baldock,Cross,8286
+539890,24,BlockedShot,0.97,0.485,0.12619291245937347,Jack Robinson,h,8286,SetPiece,2023,RightFoot,21954,Sheffield United,Newcastle United,0,8,2023-09-24 15:30:00,,None,8286
+544356,84,BlockedShot,0.87,0.555,0.017363250255584717,Jack Robinson,h,8286,FromCorner,2023,Head,21983,Sheffield United,Manchester United,1,2,2023-10-21 19:00:00,Oliver Norwood,Foul,8286
+556519,76,OwnGoal,0.07,0.514000015258789,0,Jack Robinson,h,8286,FromCorner,2023,Head,22084,Sheffield United,Luton,2,3,2023-12-26 15:00:00,,CornerAwarded,8286
+561361,76,SavedShot,0.9580000305175781,0.4159999847412109,0.43482956290245056,Jack Robinson,h,8286,FromCorner,2023,LeftFoot,22124,Sheffield United,Aston Villa,0,5,2024-02-03 17:30:00,,Rebound,8286
+561359,76,BlockedShot,0.9490000152587891,0.45599998474121095,0.06812915951013565,Jack Robinson,h,8286,FromCorner,2023,Head,22124,Sheffield United,Aston Villa,0,5,2024-02-03 17:30:00,Gustavo Hamer,Aerial,8286
+564346,74,OwnGoal,0.025,0.475,0,Jack Robinson,h,8286,OpenPlay,2023,RightFoot,22143,Sheffield United,Brighton,0,5,2024-02-18 14:00:00,,None,8286
+565613,60,SavedShot,0.8240000152587891,0.5459999847412109,0.007742836605757475,Jack Robinson,a,8286,SetPiece,2023,Head,22154,Wolverhampton Wanderers,Sheffield United,1,0,2024-02-25 13:30:00,Gustavo Hamer,Aerial,8286
+568047,63,Goal,0.9580000305175781,0.43400001525878906,0.5388665199279785,Jack Robinson,a,8286,FromCorner,2023,LeftFoot,22165,Bournemouth,Sheffield United,2,2,2024-03-09 15:00:00,,None,8286
+573134,40,SavedShot,0.8780000305175781,0.6459999847412109,0.02615010179579258,Jack Robinson,h,8286,SetPiece,2023,Head,22212,Sheffield United,Chelsea,2,2,2024-04-07 16:30:00,Oliver Arblaster,Chipped,8286
+573141,86,SavedShot,0.8819999694824219,0.5940000152587891,0.03551304712891579,Jack Robinson,h,8286,SetPiece,2023,Head,22212,Sheffield United,Chelsea,2,2,2024-04-07 16:30:00,Oliver Arblaster,Chipped,8286
+578464,8,BlockedShot,0.8440000152587891,0.6990000152587891,0.02981390245258808,Jack Robinson,h,8286,OpenPlay,2023,LeftFoot,22254,Sheffield United,Nottingham Forest,1,3,2024-05-04 14:00:00,Ben Osborn,Pass,8286
+578493,88,MissedShots,0.914000015258789,0.575999984741211,0.05213243141770363,Jack Robinson,h,8286,OpenPlay,2023,Head,22254,Sheffield United,Nottingham Forest,1,3,2024-05-04 14:00:00,Gustavo Hamer,Aerial,8286
+579835,71,MissedShots,0.8919999694824219,0.7180000305175781,0.025231875479221344,Jack Robinson,a,8286,OpenPlay,2023,LeftFoot,22257,Everton,Sheffield United,1,0,2024-05-11 14:00:00,Gustavo Hamer,Cross,8286

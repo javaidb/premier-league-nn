@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+891,Leon Osman,21,1262,2,2.717069311067462,2,1.5407472848892212,28,16,0,0,M S,Everton,2,2.717069311067462,6.009389251470566,3.727863270789385,2014
+891,Leon Osman,9,206,0,0.13636259734630585,0,0,3,0,0,0,M S,Everton,0,0.13636259734630585,0.2803061977028847,0.2045574001967907,2015

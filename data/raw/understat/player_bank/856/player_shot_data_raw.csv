@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+197197,69,OwnGoal,0.012999999523162841,0.5259999847412109,0,Jack Butland,a,856,OpenPlay,2017,OtherBodyPart,7396,Leicester,Stoke,1,1,2018-02-24 12:30:00,,Clearance,856

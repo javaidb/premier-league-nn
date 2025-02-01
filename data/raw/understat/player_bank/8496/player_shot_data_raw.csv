@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+369721,80,SavedShot,0.8180000305175781,0.43,0.07760050147771835,Tommy Doyle,h,8496,OpenPlay,2019,LeftFoot,11979,Manchester City,Newcastle United,5,0,2020-07-08 17:00:00,Kevin De Bruyne,Pass,8496
+546812,26,MissedShots,0.720999984741211,0.51,0.04688384011387825,Tommy Doyle,a,8496,DirectFreekick,2023,RightFoot,22003,Sheffield United,Wolverhampton Wanderers,2,1,2023-11-04 15:00:00,,Standard,8496
+546815,41,BlockedShot,0.76,0.48200000762939454,0.023795805871486664,Tommy Doyle,a,8496,OpenPlay,2023,RightFoot,22003,Sheffield United,Wolverhampton Wanderers,2,1,2023-11-04 15:00:00,,None,8496
+556450,81,SavedShot,0.7719999694824219,0.38299999237060545,0.03186342492699623,Tommy Doyle,h,8496,OpenPlay,2023,RightFoot,22073,Wolverhampton Wanderers,Chelsea,2,1,2023-12-24 13:00:00,Matheus Cunha,Pass,8496
+560841,27,SavedShot,0.7680000305175781,0.3579999923706055,0.06249445304274559,Tommy Doyle,h,8496,DirectFreekick,2023,RightFoot,22111,Wolverhampton Wanderers,Manchester United,3,4,2024-02-01 20:15:00,,Standard,8496
+560852,62,MissedShots,0.765,0.49700000762939456,0.02274283766746521,Tommy Doyle,h,8496,OpenPlay,2023,RightFoot,22111,Wolverhampton Wanderers,Manchester United,3,4,2024-02-01 20:15:00,Pedro Neto,Pass,8496
+562605,81,MissedShots,0.7659999847412109,0.40700000762939453,0.021824251860380173,Tommy Doyle,h,8496,OpenPlay,2023,RightFoot,22134,Wolverhampton Wanderers,Brentford,0,2,2024-02-10 15:00:00,Nélson Semedo,Pass,8496
+568119,91,MissedShots,0.774000015258789,0.6569999694824219,0.021405495703220367,Tommy Doyle,h,8496,OpenPlay,2023,RightFoot,22174,Wolverhampton Wanderers,Fulham,2,1,2024-03-09 15:00:00,João Gomes,Pass,8496
+570929,4,MissedShots,0.7430000305175781,0.45799999237060546,0.016068756580352783,Tommy Doyle,a,8496,FromCorner,2023,RightFoot,22186,Aston Villa,Wolverhampton Wanderers,2,0,2024-03-30 17:30:00,,None,8496
+572470,22,SavedShot,0.9290000152587891,0.6940000152587891,0.0480245016515255,Tommy Doyle,h,8496,FromCorner,2023,RightFoot,22214,Wolverhampton Wanderers,West Ham,1,2,2024-04-06 14:00:00,João Gomes,Pass,8496
+572471,25,MissedShots,0.905,0.624000015258789,0.05681413412094116,Tommy Doyle,h,8496,OpenPlay,2023,RightFoot,22214,Wolverhampton Wanderers,West Ham,1,2,2024-04-06 14:00:00,Matt Doherty,HeadPass,8496
+572473,28,MissedShots,0.6859999847412109,0.5359999847412109,0.014363703317940235,Tommy Doyle,h,8496,OpenPlay,2023,RightFoot,22214,Wolverhampton Wanderers,West Ham,1,2,2024-04-06 14:00:00,Mario Lemina,Pass,8496
+573773,9,MissedShots,0.7959999847412109,0.29,0.019116204231977463,Tommy Doyle,a,8496,OpenPlay,2023,RightFoot,22223,Nottingham Forest,Wolverhampton Wanderers,2,2,2024-04-13 14:00:00,Nélson Semedo,Pass,8496
+573797,82,MissedShots,0.710999984741211,0.580999984741211,0.014297896064817905,Tommy Doyle,a,8496,OpenPlay,2023,RightFoot,22223,Nottingham Forest,Wolverhampton Wanderers,2,2,2024-04-13 14:00:00,Mario Lemina,Pass,8496
+576305,50,BlockedShot,0.7,0.5570000076293945,0.01394728198647499,Tommy Doyle,h,8496,OpenPlay,2023,RightFoot,22184,Wolverhampton Wanderers,Bournemouth,0,1,2024-04-24 18:45:00,João Gomes,Pass,8496
+589269,65,BlockedShot,0.7659999847412109,0.39099998474121095,0.022649522870779037,Tommy Doyle,a,8496,OpenPlay,2024,RightFoot,26627,Nottingham Forest,Wolverhampton Wanderers,1,1,2024-08-31 14:00:00,Hee-Chan Hwang,Pass,8496
+589277,93,MissedShots,0.7369999694824219,0.7480000305175781,0.009510105475783348,Tommy Doyle,a,8496,OpenPlay,2024,RightFoot,26627,Nottingham Forest,Wolverhampton Wanderers,1,1,2024-08-31 14:00:00,Matheus Cunha,HeadPass,8496
+598488,8,MissedShots,0.8530000305175781,0.49700000762939456,0.08800484240055084,Tommy Doyle,a,8496,OpenPlay,2024,RightFoot,26686,Brighton,Wolverhampton Wanderers,2,2,2024-10-26 14:00:00,Matheus Cunha,Pass,8496
+600331,53,SavedShot,0.7330000305175781,0.519000015258789,0.014732361771166325,Tommy Doyle,h,8496,OpenPlay,2024,RightFoot,26701,Wolverhampton Wanderers,Crystal Palace,2,2,2024-11-02 17:30:00,,Rebound,8496
+606726,82,MissedShots,0.8619999694824219,0.51,0.08923347294330597,Tommy Doyle,a,8496,OpenPlay,2024,LeftFoot,26746,West Ham,Wolverhampton Wanderers,2,1,2024-12-09 20:00:00,Matheus Cunha,Pass,8496
+606986,85,MissedShots,0.7169999694824218,0.40400001525878904,0.014126280322670937,Tommy Doyle,h,8496,OpenPlay,2024,RightFoot,26758,Wolverhampton Wanderers,Ipswich,1,2,2024-12-14 15:00:00,,BallRecovery,8496
+606987,86,SavedShot,0.749000015258789,0.48200000762939454,0.019525865092873573,Tommy Doyle,h,8496,OpenPlay,2024,RightFoot,26758,Wolverhampton Wanderers,Ipswich,1,2,2024-12-14 15:00:00,,None,8496
+611810,91,BlockedShot,0.7819999694824219,0.6509999847412109,0.020077425986528397,Tommy Doyle,a,8496,SetPiece,2024,RightFoot,26810,Newcastle United,Wolverhampton Wanderers,3,0,2025-01-15 19:30:00,Matheus Cunha,BallTouch,8496

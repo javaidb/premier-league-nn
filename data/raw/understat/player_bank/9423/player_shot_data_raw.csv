@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+424008,57,BlockedShot,0.9259999847412109,0.42400001525878905,0.07476060092449188,Gaetano Berardi,h,9423,FromCorner,2020,RightFoot,14808,Leeds,West Bromwich Albion,3,1,2021-05-23 15:00:00,Raphinha,Cross,9423

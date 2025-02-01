@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+8858,Guglielmo Vicario,38,3420,0,0,0,0,0,0,2,0,GK,Tottenham,0,0,6.606127485632896,6.606127485632896,2023
+8858,Guglielmo Vicario,12,1080,0,0,0,0,0,0,1,0,GK,Tottenham,0,0,3.497948534786701,3.497948534786701,2024
+8858,Guglielmo Vicario,12,1080,0,0,0,0,0,0,1,0,GK,Tottenham,0,0,3.497948534786701,3.497948534786701,2025

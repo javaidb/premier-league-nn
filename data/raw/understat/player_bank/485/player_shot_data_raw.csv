@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15279,10,SavedShot,0.919000015258789,0.5179999923706055,0.09739259630441666,Mamadou Sakho,h,485,FromCorner,2014,Head,4726,Liverpool,Aston Villa,0,1,2014-09-13 17:30:00,Steven Gerrard,Cross,485
+18854,19,MissedShots,0.9,0.575999984741211,0.014296500012278557,Mamadou Sakho,h,485,FromCorner,2014,Head,4627,Liverpool,Arsenal,2,2,2014-12-21 16:00:00,Steven Gerrard,Aerial,485
+58751,26,MissedShots,0.93,0.5520000076293945,0.0442298986017704,Mamadou Sakho,a,485,FromCorner,2015,Head,158,Everton,Liverpool,1,1,2015-10-04 16:30:00,James Milner,Aerial,485
+54440,10,BlockedShot,0.8009999847412109,0.644000015258789,0.036801401525735855,Mamadou Sakho,h,485,FromCorner,2015,LeftFoot,257,Liverpool,Leicester,1,0,2015-12-26 19:00:00,Dejan Lovren,Pass,485
+54451,23,MissedShots,0.925,0.375,0.030962200835347176,Mamadou Sakho,h,485,FromCorner,2015,Head,257,Liverpool,Leicester,1,0,2015-12-26 19:00:00,Philippe Coutinho,Rebound,485
+56099,71,MissedShots,0.955,0.5629999923706055,0.13540199398994446,Mamadou Sakho,h,485,SetPiece,2015,Head,298,Liverpool,Manchester United,0,1,2016-01-17 18:05:00,James Milner,Cross,485
+59558,27,MissedShots,0.9019999694824219,0.5029999923706054,0.0430384986102581,Mamadou Sakho,h,485,FromCorner,2015,Head,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,,None,485
+59576,46,Goal,0.960999984741211,0.48700000762939455,0.5432569980621338,Mamadou Sakho,h,485,FromCorner,2015,Head,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,James Milner,Cross,485
+119822,7,MissedShots,0.9209999847412109,0.5209999847412109,0.04584750160574913,Mamadou Sakho,h,485,FromCorner,2016,Head,3428,Crystal Palace,Watford,1,0,2017-03-18 15:00:00,Yohan Cabaye,Aerial,485
+119523,75,MissedShots,0.9159999847412109,0.4759999847412109,0.09001059830188751,Mamadou Sakho,a,485,FromCorner,2016,Head,3447,Southampton,Crystal Palace,3,1,2017-04-05 19:45:00,Bakary Sako,Cross,485
+160230,7,MissedShots,0.924000015258789,0.47299999237060547,0.06269390136003494,Mamadou Sakho,a,485,SetPiece,2017,Head,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Yohan Cabaye,Aerial,485
+161166,91,Goal,0.9519999694824218,0.5059999847412109,0.6168990135192871,Mamadou Sakho,h,485,FromCorner,2017,RightFoot,7246,Crystal Palace,Stoke,2,1,2017-11-25 15:00:00,,Rebound,485
+179168,16,BlockedShot,0.970999984741211,0.46599998474121096,0.8058840036392212,Mamadou Sakho,h,485,FromCorner,2017,RightFoot,7273,Crystal Palace,Bournemouth,2,2,2017-12-09 15:00:00,Ruben Loftus-Cheek,Pass,485
+234118,81,MissedShots,0.9580000305175781,0.40299999237060546,0.21710999310016632,Mamadou Sakho,h,485,FromCorner,2018,Head,9251,Crystal Palace,Newcastle United,0,0,2018-09-22 14:00:00,Andros Townsend,Cross,485
+275071,73,BlockedShot,0.899000015258789,0.42200000762939455,0.07857000082731247,Mamadou Sakho,a,485,FromCorner,2018,LeftFoot,9433,Southampton,Crystal Palace,1,1,2019-01-30 19:45:00,Jordan Ayew,HeadPass,485
+275076,83,MissedShots,0.9519999694824218,0.485,0.47413399815559387,Mamadou Sakho,a,485,FromCorner,2018,Head,9433,Southampton,Crystal Palace,1,1,2019-01-30 19:45:00,Luka Milivojevic,Cross,485
+275265,71,MissedShots,0.93,0.46700000762939453,0.056836601346731186,Mamadou Sakho,h,485,FromCorner,2018,Head,9442,Crystal Palace,Fulham,2,0,2019-02-02 15:00:00,Patrick van Aanholt,Aerial,485
+380396,41,MissedShots,0.8919999694824219,0.565,0.018834900110960007,Mamadou Sakho,a,485,SetPiece,2020,Head,14467,Chelsea,Crystal Palace,4,0,2020-10-03 11:30:00,Andros Townsend,Aerial,485
+457141,60,BlockedShot,0.9580000305175781,0.38599998474121094,0.03590020164847374,Mamadou Sakho,h,485,FromCorner,2021,Head,18055,Montpellier,Lille,0,1,2022-02-12 16:00:00,Téji Savanier,Cross,485
+479662,1,MissedShots,0.9580000305175781,0.4929999923706055,0.5029839873313904,Mamadou Sakho,h,485,FromCorner,2022,Head,19653,Montpellier,Troyes,3,2,2022-08-07 13:00:00,Téji Savanier,Cross,485
+482345,38,Goal,0.914000015258789,0.5429999923706055,0.0396060012280941,Mamadou Sakho,h,485,FromCorner,2022,Head,19672,Montpellier,Auxerre,1,2,2022-08-21 13:00:00,Arnaud Nordin,Aerial,485
+504097,46,SavedShot,0.9540000152587891,0.5609999847412109,0.4043689966201782,Mamadou Sakho,h,485,FromCorner,2022,LeftFoot,19831,Montpellier,Nantes,0,3,2023-01-15 14:00:00,Léo Leroy,Chipped,485

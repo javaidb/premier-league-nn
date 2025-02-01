@@ -1,0 +1,170 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14487,6,MissedShots,0.7240000152587891,0.7169999694824218,0.010107300244271755,Daniel Sturridge,h,483,OpenPlay,2014,LeftFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,,None,483
+14505,76,BlockedShot,0.7880000305175782,0.47400001525878904,0.03869229927659035,Daniel Sturridge,h,483,OpenPlay,2014,LeftFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Raheem Sterling,Pass,483
+14506,78,Goal,0.9569999694824218,0.485,0.637283980846405,Daniel Sturridge,h,483,OpenPlay,2014,LeftFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Raheem Sterling,HeadPass,483
+14784,32,SavedShot,0.9330000305175781,0.6759999847412109,0.07096949964761734,Daniel Sturridge,a,483,OpenPlay,2014,LeftFoot,4768,Manchester City,Liverpool,3,1,2014-08-25 20:00:00,Raheem Sterling,TakeOn,483
+14788,58,MissedShots,0.7290000152587891,0.5309999847412109,0.01594410091638565,Daniel Sturridge,a,483,OpenPlay,2014,LeftFoot,4768,Manchester City,Liverpool,3,1,2014-08-25 20:00:00,Steven Gerrard,Pass,483
+14789,61,BlockedShot,0.9,0.5329999923706055,0.12268099933862686,Daniel Sturridge,a,483,OpenPlay,2014,LeftFoot,4768,Manchester City,Liverpool,3,1,2014-08-25 20:00:00,Lazar Markovic,Pass,483
+14790,64,SavedShot,0.9580000305175781,0.33299999237060546,0.11792200058698654,Daniel Sturridge,a,483,OpenPlay,2014,RightFoot,4768,Manchester City,Liverpool,3,1,2014-08-25 20:00:00,Raheem Sterling,TakeOn,483
+14791,65,MissedShots,0.904000015258789,0.5420000076293945,0.08563730120658875,Daniel Sturridge,a,483,OpenPlay,2014,Head,4768,Manchester City,Liverpool,3,1,2014-08-25 20:00:00,Alberto Moreno,Cross,483
+15106,11,MissedShots,0.774000015258789,0.44799999237060545,0.037581898272037506,Daniel Sturridge,a,483,OpenPlay,2014,LeftFoot,4777,Tottenham,Liverpool,0,3,2014-08-31 13:30:00,Raheem Sterling,Pass,483
+15109,29,SavedShot,0.7869999694824219,0.35700000762939454,0.03651740029454231,Daniel Sturridge,a,483,OpenPlay,2014,LeftFoot,4777,Tottenham,Liverpool,0,3,2014-08-31 13:30:00,Mario Balotelli,Pass,483
+15117,65,MissedShots,0.8059999847412109,0.62,0.025226300582289696,Daniel Sturridge,a,483,FromCorner,2014,LeftFoot,4777,Tottenham,Liverpool,0,3,2014-08-31 13:30:00,,None,483
+15118,66,SavedShot,0.895,0.2560000038146973,0.03671079874038696,Daniel Sturridge,a,483,OpenPlay,2014,LeftFoot,4777,Tottenham,Liverpool,0,3,2014-08-31 13:30:00,,None,483
+15124,82,MissedShots,0.8280000305175781,0.6170000076293946,0.07635539770126343,Daniel Sturridge,a,483,OpenPlay,2014,RightFoot,4777,Tottenham,Liverpool,0,3,2014-08-31 13:30:00,Raheem Sterling,Pass,483
+23370,77,MissedShots,0.9369999694824219,0.529000015258789,0.10872700065374374,Daniel Sturridge,h,483,OpenPlay,2014,Head,4582,Liverpool,West Ham,2,0,2015-01-31 15:00:00,Adam Lallana,Aerial,483
+23371,79,Goal,0.9459999847412109,0.32599998474121095,0.2599709928035736,Daniel Sturridge,h,483,OpenPlay,2014,RightFoot,4582,Liverpool,West Ham,2,0,2015-01-31 15:00:00,Philippe Coutinho,Pass,483
+23373,82,MissedShots,0.9159999847412109,0.47200000762939454,0.14482399821281433,Daniel Sturridge,h,483,OpenPlay,2014,LeftFoot,4582,Liverpool,West Ham,2,0,2015-01-31 15:00:00,,Rebound,483
+24184,69,BlockedShot,0.9369999694824219,0.3940000152587891,0.12340900301933289,Daniel Sturridge,a,483,OpenPlay,2014,LeftFoot,4521,Everton,Liverpool,0,0,2015-02-07 17:30:00,Alberto Moreno,Pass,483
+23059,8,SavedShot,0.904000015258789,0.38299999237060545,0.3504669964313507,Daniel Sturridge,h,483,OpenPlay,2014,RightFoot,4528,Liverpool,Tottenham,3,2,2015-02-10 20:00:00,,BallRecovery,483
+23062,12,SavedShot,0.915,0.3609999847412109,0.10995300114154816,Daniel Sturridge,h,483,OpenPlay,2014,LeftFoot,4528,Liverpool,Tottenham,3,2,2015-02-10 20:00:00,Lazar Markovic,LayOff,483
+23066,19,BlockedShot,0.909000015258789,0.43900001525878907,0.12759900093078613,Daniel Sturridge,h,483,OpenPlay,2014,RightFoot,4528,Liverpool,Tottenham,3,2,2015-02-10 20:00:00,,BallRecovery,483
+23070,27,MissedShots,0.7230000305175781,0.4759999847412109,0.014150699600577354,Daniel Sturridge,h,483,OpenPlay,2014,LeftFoot,4528,Liverpool,Tottenham,3,2,2015-02-10 20:00:00,,None,483
+23075,46,ShotOnPost,0.9330000305175781,0.4759999847412109,0.11004199832677841,Daniel Sturridge,h,483,OpenPlay,2014,LeftFoot,4528,Liverpool,Tottenham,3,2,2015-02-10 20:00:00,,None,483
+24204,86,SavedShot,0.8909999847412109,0.6419999694824219,0.08481069654226303,Daniel Sturridge,a,483,OpenPlay,2014,RightFoot,4544,Southampton,Liverpool,0,2,2015-02-22 16:15:00,Emre Can,Pass,483
+24208,90,BlockedShot,0.8930000305175781,0.295,0.06660020351409912,Daniel Sturridge,a,483,OpenPlay,2014,LeftFoot,4544,Southampton,Liverpool,0,2,2015-02-22 16:15:00,Raheem Sterling,Pass,483
+24209,91,SavedShot,0.7869999694824219,0.2589999961853027,0.020843399688601494,Daniel Sturridge,a,483,OpenPlay,2014,LeftFoot,4544,Southampton,Liverpool,0,2,2015-02-22 16:15:00,Jordan Henderson,BallRecovery,483
+23343,86,MissedShots,0.8919999694824219,0.6370000076293946,0.09153930097818375,Daniel Sturridge,h,483,OpenPlay,2014,LeftFoot,4480,Liverpool,Manchester City,2,1,2015-03-01 12:00:00,Jordan Henderson,BallRecovery,483
+20836,0,SavedShot,0.889000015258789,0.46799999237060547,0.12011200189590454,Daniel Sturridge,h,483,OpenPlay,2014,LeftFoot,4491,Liverpool,Burnley,2,0,2015-03-04 20:00:00,Adam Lallana,Pass,483
+20847,30,BlockedShot,0.8080000305175781,0.6530000305175782,0.0403841994702816,Daniel Sturridge,h,483,OpenPlay,2014,LeftFoot,4491,Liverpool,Burnley,2,0,2015-03-04 20:00:00,Philippe Coutinho,Pass,483
+20850,41,SavedShot,0.8530000305175781,0.44400001525878907,0.35751399397850037,Daniel Sturridge,h,483,OpenPlay,2014,LeftFoot,4491,Liverpool,Burnley,2,0,2015-03-04 20:00:00,Philippe Coutinho,Throughball,483
+20854,50,Goal,0.935,0.555,0.11068599671125412,Daniel Sturridge,h,483,OpenPlay,2014,Head,4491,Liverpool,Burnley,2,0,2015-03-04 20:00:00,Jordan Henderson,Chipped,483
+20859,63,MissedShots,0.7180000305175781,0.45299999237060545,0.02111390046775341,Daniel Sturridge,h,483,OpenPlay,2014,LeftFoot,4491,Liverpool,Burnley,2,0,2015-03-04 20:00:00,Emre Can,Pass,483
+20734,7,MissedShots,0.7619999694824219,0.42200000762939455,0.02478029951453209,Daniel Sturridge,a,483,OpenPlay,2014,RightFoot,4502,Swansea,Liverpool,0,1,2015-03-16 20:00:00,Raheem Sterling,Pass,483
+20744,42,MissedShots,0.754000015258789,0.42400001525878905,0.023264199495315552,Daniel Sturridge,a,483,OpenPlay,2014,LeftFoot,4502,Swansea,Liverpool,0,1,2015-03-16 20:00:00,Joe Allen,Pass,483
+20756,80,MissedShots,0.935,0.49700000762939456,0.15020599961280823,Daniel Sturridge,a,483,OpenPlay,2014,Head,4502,Swansea,Liverpool,0,1,2015-03-16 20:00:00,Raheem Sterling,Cross,483
+20755,80,BlockedShot,0.8190000152587891,0.38299999237060545,0.049174100160598755,Daniel Sturridge,a,483,OpenPlay,2014,LeftFoot,4502,Swansea,Liverpool,0,1,2015-03-16 20:00:00,Raheem Sterling,Pass,483
+20758,93,ShotOnPost,0.8980000305175782,0.575,0.553721010684967,Daniel Sturridge,a,483,OpenPlay,2014,RightFoot,4502,Swansea,Liverpool,0,1,2015-03-16 20:00:00,Philippe Coutinho,Throughball,483
+21589,16,MissedShots,0.92,0.7419999694824219,0.03489390015602112,Daniel Sturridge,h,483,OpenPlay,2014,LeftFoot,4510,Liverpool,Manchester United,1,2,2015-03-22 13:30:00,Jordan Henderson,Chipped,483
+21598,68,Goal,0.94,0.34700000762939454,0.05422209948301315,Daniel Sturridge,h,483,OpenPlay,2014,RightFoot,4510,Liverpool,Manchester United,1,2,2015-03-22 13:30:00,,None,483
+20802,65,MissedShots,0.89,0.47,0.05422860011458397,Daniel Sturridge,a,483,FromCorner,2014,OtherBodyPart,4440,Arsenal,Liverpool,4,1,2015-04-04 12:45:00,Philippe Coutinho,Dispossessed,483
+58132,33,SavedShot,0.845999984741211,0.3579999923706055,0.29929399490356445,Daniel Sturridge,h,483,OpenPlay,2015,LeftFoot,140,Liverpool,Norwich,1,1,2015-09-20 19:00:00,Lucas Leiva,Throughball,483
+58139,49,BlockedShot,0.735999984741211,0.49900001525878906,0.026727700605988503,Daniel Sturridge,h,483,OpenPlay,2015,LeftFoot,140,Liverpool,Norwich,1,1,2015-09-20 19:00:00,Mamadou Sakho,Pass,483
+58390,58,Goal,0.894000015258789,0.6909999847412109,0.13487599790096283,Daniel Sturridge,h,483,OpenPlay,2015,LeftFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,James Milner,Throughball,483
+58392,63,SavedShot,0.865999984741211,0.43599998474121093,0.12142399698495865,Daniel Sturridge,h,483,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Nathaniel Clyne,Pass,483
+58394,66,Goal,0.8530000305175781,0.5370000076293945,0.35565200448036194,Daniel Sturridge,h,483,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Philippe Coutinho,Pass,483
+58401,84,BlockedShot,0.8480000305175781,0.5259999847412109,0.092289499938488,Daniel Sturridge,h,483,OpenPlay,2015,LeftFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,,BallRecovery,483
+58402,85,SavedShot,0.879000015258789,0.5820000076293945,0.14067000150680542,Daniel Sturridge,h,483,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Danny Ings,Throughball,483
+58745,5,MissedShots,0.775,0.34,0.024401700124144554,Daniel Sturridge,a,483,OpenPlay,2015,LeftFoot,158,Everton,Liverpool,1,1,2015-10-04 16:30:00,Danny Ings,TakeOn,483
+58746,7,BlockedShot,0.9369999694824219,0.45599998474121095,0.1316000074148178,Daniel Sturridge,a,483,SetPiece,2015,LeftFoot,158,Everton,Liverpool,1,1,2015-10-04 16:30:00,Martin Skrtel,TakeOn,483
+58749,14,BlockedShot,0.895,0.555,0.0908128023147583,Daniel Sturridge,a,483,OpenPlay,2015,LeftFoot,158,Everton,Liverpool,1,1,2015-10-04 16:30:00,Alberto Moreno,Cross,483
+54530,73,MissedShots,0.7030000305175781,0.51,0.014298499561846256,Daniel Sturridge,a,483,OpenPlay,2015,LeftFoot,229,Newcastle United,Liverpool,2,0,2015-12-06 20:00:00,Jordon Ibe,Pass,483
+54531,74,MissedShots,0.899000015258789,0.345,0.09887190163135529,Daniel Sturridge,a,483,OpenPlay,2015,RightFoot,229,Newcastle United,Liverpool,2,0,2015-12-06 20:00:00,Adam Lallana,Throughball,483
+54471,15,Goal,0.93,0.47400001525878904,0.38962599635124207,Daniel Sturridge,a,483,OpenPlay,2015,Head,339,Aston Villa,Liverpool,0,6,2016-02-14 18:05:00,Philippe Coutinho,Cross,483
+54478,43,SavedShot,0.8830000305175781,0.42700000762939455,0.07588019967079163,Daniel Sturridge,a,483,FromCorner,2015,LeftFoot,339,Aston Villa,Liverpool,0,6,2016-02-14 18:05:00,,None,483
+60484,15,SavedShot,0.76,0.41200000762939454,0.024726800620555878,Daniel Sturridge,a,483,OpenPlay,2015,LeftFoot,380,Southampton,Liverpool,3,2,2016-03-20 17:30:00,Jon Flanagan,Pass,483
+60490,21,Goal,0.8930000305175781,0.39799999237060546,0.1428699940443039,Daniel Sturridge,a,483,OpenPlay,2015,LeftFoot,380,Southampton,Liverpool,3,2,2016-03-20 17:30:00,Divock Origi,Pass,483
+60492,25,BlockedShot,0.9330000305175781,0.3240000152587891,0.04571180045604706,Daniel Sturridge,a,483,OpenPlay,2015,LeftFoot,380,Southampton,Liverpool,3,2,2016-03-20 17:30:00,,Rebound,483
+60493,26,SavedShot,0.9269999694824219,0.34,0.10023699700832367,Daniel Sturridge,a,483,OpenPlay,2015,RightFoot,380,Southampton,Liverpool,3,2,2016-03-20 17:30:00,Joe Allen,Pass,483
+59802,35,SavedShot,0.8880000305175781,0.6120000076293945,0.34035199880599976,Daniel Sturridge,h,483,OpenPlay,2015,LeftFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Philippe Coutinho,Throughball,483
+59816,56,MissedShots,0.924000015258789,0.45099998474121095,0.2812820076942444,Daniel Sturridge,h,483,OpenPlay,2015,Head,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Philippe Coutinho,Chipped,483
+60610,27,MissedShots,0.745999984741211,0.45299999237060545,0.02353990077972412,Daniel Sturridge,h,483,OpenPlay,2015,LeftFoot,403,Liverpool,Stoke,4,1,2016-04-10 19:00:00,Kevin Stewart,Pass,483
+60616,31,Goal,0.9640000152587891,0.485,0.6291530132293701,Daniel Sturridge,h,483,OpenPlay,2015,Head,403,Liverpool,Stoke,4,1,2016-04-10 19:00:00,Sheyi Ojo,Cross,483
+61298,1,SavedShot,0.835999984741211,0.3220000076293945,0.04146210104227066,Daniel Sturridge,a,483,OpenPlay,2015,LeftFoot,412,Bournemouth,Liverpool,1,2,2016-04-17 16:30:00,Roberto Firmino,BlockedPass,483
+61300,2,MissedShots,0.7580000305175781,0.5609999847412109,0.025071600452065468,Daniel Sturridge,a,483,OpenPlay,2015,LeftFoot,412,Bournemouth,Liverpool,1,2,2016-04-17 16:30:00,Jordon Ibe,Pass,483
+61313,26,BlockedShot,0.7859999847412109,0.7480000305175781,0.016007399186491966,Daniel Sturridge,a,483,OpenPlay,2015,LeftFoot,412,Bournemouth,Liverpool,1,2,2016-04-17 16:30:00,,BallRecovery,483
+61319,40,SavedShot,0.9130000305175782,0.58,0.1286820024251938,Daniel Sturridge,a,483,OpenPlay,2015,LeftFoot,412,Bournemouth,Liverpool,1,2,2016-04-17 16:30:00,Jordon Ibe,Pass,483
+61324,44,MissedShots,0.725,0.639000015258789,0.01917169988155365,Daniel Sturridge,a,483,OpenPlay,2015,LeftFoot,412,Bournemouth,Liverpool,1,2,2016-04-17 16:30:00,Roberto Firmino,Pass,483
+61327,46,Goal,0.875,0.47400001525878904,0.046128399670124054,Daniel Sturridge,a,483,SetPiece,2015,Head,412,Bournemouth,Liverpool,1,2,2016-04-17 16:30:00,Jordon Ibe,Chipped,483
+61330,52,ShotOnPost,0.875,0.575,0.32506099343299866,Daniel Sturridge,a,483,OpenPlay,2015,LeftFoot,412,Bournemouth,Liverpool,1,2,2016-04-17 16:30:00,Joe Allen,Pass,483
+61339,74,MissedShots,0.4779999923706055,0.69,0.008925369940698147,Daniel Sturridge,a,483,OpenPlay,2015,LeftFoot,412,Bournemouth,Liverpool,1,2,2016-04-17 16:30:00,Jordon Ibe,Pass,483
+61344,82,ShotOnPost,0.9369999694824219,0.6719999694824219,0.13152000308036804,Daniel Sturridge,a,483,OpenPlay,2015,LeftFoot,412,Bournemouth,Liverpool,1,2,2016-04-17 16:30:00,Adam Lallana,TakeOn,483
+61346,87,MissedShots,0.835999984741211,0.6120000076293945,0.07239740341901779,Daniel Sturridge,a,483,OpenPlay,2015,RightFoot,412,Bournemouth,Liverpool,1,2,2016-04-17 16:30:00,Adam Lallana,Pass,483
+59577,59,SavedShot,0.745,0.21899999618530275,0.017128799110651016,Daniel Sturridge,h,483,OpenPlay,2015,LeftFoot,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,Adam Lallana,Pass,483
+59578,60,Goal,0.8690000152587891,0.46599998474121096,0.47411900758743286,Daniel Sturridge,h,483,OpenPlay,2015,LeftFoot,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,Lucas Leiva,Throughball,483
+59594,74,MissedShots,0.879000015258789,0.43599998474121093,0.0322066992521286,Daniel Sturridge,h,483,OpenPlay,2015,Head,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,James Milner,Cross,483
+59614,96,SavedShot,0.7780000305175782,0.30100000381469727,0.02867010049521923,Daniel Sturridge,h,483,OpenPlay,2015,LeftFoot,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,Philippe Coutinho,Pass,483
+57419,1,Goal,0.8430000305175781,0.5129999923706055,0.06732209771871567,Daniel Sturridge,h,483,SetPiece,2015,LeftFoot,423,Liverpool,Newcastle United,2,2,2016-04-23 18:00:00,Alberto Moreno,Chipped,483
+57421,17,MissedShots,0.7080000305175781,0.4909999847412109,0.022778699174523354,Daniel Sturridge,h,483,OpenPlay,2015,LeftFoot,423,Liverpool,Newcastle United,2,2,2016-04-23 18:00:00,Joe Allen,Pass,483
+57435,80,SavedShot,0.8930000305175781,0.43400001525878906,0.04293590039014816,Daniel Sturridge,h,483,FromCorner,2015,Head,423,Liverpool,Newcastle United,2,2,2016-04-23 18:00:00,Roberto Firmino,Cross,483
+57447,9,MissedShots,0.8830000305175781,0.5509999847412109,0.09150169789791107,Daniel Sturridge,a,483,OpenPlay,2015,LeftFoot,433,Swansea,Liverpool,3,1,2016-05-01 15:00:00,Jordon Ibe,Cross,483
+57460,35,MissedShots,0.8119999694824219,0.695,0.022164899855852127,Daniel Sturridge,a,483,OpenPlay,2015,LeftFoot,433,Swansea,Liverpool,3,1,2016-05-01 15:00:00,Sheyi Ojo,Pass,483
+57461,36,SavedShot,0.7319999694824219,0.51,0.019094599410891533,Daniel Sturridge,a,483,OpenPlay,2015,LeftFoot,433,Swansea,Liverpool,3,1,2016-05-01 15:00:00,Kevin Stewart,Pass,483
+57464,44,MissedShots,0.740999984741211,0.415,0.054143499583005905,Daniel Sturridge,a,483,DirectFreekick,2015,LeftFoot,433,Swansea,Liverpool,3,1,2016-05-01 15:00:00,,Standard,483
+61039,1,MissedShots,0.8280000305175781,0.19,0.04640109837055206,Daniel Sturridge,h,483,DirectFreekick,2015,LeftFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,,Standard,483
+61049,20,MissedShots,0.8059999847412109,0.735999984741211,0.01997300051152706,Daniel Sturridge,h,483,OpenPlay,2015,RightFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,Philippe Coutinho,Chipped,483
+61070,36,SavedShot,0.754000015258789,0.6419999694824219,0.015154300257563591,Daniel Sturridge,h,483,OpenPlay,2015,LeftFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,Philippe Coutinho,TakeOn,483
+61081,49,MissedShots,0.519000015258789,0.555,0.006782960146665573,Daniel Sturridge,h,483,OpenPlay,2015,LeftFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,Simon Mignolet,Pass,483
+61087,60,SavedShot,0.88,0.42900001525878906,0.38248199224472046,Daniel Sturridge,h,483,OpenPlay,2015,RightFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,Adam Lallana,Throughball,483
+120541,7,BlockedShot,0.759000015258789,0.3029999923706055,0.016109200194478035,Daniel Sturridge,a,483,OpenPlay,2016,LeftFoot,473,Burnley,Liverpool,2,0,2016-08-20 18:00:00,Nathaniel Clyne,Pass,483
+120548,28,MissedShots,0.785,0.3120000076293945,0.02341040037572384,Daniel Sturridge,a,483,OpenPlay,2016,LeftFoot,473,Burnley,Liverpool,2,0,2016-08-20 18:00:00,Nathaniel Clyne,Pass,483
+120555,45,MissedShots,0.9380000305175781,0.28200000762939453,0.03097599931061268,Daniel Sturridge,a,483,OpenPlay,2016,RightFoot,473,Burnley,Liverpool,2,0,2016-08-20 18:00:00,,None,483
+120559,52,MissedShots,0.8930000305175781,0.40200000762939453,0.04564569890499115,Daniel Sturridge,a,483,OpenPlay,2016,LeftFoot,473,Burnley,Liverpool,2,0,2016-08-20 18:00:00,Roberto Firmino,HeadPass,483
+113223,18,SavedShot,0.764000015258789,0.38799999237060545,0.030482500791549683,Daniel Sturridge,h,483,OpenPlay,2016,LeftFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Georginio Wijnaldum,LayOff,483
+113226,25,SavedShot,0.9619999694824218,0.4520000076293945,0.6492779850959778,Daniel Sturridge,h,483,OpenPlay,2016,RightFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Sadio Mané,Pass,483
+113227,28,SavedShot,0.975999984741211,0.3029999923706055,0.06219489872455597,Daniel Sturridge,h,483,OpenPlay,2016,LeftFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Nathaniel Clyne,Pass,483
+113228,29,BlockedShot,0.7859999847412109,0.435,0.04743099957704544,Daniel Sturridge,h,483,OpenPlay,2016,LeftFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Nathaniel Clyne,Pass,483
+113236,55,SavedShot,0.885,0.5429999923706055,0.3985140025615692,Daniel Sturridge,h,483,OpenPlay,2016,LeftFoot,498,Liverpool,Leicester,4,1,2016-09-10 20:30:00,Roberto Firmino,Pass,483
+113439,1,SavedShot,0.8159999847412109,0.3340000152587891,0.03391050174832344,Daniel Sturridge,a,483,OpenPlay,2016,LeftFoot,501,Chelsea,Liverpool,1,2,2016-09-16 23:00:00,Sadio Mané,Pass,483
+113441,13,BlockedShot,0.8040000152587891,0.6969999694824218,0.01809290051460266,Daniel Sturridge,a,483,FromCorner,2016,RightFoot,501,Chelsea,Liverpool,1,2,2016-09-16 23:00:00,,None,483
+113444,24,MissedShots,0.9459999847412109,0.715,0.05831560119986534,Daniel Sturridge,a,483,OpenPlay,2016,LeftFoot,501,Chelsea,Liverpool,1,2,2016-09-16 23:00:00,James Milner,Pass,483
+113811,83,MissedShots,0.7980000305175782,0.710999984741211,0.02963469922542572,Daniel Sturridge,h,483,OpenPlay,2016,LeftFoot,516,Liverpool,Hull,5,1,2016-09-24 18:00:00,Marko Grujic,Pass,483
+114495,68,MissedShots,0.92,0.48700000762939455,0.10122700035572052,Daniel Sturridge,a,483,FromCorner,2016,Head,522,Swansea,Liverpool,1,2,2016-10-01 15:30:00,Philippe Coutinho,Cross,483
+115216,77,ShotOnPost,0.89,0.6880000305175781,0.07587730139493942,Daniel Sturridge,h,483,OpenPlay,2016,LeftFoot,2693,Liverpool,Watford,6,1,2016-11-06 18:15:00,Philippe Coutinho,Pass,483
+115217,80,SavedShot,0.894000015258789,0.38299999237060545,0.10492999851703644,Daniel Sturridge,h,483,OpenPlay,2016,LeftFoot,2693,Liverpool,Watford,6,1,2016-11-06 18:15:00,Jordan Henderson,Pass,483
+115219,87,SavedShot,0.7580000305175781,0.3970000076293945,0.032377101480960846,Daniel Sturridge,h,483,OpenPlay,2016,LeftFoot,2693,Liverpool,Watford,6,1,2016-11-06 18:15:00,Georginio Wijnaldum,LayOff,483
+115221,89,SavedShot,0.9480000305175781,0.33099998474121095,0.08969119936227798,Daniel Sturridge,h,483,OpenPlay,2016,RightFoot,2693,Liverpool,Watford,6,1,2016-11-06 18:15:00,Jordan Henderson,Pass,483
+115222,90,SavedShot,0.8640000152587891,0.39799999237060546,0.048326000571250916,Daniel Sturridge,h,483,FromCorner,2016,LeftFoot,2693,Liverpool,Watford,6,1,2016-11-06 18:15:00,Roberto Firmino,Pass,483
+118522,93,ShotOnPost,0.7780000305175782,0.5370000076293945,0.033958300948143005,Daniel Sturridge,a,483,OpenPlay,2016,LeftFoot,3144,Everton,Liverpool,0,1,2016-12-20 00:00:00,Nathaniel Clyne,Pass,483
+116482,69,Goal,0.9430000305175781,0.6719999694824219,0.5896480083465576,Daniel Sturridge,h,483,OpenPlay,2016,LeftFoot,3153,Liverpool,Stoke,4,1,2016-12-27 21:15:00,,TakeOn,483
+116764,7,SavedShot,0.8959999847412109,0.34200000762939453,0.057938698679208755,Daniel Sturridge,a,483,OpenPlay,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Sadio Mané,Chipped,483
+116769,17,SavedShot,0.7340000152587891,0.5159999847412109,0.018396500498056412,Daniel Sturridge,a,483,OpenPlay,2016,LeftFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Roberto Firmino,Pass,483
+116773,19,Goal,0.955999984741211,0.4370000076293945,0.05522080138325691,Daniel Sturridge,a,483,FromCorner,2016,Head,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Dejan Lovren,Rebound,483
+116777,36,SavedShot,0.765,0.3340000152587891,0.01349289994686842,Daniel Sturridge,a,483,OpenPlay,2016,LeftFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Adam Lallana,TakeOn,483
+116778,41,SavedShot,0.7730000305175782,0.3370000076293945,0.0178787000477314,Daniel Sturridge,a,483,OpenPlay,2016,LeftFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Adam Lallana,Pass,483
+116786,70,SavedShot,0.9290000152587891,0.38599998474121094,0.37581899762153625,Daniel Sturridge,a,483,OpenPlay,2016,RightFoot,3334,Sunderland,Liverpool,2,2,2017-01-02 19:00:00,Adam Lallana,Pass,483
+116667,89,SavedShot,0.874000015258789,0.3940000152587891,0.047684501856565475,Daniel Sturridge,a,483,FromCorner,2016,LeftFoot,3373,Hull,Liverpool,2,0,2017-02-04 15:00:00,Jordan Henderson,Chipped,483
+121141,89,SavedShot,0.8519999694824218,0.5329999923706055,0.09538809955120087,Daniel Sturridge,a,483,OpenPlay,2016,RightFoot,3488,Watford,Liverpool,0,1,2017-05-01 20:00:00,,BallRecovery,483
+121541,77,SavedShot,0.8619999694824219,0.4779999923706055,0.10582300275564194,Daniel Sturridge,h,483,OpenPlay,2016,RightFoot,3496,Liverpool,Southampton,0,0,2017-05-07 13:30:00,Adam Lallana,Pass,483
+121542,80,MissedShots,0.789000015258789,0.34200000762939453,0.027309099212288857,Daniel Sturridge,h,483,OpenPlay,2016,LeftFoot,3496,Liverpool,Southampton,0,0,2017-05-07 13:30:00,Nathaniel Clyne,Pass,483
+120671,8,SavedShot,0.745,0.3029999923706055,0.019091200083494186,Daniel Sturridge,a,483,OpenPlay,2016,LeftFoot,3509,West Ham,Liverpool,0,4,2017-05-14 14:15:00,Adam Lallana,Pass,483
+120679,31,MissedShots,0.8530000305175781,0.2610000038146973,0.02685689926147461,Daniel Sturridge,a,483,OpenPlay,2016,LeftFoot,3509,West Ham,Liverpool,0,4,2017-05-14 14:15:00,Philippe Coutinho,Chipped,483
+120681,34,Goal,0.9169999694824219,0.415,0.5809609889984131,Daniel Sturridge,a,483,OpenPlay,2016,RightFoot,3509,West Ham,Liverpool,0,4,2017-05-14 14:15:00,Philippe Coutinho,TakeOn,483
+120704,81,MissedShots,0.825,0.3659999847412109,0.05841819941997528,Daniel Sturridge,a,483,OpenPlay,2016,LeftFoot,3509,West Ham,Liverpool,0,4,2017-05-14 14:15:00,,Interception,483
+112511,26,MissedShots,0.8640000152587891,0.23100000381469726,0.03548379987478256,Daniel Sturridge,h,483,OpenPlay,2016,LeftFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,Adam Lallana,LayOff,483
+112513,32,MissedShots,0.855,0.5579999923706055,0.0977087989449501,Daniel Sturridge,h,483,OpenPlay,2016,RightFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,Philippe Coutinho,Pass,483
+112526,68,MissedShots,0.8019999694824219,0.6430000305175781,0.051638200879096985,Daniel Sturridge,h,483,OpenPlay,2016,LeftFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,Adam Lallana,LayOff,483
+112529,72,MissedShots,0.754000015258789,0.4570000076293945,0.03381029888987541,Daniel Sturridge,h,483,OpenPlay,2016,LeftFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,Emre Can,Pass,483
+112530,75,BlockedShot,0.8540000152587891,0.5870000076293945,0.10834799706935883,Daniel Sturridge,h,483,OpenPlay,2016,LeftFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,Roberto Firmino,Pass,483
+158489,27,MissedShots,0.769000015258789,0.6459999847412109,0.021892700344324112,Daniel Sturridge,h,483,OpenPlay,2017,LeftFoot,7134,Liverpool,Crystal Palace,1,0,2017-08-19 15:00:00,Roberto Firmino,TakeOn,483
+158491,37,BlockedShot,0.8109999847412109,0.5720000076293945,0.13612000644207,Daniel Sturridge,h,483,DirectFreekick,2017,LeftFoot,7134,Liverpool,Crystal Palace,1,0,2017-08-19 15:00:00,,Standard,483
+158686,76,Goal,0.970999984741211,0.45799999237060546,0.6327109932899475,Daniel Sturridge,h,483,OpenPlay,2017,Head,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Mohamed Salah,Cross,483
+158688,86,SavedShot,0.7759999847412109,0.295,0.029996199533343315,Daniel Sturridge,h,483,OpenPlay,2017,LeftFoot,7148,Liverpool,Arsenal,4,0,2017-08-27 16:00:00,Marko Grujic,Pass,483
+158691,1,SavedShot,0.8730000305175781,0.5179999923706055,0.09584140032529831,Daniel Sturridge,h,483,OpenPlay,2017,RightFoot,7162,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Mohamed Salah,BallTouch,483
+158693,17,BlockedShot,0.8909999847412109,0.23,0.02698409929871559,Daniel Sturridge,h,483,OpenPlay,2017,LeftFoot,7162,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Trent Alexander-Arnold,Pass,483
+158695,19,BlockedShot,0.904000015258789,0.30100000381469727,0.05238969996571541,Daniel Sturridge,h,483,OpenPlay,2017,LeftFoot,7162,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Mohamed Salah,Pass,483
+158703,41,MissedShots,0.8780000305175781,0.6819999694824219,0.05355989933013916,Daniel Sturridge,h,483,OpenPlay,2017,LeftFoot,7162,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Philippe Coutinho,Pass,483
+158708,46,MissedShots,0.8059999847412109,0.6480000305175782,0.03345390036702156,Daniel Sturridge,h,483,OpenPlay,2017,LeftFoot,7162,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Philippe Coutinho,Pass,483
+158706,46,SavedShot,0.86,0.3840000152587891,0.07930070161819458,Daniel Sturridge,h,483,OpenPlay,2017,LeftFoot,7162,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Philippe Coutinho,Pass,483
+158714,58,SavedShot,0.82,0.4279999923706055,0.05487839877605438,Daniel Sturridge,h,483,OpenPlay,2017,LeftFoot,7162,Liverpool,Burnley,1,1,2017-09-16 15:00:00,Trent Alexander-Arnold,Pass,483
+159372,74,MissedShots,0.8190000152587891,0.35700000762939454,0.04206730052828789,Daniel Sturridge,a,483,OpenPlay,2017,LeftFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Philippe Coutinho,TakeOn,483
+159374,81,SavedShot,0.745,0.6120000076293945,0.024052800610661507,Daniel Sturridge,a,483,OpenPlay,2017,LeftFoot,7176,Leicester,Liverpool,2,3,2017-09-23 17:30:00,Alex Oxlade-Chamberlain,Pass,483
+160275,4,MissedShots,0.7719999694824219,0.645,0.02351050078868866,Daniel Sturridge,a,483,OpenPlay,2017,LeftFoot,7188,Newcastle United,Liverpool,1,1,2017-10-01 16:30:00,Philippe Coutinho,Pass,483
+160278,15,BlockedShot,0.8819999694824219,0.4370000076293945,0.11138900369405746,Daniel Sturridge,a,483,OpenPlay,2017,LeftFoot,7188,Newcastle United,Liverpool,1,1,2017-10-01 16:30:00,Philippe Coutinho,Pass,483
+160288,49,SavedShot,0.8819999694824219,0.575,0.3649060130119324,Daniel Sturridge,a,483,OpenPlay,2017,LeftFoot,7188,Newcastle United,Liverpool,1,1,2017-10-01 16:30:00,,BallTouch,483
+160292,56,MissedShots,0.815,0.485,0.0221267007291317,Daniel Sturridge,a,483,SetPiece,2017,LeftFoot,7188,Newcastle United,Liverpool,1,1,2017-10-01 16:30:00,Alberto Moreno,Cross,483
+160022,14,MissedShots,0.9519999694824218,0.6040000152587891,0.09117349982261658,Daniel Sturridge,h,483,OpenPlay,2017,RightFoot,7217,Liverpool,Huddersfield,3,0,2017-10-28 15:00:00,James Milner,Cross,483
+160028,49,Goal,0.909000015258789,0.43900001525878907,0.4304249882698059,Daniel Sturridge,h,483,OpenPlay,2017,LeftFoot,7217,Liverpool,Huddersfield,3,0,2017-10-28 15:00:00,,None,483
+161281,28,BlockedShot,0.865999984741211,0.4490000152587891,0.10690800100564957,Daniel Sturridge,h,483,OpenPlay,2017,LeftFoot,7244,Liverpool,Chelsea,1,1,2017-11-25 17:30:00,Mohamed Salah,Pass,483
+161292,62,BlockedShot,0.889000015258789,0.6,0.10535000264644623,Daniel Sturridge,h,483,OpenPlay,2017,LeftFoot,7244,Liverpool,Chelsea,1,1,2017-11-25 17:30:00,Mohamed Salah,Pass,483
+194238,87,MissedShots,0.87,0.7169999694824218,0.018780600279569626,Daniel Sturridge,a,483,OpenPlay,2017,LeftFoot,7366,Manchester City,West Bromwich Albion,3,0,2018-01-31 20:00:00,,Rebound,483
+194237,87,BlockedShot,0.775,0.6509999847412109,0.020414099097251892,Daniel Sturridge,a,483,OpenPlay,2017,LeftFoot,7366,Manchester City,West Bromwich Albion,3,0,2018-01-31 20:00:00,Gareth Barry,Pass,483
+193805,35,MissedShots,0.92,0.68,0.07729219645261765,Daniel Sturridge,h,483,OpenPlay,2017,LeftFoot,7378,West Bromwich Albion,Southampton,2,3,2018-02-03 15:00:00,Chris Brunt,Pass,483
+232808,87,Goal,0.970999984741211,0.4759999847412109,0.6825050115585327,Daniel Sturridge,h,483,FromCorner,2018,LeftFoot,9205,Liverpool,West Ham,4,0,2018-08-12 15:30:00,,None,483
+232809,89,SavedShot,0.9,0.705,0.08123499900102615,Daniel Sturridge,h,483,OpenPlay,2018,LeftFoot,9205,Liverpool,West Ham,4,0,2018-08-12 15:30:00,Andrew Robertson,Chipped,483
+233333,85,BlockedShot,0.7780000305175782,0.425,0.039675600826740265,Daniel Sturridge,h,483,OpenPlay,2018,LeftFoot,9223,Liverpool,Brighton,1,0,2018-08-25 19:30:00,Trent Alexander-Arnold,Pass,483
+233340,91,MissedShots,0.845999984741211,0.28200000762939453,0.04051379859447479,Daniel Sturridge,h,483,OpenPlay,2018,LeftFoot,9223,Liverpool,Brighton,1,0,2018-08-25 19:30:00,Mohamed Salah,Pass,483
+234332,88,Goal,0.759000015258789,0.6619999694824219,0.018951499834656715,Daniel Sturridge,a,483,OpenPlay,2018,LeftFoot,9264,Chelsea,Liverpool,1,1,2018-09-29 16:30:00,Xherdan Shaqiri,Pass,483
+249215,78,SavedShot,0.9080000305175782,0.49599998474121093,0.1068819984793663,Daniel Sturridge,h,483,OpenPlay,2018,Head,9276,Liverpool,Manchester City,0,0,2018-10-07 15:30:00,Joseph Gomez,Cross,483
+249408,46,MissedShots,0.8569999694824219,0.7419999694824219,0.03319390118122101,Daniel Sturridge,a,483,OpenPlay,2018,RightFoot,9284,Huddersfield,Liverpool,0,1,2018-10-20 16:30:00,Adam Lallana,Pass,483
+249409,48,MissedShots,0.8069999694824219,0.37099998474121093,0.0503201000392437,Daniel Sturridge,a,483,OpenPlay,2018,LeftFoot,9284,Huddersfield,Liverpool,0,1,2018-10-20 16:30:00,,None,483
+250756,86,BlockedShot,0.8280000305175781,0.639000015258789,0.041709598153829575,Daniel Sturridge,h,483,FromCorner,2018,LeftFoot,9330,Liverpool,Everton,1,0,2018-12-02 16:15:00,,Rebound,483
+250907,46,SavedShot,0.7759999847412109,0.5640000152587891,0.03098209947347641,Daniel Sturridge,a,483,OpenPlay,2018,LeftFoot,9343,Burnley,Liverpool,1,3,2018-12-05 19:45:00,Divock Origi,Pass,483
+251906,90,BlockedShot,0.9390000152587891,0.5879999923706055,0.08957409858703613,Daniel Sturridge,h,483,OpenPlay,2018,Head,9381,Liverpool,Newcastle United,4,0,2018-12-26 15:00:00,Trent Alexander-Arnold,Cross,483
+275119,86,MissedShots,0.765,0.3270000076293945,0.03573239967226982,Daniel Sturridge,h,483,OpenPlay,2018,LeftFoot,9436,Liverpool,Leicester,1,1,2019-01-30 20:00:00,,Dispossessed,483
+275830,32,SavedShot,0.7069999694824218,0.2539999961853027,0.007893280126154423,Daniel Sturridge,a,483,OpenPlay,2018,LeftFoot,9459,Manchester United,Liverpool,0,0,2019-02-24 14:05:00,James Milner,HeadPass,483
+284946,88,BlockedShot,0.735,0.6469999694824219,0.02381890080869198,Daniel Sturridge,h,483,OpenPlay,2018,LeftFoot,9490,Liverpool,Burnley,4,2,2019-03-10 12:00:00,Virgil van Dijk,Pass,483
+297136,28,MissedShots,0.7469999694824219,0.43,0.025786999613046646,Daniel Sturridge,h,483,OpenPlay,2018,LeftFoot,9551,Liverpool,Huddersfield,5,0,2019-04-26 20:00:00,Mohamed Salah,Pass,483
+297143,62,BlockedShot,0.8130000305175781,0.7140000152587891,0.03737650066614151,Daniel Sturridge,h,483,OpenPlay,2018,LeftFoot,9551,Liverpool,Huddersfield,5,0,2019-04-26 20:00:00,Sadio Mané,Pass,483
+299609,33,MissedShots,0.799000015258789,0.3609999847412109,0.0432220995426178,Daniel Sturridge,a,483,OpenPlay,2018,LeftFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Mohamed Salah,Pass,483
+299615,49,MissedShots,0.855,0.515,0.10888099670410156,Daniel Sturridge,a,483,OpenPlay,2018,LeftFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Georginio Wijnaldum,Pass,483

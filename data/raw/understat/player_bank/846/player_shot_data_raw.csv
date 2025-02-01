@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+113494,20,OwnGoal,0.04199999809265137,0.509000015258789,0,Maarten Stekelenburg,h,846,OpenPlay,2016,OtherBodyPart,506,Everton,Middlesbrough,3,1,2016-09-17 20:30:00,,None,846

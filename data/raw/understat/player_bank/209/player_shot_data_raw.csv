@@ -1,0 +1,85 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+24865,92,BlockedShot,0.9,0.57,0.09218420088291168,Josip Drmic,h,209,OpenPlay,2014,LeftFoot,5411,Bayer Leverkusen,Werder Bremen,3,3,2014-09-12 19:30:00,Sebastian Boenisch,Chipped,209
+25058,28,Goal,0.8880000305175781,0.36700000762939455,0.26166900992393494,Josip Drmic,a,209,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Karim Bellarabi,HeadPass,209
+25062,42,MissedShots,0.765,0.37099998474121093,0.024089299142360687,Josip Drmic,a,209,OpenPlay,2014,RightFoot,5427,Wolfsburg,Bayer Leverkusen,4,1,2014-09-21 14:30:00,Lars Bender,HeadPass,209
+26110,81,BlockedShot,0.9490000152587891,0.5729999923706055,0.04894309863448143,Josip Drmic,a,209,FromCorner,2014,Head,5396,VfB Stuttgart,Bayer Leverkusen,3,3,2014-10-18 14:30:00,Son Heung-Min,Aerial,209
+26745,85,SavedShot,0.8769999694824219,0.34200000762939453,0.09212289750576019,Josip Drmic,h,209,OpenPlay,2014,RightFoot,5359,Bayer Leverkusen,Mainz 05,0,0,2014-11-08 14:30:00,Stefan Kießling,Pass,209
+27514,54,MissedShots,0.87,0.38599998474121094,0.06682299822568893,Josip Drmic,h,209,OpenPlay,2014,RightFoot,5377,Bayer Leverkusen,FC Cologne,5,1,2014-11-29 14:30:00,,None,209
+27522,78,Goal,0.889000015258789,0.6270000076293946,0.10545700043439865,Josip Drmic,h,209,OpenPlay,2014,RightFoot,5377,Bayer Leverkusen,FC Cologne,5,1,2014-11-29 14:30:00,Son Heung-Min,Pass,209
+27523,82,MissedShots,0.9469999694824218,0.435,0.055363401770591736,Josip Drmic,h,209,FromCorner,2014,Head,5377,Bayer Leverkusen,FC Cologne,5,1,2014-11-29 14:30:00,Hakan Calhanoglu,Aerial,209
+27525,87,Goal,0.899000015258789,0.46599998474121096,0.4816339910030365,Josip Drmic,h,209,OpenPlay,2014,RightFoot,5377,Bayer Leverkusen,FC Cologne,5,1,2014-11-29 14:30:00,,Rebound,209
+28026,81,MissedShots,0.8919999694824219,0.649000015258789,0.07269299775362015,Josip Drmic,h,209,OpenPlay,2014,LeftFoot,5343,Bayer Leverkusen,Eintracht Frankfurt,1,1,2014-12-20 14:30:00,Karim Bellarabi,Pass,209
+29008,69,MissedShots,0.9030000305175782,0.645,0.07007929682731628,Josip Drmic,h,209,OpenPlay,2014,LeftFoot,5282,Bayer Leverkusen,Wolfsburg,4,5,2015-02-14 14:30:00,Karim Bellarabi,Pass,209
+29231,7,Goal,0.9769999694824218,0.629000015258789,0.35555100440979004,Josip Drmic,a,209,OpenPlay,2014,RightFoot,5291,Augsburg,Bayer Leverkusen,2,2,2015-02-21 14:30:00,,Rebound,209
+29230,7,SavedShot,0.9330000305175781,0.6909999847412109,0.05428500100970268,Josip Drmic,a,209,OpenPlay,2014,RightFoot,5291,Augsburg,Bayer Leverkusen,2,2,2015-02-21 14:30:00,Son Heung-Min,Pass,209
+29239,41,MissedShots,0.845999984741211,0.3220000076293945,0.44357800483703613,Josip Drmic,a,209,OpenPlay,2014,RightFoot,5291,Augsburg,Bayer Leverkusen,2,2,2015-02-21 14:30:00,Karim Bellarabi,Throughball,209
+28986,85,SavedShot,0.8040000152587891,0.6459999847412109,0.054766301065683365,Josip Drmic,h,209,OpenPlay,2014,RightFoot,5300,Bayer Leverkusen,Freiburg,1,0,2015-02-28 14:30:00,Stefan Reinartz,Pass,209
+30552,37,BlockedShot,0.86,0.595999984741211,0.04014879837632179,Josip Drmic,a,209,FromCorner,2014,RightFoot,5241,Paderborn,Bayer Leverkusen,0,3,2015-03-08 16:30:00,Son Heung-Min,Cross,209
+30744,35,Goal,0.9290000152587891,0.48200000762939454,0.42891499400138855,Josip Drmic,h,209,OpenPlay,2014,Head,5242,Bayer Leverkusen,VfB Stuttgart,4,0,2015-03-13 19:30:00,Roberto Hilbert,Cross,209
+30755,58,Goal,0.85,0.42700000762939455,0.2941170036792755,Josip Drmic,h,209,OpenPlay,2014,LeftFoot,5242,Bayer Leverkusen,VfB Stuttgart,4,0,2015-03-13 19:30:00,Hakan Calhanoglu,Pass,209
+32314,85,MissedShots,0.8519999694824218,0.5270000076293946,0.4699159860610962,Josip Drmic,h,209,OpenPlay,2014,LeftFoot,5199,Bayer Leverkusen,Hamburger SV,4,0,2015-04-04 14:30:00,Ömer Toprak,TakeOn,209
+30502,85,SavedShot,0.865999984741211,0.36700000762939455,0.151310995221138,Josip Drmic,h,209,OpenPlay,2014,LeftFoot,5165,Bayer Leverkusen,Bayern Munich,2,0,2015-05-02 17:30:00,Julian Brandt,Throughball,209
+31521,82,BlockedShot,0.9309999847412109,0.5590000152587891,0.0819040983915329,Josip Drmic,a,209,OpenPlay,2014,RightFoot,5171,Borussia M.Gladbach,Bayer Leverkusen,3,0,2015-05-09 14:30:00,Wendell,HeadPass,209
+76085,4,BlockedShot,0.9530000305175781,0.5979999923706054,0.08132380247116089,Josip Drmic,a,209,FromCorner,2015,LeftFoot,1027,Borussia Dortmund,Borussia M.Gladbach,4,0,2015-08-15 20:30:00,,BallTouch,209
+76100,48,MissedShots,0.7819999694824219,0.39,0.03362239897251129,Josip Drmic,a,209,OpenPlay,2015,RightFoot,1027,Borussia Dortmund,Borussia M.Gladbach,4,0,2015-08-15 20:30:00,Granit Xhaka,BallRecovery,209
+77159,89,BlockedShot,0.82,0.49,0.057775698602199554,Josip Drmic,a,209,OpenPlay,2015,LeftFoot,1062,FC Cologne,Borussia M.Gladbach,1,0,2015-09-19 17:30:00,Roel Brouwers,HeadPass,209
+78923,91,MissedShots,0.8719999694824219,0.37,0.04650560021400452,Josip Drmic,h,209,FromCorner,2015,RightFoot,1133,Borussia M.Gladbach,Hannover 96,2,1,2015-11-21 18:30:00,Fabian Johnson,Pass,209
+79275,55,Goal,0.9330000305175781,0.4909999847412109,0.38682499527931213,Josip Drmic,a,209,OpenPlay,2015,Head,1141,Hoffenheim,Borussia M.Gladbach,3,3,2015-11-28 18:30:00,Lars Stindl,Cross,209
+79400,90,BlockedShot,0.8719999694824219,0.5420000076293945,0.13404600322246552,Josip Drmic,h,209,OpenPlay,2015,RightFoot,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,Oscar Wendt,Pass,209
+79650,10,BlockedShot,0.879000015258789,0.345,0.05091229826211929,Josip Drmic,a,209,OpenPlay,2015,RightFoot,1162,Bayer Leverkusen,Borussia M.Gladbach,5,0,2015-12-12 21:30:00,Ibrahima Traoré,Chipped,209
+79653,25,SavedShot,0.8969999694824219,0.629000015258789,0.09276100248098373,Josip Drmic,a,209,OpenPlay,2015,RightFoot,1162,Bayer Leverkusen,Borussia M.Gladbach,5,0,2015-12-12 21:30:00,Lars Stindl,Pass,209
+80788,12,SavedShot,0.894000015258789,0.6759999847412109,0.225163996219635,Josip Drmic,h,209,OpenPlay,2015,LeftFoot,1208,Hamburger SV,Borussia M.Gladbach,3,2,2016-02-14 18:30:00,Aaron Hunt,Pass,209
+80790,18,SavedShot,0.8930000305175781,0.40400001525878904,0.06664390116930008,Josip Drmic,h,209,OpenPlay,2015,RightFoot,1208,Hamburger SV,Borussia M.Gladbach,3,2,2016-02-14 18:30:00,,Dispossessed,209
+80792,30,BlockedShot,0.9330000305175781,0.5129999923706055,0.13516299426555634,Josip Drmic,h,209,OpenPlay,2015,Head,1208,Hamburger SV,Borussia M.Gladbach,3,2,2016-02-14 18:30:00,Lewis Holtby,Cross,209
+80801,52,MissedShots,0.9130000305175782,0.3370000076293945,0.09100239723920822,Josip Drmic,h,209,OpenPlay,2015,RightFoot,1208,Hamburger SV,Borussia M.Gladbach,3,2,2016-02-14 18:30:00,Aaron Hunt,Pass,209
+81272,6,Goal,0.9640000152587891,0.55,0.6283209919929504,Josip Drmic,h,209,OpenPlay,2015,RightFoot,1222,Hamburger SV,Ingolstadt,1,1,2016-02-27 18:30:00,Aaron Hunt,Pass,209
+81482,31,MissedShots,0.98,0.33599998474121096,0.07445099949836731,Josip Drmic,a,209,OpenPlay,2015,RightFoot,1234,Schalke 04,Hamburger SV,3,2,2016-03-02 23:00:00,,None,209
+132192,52,SavedShot,0.909000015258789,0.2720000076293945,0.04653500020503998,Josip Drmic,a,209,OpenPlay,2016,RightFoot,3774,Ingolstadt,Borussia M.Gladbach,0,2,2017-02-26 14:30:00,Jonas Hofmann,Pass,209
+132198,74,MissedShots,0.8440000152587891,0.4929999923706055,0.129380002617836,Josip Drmic,a,209,OpenPlay,2016,LeftFoot,3774,Ingolstadt,Borussia M.Gladbach,0,2,2017-02-26 14:30:00,Fabian Johnson,Pass,209
+133889,10,MissedShots,0.9059999847412109,0.43,0.07933349907398224,Josip Drmic,a,209,SetPiece,2016,Head,3793,Hamburger SV,Borussia M.Gladbach,2,1,2017-03-12 16:30:00,Jonas Hofmann,Cross,209
+133892,28,SavedShot,0.9359999847412109,0.5359999847412109,0.5822669863700867,Josip Drmic,a,209,OpenPlay,2016,LeftFoot,3793,Hamburger SV,Borussia M.Gladbach,2,1,2017-03-12 16:30:00,Mahmoud Dahoud,Pass,209
+133896,40,MissedShots,0.9380000305175781,0.49599998474121093,0.10654599964618683,Josip Drmic,a,209,OpenPlay,2016,Head,3793,Hamburger SV,Borussia M.Gladbach,2,1,2017-03-12 16:30:00,Patrick Herrmann,Aerial,209
+133898,43,BlockedShot,0.9369999694824219,0.68,0.09779919683933258,Josip Drmic,a,209,OpenPlay,2016,RightFoot,3793,Hamburger SV,Borussia M.Gladbach,2,1,2017-03-12 16:30:00,,Rebound,209
+133908,86,MissedShots,0.909000015258789,0.545,0.051114700734615326,Josip Drmic,a,209,OpenPlay,2016,Head,3793,Hamburger SV,Borussia M.Gladbach,2,1,2017-03-12 16:30:00,Oscar Wendt,Chipped,209
+134398,81,BlockedShot,0.899000015258789,0.345,0.09607060253620148,Josip Drmic,h,209,OpenPlay,2016,RightFoot,3802,Borussia M.Gladbach,Bayern Munich,0,1,2017-03-19 16:30:00,Thorgan Hazard,Pass,209
+134664,79,SavedShot,0.9259999847412109,0.5379999923706055,0.12492100149393082,Josip Drmic,a,209,OpenPlay,2016,LeftFoot,3825,FC Cologne,Borussia M.Gladbach,2,3,2017-04-08 14:30:00,Oscar Wendt,Chipped,209
+133125,77,BlockedShot,0.8930000305175781,0.4929999923706055,0.08867260068655014,Josip Drmic,a,209,OpenPlay,2016,RightFoot,3838,Hoffenheim,Borussia M.Gladbach,5,3,2017-04-15 14:30:00,,Dispossessed,209
+168472,91,MissedShots,0.8730000305175781,0.295,0.3115839958190918,Josip Drmic,h,209,OpenPlay,2017,RightFoot,8371,Borussia M.Gladbach,Bayern Munich,2,1,2017-11-25 17:30:00,Lars Stindl,Dispossessed,209
+183978,26,BlockedShot,0.9119999694824219,0.534000015258789,0.10493399947881699,Josip Drmic,a,209,OpenPlay,2017,Head,8397,Freiburg,Borussia M.Gladbach,1,0,2017-12-12 19:30:00,Thorgan Hazard,Cross,209
+195143,78,MissedShots,0.865999984741211,0.43400001525878906,0.07401970028877258,Josip Drmic,a,209,SetPiece,2017,LeftFoot,8450,VfB Stuttgart,Borussia M.Gladbach,1,0,2018-02-11 14:30:00,Nico Elvedi,BallTouch,209
+196857,90,BlockedShot,0.9030000305175782,0.41,0.102742999792099,Josip Drmic,h,209,OpenPlay,2017,RightFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,Lars Stindl,Pass,209
+196858,91,SavedShot,0.7369999694824219,0.5120000076293946,0.018838299438357353,Josip Drmic,h,209,FromCorner,2017,RightFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,Christoph Kramer,Tackle,209
+200191,81,MissedShots,0.93,0.4640000152587891,0.3435029983520508,Josip Drmic,a,209,OpenPlay,2017,Head,8492,Bayer Leverkusen,Borussia M.Gladbach,2,0,2018-03-10 17:30:00,Jonas Hofmann,Chipped,209
+201304,32,Goal,0.9619999694824218,0.5379999923706055,0.5847349762916565,Josip Drmic,h,209,OpenPlay,2017,LeftFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,,None,209
+201305,38,BlockedShot,0.8730000305175781,0.53,0.03297549858689308,Josip Drmic,h,209,FromCorner,2017,LeftFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,,Aerial,209
+207341,74,MissedShots,0.925,0.4620000076293945,0.10881099849939346,Josip Drmic,h,209,OpenPlay,2017,Head,8515,Borussia M.Gladbach,Hertha Berlin,2,1,2018-04-07 13:30:00,Patrick Herrmann,Cross,209
+208662,1,MissedShots,0.9259999847412109,0.38599998474121094,0.02939940057694912,Josip Drmic,a,209,OpenPlay,2017,Head,8520,Bayern Munich,Borussia M.Gladbach,5,1,2018-04-14 16:30:00,Thorgan Hazard,Aerial,209
+208664,8,Goal,0.915,0.33799999237060546,0.10739800333976746,Josip Drmic,a,209,OpenPlay,2017,LeftFoot,8520,Bayern Munich,Borussia M.Gladbach,5,1,2018-04-14 16:30:00,Jonas Hofmann,TakeOn,209
+213223,29,MissedShots,0.9009999847412109,0.46299999237060546,0.03795360028743744,Josip Drmic,h,209,FromCorner,2017,OtherBodyPart,8554,Borussia M.Gladbach,Freiburg,3,1,2018-05-05 14:30:00,Oscar Wendt,Aerial,209
+213225,35,MissedShots,0.8830000305175781,0.69,0.06276889890432358,Josip Drmic,h,209,OpenPlay,2017,RightFoot,8554,Borussia M.Gladbach,Freiburg,3,1,2018-05-05 14:30:00,Jonas Hofmann,Pass,209
+213233,52,BlockedShot,0.7769999694824219,0.37599998474121094,0.034901101142168045,Josip Drmic,h,209,OpenPlay,2017,RightFoot,8554,Borussia M.Gladbach,Freiburg,3,1,2018-05-05 14:30:00,Raffael,Pass,209
+213240,63,Goal,0.9059999847412109,0.46,0.11516500264406204,Josip Drmic,h,209,OpenPlay,2017,Head,8554,Borussia M.Gladbach,Freiburg,3,1,2018-05-05 14:30:00,Tony Jantschke,Cross,209
+214649,10,MissedShots,0.9130000305175782,0.27899999618530275,0.037296999245882034,Josip Drmic,a,209,OpenPlay,2017,RightFoot,8562,Hamburger SV,Borussia M.Gladbach,2,1,2018-05-12 14:30:00,Denis Zakaria,Pass,209
+214651,27,Goal,0.8780000305175781,0.6370000076293946,0.36051100492477417,Josip Drmic,a,209,OpenPlay,2017,RightFoot,8562,Hamburger SV,Borussia M.Gladbach,2,1,2018-05-12 14:30:00,Thorgan Hazard,Pass,209
+214668,75,BlockedShot,0.8780000305175781,0.4540000152587891,0.08531630039215088,Josip Drmic,a,209,OpenPlay,2017,LeftFoot,8562,Hamburger SV,Borussia M.Gladbach,2,1,2018-05-12 14:30:00,Raffael,Pass,209
+279314,79,SavedShot,0.9469999694824218,0.3270000076293945,0.030934900045394897,Josip Drmic,a,209,OpenPlay,2018,RightFoot,10529,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2019-02-17 14:30:00,Alassane Pléa,Cross,209
+279318,93,MissedShots,0.8830000305175781,0.4229999923706055,0.2729479968547821,Josip Drmic,a,209,OpenPlay,2018,LeftFoot,10529,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2019-02-17 14:30:00,Oscar Wendt,Cross,209
+279403,93,MissedShots,0.8780000305175781,0.43099998474121093,0.058435000479221344,Josip Drmic,h,209,OpenPlay,2018,RightFoot,10538,Borussia M.Gladbach,Wolfsburg,0,3,2019-02-23 14:30:00,Jonas Hofmann,Cross,209
+299233,83,Goal,0.91,0.5320000076293945,0.48485898971557617,Josip Drmic,h,209,OpenPlay,2018,RightFoot,10619,Borussia M.Gladbach,Hoffenheim,2,2,2019-05-04 14:30:00,Alassane Pléa,Pass,209
+300619,8,BlockedShot,0.86,0.34900001525878904,0.059437401592731476,Josip Drmic,a,209,OpenPlay,2018,RightFoot,10633,Nuernberg,Borussia M.Gladbach,0,4,2019-05-11 14:30:00,Florian Neuhaus,Pass,209
+300632,55,Goal,0.8969999694824219,0.41900001525878905,0.40654900670051575,Josip Drmic,a,209,OpenPlay,2018,RightFoot,10633,Nuernberg,Borussia M.Gladbach,0,4,2019-05-11 14:30:00,Jonas Hofmann,Throughball,209
+302344,61,MissedShots,0.8530000305175781,0.46299999237060546,0.08652199804782867,Josip Drmic,h,209,OpenPlay,2018,LeftFoot,10639,Borussia M.Gladbach,Borussia Dortmund,0,2,2019-05-18 13:30:00,Jonas Hofmann,Pass,209
+315773,91,ShotOnPost,0.95,0.5220000076293946,0.48378199338912964,Josip Drmic,a,209,OpenPlay,2019,RightFoot,11674,West Ham,Norwich,2,0,2019-08-31 15:00:00,Kenny McLean,Cross,209
+322743,93,MissedShots,0.8590000152587891,0.5420000076293945,0.028085900470614433,Josip Drmic,a,209,SetPiece,2019,Head,11709,Crystal Palace,Norwich,2,0,2019-09-28 14:00:00,Emiliano Buendía,Cross,209
+324192,87,Goal,0.919000015258789,0.61,0.3284910023212433,Josip Drmic,h,209,OpenPlay,2019,RightFoot,11717,Norwich,Aston Villa,1,5,2019-10-05 15:00:00,,BallRecovery,209
+353195,89,SavedShot,0.8880000305175781,0.33,0.0782746970653534,Josip Drmic,h,209,OpenPlay,2019,LeftFoot,11919,Norwich,Leicester,1,0,2020-02-28 20:00:00,Lukas Rupp,Pass,209
+353196,94,SavedShot,0.9619999694824218,0.615999984741211,0.022367099300026894,Josip Drmic,h,209,SetPiece,2019,Head,11919,Norwich,Leicester,1,0,2020-02-28 20:00:00,,None,209
+353446,51,MissedShots,0.8869999694824219,0.5309999847412109,0.05433949828147888,Josip Drmic,a,209,OpenPlay,2019,Head,11929,Sheffield United,Norwich,1,0,2020-03-07 15:00:00,Max Aarons,Cross,209
+353449,66,BlockedShot,0.6819999694824219,0.39,0.009341919794678688,Josip Drmic,a,209,OpenPlay,2019,RightFoot,11929,Sheffield United,Norwich,1,0,2020-03-07 15:00:00,Teemu Pukki,HeadPass,209
+353453,77,BlockedShot,0.985999984741211,0.505,0.9387009739875793,Josip Drmic,a,209,FromCorner,2019,LeftFoot,11929,Sheffield United,Norwich,1,0,2020-03-07 15:00:00,,None,209
+353452,77,SavedShot,0.9690000152587891,0.49,0.7301419973373413,Josip Drmic,a,209,FromCorner,2019,RightFoot,11929,Sheffield United,Norwich,1,0,2020-03-07 15:00:00,Mario Vrancic,Rebound,209
+365026,7,BlockedShot,0.8680000305175781,0.43900001525878907,0.1338600069284439,Josip Drmic,h,209,OpenPlay,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Teemu Pukki,Pass,209
+366324,90,MissedShots,0.914000015258789,0.4570000076293945,0.029030699282884598,Josip Drmic,h,209,FromCorner,2019,Head,11948,Norwich,Everton,0,1,2020-06-24 17:00:00,Emiliano Buendía,Aerial,209
+368006,64,BlockedShot,0.7809999847412109,0.7030000305175781,0.014084399677813053,Josip Drmic,a,209,OpenPlay,2019,RightFoot,11953,Arsenal,Norwich,4,0,2020-07-01 17:00:00,Onel Hernández,Pass,209
+368516,65,SavedShot,0.8059999847412109,0.509000015258789,0.05310029909014702,Josip Drmic,h,209,OpenPlay,2019,RightFoot,11969,Norwich,Brighton,0,1,2020-07-04 11:30:00,Onel Hernández,Pass,209
+369409,84,MissedShots,0.9490000152587891,0.63,0.030554499477148056,Josip Drmic,a,209,OpenPlay,2019,Head,11981,Watford,Norwich,2,1,2020-07-07 17:00:00,Jamal Lewis,Cross,209

@@ -1,0 +1,126 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+32371,87,BlockedShot,0.885,0.585,0.06323540210723877,Nicolás Otamendi,a,611,FromCorner,2014,RightFoot,5827,Sevilla,Valencia,1,1,2014-08-23 20:00:00,Rodrigo,Pass,611
+33838,19,MissedShots,0.7730000305175782,0.6980000305175781,0.0185077004134655,Nicolás Otamendi,h,611,OpenPlay,2014,RightFoot,5815,Valencia,Cordoba,3,0,2014-09-25 21:00:00,,BallRecovery,611
+33848,63,SavedShot,0.9159999847412109,0.475,0.10025399923324585,Nicolás Otamendi,h,611,FromCorner,2014,Head,5815,Valencia,Cordoba,3,0,2014-09-25 21:00:00,Carles Gil,Cross,611
+34161,12,Goal,0.975999984741211,0.48700000762939455,0.6153780221939087,Nicolás Otamendi,h,611,FromCorner,2014,Head,5755,Valencia,Atletico Madrid,3,1,2014-10-04 15:00:00,Pablo Piatti,Aerial,611
+34954,60,BlockedShot,0.9590000152587891,0.44299999237060544,0.09511130303144455,Nicolás Otamendi,a,611,SetPiece,2014,Head,5770,Deportivo La Coruna,Valencia,3,0,2014-10-19 16:00:00,Carles Gil,Aerial,611
+35673,59,SavedShot,0.9130000305175782,0.425,0.08791159838438034,Nicolás Otamendi,h,611,SetPiece,2014,Head,5777,Valencia,Elche,3,1,2014-10-25 19:00:00,Pablo Piatti,Cross,611
+35311,85,BlockedShot,0.740999984741211,0.495,0.016010599210858345,Nicolás Otamendi,a,611,OpenPlay,2014,RightFoot,5741,Levante,Valencia,2,1,2014-11-23 16:00:00,,TakeOn,611
+35033,4,MissedShots,0.9069999694824219,0.47400001525878904,0.08309490233659744,Nicolás Otamendi,h,611,FromCorner,2014,Head,5699,Valencia,Rayo Vallecano,3,0,2014-12-13 17:00:00,Rodrigo de Paul,Cross,611
+37598,15,MissedShots,0.9290000152587891,0.53,0.11994999647140503,Nicolás Otamendi,a,611,FromCorner,2014,Head,5710,Eibar,Valencia,0,1,2014-12-20 19:00:00,Pablo Piatti,Cross,611
+38311,64,Goal,0.9259999847412109,0.46799999237060547,0.055985499173402786,Nicolás Otamendi,h,611,FromCorner,2014,Head,5648,Valencia,Real Madrid,2,1,2015-01-04 16:00:00,Daniel Parejo,Aerial,611
+39685,26,BlockedShot,0.7030000305175781,0.539000015258789,0.012167099863290787,Nicolás Otamendi,h,611,OpenPlay,2014,RightFoot,5566,Valencia,Real Sociedad,2,0,2015-03-01 11:00:00,,Rebound,611
+40721,1,MissedShots,0.8819999694824219,0.524000015258789,0.10174199938774109,Nicolás Otamendi,a,611,SetPiece,2014,RightFoot,5591,Elche,Valencia,0,4,2015-03-20 19:45:00,,Rebound,611
+40720,1,MissedShots,0.8719999694824219,0.49900001525878906,0.050155799835920334,Nicolás Otamendi,a,611,SetPiece,2014,Head,5591,Elche,Valencia,0,4,2015-03-20 19:45:00,Pablo Piatti,Cross,611
+40737,91,Goal,0.92,0.5279999923706055,0.10726899653673172,Nicolás Otamendi,a,611,FromCorner,2014,Head,5591,Elche,Valencia,0,4,2015-03-20 19:45:00,Pablo Piatti,Cross,611
+39408,13,MissedShots,0.925,0.5790000152587891,0.040505699813365936,Nicolás Otamendi,a,611,SetPiece,2014,Head,5536,Barcelona,Valencia,2,0,2015-04-18 15:00:00,Daniel Parejo,Aerial,611
+37272,24,Goal,0.9319999694824219,0.4759999847412109,0.410317987203598,Nicolás Otamendi,h,611,FromCorner,2014,Head,5472,Valencia,Eibar,3,1,2015-05-03 18:00:00,José Gayá,Cross,611
+36692,46,SavedShot,0.9359999847412109,0.48200000762939454,0.1346919983625412,Nicolás Otamendi,h,611,SetPiece,2014,Head,5493,Valencia,Celta Vigo,1,1,2015-05-17 18:00:00,Pablo Piatti,Cross,611
+36698,63,BlockedShot,0.850999984741211,0.49900001525878906,0.04256489872932434,Nicolás Otamendi,h,611,FromCorner,2014,RightFoot,5493,Valencia,Celta Vigo,1,1,2015-05-17 18:00:00,Sofiane Feghouli,Cross,611
+36702,70,Goal,0.9519999694824218,0.46599998474121096,0.5653989911079407,Nicolás Otamendi,h,611,SetPiece,2014,RightFoot,5493,Valencia,Celta Vigo,1,1,2015-05-17 18:00:00,,None,611
+37175,27,Goal,0.9490000152587891,0.5590000152587891,0.39123499393463135,Nicolás Otamendi,a,611,FromCorner,2014,Head,5500,Almeria,Valencia,2,3,2015-05-23 17:30:00,Rodrigo de Paul,Cross,611
+58161,12,MissedShots,0.91,0.39799999237060546,0.027839599177241325,Nicolás Otamendi,h,611,FromCorner,2015,Head,137,Manchester City,West Ham,1,2,2015-09-19 20:30:00,Jesús Navas,Cross,611
+58174,52,SavedShot,0.9230000305175782,0.580999984741211,0.046434201300144196,Nicolás Otamendi,h,611,FromCorner,2015,Head,137,Manchester City,West Ham,1,2,2015-09-19 20:30:00,Aleksandar Kolarov,Chipped,611
+58179,60,BlockedShot,0.7069999694824218,0.5570000076293945,0.015389800071716309,Nicolás Otamendi,h,611,OpenPlay,2015,RightFoot,137,Manchester City,West Ham,1,2,2015-09-19 20:30:00,Martín Demichelis,Pass,611
+58188,84,SavedShot,0.97,0.5829999923706055,0.0878434032201767,Nicolás Otamendi,h,611,FromCorner,2015,Head,137,Manchester City,West Ham,1,2,2015-09-19 20:30:00,Kevin De Bruyne,Cross,611
+58515,42,MissedShots,0.914000015258789,0.605999984741211,0.027992699295282364,Nicolás Otamendi,a,611,FromCorner,2015,Head,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Aleksandar Kolarov,Cross,611
+58778,23,BlockedShot,0.7240000152587891,0.3340000152587891,0.015089600346982479,Nicolás Otamendi,h,611,OpenPlay,2015,RightFoot,154,Manchester City,Newcastle United,6,1,2015-10-03 18:00:00,Fernandinho,Pass,611
+59471,18,SavedShot,0.9059999847412109,0.525,0.025434400886297226,Nicolás Otamendi,h,611,FromCorner,2015,Head,183,Manchester City,Norwich,2,1,2015-10-31 19:00:00,Aleksandar Kolarov,Aerial,611
+59492,66,Goal,0.875,0.4520000076293945,0.022855300456285477,Nicolás Otamendi,h,611,FromCorner,2015,Head,183,Manchester City,Norwich,2,1,2015-10-31 19:00:00,Kevin De Bruyne,Cross,611
+54306,91,BlockedShot,0.8469999694824218,0.56,0.0615696981549263,Nicolás Otamendi,a,611,FromCorner,2015,RightFoot,198,Aston Villa,Manchester City,0,0,2015-11-08 17:30:00,,Rebound,611
+56196,12,BlockedShot,0.8969999694824219,0.5629999923706055,0.03963169828057289,Nicolás Otamendi,h,611,FromCorner,2015,Head,215,Manchester City,Southampton,3,1,2015-11-28 19:00:00,Aleksandar Kolarov,Cross,611
+55011,17,MissedShots,0.6980000305175781,0.5940000152587891,0.009312399663031101,Nicolás Otamendi,a,611,OpenPlay,2015,RightFoot,221,Stoke,Manchester City,2,0,2015-12-05 16:45:00,David Silva,Pass,611
+55023,77,BlockedShot,0.7380000305175781,0.629000015258789,0.01227749977260828,Nicolás Otamendi,a,611,OpenPlay,2015,RightFoot,221,Stoke,Manchester City,2,0,2015-12-05 16:45:00,Aleksandar Kolarov,BallRecovery,611
+54350,72,MissedShots,0.914000015258789,0.5929999923706055,0.037824299186468124,Nicolás Otamendi,h,611,FromCorner,2015,Head,232,Manchester City,Swansea,2,1,2015-12-12 19:00:00,Kevin De Bruyne,Cross,611
+54355,82,MissedShots,0.9159999847412109,0.40400001525878904,0.037162598222494125,Nicolás Otamendi,h,611,FromCorner,2015,Head,232,Manchester City,Swansea,2,1,2015-12-12 19:00:00,Kevin De Bruyne,Cross,611
+54694,41,MissedShots,0.8859999847412109,0.39099998474121095,0.01562879979610443,Nicolás Otamendi,h,611,FromCorner,2015,Head,258,Manchester City,Sunderland,4,1,2015-12-26 19:00:00,Kevin De Bruyne,Cross,611
+53076,46,MissedShots,0.904000015258789,0.56,0.05181099846959114,Nicolás Otamendi,a,611,FromCorner,2015,Head,269,Leicester,Manchester City,0,0,2015-12-29 23:45:00,Kevin De Bruyne,Cross,611
+53085,63,SavedShot,0.9119999694824219,0.46799999237060547,0.07790320366621017,Nicolás Otamendi,a,611,FromCorner,2015,Head,269,Leicester,Manchester City,0,0,2015-12-29 23:45:00,Kevin De Bruyne,Cross,611
+54415,28,SavedShot,0.909000015258789,0.47200000762939454,0.08139040321111679,Nicolás Otamendi,h,611,FromCorner,2015,RightFoot,288,Manchester City,Everton,0,0,2016-01-13 23:45:00,Kevin De Bruyne,Cross,611
+52252,44,BlockedShot,0.8530000305175781,0.5109999847412109,0.04377460107207298,Nicolás Otamendi,h,611,FromCorner,2015,LeftFoot,292,Manchester City,Crystal Palace,4,0,2016-01-16 19:00:00,David Silva,Cross,611
+52664,47,MissedShots,0.8859999847412109,0.5870000076293945,0.013433399610221386,Nicolás Otamendi,h,611,FromCorner,2015,Head,321,Manchester City,Leicester,1,3,2016-02-06 16:45:00,Aleksandar Kolarov,Aerial,611
+55618,16,SavedShot,0.8930000305175781,0.4759999847412109,0.017128700390458107,Nicolás Otamendi,h,611,FromCorner,2015,Head,340,Manchester City,Tottenham,1,2,2016-02-14 20:15:00,David Silva,Aerial,611
+55619,23,BlockedShot,0.865999984741211,0.5729999923706055,0.067535400390625,Nicolás Otamendi,h,611,SetPiece,2015,LeftFoot,340,Manchester City,Tottenham,1,2,2016-02-14 20:15:00,,None,611
+59935,35,SavedShot,0.8959999847412109,0.40799999237060547,0.05044829845428467,Nicolás Otamendi,h,611,FromCorner,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Jesús Navas,Cross,611
+59541,48,MissedShots,0.8930000305175781,0.37099998474121093,0.013644400052726269,Nicolás Otamendi,a,611,FromCorner,2015,Head,369,Norwich,Manchester City,0,0,2016-03-12 16:45:00,Jesús Navas,Cross,611
+56280,46,MissedShots,0.6809999847412109,0.509000015258789,0.015854300931096077,Nicolás Otamendi,h,611,OpenPlay,2015,RightFoot,420,Manchester City,Stoke,4,0,2016-04-23 15:45:00,,TakeOn,611
+56290,70,BlockedShot,0.92,0.42200000762939455,0.05757899954915047,Nicolás Otamendi,h,611,FromCorner,2015,Head,420,Manchester City,Stoke,4,0,2016-04-23 15:45:00,Jesús Navas,Cross,611
+52176,26,MissedShots,0.764000015258789,0.36700000762939455,0.01987849920988083,Nicolás Otamendi,a,611,OpenPlay,2015,RightFoot,457,Swansea,Manchester City,1,1,2016-05-15 18:00:00,,Rebound,611
+113271,71,SavedShot,0.9819999694824219,0.41900001525878905,0.12361100316047668,Nicolás Otamendi,a,611,FromCorner,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,,Rebound,611
+114010,57,BlockedShot,0.9169999694824219,0.3820000076293945,0.022597700357437134,Nicolás Otamendi,h,611,FromCorner,2016,Head,534,Manchester City,Everton,1,1,2016-10-15 18:00:00,Kevin De Bruyne,Cross,611
+115666,79,MissedShots,0.9230000305175782,0.46700000762939453,0.04480719938874245,Nicolás Otamendi,h,611,FromCorner,2016,Head,3105,Manchester City,Chelsea,1,3,2016-12-03 16:30:00,Kevin De Bruyne,Aerial,611
+118589,43,MissedShots,0.86,0.47200000762939454,0.0129380002617836,Nicolás Otamendi,h,611,FromCorner,2016,Head,3142,Manchester City,Arsenal,2,1,2016-12-18 20:00:00,Kevin De Bruyne,Aerial,611
+116317,28,BlockedShot,0.914000015258789,0.4759999847412109,0.08601350337266922,Nicolás Otamendi,a,611,FromCorner,2016,Head,3152,Hull,Manchester City,0,3,2016-12-26 21:15:00,Kevin De Bruyne,Cross,611
+117283,68,MissedShots,0.9159999847412109,0.40599998474121096,0.038642898201942444,Nicolás Otamendi,a,611,FromCorner,2016,Head,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,Kevin De Bruyne,Cross,611
+118485,5,MissedShots,0.6809999847412109,0.36,0.010773099958896637,Nicolás Otamendi,h,611,OpenPlay,2016,RightFoot,3356,Manchester City,Tottenham,2,2,2017-01-21 20:30:00,Kevin De Bruyne,Pass,611
+119443,76,MissedShots,0.9169999694824219,0.5529999923706055,0.02791599929332733,Nicolás Otamendi,h,611,FromCorner,2016,Head,3418,Manchester City,Stoke,0,0,2017-03-08 20:00:00,David Silva,Aerial,611
+120041,66,MissedShots,0.9119999694824219,0.5479999923706055,0.07001329958438873,Nicolás Otamendi,h,611,FromCorner,2016,Head,3426,Manchester City,Liverpool,1,1,2017-03-19 16:30:00,David Silva,Cross,611
+118618,66,BlockedShot,0.9569999694824218,0.45599998474121095,0.1269879937171936,Nicolás Otamendi,h,611,FromCorner,2016,Head,3398,Manchester City,Manchester United,0,0,2017-04-27 20:00:00,Leroy Sané,Cross,611
+120994,65,MissedShots,0.9180000305175782,0.36900001525878906,0.013017299585044384,Nicolás Otamendi,a,611,FromCorner,2016,Head,3483,Middlesbrough,Manchester City,2,2,2017-04-30 14:05:00,Kevin De Bruyne,Aerial,611
+121005,90,MissedShots,0.8769999694824219,0.48200000762939454,0.0140814995393157,Nicolás Otamendi,a,611,FromCorner,2016,Head,3483,Middlesbrough,Manchester City,2,2,2017-04-30 14:05:00,Kevin De Bruyne,Aerial,611
+121006,93,BlockedShot,0.9119999694824219,0.36900001525878906,0.04487819969654083,Nicolás Otamendi,a,611,FromCorner,2016,RightFoot,3483,Middlesbrough,Manchester City,2,2,2017-04-30 14:05:00,Kevin De Bruyne,Cross,611
+121601,91,Goal,0.93,0.525,0.4078809916973114,Nicolás Otamendi,h,611,SetPiece,2016,Head,3497,Manchester City,Crystal Palace,5,0,2017-05-06 12:30:00,Kevin De Bruyne,Cross,611
+120840,18,SavedShot,0.6869999694824219,0.500999984741211,0.011249399743974209,Nicolás Otamendi,h,611,OpenPlay,2016,RightFoot,3477,Manchester City,West Bromwich Albion,3,1,2017-05-16 20:00:00,Aleksandar Kolarov,Pass,611
+158175,47,BlockedShot,0.76,0.6669999694824219,0.0161787997931242,Nicolás Otamendi,a,611,OpenPlay,2017,RightFoot,7126,Brighton,Manchester City,0,2,2017-08-12 17:30:00,Sergio Agüero,Pass,611
+158512,1,SavedShot,0.7240000152587891,0.6509999847412109,0.014452200382947922,Nicolás Otamendi,h,611,OpenPlay,2017,RightFoot,7138,Manchester City,Everton,1,1,2017-08-21 20:00:00,David Silva,Pass,611
+158519,25,SavedShot,0.774000015258789,0.655,0.02197970077395439,Nicolás Otamendi,h,611,OpenPlay,2017,RightFoot,7138,Manchester City,Everton,1,1,2017-08-21 20:00:00,Kevin De Bruyne,Pass,611
+158520,26,MissedShots,0.9130000305175782,0.47,0.08159170299768448,Nicolás Otamendi,h,611,FromCorner,2017,Head,7138,Manchester City,Everton,1,1,2017-08-21 20:00:00,Kevin De Bruyne,Cross,611
+159185,14,MissedShots,0.8880000305175781,0.44099998474121094,0.05402490124106407,Nicolás Otamendi,a,611,FromCorner,2017,RightFoot,7139,Bournemouth,Manchester City,1,2,2017-08-26 12:30:00,Kevin De Bruyne,Cross,611
+159203,73,ShotOnPost,0.93,0.4759999847412109,0.348827987909317,Nicolás Otamendi,a,611,FromCorner,2017,Head,7139,Bournemouth,Manchester City,1,2,2017-08-26 12:30:00,Kevin De Bruyne,Cross,611
+158959,62,Goal,0.9169999694824219,0.45,0.27732300758361816,Nicolás Otamendi,a,611,FromCorner,2017,Head,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,David Silva,Cross,611
+159710,12,BlockedShot,0.8719999694824219,0.47200000762939454,0.07717009633779526,Nicolás Otamendi,h,611,FromCorner,2017,RightFoot,7173,Manchester City,Crystal Palace,5,0,2017-09-23 15:00:00,,None,611
+160098,30,MissedShots,0.9009999847412109,0.47900001525878905,0.0631382018327713,Nicolás Otamendi,a,611,FromCorner,2017,Head,7185,Chelsea,Manchester City,0,1,2017-09-30 17:30:00,Kevin De Bruyne,Cross,611
+160517,13,MissedShots,0.919000015258789,0.44299999237060544,0.03815529868006706,Nicolás Otamendi,h,611,FromCorner,2017,Head,7194,Manchester City,Stoke,7,2,2017-10-14 15:00:00,Fabian Delph,Aerial,611
+160527,46,MissedShots,0.899000015258789,0.485,0.06127350032329559,Nicolás Otamendi,h,611,FromCorner,2017,Head,7194,Manchester City,Stoke,7,2,2017-10-14 15:00:00,David Silva,Cross,611
+159512,72,Goal,0.925,0.47,0.04866969957947731,Nicolás Otamendi,h,611,FromCorner,2017,Head,7202,Manchester City,Burnley,3,0,2017-10-21 15:00:00,Leroy Sané,Aerial,611
+161212,36,MissedShots,0.7759999847412109,0.39599998474121095,0.033553000539541245,Nicolás Otamendi,a,611,OpenPlay,2017,RightFoot,7245,Huddersfield,Manchester City,1,2,2017-11-26 16:00:00,Sergio Agüero,LayOff,611
+161217,45,OwnGoal,0.034000000953674316,0.5609999847412109,0,Nicolás Otamendi,a,611,FromCorner,2017,OtherBodyPart,7245,Huddersfield,Manchester City,1,2,2017-11-26 16:00:00,,CornerAwarded,611
+161232,19,MissedShots,0.955999984741211,0.48700000762939455,0.1425900012254715,Nicolás Otamendi,h,611,FromCorner,2017,Head,7257,Manchester City,Southampton,2,1,2017-11-29 20:00:00,Kevin De Bruyne,Cross,611
+161240,44,SavedShot,0.9,0.38599998474121094,0.018355200067162514,Nicolás Otamendi,h,611,FromCorner,2017,Head,7257,Manchester City,Southampton,2,1,2017-11-29 20:00:00,Kevin De Bruyne,Cross,611
+160663,18,BlockedShot,0.6880000305175781,0.4640000152587891,0.012062500230967999,Nicolás Otamendi,h,611,OpenPlay,2017,RightFoot,7262,Manchester City,West Ham,2,1,2017-12-03 16:00:00,David Silva,Pass,611
+160674,56,Goal,0.9690000152587891,0.49700000762939456,0.8156930208206177,Nicolás Otamendi,h,611,OpenPlay,2017,RightFoot,7262,Manchester City,West Ham,2,1,2017-12-03 16:00:00,Gabriel Jesus,Pass,611
+179253,29,MissedShots,0.7269999694824218,0.54,0.01960749924182892,Nicolás Otamendi,a,611,OpenPlay,2017,RightFoot,7276,Manchester United,Manchester City,1,2,2017-12-10 16:30:00,Vincent Kompany,Pass,611
+179261,53,Goal,0.945,0.524000015258789,0.5833269953727722,Nicolás Otamendi,a,611,SetPiece,2017,RightFoot,7276,Manchester United,Manchester City,1,2,2017-12-10 16:30:00,,None,611
+185304,24,MissedShots,0.9740000152587891,0.32799999237060545,0.04355290159583092,Nicolás Otamendi,a,611,FromCorner,2017,RightFoot,7281,Swansea,Manchester City,0,4,2017-12-13 19:45:00,,None,611
+183120,24,SavedShot,0.700999984741211,0.5770000076293945,0.012811199761927128,Nicolás Otamendi,h,611,OpenPlay,2017,RightFoot,7308,Manchester City,Bournemouth,4,0,2017-12-23 15:00:00,,BallTouch,611
+185719,3,MissedShots,0.6830000305175781,0.590999984741211,0.010868200100958347,Nicolás Otamendi,a,611,OpenPlay,2017,RightFoot,7315,Newcastle United,Manchester City,0,1,2017-12-27 19:45:00,Danilo,Pass,611
+185728,23,SavedShot,0.8619999694824219,0.5570000076293945,0.015479300171136856,Nicolás Otamendi,a,611,FromCorner,2017,Head,7315,Newcastle United,Manchester City,0,1,2017-12-27 19:45:00,Bernardo Silva,Cross,611
+187949,50,ShotOnPost,0.9069999694824219,0.48,0.026827700436115265,Nicolás Otamendi,a,611,FromCorner,2017,Head,7343,Liverpool,Manchester City,4,3,2018-01-14 16:00:00,Leroy Sané,Aerial,611
+188922,40,MissedShots,0.9,0.3890000152587891,0.013309700414538383,Nicolás Otamendi,h,611,FromCorner,2017,Head,7354,Manchester City,Newcastle United,3,1,2018-01-20 17:30:00,Kevin De Bruyne,Aerial,611
+193909,57,MissedShots,0.8680000305175781,0.43099998474121093,0.016337500885128975,Nicolás Otamendi,h,611,FromCorner,2017,Head,7382,Manchester City,Leicester,5,1,2018-02-10 17:30:00,Kevin De Bruyne,Cross,611
+193913,75,SavedShot,0.9269999694824219,0.725999984741211,0.02298329956829548,Nicolás Otamendi,h,611,FromCorner,2017,LeftFoot,7382,Manchester City,Leicester,5,1,2018-02-10 17:30:00,Ilkay Gündogan,Chipped,611
+201017,6,BlockedShot,0.85,0.3920000076293945,0.05189310014247894,Nicolás Otamendi,a,611,SetPiece,2017,LeftFoot,7416,Stoke,Manchester City,0,2,2018-03-12 20:00:00,Kevin De Bruyne,Pass,611
+204146,21,MissedShots,0.9030000305175782,0.4129999923706055,0.06885010004043579,Nicolás Otamendi,a,611,FromCorner,2017,RightFoot,7433,Everton,Manchester City,1,3,2018-03-31 17:30:00,Kevin De Bruyne,Pass,611
+207042,89,BlockedShot,0.8830000305175781,0.43900001525878907,0.05131319910287857,Nicolás Otamendi,h,611,FromCorner,2017,RightFoot,7445,Manchester City,Manchester United,2,3,2018-04-07 16:30:00,Kevin De Bruyne,Cross,611
+208839,71,BlockedShot,0.860999984741211,0.3370000076293945,0.036318399012088776,Nicolás Otamendi,a,611,FromCorner,2017,RightFoot,7457,Tottenham,Manchester City,1,3,2018-04-14 18:45:00,,None,611
+213632,93,MissedShots,0.8480000305175781,0.45099998474121095,0.09156359732151031,Nicolás Otamendi,h,611,OpenPlay,2017,RightFoot,7480,Manchester City,Huddersfield,0,0,2018-05-06 13:30:00,Gabriel Jesus,Pass,611
+233841,14,MissedShots,0.8859999847412109,0.4620000076293945,0.014506899751722813,Nicolás Otamendi,h,611,FromCorner,2018,Head,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Leroy Sané,Aerial,611
+233849,39,MissedShots,0.905,0.47,0.024904200807213783,Nicolás Otamendi,h,611,FromCorner,2018,Head,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Aymeric Laporte,Aerial,611
+234390,35,BlockedShot,0.9569999694824218,0.5940000152587891,0.029249999672174454,Nicolás Otamendi,h,611,FromCorner,2018,Head,9260,Manchester City,Brighton,2,0,2018-09-29 14:00:00,David Silva,Aerial,611
+234408,87,MissedShots,0.9319999694824219,0.45799999237060546,0.06653600186109543,Nicolás Otamendi,h,611,SetPiece,2018,Head,9260,Manchester City,Brighton,2,0,2018-09-29 14:00:00,Bernardo Silva,Aerial,611
+251568,8,MissedShots,0.9169999694824219,0.33799999237060546,0.010777399875223637,Nicolás Otamendi,h,611,FromCorner,2018,Head,9370,Manchester City,Crystal Palace,2,3,2018-12-22 15:00:00,Leroy Sané,Cross,611
+274822,40,MissedShots,0.9369999694824219,0.5129999923706055,0.0667669028043747,Nicolás Otamendi,a,611,FromCorner,2018,Head,9423,Huddersfield,Manchester City,0,3,2019-01-20 13:30:00,Kevin De Bruyne,Aerial,611
+275327,17,SavedShot,0.8859999847412109,0.61,0.05289129912853241,Nicolás Otamendi,h,611,FromCorner,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,David Silva,Pass,611
+276028,31,MissedShots,0.9130000305175782,0.4209999847412109,0.062489498406648636,Nicolás Otamendi,h,611,FromCorner,2018,RightFoot,9475,Manchester City,West Ham,1,0,2019-02-27 20:00:00,Kevin De Bruyne,Cross,611
+276235,4,MissedShots,0.8919999694824219,0.45,0.038919299840927124,Nicolás Otamendi,a,611,FromCorner,2018,Head,9486,Bournemouth,Manchester City,0,1,2019-03-02 15:00:00,Kevin De Bruyne,Cross,611
+276238,30,MissedShots,0.8530000305175781,0.48700000762939455,0.04392170161008835,Nicolás Otamendi,a,611,FromCorner,2018,RightFoot,9486,Bournemouth,Manchester City,0,1,2019-03-02 15:00:00,Kevin De Bruyne,Cross,611
+284660,1,SavedShot,0.700999984741211,0.664000015258789,0.01158829964697361,Nicolás Otamendi,h,611,OpenPlay,2018,RightFoot,9489,Manchester City,Watford,3,1,2019-03-09 17:30:00,Ilkay Gündogan,Pass,611
+284678,84,MissedShots,0.925,0.4329999923706055,0.027459900826215744,Nicolás Otamendi,h,611,FromCorner,2018,Head,9489,Manchester City,Watford,3,1,2019-03-09 17:30:00,Ilkay Gündogan,Aerial,611
+287303,35,MissedShots,0.9059999847412109,0.610999984741211,0.022056300193071365,Nicolás Otamendi,a,611,FromCorner,2018,Head,9512,Fulham,Manchester City,0,2,2019-03-30 12:30:00,Ilkay Gündogan,Cross,611
+287305,40,SavedShot,0.95,0.53,0.5894190073013306,Nicolás Otamendi,a,611,SetPiece,2018,RightFoot,9512,Fulham,Manchester City,0,2,2019-03-30 12:30:00,Kevin De Bruyne,None,611
+287309,52,MissedShots,0.86,0.425,0.11373399943113327,Nicolás Otamendi,a,611,OpenPlay,2018,RightFoot,9512,Fulham,Manchester City,0,2,2019-03-30 12:30:00,Kevin De Bruyne,Pass,611
+310791,60,SavedShot,0.9480000305175781,0.57,0.04792090132832527,Nicolás Otamendi,h,611,FromCorner,2019,Head,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Kevin De Bruyne,Aerial,611
+310794,61,BlockedShot,0.9019999694824219,0.43099998474121093,0.01611419953405857,Nicolás Otamendi,h,611,FromCorner,2019,Head,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Kevin De Bruyne,Aerial,611
+312916,7,BlockedShot,0.9619999694824218,0.4909999847412109,0.06197329983115196,Nicolás Otamendi,a,611,FromCorner,2019,Head,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Ilkay Gündogan,Card,611
+312928,50,MissedShots,0.9209999847412109,0.5070000076293946,0.3931030035018921,Nicolás Otamendi,a,611,SetPiece,2019,Head,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,Bernardo Silva,Cross,611
+317531,50,MissedShots,0.899000015258789,0.5609999847412109,0.01568409986793995,Nicolás Otamendi,a,611,FromCorner,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Ilkay Gündogan,Aerial,611
+317537,67,SavedShot,0.915,0.46599998474121096,0.033576600253582,Nicolás Otamendi,a,611,FromCorner,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Kevin De Bruyne,Aerial,611
+317543,86,SavedShot,0.9769999694824218,0.40900001525878904,0.08371949940919876,Nicolás Otamendi,a,611,SetPiece,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Raheem Sterling,Cross,611
+320440,14,BlockedShot,0.9130000305175782,0.4159999847412109,0.016451099887490273,Nicolás Otamendi,h,611,FromCorner,2019,Head,11695,Manchester City,Watford,8,0,2019-09-21 14:00:00,Kevin De Bruyne,Aerial,611
+320442,17,Goal,0.975,0.44799999237060545,0.6947799921035767,Nicolás Otamendi,h,611,SetPiece,2019,RightFoot,11695,Manchester City,Watford,8,0,2019-09-21 14:00:00,Sergio Agüero,Pass,611
+335840,72,MissedShots,0.95,0.4929999923706055,0.0987560972571373,Nicolás Otamendi,h,611,FromCorner,2019,Head,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,David Silva,HeadPass,611
+335843,84,Goal,0.950999984741211,0.4909999847412109,0.3790139853954315,Nicolás Otamendi,h,611,FromCorner,2019,Head,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,Riyad Mahrez,Aerial,611
+338766,73,MissedShots,0.955999984741211,0.46099998474121096,0.07658500224351883,Nicolás Otamendi,h,611,FromCorner,2019,Head,11817,Manchester City,Leicester,3,1,2019-12-21 17:30:00,Kevin De Bruyne,Aerial,611
+352180,24,SavedShot,0.9009999847412109,0.545,0.08963830024003983,Nicolás Otamendi,a,611,FromCorner,2019,RightFoot,11875,Sheffield United,Manchester City,0,1,2020-01-21 19:30:00,Fernandinho,Chipped,611
+353582,60,MissedShots,0.9180000305175782,0.5740000152587891,0.02030790038406849,Nicolás Otamendi,a,611,FromCorner,2019,Head,11932,Manchester United,Manchester City,2,0,2020-03-08 16:30:00,Ilkay Gündogan,Aerial,611
+369707,43,SavedShot,0.9280000305175782,0.37,0.027196399867534637,Nicolás Otamendi,h,611,FromCorner,2019,Head,11979,Manchester City,Newcastle United,5,0,2020-07-08 17:00:00,Gabriel Jesus,Cross,611

@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+613427,68,BlockedShot,0.91,0.5670000076293945,0.05427884683012962,Morato,a,13068,FromCorner,2024,Head,26822,Bournemouth,Nottingham Forest,5,0,2025-01-25 15:00:00,Anthony Elanga,Cross,13068

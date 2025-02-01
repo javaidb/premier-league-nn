@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+114496,74,BlockedShot,0.9069999694824219,0.4490000152587891,0.04352330043911934,Jay Fulton,h,896,OpenPlay,2016,Head,522,Swansea,Liverpool,1,2,2016-10-01 15:30:00,Modou Barrow,Aerial,896
+117340,57,BlockedShot,0.7440000152587891,0.43099998474121093,0.020332399755716324,Jay Fulton,h,896,OpenPlay,2016,RightFoot,3117,Swansea,Sunderland,3,0,2016-12-10 19:00:00,,None,896
+121507,19,MissedShots,0.7480000305175781,0.3940000152587891,0.022434400394558907,Jay Fulton,a,896,FromCorner,2016,RightFoot,3466,Watford,Swansea,1,0,2017-04-15 15:00:00,Ki Sung-yueng,Pass,896

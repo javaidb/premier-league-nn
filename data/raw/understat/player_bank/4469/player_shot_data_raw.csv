@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14665,75,MissedShots,0.92,0.5459999847412109,0.053005401045084,Philippe Senderos,h,4469,SetPiece,2014,Head,4759,Aston Villa,Newcastle United,0,0,2014-08-23 12:45:00,Ashley Westwood,Aerial,4469
+14894,47,SavedShot,0.9180000305175782,0.5420000076293945,0.07608269900083542,Philippe Senderos,h,4469,SetPiece,2014,Head,4776,Aston Villa,Hull,2,1,2014-08-31 13:30:00,Ashley Westwood,Chipped,4469
+15277,8,BlockedShot,0.915,0.47200000762939454,0.08641769737005234,Philippe Senderos,a,4469,FromCorner,2014,Head,4726,Liverpool,Aston Villa,0,1,2014-09-13 17:30:00,Ashley Westwood,Cross,4469
+15280,12,MissedShots,0.9230000305175782,0.5420000076293945,0.291577011346817,Philippe Senderos,a,4469,SetPiece,2014,Head,4726,Liverpool,Aston Villa,0,1,2014-09-13 17:30:00,Ashley Westwood,Cross,4469
+15283,37,MissedShots,0.96,0.505,0.14412100613117218,Philippe Senderos,a,4469,FromCorner,2014,RightFoot,4726,Liverpool,Aston Villa,0,1,2014-09-13 17:30:00,Alan Hutton,HeadPass,4469

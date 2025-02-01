@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14899,77,MissedShots,0.9440000152587891,0.34200000762939453,0.0119420001283288,Paul McShane,a,4410,FromCorner,2014,Head,4776,Aston Villa,Hull,2,1,2014-08-31 13:30:00,Robbie Brady,Cross,4410
+16352,42,MissedShots,0.895,0.504000015258789,0.05960189923644066,Paul McShane,a,4410,SetPiece,2014,Head,4660,Burnley,Hull,1,0,2014-11-08 15:00:00,Tom Huddlestone,Chipped,4410
+24011,30,SavedShot,0.8580000305175781,0.33599998474121096,0.0070385099388659,Paul McShane,h,4410,SetPiece,2014,Head,4540,Hull,Queens Park Rangers,2,1,2015-02-21 15:00:00,Tom Huddlestone,Aerial,4410
+24015,42,SavedShot,0.8640000152587891,0.6370000076293946,0.04435740038752556,Paul McShane,h,4410,OpenPlay,2014,RightFoot,4540,Hull,Queens Park Rangers,2,1,2015-02-21 15:00:00,Nikica Jelavic,HeadPass,4410
+24149,19,BlockedShot,0.9330000305175781,0.38799999237060545,0.0838313028216362,Paul McShane,h,4410,FromCorner,2014,RightFoot,4483,Hull,Sunderland,1,1,2015-03-03 19:45:00,Michael Dawson,HeadPass,4410
+22874,35,SavedShot,0.8769999694824219,0.705999984741211,0.006459369789808989,Paul McShane,a,4410,OpenPlay,2014,Head,4495,Leicester,Hull,0,0,2015-03-14 15:00:00,Ahmed Elmohamady,Cross,4410
+22553,49,Goal,0.955,0.5170000076293946,0.613985002040863,Paul McShane,a,4410,SetPiece,2014,LeftFoot,4444,Swansea,Hull,3,1,2015-04-04 15:00:00,Alex Bruce,HeadPass,4410
+20779,72,MissedShots,0.9180000305175782,0.5059999847412109,0.09812390059232712,Paul McShane,a,4410,FromCorner,2014,Head,4453,Southampton,Hull,2,0,2015-04-11 15:00:00,Tom Huddlestone,Cross,4410
+20940,59,MissedShots,0.9169999694824219,0.5220000076293946,0.06385839730501175,Paul McShane,h,4410,OpenPlay,2014,Head,4408,Hull,Arsenal,1,3,2015-05-04 20:00:00,Ahmed Elmohamady,Aerial,4410
+21260,47,MissedShots,0.9069999694824219,0.55,0.061791300773620605,Paul McShane,a,4410,FromCorner,2014,Head,4422,Tottenham,Hull,2,0,2015-05-16 15:00:00,Robbie Brady,Cross,4410
+21266,65,MissedShots,0.92,0.40200000762939453,0.05242839828133583,Paul McShane,a,4410,FromCorner,2014,Head,4422,Tottenham,Hull,2,0,2015-05-16 15:00:00,Tom Huddlestone,Cross,4410

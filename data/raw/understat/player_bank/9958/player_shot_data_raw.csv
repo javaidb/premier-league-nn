@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+562289,6,MissedShots,0.9430000305175781,0.3659999847412109,0.02587144635617733,Yerson Mosquera,a,9958,FromCorner,2023,Head,22919,Alaves,Villarreal,1,1,2024-02-10 13:00:00,Álex Baena,Cross,9958
+570014,80,MissedShots,0.9230000305175782,0.455,0.05532394349575043,Yerson Mosquera,h,9958,FromCorner,2023,OtherBodyPart,22972,Villarreal,Valencia,1,0,2024-03-17 15:15:00,Álex Baena,Cross,9958
+571731,46,MissedShots,0.93,0.5,0.07981297373771667,Yerson Mosquera,h,9958,SetPiece,2023,Head,22982,Villarreal,Atletico Madrid,1,2,2024-04-01 19:00:00,Daniel Parejo,Aerial,9958
+571740,74,SavedShot,0.8119999694824219,0.44599998474121094,0.05328010395169258,Yerson Mosquera,h,9958,OpenPlay,2023,LeftFoot,22982,Villarreal,Atletico Madrid,1,2,2024-04-01 19:00:00,Morales,Pass,9958
+577601,68,Goal,0.9069999694824219,0.5120000076293946,0.08674255013465881,Yerson Mosquera,h,9958,FromCorner,2023,Head,23013,Villarreal,Rayo Vallecano,3,0,2024-04-28 16:30:00,Álex Baena,Cross,9958
+580010,81,MissedShots,0.9459999847412109,0.39099998474121095,0.016947712749242783,Yerson Mosquera,h,9958,FromCorner,2023,Head,23033,Villarreal,Sevilla,3,2,2024-05-11 14:15:00,Álex Baena,Aerial,9958
+580011,83,Goal,0.9590000152587891,0.5059999847412109,0.5771480798721313,Yerson Mosquera,h,9958,SetPiece,2023,RightFoot,23033,Villarreal,Sevilla,3,2,2024-05-11 14:15:00,Ramón Terrats,Cross,9958
+580014,91,MissedShots,0.9569999694824218,0.3890000152587891,0.01595272310078144,Yerson Mosquera,h,9958,FromCorner,2023,Head,23033,Villarreal,Sevilla,3,2,2024-05-11 14:15:00,Álex Baena,Aerial,9958
+582399,22,SavedShot,0.9519999694824218,0.5670000076293945,0.12180383503437042,Yerson Mosquera,h,9958,FromCorner,2023,Head,23054,Villarreal,Real Madrid,4,4,2024-05-19 17:00:00,Daniel Parejo,Cross,9958
+583051,27,MissedShots,0.9740000152587891,0.4620000076293945,0.14224421977996826,Yerson Mosquera,a,9958,FromCorner,2023,Head,23059,Osasuna,Villarreal,1,1,2024-05-25 12:00:00,Álex Baena,Cross,9958
+586663,9,ShotOnPost,0.9369999694824219,0.49700000762939456,0.41216105222702026,Yerson Mosquera,h,9958,FromCorner,2024,Head,26619,Wolverhampton Wanderers,Chelsea,2,6,2024-08-25 13:00:00,Matheus Cunha,Cross,9958
+591589,97,BlockedShot,0.850999984741211,0.595999984741211,0.05384520813822746,Yerson Mosquera,h,9958,OpenPlay,2024,RightFoot,26641,Wolverhampton Wanderers,Newcastle United,1,2,2024-09-15 15:30:00,,None,9958

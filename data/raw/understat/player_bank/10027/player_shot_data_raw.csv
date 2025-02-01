@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+534652,27,SavedShot,0.9219999694824219,0.575,0.33658209443092346,Lewis Dobbin,h,10027,FromCorner,2023,OtherBodyPart,22299,Everton,Wolverhampton Wanderers,0,1,2023-08-26 14:00:00,James Garner,Rebound,10027
+550514,95,MissedShots,0.8190000152587891,0.68,0.03715268522500992,Lewis Dobbin,h,10027,OpenPlay,2023,RightFoot,22017,Everton,Manchester United,0,3,2023-11-26 16:30:00,James Garner,Pass,10027
+553414,91,Goal,0.8530000305175781,0.5079999923706054,0.02774900384247303,Lewis Dobbin,h,10027,FromCorner,2023,LeftFoot,22048,Everton,Chelsea,2,0,2023-12-10 14:00:00,,Aerial,10027
+560583,94,MissedShots,0.9540000152587891,0.600999984741211,0.05269680172204971,Lewis Dobbin,a,10027,FromCorner,2023,Head,22106,Fulham,Everton,0,0,2024-01-30 19:45:00,James Garner,Cross,10027
+567783,67,MissedShots,0.78,0.46900001525878904,0.048736732453107834,Lewis Dobbin,a,10027,OpenPlay,2023,LeftFoot,22172,Manchester United,Everton,2,0,2024-03-09 12:30:00,,TakeOn,10027

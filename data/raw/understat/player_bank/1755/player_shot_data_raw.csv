@@ -1,0 +1,3 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+17718,1,MissedShots,0.9280000305175782,0.7140000152587891,0.04920610040426254,Jake Hesketh,a,1755,OpenPlay,2014,RightFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,Dusan Tadic,Pass,1755
+17720,8,SavedShot,0.779000015258789,0.634000015258789,0.03459480032324791,Jake Hesketh,a,1755,OpenPlay,2014,LeftFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,Sadio Mané,LayOff,1755

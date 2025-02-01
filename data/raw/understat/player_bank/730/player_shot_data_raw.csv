@@ -1,0 +1,236 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14831,81,SavedShot,0.735999984741211,0.754000015258789,0.012129100039601326,Patrick van Aanholt,h,730,OpenPlay,2014,LeftFoot,4767,Sunderland,Manchester United,1,1,2014-08-24 16:00:00,Jozy Altidore,Pass,730
+15036,0,MissedShots,0.879000015258789,0.6830000305175781,0.05936719849705696,Patrick van Aanholt,a,730,OpenPlay,2014,LeftFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,Connor Wickham,Pass,730
+15041,17,MissedShots,0.8669999694824219,0.705999984741211,0.11750800162553787,Patrick van Aanholt,a,730,OpenPlay,2014,RightFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,Adam Johnson,Throughball,730
+15066,86,BlockedShot,0.81,0.695,0.021197399124503136,Patrick van Aanholt,a,730,OpenPlay,2014,LeftFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,Jozy Altidore,Pass,730
+15388,15,MissedShots,0.7980000305175782,0.7090000152587891,0.024352900683879852,Patrick van Aanholt,h,730,OpenPlay,2014,LeftFoot,4724,Sunderland,Tottenham,2,2,2014-09-13 15:00:00,Lee Cattermole,Pass,730
+15472,90,MissedShots,0.8119999694824219,0.6859999847412109,0.020014500245451927,Patrick van Aanholt,a,730,FromCorner,2014,LeftFoot,4732,Burnley,Sunderland,0,0,2014-09-20 15:00:00,,None,730
+15471,90,SavedShot,0.7130000305175781,0.5940000152587891,0.016354799270629883,Patrick van Aanholt,a,730,SetPiece,2014,LeftFoot,4732,Burnley,Sunderland,0,0,2014-09-20 15:00:00,Jordi Gómez,Pass,730
+15894,22,MissedShots,0.6890000152587891,0.45799999237060546,0.014864400029182434,Patrick van Aanholt,h,730,SetPiece,2014,LeftFoot,4745,Sunderland,Swansea,0,0,2014-09-27 15:00:00,Adam Johnson,Pass,730
+17393,47,BlockedShot,0.7319999694824219,0.6370000076293946,0.019953100010752678,Patrick van Aanholt,h,730,OpenPlay,2014,LeftFoot,4692,Sunderland,Stoke,3,1,2014-10-04 15:00:00,Lee Cattermole,Pass,730
+16824,23,MissedShots,0.735,0.4520000076293945,0.02195020020008087,Patrick van Aanholt,a,730,FromCorner,2014,LeftFoot,4703,Southampton,Sunderland,8,0,2014-10-18 15:00:00,Jordi Gómez,Pass,730
+16850,85,OwnGoal,0.08800000190734864,0.51,0,Patrick van Aanholt,a,730,OpenPlay,2014,LeftFoot,4703,Southampton,Sunderland,8,0,2014-10-18 15:00:00,,None,730
+16142,80,MissedShots,0.7930000305175782,0.9340000152587891,0.008563670329749584,Patrick van Aanholt,h,730,OpenPlay,2014,LeftFoot,4711,Sunderland,Arsenal,0,2,2014-10-25 15:00:00,,None,730
+16143,83,MissedShots,0.86,0.6179999923706054,0.06396950036287308,Patrick van Aanholt,h,730,OpenPlay,2014,RightFoot,4711,Sunderland,Arsenal,0,2,2014-10-25 15:00:00,Wes Brown,Pass,730
+23489,12,MissedShots,0.9019999694824219,0.6370000076293946,0.044405899941921234,Patrick van Aanholt,h,730,OpenPlay,2014,LeftFoot,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,Anthony Réveillere,Cross,730
+23501,36,MissedShots,0.7180000305175781,0.515,0.011821700260043144,Patrick van Aanholt,h,730,OpenPlay,2014,LeftFoot,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,,TakeOn,730
+23515,82,BlockedShot,0.9080000305175782,0.43599998474121093,0.01792529970407486,Patrick van Aanholt,h,730,FromCorner,2014,Head,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,Adam Johnson,Aerial,730
+24269,92,BlockedShot,0.765,0.6780000305175782,0.0162821002304554,Patrick van Aanholt,h,730,SetPiece,2014,RightFoot,4538,Sunderland,West Bromwich Albion,0,0,2015-02-21 15:00:00,Adam Johnson,Pass,730
+24167,93,MissedShots,0.7519999694824219,0.5579999923706055,0.021717499941587448,Patrick van Aanholt,a,730,OpenPlay,2014,LeftFoot,4483,Hull,Sunderland,1,1,2015-03-03 19:45:00,Sebastian Larsson,Pass,730
+20535,5,MissedShots,0.8119999694824219,0.6869999694824219,0.029086299240589142,Patrick van Aanholt,h,730,OpenPlay,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Ricardo Álvarez,Pass,730
+20599,76,SavedShot,0.7340000152587891,0.669000015258789,0.015533999539911747,Patrick van Aanholt,a,730,OpenPlay,2014,LeftFoot,4509,West Ham,Sunderland,1,0,2015-03-21 17:30:00,Adam Johnson,Pass,730
+22305,68,MissedShots,0.9130000305175782,0.7,0.06544429808855057,Patrick van Aanholt,h,730,OpenPlay,2014,LeftFoot,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,Jermain Defoe,Chipped,730
+22315,92,BlockedShot,0.745,0.7140000152587891,0.0176743995398283,Patrick van Aanholt,h,730,OpenPlay,2014,LeftFoot,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,Adam Johnson,Pass,730
+20985,38,MissedShots,0.7340000152587891,0.6140000152587891,0.02007889933884144,Patrick van Aanholt,h,730,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Jordi Gómez,Pass,730
+21002,91,SavedShot,0.8530000305175781,0.5709999847412109,0.0533985011279583,Patrick van Aanholt,h,730,OpenPlay,2014,LeftFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,,None,730
+20234,44,MissedShots,0.7580000305175781,0.505,0.018360000103712082,Patrick van Aanholt,a,730,FromCorner,2014,LeftFoot,4472,Stoke,Sunderland,1,1,2015-04-25 15:00:00,,None,730
+20238,51,MissedShots,0.8380000305175781,0.575,0.03664420172572136,Patrick van Aanholt,a,730,FromCorner,2014,LeftFoot,4472,Stoke,Sunderland,1,1,2015-04-25 15:00:00,John O&#039;Shea,Pass,730
+20882,56,MissedShots,0.9630000305175781,0.6459999847412109,0.1161080002784729,Patrick van Aanholt,a,730,OpenPlay,2014,LeftFoot,4409,Everton,Sunderland,0,2,2015-05-09 12:45:00,,TakeOn,730
+20827,61,MissedShots,0.7619999694824219,0.7609999847412109,0.015121799893677235,Patrick van Aanholt,h,730,OpenPlay,2014,LeftFoot,4421,Sunderland,Leicester,0,0,2015-05-16 15:00:00,Adam Johnson,Pass,730
+20828,64,BlockedShot,0.73,0.4229999923706055,0.048782698810100555,Patrick van Aanholt,h,730,DirectFreekick,2014,LeftFoot,4421,Sunderland,Leicester,0,0,2015-05-16 15:00:00,,Standard,730
+22051,49,SavedShot,0.905,0.639000015258789,0.33255499601364136,Patrick van Aanholt,a,730,OpenPlay,2014,RightFoot,4429,Arsenal,Sunderland,0,0,2015-05-20 19:45:00,Jermain Defoe,Throughball,730
+22321,19,MissedShots,0.8669999694824219,0.7240000152587891,0.03526740148663521,Patrick van Aanholt,a,730,OpenPlay,2014,LeftFoot,4431,Chelsea,Sunderland,3,1,2015-05-24 15:00:00,Jermain Defoe,Pass,730
+57036,28,MissedShots,0.6890000152587891,0.5879999923706055,0.015684299170970917,Patrick van Aanholt,h,730,SetPiece,2015,LeftFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Yann M&#039;Vila,Pass,730
+57061,88,MissedShots,0.7659999847412109,0.505,0.01817440055310726,Patrick van Aanholt,h,730,SetPiece,2015,RightFoot,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,,Rebound,730
+58416,61,SavedShot,0.9469999694824218,0.6819999694824219,0.061845000833272934,Patrick van Aanholt,a,730,OpenPlay,2015,LeftFoot,146,Manchester United,Sunderland,3,0,2015-09-26 18:00:00,Lee Cattermole,Pass,730
+59456,3,ShotOnPost,0.8959999847412109,0.645,0.08697240054607391,Patrick van Aanholt,a,730,OpenPlay,2015,LeftFoot,188,Everton,Sunderland,6,2,2015-11-01 17:30:00,Steven Fletcher,Pass,730
+59514,91,BlockedShot,0.845999984741211,0.6930000305175781,0.029947100207209587,Patrick van Aanholt,a,730,OpenPlay,2015,RightFoot,188,Everton,Sunderland,6,2,2015-11-01 17:30:00,Adam Johnson,Pass,730
+53527,9,MissedShots,0.9259999847412109,0.705999984741211,0.050526801496744156,Patrick van Aanholt,a,730,OpenPlay,2015,RightFoot,210,Crystal Palace,Sunderland,0,1,2015-11-24 00:00:00,Billy Jones,Pass,730
+53543,71,SavedShot,0.759000015258789,0.7090000152587891,0.011561400257050991,Patrick van Aanholt,a,730,OpenPlay,2015,RightFoot,210,Crystal Palace,Sunderland,0,1,2015-11-24 00:00:00,,TakeOn,730
+53549,76,MissedShots,0.825,0.75,0.02345380000770092,Patrick van Aanholt,a,730,OpenPlay,2015,LeftFoot,210,Crystal Palace,Sunderland,0,1,2015-11-24 00:00:00,Jermain Defoe,Pass,730
+52711,42,BlockedShot,0.7709999847412109,0.26600000381469724,0.045326899737119675,Patrick van Aanholt,h,730,DirectFreekick,2015,LeftFoot,211,Sunderland,Stoke,2,0,2015-11-28 19:00:00,,Standard,730
+52725,81,Goal,0.7619999694824219,0.39799999237060546,0.02043139934539795,Patrick van Aanholt,h,730,SetPiece,2015,LeftFoot,211,Sunderland,Stoke,2,0,2015-11-28 19:00:00,Adam Johnson,Pass,730
+53492,88,MissedShots,0.875,0.629000015258789,0.3274570107460022,Patrick van Aanholt,a,730,OpenPlay,2015,RightFoot,225,Arsenal,Sunderland,3,1,2015-12-05 19:00:00,Jack Rodwell,Throughball,730
+54847,46,MissedShots,0.7390000152587891,0.639000015258789,0.016801800578832626,Patrick van Aanholt,h,730,OpenPlay,2015,LeftFoot,233,Sunderland,Watford,0,1,2015-12-12 19:00:00,Jack Rodwell,Pass,730
+55704,42,MissedShots,0.730999984741211,0.5179999923706055,0.01326919998973608,Patrick van Aanholt,a,730,SetPiece,2015,LeftFoot,244,Chelsea,Sunderland,3,1,2015-12-19 19:00:00,,Rebound,730
+55703,42,BlockedShot,0.7240000152587891,0.49900001525878906,0.048458099365234375,Patrick van Aanholt,a,730,DirectFreekick,2015,LeftFoot,244,Chelsea,Sunderland,3,1,2015-12-19 19:00:00,,Standard,730
+55710,60,MissedShots,0.8109999847412109,0.54,0.04785659909248352,Patrick van Aanholt,a,730,OpenPlay,2015,RightFoot,244,Chelsea,Sunderland,3,1,2015-12-19 19:00:00,Duncan Watmore,BallTouch,730
+53840,43,MissedShots,0.710999984741211,0.6840000152587891,0.01523240003734827,Patrick van Aanholt,h,730,OpenPlay,2015,RightFoot,270,Sunderland,Liverpool,0,1,2015-12-30 23:45:00,Yann M&#039;Vila,Pass,730
+56064,29,MissedShots,0.7369999694824219,0.715,0.012056499719619751,Patrick van Aanholt,h,730,OpenPlay,2015,LeftFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Yann M&#039;Vila,Clearance,730
+56067,45,MissedShots,0.7769999694824219,0.3320000076293945,0.062325600534677505,Patrick van Aanholt,h,730,DirectFreekick,2015,LeftFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,,Standard,730
+56072,61,MissedShots,0.7909999847412109,0.649000015258789,0.033628299832344055,Patrick van Aanholt,h,730,OpenPlay,2015,LeftFoot,277,Sunderland,Aston Villa,3,1,2016-01-02 19:00:00,Lee Cattermole,Pass,730
+53628,48,MissedShots,0.835999984741211,0.6969999694824218,0.03012399934232235,Patrick van Aanholt,a,730,OpenPlay,2015,RightFoot,286,Swansea,Sunderland,2,4,2016-01-13 23:45:00,Adam Johnson,Pass,730
+53353,39,Goal,0.9640000152587891,0.629000015258789,0.32351401448249817,Patrick van Aanholt,a,730,OpenPlay,2015,LeftFoot,291,Tottenham,Sunderland,4,1,2016-01-16 16:45:00,Adam Johnson,Throughball,730
+52293,45,Goal,0.935,0.6840000152587891,0.10796400159597397,Patrick van Aanholt,h,730,OpenPlay,2015,LeftFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,Fabio Borini,Throughball,730
+52413,7,MissedShots,0.7659999847412109,0.664000015258789,0.020515000447630882,Patrick van Aanholt,a,730,OpenPlay,2015,LeftFoot,327,Liverpool,Sunderland,2,2,2016-02-06 19:00:00,Jermain Defoe,Pass,730
+52420,47,MissedShots,0.6919999694824219,0.5479999923706055,0.034846000373363495,Patrick van Aanholt,a,730,DirectFreekick,2015,LeftFoot,327,Liverpool,Sunderland,2,2,2016-02-06 19:00:00,,Standard,730
+52429,66,MissedShots,0.879000015258789,0.6680000305175782,0.24400199949741364,Patrick van Aanholt,a,730,OpenPlay,2015,LeftFoot,327,Liverpool,Sunderland,2,2,2016-02-06 19:00:00,Wahbi Khazri,Pass,730
+55951,17,MissedShots,0.8119999694824219,0.4879999923706055,0.026979999616742134,Patrick van Aanholt,h,730,OpenPlay,2015,LeftFoot,331,Sunderland,Manchester United,2,1,2016-02-13 16:45:00,,Aerial,730
+55973,71,MissedShots,0.779000015258789,0.7269999694824218,0.014519499614834785,Patrick van Aanholt,h,730,FromCorner,2015,LeftFoot,331,Sunderland,Manchester United,2,1,2016-02-13 16:45:00,,None,730
+55981,93,MissedShots,0.8880000305175781,0.7469999694824219,0.06125950068235397,Patrick van Aanholt,h,730,OpenPlay,2015,LeftFoot,331,Sunderland,Manchester United,2,1,2016-02-13 16:45:00,,TakeOn,730
+60420,54,MissedShots,0.87,0.610999984741211,0.0712440013885498,Patrick van Aanholt,a,730,OpenPlay,2015,LeftFoot,341,West Ham,Sunderland,1,0,2016-02-27 16:45:00,Wahbi Khazri,Pass,730
+61011,57,MissedShots,0.7780000305175782,0.6469999694824219,0.02427770011126995,Patrick van Aanholt,h,730,OpenPlay,2015,LeftFoot,352,Sunderland,Crystal Palace,2,2,2016-03-01 23:45:00,Jermain Defoe,Pass,730
+61014,57,MissedShots,0.7909999847412109,0.5709999847412109,0.03502130135893822,Patrick van Aanholt,h,730,OpenPlay,2015,LeftFoot,352,Sunderland,Crystal Palace,2,2,2016-03-01 23:45:00,,Rebound,730
+60155,50,BlockedShot,0.7340000152587891,0.6869999694824219,0.013328799977898598,Patrick van Aanholt,a,730,OpenPlay,2015,LeftFoot,360,Southampton,Sunderland,1,1,2016-03-05 19:00:00,Wahbi Khazri,BallTouch,730
+60168,80,SavedShot,0.794000015258789,0.42,0.10403600335121155,Patrick van Aanholt,a,730,DirectFreekick,2015,LeftFoot,360,Southampton,Sunderland,1,1,2016-03-05 19:00:00,,Standard,730
+60405,57,SavedShot,0.905,0.6869999694824219,0.06913600116968155,Patrick van Aanholt,a,730,OpenPlay,2015,LeftFoot,381,Newcastle United,Sunderland,1,1,2016-03-20 17:30:00,,None,730
+60233,62,MissedShots,0.7969999694824219,0.68,0.022830700501799583,Patrick van Aanholt,h,730,OpenPlay,2015,LeftFoot,389,Sunderland,West Bromwich Albion,0,0,2016-04-02 18:00:00,,None,730
+60234,75,MissedShots,0.72,0.40099998474121096,0.04256239905953407,Patrick van Aanholt,h,730,DirectFreekick,2015,LeftFoot,389,Sunderland,West Bromwich Albion,0,0,2016-04-02 18:00:00,,Standard,730
+60935,80,BlockedShot,0.784000015258789,0.6719999694824219,0.024740099906921387,Patrick van Aanholt,h,730,OpenPlay,2015,RightFoot,401,Sunderland,Leicester,0,2,2016-04-10 16:30:00,Jack Rodwell,Pass,730
+56772,18,MissedShots,0.7880000305175782,0.639000015258789,0.025731800124049187,Patrick van Aanholt,a,730,OpenPlay,2015,RightFoot,405,Norwich,Sunderland,0,3,2016-04-16 15:45:00,,None,730
+56520,21,ShotOnPost,0.7830000305175782,0.3629999923706055,0.07462020218372345,Patrick van Aanholt,h,730,DirectFreekick,2015,LeftFoot,424,Sunderland,Arsenal,0,0,2016-04-24 17:05:00,,Standard,730
+56529,46,BlockedShot,0.8480000305175781,0.6630000305175782,0.05338820070028305,Patrick van Aanholt,h,730,OpenPlay,2015,RightFoot,424,Sunderland,Arsenal,0,0,2016-04-24 17:05:00,Yann M&#039;Vila,Pass,730
+56542,89,MissedShots,0.7930000305175782,0.7130000305175781,0.016086500138044357,Patrick van Aanholt,h,730,FromCorner,2015,LeftFoot,424,Sunderland,Arsenal,0,0,2016-04-24 17:05:00,,None,730
+57394,9,MissedShots,0.735999984741211,0.6680000305175782,0.013474799692630768,Patrick van Aanholt,a,730,FromCorner,2015,LeftFoot,427,Stoke,Sunderland,1,1,2016-04-30 18:00:00,,None,730
+57398,18,SavedShot,0.825999984741211,0.639000015258789,0.04453739896416664,Patrick van Aanholt,a,730,OpenPlay,2015,LeftFoot,427,Stoke,Sunderland,1,1,2016-04-30 18:00:00,Fabio Borini,Pass,730
+59744,34,BlockedShot,0.7609999847412109,0.6519999694824219,0.01889920048415661,Patrick van Aanholt,h,730,OpenPlay,2015,LeftFoot,449,Sunderland,Everton,3,0,2016-05-11 22:45:00,Jermain Defoe,LayOff,730
+59747,37,Goal,0.7290000152587891,0.42700000762939455,0.04855220019817352,Patrick van Aanholt,h,730,DirectFreekick,2015,LeftFoot,449,Sunderland,Everton,3,0,2016-05-11 22:45:00,,Standard,730
+59773,84,MissedShots,0.855,0.7380000305175781,0.0347708985209465,Patrick van Aanholt,h,730,OpenPlay,2015,RightFoot,449,Sunderland,Everton,3,0,2016-05-11 22:45:00,Jermain Defoe,Pass,730
+112267,1,SavedShot,0.7469999694824219,0.5840000152587891,0.057913199067115784,Patrick van Aanholt,a,730,DirectFreekick,2016,LeftFoot,467,Manchester City,Sunderland,2,1,2016-08-13 20:30:00,,Standard,730
+112727,59,SavedShot,0.9219999694824219,0.710999984741211,0.03442079946398735,Patrick van Aanholt,h,730,OpenPlay,2016,LeftFoot,479,Sunderland,Middlesbrough,1,2,2016-08-21 16:30:00,,None,730
+112734,70,Goal,0.9330000305175781,0.485,0.5134850144386292,Patrick van Aanholt,h,730,OpenPlay,2016,LeftFoot,479,Sunderland,Middlesbrough,1,2,2016-08-21 16:30:00,,None,730
+113905,64,MissedShots,0.8019999694824219,0.7330000305175781,0.020068200305104256,Patrick van Aanholt,h,730,OpenPlay,2016,LeftFoot,514,Sunderland,Crystal Palace,2,3,2016-09-24 18:00:00,Didier Ndong,Pass,730
+114443,82,Goal,0.91,0.515,0.4705289900302887,Patrick van Aanholt,h,730,OpenPlay,2016,LeftFoot,523,Sunderland,West Bromwich Albion,1,1,2016-10-01 18:00:00,Duncan Watmore,Pass,730
+114611,31,BlockedShot,0.8219999694824218,0.2720000076293945,0.06968209892511368,Patrick van Aanholt,a,730,DirectFreekick,2016,LeftFoot,542,West Ham,Sunderland,1,0,2016-10-22 18:00:00,,Standard,730
+114614,37,MissedShots,0.7709999847412109,0.45,0.02928590029478073,Patrick van Aanholt,a,730,OpenPlay,2016,RightFoot,542,West Ham,Sunderland,1,0,2016-10-22 18:00:00,Wahbi Khazri,LayOff,730
+114622,56,BlockedShot,0.915,0.7090000152587891,0.04628109931945801,Patrick van Aanholt,a,730,OpenPlay,2016,LeftFoot,542,West Ham,Sunderland,1,0,2016-10-22 18:00:00,,None,730
+114950,20,MissedShots,0.7869999694824219,0.355,0.07557690143585205,Patrick van Aanholt,h,730,DirectFreekick,2016,LeftFoot,2677,Sunderland,Arsenal,1,4,2016-10-29 15:30:00,,Standard,730
+115233,21,MissedShots,0.7219999694824218,0.5879999923706055,0.007852880284190178,Patrick van Aanholt,a,730,OpenPlay,2016,LeftFoot,2710,Liverpool,Sunderland,2,0,2016-11-26 19:00:00,Duncan Watmore,Chipped,730
+115247,67,BlockedShot,0.715999984741211,0.4640000152587891,0.04401849955320358,Patrick van Aanholt,a,730,DirectFreekick,2016,LeftFoot,2710,Liverpool,Sunderland,2,0,2016-11-26 19:00:00,,Standard,730
+115888,18,BlockedShot,0.7919999694824219,0.549000015258789,0.04124080017209053,Patrick van Aanholt,h,730,OpenPlay,2016,RightFoot,3108,Sunderland,Leicester,2,1,2016-12-03 15:00:00,Duncan Watmore,Pass,730
+115906,69,MissedShots,0.7609999847412109,0.6609999847412109,0.01943719945847988,Patrick van Aanholt,h,730,OpenPlay,2016,LeftFoot,3108,Sunderland,Leicester,2,1,2016-12-03 15:00:00,,Rebound,730
+115913,84,MissedShots,0.7530000305175781,0.669000015258789,0.013862100429832935,Patrick van Aanholt,h,730,SetPiece,2016,RightFoot,3108,Sunderland,Leicester,2,1,2016-12-03 15:00:00,,TakeOn,730
+117350,91,BlockedShot,0.8809999847412109,0.685,0.05543370172381401,Patrick van Aanholt,a,730,OpenPlay,2016,RightFoot,3117,Swansea,Sunderland,3,0,2016-12-10 19:00:00,Adnan Januzaj,Pass,730
+117731,92,SavedShot,0.8119999694824219,0.5770000076293945,0.04207229986786842,Patrick van Aanholt,h,730,SetPiece,2016,LeftFoot,3128,Sunderland,Chelsea,0,1,2016-12-14 23:45:00,Jermain Defoe,Pass,730
+115782,46,SavedShot,0.9590000152587891,0.674000015258789,0.07085239887237549,Patrick van Aanholt,h,730,OpenPlay,2016,RightFoot,3139,Sunderland,Watford,1,0,2016-12-17 19:00:00,Victor Anichebe,Pass,730
+115783,48,Goal,0.955999984741211,0.445,0.5922260284423828,Patrick van Aanholt,h,730,OpenPlay,2016,LeftFoot,3139,Sunderland,Watford,1,0,2016-12-17 19:00:00,,None,730
+116578,19,SavedShot,0.8119999694824219,0.27399999618530274,0.06517750024795532,Patrick van Aanholt,a,730,DirectFreekick,2016,LeftFoot,3147,Manchester United,Sunderland,3,1,2016-12-26 19:00:00,,Standard,730
+117118,83,SavedShot,0.865999984741211,0.6719999694824219,0.04565099999308586,Patrick van Aanholt,a,730,FromCorner,2016,RightFoot,3157,Burnley,Sunderland,4,1,2016-12-31 19:00:00,Sebastian Larsson,TakeOn,730
+117672,38,MissedShots,0.76,0.500999984741211,0.02532150037586689,Patrick van Aanholt,h,730,FromCorner,2016,LeftFoot,3342,Sunderland,Stoke,1,3,2017-01-14 19:00:00,Sebastian Larsson,Cross,730
+118773,54,MissedShots,0.8080000305175781,0.5129999923706055,0.048200201243162155,Patrick van Aanholt,a,730,SetPiece,2016,LeftFoot,3355,West Bromwich Albion,Sunderland,2,0,2017-01-21 18:00:00,,BallTouch,730
+118772,54,BlockedShot,0.7909999847412109,0.519000015258789,0.1119770035147667,Patrick van Aanholt,a,730,DirectFreekick,2016,LeftFoot,3355,West Bromwich Albion,Sunderland,2,0,2017-01-21 18:00:00,,Standard,730
+118779,72,SavedShot,0.7909999847412109,0.545,0.03745739907026291,Patrick van Aanholt,a,730,OpenPlay,2016,RightFoot,3355,West Bromwich Albion,Sunderland,2,0,2017-01-21 18:00:00,Jack Rodwell,LayOff,730
+118871,50,MissedShots,0.825,0.5570000076293945,0.08231060206890106,Patrick van Aanholt,a,730,OpenPlay,2016,RightFoot,3361,Bournemouth,Crystal Palace,0,2,2017-01-31 22:45:00,Wilfried Zaha,Pass,730
+116407,11,MissedShots,0.8180000305175781,0.62,0.029224900528788567,Patrick van Aanholt,h,730,FromCorner,2016,LeftFoot,3371,Crystal Palace,Sunderland,0,4,2017-02-04 15:00:00,,None,730
+117936,25,SavedShot,0.860999984741211,0.715,0.03750079870223999,Patrick van Aanholt,a,730,OpenPlay,2016,LeftFoot,3383,Stoke,Crystal Palace,1,0,2017-02-11 15:00:00,Christian Benteke,Pass,730
+118319,33,Goal,0.830999984741211,0.590999984741211,0.059071000665426254,Patrick van Aanholt,h,730,OpenPlay,2016,RightFoot,3392,Crystal Palace,Middlesbrough,1,0,2017-02-25 15:00:00,Yohan Cabaye,Interception,730
+120193,59,MissedShots,0.8119999694824219,0.5920000076293945,0.052080899477005005,Patrick van Aanholt,a,730,OpenPlay,2016,RightFoot,3408,West Bromwich Albion,Crystal Palace,0,2,2017-03-04 15:00:00,Jason Puncheon,Pass,730
+120911,33,BlockedShot,0.89,0.6880000305175781,0.05913979932665825,Patrick van Aanholt,h,730,OpenPlay,2016,RightFoot,3480,Crystal Palace,Burnley,0,2,2017-04-29 17:30:00,James McArthur,Pass,730
+120915,57,MissedShots,0.8080000305175781,0.7090000152587891,0.02038309909403324,Patrick van Aanholt,h,730,FromCorner,2016,LeftFoot,3480,Crystal Palace,Burnley,0,2,2017-04-29 17:30:00,Jason Puncheon,Pass,730
+120921,81,MissedShots,0.8080000305175781,0.35700000762939454,0.01778710074722767,Patrick van Aanholt,h,730,FromCorner,2016,RightFoot,3480,Crystal Palace,Burnley,0,2,2017-04-29 17:30:00,,TakeOn,730
+121584,37,MissedShots,0.9390000152587891,0.6930000305175781,0.047029800713062286,Patrick van Aanholt,a,730,OpenPlay,2016,LeftFoot,3497,Manchester City,Crystal Palace,5,0,2017-05-06 12:30:00,,Rebound,730
+121762,89,Goal,0.9230000305175782,0.5829999923706055,0.5357660055160522,Patrick van Aanholt,h,730,OpenPlay,2016,LeftFoot,3501,Crystal Palace,Hull,4,0,2017-05-14 12:00:00,James McArthur,Throughball,730
+158232,68,BlockedShot,0.845,0.6869999694824219,0.04404120147228241,Patrick van Aanholt,h,730,OpenPlay,2017,RightFoot,7124,Crystal Palace,Huddersfield,0,3,2017-08-12 15:00:00,Wilfried Zaha,Pass,730
+158233,73,MissedShots,0.685,0.45099998474121095,0.032889001071453094,Patrick van Aanholt,h,730,DirectFreekick,2017,LeftFoot,7124,Crystal Palace,Huddersfield,0,3,2017-08-12 15:00:00,,Standard,730
+158239,91,SavedShot,0.7830000305175782,0.2620000076293945,0.04897049814462662,Patrick van Aanholt,h,730,DirectFreekick,2017,LeftFoot,7124,Crystal Palace,Huddersfield,0,3,2017-08-12 15:00:00,,Standard,730
+159729,56,MissedShots,0.745999984741211,0.5670000076293945,0.01609569974243641,Patrick van Aanholt,a,730,FromCorner,2017,LeftFoot,7173,Manchester City,Crystal Palace,5,0,2017-09-23 15:00:00,,None,730
+160468,85,MissedShots,0.909000015258789,0.5529999923706055,0.4032849967479706,Patrick van Aanholt,h,730,OpenPlay,2017,LeftFoot,7191,Crystal Palace,Chelsea,2,1,2017-10-14 15:00:00,,Rebound,730
+160470,87,MissedShots,0.8090000152587891,0.710999984741211,0.03370770066976547,Patrick van Aanholt,h,730,OpenPlay,2017,LeftFoot,7191,Crystal Palace,Chelsea,2,1,2017-10-14 15:00:00,,BallRecovery,730
+159555,58,MissedShots,0.7190000152587891,0.485,0.014276299625635147,Patrick van Aanholt,a,730,OpenPlay,2017,LeftFoot,7203,Newcastle United,Crystal Palace,1,0,2017-10-21 15:00:00,Andros Townsend,TakeOn,730
+186182,12,BlockedShot,0.735,0.40299999237060546,0.011338300071656704,Patrick van Aanholt,h,730,SetPiece,2017,LeftFoot,7321,Crystal Palace,Manchester City,0,0,2017-12-31 12:00:00,,None,730
+186183,12,BlockedShot,0.775,0.42900001525878906,0.05211469903588295,Patrick van Aanholt,h,730,FromCorner,2017,RightFoot,7321,Crystal Palace,Manchester City,0,0,2017-12-31 12:00:00,,TakeOn,730
+187388,42,MissedShots,0.7930000305175782,0.625,0.019901199266314507,Patrick van Aanholt,h,730,SetPiece,2017,LeftFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,,Rebound,730
+188728,47,BlockedShot,0.75,0.6730000305175782,0.013905400410294533,Patrick van Aanholt,a,730,OpenPlay,2017,RightFoot,7349,Arsenal,Crystal Palace,4,1,2018-01-20 15:00:00,James McArthur,Pass,730
+194113,47,SavedShot,0.7280000305175781,0.34700000762939454,0.04097979888319969,Patrick van Aanholt,a,730,DirectFreekick,2017,LeftFoot,7360,West Ham,Crystal Palace,1,1,2018-01-30 19:45:00,,Standard,730
+193681,8,BlockedShot,0.7680000305175781,0.6140000152587891,0.04988750070333481,Patrick van Aanholt,h,730,OpenPlay,2017,LeftFoot,7373,Crystal Palace,Newcastle United,1,1,2018-02-04 14:15:00,,BallTouch,730
+193695,49,MissedShots,0.705,0.4929999923706055,0.016497500240802765,Patrick van Aanholt,h,730,SetPiece,2017,LeftFoot,7373,Crystal Palace,Newcastle United,1,1,2018-02-04 14:15:00,Yohan Cabaye,Pass,730
+193864,67,BlockedShot,0.7630000305175781,0.5329999923706055,0.03323210030794144,Patrick van Aanholt,a,730,FromCorner,2017,RightFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Andros Townsend,Pass,730
+193869,77,MissedShots,0.7380000305175781,0.669000015258789,0.010130600072443485,Patrick van Aanholt,a,730,SetPiece,2017,LeftFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,,None,730
+193870,81,SavedShot,0.8130000305175781,0.4420000076293945,0.04582339897751808,Patrick van Aanholt,a,730,SetPiece,2017,LeftFoot,7380,Everton,Crystal Palace,3,1,2018-02-10 15:00:00,Joel Ward,Pass,730
+197800,34,MissedShots,0.875,0.7019999694824218,0.029653100296854973,Patrick van Aanholt,h,730,FromCorner,2017,LeftFoot,7397,Crystal Palace,Tottenham,0,1,2018-02-25 00:00:00,,None,730
+199605,47,Goal,0.8909999847412109,0.664000015258789,0.2054390013217926,Patrick van Aanholt,h,730,SetPiece,2017,LeftFoot,7401,Crystal Palace,Manchester United,2,3,2018-03-05 20:00:00,Jeffrey Schlupp,Pass,730
+200157,57,SavedShot,0.81,0.5179999923706055,0.03537290170788765,Patrick van Aanholt,a,730,SetPiece,2017,LeftFoot,7411,Chelsea,Crystal Palace,2,1,2018-03-10 17:30:00,,Rebound,730
+200168,89,Goal,0.9180000305175782,0.5990000152587891,0.3192349970340729,Patrick van Aanholt,a,730,OpenPlay,2017,LeftFoot,7411,Chelsea,Crystal Palace,2,1,2018-03-10 17:30:00,Wilfried Zaha,Pass,730
+204133,61,SavedShot,0.785,0.3220000076293945,0.06466930359601974,Patrick van Aanholt,h,730,DirectFreekick,2017,LeftFoot,7432,Crystal Palace,Liverpool,1,2,2018-03-31 12:30:00,,Standard,730
+206907,32,BlockedShot,0.8569999694824219,0.705999984741211,0.025325199589133263,Patrick van Aanholt,a,730,FromCorner,2017,LeftFoot,7440,Bournemouth,Crystal Palace,2,2,2018-04-07 14:00:00,,None,730
+206908,35,MissedShots,0.735999984741211,0.720999984741211,0.012431199662387371,Patrick van Aanholt,a,730,OpenPlay,2017,LeftFoot,7440,Bournemouth,Crystal Palace,2,2,2018-04-07 14:00:00,Andros Townsend,Pass,730
+206916,52,SavedShot,0.8640000152587891,0.4490000152587891,0.5029979944229126,Patrick van Aanholt,a,730,OpenPlay,2017,LeftFoot,7440,Bournemouth,Crystal Palace,2,2,2018-04-07 14:00:00,Wilfried Zaha,Throughball,730
+208448,6,BlockedShot,0.9159999847412109,0.73,0.07479629665613174,Patrick van Aanholt,h,730,OpenPlay,2017,RightFoot,7450,Crystal Palace,Brighton,3,2,2018-04-14 14:00:00,Wilfried Zaha,TakeOn,730
+210432,67,MissedShots,0.7030000305175781,0.5670000076293945,0.012277299538254738,Patrick van Aanholt,a,730,FromCorner,2017,LeftFoot,7467,Watford,Crystal Palace,0,0,2018-04-21 14:00:00,,Aerial,730
+211680,68,MissedShots,0.8809999847412109,0.7469999694824219,0.04642060026526451,Patrick van Aanholt,h,730,OpenPlay,2017,LeftFoot,7470,Crystal Palace,Leicester,5,0,2018-04-28 14:00:00,James McArthur,Chipped,730
+211685,83,Goal,0.8159999847412109,0.6719999694824219,0.01996069960296154,Patrick van Aanholt,h,730,OpenPlay,2017,RightFoot,7470,Crystal Palace,Leicester,5,0,2018-04-28 14:00:00,,Rebound,730
+213024,30,BlockedShot,0.749000015258789,0.5820000076293945,0.02284340001642704,Patrick van Aanholt,a,730,FromCorner,2017,LeftFoot,7481,Stoke,Crystal Palace,1,2,2018-05-05 12:30:00,Luka Milivojevic,Cross,730
+213037,85,Goal,0.86,0.5509999847412109,0.33834999799728394,Patrick van Aanholt,a,730,OpenPlay,2017,LeftFoot,7481,Stoke,Crystal Palace,1,2,2018-05-05 12:30:00,,None,730
+215692,25,MissedShots,0.7619999694824219,0.779000015258789,0.009614380076527596,Patrick van Aanholt,h,730,OpenPlay,2017,LeftFoot,7493,Crystal Palace,West Bromwich Albion,2,0,2018-05-13 15:00:00,,Rebound,730
+215702,77,Goal,0.97,0.4229999923706055,0.7868059873580933,Patrick van Aanholt,h,730,OpenPlay,2017,RightFoot,7493,Crystal Palace,West Bromwich Albion,2,0,2018-05-13 15:00:00,Andros Townsend,TakeOn,730
+232755,52,SavedShot,0.850999984741211,0.7569999694824219,0.026337599381804466,Patrick van Aanholt,a,730,OpenPlay,2018,LeftFoot,9201,Fulham,Crystal Palace,0,2,2018-08-11 17:00:00,Christian Benteke,Pass,730
+233045,53,MissedShots,0.855,0.6969999694824218,0.035270001739263535,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9216,Crystal Palace,Liverpool,0,2,2018-08-20 22:00:00,Jeffrey Schlupp,Pass,730
+233432,77,BlockedShot,0.8730000305175781,0.635,0.06254459917545319,Patrick van Aanholt,a,730,OpenPlay,2018,LeftFoot,9224,Watford,Crystal Palace,2,1,2018-08-26 15:30:00,James McArthur,Pass,730
+233604,59,MissedShots,0.895,0.6840000152587891,0.0463251993060112,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9230,Crystal Palace,Southampton,0,2,2018-09-01 14:00:00,,Rebound,730
+233616,81,SavedShot,0.74,0.66,0.016941599547863007,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9230,Crystal Palace,Southampton,0,2,2018-09-01 14:00:00,Cheikhou Kouyaté,Pass,730
+233622,91,BlockedShot,0.8719999694824219,0.3940000152587891,0.07426690310239792,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9230,Crystal Palace,Southampton,0,2,2018-09-01 14:00:00,Aaron Wan-Bissaka,Pass,730
+234109,36,MissedShots,0.745999984741211,0.6719999694824219,0.010613099671900272,Patrick van Aanholt,h,730,SetPiece,2018,LeftFoot,9251,Crystal Palace,Newcastle United,0,0,2018-09-22 14:00:00,,None,730
+234117,78,BlockedShot,0.87,0.634000015258789,0.06085599958896637,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9251,Crystal Palace,Newcastle United,0,0,2018-09-22 14:00:00,,None,730
+248952,54,Goal,0.8830000305175781,0.7019999694824218,0.044412098824977875,Patrick van Aanholt,a,730,OpenPlay,2018,RightFoot,9266,Bournemouth,Crystal Palace,2,1,2018-10-01 19:00:00,Wilfried Zaha,Pass,730
+249076,71,MissedShots,0.715,0.580999984741211,0.012706900015473366,Patrick van Aanholt,h,730,FromCorner,2018,LeftFoot,9271,Crystal Palace,Wolverhampton Wanderers,0,1,2018-10-06 14:00:00,Mamadou Sakho,BallTouch,730
+249658,79,MissedShots,0.799000015258789,0.649000015258789,0.021036099642515182,Patrick van Aanholt,h,730,SetPiece,2018,RightFoot,9294,Crystal Palace,Arsenal,2,2,2018-10-28 12:30:00,,None,730
+249660,86,MissedShots,0.7719999694824219,0.7169999694824218,0.0167130995541811,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9294,Crystal Palace,Arsenal,2,2,2018-10-28 12:30:00,Luka Milivojevic,BallRecovery,730
+249972,76,MissedShots,0.8480000305175781,0.61,0.07668840140104294,Patrick van Aanholt,a,730,OpenPlay,2018,RightFoot,9305,Chelsea,Crystal Palace,3,1,2018-11-04 16:00:00,Luka Milivojevic,Pass,730
+250152,83,MissedShots,0.8830000305175781,0.7630000305175781,0.03198020160198212,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,Jordan Ayew,Pass,730
+250291,24,MissedShots,0.855,0.585,0.3509959876537323,Patrick van Aanholt,a,730,OpenPlay,2018,RightFoot,9319,Manchester United,Crystal Palace,0,0,2018-11-24 15:00:00,Wilfried Zaha,Pass,730
+250299,62,SavedShot,0.9269999694824219,0.639000015258789,0.07191099971532822,Patrick van Aanholt,a,730,OpenPlay,2018,LeftFoot,9319,Manchester United,Crystal Palace,0,0,2018-11-24 15:00:00,,Rebound,730
+250305,80,MissedShots,0.7680000305175781,0.715,0.017944099381566048,Patrick van Aanholt,a,730,OpenPlay,2018,LeftFoot,9319,Manchester United,Crystal Palace,0,0,2018-11-24 15:00:00,Mamadou Sakho,Pass,730
+250620,11,SavedShot,0.7040000152587891,0.6480000305175782,0.009985590353608131,Patrick van Aanholt,h,730,SetPiece,2018,LeftFoot,9333,Crystal Palace,Burnley,2,0,2018-12-01 15:00:00,Andros Townsend,HeadPass,730
+250622,19,MissedShots,0.9459999847412109,0.6859999847412109,0.07773560285568237,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9333,Crystal Palace,Burnley,2,0,2018-12-01 15:00:00,Wilfried Zaha,Pass,730
+250624,40,MissedShots,0.7340000152587891,0.590999984741211,0.01299159973859787,Patrick van Aanholt,h,730,FromCorner,2018,LeftFoot,9333,Crystal Palace,Burnley,2,0,2018-12-01 15:00:00,,Aerial,730
+250633,60,MissedShots,0.905,0.5420000076293945,0.14393499493598938,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9333,Crystal Palace,Burnley,2,0,2018-12-01 15:00:00,,Rebound,730
+250640,67,MissedShots,0.94,0.6759999847412109,0.13128100335597992,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9333,Crystal Palace,Burnley,2,0,2018-12-01 15:00:00,James McArthur,Throughball,730
+251842,65,BlockedShot,0.7919999694824219,0.6530000305175782,0.026146000251173973,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9384,Crystal Palace,Cardiff,0,0,2018-12-26 15:00:00,,None,730
+251848,79,BlockedShot,0.895,0.615999984741211,0.08469130098819733,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9384,Crystal Palace,Cardiff,0,0,2018-12-26 15:00:00,Connor Wickham,BallTouch,730
+251852,83,SavedShot,0.85,0.5720000076293945,0.052264198660850525,Patrick van Aanholt,h,730,FromCorner,2018,LeftFoot,9384,Crystal Palace,Cardiff,0,0,2018-12-26 15:00:00,Cheikhou Kouyaté,Pass,730
+251855,88,SavedShot,0.9159999847412109,0.6809999847412109,0.05640000104904175,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9384,Crystal Palace,Cardiff,0,0,2018-12-26 15:00:00,,None,730
+263750,84,BlockedShot,0.860999984741211,0.6819999694824219,0.04350759834051132,Patrick van Aanholt,h,730,OpenPlay,2018,RightFoot,9394,Crystal Palace,Chelsea,0,1,2018-12-30 12:00:00,Wilfried Zaha,Pass,730
+274218,38,SavedShot,0.6919999694824219,0.62,0.011402999982237816,Patrick van Aanholt,a,730,OpenPlay,2018,LeftFoot,9397,Wolverhampton Wanderers,Crystal Palace,0,2,2019-01-02 19:45:00,Jordan Ayew,Pass,730
+274224,69,BlockedShot,0.785,0.575,0.026780499145388603,Patrick van Aanholt,a,730,OpenPlay,2018,RightFoot,9397,Wolverhampton Wanderers,Crystal Palace,0,2,2019-01-02 19:45:00,James McArthur,Pass,730
+274230,81,MissedShots,0.889000015258789,0.534000015258789,0.07548949867486954,Patrick van Aanholt,a,730,FromCorner,2018,RightFoot,9397,Wolverhampton Wanderers,Crystal Palace,0,2,2019-01-02 19:45:00,Jordan Ayew,BallTouch,730
+274232,82,MissedShots,0.8080000305175781,0.725999984741211,0.019287100061774254,Patrick van Aanholt,a,730,OpenPlay,2018,LeftFoot,9397,Wolverhampton Wanderers,Crystal Palace,0,2,2019-01-02 19:45:00,,None,730
+274677,95,MissedShots,0.784000015258789,0.7190000152587891,0.023468900471925735,Patrick van Aanholt,a,730,OpenPlay,2018,LeftFoot,9422,Liverpool,Crystal Palace,4,3,2019-01-19 15:00:00,,TakeOn,730
+275059,39,MissedShots,0.764000015258789,0.720999984741211,0.014165099710226059,Patrick van Aanholt,a,730,OpenPlay,2018,LeftFoot,9433,Southampton,Crystal Palace,1,1,2019-01-30 19:45:00,,None,730
+275267,79,BlockedShot,0.7809999847412109,0.664000015258789,0.017239399254322052,Patrick van Aanholt,h,730,FromCorner,2018,LeftFoot,9442,Crystal Palace,Fulham,2,0,2019-02-02 15:00:00,,None,730
+275435,57,MissedShots,0.75,0.6609999847412109,0.015258600004017353,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9448,Crystal Palace,West Ham,1,1,2019-02-09 15:00:00,Christian Benteke,BallTouch,730
+275443,81,MissedShots,0.779000015258789,0.6680000305175782,0.0271317008882761,Patrick van Aanholt,h,730,FromCorner,2018,LeftFoot,9448,Crystal Palace,West Ham,1,1,2019-02-09 15:00:00,Luka Milivojevic,Pass,730
+276105,69,BlockedShot,0.84,0.700999984741211,0.027838600799441338,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9471,Crystal Palace,Manchester United,1,3,2019-02-27 20:00:00,Max Meyer,Pass,730
+276200,57,MissedShots,0.7819999694824219,0.624000015258789,0.03539029881358147,Patrick van Aanholt,a,730,OpenPlay,2018,RightFoot,9484,Burnley,Crystal Palace,1,3,2019-03-02 15:00:00,Jeffrey Schlupp,BallTouch,730
+276207,80,MissedShots,0.8619999694824219,0.585,0.059176601469516754,Patrick van Aanholt,a,730,FromCorner,2018,LeftFoot,9484,Burnley,Crystal Palace,1,3,2019-03-02 15:00:00,,None,730
+287583,52,SavedShot,0.8369999694824218,0.715,0.026871999725699425,Patrick van Aanholt,h,730,OpenPlay,2018,RightFoot,9513,Crystal Palace,Huddersfield,2,0,2019-03-30 15:00:00,Jeffrey Schlupp,Pass,730
+287598,87,Goal,0.895,0.69,0.2472510039806366,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9513,Crystal Palace,Huddersfield,2,0,2019-03-30 15:00:00,Wilfried Zaha,Pass,730
+291346,39,MissedShots,0.7530000305175781,0.6719999694824219,0.015979299321770668,Patrick van Aanholt,a,730,OpenPlay,2018,LeftFoot,9500,Tottenham,Crystal Palace,2,0,2019-04-03 19:45:00,Michy Batshuayi,BallRecovery,730
+297451,26,MissedShots,0.769000015258789,0.66,0.013592399656772614,Patrick van Aanholt,h,730,FromCorner,2018,LeftFoot,9554,Crystal Palace,Everton,0,0,2019-04-27 15:00:00,,Aerial,730
+297454,29,BlockedShot,0.795,0.57,0.032236699014902115,Patrick van Aanholt,h,730,SetPiece,2018,LeftFoot,9554,Crystal Palace,Everton,0,0,2019-04-27 15:00:00,Luka Milivojevic,Pass,730
+301286,64,Goal,0.9369999694824219,0.5790000152587891,0.506089985370636,Patrick van Aanholt,h,730,OpenPlay,2018,LeftFoot,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Wilfried Zaha,Pass,730
+312603,92,Goal,0.9159999847412109,0.6459999847412109,0.10385899990797043,Patrick van Aanholt,a,730,OpenPlay,2019,LeftFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,,TakeOn,730
+315804,38,MissedShots,0.8590000152587891,0.6409999847412109,0.04192980006337166,Patrick van Aanholt,h,730,FromCorner,2019,LeftFoot,11676,Crystal Palace,Aston Villa,1,0,2019-08-31 15:00:00,,None,730
+315814,64,BlockedShot,0.8180000305175781,0.5070000076293946,0.040492601692676544,Patrick van Aanholt,h,730,FromCorner,2019,LeftFoot,11676,Crystal Palace,Aston Villa,1,0,2019-08-31 15:00:00,,None,730
+317358,20,OwnGoal,0.04199999809265137,0.654000015258789,0,Patrick van Aanholt,a,730,OpenPlay,2019,LeftFoot,11687,Tottenham,Crystal Palace,4,0,2019-09-14 14:00:00,,Foul,730
+317362,33,MissedShots,0.845999984741211,0.6270000076293946,0.02033039927482605,Patrick van Aanholt,a,730,FromCorner,2019,LeftFoot,11687,Tottenham,Crystal Palace,4,0,2019-09-14 14:00:00,,Aerial,730
+321508,88,BlockedShot,0.8019999694824219,0.33599998474121096,0.08153379708528519,Patrick van Aanholt,h,730,DirectFreekick,2019,LeftFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,,Standard,730
+322733,55,MissedShots,0.86,0.669000015258789,0.06786829978227615,Patrick van Aanholt,h,730,OpenPlay,2019,RightFoot,11709,Crystal Palace,Norwich,2,0,2019-09-28 14:00:00,Wilfried Zaha,Pass,730
+324284,62,Goal,0.885,0.5,0.7611690163612366,Patrick van Aanholt,a,730,Penalty,2019,LeftFoot,11720,West Ham,Crystal Palace,1,2,2019-10-05 17:30:00,,Standard,730
+325890,73,BlockedShot,0.8490000152587891,0.32099998474121094,0.016874199733138084,Patrick van Aanholt,h,730,OpenPlay,2019,LeftFoot,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,Wilfried Zaha,Chipped,730
+327987,46,SavedShot,0.855,0.39099998474121095,0.059149399399757385,Patrick van Aanholt,a,730,OpenPlay,2019,RightFoot,11733,Arsenal,Crystal Palace,2,2,2019-10-27 16:30:00,Cheikhou Kouyaté,Pass,730
+329749,25,MissedShots,0.795,0.6519999694824219,0.02705949917435646,Patrick van Aanholt,h,730,OpenPlay,2019,LeftFoot,11747,Crystal Palace,Leicester,0,2,2019-11-03 14:00:00,,None,730
+329759,60,MissedShots,0.73,0.6569999694824219,0.01579969935119152,Patrick van Aanholt,h,730,OpenPlay,2019,LeftFoot,11747,Crystal Palace,Leicester,0,2,2019-11-03 14:00:00,Jeffrey Schlupp,Pass,730
+332263,47,MissedShots,0.7480000305175781,0.5279999923706055,0.01678510010242462,Patrick van Aanholt,h,730,FromCorner,2019,LeftFoot,11767,Crystal Palace,Liverpool,1,2,2019-11-23 15:00:00,,None,730
+338631,52,MissedShots,0.7619999694824219,0.5920000076293945,0.01953200064599514,Patrick van Aanholt,a,730,OpenPlay,2019,LeftFoot,11818,Newcastle United,Crystal Palace,1,0,2019-12-21 15:00:00,Jordan Ayew,Pass,730
+339556,59,MissedShots,0.9530000305175781,0.6659999847412109,0.06227799877524376,Patrick van Aanholt,h,730,OpenPlay,2019,LeftFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Wilfried Zaha,TakeOn,730
+352484,42,MissedShots,0.8690000152587891,0.6969999694824218,0.0372144989669323,Patrick van Aanholt,h,730,OpenPlay,2019,LeftFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,James McArthur,Pass,730
+352493,68,BlockedShot,0.8080000305175781,0.7290000152587891,0.018782099708914757,Patrick van Aanholt,h,730,OpenPlay,2019,LeftFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,Christian Benteke,Pass,730
+352652,12,BlockedShot,0.915,0.3029999923706055,0.06348849833011627,Patrick van Aanholt,a,730,OpenPlay,2019,LeftFoot,11897,Everton,Crystal Palace,3,1,2020-02-08 12:30:00,James McArthur,Pass,730
+352657,45,MissedShots,0.8109999847412109,0.655,0.025677500292658806,Patrick van Aanholt,a,730,OpenPlay,2019,RightFoot,11897,Everton,Crystal Palace,3,1,2020-02-08 12:30:00,Christian Benteke,Pass,730
+352957,44,Goal,0.7559999847412109,0.3920000076293945,0.06068360060453415,Patrick van Aanholt,h,730,DirectFreekick,2019,LeftFoot,11905,Crystal Palace,Newcastle United,1,0,2020-02-22 15:00:00,,Standard,730
+352967,96,MissedShots,0.7190000152587891,0.43400001525878906,0.04417629912495613,Patrick van Aanholt,h,730,DirectFreekick,2019,LeftFoot,11905,Crystal Palace,Newcastle United,1,0,2020-02-22 15:00:00,,Standard,730
+353421,37,BlockedShot,0.7180000305175781,0.38,0.019379500299692154,Patrick van Aanholt,h,730,FromCorner,2019,LeftFoot,11926,Crystal Palace,Watford,1,0,2020-03-07 15:00:00,James McArthur,Pass,730
+367623,90,SavedShot,0.7930000305175782,0.41,0.0161725003272295,Patrick van Aanholt,h,730,FromCorner,2019,RightFoot,11957,Crystal Palace,Burnley,0,1,2020-06-29 19:00:00,,Aerial,730
+369422,50,MissedShots,0.7440000152587891,0.6859999847412109,0.008871980011463165,Patrick van Aanholt,h,730,SetPiece,2019,LeftFoot,11977,Crystal Palace,Chelsea,2,3,2020-07-07 17:00:00,,Aerial,730
+369436,94,BlockedShot,0.8640000152587891,0.525,0.06882130354642868,Patrick van Aanholt,h,730,OpenPlay,2019,RightFoot,11977,Crystal Palace,Chelsea,2,3,2020-07-07 17:00:00,,Rebound,730
+370761,74,SavedShot,0.919000015258789,0.66,0.25284600257873535,Patrick van Aanholt,a,730,OpenPlay,2019,LeftFoot,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,Wilfried Zaha,Pass,730
+372176,6,BlockedShot,0.85,0.580999984741211,0.07076069712638855,Patrick van Aanholt,h,730,OpenPlay,2019,RightFoot,11996,Crystal Palace,Manchester United,0,2,2020-07-16 19:15:00,,Dispossessed,730
+372188,48,BlockedShot,0.765,0.625,0.018807800486683846,Patrick van Aanholt,h,730,FromCorner,2019,LeftFoot,11996,Crystal Palace,Manchester United,0,2,2020-07-16 19:15:00,,BallTouch,730
+383352,89,SavedShot,0.8030000305175782,0.624000015258789,0.04164630174636841,Patrick van Aanholt,a,730,OpenPlay,2020,LeftFoot,14489,Fulham,Crystal Palace,1,2,2020-10-24 14:00:00,Eberechi Eze,Pass,730
+384374,78,MissedShots,0.745999984741211,0.46,0.060909099876880646,Patrick van Aanholt,a,730,DirectFreekick,2020,LeftFoot,14504,Wolverhampton Wanderers,Crystal Palace,2,0,2020-10-30 20:00:00,,Standard,730
+386005,6,SavedShot,0.905,0.6759999847412109,0.06620489805936813,Patrick van Aanholt,h,730,OpenPlay,2020,LeftFoot,14508,Crystal Palace,Leeds,4,1,2020-11-07 15:00:00,Eberechi Eze,Pass,730
+386021,81,SavedShot,0.960999984741211,0.6459999847412109,0.3824310004711151,Patrick van Aanholt,h,730,OpenPlay,2020,RightFoot,14508,Crystal Palace,Leeds,4,1,2020-11-07 15:00:00,Jeffrey Schlupp,Pass,730
+386023,87,MissedShots,0.8680000305175781,0.67,0.05666109919548035,Patrick van Aanholt,h,730,OpenPlay,2020,LeftFoot,14508,Crystal Palace,Leeds,4,1,2020-11-07 15:00:00,,None,730
+388344,63,BlockedShot,0.9430000305175781,0.325,0.0646774023771286,Patrick van Aanholt,a,730,OpenPlay,2020,RightFoot,14516,Burnley,Crystal Palace,1,0,2020-11-23 17:30:00,Andros Townsend,Pass,730
+388346,64,MissedShots,0.735,0.549000015258789,0.018035100772976875,Patrick van Aanholt,a,730,FromCorner,2020,LeftFoot,14516,Burnley,Crystal Palace,1,0,2020-11-23 17:30:00,Jairo Riedewald,Pass,730
+388453,60,MissedShots,0.7619999694824219,0.30100000381469727,0.04822169989347458,Patrick van Aanholt,h,730,DirectFreekick,2020,LeftFoot,14530,Crystal Palace,Newcastle United,0,2,2020-11-27 20:00:00,,Standard,730
+390574,52,SavedShot,0.750999984741211,0.5690000152587891,0.02117449976503849,Patrick van Aanholt,a,730,OpenPlay,2020,LeftFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Christian Benteke,BallTouch,730
+390580,60,BlockedShot,0.8480000305175781,0.7030000305175781,0.05568369850516319,Patrick van Aanholt,a,730,OpenPlay,2020,LeftFoot,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Jeffrey Schlupp,Pass,730
+392190,39,BlockedShot,0.815,0.32799999237060545,0.08946689963340759,Patrick van Aanholt,h,730,DirectFreekick,2020,LeftFoot,14545,Crystal Palace,Tottenham,1,1,2020-12-13 14:15:00,,Standard,730
+393814,62,MissedShots,0.86,0.6480000305175782,0.056248798966407776,Patrick van Aanholt,h,730,OpenPlay,2020,LeftFoot,14568,Crystal Palace,Liverpool,0,7,2020-12-19 12:30:00,Wilfried Zaha,BallRecovery,730
+402499,12,MissedShots,0.7569999694824219,0.5990000152587891,0.01672320067882538,Patrick van Aanholt,a,730,FromCorner,2020,LeftFoot,14652,Newcastle United,Crystal Palace,1,2,2021-02-02 20:15:00,,None,730
+404288,41,BlockedShot,0.7180000305175781,0.605999984741211,0.013353399932384491,Patrick van Aanholt,h,730,FromCorner,2020,LeftFoot,14668,Crystal Palace,Burnley,0,3,2021-02-13 15:00:00,,None,730
+404301,95,MissedShots,0.835999984741211,0.705,0.015894200652837753,Patrick van Aanholt,h,730,OpenPlay,2020,LeftFoot,14668,Crystal Palace,Burnley,0,3,2021-02-13 15:00:00,Nathaniel Clyne,Cross,730
+408218,89,SavedShot,0.9159999847412109,0.6020000076293945,0.3360289931297302,Patrick van Aanholt,h,730,OpenPlay,2020,RightFoot,14717,Crystal Palace,Manchester United,0,0,2021-03-03 20:15:00,Luka Milivojevic,Pass,730
+413403,16,MissedShots,0.7269999694824218,0.47900001525878905,0.011370600201189518,Patrick van Aanholt,a,730,SetPiece,2020,LeftFoot,14728,Everton,Crystal Palace,1,1,2021-04-05 17:00:00,,None,730
+413415,49,MissedShots,0.884000015258789,0.710999984741211,0.04360799863934517,Patrick van Aanholt,a,730,OpenPlay,2020,RightFoot,14728,Everton,Crystal Palace,1,1,2021-04-05 17:00:00,Wilfried Zaha,Pass,730

@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,1,Sub,Tottenham,Arsenal,2,1,2015-02-07,4515,2014,26685,0,0,0,0,0,0,0,1790
+0,2,0.5139970183372498,19,Sub,Arsenal,Aston Villa,5,0,2015-02-01,4513,2014,22362,0,0,0,0,0.5139970183372498,0.5139970183372498,0,1790
+0,0,0,3,Sub,Southampton,Arsenal,2,0,2015-01-01,4555,2014,22843,0,0,0,0,0,0,0,1790

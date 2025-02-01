@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,14,Sub,Bournemouth,Manchester United,2,1,2015-12-12,236,2015,59088,0,0,0,0,0,0,0,1072
+0,0,0,16,Sub,Leicester,Manchester City,0,1,2014-12-13,4614,2014,20976,0,0,0,0,0,0,0,1072
+0,1,0.007323760073632002,12,Sub,Southampton,Leicester,2,0,2014-11-08,4663,2014,19648,0,0,0,0,0.007323760073632002,0.007323760073632002,0,1072
+0,1,0.04400600120425224,8,Sub,Leicester,West Bromwich Albion,0,1,2014-11-01,4651,2014,18698,0,0,0,0,0.04400600120425224,0.04400600120425224,0,1072

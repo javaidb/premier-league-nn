@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+932,Danny Graham,14,620,1,1.1095587108284235,0,0.1769960019737482,10,6,0,0,F M S,Sunderland,1,1.1095587108284235,1.552799491211772,0.3976630996912718,2014
+932,Danny Graham,10,352,0,0.31507470458745956,0,0,4,0,0,0,F M S,Sunderland,0,0.31507470458745956,1.3842313960194588,1.1534624844789505,2015

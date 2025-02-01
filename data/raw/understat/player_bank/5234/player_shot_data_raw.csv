@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+128046,77,MissedShots,0.8080000305175781,0.505,0.03521750122308731,Jesús Vallejo,a,5234,SetPiece,2016,RightFoot,1339,Darmstadt,Eintracht Frankfurt,1,0,2016-09-10 17:30:00,,Rebound,5234
+129017,9,MissedShots,0.9059999847412109,0.509000015258789,0.07972200214862823,Jesús Vallejo,a,5234,FromCorner,2016,Head,1377,Freiburg,Eintracht Frankfurt,1,0,2016-10-01 17:30:00,Marco Fabián,Cross,5234
+130993,66,OwnGoal,0.02,0.524000015258789,0,Jesús Vallejo,a,5234,OpenPlay,2016,LeftFoot,3728,RasenBallsport Leipzig,Eintracht Frankfurt,3,0,2017-01-21 20:30:00,,None,5234
+133363,10,MissedShots,0.9309999847412109,0.5220000076293946,0.121567003428936,Jesús Vallejo,h,5234,FromCorner,2016,Head,3809,Eintracht Frankfurt,Borussia M.Gladbach,0,0,2017-04-01 17:30:00,Bastian Oczipka,Cross,5234
+134046,89,BlockedShot,0.9159999847412109,0.6,0.014197899959981441,Jesús Vallejo,a,5234,FromCorner,2016,Head,3813,FC Cologne,Eintracht Frankfurt,1,0,2017-04-04 19:00:00,Mijat Gacinovic,Aerial,5234
+128069,82,Goal,0.9530000305175781,0.5609999847412109,0.5560830235481262,Jesús Vallejo,h,5234,SetPiece,2016,RightFoot,3882,Eintracht Frankfurt,RasenBallsport Leipzig,2,2,2017-05-20 14:30:00,Bastian Oczipka,Pass,5234
+300061,39,Goal,0.9690000152587891,0.515,0.7584499716758728,Jesús Vallejo,h,5234,FromCorner,2018,LeftFoot,10312,Real Madrid,Villarreal,3,2,2019-05-05 15:15:00,,Rebound,5234
+361152,23,BlockedShot,0.919000015258789,0.43099998474121093,0.07814689725637436,Jesús Vallejo,h,5234,SetPiece,2019,LeftFoot,12276,Granada,Celta Vigo,0,0,2020-02-29 20:00:00,,None,5234
+395240,44,MissedShots,0.91,0.4640000152587891,0.10898099839687347,Jesús Vallejo,a,5234,SetPiece,2020,Head,14921,Real Madrid,Granada,2,0,2020-12-23 18:45:00,Luis Milla,Cross,5234
+517057,71,MissedShots,0.950999984741211,0.534000015258789,0.11292000114917755,Jesús Vallejo,h,5234,FromCorner,2022,LeftFoot,19226,Real Madrid,Real Valladolid,6,0,2023-04-02 14:15:00,Eder Militão,None,5234
+517067,88,SavedShot,0.95,0.5070000076293946,0.6429740190505981,Jesús Vallejo,h,5234,SetPiece,2022,RightFoot,19226,Real Madrid,Real Valladolid,6,0,2023-04-02 14:15:00,,Rebound,5234

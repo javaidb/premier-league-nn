@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+570747,90,BlockedShot,0.8630000305175781,0.30700000762939456,0.04645831137895584,Alfie Gilchrist,h,11595,OpenPlay,2023,RightFoot,22188,Chelsea,Burnley,2,2,2024-03-30 15:00:00,Noni Madueke,Pass,11595
+572040,77,MissedShots,0.9119999694824219,0.47,0.07957793772220612,Alfie Gilchrist,h,11595,FromCorner,2023,Head,22201,Chelsea,Manchester United,4,3,2024-04-04 19:15:00,Cole Palmer,Cross,11595
+574602,89,Goal,0.9180000305175782,0.39099998474121095,0.4044649004936218,Alfie Gilchrist,h,11595,OpenPlay,2023,RightFoot,22219,Chelsea,Everton,6,0,2024-04-15 19:00:00,,Rebound,11595
+577973,16,MissedShots,0.8059999847412109,0.3089999961853027,0.02422717586159706,Alfie Gilchrist,h,11595,OpenPlay,2023,RightFoot,22149,Chelsea,Tottenham,2,0,2024-05-02 18:30:00,,None,11595
+577982,49,MissedShots,0.94,0.575,0.08607999980449677,Alfie Gilchrist,h,11595,FromCorner,2023,Head,22149,Chelsea,Tottenham,2,0,2024-05-02 18:30:00,Mykhailo Mudryk,Cross,11595

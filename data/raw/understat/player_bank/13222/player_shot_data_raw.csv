@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+605360,71,MissedShots,0.8809999847412109,0.32299999237060545,0.08866850286722183,Thiago,a,13222,OpenPlay,2024,RightFoot,26734,Aston Villa,Brentford,3,1,2024-12-04 20:15:00,Bryan Mbeumo,Throughball,13222

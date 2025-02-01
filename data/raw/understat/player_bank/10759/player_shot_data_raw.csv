@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+479303,28,BlockedShot,0.7519999694824219,0.6530000305175782,0.01648869924247265,Lewis O&#039;Brien,a,10759,OpenPlay,2022,LeftFoot,18206,Newcastle United,Nottingham Forest,2,0,2022-08-06 14:00:00,Jesse Lingard,Pass,10759
+481800,18,MissedShots,0.7919999694824219,0.65,0.02878740057349205,Lewis O&#039;Brien,a,10759,OpenPlay,2022,LeftFoot,18224,Everton,Nottingham Forest,1,1,2022-08-20 14:00:00,,BlockedPass,10759
+481816,78,MissedShots,0.7830000305175782,0.6480000305175782,0.022469300776720047,Lewis O&#039;Brien,a,10759,OpenPlay,2022,LeftFoot,18224,Everton,Nottingham Forest,1,1,2022-08-20 14:00:00,,None,10759
+484476,20,SavedShot,0.7180000305175781,0.565,0.015605499967932701,Lewis O&#039;Brien,h,10759,FromCorner,2022,LeftFoot,18241,Nottingham Forest,Tottenham,0,2,2022-08-28 15:30:00,,BallTouch,10759
+488408,76,Goal,0.8730000305175781,0.47,0.3017730116844177,Lewis O&#039;Brien,h,10759,OpenPlay,2022,RightFoot,18273,Nottingham Forest,Fulham,2,3,2022-09-16 19:00:00,,None,10759
+491181,1,BlockedShot,0.784000015258789,0.6780000305175782,0.01690790057182312,Lewis O&#039;Brien,a,10759,FromCorner,2022,LeftFoot,18287,Leicester,Nottingham Forest,4,0,2022-10-03 19:00:00,,None,10759
+498090,88,MissedShots,0.8230000305175781,0.5209999847412109,0.02116060070693493,Lewis O&#039;Brien,h,10759,FromCorner,2022,LeftFoot,18347,Nottingham Forest,Brentford,2,2,2022-11-05 15:00:00,,Aerial,10759

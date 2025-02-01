@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+9287,Tyler Onyango,3,23,0,0.031716201454401016,0,0,1,0,0,0,S,Everton,0,0.031716201454401016,0.031716201454401016,0,2021
+9287,Tyler Onyango,1,1,0,0,0,0,0,0,0,0,S,Everton,0,0,0,0,2023

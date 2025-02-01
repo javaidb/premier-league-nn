@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+232976,37,MissedShots,0.915,0.5109999847412109,0.055038899183273315,Kenneth Zohore,h,6928,OpenPlay,2018,Head,9207,Cardiff,Newcastle United,0,0,2018-08-18 14:30:00,Joe Bennett,Aerial,6928
+232981,53,MissedShots,0.92,0.52,0.35194799304008484,Kenneth Zohore,h,6928,OpenPlay,2018,Head,9207,Cardiff,Newcastle United,0,0,2018-08-18 14:30:00,Joe Ralls,Cross,6928
+232990,86,MissedShots,0.8959999847412109,0.46599998474121096,0.04946029931306839,Kenneth Zohore,h,6928,OpenPlay,2018,Head,9207,Cardiff,Newcastle United,0,0,2018-08-18 14:30:00,Callum Paterson,Chipped,6928
+232989,86,BlockedShot,0.9790000152587891,0.59,0.034216899424791336,Kenneth Zohore,h,6928,FromCorner,2018,Head,9207,Cardiff,Newcastle United,0,0,2018-08-18 14:30:00,,Rebound,6928
+234293,34,SavedShot,0.9209999847412109,0.40099998474121096,0.121800996363163,Kenneth Zohore,h,6928,OpenPlay,2018,LeftFoot,9265,Cardiff,Burnley,1,2,2018-09-30 15:00:00,Víctor Camarasa,Pass,6928
+234294,40,BlockedShot,0.92,0.33599998474121096,0.06923329830169678,Kenneth Zohore,h,6928,OpenPlay,2018,RightFoot,9265,Cardiff,Burnley,1,2,2018-09-30 15:00:00,Callum Paterson,HeadPass,6928
+251692,74,BlockedShot,0.8480000305175781,0.6580000305175782,0.058205101639032364,Kenneth Zohore,h,6928,OpenPlay,2018,LeftFoot,9374,Cardiff,Manchester United,1,5,2018-12-22 17:30:00,Greg Cunningham,Pass,6928
+251693,76,SavedShot,0.9580000305175781,0.6509999847412109,0.10176900029182434,Kenneth Zohore,h,6928,OpenPlay,2018,LeftFoot,9374,Cardiff,Manchester United,1,5,2018-12-22 17:30:00,Josh Murphy,Pass,6928
+274883,81,SavedShot,0.8109999847412109,0.66,0.028660200536251068,Kenneth Zohore,a,6928,OpenPlay,2018,LeftFoot,9431,Arsenal,Cardiff,2,1,2019-01-29 19:45:00,Joe Ralls,BallTouch,6928
+275295,92,SavedShot,0.899000015258789,0.6790000152587891,0.10837099701166153,Kenneth Zohore,h,6928,OpenPlay,2018,LeftFoot,9444,Cardiff,Bournemouth,2,0,2019-02-02 17:30:00,Joe Ralls,Pass,6928
+275485,92,Goal,0.905,0.575,0.12564900517463684,Kenneth Zohore,a,6928,OpenPlay,2018,LeftFoot,9453,Southampton,Cardiff,1,2,2019-02-09 15:00:00,Víctor Camarasa,Pass,6928
+275924,27,MissedShots,0.9419999694824219,0.3629999923706055,0.06979759782552719,Kenneth Zohore,h,6928,OpenPlay,2018,RightFoot,9469,Cardiff,Everton,0,3,2019-02-26 19:45:00,Aron Gunnarsson,Chipped,6928
+275928,68,BlockedShot,0.8819999694824219,0.48700000762939455,0.0636167973279953,Kenneth Zohore,h,6928,OpenPlay,2018,LeftFoot,9469,Cardiff,Everton,0,3,2019-02-26 19:45:00,Sean Morrison,HeadPass,6928
+276136,9,BlockedShot,0.9169999694824219,0.51,0.05521190166473389,Kenneth Zohore,a,6928,OpenPlay,2018,Head,9477,Wolverhampton Wanderers,Cardiff,2,0,2019-03-02 15:00:00,Joe Bennett,Aerial,6928
+299502,64,SavedShot,0.855,0.3659999847412109,0.2893959879875183,Kenneth Zohore,h,6928,OpenPlay,2018,LeftFoot,9564,Cardiff,Crystal Palace,2,3,2019-05-04 16:30:00,Bobby Reid,Throughball,6928
+301372,1,MissedShots,0.7240000152587891,0.3940000152587891,0.013547499664127827,Kenneth Zohore,a,6928,OpenPlay,2018,LeftFoot,9570,Manchester United,Cardiff,0,2,2019-05-12 14:00:00,Nathaniel Mendez-Laing,HeadPass,6928
+301381,18,SavedShot,0.7580000305175781,0.425,0.021119900047779083,Kenneth Zohore,a,6928,OpenPlay,2018,LeftFoot,9570,Manchester United,Cardiff,0,2,2019-05-12 14:00:00,Bobby Reid,Pass,6928

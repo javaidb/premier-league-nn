@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+10118,Kaide Gordon,1,7,0,0.49112099409103394,0,0,1,0,0,0,S,Liverpool,0,0.49112099409103394,0.49112099409103394,0,2021
+10118,Kaide Gordon,1,1,0,0,0,0,0,0,0,0,S,Liverpool,0,0,0,0,2023

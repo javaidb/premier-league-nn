@@ -1,0 +1,76 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14495,45,SavedShot,0.7609999847412109,0.674000015258789,0.015797099098563194,Morgan Schneiderlin,a,551,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,,Dispossessed,551
+14508,87,SavedShot,0.88,0.5609999847412109,0.08753730356693268,Morgan Schneiderlin,a,551,OpenPlay,2014,LeftFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Graziano Pellè,LayOff,551
+15133,44,Goal,0.94,0.41200000762939454,0.12233799695968628,Morgan Schneiderlin,a,551,SetPiece,2014,LeftFoot,4774,West Ham,Southampton,1,3,2014-08-30 15:00:00,,Rebound,551
+15132,44,BlockedShot,0.9459999847412109,0.33799999237060546,0.02345529943704605,Morgan Schneiderlin,a,551,SetPiece,2014,RightFoot,4774,West Ham,Southampton,1,3,2014-08-30 15:00:00,Dusan Tadic,Cross,551
+15137,51,MissedShots,0.9169999694824219,0.47400001525878904,0.11148999631404877,Morgan Schneiderlin,a,551,FromCorner,2014,LeftFoot,4774,West Ham,Southampton,1,3,2014-08-30 15:00:00,,None,551
+15143,67,Goal,0.9790000152587891,0.5359999847412109,0.14980199933052063,Morgan Schneiderlin,a,551,FromCorner,2014,RightFoot,4774,West Ham,Southampton,1,3,2014-08-30 15:00:00,James Ward-Prowse,Cross,551
+15343,93,Goal,0.855999984741211,0.6880000305175781,0.06517750024795532,Morgan Schneiderlin,h,551,OpenPlay,2014,RightFoot,4722,Southampton,Newcastle United,4,0,2014-09-13 15:00:00,James Ward-Prowse,Pass,551
+15837,43,MissedShots,0.9030000305175782,0.40700000762939453,0.11522199958562851,Morgan Schneiderlin,h,551,OpenPlay,2014,LeftFoot,4741,Southampton,Queens Park Rangers,2,1,2014-09-27 15:00:00,Sadio Mané,Pass,551
+17619,21,BlockedShot,0.9109999847412109,0.5420000076293945,0.13783100247383118,Morgan Schneiderlin,a,551,OpenPlay,2014,RightFoot,4696,Tottenham,Southampton,1,0,2014-10-05 14:05:00,Sadio Mané,Pass,551
+16851,88,MissedShots,0.7730000305175782,0.605999984741211,0.024577399715781212,Morgan Schneiderlin,h,551,OpenPlay,2014,RightFoot,4703,Southampton,Sunderland,8,0,2014-10-18 15:00:00,Ryan Bertrand,Pass,551
+16007,29,ShotOnPost,0.889000015258789,0.40900001525878904,0.06396380066871643,Morgan Schneiderlin,h,551,FromCorner,2014,RightFoot,4710,Southampton,Stoke,1,0,2014-10-25 15:00:00,Dusan Tadic,Pass,551
+17407,54,BlockedShot,0.894000015258789,0.39099998474121095,0.046230901032686234,Morgan Schneiderlin,a,551,FromCorner,2014,RightFoot,4655,Hull,Southampton,0,1,2014-11-01 15:00:00,Steven Davis,Cross,551
+16926,68,BlockedShot,0.8730000305175781,0.6090000152587891,0.05851620063185692,Morgan Schneiderlin,h,551,FromCorner,2014,RightFoot,4663,Southampton,Leicester,2,0,2014-11-08 15:00:00,,None,551
+16172,6,MissedShots,0.89,0.41900001525878905,0.05142800137400627,Morgan Schneiderlin,a,551,FromCorner,2014,RightFoot,4678,Aston Villa,Southampton,1,1,2014-11-24 20:00:00,Dusan Tadic,Cross,551
+17567,77,BlockedShot,0.7390000152587891,0.555,0.01784590072929859,Morgan Schneiderlin,a,551,SetPiece,2014,RightFoot,4635,Crystal Palace,Southampton,1,3,2014-12-26 15:00:00,Victor Wanyama,Pass,551
+18908,13,MissedShots,0.8919999694824219,0.43599998474121093,0.03351860120892525,Morgan Schneiderlin,h,551,FromCorner,2014,Head,4640,Southampton,Chelsea,1,1,2014-12-28 14:05:00,Steven Davis,Cross,551
+18910,19,MissedShots,0.695,0.46599998474121096,0.009050349704921246,Morgan Schneiderlin,h,551,SetPiece,2014,RightFoot,4640,Southampton,Chelsea,1,1,2014-12-28 14:05:00,,None,551
+18915,46,MissedShots,0.6980000305175781,0.4520000076293945,0.009983710013329983,Morgan Schneiderlin,h,551,OpenPlay,2014,RightFoot,4640,Southampton,Chelsea,1,1,2014-12-28 14:05:00,Graziano Pellè,LayOff,551
+24207,89,SavedShot,0.874000015258789,0.675,0.023478999733924866,Morgan Schneiderlin,h,551,OpenPlay,2014,RightFoot,4544,Southampton,Liverpool,0,2,2015-02-22 16:15:00,Victor Wanyama,Cross,551
+23858,36,MissedShots,0.755,0.31,0.017182400450110435,Morgan Schneiderlin,a,551,OpenPlay,2014,RightFoot,4546,West Bromwich Albion,Southampton,1,0,2015-02-28 15:00:00,Sadio Mané,Pass,551
+23861,60,MissedShots,0.895,0.8040000152587891,0.06474059820175171,Morgan Schneiderlin,a,551,DirectFreekick,2014,RightFoot,4546,West Bromwich Albion,Southampton,1,0,2015-02-28 15:00:00,,Standard,551
+23864,75,SavedShot,0.750999984741211,0.7230000305175781,0.04034699872136116,Morgan Schneiderlin,a,551,DirectFreekick,2014,RightFoot,4546,West Bromwich Albion,Southampton,1,0,2015-02-28 15:00:00,,Standard,551
+20431,21,MissedShots,0.8630000305175781,0.41200000762939454,0.042739201337099075,Morgan Schneiderlin,h,551,FromCorner,2014,RightFoot,4484,Southampton,Crystal Palace,1,0,2015-03-03 19:45:00,Filip Djuricic,Cross,551
+20432,24,BlockedShot,0.6919999694824219,0.509000015258789,0.012520899996161461,Morgan Schneiderlin,h,551,OpenPlay,2014,RightFoot,4484,Southampton,Crystal Palace,1,0,2015-03-03 19:45:00,,BallRecovery,551
+22368,40,MissedShots,0.875999984741211,0.42200000762939455,0.04655199870467186,Morgan Schneiderlin,a,551,FromCorner,2014,RightFoot,4499,Chelsea,Southampton,1,1,2015-03-15 13:30:00,Steven Davis,Cross,551
+22489,5,MissedShots,0.7619999694824219,0.39099998474121095,0.01705930009484291,Morgan Schneiderlin,h,551,FromCorner,2014,RightFoot,4506,Southampton,Burnley,2,0,2015-03-21 15:00:00,,None,551
+22495,27,BlockedShot,0.750999984741211,0.46799999237060547,0.01832050085067749,Morgan Schneiderlin,h,551,OpenPlay,2014,RightFoot,4506,Southampton,Burnley,2,0,2015-03-21 15:00:00,Graziano Pellè,Pass,551
+20765,15,MissedShots,0.8580000305175781,0.5629999923706055,0.07122930139303207,Morgan Schneiderlin,h,551,OpenPlay,2014,RightFoot,4453,Southampton,Hull,2,0,2015-04-11 15:00:00,,None,551
+21535,21,Goal,0.980999984741211,0.5420000076293945,0.8148919939994812,Morgan Schneiderlin,a,551,FromCorner,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,José Fonte,Rebound,551
+21546,54,SavedShot,0.86,0.5420000076293945,0.015551700256764889,Morgan Schneiderlin,a,551,FromCorner,2014,Head,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Steven Davis,Cross,551
+22986,24,SavedShot,0.9019999694824219,0.44299999237060544,0.06337449699640274,Morgan Schneiderlin,h,551,FromCorner,2014,RightFoot,4468,Southampton,Tottenham,2,2,2015-04-25 12:45:00,James Ward-Prowse,Cross,551
+51718,15,MissedShots,0.9540000152587891,0.3820000076293945,0.044353898614645004,Morgan Schneiderlin,a,551,SetPiece,2015,Head,91,Aston Villa,Manchester United,0,1,2015-08-14 22:45:00,Memphis Depay,Cross,551
+57729,0,BlockedShot,0.775,0.3770000076293945,0.02095320075750351,Morgan Schneiderlin,a,551,OpenPlay,2015,RightFoot,120,Swansea,Manchester United,2,1,2015-08-30 19:00:00,Juan Mata,Pass,551
+58230,41,BlockedShot,0.909000015258789,0.5509999847412109,0.09552019834518433,Morgan Schneiderlin,a,551,FromCorner,2015,LeftFoot,139,Southampton,Manchester United,2,3,2015-09-20 19:00:00,Juan Mata,Pass,551
+58950,17,Goal,0.89,0.5920000076293945,0.34727200865745544,Morgan Schneiderlin,a,551,FromCorner,2015,RightFoot,166,Everton,Manchester United,0,3,2015-10-17 18:00:00,Chris Smalling,Pass,551
+55283,27,MissedShots,0.9259999847412109,0.34700000762939454,0.06876900047063828,Morgan Schneiderlin,a,551,SetPiece,2015,RightFoot,201,Watford,Manchester United,1,2,2015-11-21 16:45:00,,BallTouch,551
+54275,38,BlockedShot,0.8430000305175781,0.4909999847412109,0.044102299958467484,Morgan Schneiderlin,h,551,FromCorner,2015,RightFoot,226,Manchester United,West Ham,0,0,2015-12-05 19:00:00,Marouane Fellaini,Pass,551
+53323,9,MissedShots,0.7830000305175782,0.345,0.020320799201726913,Morgan Schneiderlin,h,551,OpenPlay,2015,RightFoot,267,Manchester United,Chelsea,0,0,2015-12-28 21:30:00,Wayne Rooney,Pass,551
+59695,55,BlockedShot,0.9019999694824219,0.655,0.05868940055370331,Morgan Schneiderlin,h,551,SetPiece,2015,RightFoot,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,,None,551
+61215,18,MissedShots,0.759000015258789,0.4520000076293945,0.01634960062801838,Morgan Schneiderlin,h,551,SetPiece,2015,RightFoot,358,Manchester United,Watford,1,0,2016-03-03 00:00:00,,None,551
+59914,35,MissedShots,0.8290000152587891,0.4470000076293945,0.02758839912712574,Morgan Schneiderlin,h,551,FromCorner,2015,Head,393,Manchester United,Everton,1,0,2016-04-03 19:00:00,,None,551
+56664,84,MissedShots,0.865999984741211,0.37900001525878907,0.08563250303268433,Morgan Schneiderlin,a,551,OpenPlay,2015,RightFoot,437,Norwich,Manchester United,0,1,2016-05-07 15:45:00,Wayne Rooney,Pass,551
+116280,75,SavedShot,0.9009999847412109,0.43099998474121093,0.06494329869747162,Morgan Schneiderlin,a,551,SetPiece,2016,Head,3369,Stoke,Everton,1,1,2017-02-01 23:00:00,Ross Barkley,Cross,551
+116281,77,SavedShot,0.7069999694824218,0.3659999847412109,0.012332100421190262,Morgan Schneiderlin,a,551,OpenPlay,2016,RightFoot,3369,Stoke,Everton,1,1,2017-02-01 23:00:00,,BallRecovery,551
+116287,86,MissedShots,0.855,0.4370000076293945,0.009067240171134472,Morgan Schneiderlin,a,551,SetPiece,2016,Head,3369,Stoke,Everton,1,1,2017-02-01 23:00:00,Ross Barkley,Aerial,551
+118389,1,MissedShots,0.9230000305175782,0.6370000076293946,0.044388800859451294,Morgan Schneiderlin,h,551,FromCorner,2016,LeftFoot,3393,Everton,Sunderland,2,0,2017-02-25 15:00:00,Ross Barkley,Cross,551
+118390,3,BlockedShot,0.95,0.6469999694824219,0.01519909966737032,Morgan Schneiderlin,h,551,FromCorner,2016,Head,3393,Everton,Sunderland,2,0,2017-02-25 15:00:00,Ross Barkley,CornerAwarded,551
+119287,45,Goal,0.9390000152587891,0.4179999923706055,0.48003000020980835,Morgan Schneiderlin,h,551,OpenPlay,2016,RightFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Romelu Lukaku,Pass,551
+121780,51,MissedShots,0.75,0.38799999237060545,0.01658260077238083,Morgan Schneiderlin,h,551,OpenPlay,2016,RightFoot,3502,Everton,Watford,1,0,2017-05-12 19:45:00,,None,551
+121784,67,MissedShots,0.94,0.41,0.06260310113430023,Morgan Schneiderlin,h,551,FromCorner,2016,Head,3502,Everton,Watford,1,0,2017-05-12 19:45:00,Leighton Baines,Cross,551
+160132,8,MissedShots,0.919000015258789,0.48200000762939454,0.04808510094881058,Morgan Schneiderlin,h,551,FromCorner,2017,Head,7187,Everton,Burnley,0,1,2017-10-01 14:15:00,Leighton Baines,Aerial,551
+160133,9,BlockedShot,0.7680000305175781,0.575,0.022380400449037552,Morgan Schneiderlin,h,551,OpenPlay,2017,RightFoot,7187,Everton,Burnley,0,1,2017-10-01 14:15:00,Gylfi Sigurdsson,Pass,551
+160139,33,MissedShots,0.8580000305175781,0.6079999923706054,0.054438598453998566,Morgan Schneiderlin,h,551,OpenPlay,2017,LeftFoot,7187,Everton,Burnley,0,1,2017-10-01 14:15:00,,None,551
+188784,18,MissedShots,0.9359999847412109,0.4759999847412109,0.14017899334430695,Morgan Schneiderlin,h,551,SetPiece,2017,Head,7352,Everton,West Bromwich Albion,1,1,2018-01-20 15:00:00,Gylfi Sigurdsson,Cross,551
+215650,72,BlockedShot,0.8719999694824219,0.315,0.056834299117326736,Morgan Schneiderlin,a,551,OpenPlay,2017,RightFoot,7489,West Ham,Everton,3,1,2018-05-13 15:00:00,Idrissa Gueye,Pass,551
+251721,91,BlockedShot,0.815,0.6469999694824219,0.026133600622415543,Morgan Schneiderlin,h,551,OpenPlay,2018,RightFoot,9372,Everton,Tottenham,2,6,2018-12-23 16:00:00,,None,551
+276344,61,MissedShots,0.9219999694824219,0.4620000076293945,0.04151489958167076,Morgan Schneiderlin,h,551,FromCorner,2018,Head,9483,Everton,Liverpool,0,0,2019-03-03 16:15:00,Lucas Digne,Aerial,551
+297464,58,MissedShots,0.8180000305175781,0.33,0.03343990072607994,Morgan Schneiderlin,a,551,OpenPlay,2018,RightFoot,9554,Crystal Palace,Everton,0,0,2019-04-27 15:00:00,,None,551
+312227,76,MissedShots,0.8090000152587891,0.4420000076293945,0.032690100371837616,Morgan Schneiderlin,a,551,FromCorner,2019,RightFoot,11663,Aston Villa,Everton,2,0,2019-08-23 20:00:00,,None,551
+320395,10,MissedShots,0.8109999847412109,0.509000015258789,0.05522720143198967,Morgan Schneiderlin,h,551,OpenPlay,2019,RightFoot,11698,Everton,Sheffield United,0,2,2019-09-21 14:00:00,Gylfi Sigurdsson,BallTouch,551
+330684,80,MissedShots,0.7619999694824219,0.4329999923706055,0.014343599788844585,Morgan Schneiderlin,a,551,FromCorner,2019,RightFoot,11758,Southampton,Everton,1,2,2019-11-09 15:00:00,,Aerial,551
+332296,51,BlockedShot,0.8640000152587891,0.38,0.08351729810237885,Morgan Schneiderlin,h,551,FromCorner,2019,RightFoot,11768,Everton,Norwich,0,2,2019-11-23 15:00:00,,TakeOn,551
+335474,56,MissedShots,0.765,0.3729999923706055,0.020653700456023216,Morgan Schneiderlin,h,551,OpenPlay,2019,LeftFoot,11796,Everton,Chelsea,3,1,2019-12-07 12:30:00,,Rebound,551
+352673,92,MissedShots,0.8669999694824219,0.47,0.13090699911117554,Morgan Schneiderlin,h,551,OpenPlay,2019,RightFoot,11897,Everton,Crystal Palace,3,1,2020-02-08 12:30:00,Djibril Sidibe,Pass,551
+377905,18,SavedShot,0.725,0.47900001525878905,0.014001600444316864,Morgan Schneiderlin,h,551,OpenPlay,2020,RightFoot,14207,Nice,Paris Saint Germain,0,3,2020-09-20 11:00:00,,None,551
+383983,12,SavedShot,0.9290000152587891,0.4640000152587891,0.11238399893045425,Morgan Schneiderlin,h,551,FromCorner,2020,Head,15830,Nice,Lille,1,1,2020-10-25 16:00:00,Rony Lopes,Cross,551
+386743,88,BlockedShot,0.889000015258789,0.5029999923706054,0.01717899926006794,Morgan Schneiderlin,h,551,FromCorner,2020,Head,15849,Nice,Monaco,1,2,2020-11-08 16:00:00,Amine Gouiri,Aerial,551
+397399,18,MissedShots,0.7709999847412109,0.37,0.0214735995978117,Morgan Schneiderlin,a,551,OpenPlay,2020,RightFoot,15935,Brest,Nice,2,0,2021-01-06 18:00:00,,None,551
+397407,50,SavedShot,0.915,0.629000015258789,0.03525950014591217,Morgan Schneiderlin,a,551,SetPiece,2020,RightFoot,15935,Brest,Nice,2,0,2021-01-06 18:00:00,Jeff Reine-Adelaide,Cross,551
+405977,80,MissedShots,0.870999984741211,0.47200000762939454,0.013846700079739094,Morgan Schneiderlin,h,551,FromCorner,2020,Head,16011,Nice,Metz,1,2,2021-02-21 14:00:00,Jean-Clair Todibo,Aerial,551
+406488,29,MissedShots,0.795,0.33299999237060546,0.03782450035214424,Morgan Schneiderlin,a,551,OpenPlay,2020,RightFoot,16024,Rennes,Nice,1,2,2021-02-26 20:00:00,,None,551
+411431,35,MissedShots,0.8969999694824219,0.53,0.05874529853463173,Morgan Schneiderlin,h,551,FromCorner,2020,Head,16046,Nice,Marseille,3,0,2021-03-20 20:00:00,Amine Gouiri,Cross,551
+415721,62,MissedShots,0.9640000152587891,0.40900001525878904,0.2500529885292053,Morgan Schneiderlin,a,551,FromCorner,2020,RightFoot,16083,Dijon,Nice,2,0,2021-04-18 13:00:00,Alexis Claude Maurice,Cross,551
+444373,77,MissedShots,0.8859999847412109,0.610999984741211,0.057357899844646454,Morgan Schneiderlin,h,551,OpenPlay,2021,LeftFoot,17971,Nice,Metz,0,1,2021-11-27 20:00:00,Amine Gouiri,Cross,551
+444383,90,MissedShots,0.9009999847412109,0.425,0.08575510233640671,Morgan Schneiderlin,h,551,OpenPlay,2021,RightFoot,17971,Nice,Metz,0,1,2021-11-27 20:00:00,Alexis Claude Maurice,Cross,551

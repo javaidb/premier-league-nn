@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+19700,64,Goal,0.8780000305175781,0.38,0.40750598907470703,Tomas Rosicky,h,4400,OpenPlay,2014,RightFoot,4638,Arsenal,Queens Park Rangers,2,1,2014-12-26 17:30:00,Alexis Sánchez,Pass,4400
+20124,4,SavedShot,0.925,0.31,0.0767349973320961,Tomas Rosicky,h,4400,OpenPlay,2014,RightFoot,4569,Arsenal,Stoke,3,0,2015-01-11 13:30:00,Santiago Cazorla,TakeOn,4400
+18847,83,MissedShots,0.835999984741211,0.645,0.07231000065803528,Tomas Rosicky,a,4400,OpenPlay,2014,RightFoot,4579,Manchester City,Arsenal,0,2,2015-01-18 16:00:00,Olivier Giroud,TakeOn,4400
+23839,46,MissedShots,0.795,0.31,0.017487099394202232,Tomas Rosicky,h,4400,FromCorner,2014,RightFoot,4525,Arsenal,Leicester,2,1,2015-02-10 19:45:00,,None,4400
+23053,88,Goal,0.7719999694824219,0.4929999923706055,0.03716620057821274,Tomas Rosicky,h,4400,OpenPlay,2014,RightFoot,4481,Arsenal,Everton,2,0,2015-03-01 14:05:00,Mesut Özil,Pass,4400
+23057,94,SavedShot,0.8390000152587891,0.285,0.04313129931688309,Tomas Rosicky,h,4400,OpenPlay,2014,RightFoot,4481,Arsenal,Everton,2,0,2015-03-01 14:05:00,,BallRecovery,4400
+24228,28,MissedShots,0.8590000152587891,0.355,0.031105199828743935,Tomas Rosicky,a,4400,OpenPlay,2014,RightFoot,4490,Queens Park Rangers,Arsenal,1,2,2015-03-04 19:45:00,Kieran Gibbs,Cross,4400
+24242,62,SavedShot,0.895,0.35900001525878905,0.043913599103689194,Tomas Rosicky,a,4400,FromCorner,2014,RightFoot,4490,Queens Park Rangers,Arsenal,1,2,2015-03-04 19:45:00,Olivier Giroud,HeadPass,4400
+24249,75,BlockedShot,0.904000015258789,0.44400001525878907,0.14201000332832336,Tomas Rosicky,a,4400,OpenPlay,2014,RightFoot,4490,Queens Park Rangers,Arsenal,1,2,2015-03-04 19:45:00,Héctor Bellerín,Pass,4400
+22069,82,MissedShots,0.925,0.355,0.09837070107460022,Tomas Rosicky,h,4400,OpenPlay,2014,LeftFoot,4429,Arsenal,Sunderland,0,0,2015-05-20 19:45:00,Theo Walcott,Pass,4400

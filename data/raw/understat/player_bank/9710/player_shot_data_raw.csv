@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+426941,13,MissedShots,0.92,0.44099998474121094,0.07590249925851822,Armel Bella Kotchap,h,9710,SetPiece,2021,Head,17527,Bochum,Mainz 05,2,0,2021-08-21 13:30:00,Danilo Soares,Chipped,9710
+430596,46,MissedShots,0.735999984741211,0.605999984741211,0.011140299960970879,Armel Bella Kotchap,h,9710,OpenPlay,2021,RightFoot,17550,Bochum,Hertha Berlin,1,3,2021-09-12 15:30:00,,None,9710
+453140,19,SavedShot,0.9490000152587891,0.40599998474121096,0.025890499353408813,Armel Bella Kotchap,a,9710,FromCorner,2021,Head,17681,Mainz 05,Bochum,1,0,2022-01-15 14:30:00,Eduard Löwen,Aerial,9710
+453169,94,SavedShot,0.9590000152587891,0.5629999923706055,0.07281579822301865,Armel Bella Kotchap,a,9710,OpenPlay,2021,Head,17681,Mainz 05,Bochum,1,0,2022-01-15 14:30:00,Danny Blum,HeadPass,9710
+454799,31,MissedShots,0.9269999694824219,0.44299999237060544,0.11176099628210068,Armel Bella Kotchap,h,9710,SetPiece,2021,Head,17688,Bochum,FC Cologne,2,2,2022-01-22 17:30:00,Eduard Löwen,Cross,9710
+454809,67,MissedShots,0.6769999694824219,0.365,0.012079100124537945,Armel Bella Kotchap,h,9710,OpenPlay,2021,RightFoot,17688,Bochum,FC Cologne,2,2,2022-01-22 17:30:00,Danilo Soares,Pass,9710
+458155,55,OwnGoal,0.03200000047683716,0.4859999847412109,0,Armel Bella Kotchap,a,9710,FromCorner,2021,OtherBodyPart,17719,VfB Stuttgart,Bochum,1,1,2022-02-19 14:30:00,,CornerAwarded,9710
+461027,63,OwnGoal,0.05699999809265137,0.49,0,Armel Bella Kotchap,h,9710,FromCorner,2021,OtherBodyPart,17732,Bochum,Greuther Fuerth,2,1,2022-03-05 14:30:00,,Clearance,9710
+472892,36,SavedShot,0.924000015258789,0.46900001525878904,0.3350229859352112,Armel Bella Kotchap,h,9710,SetPiece,2021,Head,17751,Bochum,Borussia M.Gladbach,0,2,2022-03-18 17:30:00,Eduard Löwen,Cross,9710
+468010,46,MissedShots,0.9219999694824219,0.42700000762939455,0.10363999754190445,Armel Bella Kotchap,a,9710,SetPiece,2021,Head,17781,Freiburg,Bochum,3,0,2022-04-16 13:30:00,Eduard Löwen,Cross,9710
+470671,52,MissedShots,0.66,0.4209999847412109,0.007374870125204325,Armel Bella Kotchap,h,9710,OpenPlay,2021,RightFoot,17787,Bochum,Augsburg,0,2,2022-04-24 13:30:00,Danilo Soares,Pass,9710
+470677,80,MissedShots,0.9769999694824218,0.62,0.07878740131855011,Armel Bella Kotchap,h,9710,SetPiece,2021,RightFoot,17787,Bochum,Augsburg,0,2,2022-04-24 13:30:00,Sebastian Polter,Rebound,9710
+480334,26,MissedShots,0.7569999694824219,0.539000015258789,0.051009401679039,Armel Bella Kotchap,h,9710,OpenPlay,2022,LeftFoot,18215,Southampton,Leeds,2,2,2022-08-13 14:00:00,,BallRecovery,9710
+481835,61,MissedShots,0.9309999847412109,0.4859999847412109,0.2282869964838028,Armel Bella Kotchap,a,9710,FromCorner,2022,Head,18226,Leicester,Southampton,1,2,2022-08-20 14:00:00,James Ward-Prowse,Aerial,9710
+483391,30,MissedShots,0.9569999694824218,0.55,0.5104079842567444,Armel Bella Kotchap,h,9710,FromCorner,2022,LeftFoot,18232,Southampton,Manchester United,0,1,2022-08-27 11:30:00,Che Adams,HeadPass,9710
+483401,62,MissedShots,0.9069999694824219,0.4570000076293945,0.02268180064857006,Armel Bella Kotchap,h,9710,FromCorner,2022,Head,18232,Southampton,Manchester United,0,1,2022-08-27 11:30:00,James Ward-Prowse,Aerial,9710
+483405,84,MissedShots,0.855999984741211,0.28899999618530275,0.017890799790620804,Armel Bella Kotchap,h,9710,OpenPlay,2022,RightFoot,18232,Southampton,Manchester United,0,1,2022-08-27 11:30:00,Stuart Armstrong,TakeOn,9710
+483406,85,BlockedShot,0.6680000305175782,0.3110000038146973,0.010572999715805054,Armel Bella Kotchap,h,9710,OpenPlay,2022,RightFoot,18232,Southampton,Manchester United,0,1,2022-08-27 11:30:00,Romeo Lavia,Pass,9710
+485918,21,MissedShots,0.8880000305175781,0.5479999923706055,0.03619980067014694,Armel Bella Kotchap,a,9710,FromCorner,2022,Head,18256,Wolverhampton Wanderers,Southampton,1,0,2022-09-03 14:00:00,James Ward-Prowse,Cross,9710
+490110,24,MissedShots,0.7019999694824218,0.34599998474121096,0.011675800196826458,Armel Bella Kotchap,h,9710,OpenPlay,2022,LeftFoot,18290,Southampton,Everton,1,2,2022-10-01 14:00:00,,BallRecovery,9710
+490133,72,MissedShots,0.8830000305175781,0.395,0.07018540054559708,Armel Bella Kotchap,h,9710,FromCorner,2022,RightFoot,18290,Southampton,Everton,1,2,2022-10-01 14:00:00,,Rebound,9710
+493652,10,SavedShot,0.9290000152587891,0.41,0.022583099082112312,Armel Bella Kotchap,h,9710,FromCorner,2022,Head,18309,Southampton,West Ham,1,1,2022-10-16 13:00:00,,Aerial,9710
+510857,89,MissedShots,0.925,0.46599998474121096,0.10325100272893906,Armel Bella Kotchap,a,9710,FromCorner,2022,Head,18446,Leeds,Southampton,1,0,2023-02-25 15:00:00,James Ward-Prowse,Cross,9710
+518226,48,MissedShots,0.9109999847412109,0.519000015258789,0.11159200221300125,Armel Bella Kotchap,h,9710,SetPiece,2022,Head,18499,Southampton,Manchester City,1,4,2023-04-08 16:30:00,James Ward-Prowse,Cross,9710
+519441,75,SavedShot,0.72,0.5570000076293945,0.012066099792718887,Armel Bella Kotchap,h,9710,OpenPlay,2022,RightFoot,18508,Southampton,Crystal Palace,0,2,2023-04-15 14:00:00,Ainsley Maitland-Niles,Pass,9710
+520574,65,MissedShots,0.9580000305175781,0.4209999847412109,0.06186062842607498,Armel Bella Kotchap,a,9710,FromCorner,2022,OtherBodyPart,18512,Arsenal,Southampton,3,3,2023-04-21 19:00:00,James Ward-Prowse,Cross,9710

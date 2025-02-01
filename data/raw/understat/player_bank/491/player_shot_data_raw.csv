@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+113146,17,OwnGoal,0.006000000238418579,0.4779999923706055,0,Petr Cech,h,491,SetPiece,2016,OtherBodyPart,494,Arsenal,Southampton,2,1,2016-09-10 18:00:00,,Card,491

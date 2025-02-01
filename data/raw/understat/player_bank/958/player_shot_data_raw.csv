@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+53941,78,BlockedShot,0.885,0.42,0.10429999977350235,Tokelo Rantie,h,958,OpenPlay,2015,LeftFoot,255,Bournemouth,Crystal Palace,0,0,2015-12-26 19:00:00,Eunan O&#039;Kane,Pass,958

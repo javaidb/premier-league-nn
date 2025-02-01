@@ -1,0 +1,8 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,2,Sub,Aston Villa,Burnley,0,1,2015-05-24,4430,2014,25121,0,0,0,0,0,0,0,4423
+0,0,0,1,Sub,Burnley,Manchester City,1,0,2015-03-14,4498,2014,25135,0,0,0,0,0,0,0,4423
+0,0,0,54,Sub,Newcastle United,Burnley,3,3,2015-01-01,4553,2014,22679,0,0,0,0,0,0.10044799745082855,0.10044799745082855,4423
+0,0,0,1,Sub,Stoke,Burnley,1,2,2014-11-22,4669,2014,19949,0,0,0,0,0,0,0,4423
+0,0,0,48,MC,West Bromwich Albion,Burnley,4,0,2014-09-28,4747,2014,18677,0,0,0,0,0,0,0,4423
+0,0,0,1,Sub,Burnley,Sunderland,0,0,2014-09-20,4732,2014,18171,0,0,0,0,0,0,0,4423
+0,0,0,1,Sub,Burnley,Manchester United,0,0,2014-08-30,4769,2014,17617,0,0,0,0,0,0,0,4423

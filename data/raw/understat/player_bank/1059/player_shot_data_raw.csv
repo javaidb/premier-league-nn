@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+53685,75,BlockedShot,0.76,0.5559999847412109,0.0218455009162426,Hiram Boateng,a,1059,OpenPlay,2015,LeftFoot,325,Swansea,Crystal Palace,1,1,2016-02-06 19:00:00,Wilfried Zaha,Pass,1059

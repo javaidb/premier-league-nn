@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+385149,64,MissedShots,0.7580000305175781,0.6909999847412109,0.016959799453616142,Niels Nkounkou,a,8109,OpenPlay,2020,LeftFoot,14501,Newcastle United,Everton,2,1,2020-11-01 14:00:00,Bernard,Pass,8109
+536906,86,Goal,0.9019999694824219,0.6680000305175782,0.0662584900856018,Niels Nkounkou,h,8109,OpenPlay,2023,LeftFoot,23090,Eintracht Frankfurt,FC Cologne,1,1,2023-09-03 13:30:00,Paxten Aaronson,Pass,8109
+549150,61,MissedShots,0.76,0.7580000305175781,0.012340914458036423,Niels Nkounkou,a,8109,OpenPlay,2023,LeftFoot,23159,Werder Bremen,Eintracht Frankfurt,2,2,2023-11-12 16:30:00,Ellyes Skhiri,Pass,8109
+552021,59,MissedShots,0.745,0.66,0.012434419244527817,Niels Nkounkou,a,8109,OpenPlay,2023,RightFoot,23179,Augsburg,Eintracht Frankfurt,2,1,2023-12-03 18:30:00,Philipp Max,Pass,8109
+552026,80,BlockedShot,0.9319999694824219,0.3129999923706055,0.06734192371368408,Niels Nkounkou,a,8109,OpenPlay,2023,LeftFoot,23179,Augsburg,Eintracht Frankfurt,2,1,2023-12-03 18:30:00,,TakeOn,8109
+552027,86,SavedShot,0.8069999694824219,0.28299999237060547,0.023449644446372986,Niels Nkounkou,a,8109,OpenPlay,2023,LeftFoot,23179,Augsburg,Eintracht Frankfurt,2,1,2023-12-03 18:30:00,Jessic Ngankam,Pass,8109
+552857,82,MissedShots,0.79,0.6569999694824219,0.07169833779335022,Niels Nkounkou,h,8109,OpenPlay,2023,LeftFoot,23184,Eintracht Frankfurt,Bayern Munich,5,1,2023-12-09 14:30:00,,BallRecovery,8109
+552862,89,MissedShots,0.8830000305175781,0.725999984741211,0.03326720371842384,Niels Nkounkou,h,8109,OpenPlay,2023,RightFoot,23184,Eintracht Frankfurt,Bayern Munich,5,1,2023-12-09 14:30:00,Hugo Larsson,TakeOn,8109
+558094,55,MissedShots,0.855999984741211,0.7230000305175781,0.04379572719335556,Niels Nkounkou,a,8109,OpenPlay,2023,LeftFoot,23210,RasenBallsport Leipzig,Eintracht Frankfurt,0,1,2024-01-13 14:30:00,Sasa Kalajdzic,Pass,8109
+558976,2,SavedShot,0.7669999694824219,0.6659999847412109,0.02983168140053749,Niels Nkounkou,a,8109,FromCorner,2023,LeftFoot,23226,Darmstadt,Eintracht Frankfurt,2,2,2024-01-20 14:30:00,Mario Götze,Pass,8109
+558978,13,SavedShot,0.875999984741211,0.7140000152587891,0.04367784410715103,Niels Nkounkou,a,8109,OpenPlay,2023,LeftFoot,23226,Darmstadt,Eintracht Frankfurt,2,2,2024-01-20 14:30:00,Mario Götze,Chipped,8109
+558979,32,Goal,0.905,0.5690000152587891,0.3877168893814087,Niels Nkounkou,a,8109,OpenPlay,2023,LeftFoot,23226,Darmstadt,Eintracht Frankfurt,2,2,2024-01-20 14:30:00,Eric Junior Dina Ebimbe,Pass,8109
+559565,63,MissedShots,0.7580000305175781,0.61,0.023063339293003082,Niels Nkounkou,h,8109,OpenPlay,2023,LeftFoot,23230,Eintracht Frankfurt,Mainz 05,1,0,2024-01-26 19:30:00,Ansgar Knauff,Pass,8109
+561395,50,BlockedShot,0.7469999694824219,0.5720000076293945,0.020491765812039375,Niels Nkounkou,a,8109,OpenPlay,2023,LeftFoot,23241,FC Cologne,Eintracht Frankfurt,2,0,2024-02-03 17:30:00,Mario Götze,BallTouch,8109
+561403,64,MissedShots,0.7880000305175782,0.7230000305175781,0.01494701486080885,Niels Nkounkou,a,8109,OpenPlay,2023,LeftFoot,23241,FC Cologne,Eintracht Frankfurt,2,0,2024-02-03 17:30:00,,None,8109
+566427,48,Goal,0.8980000305175782,0.6880000305175781,0.07592396438121796,Niels Nkounkou,a,8109,OpenPlay,2023,LeftFoot,23279,FC Heidenheim,Eintracht Frankfurt,1,2,2024-03-02 14:30:00,Tuta,Pass,8109
+568781,7,BlockedShot,0.825,0.63,0.041351065039634705,Niels Nkounkou,h,8109,OpenPlay,2023,LeftFoot,23284,Eintracht Frankfurt,Hoffenheim,3,1,2024-03-10 16:30:00,Eric Junior Dina Ebimbe,BallTouch,8109
+570089,63,SavedShot,0.7269999694824218,0.6170000076293946,0.011367215774953365,Niels Nkounkou,a,8109,OpenPlay,2023,LeftFoot,23290,Borussia Dortmund,Eintracht Frankfurt,3,1,2024-03-17 16:30:00,Mario Götze,Chipped,8109
+570099,94,MissedShots,0.8630000305175781,0.6480000305175782,0.05533220246434212,Niels Nkounkou,a,8109,FromCorner,2023,LeftFoot,23290,Borussia Dortmund,Eintracht Frankfurt,3,1,2024-03-17 16:30:00,Robin Koch,Rebound,8109
+570591,33,BlockedShot,0.7530000305175781,0.5309999847412109,0.02053414285182953,Niels Nkounkou,h,8109,OpenPlay,2023,RightFoot,23302,Eintracht Frankfurt,Union Berlin,0,0,2024-03-30 14:30:00,Ellyes Skhiri,Pass,8109
+570592,40,MissedShots,0.8009999847412109,0.6880000305175781,0.02561015449464321,Niels Nkounkou,h,8109,OpenPlay,2023,LeftFoot,23302,Eintracht Frankfurt,Union Berlin,0,0,2024-03-30 14:30:00,Eric Junior Dina Ebimbe,Pass,8109
+572072,81,BlockedShot,0.8490000152587891,0.6719999694824219,0.04439738020300865,Niels Nkounkou,h,8109,OpenPlay,2023,RightFoot,23311,Eintracht Frankfurt,Werder Bremen,1,1,2024-04-05 18:30:00,,None,8109
+572073,83,MissedShots,0.735,0.600999984741211,0.01882929727435112,Niels Nkounkou,h,8109,OpenPlay,2023,LeftFoot,23311,Eintracht Frankfurt,Werder Bremen,1,1,2024-04-05 18:30:00,Hugo Larsson,Pass,8109
+572079,94,MissedShots,0.9030000305175782,0.455,0.047844696789979935,Niels Nkounkou,h,8109,OpenPlay,2023,Head,23311,Eintracht Frankfurt,Werder Bremen,1,1,2024-04-05 18:30:00,William Pacho,Aerial,8109
+589005,19,MissedShots,0.7809999847412109,0.635,0.0262632854282856,Niels Nkounkou,h,8109,OpenPlay,2024,LeftFoot,27756,Eintracht Frankfurt,Hoffenheim,3,1,2024-08-31 13:30:00,Hugo Ekitike,Pass,8109
+605717,39,MissedShots,0.8019999694824219,0.6719999694824219,0.027734259143471718,Niels Nkounkou,h,8109,OpenPlay,2024,LeftFoot,27858,Eintracht Frankfurt,Augsburg,2,2,2024-12-07 14:30:00,Farès Chaïbi,Pass,8109

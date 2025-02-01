@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+16133,33,MissedShots,0.71,0.48200000762939454,0.008538260124623775,Mikel Arteta,a,970,OpenPlay,2014,RightFoot,4711,Sunderland,Arsenal,0,2,2014-10-25 15:00:00,Danny Welbeck,Chipped,970
+16729,45,MissedShots,0.775,0.485,0.02797590009868145,Mikel Arteta,h,970,OpenPlay,2014,LeftFoot,4652,Arsenal,Burnley,3,0,2014-11-01 15:00:00,Alex Oxlade-Chamberlain,Pass,970
+55512,39,OwnGoal,0.01,0.47900001525878905,0,Mikel Arteta,a,970,OpenPlay,2015,RightFoot,204,West Bromwich Albion,Arsenal,2,1,2015-11-21 19:00:00,,BallTouch,970
+51987,91,SavedShot,0.899000015258789,0.47099998474121096,0.516431987285614,Mikel Arteta,h,970,OpenPlay,2015,RightFoot,451,Arsenal,Aston Villa,4,0,2016-05-15 18:00:00,Alexis Sánchez,Pass,970

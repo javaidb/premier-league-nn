@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+537683,84,MissedShots,0.925,0.46900001525878904,0.047282006591558456,Cauley Woodrow,a,11721,OpenPlay,2023,Head,21939,Fulham,Luton,1,0,2023-09-16 14:00:00,Issa Kabore,Aerial,11721
+539130,92,MissedShots,0.8119999694824219,0.5220000076293946,0.019432146102190018,Cauley Woodrow,h,11721,OpenPlay,2023,LeftFoot,21945,Luton,Wolverhampton Wanderers,1,1,2023-09-23 14:00:00,,Aerial,11721
+539131,96,BlockedShot,0.8859999847412109,0.45099998474121095,0.11813633143901825,Cauley Woodrow,h,11721,OpenPlay,2023,RightFoot,21945,Luton,Wolverhampton Wanderers,1,1,2023-09-23 14:00:00,Pelly Ruddock Mpanzu,Pass,11721
+542424,66,SavedShot,0.805,0.580999984741211,0.08494163304567337,Cauley Woodrow,h,11721,OpenPlay,2023,RightFoot,21971,Luton,Tottenham,0,1,2023-10-07 11:30:00,Carlton Morris,BallRecovery,11721
+544040,89,BlockedShot,0.8440000152587891,0.605,0.05364891514182091,Cauley Woodrow,a,11721,OpenPlay,2023,RightFoot,21982,Nottingham Forest,Luton,2,2,2023-10-21 14:00:00,Elijah Adebayo,TakeOn,11721
+560613,93,BlockedShot,0.8030000305175782,0.34400001525878904,0.04195420816540718,Cauley Woodrow,h,11721,OpenPlay,2023,RightFoot,22107,Luton,Brighton,4,0,2024-01-30 19:45:00,,BallRecovery,11721
+564542,29,BlockedShot,0.88,0.63,0.07115534693002701,Cauley Woodrow,h,11721,OpenPlay,2023,LeftFoot,22139,Luton,Manchester United,1,2,2024-02-18 16:30:00,Ross Barkley,Pass,11721
+564550,48,SavedShot,0.8090000152587891,0.46799999237060547,0.055863022804260254,Cauley Woodrow,h,11721,OpenPlay,2023,LeftFoot,22139,Luton,Manchester United,1,2,2024-02-18 16:30:00,Ross Barkley,Pass,11721
+564854,46,MissedShots,0.874000015258789,0.46,0.0876893401145935,Cauley Woodrow,a,11721,OpenPlay,2023,RightFoot,22151,Liverpool,Luton,4,1,2024-02-21 15:00:00,Chiedozie Ogbene,Cross,11721
+568091,95,Goal,0.9,0.4490000152587891,0.06752422451972961,Cauley Woodrow,a,11721,OpenPlay,2023,Head,22170,Crystal Palace,Luton,1,1,2024-03-09 15:00:00,Andros Townsend,Cross,11721
+573757,65,ShotOnPost,0.8859999847412109,0.42200000762939455,0.10310939699411392,Cauley Woodrow,a,11721,OpenPlay,2023,RightFoot,22221,Manchester City,Luton,5,1,2024-04-13 14:00:00,Fred Onyedinma,Pass,11721
+577909,79,MissedShots,0.8569999694824219,0.41900001525878905,0.04075919836759567,Cauley Woodrow,a,11721,FromCorner,2023,RightFoot,22244,Wolverhampton Wanderers,Luton,2,1,2024-04-27 14:00:00,Alfie Doughty,Cross,11721
+577911,82,MissedShots,0.799000015258789,0.43,0.027428939938545227,Cauley Woodrow,a,11721,FromCorner,2023,RightFoot,22244,Wolverhampton Wanderers,Luton,2,1,2024-04-27 14:00:00,,None,11721
+578155,84,MissedShots,0.664000015258789,0.5990000152587891,0.010316858999431133,Cauley Woodrow,h,11721,OpenPlay,2023,RightFoot,22252,Luton,Everton,1,1,2024-05-03 19:00:00,Ross Barkley,Pass,11721
+578156,90,BlockedShot,0.8190000152587891,0.7240000152587891,0.019401682540774345,Cauley Woodrow,h,11721,OpenPlay,2023,RightFoot,22252,Luton,Everton,1,1,2024-05-03 19:00:00,Alfie Doughty,HeadPass,11721
+582007,88,SavedShot,0.805,0.5609999847412109,0.1286953240633011,Cauley Woodrow,h,11721,DirectFreekick,2023,RightFoot,22272,Luton,Fulham,2,4,2024-05-19 15:00:00,,Standard,11721

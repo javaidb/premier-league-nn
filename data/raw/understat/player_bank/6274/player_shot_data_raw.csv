@@ -1,0 +1,85 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+166503,19,SavedShot,0.8059999847412109,0.34200000762939453,0.091942198574543,Andriy Yarmolenko,h,6274,OpenPlay,2017,LeftFoot,8294,Borussia Dortmund,FC Cologne,5,0,2017-09-17 17:00:00,Gonzalo Castro,Chipped,6274
+166508,34,MissedShots,0.9030000305175782,0.47,0.12334199994802475,Andriy Yarmolenko,h,6274,OpenPlay,2017,Head,8294,Borussia Dortmund,FC Cologne,5,0,2017-09-17 17:00:00,Lukasz Piszczek,Cross,6274
+167143,34,SavedShot,0.8830000305175781,0.4570000076293945,0.03686409816145897,Andriy Yarmolenko,a,6274,OpenPlay,2017,Head,8302,Hamburger SV,Borussia Dortmund,0,3,2017-09-20 19:30:00,Nuri Sahin,Aerial,6274
+167144,38,MissedShots,0.8340000152587891,0.5179999923706055,0.12464699894189835,Andriy Yarmolenko,a,6274,OpenPlay,2017,LeftFoot,8302,Hamburger SV,Borussia Dortmund,0,3,2017-09-20 19:30:00,,None,6274
+167148,62,SavedShot,0.905,0.355,0.11870300024747849,Andriy Yarmolenko,a,6274,OpenPlay,2017,RightFoot,8302,Hamburger SV,Borussia Dortmund,0,3,2017-09-20 19:30:00,Christian Pulisic,Pass,6274
+167286,3,Goal,0.9640000152587891,0.5670000076293945,0.11308799684047699,Andriy Yarmolenko,a,6274,FromCorner,2017,LeftFoot,8321,Augsburg,Borussia Dortmund,1,2,2017-09-30 14:30:00,,None,6274
+167287,9,SavedShot,0.7669999694824219,0.21600000381469728,0.009045450016856194,Andriy Yarmolenko,a,6274,SetPiece,2017,LeftFoot,8321,Augsburg,Borussia Dortmund,1,2,2017-09-30 14:30:00,,None,6274
+167291,36,BlockedShot,0.9269999694824219,0.5940000152587891,0.09038370102643967,Andriy Yarmolenko,a,6274,FromCorner,2017,LeftFoot,8321,Augsburg,Borussia Dortmund,1,2,2017-09-30 14:30:00,,None,6274
+167585,39,MissedShots,0.8080000305175781,0.46299999237060546,0.05312659963965416,Andriy Yarmolenko,h,6274,OpenPlay,2017,LeftFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Mario Götze,Pass,6274
+167595,83,SavedShot,0.9280000305175782,0.40599998474121096,0.08023259788751602,Andriy Yarmolenko,h,6274,SetPiece,2017,Head,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,Gonzalo Castro,Cross,6274
+167597,91,MissedShots,0.8780000305175781,0.39599998474121095,0.33434799313545227,Andriy Yarmolenko,h,6274,OpenPlay,2017,LeftFoot,8323,Borussia Dortmund,RasenBallsport Leipzig,2,3,2017-10-14 17:30:00,,Rebound,6274
+168803,26,BlockedShot,0.7709999847412109,0.3970000076293945,0.0257875993847847,Andriy Yarmolenko,a,6274,OpenPlay,2017,LeftFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Gonzalo Castro,Pass,6274
+168806,35,MissedShots,0.9159999847412109,0.4370000076293945,0.4358380138874054,Andriy Yarmolenko,a,6274,OpenPlay,2017,RightFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,Christian Pulisic,Pass,6274
+168809,51,Goal,0.85,0.38599998474121094,0.052289098501205444,Andriy Yarmolenko,a,6274,OpenPlay,2017,LeftFoot,8347,Hannover 96,Borussia Dortmund,4,2,2017-10-28 14:30:00,,None,6274
+168851,29,SavedShot,0.9,0.43099998474121093,0.5736719965934753,Andriy Yarmolenko,h,6274,OpenPlay,2017,RightFoot,8357,Borussia Dortmund,Bayern Munich,1,3,2017-11-04 17:30:00,Gonzalo Castro,Pass,6274
+168855,43,SavedShot,0.9390000152587891,0.345,0.1023550033569336,Andriy Yarmolenko,h,6274,OpenPlay,2017,RightFoot,8357,Borussia Dortmund,Bayern Munich,1,3,2017-11-04 17:30:00,Gonzalo Castro,Pass,6274
+168859,48,BlockedShot,0.8930000305175781,0.4909999847412109,0.12214700132608414,Andriy Yarmolenko,h,6274,OpenPlay,2017,LeftFoot,8357,Borussia Dortmund,Bayern Munich,1,3,2017-11-04 17:30:00,Christian Pulisic,Pass,6274
+168865,68,BlockedShot,0.655,0.39099998474121095,0.008218539878726006,Andriy Yarmolenko,h,6274,OpenPlay,2017,LeftFoot,8357,Borussia Dortmund,Bayern Munich,1,3,2017-11-04 17:30:00,Julian Weigl,Pass,6274
+168184,7,SavedShot,0.935,0.2720000076293945,0.048444099724292755,Andriy Yarmolenko,a,6274,OpenPlay,2017,RightFoot,8366,VfB Stuttgart,Borussia Dortmund,2,1,2017-11-17 19:30:00,Mario Götze,Pass,6274
+169004,17,SavedShot,0.855999984741211,0.40299999237060546,0.07548929750919342,Andriy Yarmolenko,a,6274,OpenPlay,2017,RightFoot,8382,Bayer Leverkusen,Borussia Dortmund,1,1,2017-12-02 14:30:00,Gonzalo Castro,Pass,6274
+169022,72,Goal,0.9009999847412109,0.5520000076293945,0.44122299551963806,Andriy Yarmolenko,a,6274,OpenPlay,2017,RightFoot,8382,Bayer Leverkusen,Borussia Dortmund,1,1,2017-12-02 14:30:00,André Schürrle,Pass,6274
+179824,39,MissedShots,0.7759999847412109,0.41900001525878905,0.025254499167203903,Andriy Yarmolenko,h,6274,OpenPlay,2017,LeftFoot,8385,Borussia Dortmund,Werder Bremen,1,2,2017-12-09 14:30:00,Pierre-Emerick Aubameyang,Pass,6274
+184101,91,MissedShots,0.745,0.5059999847412109,0.02606699988245964,Andriy Yarmolenko,a,6274,OpenPlay,2017,LeftFoot,8401,Mainz 05,Borussia Dortmund,0,2,2017-12-12 19:30:00,Mahmoud Dahoud,Pass,6274
+184129,4,MissedShots,0.895,0.6840000152587891,0.3160809874534607,Andriy Yarmolenko,h,6274,OpenPlay,2017,LeftFoot,8403,Borussia Dortmund,Hoffenheim,2,1,2017-12-16 17:30:00,,BallRecovery,6274
+184133,15,BlockedShot,0.9159999847412109,0.3920000076293945,0.17906500399112701,Andriy Yarmolenko,h,6274,OpenPlay,2017,LeftFoot,8403,Borussia Dortmund,Hoffenheim,2,1,2017-12-16 17:30:00,Christian Pulisic,TakeOn,6274
+187993,21,MissedShots,0.9480000305175781,0.455,0.6030679941177368,Andriy Yarmolenko,h,6274,OpenPlay,2017,LeftFoot,8412,Borussia Dortmund,Wolfsburg,0,0,2018-01-14 17:00:00,Lukasz Piszczek,Pass,6274
+187996,30,MissedShots,0.895,0.325,0.06316299736499786,Andriy Yarmolenko,h,6274,OpenPlay,2017,RightFoot,8412,Borussia Dortmund,Wolfsburg,0,0,2018-01-14 17:00:00,Shinji Kagawa,Pass,6274
+188002,47,MissedShots,0.9119999694824219,0.46900001525878904,0.5924320220947266,Andriy Yarmolenko,h,6274,OpenPlay,2017,RightFoot,8412,Borussia Dortmund,Wolfsburg,0,0,2018-01-14 17:00:00,Mario Götze,Pass,6274
+188008,66,MissedShots,0.8540000152587891,0.24700000762939453,0.0753697007894516,Andriy Yarmolenko,h,6274,OpenPlay,2017,LeftFoot,8412,Borussia Dortmund,Wolfsburg,0,0,2018-01-14 17:00:00,Mahmoud Dahoud,Chipped,6274
+189839,80,BlockedShot,0.8180000305175781,0.27,0.02371620014309883,Andriy Yarmolenko,h,6274,OpenPlay,2017,LeftFoot,8430,Borussia Dortmund,Freiburg,2,2,2018-01-27 14:30:00,Pierre-Emerick Aubameyang,Pass,6274
+212549,85,BlockedShot,0.879000015258789,0.4640000152587891,0.07793670147657394,Andriy Yarmolenko,a,6274,OpenPlay,2017,LeftFoot,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,Mario Götze,Cross,6274
+233730,70,BlockedShot,0.9069999694824219,0.41,0.12003199756145477,Andriy Yarmolenko,h,6274,OpenPlay,2018,RightFoot,9228,West Ham,Wolverhampton Wanderers,0,1,2018-09-01 14:00:00,Michail Antonio,Pass,6274
+233790,10,Goal,0.905,0.4640000152587891,0.589169979095459,Andriy Yarmolenko,a,6274,OpenPlay,2018,LeftFoot,9245,Everton,West Ham,1,3,2018-09-16 15:00:00,Marko Arnautovic,Pass,6274
+233794,30,Goal,0.8469999694824218,0.40299999237060546,0.08417899906635284,Andriy Yarmolenko,a,6274,OpenPlay,2018,LeftFoot,9245,Everton,West Ham,1,3,2018-09-16 15:00:00,Mark Noble,BallRecovery,6274
+234232,50,MissedShots,0.785,0.30100000381469727,0.023747699335217476,Andriy Yarmolenko,h,6274,OpenPlay,2018,LeftFoot,9255,West Ham,Chelsea,0,0,2018-09-23 12:30:00,Fabián Balbuena,Pass,6274
+234239,76,MissedShots,0.924000015258789,0.4329999923706055,0.2756589949131012,Andriy Yarmolenko,h,6274,OpenPlay,2018,Head,9255,West Ham,Chelsea,0,0,2018-09-23 12:30:00,Robert Snodgrass,Cross,6274
+234432,33,BlockedShot,0.8090000152587891,0.5320000076293945,0.03419699892401695,Andriy Yarmolenko,h,6274,FromCorner,2018,LeftFoot,9257,West Ham,Manchester United,3,1,2018-09-29 11:30:00,Felipe Anderson,Cross,6274
+234436,42,MissedShots,0.8490000152587891,0.37900001525878907,0.03707610070705414,Andriy Yarmolenko,h,6274,FromCorner,2018,LeftFoot,9257,West Ham,Manchester United,3,1,2018-09-29 11:30:00,Issa Diop,BallTouch,6274
+248972,33,SavedShot,0.7819999694824219,0.345,0.02379000000655651,Andriy Yarmolenko,a,6274,OpenPlay,2018,LeftFoot,9267,Brighton,West Ham,1,0,2018-10-05 19:00:00,Pedro Obiang,Pass,6274
+248975,51,BlockedShot,0.845999984741211,0.4520000076293945,0.061064399778842926,Andriy Yarmolenko,a,6274,OpenPlay,2018,LeftFoot,9267,Brighton,West Ham,1,0,2018-10-05 19:00:00,Marko Arnautovic,Pass,6274
+312559,49,SavedShot,0.7869999694824219,0.46,0.03803199902176857,Andriy Yarmolenko,a,6274,OpenPlay,2019,LeftFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Manuel Lanzini,Pass,6274
+315756,54,ShotOnPost,0.909000015258789,0.6580000305175782,0.038579199463129044,Andriy Yarmolenko,h,6274,FromCorner,2019,LeftFoot,11674,West Ham,Norwich,2,0,2019-08-31 15:00:00,Mark Noble,Cross,6274
+315757,55,Goal,0.9319999694824219,0.34200000762939453,0.08529029786586761,Andriy Yarmolenko,h,6274,OpenPlay,2019,LeftFoot,11674,West Ham,Norwich,2,0,2019-08-31 15:00:00,,None,6274
+315761,68,MissedShots,0.93,0.35900001525878905,0.06938759982585907,Andriy Yarmolenko,h,6274,FromCorner,2019,LeftFoot,11674,West Ham,Norwich,2,0,2019-08-31 15:00:00,,Rebound,6274
+318432,4,BlockedShot,0.8690000152587891,0.36700000762939455,0.08365560322999954,Andriy Yarmolenko,a,6274,OpenPlay,2019,LeftFoot,11692,Aston Villa,West Ham,0,0,2019-09-16 19:00:00,Sébastien Haller,LayOff,6274
+318435,14,MissedShots,0.7369999694824219,0.2560000038146973,0.011480400338768959,Andriy Yarmolenko,a,6274,OpenPlay,2019,LeftFoot,11692,Aston Villa,West Ham,0,0,2019-09-16 19:00:00,Ryan Fredericks,Pass,6274
+321024,19,SavedShot,0.805,0.5479999923706055,0.05289439857006073,Andriy Yarmolenko,h,6274,OpenPlay,2019,LeftFoot,11700,West Ham,Manchester United,2,0,2019-09-22 13:00:00,Felipe Anderson,Pass,6274
+321028,43,Goal,0.8680000305175781,0.41900001525878905,0.07941649854183197,Andriy Yarmolenko,h,6274,OpenPlay,2019,LeftFoot,11700,West Ham,Manchester United,2,0,2019-09-22 13:00:00,Felipe Anderson,Chipped,6274
+321030,48,SavedShot,0.8490000152587891,0.43,0.0838697999715805,Andriy Yarmolenko,h,6274,OpenPlay,2019,LeftFoot,11700,West Ham,Manchester United,2,0,2019-09-22 13:00:00,,None,6274
+322587,9,Goal,0.8619999694824219,0.41200000762939454,0.08341280370950699,Andriy Yarmolenko,a,6274,OpenPlay,2019,LeftFoot,11707,Bournemouth,West Ham,2,2,2019-09-28 14:00:00,Sébastien Haller,Pass,6274
+322604,63,MissedShots,0.899000015258789,0.28200000762939453,0.04640809819102287,Andriy Yarmolenko,a,6274,OpenPlay,2019,LeftFoot,11707,Bournemouth,West Ham,2,2,2019-09-28 14:00:00,Sébastien Haller,Pass,6274
+325325,66,SavedShot,0.7619999694824219,0.265,0.042079199105501175,Andriy Yarmolenko,a,6274,DirectFreekick,2019,LeftFoot,11727,Everton,West Ham,2,0,2019-10-19 12:30:00,,Standard,6274
+327170,51,BlockedShot,0.86,0.39799999237060546,0.1262969970703125,Andriy Yarmolenko,h,6274,OpenPlay,2019,LeftFoot,11742,West Ham,Sheffield United,1,1,2019-10-26 15:00:00,Sébastien Haller,Pass,6274
+327179,79,MissedShots,0.9580000305175781,0.44,0.4840480089187622,Andriy Yarmolenko,h,6274,OpenPlay,2019,LeftFoot,11742,West Ham,Sheffield United,1,1,2019-10-26 15:00:00,Pablo Fornals,Cross,6274
+327181,91,MissedShots,0.7280000305175781,0.5379999923706055,0.014861799776554108,Andriy Yarmolenko,h,6274,OpenPlay,2019,LeftFoot,11742,West Ham,Sheffield United,1,1,2019-10-26 15:00:00,Sébastien Haller,LayOff,6274
+330587,47,SavedShot,0.825999984741211,0.2979999923706055,0.03168230131268501,Andriy Yarmolenko,a,6274,OpenPlay,2019,LeftFoot,11753,Burnley,West Ham,3,0,2019-11-09 15:00:00,Ryan Fredericks,Pass,6274
+330599,84,MissedShots,0.8930000305175781,0.6509999847412109,0.26936501264572144,Andriy Yarmolenko,a,6274,OpenPlay,2019,LeftFoot,11753,Burnley,West Ham,3,0,2019-11-09 15:00:00,Manuel Lanzini,Chipped,6274
+330600,92,SavedShot,0.9780000305175781,0.3160000038146973,0.040424101054668427,Andriy Yarmolenko,a,6274,OpenPlay,2019,RightFoot,11753,Burnley,West Ham,3,0,2019-11-09 15:00:00,,None,6274
+335049,91,BlockedShot,0.87,0.3529999923706055,0.09405460208654404,Andriy Yarmolenko,a,6274,OpenPlay,2019,RightFoot,11787,Wolverhampton Wanderers,West Ham,2,0,2019-12-04 19:30:00,Felipe Anderson,Throughball,6274
+337177,78,MissedShots,0.9019999694824219,0.5370000076293945,0.15395599603652954,Andriy Yarmolenko,a,6274,OpenPlay,2019,RightFoot,11811,Southampton,West Ham,0,1,2019-12-14 17:30:00,Michail Antonio,Pass,6274
+368152,88,Goal,0.879000015258789,0.4929999923706055,0.4372340142726898,Andriy Yarmolenko,h,6274,OpenPlay,2019,LeftFoot,11962,West Ham,Chelsea,3,2,2020-07-01 19:15:00,Michail Antonio,Pass,6274
+368927,83,SavedShot,0.775,0.485,0.029370199888944626,Andriy Yarmolenko,a,6274,OpenPlay,2019,LeftFoot,11968,Newcastle United,West Ham,2,2,2020-07-05 13:15:00,Tomas Soucek,Pass,6274
+369663,34,BlockedShot,0.875999984741211,0.48200000762939454,0.11767199635505676,Andriy Yarmolenko,h,6274,OpenPlay,2019,LeftFoot,11982,West Ham,Burnley,0,1,2020-07-08 17:00:00,Michail Antonio,Pass,6274
+369667,41,SavedShot,0.884000015258789,0.3390000152587891,0.060957301408052444,Andriy Yarmolenko,h,6274,OpenPlay,2019,LeftFoot,11982,West Ham,Burnley,0,1,2020-07-08 17:00:00,Michail Antonio,Pass,6274
+373820,60,MissedShots,0.8040000152587891,0.16399999618530273,0.036051999777555466,Andriy Yarmolenko,h,6274,DirectFreekick,2019,LeftFoot,12013,West Ham,Aston Villa,1,1,2020-07-26 15:00:00,,Standard,6274
+373828,84,Goal,0.8030000305175782,0.3129999923706055,0.015115099959075451,Andriy Yarmolenko,h,6274,OpenPlay,2019,LeftFoot,12013,West Ham,Aston Villa,1,1,2020-07-26 15:00:00,Declan Rice,Chipped,6274
+376666,78,MissedShots,0.7330000305175781,0.5370000076293945,0.01778160035610199,Andriy Yarmolenko,h,6274,OpenPlay,2020,LeftFoot,14091,West Ham,Newcastle United,0,2,2020-09-12 19:00:00,Ryan Fredericks,Pass,6274
+376667,79,BlockedShot,0.765,0.3820000076293945,0.013970100320875645,Andriy Yarmolenko,h,6274,FromCorner,2020,LeftFoot,14091,West Ham,Newcastle United,0,2,2020-09-12 19:00:00,,Aerial,6274
+376671,92,SavedShot,0.875,0.3,0.05036870017647743,Andriy Yarmolenko,h,6274,OpenPlay,2020,LeftFoot,14091,West Ham,Newcastle United,0,2,2020-09-12 19:00:00,Tomas Soucek,Pass,6274
+383126,67,MissedShots,0.779000015258789,0.34299999237060547,0.0241698008030653,Andriy Yarmolenko,h,6274,OpenPlay,2020,LeftFoot,14493,West Ham,Manchester City,1,1,2020-10-24 11:30:00,Declan Rice,Pass,6274
+399015,86,BlockedShot,0.9,0.3940000152587891,0.11473000049591064,Andriy Yarmolenko,h,6274,OpenPlay,2020,RightFoot,14623,West Ham,Burnley,1,0,2021-01-16 15:00:00,Declan Rice,Pass,6274
+399016,87,BlockedShot,0.8669999694824219,0.2929999923706055,0.026988400146365166,Andriy Yarmolenko,h,6274,FromCorner,2020,RightFoot,14623,West Ham,Burnley,1,0,2021-01-16 15:00:00,,None,6274
+399739,66,SavedShot,0.8819999694824219,0.3060000038146973,0.06199920177459717,Andriy Yarmolenko,h,6274,OpenPlay,2020,LeftFoot,14611,West Ham,West Bromwich Albion,2,1,2021-01-19 18:00:00,Michail Antonio,Pass,6274
+428682,86,MissedShots,0.8619999694824219,0.28399999618530275,0.038598500192165375,Andriy Yarmolenko,h,6274,OpenPlay,2021,LeftFoot,16401,West Ham,Crystal Palace,2,2,2021-08-28 14:00:00,Declan Rice,Pass,6274
+429883,82,MissedShots,0.7630000305175781,0.455,0.024712899699807167,Andriy Yarmolenko,a,6274,OpenPlay,2021,LeftFoot,16411,Southampton,West Ham,0,0,2021-09-11 14:00:00,Aaron Cresswell,Pass,6274
+442636,77,BlockedShot,0.8680000305175781,0.28700000762939454,0.04187849909067154,Andriy Yarmolenko,a,6274,OpenPlay,2021,LeftFoot,16495,Wolverhampton Wanderers,West Ham,1,0,2021-11-20 15:00:00,Michail Antonio,Pass,6274
+452969,89,SavedShot,0.87,0.3529999923706055,0.0901137962937355,Andriy Yarmolenko,h,6274,OpenPlay,2021,RightFoot,16554,West Ham,Norwich,2,0,2022-01-12 21:45:00,Vladimir Coufal,Pass,6274
+453591,91,SavedShot,0.8080000305175781,0.45799999237060546,0.05190360173583031,Andriy Yarmolenko,h,6274,OpenPlay,2021,LeftFoot,16594,West Ham,Leeds,2,3,2022-01-16 14:00:00,Manuel Lanzini,Pass,6274
+463065,69,Goal,0.8680000305175781,0.5320000076293945,0.1103150025010109,Andriy Yarmolenko,h,6274,OpenPlay,2021,LeftFoot,16665,West Ham,Aston Villa,2,1,2022-03-13 14:00:00,Said Benrahma,Pass,6274
+463069,79,MissedShots,0.9290000152587891,0.295,0.06896760314702988,Andriy Yarmolenko,h,6274,OpenPlay,2021,RightFoot,16665,West Ham,Aston Villa,2,1,2022-03-13 14:00:00,Tomas Soucek,HeadPass,6274
+464666,60,MissedShots,0.975,0.6709999847412109,0.09799379855394363,Andriy Yarmolenko,a,6274,OpenPlay,2021,LeftFoot,16673,Tottenham,West Ham,3,1,2022-03-20 16:30:00,Pablo Fornals,Throughball,6274
+470540,32,MissedShots,0.895,0.6930000305175781,0.04986070096492767,Andriy Yarmolenko,a,6274,OpenPlay,2021,LeftFoot,16711,Chelsea,West Ham,1,0,2022-04-24 13:00:00,Pablo Fornals,Pass,6274
+470553,69,SavedShot,0.9719999694824218,0.41,0.12669700384140015,Andriy Yarmolenko,a,6274,OpenPlay,2021,LeftFoot,16711,Chelsea,West Ham,1,0,2022-04-24 13:00:00,,Rebound,6274
+470552,69,SavedShot,0.950999984741211,0.3270000076293945,0.06650689989328384,Andriy Yarmolenko,a,6274,OpenPlay,2021,RightFoot,16711,Chelsea,West Ham,1,0,2022-04-24 13:00:00,Pablo Fornals,Pass,6274

@@ -1,0 +1,78 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+251750,16,MissedShots,0.955,0.40700000762939453,0.32875800132751465,Kyle Walker-Peters,h,885,OpenPlay,2018,RightFoot,9378,Tottenham,Bournemouth,5,0,2018-12-26 15:00:00,Harry Kane,Cross,885
+301437,19,MissedShots,0.8019999694824219,0.6940000152587891,0.01805339939892292,Kyle Walker-Peters,h,885,FromCorner,2018,LeftFoot,9568,Tottenham,Everton,2,2,2019-05-12 14:00:00,,None,885
+310049,63,BlockedShot,0.8119999694824219,0.27399999618530274,0.023991400375962257,Kyle Walker-Peters,h,885,OpenPlay,2019,RightFoot,11649,Tottenham,Aston Villa,3,1,2019-08-10 17:30:00,Toby Alderweireld,Pass,885
+371247,62,MissedShots,0.9419999694824219,0.3240000152587891,0.06423290073871613,Kyle Walker-Peters,a,885,OpenPlay,2019,RightFoot,11987,Manchester United,Southampton,2,2,2020-07-13 19:00:00,Stuart Armstrong,Pass,885
+373805,70,BlockedShot,0.805,0.34,0.03130760043859482,Kyle Walker-Peters,h,885,OpenPlay,2019,LeftFoot,12015,Southampton,Sheffield United,3,1,2020-07-26 15:00:00,James Ward-Prowse,Pass,885
+380951,15,SavedShot,0.7519999694824219,0.46900001525878904,0.017294999212026596,Kyle Walker-Peters,h,885,FromCorner,2020,RightFoot,14473,Southampton,West Bromwich Albion,2,0,2020-10-04 11:00:00,,None,885
+380963,78,MissedShots,0.8640000152587891,0.38799999237060545,0.10642299801111221,Kyle Walker-Peters,h,885,OpenPlay,2020,RightFoot,14473,Southampton,West Bromwich Albion,2,0,2020-10-04 11:00:00,James Ward-Prowse,Pass,885
+381900,55,SavedShot,0.879000015258789,0.2670000076293945,0.03632580116391182,Kyle Walker-Peters,a,885,OpenPlay,2020,RightFoot,14475,Chelsea,Southampton,3,3,2020-10-17 14:00:00,Theo Walcott,Pass,885
+385737,11,BlockedShot,0.8959999847412109,0.27899999618530275,0.052335601300001144,Kyle Walker-Peters,h,885,OpenPlay,2020,RightFoot,14512,Southampton,Newcastle United,2,0,2020-11-06 20:00:00,Oriol Romeu,Pass,885
+389414,26,BlockedShot,0.8690000152587891,0.3160000038146973,0.06268060207366943,Kyle Walker-Peters,h,885,OpenPlay,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,Che Adams,Pass,885
+391151,37,BlockedShot,0.9219999694824219,0.27700000762939453,0.04119250178337097,Kyle Walker-Peters,a,885,OpenPlay,2020,RightFoot,14536,Brighton,Southampton,1,2,2020-12-07 20:00:00,James Ward-Prowse,Pass,885
+391921,42,MissedShots,0.7280000305175781,0.2589999961853027,0.010624599643051624,Kyle Walker-Peters,h,885,OpenPlay,2020,RightFoot,14551,Southampton,Sheffield United,3,0,2020-12-13 12:00:00,Oriol Romeu,HeadPass,885
+395917,70,SavedShot,0.8690000152587891,0.37900001525878907,0.07115960121154785,Kyle Walker-Peters,h,885,OpenPlay,2020,LeftFoot,14588,Southampton,West Ham,0,0,2020-12-29 18:00:00,Theo Walcott,Dispossessed,885
+412903,35,BlockedShot,0.86,0.28299999237060547,0.031030600890517235,Kyle Walker-Peters,h,885,OpenPlay,2020,RightFoot,14733,Southampton,Burnley,3,2,2021-04-04 11:00:00,,BallRecovery,885
+412918,68,MissedShots,0.77,0.40900001525878904,0.03301610052585602,Kyle Walker-Peters,h,885,OpenPlay,2020,RightFoot,14733,Southampton,Burnley,3,2,2021-04-04 11:00:00,Stuart Armstrong,Pass,885
+414885,9,SavedShot,0.955999984741211,0.3039999961853027,0.044335100799798965,Kyle Walker-Peters,a,885,OpenPlay,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Jannik Vestergaard,GoodSkill,885
+416389,7,MissedShots,0.6980000305175781,0.4929999923706055,0.0130920996889472,Kyle Walker-Peters,a,885,OpenPlay,2020,LeftFoot,14722,Tottenham,Southampton,2,1,2021-04-21 19:00:00,,BallRecovery,885
+416392,12,SavedShot,0.875,0.395,0.0710391029715538,Kyle Walker-Peters,a,885,OpenPlay,2020,RightFoot,14722,Tottenham,Southampton,2,1,2021-04-21 19:00:00,,None,885
+420359,68,BlockedShot,0.8119999694824219,0.37099998474121093,0.025172699242830276,Kyle Walker-Peters,a,885,OpenPlay,2020,LeftFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Nathan Redmond,Chipped,885
+421149,20,BlockedShot,0.87,0.34299999237060547,0.06574390083551407,Kyle Walker-Peters,h,885,OpenPlay,2020,RightFoot,14753,Southampton,Crystal Palace,3,1,2021-05-11 21:00:00,James Ward-Prowse,Pass,885
+424124,20,BlockedShot,0.8780000305175781,0.33,0.06300640106201172,Kyle Walker-Peters,a,885,OpenPlay,2020,RightFoot,14813,West Ham,Southampton,3,0,2021-05-23 15:00:00,Ibrahima Diallo,Pass,885
+424126,21,SavedShot,0.9230000305175782,0.45799999237060546,0.34633100032806396,Kyle Walker-Peters,a,885,OpenPlay,2020,LeftFoot,14813,West Ham,Southampton,3,0,2021-05-23 15:00:00,Ibrahima Diallo,Chipped,885
+424128,24,SavedShot,0.895,0.4779999923706055,0.04427580162882805,Kyle Walker-Peters,a,885,OpenPlay,2020,Head,14813,West Ham,Southampton,3,0,2021-05-23 15:00:00,Nathan Redmond,Aerial,885
+428729,9,MissedShots,0.6980000305175781,0.5820000076293945,0.01245800033211708,Kyle Walker-Peters,a,885,OpenPlay,2021,RightFoot,16397,Newcastle United,Southampton,2,2,2021-08-28 14:00:00,James Ward-Prowse,BallRecovery,885
+428736,24,BlockedShot,0.779000015258789,0.5729999923706055,0.03232229873538017,Kyle Walker-Peters,a,885,OpenPlay,2021,RightFoot,16397,Newcastle United,Southampton,2,2,2021-08-28 14:00:00,James Ward-Prowse,Pass,885
+434087,35,BlockedShot,0.87,0.6759999847412109,0.05877840146422386,Kyle Walker-Peters,h,885,OpenPlay,2021,RightFoot,16433,Southampton,Wolverhampton Wanderers,0,1,2021-09-26 13:00:00,Nathan Redmond,Pass,885
+434100,67,BlockedShot,0.8209999847412109,0.7559999847412109,0.021571600809693336,Kyle Walker-Peters,h,885,OpenPlay,2021,RightFoot,16433,Southampton,Wolverhampton Wanderers,0,1,2021-09-26 13:00:00,James Ward-Prowse,Pass,885
+442643,15,BlockedShot,0.8280000305175781,0.675,0.07221610099077225,Kyle Walker-Peters,a,885,OpenPlay,2021,RightFoot,16492,Norwich,Southampton,2,1,2021-11-20 15:00:00,Mohamed Elyounoussi,TakeOn,885
+445476,24,MissedShots,0.7959999847412109,0.6559999847412109,0.020297100767493248,Kyle Walker-Peters,h,885,OpenPlay,2021,RightFoot,16514,Southampton,Leicester,2,2,2021-12-01 19:30:00,Oriol Romeu,Chipped,885
+445482,43,BlockedShot,0.8669999694824219,0.644000015258789,0.07232329994440079,Kyle Walker-Peters,h,885,OpenPlay,2021,RightFoot,16514,Southampton,Leicester,2,2,2021-12-01 19:30:00,James Ward-Prowse,Chipped,885
+450635,54,BlockedShot,0.86,0.685,0.042205698788166046,Kyle Walker-Peters,a,885,OpenPlay,2021,RightFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,,None,885
+454764,6,Goal,0.9,0.33599998474121096,0.07079839706420898,Kyle Walker-Peters,h,885,OpenPlay,2021,RightFoot,16604,Southampton,Manchester City,1,1,2022-01-22 17:30:00,Nathan Redmond,Pass,885
+456825,82,BlockedShot,0.875999984741211,0.28899999618530275,0.04374599829316139,Kyle Walker-Peters,a,885,OpenPlay,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Stuart Armstrong,Pass,885
+458334,26,BlockedShot,0.8809999847412109,0.7290000152587891,0.03728190064430237,Kyle Walker-Peters,h,885,OpenPlay,2021,RightFoot,16633,Southampton,Everton,2,0,2022-02-19 15:00:00,Mohamed Elyounoussi,Pass,885
+458338,38,ShotOnPost,0.845,0.6270000076293946,0.052584901452064514,Kyle Walker-Peters,h,885,OpenPlay,2021,RightFoot,16633,Southampton,Everton,2,0,2022-02-19 15:00:00,,None,885
+458351,72,SavedShot,0.8669999694824219,0.634000015258789,0.08542010188102722,Kyle Walker-Peters,h,885,OpenPlay,2021,RightFoot,16633,Southampton,Everton,2,0,2022-02-19 15:00:00,Mohamed Elyounoussi,Pass,885
+458352,77,SavedShot,0.909000015258789,0.6759999847412109,0.08458150178194046,Kyle Walker-Peters,h,885,OpenPlay,2021,RightFoot,16633,Southampton,Everton,2,0,2022-02-19 15:00:00,James Ward-Prowse,Pass,885
+459384,22,SavedShot,0.7830000305175782,0.654000015258789,0.022290900349617004,Kyle Walker-Peters,h,885,OpenPlay,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,None,885
+459404,68,SavedShot,0.8969999694824219,0.4909999847412109,0.11693199723958969,Kyle Walker-Peters,h,885,OpenPlay,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,None,885
+459410,81,MissedShots,0.865,0.6930000305175781,0.057733599096536636,Kyle Walker-Peters,h,885,OpenPlay,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,None,885
+463102,35,SavedShot,0.8590000152587891,0.295,0.04267190024256706,Kyle Walker-Peters,h,885,OpenPlay,2021,RightFoot,16664,Southampton,Watford,1,2,2022-03-13 14:00:00,Oriol Romeu,Pass,885
+465284,38,MissedShots,0.84,0.6419999694824219,0.028953000903129578,Kyle Walker-Peters,a,885,FromCorner,2021,RightFoot,16681,Leeds,Southampton,1,1,2022-04-02 14:00:00,Che Adams,Pass,885
+465290,60,SavedShot,0.8830000305175781,0.745,0.03198239952325821,Kyle Walker-Peters,a,885,OpenPlay,2021,RightFoot,16681,Leeds,Southampton,1,1,2022-04-02 14:00:00,,None,885
+469674,0,MissedShots,0.905,0.23700000762939452,0.03042669966816902,Kyle Walker-Peters,a,885,OpenPlay,2021,RightFoot,16667,Burnley,Southampton,2,0,2022-04-21 18:45:00,James Ward-Prowse,Pass,885
+469675,6,BlockedShot,0.855,0.35900001525878905,0.049327198415994644,Kyle Walker-Peters,a,885,OpenPlay,2021,LeftFoot,16667,Burnley,Southampton,2,0,2022-04-21 18:45:00,Romain Perraud,Chipped,885
+470478,51,BlockedShot,0.8930000305175781,0.2570000076293945,0.03559910133481026,Kyle Walker-Peters,a,885,OpenPlay,2021,RightFoot,16713,Brighton,Southampton,2,2,2022-04-24 13:00:00,Nathan Tella,Pass,885
+470486,84,MissedShots,0.85,0.40700000762939453,0.06147700175642967,Kyle Walker-Peters,a,885,OpenPlay,2021,LeftFoot,16713,Brighton,Southampton,2,2,2022-04-24 13:00:00,,None,885
+474715,26,MissedShots,0.925,0.45,0.10924000293016434,Kyle Walker-Peters,a,885,OpenPlay,2021,Head,16734,Brentford,Southampton,3,0,2022-05-07 14:00:00,Stuart Armstrong,Cross,885
+474737,81,BlockedShot,0.88,0.2520000076293945,0.03429019823670387,Kyle Walker-Peters,a,885,OpenPlay,2021,RightFoot,16734,Brentford,Southampton,3,0,2022-05-07 14:00:00,Stuart Armstrong,Pass,885
+480348,66,BlockedShot,0.879000015258789,0.26799999237060546,0.030595099553465843,Kyle Walker-Peters,h,885,OpenPlay,2022,LeftFoot,18215,Southampton,Leeds,2,2,2022-08-13 14:00:00,,TakeOn,885
+480350,80,Goal,0.970999984741211,0.36,0.27877798676490784,Kyle Walker-Peters,h,885,OpenPlay,2022,RightFoot,18215,Southampton,Leeds,2,2,2022-08-13 14:00:00,Sékou Mara,Throughball,885
+483403,65,MissedShots,0.9169999694824219,0.46,0.035324301570653915,Kyle Walker-Peters,h,885,OpenPlay,2022,Head,18232,Southampton,Manchester United,0,1,2022-08-27 11:30:00,,Rebound,885
+484927,24,BlockedShot,0.7859999847412109,0.33599998474121096,0.024609399959445,Kyle Walker-Peters,h,885,OpenPlay,2022,LeftFoot,18244,Southampton,Chelsea,2,1,2022-08-30 18:45:00,Ibrahima Diallo,Pass,885
+490132,72,SavedShot,0.7880000305175782,0.610999984741211,0.028658799827098846,Kyle Walker-Peters,h,885,FromCorner,2022,RightFoot,18290,Southampton,Everton,1,2,2022-10-01 14:00:00,Samuel Edozie,Pass,885
+502465,86,BlockedShot,0.9159999847412109,0.27,0.040824100375175476,Kyle Walker-Peters,h,885,OpenPlay,2022,RightFoot,18391,Southampton,Nottingham Forest,0,1,2023-01-04 19:30:00,Stuart Armstrong,Pass,885
+513906,10,SavedShot,0.840999984741211,0.24299999237060546,0.023970000445842743,Kyle Walker-Peters,a,885,OpenPlay,2022,RightFoot,18468,Manchester United,Southampton,0,0,2023-03-12 14:00:00,Romeo Lavia,Pass,885
+513926,68,ShotOnPost,0.8390000152587891,0.295,0.029400300234556198,Kyle Walker-Peters,a,885,FromCorner,2022,LeftFoot,18468,Manchester United,Southampton,0,0,2023-03-12 14:00:00,Kamaldeen Sulemana,Pass,885
+515008,48,MissedShots,0.7880000305175782,0.7169999694824218,0.01901780068874359,Kyle Walker-Peters,h,885,FromCorner,2022,RightFoot,18480,Southampton,Tottenham,3,3,2023-03-18 15:00:00,Stuart Armstrong,Pass,885
+516845,85,MissedShots,0.89,0.37099998474121093,0.05913170054554939,Kyle Walker-Peters,a,885,OpenPlay,2022,LeftFoot,18491,West Ham,Southampton,1,0,2023-04-02 13:00:00,Paul Onuachu,BallTouch,885
+523133,0,SavedShot,0.865999984741211,0.5979999923706054,0.07639891654253006,Kyle Walker-Peters,a,885,OpenPlay,2022,RightFoot,18541,Newcastle United,Southampton,3,1,2023-04-30 13:00:00,,BallTouch,885
+529930,94,SavedShot,0.8630000305175781,0.7319999694824219,0.02505393885076046,Kyle Walker-Peters,h,885,OpenPlay,2022,RightFoot,18581,Southampton,Liverpool,4,4,2023-05-28 15:30:00,Samuel Amo-Ameyaw,TakeOn,885
+584797,68,BlockedShot,0.710999984741211,0.44299999237060544,0.02151207998394966,Kyle Walker-Peters,a,885,FromCorner,2024,RightFoot,26606,Newcastle United,Southampton,1,0,2024-08-17 14:00:00,Flynn Downes,Pass,885
+584798,77,MissedShots,0.8730000305175781,0.3110000038146973,0.0503203310072422,Kyle Walker-Peters,a,885,OpenPlay,2024,RightFoot,26606,Newcastle United,Southampton,1,0,2024-08-17 14:00:00,Jan Bednarek,Pass,885
+586136,11,BlockedShot,0.8119999694824219,0.5929999923706055,0.04860121011734009,Kyle Walker-Peters,h,885,OpenPlay,2024,RightFoot,26616,Southampton,Nottingham Forest,0,1,2024-08-24 14:00:00,Ben Brereton Díaz,Pass,885
+586148,37,SavedShot,0.81,0.46599998474121096,0.05303611233830452,Kyle Walker-Peters,h,885,OpenPlay,2024,RightFoot,26616,Southampton,Nottingham Forest,0,1,2024-08-24 14:00:00,Jan Bednarek,Pass,885
+586150,56,BlockedShot,0.9169999694824219,0.6890000152587891,0.06164059787988663,Kyle Walker-Peters,h,885,OpenPlay,2024,LeftFoot,26616,Southampton,Nottingham Forest,0,1,2024-08-24 14:00:00,Flynn Downes,Pass,885
+589143,5,SavedShot,0.9690000152587891,0.3270000076293945,0.11520012468099594,Kyle Walker-Peters,a,885,OpenPlay,2024,RightFoot,26623,Brentford,Southampton,3,1,2024-08-31 14:00:00,Taylor Harwood-Bellis,Throughball,885
+595522,15,SavedShot,0.795,0.6329999923706054,0.030179506167769432,Kyle Walker-Peters,a,885,OpenPlay,2024,RightFoot,26666,Arsenal,Southampton,3,1,2024-10-05 14:00:00,,None,885
+600232,75,BlockedShot,0.9130000305175782,0.26299999237060545,0.04572562500834465,Kyle Walker-Peters,h,885,OpenPlay,2024,LeftFoot,26699,Southampton,Everton,1,0,2024-11-02 15:00:00,Tyler Dibling,TakeOn,885
+607792,65,MissedShots,0.874000015258789,0.6759999847412109,0.06768762320280075,Kyle Walker-Peters,h,885,OpenPlay,2024,RightFoot,26759,Southampton,Tottenham,0,5,2024-12-15 19:00:00,Joe Ayodele-Aribo,Pass,885
+609167,21,SavedShot,0.8669999694824219,0.754000015258789,0.022719627246260643,Kyle Walker-Peters,h,885,OpenPlay,2024,RightFoot,26780,Southampton,West Ham,0,1,2024-12-26 15:00:00,Chimuanya Ugochukwu,Chipped,885
+609173,45,SavedShot,0.8830000305175781,0.59,0.023295579478144646,Kyle Walker-Peters,h,885,OpenPlay,2024,Head,26780,Southampton,West Ham,0,1,2024-12-26 15:00:00,Yukinari Sugawara,Aerial,885
+609936,36,BlockedShot,0.785,0.75,0.017778225243091583,Kyle Walker-Peters,h,885,OpenPlay,2024,RightFoot,26799,Southampton,Brentford,0,5,2025-01-04 15:00:00,Kamaldeen Sulemana,Pass,885
+609943,58,BlockedShot,0.8580000305175781,0.6509999847412109,0.057890716940164566,Kyle Walker-Peters,h,885,OpenPlay,2024,RightFoot,26799,Southampton,Brentford,0,5,2025-01-04 15:00:00,Adam Armstrong,Pass,885
+609952,79,MissedShots,0.78,0.644000015258789,0.021658970043063164,Kyle Walker-Peters,h,885,OpenPlay,2024,RightFoot,26799,Southampton,Brentford,0,5,2025-01-04 15:00:00,Joe Ayodele-Aribo,TakeOn,885
+612655,47,MissedShots,0.81,0.6869999694824219,0.023052163422107697,Kyle Walker-Peters,a,885,OpenPlay,2024,RightFoot,26820,Nottingham Forest,Southampton,3,2,2025-01-19 14:00:00,Joe Ayodele-Aribo,TakeOn,885
+613365,44,MissedShots,0.870999984741211,0.5070000076293946,0.021014684811234474,Kyle Walker-Peters,h,885,OpenPlay,2024,Head,26829,Southampton,Newcastle United,1,3,2025-01-25 15:00:00,Ryan Manning,Aerial,885

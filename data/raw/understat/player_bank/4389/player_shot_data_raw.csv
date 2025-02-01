@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+19427,72,MissedShots,0.8040000152587891,0.6719999694824219,0.028869999572634697,Chris Baird,h,4389,OpenPlay,2014,RightFoot,4594,West Bromwich Albion,West Ham,1,2,2014-12-02 20:00:00,Saido Berahino,Pass,4389
+20080,21,SavedShot,0.884000015258789,0.5940000152587891,0.07029309868812561,Chris Baird,a,4389,OpenPlay,2014,RightFoot,4556,West Ham,West Bromwich Albion,1,1,2015-01-01 15:00:00,Youssouf Mulumbu,Cross,4389
+20094,76,MissedShots,0.7440000152587891,0.730999984741211,0.015461799688637257,Chris Baird,a,4389,OpenPlay,2014,RightFoot,4556,West Ham,West Bromwich Albion,1,1,2015-01-01 15:00:00,Claudio Yacob,Pass,4389
+21912,86,SavedShot,0.7390000152587891,0.5259999847412109,0.01411409955471754,Chris Baird,a,4389,OpenPlay,2014,RightFoot,4433,Arsenal,West Bromwich Albion,4,1,2015-05-24 15:00:00,Craig Gardner,Pass,4389

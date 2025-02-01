@@ -1,0 +1,3 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+388757,61,BlockedShot,0.8209999847412109,0.49900001525878906,0.17958199977874756,Josh Benson,a,7383,DirectFreekick,2020,RightFoot,14533,Manchester City,Burnley,5,0,2020-11-28 15:00:00,,Standard,7383
+388761,72,MissedShots,0.7569999694824219,0.5129999923706055,0.024831799790263176,Josh Benson,a,7383,OpenPlay,2020,RightFoot,14533,Manchester City,Burnley,5,0,2020-11-28 15:00:00,Ashley Westwood,Pass,7383

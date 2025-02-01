@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+16980,51,BlockedShot,0.7580000305175781,0.5979999923706054,0.021803300827741623,Neil Taylor,a,710,OpenPlay,2014,RightFoot,4707,Stoke,Swansea,2,1,2014-10-19 16:00:00,,Dispossessed,710
+18103,3,MissedShots,0.7609999847412109,0.6170000076293946,0.02142450027167797,Neil Taylor,h,710,OpenPlay,2014,LeftFoot,4631,Swansea,Aston Villa,1,0,2014-12-26 15:00:00,Wilfried Bony,Pass,710
+18224,33,MissedShots,0.74,0.6909999847412109,0.014906300231814384,Neil Taylor,h,710,OpenPlay,2014,LeftFoot,4562,Swansea,West Ham,1,1,2015-01-10 15:00:00,Gylfi Sigurdsson,Pass,710
+19146,75,MissedShots,0.7480000305175781,0.58,0.01731479912996292,Neil Taylor,h,710,OpenPlay,2014,RightFoot,4575,Swansea,Chelsea,0,5,2015-01-17 15:00:00,Gylfi Sigurdsson,LayOff,710
+59110,62,MissedShots,0.85,0.6940000152587891,0.03777499869465828,Neil Taylor,h,710,OpenPlay,2015,RightFoot,170,Swansea,Stoke,0,1,2015-10-19 23:00:00,Ki Sung-yueng,Pass,710
+54829,76,BlockedShot,0.7419999694824219,0.6519999694824219,0.014379199594259262,Neil Taylor,h,710,OpenPlay,2015,RightFoot,202,Swansea,Bournemouth,2,2,2015-11-21 19:00:00,Jefferson Montero,Pass,710
+55613,77,BlockedShot,0.85,0.6990000152587891,0.06947249919176102,Neil Taylor,h,710,OpenPlay,2015,RightFoot,252,Swansea,West Bromwich Albion,1,0,2015-12-26 19:00:00,Gylfi Sigurdsson,TakeOn,710
+53634,72,MissedShots,0.860999984741211,0.7040000152587891,0.03411659970879555,Neil Taylor,h,710,OpenPlay,2015,LeftFoot,286,Swansea,Sunderland,2,4,2016-01-13 23:45:00,Gylfi Sigurdsson,Pass,710
+56122,58,BlockedShot,0.6869999694824219,0.6930000305175781,0.011567000299692154,Neil Taylor,h,710,OpenPlay,2015,LeftFoot,332,Swansea,Southampton,0,1,2016-02-13 19:00:00,Jack Cork,Pass,710
+56129,84,BlockedShot,0.7090000152587891,0.5690000152587891,0.013167199678719044,Neil Taylor,h,710,FromCorner,2015,LeftFoot,332,Swansea,Southampton,0,1,2016-02-13 19:00:00,,None,710
+60852,17,MissedShots,0.745999984741211,0.730999984741211,0.011987700127065182,Neil Taylor,a,710,OpenPlay,2015,LeftFoot,371,Bournemouth,Swansea,3,2,2016-03-12 19:00:00,,None,710
+57347,43,BlockedShot,0.700999984741211,0.605999984741211,0.009405650198459625,Neil Taylor,a,710,OpenPlay,2015,LeftFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Federico Fernández,Tackle,710
+57449,12,BlockedShot,0.754000015258789,0.49599998474121093,0.01772960089147091,Neil Taylor,h,710,FromCorner,2015,LeftFoot,433,Swansea,Liverpool,3,1,2016-05-01 15:00:00,,None,710
+114938,67,MissedShots,0.78,0.705,0.018178900703787804,Neil Taylor,a,710,OpenPlay,2016,LeftFoot,2686,Stoke,Swansea,3,1,2016-11-01 00:00:00,,TakeOn,710
+117334,45,MissedShots,0.7319999694824219,0.6809999847412109,0.010392599739134312,Neil Taylor,h,710,OpenPlay,2016,LeftFoot,3117,Swansea,Sunderland,3,0,2016-12-10 19:00:00,,None,710
+117807,65,MissedShots,0.765,0.7240000152587891,0.010456900112330914,Neil Taylor,h,710,SetPiece,2016,LeftFoot,3161,Swansea,Bournemouth,0,3,2016-12-31 19:00:00,,None,710
+118057,10,MissedShots,0.740999984741211,0.5879999923706055,0.01589200086891651,Neil Taylor,a,710,OpenPlay,2016,LeftFoot,3337,Crystal Palace,Swansea,1,2,2017-01-04 00:00:00,,None,710
+310486,56,BlockedShot,0.885,0.61,0.043390098959207535,Neil Taylor,h,710,OpenPlay,2019,LeftFoot,11654,Aston Villa,Bournemouth,1,2,2019-08-17 15:00:00,Ahmed Elmohamady,Chipped,710
+310494,79,MissedShots,0.91,0.5479999923706055,0.05174810066819191,Neil Taylor,h,710,OpenPlay,2019,Head,11654,Aston Villa,Bournemouth,1,2,2019-08-17 15:00:00,Jota,Chipped,710
+331426,46,MissedShots,0.8130000305175781,0.6569999694824219,0.031715501099824905,Neil Taylor,a,710,OpenPlay,2019,LeftFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,,None,710

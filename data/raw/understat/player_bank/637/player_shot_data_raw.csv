@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+504158,13,OwnGoal,0.017999999523162842,0.5370000076293945,0,Hugo Lloris,h,637,OpenPlay,2022,OtherBodyPart,18400,Tottenham,Arsenal,0,2,2023-01-15 16:30:00,,None,637

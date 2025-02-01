@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+185577,88,SavedShot,0.8580000305175781,0.7019999694824218,0.026245100423693657,Joe Lolley,h,6139,FromCorner,2017,LeftFoot,7312,Huddersfield,Stoke,1,1,2017-12-26 15:00:00,,BallTouch,6139
+185579,94,SavedShot,0.7869999694824219,0.575,0.033530399203300476,Joe Lolley,h,6139,OpenPlay,2017,RightFoot,7312,Huddersfield,Stoke,1,1,2017-12-26 15:00:00,Aaron Mooy,Pass,6139
+187408,39,Goal,0.874000015258789,0.295,0.03820760175585747,Joe Lolley,h,6139,OpenPlay,2017,LeftFoot,7342,Huddersfield,West Ham,1,4,2018-01-13 15:00:00,Aaron Mooy,TakeOn,6139

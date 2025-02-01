@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+121777,29,MissedShots,0.9319999694824219,0.51,0.06247510015964508,Adrian Mariappa,a,524,FromCorner,2016,Head,3502,Everton,Watford,1,0,2017-05-12 19:45:00,José Holebas,Aerial,524
+121788,78,MissedShots,0.9,0.4759999847412109,0.0610961988568306,Adrian Mariappa,a,524,FromCorner,2016,Head,3502,Everton,Watford,1,0,2017-05-12 19:45:00,Etienne Capoue,Cross,524
+160360,35,MissedShots,0.9159999847412109,0.4540000152587891,0.11106999963521957,Adrian Mariappa,a,524,SetPiece,2017,Head,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Tom Cleverley,Cross,524
+160269,88,MissedShots,0.92,0.445,0.028936399146914482,Adrian Mariappa,a,524,FromCorner,2017,Head,7220,Everton,Watford,3,2,2017-11-05 16:30:00,José Holebas,Aerial,524
+160959,59,SavedShot,0.935,0.505,0.11766500025987625,Adrian Mariappa,h,524,FromCorner,2017,Head,7230,Watford,West Ham,2,0,2017-11-19 16:00:00,Will Hughes,Cross,524
+161434,9,MissedShots,0.89,0.52,0.0831243023276329,Adrian Mariappa,a,524,FromCorner,2017,RightFoot,7242,Newcastle United,Watford,0,3,2017-11-25 15:00:00,Will Hughes,Chipped,524
+160982,69,MissedShots,0.71,0.43900001525878907,0.010068300180137157,Adrian Mariappa,h,524,OpenPlay,2017,RightFoot,7251,Watford,Manchester United,2,4,2017-11-28 20:00:00,,BallRecovery,524
+194043,6,SavedShot,0.9119999694824219,0.6040000152587891,0.03461800143122673,Adrian Mariappa,a,524,FromCorner,2017,Head,7388,West Ham,Watford,2,0,2018-02-10 15:00:00,José Holebas,Cross,524
+194059,85,BlockedShot,0.904000015258789,0.4209999847412109,0.0585814006626606,Adrian Mariappa,a,524,FromCorner,2017,RightFoot,7388,West Ham,Watford,2,0,2018-02-10 15:00:00,Dodi Lukebakio,Cross,524
+194060,88,BlockedShot,0.909000015258789,0.5459999847412109,0.09202539920806885,Adrian Mariappa,a,524,OpenPlay,2017,Head,7388,West Ham,Watford,2,0,2018-02-10 15:00:00,José Holebas,Cross,524
+198912,16,MissedShots,0.9330000305175781,0.6,0.048489801585674286,Adrian Mariappa,h,524,FromCorner,2017,Head,7408,Watford,West Bromwich Albion,1,0,2018-03-03 15:00:00,José Holebas,Cross,524
+210430,48,MissedShots,0.8030000305175782,0.3529999923706055,0.03137410059571266,Adrian Mariappa,h,524,OpenPlay,2017,RightFoot,7467,Watford,Crystal Palace,0,0,2018-04-21 14:00:00,,None,524
+249808,14,MissedShots,0.9359999847412109,0.5770000076293945,0.4264470040798187,Adrian Mariappa,a,524,FromCorner,2018,RightFoot,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,Etienne Capoue,Rebound,524
+249806,14,BlockedShot,0.914000015258789,0.5729999923706055,0.21734100580215454,Adrian Mariappa,a,524,FromCorner,2018,Head,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,José Holebas,Cross,524
+251969,93,MissedShots,0.9,0.46,0.018753500655293465,Adrian Mariappa,h,524,FromCorner,2018,Head,9377,Watford,Chelsea,1,2,2018-12-26 19:30:00,José Holebas,Aerial,524
+275089,36,BlockedShot,0.8959999847412109,0.5629999923706055,0.07731190323829651,Adrian Mariappa,a,524,FromCorner,2018,LeftFoot,9435,Tottenham,Watford,2,1,2019-01-30 20:00:00,Roberto Pereyra,HeadPass,524
+275460,73,MissedShots,0.9009999847412109,0.45099998474121095,0.06404899805784225,Adrian Mariappa,h,524,FromCorner,2018,RightFoot,9451,Watford,Everton,1,0,2019-02-09 15:00:00,José Holebas,Cross,524
+276284,2,SavedShot,0.9330000305175781,0.4540000152587891,0.5466830134391785,Adrian Mariappa,h,524,SetPiece,2018,RightFoot,9479,Watford,Leicester,2,1,2019-03-03 12:00:00,,None,524
+297374,38,MissedShots,0.9159999847412109,0.539000015258789,0.03596220165491104,Adrian Mariappa,h,524,FromCorner,2018,Head,9547,Watford,Wolverhampton Wanderers,1,2,2019-04-27 15:00:00,Roberto Pereyra,Aerial,524
+329413,44,MissedShots,0.86,0.5179999923706055,0.03129880130290985,Adrian Mariappa,h,524,SetPiece,2019,Head,11751,Watford,Chelsea,1,2,2019-11-02 17:30:00,Gerard Deulofeu,Cross,524
+332213,49,BlockedShot,0.9359999847412109,0.5690000152587891,0.05496339872479439,Adrian Mariappa,h,524,SetPiece,2019,Head,11771,Watford,Burnley,0,3,2019-11-23 15:00:00,Etienne Capoue,Aerial,524
+339822,50,SavedShot,0.9319999694824219,0.46299999237060546,0.08090359717607498,Adrian Mariappa,h,524,OpenPlay,2019,Head,11841,Watford,Aston Villa,3,0,2019-12-28 15:00:00,,Aerial,524
+352688,77,OwnGoal,0.04400000095367432,0.46599998474121096,0,Adrian Mariappa,a,524,OpenPlay,2019,LeftFoot,11895,Brighton,Watford,1,1,2020-02-08 17:30:00,,Dispossessed,524

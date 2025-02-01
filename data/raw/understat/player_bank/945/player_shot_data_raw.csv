@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14595,52,BlockedShot,0.875,0.49700000762939456,0.013924900442361832,Marc Wilson,h,945,FromCorner,2014,Head,4752,Stoke,Aston Villa,0,1,2014-08-16 15:00:00,Stephen Ireland,Aerial,945
+14753,30,MissedShots,0.8980000305175782,0.5640000152587891,0.041724901646375656,Marc Wilson,a,945,FromCorner,2014,Head,4765,Hull,Stoke,1,1,2014-08-24 13:30:00,Marko Arnautovic,Cross,945
+15370,73,BlockedShot,0.899000015258789,0.5879999923706055,0.06722500175237656,Marc Wilson,h,945,FromCorner,2014,RightFoot,4723,Stoke,Leicester,0,1,2014-09-13 15:00:00,Ryan Shawcross,HeadPass,945
+17309,14,MissedShots,0.9230000305175782,0.46900001525878904,0.11392699927091599,Marc Wilson,a,945,FromCorner,2014,LeftFoot,4666,Tottenham,Stoke,1,2,2014-11-09 13:30:00,,None,945
+18747,35,BlockedShot,0.725,0.4,0.01567479968070984,Marc Wilson,a,945,OpenPlay,2014,RightFoot,4573,Leicester,Stoke,0,1,2015-01-17 15:00:00,Steven N&#039;Zonzi,Pass,945
+18751,47,MissedShots,0.7040000152587891,0.705,0.011120299808681011,Marc Wilson,a,945,OpenPlay,2014,RightFoot,4573,Leicester,Stoke,0,1,2015-01-17 15:00:00,Glenn Whelan,Pass,945
+121332,53,MissedShots,0.745,0.664000015258789,0.014089199714362621,Marc Wilson,a,945,FromCorner,2016,RightFoot,3492,Burnley,West Bromwich Albion,2,2,2017-05-06 15:00:00,,None,945

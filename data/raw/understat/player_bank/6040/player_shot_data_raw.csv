@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+161561,9,MissedShots,0.895,0.635,0.16076700389385223,Scott Malone,a,6040,OpenPlay,2017,LeftFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Aaron Mooy,TakeOn,6040
+161576,44,MissedShots,0.7759999847412109,0.3659999847412109,0.017990799620747566,Scott Malone,a,6040,FromCorner,2017,LeftFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,,None,6040
+183185,65,SavedShot,0.8830000305175781,0.5920000076293945,0.10656200349330902,Scott Malone,a,6040,OpenPlay,2017,LeftFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Joe Lolley,Pass,6040
+186000,44,MissedShots,0.74,0.46,0.012830900028347969,Scott Malone,h,6040,SetPiece,2017,RightFoot,7322,Huddersfield,Burnley,0,0,2017-12-30 15:00:00,,None,6040
+187416,69,MissedShots,0.72,0.639000015258789,0.01306769996881485,Scott Malone,h,6040,FromCorner,2017,LeftFoot,7342,Huddersfield,West Ham,1,4,2018-01-13 15:00:00,,None,6040
+200059,79,BlockedShot,0.8430000305175781,0.44299999237060544,0.04505699872970581,Scott Malone,h,6040,FromCorner,2017,RightFoot,7413,Huddersfield,Swansea,0,0,2018-03-10 15:00:00,Collin Quaner,Pass,6040
+211703,94,BlockedShot,0.8819999694824219,0.669000015258789,0.268095999956131,Scott Malone,h,6040,OpenPlay,2017,LeftFoot,7471,Huddersfield,Everton,0,2,2018-04-28 14:00:00,Alex Pritchard,Pass,6040
+213631,90,SavedShot,0.825999984741211,0.7080000305175781,0.02988160029053688,Scott Malone,a,6040,OpenPlay,2017,LeftFoot,7480,Manchester City,Huddersfield,0,0,2018-05-06 13:30:00,,BallRecovery,6040

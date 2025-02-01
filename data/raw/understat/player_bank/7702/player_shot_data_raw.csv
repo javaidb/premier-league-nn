@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+317352,95,BlockedShot,0.9169999694824219,0.5420000076293945,0.03304079920053482,Dean Henderson,h,7702,FromCorner,2019,Head,11686,Sheffield United,Southampton,0,1,2019-09-14 14:00:00,Oliver Norwood,Aerial,7702
+558835,36,OwnGoal,0.004000000059604645,0.5129999923706055,0,Dean Henderson,a,7702,FromCorner,2023,Head,22103,Arsenal,Crystal Palace,5,0,2024-01-20 12:30:00,,End,7702
+575554,88,OwnGoal,0.07099999904632569,0.48700000762939455,0,Dean Henderson,h,7702,OpenPlay,2023,RightFoot,22227,Crystal Palace,West Ham,5,2,2024-04-21 14:00:00,,BallRecovery,7702
+594098,93,MissedShots,0.87,0.44799999237060545,0.010927668772637844,Dean Henderson,a,7702,SetPiece,2024,Head,26654,Everton,Crystal Palace,2,1,2024-09-28 14:00:00,Eberechi Eze,Aerial,7702

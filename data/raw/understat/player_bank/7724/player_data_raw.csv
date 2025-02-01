@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+7724,Wesley,21,1806,5,7.270562741905451,1,0.8836157005280256,36,11,3,0,F,Aston Villa,5,6.509392712265253,8.007937798276544,2.6747633749619126,2019
+7724,Wesley,3,14,0,0.0328821986913681,0,0,1,0,0,0,S,Aston Villa,0,0.0328821986913681,0.11823540180921555,0.08535320311784744,2020
+7724,Wesley,1,1,0,0,0,0,0,0,0,0,S,Aston Villa,0,0,0,0,2021

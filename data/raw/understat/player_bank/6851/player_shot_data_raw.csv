@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+274613,77,OwnGoal,0.04099999904632568,0.49900001525878906,0,Conor Coady,a,6851,FromCorner,2018,LeftFoot,9409,Manchester City,Wolverhampton Wanderers,3,0,2019-01-14 20:00:00,,BallRecovery,6851
+274642,50,OwnGoal,0.07099999904632569,0.48200000762939454,0,Conor Coady,h,6851,OpenPlay,2018,LeftFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,,None,6851
+287554,1,OwnGoal,0.01100000023841858,0.4879999923706055,0,Conor Coady,a,6851,SetPiece,2018,OtherBodyPart,9515,Burnley,Wolverhampton Wanderers,2,0,2019-03-30 15:00:00,,Foul,6851
+391408,41,MissedShots,0.9009999847412109,0.525,0.025157000869512558,Conor Coady,h,6851,FromCorner,2020,Head,14552,Wolverhampton Wanderers,Aston Villa,0,1,2020-12-12 12:30:00,Fabio Silva,Aerial,6851
+392590,6,MissedShots,0.7019999694824218,0.365,0.010227399878203869,Conor Coady,h,6851,OpenPlay,2020,RightFoot,14562,Wolverhampton Wanderers,Chelsea,2,1,2020-12-15 18:00:00,,None,6851
+407743,60,Goal,0.889000015258789,0.55,0.05068429931998253,Conor Coady,a,6851,SetPiece,2020,Head,14720,Manchester City,Wolverhampton Wanderers,4,1,2021-03-02 20:00:00,João Moutinho,Chipped,6851
+408656,56,ShotOnPost,0.9630000305175781,0.5729999923706055,0.31624099612236023,Conor Coady,a,6851,FromCorner,2020,Head,14695,Aston Villa,Wolverhampton Wanderers,0,0,2021-03-06 17:30:00,Pedro Neto,Cross,6851
+408661,75,SavedShot,0.9640000152587891,0.505,0.7662739753723145,Conor Coady,a,6851,SetPiece,2020,LeftFoot,14695,Aston Villa,Wolverhampton Wanderers,0,0,2021-03-06 17:30:00,Willian José,Rebound,6851
+410787,48,MissedShots,0.9159999847412109,0.5479999923706055,0.24732400476932526,Conor Coady,h,6851,FromCorner,2020,Head,14714,Wolverhampton Wanderers,Liverpool,0,1,2021-03-15 20:00:00,Romain Saiss,Cross,6851
+413481,47,MissedShots,0.96,0.5879999923706055,0.02912149950861931,Conor Coady,h,6851,FromCorner,2020,Head,14734,Wolverhampton Wanderers,West Ham,2,3,2021-04-05 19:15:00,Pedro Neto,Aerial,6851
+429314,22,MissedShots,0.894000015258789,0.5790000152587891,0.014709300361573696,Conor Coady,h,6851,FromCorner,2021,Head,16405,Wolverhampton Wanderers,Manchester United,0,1,2021-08-29 15:30:00,Rúben Neves,Aerial,6851
+429858,70,MissedShots,0.909000015258789,0.5970000076293945,0.03181049972772598,Conor Coady,a,6851,FromCorner,2021,Head,16412,Watford,Wolverhampton Wanderers,0,2,2021-09-11 14:00:00,João Moutinho,Cross,6851
+436209,84,Goal,0.960999984741211,0.5379999923706055,0.5901190042495728,Conor Coady,a,6851,FromCorner,2021,LeftFoot,16447,Aston Villa,Wolverhampton Wanderers,2,3,2021-10-16 14:00:00,Leander Dendoncker,Pass,6851
+440646,9,BlockedShot,0.9219999694824219,0.54,0.13285699486732483,Conor Coady,h,6851,FromCorner,2021,RightFoot,16475,Wolverhampton Wanderers,Everton,2,1,2021-11-01 20:00:00,,Rebound,6851
+444080,43,MissedShots,0.899000015258789,0.3170000076293945,0.040474701672792435,Conor Coady,a,6851,FromCorner,2021,RightFoot,16505,Norwich,Wolverhampton Wanderers,0,0,2021-11-27 15:00:00,,None,6851
+451341,45,BlockedShot,0.9230000305175782,0.55,0.08703289926052094,Conor Coady,a,6851,FromCorner,2021,Head,16583,Manchester United,Wolverhampton Wanderers,0,1,2022-01-03 17:30:00,João Moutinho,Cross,6851
+453282,58,Goal,0.9719999694824218,0.524000015258789,0.7263569831848145,Conor Coady,h,6851,SetPiece,2021,Head,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,,Rebound,6851
+460248,84,BlockedShot,0.745,0.5720000076293945,0.017690999433398247,Conor Coady,a,6851,OpenPlay,2021,RightFoot,16645,West Ham,Wolverhampton Wanderers,1,0,2022-02-27 14:00:00,Leander Dendoncker,Pass,6851
+461142,55,MissedShots,0.9019999694824219,0.4809999847412109,0.10029800236225128,Conor Coady,h,6851,SetPiece,2021,Head,16655,Wolverhampton Wanderers,Crystal Palace,0,2,2022-03-05 15:00:00,João Moutinho,Cross,6851
+462979,48,Goal,0.9290000152587891,0.43900001525878907,0.12103399634361267,Conor Coady,a,6851,SetPiece,2021,Head,16661,Everton,Wolverhampton Wanderers,0,1,2022-03-13 14:00:00,Rúben Neves,Cross,6851
+463748,68,BlockedShot,0.705,0.524000015258789,0.00993668008595705,Conor Coady,h,6851,OpenPlay,2021,RightFoot,16675,Wolverhampton Wanderers,Leeds,2,3,2022-03-18 20:00:00,,Aerial,6851
+474798,96,Goal,0.9480000305175781,0.534000015258789,0.45415499806404114,Conor Coady,a,6851,OpenPlay,2021,Head,16731,Chelsea,Wolverhampton Wanderers,2,2,2022-05-07 14:00:00,Chiquinho,Cross,6851
+490119,51,Goal,0.9540000152587891,0.5179999923706055,0.11527200043201447,Conor Coady,a,6851,SetPiece,2022,RightFoot,18290,Southampton,Everton,1,2,2022-10-01 14:00:00,Amadou Onana,HeadPass,6851
+496782,6,BlockedShot,0.8919999694824219,0.644000015258789,0.011065499857068062,Conor Coady,a,6851,FromCorner,2022,Head,18337,Fulham,Everton,0,0,2022-10-29 16:30:00,Demarai Gray,Aerial,6851
+496793,32,SavedShot,0.9130000305175782,0.34,0.0376133993268013,Conor Coady,a,6851,FromCorner,2022,RightFoot,18337,Fulham,Everton,0,0,2022-10-29 16:30:00,Vitalii Mykolenko,Cross,6851
+509686,32,BlockedShot,0.9619999694824218,0.5320000076293945,0.45087701082229614,Conor Coady,h,6851,FromCorner,2022,Head,18436,Everton,Leeds,1,0,2023-02-18 15:00:00,James Tarkowski,HeadPass,6851

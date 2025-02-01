@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+529276,90,OwnGoal,0.017999999523162842,0.46,0,André Onana,h,10913,SetPiece,2022,OtherBodyPart,18945,Inter,Atalanta,3,2,2023-05-27 18:45:00,,None,10913

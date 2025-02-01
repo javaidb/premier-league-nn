@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+297434,85,BlockedShot,0.825,0.649000015258789,0.04431280121207237,Rhys Healey,a,7340,OpenPlay,2018,RightFoot,9553,Fulham,Cardiff,1,0,2019-04-27 15:00:00,Danny Ward,Pass,7340
+480797,75,MissedShots,0.9259999847412109,0.6469999694824219,0.10978099703788757,Rhys Healey,a,7340,OpenPlay,2022,LeftFoot,19665,Troyes,Toulouse,0,3,2022-08-14 13:00:00,Denis Genreau,Pass,7340
+480801,84,Goal,0.8219999694824218,0.48,0.08904699981212616,Rhys Healey,a,7340,OpenPlay,2022,LeftFoot,19665,Troyes,Toulouse,0,3,2022-08-14 13:00:00,Ado Onaiwu,Pass,7340
+482332,81,MissedShots,0.89,0.5129999923706055,0.08087030053138733,Rhys Healey,h,7340,OpenPlay,2022,Head,19677,Toulouse,Lorient,2,2,2022-08-21 13:00:00,Mikkel Desler,Cross,7340
+482338,95,SavedShot,0.9680000305175781,0.595999984741211,0.0402413010597229,Rhys Healey,h,7340,OpenPlay,2022,Head,19677,Toulouse,Lorient,2,2,2022-08-21 13:00:00,Branco van den Boomen,Aerial,7340
+530613,93,Goal,0.7919999694824219,0.5220000076293946,0.0649651512503624,Rhys Healey,a,7340,OpenPlay,2022,RightFoot,20020,Monaco,Toulouse,1,2,2023-06-03 17:00:00,Rafael Ratão,Pass,7340

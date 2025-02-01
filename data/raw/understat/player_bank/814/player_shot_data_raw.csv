@@ -1,0 +1,86 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+58577,46,MissedShots,0.8230000305175781,0.49900001525878906,0.0610290989279747,James McClean,h,814,OpenPlay,2015,LeftFoot,150,West Bromwich Albion,Everton,2,3,2015-09-28 23:00:00,,Rebound,814
+58720,11,MissedShots,0.7480000305175781,0.32599998474121095,0.019482199102640152,James McClean,a,814,OpenPlay,2015,LeftFoot,151,Crystal Palace,West Bromwich Albion,2,0,2015-10-03 15:45:00,Craig Dawson,Pass,814
+58732,41,BlockedShot,0.8130000305175781,0.6680000305175782,0.03286590054631233,James McClean,a,814,OpenPlay,2015,RightFoot,151,Crystal Palace,West Bromwich Albion,2,0,2015-10-03 15:45:00,James Morrison,Pass,814
+58733,47,BlockedShot,0.8540000152587891,0.6659999847412109,0.04657140001654625,James McClean,a,814,OpenPlay,2015,RightFoot,151,Crystal Palace,West Bromwich Albion,2,0,2015-10-03 15:45:00,,None,814
+58738,62,SavedShot,0.7580000305175781,0.4179999923706055,0.01504560001194477,James McClean,a,814,SetPiece,2015,LeftFoot,151,Crystal Palace,West Bromwich Albion,2,0,2015-10-03 15:45:00,Salomón Rondón,None,814
+59177,23,MissedShots,0.9369999694824219,0.700999984741211,0.05480640009045601,James McClean,h,814,OpenPlay,2015,LeftFoot,163,West Bromwich Albion,Sunderland,1,0,2015-10-17 18:00:00,Chris Brunt,TakeOn,814
+53764,45,MissedShots,0.72,0.6980000305175781,0.016394900158047676,James McClean,h,814,OpenPlay,2015,LeftFoot,187,West Bromwich Albion,Leicester,2,3,2015-10-31 19:00:00,Stéphane Sessegnon,Pass,814
+53765,46,BlockedShot,0.9169999694824219,0.5609999847412109,0.14296600222587585,James McClean,h,814,OpenPlay,2015,RightFoot,187,West Bromwich Albion,Leicester,2,3,2015-10-31 19:00:00,Salomón Rondón,Pass,814
+53773,77,SavedShot,0.7519999694824219,0.7559999847412109,0.013149100355803967,James McClean,h,814,OpenPlay,2015,LeftFoot,187,West Bromwich Albion,Leicester,2,3,2015-10-31 19:00:00,Darren Fletcher,Pass,814
+53233,60,MissedShots,0.895,0.5990000152587891,0.08363740146160126,James McClean,a,814,OpenPlay,2015,RightFoot,218,West Ham,West Bromwich Albion,1,1,2015-11-29 18:05:00,,Rebound,814
+53242,90,SavedShot,0.9169999694824219,0.3940000152587891,0.0852809026837349,James McClean,a,814,OpenPlay,2015,LeftFoot,218,West Ham,West Bromwich Albion,1,1,2015-11-29 18:05:00,Rickie Lambert,Chipped,814
+52785,38,Goal,0.9390000152587891,0.49900001525878906,0.47983598709106445,James McClean,h,814,OpenPlay,2015,Head,224,West Bromwich Albion,Tottenham,1,1,2015-12-05 19:00:00,Darren Fletcher,Cross,814
+52796,69,SavedShot,0.8619999694824219,0.5590000152587891,0.030426599085330963,James McClean,h,814,OpenPlay,2015,Head,224,West Bromwich Albion,Tottenham,1,1,2015-12-05 19:00:00,,BallTouch,814
+54151,3,MissedShots,0.9440000152587891,0.5370000076293945,0.14511899650096893,James McClean,a,814,OpenPlay,2015,Head,287,Chelsea,West Bromwich Albion,2,2,2016-01-13 23:45:00,Darren Fletcher,Cross,814
+54153,8,MissedShots,0.740999984741211,0.6880000305175781,0.011122999712824821,James McClean,a,814,OpenPlay,2015,LeftFoot,287,Chelsea,West Bromwich Albion,2,2,2016-01-13 23:45:00,,None,814
+54160,24,SavedShot,0.96,0.575,0.12179099768400192,James McClean,a,814,SetPiece,2015,Head,287,Chelsea,West Bromwich Albion,2,2,2016-01-13 23:45:00,Chris Brunt,Cross,814
+54165,51,SavedShot,0.935,0.515,0.1450289934873581,James McClean,a,814,OpenPlay,2015,Head,287,Chelsea,West Bromwich Albion,2,2,2016-01-13 23:45:00,Salomón Rondón,Cross,814
+54177,85,Goal,0.8030000305175782,0.509000015258789,0.04152749851346016,James McClean,a,814,OpenPlay,2015,RightFoot,287,Chelsea,West Bromwich Albion,2,2,2016-01-13 23:45:00,,None,814
+52928,42,BlockedShot,0.909000015258789,0.47099998474121096,0.12557800114154816,James McClean,a,814,OpenPlay,2015,RightFoot,322,Newcastle United,West Bromwich Albion,1,0,2016-02-06 19:00:00,Craig Gardner,Pass,814
+55428,17,MissedShots,0.779000015258789,0.639000015258789,0.03435320034623146,James McClean,a,814,OpenPlay,2015,LeftFoot,334,Everton,West Bromwich Albion,0,1,2016-02-13 19:00:00,Saido Berahino,LayOff,814
+60732,77,BlockedShot,0.8969999694824219,0.7090000152587891,0.03460890054702759,James McClean,a,814,OpenPlay,2015,LeftFoot,400,Manchester City,West Bromwich Albion,2,1,2016-04-09 20:30:00,Saido Berahino,Pass,814
+60736,93,MissedShots,0.85,0.5070000076293946,0.06186290085315704,James McClean,a,814,FromCorner,2015,RightFoot,400,Manchester City,West Bromwich Albion,2,1,2016-04-09 20:30:00,,None,814
+57014,30,MissedShots,0.875,0.6409999847412109,0.10461299866437912,James McClean,h,814,OpenPlay,2015,LeftFoot,409,West Bromwich Albion,Watford,0,1,2016-04-16 18:00:00,Saido Berahino,TakeOn,814
+57019,41,BlockedShot,0.7619999694824219,0.69,0.017491299659013748,James McClean,h,814,FromCorner,2015,LeftFoot,409,West Bromwich Albion,Watford,0,1,2016-04-16 18:00:00,Stéphane Sessegnon,Pass,814
+57021,49,MissedShots,0.865,0.6609999847412109,0.05783360078930855,James McClean,h,814,OpenPlay,2015,RightFoot,409,West Bromwich Albion,Watford,0,1,2016-04-16 18:00:00,James Chester,TakeOn,814
+60670,50,SavedShot,0.8930000305175781,0.585,0.04005039855837822,James McClean,a,814,OpenPlay,2015,Head,419,Arsenal,West Bromwich Albion,2,0,2016-04-21 22:45:00,Craig Dawson,Aerial,814
+56626,44,BlockedShot,0.8130000305175781,0.32799999237060545,0.03178900107741356,James McClean,a,814,OpenPlay,2015,LeftFoot,426,Tottenham,West Bromwich Albion,1,1,2016-04-25 23:00:00,Darren Fletcher,Pass,814
+57661,64,MissedShots,0.899000015258789,0.49900001525878906,0.05542929843068123,James McClean,a,814,OpenPlay,2015,Head,441,Bournemouth,West Bromwich Albion,1,1,2016-05-07 18:00:00,Craig Dawson,Aerial,814
+52223,38,BlockedShot,0.7619999694824219,0.6980000305175781,0.01884699985384941,James McClean,h,814,OpenPlay,2015,RightFoot,459,West Bromwich Albion,Liverpool,1,1,2016-05-15 18:00:00,Darren Fletcher,Pass,814
+52227,53,MissedShots,0.7290000152587891,0.5940000152587891,0.014199499972164631,James McClean,h,814,FromCorner,2015,RightFoot,459,West Bromwich Albion,Liverpool,1,1,2016-05-15 18:00:00,,None,814
+52229,58,MissedShots,0.779000015258789,0.6519999694824219,0.025678999722003937,James McClean,h,814,OpenPlay,2015,RightFoot,459,West Bromwich Albion,Liverpool,1,1,2016-05-15 18:00:00,Salomón Rondón,Pass,814
+113126,11,SavedShot,0.9680000305175781,0.6,0.09663809835910797,James McClean,h,814,OpenPlay,2016,LeftFoot,489,West Bromwich Albion,Middlesbrough,0,0,2016-08-28 16:30:00,Darren Fletcher,Chipped,814
+113128,17,BlockedShot,0.8590000152587891,0.81,0.01530779991298914,James McClean,h,814,OpenPlay,2016,LeftFoot,489,West Bromwich Albion,Middlesbrough,0,0,2016-08-28 16:30:00,,None,814
+113675,0,SavedShot,0.7819999694824219,0.7569999694824219,0.01501229964196682,James McClean,h,814,OpenPlay,2016,LeftFoot,505,West Bromwich Albion,West Ham,4,2,2016-09-17 18:00:00,Salomón Rondón,HeadPass,814
+113689,43,Goal,0.9330000305175781,0.4779999923706055,0.533610999584198,James McClean,h,814,FromCorner,2016,RightFoot,505,West Bromwich Albion,West Ham,4,2,2016-09-17 18:00:00,Nacer Chadli,Rebound,814
+113703,84,SavedShot,0.8859999847412109,0.7119999694824218,0.06473840028047562,James McClean,h,814,OpenPlay,2016,LeftFoot,505,West Bromwich Albion,West Ham,4,2,2016-09-17 18:00:00,James Morrison,Pass,814
+113881,76,SavedShot,0.875,0.5479999923706055,0.0210874006152153,James McClean,a,814,SetPiece,2016,Head,513,Stoke,West Bromwich Albion,1,1,2016-09-24 18:00:00,Claudio Yacob,Pass,814
+114428,20,SavedShot,0.8080000305175781,0.22200000762939454,0.024725399911403656,James McClean,a,814,FromCorner,2016,LeftFoot,523,Sunderland,West Bromwich Albion,1,1,2016-10-01 18:00:00,Nacer Chadli,Pass,814
+114434,56,BlockedShot,0.8590000152587891,0.6079999923706054,0.03457700088620186,James McClean,a,814,OpenPlay,2016,LeftFoot,523,Sunderland,West Bromwich Albion,1,1,2016-10-01 18:00:00,,Aerial,814
+114110,45,SavedShot,0.8619999694824219,0.2979999923706055,0.04012329876422882,James McClean,h,814,OpenPlay,2016,LeftFoot,536,West Bromwich Albion,Tottenham,1,1,2016-10-15 18:00:00,Matt Phillips,Pass,814
+114118,81,SavedShot,0.915,0.40900001525878904,0.08489900082349777,James McClean,h,814,FromCorner,2016,LeftFoot,536,West Bromwich Albion,Tottenham,1,1,2016-10-15 18:00:00,Gareth McAuley,HeadPass,814
+115038,25,BlockedShot,0.9130000305175782,0.580999984741211,0.059823501855134964,James McClean,h,814,OpenPlay,2016,Head,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,Darren Fletcher,Cross,814
+116007,90,BlockedShot,0.785,0.6229999923706054,0.02417360059916973,James McClean,h,814,FromCorner,2016,RightFoot,2706,West Bromwich Albion,Burnley,4,0,2016-11-22 00:00:00,Craig Gardner,Pass,814
+118965,69,BlockedShot,0.78,0.6509999847412109,0.01828639954328537,James McClean,a,814,OpenPlay,2016,RightFoot,3363,Middlesbrough,West Bromwich Albion,1,1,2017-01-31 22:45:00,James Morrison,Chipped,814
+117267,70,SavedShot,0.7959999847412109,0.7669999694824219,0.017023900523781776,James McClean,h,814,OpenPlay,2016,RightFoot,3375,West Bromwich Albion,Stoke,1,0,2017-02-04 15:00:00,Salomón Rondón,Pass,814
+118851,64,BlockedShot,0.7380000305175781,0.3840000152587891,0.021462200209498405,James McClean,h,814,OpenPlay,2016,LeftFoot,3395,West Bromwich Albion,Bournemouth,2,1,2017-02-25 15:00:00,Darren Fletcher,Pass,814
+118854,88,MissedShots,0.8969999694824219,0.7380000305175781,0.049201298505067825,James McClean,h,814,OpenPlay,2016,LeftFoot,3395,West Bromwich Albion,Bournemouth,2,1,2017-02-25 15:00:00,Salomón Rondón,Pass,814
+118855,91,SavedShot,0.9119999694824219,0.6719999694824219,0.12895099818706512,James McClean,h,814,OpenPlay,2016,LeftFoot,3395,West Bromwich Albion,Bournemouth,2,1,2017-02-25 15:00:00,Salomón Rondón,Throughball,814
+120200,92,MissedShots,0.754000015258789,0.6930000305175781,0.009827019646763802,James McClean,h,814,OpenPlay,2016,RightFoot,3408,West Bromwich Albion,Crystal Palace,0,2,2017-03-04 15:00:00,Chris Brunt,Pass,814
+120517,7,SavedShot,0.9030000305175782,0.575,0.034063201397657394,James McClean,h,814,OpenPlay,2016,Head,3420,West Bromwich Albion,Arsenal,3,1,2017-03-18 12:30:00,Nacer Chadli,Aerial,814
+120518,11,SavedShot,0.865,0.7330000305175781,0.10968799889087677,James McClean,h,814,OpenPlay,2016,LeftFoot,3420,West Bromwich Albion,Arsenal,3,1,2017-03-18 12:30:00,Chris Brunt,Throughball,814
+121207,86,BlockedShot,0.7519999694824219,0.500999984741211,0.020289599895477295,James McClean,h,814,OpenPlay,2016,LeftFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Nacer Chadli,Pass,814
+121208,92,MissedShots,0.919000015258789,0.6170000076293946,0.01666869968175888,James McClean,h,814,OpenPlay,2016,Head,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Gareth McAuley,Aerial,814
+121345,92,SavedShot,0.8580000305175781,0.6759999847412109,0.050975698977708817,James McClean,a,814,OpenPlay,2016,LeftFoot,3492,Burnley,West Bromwich Albion,2,2,2017-05-06 15:00:00,Darren Fletcher,Chipped,814
+158376,25,MissedShots,0.89,0.7669999694824219,0.026283100247383118,James McClean,h,814,OpenPlay,2017,RightFoot,7121,West Bromwich Albion,Bournemouth,1,0,2017-08-12 15:00:00,Matt Phillips,Chipped,814
+158390,84,MissedShots,0.6980000305175781,0.6,0.018549999222159386,James McClean,h,814,OpenPlay,2017,LeftFoot,7121,West Bromwich Albion,Bournemouth,1,0,2017-08-12 15:00:00,Rekeem Harper,Pass,814
+158418,0,BlockedShot,0.91,0.7090000152587891,0.05219800025224686,James McClean,a,814,OpenPlay,2017,LeftFoot,7132,Burnley,West Bromwich Albion,0,1,2017-08-19 15:00:00,,BallRecovery,814
+158984,75,MissedShots,0.754000015258789,0.6840000152587891,0.0128413001075387,James McClean,h,814,FromCorner,2017,LeftFoot,7146,West Bromwich Albion,Stoke,1,1,2017-08-27 13:30:00,,Aerial,814
+158992,88,MissedShots,0.8819999694824219,0.69,0.027205299586057663,James McClean,h,814,OpenPlay,2017,LeftFoot,7146,West Bromwich Albion,Stoke,1,1,2017-08-27 13:30:00,Oliver Burke,Cross,814
+160372,72,SavedShot,0.759000015258789,0.44099998474121094,0.03024899959564209,James McClean,h,814,OpenPlay,2017,LeftFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Hal Robson-Kanu,Pass,814
+160374,91,BlockedShot,0.8490000152587891,0.495,0.13194100558757782,James McClean,h,814,OpenPlay,2017,LeftFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Hal Robson-Kanu,Pass,814
+160489,90,BlockedShot,0.9069999694824219,0.28899999618530275,0.04823780059814453,James McClean,a,814,OpenPlay,2017,RightFoot,7192,Leicester,West Bromwich Albion,1,1,2017-10-16 20:00:00,Gareth Barry,Pass,814
+160312,91,SavedShot,0.924000015258789,0.39099998474121095,0.052772801369428635,James McClean,a,814,OpenPlay,2017,Head,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,Gareth Barry,Cross,814
+161026,84,MissedShots,0.8669999694824219,0.5370000076293945,0.3895600140094757,James McClean,h,814,OpenPlay,2017,LeftFoot,7229,West Bromwich Albion,Chelsea,0,4,2017-11-18 15:00:00,,TakeOn,814
+160881,79,MissedShots,0.8159999847412109,0.29100000381469726,0.023959700018167496,James McClean,h,814,OpenPlay,2017,LeftFoot,7265,West Bromwich Albion,Crystal Palace,0,0,2017-12-02 15:00:00,,None,814
+160886,88,MissedShots,0.7769999694824219,0.355,0.017460700124502182,James McClean,h,814,SetPiece,2017,LeftFoot,7265,West Bromwich Albion,Crystal Palace,0,0,2017-12-02 15:00:00,Ahmed Hegazy,HeadPass,814
+185347,3,SavedShot,0.7869999694824219,0.3729999923706055,0.11261600255966187,James McClean,a,814,OpenPlay,2017,RightFoot,7306,Stoke,West Bromwich Albion,3,1,2017-12-23 15:00:00,Salomón Rondón,Throughball,814
+186227,76,BlockedShot,0.925,0.6759999847412109,0.050751399248838425,James McClean,h,814,OpenPlay,2017,LeftFoot,7328,West Bromwich Albion,Arsenal,1,1,2017-12-31 16:30:00,,Rebound,814
+186228,78,BlockedShot,0.725999984741211,0.34599998474121096,0.04015659913420677,James McClean,h,814,DirectFreekick,2017,LeftFoot,7328,West Bromwich Albion,Arsenal,1,1,2017-12-31 16:30:00,,Standard,814
+186230,82,OwnGoal,0.11100000381469727,0.5629999923706055,0,James McClean,h,814,SetPiece,2017,LeftFoot,7328,West Bromwich Albion,Arsenal,1,1,2017-12-31 16:30:00,,Foul,814
+186380,23,SavedShot,0.7559999847412109,0.6869999694824219,0.01883089914917946,James McClean,a,814,OpenPlay,2017,LeftFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Kieran Gibbs,Pass,814
+186382,29,Goal,0.7809999847412109,0.47200000762939454,0.09915079921483994,James McClean,a,814,OpenPlay,2017,LeftFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Salomón Rondón,TakeOn,814
+186388,51,MissedShots,0.700999984741211,0.705,0.014373400248587132,James McClean,a,814,OpenPlay,2017,RightFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Jay Rodriguez,Pass,814
+197392,41,BlockedShot,0.9030000305175782,0.5429999923706055,0.09640830010175705,James McClean,h,814,OpenPlay,2017,LeftFoot,7394,West Bromwich Albion,Huddersfield,1,2,2018-02-24 15:00:00,Matt Phillips,Cross,814
+197393,42,MissedShots,0.9219999694824219,0.5820000076293945,0.10711900144815445,James McClean,h,814,OpenPlay,2017,LeftFoot,7394,West Bromwich Albion,Huddersfield,1,2,2018-02-24 15:00:00,Matt Phillips,Chipped,814
+207100,48,BlockedShot,0.9219999694824219,0.6270000076293946,0.03924819827079773,James McClean,h,814,SetPiece,2017,RightFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,,Aerial,814
+207101,48,BlockedShot,0.8080000305175781,0.49900001525878906,0.056587498635053635,James McClean,h,814,OpenPlay,2017,LeftFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Salomón Rondón,Pass,814
+207106,70,BlockedShot,0.8959999847412109,0.6659999847412109,0.07523000240325928,James McClean,h,814,OpenPlay,2017,RightFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,,None,814
+209207,80,MissedShots,0.85,0.754000015258789,0.020793000236153603,James McClean,a,814,OpenPlay,2017,LeftFoot,7453,Manchester United,West Bromwich Albion,0,1,2018-04-15 15:00:00,,TakeOn,814
+210256,36,MissedShots,0.9690000152587891,0.6509999847412109,0.04336550086736679,James McClean,h,814,OpenPlay,2017,LeftFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Jake Livermore,Cross,814
+210259,49,MissedShots,0.8119999694824219,0.6759999847412109,0.030893700197339058,James McClean,h,814,OpenPlay,2017,LeftFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Matt Phillips,Pass,814
+211704,11,MissedShots,0.884000015258789,0.7319999694824219,0.03525340184569359,James McClean,a,814,OpenPlay,2017,LeftFoot,7474,Newcastle United,West Bromwich Albion,0,1,2018-04-28 14:00:00,Salomón Rondón,Pass,814
+215689,11,MissedShots,0.7669999694824219,0.475,0.014907799661159515,James McClean,a,814,FromCorner,2017,LeftFoot,7493,Crystal Palace,West Bromwich Albion,2,0,2018-05-13 15:00:00,,Aerial,814
+215700,72,MissedShots,0.8830000305175781,0.7319999694824219,0.03787140175700188,James McClean,a,814,OpenPlay,2017,LeftFoot,7493,Crystal Palace,West Bromwich Albion,2,0,2018-05-13 15:00:00,Hal Robson-Kanu,Pass,814
+215704,80,SavedShot,0.7809999847412109,0.585,0.031720101833343506,James McClean,a,814,OpenPlay,2017,LeftFoot,7493,Crystal Palace,West Bromwich Albion,2,0,2018-05-13 15:00:00,Daniel Sturridge,Pass,814

@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,1,0.10429999977350235,17,Sub,Bournemouth,Crystal Palace,0,0,2015-12-26,255,2015,59737,0,0,0,0,0.10429999977350235,0.10429999977350235,0,958
+0,0,0,6,Sub,West Bromwich Albion,Bournemouth,1,2,2015-12-19,241,2015,59198,0,0,0,0,0,0.3565390110015869,0.3565390110015869,958
+0,0,0,10,Sub,Bournemouth,Newcastle United,0,1,2015-11-07,191,2015,60395,0.019656699150800705,0,1,0,0,0.03840649873018265,0.01874990016222,958

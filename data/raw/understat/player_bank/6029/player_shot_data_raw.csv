@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+158448,7,MissedShots,0.725,0.4879999923706055,0.014511199668049812,Tommy Smith,h,6029,FromCorner,2017,RightFoot,7136,Huddersfield,Newcastle United,1,0,2017-08-20 13:30:00,,None,6029
+159214,46,MissedShots,0.7780000305175782,0.33,0.021678000688552856,Tommy Smith,a,6029,FromCorner,2017,RightFoot,7174,Burnley,Huddersfield,0,0,2017-09-23 15:00:00,Aaron Mooy,Pass,6029
+160182,4,SavedShot,0.7580000305175781,0.38599998474121094,0.020500700920820236,Tommy Smith,h,6029,OpenPlay,2017,LeftFoot,7179,Huddersfield,Tottenham,0,4,2017-09-30 12:30:00,Laurent Depoitre,Pass,6029
+161209,16,MissedShots,0.8009999847412109,0.295,0.024083100259304047,Tommy Smith,h,6029,OpenPlay,2017,LeftFoot,7245,Huddersfield,Manchester City,1,2,2017-11-26 16:00:00,Tom Ince,Pass,6029
+161701,75,SavedShot,0.7730000305175782,0.3089999961853027,0.015351800248026848,Tommy Smith,a,6029,FromCorner,2017,RightFoot,7260,Everton,Huddersfield,2,0,2017-12-02 15:00:00,,None,6029
+179210,67,MissedShots,0.8230000305175781,0.3160000038146973,0.030000699684023857,Tommy Smith,h,6029,OpenPlay,2017,LeftFoot,7274,Huddersfield,Brighton,2,0,2017-12-09 15:00:00,,None,6029
+197413,93,BlockedShot,0.7730000305175782,0.265,0.020049000158905983,Tommy Smith,a,6029,OpenPlay,2017,RightFoot,7394,West Bromwich Albion,Huddersfield,1,2,2018-02-24 15:00:00,Laurent Depoitre,Pass,6029
+203974,23,BlockedShot,0.715,0.36700000762939455,0.012996899895370007,Tommy Smith,a,6029,OpenPlay,2017,LeftFoot,7436,Newcastle United,Huddersfield,1,0,2018-03-31 15:00:00,Laurent Depoitre,Pass,6029
+251138,56,MissedShots,0.875,0.295,0.03739820048213005,Tommy Smith,a,6029,OpenPlay,2018,RightFoot,9356,Arsenal,Huddersfield,1,0,2018-12-08 15:00:00,Juninho Bacuna,Chipped,6029
+286231,16,BlockedShot,0.7930000305175782,0.36400001525878906,0.02824920043349266,Tommy Smith,a,6029,OpenPlay,2018,LeftFoot,9498,West Ham,Huddersfield,4,3,2019-03-16 15:00:00,,None,6029
+301412,10,BlockedShot,0.710999984741211,0.47400001525878904,0.010138499550521374,Tommy Smith,a,6029,OpenPlay,2018,LeftFoot,9569,Southampton,Huddersfield,1,1,2019-05-12 14:00:00,,Aerial,6029

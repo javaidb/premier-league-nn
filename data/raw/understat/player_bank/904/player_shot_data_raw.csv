@@ -1,0 +1,114 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14609,35,MissedShots,0.6940000152587891,0.649000015258789,0.012623200193047523,Chris Brunt,h,904,OpenPlay,2014,LeftFoot,4753,West Bromwich Albion,Sunderland,2,2,2014-08-16 15:00:00,Graham Dorrans,Pass,904
+14812,72,BlockedShot,0.7519999694824219,0.37200000762939456,0.012462000362575054,Chris Brunt,a,904,SetPiece,2014,LeftFoot,4762,Southampton,West Bromwich Albion,0,0,2014-08-23 15:00:00,,None,904
+15074,21,BlockedShot,0.6780000305175782,0.625999984741211,0.012189899571239948,Chris Brunt,a,904,OpenPlay,2014,LeftFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Brown Ideye,Pass,904
+15405,8,BlockedShot,0.855,0.745,0.028754400089383125,Chris Brunt,h,904,OpenPlay,2014,LeftFoot,4725,West Bromwich Albion,Everton,0,2,2014-09-13 15:00:00,Sébastien Pocognoli,Pass,904
+15410,29,MissedShots,0.8580000305175781,0.7390000152587891,0.027895599603652954,Chris Brunt,h,904,OpenPlay,2014,LeftFoot,4725,West Bromwich Albion,Everton,0,2,2014-09-13 15:00:00,,None,904
+15913,14,MissedShots,0.8980000305175782,0.6930000305175781,0.04043310135602951,Chris Brunt,h,904,OpenPlay,2014,LeftFoot,4747,West Bromwich Albion,Burnley,4,0,2014-09-28 16:00:00,,Rebound,904
+15921,41,MissedShots,0.7580000305175781,0.3920000076293945,0.03953909873962402,Chris Brunt,h,904,OpenPlay,2014,LeftFoot,4747,West Bromwich Albion,Burnley,4,0,2014-09-28 16:00:00,Stéphane Sessegnon,LayOff,904
+17101,18,MissedShots,0.5529999923706055,0.965999984741211,0.006489470135420561,Chris Brunt,h,904,OpenPlay,2014,LeftFoot,4708,West Bromwich Albion,Manchester United,2,2,2014-10-20 20:00:00,Stéphane Sessegnon,Pass,904
+16439,42,MissedShots,0.67,0.7090000152587891,0.011103499680757523,Chris Brunt,h,904,OpenPlay,2014,LeftFoot,4712,West Bromwich Albion,Crystal Palace,2,2,2014-10-25 15:00:00,James Morrison,Pass,904
+15949,39,MissedShots,0.8880000305175781,0.5979999923706054,0.09876979887485504,Chris Brunt,a,904,OpenPlay,2014,LeftFoot,4651,Leicester,West Bromwich Albion,0,1,2014-11-01 15:00:00,Saido Berahino,Pass,904
+17423,19,MissedShots,0.8730000305175781,0.48,0.03424819931387901,Chris Brunt,h,904,OpenPlay,2014,Head,4667,West Bromwich Albion,Newcastle United,0,2,2014-11-09 13:30:00,Graham Dorrans,Cross,904
+16271,26,SavedShot,0.8019999694824219,0.6370000076293946,0.025641299784183502,Chris Brunt,a,904,OpenPlay,2014,LeftFoot,4674,Chelsea,West Bromwich Albion,2,0,2014-11-22 15:00:00,Saido Berahino,Pass,904
+16282,59,MissedShots,0.674000015258789,0.9030000305175782,0.020623300224542618,Chris Brunt,a,904,DirectFreekick,2014,LeftFoot,4674,Chelsea,West Bromwich Albion,2,0,2014-11-22 15:00:00,,Standard,904
+18616,80,BlockedShot,0.8190000152587891,0.524000015258789,0.05931049957871437,Chris Brunt,h,904,OpenPlay,2014,LeftFoot,4679,West Bromwich Albion,Arsenal,0,1,2014-11-29 12:45:00,Victor Anichebe,LayOff,904
+18999,12,BlockedShot,0.7319999694824219,0.45799999237060546,0.014524799771606922,Chris Brunt,a,904,OpenPlay,2014,RightFoot,4646,Stoke,West Bromwich Albion,2,0,2014-12-28 15:00:00,,TakeOn,904
+19007,35,MissedShots,0.7240000152587891,0.44099998474121094,0.015775000676512718,Chris Brunt,a,904,OpenPlay,2014,LeftFoot,4646,Stoke,West Bromwich Albion,2,0,2014-12-28 15:00:00,Craig Gardner,Pass,904
+19017,63,BlockedShot,0.725,0.49900001525878906,0.01901080086827278,Chris Brunt,a,904,OpenPlay,2014,LeftFoot,4646,Stoke,West Bromwich Albion,2,0,2014-12-28 15:00:00,,Rebound,904
+20082,29,MissedShots,0.9009999847412109,0.6819999694824219,0.05684699863195419,Chris Brunt,a,904,OpenPlay,2014,LeftFoot,4556,West Ham,West Bromwich Albion,1,1,2015-01-01 15:00:00,Stéphane Sessegnon,Pass,904
+20083,34,MissedShots,0.755,0.31799999237060544,0.04812439903616905,Chris Brunt,a,904,DirectFreekick,2014,LeftFoot,4556,West Ham,West Bromwich Albion,1,1,2015-01-01 15:00:00,,Standard,904
+18661,45,BlockedShot,0.7230000305175781,0.64,0.009716279804706573,Chris Brunt,a,904,SetPiece,2014,LeftFoot,4580,Everton,West Bromwich Albion,0,0,2015-01-19 20:00:00,,None,904
+18670,79,BlockedShot,0.7809999847412109,0.7240000152587891,0.015048399567604065,Chris Brunt,a,904,OpenPlay,2014,LeftFoot,4580,Everton,West Bromwich Albion,0,0,2015-01-19 20:00:00,Stéphane Sessegnon,Pass,904
+23873,24,SavedShot,0.6769999694824219,0.6329999923706054,0.009206660091876984,Chris Brunt,h,904,OpenPlay,2014,LeftFoot,4586,West Bromwich Albion,Tottenham,0,3,2015-01-31 15:00:00,Claudio Yacob,Pass,904
+24082,45,Goal,0.9519999694824218,0.48400001525878905,0.4734799861907959,Chris Brunt,a,904,FromCorner,2014,Head,4522,Burnley,West Bromwich Albion,2,2,2015-02-08 12:00:00,Callum McManaman,Cross,904
+24268,91,MissedShots,0.6809999847412109,0.5770000076293945,0.011206699535250664,Chris Brunt,a,904,OpenPlay,2014,LeftFoot,4538,Sunderland,West Bromwich Albion,0,0,2015-02-21 15:00:00,,Tackle,904
+24059,32,BlockedShot,0.725999984741211,0.265,0.01197229977697134,Chris Brunt,a,904,FromCorner,2014,LeftFoot,4482,Aston Villa,West Bromwich Albion,2,1,2015-03-03 19:45:00,,None,904
+20964,39,MissedShots,0.7830000305175782,0.6930000305175781,0.021446000784635544,Chris Brunt,h,904,OpenPlay,2014,RightFoot,4496,West Bromwich Albion,Stoke,1,0,2015-03-14 15:00:00,Stéphane Sessegnon,Pass,904
+22724,38,MissedShots,0.705,0.49900001525878906,0.00875230971723795,Chris Brunt,h,904,OpenPlay,2014,RightFoot,4445,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04 15:00:00,,None,904
+20313,41,MissedShots,0.4520000076293945,0.48700000762939455,0.01730250008404255,Chris Brunt,h,904,DirectFreekick,2014,LeftFoot,4471,West Bromwich Albion,Liverpool,0,0,2015-04-25 15:00:00,,Standard,904
+21574,62,BlockedShot,0.7980000305175782,0.42400001525878905,0.11135099828243256,Chris Brunt,a,904,DirectFreekick,2014,LeftFoot,4405,Manchester United,West Bromwich Albion,0,1,2015-05-02 17:30:00,,Standard,904
+21722,72,ShotOnPost,0.9830000305175781,0.5709999847412109,0.5691409707069397,Chris Brunt,a,904,SetPiece,2014,LeftFoot,4413,Newcastle United,West Bromwich Albion,1,1,2015-05-09 15:00:00,,Rebound,904
+21721,72,BlockedShot,0.8930000305175781,0.5459999847412109,0.0592476986348629,Chris Brunt,a,904,SetPiece,2014,Head,4413,Newcastle United,West Bromwich Albion,1,1,2015-05-09 15:00:00,Craig Dawson,Cross,904
+21464,39,SavedShot,0.8930000305175781,0.6659999847412109,0.129053995013237,Chris Brunt,h,904,OpenPlay,2014,LeftFoot,4428,West Bromwich Albion,Chelsea,3,0,2015-05-18 20:00:00,James Morrison,Throughball,904
+21470,59,Goal,0.865,0.25,0.029079899191856384,Chris Brunt,h,904,FromCorner,2014,LeftFoot,4428,West Bromwich Albion,Chelsea,3,0,2015-05-18 20:00:00,Craig Gardner,Pass,904
+51712,82,MissedShots,0.9369999694824219,0.6580000305175782,0.08945819735527039,Chris Brunt,h,904,OpenPlay,2015,RightFoot,90,West Bromwich Albion,Manchester City,0,3,2015-08-10 23:00:00,Victor Anichebe,Pass,904
+51945,84,MissedShots,0.7480000305175781,0.6909999847412109,0.04387129843235016,Chris Brunt,a,904,DirectFreekick,2015,LeftFoot,96,Watford,West Bromwich Albion,0,0,2015-08-15 18:00:00,,Standard,904
+57231,55,SavedShot,0.795,0.67,0.021640799939632416,Chris Brunt,h,904,FromCorner,2015,RightFoot,107,West Bromwich Albion,Chelsea,2,3,2015-08-23 16:30:00,Callum McManaman,Pass,904
+57244,86,MissedShots,0.8059999847412109,0.6990000152587891,0.026988400146365166,Chris Brunt,h,904,OpenPlay,2015,RightFoot,107,West Bromwich Albion,Chelsea,2,3,2015-08-23 16:30:00,Claudio Yacob,TakeOn,904
+58050,6,MissedShots,0.7669999694824219,0.46599998474121096,0.028174199163913727,Chris Brunt,a,904,FromCorner,2015,RightFoot,133,Aston Villa,West Bromwich Albion,0,1,2015-09-19 18:00:00,Saido Berahino,Pass,904
+58724,25,MissedShots,0.8219999694824218,0.4759999847412109,0.05637339875102043,Chris Brunt,a,904,SetPiece,2015,LeftFoot,151,Crystal Palace,West Bromwich Albion,2,0,2015-10-03 15:45:00,James McClean,Pass,904
+59321,5,SavedShot,0.759000015258789,0.7719999694824219,0.009548130445182323,Chris Brunt,a,904,OpenPlay,2015,LeftFoot,174,Norwich,West Bromwich Albion,0,1,2015-10-24 18:00:00,,Aerial,904
+59328,39,SavedShot,0.6930000305175781,0.6480000305175782,0.00817704014480114,Chris Brunt,a,904,OpenPlay,2015,LeftFoot,174,Norwich,West Bromwich Albion,0,1,2015-10-24 18:00:00,Claudio Yacob,HeadPass,904
+59339,63,SavedShot,0.795,0.7340000152587891,0.024216599762439728,Chris Brunt,a,904,OpenPlay,2015,RightFoot,174,Norwich,West Bromwich Albion,0,1,2015-10-24 18:00:00,,None,904
+53759,25,BlockedShot,0.7219999694824218,0.5070000076293946,0.04740839824080467,Chris Brunt,h,904,DirectFreekick,2015,LeftFoot,187,West Bromwich Albion,Leicester,2,3,2015-10-31 19:00:00,,Standard,904
+55271,47,BlockedShot,0.705,0.5329999923706055,0.039532601833343506,Chris Brunt,a,904,DirectFreekick,2015,LeftFoot,193,Manchester United,West Bromwich Albion,2,0,2015-11-07 19:00:00,,Standard,904
+52794,63,MissedShots,0.885,0.15,0.04767569899559021,Chris Brunt,h,904,DirectFreekick,2015,LeftFoot,224,West Bromwich Albion,Tottenham,1,1,2015-12-05 19:00:00,,Standard,904
+55604,17,MissedShots,0.7980000305175782,0.34200000762939453,0.08041830360889435,Chris Brunt,a,904,DirectFreekick,2015,LeftFoot,252,Swansea,West Bromwich Albion,1,0,2015-12-26 19:00:00,,Standard,904
+55606,32,MissedShots,0.7619999694824219,0.765,0.01632560044527054,Chris Brunt,a,904,OpenPlay,2015,RightFoot,252,Swansea,West Bromwich Albion,1,0,2015-12-26 19:00:00,Jonny Evans,Pass,904
+54372,30,MissedShots,0.9069999694824219,0.30100000381469727,0.026944700628519058,Chris Brunt,h,904,OpenPlay,2015,RightFoot,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,Jonny Evans,Cross,904
+52582,73,BlockedShot,0.77,0.7530000305175781,0.008570300415158272,Chris Brunt,a,904,OpenPlay,2015,LeftFoot,294,Southampton,West Bromwich Albion,3,0,2016-01-16 19:00:00,,None,904
+52584,85,MissedShots,0.755,0.59,0.01498160045593977,Chris Brunt,a,904,SetPiece,2015,LeftFoot,294,Southampton,West Bromwich Albion,3,0,2016-01-16 19:00:00,,Rebound,904
+55453,61,MissedShots,0.9069999694824219,0.7030000305175781,0.07082910090684891,Chris Brunt,a,904,OpenPlay,2015,LeftFoot,334,Everton,West Bromwich Albion,0,1,2016-02-13 19:00:00,Salomón Rondón,Pass,904
+115053,65,SavedShot,0.7230000305175781,0.5,0.04794060066342354,Chris Brunt,h,904,DirectFreekick,2016,LeftFoot,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,,Standard,904
+115635,31,MissedShots,0.769000015258789,0.3160000038146973,0.019961899146437645,Chris Brunt,a,904,OpenPlay,2016,LeftFoot,2696,Leicester,West Bromwich Albion,1,2,2016-11-06 20:30:00,Craig Dawson,Pass,904
+115642,70,MissedShots,0.7090000152587891,0.35700000762939454,0.012399699538946152,Chris Brunt,a,904,OpenPlay,2016,LeftFoot,2696,Leicester,West Bromwich Albion,1,2,2016-11-06 20:30:00,Craig Dawson,Pass,904
+115990,5,SavedShot,0.8230000305175781,0.29700000762939455,0.04152749851346016,Chris Brunt,h,904,OpenPlay,2016,LeftFoot,2706,West Bromwich Albion,Burnley,4,0,2016-11-22 00:00:00,,None,904
+116005,77,MissedShots,0.7219999694824218,0.5370000076293945,0.016435200348496437,Chris Brunt,h,904,OpenPlay,2016,LeftFoot,2706,West Bromwich Albion,Burnley,4,0,2016-11-22 00:00:00,,None,904
+116053,33,Goal,0.725999984741211,0.43,0.04724179953336716,Chris Brunt,h,904,DirectFreekick,2016,LeftFoot,3110,West Bromwich Albion,Watford,3,1,2016-12-03 19:00:00,,Standard,904
+116063,53,MissedShots,0.9169999694824219,0.41900001525878905,0.13275599479675293,Chris Brunt,h,904,OpenPlay,2016,RightFoot,3110,West Bromwich Albion,Watford,3,1,2016-12-03 19:00:00,Matt Phillips,Cross,904
+116720,5,MissedShots,0.8930000305175781,0.445,0.032279398292303085,Chris Brunt,a,904,OpenPlay,2016,Head,3121,Chelsea,West Bromwich Albion,1,0,2016-12-11 16:00:00,Craig Dawson,Aerial,904
+116722,18,MissedShots,0.735,0.47900001525878905,0.01636599935591221,Chris Brunt,a,904,OpenPlay,2016,LeftFoot,3121,Chelsea,West Bromwich Albion,1,0,2016-12-11 16:00:00,Jonny Evans,TakeOn,904
+115940,2,BlockedShot,0.7340000152587891,0.45,0.01709119975566864,Chris Brunt,h,904,OpenPlay,2016,LeftFoot,3140,West Bromwich Albion,Manchester United,0,2,2016-12-17 21:30:00,Nacer Chadli,Pass,904
+115947,28,SavedShot,0.8159999847412109,0.25799999237060545,0.019433900713920593,Chris Brunt,h,904,OpenPlay,2016,LeftFoot,3140,West Bromwich Albion,Manchester United,0,2,2016-12-17 21:30:00,,None,904
+117688,4,MissedShots,0.745999984741211,0.3770000076293945,0.013167000375688076,Chris Brunt,a,904,FromCorner,2016,LeftFoot,3160,Southampton,West Bromwich Albion,1,2,2016-12-31 19:00:00,,Aerial,904
+116984,48,Goal,0.93,0.455,0.3082669973373413,Chris Brunt,h,904,FromCorner,2016,Head,3333,West Bromwich Albion,Hull,3,1,2017-01-02 19:00:00,Matt Phillips,Cross,904
+118761,2,MissedShots,0.85,0.6020000076293945,0.05966769903898239,Chris Brunt,h,904,OpenPlay,2016,LeftFoot,3355,West Bromwich Albion,Sunderland,2,0,2017-01-21 18:00:00,,None,904
+118769,35,Goal,0.8540000152587891,0.615,0.06433629989624023,Chris Brunt,h,904,OpenPlay,2016,LeftFoot,3355,West Bromwich Albion,Sunderland,2,0,2017-01-21 18:00:00,,Rebound,904
+118948,12,MissedShots,0.7769999694824219,0.710999984741211,0.02264229953289032,Chris Brunt,a,904,OpenPlay,2016,RightFoot,3363,Middlesbrough,West Bromwich Albion,1,1,2017-01-31 22:45:00,,None,904
+118968,76,SavedShot,0.740999984741211,0.6480000305175782,0.016718000173568726,Chris Brunt,a,904,OpenPlay,2016,LeftFoot,3363,Middlesbrough,West Bromwich Albion,1,1,2017-01-31 22:45:00,Claudio Yacob,Pass,904
+118969,77,SavedShot,0.7319999694824219,0.5029999923706054,0.017065199092030525,Chris Brunt,a,904,OpenPlay,2016,LeftFoot,3363,Middlesbrough,West Bromwich Albion,1,1,2017-01-31 22:45:00,James McClean,Pass,904
+118177,37,BlockedShot,0.9119999694824219,0.3240000152587891,0.04549580067396164,Chris Brunt,a,904,FromCorner,2016,LeftFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,,None,904
+118836,5,MissedShots,0.7519999694824219,0.285,0.01493149995803833,Chris Brunt,h,904,OpenPlay,2016,LeftFoot,3395,West Bromwich Albion,Bournemouth,2,1,2017-02-25 15:00:00,Craig Dawson,Pass,904
+120181,1,BlockedShot,0.700999984741211,0.4520000076293945,0.03772680088877678,Chris Brunt,h,904,DirectFreekick,2016,LeftFoot,3408,West Bromwich Albion,Crystal Palace,0,2,2017-03-04 15:00:00,,Standard,904
+120185,25,BlockedShot,0.795,0.34700000762939454,0.02960750088095665,Chris Brunt,h,904,OpenPlay,2016,LeftFoot,3408,West Bromwich Albion,Crystal Palace,0,2,2017-03-04 15:00:00,Darren Fletcher,Pass,904
+120186,32,MissedShots,0.85,0.5690000152587891,0.06514230370521545,Chris Brunt,h,904,OpenPlay,2016,LeftFoot,3408,West Bromwich Albion,Crystal Palace,0,2,2017-03-04 15:00:00,,None,904
+120533,66,MissedShots,0.7809999847412109,0.725999984741211,0.022065000608563423,Chris Brunt,h,904,OpenPlay,2016,LeftFoot,3420,West Bromwich Albion,Arsenal,3,1,2017-03-18 12:30:00,Jake Livermore,Pass,904
+119556,33,BlockedShot,0.7580000305175781,0.355,0.0558863990008831,Chris Brunt,a,904,DirectFreekick,2016,LeftFoot,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,,Standard,904
+119260,45,MissedShots,0.7190000152587891,0.41200000762939454,0.01520949974656105,Chris Brunt,a,904,OpenPlay,2016,LeftFoot,3443,Watford,West Bromwich Albion,2,0,2017-04-04 19:45:00,Hal Robson-Kanu,Pass,904
+121189,12,MissedShots,0.764000015258789,0.3890000152587891,0.06574159860610962,Chris Brunt,h,904,DirectFreekick,2016,LeftFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,,Standard,904
+121190,17,SavedShot,0.9540000152587891,0.3629999923706055,0.014249599538743496,Chris Brunt,h,904,OpenPlay,2016,Head,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Jonny Evans,Aerial,904
+121194,38,BlockedShot,0.879000015258789,0.62,0.06512010097503662,Chris Brunt,h,904,OpenPlay,2016,RightFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,James Morrison,Chipped,904
+121199,49,BlockedShot,0.875,0.27899999618530275,0.02876639924943447,Chris Brunt,h,904,OpenPlay,2016,LeftFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,James Morrison,Pass,904
+121336,63,BlockedShot,0.7909999847412109,0.45799999237060546,0.036555301398038864,Chris Brunt,a,904,OpenPlay,2016,LeftFoot,3492,Burnley,West Bromwich Albion,2,2,2017-05-06 15:00:00,,Rebound,904
+120581,27,SavedShot,0.965999984741211,0.3770000076293945,0.07085809856653214,Chris Brunt,h,904,FromCorner,2016,LeftFoot,3508,West Bromwich Albion,Chelsea,0,1,2017-05-12 20:00:00,Jonny Evans,HeadPass,904
+120850,44,MissedShots,0.8780000305175781,0.7230000305175781,0.024341199547052383,Chris Brunt,a,904,OpenPlay,2016,LeftFoot,3477,Manchester City,West Bromwich Albion,3,1,2017-05-16 20:00:00,Nacer Chadli,Chipped,904
+112578,1,BlockedShot,0.8159999847412109,0.7230000305175781,0.02132909931242466,Chris Brunt,a,904,OpenPlay,2016,LeftFoot,3518,Swansea,West Bromwich Albion,2,1,2017-05-21 15:00:00,,None,904
+112579,7,MissedShots,0.795,0.72,0.011601399630308151,Chris Brunt,a,904,OpenPlay,2016,RightFoot,3518,Swansea,West Bromwich Albion,2,1,2017-05-21 15:00:00,,Aerial,904
+112593,47,SavedShot,0.7119999694824218,0.765,0.027943700551986694,Chris Brunt,a,904,DirectFreekick,2016,LeftFoot,3518,Swansea,West Bromwich Albion,2,1,2017-05-21 15:00:00,,Standard,904
+112596,54,MissedShots,0.47200000762939454,0.75,0.01719750091433525,Chris Brunt,a,904,DirectFreekick,2016,LeftFoot,3518,Swansea,West Bromwich Albion,2,1,2017-05-21 15:00:00,,Standard,904
+112604,89,BlockedShot,0.7140000152587891,0.40299999237060546,0.01609399914741516,Chris Brunt,a,904,OpenPlay,2016,RightFoot,3518,Swansea,West Bromwich Albion,2,1,2017-05-21 15:00:00,James McClean,Pass,904
+158430,51,MissedShots,0.9440000152587891,0.18,0.06523119658231735,Chris Brunt,a,904,DirectFreekick,2017,LeftFoot,7132,Burnley,West Bromwich Albion,0,1,2017-08-19 15:00:00,,Standard,904
+185344,82,MissedShots,0.7290000152587891,0.63,0.01734890043735504,Chris Brunt,a,904,OpenPlay,2017,LeftFoot,7287,Liverpool,West Bromwich Albion,0,0,2017-12-13 20:00:00,Jake Livermore,Pass,904
+182848,74,MissedShots,0.799000015258789,0.48700000762939455,0.019795099273324013,Chris Brunt,h,904,OpenPlay,2017,RightFoot,7295,West Bromwich Albion,Manchester United,1,2,2017-12-17 14:15:00,Jay Rodriguez,HeadPass,904
+185635,42,SavedShot,0.764000015258789,0.4879999923706055,0.02992039918899536,Chris Brunt,h,904,OpenPlay,2017,LeftFoot,7318,West Bromwich Albion,Everton,0,0,2017-12-26 15:00:00,,TakeOn,904
+185640,57,BlockedShot,0.9169999694824219,0.6880000305175781,0.05309790000319481,Chris Brunt,h,904,OpenPlay,2017,LeftFoot,7318,West Bromwich Albion,Everton,0,0,2017-12-26 15:00:00,,None,904
+185652,90,MissedShots,0.7530000305175781,0.47299999237060547,0.022538499906659126,Chris Brunt,h,904,OpenPlay,2017,LeftFoot,7318,West Bromwich Albion,Everton,0,0,2017-12-26 15:00:00,James McClean,Pass,904
+186211,26,MissedShots,0.7930000305175782,0.725999984741211,0.05599910020828247,Chris Brunt,h,904,DirectFreekick,2017,LeftFoot,7328,West Bromwich Albion,Arsenal,1,1,2017-12-31 16:30:00,,Standard,904
+193810,45,BlockedShot,0.735,0.580999984741211,0.0511149987578392,Chris Brunt,h,904,DirectFreekick,2017,LeftFoot,7378,West Bromwich Albion,Southampton,2,3,2018-02-03 15:00:00,,Standard,904
+193811,46,SavedShot,0.794000015258789,0.38599998474121094,0.09256249666213989,Chris Brunt,h,904,DirectFreekick,2017,LeftFoot,7378,West Bromwich Albion,Southampton,2,3,2018-02-03 15:00:00,,Standard,904
+193812,50,BlockedShot,0.7580000305175781,0.4329999923706055,0.06765449792146683,Chris Brunt,h,904,DirectFreekick,2017,LeftFoot,7378,West Bromwich Albion,Southampton,2,3,2018-02-03 15:00:00,,Standard,904
+197403,69,SavedShot,0.74,0.63,0.04863480105996132,Chris Brunt,h,904,DirectFreekick,2017,LeftFoot,7394,West Bromwich Albion,Huddersfield,1,2,2018-02-24 15:00:00,,Standard,904
+198919,44,MissedShots,0.835999984741211,0.17100000381469727,0.043778300285339355,Chris Brunt,a,904,DirectFreekick,2017,LeftFoot,7408,Watford,West Bromwich Albion,1,0,2018-03-03 15:00:00,,Standard,904
+199972,12,MissedShots,0.779000015258789,0.5990000152587891,0.040365900844335556,Chris Brunt,h,904,OpenPlay,2017,LeftFoot,7417,West Bromwich Albion,Leicester,1,4,2018-03-10 15:00:00,,None,904
+199979,39,MissedShots,0.745999984741211,0.544000015258789,0.020647000521421432,Chris Brunt,h,904,OpenPlay,2017,LeftFoot,7417,West Bromwich Albion,Leicester,1,4,2018-03-10 15:00:00,,Dispossessed,904
+201440,80,SavedShot,0.755,0.5459999847412109,0.020646899938583374,Chris Brunt,a,904,OpenPlay,2017,LeftFoot,7419,Bournemouth,West Bromwich Albion,2,1,2018-03-17 15:00:00,,None,904
+207094,11,SavedShot,0.755,0.7480000305175781,0.012573899701237679,Chris Brunt,h,904,OpenPlay,2017,LeftFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Kieran Gibbs,Pass,904
+207112,85,BlockedShot,0.7330000305175781,0.4809999847412109,0.01377859991043806,Chris Brunt,h,904,OpenPlay,2017,LeftFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,,Rebound,904
+209189,24,BlockedShot,0.700999984741211,0.59,0.012931600213050842,Chris Brunt,a,904,OpenPlay,2017,LeftFoot,7453,Manchester United,West Bromwich Albion,0,1,2018-04-15 15:00:00,Salomón Rondón,Pass,904
+209193,35,MissedShots,0.7869999694824219,0.6609999847412109,0.020901799201965332,Chris Brunt,a,904,OpenPlay,2017,LeftFoot,7453,Manchester United,West Bromwich Albion,0,1,2018-04-15 15:00:00,James McClean,Pass,904
+210252,17,MissedShots,0.7119999694824218,0.5879999923706055,0.01269069965928793,Chris Brunt,h,904,OpenPlay,2017,RightFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,,None,904
+211721,68,MissedShots,0.675,0.6079999923706054,0.012833699584007263,Chris Brunt,a,904,OpenPlay,2017,LeftFoot,7474,Newcastle United,West Bromwich Albion,0,1,2018-04-28 14:00:00,,BallRecovery,904
+213341,42,MissedShots,0.7380000305175781,0.5220000076293946,0.017542099580168724,Chris Brunt,h,904,OpenPlay,2017,LeftFoot,7483,West Bromwich Albion,Tottenham,1,0,2018-05-05 15:00:00,,None,904
+213344,47,MissedShots,0.8119999694824219,0.24899999618530275,0.015779800713062286,Chris Brunt,h,904,OpenPlay,2017,LeftFoot,7483,West Bromwich Albion,Tottenham,1,0,2018-05-05 15:00:00,Salomón Rondón,Pass,904
+215694,48,MissedShots,0.749000015258789,0.5459999847412109,0.06268340349197388,Chris Brunt,a,904,DirectFreekick,2017,LeftFoot,7493,Crystal Palace,West Bromwich Albion,2,0,2018-05-13 15:00:00,,Standard,904

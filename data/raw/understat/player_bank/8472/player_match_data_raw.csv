@@ -1,0 +1,6 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,36,Sub,Southampton,Sheffield United,3,1,2020-07-26,12015,2019,411438,0,0,0,0,0,0,0,8472
+0,0,0,5,Sub,Sheffield United,Everton,0,1,2020-07-20,12009,2019,410374,0,0,0,0,0,0.07795160263776779,0.07795160263776779,8472
+0,1,0.06403879821300507,16,Sub,Sheffield United,Wolverhampton Wanderers,1,0,2020-07-08,11980,2019,406552,0.1276949942111969,0,1,0,0.06403879821300507,0.1276949942111969,0.1276949942111969,8472
+0,0,0,23,Sub,Manchester United,Sheffield United,3,0,2020-06-24,11950,2019,402330,0.0103302001953125,0,1,0,0,0,0,8472
+0,0,0,15,Sub,Newcastle United,Sheffield United,3,0,2020-06-21,11938,2019,401628,0,0,0,0,0,0,0,8472

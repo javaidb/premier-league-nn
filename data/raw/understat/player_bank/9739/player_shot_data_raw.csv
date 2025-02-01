@@ -1,0 +1,48 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+445487,53,BlockedShot,0.8180000305175781,0.6940000152587891,0.02742839977145195,Kiernan Dewsbury-Hall,a,9739,OpenPlay,2021,RightFoot,16514,Southampton,Leicester,2,2,2021-12-01 19:30:00,,None,9739
+445497,86,BlockedShot,0.8119999694824219,0.4590000152587891,0.021215099841356277,Kiernan Dewsbury-Hall,a,9739,FromCorner,2021,LeftFoot,16514,Southampton,Leicester,2,2,2021-12-01 19:30:00,,TakeOn,9739
+446999,21,MissedShots,0.92,0.4759999847412109,0.3640500009059906,Kiernan Dewsbury-Hall,a,9739,OpenPlay,2021,Head,16516,Aston Villa,Leicester,2,1,2021-12-05 16:30:00,Luke Thomas,Cross,9739
+447015,83,MissedShots,0.855999984741211,0.385,0.04797210171818733,Kiernan Dewsbury-Hall,a,9739,FromCorner,2021,RightFoot,16516,Aston Villa,Leicester,2,1,2021-12-05 16:30:00,,None,9739
+450607,40,MissedShots,0.8040000152587891,0.5670000076293945,0.04972799867391586,Kiernan Dewsbury-Hall,a,9739,OpenPlay,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,James Maddison,Pass,9739
+454175,24,BlockedShot,0.759000015258789,0.649000015258789,0.02580760046839714,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2021,LeftFoot,16540,Leicester,Tottenham,2,3,2022-01-19 19:30:00,,BallRecovery,9739
+454995,26,SavedShot,0.7330000305175781,0.5029999923706054,0.019382599741220474,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2021,LeftFoot,16602,Leicester,Brighton,1,1,2022-01-23 14:00:00,James Maddison,Pass,9739
+457670,67,MissedShots,0.7859999847412109,0.6730000305175782,0.029121600091457367,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2021,LeftFoot,16620,Leicester,West Ham,2,2,2022-02-13 16:30:00,Patson Daka,Pass,9739
+460695,56,MissedShots,0.870999984741211,0.34799999237060547,0.04335770010948181,Kiernan Dewsbury-Hall,a,9739,FromCorner,2021,RightFoot,16588,Burnley,Leicester,0,2,2022-03-01 19:45:00,,None,9739
+460697,58,BlockedShot,0.8019999694824219,0.5220000076293946,0.030543599277734756,Kiernan Dewsbury-Hall,a,9739,SetPiece,2021,LeftFoot,16588,Burnley,Leicester,0,2,2022-03-01 19:45:00,,Rebound,9739
+460696,58,BlockedShot,0.8090000152587891,0.505,0.14894500374794006,Kiernan Dewsbury-Hall,a,9739,DirectFreekick,2021,LeftFoot,16588,Burnley,Leicester,0,2,2022-03-01 19:45:00,,Standard,9739
+463283,91,BlockedShot,0.875,0.6759999847412109,0.038318898528814316,Kiernan Dewsbury-Hall,a,9739,OpenPlay,2021,LeftFoot,16656,Arsenal,Leicester,2,0,2022-03-13 16:30:00,,None,9739
+464407,38,MissedShots,0.7869999694824219,0.5509999847412109,0.06467609852552414,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2021,LeftFoot,16668,Leicester,Brentford,2,1,2022-03-20 14:00:00,,TakeOn,9739
+467203,44,Goal,0.835999984741211,0.52,0.07910949736833572,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2021,LeftFoot,16691,Leicester,Crystal Palace,2,1,2022-04-10 13:00:00,James Maddison,None,9739
+467217,85,BlockedShot,0.9259999847412109,0.53,0.14185500144958496,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2021,Head,16691,Leicester,Crystal Palace,2,1,2022-04-10 13:00:00,Harvey Barnes,Cross,9739
+468715,44,SavedShot,0.7380000305175781,0.43900001525878907,0.017549699172377586,Kiernan Dewsbury-Hall,a,9739,SetPiece,2021,LeftFoot,16701,Newcastle United,Leicester,2,1,2022-04-17 13:15:00,Ademola Lookman,Pass,9739
+468719,52,MissedShots,0.785,0.6840000152587891,0.017728600651025772,Kiernan Dewsbury-Hall,a,9739,OpenPlay,2021,RightFoot,16701,Newcastle United,Leicester,2,1,2022-04-17 13:15:00,Luke Thomas,Pass,9739
+468720,55,BlockedShot,0.924000015258789,0.6630000305175782,0.07088600099086761,Kiernan Dewsbury-Hall,a,9739,OpenPlay,2021,LeftFoot,16701,Newcastle United,Leicester,2,1,2022-04-17 13:15:00,Ademola Lookman,BallTouch,9739
+470023,70,MissedShots,0.7819999694824219,0.5570000076293945,0.03269730135798454,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2021,RightFoot,16709,Leicester,Aston Villa,0,0,2022-04-23 14:00:00,,None,9739
+476318,57,MissedShots,0.7280000305175781,0.515,0.024242699146270752,Kiernan Dewsbury-Hall,a,9739,OpenPlay,2021,LeftFoot,16738,Watford,Leicester,1,5,2022-05-15 13:00:00,Timothy Castagne,Pass,9739
+479622,45,Goal,0.740999984741211,0.53,0.026573600247502327,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2022,LeftFoot,18210,Leicester,Brentford,2,2,2022-08-07 13:00:00,Jamie Vardy,Pass,9739
+480390,78,MissedShots,0.7859999847412109,0.605,0.021262500435113907,Kiernan Dewsbury-Hall,a,9739,FromCorner,2022,LeftFoot,18217,Arsenal,Leicester,4,2,2022-08-13 14:00:00,,None,9739
+485506,20,SavedShot,0.7169999694824218,0.4929999923706055,0.013202499598264694,Kiernan Dewsbury-Hall,h,9739,SetPiece,2022,LeftFoot,18251,Leicester,Manchester United,0,1,2022-09-01 19:00:00,James Maddison,Foul,9739
+485515,54,BlockedShot,0.8080000305175781,0.6990000152587891,0.023935800418257713,Kiernan Dewsbury-Hall,h,9739,FromCorner,2022,LeftFoot,18251,Leicester,Manchester United,0,1,2022-09-01 19:00:00,Youri Tielemans,Pass,9739
+485518,82,BlockedShot,0.8180000305175781,0.6370000076293946,0.035473600029945374,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2022,LeftFoot,18251,Leicester,Manchester United,0,1,2022-09-01 19:00:00,James Maddison,Dispossessed,9739
+488935,33,MissedShots,0.8069999694824219,0.61,0.036538898944854736,Kiernan Dewsbury-Hall,a,9739,OpenPlay,2022,LeftFoot,18278,Tottenham,Leicester,6,2,2022-09-17 16:30:00,,None,9739
+491180,0,MissedShots,0.8090000152587891,0.775,0.013650800101459026,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2022,LeftFoot,18287,Leicester,Nottingham Forest,4,0,2022-10-03 19:00:00,,None,9739
+491184,4,MissedShots,0.95,0.5359999847412109,0.11497499793767929,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2022,Head,18287,Leicester,Nottingham Forest,4,0,2022-10-03 19:00:00,James Maddison,Aerial,9739
+491186,11,MissedShots,0.749000015258789,0.625,0.02042349986732006,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2022,LeftFoot,18287,Leicester,Nottingham Forest,4,0,2022-10-03 19:00:00,James Maddison,Pass,9739
+492872,89,BlockedShot,0.8219999694824218,0.534000015258789,0.049780599772930145,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2022,LeftFoot,18306,Leicester,Crystal Palace,0,0,2022-10-15 11:30:00,Kelechi Iheanacho,CornerAwarded,9739
+498262,27,BlockedShot,0.855,0.595999984741211,0.06374549865722656,Kiernan Dewsbury-Hall,a,9739,OpenPlay,2022,LeftFoot,18344,Everton,Leicester,0,2,2022-11-05 17:30:00,,None,9739
+500973,81,SavedShot,0.8380000305175781,0.5259999847412109,0.046557798981666565,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2022,RightFoot,18369,Leicester,Newcastle United,0,3,2022-12-26 15:00:00,,Rebound,9739
+501566,3,Goal,0.875,0.59,0.29025799036026,Kiernan Dewsbury-Hall,a,9739,OpenPlay,2022,LeftFoot,18375,Liverpool,Leicester,2,1,2022-12-30 20:00:00,Patson Daka,TakeOn,9739
+501586,60,MissedShots,0.91,0.5259999847412109,0.226282000541687,Kiernan Dewsbury-Hall,a,9739,OpenPlay,2022,Head,18375,Liverpool,Leicester,2,1,2022-12-30 20:00:00,Timothy Castagne,Cross,9739
+501589,76,MissedShots,0.805,0.6509999847412109,0.02190759964287281,Kiernan Dewsbury-Hall,a,9739,FromCorner,2022,LeftFoot,18375,Liverpool,Leicester,2,1,2022-12-30 20:00:00,,None,9739
+510122,30,MissedShots,0.825999984741211,0.57,0.052676498889923096,Kiernan Dewsbury-Hall,a,9739,OpenPlay,2022,LeftFoot,18437,Manchester United,Leicester,3,0,2023-02-19 14:00:00,James Maddison,Pass,9739
+510869,71,MissedShots,0.740999984741211,0.5879999923706055,0.020346300676465034,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2022,LeftFoot,18447,Leicester,Arsenal,0,1,2023-02-25 15:00:00,Wilfred Ndidi,Pass,9739
+513542,0,BlockedShot,0.7580000305175781,0.639000015258789,0.01655990071594715,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2022,RightFoot,18467,Leicester,Chelsea,1,3,2023-03-11 15:00:00,Kelechi Iheanacho,Pass,9739
+513548,25,BlockedShot,0.7280000305175781,0.5279999923706055,0.019910400733351707,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2022,LeftFoot,18467,Leicester,Chelsea,1,3,2023-03-11 15:00:00,James Maddison,Pass,9739
+513566,71,SavedShot,0.925,0.44299999237060544,0.41567298769950867,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2022,LeftFoot,18467,Leicester,Chelsea,1,3,2023-03-11 15:00:00,Harvey Barnes,HeadPass,9739
+513567,73,SavedShot,0.750999984741211,0.39,0.02129499986767769,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2022,LeftFoot,18467,Leicester,Chelsea,1,3,2023-03-11 15:00:00,Boubakary Soumare,TakeOn,9739
+514954,44,MissedShots,0.7240000152587891,0.6940000152587891,0.014187600463628769,Kiernan Dewsbury-Hall,a,9739,OpenPlay,2022,LeftFoot,18474,Brentford,Leicester,1,1,2023-03-18 15:00:00,James Maddison,Pass,9739
+514959,78,BlockedShot,0.8590000152587891,0.34700000762939454,0.03843490034341812,Kiernan Dewsbury-Hall,a,9739,FromCorner,2022,LeftFoot,18474,Brentford,Leicester,1,1,2023-03-18 15:00:00,,None,9739
+520906,49,MissedShots,0.7659999847412109,0.6559999847412109,0.022295281291007996,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2022,LeftFoot,18518,Leicester,Wolverhampton Wanderers,2,1,2023-04-22 14:00:00,Wout Faes,Pass,9739
+520908,56,MissedShots,0.935,0.5720000076293945,0.16545015573501587,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2022,LeftFoot,18518,Leicester,Wolverhampton Wanderers,2,1,2023-04-22 14:00:00,,Rebound,9739
+529992,28,MissedShots,0.8430000305175781,0.6270000076293946,0.06359146535396576,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2022,LeftFoot,18579,Leicester,West Ham,2,1,2023-05-28 15:30:00,Harvey Barnes,Pass,9739
+613025,10,BlockedShot,0.9319999694824219,0.5,0.08943549543619156,Kiernan Dewsbury-Hall,h,9739,OpenPlay,2024,LeftFoot,26814,Chelsea,Wolverhampton Wanderers,3,1,2025-01-20 20:00:00,,Aerial,9739

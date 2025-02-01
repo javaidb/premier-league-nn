@@ -1,0 +1,22 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+427285,88,MissedShots,0.7380000305175781,0.44299999237060544,0.034402601420879364,Enock Mwepu,h,9734,OpenPlay,2021,RightFoot,16391,Brighton,Watford,2,0,2021-08-21 16:30:00,Alexis Mac Allister,Pass,9734
+439683,27,MissedShots,0.9459999847412109,0.5059999847412109,0.5178560018539429,Enock Mwepu,a,9734,OpenPlay,2021,Head,16469,Liverpool,Brighton,2,2,2021-10-30 14:00:00,Marc Cucurella,Cross,9734
+439685,40,Goal,0.769000015258789,0.2570000076293945,0.009854700416326523,Enock Mwepu,a,9734,OpenPlay,2021,RightFoot,16469,Liverpool,Brighton,2,2,2021-10-30 14:00:00,Solly March,Pass,9734
+446161,6,BlockedShot,0.875,0.49700000762939456,0.07720720022916794,Enock Mwepu,a,9734,OpenPlay,2021,RightFoot,16521,Southampton,Brighton,1,1,2021-12-04 15:00:00,Marc Cucurella,Cross,9734
+446167,16,SavedShot,0.825,0.4570000076293945,0.06411030143499374,Enock Mwepu,a,9734,OpenPlay,2021,RightFoot,16521,Southampton,Brighton,1,1,2021-12-04 15:00:00,Leandro Trossard,Pass,9734
+449105,5,SavedShot,0.855,0.7269999694824218,0.026693399995565414,Enock Mwepu,h,9734,SetPiece,2021,RightFoot,16538,Brighton,Wolverhampton Wanderers,0,1,2021-12-15 19:30:00,Joël Veltman,Pass,9734
+449106,14,MissedShots,0.71,0.33299999237060546,0.012268600054085255,Enock Mwepu,h,9734,OpenPlay,2021,LeftFoot,16538,Brighton,Wolverhampton Wanderers,0,1,2021-12-15 19:30:00,Marc Cucurella,Pass,9734
+449114,47,MissedShots,0.965,0.5409999847412109,0.6747609972953796,Enock Mwepu,h,9734,SetPiece,2021,RightFoot,16538,Brighton,Wolverhampton Wanderers,0,1,2021-12-15 19:30:00,Dan Burn,Rebound,9734
+449119,60,MissedShots,0.970999984741211,0.5640000152587891,0.11124800145626068,Enock Mwepu,h,9734,OpenPlay,2021,RightFoot,16538,Brighton,Wolverhampton Wanderers,0,1,2021-12-15 19:30:00,Jakub Moder,Cross,9734
+450671,26,MissedShots,0.8809999847412109,0.34,0.06721430271863937,Enock Mwepu,h,9734,OpenPlay,2021,RightFoot,16557,Brighton,Brentford,2,0,2021-12-26 20:00:00,Neal Maupay,Pass,9734
+466703,40,MissedShots,0.7290000152587891,0.17799999237060546,0.00778781995177269,Enock Mwepu,a,9734,OpenPlay,2021,RightFoot,16695,Arsenal,Brighton,1,2,2022-04-09 14:00:00,Danny Welbeck,TakeOn,9734
+466704,43,MissedShots,0.815,0.5179999923706055,0.07067269831895828,Enock Mwepu,a,9734,OpenPlay,2021,RightFoot,16695,Arsenal,Brighton,1,2,2022-04-09 14:00:00,Alexis Mac Allister,Tackle,9734
+466712,65,Goal,0.8219999694824218,0.5320000076293945,0.038127798587083817,Enock Mwepu,a,9734,OpenPlay,2021,RightFoot,16695,Arsenal,Brighton,1,2,2022-04-09 14:00:00,Moisés Caicedo,Chipped,9734
+467922,21,BlockedShot,0.860999984741211,0.4570000076293945,0.035447798669338226,Enock Mwepu,a,9734,SetPiece,2021,RightFoot,16699,Tottenham,Brighton,0,1,2022-04-16 11:30:00,,Aerial,9734
+467926,47,SavedShot,0.7240000152587891,0.515,0.017471499741077423,Enock Mwepu,a,9734,OpenPlay,2021,RightFoot,16699,Tottenham,Brighton,0,1,2022-04-16 11:30:00,Leandro Trossard,Pass,9734
+471559,7,SavedShot,0.7659999847412109,0.4,0.02090200036764145,Enock Mwepu,a,9734,OpenPlay,2021,RightFoot,16716,Wolverhampton Wanderers,Brighton,0,3,2022-04-30 14:00:00,Danny Welbeck,Pass,9734
+471561,14,SavedShot,0.8519999694824218,0.35400001525878905,0.05657900124788284,Enock Mwepu,a,9734,OpenPlay,2021,RightFoot,16716,Wolverhampton Wanderers,Brighton,0,3,2022-04-30 14:00:00,Alexis Mac Allister,BallTouch,9734
+471571,46,BlockedShot,0.8630000305175781,0.555,0.11161799728870392,Enock Mwepu,a,9734,OpenPlay,2021,LeftFoot,16716,Wolverhampton Wanderers,Brighton,0,3,2022-04-30 14:00:00,Leandro Trossard,Pass,9734
+477775,81,SavedShot,0.795,0.5509999847412109,0.045101698487997055,Enock Mwepu,h,9734,OpenPlay,2021,RightFoot,16748,Brighton,West Ham,3,1,2022-05-22 15:00:00,Marc Cucurella,Pass,9734
+486512,39,MissedShots,0.775,0.605,0.01912040077149868,Enock Mwepu,h,9734,FromCorner,2022,RightFoot,18259,Brighton,Leicester,5,2,2022-09-04 13:00:00,,None,9734
+486517,60,SavedShot,0.9680000305175781,0.6869999694824219,0.05754999816417694,Enock Mwepu,h,9734,OpenPlay,2022,RightFoot,18259,Brighton,Leicester,5,2,2022-09-04 13:00:00,Leandro Trossard,Pass,9734

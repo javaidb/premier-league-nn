@@ -1,0 +1,95 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+210571,15,MissedShots,0.89,0.5729999923706055,0.03331419825553894,Manuel Akanji,h,6490,FromCorner,2017,Head,8529,Borussia Dortmund,Bayer Leverkusen,4,0,2018-04-21 16:30:00,Marco Reus,Cross,6490
+210583,57,SavedShot,0.795,0.6869999694824219,0.029853099957108498,Manuel Akanji,h,6490,OpenPlay,2017,RightFoot,8529,Borussia Dortmund,Bayer Leverkusen,4,0,2018-04-21 16:30:00,Jadon Sancho,Pass,6490
+212542,68,SavedShot,0.850999984741211,0.6730000305175782,0.0513777993619442,Manuel Akanji,a,6490,OpenPlay,2017,RightFoot,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,Mario Götze,Pass,6490
+212551,91,BlockedShot,0.7480000305175781,0.6859999847412109,0.017854100093245506,Manuel Akanji,a,6490,OpenPlay,2017,LeftFoot,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,Andriy Yarmolenko,Pass,6490
+213140,19,MissedShots,0.855999984741211,0.69,0.01497230026870966,Manuel Akanji,h,6490,OpenPlay,2017,LeftFoot,8550,Borussia Dortmund,Mainz 05,1,2,2018-05-05 14:30:00,Marco Reus,Aerial,6490
+223171,86,MissedShots,0.9180000305175782,0.5220000076293946,0.04495229944586754,Manuel Akanji,h,6490,FromCorner,2018,Head,10355,Borussia Dortmund,Eintracht Frankfurt,3,1,2018-09-14 18:30:00,Jadon Sancho,Aerial,6490
+226692,73,Goal,0.8730000305175781,0.654000015258789,0.05708770081400871,Manuel Akanji,h,6490,SetPiece,2018,RightFoot,10378,Borussia Dortmund,Nuernberg,7,0,2018-09-26 18:30:00,,BallRecovery,6490
+255224,68,BlockedShot,0.905,0.48900001525878906,0.04705100134015083,Manuel Akanji,h,6490,FromCorner,2018,OtherBodyPart,10393,Borussia Dortmund,Augsburg,4,3,2018-10-06 13:30:00,Jadon Sancho,Cross,6490
+279584,19,SavedShot,0.909000015258789,0.4779999923706055,0.04938429966568947,Manuel Akanji,a,6490,SetPiece,2018,OtherBodyPart,10550,Augsburg,Borussia Dortmund,2,1,2019-03-01 19:30:00,Marco Reus,Aerial,6490
+286388,32,MissedShots,0.9290000152587891,0.415,0.06575039774179459,Manuel Akanji,a,6490,FromCorner,2018,Head,10568,Hertha Berlin,Borussia Dortmund,2,3,2019-03-16 17:30:00,Jadon Sancho,Cross,6490
+286403,69,MissedShots,0.8469999694824218,0.455,0.008582429960370064,Manuel Akanji,a,6490,SetPiece,2018,Head,10568,Hertha Berlin,Borussia Dortmund,2,3,2019-03-16 17:30:00,Marco Reus,Aerial,6490
+299421,13,MissedShots,0.899000015258789,0.49900001525878906,0.0687066987156868,Manuel Akanji,a,6490,FromCorner,2018,Head,10621,Werder Bremen,Borussia Dortmund,2,2,2019-05-04 17:30:00,Jadon Sancho,Cross,6490
+299425,29,BlockedShot,0.845999984741211,0.28299999237060547,0.034876398742198944,Manuel Akanji,a,6490,OpenPlay,2018,RightFoot,10621,Werder Bremen,Borussia Dortmund,2,2,2019-05-04 17:30:00,,Rebound,6490
+312186,79,BlockedShot,0.7169999694824218,0.5690000152587891,0.01563829928636551,Manuel Akanji,a,6490,OpenPlay,2019,RightFoot,12412,FC Cologne,Borussia Dortmund,1,3,2019-08-23 19:30:00,Achraf Hakimi,Pass,6490
+324037,88,OwnGoal,0.015,0.44299999237060544,0,Manuel Akanji,a,6490,OpenPlay,2019,RightFoot,12460,Freiburg,Borussia Dortmund,2,2,2019-10-05 14:30:00,,Clearance,6490
+327099,75,MissedShots,0.95,0.5479999923706055,0.07229460030794144,Manuel Akanji,a,6490,FromCorner,2019,Head,12478,Schalke 04,Borussia Dortmund,0,0,2019-10-26 14:30:00,Raphael Guerreiro,Aerial,6490
+333506,18,SavedShot,0.915,0.5720000076293945,0.287321001291275,Manuel Akanji,a,6490,SetPiece,2019,Head,12513,Hertha Berlin,Borussia Dortmund,1,2,2019-11-30 14:30:00,Raphael Guerreiro,Pass,6490
+333509,27,SavedShot,0.9359999847412109,0.595999984741211,0.27563101053237915,Manuel Akanji,a,6490,SetPiece,2019,Head,12513,Hertha Berlin,Borussia Dortmund,1,2,2019-11-30 14:30:00,Marco Reus,Aerial,6490
+335591,86,MissedShots,0.9390000152587891,0.6930000305175781,0.010541300289332867,Manuel Akanji,h,6490,FromCorner,2019,Head,12520,Borussia Dortmund,Fortuna Duesseldorf,5,0,2019-12-07 14:30:00,Jadon Sancho,Cross,6490
+356601,80,MissedShots,0.78,0.29100000381469726,0.027678199112415314,Manuel Akanji,h,6490,OpenPlay,2019,RightFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,Julian Brandt,Pass,6490
+363968,75,MissedShots,0.905,0.485,0.11016300320625305,Manuel Akanji,h,6490,SetPiece,2019,Head,12664,Borussia Dortmund,Hertha Berlin,1,0,2020-06-06 16:30:00,Jadon Sancho,Cross,6490
+364210,74,MissedShots,0.415,0.7630000305175781,0.005934820044785738,Manuel Akanji,a,6490,OpenPlay,2019,RightFoot,12676,Fortuna Duesseldorf,Borussia Dortmund,0,1,2020-06-13 13:30:00,Raphael Guerreiro,Pass,6490
+383468,54,Goal,0.9630000305175781,0.4490000152587891,0.14531899988651276,Manuel Akanji,h,6490,FromCorner,2020,RightFoot,15181,Borussia Dortmund,Schalke 04,3,0,2020-10-24 16:30:00,,Rebound,6490
+383472,69,BlockedShot,0.9669999694824218,0.42700000762939455,0.11814700067043304,Manuel Akanji,h,6490,FromCorner,2020,Head,15181,Borussia Dortmund,Schalke 04,3,0,2020-10-24 16:30:00,Raphael Guerreiro,Cross,6490
+384563,40,MissedShots,0.965,0.575,0.43901199102401733,Manuel Akanji,a,6490,SetPiece,2020,LeftFoot,15188,Arminia Bielefeld,Borussia Dortmund,0,2,2020-10-31 14:30:00,Jude Bellingham,Cross,6490
+392649,40,SavedShot,0.92,0.5,0.4140399992465973,Manuel Akanji,a,6490,SetPiece,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,Marco Reus,Chipped,6490
+393777,63,MissedShots,0.895,0.5570000076293945,0.07141739875078201,Manuel Akanji,a,6490,SetPiece,2020,Head,15253,Union Berlin,Borussia Dortmund,2,1,2020-12-18 19:30:00,Raphael Guerreiro,Cross,6490
+396906,65,Goal,0.909000015258789,0.5220000076293946,0.08266209810972214,Manuel Akanji,h,6490,FromCorner,2020,Head,15258,Borussia Dortmund,Wolfsburg,2,0,2021-01-03 14:30:00,Jadon Sancho,Cross,6490
+396907,69,MissedShots,0.9209999847412109,0.504000015258789,0.16923800110816956,Manuel Akanji,h,6490,FromCorner,2020,Head,15258,Borussia Dortmund,Wolfsburg,2,0,2021-01-03 14:30:00,Jadon Sancho,Aerial,6490
+399808,53,MissedShots,0.8069999694824219,0.49200000762939455,0.05533180013298988,Manuel Akanji,a,6490,OpenPlay,2020,LeftFoot,15286,Bayer Leverkusen,Borussia Dortmund,2,1,2021-01-19 19:30:00,Jadon Sancho,Pass,6490
+400228,25,SavedShot,0.865999984741211,0.5690000152587891,0.04380879923701286,Manuel Akanji,a,6490,FromCorner,2020,RightFoot,15293,Borussia M.Gladbach,Borussia Dortmund,4,2,2021-01-22 19:30:00,Jadon Sancho,Cross,6490
+403088,33,MissedShots,0.6780000305175782,0.5309999847412109,0.013880199752748013,Manuel Akanji,a,6490,OpenPlay,2020,RightFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Mats Hummels,Pass,6490
+403099,80,BlockedShot,0.8909999847412109,0.7419999694824219,0.030622199177742004,Manuel Akanji,a,6490,OpenPlay,2020,LeftFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,Jadon Sancho,Pass,6490
+411311,91,MissedShots,0.909000015258789,0.59,0.06265749782323837,Manuel Akanji,a,6490,SetPiece,2020,Head,15371,FC Cologne,Borussia Dortmund,2,2,2021-03-20 14:30:00,Thorgan Hazard,Cross,6490
+412560,93,BlockedShot,0.875999984741211,0.4490000152587891,0.07929880172014236,Manuel Akanji,h,6490,SetPiece,2020,RightFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Ansgar Knauff,Chipped,6490
+414008,28,BlockedShot,0.870999984741211,0.6990000152587891,0.04031269997358322,Manuel Akanji,a,6490,OpenPlay,2020,LeftFoot,15391,VfB Stuttgart,Borussia Dortmund,2,3,2021-04-10 16:30:00,,BallRecovery,6490
+416445,51,BlockedShot,0.7669999694824219,0.255,0.019633300602436066,Manuel Akanji,h,6490,OpenPlay,2020,LeftFoot,15402,Borussia Dortmund,Union Berlin,2,0,2021-04-21 18:30:00,Giovanni Reyna,Pass,6490
+417180,51,BlockedShot,0.9130000305175782,0.4640000152587891,0.03301839902997017,Manuel Akanji,a,6490,FromCorner,2020,Head,15413,Wolfsburg,Borussia Dortmund,0,2,2021-04-24 13:30:00,Jadon Sancho,Aerial,6490
+420038,47,BlockedShot,0.8880000305175781,0.5,0.05020910128951073,Manuel Akanji,h,6490,FromCorner,2020,Head,15420,Borussia Dortmund,RasenBallsport Leipzig,3,2,2021-05-08 13:30:00,Jadon Sancho,Cross,6490
+424604,45,BlockedShot,0.8380000305175781,0.6079999923706054,0.04236080124974251,Manuel Akanji,a,6490,FromCorner,2020,LeftFoot,15434,Mainz 05,Borussia Dortmund,1,3,2021-05-16 16:00:00,,None,6490
+424615,65,MissedShots,0.9390000152587891,0.4620000076293945,0.06536959856748581,Manuel Akanji,a,6490,FromCorner,2020,Head,15434,Mainz 05,Borussia Dortmund,1,3,2021-05-16 16:00:00,Marco Reus,Aerial,6490
+426024,61,MissedShots,0.7530000305175781,0.6819999694824219,0.050559401512145996,Manuel Akanji,h,6490,DirectFreekick,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,,Standard,6490
+426914,87,MissedShots,0.925,0.5729999923706055,0.07435789704322815,Manuel Akanji,a,6490,FromCorner,2021,Head,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Marco Reus,Cross,6490
+428364,8,SavedShot,0.9259999847412109,0.505,0.4073289930820465,Manuel Akanji,h,6490,SetPiece,2021,Head,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Raphael Guerreiro,Aerial,6490
+428383,66,MissedShots,0.9619999694824218,0.5129999923706055,0.09530069679021835,Manuel Akanji,h,6490,FromCorner,2021,Head,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Julian Brandt,Aerial,6490
+429778,3,MissedShots,0.9019999694824219,0.4490000152587891,0.08733750134706497,Manuel Akanji,a,6490,SetPiece,2021,Head,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Raphael Guerreiro,Cross,6490
+434746,7,MissedShots,0.89,0.47,0.016718000173568726,Manuel Akanji,h,6490,FromCorner,2021,Head,17576,Borussia Dortmund,Augsburg,2,1,2021-10-02 13:30:00,Raphael Guerreiro,Aerial,6490
+441262,86,BlockedShot,0.905,0.5329999923706055,0.045318201184272766,Manuel Akanji,a,6490,FromCorner,2021,Head,17613,RasenBallsport Leipzig,Borussia Dortmund,2,1,2021-11-06 17:30:00,,None,6490
+442381,53,MissedShots,0.9440000152587891,0.46700000762939453,0.1328269988298416,Manuel Akanji,h,6490,SetPiece,2021,Head,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Raphael Guerreiro,Cross,6490
+442387,66,SavedShot,0.7240000152587891,0.44299999237060544,0.017118999734520912,Manuel Akanji,h,6490,OpenPlay,2021,RightFoot,17623,Borussia Dortmund,VfB Stuttgart,2,1,2021-11-20 14:30:00,Marco Reus,Pass,6490
+452987,52,MissedShots,0.950999984741211,0.5420000076293945,0.13124500215053558,Manuel Akanji,h,6490,FromCorner,2021,Head,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Julian Brandt,Cross,6490
+456266,9,OwnGoal,0.06400000095367432,0.4979999923706055,0,Manuel Akanji,h,6490,OpenPlay,2021,RightFoot,17703,Borussia Dortmund,Bayer Leverkusen,2,5,2022-02-06 14:30:00,,Save,6490
+468033,27,Goal,0.9640000152587891,0.5309999847412109,0.5953969955444336,Manuel Akanji,h,6490,SetPiece,2021,RightFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,Marco Reus,Cross,6490
+471537,22,MissedShots,0.9219999694824219,0.504000015258789,0.0529555007815361,Manuel Akanji,h,6490,FromCorner,2021,Head,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Julian Brandt,Aerial,6490
+471541,35,MissedShots,0.914000015258789,0.455,0.08110859990119934,Manuel Akanji,h,6490,FromCorner,2021,Head,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Julian Brandt,Cross,6490
+490650,60,BlockedShot,0.915,0.54,0.03936830163002014,Manuel Akanji,h,6490,FromCorner,2022,Head,18289,Manchester City,Manchester United,6,3,2022-10-02 13:00:00,Nathan Aké,Aerial,6490
+491605,45,MissedShots,0.85,0.28,0.03381180018186569,Manuel Akanji,h,6490,OpenPlay,2022,RightFoot,18298,Manchester City,Southampton,4,0,2022-10-08 14:00:00,,None,6490
+491609,55,BlockedShot,0.925,0.6,0.01566990092396736,Manuel Akanji,h,6490,FromCorner,2022,Head,18298,Manchester City,Southampton,4,0,2022-10-08 14:00:00,Phil Foden,Aerial,6490
+496254,31,BlockedShot,0.720999984741211,0.4879999923706055,0.015985900536179543,Manuel Akanji,a,6490,OpenPlay,2022,RightFoot,18338,Leicester,Manchester City,0,1,2022-10-29 11:30:00,Aymeric Laporte,Pass,6490
+496257,45,MissedShots,0.924000015258789,0.48200000762939454,0.10659799724817276,Manuel Akanji,a,6490,FromCorner,2022,Head,18338,Leicester,Manchester City,0,1,2022-10-29 11:30:00,Jack Grealish,Cross,6490
+498057,13,BlockedShot,0.7440000152587891,0.39599998474121095,0.015253899618983269,Manuel Akanji,h,6490,FromCorner,2022,RightFoot,18346,Manchester City,Fulham,2,1,2022-11-05 15:00:00,,None,6490
+498063,46,SavedShot,0.9230000305175782,0.4829999923706055,0.306441992521286,Manuel Akanji,h,6490,FromCorner,2022,Head,18346,Manchester City,Fulham,2,1,2022-11-05 15:00:00,Bernardo Silva,Cross,6490
+498064,48,MissedShots,0.9,0.54,0.084340400993824,Manuel Akanji,h,6490,SetPiece,2022,Head,18346,Manchester City,Fulham,2,1,2022-11-05 15:00:00,Kevin De Bruyne,Cross,6490
+499919,91,MissedShots,0.755,0.5179999923706055,0.021639499813318253,Manuel Akanji,h,6490,OpenPlay,2022,LeftFoot,18356,Manchester City,Brentford,1,2,2022-11-12 12:30:00,,None,6490
+507745,4,SavedShot,0.9430000305175781,0.509000015258789,0.08759850263595581,Manuel Akanji,a,6490,FromCorner,2022,Head,18420,Tottenham,Manchester City,1,0,2023-02-05 16:30:00,,Aerial,6490
+507760,64,BlockedShot,0.865999984741211,0.385,0.053080201148986816,Manuel Akanji,a,6490,FromCorner,2022,RightFoot,18420,Tottenham,Manchester City,1,0,2023-02-05 16:30:00,,None,6490
+509285,67,BlockedShot,0.9030000305175782,0.515,0.12402600049972534,Manuel Akanji,a,6490,SetPiece,2022,LeftFoot,18312,Arsenal,Manchester City,1,3,2023-02-15 18:30:00,,Rebound,6490
+513672,25,MissedShots,0.749000015258789,0.2510000038146973,0.015765199437737465,Manuel Akanji,a,6490,OpenPlay,2022,RightFoot,18463,Crystal Palace,Manchester City,0,1,2023-03-11 17:30:00,John Stones,Pass,6490
+524644,6,MissedShots,0.9209999847412109,0.519000015258789,0.10125157237052917,Manuel Akanji,h,6490,FromCorner,2022,Head,18546,Manchester City,Leeds,2,1,2023-05-06 14:00:00,Riyad Mahrez,Cross,6490
+524660,67,MissedShots,0.9009999847412109,0.44299999237060544,0.0485348254442215,Manuel Akanji,h,6490,FromCorner,2022,Head,18546,Manchester City,Leeds,2,1,2023-05-06 14:00:00,Kevin De Bruyne,Cross,6490
+533574,13,MissedShots,0.7659999847412109,0.3940000152587891,0.019080042839050293,Manuel Akanji,h,6490,OpenPlay,2023,LeftFoot,22291,Manchester City,Newcastle United,1,0,2023-08-19 19:00:00,Phil Foden,Pass,6490
+541142,1,MissedShots,0.715999984741211,0.35900001525878905,0.013298634439706802,Manuel Akanji,a,6490,OpenPlay,2023,RightFoot,21961,Wolverhampton Wanderers,Manchester City,2,1,2023-09-30 14:00:00,Julián Álvarez,Pass,6490
+541145,5,BlockedShot,0.89,0.6309999847412109,0.05753573402762413,Manuel Akanji,a,6490,FromCorner,2023,LeftFoot,21961,Wolverhampton Wanderers,Manchester City,2,1,2023-09-30 14:00:00,Jéremy Doku,Pass,6490
+541161,65,SavedShot,0.7530000305175781,0.6980000305175781,0.015142771415412426,Manuel Akanji,a,6490,OpenPlay,2023,RightFoot,21961,Wolverhampton Wanderers,Manchester City,2,1,2023-09-30 14:00:00,Jéremy Doku,Pass,6490
+546841,36,Goal,0.885,0.5359999847412109,0.12007766962051392,Manuel Akanji,h,6490,FromCorner,2023,OtherBodyPart,22000,Manchester City,Bournemouth,6,1,2023-11-04 15:00:00,Jéremy Doku,None,6490
+549096,45,Goal,0.93,0.5120000076293946,0.36938539147377014,Manuel Akanji,a,6490,FromCorner,2023,Head,22009,Chelsea,Manchester City,4,4,2023-11-12 16:30:00,Bernardo Silva,Cross,6490
+551905,2,MissedShots,0.9619999694824218,0.5329999923706055,0.13488644361495972,Manuel Akanji,h,6490,FromCorner,2023,Head,22031,Manchester City,Tottenham,3,3,2023-12-03 16:30:00,Julián Álvarez,Cross,6490
+562275,47,BlockedShot,0.8919999694824219,0.46599998474121096,0.10416846722364426,Manuel Akanji,h,6490,FromCorner,2023,LeftFoot,22130,Manchester City,Everton,2,0,2024-02-10 12:30:00,,Rebound,6490
+564820,34,SavedShot,0.725,0.6229999923706054,0.013879882171750069,Manuel Akanji,h,6490,OpenPlay,2023,RightFoot,22074,Manchester City,Brentford,1,0,2024-02-20 18:30:00,Oscar Bobb,Pass,6490
+564825,38,BlockedShot,0.764000015258789,0.590999984741211,0.022802572697401047,Manuel Akanji,h,6490,OpenPlay,2023,LeftFoot,22074,Manchester City,Brentford,1,0,2024-02-20 18:30:00,Rodri,Pass,6490
+573747,44,MissedShots,0.9159999847412109,0.47900001525878905,0.04344905540347099,Manuel Akanji,h,6490,FromCorner,2023,Head,22221,Manchester City,Luton,5,1,2024-04-13 14:00:00,,Aerial,6490
+578624,94,MissedShots,0.975999984741211,0.4370000076293945,0.6315119862556458,Manuel Akanji,h,6490,OpenPlay,2023,LeftFoot,22253,Manchester City,Wolverhampton Wanderers,5,1,2024-05-04 16:30:00,Jéremy Doku,Pass,6490
+579659,43,MissedShots,0.960999984741211,0.4620000076293945,0.5225448608398438,Manuel Akanji,a,6490,FromCorner,2023,RightFoot,22258,Fulham,Manchester City,0,4,2024-05-11 11:30:00,Kevin De Bruyne,Cross,6490
+581957,26,SavedShot,0.73,0.47299999237060547,0.017161857336759567,Manuel Akanji,h,6490,OpenPlay,2023,RightFoot,22273,Manchester City,West Ham,3,1,2024-05-19 15:00:00,Phil Foden,Pass,6490
+581973,68,BlockedShot,0.9009999847412109,0.46799999237060547,0.11546091735363007,Manuel Akanji,h,6490,FromCorner,2023,RightFoot,22273,Manchester City,West Ham,3,1,2024-05-19 15:00:00,,Rebound,6490
+593133,56,BlockedShot,0.795,0.6370000076293946,0.02302449941635132,Manuel Akanji,h,6490,FromCorner,2024,RightFoot,26651,Manchester City,Arsenal,2,2,2024-09-22 15:30:00,Mateo Kovacic,HeadPass,6490
+593140,68,BlockedShot,0.79,0.7169999694824218,0.01800050400197506,Manuel Akanji,h,6490,OpenPlay,2024,RightFoot,26651,Manchester City,Arsenal,2,2,2024-09-22 15:30:00,Jéremy Doku,Pass,6490
+593806,4,BlockedShot,0.825,0.6170000076293946,0.04449237883090973,Manuel Akanji,a,6490,OpenPlay,2024,RightFoot,26652,Newcastle United,Manchester City,1,1,2024-09-28 11:30:00,Jack Grealish,Pass,6490
+593814,42,BlockedShot,0.775,0.5309999847412109,0.03839168697595596,Manuel Akanji,a,6490,OpenPlay,2024,RightFoot,26652,Newcastle United,Manchester City,1,1,2024-09-28 11:30:00,Jack Grealish,Pass,6490
+598422,85,SavedShot,0.7769999694824219,0.3270000076293945,0.02256143093109131,Manuel Akanji,h,6490,OpenPlay,2024,LeftFoot,26683,Manchester City,Southampton,1,0,2024-10-26 14:00:00,Sávio,Pass,6490
+603109,44,MissedShots,0.955,0.605,0.01617369055747986,Manuel Akanji,h,6490,FromCorner,2024,Head,26720,Manchester City,Tottenham,0,4,2024-11-23 17:30:00,Ilkay Gündogan,Aerial,6490
+603122,82,BlockedShot,0.7969999694824219,0.6359999847412109,0.025154849514365196,Manuel Akanji,h,6490,OpenPlay,2024,RightFoot,26720,Manchester City,Tottenham,0,4,2024-11-23 17:30:00,Jack Grealish,Pass,6490
+605214,12,MissedShots,0.9630000305175781,0.56,0.07027336210012436,Manuel Akanji,h,6490,FromCorner,2024,Head,26739,Manchester City,Nottingham Forest,3,0,2024-12-04 19:30:00,Kevin De Bruyne,Aerial,6490
+611380,60,MissedShots,0.9230000305175782,0.47900001525878905,0.2761019170284271,Manuel Akanji,a,6490,FromCorner,2024,Head,26803,Brentford,Manchester City,2,2,2025-01-14 19:30:00,Phil Foden,Aerial,6490

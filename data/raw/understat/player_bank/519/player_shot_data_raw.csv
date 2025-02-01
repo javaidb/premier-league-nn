@@ -1,0 +1,136 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14614,51,MissedShots,0.965999984741211,0.4259999847412109,0.11415000259876251,Connor Wickham,a,519,FromCorner,2014,RightFoot,4753,West Bromwich Albion,Sunderland,2,2,2014-08-16 15:00:00,Sebastian Larsson,Cross,519
+14616,57,BlockedShot,0.8430000305175781,0.34200000762939453,0.04927780106663704,Connor Wickham,a,519,OpenPlay,2014,LeftFoot,4753,West Bromwich Albion,Sunderland,2,2,2014-08-16 15:00:00,,Dispossessed,519
+14818,15,SavedShot,0.8769999694824219,0.6309999847412109,0.08420419692993164,Connor Wickham,h,519,OpenPlay,2014,LeftFoot,4767,Sunderland,Manchester United,1,1,2014-08-24 16:00:00,William Buckley,Pass,519
+14820,27,MissedShots,0.725,0.62,0.010530400089919567,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4767,Sunderland,Manchester United,1,1,2014-08-24 16:00:00,Patrick van Aanholt,TakeOn,519
+14824,50,MissedShots,0.909000015258789,0.67,0.07881549745798111,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4767,Sunderland,Manchester United,1,1,2014-08-24 16:00:00,William Buckley,TakeOn,519
+15038,7,BlockedShot,0.755,0.720999984741211,0.012840500101447105,Connor Wickham,a,519,OpenPlay,2014,RightFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,Patrick van Aanholt,Pass,519
+15046,34,MissedShots,0.7019999694824218,0.525,0.01398099958896637,Connor Wickham,a,519,OpenPlay,2014,RightFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,Patrick van Aanholt,Pass,519
+15063,80,BlockedShot,0.8169999694824219,0.5279999923706055,0.07983790338039398,Connor Wickham,a,519,OpenPlay,2014,LeftFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,Adam Johnson,Pass,519
+15389,16,BlockedShot,0.815,0.45799999237060546,0.06400539726018906,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4724,Sunderland,Tottenham,2,2,2014-09-13 15:00:00,Patrick van Aanholt,Pass,519
+15396,63,BlockedShot,0.7819999694824219,0.3129999923706055,0.01771860010921955,Connor Wickham,h,519,OpenPlay,2014,LeftFoot,4724,Sunderland,Tottenham,2,2,2014-09-13 15:00:00,Adam Johnson,TakeOn,519
+15451,34,SavedShot,0.7930000305175782,0.595999984741211,0.05894450098276138,Connor Wickham,a,519,OpenPlay,2014,RightFoot,4732,Burnley,Sunderland,0,0,2014-09-20 15:00:00,Jack Rodwell,Pass,519
+15460,60,BlockedShot,0.8519999694824218,0.7169999694824218,0.057385798543691635,Connor Wickham,a,519,OpenPlay,2014,LeftFoot,4732,Burnley,Sunderland,0,0,2014-09-20 15:00:00,Emanuele Giaccherini,Pass,519
+15461,62,MissedShots,0.8140000152587891,0.504000015258789,0.05906229838728905,Connor Wickham,a,519,OpenPlay,2014,RightFoot,4732,Burnley,Sunderland,0,0,2014-09-20 15:00:00,Sebastian Larsson,Pass,519
+15464,71,BlockedShot,0.705,0.3920000076293945,0.010557499714195728,Connor Wickham,a,519,OpenPlay,2014,LeftFoot,4732,Burnley,Sunderland,0,0,2014-09-20 15:00:00,Lee Cattermole,Chipped,519
+15888,2,MissedShots,0.7419999694824219,0.565,0.016607899218797684,Connor Wickham,h,519,OpenPlay,2014,LeftFoot,4745,Sunderland,Swansea,0,0,2014-09-27 15:00:00,,None,519
+15898,35,BlockedShot,0.9109999847412109,0.43099998474121093,0.09694100171327591,Connor Wickham,h,519,FromCorner,2014,LeftFoot,4745,Sunderland,Swansea,0,0,2014-09-27 15:00:00,,None,519
+15903,73,MissedShots,0.9359999847412109,0.52,0.4548240005970001,Connor Wickham,h,519,OpenPlay,2014,Head,4745,Sunderland,Swansea,0,0,2014-09-27 15:00:00,Sebastian Larsson,Cross,519
+17382,3,Goal,0.9580000305175781,0.5129999923706055,0.6140639781951904,Connor Wickham,h,519,OpenPlay,2014,Head,4692,Sunderland,Stoke,3,1,2014-10-04 15:00:00,Steven Fletcher,Cross,519
+17394,52,BlockedShot,0.7430000305175781,0.6370000076293946,0.022002700716257095,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4692,Sunderland,Stoke,3,1,2014-10-04 15:00:00,Patrick van Aanholt,Pass,519
+16817,3,MissedShots,0.9280000305175782,0.56,0.1209459975361824,Connor Wickham,a,519,SetPiece,2014,Head,4703,Southampton,Sunderland,8,0,2014-10-18 15:00:00,Jordi Gómez,Cross,519
+16135,51,BlockedShot,0.9059999847412109,0.4909999847412109,0.08028619736433029,Connor Wickham,h,519,OpenPlay,2014,Head,4711,Sunderland,Arsenal,0,2,2014-10-25 15:00:00,Sebastian Larsson,Cross,519
+17159,40,SavedShot,0.9640000152587891,0.595999984741211,0.040839001536369324,Connor Wickham,a,519,FromCorner,2014,Head,4658,Crystal Palace,Sunderland,1,3,2014-11-03 20:00:00,Santiago Vergini,HeadPass,519
+17044,0,MissedShots,0.9359999847412109,0.59,0.060722898691892624,Connor Wickham,h,519,FromCorner,2014,Head,4665,Sunderland,Everton,1,1,2014-11-09 13:30:00,Sebastian Larsson,Cross,519
+17046,4,MissedShots,0.93,0.4370000076293945,0.03601289913058281,Connor Wickham,h,519,FromCorner,2014,Head,4665,Sunderland,Everton,1,1,2014-11-09 13:30:00,Sebastian Larsson,Aerial,519
+17057,40,BlockedShot,0.7340000152587891,0.669000015258789,0.01745319925248623,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4665,Sunderland,Everton,1,1,2014-11-09 13:30:00,Steven Fletcher,Pass,519
+16799,30,MissedShots,0.919000015258789,0.55,0.031758300960063934,Connor Wickham,a,519,FromCorner,2014,Head,4672,Leicester,Sunderland,0,0,2014-11-22 15:00:00,Sebastian Larsson,Aerial,519
+16809,55,SavedShot,0.8019999694824219,0.41700000762939454,0.04444919899106026,Connor Wickham,a,519,OpenPlay,2014,LeftFoot,4672,Leicester,Sunderland,0,0,2014-11-22 15:00:00,Lee Cattermole,BallRecovery,519
+18280,8,MissedShots,0.7580000305175781,0.7090000152587891,0.017212999984622,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4686,Sunderland,Chelsea,0,0,2014-11-29 17:30:00,Anthony Réveillere,Pass,519
+18302,71,SavedShot,0.8,0.7240000152587891,0.020973900333046913,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4686,Sunderland,Chelsea,0,0,2014-11-29 17:30:00,Jordi Gómez,Pass,519
+18305,76,MissedShots,0.72,0.6430000305175781,0.012710100039839745,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4686,Sunderland,Chelsea,0,0,2014-11-29 17:30:00,Jozy Altidore,Pass,519
+18306,78,BlockedShot,0.7630000305175781,0.595999984741211,0.023542599752545357,Connor Wickham,h,519,OpenPlay,2014,LeftFoot,4686,Sunderland,Chelsea,0,0,2014-11-29 17:30:00,,BallRecovery,519
+18311,86,BlockedShot,0.7119999694824218,0.6270000076293946,0.03761120140552521,Connor Wickham,h,519,DirectFreekick,2014,RightFoot,4686,Sunderland,Chelsea,0,0,2014-11-29 17:30:00,,Standard,519
+19719,18,Goal,0.88,0.6179999923706054,0.06823059916496277,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4597,Sunderland,Manchester City,1,4,2014-12-03 19:45:00,,None,519
+19948,52,MissedShots,0.91,0.6370000076293946,0.06254439800977707,Connor Wickham,a,519,FromCorner,2014,LeftFoot,4604,Liverpool,Sunderland,0,0,2014-12-06 15:00:00,,None,519
+19949,54,BlockedShot,0.899000015258789,0.7319999694824219,0.036341700702905655,Connor Wickham,a,519,OpenPlay,2014,RightFoot,4604,Liverpool,Sunderland,0,0,2014-12-06 15:00:00,Sebastian Larsson,Chipped,519
+18369,15,MissedShots,0.924000015258789,0.5629999923706055,0.0561319999396801,Connor Wickham,h,519,OpenPlay,2014,Head,4613,Sunderland,West Ham,1,1,2014-12-13 15:00:00,Adam Johnson,Aerial,519
+18374,30,BlockedShot,0.8119999694824219,0.6619999694824219,0.031300000846385956,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4613,Sunderland,West Ham,1,1,2014-12-13 15:00:00,,None,519
+18380,53,BlockedShot,0.8230000305175781,0.4520000076293945,0.036550600081682205,Connor Wickham,h,519,FromCorner,2014,RightFoot,4613,Sunderland,West Ham,1,1,2014-12-13 15:00:00,Sebastian Larsson,Cross,519
+18393,84,SavedShot,0.825,0.4520000076293945,0.05514169856905937,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4613,Sunderland,West Ham,1,1,2014-12-13 15:00:00,,None,519
+18396,94,MissedShots,0.855,0.629000015258789,0.0726206973195076,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4613,Sunderland,West Ham,1,1,2014-12-13 15:00:00,Ricardo Álvarez,Pass,519
+19063,22,MissedShots,0.9830000305175781,0.575,0.35344499349594116,Connor Wickham,a,519,SetPiece,2014,Head,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,Adam Johnson,Cross,519
+19065,29,SavedShot,0.7340000152587891,0.7719999694824219,0.012667999602854252,Connor Wickham,a,519,OpenPlay,2014,RightFoot,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,Jordi Gómez,Pass,519
+19068,37,SavedShot,0.8880000305175781,0.515,0.06563069671392441,Connor Wickham,a,519,OpenPlay,2014,Head,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,Santiago Vergini,Cross,519
+19070,41,MissedShots,0.775,0.605999984741211,0.027500100433826447,Connor Wickham,a,519,OpenPlay,2014,RightFoot,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,Jordi Gómez,Pass,519
+19071,46,MissedShots,0.830999984741211,0.735999984741211,0.026016399264335632,Connor Wickham,a,519,OpenPlay,2014,LeftFoot,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,Steven Fletcher,Pass,519
+18315,2,BlockedShot,0.745,0.45799999237060546,0.017924800515174866,Connor Wickham,a,519,OpenPlay,2014,RightFoot,4644,Aston Villa,Sunderland,0,0,2014-12-28 15:00:00,,None,519
+18322,37,SavedShot,0.774000015258789,0.730999984741211,0.017613599076867104,Connor Wickham,a,519,OpenPlay,2014,RightFoot,4644,Aston Villa,Sunderland,0,0,2014-12-28 15:00:00,Steven Fletcher,Pass,519
+18323,47,BlockedShot,0.879000015258789,0.7119999694824218,0.03784159943461418,Connor Wickham,a,519,OpenPlay,2014,RightFoot,4644,Aston Villa,Sunderland,0,0,2014-12-28 15:00:00,Billy Jones,Pass,519
+18326,54,BlockedShot,0.8980000305175782,0.66,0.11560700088739395,Connor Wickham,a,519,OpenPlay,2014,LeftFoot,4644,Aston Villa,Sunderland,0,0,2014-12-28 15:00:00,Adam Johnson,Throughball,519
+18331,67,MissedShots,0.9540000152587891,0.54,0.15700000524520874,Connor Wickham,a,519,OpenPlay,2014,RightFoot,4644,Aston Villa,Sunderland,0,0,2014-12-28 15:00:00,Emanuele Giaccherini,Rebound,519
+18336,82,MissedShots,0.9059999847412109,0.52,0.05238480120897293,Connor Wickham,a,519,OpenPlay,2014,Head,4644,Aston Villa,Sunderland,0,0,2014-12-28 15:00:00,William Buckley,Aerial,519
+18342,90,SavedShot,0.7440000152587891,0.4929999923706055,0.02018279954791069,Connor Wickham,a,519,OpenPlay,2014,RightFoot,4644,Aston Villa,Sunderland,0,0,2014-12-28 15:00:00,Jordi Gómez,Pass,519
+23769,19,Goal,0.955,0.515,0.6000900268554688,Connor Wickham,h,519,OpenPlay,2014,Head,4585,Sunderland,Burnley,2,0,2015-01-31 15:00:00,Anthony Réveillere,Cross,519
+23770,24,BlockedShot,0.8280000305175781,0.29100000381469726,0.08408679813146591,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4585,Sunderland,Burnley,2,0,2015-01-31 15:00:00,John O&#039;Shea,BallRecovery,519
+23781,65,MissedShots,0.850999984741211,0.5559999847412109,0.10992799699306488,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4585,Sunderland,Burnley,2,0,2015-01-31 15:00:00,Adam Johnson,Pass,519
+23498,34,SavedShot,0.955999984741211,0.5220000076293946,0.508001983165741,Connor Wickham,h,519,OpenPlay,2014,Head,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,Adam Johnson,Cross,519
+23500,36,BlockedShot,0.915,0.5879999923706055,0.08222319930791855,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,Patrick van Aanholt,Cross,519
+24267,75,SavedShot,0.9540000152587891,0.4229999923706055,0.09803260117769241,Connor Wickham,h,519,FromCorner,2014,Head,4538,Sunderland,West Bromwich Albion,0,0,2015-02-21 15:00:00,Adam Johnson,Cross,519
+23433,5,SavedShot,0.8069999694824219,0.46700000762939453,0.07440890371799469,Connor Wickham,a,519,OpenPlay,2014,RightFoot,4550,Manchester United,Sunderland,2,0,2015-02-28 15:00:00,Patrick van Aanholt,Pass,519
+23438,24,SavedShot,0.9030000305175782,0.42900001525878906,0.06782189756631851,Connor Wickham,a,519,OpenPlay,2014,Head,4550,Manchester United,Sunderland,2,0,2015-02-28 15:00:00,Patrick van Aanholt,Cross,519
+20556,84,MissedShots,0.749000015258789,0.6619999694824219,0.01599220000207424,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Patrick van Aanholt,Pass,519
+20557,87,MissedShots,0.9019999694824219,0.6509999847412109,0.039322398602962494,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Sebastian Larsson,Cross,519
+20584,7,SavedShot,0.870999984741211,0.6480000305175782,0.03651899844408035,Connor Wickham,a,519,OpenPlay,2014,LeftFoot,4509,West Ham,Sunderland,1,0,2015-03-21 17:30:00,Jermain Defoe,Chipped,519
+20591,45,MissedShots,0.77,0.715,0.016105100512504578,Connor Wickham,a,519,OpenPlay,2014,RightFoot,4509,West Ham,Sunderland,1,0,2015-03-21 17:30:00,,Dispossessed,519
+22292,3,BlockedShot,0.8,0.7230000305175781,0.01834220066666603,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,Sebastian Larsson,Chipped,519
+22294,21,BlockedShot,0.9580000305175781,0.41200000762939454,0.07570090144872665,Connor Wickham,h,519,FromCorner,2014,Head,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,Sebastian Larsson,Cross,519
+22297,39,SavedShot,0.93,0.2979999923706055,0.0416099987924099,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,Jordi Gómez,Chipped,519
+20987,47,BlockedShot,0.735999984741211,0.5670000076293945,0.017453299835324287,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Patrick van Aanholt,Pass,519
+21001,89,Goal,0.9019999694824219,0.5279999923706055,0.1259630024433136,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Patrick van Aanholt,Pass,519
+20219,0,Goal,0.9730000305175781,0.46599998474121096,0.9742799997329712,Connor Wickham,a,519,OpenPlay,2014,RightFoot,4472,Stoke,Sunderland,1,1,2015-04-25 15:00:00,,TakeOn,519
+20233,42,MissedShots,0.7290000152587891,0.6359999847412109,0.04308230057358742,Connor Wickham,a,519,DirectFreekick,2014,RightFoot,4472,Stoke,Sunderland,1,1,2015-04-25 15:00:00,,Standard,519
+20241,59,BlockedShot,0.899000015258789,0.39599998474121095,0.12244600057601929,Connor Wickham,a,519,OpenPlay,2014,RightFoot,4472,Stoke,Sunderland,1,1,2015-04-25 15:00:00,Lee Cattermole,TakeOn,519
+20242,59,MissedShots,0.9469999694824218,0.4370000076293945,0.1454080045223236,Connor Wickham,a,519,OpenPlay,2014,LeftFoot,4472,Stoke,Sunderland,1,1,2015-04-25 15:00:00,,Rebound,519
+20246,71,MissedShots,0.875999984741211,0.28,0.04108550027012825,Connor Wickham,a,519,OpenPlay,2014,LeftFoot,4472,Stoke,Sunderland,1,1,2015-04-25 15:00:00,Billy Jones,Pass,519
+21757,38,MissedShots,0.860999984741211,0.5209999847412109,0.1040240004658699,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4402,Sunderland,Southampton,2,1,2015-05-02 15:00:00,Patrick van Aanholt,Pass,519
+21759,44,BlockedShot,0.915,0.3170000076293945,0.06817720085382462,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4402,Sunderland,Southampton,2,1,2015-05-02 15:00:00,Jermain Defoe,Pass,519
+20870,28,MissedShots,0.805,0.6730000305175782,0.028597800061106682,Connor Wickham,a,519,OpenPlay,2014,RightFoot,4409,Everton,Sunderland,0,2,2015-05-09 12:45:00,Patrick van Aanholt,Pass,519
+20873,43,SavedShot,0.8480000305175781,0.6840000152587891,0.04188479855656624,Connor Wickham,a,519,OpenPlay,2014,RightFoot,4409,Everton,Sunderland,0,2,2015-05-09 12:45:00,Sebastian Larsson,Pass,519
+20816,18,MissedShots,0.7090000152587891,0.700999984741211,0.015743600204586983,Connor Wickham,h,519,OpenPlay,2014,RightFoot,4421,Sunderland,Leicester,0,0,2015-05-16 15:00:00,Patrick van Aanholt,Pass,519
+20820,31,MissedShots,0.7909999847412109,0.634000015258789,0.01992969959974289,Connor Wickham,h,519,OpenPlay,2014,LeftFoot,4421,Sunderland,Leicester,0,0,2015-05-16 15:00:00,Danny Graham,HeadPass,519
+20822,38,BlockedShot,0.825,0.5420000076293945,0.1822649985551834,Connor Wickham,h,519,DirectFreekick,2014,RightFoot,4421,Sunderland,Leicester,0,0,2015-05-16 15:00:00,,Standard,519
+22355,86,SavedShot,0.784000015258789,0.5270000076293946,0.03847439959645271,Connor Wickham,a,519,OpenPlay,2014,LeftFoot,4431,Chelsea,Sunderland,3,1,2015-05-24 15:00:00,Emanuele Giaccherini,Pass,519
+22357,89,SavedShot,0.73,0.6370000076293946,0.04338910058140755,Connor Wickham,a,519,DirectFreekick,2014,RightFoot,4431,Chelsea,Sunderland,3,1,2015-05-24 15:00:00,,Standard,519
+51669,86,MissedShots,0.7980000305175782,0.544000015258789,0.05849190056324005,Connor Wickham,a,519,OpenPlay,2015,RightFoot,85,Norwich,Crystal Palace,1,3,2015-08-08 18:00:00,Jason Puncheon,Pass,519
+51750,47,ShotOnPost,0.93,0.4640000152587891,0.4090760052204132,Connor Wickham,h,519,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Wilfried Zaha,Cross,519
+51758,73,MissedShots,0.8719999694824219,0.5370000076293945,0.06346490234136581,Connor Wickham,h,519,SetPiece,2015,LeftFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,Jason Puncheon,Cross,519
+57493,52,MissedShots,0.93,0.45799999237060546,0.11888899654150009,Connor Wickham,a,519,OpenPlay,2015,LeftFoot,115,Chelsea,Crystal Palace,1,2,2015-08-29 18:00:00,Bakary Sako,Cross,519
+53540,63,BlockedShot,0.905,0.475,0.07634860277175903,Connor Wickham,h,519,FromCorner,2015,RightFoot,210,Crystal Palace,Sunderland,0,1,2015-11-24 00:00:00,Yohan Cabaye,Cross,519
+53541,64,MissedShots,0.8819999694824219,0.46599998474121096,0.09048140048980713,Connor Wickham,h,519,OpenPlay,2015,RightFoot,210,Crystal Palace,Sunderland,0,1,2015-11-24 00:00:00,Wilfried Zaha,Cross,519
+53548,74,MissedShots,0.9290000152587891,0.735999984741211,0.03813429921865463,Connor Wickham,h,519,OpenPlay,2015,LeftFoot,210,Crystal Palace,Sunderland,0,1,2015-11-24 00:00:00,,None,519
+56027,51,BlockedShot,0.950999984741211,0.545,0.12813299894332886,Connor Wickham,h,519,OpenPlay,2015,LeftFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Wilfried Zaha,OffsidePass,519
+56032,70,MissedShots,0.8919999694824219,0.46799999237060547,0.046020399779081345,Connor Wickham,h,519,FromCorner,2015,Head,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Yohan Cabaye,Cross,519
+56037,84,MissedShots,0.8119999694824219,0.6170000076293946,0.05419290065765381,Connor Wickham,h,519,OpenPlay,2015,RightFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Yannick Bolasie,Pass,519
+53988,0,SavedShot,0.8169999694824219,0.34,0.03100759908556938,Connor Wickham,a,519,OpenPlay,2015,RightFoot,230,Everton,Crystal Palace,1,1,2015-12-08 00:00:00,James McArthur,TakeOn,519
+53992,15,SavedShot,0.955,0.5579999923706055,0.41855600476264954,Connor Wickham,a,519,FromCorner,2015,Head,230,Everton,Crystal Palace,1,1,2015-12-08 00:00:00,Yannick Bolasie,Cross,519
+53558,20,SavedShot,0.9219999694824219,0.41700000762939454,0.0545584000647068,Connor Wickham,h,519,FromCorner,2015,Head,234,Crystal Palace,Southampton,1,0,2015-12-12 19:00:00,Yohan Cabaye,Cross,519
+53578,86,SavedShot,0.8290000152587891,0.7130000305175781,0.03849010169506073,Connor Wickham,h,519,OpenPlay,2015,LeftFoot,234,Crystal Palace,Southampton,1,0,2015-12-12 19:00:00,Yohan Cabaye,Chipped,519
+52612,6,MissedShots,0.9619999694824218,0.4,0.06553159654140472,Connor Wickham,a,519,OpenPlay,2015,Head,243,Stoke,Crystal Palace,1,2,2015-12-19 19:00:00,Wilfried Zaha,Cross,519
+52622,45,Goal,0.885,0.5,0.7611690163612366,Connor Wickham,a,519,Penalty,2015,RightFoot,243,Stoke,Crystal Palace,1,2,2015-12-19 19:00:00,,Standard,519
+53135,70,MissedShots,0.7319999694824219,0.6880000305175781,0.01485969964414835,Connor Wickham,a,519,OpenPlay,2015,RightFoot,282,Aston Villa,Crystal Palace,1,0,2016-01-12 23:45:00,Pape Souaré,Pass,519
+53136,80,MissedShots,0.9690000152587891,0.41200000762939454,0.038017600774765015,Connor Wickham,a,519,OpenPlay,2015,Head,282,Aston Villa,Crystal Palace,1,0,2016-01-12 23:45:00,,None,519
+52240,14,MissedShots,0.93,0.40599998474121096,0.09552869945764542,Connor Wickham,a,519,FromCorner,2015,LeftFoot,292,Manchester City,Crystal Palace,4,0,2016-01-16 19:00:00,Scott Dann,HeadPass,519
+53856,20,BlockedShot,0.93,0.43900001525878907,0.11266499757766724,Connor Wickham,h,519,OpenPlay,2015,RightFoot,302,Crystal Palace,Tottenham,1,3,2016-01-23 19:00:00,Wilfried Zaha,Cross,519
+55180,21,BlockedShot,0.7859999847412109,0.3129999923706055,0.023643899708986282,Connor Wickham,h,519,OpenPlay,2015,LeftFoot,335,Crystal Palace,Watford,1,2,2016-02-13 19:00:00,Damien Delaney,Pass,519
+60295,17,MissedShots,0.9169999694824219,0.40599998474121096,0.03961480036377907,Connor Wickham,a,519,FromCorner,2015,Head,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Yohan Cabaye,Cross,519
+60305,47,Goal,0.9790000152587891,0.585,0.5876370072364807,Connor Wickham,a,519,OpenPlay,2015,LeftFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Damien Delaney,TakeOn,519
+60312,79,Goal,0.885,0.645,0.057630300521850586,Connor Wickham,a,519,SetPiece,2015,LeftFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,,None,519
+60313,81,MissedShots,0.9419999694824219,0.6930000305175781,0.05854180082678795,Connor Wickham,a,519,OpenPlay,2015,LeftFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Jordon Mutch,Pass,519
+61004,45,MissedShots,0.9130000305175782,0.5379999923706055,0.08000849932432175,Connor Wickham,a,519,OpenPlay,2015,Head,352,Sunderland,Crystal Palace,2,2,2016-03-01 23:45:00,Wilfried Zaha,Cross,519
+61016,60,Goal,0.840999984741211,0.6040000152587891,0.05903699994087219,Connor Wickham,a,519,OpenPlay,2015,RightFoot,352,Sunderland,Crystal Palace,2,2,2016-03-01 23:45:00,Yannick Bolasie,Pass,519
+61023,66,Goal,0.955999984741211,0.5279999923706055,0.11132600158452988,Connor Wickham,a,519,FromCorner,2015,LeftFoot,352,Sunderland,Crystal Palace,2,2,2016-03-01 23:45:00,,Aerial,519
+57290,81,MissedShots,0.915,0.500999984741211,0.34209001064300537,Connor Wickham,h,519,OpenPlay,2015,Head,404,Crystal Palace,Everton,0,0,2016-04-13 23:00:00,Bakary Sako,Cross,519
+61265,44,MissedShots,0.9130000305175782,0.5609999847412109,0.09346889704465866,Connor Wickham,a,519,SetPiece,2015,Head,413,Arsenal,Crystal Palace,1,1,2016-04-17 19:00:00,Yohan Cabaye,Cross,519
+57254,42,MissedShots,0.914000015258789,0.5359999847412109,0.08144260197877884,Connor Wickham,a,519,FromCorner,2015,Head,428,Newcastle United,Crystal Palace,1,0,2016-04-30 18:00:00,Scott Dann,Cross,519
+56232,47,BlockedShot,0.7619999694824219,0.509000015258789,0.025113899260759354,Connor Wickham,h,519,OpenPlay,2015,RightFoot,438,Crystal Palace,Stoke,2,1,2016-05-07 18:00:00,James McArthur,Pass,519
+56235,48,BlockedShot,0.7859999847412109,0.5690000152587891,0.035079099237918854,Connor Wickham,h,519,OpenPlay,2015,LeftFoot,438,Crystal Palace,Stoke,2,1,2016-05-07 18:00:00,Dwight Gayle,Pass,519
+56239,57,ShotOnPost,0.9430000305175781,0.33799999237060546,0.00985249038785696,Connor Wickham,h,519,OpenPlay,2015,Head,438,Crystal Palace,Stoke,2,1,2016-05-07 18:00:00,Pape Souaré,Cross,519
+112186,12,MissedShots,0.8480000305175781,0.47200000762939454,0.02375040017068386,Connor Wickham,h,519,SetPiece,2016,Head,462,Crystal Palace,West Bromwich Albion,0,1,2016-08-13 18:00:00,Andros Townsend,Cross,519
+112188,19,MissedShots,0.875,0.6229999923706054,0.05247189849615097,Connor Wickham,h,519,OpenPlay,2016,LeftFoot,462,Crystal Palace,West Bromwich Albion,0,1,2016-08-13 18:00:00,Mile Jedinak,Cross,519
+112194,53,MissedShots,0.705999984741211,0.4490000152587891,0.03944230079650879,Connor Wickham,h,519,DirectFreekick,2016,RightFoot,462,Crystal Palace,West Bromwich Albion,0,1,2016-08-13 18:00:00,,Standard,519
+112803,90,SavedShot,0.805,0.23899999618530274,0.018648400902748108,Connor Wickham,a,519,OpenPlay,2016,LeftFoot,475,Tottenham,Crystal Palace,1,0,2016-08-20 18:00:00,Jordon Mutch,Pass,519
+112916,54,MissedShots,0.899000015258789,0.524000015258789,0.09993039816617966,Connor Wickham,h,519,FromCorner,2016,RightFoot,486,Crystal Palace,Bournemouth,1,1,2016-08-27 18:00:00,,None,519
+113909,73,MissedShots,0.874000015258789,0.3129999923706055,0.0421799011528492,Connor Wickham,a,519,OpenPlay,2016,LeftFoot,514,Sunderland,Crystal Palace,2,3,2016-09-24 18:00:00,,Rebound,519
+114890,92,SavedShot,0.9540000152587891,0.555,0.39838600158691406,Connor Wickham,h,519,OpenPlay,2016,Head,537,Crystal Palace,West Ham,0,1,2016-10-15 20:30:00,Andros Townsend,Cross,519
+115136,59,Goal,0.9130000305175782,0.47299999237060547,0.2817569971084595,Connor Wickham,a,519,OpenPlay,2016,RightFoot,2688,Burnley,Crystal Palace,3,2,2016-11-05 19:00:00,Wilfried Zaha,Cross,519
+115423,65,Goal,0.8680000305175781,0.629000015258789,0.07092779874801636,Connor Wickham,h,519,OpenPlay,2016,LeftFoot,2703,Crystal Palace,Manchester City,1,2,2016-11-19 19:00:00,Wilfried Zaha,Pass,519
+115386,27,SavedShot,0.8830000305175781,0.5570000076293945,0.062153998762369156,Connor Wickham,a,519,OpenPlay,2016,Head,2709,Swansea,Crystal Palace,5,4,2016-11-26 19:00:00,Martin Kelly,Cross,519
+251839,63,MissedShots,0.9159999847412109,0.48,0.0571633018553257,Connor Wickham,h,519,OpenPlay,2018,Head,9384,Crystal Palace,Cardiff,0,0,2018-12-26 15:00:00,Andros Townsend,Aerial,519
+251843,66,MissedShots,0.9059999847412109,0.5779999923706055,0.12388300150632858,Connor Wickham,h,519,OpenPlay,2018,LeftFoot,9384,Crystal Palace,Cardiff,0,0,2018-12-26 15:00:00,James McArthur,Pass,519
+251845,74,BlockedShot,0.875,0.26799999237060546,0.036729298532009125,Connor Wickham,h,519,OpenPlay,2018,RightFoot,9384,Crystal Palace,Cardiff,0,0,2018-12-26 15:00:00,Andros Townsend,BallTouch,519
+251856,89,SavedShot,0.915,0.44299999237060544,0.0468548983335495,Connor Wickham,h,519,OpenPlay,2018,Head,9384,Crystal Palace,Cardiff,0,0,2018-12-26 15:00:00,Andros Townsend,Aerial,519
+263752,88,MissedShots,0.885,0.5670000076293945,0.07827070355415344,Connor Wickham,h,519,SetPiece,2018,LeftFoot,9394,Crystal Palace,Chelsea,0,1,2018-12-30 12:00:00,James Tomkins,HeadPass,519
+339564,76,SavedShot,0.8680000305175781,0.4490000152587891,0.2993069887161255,Connor Wickham,h,519,OpenPlay,2019,RightFoot,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Jordan Ayew,Pass,519
+351566,84,Goal,0.9730000305175781,0.49900001525878906,0.7608339786529541,Connor Wickham,a,519,OpenPlay,2019,RightFoot,11850,Norwich,Crystal Palace,1,1,2020-01-01 17:30:00,Wilfried Zaha,None,519
+352143,82,MissedShots,0.8880000305175781,0.7019999694824218,0.055412400513887405,Connor Wickham,h,519,OpenPlay,2019,LeftFoot,11882,Crystal Palace,Southampton,0,2,2020-01-21 19:30:00,Wilfried Zaha,Pass,519

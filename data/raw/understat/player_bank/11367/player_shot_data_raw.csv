@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+508514,48,BlockedShot,0.9330000305175781,0.664000015258789,0.08544670045375824,Victor Kristiansen,h,11367,OpenPlay,2022,LeftFoot,18427,Leicester,Tottenham,4,1,2023-02-11 15:00:00,,BlockedPass,11367
+518112,76,MissedShots,0.7830000305175782,0.6919999694824219,0.013515600003302097,Victor Kristiansen,h,11367,SetPiece,2022,LeftFoot,18496,Leicester,Bournemouth,0,1,2023-04-08 14:00:00,,None,11367
+518117,89,MissedShots,0.8480000305175781,0.7390000152587891,0.01924159936606884,Victor Kristiansen,h,11367,OpenPlay,2022,LeftFoot,18496,Leicester,Bournemouth,0,1,2023-04-08 14:00:00,Patson Daka,HeadPass,11367
+536467,88,SavedShot,0.8919999694824219,0.6270000076293946,0.030742980539798737,Victor Kristiansen,h,11367,SetPiece,2023,LeftFoot,22328,Bologna,Cagliari,2,1,2023-09-02 16:30:00,,Aerial,11367
+538693,58,BlockedShot,0.855999984741211,0.6940000152587891,0.03981763496994972,Victor Kristiansen,a,11367,OpenPlay,2023,LeftFoot,22344,Verona,Bologna,0,0,2023-09-18 18:45:00,,None,11367
+544541,74,MissedShots,0.7930000305175782,0.5820000076293945,0.04649631679058075,Victor Kristiansen,h,11367,OpenPlay,2023,LeftFoot,22386,Bologna,Frosinone,2,1,2023-10-22 13:00:00,Lewis Ferguson,Pass,11367
+559999,51,MissedShots,0.755,0.67,0.0178673192858696,Victor Kristiansen,a,11367,OpenPlay,2023,LeftFoot,22518,AC Milan,Bologna,2,2,2024-01-27 19:45:00,Giovanni Fabbian,Pass,11367
+568198,17,BlockedShot,0.9080000305175782,0.5729999923706055,0.07809921354055405,Victor Kristiansen,h,11367,FromCorner,2023,LeftFoot,22575,Bologna,Inter,0,1,2024-03-09 17:00:00,,BallTouch,11367
+568200,18,SavedShot,0.8219999694824218,0.4370000076293945,0.042819585651159286,Victor Kristiansen,h,11367,OpenPlay,2023,LeftFoot,22575,Bologna,Inter,0,1,2024-03-09 17:00:00,Lewis Ferguson,Rebound,11367
+602056,37,OwnGoal,0.06599999904632568,0.5070000076293946,0,Victor Kristiansen,a,11367,OpenPlay,2024,LeftFoot,26708,Manchester United,Leicester,3,0,2024-11-10 14:00:00,,None,11367
+612283,27,MissedShots,0.855,0.48700000762939455,0.07255970686674118,Victor Kristiansen,h,11367,OpenPlay,2024,RightFoot,26817,Leicester,Fulham,0,2,2025-01-18 15:00:00,,None,11367

@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15365,62,MissedShots,0.7019999694824218,0.41,0.012744000181555748,Ritchie de Laet,a,955,SetPiece,2014,RightFoot,4723,Stoke,Leicester,0,1,2014-09-13 15:00:00,Jeffrey Schlupp,Pass,955
+16527,70,BlockedShot,0.730999984741211,0.7019999694824218,0.010216199792921543,Ritchie de Laet,a,955,OpenPlay,2014,RightFoot,4704,Newcastle United,Leicester,1,0,2014-10-18 15:00:00,,None,955
+18979,50,MissedShots,0.7290000152587891,0.235,0.010950500145554543,Ritchie de Laet,h,955,OpenPlay,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,BallRecovery,955
+22872,23,BlockedShot,0.7530000305175781,0.5059999847412109,0.012211499735713005,Ritchie de Laet,h,955,OpenPlay,2014,LeftFoot,4495,Leicester,Hull,0,0,2015-03-14 15:00:00,,Aerial,955
+57897,71,Goal,0.9490000152587891,0.5979999923706054,0.06637349724769592,Ritchie de Laet,h,955,FromCorner,2015,RightFoot,129,Leicester,Aston Villa,3,2,2015-09-13 19:00:00,Riyad Mahrez,Cross,955
+58252,35,MissedShots,0.855999984741211,0.28,0.08070550113916397,Ritchie de Laet,a,955,OpenPlay,2015,RightFoot,135,Stoke,Leicester,2,2,2015-09-19 18:00:00,Daniel Drinkwater,Throughball,955

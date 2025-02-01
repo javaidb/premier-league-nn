@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1701,Borja Bastón,18,526,1,2.2868412025272846,0,0.21951169706881046,15,5,0,0,F S,Swansea,1,2.2868412025272846,2.7998032346367836,0.9506967887282372,2016
+1701,Borja Bastón,2,9,0,0,0,0,0,0,0,0,S,Aston Villa,0,0,0,0,2019

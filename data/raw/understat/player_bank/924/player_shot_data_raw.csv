@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14470,25,BlockedShot,0.8140000152587891,0.5309999847412109,0.05074639990925789,Steven Pienaar,a,924,OpenPlay,2014,RightFoot,4750,Leicester,Everton,2,2,2014-08-16 15:00:00,,None,924
+14475,44,MissedShots,0.8830000305175781,0.6909999847412109,0.051972899585962296,Steven Pienaar,a,924,OpenPlay,2014,RightFoot,4750,Leicester,Everton,2,2,2014-08-16 15:00:00,Leighton Baines,Pass,924
+17302,90,MissedShots,0.87,0.615,0.06393910199403763,Steven Pienaar,h,924,OpenPlay,2014,RightFoot,4654,Everton,Swansea,0,0,2014-11-01 15:00:00,,None,924
+18047,93,BlockedShot,0.8469999694824218,0.7390000152587891,0.03836959972977638,Steven Pienaar,h,924,OpenPlay,2014,RightFoot,4618,Everton,Queens Park Rangers,3,1,2014-12-15 20:00:00,Seamus Coleman,Pass,924
+21212,46,SavedShot,0.8380000305175781,0.580999984741211,0.09516090154647827,Steven Pienaar,a,924,OpenPlay,2014,RightFoot,4451,Swansea,Everton,1,1,2015-04-11 12:45:00,Arouna Koné,LayOff,924
+54136,53,MissedShots,0.9580000305175781,0.6480000305175782,0.04711969941854477,Steven Pienaar,h,924,OpenPlay,2015,LeftFoot,309,Everton,Swansea,1,2,2016-01-24 17:30:00,Gerard Deulofeu,Cross,924
+54144,84,BlockedShot,0.774000015258789,0.4329999923706055,0.02768070064485073,Steven Pienaar,h,924,OpenPlay,2015,LeftFoot,309,Everton,Swansea,1,2,2016-01-24 17:30:00,Gareth Barry,Pass,924
+112725,55,MissedShots,0.7519999694824219,0.5659999847412109,0.018199700862169266,Steven Pienaar,h,924,OpenPlay,2016,LeftFoot,479,Sunderland,Middlesbrough,1,2,2016-08-21 16:30:00,Patrick van Aanholt,TakeOn,924
+113634,43,BlockedShot,0.9490000152587891,0.45,0.5990639925003052,Steven Pienaar,a,924,OpenPlay,2016,RightFoot,510,Tottenham,Sunderland,1,0,2016-09-18 19:30:00,Adnan Januzaj,Pass,924
+115231,16,SavedShot,0.9590000152587891,0.59,0.11398400366306305,Steven Pienaar,a,924,OpenPlay,2016,RightFoot,2710,Liverpool,Sunderland,2,0,2016-11-26 19:00:00,Billy Jones,Pass,924
+118028,84,BlockedShot,0.8030000305175782,0.30700000762939456,0.020625200122594833,Steven Pienaar,h,924,FromCorner,2016,LeftFoot,3384,Sunderland,Southampton,0,4,2017-02-11 15:00:00,Wahbi Khazri,Pass,924

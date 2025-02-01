@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+5662,Isaac Mbenza,22,956,1,0.9028504993766546,1,0.9807284232228994,16,7,1,0,F M S,Huddersfield,1,0.9028504993766546,2.1896756114438176,0.6319060893729329,2018

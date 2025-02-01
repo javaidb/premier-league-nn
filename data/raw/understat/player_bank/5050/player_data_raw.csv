@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+5050,Clement Lenglet,26,2039,0,0.960752010345459,2,0.7074382677674294,13,6,3,0,D S,Tottenham,0,0.960752010345459,8.319994319230318,8.151936292648315,2022
+5050,Clement Lenglet,14,1167,0,0.9835287630558014,1,0.8562045320868492,7,2,3,0,D,Aston Villa,0,0.9835287630558014,7.290762335062027,7.290762335062027,2023

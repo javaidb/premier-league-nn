@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1712,Stewart Downing,37,3315,6,4.136292829178274,8,6.626503786537796,70,85,3,0,F M,West Ham,6,4.136292829178274,13.64264209009707,7.331175375729799,2014
+1712,Stewart Downing,30,2214,1,2.140358505770564,3,2.293597299605608,29,29,1,0,D F M S,Middlesbrough,1,2.140358505770564,6.375499794259667,3.31012132903561,2016

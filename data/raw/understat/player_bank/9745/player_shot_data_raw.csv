@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+434916,50,BlockedShot,0.85,0.65,0.035711001604795456,Dimitris Giannoulis,a,9745,SetPiece,2021,LeftFoot,16437,Burnley,Norwich,0,0,2021-10-02 14:00:00,,Rebound,9745
+475225,15,SavedShot,0.8590000152587891,0.6140000152587891,0.06857030093669891,Dimitris Giannoulis,a,9745,OpenPlay,2021,LeftFoot,16582,Leicester,Norwich,3,0,2022-05-11 18:45:00,,BallTouch,9745
+591968,46,MissedShots,0.720999984741211,0.62,0.013541460037231445,Dimitris Giannoulis,h,9745,FromCorner,2024,LeftFoot,27769,Augsburg,Mainz 05,2,3,2024-09-20 18:30:00,,None,9745
+591974,54,SavedShot,0.8719999694824219,0.73,0.04109431803226471,Dimitris Giannoulis,h,9745,OpenPlay,2024,LeftFoot,27769,Augsburg,Mainz 05,2,3,2024-09-20 18:30:00,Frank Onyeka,Pass,9745
+591977,63,MissedShots,0.8519999694824218,0.7669999694824219,0.021537726745009422,Dimitris Giannoulis,h,9745,OpenPlay,2024,LeftFoot,27769,Augsburg,Mainz 05,2,3,2024-09-20 18:30:00,,None,9745
+591984,85,BlockedShot,0.8569999694824219,0.5790000152587891,0.06308933347463608,Dimitris Giannoulis,h,9745,OpenPlay,2024,RightFoot,27769,Augsburg,Mainz 05,2,3,2024-09-20 18:30:00,,Rebound,9745
+595092,16,MissedShots,0.8980000305175782,0.74,0.2946549355983734,Dimitris Giannoulis,h,9745,OpenPlay,2024,LeftFoot,27790,Augsburg,Borussia M.Gladbach,2,1,2024-10-04 18:30:00,,BallRecovery,9745
+595095,37,SavedShot,0.885,0.6869999694824219,0.22044497728347778,Dimitris Giannoulis,h,9745,OpenPlay,2024,LeftFoot,27790,Augsburg,Borussia M.Gladbach,2,1,2024-10-04 18:30:00,Maximilian Bauer,Cross,9745
+595104,53,BlockedShot,0.874000015258789,0.6780000305175782,0.05638057738542557,Dimitris Giannoulis,h,9745,OpenPlay,2024,LeftFoot,27790,Augsburg,Borussia M.Gladbach,2,1,2024-10-04 18:30:00,,Rebound,9745
+596945,70,SavedShot,0.93,0.68,0.2847994267940521,Dimitris Giannoulis,a,9745,OpenPlay,2024,LeftFoot,27800,Freiburg,Augsburg,3,1,2024-10-19 13:30:00,Phillip Tietz,TakeOn,9745
+611745,37,BlockedShot,0.9340000152587891,0.6869999694824219,0.04836549609899521,Dimitris Giannoulis,a,9745,OpenPlay,2024,LeftFoot,27892,Union Berlin,Augsburg,0,2,2025-01-15 19:30:00,Henri Koudossou,Cross,9745

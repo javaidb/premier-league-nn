@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+24482,80,MissedShots,0.6940000152587891,0.6329999923706054,0.011349299922585487,Eljero Elia,a,4367,OpenPlay,2014,RightFoot,5450,Hertha Berlin,Werder Bremen,2,2,2014-08-23 14:30:00,Franco Di Santo,Pass,4367
+24832,3,MissedShots,0.7,0.57,0.009157090447843075,Eljero Elia,a,4367,SetPiece,2014,RightFoot,5411,Bayer Leverkusen,Werder Bremen,3,3,2014-09-12 19:30:00,,None,4367
+25109,6,BlockedShot,0.799000015258789,0.754000015258789,0.0325389988720417,Eljero Elia,a,4367,OpenPlay,2014,LeftFoot,5425,Augsburg,Werder Bremen,4,2,2014-09-20 14:30:00,Davie Selke,HeadPass,4367
+25110,7,MissedShots,0.7119999694824218,0.7880000305175782,0.009718130342662334,Eljero Elia,a,4367,OpenPlay,2014,RightFoot,5425,Augsburg,Werder Bremen,4,2,2014-09-20 14:30:00,,None,4367
+25111,12,MissedShots,0.7619999694824219,0.415,0.035469599068164825,Eljero Elia,a,4367,OpenPlay,2014,RightFoot,5425,Augsburg,Werder Bremen,4,2,2014-09-20 14:30:00,,BallRecovery,4367
+25455,42,SavedShot,0.8959999847412109,0.595999984741211,0.4249640107154846,Eljero Elia,h,4367,OpenPlay,2014,RightFoot,5431,Werder Bremen,Schalke 04,0,3,2014-09-23 19:00:00,Fin Bartels,Pass,4367
+25919,23,SavedShot,0.895,0.6459999847412109,0.2296680063009262,Eljero Elia,h,4367,OpenPlay,2014,RightFoot,5384,Werder Bremen,Freiburg,1,1,2014-10-04 14:30:00,Assani Lukimya,TakeOn,4367
+25920,29,MissedShots,0.8280000305175781,0.8330000305175781,0.018538400530815125,Eljero Elia,h,4367,OpenPlay,2014,RightFoot,5384,Werder Bremen,Freiburg,1,1,2014-10-04 14:30:00,,TakeOn,4367
+25928,52,BlockedShot,0.7709999847412109,0.35700000762939454,0.017629599198698997,Eljero Elia,h,4367,FromCorner,2014,RightFoot,5384,Werder Bremen,Freiburg,1,1,2014-10-04 14:30:00,,None,4367
+25931,59,MissedShots,0.7780000305175782,0.6969999694824218,0.01454159989953041,Eljero Elia,h,4367,OpenPlay,2014,RightFoot,5384,Werder Bremen,Freiburg,1,1,2014-10-04 14:30:00,,Rebound,4367
+26858,41,MissedShots,0.9430000305175781,0.19100000381469726,0.02202419936656952,Eljero Elia,h,4367,SetPiece,2014,RightFoot,5362,Werder Bremen,VfB Stuttgart,2,0,2014-11-08 17:30:00,Zlatko Junuzovic,Pass,4367
+18927,13,Goal,0.9169999694824219,0.37400001525878906,0.09933429956436157,Eljero Elia,a,4367,OpenPlay,2014,RightFoot,4577,Newcastle United,Southampton,1,2,2015-01-17 17:30:00,James Ward-Prowse,Pass,4367
+18934,61,Goal,0.8530000305175781,0.4779999923706055,0.07532809674739838,Eljero Elia,a,4367,OpenPlay,2014,RightFoot,4577,Newcastle United,Southampton,1,2,2015-01-17 17:30:00,Shane Long,HeadPass,4367
+23406,6,MissedShots,0.7319999694824219,0.32,0.017815999686717987,Eljero Elia,a,4367,OpenPlay,2014,RightFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Sadio Mané,Pass,4367
+23417,47,SavedShot,0.894000015258789,0.715,0.04256869852542877,Eljero Elia,a,4367,OpenPlay,2014,LeftFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Graziano Pellè,Pass,4367
+24126,25,MissedShots,0.785,0.7390000152587891,0.01522739976644516,Eljero Elia,h,4367,OpenPlay,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Victor Wanyama,Chipped,4367
+24192,3,SavedShot,0.8980000305175782,0.5540000152587891,0.0736972987651825,Eljero Elia,h,4367,OpenPlay,2014,RightFoot,4544,Southampton,Liverpool,0,2,2015-02-22 16:15:00,Filip Djuricic,Dispossessed,4367
+24196,43,SavedShot,0.7969999694824219,0.6120000076293945,0.2316260039806366,Eljero Elia,h,4367,OpenPlay,2014,LeftFoot,4544,Southampton,Liverpool,0,2,2015-02-22 16:15:00,Nathaniel Clyne,Chipped,4367
+23862,62,MissedShots,0.9219999694824219,0.5590000152587891,0.0400920994579792,Eljero Elia,a,4367,OpenPlay,2014,Head,4546,West Bromwich Albion,Southampton,1,0,2015-02-28 15:00:00,Steven Davis,Aerial,4367
+23868,94,MissedShots,0.9359999847412109,0.6819999694824219,0.04839789867401123,Eljero Elia,a,4367,OpenPlay,2014,LeftFoot,4546,West Bromwich Albion,Southampton,1,0,2015-02-28 15:00:00,José Fonte,HeadPass,4367
+20428,5,MissedShots,0.7619999694824219,0.6930000305175781,0.017488399520516396,Eljero Elia,h,4367,FromCorner,2014,RightFoot,4484,Southampton,Crystal Palace,1,0,2015-03-03 19:45:00,Morgan Schneiderlin,Pass,4367
+20436,39,SavedShot,0.9209999847412109,0.6880000305175781,0.035693198442459106,Eljero Elia,h,4367,FromCorner,2014,RightFoot,4484,Southampton,Crystal Palace,1,0,2015-03-03 19:45:00,Morgan Schneiderlin,Cross,4367
+20439,52,BlockedShot,0.7319999694824219,0.575,0.016431400552392006,Eljero Elia,h,4367,OpenPlay,2014,RightFoot,4484,Southampton,Crystal Palace,1,0,2015-03-03 19:45:00,Morgan Schneiderlin,Tackle,4367
+21769,93,MissedShots,0.7519999694824219,0.35700000762939454,0.01597220078110695,Eljero Elia,a,4367,OpenPlay,2014,RightFoot,4402,Sunderland,Southampton,2,1,2015-05-02 15:00:00,,BallTouch,4367
+21306,48,MissedShots,0.715,0.295,0.010572600178420544,Eljero Elia,a,4367,OpenPlay,2014,RightFoot,4412,Leicester,Southampton,2,0,2015-05-09 15:00:00,Nathaniel Clyne,Pass,4367
+23027,77,BlockedShot,0.7630000305175781,0.5620000076293945,0.011618399992585182,Eljero Elia,a,4367,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,,Aerial,4367

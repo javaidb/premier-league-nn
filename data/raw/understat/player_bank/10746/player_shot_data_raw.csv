@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+483650,16,SavedShot,0.705999984741211,0.5459999847412109,0.007731399964541197,Jaidon Anthony,a,10746,OpenPlay,2022,RightFoot,18236,Liverpool,Bournemouth,9,0,2022-08-27 14:00:00,,None,10746
+485877,86,Goal,0.885,0.415,0.34600499272346497,Jaidon Anthony,a,10746,OpenPlay,2022,RightFoot,18254,Nottingham Forest,Bournemouth,2,3,2022-09-03 14:00:00,Dominic Solanke,Pass,10746
+488779,81,BlockedShot,0.794000015258789,0.585,0.037106599658727646,Jaidon Anthony,a,10746,OpenPlay,2022,RightFoot,18275,Newcastle United,Bournemouth,1,1,2022-09-17 14:00:00,Philip Billing,Pass,10746
+493115,81,SavedShot,0.774000015258789,0.710999984741211,0.017799299210309982,Jaidon Anthony,a,10746,OpenPlay,2022,RightFoot,18304,Fulham,Bournemouth,2,2,2022-10-15 14:00:00,Jordan Zemura,Pass,10746
+496072,84,SavedShot,0.899000015258789,0.54,0.049045901745557785,Jaidon Anthony,a,10746,OpenPlay,2022,Head,18330,West Ham,Bournemouth,2,0,2022-10-24 19:00:00,Philip Billing,HeadPass,10746
+500213,68,Goal,0.9569999694824218,0.46799999237060547,0.5193079710006714,Jaidon Anthony,h,10746,SetPiece,2022,Head,18352,Bournemouth,Everton,3,0,2022-11-12 15:00:00,Lewis Cook,Cross,10746
+501086,58,SavedShot,0.700999984741211,0.625,0.008826459757983685,Jaidon Anthony,a,10746,OpenPlay,2022,RightFoot,18365,Chelsea,Bournemouth,2,0,2022-12-27 17:30:00,,BallRecovery,10746
+501097,93,SavedShot,0.8119999694824219,0.6609999847412109,0.09199599921703339,Jaidon Anthony,a,10746,DirectFreekick,2022,RightFoot,18365,Chelsea,Bournemouth,2,0,2022-12-27 17:30:00,,Standard,10746
+502234,57,SavedShot,0.8830000305175781,0.6329999923706054,0.09154219925403595,Jaidon Anthony,a,10746,OpenPlay,2022,LeftFoot,18390,Manchester United,Bournemouth,3,0,2023-01-03 20:00:00,Philip Billing,Pass,10746
+502243,82,MissedShots,0.865,0.6469999694824219,0.06647539883852005,Jaidon Anthony,a,10746,OpenPlay,2022,LeftFoot,18390,Manchester United,Bournemouth,3,0,2023-01-03 20:00:00,Dominic Solanke,Pass,10746
+502246,91,SavedShot,0.8480000305175781,0.6659999847412109,0.04015570133924484,Jaidon Anthony,a,10746,OpenPlay,2022,LeftFoot,18390,Manchester United,Bournemouth,3,0,2023-01-03 20:00:00,,BallRecovery,10746
+504680,8,BlockedShot,0.794000015258789,0.69,0.034779198467731476,Jaidon Anthony,h,10746,FromCorner,2022,RightFoot,18403,Bournemouth,Nottingham Forest,1,1,2023-01-21 15:00:00,Ryan Christie,Pass,10746
+504685,27,Goal,0.9180000305175782,0.4129999923706055,0.09101840108633041,Jaidon Anthony,h,10746,OpenPlay,2022,RightFoot,18403,Bournemouth,Nottingham Forest,1,1,2023-01-21 15:00:00,Dango Ouattara,Cross,10746
+504709,89,BlockedShot,0.779000015258789,0.6270000076293946,0.07398670166730881,Jaidon Anthony,h,10746,DirectFreekick,2022,RightFoot,18403,Bournemouth,Nottingham Forest,1,1,2023-01-21 15:00:00,,Standard,10746
+507170,66,BlockedShot,0.8240000152587891,0.56,0.06413979828357697,Jaidon Anthony,a,10746,OpenPlay,2022,LeftFoot,18414,Brighton,Bournemouth,1,0,2023-02-04 15:00:00,Jordan Zemura,Pass,10746
+507172,69,MissedShots,0.784000015258789,0.3970000076293945,0.020943500101566315,Jaidon Anthony,a,10746,FromCorner,2022,LeftFoot,18414,Brighton,Bournemouth,1,0,2023-02-04 15:00:00,,None,10746
+508576,27,MissedShots,0.7880000305175782,0.675,0.024987200275063515,Jaidon Anthony,h,10746,OpenPlay,2022,RightFoot,18423,Bournemouth,Newcastle United,1,1,2023-02-11 17:30:00,Jefferson Lerma,Pass,10746
+511044,88,MissedShots,0.8859999847412109,0.7269999694824218,0.033862899988889694,Jaidon Anthony,h,10746,OpenPlay,2022,RightFoot,18442,Bournemouth,Manchester City,1,4,2023-02-25 17:30:00,Jordan Zemura,TakeOn,10746
+519538,73,SavedShot,0.9330000305175781,0.7069999694824218,0.06777430325746536,Jaidon Anthony,a,10746,OpenPlay,2022,RightFoot,18509,Tottenham,Bournemouth,2,3,2023-04-15 14:00:00,,TakeOn,10746
+521419,80,SavedShot,0.795,0.3729999923706055,0.033661503344774246,Jaidon Anthony,h,10746,OpenPlay,2022,LeftFoot,18513,Bournemouth,West Ham,0,4,2023-04-23 13:00:00,Dango Ouattara,Pass,10746
+524640,84,SavedShot,0.7909999847412109,0.5979999923706054,0.035471294075250626,Jaidon Anthony,h,10746,OpenPlay,2022,RightFoot,18542,Bournemouth,Chelsea,1,3,2023-05-06 14:00:00,Antoine Semenyo,Pass,10746
+534452,66,SavedShot,0.8280000305175781,0.64,0.05982113257050514,Jaidon Anthony,h,10746,OpenPlay,2023,RightFoot,22296,Bournemouth,Tottenham,0,2,2023-08-26 11:30:00,Hamed Junior Traore,TakeOn,10746
+534462,96,MissedShots,0.7559999847412109,0.4470000076293945,0.017050348222255707,Jaidon Anthony,h,10746,OpenPlay,2023,RightFoot,22296,Bournemouth,Tottenham,0,2,2023-08-26 11:30:00,Dominic Solanke,Pass,10746

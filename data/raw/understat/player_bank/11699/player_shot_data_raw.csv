@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+536280,77,BlockedShot,0.8130000305175781,0.49700000762939456,0.03754434734582901,Ameen Al Dakhil,h,11699,FromCorner,2023,RightFoot,21929,Burnley,Tottenham,2,5,2023-09-02 14:00:00,,None,11699
+536281,77,BlockedShot,0.8540000152587891,0.4759999847412109,0.05317908897995949,Ameen Al Dakhil,h,11699,FromCorner,2023,RightFoot,21929,Burnley,Tottenham,2,5,2023-09-02 14:00:00,Jacob Bruun Larsen,BallTouch,11699
+536282,78,MissedShots,0.7819999694824219,0.6329999923706054,0.018936004489660263,Ameen Al Dakhil,h,11699,FromCorner,2023,LeftFoot,21929,Burnley,Tottenham,2,5,2023-09-02 14:00:00,,None,11699
+538677,91,BlockedShot,0.9119999694824219,0.315,0.0495753288269043,Ameen Al Dakhil,a,11699,SetPiece,2023,RightFoot,21944,Nottingham Forest,Burnley,1,1,2023-09-18 18:45:00,,None,11699
+541219,78,SavedShot,0.92,0.5920000076293945,0.04644422605633736,Ameen Al Dakhil,a,11699,FromCorner,2023,Head,21958,Newcastle United,Burnley,2,0,2023-09-30 14:00:00,Josh Brownhill,Cross,11699
+542623,41,OwnGoal,0.017000000476837158,0.4490000152587891,0,Ameen Al Dakhil,h,11699,OpenPlay,2023,RightFoot,21967,Burnley,Chelsea,1,4,2023-10-07 14:00:00,,Foul,11699
+557869,39,MissedShots,0.92,0.5620000076293945,0.12786002457141876,Ameen Al Dakhil,h,11699,OpenPlay,2023,LeftFoot,22096,Burnley,Luton,1,1,2024-01-12 19:45:00,Wilson Odobert,Cross,11699
+557881,70,SavedShot,0.720999984741211,0.625999984741211,0.015408092178404331,Ameen Al Dakhil,h,11699,OpenPlay,2023,RightFoot,22096,Burnley,Luton,1,1,2024-01-12 19:45:00,Josh Cullen,Pass,11699
+560710,92,Goal,0.98,0.48400001525878905,0.8729658722877502,Ameen Al Dakhil,a,11699,OpenPlay,2023,LeftFoot,22114,Manchester City,Burnley,3,1,2024-01-31 19:30:00,David Datro Fofana,Pass,11699
+612220,45,MissedShots,0.84,0.45,0.053459011018276215,Ameen Al Dakhil,h,11699,FromCorner,2024,RightFoot,27896,VfB Stuttgart,Freiburg,4,0,2025-01-18 14:30:00,,None,11699

@@ -1,0 +1,74 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+165802,34,SavedShot,0.9080000305175782,0.669000015258789,0.05985099822282791,Ludwig Augustinsson,a,6083,OpenPlay,2017,LeftFoot,8260,Hoffenheim,Werder Bremen,1,0,2017-08-19 14:30:00,,None,6083
+166083,28,BlockedShot,0.879000015258789,0.47400001525878904,0.10050100088119507,Ludwig Augustinsson,h,6083,SetPiece,2017,RightFoot,8269,Werder Bremen,Bayern Munich,0,2,2017-08-26 14:30:00,,Rebound,6083
+166261,31,MissedShots,0.895,0.5420000076293945,0.06523369997739792,Ludwig Augustinsson,a,6083,FromCorner,2017,Head,8284,Hertha Berlin,Werder Bremen,1,1,2017-09-10 14:30:00,Maximilian Eggestein,Cross,6083
+166573,19,ShotOnPost,0.9259999847412109,0.5820000076293945,0.06578029692173004,Ludwig Augustinsson,h,6083,FromCorner,2017,Head,8287,Werder Bremen,Schalke 04,1,2,2017-09-16 14:30:00,Florian Kainz,Cross,6083
+166577,28,BlockedShot,0.8469999694824218,0.6480000305175782,0.05617760121822357,Ludwig Augustinsson,h,6083,OpenPlay,2017,LeftFoot,8287,Werder Bremen,Schalke 04,1,2,2017-09-16 14:30:00,Fin Bartels,Pass,6083
+166715,75,MissedShots,0.875,0.6990000152587891,0.04199260100722313,Ludwig Augustinsson,h,6083,OpenPlay,2017,LeftFoot,8307,Werder Bremen,Freiburg,0,0,2017-09-23 14:30:00,Florian Kainz,Pass,6083
+168041,8,MissedShots,0.8430000305175781,0.6869999694824219,0.03560259938240051,Ludwig Augustinsson,a,6083,OpenPlay,2017,LeftFoot,8332,FC Cologne,Werder Bremen,0,0,2017-10-22 12:30:00,Ishak Belfodil,Pass,6083
+168068,93,MissedShots,0.9030000305175782,0.6370000076293946,0.11902999877929688,Ludwig Augustinsson,a,6083,OpenPlay,2017,LeftFoot,8332,FC Cologne,Werder Bremen,0,0,2017-10-22 12:30:00,Zlatko Junuzovic,Pass,6083
+168649,35,BlockedShot,0.9159999847412109,0.7,0.054589901119470596,Ludwig Augustinsson,h,6083,OpenPlay,2017,LeftFoot,8343,Werder Bremen,Augsburg,0,3,2017-10-29 14:30:00,Zlatko Junuzovic,Pass,6083
+168960,64,MissedShots,0.9,0.5220000076293946,0.023127499967813492,Ludwig Augustinsson,h,6083,FromCorner,2017,Head,8380,Werder Bremen,VfB Stuttgart,1,0,2017-12-02 14:30:00,Zlatko Junuzovic,Aerial,6083
+168965,81,SavedShot,0.8090000152587891,0.669000015258789,0.057727400213479996,Ludwig Augustinsson,h,6083,OpenPlay,2017,LeftFoot,8380,Werder Bremen,VfB Stuttgart,1,0,2017-12-02 14:30:00,Fin Bartels,Pass,6083
+192357,22,SavedShot,0.7819999694824219,0.5220000076293946,0.0364082008600235,Ludwig Augustinsson,h,6083,OpenPlay,2017,RightFoot,8433,Werder Bremen,Hertha Berlin,0,0,2018-01-27 17:30:00,Max Kruse,Pass,6083
+192374,83,BlockedShot,0.8119999694824219,0.705,0.02282549999654293,Ludwig Augustinsson,h,6083,OpenPlay,2017,LeftFoot,8433,Werder Bremen,Hertha Berlin,0,0,2018-01-27 17:30:00,,None,6083
+194799,78,SavedShot,0.7659999847412109,0.34,0.061594199389219284,Ludwig Augustinsson,a,6083,DirectFreekick,2017,LeftFoot,8442,Schalke 04,Werder Bremen,1,2,2018-02-03 14:30:00,,Standard,6083
+195025,3,Goal,0.9469999694824218,0.580999984741211,0.03701689839363098,Ludwig Augustinsson,h,6083,FromCorner,2017,Head,8455,Werder Bremen,Wolfsburg,3,1,2018-02-11 17:00:00,Zlatko Junuzovic,Aerial,6083
+196324,49,MissedShots,0.7819999694824219,0.67,0.02291730046272278,Ludwig Augustinsson,a,6083,OpenPlay,2017,RightFoot,8459,Freiburg,Werder Bremen,1,0,2018-02-17 14:30:00,,Rebound,6083
+196331,84,BlockedShot,0.7759999847412109,0.7080000305175781,0.020428400486707687,Ludwig Augustinsson,a,6083,OpenPlay,2017,LeftFoot,8459,Freiburg,Werder Bremen,1,0,2018-02-17 14:30:00,Max Kruse,Pass,6083
+197553,1,MissedShots,0.905,0.5329999923706055,0.025039099156856537,Ludwig Augustinsson,h,6083,FromCorner,2017,Head,8470,Werder Bremen,Hamburger SV,1,0,2018-02-24 17:30:00,Max Kruse,Aerial,6083
+197562,57,SavedShot,0.7819999694824219,0.720999984741211,0.02125849947333336,Ludwig Augustinsson,h,6083,OpenPlay,2017,LeftFoot,8470,Werder Bremen,Hamburger SV,1,0,2018-02-24 17:30:00,Thomas Delaney,Pass,6083
+198575,15,BlockedShot,0.889000015258789,0.5109999847412109,0.11017400026321411,Ludwig Augustinsson,a,6083,FromCorner,2017,LeftFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Marco Friedl,Rebound,6083
+198581,44,BlockedShot,0.87,0.6079999923706054,0.08319070190191269,Ludwig Augustinsson,a,6083,OpenPlay,2017,LeftFoot,8478,Borussia M.Gladbach,Werder Bremen,2,2,2018-03-02 19:30:00,Ishak Belfodil,Pass,6083
+201358,0,BlockedShot,0.725,0.6509999847412109,0.01686209999024868,Ludwig Augustinsson,a,6083,OpenPlay,2017,LeftFoot,8501,Augsburg,Werder Bremen,1,3,2018-03-17 14:30:00,Philipp Bargfrede,Pass,6083
+212520,7,BlockedShot,0.8109999847412109,0.67,0.028980299830436707,Ludwig Augustinsson,h,6083,OpenPlay,2017,LeftFoot,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,,None,6083
+212521,7,MissedShots,0.8569999694824219,0.6359999847412109,0.051039401441812515,Ludwig Augustinsson,h,6083,OpenPlay,2017,LeftFoot,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,,Rebound,6083
+219980,47,MissedShots,0.8540000152587891,0.5029999923706054,0.09802789986133575,Ludwig Augustinsson,h,6083,OpenPlay,2018,LeftFoot,10341,Werder Bremen,Hannover 96,1,1,2018-08-25 16:30:00,Davy Klaassen,Pass,6083
+255197,60,BlockedShot,0.8730000305175781,0.6370000076293946,0.07834210246801376,Ludwig Augustinsson,h,6083,OpenPlay,2018,LeftFoot,10395,Werder Bremen,Wolfsburg,2,0,2018-10-05 18:30:00,,None,6083
+255204,81,SavedShot,0.8959999847412109,0.720999984741211,0.0705777034163475,Ludwig Augustinsson,h,6083,OpenPlay,2018,LeftFoot,10395,Werder Bremen,Wolfsburg,2,0,2018-10-05 18:30:00,Max Kruse,Pass,6083
+255846,6,BlockedShot,0.9259999847412109,0.5029999923706054,0.1157979965209961,Ludwig Augustinsson,h,6083,OpenPlay,2018,LeftFoot,10412,Werder Bremen,Bayer Leverkusen,2,6,2018-10-28 16:00:00,Theodor Gebre Selassie,Cross,6083
+255849,22,SavedShot,0.9319999694824219,0.6819999694824219,0.06602939963340759,Ludwig Augustinsson,h,6083,OpenPlay,2018,LeftFoot,10412,Werder Bremen,Bayer Leverkusen,2,6,2018-10-28 16:00:00,Max Kruse,Pass,6083
+255854,31,BlockedShot,0.8119999694824219,0.5790000152587891,0.04317770153284073,Ludwig Augustinsson,h,6083,OpenPlay,2018,RightFoot,10412,Werder Bremen,Bayer Leverkusen,2,6,2018-10-28 16:00:00,Max Kruse,BallTouch,6083
+255874,82,SavedShot,0.9159999847412109,0.68,0.0684226006269455,Ludwig Augustinsson,h,6083,OpenPlay,2018,LeftFoot,10412,Werder Bremen,Bayer Leverkusen,2,6,2018-10-28 16:00:00,Max Kruse,Pass,6083
+256129,19,MissedShots,0.9290000152587891,0.5459999847412109,0.10265599936246872,Ludwig Augustinsson,a,6083,FromCorner,2018,LeftFoot,10420,Mainz 05,Werder Bremen,2,1,2018-11-04 17:00:00,Max Kruse,Cross,6083
+256142,60,BlockedShot,0.8919999694824219,0.6020000076293945,0.021567199379205704,Ludwig Augustinsson,a,6083,FromCorner,2018,Head,10420,Mainz 05,Werder Bremen,2,1,2018-11-04 17:00:00,Max Kruse,Cross,6083
+256641,91,Goal,0.9259999847412109,0.5220000076293946,0.5273439884185791,Ludwig Augustinsson,a,6083,FromCorner,2018,LeftFoot,10442,Freiburg,Werder Bremen,1,1,2018-11-25 14:30:00,,None,6083
+256984,56,MissedShots,0.7769999694824219,0.745,0.01683869957923889,Ludwig Augustinsson,h,6083,OpenPlay,2018,LeftFoot,10459,Werder Bremen,Fortuna Duesseldorf,3,1,2018-12-07 19:30:00,Sebastian Langkamp,Pass,6083
+256986,58,BlockedShot,0.8540000152587891,0.7319999694824219,0.015751099213957787,Ludwig Augustinsson,h,6083,FromCorner,2018,LeftFoot,10459,Werder Bremen,Fortuna Duesseldorf,3,1,2018-12-07 19:30:00,,Aerial,6083
+257625,24,BlockedShot,0.9069999694824219,0.355,0.03269540145993233,Ludwig Augustinsson,h,6083,SetPiece,2018,Head,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Sebastian Langkamp,Chipped,6083
+257767,53,SavedShot,0.8859999847412109,0.6959999847412109,0.034053198993206024,Ludwig Augustinsson,a,6083,SetPiece,2018,LeftFoot,10485,RasenBallsport Leipzig,Werder Bremen,3,2,2018-12-22 14:30:00,,Rebound,6083
+278390,67,MissedShots,0.7659999847412109,0.4540000152587891,0.01802010089159012,Ludwig Augustinsson,a,6083,SetPiece,2018,RightFoot,10494,Hannover 96,Werder Bremen,0,1,2019-01-19 14:30:00,,Rebound,6083
+278853,41,BlockedShot,0.875,0.6780000305175782,0.07840690016746521,Ludwig Augustinsson,a,6083,OpenPlay,2018,LeftFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,,TakeOn,6083
+278858,62,MissedShots,0.9019999694824219,0.635,0.05761989951133728,Ludwig Augustinsson,a,6083,OpenPlay,2018,LeftFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Max Kruse,Cross,6083
+278869,88,BlockedShot,0.9069999694824219,0.7180000305175781,0.039186399430036545,Ludwig Augustinsson,a,6083,OpenPlay,2018,LeftFoot,10514,Nuernberg,Werder Bremen,1,1,2019-02-02 14:30:00,Davy Klaassen,TakeOn,6083
+279116,12,MissedShots,0.924000015258789,0.6419999694824219,0.01289840042591095,Ludwig Augustinsson,h,6083,FromCorner,2018,Head,10521,Werder Bremen,Augsburg,4,0,2019-02-10 14:30:00,Milot Rashica,Aerial,6083
+293505,40,MissedShots,0.9130000305175782,0.5729999923706055,0.06491579860448837,Ludwig Augustinsson,h,6083,FromCorner,2018,LeftFoot,10594,Werder Bremen,Freiburg,2,1,2019-04-13 14:30:00,Milot Rashica,Cross,6083
+300722,73,SavedShot,0.9259999847412109,0.725999984741211,0.05747060105204582,Ludwig Augustinsson,a,6083,OpenPlay,2018,LeftFoot,10625,Hoffenheim,Werder Bremen,0,1,2019-05-11 14:30:00,Maximilian Eggestein,Pass,6083
+336944,6,MissedShots,0.909000015258789,0.425,0.03052319958806038,Ludwig Augustinsson,a,6083,SetPiece,2019,Head,12529,Bayern Munich,Werder Bremen,6,1,2019-12-14 14:30:00,Nuri Sahin,Aerial,6083
+359814,14,BlockedShot,0.75,0.255,0.03952369838953018,Ludwig Augustinsson,h,6083,DirectFreekick,2019,LeftFoot,12606,Werder Bremen,Borussia Dortmund,0,2,2020-02-22 14:30:00,,Standard,6083
+363802,83,MissedShots,0.6959999847412109,0.620999984741211,0.00939102005213499,Ludwig Augustinsson,h,6083,OpenPlay,2019,LeftFoot,12612,Werder Bremen,Eintracht Frankfurt,0,3,2020-06-03 18:30:00,Nick Woltemade,Pass,6083
+363991,67,MissedShots,0.7290000152587891,0.25799999237060545,0.03434289991855621,Ludwig Augustinsson,h,6083,DirectFreekick,2019,LeftFoot,12668,Werder Bremen,Wolfsburg,0,1,2020-06-07 11:30:00,,Standard,6083
+363995,74,MissedShots,0.8580000305175781,0.7140000152587891,0.018003299832344055,Ludwig Augustinsson,h,6083,OpenPlay,2019,LeftFoot,12668,Werder Bremen,Wolfsburg,0,1,2020-06-07 11:30:00,Theodor Gebre Selassie,Cross,6083
+378981,20,MissedShots,0.9409999847412109,0.6930000305175781,0.053270600736141205,Ludwig Augustinsson,a,6083,OpenPlay,2020,LeftFoot,14188,Schalke 04,Werder Bremen,1,3,2020-09-26 16:30:00,,None,6083
+378985,31,BlockedShot,0.9259999847412109,0.705,0.06716310232877731,Ludwig Augustinsson,a,6083,OpenPlay,2020,RightFoot,14188,Schalke 04,Werder Bremen,1,3,2020-09-26 16:30:00,,None,6083
+379002,72,BlockedShot,0.73,0.515,0.023292899131774902,Ludwig Augustinsson,a,6083,OpenPlay,2020,LeftFoot,14188,Schalke 04,Werder Bremen,1,3,2020-09-26 16:30:00,Joshua Sargent,Pass,6083
+380540,38,SavedShot,0.875999984741211,0.6040000152587891,0.025795599445700645,Ludwig Augustinsson,h,6083,OpenPlay,2020,Head,15160,Werder Bremen,Arminia Bielefeld,1,0,2020-10-03 13:30:00,Leonardo Bittencourt,Cross,6083
+388439,89,SavedShot,0.8159999847412109,0.43,0.1498820036649704,Ludwig Augustinsson,a,6083,DirectFreekick,2020,LeftFoot,15216,Wolfsburg,Werder Bremen,5,3,2020-11-27 19:30:00,,Standard,6083
+391587,85,MissedShots,0.82,0.485,0.05656509846448898,Ludwig Augustinsson,a,6083,OpenPlay,2020,RightFoot,15231,RasenBallsport Leipzig,Werder Bremen,2,0,2020-12-12 14:30:00,Tahith Chong,BallTouch,6083
+392650,43,SavedShot,0.860999984741211,0.7140000152587891,0.036226801574230194,Ludwig Augustinsson,h,6083,OpenPlay,2020,RightFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,,None,6083
+392655,60,BlockedShot,0.7340000152587891,0.23,0.03265560045838356,Ludwig Augustinsson,h,6083,DirectFreekick,2020,LeftFoot,15242,Werder Bremen,Borussia Dortmund,1,2,2020-12-15 19:30:00,,Standard,6083
+401560,85,MissedShots,0.874000015258789,0.6780000305175782,0.050571199506521225,Ludwig Augustinsson,h,6083,OpenPlay,2020,RightFoot,15309,Werder Bremen,Schalke 04,1,1,2021-01-30 14:30:00,,None,6083
+409022,46,SavedShot,0.8859999847412109,0.605999984741211,0.10100000351667404,Ludwig Augustinsson,a,6083,OpenPlay,2020,LeftFoot,15349,FC Cologne,Werder Bremen,1,1,2021-03-07 14:30:00,Milot Rashica,Pass,6083
+409029,69,MissedShots,0.84,0.5509999847412109,0.07730290293693542,Ludwig Augustinsson,a,6083,OpenPlay,2020,LeftFoot,15349,FC Cologne,Werder Bremen,1,1,2021-03-07 14:30:00,,Rebound,6083
+409933,5,SavedShot,0.875999984741211,0.6859999847412109,0.05098830163478851,Ludwig Augustinsson,h,6083,OpenPlay,2020,RightFoot,15363,Werder Bremen,Bayern Munich,1,3,2021-03-13 14:30:00,Milot Rashica,Pass,6083
+413112,21,MissedShots,0.7909999847412109,0.610999984741211,0.030914699658751488,Ludwig Augustinsson,a,6083,OpenPlay,2020,LeftFoot,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,,None,6083
+413126,80,OwnGoal,0.09600000381469727,0.549000015258789,0,Ludwig Augustinsson,a,6083,OpenPlay,2020,Head,15381,VfB Stuttgart,Werder Bremen,1,0,2021-04-04 13:30:00,,Aerial,6083
+416498,56,BlockedShot,0.769000015258789,0.29700000762939455,0.05402509868144989,Ludwig Augustinsson,h,6083,DirectFreekick,2020,LeftFoot,15407,Werder Bremen,Mainz 05,0,1,2021-04-21 18:30:00,,Standard,6083
+416506,76,BlockedShot,0.895,0.6840000152587891,0.047279901802539825,Ludwig Augustinsson,h,6083,FromCorner,2020,RightFoot,15407,Werder Bremen,Mainz 05,0,1,2021-04-21 18:30:00,Milot Rashica,Pass,6083
+421940,58,BlockedShot,0.7959999847412109,0.6780000305175782,0.019183700904250145,Ludwig Augustinsson,a,6083,FromCorner,2020,LeftFoot,15435,Augsburg,Werder Bremen,2,0,2021-05-15 13:30:00,,None,6083
+438178,70,BlockedShot,0.8540000152587891,0.6719999694824219,0.03758789971470833,Ludwig Augustinsson,h,6083,SetPiece,2021,LeftFoot,17229,Sevilla,Levante,5,3,2021-10-24 12:00:00,,None,6083
+466167,91,SavedShot,0.915,0.5659999847412109,0.07923170179128647,Ludwig Augustinsson,a,6083,OpenPlay,2021,RightFoot,17428,Barcelona,Sevilla,1,0,2022-04-03 19:00:00,,None,6083
+466459,24,MissedShots,0.8540000152587891,0.6869999694824219,0.042373500764369965,Ludwig Augustinsson,h,6083,OpenPlay,2021,RightFoot,17442,Sevilla,Granada,4,2,2022-04-08 19:00:00,Anthony Martial,Pass,6083
+466465,42,SavedShot,0.875999984741211,0.629000015258789,0.08280830085277557,Ludwig Augustinsson,h,6083,OpenPlay,2021,LeftFoot,17442,Sevilla,Granada,4,2,2022-04-08 19:00:00,Jesús Navas,Pass,6083
+502584,71,SavedShot,0.8859999847412109,0.624000015258789,0.018750999122858047,Ludwig Augustinsson,h,6083,FromCorner,2022,Head,18383,Aston Villa,Wolverhampton Wanderers,1,1,2023-01-04 20:00:00,Leon Bailey,Cross,6083
+502585,74,BlockedShot,0.905,0.655,0.05428360030055046,Ludwig Augustinsson,h,6083,OpenPlay,2022,LeftFoot,18383,Aston Villa,Wolverhampton Wanderers,1,1,2023-01-04 20:00:00,Leander Dendoncker,HeadPass,6083

@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+59343,80,MissedShots,0.9230000305175782,0.46900001525878904,0.09968320280313492,Ryan Bennett,h,787,FromCorner,2015,Head,174,Norwich,West Bromwich Albion,0,1,2015-10-24 18:00:00,Matthew Jarvis,Cross,787
+54597,46,BlockedShot,0.9319999694824219,0.5729999923706055,0.07749179750680923,Ryan Bennett,h,787,FromCorner,2015,Head,231,Norwich,Everton,1,1,2015-12-12 16:45:00,Robbie Brady,Cross,787
+55142,29,SavedShot,0.8730000305175781,0.44799999237060545,0.0639462023973465,Ryan Bennett,a,787,FromCorner,2015,RightFoot,285,Stoke,Norwich,3,1,2016-01-13 23:45:00,Jonny Howson,Pass,787
+55150,77,OwnGoal,0.1,0.5070000076293946,0,Ryan Bennett,a,787,SetPiece,2015,Head,285,Stoke,Norwich,3,1,2016-01-13 23:45:00,,Card,787
+56152,16,MissedShots,0.92,0.5470000076293945,0.08418489992618561,Ryan Bennett,a,787,FromCorner,2015,Head,343,Leicester,Norwich,1,0,2016-02-27 19:00:00,Robbie Brady,Cross,787
+59538,37,MissedShots,0.9159999847412109,0.4329999923706055,0.02095709927380085,Ryan Bennett,h,787,FromCorner,2015,Head,369,Norwich,Manchester City,0,0,2016-03-12 16:45:00,Nathan Redmond,Aerial,787
+60015,72,BlockedShot,0.91,0.515,0.11992000043392181,Ryan Bennett,h,787,OpenPlay,2015,RightFoot,387,Norwich,Newcastle United,3,2,2016-04-02 18:00:00,Dieumerci Mbokani,Cross,787
+60552,69,SavedShot,0.9290000152587891,0.4,0.08405309915542603,Ryan Bennett,a,787,SetPiece,2015,RightFoot,399,Crystal Palace,Norwich,1,0,2016-04-09 18:00:00,Gary O&#039;Neil,Chipped,787
+56403,26,MissedShots,0.9030000305175782,0.534000015258789,0.024508299306035042,Ryan Bennett,h,787,FromCorner,2015,Head,448,Norwich,Watford,4,2,2016-05-11 22:45:00,Wes Hoolahan,Aerial,787
+234196,13,MissedShots,0.9,0.539000015258789,0.018711600452661514,Ryan Bennett,a,787,FromCorner,2018,Head,9248,Manchester United,Wolverhampton Wanderers,1,1,2018-09-22 14:00:00,João Moutinho,Aerial,787
+234452,21,SavedShot,0.909000015258789,0.5629999923706055,0.05657849833369255,Ryan Bennett,h,787,FromCorner,2018,Head,9258,Wolverhampton Wanderers,Southampton,2,0,2018-09-29 14:00:00,João Moutinho,Cross,787
+249245,9,BlockedShot,0.9019999694824219,0.4929999923706055,0.023486699908971786,Ryan Bennett,h,787,FromCorner,2018,Head,9278,Wolverhampton Wanderers,Watford,0,2,2018-10-20 14:00:00,João Moutinho,Aerial,787
+249541,69,MissedShots,0.8819999694824219,0.4159999847412109,0.01332040037959814,Ryan Bennett,a,787,FromCorner,2018,Head,9290,Brighton,Wolverhampton Wanderers,1,0,2018-10-27 14:00:00,João Moutinho,Aerial,787
+249550,92,SavedShot,0.9219999694824219,0.46,0.41552600264549255,Ryan Bennett,a,787,OpenPlay,2018,LeftFoot,9290,Brighton,Wolverhampton Wanderers,1,0,2018-10-27 14:00:00,Ivan Cavaleiro,Cross,787
+250448,2,MissedShots,0.919000015258789,0.4620000076293945,0.037668000906705856,Ryan Bennett,h,787,FromCorner,2018,Head,9325,Wolverhampton Wanderers,Huddersfield,0,2,2018-11-25 16:00:00,João Moutinho,Aerial,787
+250455,34,MissedShots,0.7340000152587891,0.3579999923706055,0.016272399574518204,Ryan Bennett,h,787,OpenPlay,2018,RightFoot,9325,Wolverhampton Wanderers,Huddersfield,0,2,2018-11-25 16:00:00,Rúben Neves,Pass,787
+251199,36,MissedShots,0.9209999847412109,0.500999984741211,0.0517239011824131,Ryan Bennett,a,787,FromCorner,2018,Head,9348,Newcastle United,Wolverhampton Wanderers,1,2,2018-12-09 16:00:00,,Aerial,787
+251737,65,MissedShots,0.789000015258789,0.34599998474121096,0.024238700047135353,Ryan Bennett,a,787,OpenPlay,2018,RightFoot,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,,None,787
+263561,16,MissedShots,0.9209999847412109,0.545,0.053647398948669434,Ryan Bennett,a,787,SetPiece,2018,Head,9388,Tottenham,Wolverhampton Wanderers,1,3,2018-12-29 15:00:00,Ivan Cavaleiro,Aerial,787
+274625,11,Goal,0.9230000305175782,0.475,0.10243000090122223,Ryan Bennett,h,787,FromCorner,2018,Head,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,João Moutinho,Cross,787
+275653,88,SavedShot,0.9030000305175782,0.4929999923706055,0.024474600329995155,Ryan Bennett,h,787,FromCorner,2018,Head,9450,Wolverhampton Wanderers,Newcastle United,1,1,2019-02-11 20:00:00,João Moutinho,Aerial,787
+295235,44,MissedShots,0.9019999694824219,0.575999984741211,0.018956899642944336,Ryan Bennett,h,787,SetPiece,2018,Head,9537,Wolverhampton Wanderers,Brighton,0,0,2019-04-20 15:00:00,João Moutinho,Aerial,787
+295245,60,BlockedShot,0.950999984741211,0.48400001525878905,0.13035200536251068,Ryan Bennett,h,787,FromCorner,2018,Head,9537,Wolverhampton Wanderers,Brighton,0,0,2019-04-20 15:00:00,João Moutinho,Cross,787
+296790,32,MissedShots,0.8819999694824219,0.575999984741211,0.012665599584579468,Ryan Bennett,h,787,FromCorner,2018,Head,9497,Wolverhampton Wanderers,Arsenal,3,1,2019-04-24 19:45:00,João Moutinho,Aerial,787
+310232,48,MissedShots,0.9059999847412109,0.5320000076293945,0.023915300145745277,Ryan Bennett,a,787,FromCorner,2019,Head,11651,Leicester,Wolverhampton Wanderers,0,0,2019-08-11 14:00:00,João Moutinho,Aerial,787

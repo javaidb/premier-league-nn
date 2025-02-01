@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1217,Moritz Leitner,9,689,0,0.21781210415065289,0,0.363968787714839,8,7,1,0,M S,Norwich,0,0.21781210415065289,4.275746572762728,3.8308857530355453,2019

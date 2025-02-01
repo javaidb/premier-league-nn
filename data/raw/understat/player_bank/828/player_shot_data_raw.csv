@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14467,19,SavedShot,0.9290000152587891,0.6719999694824219,0.05637820065021515,Sylvain Distin,a,828,FromCorner,2014,LeftFoot,4750,Leicester,Everton,2,2,2014-08-16 15:00:00,,Rebound,828
+58085,64,BlockedShot,0.904000015258789,0.36700000762939455,0.01149389985948801,Sylvain Distin,h,828,FromCorner,2015,Head,134,Bournemouth,Sunderland,2,0,2015-09-19 18:00:00,Charlie Daniels,Aerial,828
+58496,86,MissedShots,0.8619999694824219,0.3160000038146973,0.052779000252485275,Sylvain Distin,a,828,SetPiece,2015,LeftFoot,143,Stoke,Bournemouth,2,1,2015-09-26 18:00:00,Steve Cook,HeadPass,828

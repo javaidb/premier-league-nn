@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+508236,34,MissedShots,0.9030000305175782,0.445,0.08588950335979462,Renato Veiga,a,11383,SetPiece,2022,Head,19517,Mainz 05,Augsburg,3,1,2023-02-11 14:30:00,Arne Engels,Cross,11383
+509334,51,MissedShots,0.665,0.700999984741211,0.010609200224280357,Renato Veiga,h,11383,OpenPlay,2022,LeftFoot,19529,Augsburg,Hoffenheim,1,0,2023-02-17 19:30:00,Elvis Rexhbecaj,Pass,11383
+509340,67,MissedShots,0.845,0.7330000305175781,0.020947899669408798,Renato Veiga,h,11383,FromCorner,2022,LeftFoot,19529,Augsburg,Hoffenheim,1,0,2023-02-17 19:30:00,,None,11383
+509342,76,MissedShots,0.720999984741211,0.5629999923706055,0.015286300331354141,Renato Veiga,h,11383,OpenPlay,2022,LeftFoot,19529,Augsburg,Hoffenheim,1,0,2023-02-17 19:30:00,,Dispossessed,11383
+514879,87,MissedShots,0.76,0.24200000762939453,0.04053280130028725,Renato Veiga,h,11383,DirectFreekick,2022,LeftFoot,19565,Augsburg,Schalke 04,1,1,2023-03-18 14:30:00,,Standard,11383
+522634,38,MissedShots,0.769000015258789,0.705,0.014734826050698757,Renato Veiga,a,11383,OpenPlay,2022,LeftFoot,19607,Eintracht Frankfurt,Augsburg,1,1,2023-04-29 13:30:00,,None,11383
+528169,76,BlockedShot,0.7909999847412109,0.705999984741211,0.018646549433469772,Renato Veiga,h,11383,OpenPlay,2022,LeftFoot,19635,Augsburg,Borussia Dortmund,0,3,2023-05-21 15:30:00,,None,11383
+529098,69,MissedShots,0.7330000305175781,0.41200000762939454,0.013019097968935966,Renato Veiga,a,11383,SetPiece,2022,LeftFoot,19643,Borussia M.Gladbach,Augsburg,2,0,2023-05-27 13:30:00,,Rebound,11383
+591167,15,MissedShots,0.8980000305175782,0.445,0.054293252527713776,Renato Veiga,a,11383,FromCorner,2024,Head,26639,Bournemouth,Chelsea,0,1,2024-09-14 19:00:00,Pedro Neto,Cross,11383
+591186,77,SavedShot,0.7240000152587891,0.6580000305175782,0.01392056792974472,Renato Veiga,a,11383,OpenPlay,2024,LeftFoot,26639,Bournemouth,Chelsea,0,1,2024-09-14 19:00:00,Tosin Adarabioyo,Pass,11383
+597757,92,MissedShots,0.925,0.504000015258789,0.06723452359437943,Renato Veiga,a,11383,SetPiece,2024,Head,26679,Liverpool,Chelsea,2,1,2024-10-20 15:30:00,Cole Palmer,Aerial,11383

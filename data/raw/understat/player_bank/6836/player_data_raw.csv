@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+6836,Kevin McDonald,15,843,0,0.1093687005341053,0,0.09823509678244591,4,4,4,1,M S,Fulham,0,0.1093687005341053,1.9747233167290688,1.827003724873066,2018

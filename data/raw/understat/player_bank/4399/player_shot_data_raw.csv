@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+21524,85,SavedShot,0.7909999847412109,0.715,0.018060699105262756,Shaun Wright-Phillips,a,4399,OpenPlay,2014,RightFoot,4416,Manchester City,Queens Park Rangers,6,0,2015-05-10 13:30:00,Niko Kranjcar,Pass,4399

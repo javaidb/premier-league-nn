@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+584758,70,BlockedShot,0.8040000152587891,0.31,0.02358955144882202,Jurriën Timber,h,11707,FromCorner,2024,RightFoot,26604,Arsenal,Wolverhampton Wanderers,2,0,2024-08-17 14:00:00,Bukayo Saka,Pass,11707
+591310,16,BlockedShot,0.8819999694824219,0.669000015258789,0.06864682585000992,Jurriën Timber,a,11707,OpenPlay,2024,RightFoot,26640,Tottenham,Arsenal,0,1,2024-09-15 13:00:00,Leandro Trossard,Pass,11707
+594100,12,BlockedShot,0.8930000305175781,0.29100000381469726,0.04785904660820961,Jurriën Timber,h,11707,OpenPlay,2024,RightFoot,26655,Arsenal,Leicester,4,2,2024-09-28 14:00:00,Thomas Partey,Pass,11707
+594116,52,MissedShots,0.9080000305175782,0.4570000076293945,0.11985865980386734,Jurriën Timber,h,11707,FromCorner,2024,LeftFoot,26655,Arsenal,Leicester,4,2,2024-09-28 14:00:00,,Rebound,11707
+599837,26,BlockedShot,0.8480000305175781,0.5309999847412109,0.05807323381304741,Jurriën Timber,a,11707,FromCorner,2024,RightFoot,26694,Newcastle United,Arsenal,1,0,2024-11-02 12:30:00,Gabriel,Rebound,11707
+602229,65,MissedShots,0.7659999847412109,0.524000015258789,0.03742020204663277,Jurriën Timber,a,11707,OpenPlay,2024,RightFoot,26705,Chelsea,Arsenal,1,1,2024-11-10 16:30:00,Gabriel,Pass,11707
+602962,45,MissedShots,0.8590000152587891,0.3060000038146973,0.042157161980867386,Jurriën Timber,h,11707,OpenPlay,2024,RightFoot,26714,Arsenal,Nottingham Forest,3,0,2024-11-23 15:00:00,Martin Odegaard,Pass,11707
+604404,24,SavedShot,0.97,0.40200000762939453,0.050776369869709015,Jurriën Timber,a,11707,FromCorner,2024,Head,26730,West Ham,Arsenal,2,5,2024-11-30 17:30:00,Bukayo Saka,Cross,11707
+604406,28,BlockedShot,0.8519999694824218,0.4909999847412109,0.10681600123643875,Jurriën Timber,a,11707,OpenPlay,2024,RightFoot,26730,West Ham,Arsenal,2,5,2024-11-30 17:30:00,Leandro Trossard,Cross,11707
+605328,53,Goal,0.98,0.575,0.3158782720565796,Jurriën Timber,h,11707,FromCorner,2024,Head,26733,Arsenal,Manchester United,2,0,2024-12-04 20:15:00,Declan Rice,Cross,11707
+609267,18,SavedShot,0.7430000305175781,0.45599998474121095,0.021497616544365883,Jurriën Timber,h,11707,OpenPlay,2024,RightFoot,26773,Arsenal,Ipswich,1,0,2024-12-27 20:15:00,William Saliba,Pass,11707

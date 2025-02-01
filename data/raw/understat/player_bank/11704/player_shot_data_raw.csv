@@ -1,0 +1,3 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+557879,62,MissedShots,0.8909999847412109,0.4779999923706055,0.047121964395046234,Hjalmar Ekdal,h,11704,FromCorner,2023,Head,22096,Burnley,Luton,1,1,2024-01-12 19:45:00,Johann Berg Gudmundsson,Cross,11704
+560707,81,SavedShot,0.8069999694824219,0.385,0.02964782528579235,Hjalmar Ekdal,a,11704,SetPiece,2023,RightFoot,22114,Manchester City,Burnley,3,1,2024-01-31 19:30:00,,None,11704

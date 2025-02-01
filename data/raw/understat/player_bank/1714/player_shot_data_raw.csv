@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+113860,76,SavedShot,0.8819999694824219,0.524000015258789,0.056563299149274826,Jordan Rhodes,h,1714,OpenPlay,2016,Head,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Stewart Downing,Cross,1714
+114634,24,MissedShots,0.9290000152587891,0.49900001525878906,0.07554130256175995,Jordan Rhodes,a,1714,OpenPlay,2016,Head,526,West Ham,Middlesbrough,1,1,2016-10-01 18:00:00,Cristhian Stuani,HeadPass,1714
+114641,47,BlockedShot,0.8719999694824219,0.355,0.05806979909539223,Jordan Rhodes,a,1714,OpenPlay,2016,RightFoot,526,West Ham,Middlesbrough,1,1,2016-10-01 18:00:00,,None,1714
+114643,50,SavedShot,0.9219999694824219,0.6580000305175782,0.29087498784065247,Jordan Rhodes,a,1714,OpenPlay,2016,LeftFoot,526,West Ham,Middlesbrough,1,1,2016-10-01 18:00:00,Adam Forshaw,Chipped,1714
+117226,3,SavedShot,0.97,0.5790000152587891,0.14346900582313538,Jordan Rhodes,a,1714,OpenPlay,2016,LeftFoot,3123,Southampton,Middlesbrough,1,0,2016-12-11 18:15:00,Viktor Fischer,TakeOn,1714
+117240,50,MissedShots,0.7340000152587891,0.425,0.021667400375008583,Jordan Rhodes,a,1714,OpenPlay,2016,RightFoot,3123,Southampton,Middlesbrough,1,0,2016-12-11 18:15:00,Marten de Roon,Pass,1714

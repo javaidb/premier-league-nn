@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+160412,86,SavedShot,0.8419999694824218,0.47200000762939454,0.09284999966621399,Isaiah Brown,h,4481,OpenPlay,2017,RightFoot,7189,Brighton,Everton,1,1,2017-10-15 13:30:00,José Izquierdo,Pass,4481

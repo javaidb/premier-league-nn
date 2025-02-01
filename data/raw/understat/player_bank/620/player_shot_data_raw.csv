@@ -1,0 +1,272 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+57841,89,Goal,0.965999984741211,0.4779999923706055,0.7554479837417603,Kelechi Iheanacho,a,620,OpenPlay,2015,LeftFoot,123,Crystal Palace,Manchester City,0,1,2015-09-12 18:00:00,,Rebound,620
+58798,75,SavedShot,0.875999984741211,0.30100000381469727,0.0675818994641304,Kelechi Iheanacho,h,620,OpenPlay,2015,LeftFoot,154,Manchester City,Newcastle United,6,1,2015-10-03 18:00:00,Jesús Navas,Pass,620
+59485,41,BlockedShot,0.865,0.34,0.051586300134658813,Kelechi Iheanacho,h,620,OpenPlay,2015,LeftFoot,183,Manchester City,Norwich,2,1,2015-10-31 19:00:00,,None,620
+54064,74,BlockedShot,0.89,0.3659999847412109,0.05721990019083023,Kelechi Iheanacho,h,620,FromCorner,2015,LeftFoot,208,Manchester City,Liverpool,1,4,2015-11-21 21:30:00,,None,620
+54065,76,MissedShots,0.815,0.32,0.02707579918205738,Kelechi Iheanacho,h,620,OpenPlay,2015,LeftFoot,208,Manchester City,Liverpool,1,4,2015-11-21 21:30:00,Kevin De Bruyne,Pass,620
+54359,91,Goal,0.879000015258789,0.39099998474121095,0.3878529965877533,Kelechi Iheanacho,h,620,OpenPlay,2015,OtherBodyPart,232,Manchester City,Swansea,2,1,2015-12-12 19:00:00,Yaya Touré,Rebound,620
+52241,15,BlockedShot,0.7959999847412109,0.235,0.020868899300694466,Kelechi Iheanacho,h,620,OpenPlay,2015,LeftFoot,292,Manchester City,Crystal Palace,4,0,2016-01-16 19:00:00,Kevin De Bruyne,Pass,620
+52961,77,MissedShots,0.8569999694824219,0.685,0.03728120028972626,Kelechi Iheanacho,a,620,OpenPlay,2015,LeftFoot,308,West Ham,Manchester City,2,2,2016-01-23 21:30:00,Raheem Sterling,Pass,620
+52964,82,BlockedShot,0.7980000305175782,0.4759999847412109,0.048541899770498276,Kelechi Iheanacho,a,620,OpenPlay,2015,LeftFoot,308,West Ham,Manchester City,2,2,2016-01-23 21:30:00,Kevin De Bruyne,Pass,620
+55633,73,Goal,0.8959999847412109,0.5279999923706055,0.34587401151657104,Kelechi Iheanacho,h,620,OpenPlay,2015,LeftFoot,340,Manchester City,Tottenham,1,2,2016-02-14 20:15:00,Gaël Clichy,Cross,620
+59954,75,MissedShots,0.7719999694824219,0.28899999618530275,0.02082820050418377,Kelechi Iheanacho,h,620,OpenPlay,2015,LeftFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Vincent Kompany,BallRecovery,620
+59547,87,BlockedShot,0.82,0.44,0.05725159868597984,Kelechi Iheanacho,a,620,OpenPlay,2015,LeftFoot,369,Norwich,Manchester City,0,0,2016-03-12 16:45:00,,BallTouch,620
+56270,6,MissedShots,0.8230000305175781,0.44299999237060544,0.06122859939932823,Kelechi Iheanacho,h,620,OpenPlay,2015,LeftFoot,420,Manchester City,Stoke,4,0,2016-04-23 15:45:00,Sergio Agüero,Pass,620
+56283,50,SavedShot,0.745999984741211,0.3320000076293945,0.019790399819612503,Kelechi Iheanacho,h,620,OpenPlay,2015,LeftFoot,420,Manchester City,Stoke,4,0,2016-04-23 15:45:00,Sergio Agüero,Pass,620
+56287,60,MissedShots,0.9419999694824219,0.5570000076293945,0.14464999735355377,Kelechi Iheanacho,h,620,OpenPlay,2015,LeftFoot,420,Manchester City,Stoke,4,0,2016-04-23 15:45:00,Jesús Navas,Cross,620
+56288,63,Goal,0.915,0.4779999923706055,0.5608270168304443,Kelechi Iheanacho,h,620,OpenPlay,2015,LeftFoot,420,Manchester City,Stoke,4,0,2016-04-23 15:45:00,Pablo Zabaleta,Pass,620
+56291,73,Goal,0.905,0.61,0.4484120011329651,Kelechi Iheanacho,h,620,OpenPlay,2015,LeftFoot,420,Manchester City,Stoke,4,0,2016-04-23 15:45:00,Wilfried Bony,TakeOn,620
+57330,43,Goal,0.9259999847412109,0.485,0.47867101430892944,Kelechi Iheanacho,a,620,OpenPlay,2015,Head,435,Southampton,Manchester City,4,2,2016-05-01 19:30:00,,None,620
+57331,49,SavedShot,0.8530000305175781,0.46599998474121096,0.0785377025604248,Kelechi Iheanacho,a,620,OpenPlay,2015,LeftFoot,435,Southampton,Manchester City,4,2,2016-05-01 19:30:00,Wilfried Bony,Pass,620
+57337,77,Goal,0.825999984741211,0.3320000076293945,0.035016998648643494,Kelechi Iheanacho,a,620,OpenPlay,2015,LeftFoot,435,Southampton,Manchester City,4,2,2016-05-01 19:30:00,Jesús Navas,Pass,620
+56547,19,BlockedShot,0.7440000152587891,0.4640000152587891,0.019725799560546875,Kelechi Iheanacho,h,620,OpenPlay,2015,LeftFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Kevin De Bruyne,BallRecovery,620
+56554,53,MissedShots,0.8090000152587891,0.49900001525878906,0.09982550144195557,Kelechi Iheanacho,h,620,OpenPlay,2015,LeftFoot,446,Manchester City,Arsenal,2,2,2016-05-08 19:00:00,Jesús Navas,TakeOn,620
+52169,2,SavedShot,0.9630000305175781,0.48900001525878906,0.14029400050640106,Kelechi Iheanacho,a,620,OpenPlay,2015,LeftFoot,457,Swansea,Manchester City,1,1,2016-05-15 18:00:00,Kevin De Bruyne,Cross,620
+52171,4,Goal,0.9730000305175781,0.5459999847412109,0.7044640183448792,Kelechi Iheanacho,a,620,OpenPlay,2015,RightFoot,457,Swansea,Manchester City,1,1,2016-05-15 18:00:00,,Rebound,620
+52173,21,MissedShots,0.745,0.5729999923706055,0.025903699919581413,Kelechi Iheanacho,a,620,OpenPlay,2015,LeftFoot,457,Swansea,Manchester City,1,1,2016-05-15 18:00:00,Kevin De Bruyne,Pass,620
+52178,28,MissedShots,0.8159999847412109,0.48,0.07093840092420578,Kelechi Iheanacho,a,620,OpenPlay,2015,LeftFoot,457,Swansea,Manchester City,1,1,2016-05-15 18:00:00,,BallRecovery,620
+52179,30,BlockedShot,0.8540000152587891,0.46099998474121096,0.10470700263977051,Kelechi Iheanacho,a,620,OpenPlay,2015,LeftFoot,457,Swansea,Manchester City,1,1,2016-05-15 18:00:00,Bacary Sagna,Pass,620
+52190,71,MissedShots,0.8209999847412109,0.545,0.0674315020442009,Kelechi Iheanacho,a,620,OpenPlay,2015,LeftFoot,457,Swansea,Manchester City,1,1,2016-05-15 18:00:00,Jesús Navas,Pass,620
+112288,85,BlockedShot,0.7819999694824219,0.28,0.021597599610686302,Kelechi Iheanacho,h,620,OpenPlay,2016,LeftFoot,467,Manchester City,Sunderland,2,1,2016-08-13 20:30:00,Jesús Navas,Pass,620
+112290,89,BlockedShot,0.905,0.4759999847412109,0.4809269905090332,Kelechi Iheanacho,h,620,OpenPlay,2016,LeftFoot,467,Manchester City,Sunderland,2,1,2016-08-13 20:30:00,Sergio Agüero,Pass,620
+113257,35,Goal,0.95,0.5029999923706054,0.6606619954109192,Kelechi Iheanacho,a,620,OpenPlay,2016,LeftFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,,Rebound,620
+113561,5,BlockedShot,0.7930000305175782,0.3940000152587891,0.036097701638936996,Kelechi Iheanacho,h,620,OpenPlay,2016,LeftFoot,504,Manchester City,Bournemouth,4,0,2016-09-17 18:00:00,Fernandinho,BallRecovery,620
+113564,24,Goal,0.9319999694824219,0.5459999847412109,0.6604800224304199,Kelechi Iheanacho,h,620,OpenPlay,2016,LeftFoot,504,Manchester City,Bournemouth,4,0,2016-09-17 18:00:00,Raheem Sterling,Pass,620
+113569,40,BlockedShot,0.92,0.6859999847412109,0.09536860138177872,Kelechi Iheanacho,h,620,OpenPlay,2016,LeftFoot,504,Manchester City,Bournemouth,4,0,2016-09-17 18:00:00,Nolito,Pass,620
+113577,56,MissedShots,0.91,0.5779999923706055,0.0459555983543396,Kelechi Iheanacho,h,620,FromCorner,2016,Head,504,Manchester City,Bournemouth,4,0,2016-09-17 18:00:00,Kevin De Bruyne,Cross,620
+114541,74,SavedShot,0.9119999694824219,0.635,0.2993040084838867,Kelechi Iheanacho,a,620,OpenPlay,2016,LeftFoot,529,Tottenham,Manchester City,2,0,2016-10-02 17:15:00,David Silva,Throughball,620
+114545,80,BlockedShot,0.865,0.7030000305175781,0.017204200848937035,Kelechi Iheanacho,a,620,OpenPlay,2016,LeftFoot,529,Tottenham,Manchester City,2,0,2016-10-02 17:15:00,Aleksandar Kolarov,Cross,620
+114001,21,BlockedShot,0.9030000305175782,0.46,0.09039050340652466,Kelechi Iheanacho,h,620,SetPiece,2016,Head,534,Manchester City,Everton,1,1,2016-10-15 18:00:00,David Silva,Cross,620
+114009,51,SavedShot,0.9580000305175781,0.5579999923706055,0.1272290050983429,Kelechi Iheanacho,h,620,OpenPlay,2016,LeftFoot,534,Manchester City,Everton,1,1,2016-10-15 18:00:00,Leroy Sané,Cross,620
+114509,54,Goal,0.93,0.5420000076293945,0.49323299527168274,Kelechi Iheanacho,h,620,OpenPlay,2016,LeftFoot,549,Manchester City,Southampton,1,1,2016-10-23 16:30:00,Leroy Sané,Pass,620
+114518,87,BlockedShot,0.795,0.40400001525878904,0.03803740069270134,Kelechi Iheanacho,h,620,OpenPlay,2016,LeftFoot,549,Manchester City,Southampton,1,1,2016-10-23 16:30:00,Raheem Sterling,Tackle,620
+114522,92,BlockedShot,0.8880000305175781,0.5570000076293945,0.09215790033340454,Kelechi Iheanacho,h,620,FromCorner,2016,LeftFoot,549,Manchester City,Southampton,1,1,2016-10-23 16:30:00,,Rebound,620
+114521,92,BlockedShot,0.9,0.5279999923706055,0.06936190277338028,Kelechi Iheanacho,h,620,FromCorner,2016,LeftFoot,549,Manchester City,Southampton,1,1,2016-10-23 16:30:00,David Silva,Cross,620
+115667,84,MissedShots,0.96,0.6179999923706054,0.013270599767565727,Kelechi Iheanacho,h,620,FromCorner,2016,Head,3105,Manchester City,Chelsea,1,3,2016-12-03 16:30:00,David Silva,Aerial,620
+115668,87,MissedShots,0.7809999847412109,0.5640000152587891,0.030362000688910484,Kelechi Iheanacho,h,620,OpenPlay,2016,RightFoot,3105,Manchester City,Chelsea,1,3,2016-12-03 16:30:00,,None,620
+116330,69,SavedShot,0.9719999694824218,0.5709999847412109,0.11563900113105774,Kelechi Iheanacho,a,620,OpenPlay,2016,LeftFoot,3152,Hull,Manchester City,0,3,2016-12-26 21:15:00,Kevin De Bruyne,Cross,620
+116332,77,Goal,0.955999984741211,0.5259999847412109,0.6815459728240967,Kelechi Iheanacho,a,620,OpenPlay,2016,LeftFoot,3152,Hull,Manchester City,0,3,2016-12-26 21:15:00,David Silva,Pass,620
+116434,7,BlockedShot,0.8780000305175781,0.3609999847412109,0.07493270188570023,Kelechi Iheanacho,h,620,OpenPlay,2016,LeftFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Yaya Touré,Pass,620
+116439,29,BlockedShot,0.9059999847412109,0.46599998474121096,0.10071899741888046,Kelechi Iheanacho,h,620,OpenPlay,2016,LeftFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,,None,620
+119446,90,MissedShots,0.94,0.4759999847412109,0.49542099237442017,Kelechi Iheanacho,h,620,OpenPlay,2016,LeftFoot,3418,Manchester City,Stoke,0,0,2017-03-08 20:00:00,Kevin De Bruyne,Cross,620
+158647,15,BlockedShot,0.8419999694824218,0.5279999923706055,0.08924250304698944,Kelechi Iheanacho,a,620,OpenPlay,2017,LeftFoot,7161,Huddersfield,Leicester,1,1,2017-09-16 15:00:00,Marc Albrighton,TakeOn,620
+158652,42,BlockedShot,0.919000015258789,0.435,0.09819509834051132,Kelechi Iheanacho,a,620,FromCorner,2017,LeftFoot,7161,Huddersfield,Leicester,1,1,2017-09-16 15:00:00,Wes Morgan,HeadPass,620
+161198,67,BlockedShot,0.799000015258789,0.6819999694824219,0.033899299800395966,Kelechi Iheanacho,a,620,OpenPlay,2017,LeftFoot,7224,Stoke,Leicester,2,2,2017-11-04 12:30:00,Riyad Mahrez,Pass,620
+194162,76,ShotOnPost,0.9730000305175781,0.5790000152587891,0.4956910014152527,Kelechi Iheanacho,a,620,FromCorner,2017,LeftFoot,7365,Everton,Leicester,2,1,2018-01-31 19:45:00,,None,620
+194161,76,ShotOnPost,0.9730000305175781,0.49900001525878906,0.7565699815750122,Kelechi Iheanacho,a,620,FromCorner,2017,LeftFoot,7365,Everton,Leicester,2,1,2018-01-31 19:45:00,,None,620
+193714,28,BlockedShot,0.9269999694824219,0.5029999923706054,0.5589540004730225,Kelechi Iheanacho,h,620,OpenPlay,2017,LeftFoot,7374,Leicester,Swansea,1,1,2018-02-03 15:00:00,,Rebound,620
+193717,55,SavedShot,0.755,0.5540000152587891,0.020438099279999733,Kelechi Iheanacho,h,620,OpenPlay,2017,LeftFoot,7374,Leicester,Swansea,1,1,2018-02-03 15:00:00,,None,620
+197208,89,SavedShot,0.7880000305175782,0.26399999618530273,0.02026580087840557,Kelechi Iheanacho,h,620,OpenPlay,2017,LeftFoot,7396,Leicester,Stoke,1,1,2018-02-24 12:30:00,Harry Maguire,Pass,620
+198833,72,MissedShots,0.98,0.48,0.9265329837799072,Kelechi Iheanacho,h,620,FromCorner,2017,RightFoot,7402,Leicester,Bournemouth,1,1,2018-03-03 15:00:00,Harry Maguire,Rebound,620
+199985,75,Goal,0.919000015258789,0.509000015258789,0.3880229890346527,Kelechi Iheanacho,a,620,OpenPlay,2017,Head,7417,West Bromwich Albion,Leicester,1,4,2018-03-10 15:00:00,Ben Chilwell,Cross,620
+208442,76,SavedShot,0.8519999694824218,0.6140000152587891,0.10200800001621246,Kelechi Iheanacho,a,620,OpenPlay,2017,LeftFoot,7449,Burnley,Leicester,2,1,2018-04-14 14:00:00,Adrien Silva,Throughball,620
+208443,82,BlockedShot,0.700999984741211,0.42700000762939455,0.0120278000831604,Kelechi Iheanacho,a,620,OpenPlay,2017,LeftFoot,7449,Burnley,Leicester,2,1,2018-04-14 14:00:00,,Dispossessed,620
+210064,14,MissedShots,0.845,0.505,0.06433860212564468,Kelechi Iheanacho,h,620,OpenPlay,2017,RightFoot,7464,Leicester,Southampton,0,0,2018-04-19 18:45:00,,Rebound,620
+210063,14,BlockedShot,0.8540000152587891,0.40400001525878904,0.07921779900789261,Kelechi Iheanacho,h,620,OpenPlay,2017,RightFoot,7464,Leicester,Southampton,0,0,2018-04-19 18:45:00,Riyad Mahrez,Pass,620
+211669,5,MissedShots,0.9440000152587891,0.4620000076293945,0.4738680124282837,Kelechi Iheanacho,a,620,OpenPlay,2017,Head,7470,Crystal Palace,Leicester,5,0,2018-04-28 14:00:00,Ben Chilwell,Cross,620
+211671,8,BlockedShot,0.764000015258789,0.634000015258789,0.0197720006108284,Kelechi Iheanacho,a,620,OpenPlay,2017,LeftFoot,7470,Crystal Palace,Leicester,5,0,2018-04-28 14:00:00,Demarai Gray,Pass,620
+211674,23,BlockedShot,0.8919999694824219,0.4909999847412109,0.08483079820871353,Kelechi Iheanacho,a,620,SetPiece,2017,RightFoot,7470,Crystal Palace,Leicester,5,0,2018-04-28 14:00:00,Riyad Mahrez,Cross,620
+213309,83,MissedShots,0.8690000152587891,0.5540000152587891,0.034385498613119125,Kelechi Iheanacho,h,620,OpenPlay,2017,Head,7479,Leicester,West Ham,0,2,2018-05-05 15:00:00,Demarai Gray,Aerial,620
+213311,87,BlockedShot,0.86,0.4329999923706055,0.05875580012798309,Kelechi Iheanacho,h,620,OpenPlay,2017,LeftFoot,7479,Leicester,West Ham,0,2,2018-05-05 15:00:00,,None,620
+214305,12,BlockedShot,0.8130000305175781,0.4809999847412109,0.03098520077764988,Kelechi Iheanacho,h,620,FromCorner,2017,LeftFoot,7422,Leicester,Arsenal,3,1,2018-05-09 19:45:00,Harry Maguire,BallRecovery,620
+214306,13,Goal,0.865999984741211,0.3970000076293945,0.05904030054807663,Kelechi Iheanacho,h,620,FromCorner,2017,LeftFoot,7422,Leicester,Arsenal,3,1,2018-05-09 19:45:00,Fousseni Diabate,LayOff,620
+214309,19,SavedShot,0.7809999847412109,0.44,0.0405425988137722,Kelechi Iheanacho,h,620,OpenPlay,2017,LeftFoot,7422,Leicester,Arsenal,3,1,2018-05-09 19:45:00,Danny Simpson,Pass,620
+214319,40,SavedShot,0.865999984741211,0.7330000305175781,0.040797099471092224,Kelechi Iheanacho,h,620,OpenPlay,2017,LeftFoot,7422,Leicester,Arsenal,3,1,2018-05-09 19:45:00,Jamie Vardy,Pass,620
+214320,48,MissedShots,0.575999984741211,0.57,0.012588299810886383,Kelechi Iheanacho,h,620,OpenPlay,2017,LeftFoot,7422,Leicester,Arsenal,3,1,2018-05-09 19:45:00,Riyad Mahrez,TakeOn,620
+214326,53,MissedShots,0.845,0.6309999847412109,0.07565850019454956,Kelechi Iheanacho,h,620,OpenPlay,2017,LeftFoot,7422,Leicester,Arsenal,3,1,2018-05-09 19:45:00,Fousseni Diabate,LayOff,620
+215602,12,MissedShots,0.875,0.645,0.057669300585985184,Kelechi Iheanacho,a,620,OpenPlay,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,,None,620
+215615,46,Goal,0.754000015258789,0.5059999847412109,0.03272030130028725,Kelechi Iheanacho,a,620,OpenPlay,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,,None,620
+215621,65,SavedShot,0.8690000152587891,0.43400001525878906,0.08421450108289719,Kelechi Iheanacho,a,620,OpenPlay,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Riyad Mahrez,Pass,620
+215627,77,SavedShot,0.9080000305175782,0.40599998474121096,0.07461149990558624,Kelechi Iheanacho,a,620,OpenPlay,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,,None,620
+232820,49,BlockedShot,0.785,0.3220000076293945,0.024298299103975296,Kelechi Iheanacho,a,620,OpenPlay,2018,LeftFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,Daniel Amartey,Pass,620
+232827,88,BlockedShot,0.8080000305175781,0.47900001525878905,0.057485200464725494,Kelechi Iheanacho,a,620,OpenPlay,2018,LeftFoot,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,Wilfred Ndidi,Pass,620
+234150,18,Goal,0.8380000305175781,0.605999984741211,0.5477120280265808,Kelechi Iheanacho,h,620,OpenPlay,2018,LeftFoot,9250,Leicester,Huddersfield,3,1,2018-09-22 14:00:00,Jamie Vardy,Throughball,620
+234160,57,MissedShots,0.8730000305175781,0.575999984741211,0.07168199867010117,Kelechi Iheanacho,h,620,OpenPlay,2018,LeftFoot,9250,Leicester,Huddersfield,3,1,2018-09-22 14:00:00,Ben Chilwell,Cross,620
+234411,4,SavedShot,0.720999984741211,0.5120000076293946,0.028069300577044487,Kelechi Iheanacho,a,620,OpenPlay,2018,LeftFoot,9259,Newcastle United,Leicester,0,2,2018-09-29 14:00:00,Wes Morgan,BallRecovery,620
+249450,1,BlockedShot,0.8830000305175781,0.3509999847412109,0.09185429662466049,Kelechi Iheanacho,a,620,OpenPlay,2018,LeftFoot,9286,Arsenal,Leicester,3,1,2018-10-22 19:00:00,Wilfred Ndidi,Pass,620
+249451,5,SavedShot,0.8130000305175781,0.45,0.05661129951477051,Kelechi Iheanacho,a,620,OpenPlay,2018,LeftFoot,9286,Arsenal,Leicester,3,1,2018-10-22 19:00:00,James Maddison,Pass,620
+249618,41,MissedShots,0.9530000305175781,0.4929999923706055,0.47463399171829224,Kelechi Iheanacho,h,620,FromCorner,2018,Head,9293,Leicester,West Ham,1,1,2018-10-27 16:30:00,Rachid Ghezzal,Cross,620
+249622,56,BlockedShot,0.8919999694824219,0.5629999923706055,0.0759861022233963,Kelechi Iheanacho,h,620,OpenPlay,2018,LeftFoot,9293,Leicester,West Ham,1,1,2018-10-27 16:30:00,,None,620
+250106,87,BlockedShot,0.9230000305175782,0.5570000076293945,0.11262299865484238,Kelechi Iheanacho,h,620,OpenPlay,2018,LeftFoot,9310,Leicester,Burnley,0,0,2018-11-10 15:00:00,Jamie Vardy,Cross,620
+250377,82,SavedShot,0.8959999847412109,0.3320000076293945,0.07385219633579254,Kelechi Iheanacho,a,620,OpenPlay,2018,LeftFoot,9322,Brighton,Leicester,1,1,2018-11-24 15:00:00,Ricardo Pereira,Pass,620
+250381,87,MissedShots,0.7719999694824219,0.5570000076293945,0.025730600580573082,Kelechi Iheanacho,a,620,OpenPlay,2018,LeftFoot,9322,Brighton,Leicester,1,1,2018-11-24 15:00:00,Jamie Vardy,Pass,620
+250862,2,SavedShot,0.87,0.5929999923706055,0.5316950082778931,Kelechi Iheanacho,a,620,OpenPlay,2018,LeftFoot,9342,Fulham,Leicester,1,1,2018-12-05 19:45:00,James Maddison,Throughball,620
+251642,87,MissedShots,0.69,0.44299999237060544,0.014685199595987797,Kelechi Iheanacho,a,620,OpenPlay,2018,LeftFoot,9373,Chelsea,Leicester,0,1,2018-12-22 15:00:00,Hamza Choudhury,BallRecovery,620
+275596,82,MissedShots,0.87,0.32599998474121095,0.046045299619436264,Kelechi Iheanacho,a,620,OpenPlay,2018,LeftFoot,9452,Tottenham,Leicester,3,1,2019-02-10 13:30:00,Jonny Evans,Chipped,620
+293241,84,SavedShot,0.874000015258789,0.539000015258789,0.038040000945329666,Kelechi Iheanacho,h,620,OpenPlay,2018,Head,9532,Leicester,Newcastle United,0,1,2019-04-12 20:00:00,Marc Albrighton,Cross,620
+293242,87,MissedShots,0.9059999847412109,0.42400001525878905,0.05169440060853958,Kelechi Iheanacho,h,620,FromCorner,2018,Head,9532,Leicester,Newcastle United,0,1,2019-04-12 20:00:00,Marc Albrighton,Cross,620
+300388,86,MissedShots,0.825999984741211,0.485,0.25715500116348267,Kelechi Iheanacho,a,620,OpenPlay,2018,LeftFoot,9560,Manchester City,Leicester,1,0,2019-05-06 19:00:00,Hamza Choudhury,Pass,620
+334480,64,SavedShot,0.8680000305175781,0.45799999237060546,0.08938159793615341,Kelechi Iheanacho,h,620,OpenPlay,2019,LeftFoot,11775,Leicester,Everton,2,1,2019-12-01 16:30:00,Wilfred Ndidi,Pass,620
+334481,67,MissedShots,0.8959999847412109,0.29700000762939455,0.07878559827804565,Kelechi Iheanacho,h,620,OpenPlay,2019,RightFoot,11775,Leicester,Everton,2,1,2019-12-01 16:30:00,Wilfred Ndidi,Pass,620
+334489,93,Goal,0.855999984741211,0.47200000762939454,0.5507199764251709,Kelechi Iheanacho,h,620,OpenPlay,2019,LeftFoot,11775,Leicester,Everton,2,1,2019-12-01 16:30:00,Ricardo Pereira,Throughball,620
+336329,14,BlockedShot,0.8619999694824219,0.28299999237060547,0.035927701741456985,Kelechi Iheanacho,a,620,OpenPlay,2019,LeftFoot,11793,Aston Villa,Leicester,1,4,2019-12-08 14:00:00,Youri Tielemans,Chipped,620
+336337,40,Goal,0.950999984741211,0.565,0.1381250023841858,Kelechi Iheanacho,a,620,OpenPlay,2019,RightFoot,11793,Aston Villa,Leicester,1,4,2019-12-08 14:00:00,,None,620
+336339,45,MissedShots,0.8090000152587891,0.47299999237060547,0.06358929723501205,Kelechi Iheanacho,a,620,OpenPlay,2019,LeftFoot,11793,Aston Villa,Leicester,1,4,2019-12-08 14:00:00,Youri Tielemans,Chipped,620
+336342,53,BlockedShot,0.93,0.5170000076293946,0.06674689799547195,Kelechi Iheanacho,a,620,SetPiece,2019,Head,11793,Aston Villa,Leicester,1,4,2019-12-08 14:00:00,Ben Chilwell,Aerial,620
+337037,5,SavedShot,0.7959999847412109,0.4159999847412109,0.05019799992442131,Kelechi Iheanacho,h,620,OpenPlay,2019,LeftFoot,11807,Leicester,Norwich,1,1,2019-12-14 15:00:00,Dennis Praet,TakeOn,620
+339857,3,BlockedShot,0.905,0.4159999847412109,0.06001560017466545,Kelechi Iheanacho,a,620,OpenPlay,2019,Head,11842,West Ham,Leicester,1,2,2019-12-28 17:30:00,Nampalys Mendy,Cross,620
+339865,39,Goal,0.9730000305175781,0.5670000076293945,0.519527018070221,Kelechi Iheanacho,a,620,OpenPlay,2019,Head,11842,West Ham,Leicester,1,2,2019-12-28 17:30:00,Ayoze Pérez,HeadPass,620
+351513,42,SavedShot,0.94,0.524000015258789,0.6070640087127686,Kelechi Iheanacho,a,620,OpenPlay,2019,LeftFoot,11849,Newcastle United,Leicester,0,3,2020-01-01 15:00:00,Ayoze Pérez,Pass,620
+351518,59,SavedShot,0.874000015258789,0.4520000076293945,0.35471799969673157,Kelechi Iheanacho,a,620,OpenPlay,2019,LeftFoot,11849,Newcastle United,Leicester,0,3,2020-01-01 15:00:00,Ayoze Pérez,Pass,620
+351721,85,SavedShot,0.9009999847412109,0.3890000152587891,0.08600140362977982,Kelechi Iheanacho,h,620,OpenPlay,2019,LeftFoot,11861,Leicester,Southampton,1,2,2020-01-11 15:00:00,Youri Tielemans,Pass,620
+352070,85,BlockedShot,0.789000015258789,0.4370000076293945,0.03995180130004883,Kelechi Iheanacho,a,620,OpenPlay,2019,LeftFoot,11866,Burnley,Leicester,2,1,2020-01-19 14:00:00,James Maddison,Pass,620
+352260,62,BlockedShot,0.9069999694824219,0.435,0.12553100287914276,Kelechi Iheanacho,h,620,OpenPlay,2019,LeftFoot,11876,Leicester,West Ham,4,1,2020-01-22 19:30:00,,BallTouch,620
+353037,38,SavedShot,0.9130000305175782,0.45799999237060546,0.05183110013604164,Kelechi Iheanacho,h,620,OpenPlay,2019,Head,11904,Leicester,Manchester City,0,1,2020-02-22 17:30:00,James Maddison,Aerial,620
+353173,23,MissedShots,0.7380000305175781,0.39799999237060546,0.018134400248527527,Kelechi Iheanacho,a,620,OpenPlay,2019,LeftFoot,11919,Norwich,Leicester,1,0,2020-02-28 20:00:00,Harvey Barnes,Pass,620
+353180,37,MissedShots,0.9290000152587891,0.5029999923706054,0.1459449976682663,Kelechi Iheanacho,a,620,OpenPlay,2019,LeftFoot,11919,Norwich,Leicester,1,0,2020-02-28 20:00:00,Ayoze Pérez,Pass,620
+353595,31,MissedShots,0.9219999694824219,0.505,0.2951819896697998,Kelechi Iheanacho,h,620,FromCorner,2019,Head,11927,Leicester,Aston Villa,4,0,2020-03-09 20:00:00,Ricardo Pereira,Cross,620
+353598,46,SavedShot,0.87,0.6419999694824219,0.12488999962806702,Kelechi Iheanacho,h,620,OpenPlay,2019,LeftFoot,11927,Leicester,Aston Villa,4,0,2020-03-09 20:00:00,James Justin,BallRecovery,620
+367930,50,Goal,0.955,0.55,0.5018020272254944,Kelechi Iheanacho,a,620,OpenPlay,2019,Head,11958,Everton,Leicester,2,1,2020-07-01 17:00:00,,SubstitutionOff,620
+367935,64,MissedShots,0.9269999694824219,0.57,0.40320301055908203,Kelechi Iheanacho,a,620,OpenPlay,2019,RightFoot,11958,Everton,Leicester,2,1,2020-07-01 17:00:00,Jamie Vardy,TakeOn,620
+367936,71,SavedShot,0.8059999847412109,0.4520000076293945,0.04662169888615608,Kelechi Iheanacho,a,620,OpenPlay,2019,LeftFoot,11958,Everton,Leicester,2,1,2020-07-01 17:00:00,James Justin,TakeOn,620
+368578,7,MissedShots,0.8919999694824219,0.5840000152587891,0.14647400379180908,Kelechi Iheanacho,h,620,OpenPlay,2019,Head,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Marc Albrighton,Cross,620
+368583,16,SavedShot,0.9730000305175781,0.4879999923706055,0.1523440033197403,Kelechi Iheanacho,h,620,FromCorner,2019,LeftFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,,None,620
+368585,18,BlockedShot,0.7719999694824219,0.44,0.030696900561451912,Kelechi Iheanacho,h,620,OpenPlay,2019,RightFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Caglar Söyüncü,Dispossessed,620
+368589,48,Goal,0.950999984741211,0.5070000076293946,0.5959429740905762,Kelechi Iheanacho,h,620,OpenPlay,2019,RightFoot,11965,Leicester,Crystal Palace,3,0,2020-07-04 14:00:00,Youri Tielemans,Cross,620
+369527,11,SavedShot,0.8540000152587891,0.5209999847412109,0.05403279885649681,Kelechi Iheanacho,a,620,FromCorner,2019,LeftFoot,11973,Arsenal,Leicester,1,1,2020-07-07 19:15:00,Marc Albrighton,Pass,620
+369534,35,MissedShots,0.8009999847412109,0.585,0.04273099824786186,Kelechi Iheanacho,a,620,OpenPlay,2019,LeftFoot,11973,Arsenal,Leicester,1,1,2020-07-07 19:15:00,Youri Tielemans,Pass,620
+369541,54,SavedShot,0.8619999694824219,0.5740000152587891,0.08955570310354233,Kelechi Iheanacho,a,620,OpenPlay,2019,LeftFoot,11973,Arsenal,Leicester,1,1,2020-07-07 19:15:00,Jamie Vardy,Cross,620
+371102,9,MissedShots,0.8590000152587891,0.41900001525878905,0.09286029636859894,Kelechi Iheanacho,a,620,OpenPlay,2019,LeftFoot,11984,Bournemouth,Leicester,4,1,2020-07-12 18:00:00,Ayoze Pérez,Pass,620
+371106,27,SavedShot,0.8690000152587891,0.39099998474121095,0.08627569675445557,Kelechi Iheanacho,a,620,OpenPlay,2019,LeftFoot,11984,Bournemouth,Leicester,4,1,2020-07-12 18:00:00,Jamie Vardy,Chipped,620
+371107,29,SavedShot,0.76,0.4929999923706055,0.03219819813966751,Kelechi Iheanacho,a,620,OpenPlay,2019,LeftFoot,11984,Bournemouth,Leicester,4,1,2020-07-12 18:00:00,James Justin,Pass,620
+372481,87,SavedShot,0.75,0.40099998474121096,0.028752800077199936,Kelechi Iheanacho,a,620,OpenPlay,2019,LeftFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,James Justin,TakeOn,620
+373834,24,SavedShot,0.81,0.539000015258789,0.08098690211772919,Kelechi Iheanacho,h,620,OpenPlay,2019,RightFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,James Justin,Pass,620
+373841,52,BlockedShot,0.759000015258789,0.27100000381469724,0.014529000036418438,Kelechi Iheanacho,h,620,OpenPlay,2019,LeftFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Youri Tielemans,Pass,620
+380943,70,BlockedShot,0.9719999694824218,0.3529999923706055,0.08570709824562073,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14470,Leicester,West Ham,0,3,2020-10-04 11:00:00,Timothy Castagne,Pass,620
+382793,23,SavedShot,0.7859999847412109,0.3160000038146973,0.024603400379419327,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14479,Leicester,Aston Villa,0,1,2020-10-18 18:15:00,Ayoze Pérez,Pass,620
+389796,91,BlockedShot,0.8640000152587891,0.5990000152587891,0.05779010057449341,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14532,Leicester,Fulham,1,2,2020-11-30 17:30:00,Harvey Barnes,BallTouch,620
+389798,93,BlockedShot,0.9690000152587891,0.415,0.12476199865341187,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14532,Leicester,Fulham,1,2,2020-11-30 17:30:00,Cengiz Ünder,Pass,620
+390809,75,BlockedShot,0.915,0.33599998474121096,0.07557100057601929,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14541,Sheffield United,Leicester,1,2,2020-12-06 14:15:00,James Maddison,Pass,620
+392960,80,BlockedShot,0.775,0.29200000762939454,0.012655000202357769,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14559,Leicester,Everton,0,2,2020-12-16 18:00:00,James Justin,Pass,620
+395823,14,BlockedShot,0.9,0.3220000076293945,0.06783989816904068,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14594,Crystal Palace,Leicester,1,1,2020-12-28 15:00:00,James Justin,Pass,620
+395824,18,SavedShot,0.885,0.5,0.7611690163612366,Kelechi Iheanacho,a,620,Penalty,2020,LeftFoot,14594,Crystal Palace,Leicester,1,1,2020-12-28 15:00:00,,Standard,620
+395829,29,MissedShots,0.9719999694824218,0.4229999923706055,0.3110859990119934,Kelechi Iheanacho,a,620,OpenPlay,2020,OtherBodyPart,14594,Crystal Palace,Leicester,1,1,2020-12-28 15:00:00,Dennis Praet,Cross,620
+402627,8,BlockedShot,0.8819999694824219,0.6990000152587891,0.044448599219322205,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14647,Fulham,Leicester,0,2,2021-02-03 18:00:00,,None,620
+402631,16,Goal,0.919000015258789,0.5,0.31519201397895813,Kelechi Iheanacho,a,620,OpenPlay,2020,Head,14647,Fulham,Leicester,0,2,2021-02-03 18:00:00,James Maddison,Cross,620
+403771,19,MissedShots,0.8859999847412109,0.7440000152587891,0.031827401369810104,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14664,Wolverhampton Wanderers,Leicester,0,0,2021-02-07 14:00:00,Ayoze Pérez,Pass,620
+407084,35,SavedShot,0.7080000305175781,0.41900001525878905,0.021816300228238106,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14690,Leicester,Arsenal,1,3,2021-02-28 12:00:00,Wilfred Ndidi,Pass,620
+407089,54,MissedShots,0.924000015258789,0.33,0.023124199360609055,Kelechi Iheanacho,h,620,FromCorner,2020,LeftFoot,14690,Leicester,Arsenal,1,3,2021-02-28 12:00:00,Caglar Söyüncü,Aerial,620
+407096,95,MissedShots,0.9290000152587891,0.40700000762939453,0.24202799797058105,Kelechi Iheanacho,h,620,FromCorner,2020,LeftFoot,14690,Leicester,Arsenal,1,3,2021-02-28 12:00:00,,Aerial,620
+407095,95,BlockedShot,0.899000015258789,0.3160000038146973,0.03748700022697449,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14690,Leicester,Arsenal,1,3,2021-02-28 12:00:00,Marc Albrighton,Chipped,620
+407923,16,MissedShots,0.7980000305175782,0.37099998474121093,0.031082699075341225,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14716,Burnley,Leicester,1,1,2021-03-03 18:00:00,Wilfred Ndidi,Chipped,620
+407926,33,Goal,0.855999984741211,0.6,0.2685590088367462,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14716,Burnley,Leicester,1,1,2021-03-03 18:00:00,Wilfred Ndidi,Chipped,620
+407931,46,MissedShots,0.759000015258789,0.3629999923706055,0.02269270084798336,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14716,Burnley,Leicester,1,1,2021-03-03 18:00:00,Nampalys Mendy,Pass,620
+408770,52,MissedShots,0.8859999847412109,0.6730000305175782,0.046727098524570465,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14696,Brighton,Leicester,1,2,2021-03-06 20:00:00,Timothy Castagne,Pass,620
+408771,61,Goal,0.8819999694824219,0.455,0.3725759983062744,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14696,Brighton,Leicester,1,2,2021-03-06 20:00:00,Youri Tielemans,Throughball,620
+410369,38,Goal,0.955999984741211,0.47,0.6305609941482544,Kelechi Iheanacho,h,620,OpenPlay,2020,RightFoot,14710,Leicester,Sheffield United,5,0,2021-03-14 14:00:00,Jamie Vardy,Pass,620
+410370,43,BlockedShot,0.745999984741211,0.355,0.022558100521564484,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14710,Leicester,Sheffield United,5,0,2021-03-14 14:00:00,Wilfred Ndidi,Pass,620
+410376,68,Goal,0.8859999847412109,0.45299999237060545,0.370400995016098,Kelechi Iheanacho,h,620,OpenPlay,2020,RightFoot,14710,Leicester,Sheffield United,5,0,2021-03-14 14:00:00,Jamie Vardy,Pass,620
+410379,77,Goal,0.745,0.3629999923706055,0.03037410043179989,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14710,Leicester,Sheffield United,5,0,2021-03-14 14:00:00,Wilfred Ndidi,Pass,620
+410382,81,BlockedShot,0.9080000305175782,0.5279999923706055,0.5455790162086487,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14710,Leicester,Sheffield United,5,0,2021-03-14 14:00:00,Jamie Vardy,Pass,620
+410384,83,SavedShot,0.9030000305175782,0.44299999237060544,0.4568859934806824,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14710,Leicester,Sheffield United,5,0,2021-03-14 14:00:00,Jamie Vardy,Pass,620
+414478,3,SavedShot,0.715,0.34,0.016389599069952965,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14744,West Ham,Leicester,3,2,2021-04-11 13:05:00,Ricardo Pereira,Pass,620
+414479,6,MissedShots,0.875,0.3270000076293945,0.05111689865589142,Kelechi Iheanacho,a,620,OpenPlay,2020,RightFoot,14744,West Ham,Leicester,3,2,2021-04-11 13:05:00,,None,620
+414482,36,BlockedShot,0.8619999694824219,0.3659999847412109,0.05697359889745712,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14744,West Ham,Leicester,3,2,2021-04-11 13:05:00,Youri Tielemans,TakeOn,620
+414488,69,Goal,0.81,0.4640000152587891,0.04706960171461105,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14744,West Ham,Leicester,3,2,2021-04-11 13:05:00,Ricardo Pereira,BallRecovery,620
+414489,74,BlockedShot,0.8619999694824219,0.365,0.06473830342292786,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14744,West Ham,Leicester,3,2,2021-04-11 13:05:00,Marc Albrighton,Pass,620
+414492,90,Goal,0.9290000152587891,0.5259999847412109,0.46842899918556213,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14744,West Ham,Leicester,3,2,2021-04-11 13:05:00,,None,620
+416851,2,SavedShot,0.9019999694824219,0.3509999847412109,0.06845659762620926,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14750,Leicester,West Bromwich Albion,3,0,2021-04-22 19:00:00,Luke Thomas,TakeOn,620
+416858,32,BlockedShot,0.749000015258789,0.4540000152587891,0.020749300718307495,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14750,Leicester,West Bromwich Albion,3,0,2021-04-22 19:00:00,Timothy Castagne,Pass,620
+416860,35,Goal,0.92,0.5359999847412109,0.573199987411499,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14750,Leicester,West Bromwich Albion,3,0,2021-04-22 19:00:00,Jamie Vardy,Pass,620
+416862,41,MissedShots,0.9119999694824219,0.42700000762939455,0.43764498829841614,Kelechi Iheanacho,h,620,OpenPlay,2020,RightFoot,14750,Leicester,West Bromwich Albion,3,0,2021-04-22 19:00:00,Timothy Castagne,TakeOn,620
+416863,44,BlockedShot,0.7619999694824219,0.425,0.04387680068612099,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14750,Leicester,West Bromwich Albion,3,0,2021-04-22 19:00:00,Jamie Vardy,HeadPass,620
+416866,52,BlockedShot,0.86,0.5379999923706055,0.12255699932575226,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14750,Leicester,West Bromwich Albion,3,0,2021-04-22 19:00:00,James Maddison,Pass,620
+416868,80,SavedShot,0.8109999847412109,0.46,0.14797399938106537,Kelechi Iheanacho,h,620,DirectFreekick,2020,LeftFoot,14750,Leicester,West Bromwich Albion,3,0,2021-04-22 19:00:00,,Standard,620
+416870,85,BlockedShot,0.7280000305175781,0.48900001525878906,0.029719799757003784,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14750,Leicester,West Bromwich Albion,3,0,2021-04-22 19:00:00,Marc Albrighton,Pass,620
+418250,68,MissedShots,0.899000015258789,0.5359999847412109,0.09779500216245651,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14759,Leicester,Crystal Palace,2,1,2021-04-26 19:00:00,James Maddison,OffsidePass,620
+418253,79,Goal,0.9059999847412109,0.3160000038146973,0.05378429964184761,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14759,Leicester,Crystal Palace,2,1,2021-04-26 19:00:00,Jonny Evans,Chipped,620
+418365,33,SavedShot,0.7519999694824219,0.3970000076293945,0.023912200704216957,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14772,Southampton,Leicester,1,1,2021-04-30 19:00:00,Youri Tielemans,Pass,620
+418369,47,SavedShot,0.8590000152587891,0.40900001525878904,0.015154699794948101,Kelechi Iheanacho,a,620,OpenPlay,2020,Head,14772,Southampton,Leicester,1,1,2021-04-30 19:00:00,Timothy Castagne,Aerial,620
+418387,88,MissedShots,0.9540000152587891,0.46,0.5259910225868225,Kelechi Iheanacho,a,620,OpenPlay,2020,Head,14772,Southampton,Leicester,1,1,2021-04-30 19:00:00,Marc Albrighton,Cross,620
+419731,35,SavedShot,0.8780000305175781,0.395,0.047936998307704926,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14779,Leicester,Newcastle United,2,4,2021-05-07 19:00:00,Marc Albrighton,Cross,620
+419739,67,BlockedShot,0.7859999847412109,0.45799999237060546,0.042031001299619675,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14779,Leicester,Newcastle United,2,4,2021-05-07 19:00:00,James Maddison,Pass,620
+419743,70,BlockedShot,0.755,0.4520000076293945,0.024003999307751656,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14779,Leicester,Newcastle United,2,4,2021-05-07 19:00:00,Ayoze Pérez,Pass,620
+419752,86,Goal,0.845999984741211,0.3370000076293945,0.09917060285806656,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14779,Leicester,Newcastle United,2,4,2021-05-07 19:00:00,Ayoze Pérez,TakeOn,620
+421087,45,BlockedShot,0.879000015258789,0.35700000762939454,0.08047520369291306,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14788,Manchester United,Leicester,1,2,2021-05-11 17:00:00,Marc Albrighton,Pass,620
+421089,50,MissedShots,0.7819999694824219,0.2720000076293945,0.014222599565982819,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14788,Manchester United,Leicester,1,2,2021-05-11 17:00:00,Marc Albrighton,Pass,620
+421092,58,SavedShot,0.9640000152587891,0.3970000076293945,0.40216898918151855,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14788,Manchester United,Leicester,1,2,2021-05-11 17:00:00,,None,620
+421093,59,BlockedShot,0.765,0.5640000152587891,0.02825389988720417,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14788,Manchester United,Leicester,1,2,2021-05-11 17:00:00,Wilfred Ndidi,Pass,620
+423232,75,MissedShots,0.8080000305175781,0.5259999847412109,0.03528600186109543,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,,None,620
+423233,75,Goal,0.855999984741211,0.49700000762939456,0.29627299308776855,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,Wilfred Ndidi,Pass,620
+423236,80,SavedShot,0.6840000152587891,0.40900001525878904,0.0073989699594676495,Kelechi Iheanacho,a,620,OpenPlay,2020,LeftFoot,14797,Chelsea,Leicester,2,1,2021-05-18 19:15:00,Ricardo Pereira,TakeOn,620
+424036,57,SavedShot,0.88,0.6,0.04762899875640869,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14809,Leicester,Tottenham,2,4,2021-05-23 15:00:00,,Aerial,620
+424040,83,MissedShots,0.779000015258789,0.695,0.023110700771212578,Kelechi Iheanacho,h,620,OpenPlay,2020,LeftFoot,14809,Leicester,Tottenham,2,4,2021-05-23 15:00:00,Nampalys Mendy,Pass,620
+425885,91,BlockedShot,0.8130000305175781,0.42900001525878906,0.08418119698762894,Kelechi Iheanacho,h,620,OpenPlay,2021,LeftFoot,16381,Leicester,Wolverhampton Wanderers,1,0,2021-08-14 14:00:00,Jamie Vardy,Pass,620
+428660,92,MissedShots,0.8480000305175781,0.5690000152587891,0.08259910345077515,Kelechi Iheanacho,a,620,OpenPlay,2021,LeftFoot,16398,Norwich,Leicester,1,2,2021-08-28 14:00:00,,None,620
+429947,82,MissedShots,0.9119999694824219,0.53,0.08871729671955109,Kelechi Iheanacho,h,620,OpenPlay,2021,Head,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Marc Albrighton,Cross,620
+433413,66,SavedShot,0.9,0.41200000762939454,0.10278400033712387,Kelechi Iheanacho,h,620,OpenPlay,2021,LeftFoot,16430,Leicester,Burnley,2,2,2021-09-25 14:00:00,Ademola Lookman,Pass,620
+433414,69,BlockedShot,0.779000015258789,0.3609999847412109,0.02624179981648922,Kelechi Iheanacho,h,620,OpenPlay,2021,LeftFoot,16430,Leicester,Burnley,2,2,2021-09-25 14:00:00,Youri Tielemans,Pass,620
+435310,30,Goal,0.8209999847412109,0.5609999847412109,0.30151599645614624,Kelechi Iheanacho,a,620,OpenPlay,2021,LeftFoot,16439,Crystal Palace,Leicester,2,2,2021-10-03 13:00:00,,BallRecovery,620
+436217,20,BlockedShot,0.845999984741211,0.41400001525878904,0.05607080087065697,Kelechi Iheanacho,h,620,OpenPlay,2021,LeftFoot,16450,Leicester,Manchester United,4,2,2021-10-16 14:00:00,,BallTouch,620
+436224,39,MissedShots,0.8119999694824219,0.54,0.05563129857182503,Kelechi Iheanacho,h,620,OpenPlay,2021,LeftFoot,16450,Leicester,Manchester United,4,2,2021-10-16 14:00:00,Youri Tielemans,Pass,620
+436226,45,SavedShot,0.8290000152587891,0.40900001525878904,0.0598376989364624,Kelechi Iheanacho,h,620,OpenPlay,2021,LeftFoot,16450,Leicester,Manchester United,4,2,2021-10-16 14:00:00,Youri Tielemans,Pass,620
+438207,81,MissedShots,0.7340000152587891,0.515,0.02739899978041649,Kelechi Iheanacho,a,620,OpenPlay,2021,LeftFoot,16457,Brentford,Leicester,1,2,2021-10-24 13:00:00,Ricardo Pereira,Chipped,620
+439387,27,SavedShot,0.7559999847412109,0.41,0.024109499529004097,Kelechi Iheanacho,h,620,OpenPlay,2021,LeftFoot,16468,Leicester,Arsenal,0,2,2021-10-30 11:30:00,Youri Tielemans,Pass,620
+450600,22,SavedShot,0.855999984741211,0.5279999923706055,0.10081499814987183,Kelechi Iheanacho,a,620,OpenPlay,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Ademola Lookman,Pass,620
+450615,64,Goal,0.9680000305175781,0.4909999847412109,0.6919289827346802,Kelechi Iheanacho,a,620,OpenPlay,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,,Rebound,620
+450617,69,SavedShot,0.9130000305175782,0.6430000305175781,0.25600600242614746,Kelechi Iheanacho,a,620,SetPiece,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,James Maddison,Pass,620
+450822,37,BlockedShot,0.894000015258789,0.675,0.050582800060510635,Kelechi Iheanacho,h,620,OpenPlay,2021,LeftFoot,16573,Leicester,Liverpool,1,0,2021-12-28 20:00:00,Luke Thomas,Chipped,620
+456736,80,MissedShots,0.8959999847412109,0.674000015258789,0.05360009893774986,Kelechi Iheanacho,a,620,OpenPlay,2021,LeftFoot,16614,Liverpool,Leicester,2,0,2022-02-10 19:45:00,Harvey Barnes,Chipped,620
+463277,71,SavedShot,0.7959999847412109,0.625,0.029973700642585754,Kelechi Iheanacho,a,620,OpenPlay,2021,LeftFoot,16656,Arsenal,Leicester,2,0,2022-03-13 16:30:00,Wilfred Ndidi,BallRecovery,620
+464409,48,BlockedShot,0.759000015258789,0.6559999847412109,0.03298500180244446,Kelechi Iheanacho,h,620,OpenPlay,2021,LeftFoot,16668,Leicester,Brentford,2,1,2022-03-20 14:00:00,James Maddison,Pass,620
+464412,52,MissedShots,0.855,0.3609999847412109,0.3143410086631775,Kelechi Iheanacho,h,620,OpenPlay,2021,LeftFoot,16668,Leicester,Brentford,2,1,2022-03-20 14:00:00,James Justin,Chipped,620
+464423,82,MissedShots,0.865,0.47200000762939454,0.03392599895596504,Kelechi Iheanacho,h,620,SetPiece,2021,Head,16668,Leicester,Brentford,2,1,2022-03-20 14:00:00,James Maddison,Cross,620
+465455,30,MissedShots,0.85,0.47299999237060547,0.09673970192670822,Kelechi Iheanacho,a,620,OpenPlay,2021,LeftFoot,16679,Manchester United,Leicester,1,1,2022-04-02 16:30:00,James Justin,Pass,620
+465462,62,Goal,0.9130000305175782,0.45599998474121095,0.25088098645210266,Kelechi Iheanacho,a,620,OpenPlay,2021,Head,16679,Manchester United,Leicester,1,1,2022-04-02 16:30:00,James Maddison,Cross,620
+465465,70,MissedShots,0.97,0.375,0.3221830129623413,Kelechi Iheanacho,a,620,OpenPlay,2021,LeftFoot,16679,Manchester United,Leicester,1,1,2022-04-02 16:30:00,,BallRecovery,620
+468725,84,BlockedShot,0.9680000305175781,0.5359999847412109,0.16440600156784058,Kelechi Iheanacho,a,620,OpenPlay,2021,LeftFoot,16701,Newcastle United,Leicester,2,1,2022-04-17 13:15:00,Kiernan Dewsbury-Hall,Pass,620
+469347,4,BlockedShot,0.9209999847412109,0.44299999237060544,0.14113500714302063,Kelechi Iheanacho,a,620,OpenPlay,2021,LeftFoot,16547,Everton,Leicester,1,1,2022-04-20 18:45:00,James Maddison,Pass,620
+469362,70,BlockedShot,0.7930000305175782,0.29200000762939454,0.027982499450445175,Kelechi Iheanacho,a,620,OpenPlay,2021,LeftFoot,16547,Everton,Leicester,1,1,2022-04-20 18:45:00,,None,620
+472046,35,MissedShots,0.78,0.43900001525878907,0.034624598920345306,Kelechi Iheanacho,a,620,OpenPlay,2021,LeftFoot,16719,Tottenham,Leicester,3,1,2022-05-01 13:00:00,Patson Daka,Pass,620
+472056,90,Goal,0.7369999694824219,0.3890000152587891,0.01724199950695038,Kelechi Iheanacho,a,620,OpenPlay,2021,LeftFoot,16719,Tottenham,Leicester,3,1,2022-05-01 13:00:00,Youri Tielemans,Pass,620
+474032,34,SavedShot,0.875,0.6309999847412109,0.07471480220556259,Kelechi Iheanacho,h,620,OpenPlay,2021,LeftFoot,16729,Leicester,Everton,1,2,2022-05-08 13:00:00,Youri Tielemans,Pass,620
+474047,80,SavedShot,0.7140000152587891,0.580999984741211,0.01679139956831932,Kelechi Iheanacho,h,620,OpenPlay,2021,LeftFoot,16729,Leicester,Everton,1,2,2022-05-08 13:00:00,Wesley Fofana,Pass,620
+476991,54,MissedShots,0.715999984741211,0.34400001525878904,0.013386200182139874,Kelechi Iheanacho,a,620,OpenPlay,2021,LeftFoot,16639,Chelsea,Leicester,1,1,2022-05-19 19:00:00,James Maddison,Pass,620
+480385,70,MissedShots,0.855999984741211,0.44299999237060544,0.0404197983443737,Kelechi Iheanacho,a,620,OpenPlay,2022,LeftFoot,18217,Arsenal,Leicester,4,2,2022-08-13 14:00:00,James Maddison,Cross,620
+483681,56,BlockedShot,0.7180000305175781,0.43400001525878906,0.01736599951982498,Kelechi Iheanacho,a,620,OpenPlay,2022,LeftFoot,18235,Chelsea,Leicester,2,1,2022-08-27 14:00:00,Youri Tielemans,Pass,620
+483686,68,MissedShots,0.7780000305175782,0.4759999847412109,0.03521319851279259,Kelechi Iheanacho,a,620,OpenPlay,2022,LeftFoot,18235,Chelsea,Leicester,2,1,2022-08-27 14:00:00,James Justin,Pass,620
+483691,72,MissedShots,0.835,0.3629999923706055,0.04784910008311272,Kelechi Iheanacho,a,620,OpenPlay,2022,LeftFoot,18235,Chelsea,Leicester,2,1,2022-08-27 14:00:00,Youri Tielemans,Pass,620
+485519,82,MissedShots,0.86,0.7959999847412109,0.020869499072432518,Kelechi Iheanacho,h,620,OpenPlay,2022,LeftFoot,18251,Leicester,Manchester United,0,1,2022-09-01 19:00:00,,Rebound,620
+486500,0,Goal,0.9230000305175782,0.5029999923706054,0.5135369896888733,Kelechi Iheanacho,a,620,OpenPlay,2022,LeftFoot,18259,Brighton,Leicester,5,2,2022-09-04 13:00:00,Patson Daka,Pass,620
+486502,7,BlockedShot,0.8540000152587891,0.425,0.09658189862966537,Kelechi Iheanacho,a,620,OpenPlay,2022,LeftFoot,18259,Brighton,Leicester,5,2,2022-09-04 13:00:00,Youri Tielemans,Pass,620
+492871,89,SavedShot,0.8480000305175781,0.3139999961853027,0.027372300624847412,Kelechi Iheanacho,h,620,FromCorner,2022,LeftFoot,18306,Leicester,Crystal Palace,0,0,2022-10-15 11:30:00,James Maddison,Pass,620
+496265,76,MissedShots,0.8290000152587891,0.555,0.061464399099349976,Kelechi Iheanacho,h,620,OpenPlay,2022,LeftFoot,18338,Leicester,Manchester City,0,1,2022-10-29 11:30:00,James Maddison,Pass,620
+496270,87,SavedShot,0.86,0.31,0.03791480138897896,Kelechi Iheanacho,h,620,OpenPlay,2022,LeftFoot,18338,Leicester,Manchester City,0,1,2022-10-29 11:30:00,James Maddison,BallRecovery,620
+500971,73,MissedShots,0.7619999694824219,0.3729999923706055,0.017760299146175385,Kelechi Iheanacho,h,620,OpenPlay,2022,LeftFoot,18369,Leicester,Newcastle United,0,3,2022-12-26 15:00:00,Timothy Castagne,Pass,620
+500972,81,BlockedShot,0.924000015258789,0.35400001525878905,0.052079200744628906,Kelechi Iheanacho,h,620,OpenPlay,2022,LeftFoot,18369,Leicester,Newcastle United,0,3,2022-12-26 15:00:00,Wout Faes,Chipped,620
+507192,40,Goal,0.9580000305175781,0.46099998474121096,0.4799470007419586,Kelechi Iheanacho,a,620,OpenPlay,2022,Head,18412,Aston Villa,Leicester,2,4,2023-02-04 15:00:00,Harvey Barnes,Cross,620
+507194,45,MissedShots,0.845,0.5929999923706055,0.27221500873565674,Kelechi Iheanacho,a,620,OpenPlay,2022,LeftFoot,18412,Aston Villa,Leicester,2,4,2023-02-04 15:00:00,Youri Tielemans,Pass,620
+508500,2,BlockedShot,0.87,0.6170000076293946,0.08941499888896942,Kelechi Iheanacho,h,620,OpenPlay,2022,LeftFoot,18427,Leicester,Tottenham,4,1,2023-02-11 15:00:00,Kiernan Dewsbury-Hall,TakeOn,620
+508510,25,SavedShot,0.8969999694824219,0.285,0.053560901433229446,Kelechi Iheanacho,h,620,OpenPlay,2022,LeftFoot,18427,Leicester,Tottenham,4,1,2023-02-11 15:00:00,Kiernan Dewsbury-Hall,Chipped,620
+508513,48,Goal,0.84,0.4640000152587891,0.07851459830999374,Kelechi Iheanacho,h,620,OpenPlay,2022,LeftFoot,18427,Leicester,Tottenham,4,1,2023-02-11 15:00:00,Harry Souttar,Chipped,620
+508519,68,MissedShots,0.925,0.5670000076293945,0.23416699469089508,Kelechi Iheanacho,h,620,OpenPlay,2022,Head,18427,Leicester,Tottenham,4,1,2023-02-11 15:00:00,Harvey Barnes,Cross,620
+510111,6,BlockedShot,0.8669999694824219,0.44,0.07609409838914871,Kelechi Iheanacho,a,620,OpenPlay,2022,LeftFoot,18437,Manchester United,Leicester,3,0,2023-02-19 14:00:00,Tetê,Rebound,620
+510115,9,BlockedShot,0.8690000152587891,0.6370000076293946,0.0771104022860527,Kelechi Iheanacho,a,620,OpenPlay,2022,LeftFoot,18437,Manchester United,Leicester,3,0,2023-02-19 14:00:00,James Maddison,Pass,620
+510116,10,MissedShots,0.8490000152587891,0.26,0.02047399990260601,Kelechi Iheanacho,a,620,FromCorner,2022,LeftFoot,18437,Manchester United,Leicester,3,0,2023-02-19 14:00:00,Nampalys Mendy,HeadPass,620
+510120,20,SavedShot,0.924000015258789,0.580999984741211,0.2858780026435852,Kelechi Iheanacho,a,620,OpenPlay,2022,Head,18437,Manchester United,Leicester,3,0,2023-02-19 14:00:00,Timothy Castagne,Cross,620
+512333,15,MissedShots,0.9180000305175782,0.47900001525878905,0.13218100368976593,Kelechi Iheanacho,a,620,OpenPlay,2022,Head,18460,Southampton,Leicester,1,0,2023-03-04 17:30:00,Harvey Barnes,Cross,620
+512334,19,MissedShots,0.9369999694824219,0.5029999923706054,0.46891599893569946,Kelechi Iheanacho,a,620,SetPiece,2022,Head,18460,Southampton,Leicester,1,0,2023-03-04 17:30:00,James Maddison,Cross,620
+512343,48,MissedShots,0.93,0.46,0.3495509922504425,Kelechi Iheanacho,a,620,OpenPlay,2022,Head,18460,Southampton,Leicester,1,0,2023-03-04 17:30:00,Dennis Praet,Cross,620
+512345,65,MissedShots,0.8159999847412109,0.44299999237060544,0.04532749950885773,Kelechi Iheanacho,a,620,OpenPlay,2022,LeftFoot,18460,Southampton,Leicester,1,0,2023-03-04 17:30:00,,None,620
+512347,82,MissedShots,0.7519999694824219,0.47299999237060547,0.02406509965658188,Kelechi Iheanacho,a,620,OpenPlay,2022,LeftFoot,18460,Southampton,Leicester,1,0,2023-03-04 17:30:00,Wout Faes,Pass,620
+513551,41,SavedShot,0.855999984741211,0.595999984741211,0.07113099843263626,Kelechi Iheanacho,h,620,OpenPlay,2022,LeftFoot,18467,Leicester,Chelsea,1,3,2023-03-11 15:00:00,Patson Daka,BallTouch,620
+518109,69,SavedShot,0.9069999694824219,0.5229999923706055,0.08845759928226471,Kelechi Iheanacho,h,620,OpenPlay,2022,LeftFoot,18496,Leicester,Bournemouth,0,1,2023-04-08 14:00:00,,None,620
+519661,74,Goal,0.9740000152587891,0.5159999847412109,0.8593609929084778,Kelechi Iheanacho,a,620,FromCorner,2022,LeftFoot,18506,Manchester City,Leicester,3,1,2023-04-15 16:30:00,,Rebound,620
+519662,78,MissedShots,0.8130000305175781,0.47200000762939454,0.11619000136852264,Kelechi Iheanacho,a,620,OpenPlay,2022,RightFoot,18506,Manchester City,Leicester,3,1,2023-04-15 16:30:00,Caglar Söyüncü,TakeOn,620
+519665,90,ShotOnPost,0.8109999847412109,0.5120000076293946,0.033806201070547104,Kelechi Iheanacho,a,620,OpenPlay,2022,LeftFoot,18506,Manchester City,Leicester,3,1,2023-04-15 16:30:00,James Maddison,Chipped,620
+520901,36,Goal,0.885,0.5,0.7611688375473022,Kelechi Iheanacho,h,620,Penalty,2022,LeftFoot,18518,Leicester,Wolverhampton Wanderers,2,1,2023-04-22 14:00:00,,Standard,620
+520902,39,MissedShots,0.7169999694824218,0.654000015258789,0.010775412432849407,Kelechi Iheanacho,h,620,OpenPlay,2022,LeftFoot,18518,Leicester,Wolverhampton Wanderers,2,1,2023-04-22 14:00:00,,None,620
+520904,47,SavedShot,0.845999984741211,0.32599998474121095,0.045617107301950455,Kelechi Iheanacho,h,620,OpenPlay,2022,LeftFoot,18518,Leicester,Wolverhampton Wanderers,2,1,2023-04-22 14:00:00,Boubakary Soumare,TakeOn,620
+521980,72,SavedShot,0.765,0.65,0.022065194323658943,Kelechi Iheanacho,a,620,OpenPlay,2022,LeftFoot,18523,Leeds,Leicester,1,1,2023-04-25 19:00:00,Patson Daka,Pass,620
+521981,74,SavedShot,0.9690000152587891,0.3920000076293945,0.3645784258842468,Kelechi Iheanacho,a,620,OpenPlay,2022,LeftFoot,18523,Leeds,Leicester,1,1,2023-04-25 19:00:00,James Maddison,Throughball,620
+529984,13,MissedShots,0.8,0.5979999923706054,0.03622065484523773,Kelechi Iheanacho,h,620,OpenPlay,2022,LeftFoot,18579,Leicester,West Ham,2,1,2023-05-28 15:30:00,,None,620
+529991,27,ShotOnPost,0.894000015258789,0.35200000762939454,0.06833299994468689,Kelechi Iheanacho,h,620,OpenPlay,2022,LeftFoot,18579,Leicester,West Ham,2,1,2023-05-28 15:30:00,James Maddison,Pass,620
+585816,91,SavedShot,0.899000015258789,0.5220000076293946,0.09821473062038422,Kelechi Iheanacho,h,620,OpenPlay,2024,LeftFoot,26993,Sevilla,Villarreal,1,2,2024-08-23 19:30:00,Jesús Navas,Cross,620
+587225,31,BlockedShot,0.8069999694824219,0.6029999923706054,0.04252845421433449,Kelechi Iheanacho,a,620,OpenPlay,2024,LeftFoot,27003,Mallorca,Sevilla,0,0,2024-08-27 17:00:00,Chidera Ejuke,Pass,620
+587229,45,SavedShot,0.875999984741211,0.48400001525878905,0.045683249831199646,Kelechi Iheanacho,a,620,OpenPlay,2024,Head,27003,Mallorca,Sevilla,0,0,2024-08-27 17:00:00,Adrià Pedrosa,Chipped,620
+593396,19,BlockedShot,0.8859999847412109,0.56,0.11262999475002289,Kelechi Iheanacho,h,620,OpenPlay,2024,LeftFoot,27046,Sevilla,Real Valladolid,2,1,2024-09-24 17:00:00,Saúl Ñíguez,Pass,620
+593400,38,MissedShots,0.8209999847412109,0.5520000076293945,0.06424716860055923,Kelechi Iheanacho,h,620,OpenPlay,2024,LeftFoot,27046,Sevilla,Real Valladolid,2,1,2024-09-24 17:00:00,Peque,Pass,620
+593403,44,BlockedShot,0.9259999847412109,0.519000015258789,0.13616731762886047,Kelechi Iheanacho,h,620,OpenPlay,2024,LeftFoot,27046,Sevilla,Real Valladolid,2,1,2024-09-24 17:00:00,Peque,Pass,620
+593406,48,BlockedShot,0.8519999694824218,0.705,0.0750628262758255,Kelechi Iheanacho,h,620,OpenPlay,2024,LeftFoot,27046,Sevilla,Real Valladolid,2,1,2024-09-24 17:00:00,,TakeOn,620
+600868,86,MissedShots,0.9169999694824219,0.4109999847412109,0.3640848696231842,Kelechi Iheanacho,h,620,OpenPlay,2024,RightFoot,27100,Sevilla,Real Sociedad,0,2,2024-11-03 17:30:00,,BallRecovery,620
+601813,71,BlockedShot,0.9119999694824219,0.6869999694824219,0.07916370034217834,Kelechi Iheanacho,a,620,OpenPlay,2024,LeftFoot,27105,Leganes,Sevilla,1,0,2024-11-09 21:00:00,Albert Sambi Lokonga,Pass,620

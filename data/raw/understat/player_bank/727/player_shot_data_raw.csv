@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+52723,69,MissedShots,0.9640000152587891,0.36700000762939455,0.07394509762525558,DeAndre Yedlin,h,727,OpenPlay,2015,RightFoot,211,Sunderland,Stoke,2,0,2015-11-28 19:00:00,Lee Cattermole,Chipped,727
+53478,47,MissedShots,0.7440000152587891,0.3629999923706055,0.014327200129628181,DeAndre Yedlin,a,727,OpenPlay,2015,RightFoot,225,Arsenal,Sunderland,3,1,2015-12-05 19:00:00,,None,727
+60916,49,MissedShots,0.73,0.3509999847412109,0.008229030296206474,DeAndre Yedlin,h,727,OpenPlay,2015,RightFoot,401,Sunderland,Leicester,0,2,2016-04-10 16:30:00,Wahbi Khazri,Chipped,727
+56749,25,SavedShot,0.9540000152587891,0.45,0.11068800091743469,DeAndre Yedlin,h,727,OpenPlay,2015,Head,442,Sunderland,Chelsea,3,2,2016-05-07 18:00:00,Jermain Defoe,Cross,727
+158819,33,MissedShots,0.710999984741211,0.69,0.013410099782049656,DeAndre Yedlin,h,727,FromCorner,2017,RightFoot,7163,Newcastle United,Stoke,2,1,2017-09-16 15:00:00,Christian Atsu,Pass,727
+161445,45,OwnGoal,0.08300000190734863,0.29100000381469726,0,DeAndre Yedlin,h,727,OpenPlay,2017,RightFoot,7242,Newcastle United,Watford,0,3,2017-11-25 15:00:00,,None,727
+182960,34,BlockedShot,0.8619999694824219,0.41900001525878905,0.0600103996694088,DeAndre Yedlin,h,727,OpenPlay,2017,LeftFoot,7284,Newcastle United,Everton,0,1,2017-12-13 19:45:00,Jonjo Shelvey,Chipped,727
+183137,5,MissedShots,0.765,0.31799999237060544,0.015028299763798714,DeAndre Yedlin,a,727,FromCorner,2017,RightFoot,7289,Arsenal,Newcastle United,1,0,2017-12-16 15:00:00,,None,727
+185275,32,BlockedShot,0.7580000305175781,0.48200000762939454,0.016638299450278282,DeAndre Yedlin,a,727,SetPiece,2017,RightFoot,7300,West Ham,Newcastle United,2,3,2017-12-23 15:00:00,,None,727
+186464,5,BlockedShot,0.7609999847412109,0.33599998474121096,0.020806599408388138,DeAndre Yedlin,a,727,FromCorner,2017,RightFoot,7337,Stoke,Newcastle United,0,1,2018-01-01 15:00:00,Matt Ritchie,Pass,727
+193920,4,MissedShots,0.759000015258789,0.49900001525878906,0.017000500112771988,DeAndre Yedlin,h,727,SetPiece,2017,RightFoot,7383,Newcastle United,Manchester United,1,0,2018-02-11 14:15:00,,None,727
+232855,63,MissedShots,0.7190000152587891,0.4620000076293945,0.013868900015950203,DeAndre Yedlin,h,727,OpenPlay,2018,RightFoot,9198,Newcastle United,Tottenham,1,2,2018-08-11 14:30:00,,Dispossessed,727
+233394,86,OwnGoal,0.03,0.46900001525878904,0,DeAndre Yedlin,h,727,SetPiece,2018,LeftFoot,9225,Newcastle United,Chelsea,1,2,2018-08-26 18:00:00,,Foul,727
+233673,29,Goal,0.925,0.4570000076293945,0.4741570055484772,DeAndre Yedlin,a,727,OpenPlay,2018,RightFoot,9234,Manchester City,Newcastle United,2,1,2018-09-01 16:30:00,Salomón Rondón,Pass,727
+249603,88,MissedShots,0.725999984741211,0.37400001525878906,0.010113799944519997,DeAndre Yedlin,a,727,SetPiece,2018,RightFoot,9292,Southampton,Newcastle United,0,0,2018-10-27 14:00:00,,None,727
+250076,80,MissedShots,0.7090000152587891,0.45,0.015111199580132961,DeAndre Yedlin,h,727,FromCorner,2018,RightFoot,9309,Newcastle United,Bournemouth,2,1,2018-11-10 15:00:00,,BallTouch,727
+250488,49,SavedShot,0.9590000152587891,0.425,0.551256000995636,DeAndre Yedlin,a,727,OpenPlay,2018,RightFoot,9326,Burnley,Newcastle United,1,2,2018-11-26 20:00:00,,None,727
+263555,85,MissedShots,0.754000015258789,0.3820000076293945,0.016282500699162483,DeAndre Yedlin,a,727,OpenPlay,2018,RightFoot,9387,Watford,Newcastle United,1,1,2018-12-29 15:00:00,Salomón Rondón,Pass,727
+275016,25,MissedShots,0.7519999694824219,0.40200000762939453,0.013430199585855007,DeAndre Yedlin,h,727,SetPiece,2018,RightFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,,None,727
+284556,83,MissedShots,0.7219999694824218,0.425,0.013918399810791016,DeAndre Yedlin,h,727,FromCorner,2018,RightFoot,9488,Newcastle United,Everton,3,2,2019-03-09 15:00:00,,None,727
+284558,86,BlockedShot,0.74,0.43900001525878907,0.008233330212533474,DeAndre Yedlin,h,727,FromCorner,2018,RightFoot,9488,Newcastle United,Everton,3,2,2019-03-09 15:00:00,Jonjo Shelvey,Chipped,727
+286278,89,BlockedShot,0.81,0.5129999923706055,0.03225649893283844,DeAndre Yedlin,a,727,FromCorner,2018,LeftFoot,9506,Bournemouth,Newcastle United,2,2,2019-03-16 15:00:00,Christian Atsu,Pass,727
+291967,57,MissedShots,0.8219999694824218,0.3320000076293945,0.037463098764419556,DeAndre Yedlin,h,727,OpenPlay,2018,RightFoot,9521,Newcastle United,Crystal Palace,0,1,2019-04-06 15:00:00,Miguel Almirón,Pass,727
+330701,41,Goal,0.985,0.4809999847412109,0.7519299983978271,DeAndre Yedlin,h,727,OpenPlay,2019,Head,11756,Newcastle United,Bournemouth,2,1,2019-11-09 15:00:00,,Rebound,727
+395727,60,BlockedShot,0.7330000305175781,0.495,0.015217499807476997,DeAndre Yedlin,a,727,FromCorner,2020,RightFoot,14581,Manchester City,Newcastle United,2,0,2020-12-26 20:00:00,,None,727
+396142,16,MissedShots,0.91,0.34400001525878904,0.08463169634342194,DeAndre Yedlin,h,727,OpenPlay,2020,RightFoot,14591,Newcastle United,Liverpool,0,0,2020-12-30 20:00:00,Callum Wilson,Pass,727

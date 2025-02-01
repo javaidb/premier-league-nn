@@ -1,0 +1,57 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14466,19,BlockedShot,0.6980000305175781,0.4909999847412109,0.012793299742043018,Leighton Baines,a,588,FromCorner,2014,LeftFoot,4750,Leicester,Everton,2,2,2014-08-16 15:00:00,,None,588
+15486,46,BlockedShot,0.7909999847412109,0.32,0.0678929015994072,Leighton Baines,h,588,DirectFreekick,2014,LeftFoot,4738,Everton,Crystal Palace,2,3,2014-09-21 16:00:00,,Standard,588
+15497,82,Goal,0.885,0.5,0.7611690163612366,Leighton Baines,h,588,Penalty,2014,LeftFoot,4738,Everton,Crystal Palace,2,3,2014-09-21 16:00:00,,Standard,588
+17265,48,SavedShot,0.885,0.5,0.7611690163612366,Leighton Baines,a,588,Penalty,2014,LeftFoot,4695,Manchester United,Everton,2,1,2014-10-05 12:00:00,,Standard,588
+17285,13,MissedShots,0.749000015258789,0.39099998474121095,0.056146398186683655,Leighton Baines,h,588,DirectFreekick,2014,LeftFoot,4654,Everton,Swansea,0,0,2014-11-01 15:00:00,,Standard,588
+17297,54,MissedShots,0.765,0.275,0.04478690028190613,Leighton Baines,h,588,DirectFreekick,2014,LeftFoot,4654,Everton,Swansea,0,0,2014-11-01 15:00:00,,Standard,588
+17303,91,BlockedShot,0.7340000152587891,0.6869999694824219,0.015002699568867683,Leighton Baines,h,588,OpenPlay,2014,LeftFoot,4654,Everton,Swansea,0,0,2014-11-01 15:00:00,James McCarthy,Pass,588
+17066,75,Goal,0.885,0.5,0.7611690163612366,Leighton Baines,a,588,Penalty,2014,LeftFoot,4665,Sunderland,Everton,1,1,2014-11-09 13:30:00,,Standard,588
+17682,63,SavedShot,0.805,0.42,0.03856800124049187,Leighton Baines,h,588,OpenPlay,2014,RightFoot,4634,Everton,Stoke,0,1,2014-12-26 15:00:00,,None,588
+18722,34,BlockedShot,0.8480000305175781,0.6509999847412109,0.05382290109992027,Leighton Baines,a,588,OpenPlay,2014,LeftFoot,4647,Newcastle United,Everton,3,2,2014-12-28 16:15:00,Luke Garbutt,Pass,588
+19446,44,SavedShot,0.7330000305175781,0.29399999618530276,0.03700859844684601,Leighton Baines,a,588,DirectFreekick,2014,LeftFoot,4558,Hull,Everton,2,0,2015-01-01 15:00:00,,Standard,588
+17795,16,BlockedShot,0.7219999694824218,0.4420000076293945,0.0459664985537529,Leighton Baines,h,588,DirectFreekick,2014,LeftFoot,4566,Everton,Manchester City,1,1,2015-01-10 15:00:00,,Standard,588
+18651,8,SavedShot,0.7480000305175781,0.6809999847412109,0.016018899157643318,Leighton Baines,h,588,OpenPlay,2014,LeftFoot,4580,Everton,West Bromwich Albion,0,0,2015-01-19 20:00:00,Ross Barkley,Pass,588
+19665,18,MissedShots,0.7390000152587891,0.40900001525878904,0.0524182990193367,Leighton Baines,a,588,DirectFreekick,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,,Standard,588
+19676,75,BlockedShot,0.8519999694824218,0.705,0.01849520020186901,Leighton Baines,a,588,OpenPlay,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Steven Naismith,TakeOn,588
+23922,85,MissedShots,0.825,0.6780000305175782,0.03014099970459938,Leighton Baines,h,588,OpenPlay,2014,LeftFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Christian Atsu,BallTouch,588
+22785,59,SavedShot,0.7130000305175781,0.41,0.04035799950361252,Leighton Baines,h,588,DirectFreekick,2014,LeftFoot,4500,Everton,Newcastle United,3,0,2015-03-15 16:00:00,,Standard,588
+22238,8,BlockedShot,0.749000015258789,0.779000015258789,0.01080860011279583,Leighton Baines,a,588,OpenPlay,2014,RightFoot,4512,Queens Park Rangers,Everton,1,2,2015-03-22 16:00:00,Romelu Lukaku,Pass,588
+20487,15,SavedShot,0.8919999694824219,0.75,0.031519800424575806,Leighton Baines,h,588,OpenPlay,2014,LeftFoot,4461,Everton,Burnley,1,0,2015-04-18 15:00:00,,None,588
+20497,46,MissedShots,0.7819999694824219,0.735999984741211,0.020492900162935257,Leighton Baines,h,588,OpenPlay,2014,LeftFoot,4461,Everton,Burnley,1,0,2015-04-18 15:00:00,,None,588
+20503,63,BlockedShot,0.765,0.455,0.07612050324678421,Leighton Baines,h,588,DirectFreekick,2014,LeftFoot,4461,Everton,Burnley,1,0,2015-04-18 15:00:00,,Standard,588
+20505,65,SavedShot,0.794000015258789,0.285,0.02194890007376671,Leighton Baines,h,588,OpenPlay,2014,LeftFoot,4461,Everton,Burnley,1,0,2015-04-18 15:00:00,Aaron Lennon,Pass,588
+54594,38,ShotOnPost,0.865999984741211,0.565,0.07239080220460892,Leighton Baines,a,588,OpenPlay,2015,RightFoot,231,Norwich,Everton,1,1,2015-12-12 16:45:00,Seamus Coleman,Cross,588
+54929,5,MissedShots,0.7630000305175781,0.3609999847412109,0.05991790071129799,Leighton Baines,a,588,DirectFreekick,2015,LeftFoot,259,Newcastle United,Everton,0,1,2015-12-26 21:30:00,,Standard,588
+59910,21,BlockedShot,0.7919999694824219,0.3220000076293945,0.06915900111198425,Leighton Baines,a,588,DirectFreekick,2015,LeftFoot,393,Manchester United,Everton,1,0,2016-04-03 19:00:00,,Standard,588
+57075,43,BlockedShot,0.8519999694824218,0.8180000305175781,0.02070930041372776,Leighton Baines,h,588,OpenPlay,2015,LeftFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Oumar Niasse,Pass,588
+57082,63,Goal,0.9159999847412109,0.6,0.1186790019273758,Leighton Baines,h,588,OpenPlay,2015,LeftFoot,429,Everton,Bournemouth,2,1,2016-04-30 18:00:00,Tom Cleverley,Pass,588
+59766,67,SavedShot,0.73,0.735,0.013668599538505077,Leighton Baines,a,588,FromCorner,2015,LeftFoot,449,Sunderland,Everton,3,0,2016-05-11 22:45:00,Tom Cleverley,Pass,588
+52039,42,BlockedShot,0.815,0.2560000038146973,0.060645900666713715,Leighton Baines,h,588,DirectFreekick,2015,LeftFoot,453,Everton,Norwich,3,0,2016-05-15 18:00:00,,Standard,588
+52040,43,Goal,0.885,0.5,0.7611690163612366,Leighton Baines,h,588,Penalty,2015,LeftFoot,453,Everton,Norwich,3,0,2016-05-15 18:00:00,,Standard,588
+52042,58,MissedShots,0.6880000305175781,0.575,0.0330348014831543,Leighton Baines,h,588,DirectFreekick,2015,LeftFoot,453,Everton,Norwich,3,0,2016-05-15 18:00:00,,Standard,588
+112828,39,MissedShots,0.7569999694824219,0.3089999961853027,0.0474931001663208,Leighton Baines,a,588,DirectFreekick,2016,LeftFoot,477,West Bromwich Albion,Everton,1,2,2016-08-20 18:00:00,,Standard,588
+112837,65,MissedShots,0.6580000305175782,0.5179999923706055,0.012334500439465046,Leighton Baines,a,588,OpenPlay,2016,LeftFoot,477,West Bromwich Albion,Everton,1,2,2016-08-20 18:00:00,Idrissa Gueye,Tackle,588
+112950,50,SavedShot,0.885,0.5,0.7611690163612366,Leighton Baines,h,588,Penalty,2016,LeftFoot,487,Everton,Stoke,1,0,2016-08-27 18:00:00,,Standard,588
+112963,93,SavedShot,0.7880000305175782,0.37599998474121094,0.08290089666843414,Leighton Baines,h,588,DirectFreekick,2016,LeftFoot,487,Everton,Stoke,1,0,2016-08-27 18:00:00,,Standard,588
+115467,59,BlockedShot,0.7709999847412109,0.525,0.08397260308265686,Leighton Baines,h,588,DirectFreekick,2016,LeftFoot,2702,Everton,Swansea,1,1,2016-11-19 19:00:00,,Standard,588
+115610,88,Goal,0.885,0.5,0.7611690163612366,Leighton Baines,h,588,Penalty,2016,LeftFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,,Standard,588
+115612,90,SavedShot,0.8680000305175781,0.7530000305175781,0.029057800769805908,Leighton Baines,h,588,OpenPlay,2016,LeftFoot,3113,Everton,Manchester United,1,1,2016-12-04 20:00:00,Idrissa Gueye,Pass,588
+116392,46,MissedShots,0.8109999847412109,0.6819999694824219,0.02937130071222782,Leighton Baines,a,588,OpenPlay,2016,LeftFoot,3148,Leicester,Everton,0,2,2016-12-26 15:00:00,Aaron Lennon,Pass,588
+116382,80,Goal,0.885,0.5,0.7611690163612366,Leighton Baines,h,588,Penalty,2016,LeftFoot,3331,Everton,Southampton,3,0,2017-01-02 15:00:00,,Standard,588
+118359,74,BlockedShot,0.9290000152587891,0.5609999847412109,0.052811600267887115,Leighton Baines,a,588,OpenPlay,2016,Head,3353,Crystal Palace,Everton,0,1,2017-01-21 18:00:00,Seamus Coleman,Aerial,588
+119972,22,MissedShots,0.8209999847412109,0.754000015258789,0.010750100016593933,Leighton Baines,a,588,OpenPlay,2016,LeftFoot,3406,Tottenham,Everton,3,2,2017-03-05 13:30:00,,Aerial,588
+119451,25,BlockedShot,0.7780000305175782,0.3340000152587891,0.06342989951372147,Leighton Baines,a,588,DirectFreekick,2016,LeftFoot,3435,Liverpool,Everton,3,1,2017-04-01 12:30:00,,Standard,588
+119337,79,MissedShots,0.8809999847412109,0.7180000305175781,0.027024300768971443,Leighton Baines,a,588,FromCorner,2016,LeftFoot,3446,Manchester United,Everton,1,1,2017-04-04 20:00:00,,None,588
+121658,83,MissedShots,0.759000015258789,0.6509999847412109,0.01824280060827732,Leighton Baines,a,588,OpenPlay,2016,LeftFoot,3498,Swansea,Everton,1,0,2017-05-06 17:30:00,,None,588
+121779,45,MissedShots,0.720999984741211,0.7090000152587891,0.01002660021185875,Leighton Baines,h,588,OpenPlay,2016,LeftFoot,3502,Everton,Watford,1,0,2017-05-12 19:45:00,,None,588
+159407,21,BlockedShot,0.9590000152587891,0.64,0.02198139950633049,Leighton Baines,h,588,OpenPlay,2017,Head,7200,Everton,Arsenal,2,5,2017-10-22 13:30:00,Wayne Rooney,Cross,588
+159987,88,MissedShots,0.7669999694824219,0.5940000152587891,0.013120600022375584,Leighton Baines,a,588,OpenPlay,2017,LeftFoot,7214,Leicester,Everton,2,0,2017-10-29 16:00:00,,Rebound,588
+160253,21,SavedShot,0.895,0.5870000076293945,0.3590880036354065,Leighton Baines,h,588,OpenPlay,2017,LeftFoot,7220,Everton,Watford,3,2,2017-11-05 16:30:00,Wayne Rooney,Pass,588
+160270,90,Goal,0.885,0.5,0.7611690163612366,Leighton Baines,h,588,Penalty,2017,LeftFoot,7220,Everton,Watford,3,2,2017-11-05 16:30:00,,Standard,588
+160693,5,Goal,0.885,0.5,0.7611690163612366,Leighton Baines,a,588,Penalty,2017,LeftFoot,7234,Crystal Palace,Everton,2,2,2017-11-18 15:00:00,,Standard,588
+204143,18,MissedShots,0.784000015258789,0.385,0.08167179673910141,Leighton Baines,h,588,DirectFreekick,2017,LeftFoot,7433,Everton,Manchester City,1,3,2018-03-31 17:30:00,,Standard,588
+213491,93,SavedShot,0.7669999694824219,0.4129999923706055,0.07229380309581757,Leighton Baines,h,588,DirectFreekick,2017,LeftFoot,7486,Everton,Southampton,1,1,2018-05-05 17:30:00,,Standard,588
+233230,5,BlockedShot,0.779000015258789,0.705,0.01939300075173378,Leighton Baines,a,588,OpenPlay,2018,LeftFoot,9221,Bournemouth,Everton,2,2,2018-08-25 17:00:00,Cenk Tosun,Pass,588
+233245,62,SavedShot,0.794000015258789,0.27299999237060546,0.05618859827518463,Leighton Baines,a,588,DirectFreekick,2018,LeftFoot,9221,Bournemouth,Everton,2,2,2018-08-25 17:00:00,,Standard,588
+337482,86,MissedShots,0.7280000305175781,0.629000015258789,0.043360400944948196,Leighton Baines,a,588,DirectFreekick,2019,LeftFoot,11809,Manchester United,Everton,1,1,2019-12-15 14:00:00,,Standard,588

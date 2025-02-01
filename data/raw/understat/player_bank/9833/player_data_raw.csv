@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+9833,Andrew Omobamidele,5,380,1,0.17112190276384354,0,0,2,0,1,0,D S,Norwich,1,0.17112190276384354,0.4068540930747986,0.4068540930747986,2021
+9833,Andrew Omobamidele,11,771,0,0.08128143101930618,0,0.07729564048349857,1,2,2,0,D S,Nottingham Forest,0,0.08128143101930618,1.927911488339305,1.8260405641049147,2023

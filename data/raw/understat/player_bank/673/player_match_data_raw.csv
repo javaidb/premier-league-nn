@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,75,DR,Arsenal,Aston Villa,4,0,2016-05-15,451,2015,57648,0,0,0,0,0,0.07361339777708054,0.07361339777708054,673
+0,0,0,48,MC,Aston Villa,Bournemouth,1,2,2016-04-09,398,2015,66585,0,0,0,0,0,0,0,673
+0,0,0,4,Sub,Aston Villa,Chelsea,0,4,2016-04-02,384,2015,67310,0,0,0,0,0,0,0,673
+0,1,0.0626055970788002,22,Sub,Aston Villa,Liverpool,0,6,2016-02-14,339,2015,60311,0.02845030091702938,0,1,0,0.0626055970788002,0.09105589985847473,0,673

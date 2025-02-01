@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+233097,70,MissedShots,0.9290000152587891,0.4209999847412109,0.07624749839305878,Léo Bonatini,a,6855,OpenPlay,2018,RightFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,Adama Traoré,Cross,6855
+233098,76,MissedShots,0.889000015258789,0.44299999237060544,0.04475019872188568,Léo Bonatini,a,6855,OpenPlay,2018,Head,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,Adama Traoré,Cross,6855
+233732,72,SavedShot,0.9080000305175782,0.539000015258789,0.4690670073032379,Léo Bonatini,a,6855,OpenPlay,2018,RightFoot,9228,West Ham,Wolverhampton Wanderers,0,1,2018-09-01 14:00:00,,None,6855
+233993,79,MissedShots,0.7780000305175782,0.48700000762939455,0.04369119927287102,Léo Bonatini,h,6855,OpenPlay,2018,LeftFoot,9244,Wolverhampton Wanderers,Burnley,1,0,2018-09-16 12:30:00,Ryan Bennett,Pass,6855
+233995,80,BlockedShot,0.8619999694824219,0.53,0.0948818027973175,Léo Bonatini,h,6855,OpenPlay,2018,LeftFoot,9244,Wolverhampton Wanderers,Burnley,1,0,2018-09-16 12:30:00,,Rebound,6855
+233994,80,BlockedShot,0.87,0.5129999923706055,0.11134099960327148,Léo Bonatini,h,6855,OpenPlay,2018,LeftFoot,9244,Wolverhampton Wanderers,Burnley,1,0,2018-09-16 12:30:00,,Dispossessed,6855
+234000,91,MissedShots,0.8819999694824219,0.5729999923706055,0.12023799866437912,Léo Bonatini,h,6855,OpenPlay,2018,RightFoot,9244,Wolverhampton Wanderers,Burnley,1,0,2018-09-16 12:30:00,Adama Traoré,Pass,6855
+234001,93,MissedShots,0.9230000305175782,0.5029999923706054,0.5409799814224243,Léo Bonatini,h,6855,OpenPlay,2018,RightFoot,9244,Wolverhampton Wanderers,Burnley,1,0,2018-09-16 12:30:00,Adama Traoré,Pass,6855
+249553,94,MissedShots,0.875,0.49599998474121093,0.045430801808834076,Léo Bonatini,a,6855,OpenPlay,2018,Head,9290,Brighton,Wolverhampton Wanderers,1,0,2018-10-27 14:00:00,Ivan Cavaleiro,Cross,6855

@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+372427,9,BlockedShot,0.8119999694824219,0.46099998474121096,0.035675499588251114,Lloyd Kelly,h,8090,FromCorner,2019,LeftFoot,12004,Bournemouth,Southampton,0,2,2020-07-19 13:00:00,Philip Billing,None,8090
+501094,80,MissedShots,0.9319999694824219,0.45,0.04771380126476288,Lloyd Kelly,a,8090,FromCorner,2022,Head,18365,Chelsea,Bournemouth,2,0,2022-12-27 17:30:00,Jaidon Anthony,Aerial,8090
+504696,56,BlockedShot,0.8959999847412109,0.575,0.0138392997905612,Lloyd Kelly,h,8090,FromCorner,2022,Head,18403,Bournemouth,Nottingham Forest,1,1,2023-01-21 15:00:00,Joe Rothwell,Aerial,8090
+518104,54,BlockedShot,0.9330000305175781,0.639000015258789,0.06118600070476532,Lloyd Kelly,a,8090,FromCorner,2022,LeftFoot,18496,Leicester,Bournemouth,0,1,2023-04-08 14:00:00,Chris Mepham,Pass,8090
+545476,8,MissedShots,0.9390000152587891,0.445,0.11604900658130646,Lloyd Kelly,h,8090,FromCorner,2023,LeftFoot,21985,Bournemouth,Burnley,2,1,2023-10-28 14:00:00,,None,8090
+560802,62,SavedShot,0.9290000152587891,0.6769999694824219,0.07322506606578827,Lloyd Kelly,a,8090,OpenPlay,2023,LeftFoot,22110,West Ham,Bournemouth,1,1,2024-02-01 19:30:00,Antoine Semenyo,Pass,8090
+571812,37,MissedShots,0.9540000152587891,0.5479999923706055,0.07130929082632065,Lloyd Kelly,h,8090,FromCorner,2023,Head,22195,Bournemouth,Crystal Palace,1,0,2024-04-02 18:45:00,Philip Billing,Aerial,8090
+579975,64,MissedShots,0.9269999694824219,0.590999984741211,0.05264177918434143,Lloyd Kelly,h,8090,FromCorner,2023,Head,22255,Bournemouth,Brentford,1,2,2024-05-11 14:00:00,Lewis Cook,Cross,8090
+589771,16,MissedShots,0.9490000152587891,0.5120000076293946,0.13068492710590363,Lloyd Kelly,h,8090,FromCorner,2024,Head,26629,Newcastle United,Tottenham,2,1,2024-09-01 12:30:00,Anthony Gordon,Cross,8090
+603760,17,MissedShots,0.95,0.515,0.0783141553401947,Lloyd Kelly,h,8090,FromCorner,2024,Head,26713,Newcastle United,West Ham,0,2,2024-11-25 20:00:00,Lewis Hall,Aerial,8090

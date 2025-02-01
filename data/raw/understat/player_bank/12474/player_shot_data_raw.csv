@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+579894,75,Goal,0.960999984741211,0.45099998474121095,0.6298984289169312,George Earthy,h,12474,OpenPlay,2023,RightFoot,22263,West Ham,Luton,3,1,2024-05-11 14:00:00,Mohammed Kudus,Pass,12474

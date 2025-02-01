@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+112893,71,BlockedShot,0.8090000152587891,0.53,0.058964598923921585,Aiden O&#039;Neill,a,1662,OpenPlay,2016,LeftFoot,485,Chelsea,Burnley,3,0,2016-08-27 18:00:00,Johann Berg Gudmundsson,Pass,1662

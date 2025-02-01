@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+186004,85,SavedShot,0.9319999694824219,0.47,0.5061600208282471,Nahki Wells,a,6389,OpenPlay,2017,RightFoot,7322,Huddersfield,Burnley,0,0,2017-12-30 15:00:00,Sam Vokes,HeadPass,6389
+194015,84,BlockedShot,0.784000015258789,0.6,0.02652139961719513,Nahki Wells,a,6389,OpenPlay,2017,LeftFoot,7386,Swansea,Burnley,1,0,2018-02-10 15:00:00,,Tackle,6389
+215684,89,MissedShots,0.8569999694824219,0.6370000076293946,0.13602900505065918,Nahki Wells,h,6389,OpenPlay,2017,RightFoot,7492,Burnley,Bournemouth,1,2,2018-05-13 15:00:00,,TakeOn,6389

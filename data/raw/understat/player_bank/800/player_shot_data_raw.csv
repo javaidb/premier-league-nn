@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+16502,70,MissedShots,0.9080000305175782,0.7040000152587891,0.07187969982624054,Matthew Jarvis,a,800,OpenPlay,2014,LeftFoot,4673,Everton,West Ham,2,1,2014-11-22 15:00:00,Kevin Nolan,Pass,800
+16504,75,MissedShots,0.865999984741211,0.6709999847412109,0.04442429915070534,Matthew Jarvis,a,800,OpenPlay,2014,LeftFoot,4673,Everton,West Ham,2,1,2014-11-22 15:00:00,,None,800
+20092,75,BlockedShot,0.9280000305175782,0.44,0.11519400030374527,Matthew Jarvis,h,800,OpenPlay,2014,RightFoot,4556,West Ham,West Bromwich Albion,1,1,2015-01-01 15:00:00,Enner Valencia,Cross,800
+23745,88,MissedShots,0.9119999694824219,0.4540000152587891,0.058270201086997986,Matthew Jarvis,h,800,OpenPlay,2014,Head,4524,West Ham,Manchester United,1,1,2015-02-08 16:15:00,,None,800
+21934,58,MissedShots,0.895,0.4540000152587891,0.09271799772977829,Matthew Jarvis,a,800,FromCorner,2014,LeftFoot,4494,Arsenal,West Ham,3,0,2015-03-14 15:00:00,,None,800
+57936,66,Goal,0.8819999694824219,0.36900001525878906,0.24923400580883026,Matthew Jarvis,h,800,OpenPlay,2015,LeftFoot,126,Norwich,Bournemouth,3,1,2015-09-12 18:00:00,Jonny Howson,Pass,800
+58147,64,SavedShot,0.9230000305175782,0.46599998474121096,0.3786090016365051,Matthew Jarvis,a,800,OpenPlay,2015,LeftFoot,140,Liverpool,Norwich,1,1,2015-09-20 19:00:00,Nathan Redmond,Cross,800
+59326,25,BlockedShot,0.8490000152587891,0.7330000305175781,0.028491999953985214,Matthew Jarvis,h,800,OpenPlay,2015,RightFoot,174,Norwich,West Bromwich Albion,0,1,2015-10-24 18:00:00,Nathan Redmond,Pass,800
+59479,27,SavedShot,0.855999984741211,0.4179999923706055,0.08527810126543045,Matthew Jarvis,a,800,OpenPlay,2015,RightFoot,183,Manchester City,Norwich,2,1,2015-10-31 19:00:00,Robbie Brady,Pass,800
+55754,31,SavedShot,0.8690000152587891,0.7580000305175781,0.02901560068130493,Matthew Jarvis,a,800,OpenPlay,2015,RightFoot,296,Bournemouth,Norwich,3,0,2016-01-16 19:00:00,Dieumerci Mbokani,Pass,800
+53702,17,MissedShots,0.795,0.6409999847412109,0.024676000699400902,Matthew Jarvis,h,800,OpenPlay,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Martin Olsson,Pass,800
+59540,46,BlockedShot,0.8380000305175781,0.28299999237060547,0.028521200641989708,Matthew Jarvis,h,800,OpenPlay,2015,LeftFoot,369,Norwich,Manchester City,0,0,2016-03-12 16:45:00,Russell Martin,Pass,800
+60538,6,BlockedShot,0.8519999694824218,0.295,0.03747989982366562,Matthew Jarvis,a,800,OpenPlay,2015,LeftFoot,399,Crystal Palace,Norwich,1,0,2016-04-09 18:00:00,Dieumerci Mbokani,Pass,800
+56423,92,MissedShots,0.960999984741211,0.664000015258789,0.09200579673051834,Matthew Jarvis,h,800,OpenPlay,2015,LeftFoot,448,Norwich,Watford,4,2,2016-05-11 22:45:00,Graham Dorrans,Pass,800
+52038,40,MissedShots,0.825999984741211,0.5320000076293945,0.06296219676733017,Matthew Jarvis,a,800,OpenPlay,2015,RightFoot,453,Everton,Norwich,3,0,2016-05-15 18:00:00,Cameron Jerome,LayOff,800

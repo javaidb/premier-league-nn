@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+481141,94,OwnGoal,0.01,0.5029999923706054,0,Ionut Radu,a,1830,OpenPlay,2022,OtherBodyPart,18587,Fiorentina,Cremonese,3,2,2022-08-14 16:30:00,,None,1830

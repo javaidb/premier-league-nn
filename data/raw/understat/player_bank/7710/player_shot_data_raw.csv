@@ -1,0 +1,44 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+311084,24,BlockedShot,0.8009999847412109,0.295,0.02044370025396347,Oliver Norwood,h,7710,OpenPlay,2019,RightFoot,11660,Sheffield United,Crystal Palace,1,0,2019-08-18 14:00:00,,None,7710
+312512,91,BlockedShot,0.7609999847412109,0.5,0.07445169985294342,Oliver Norwood,h,7710,DirectFreekick,2019,RightFoot,11665,Sheffield United,Leicester,1,2,2019-08-24 15:00:00,,Standard,7710
+315790,69,SavedShot,0.730999984741211,0.6409999847412109,0.015682799741625786,Oliver Norwood,a,7710,OpenPlay,2019,RightFoot,11675,Chelsea,Sheffield United,2,2,2019-08-31 15:00:00,Luke Freeman,Pass,7710
+322368,63,SavedShot,0.725999984741211,0.6419999694824219,0.01371499989181757,Oliver Norwood,h,7710,OpenPlay,2019,RightFoot,11703,Sheffield United,Liverpool,0,1,2019-09-28 11:30:00,Enda Stevens,Pass,7710
+326718,75,MissedShots,0.7959999847412109,0.27700000762939453,0.021540900692343712,Oliver Norwood,h,7710,OpenPlay,2019,RightFoot,11730,Sheffield United,Arsenal,1,0,2019-10-21 20:00:00,Billy Sharp,Pass,7710
+330628,2,SavedShot,0.805,0.49900001525878906,0.039673399180173874,Oliver Norwood,a,7710,SetPiece,2019,RightFoot,11759,Tottenham,Sheffield United,1,1,2019-11-09 15:00:00,,None,7710
+330641,30,MissedShots,0.75,0.3609999847412109,0.008050809614360332,Oliver Norwood,a,7710,FromCorner,2019,RightFoot,11759,Tottenham,Sheffield United,1,1,2019-11-09 15:00:00,John Fleck,Chipped,7710
+330647,48,MissedShots,0.7419999694824219,0.4229999923706055,0.01842680014669895,Oliver Norwood,a,7710,OpenPlay,2019,RightFoot,11759,Tottenham,Sheffield United,1,1,2019-11-09 15:00:00,,BallTouch,7710
+333036,35,BlockedShot,0.795,0.6140000152587891,0.02276510000228882,Oliver Norwood,h,7710,FromCorner,2019,RightFoot,11770,Sheffield United,Manchester United,3,3,2019-11-24 16:30:00,,None,7710
+335180,46,SavedShot,0.8180000305175781,0.5359999847412109,0.16598500311374664,Oliver Norwood,h,7710,DirectFreekick,2019,RightFoot,11786,Sheffield United,Newcastle United,0,2,2019-12-05 19:30:00,,Standard,7710
+336277,38,MissedShots,0.7519999694824219,0.35400001525878905,0.01882929913699627,Oliver Norwood,a,7710,OpenPlay,2019,RightFoot,11799,Norwich,Sheffield United,1,2,2019-12-08 14:00:00,John Fleck,Pass,7710
+339629,35,Goal,0.885,0.5,0.7611690163612366,Oliver Norwood,h,7710,Penalty,2019,RightFoot,11830,Sheffield United,Watford,1,1,2019-12-26 15:00:00,,Standard,7710
+339636,70,MissedShots,0.72,0.6519999694824219,0.011270199902355671,Oliver Norwood,h,7710,OpenPlay,2019,RightFoot,11830,Sheffield United,Watford,1,1,2019-12-26 15:00:00,,None,7710
+351985,28,MissedShots,0.720999984741211,0.5070000076293946,0.013569200411438942,Oliver Norwood,a,7710,OpenPlay,2019,RightFoot,11863,Arsenal,Sheffield United,1,1,2020-01-18 15:00:00,,None,7710
+352490,60,SavedShot,0.7680000305175781,0.31,0.05262479931116104,Oliver Norwood,a,7710,DirectFreekick,2019,RightFoot,11885,Crystal Palace,Sheffield United,0,1,2020-02-01 15:00:00,,Standard,7710
+352700,37,BlockedShot,0.775,0.639000015258789,0.06794880330562592,Oliver Norwood,h,7710,DirectFreekick,2019,RightFoot,11900,Sheffield United,Bournemouth,2,1,2020-02-09 14:00:00,,Standard,7710
+352701,43,BlockedShot,0.7769999694824219,0.59,0.012155200354754925,Oliver Norwood,h,7710,OpenPlay,2019,RightFoot,11900,Sheffield United,Bournemouth,2,1,2020-02-09 14:00:00,,Aerial,7710
+399379,21,BlockedShot,0.745999984741211,0.49599998474121093,0.020490799099206924,Oliver Norwood,h,7710,OpenPlay,2020,RightFoot,14622,Sheffield United,Tottenham,1,3,2021-01-17 14:00:00,Oliver Burke,Pass,7710
+401675,87,BlockedShot,0.755,0.51,0.022648099809885025,Oliver Norwood,a,7710,OpenPlay,2020,RightFoot,14642,Manchester City,Sheffield United,1,0,2021-01-30 15:00:00,John Fleck,Pass,7710
+402447,8,MissedShots,0.8130000305175781,0.5029999923706054,0.15863299369812012,Oliver Norwood,h,7710,DirectFreekick,2020,RightFoot,14649,Sheffield United,West Bromwich Albion,2,1,2021-02-02 18:00:00,,Standard,7710
+407557,62,MissedShots,0.785,0.534000015258789,0.024315299466252327,Oliver Norwood,h,7710,FromCorner,2020,RightFoot,14694,Sheffield United,Liverpool,0,2,2021-02-28 19:15:00,,None,7710
+407959,44,MissedShots,0.7419999694824219,0.5129999923706055,0.013348800130188465,Oliver Norwood,h,7710,SetPiece,2020,LeftFoot,14721,Sheffield United,Aston Villa,1,0,2021-03-03 18:00:00,,None,7710
+407971,92,MissedShots,0.2989999961853027,0.485,0.006399460136890411,Oliver Norwood,h,7710,OpenPlay,2020,RightFoot,14721,Sheffield United,Aston Villa,1,0,2021-03-03 18:00:00,,BallRecovery,7710
+412588,22,BlockedShot,0.7769999694824219,0.36400001525878906,0.018039900809526443,Oliver Norwood,a,7710,FromCorner,2020,RightFoot,14729,Leeds,Sheffield United,2,1,2021-04-03 14:00:00,,None,7710
+419326,64,SavedShot,0.85,0.49700000762939456,0.08675900101661682,Oliver Norwood,a,7710,OpenPlay,2020,RightFoot,14773,Tottenham,Sheffield United,4,0,2021-05-02 18:15:00,Oliver Burke,Pass,7710
+420099,82,MissedShots,0.705,0.5129999923706055,0.039820000529289246,Oliver Norwood,h,7710,DirectFreekick,2020,RightFoot,14782,Sheffield United,Crystal Palace,0,2,2021-05-08 14:00:00,,Standard,7710
+423258,58,MissedShots,0.7809999847412109,0.385,0.021300099790096283,Oliver Norwood,a,7710,FromCorner,2020,RightFoot,14801,Newcastle United,Sheffield United,1,0,2021-05-19 17:00:00,Chris Basham,Pass,7710
+423265,91,MissedShots,0.7340000152587891,0.4859999847412109,0.018301300704479218,Oliver Norwood,a,7710,OpenPlay,2020,RightFoot,14801,Newcastle United,Sheffield United,1,0,2021-05-19 17:00:00,David McGoldrick,Pass,7710
+532124,43,SavedShot,0.7069999694824218,0.534000015258789,0.012994728051126003,Oliver Norwood,h,7710,OpenPlay,2023,RightFoot,22280,Sheffield United,Crystal Palace,0,1,2023-08-12 14:00:00,Max Lowe,Pass,7710
+532139,87,MissedShots,0.7569999694824219,0.34900001525878904,0.01643560454249382,Oliver Norwood,h,7710,OpenPlay,2023,RightFoot,22280,Sheffield United,Crystal Palace,0,1,2023-08-12 14:00:00,,None,7710
+535943,12,MissedShots,0.7859999847412109,0.5570000076293945,0.034591544419527054,Oliver Norwood,h,7710,OpenPlay,2023,RightFoot,21926,Sheffield United,Everton,2,2,2023-09-02 11:30:00,,None,7710
+538629,94,SavedShot,0.644000015258789,0.5220000076293946,0.009540863335132599,Oliver Norwood,a,7710,OpenPlay,2023,RightFoot,21936,Tottenham,Sheffield United,2,1,2023-09-16 14:00:00,,None,7710
+542685,46,BlockedShot,0.7240000152587891,0.610999984741211,0.012775267474353313,Oliver Norwood,a,7710,OpenPlay,2023,RightFoot,21970,Fulham,Sheffield United,3,1,2023-10-07 14:00:00,Cameron Archer,Pass,7710
+544347,47,SavedShot,0.7819999694824219,0.4,0.026374172419309616,Oliver Norwood,h,7710,OpenPlay,2023,LeftFoot,21983,Sheffield United,Manchester United,1,2,2023-10-21 19:00:00,James McAtee,Pass,7710
+546809,20,BlockedShot,0.7280000305175781,0.3659999847412109,0.012498399242758751,Oliver Norwood,h,7710,OpenPlay,2023,RightFoot,22003,Sheffield United,Wolverhampton Wanderers,2,1,2023-11-04 15:00:00,,None,7710
+546819,65,MissedShots,0.7340000152587891,0.3340000152587891,0.012979858554899693,Oliver Norwood,h,7710,OpenPlay,2023,RightFoot,22003,Sheffield United,Wolverhampton Wanderers,2,1,2023-11-04 15:00:00,James McAtee,Pass,7710
+546823,84,MissedShots,0.49599998474121093,0.47,0.010487999767065048,Oliver Norwood,h,7710,OpenPlay,2023,RightFoot,22003,Sheffield United,Wolverhampton Wanderers,2,1,2023-11-04 15:00:00,,BallRecovery,7710
+546828,99,Goal,0.885,0.5,0.7611320614814758,Oliver Norwood,h,7710,Penalty,2023,RightFoot,22003,Sheffield United,Wolverhampton Wanderers,2,1,2023-11-04 15:00:00,,Standard,7710
+548875,80,BlockedShot,0.7559999847412109,0.36,0.017868774011731148,Oliver Norwood,a,7710,OpenPlay,2023,RightFoot,22008,Brighton,Sheffield United,1,1,2023-11-12 14:00:00,Gustavo Hamer,Pass,7710
+549797,43,BlockedShot,0.7390000152587891,0.5579999923706055,0.017653388902544975,Oliver Norwood,h,7710,OpenPlay,2023,RightFoot,22023,Sheffield United,Bournemouth,1,3,2023-11-25 15:00:00,Cameron Archer,Pass,7710
+551026,19,SavedShot,0.6769999694824219,0.5590000152587891,0.009896411560475826,Oliver Norwood,a,7710,OpenPlay,2023,RightFoot,22028,Burnley,Sheffield United,5,0,2023-12-02 15:00:00,,None,7710
+556083,77,SavedShot,0.74,0.39099998474121095,0.015765339136123657,Oliver Norwood,a,7710,OpenPlay,2023,RightFoot,22065,Aston Villa,Sheffield United,1,1,2023-12-22 20:00:00,Gustavo Hamer,Pass,7710
+556087,82,MissedShots,0.745,0.47,0.015431896783411503,Oliver Norwood,a,7710,OpenPlay,2023,RightFoot,22065,Aston Villa,Sheffield United,1,1,2023-12-22 20:00:00,,Rebound,7710

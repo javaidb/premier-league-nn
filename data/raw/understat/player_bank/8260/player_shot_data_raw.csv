@@ -1,0 +1,543 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+354876,58,Goal,0.8880000305175781,0.6659999847412109,0.07933320105075836,Erling Haaland,a,8260,OpenPlay,2019,LeftFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Jadon Sancho,Throughball,8260
+354881,69,Goal,0.98,0.48900001525878906,0.9206209778785706,Erling Haaland,a,8260,OpenPlay,2019,LeftFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Thorgan Hazard,Pass,8260
+354883,78,Goal,0.8830000305175781,0.34700000762939454,0.32283100485801697,Erling Haaland,a,8260,OpenPlay,2019,LeftFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,Marco Reus,Throughball,8260
+355527,65,BlockedShot,0.8859999847412109,0.639000015258789,0.11918099969625473,Erling Haaland,h,8260,OpenPlay,2019,LeftFoot,12566,Borussia Dortmund,FC Cologne,5,1,2020-01-24 19:30:00,Jadon Sancho,Pass,8260
+355531,76,Goal,0.955,0.495,0.7466409802436829,Erling Haaland,h,8260,OpenPlay,2019,LeftFoot,12566,Borussia Dortmund,FC Cologne,5,1,2020-01-24 19:30:00,,Rebound,8260
+355534,86,Goal,0.9869999694824219,0.325,0.4675059914588928,Erling Haaland,h,8260,OpenPlay,2019,LeftFoot,12566,Borussia Dortmund,FC Cologne,5,1,2020-01-24 19:30:00,Mahmoud Dahoud,TakeOn,8260
+356589,17,Goal,0.9740000152587891,0.5429999923706055,0.6271569728851318,Erling Haaland,h,8260,FromCorner,2019,LeftFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,,None,8260
+356600,75,Goal,0.915,0.5609999847412109,0.1558070033788681,Erling Haaland,h,8260,OpenPlay,2019,LeftFoot,12574,Borussia Dortmund,Union Berlin,5,0,2020-02-01 14:30:00,Julian Brandt,Pass,8260
+358133,18,SavedShot,0.9359999847412109,0.695,0.058969900012016296,Erling Haaland,a,8260,OpenPlay,2019,LeftFoot,12584,Bayer Leverkusen,Borussia Dortmund,4,3,2020-02-08 17:30:00,Jadon Sancho,Pass,8260
+358150,84,MissedShots,0.9269999694824219,0.4540000152587891,0.04765170067548752,Erling Haaland,a,8260,FromCorner,2019,Head,12584,Bayer Leverkusen,Borussia Dortmund,4,3,2020-02-08 17:30:00,Jadon Sancho,Aerial,8260
+358721,35,BlockedShot,0.8980000305175782,0.7019999694824218,0.061866000294685364,Erling Haaland,h,8260,OpenPlay,2019,LeftFoot,12592,Borussia Dortmund,Eintracht Frankfurt,4,0,2020-02-14 19:30:00,Jadon Sancho,Pass,8260
+358724,53,Goal,0.9319999694824219,0.4540000152587891,0.6322330236434937,Erling Haaland,h,8260,OpenPlay,2019,RightFoot,12592,Borussia Dortmund,Eintracht Frankfurt,4,0,2020-02-14 19:30:00,Achraf Hakimi,Pass,8260
+359820,51,BlockedShot,0.8830000305175781,0.5370000076293945,0.05577469989657402,Erling Haaland,a,8260,FromCorner,2019,LeftFoot,12606,Werder Bremen,Borussia Dortmund,0,2,2020-02-22 14:30:00,Dan-Axel Zagadou,Cross,8260
+359824,65,Goal,0.9269999694824219,0.43099998474121093,0.47116899490356445,Erling Haaland,a,8260,OpenPlay,2019,RightFoot,12606,Werder Bremen,Borussia Dortmund,0,2,2020-02-22 14:30:00,Achraf Hakimi,Pass,8260
+359829,79,SavedShot,0.8859999847412109,0.3139999961853027,0.07960090041160583,Erling Haaland,a,8260,OpenPlay,2019,RightFoot,12606,Werder Bremen,Borussia Dortmund,0,2,2020-02-22 14:30:00,Giovanni Reyna,Pass,8260
+359831,91,SavedShot,0.8930000305175781,0.32,0.24349500238895416,Erling Haaland,a,8260,OpenPlay,2019,LeftFoot,12606,Werder Bremen,Borussia Dortmund,0,2,2020-02-22 14:30:00,Emre Can,TakeOn,8260
+360744,73,MissedShots,0.775,0.615999984741211,0.05442430078983307,Erling Haaland,h,8260,OpenPlay,2019,LeftFoot,12610,Borussia Dortmund,Freiburg,1,0,2020-02-29 14:30:00,Thorgan Hazard,Pass,8260
+361828,38,BlockedShot,0.8780000305175781,0.674000015258789,0.07399290055036545,Erling Haaland,a,8260,OpenPlay,2019,LeftFoot,12621,Borussia M.Gladbach,Borussia Dortmund,1,2,2020-03-07 17:30:00,Thorgan Hazard,Pass,8260
+361841,85,MissedShots,0.9130000305175782,0.62,0.4135569930076599,Erling Haaland,a,8260,OpenPlay,2019,LeftFoot,12621,Borussia M.Gladbach,Borussia Dortmund,1,2,2020-03-07 17:30:00,Jadon Sancho,Pass,8260
+362920,23,MissedShots,0.9369999694824219,0.68,0.04732320085167885,Erling Haaland,h,8260,FromCorner,2019,LeftFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,,None,8260
+362923,28,Goal,0.9159999847412109,0.4520000076293945,0.3541730046272278,Erling Haaland,h,8260,OpenPlay,2019,LeftFoot,12628,Borussia Dortmund,Schalke 04,4,0,2020-05-16 13:30:00,Thorgan Hazard,Cross,8260
+363343,0,BlockedShot,0.8469999694824218,0.2560000038146973,0.02372249960899353,Erling Haaland,h,8260,OpenPlay,2019,LeftFoot,12652,Borussia Dortmund,Bayern Munich,0,1,2020-05-26 16:30:00,,None,8260
+363346,9,BlockedShot,0.8830000305175781,0.4209999847412109,0.10417299717664719,Erling Haaland,h,8260,OpenPlay,2019,LeftFoot,12652,Borussia Dortmund,Bayern Munich,0,1,2020-05-26 16:30:00,Thorgan Hazard,Pass,8260
+363351,27,MissedShots,0.8490000152587891,0.5409999847412109,0.04799110069870949,Erling Haaland,h,8260,OpenPlay,2019,LeftFoot,12652,Borussia Dortmund,Bayern Munich,0,1,2020-05-26 16:30:00,Raphael Guerreiro,Cross,8260
+363352,29,BlockedShot,0.88,0.665,0.06281580030918121,Erling Haaland,h,8260,OpenPlay,2019,LeftFoot,12652,Borussia Dortmund,Bayern Munich,0,1,2020-05-26 16:30:00,Thorgan Hazard,Pass,8260
+363359,57,BlockedShot,0.9030000305175782,0.6020000076293945,0.09813159704208374,Erling Haaland,h,8260,OpenPlay,2019,LeftFoot,12652,Borussia Dortmund,Bayern Munich,0,1,2020-05-26 16:30:00,Thorgan Hazard,Pass,8260
+364208,64,BlockedShot,0.8469999694824218,0.415,0.08031559735536575,Erling Haaland,a,8260,OpenPlay,2019,LeftFoot,12676,Fortuna Duesseldorf,Borussia Dortmund,0,1,2020-06-13 13:30:00,Thorgan Hazard,Pass,8260
+364213,94,Goal,0.9059999847412109,0.5029999923706054,0.11829300224781036,Erling Haaland,a,8260,OpenPlay,2019,Head,12676,Fortuna Duesseldorf,Borussia Dortmund,0,1,2020-06-13 13:30:00,Manuel Akanji,Cross,8260
+365251,9,BlockedShot,0.8540000152587891,0.54,0.0971594974398613,Erling Haaland,a,8260,OpenPlay,2019,LeftFoot,12692,RasenBallsport Leipzig,Borussia Dortmund,0,2,2020-06-20 13:30:00,Raphael Guerreiro,Pass,8260
+365253,14,SavedShot,0.9069999694824219,0.475,0.4733000099658966,Erling Haaland,a,8260,OpenPlay,2019,RightFoot,12692,RasenBallsport Leipzig,Borussia Dortmund,0,2,2020-06-20 13:30:00,Thorgan Hazard,Pass,8260
+365257,29,Goal,0.9009999847412109,0.5570000076293945,0.4343079924583435,Erling Haaland,a,8260,OpenPlay,2019,LeftFoot,12692,RasenBallsport Leipzig,Borussia Dortmund,0,2,2020-06-20 13:30:00,Giovanni Reyna,Pass,8260
+365264,51,SavedShot,0.9369999694824219,0.655,0.34138500690460205,Erling Haaland,a,8260,OpenPlay,2019,LeftFoot,12692,RasenBallsport Leipzig,Borussia Dortmund,0,2,2020-06-20 13:30:00,Mats Hummels,Pass,8260
+365276,92,Goal,0.9840000152587891,0.5270000076293946,0.9744420051574707,Erling Haaland,a,8260,OpenPlay,2019,RightFoot,12692,RasenBallsport Leipzig,Borussia Dortmund,0,2,2020-06-20 13:30:00,Julian Brandt,Pass,8260
+377669,20,SavedShot,0.9059999847412109,0.5059999847412109,0.07609739899635315,Erling Haaland,h,8260,SetPiece,2020,Head,14179,Borussia Dortmund,Borussia M.Gladbach,3,0,2020-09-19 16:30:00,Jadon Sancho,Chipped,8260
+377670,21,BlockedShot,0.88,0.6270000076293946,0.06623440235853195,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,14179,Borussia Dortmund,Borussia M.Gladbach,3,0,2020-09-19 16:30:00,Felix Passlack,Chipped,8260
+377671,22,MissedShots,0.9459999847412109,0.634000015258789,0.04479280114173889,Erling Haaland,h,8260,FromCorner,2020,LeftFoot,14179,Borussia Dortmund,Borussia M.Gladbach,3,0,2020-09-19 16:30:00,Giovanni Reyna,Cross,8260
+377680,53,Goal,0.885,0.5,0.7577769756317139,Erling Haaland,h,8260,Penalty,2020,LeftFoot,14179,Borussia Dortmund,Borussia M.Gladbach,3,0,2020-09-19 16:30:00,,Standard,8260
+377683,76,Goal,0.9269999694824219,0.575,0.4630489945411682,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,14179,Borussia Dortmund,Borussia M.Gladbach,3,0,2020-09-19 16:30:00,Jadon Sancho,Pass,8260
+378798,46,MissedShots,0.8909999847412109,0.4,0.01588580012321472,Erling Haaland,a,8260,OpenPlay,2020,Head,14184,Augsburg,Borussia Dortmund,2,0,2020-09-26 13:30:00,Emre Can,Aerial,8260
+378809,88,SavedShot,0.919000015258789,0.38299999237060545,0.310465008020401,Erling Haaland,a,8260,OpenPlay,2020,RightFoot,14184,Augsburg,Borussia Dortmund,2,0,2020-09-26 13:30:00,Jadon Sancho,Throughball,8260
+380487,30,Goal,0.9059999847412109,0.615,0.10064999759197235,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15162,Borussia Dortmund,Freiburg,4,0,2020-10-03 13:30:00,Giovanni Reyna,Pass,8260
+380489,35,MissedShots,0.924000015258789,0.644000015258789,0.10961200296878815,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15162,Borussia Dortmund,Freiburg,4,0,2020-10-03 13:30:00,Raphael Guerreiro,Pass,8260
+380501,65,Goal,0.904000015258789,0.6719999694824219,0.21781300008296967,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15162,Borussia Dortmund,Freiburg,4,0,2020-10-03 13:30:00,Giovanni Reyna,Pass,8260
+380502,77,MissedShots,0.779000015258789,0.6379999923706055,0.08480869978666306,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15162,Borussia Dortmund,Freiburg,4,0,2020-10-03 13:30:00,Julian Brandt,Pass,8260
+381777,78,MissedShots,0.9169999694824219,0.6,0.31101900339126587,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Raphael Guerreiro,Chipped,8260
+381779,82,ShotOnPost,0.955999984741211,0.6840000152587891,0.0673673003911972,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15167,Hoffenheim,Borussia Dortmund,0,1,2020-10-17 13:30:00,Axel Witsel,Pass,8260
+383456,10,SavedShot,0.8619999694824219,0.33,0.045975398272275925,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15181,Borussia Dortmund,Schalke 04,3,0,2020-10-24 16:30:00,Julian Brandt,BallRecovery,8260
+383461,27,MissedShots,0.94,0.3320000076293945,0.05870940163731575,Erling Haaland,h,8260,OpenPlay,2020,RightFoot,15181,Borussia Dortmund,Schalke 04,3,0,2020-10-24 16:30:00,Raphael Guerreiro,Chipped,8260
+383469,60,Goal,0.9419999694824219,0.34799999237060547,0.35884198546409607,Erling Haaland,h,8260,OpenPlay,2020,RightFoot,15181,Borussia Dortmund,Schalke 04,3,0,2020-10-24 16:30:00,Jadon Sancho,TakeOn,8260
+383470,67,SavedShot,0.8819999694824219,0.605999984741211,0.11431200057268143,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15181,Borussia Dortmund,Schalke 04,3,0,2020-10-24 16:30:00,Julian Brandt,Pass,8260
+386117,16,MissedShots,0.9069999694824219,0.7569999694824219,0.029790300875902176,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Marco Reus,Pass,8260
+386118,20,MissedShots,0.919000015258789,0.6120000076293945,0.5573379993438721,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Giovanni Reyna,Throughball,8260
+386132,52,BlockedShot,0.9330000305175781,0.6790000152587891,0.052600499242544174,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Marco Reus,CornerAwarded,8260
+386138,82,Goal,0.9269999694824219,0.6170000076293946,0.254036009311676,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15200,Borussia Dortmund,Bayern Munich,2,3,2020-11-07 17:30:00,Raphael Guerreiro,Chipped,8260
+387561,16,BlockedShot,0.8869999694824219,0.49599998474121093,0.22144800424575806,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15209,Hertha Berlin,Borussia Dortmund,2,5,2020-11-21 19:30:00,Mahmoud Dahoud,TakeOn,8260
+387567,34,BlockedShot,0.8440000152587891,0.639000015258789,0.055103201419115067,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15209,Hertha Berlin,Borussia Dortmund,2,5,2020-11-21 19:30:00,Julian Brandt,Pass,8260
+387570,46,Goal,0.9690000152587891,0.5120000076293946,0.570468008518219,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15209,Hertha Berlin,Borussia Dortmund,2,5,2020-11-21 19:30:00,Emre Can,Cross,8260
+387571,48,Goal,0.93,0.66,0.3199920058250427,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15209,Hertha Berlin,Borussia Dortmund,2,5,2020-11-21 19:30:00,Julian Brandt,Throughball,8260
+387575,61,Goal,0.9009999847412109,0.5179999923706055,0.1267320066690445,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15209,Hertha Berlin,Borussia Dortmund,2,5,2020-11-21 19:30:00,,BallRecovery,8260
+387580,78,Goal,0.8719999694824219,0.52,0.3473159968852997,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15209,Hertha Berlin,Borussia Dortmund,2,5,2020-11-21 19:30:00,Jude Bellingham,Pass,8260
+388693,25,MissedShots,0.8980000305175782,0.40700000762939453,0.39539799094200134,Erling Haaland,h,8260,OpenPlay,2020,RightFoot,15212,Borussia Dortmund,FC Cologne,1,2,2020-11-28 14:30:00,Marco Reus,Throughball,8260
+388703,85,BlockedShot,0.8719999694824219,0.415,0.08360280096530914,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15212,Borussia Dortmund,FC Cologne,1,2,2020-11-28 14:30:00,Giovanni Reyna,Pass,8260
+388710,94,MissedShots,0.97,0.5,0.8010349869728088,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15212,Borussia Dortmund,FC Cologne,1,2,2020-11-28 14:30:00,Marco Reus,Pass,8260
+396892,27,SavedShot,0.7569999694824219,0.6509999847412109,0.022559799253940582,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15258,Borussia Dortmund,Wolfsburg,2,0,2021-01-03 14:30:00,Mats Hummels,Pass,8260
+396894,38,MissedShots,0.9259999847412109,0.5659999847412109,0.10465899854898453,Erling Haaland,h,8260,SetPiece,2020,Head,15258,Borussia Dortmund,Wolfsburg,2,0,2021-01-03 14:30:00,Marco Reus,Cross,8260
+396896,46,SavedShot,0.8730000305175781,0.6419999694824219,0.06805720180273056,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15258,Borussia Dortmund,Wolfsburg,2,0,2021-01-03 14:30:00,Thomas Delaney,BallRecovery,8260
+396899,52,SavedShot,0.8730000305175781,0.6179999923706054,0.3298810124397278,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15258,Borussia Dortmund,Wolfsburg,2,0,2021-01-03 14:30:00,Raphael Guerreiro,Throughball,8260
+397911,57,BlockedShot,0.86,0.4640000152587891,0.11744599789381027,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15266,RasenBallsport Leipzig,Borussia Dortmund,1,3,2021-01-09 17:30:00,Jadon Sancho,Pass,8260
+397914,64,SavedShot,0.9269999694824219,0.6719999694824219,0.24591200053691864,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15266,RasenBallsport Leipzig,Borussia Dortmund,1,3,2021-01-09 17:30:00,Jadon Sancho,Pass,8260
+397918,70,Goal,0.9630000305175781,0.41200000762939454,0.48341700434684753,Erling Haaland,a,8260,OpenPlay,2020,Head,15266,RasenBallsport Leipzig,Borussia Dortmund,1,3,2021-01-09 17:30:00,Jadon Sancho,Aerial,8260
+397924,81,MissedShots,0.86,0.34700000762939454,0.08367960155010223,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15266,RasenBallsport Leipzig,Borussia Dortmund,1,3,2021-01-09 17:30:00,Jadon Sancho,Pass,8260
+397926,83,Goal,0.970999984741211,0.5870000076293945,0.746832013130188,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15266,RasenBallsport Leipzig,Borussia Dortmund,1,3,2021-01-09 17:30:00,Marco Reus,TakeOn,8260
+398974,27,SavedShot,0.9030000305175782,0.43599998474121093,0.12718699872493744,Erling Haaland,h,8260,OpenPlay,2020,RightFoot,15276,Borussia Dortmund,Mainz 05,1,1,2021-01-16 14:30:00,Thomas Meunier,Pass,8260
+399788,2,BlockedShot,0.8690000152587891,0.590999984741211,0.05261269956827164,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15286,Bayer Leverkusen,Borussia Dortmund,2,1,2021-01-19 19:30:00,Raphael Guerreiro,Cross,8260
+399811,63,BlockedShot,0.8680000305175781,0.634000015258789,0.054394498467445374,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15286,Bayer Leverkusen,Borussia Dortmund,2,1,2021-01-19 19:30:00,Julian Brandt,Pass,8260
+400226,21,Goal,0.9690000152587891,0.639000015258789,0.3205829858779907,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15293,Borussia M.Gladbach,Borussia Dortmund,4,2,2021-01-22 19:30:00,Jadon Sancho,Throughball,8260
+400230,27,Goal,0.8969999694824219,0.5470000076293945,0.43629398941993713,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15293,Borussia M.Gladbach,Borussia Dortmund,4,2,2021-01-22 19:30:00,Jadon Sancho,Pass,8260
+400241,62,MissedShots,0.9119999694824219,0.46900001525878904,0.051681701093912125,Erling Haaland,a,8260,SetPiece,2020,Head,15293,Borussia M.Gladbach,Borussia Dortmund,4,2,2021-01-22 19:30:00,Emre Can,Aerial,8260
+401615,8,MissedShots,0.879000015258789,0.590999984741211,0.1038919985294342,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15303,Borussia Dortmund,Augsburg,3,1,2021-01-30 14:30:00,Raphael Guerreiro,Pass,8260
+401619,20,ShotOnPost,0.885,0.5,0.7577769756317139,Erling Haaland,h,8260,Penalty,2020,LeftFoot,15303,Borussia Dortmund,Augsburg,3,1,2021-01-30 14:30:00,,Standard,8260
+401620,22,SavedShot,0.8980000305175782,0.455,0.030644500628113747,Erling Haaland,h,8260,OpenPlay,2020,Head,15303,Borussia Dortmund,Augsburg,3,1,2021-01-30 14:30:00,Raphael Guerreiro,Aerial,8260
+401631,81,BlockedShot,0.8540000152587891,0.595999984741211,0.1198050007224083,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15303,Borussia Dortmund,Augsburg,3,1,2021-01-30 14:30:00,Raphael Guerreiro,Pass,8260
+403084,12,SavedShot,0.9669999694824218,0.5629999923706055,0.5807200074195862,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15314,Freiburg,Borussia Dortmund,2,1,2021-02-06 14:30:00,,None,8260
+404182,9,SavedShot,0.8919999694824219,0.6020000076293945,0.3420589864253998,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15321,Borussia Dortmund,Hoffenheim,2,2,2021-02-13 14:30:00,Raphael Guerreiro,Throughball,8260
+404191,46,MissedShots,0.8169999694824219,0.4879999923706055,0.06645900011062622,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15321,Borussia Dortmund,Hoffenheim,2,2,2021-02-13 14:30:00,Giovanni Reyna,Pass,8260
+404200,80,Goal,0.8959999847412109,0.4640000152587891,0.24157799780368805,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15321,Borussia Dortmund,Hoffenheim,2,2,2021-02-13 14:30:00,,TakeOn,8260
+405648,5,BlockedShot,0.825,0.6079999923706054,0.04854070022702217,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15334,Schalke 04,Borussia Dortmund,0,4,2021-02-20 17:30:00,Mahmoud Dahoud,Pass,8260
+405657,44,Goal,0.9030000305175782,0.445,0.12016399949789047,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15334,Schalke 04,Borussia Dortmund,0,4,2021-02-20 17:30:00,Jadon Sancho,Chipped,8260
+405668,78,Goal,0.9640000152587891,0.5029999923706054,0.7836400270462036,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15334,Schalke 04,Borussia Dortmund,0,4,2021-02-20 17:30:00,Jude Bellingham,Pass,8260
+406709,37,SavedShot,0.8969999694824219,0.610999984741211,0.1034960001707077,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15339,Borussia Dortmund,Arminia Bielefeld,3,0,2021-02-27 14:30:00,Jadon Sancho,Pass,8260
+406710,38,SavedShot,0.895,0.62,0.10040800273418427,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15339,Borussia Dortmund,Arminia Bielefeld,3,0,2021-02-27 14:30:00,Jadon Sancho,Pass,8260
+406724,78,BlockedShot,0.8319999694824218,0.4879999923706055,0.09848269820213318,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15339,Borussia Dortmund,Arminia Bielefeld,3,0,2021-02-27 14:30:00,Marco Reus,Pass,8260
+408687,1,Goal,0.7830000305175782,0.549000015258789,0.03846219927072525,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Thomas Delaney,BlockedPass,8260
+408688,8,Goal,0.9569999694824218,0.5540000152587891,0.6495649814605713,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15351,Bayern Munich,Borussia Dortmund,4,2,2021-03-06 17:30:00,Thorgan Hazard,Pass,8260
+410099,21,MissedShots,0.9019999694824219,0.43900001525878907,0.08047279715538025,Erling Haaland,h,8260,SetPiece,2020,Head,15356,Borussia Dortmund,Hertha Berlin,2,0,2021-03-13 17:30:00,Marco Reus,Cross,8260
+411289,2,Goal,0.9490000152587891,0.3659999847412109,0.2713080048561096,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15371,FC Cologne,Borussia Dortmund,2,2,2021-03-20 14:30:00,Emre Can,TakeOn,8260
+411294,29,MissedShots,0.8569999694824219,0.5670000076293945,0.13848799467086792,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15371,FC Cologne,Borussia Dortmund,2,2,2021-03-20 14:30:00,Emre Can,TakeOn,8260
+411304,79,ShotOnPost,0.8980000305175782,0.43,0.061453498899936676,Erling Haaland,a,8260,OpenPlay,2020,Head,15371,FC Cologne,Borussia Dortmund,2,2,2021-03-20 14:30:00,Thomas Meunier,Cross,8260
+411305,83,MissedShots,0.8719999694824219,0.46900001525878904,0.07019820064306259,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15371,FC Cologne,Borussia Dortmund,2,2,2021-03-20 14:30:00,Reinier,HeadPass,8260
+411310,89,Goal,0.985,0.509000015258789,0.7561960220336914,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15371,FC Cologne,Borussia Dortmund,2,2,2021-03-20 14:30:00,Ansgar Knauff,Cross,8260
+412533,20,MissedShots,0.9059999847412109,0.34299999237060547,0.26950299739837646,Erling Haaland,h,8260,OpenPlay,2020,RightFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Raphael Guerreiro,Chipped,8260
+412535,24,SavedShot,0.905,0.46099998474121096,0.4605250060558319,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Thorgan Hazard,Throughball,8260
+412547,68,MissedShots,0.9080000305175782,0.7,0.05016009882092476,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Marco Reus,Chipped,8260
+412556,85,MissedShots,0.9059999847412109,0.44299999237060544,0.09345260262489319,Erling Haaland,h,8260,OpenPlay,2020,Head,15374,Borussia Dortmund,Eintracht Frankfurt,1,2,2021-04-03 13:30:00,Ansgar Knauff,Cross,8260
+414020,64,MissedShots,0.85,0.49,0.10602500289678574,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15391,VfB Stuttgart,Borussia Dortmund,2,3,2021-04-10 16:30:00,Raphael Guerreiro,Pass,8260
+415844,33,Goal,0.885,0.5,0.7577769756317139,Erling Haaland,h,8260,Penalty,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,,Standard,8260
+415845,37,Goal,0.965999984741211,0.5540000152587891,0.6235600113868713,Erling Haaland,h,8260,OpenPlay,2020,RightFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,,None,8260
+415852,66,MissedShots,0.7709999847412109,0.5220000076293946,0.034724701195955276,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Marco Reus,Pass,8260
+415859,79,SavedShot,0.815,0.49700000762939456,0.07427430152893066,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Marco Reus,Pass,8260
+415861,85,SavedShot,0.9690000152587891,0.34900001525878904,0.09841030091047287,Erling Haaland,h,8260,OpenPlay,2020,RightFoot,15392,Borussia Dortmund,Werder Bremen,4,1,2021-04-18 13:30:00,Lukasz Piszczek,Chipped,8260
+416439,26,SavedShot,0.9619999694824218,0.45099998474121095,0.5218809843063354,Erling Haaland,h,8260,SetPiece,2020,RightFoot,15402,Borussia Dortmund,Union Berlin,2,0,2021-04-21 18:30:00,,Goal,8260
+416438,26,SavedShot,0.885,0.5,0.7577769756317139,Erling Haaland,h,8260,Penalty,2020,LeftFoot,15402,Borussia Dortmund,Union Berlin,2,0,2021-04-21 18:30:00,,Standard,8260
+416442,34,SavedShot,0.9159999847412109,0.46900001525878904,0.5401570200920105,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15402,Borussia Dortmund,Union Berlin,2,0,2021-04-21 18:30:00,Giovanni Reyna,Pass,8260
+416449,74,MissedShots,0.904000015258789,0.6229999923706054,0.30559200048446655,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15402,Borussia Dortmund,Union Berlin,2,0,2021-04-21 18:30:00,Marco Reus,Chipped,8260
+416453,85,SavedShot,0.9369999694824219,0.6370000076293946,0.34963899850845337,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15402,Borussia Dortmund,Union Berlin,2,0,2021-04-21 18:30:00,Jude Bellingham,Pass,8260
+416455,91,MissedShots,0.965,0.66,0.4950149953365326,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15402,Borussia Dortmund,Union Berlin,2,0,2021-04-21 18:30:00,Jadon Sancho,TakeOn,8260
+417168,11,Goal,0.914000015258789,0.35,0.33550599217414856,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15413,Wolfsburg,Borussia Dortmund,0,2,2021-04-24 13:30:00,,BallRecovery,8260
+417175,43,MissedShots,0.89,0.5109999847412109,0.1061829999089241,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15413,Wolfsburg,Borussia Dortmund,0,2,2021-04-24 13:30:00,Raphael Guerreiro,Cross,8260
+417179,49,SavedShot,0.885,0.6430000305175781,0.08762159943580627,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15413,Wolfsburg,Borussia Dortmund,0,2,2021-04-24 13:30:00,Jadon Sancho,Pass,8260
+417186,67,Goal,0.8440000152587891,0.504000015258789,0.3223719894886017,Erling Haaland,a,8260,OpenPlay,2020,LeftFoot,15413,Wolfsburg,Borussia Dortmund,0,2,2021-04-24 13:30:00,Mahmoud Dahoud,Pass,8260
+417187,72,MissedShots,0.950999984741211,0.53,0.1365559995174408,Erling Haaland,a,8260,SetPiece,2020,Head,15413,Wolfsburg,Borussia Dortmund,0,2,2021-04-24 13:30:00,Marco Reus,Cross,8260
+424605,45,BlockedShot,0.915,0.445,0.1252560019493103,Erling Haaland,a,8260,FromCorner,2020,LeftFoot,15434,Mainz 05,Borussia Dortmund,1,3,2021-05-16 16:00:00,,Rebound,8260
+423631,4,Goal,0.9130000305175782,0.6580000305175782,0.1182280033826828,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Reinier,Throughball,8260
+423649,71,MissedShots,0.8819999694824219,0.590999984741211,0.1271120011806488,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,Nico Schulz,Pass,8260
+423653,83,Goal,0.9440000152587891,0.43099998474121093,0.873898983001709,Erling Haaland,h,8260,OpenPlay,2020,LeftFoot,15438,Borussia Dortmund,Bayer Leverkusen,3,1,2021-05-22 13:30:00,,TakeOn,8260
+426010,1,MissedShots,0.9169999694824219,0.4159999847412109,0.0931411013007164,Erling Haaland,h,8260,SetPiece,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Marco Reus,Pass,8260
+426012,7,MissedShots,0.9290000152587891,0.5320000076293945,0.5551120042800903,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Thorgan Hazard,Pass,8260
+426017,33,Goal,0.8209999847412109,0.5509999847412109,0.3060390055179596,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Marco Reus,TakeOn,8260
+426022,57,BlockedShot,0.8730000305175781,0.43099998474121093,0.09555719792842865,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,,None,8260
+426027,69,Goal,0.875,0.5670000076293945,0.31495198607444763,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,Marco Reus,Pass,8260
+426033,90,SavedShot,0.8669999694824219,0.5629999923706055,0.09405209869146347,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17522,Borussia Dortmund,Eintracht Frankfurt,5,2,2021-08-14 16:30:00,,None,8260
+426889,3,SavedShot,0.9,0.45099998474121095,0.12958300113677979,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Felix Passlack,Pass,8260
+426893,13,SavedShot,0.875,0.3529999923706055,0.06649050116539001,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Giovanni Reyna,Pass,8260
+426895,28,MissedShots,0.9030000305175782,0.54,0.09091740101575851,Erling Haaland,a,8260,OpenPlay,2021,RightFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Nico Schulz,Cross,8260
+426904,47,MissedShots,0.9269999694824219,0.515,0.11760500073432922,Erling Haaland,a,8260,FromCorner,2021,Head,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Giovanni Reyna,Cross,8260
+426912,67,MissedShots,0.8590000152587891,0.615,0.1035510003566742,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Giovanni Reyna,Chipped,8260
+426913,86,BlockedShot,0.9080000305175782,0.5329999923706055,0.07684820145368576,Erling Haaland,a,8260,FromCorner,2021,Head,17529,Freiburg,Borussia Dortmund,2,1,2021-08-21 13:30:00,Julian Brandt,Cross,8260
+428369,29,SavedShot,0.924000015258789,0.49599998474121093,0.0791132003068924,Erling Haaland,h,8260,OpenPlay,2021,Head,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Raphael Guerreiro,Aerial,8260
+428371,35,MissedShots,0.9280000305175782,0.46099998474121096,0.1333570033311844,Erling Haaland,h,8260,OpenPlay,2021,Head,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Marco Reus,Cross,8260
+428381,64,MissedShots,0.86,0.4540000152587891,0.08420760184526443,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Jude Bellingham,Dispossessed,8260
+428388,81,SavedShot,0.855999984741211,0.539000015258789,0.09961999952793121,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Donyell Malen,BallTouch,8260
+428389,86,MissedShots,0.9469999694824218,0.30700000762939456,0.07677119970321655,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Marius Wolf,Pass,8260
+428394,90,Goal,0.97,0.5840000152587891,0.45351898670196533,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,,Rebound,8260
+429784,24,SavedShot,0.8640000152587891,0.5570000076293945,0.08502460271120071,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Marco Reus,Pass,8260
+429786,36,Goal,0.925,0.4879999923706055,0.337677001953125,Erling Haaland,a,8260,OpenPlay,2021,Head,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Thomas Meunier,Cross,8260
+429794,63,BlockedShot,0.8619999694824219,0.6559999847412109,0.04907029867172241,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,Mahmoud Dahoud,BallTouch,8260
+429797,76,Goal,0.885,0.5,0.7577769756317139,Erling Haaland,a,8260,Penalty,2021,LeftFoot,17547,Bayer Leverkusen,Borussia Dortmund,3,4,2021-09-11 13:30:00,,Standard,8260
+432001,23,Goal,0.93,0.515,0.4472709894180298,Erling Haaland,h,8260,OpenPlay,2021,Head,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Thomas Meunier,Cross,8260
+432013,82,Goal,0.845999984741211,0.6430000305175781,0.06056300178170204,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Mats Hummels,Chipped,8260
+432016,86,MissedShots,0.9180000305175782,0.4,0.05166900157928467,Erling Haaland,h,8260,OpenPlay,2021,Head,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Thomas Meunier,Cross,8260
+432018,91,BlockedShot,0.8869999694824219,0.51,0.06999029964208603,Erling Haaland,h,8260,SetPiece,2021,LeftFoot,17559,Borussia Dortmund,Union Berlin,4,2,2021-09-19 15:30:00,Thomas Meunier,Cross,8260
+436135,7,MissedShots,0.9219999694824219,0.5,0.07842209935188293,Erling Haaland,h,8260,OpenPlay,2021,Head,17587,Borussia Dortmund,Mainz 05,3,1,2021-10-16 13:30:00,Julian Brandt,Aerial,8260
+436141,45,SavedShot,0.9340000152587891,0.675,0.2523399889469147,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17587,Borussia Dortmund,Mainz 05,3,1,2021-10-16 13:30:00,Donyell Malen,Pass,8260
+436143,53,Goal,0.885,0.5,0.7576959729194641,Erling Haaland,h,8260,Penalty,2021,LeftFoot,17587,Borussia Dortmund,Mainz 05,3,1,2021-10-16 13:30:00,,Standard,8260
+436149,93,Goal,0.8440000152587891,0.549000015258789,0.33464500308036804,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17587,Borussia Dortmund,Mainz 05,3,1,2021-10-16 13:30:00,Jude Bellingham,Pass,8260
+443964,72,SavedShot,0.8069999694824219,0.500999984741211,0.07715850323438644,Erling Haaland,a,8260,OpenPlay,2021,RightFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,Ansgar Knauff,LayOff,8260
+443968,79,Goal,0.955,0.47200000762939454,0.6127409934997559,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17630,Wolfsburg,Borussia Dortmund,1,3,2021-11-27 14:30:00,Julian Brandt,Cross,8260
+446360,28,MissedShots,0.919000015258789,0.645,0.10707899928092957,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Marco Reus,Pass,8260
+446366,47,Goal,0.9009999847412109,0.655,0.0706406980752945,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,Jude Bellingham,Pass,8260
+446369,57,BlockedShot,0.9259999847412109,0.6969999694824218,0.052673500031232834,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17641,Borussia Dortmund,Bayern Munich,2,3,2021-12-04 17:30:00,,None,8260
+447654,24,BlockedShot,0.8480000305175781,0.504000015258789,0.08962570130825043,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Nico Schulz,Pass,8260
+447655,26,SavedShot,0.85,0.4520000076293945,0.35450100898742676,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Jude Bellingham,Throughball,8260
+447659,50,MissedShots,0.8440000152587891,0.44299999237060544,0.06530939787626266,Erling Haaland,a,8260,OpenPlay,2021,RightFoot,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Jude Bellingham,Pass,8260
+447666,77,BlockedShot,0.92,0.5429999923706055,0.039943501353263855,Erling Haaland,a,8260,FromCorner,2021,Head,17643,Bochum,Borussia Dortmund,1,1,2021-12-11 14:30:00,Thorgan Hazard,Aerial,8260
+448979,29,BlockedShot,0.895,0.385,0.06146010011434555,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Thomas Meunier,Cross,8260
+448980,32,Goal,0.885,0.5,0.7577769756317139,Erling Haaland,h,8260,Penalty,2021,LeftFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,Standard,8260
+448982,35,MissedShots,0.8819999694824219,0.43900001525878907,0.11630400270223618,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,,Rebound,8260
+448987,57,BlockedShot,0.8569999694824219,0.5670000076293945,0.06989900022745132,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Thomas Meunier,Cross,8260
+448993,81,Goal,0.8830000305175781,0.500999984741211,0.06918910145759583,Erling Haaland,h,8260,SetPiece,2021,Head,17659,Borussia Dortmund,Greuther Fuerth,3,0,2021-12-15 19:30:00,Julian Brandt,Cross,8260
+449568,86,MissedShots,0.9119999694824219,0.44799999237060545,0.03855530172586441,Erling Haaland,a,8260,FromCorner,2021,OtherBodyPart,17663,Hertha Berlin,Borussia Dortmund,3,2,2021-12-18 17:30:00,Raphael Guerreiro,Aerial,8260
+452236,3,SavedShot,0.845999984741211,0.634000015258789,0.059314098209142685,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,,BallTouch,8260
+452237,8,MissedShots,0.879000015258789,0.6179999923706054,0.05978339910507202,Erling Haaland,a,8260,FromCorner,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Emre Can,None,8260
+452252,61,MissedShots,0.874000015258789,0.3820000076293945,0.05752509832382202,Erling Haaland,a,8260,FromCorner,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,,None,8260
+452256,69,MissedShots,0.9,0.4520000076293945,0.0703245997428894,Erling Haaland,a,8260,OpenPlay,2021,RightFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Donyell Malen,Cross,8260
+452258,71,SavedShot,0.8959999847412109,0.6930000305175781,0.0446619987487793,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Jude Bellingham,Pass,8260
+452259,72,MissedShots,0.955999984741211,0.5070000076293946,0.13634000718593597,Erling Haaland,a,8260,FromCorner,2021,Head,17675,Eintracht Frankfurt,Borussia Dortmund,2,3,2022-01-08 17:30:00,Thorgan Hazard,Cross,8260
+452979,35,MissedShots,0.9769999694824218,0.33799999237060546,0.04804439842700958,Erling Haaland,h,8260,FromCorner,2021,LeftFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Thomas Meunier,None,8260
+452981,40,MissedShots,0.8780000305175781,0.6120000076293945,0.09773249924182892,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Jude Bellingham,Pass,8260
+452983,45,Goal,0.9230000305175782,0.45099998474121095,0.5246679782867432,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Jude Bellingham,Pass,8260
+452992,74,Goal,0.915,0.6140000152587891,0.46701300144195557,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Mahmoud Dahoud,Throughball,8260
+452993,76,MissedShots,0.899000015258789,0.6990000152587891,0.07696890085935593,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17686,Borussia Dortmund,Freiburg,5,1,2022-01-14 19:30:00,Jude Bellingham,Pass,8260
+454547,5,Goal,0.9690000152587891,0.48200000762939454,0.8042629957199097,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17690,Hoffenheim,Borussia Dortmund,2,3,2022-01-22 14:30:00,Donyell Malen,Pass,8260
+454549,14,MissedShots,0.914000015258789,0.49,0.0753260999917984,Erling Haaland,a,8260,SetPiece,2021,LeftFoot,17690,Hoffenheim,Borussia Dortmund,2,3,2022-01-22 14:30:00,Julian Brandt,BallTouch,8260
+463559,67,SavedShot,0.89,0.515,0.09867720305919647,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17736,Mainz 05,Borussia Dortmund,0,1,2022-03-16 17:30:00,Nico Schulz,Cross,8260
+464770,24,MissedShots,0.899000015258789,0.41200000762939454,0.13816100358963013,Erling Haaland,a,8260,OpenPlay,2021,RightFoot,17752,FC Cologne,Borussia Dortmund,1,1,2022-03-20 18:30:00,Jude Bellingham,Chipped,8260
+464778,55,SavedShot,0.8969999694824219,0.5220000076293946,0.4312500059604645,Erling Haaland,a,8260,OpenPlay,2021,RightFoot,17752,FC Cologne,Borussia Dortmund,1,1,2022-03-20 18:30:00,Giovanni Reyna,Pass,8260
+465407,12,MissedShots,0.9,0.6320000076293946,0.07123509794473648,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17767,Borussia Dortmund,RasenBallsport Leipzig,1,4,2022-04-02 16:30:00,,None,8260
+466401,77,MissedShots,0.8819999694824219,0.4540000152587891,0.13772700726985931,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17772,VfB Stuttgart,Borussia Dortmund,0,2,2022-04-08 18:30:00,Emre Can,Pass,8260
+468036,37,Goal,0.9290000152587891,0.5120000076293946,0.6836130023002625,Erling Haaland,h,8260,OpenPlay,2021,RightFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,Marco Reus,Pass,8260
+468039,53,Goal,0.9390000152587891,0.6559999847412109,0.4359000027179718,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,Julian Brandt,Throughball,8260
+468041,60,SavedShot,0.950999984741211,0.3609999847412109,0.43202099204063416,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17785,Borussia Dortmund,Wolfsburg,6,1,2022-04-16 13:30:00,Jude Bellingham,Throughball,8260
+470147,26,MissedShots,0.8540000152587891,0.6569999694824219,0.04291290044784546,Erling Haaland,a,8260,OpenPlay,2021,RightFoot,17794,Bayern Munich,Borussia Dortmund,3,1,2022-04-23 16:30:00,Julian Brandt,Pass,8260
+470161,79,BlockedShot,0.84,0.654000015258789,0.09472040086984634,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17794,Bayern Munich,Borussia Dortmund,3,1,2022-04-23 16:30:00,Jamie Bynoe-Gittens,Throughball,8260
+470162,80,MissedShots,0.885,0.5120000076293946,0.08562120050191879,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17794,Bayern Munich,Borussia Dortmund,3,1,2022-04-23 16:30:00,Marius Wolf,Chipped,8260
+471533,17,Goal,0.885,0.5,0.7577769756317139,Erling Haaland,h,8260,Penalty,2021,LeftFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,,Standard,8260
+471539,29,Goal,0.885,0.5,0.7577769756317139,Erling Haaland,h,8260,Penalty,2021,LeftFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,,Standard,8260
+471544,46,MissedShots,0.8819999694824219,0.5459999847412109,0.023306500166654587,Erling Haaland,h,8260,OpenPlay,2021,Head,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Jude Bellingham,Aerial,8260
+471548,57,SavedShot,0.8869999694824219,0.585,0.11002600193023682,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Jude Bellingham,Pass,8260
+471549,61,Goal,0.9330000305175781,0.49,0.1429930031299591,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17803,Borussia Dortmund,Bochum,3,4,2022-04-30 13:30:00,Marco Reus,Pass,8260
+474874,58,MissedShots,0.8680000305175781,0.46,0.10690700262784958,Erling Haaland,a,8260,OpenPlay,2021,RightFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,,Rebound,8260
+474873,58,BlockedShot,0.7619999694824219,0.5070000076293946,0.03556419909000397,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,Jude Bellingham,Pass,8260
+474875,61,BlockedShot,0.87,0.645,0.1014920026063919,Erling Haaland,a,8260,OpenPlay,2021,LeftFoot,17804,Greuther Fuerth,Borussia Dortmund,1,3,2022-05-07 13:30:00,Julian Brandt,Pass,8260
+475573,59,MissedShots,0.9009999847412109,0.5409999847412109,0.08570930361747742,Erling Haaland,h,8260,OpenPlay,2021,LeftFoot,17821,Borussia Dortmund,Hertha Berlin,2,1,2022-05-14 13:30:00,Raphael Guerreiro,Cross,8260
+475576,67,Goal,0.885,0.5,0.7577769756317139,Erling Haaland,h,8260,Penalty,2021,LeftFoot,17821,Borussia Dortmund,Hertha Berlin,2,1,2022-05-14 13:30:00,,Standard,8260
+475578,75,MissedShots,0.9290000152587891,0.5079999923706054,0.1423870027065277,Erling Haaland,h,8260,OpenPlay,2021,Head,17821,Borussia Dortmund,Hertha Berlin,2,1,2022-05-14 13:30:00,Marco Reus,Cross,8260
+479846,20,MissedShots,0.9359999847412109,0.5029999923706054,0.48408499360084534,Erling Haaland,a,8260,OpenPlay,2022,Head,18211,West Ham,Manchester City,0,2,2022-08-07 15:30:00,Phil Foden,Cross,8260
+479847,35,Goal,0.885,0.5,0.7611690163612366,Erling Haaland,a,8260,Penalty,2022,LeftFoot,18211,West Ham,Manchester City,0,2,2022-08-07 15:30:00,,Standard,8260
+479854,64,Goal,0.8640000152587891,0.405,0.32805299758911133,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18211,West Ham,Manchester City,0,2,2022-08-07 15:30:00,Kevin De Bruyne,Throughball,8260
+479855,69,MissedShots,0.9530000305175781,0.5520000076293945,0.5266079902648926,Erling Haaland,a,8260,OpenPlay,2022,Head,18211,West Ham,Manchester City,0,2,2022-08-07 15:30:00,Jack Grealish,Chipped,8260
+479856,75,BlockedShot,0.894000015258789,0.71,0.06644280254840851,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18211,West Ham,Manchester City,0,2,2022-08-07 15:30:00,Ilkay Gündogan,Pass,8260
+480318,44,SavedShot,0.9330000305175781,0.7069999694824218,0.08454620093107224,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18214,Manchester City,Bournemouth,4,0,2022-08-13 14:00:00,João Cancelo,Chipped,8260
+480325,72,MissedShots,0.905,0.575,0.13663500547409058,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18214,Manchester City,Bournemouth,4,0,2022-08-13 14:00:00,Jack Grealish,Pass,8260
+482576,51,SavedShot,0.8219999694824218,0.605999984741211,0.05562619864940643,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18230,Newcastle United,Manchester City,3,3,2022-08-21 15:30:00,Rúben Dias,TakeOn,8260
+482581,59,Goal,0.9669999694824218,0.5670000076293945,0.5415260195732117,Erling Haaland,a,8260,FromCorner,2022,LeftFoot,18230,Newcastle United,Manchester City,3,3,2022-08-21 15:30:00,Rodri,Pass,8260
+482582,61,SavedShot,0.865999984741211,0.44299999237060544,0.3397890031337738,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18230,Newcastle United,Manchester City,3,3,2022-08-21 15:30:00,Kevin De Bruyne,Throughball,8260
+482586,77,MissedShots,0.955999984741211,0.5609999847412109,0.580489993095398,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18230,Newcastle United,Manchester City,3,3,2022-08-21 15:30:00,,None,8260
+483627,12,MissedShots,0.919000015258789,0.43400001525878906,0.023860400542616844,Erling Haaland,h,8260,FromCorner,2022,Head,18237,Manchester City,Crystal Palace,4,2,2022-08-27 14:00:00,Riyad Mahrez,Aerial,8260
+483629,22,MissedShots,0.9719999694824218,0.72,0.08428049832582474,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18237,Manchester City,Crystal Palace,4,2,2022-08-27 14:00:00,Phil Foden,Throughball,8260
+483631,31,MissedShots,0.9059999847412109,0.595999984741211,0.0427360013127327,Erling Haaland,h,8260,OpenPlay,2022,Head,18237,Manchester City,Crystal Palace,4,2,2022-08-27 14:00:00,,Aerial,8260
+483637,61,Goal,0.95,0.5,0.46911099553108215,Erling Haaland,h,8260,OpenPlay,2022,Head,18237,Manchester City,Crystal Palace,4,2,2022-08-27 14:00:00,Phil Foden,Chipped,8260
+483640,69,Goal,0.9730000305175781,0.5629999923706055,0.5720340013504028,Erling Haaland,h,8260,FromCorner,2022,LeftFoot,18237,Manchester City,Crystal Palace,4,2,2022-08-27 14:00:00,John Stones,Rebound,8260
+483641,72,MissedShots,0.8719999694824219,0.5179999923706055,0.055922698229551315,Erling Haaland,h,8260,OpenPlay,2022,Head,18237,Manchester City,Crystal Palace,4,2,2022-08-27 14:00:00,Phil Foden,Cross,8260
+483643,80,Goal,0.875999984741211,0.5159999847412109,0.3726620078086853,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18237,Manchester City,Crystal Palace,4,2,2022-08-27 14:00:00,Ilkay Gündogan,Pass,8260
+485197,11,Goal,0.950999984741211,0.5120000076293946,0.5539680123329163,Erling Haaland,h,8260,FromCorner,2022,LeftFoot,18246,Manchester City,Nottingham Forest,6,0,2022-08-31 18:30:00,Phil Foden,Cross,8260
+485199,22,Goal,0.92,0.45799999237060546,0.492141991853714,Erling Haaland,h,8260,OpenPlay,2022,RightFoot,18246,Manchester City,Nottingham Forest,6,0,2022-08-31 18:30:00,,Dispossessed,8260
+485200,29,MissedShots,0.9009999847412109,0.5629999923706055,0.07161930203437805,Erling Haaland,h,8260,SetPiece,2022,Head,18246,Manchester City,Nottingham Forest,6,0,2022-08-31 18:30:00,Ilkay Gündogan,Cross,8260
+485201,37,Goal,0.980999984741211,0.4759999847412109,0.6953009963035583,Erling Haaland,h,8260,FromCorner,2022,Head,18246,Manchester City,Nottingham Forest,6,0,2022-08-31 18:30:00,John Stones,HeadPass,8260
+486141,49,Goal,0.9790000152587891,0.5479999923706055,0.5999889969825745,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18258,Aston Villa,Manchester City,1,1,2022-09-03 16:30:00,Kevin De Bruyne,Cross,8260
+486144,63,SavedShot,0.9,0.42200000762939455,0.13967199623584747,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18258,Aston Villa,Manchester City,1,1,2022-09-03 16:30:00,,TakeOn,8260
+486146,67,SavedShot,0.86,0.505,0.11906100064516068,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18258,Aston Villa,Manchester City,1,1,2022-09-03 16:30:00,Kevin De Bruyne,Pass,8260
+488551,15,Goal,0.8030000305175782,0.5320000076293945,0.061806198209524155,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18274,Wolverhampton Wanderers,Manchester City,0,3,2022-09-17 11:30:00,Bernardo Silva,Pass,8260
+488563,66,SavedShot,0.8190000152587891,0.4979999923706055,0.08831699937582016,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18274,Wolverhampton Wanderers,Manchester City,0,3,2022-09-17 11:30:00,Jack Grealish,Pass,8260
+490630,2,MissedShots,0.9590000152587891,0.4,0.03885030001401901,Erling Haaland,h,8260,OpenPlay,2022,Head,18289,Manchester City,Manchester United,6,3,2022-10-02 13:00:00,Bernardo Silva,Chipped,8260
+490643,33,Goal,0.9490000152587891,0.4859999847412109,0.07706859707832336,Erling Haaland,h,8260,FromCorner,2022,Head,18289,Manchester City,Manchester United,6,3,2022-10-02 13:00:00,Kevin De Bruyne,Aerial,8260
+490644,36,Goal,0.9640000152587891,0.5590000152587891,0.5460309982299805,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18289,Manchester City,Manchester United,6,3,2022-10-02 13:00:00,Kevin De Bruyne,Chipped,8260
+490651,63,MissedShots,0.905,0.6680000305175782,0.13559700548648834,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18289,Manchester City,Manchester United,6,3,2022-10-02 13:00:00,Bernardo Silva,Throughball,8260
+490652,63,Goal,0.91,0.5,0.14154300093650818,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18289,Manchester City,Manchester United,6,3,2022-10-02 13:00:00,Sergio Gómez,Cross,8260
+490656,75,BlockedShot,0.8869999694824219,0.6630000305175782,0.08242630213499069,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18289,Manchester City,Manchester United,6,3,2022-10-02 13:00:00,Cole Palmer,Pass,8260
+491596,13,ShotOnPost,0.8440000152587891,0.40700000762939453,0.3033739924430847,Erling Haaland,h,8260,OpenPlay,2022,RightFoot,18298,Manchester City,Southampton,4,0,2022-10-08 14:00:00,Phil Foden,Throughball,8260
+491599,28,BlockedShot,0.899000015258789,0.355,0.05578630045056343,Erling Haaland,h,8260,FromCorner,2022,LeftFoot,18298,Manchester City,Southampton,4,0,2022-10-08 14:00:00,,None,8260
+491602,38,BlockedShot,0.850999984741211,0.5690000152587891,0.11160899698734283,Erling Haaland,h,8260,OpenPlay,2022,RightFoot,18298,Manchester City,Southampton,4,0,2022-10-08 14:00:00,Kevin De Bruyne,Pass,8260
+491608,51,MissedShots,0.8719999694824219,0.549000015258789,0.11905600130558014,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18298,Manchester City,Southampton,4,0,2022-10-08 14:00:00,Phil Foden,Cross,8260
+491610,64,Goal,0.8969999694824219,0.5690000152587891,0.13886700570583344,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18298,Manchester City,Southampton,4,0,2022-10-08 14:00:00,João Cancelo,Pass,8260
+493832,14,BlockedShot,0.85,0.705,0.028689000755548477,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18307,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,Rodri,Chipped,8260
+493838,32,SavedShot,0.8880000305175781,0.7390000152587891,0.031383901834487915,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18307,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,Ilkay Gündogan,Pass,8260
+493839,34,MissedShots,0.9269999694824219,0.5409999847412109,0.06155629828572273,Erling Haaland,a,8260,OpenPlay,2022,Head,18307,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,Kevin De Bruyne,Aerial,8260
+493841,39,SavedShot,0.955,0.5990000152587891,0.258199006319046,Erling Haaland,a,8260,OpenPlay,2022,Head,18307,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,Kevin De Bruyne,Chipped,8260
+493847,63,SavedShot,0.8490000152587891,0.4909999847412109,0.09623999893665314,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18307,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,Ilkay Gündogan,Pass,8260
+493860,95,SavedShot,0.9169999694824219,0.45599998474121095,0.07673130184412003,Erling Haaland,a,8260,OpenPlay,2022,OtherBodyPart,18307,Liverpool,Manchester City,1,0,2022-10-16 15:30:00,Kevin De Bruyne,Cross,8260
+495017,21,Goal,0.92,0.3559999847412109,0.28556498885154724,Erling Haaland,h,8260,OpenPlay,2022,RightFoot,18326,Manchester City,Brighton,3,1,2022-10-22 14:00:00,Ederson,Chipped,8260
+495022,42,Goal,0.885,0.5,0.7611690163612366,Erling Haaland,h,8260,Penalty,2022,LeftFoot,18326,Manchester City,Brighton,3,1,2022-10-22 14:00:00,,Standard,8260
+495028,70,BlockedShot,0.8819999694824219,0.5920000076293945,0.09461689740419388,Erling Haaland,h,8260,OpenPlay,2022,RightFoot,18326,Manchester City,Brighton,3,1,2022-10-22 14:00:00,,None,8260
+498069,68,MissedShots,0.9640000152587891,0.64,0.045961398631334305,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18346,Manchester City,Fulham,2,1,2022-11-05 15:00:00,John Stones,Cross,8260
+498070,83,BlockedShot,0.91,0.68,0.11448600143194199,Erling Haaland,h,8260,OpenPlay,2022,RightFoot,18346,Manchester City,Fulham,2,1,2022-11-05 15:00:00,Kevin De Bruyne,Throughball,8260
+498071,88,BlockedShot,0.9259999847412109,0.445,0.05797639861702919,Erling Haaland,h,8260,OpenPlay,2022,Head,18346,Manchester City,Fulham,2,1,2022-11-05 15:00:00,Kevin De Bruyne,Aerial,8260
+498072,94,Goal,0.885,0.5,0.7611690163612366,Erling Haaland,h,8260,Penalty,2022,LeftFoot,18346,Manchester City,Fulham,2,1,2022-11-05 15:00:00,,Standard,8260
+499891,9,BlockedShot,0.845,0.6630000305175782,0.04682449996471405,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18356,Manchester City,Brentford,1,2,2022-11-12 12:30:00,Phil Foden,Pass,8260
+501272,0,SavedShot,0.825999984741211,0.6980000305175781,0.03462440147995949,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,Nathan Aké,Chipped,8260
+501273,3,MissedShots,0.8809999847412109,0.40900001525878904,0.0756651982665062,Erling Haaland,a,8260,SetPiece,2022,LeftFoot,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,Riyad Mahrez,Chipped,8260
+501278,30,SavedShot,0.8380000305175781,0.46,0.33365398645401,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,Kevin De Bruyne,Throughball,8260
+501279,31,MissedShots,0.8909999847412109,0.495,0.06594490259885788,Erling Haaland,a,8260,FromCorner,2022,Head,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,Riyad Mahrez,Cross,8260
+501290,50,Goal,0.8869999694824219,0.54,0.399509996175766,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,Jack Grealish,Pass,8260
+501296,63,Goal,0.8869999694824219,0.5690000152587891,0.13546599447727203,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,Jack Grealish,Pass,8260
+501299,77,SavedShot,0.8519999694824218,0.5,0.4416149854660034,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,Rodri,Throughball,8260
+501306,91,BlockedShot,0.865999984741211,0.5159999847412109,0.09111300110816956,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18368,Leeds,Manchester City,1,3,2022-12-28 20:00:00,,Rebound,8260
+501722,10,MissedShots,0.985999984741211,0.66,0.3060060143470764,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18376,Manchester City,Everton,1,1,2022-12-31 15:00:00,Kevin De Bruyne,Throughball,8260
+501723,23,Goal,0.925,0.51,0.5327680110931396,Erling Haaland,h,8260,OpenPlay,2022,RightFoot,18376,Manchester City,Everton,1,1,2022-12-31 15:00:00,Riyad Mahrez,Pass,8260
+502599,37,MissedShots,0.874000015258789,0.385,0.08666189759969711,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18385,Chelsea,Manchester City,0,1,2023-01-05 20:00:00,Ilkay Gündogan,Pass,8260
+502604,47,MissedShots,0.775,0.4829999923706055,0.033770401030778885,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18385,Chelsea,Manchester City,0,1,2023-01-05 20:00:00,,BallRecovery,8260
+502611,72,MissedShots,0.9590000152587891,0.5820000076293945,0.45892301201820374,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18385,Chelsea,Manchester City,0,1,2023-01-05 20:00:00,Kevin De Bruyne,Pass,8260
+503447,22,BlockedShot,0.8480000305175781,0.4520000076293945,0.0671859011054039,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18397,Manchester United,Manchester City,2,1,2023-01-14 12:30:00,,None,8260
+503457,86,MissedShots,0.875,0.5459999847412109,0.03950849920511246,Erling Haaland,a,8260,OpenPlay,2022,Head,18397,Manchester United,Manchester City,2,1,2023-01-14 12:30:00,João Cancelo,Cross,8260
+504355,41,SavedShot,0.9,0.6509999847412109,0.12026099860668182,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18267,Manchester City,Tottenham,4,2,2023-01-19 19:00:00,Nathan Aké,Throughball,8260
+504356,42,MissedShots,0.9169999694824219,0.5279999923706055,0.43265300989151,Erling Haaland,h,8260,OpenPlay,2022,Head,18267,Manchester City,Tottenham,4,2,2023-01-19 19:00:00,Rodri,Aerial,8260
+504363,52,Goal,0.9680000305175781,0.5159999847412109,0.5429559946060181,Erling Haaland,h,8260,OpenPlay,2022,Head,18267,Manchester City,Tottenham,4,2,2023-01-19 19:00:00,Riyad Mahrez,HeadPass,8260
+504942,18,SavedShot,0.9059999847412109,0.600999984741211,0.10977199673652649,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18409,Manchester City,Wolverhampton Wanderers,3,0,2023-01-22 14:00:00,Kevin De Bruyne,Pass,8260
+504947,39,Goal,0.9319999694824219,0.5279999923706055,0.4696820080280304,Erling Haaland,h,8260,OpenPlay,2022,Head,18409,Manchester City,Wolverhampton Wanderers,3,0,2023-01-22 14:00:00,Kevin De Bruyne,Aerial,8260
+504951,49,Goal,0.885,0.5,0.7611690163612366,Erling Haaland,h,8260,Penalty,2022,LeftFoot,18409,Manchester City,Wolverhampton Wanderers,3,0,2023-01-22 14:00:00,,Standard,8260
+504953,53,Goal,0.915,0.534000015258789,0.53855299949646,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18409,Manchester City,Wolverhampton Wanderers,3,0,2023-01-22 14:00:00,Riyad Mahrez,Pass,8260
+509030,20,MissedShots,0.9419999694824219,0.45599998474121095,0.5382140278816223,Erling Haaland,h,8260,FromCorner,2022,LeftFoot,18429,Manchester City,Aston Villa,3,1,2023-02-12 16:30:00,,Rebound,8260
+509281,44,BlockedShot,0.875,0.38799999237060545,0.07631509751081467,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18312,Arsenal,Manchester City,1,3,2023-02-15 18:30:00,Jack Grealish,BallTouch,8260
+509286,68,SavedShot,0.95,0.34200000762939453,0.3033350110054016,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18312,Arsenal,Manchester City,1,3,2023-02-15 18:30:00,Bernardo Silva,Pass,8260
+509288,81,Goal,0.9069999694824219,0.4370000076293945,0.40649598836898804,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18312,Arsenal,Manchester City,1,3,2023-02-15 18:30:00,Kevin De Bruyne,Pass,8260
+509777,66,ShotOnPost,0.9159999847412109,0.5670000076293945,0.41300201416015625,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18439,Nottingham Forest,Manchester City,1,1,2023-02-18 15:00:00,,Rebound,8260
+509778,66,MissedShots,0.9469999694824218,0.4929999923706055,0.6549550294876099,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18439,Nottingham Forest,Manchester City,1,1,2023-02-18 15:00:00,,Rebound,8260
+511016,14,BlockedShot,0.9069999694824219,0.4279999923706055,0.1322219967842102,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18442,Bournemouth,Manchester City,1,4,2023-02-25 17:30:00,Phil Foden,TakeOn,8260
+511018,20,BlockedShot,0.9319999694824219,0.6980000305175781,0.13284699618816376,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18442,Bournemouth,Manchester City,1,4,2023-02-25 17:30:00,Julián Álvarez,Throughball,8260
+511021,28,Goal,0.9669999694824218,0.5509999847412109,0.6841059923171997,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18442,Bournemouth,Manchester City,1,4,2023-02-25 17:30:00,Phil Foden,Pass,8260
+511880,33,MissedShots,0.9459999847412109,0.45599998474121095,0.11131200194358826,Erling Haaland,h,8260,OpenPlay,2022,Head,18458,Manchester City,Newcastle United,2,0,2023-03-04 12:30:00,Kevin De Bruyne,Aerial,8260
+511883,59,MissedShots,0.8830000305175781,0.6580000305175782,0.07136490195989609,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18458,Manchester City,Newcastle United,2,0,2023-03-04 12:30:00,Kevin De Bruyne,Chipped,8260
+513671,18,BlockedShot,0.7959999847412109,0.4329999923706055,0.041756801307201385,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18463,Crystal Palace,Manchester City,0,1,2023-03-11 17:30:00,Rodri,Pass,8260
+513673,27,MissedShots,0.9269999694824219,0.505,0.5641909837722778,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18463,Crystal Palace,Manchester City,0,1,2023-03-11 17:30:00,Nathan Aké,Pass,8260
+513674,31,BlockedShot,0.8630000305175781,0.32799999237060545,0.04613510146737099,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18463,Crystal Palace,Manchester City,0,1,2023-03-11 17:30:00,Phil Foden,Pass,8260
+513680,77,Goal,0.885,0.5,0.7611690163612366,Erling Haaland,a,8260,Penalty,2022,LeftFoot,18463,Crystal Palace,Manchester City,0,1,2023-03-11 17:30:00,,Standard,8260
+513681,82,MissedShots,0.9130000305175782,0.46799999237060547,0.1270740032196045,Erling Haaland,a,8260,OpenPlay,2022,Head,18463,Crystal Palace,Manchester City,0,1,2023-03-11 17:30:00,Jack Grealish,Cross,8260
+518223,40,MissedShots,0.9780000305175781,0.4279999923706055,0.07566139847040176,Erling Haaland,a,8260,OpenPlay,2022,Head,18499,Southampton,Manchester City,1,4,2023-04-08 16:30:00,,Aerial,8260
+518225,44,Goal,0.9519999694824218,0.49599998474121093,0.5902569890022278,Erling Haaland,a,8260,OpenPlay,2022,Head,18499,Southampton,Manchester City,1,4,2023-04-08 16:30:00,Kevin De Bruyne,Cross,8260
+518233,67,Goal,0.9280000305175782,0.45099998474121095,0.46863698959350586,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18499,Southampton,Manchester City,1,4,2023-04-08 16:30:00,Jack Grealish,Chipped,8260
+519647,9,MissedShots,0.9259999847412109,0.5670000076293945,0.1252879947423935,Erling Haaland,h,8260,FromCorner,2022,LeftFoot,18506,Manchester City,Leicester,3,1,2023-04-15 16:30:00,Riyad Mahrez,Rebound,8260
+519649,12,Goal,0.885,0.5,0.7611690163612366,Erling Haaland,h,8260,Penalty,2022,LeftFoot,18506,Manchester City,Leicester,3,1,2023-04-15 16:30:00,,Standard,8260
+519651,24,Goal,0.875999984741211,0.605,0.3326219916343689,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18506,Manchester City,Leicester,3,1,2023-04-15 16:30:00,Kevin De Bruyne,Pass,8260
+522170,27,SavedShot,0.895,0.4370000076293945,0.40684202313423157,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18531,Manchester City,Arsenal,4,1,2023-04-26 19:00:00,Kevin De Bruyne,TakeOn,8260
+522171,31,SavedShot,0.9390000152587891,0.7069999694824218,0.06110943481326103,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18531,Manchester City,Arsenal,4,1,2023-04-26 19:00:00,Jack Grealish,Chipped,8260
+522173,35,MissedShots,0.8490000152587891,0.5379999923706055,0.13109342753887177,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18531,Manchester City,Arsenal,4,1,2023-04-26 19:00:00,Jack Grealish,Pass,8260
+522174,40,SavedShot,0.9130000305175782,0.5879999923706055,0.12950509786605835,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18531,Manchester City,Arsenal,4,1,2023-04-26 19:00:00,Ilkay Gündogan,Pass,8260
+522178,52,SavedShot,0.8380000305175781,0.4779999923706055,0.2996329665184021,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18531,Manchester City,Arsenal,4,1,2023-04-26 19:00:00,Rúben Dias,Chipped,8260
+522187,94,Goal,0.860999984741211,0.49599998474121093,0.1210688054561615,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18531,Manchester City,Arsenal,4,1,2023-04-26 19:00:00,Phil Foden,Pass,8260
+523289,2,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,a,8260,Penalty,2022,LeftFoot,18537,Fulham,Manchester City,1,2,2023-04-30 13:00:00,,Standard,8260
+523292,25,MissedShots,0.9919999694824219,0.35400001525878905,0.053700678050518036,Erling Haaland,a,8260,OpenPlay,2022,RightFoot,18537,Fulham,Manchester City,1,2,2023-04-30 13:00:00,Riyad Mahrez,Chipped,8260
+523299,47,SavedShot,0.8780000305175781,0.5590000152587891,0.12054423242807388,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18537,Fulham,Manchester City,1,2,2023-04-30 13:00:00,Jack Grealish,Pass,8260
+523301,72,MissedShots,0.9019999694824219,0.4370000076293945,0.050973668694496155,Erling Haaland,a,8260,SetPiece,2022,Head,18537,Fulham,Manchester City,1,2,2023-04-30 13:00:00,Manuel Akanji,Chipped,8260
+524011,23,MissedShots,0.9819999694824219,0.4229999923706055,0.3323915898799896,Erling Haaland,h,8260,OpenPlay,2022,Head,18478,Manchester City,West Ham,3,0,2023-05-03 19:00:00,Jack Grealish,Cross,8260
+524022,69,Goal,0.8590000152587891,0.5920000076293945,0.5438916683197021,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18478,Manchester City,West Ham,3,0,2023-05-03 19:00:00,Jack Grealish,Throughball,8260
+524643,1,MissedShots,0.769000015258789,0.62,0.02032453939318657,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18546,Manchester City,Leeds,2,1,2023-05-06 14:00:00,Phil Foden,Pass,8260
+524648,16,SavedShot,0.8930000305175781,0.620999984741211,0.33728551864624023,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18546,Manchester City,Leeds,2,1,2023-05-06 14:00:00,,None,8260
+524650,24,MissedShots,0.8669999694824219,0.519000015258789,0.39077985286712646,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18546,Manchester City,Leeds,2,1,2023-05-06 14:00:00,Kevin De Bruyne,Pass,8260
+524654,34,MissedShots,0.9540000152587891,0.335,0.13645783066749573,Erling Haaland,h,8260,OpenPlay,2022,RightFoot,18546,Manchester City,Leeds,2,1,2023-05-06 14:00:00,Kevin De Bruyne,Throughball,8260
+524656,52,SavedShot,0.9269999694824219,0.5029999923706054,0.07178524136543274,Erling Haaland,h,8260,OpenPlay,2022,Head,18546,Manchester City,Leeds,2,1,2023-05-06 14:00:00,Julián Álvarez,Aerial,8260
+524658,61,ShotOnPost,0.8219999694824218,0.53,0.41656190156936646,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18546,Manchester City,Leeds,2,1,2023-05-06 14:00:00,Rico Lewis,Throughball,8260
+526443,38,Goal,0.9519999694824218,0.46799999237060547,0.5702345967292786,Erling Haaland,a,8260,OpenPlay,2022,Head,18557,Everton,Manchester City,0,3,2023-05-14 13:00:00,Ilkay Gündogan,Cross,8260
+526449,59,MissedShots,0.9059999847412109,0.36700000762939455,0.13939005136489868,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18557,Everton,Manchester City,0,3,2023-05-14 13:00:00,Phil Foden,Chipped,8260
+528108,73,MissedShots,0.9280000305175782,0.6809999847412109,0.13480524718761444,Erling Haaland,h,8260,OpenPlay,2022,LeftFoot,18566,Manchester City,Chelsea,1,0,2023-05-21 15:00:00,Julián Álvarez,Throughball,8260
+528606,4,MissedShots,0.895,0.5309999847412109,0.10012829303741455,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18515,Brighton,Manchester City,1,1,2023-05-24 19:00:00,Bernardo Silva,Cross,8260
+528607,5,MissedShots,0.96,0.46,0.5399767160415649,Erling Haaland,a,8260,OpenPlay,2022,Head,18515,Brighton,Manchester City,1,1,2023-05-24 19:00:00,Phil Foden,Chipped,8260
+528612,20,SavedShot,0.9009999847412109,0.539000015258789,0.4356217682361603,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18515,Brighton,Manchester City,1,1,2023-05-24 19:00:00,Phil Foden,Pass,8260
+528623,47,MissedShots,0.8540000152587891,0.5320000076293945,0.06592796742916107,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18515,Brighton,Manchester City,1,1,2023-05-24 19:00:00,Bernardo Silva,Cross,8260
+528634,65,MissedShots,0.8630000305175781,0.7030000305175781,0.02927715890109539,Erling Haaland,a,8260,OpenPlay,2022,LeftFoot,18515,Brighton,Manchester City,1,1,2023-05-24 19:00:00,Julián Álvarez,Chipped,8260
+528638,88,MissedShots,0.9059999847412109,0.49700000762939456,0.04707805812358856,Erling Haaland,a,8260,SetPiece,2022,Head,18515,Brighton,Manchester City,1,1,2023-05-24 19:00:00,Riyad Mahrez,Aerial,8260
+531929,3,Goal,0.9369999694824219,0.5059999847412109,0.5058456659317017,Erling Haaland,a,8260,FromCorner,2023,LeftFoot,22275,Burnley,Manchester City,0,3,2023-08-11 19:00:00,Rodri,HeadPass,8260
+531931,10,MissedShots,0.9519999694824218,0.4209999847412109,0.13024680316448212,Erling Haaland,a,8260,OpenPlay,2023,RightFoot,22275,Burnley,Manchester City,0,3,2023-08-11 19:00:00,Kevin De Bruyne,Cross,8260
+531935,35,Goal,0.8909999847412109,0.385,0.11321365833282471,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,22275,Burnley,Manchester City,0,3,2023-08-11 19:00:00,Julián Álvarez,Pass,8260
+531938,51,BlockedShot,0.9440000152587891,0.6819999694824219,0.13275626301765442,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,22275,Burnley,Manchester City,0,3,2023-08-11 19:00:00,Julián Álvarez,Throughball,8260
+533583,40,MissedShots,0.8619999694824219,0.62,0.0904695987701416,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22291,Manchester City,Newcastle United,1,0,2023-08-19 19:00:00,Phil Foden,Pass,8260
+533586,49,SavedShot,0.8640000152587891,0.5870000076293945,0.08619220554828644,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22291,Manchester City,Newcastle United,1,0,2023-08-19 19:00:00,,None,8260
+533587,62,MissedShots,0.87,0.53,0.12473570555448532,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22291,Manchester City,Newcastle United,1,0,2023-08-19 19:00:00,Phil Foden,Pass,8260
+533588,64,SavedShot,0.895,0.3629999923706055,0.10658423602581024,Erling Haaland,h,8260,OpenPlay,2023,RightFoot,22291,Manchester City,Newcastle United,1,0,2023-08-19 19:00:00,Phil Foden,Pass,8260
+535207,7,MissedShots,0.8880000305175781,0.4279999923706055,0.042499348521232605,Erling Haaland,a,8260,OpenPlay,2023,Head,22303,Sheffield United,Manchester City,1,2,2023-08-27 13:00:00,Bernardo Silva,Cross,8260
+535208,11,SavedShot,0.904000015258789,0.5329999923706055,0.0838533341884613,Erling Haaland,a,8260,OpenPlay,2023,Head,22303,Sheffield United,Manchester City,1,2,2023-08-27 13:00:00,Julián Álvarez,Cross,8260
+535209,12,BlockedShot,0.9230000305175782,0.6220000076293946,0.04815639182925224,Erling Haaland,a,8260,FromCorner,2023,LeftFoot,22303,Sheffield United,Manchester City,1,2,2023-08-27 13:00:00,Julián Álvarez,Cross,8260
+535215,36,ShotOnPost,0.885,0.5,0.7611688375473022,Erling Haaland,a,8260,Penalty,2023,LeftFoot,22303,Sheffield United,Manchester City,1,2,2023-08-27 13:00:00,,Standard,8260
+535221,50,MissedShots,0.9159999847412109,0.509000015258789,0.12007570266723633,Erling Haaland,a,8260,OpenPlay,2023,RightFoot,22303,Sheffield United,Manchester City,1,2,2023-08-27 13:00:00,Kyle Walker,Cross,8260
+535226,60,SavedShot,0.9269999694824219,0.6,0.38656750321388245,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,22303,Sheffield United,Manchester City,1,2,2023-08-27 13:00:00,Mateo Kovacic,Pass,8260
+535229,62,Goal,0.965999984741211,0.43900001525878907,0.5121867656707764,Erling Haaland,a,8260,OpenPlay,2023,Head,22303,Sheffield United,Manchester City,1,2,2023-08-27 13:00:00,Jack Grealish,Cross,8260
+535238,87,MissedShots,0.9430000305175781,0.5,0.14445701241493225,Erling Haaland,a,8260,OpenPlay,2023,Head,22303,Sheffield United,Manchester City,1,2,2023-08-27 13:00:00,Bernardo Silva,Cross,8260
+536288,30,MissedShots,0.8969999694824219,0.6659999847412109,0.06953159719705582,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,21927,Manchester City,Fulham,5,1,2023-09-02 14:00:00,Mateo Kovacic,Pass,8260
+536295,57,Goal,0.8530000305175781,0.47,0.3721029758453369,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,21927,Manchester City,Fulham,5,1,2023-09-02 14:00:00,,None,8260
+536298,69,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,h,8260,Penalty,2023,LeftFoot,21927,Manchester City,Fulham,5,1,2023-09-02 14:00:00,,Standard,8260
+536300,94,Goal,0.8730000305175781,0.5420000076293945,0.12880565226078033,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,21927,Manchester City,Fulham,5,1,2023-09-02 14:00:00,Sergio Gómez,Pass,8260
+537601,6,BlockedShot,0.884000015258789,0.43599998474121093,0.08024649322032928,Erling Haaland,a,8260,FromCorner,2023,LeftFoot,21937,West Ham,Manchester City,1,3,2023-09-16 14:00:00,Jéremy Doku,HeadPass,8260
+537599,6,BlockedShot,0.9540000152587891,0.52,0.6378518342971802,Erling Haaland,a,8260,FromCorner,2023,LeftFoot,21937,West Ham,Manchester City,1,3,2023-09-16 14:00:00,Rodri,Pass,8260
+537602,14,MissedShots,0.9319999694824219,0.435,0.3717876970767975,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,21937,West Ham,Manchester City,1,3,2023-09-16 14:00:00,Josko Gvardiol,Cross,8260
+537607,27,BlockedShot,0.8619999694824219,0.620999984741211,0.07842324674129486,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,21937,West Ham,Manchester City,1,3,2023-09-16 14:00:00,Phil Foden,Pass,8260
+537612,41,BlockedShot,0.970999984741211,0.4370000076293945,0.5429793000221252,Erling Haaland,a,8260,OpenPlay,2023,RightFoot,21937,West Ham,Manchester City,1,3,2023-09-16 14:00:00,Jéremy Doku,Pass,8260
+537622,53,SavedShot,0.9069999694824219,0.5359999847412109,0.46164873242378235,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,21937,West Ham,Manchester City,1,3,2023-09-16 14:00:00,Rodri,Throughball,8260
+537624,58,SavedShot,0.95,0.46799999237060547,0.08227799832820892,Erling Haaland,a,8260,OpenPlay,2023,Head,21937,West Ham,Manchester City,1,3,2023-09-16 14:00:00,Bernardo Silva,Aerial,8260
+537629,81,SavedShot,0.9019999694824219,0.4640000152587891,0.3313724398612976,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,21937,West Ham,Manchester City,1,3,2023-09-16 14:00:00,Kyle Walker,Cross,8260
+537630,85,Goal,0.8980000305175782,0.615,0.33913281559944153,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,21937,West Ham,Manchester City,1,3,2023-09-16 14:00:00,Bernardo Silva,Pass,8260
+539094,13,Goal,0.9259999847412109,0.555,0.3649953007698059,Erling Haaland,h,8260,OpenPlay,2023,Head,21946,Manchester City,Nottingham Forest,2,0,2023-09-23 14:00:00,Matheus Nunes,Cross,8260
+539105,77,MissedShots,0.9259999847412109,0.47400001525878904,0.5678633451461792,Erling Haaland,h,8260,OpenPlay,2023,RightFoot,21946,Manchester City,Nottingham Forest,2,0,2023-09-23 14:00:00,Nathan Aké,Pass,8260
+541158,50,SavedShot,0.9130000305175782,0.635,0.08142086863517761,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,21961,Wolverhampton Wanderers,Manchester City,2,1,2023-09-30 14:00:00,Oscar Bobb,Pass,8260
+544076,18,Goal,0.805,0.40900001525878904,0.05684773623943329,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,21980,Manchester City,Brighton,2,1,2023-10-21 14:00:00,,BallRecovery,8260
+544081,66,SavedShot,0.9019999694824219,0.39,0.14504186809062958,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,21980,Manchester City,Brighton,2,1,2023-10-21 14:00:00,Phil Foden,Chipped,8260
+546196,25,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,a,8260,Penalty,2023,LeftFoot,21992,Manchester United,Manchester City,0,3,2023-10-29 15:30:00,,Standard,8260
+546202,48,SavedShot,0.950999984741211,0.4640000152587891,0.5086833834648132,Erling Haaland,a,8260,OpenPlay,2023,Head,21992,Manchester United,Manchester City,0,3,2023-10-29 15:30:00,Bernardo Silva,Chipped,8260
+546205,48,Goal,0.9590000152587891,0.43599998474121093,0.40787163376808167,Erling Haaland,a,8260,OpenPlay,2023,Head,21992,Manchester United,Manchester City,0,3,2023-10-29 15:30:00,Bernardo Silva,Chipped,8260
+546212,70,SavedShot,0.9109999847412109,0.575999984741211,0.5055721402168274,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,21992,Manchester United,Manchester City,0,3,2023-10-29 15:30:00,Jack Grealish,Throughball,8260
+546219,95,BlockedShot,0.735,0.44099998474121094,0.052740827202796936,Erling Haaland,a,8260,DirectFreekick,2023,LeftFoot,21992,Manchester United,Manchester City,0,3,2023-10-29 15:30:00,,Standard,8260
+546834,21,BlockedShot,0.965999984741211,0.5609999847412109,0.0972415879368782,Erling Haaland,h,8260,OpenPlay,2023,Head,22000,Manchester City,Bournemouth,6,1,2023-11-04 15:00:00,Julián Álvarez,Aerial,8260
+546835,24,BlockedShot,0.9119999694824219,0.38,0.15986573696136475,Erling Haaland,h,8260,OpenPlay,2023,RightFoot,22000,Manchester City,Bournemouth,6,1,2023-11-04 15:00:00,,TakeOn,8260
+546844,47,BlockedShot,0.879000015258789,0.5879999923706055,0.1396707445383072,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22000,Manchester City,Bournemouth,6,1,2023-11-04 15:00:00,Julián Álvarez,Throughball,8260
+549084,24,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,a,8260,Penalty,2023,LeftFoot,22009,Chelsea,Manchester City,4,4,2023-11-12 16:30:00,,Standard,8260
+549088,31,MissedShots,0.9919999694824219,0.5840000152587891,0.2866228520870209,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,22009,Chelsea,Manchester City,4,4,2023-11-12 16:30:00,Phil Foden,Cross,8260
+549093,41,SavedShot,0.874000015258789,0.5579999923706055,0.3491571247577667,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,22009,Chelsea,Manchester City,4,4,2023-11-12 16:30:00,Bernardo Silva,Pass,8260
+549098,46,Goal,0.9769999694824218,0.5279999923706055,0.8636682629585266,Erling Haaland,a,8260,OpenPlay,2023,OtherBodyPart,22009,Chelsea,Manchester City,4,4,2023-11-12 16:30:00,,None,8260
+549446,26,Goal,0.86,0.5870000076293945,0.3175771236419678,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22020,Manchester City,Liverpool,1,1,2023-11-25 12:30:00,Nathan Aké,Pass,8260
+549452,54,MissedShots,0.87,0.47,0.10081227123737335,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22020,Manchester City,Liverpool,1,1,2023-11-25 12:30:00,,None,8260
+549458,75,MissedShots,0.919000015258789,0.4540000152587891,0.05245053023099899,Erling Haaland,h,8260,SetPiece,2023,Head,22020,Manchester City,Liverpool,1,1,2023-11-25 12:30:00,Julián Álvarez,Aerial,8260
+549459,78,SavedShot,0.96,0.5670000076293945,0.5778946876525879,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22020,Manchester City,Liverpool,1,1,2023-11-25 12:30:00,Jéremy Doku,Pass,8260
+549465,97,MissedShots,0.9669999694824218,0.5570000076293945,0.07611659169197083,Erling Haaland,h,8260,FromCorner,2023,Head,22020,Manchester City,Liverpool,1,1,2023-11-25 12:30:00,Julián Álvarez,Aerial,8260
+551908,8,MissedShots,0.8919999694824219,0.4229999923706055,0.04675827920436859,Erling Haaland,h,8260,SetPiece,2023,Head,22031,Manchester City,Tottenham,3,3,2023-12-03 16:30:00,Julián Álvarez,Cross,8260
+551911,12,MissedShots,0.92,0.49900001525878906,0.486733078956604,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22031,Manchester City,Tottenham,3,3,2023-12-03 16:30:00,Bernardo Silva,BallRecovery,8260
+551912,15,BlockedShot,0.8580000305175781,0.605999984741211,0.037390049546957016,Erling Haaland,h,8260,FromCorner,2023,LeftFoot,22031,Manchester City,Tottenham,3,3,2023-12-03 16:30:00,Bernardo Silva,Chipped,8260
+551916,35,MissedShots,0.8690000152587891,0.4779999923706055,0.12501955032348633,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22031,Manchester City,Tottenham,3,3,2023-12-03 16:30:00,Julián Álvarez,Pass,8260
+551923,53,MissedShots,0.935,0.49,0.14882399141788483,Erling Haaland,h,8260,OpenPlay,2023,Head,22031,Manchester City,Tottenham,3,3,2023-12-03 16:30:00,Jack Grealish,Cross,8260
+552310,10,SavedShot,0.909000015258789,0.6229999923706054,0.3656105101108551,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,22035,Aston Villa,Manchester City,1,0,2023-12-06 20:15:00,Phil Foden,Throughball,8260
+552311,10,SavedShot,0.975999984741211,0.53,0.6363734006881714,Erling Haaland,a,8260,OpenPlay,2023,Head,22035,Aston Villa,Manchester City,1,0,2023-12-06 20:15:00,Bernardo Silva,Chipped,8260
+560709,84,MissedShots,0.9880000305175781,0.5770000076293945,0.11079353094100952,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22114,Manchester City,Burnley,3,1,2024-01-31 19:30:00,,CornerAwarded,8260
+560708,84,BlockedShot,0.960999984741211,0.5690000152587891,0.0663301944732666,Erling Haaland,h,8260,OpenPlay,2023,Head,22114,Manchester City,Burnley,3,1,2024-01-31 19:30:00,Matheus Nunes,Aerial,8260
+562060,6,BlockedShot,0.9059999847412109,0.4620000076293945,0.13604101538658142,Erling Haaland,a,8260,OpenPlay,2023,RightFoot,22117,Brentford,Manchester City,1,3,2024-02-05 20:00:00,Kevin De Bruyne,Pass,8260
+562068,22,SavedShot,0.8809999847412109,0.43,0.26575037837028503,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,22117,Brentford,Manchester City,1,3,2024-02-05 20:00:00,,BallRecovery,8260
+562071,27,BlockedShot,0.9019999694824219,0.5170000076293946,0.10291489958763123,Erling Haaland,a,8260,FromCorner,2023,LeftFoot,22117,Brentford,Manchester City,1,3,2024-02-05 20:00:00,,None,8260
+562269,26,MissedShots,0.94,0.45799999237060546,0.08531183004379272,Erling Haaland,h,8260,OpenPlay,2023,Head,22130,Manchester City,Everton,2,0,2024-02-10 12:30:00,Jéremy Doku,Aerial,8260
+562282,70,Goal,0.9069999694824219,0.6229999923706054,0.07349202781915665,Erling Haaland,h,8260,FromCorner,2023,RightFoot,22130,Manchester City,Everton,2,0,2024-02-10 12:30:00,Nathan Aké,Rebound,8260
+562283,75,BlockedShot,0.8169999694824219,0.495,0.07242446392774582,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22130,Manchester City,Everton,2,0,2024-02-10 12:30:00,Julián Álvarez,BallTouch,8260
+562285,84,Goal,0.86,0.395,0.38163742423057556,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22130,Manchester City,Everton,2,0,2024-02-10 12:30:00,Kevin De Bruyne,TakeOn,8260
+564039,11,MissedShots,0.924000015258789,0.4909999847412109,0.3918219804763794,Erling Haaland,h,8260,OpenPlay,2023,Head,22140,Manchester City,Chelsea,1,1,2024-02-17 17:30:00,Julián Álvarez,Cross,8260
+564044,27,BlockedShot,0.915,0.6669999694824219,0.025606954470276833,Erling Haaland,h,8260,SetPiece,2023,Head,22140,Manchester City,Chelsea,1,1,2024-02-17 17:30:00,Kevin De Bruyne,Chipped,8260
+564049,44,MissedShots,0.9590000152587891,0.45,0.08212216198444366,Erling Haaland,h,8260,FromCorner,2023,Head,22140,Manchester City,Chelsea,1,1,2024-02-17 17:30:00,,None,8260
+564052,47,MissedShots,0.8830000305175781,0.49900001525878906,0.025169717147946358,Erling Haaland,h,8260,OpenPlay,2023,Head,22140,Manchester City,Chelsea,1,1,2024-02-17 17:30:00,Nathan Aké,Aerial,8260
+564054,50,MissedShots,0.9159999847412109,0.5670000076293945,0.49091556668281555,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22140,Manchester City,Chelsea,1,1,2024-02-17 17:30:00,Phil Foden,Cross,8260
+564059,60,BlockedShot,0.9480000305175781,0.4879999923706055,0.10175348073244095,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22140,Manchester City,Chelsea,1,1,2024-02-17 17:30:00,Julián Álvarez,BallTouch,8260
+564061,64,SavedShot,0.924000015258789,0.5890000152587891,0.0993904247879982,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22140,Manchester City,Chelsea,1,1,2024-02-17 17:30:00,Jéremy Doku,Pass,8260
+564067,77,MissedShots,0.9340000152587891,0.519000015258789,0.3948966860771179,Erling Haaland,h,8260,OpenPlay,2023,Head,22140,Manchester City,Chelsea,1,1,2024-02-17 17:30:00,Kevin De Bruyne,Cross,8260
+564071,89,SavedShot,0.93,0.44299999237060544,0.040710870176553726,Erling Haaland,h,8260,FromCorner,2023,Head,22140,Manchester City,Chelsea,1,1,2024-02-17 17:30:00,Kevin De Bruyne,Aerial,8260
+564074,93,BlockedShot,0.94,0.5329999923706055,0.08697375655174255,Erling Haaland,h,8260,OpenPlay,2023,Head,22140,Manchester City,Chelsea,1,1,2024-02-17 17:30:00,Bernardo Silva,Aerial,8260
+564808,2,SavedShot,0.7930000305175782,0.20299999237060548,0.013700754381716251,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22074,Manchester City,Brentford,1,0,2024-02-20 18:30:00,,BallRecovery,8260
+564811,8,MissedShots,0.895,0.5420000076293945,0.048311349004507065,Erling Haaland,h,8260,OpenPlay,2023,Head,22074,Manchester City,Brentford,1,0,2024-02-20 18:30:00,Bernardo Silva,Chipped,8260
+564818,29,MissedShots,0.9009999847412109,0.49900001525878906,0.10812773555517197,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22074,Manchester City,Brentford,1,0,2024-02-20 18:30:00,Oscar Bobb,Cross,8260
+564832,70,Goal,0.8030000305175782,0.5120000076293946,0.25630491971969604,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22074,Manchester City,Brentford,1,0,2024-02-20 18:30:00,Julián Álvarez,Pass,8260
+564834,84,SavedShot,0.9269999694824219,0.32299999237060545,0.0848630890250206,Erling Haaland,h,8260,OpenPlay,2023,RightFoot,22074,Manchester City,Brentford,1,0,2024-02-20 18:30:00,Julián Álvarez,Pass,8260
+564837,92,SavedShot,0.8519999694824218,0.515,0.07463034987449646,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22074,Manchester City,Brentford,1,0,2024-02-20 18:30:00,Phil Foden,Cross,8260
+565331,8,MissedShots,0.7880000305175782,0.39799999237060546,0.03184005245566368,Erling Haaland,a,8260,OpenPlay,2023,RightFoot,22145,Bournemouth,Manchester City,0,1,2024-02-24 17:30:00,Phil Foden,Pass,8260
+565334,23,SavedShot,0.9259999847412109,0.64,0.29391664266586304,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,22145,Bournemouth,Manchester City,0,1,2024-02-24 17:30:00,Mateo Kovacic,Chipped,8260
+565345,51,BlockedShot,0.9419999694824219,0.34,0.09575910866260529,Erling Haaland,a,8260,OpenPlay,2023,RightFoot,22145,Bournemouth,Manchester City,0,1,2024-02-24 17:30:00,Bernardo Silva,Pass,8260
+565354,74,SavedShot,0.9519999694824218,0.6120000076293945,0.39954322576522827,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,22145,Bournemouth,Manchester City,0,1,2024-02-24 17:30:00,,None,8260
+567263,3,MissedShots,0.9209999847412109,0.49900001525878906,0.12451688945293427,Erling Haaland,h,8260,OpenPlay,2023,Head,22160,Manchester City,Manchester United,3,1,2024-03-03 15:30:00,Bernardo Silva,Cross,8260
+567274,31,MissedShots,0.9180000305175782,0.4859999847412109,0.045752767473459244,Erling Haaland,h,8260,OpenPlay,2023,Head,22160,Manchester City,Manchester United,3,1,2024-03-03 15:30:00,,Rebound,8260
+567280,44,MissedShots,0.9730000305175781,0.5259999847412109,0.6609540581703186,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22160,Manchester City,Manchester United,3,1,2024-03-03 15:30:00,Phil Foden,HeadPass,8260
+567290,90,Goal,0.879000015258789,0.32799999237060545,0.2686331570148468,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22160,Manchester City,Manchester United,3,1,2024-03-03 15:30:00,Rodri,Pass,8260
+568708,38,SavedShot,0.8190000152587891,0.57,0.11550401896238327,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,22171,Liverpool,Manchester City,1,1,2024-03-10 15:45:00,,None,8260
+571420,36,MissedShots,0.9340000152587891,0.43900001525878907,0.06331365555524826,Erling Haaland,h,8260,OpenPlay,2023,Head,22190,Manchester City,Arsenal,0,0,2024-03-31 16:30:00,Josko Gvardiol,Aerial,8260
+571425,63,BlockedShot,0.855,0.495,0.07948889583349228,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22190,Manchester City,Arsenal,0,0,2024-03-31 16:30:00,Rodri,Chipped,8260
+571431,91,BlockedShot,0.9059999847412109,0.509000015258789,0.02692498080432415,Erling Haaland,h,8260,FromCorner,2023,Head,22190,Manchester City,Arsenal,0,0,2024-03-31 16:30:00,Kevin De Bruyne,Aerial,8260
+571432,92,MissedShots,0.9259999847412109,0.5379999923706055,0.063234344124794,Erling Haaland,h,8260,OpenPlay,2023,Head,22190,Manchester City,Arsenal,0,0,2024-03-31 16:30:00,,Aerial,8260
+572156,18,SavedShot,0.8380000305175781,0.5429999923706055,0.3197339177131653,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,22207,Crystal Palace,Manchester City,2,4,2024-04-06 11:30:00,Kevin De Bruyne,Throughball,8260
+572165,65,Goal,0.9440000152587891,0.5220000076293946,0.6212957501411438,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,22207,Crystal Palace,Manchester City,2,4,2024-04-06 11:30:00,Kevin De Bruyne,Pass,8260
+573731,1,MissedShots,0.8969999694824219,0.46700000762939453,0.11988477408885956,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22221,Manchester City,Luton,5,1,2024-04-13 14:00:00,,Rebound,8260
+573729,1,SavedShot,0.845,0.509000015258789,0.24178937077522278,Erling Haaland,h,8260,OpenPlay,2023,RightFoot,22221,Manchester City,Luton,5,1,2024-04-13 14:00:00,Kevin De Bruyne,Pass,8260
+573736,17,MissedShots,0.955,0.5579999923706055,0.48384085297584534,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22221,Manchester City,Luton,5,1,2024-04-13 14:00:00,Kevin De Bruyne,Cross,8260
+573740,24,BlockedShot,0.8880000305175781,0.5,0.12017720937728882,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22221,Manchester City,Luton,5,1,2024-04-13 14:00:00,,None,8260
+573760,75,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,h,8260,Penalty,2023,LeftFoot,22221,Manchester City,Luton,5,1,2024-04-13 14:00:00,,Standard,8260
+577458,70,Goal,0.905,0.40900001525878904,0.38611820340156555,Erling Haaland,a,8260,OpenPlay,2023,RightFoot,22242,Nottingham Forest,Manchester City,0,2,2024-04-28 15:30:00,Kevin De Bruyne,Pass,8260
+577461,94,SavedShot,0.94,0.6409999847412109,0.10715039074420929,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,22242,Nottingham Forest,Manchester City,0,2,2024-04-28 15:30:00,Oscar Bobb,Pass,8260
+578604,11,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,h,8260,Penalty,2023,LeftFoot,22253,Manchester City,Wolverhampton Wanderers,5,1,2024-05-04 16:30:00,,Standard,8260
+578606,16,SavedShot,0.9269999694824219,0.5570000076293945,0.4206187129020691,Erling Haaland,h,8260,OpenPlay,2023,Head,22253,Manchester City,Wolverhampton Wanderers,5,1,2024-05-04 16:30:00,Bernardo Silva,Aerial,8260
+578607,34,Goal,0.95,0.5990000152587891,0.049724508076906204,Erling Haaland,h,8260,OpenPlay,2023,Head,22253,Manchester City,Wolverhampton Wanderers,5,1,2024-05-04 16:30:00,Rodri,Chipped,8260
+578608,47,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,h,8260,Penalty,2023,LeftFoot,22253,Manchester City,Wolverhampton Wanderers,5,1,2024-05-04 16:30:00,,Standard,8260
+578612,53,Goal,0.8719999694824219,0.3770000076293945,0.10672200471162796,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22253,Manchester City,Wolverhampton Wanderers,5,1,2024-05-04 16:30:00,Phil Foden,Chipped,8260
+578613,57,BlockedShot,0.8569999694824219,0.5790000152587891,0.10436717420816422,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22253,Manchester City,Wolverhampton Wanderers,5,1,2024-05-04 16:30:00,Kevin De Bruyne,Pass,8260
+578615,59,SavedShot,0.904000015258789,0.435,0.43042445182800293,Erling Haaland,h,8260,OpenPlay,2023,RightFoot,22253,Manchester City,Wolverhampton Wanderers,5,1,2024-05-04 16:30:00,Josko Gvardiol,Pass,8260
+578621,76,SavedShot,0.904000015258789,0.53,0.09325086325407028,Erling Haaland,h,8260,OpenPlay,2023,Head,22253,Manchester City,Wolverhampton Wanderers,5,1,2024-05-04 16:30:00,Bernardo Silva,Cross,8260
+579654,14,MissedShots,0.875999984741211,0.49,0.10230660438537598,Erling Haaland,a,8260,OpenPlay,2023,RightFoot,22258,Fulham,Manchester City,0,4,2024-05-11 11:30:00,Bernardo Silva,HeadPass,8260
+579664,60,MissedShots,0.8730000305175781,0.37,0.26209554076194763,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,22258,Fulham,Manchester City,0,4,2024-05-11 11:30:00,Kevin De Bruyne,Pass,8260
+579665,67,BlockedShot,0.8469999694824218,0.3629999923706055,0.1305818259716034,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,22258,Fulham,Manchester City,0,4,2024-05-11 11:30:00,Kevin De Bruyne,TakeOn,8260
+580961,50,Goal,0.9780000305175781,0.5220000076293946,0.9445824027061462,Erling Haaland,a,8260,OpenPlay,2023,LeftFoot,22233,Tottenham,Manchester City,0,2,2024-05-14 19:00:00,Kevin De Bruyne,Pass,8260
+580968,90,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,a,8260,Penalty,2023,LeftFoot,22233,Tottenham,Manchester City,0,2,2024-05-14 19:00:00,,Standard,8260
+581964,45,MissedShots,0.9319999694824219,0.5070000076293946,0.14137695729732513,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22273,Manchester City,West Ham,3,1,2024-05-19 15:00:00,,None,8260
+581970,65,BlockedShot,0.9009999847412109,0.5379999923706055,0.14307619631290436,Erling Haaland,h,8260,OpenPlay,2023,LeftFoot,22273,Manchester City,West Ham,3,1,2024-05-19 15:00:00,Phil Foden,Pass,8260
+581972,68,BlockedShot,0.875,0.47400001525878904,0.07054701447486877,Erling Haaland,h,8260,FromCorner,2023,LeftFoot,22273,Manchester City,West Ham,3,1,2024-05-19 15:00:00,Manuel Akanji,Pass,8260
+581977,83,MissedShots,0.965999984741211,0.5479999923706055,0.5927795171737671,Erling Haaland,h,8260,SetPiece,2023,OtherBodyPart,22273,Manchester City,West Ham,3,1,2024-05-19 15:00:00,Kevin De Bruyne,Cross,8260
+585312,17,Goal,0.9259999847412109,0.5359999847412109,0.5389691591262817,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26610,Chelsea,Manchester City,0,2,2024-08-18 15:30:00,Bernardo Silva,Pass,8260
+585321,51,SavedShot,0.865999984741211,0.4759999847412109,0.11672431230545044,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26610,Chelsea,Manchester City,0,2,2024-08-18 15:30:00,Bernardo Silva,Pass,8260
+586163,11,Goal,0.885,0.5,0.7611688375473022,Erling Haaland,h,8260,Penalty,2024,LeftFoot,26615,Manchester City,Ipswich,4,1,2024-08-24 14:00:00,,Standard,8260
+586165,15,Goal,0.9209999847412109,0.6919999694824219,0.4703933298587799,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26615,Manchester City,Ipswich,4,1,2024-08-24 14:00:00,Kevin De Bruyne,TakeOn,8260
+586169,32,MissedShots,0.89,0.48400001525878905,0.0634668841958046,Erling Haaland,h,8260,OpenPlay,2024,Head,26615,Manchester City,Ipswich,4,1,2024-08-24 14:00:00,Manuel Akanji,Cross,8260
+586171,47,MissedShots,0.9569999694824218,0.5670000076293945,0.15076148509979248,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26615,Manchester City,Ipswich,4,1,2024-08-24 14:00:00,Jéremy Doku,Pass,8260
+586172,50,MissedShots,0.9119999694824219,0.5209999847412109,0.045987844467163086,Erling Haaland,h,8260,OpenPlay,2024,Head,26615,Manchester City,Ipswich,4,1,2024-08-24 14:00:00,Sávio,Aerial,8260
+586173,63,SavedShot,0.93,0.544000015258789,0.3169856667518616,Erling Haaland,h,8260,FromCorner,2024,Head,26615,Manchester City,Ipswich,4,1,2024-08-24 14:00:00,Kevin De Bruyne,Cross,8260
+586176,87,Goal,0.7769999694824219,0.3679999923706055,0.03170016035437584,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26615,Manchester City,Ipswich,4,1,2024-08-24 14:00:00,,BallTouch,8260
+589397,5,MissedShots,0.9330000305175781,0.465,0.38441917300224304,Erling Haaland,a,8260,OpenPlay,2024,Head,26628,West Ham,Manchester City,1,3,2024-08-31 16:30:00,Bernardo Silva,Chipped,8260
+589400,9,Goal,0.87,0.445,0.3632678687572479,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26628,West Ham,Manchester City,1,3,2024-08-31 16:30:00,Bernardo Silva,Pass,8260
+589408,29,Goal,0.86,0.38299999237060545,0.08273795247077942,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26628,West Ham,Manchester City,1,3,2024-08-31 16:30:00,Rico Lewis,Pass,8260
+589426,82,Goal,0.8240000152587891,0.53,0.33011943101882935,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26628,West Ham,Manchester City,1,3,2024-08-31 16:30:00,Matheus Nunes,Throughball,8260
+589428,94,SavedShot,0.9630000305175781,0.644000015258789,0.15312044322490692,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26628,West Ham,Manchester City,1,3,2024-08-31 16:30:00,Ilkay Gündogan,Throughball,8260
+590772,19,Goal,0.9159999847412109,0.39299999237060546,0.06925240904092789,Erling Haaland,h,8260,OpenPlay,2024,RightFoot,26637,Manchester City,Brentford,2,1,2024-09-14 14:00:00,,Dispossessed,8260
+590776,31,Goal,0.8730000305175781,0.5729999923706055,0.20122335851192474,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26637,Manchester City,Brentford,2,1,2024-09-14 14:00:00,Ederson,Pass,8260
+590784,68,SavedShot,0.8830000305175781,0.4379999923706055,0.11676666885614395,Erling Haaland,h,8260,OpenPlay,2024,RightFoot,26637,Manchester City,Brentford,2,1,2024-09-14 14:00:00,Ilkay Gündogan,Pass,8260
+590792,80,SavedShot,0.875999984741211,0.6370000076293946,0.09604690968990326,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26637,Manchester City,Brentford,2,1,2024-09-14 14:00:00,Kevin De Bruyne,Pass,8260
+590791,80,BlockedShot,0.855,0.555,0.10396827757358551,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26637,Manchester City,Brentford,2,1,2024-09-14 14:00:00,Jack Grealish,Pass,8260
+590790,80,ShotOnPost,0.9109999847412109,0.55,0.14320024847984314,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26637,Manchester City,Brentford,2,1,2024-09-14 14:00:00,Kevin De Bruyne,Pass,8260
+593121,8,Goal,0.879000015258789,0.3920000076293945,0.3288222551345825,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26651,Manchester City,Arsenal,2,2,2024-09-22 15:30:00,Sávio,Throughball,8260
+593129,47,SavedShot,0.9369999694824219,0.5579999923706055,0.05146683380007744,Erling Haaland,h,8260,OpenPlay,2024,Head,26651,Manchester City,Arsenal,2,2,2024-09-22 15:30:00,Kyle Walker,Aerial,8260
+593135,58,SavedShot,0.965,0.575,0.2709996998310089,Erling Haaland,h,8260,FromCorner,2024,Head,26651,Manchester City,Arsenal,2,2,2024-09-22 15:30:00,Kyle Walker,Aerial,8260
+593146,76,BlockedShot,0.8719999694824219,0.3659999847412109,0.06598548591136932,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26651,Manchester City,Arsenal,2,2,2024-09-22 15:30:00,Ilkay Gündogan,Pass,8260
+593152,88,SavedShot,0.9009999847412109,0.49900001525878906,0.07981563359498978,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26651,Manchester City,Arsenal,2,2,2024-09-22 15:30:00,,BallTouch,8260
+593153,92,SavedShot,0.8980000305175782,0.524000015258789,0.032094959169626236,Erling Haaland,h,8260,OpenPlay,2024,Head,26651,Manchester City,Arsenal,2,2,2024-09-22 15:30:00,Manuel Akanji,Aerial,8260
+593807,6,SavedShot,0.8830000305175781,0.7030000305175781,0.04551880061626434,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26652,Newcastle United,Manchester City,1,1,2024-09-28 11:30:00,Ilkay Gündogan,Pass,8260
+593819,51,BlockedShot,0.8959999847412109,0.3220000076293945,0.09317930042743683,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26652,Newcastle United,Manchester City,1,1,2024-09-28 11:30:00,,TakeOn,8260
+593825,74,BlockedShot,0.85,0.43099998474121093,0.0889013335108757,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26652,Newcastle United,Manchester City,1,1,2024-09-28 11:30:00,Mateo Kovacic,Pass,8260
+593826,75,MissedShots,0.97,0.40700000762939453,0.04373592510819435,Erling Haaland,a,8260,OpenPlay,2024,Head,26652,Newcastle United,Manchester City,1,1,2024-09-28 11:30:00,Jack Grealish,Chipped,8260
+593830,94,SavedShot,0.9169999694824219,0.5070000076293946,0.11966534703969955,Erling Haaland,a,8260,OpenPlay,2024,Head,26652,Newcastle United,Manchester City,1,1,2024-09-28 11:30:00,Sávio,Cross,8260
+595454,3,MissedShots,0.9219999694824219,0.6680000305175782,0.11882532387971878,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26664,Manchester City,Fulham,3,2,2024-10-05 14:00:00,Phil Foden,Throughball,8260
+595455,6,BlockedShot,0.7780000305175782,0.3529999923706055,0.06815728545188904,Erling Haaland,h,8260,DirectFreekick,2024,LeftFoot,26664,Manchester City,Fulham,3,2,2024-10-05 14:00:00,,Standard,8260
+595456,7,SavedShot,0.7980000305175782,0.47099998474121096,0.06431261450052261,Erling Haaland,h,8260,OpenPlay,2024,RightFoot,26664,Manchester City,Fulham,3,2,2024-10-05 14:00:00,Phil Foden,TakeOn,8260
+595459,14,SavedShot,0.9309999847412109,0.5979999923706054,0.04650231450796127,Erling Haaland,h,8260,FromCorner,2024,Head,26664,Manchester City,Fulham,3,2,2024-10-05 14:00:00,Phil Foden,Cross,8260
+598400,4,Goal,0.9359999847412109,0.47200000762939454,0.471447229385376,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26683,Manchester City,Southampton,1,0,2024-10-26 14:00:00,Matheus Nunes,Cross,8260
+598406,41,BlockedShot,0.85,0.4640000152587891,0.1349002718925476,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26683,Manchester City,Southampton,1,0,2024-10-26 14:00:00,Phil Foden,Pass,8260
+598408,44,MissedShots,0.9680000305175781,0.600999984741211,0.01540352962911129,Erling Haaland,h,8260,FromCorner,2024,Head,26683,Manchester City,Southampton,1,0,2024-10-26 14:00:00,Phil Foden,Aerial,8260
+598412,49,SavedShot,0.925,0.5409999847412109,0.051280826330184937,Erling Haaland,h,8260,FromCorner,2024,Head,26683,Manchester City,Southampton,1,0,2024-10-26 14:00:00,,None,8260
+598411,49,BlockedShot,0.9630000305175781,0.5520000076293945,0.12613245844841003,Erling Haaland,h,8260,FromCorner,2024,Head,26683,Manchester City,Southampton,1,0,2024-10-26 14:00:00,Phil Foden,Cross,8260
+598415,51,MissedShots,0.975999984741211,0.5579999923706055,0.5847028493881226,Erling Haaland,h,8260,SetPiece,2024,LeftFoot,26683,Manchester City,Southampton,1,0,2024-10-26 14:00:00,Sávio,Cross,8260
+598417,62,MissedShots,0.9790000152587891,0.5520000076293945,0.6293514370918274,Erling Haaland,h,8260,OpenPlay,2024,Head,26683,Manchester City,Southampton,1,0,2024-10-26 14:00:00,Sávio,Cross,8260
+598425,95,SavedShot,0.9169999694824219,0.4229999923706055,0.42602473497390747,Erling Haaland,h,8260,OpenPlay,2024,RightFoot,26683,Manchester City,Southampton,1,0,2024-10-26 14:00:00,Phil Foden,Throughball,8260
+600077,25,MissedShots,0.9330000305175781,0.5620000076293945,0.3086177706718445,Erling Haaland,a,8260,OpenPlay,2024,Head,26692,Bournemouth,Manchester City,2,1,2024-11-02 15:00:00,Phil Foden,Cross,8260
+600081,37,MissedShots,0.889000015258789,0.36200000762939455,0.043877750635147095,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26692,Bournemouth,Manchester City,2,1,2024-11-02 15:00:00,Matheus Nunes,Cross,8260
+600083,48,MissedShots,0.9619999694824218,0.43,0.05993146076798439,Erling Haaland,a,8260,OpenPlay,2024,Head,26692,Bournemouth,Manchester City,2,1,2024-11-02 15:00:00,,Aerial,8260
+600094,79,SavedShot,0.9319999694824219,0.47400001525878904,0.0928698182106018,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26692,Bournemouth,Manchester City,2,1,2024-11-02 15:00:00,Matheus Nunes,Cross,8260
+600100,92,ShotOnPost,0.9630000305175781,0.545,0.6089218258857727,Erling Haaland,a,8260,FromCorner,2024,LeftFoot,26692,Bournemouth,Manchester City,2,1,2024-11-02 15:00:00,,Rebound,8260
+600099,92,SavedShot,0.955999984741211,0.5220000076293946,0.48326724767684937,Erling Haaland,a,8260,FromCorner,2024,Head,26692,Bournemouth,Manchester City,2,1,2024-11-02 15:00:00,Phil Foden,Aerial,8260
+601642,16,MissedShots,0.9619999694824218,0.3870000076293945,0.054888758808374405,Erling Haaland,a,8260,SetPiece,2024,RightFoot,26703,Brighton,Manchester City,2,1,2024-11-09 17:30:00,Phil Foden,Cross,8260
+601644,22,Goal,0.97,0.53,0.8936280608177185,Erling Haaland,a,8260,OpenPlay,2024,RightFoot,26703,Brighton,Manchester City,2,1,2024-11-09 17:30:00,,Rebound,8260
+601643,22,SavedShot,0.8909999847412109,0.565,0.5872154235839844,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26703,Brighton,Manchester City,2,1,2024-11-09 17:30:00,Mateo Kovacic,Throughball,8260
+601645,25,SavedShot,0.9440000152587891,0.34,0.09822817891836166,Erling Haaland,a,8260,OpenPlay,2024,RightFoot,26703,Brighton,Manchester City,2,1,2024-11-09 17:30:00,Phil Foden,Pass,8260
+601646,26,MissedShots,0.9540000152587891,0.5,0.4109667241573334,Erling Haaland,a,8260,FromCorner,2024,Head,26703,Brighton,Manchester City,2,1,2024-11-09 17:30:00,Phil Foden,Aerial,8260
+601648,30,BlockedShot,0.7919999694824219,0.29600000381469727,0.029273826628923416,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26703,Brighton,Manchester City,2,1,2024-11-09 17:30:00,Mateo Kovacic,BallRecovery,8260
+601654,54,BlockedShot,0.7130000305175781,0.5159999847412109,0.023142622783780098,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26703,Brighton,Manchester City,2,1,2024-11-09 17:30:00,Mateo Kovacic,Pass,8260
+603095,2,MissedShots,0.9640000152587891,0.37200000762939456,0.020552048459649086,Erling Haaland,h,8260,OpenPlay,2024,Head,26720,Manchester City,Tottenham,0,4,2024-11-23 17:30:00,Josko Gvardiol,Cross,8260
+603096,4,BlockedShot,0.8680000305175781,0.4109999847412109,0.09566667675971985,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26720,Manchester City,Tottenham,0,4,2024-11-23 17:30:00,Josko Gvardiol,Pass,8260
+603097,10,SavedShot,0.879000015258789,0.55,0.37421876192092896,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26720,Manchester City,Tottenham,0,4,2024-11-23 17:30:00,Sávio,Pass,8260
+603102,21,MissedShots,0.8809999847412109,0.5570000076293945,0.11262112110853195,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26720,Manchester City,Tottenham,0,4,2024-11-23 17:30:00,Josko Gvardiol,Pass,8260
+603112,59,ShotOnPost,0.915,0.2989999961853027,0.06337735056877136,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26720,Manchester City,Tottenham,0,4,2024-11-23 17:30:00,,TakeOn,8260
+603117,68,MissedShots,0.9319999694824219,0.45799999237060546,0.13761243224143982,Erling Haaland,h,8260,OpenPlay,2024,Head,26720,Manchester City,Tottenham,0,4,2024-11-23 17:30:00,Josko Gvardiol,Cross,8260
+603121,78,SavedShot,0.9619999694824218,0.35,0.2905358374118805,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26720,Manchester City,Tottenham,0,4,2024-11-23 17:30:00,Kevin De Bruyne,Throughball,8260
+604827,59,BlockedShot,0.860999984741211,0.529000015258789,0.06529699265956879,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26726,Liverpool,Manchester City,2,0,2024-12-01 16:00:00,,None,8260
+604833,81,SavedShot,0.830999984741211,0.500999984741211,0.0482567735016346,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26726,Liverpool,Manchester City,2,0,2024-12-01 16:00:00,Rúben Dias,None,8260
+605209,5,SavedShot,0.8630000305175781,0.4929999923706055,0.07168060541152954,Erling Haaland,h,8260,OpenPlay,2024,RightFoot,26739,Manchester City,Nottingham Forest,3,0,2024-12-04 19:30:00,Kevin De Bruyne,Cross,8260
+605236,91,MissedShots,0.8209999847412109,0.700999984741211,0.2730585038661957,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26739,Manchester City,Nottingham Forest,3,0,2024-12-04 19:30:00,,None,8260
+605849,6,SavedShot,0.89,0.5229999923706055,0.43306636810302734,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26747,Crystal Palace,Manchester City,2,2,2024-12-07 15:00:00,Kevin De Bruyne,Throughball,8260
+605857,29,Goal,0.9290000152587891,0.46,0.2861519753932953,Erling Haaland,a,8260,OpenPlay,2024,Head,26747,Crystal Palace,Manchester City,2,2,2024-12-07 15:00:00,Matheus Nunes,Aerial,8260
+605868,74,BlockedShot,0.965,0.44,0.06939429044723511,Erling Haaland,a,8260,FromCorner,2024,Head,26747,Crystal Palace,Manchester City,2,2,2024-12-07 15:00:00,Matheus Nunes,Aerial,8260
+607640,75,BlockedShot,0.8769999694824219,0.46799999237060547,0.12396240234375,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26753,Manchester City,Manchester United,1,2,2024-12-15 16:30:00,Mateo Kovacic,Pass,8260
+608156,89,MissedShots,0.925,0.4879999923706055,0.07600264251232147,Erling Haaland,a,8260,OpenPlay,2024,Head,26762,Aston Villa,Manchester City,2,1,2024-12-21 12:30:00,Bernardo Silva,Aerial,8260
+609027,11,BlockedShot,0.865999984741211,0.34,0.0673925131559372,Erling Haaland,h,8260,OpenPlay,2024,RightFoot,26777,Manchester City,Everton,1,1,2024-12-26 12:30:00,Sávio,TakeOn,8260
+609042,52,SavedShot,0.885,0.5,0.7611688375473022,Erling Haaland,h,8260,Penalty,2024,LeftFoot,26777,Manchester City,Everton,1,1,2024-12-26 12:30:00,,Standard,8260
+609401,6,SavedShot,0.8780000305175781,0.47700000762939454,0.11375802010297775,Erling Haaland,a,8260,OpenPlay,2024,RightFoot,26788,Leicester,Manchester City,0,2,2024-12-29 14:30:00,Kevin De Bruyne,Pass,8260
+609406,27,SavedShot,0.899000015258789,0.5329999923706055,0.05227060988545418,Erling Haaland,a,8260,OpenPlay,2024,Head,26788,Leicester,Manchester City,0,2,2024-12-29 14:30:00,,None,8260
+609407,35,MissedShots,0.865,0.4520000076293945,0.2865510582923889,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26788,Leicester,Manchester City,0,2,2024-12-29 14:30:00,Mateo Kovacic,TakeOn,8260
+609411,38,BlockedShot,0.950999984741211,0.5659999847412109,0.14268042147159576,Erling Haaland,a,8260,OpenPlay,2024,Head,26788,Leicester,Manchester City,0,2,2024-12-29 14:30:00,Phil Foden,Aerial,8260
+609416,73,Goal,0.935,0.46799999237060547,0.4109480381011963,Erling Haaland,a,8260,OpenPlay,2024,Head,26788,Leicester,Manchester City,0,2,2024-12-29 14:30:00,Sávio,Chipped,8260
+609420,79,MissedShots,0.9119999694824219,0.46599998474121096,0.04363881051540375,Erling Haaland,a,8260,OpenPlay,2024,Head,26788,Leicester,Manchester City,0,2,2024-12-29 14:30:00,Sávio,Aerial,8260
+610013,41,Goal,0.9619999694824218,0.45299999237060545,0.5729018449783325,Erling Haaland,h,8260,OpenPlay,2024,Head,26798,Manchester City,West Ham,4,1,2025-01-04 15:00:00,Sávio,Cross,8260
+610017,54,Goal,0.9,0.5709999847412109,0.502565860748291,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26798,Manchester City,West Ham,4,1,2025-01-04 15:00:00,Sávio,Throughball,8260
+611364,22,MissedShots,0.9580000305175781,0.40400001525878904,0.2716059386730194,Erling Haaland,a,8260,OpenPlay,2024,Head,26803,Brentford,Manchester City,2,2,2025-01-14 19:30:00,Kevin De Bruyne,Cross,8260
+611370,37,SavedShot,0.86,0.6530000305175782,0.07295558601617813,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26803,Brentford,Manchester City,2,2,2025-01-14 19:30:00,Kevin De Bruyne,LayOff,8260
+611376,51,SavedShot,0.9030000305175782,0.5170000076293946,0.27631551027297974,Erling Haaland,a,8260,OpenPlay,2024,Head,26803,Brentford,Manchester City,2,2,2025-01-14 19:30:00,Matheus Nunes,Cross,8260
+611394,89,SavedShot,0.9159999847412109,0.5409999847412109,0.059168826788663864,Erling Haaland,a,8260,OpenPlay,2024,Head,26803,Brentford,Manchester City,2,2,2025-01-14 19:30:00,Matheus Nunes,Aerial,8260
+612837,14,SavedShot,0.8719999694824219,0.5020000076293946,0.36906668543815613,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26816,Ipswich,Manchester City,0,6,2025-01-19 16:30:00,Mateo Kovacic,Throughball,8260
+612851,56,Goal,0.8869999694824219,0.44099998474121094,0.4153415858745575,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26816,Ipswich,Manchester City,0,6,2025-01-19 16:30:00,Jéremy Doku,Pass,8260
+612852,58,SavedShot,0.895,0.5670000076293945,0.13665959239006042,Erling Haaland,a,8260,OpenPlay,2024,LeftFoot,26816,Ipswich,Manchester City,0,6,2025-01-19 16:30:00,Jéremy Doku,Pass,8260
+613532,33,BlockedShot,0.8780000305175781,0.5820000076293945,0.06835409998893738,Erling Haaland,h,8260,OpenPlay,2024,RightFoot,26828,Manchester City,Chelsea,3,1,2025-01-25 17:30:00,,BallTouch,8260
+613539,50,SavedShot,0.8859999847412109,0.3920000076293945,0.11357242614030838,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26828,Manchester City,Chelsea,3,1,2025-01-25 17:30:00,,None,8260
+613543,67,Goal,0.8069999694824219,0.21700000762939453,0.25891488790512085,Erling Haaland,h,8260,OpenPlay,2024,LeftFoot,26828,Manchester City,Chelsea,3,1,2025-01-25 17:30:00,Ederson,Chipped,8260

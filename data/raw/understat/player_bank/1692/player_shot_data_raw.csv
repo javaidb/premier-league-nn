@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+112765,77,BlockedShot,0.759000015258789,0.500999984741211,0.07260549813508987,Shaun Maloney,a,1692,DirectFreekick,2016,RightFoot,474,Swansea,Hull,0,2,2016-08-20 18:00:00,,Standard,1692
+112768,78,Goal,0.9890000152587891,0.539000015258789,0.9510819911956787,Shaun Maloney,a,1692,FromCorner,2016,LeftFoot,474,Swansea,Hull,0,2,2016-08-20 18:00:00,Curtis Davies,Rebound,1692
+114758,42,MissedShots,0.8069999694824219,0.6459999847412109,0.039481598883867264,Shaun Maloney,a,1692,OpenPlay,2016,RightFoot,533,Bournemouth,Hull,6,1,2016-10-15 18:00:00,,TakeOn,1692

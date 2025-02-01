@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1801,Pontus Jansson,37,3325,3,4.593423327431083,1,0.5605823006480932,22,5,7,0,D,Brentford,3,4.593423327431083,5.387516871094704,3.885910749435425,2021
+1801,Pontus Jansson,12,724,1,0.19672489911317825,0,0,4,0,0,0,D S,Brentford,1,0.19672489911317825,1.8506297189742327,1.7343054097145796,2022

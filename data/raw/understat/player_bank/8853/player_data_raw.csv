@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+8853,Maxence Lacroix,20,1800,1,1.3308201944455504,1,0.6190028935670853,17,3,4,0,D,Crystal Palace,1,1.3308201944455504,4.462205039337277,4.189072106964886,2024
+8853,Maxence Lacroix,20,1800,1,1.3308201944455504,1,0.6190028935670853,17,3,4,0,D,Crystal Palace,1,1.3308201944455504,4.462205039337277,4.189072106964886,2025

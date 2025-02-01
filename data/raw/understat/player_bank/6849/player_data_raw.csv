@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+6849,Rui Patrício,37,3330,0,0,0,0,0,0,0,0,GK,Wolverhampton Wanderers,0,0,1.1828953111544251,1.1828953111544251,2018
+6849,Rui Patrício,38,3420,0,0,0,0,0,0,0,0,GK,Wolverhampton Wanderers,0,0,2.7981012044474483,2.7981012044474483,2019
+6849,Rui Patrício,37,3330,0,0,0,0,0,0,1,0,GK,Wolverhampton Wanderers,0,0,1.2272863080725074,1.2272863080725074,2020

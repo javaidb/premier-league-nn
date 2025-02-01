@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+52168,96,MissedShots,0.9519999694824218,0.6020000076293945,0.07647579908370972,Darren Randolph,a,540,SetPiece,2015,Head,456,Stoke,West Ham,2,1,2016-05-15 18:00:00,Manuel Lanzini,Cross,540

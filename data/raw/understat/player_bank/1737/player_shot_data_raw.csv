@@ -1,0 +1,140 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14862,16,MissedShots,0.6769999694824219,0.5359999847412109,0.011545199900865555,Matt Phillips,a,1737,OpenPlay,2014,RightFoot,4766,Tottenham,Queens Park Rangers,4,0,2014-08-24 13:30:00,,BallRecovery,1737
+14863,19,MissedShots,0.875,0.515,0.2628439962863922,Matt Phillips,a,1737,OpenPlay,2014,RightFoot,4766,Tottenham,Queens Park Rangers,4,0,2014-08-24 13:30:00,Joey Barton,Chipped,1737
+15045,31,MissedShots,0.755,0.28,0.015617799945175648,Matt Phillips,h,1737,OpenPlay,2014,LeftFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,Steven Caulker,TakeOn,1737
+15048,40,BlockedShot,0.8859999847412109,0.4229999923706055,0.10676799714565277,Matt Phillips,h,1737,OpenPlay,2014,RightFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,Leroy Fer,Pass,1737
+15059,64,SavedShot,0.7709999847412109,0.455,0.038280799984931946,Matt Phillips,h,1737,OpenPlay,2014,RightFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,Leroy Fer,Pass,1737
+15302,31,BlockedShot,0.749000015258789,0.41900001525878905,0.23854400217533112,Matt Phillips,a,1737,OpenPlay,2014,RightFoot,4727,Manchester United,Queens Park Rangers,4,0,2014-09-14 16:00:00,Niko Kranjcar,Chipped,1737
+15601,52,BlockedShot,0.685,0.4520000076293945,0.013563700020313263,Matt Phillips,h,1737,OpenPlay,2014,RightFoot,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,Armand Traore,Pass,1737
+15607,67,MissedShots,0.750999984741211,0.42900001525878906,0.02221990004181862,Matt Phillips,h,1737,OpenPlay,2014,RightFoot,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,Niko Kranjcar,Pass,1737
+15610,77,MissedShots,0.765,0.34,0.01659730076789856,Matt Phillips,h,1737,FromCorner,2014,RightFoot,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,Mauricio Isla,HeadPass,1737
+15613,85,MissedShots,0.7519999694824219,0.48700000762939455,0.017412599176168442,Matt Phillips,h,1737,FromCorner,2014,LeftFoot,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,,None,1737
+15836,35,MissedShots,0.7230000305175781,0.415,0.012641999870538712,Matt Phillips,a,1737,OpenPlay,2014,RightFoot,4741,Southampton,Queens Park Rangers,2,1,2014-09-27 15:00:00,,None,1737
+16685,63,MissedShots,0.875999984741211,0.47400001525878904,0.08694080263376236,Matt Phillips,h,1737,OpenPlay,2014,RightFoot,4706,Queens Park Rangers,Liverpool,2,3,2014-10-19 13:30:00,,None,1737
+18020,7,MissedShots,0.8130000305175781,0.46299999237060546,0.036353699862957,Matt Phillips,a,1737,FromCorner,2014,RightFoot,4618,Everton,Queens Park Rangers,3,1,2014-12-15 20:00:00,,None,1737
+23410,31,MissedShots,0.7919999694824219,0.46799999237060547,0.03422839939594269,Matt Phillips,h,1737,OpenPlay,2014,LeftFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Steven Caulker,HeadPass,1737
+23416,38,MissedShots,0.9109999847412109,0.509000015258789,0.1157199963927269,Matt Phillips,h,1737,OpenPlay,2014,Head,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Clint Hill,Cross,1737
+23492,26,MissedShots,0.9130000305175782,0.5629999923706055,0.11180900037288666,Matt Phillips,a,1737,OpenPlay,2014,Head,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,Mauricio Isla,Cross,1737
+24241,58,MissedShots,0.7730000305175782,0.3629999923706055,0.020739899948239326,Matt Phillips,h,1737,OpenPlay,2014,RightFoot,4490,Queens Park Rangers,Arsenal,1,2,2015-03-04 19:45:00,,None,1737
+23640,21,MissedShots,0.855999984741211,0.6530000305175782,0.04543669894337654,Matt Phillips,h,1737,OpenPlay,2014,RightFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,Charlie Austin,Pass,1737
+23664,92,SavedShot,0.965999984741211,0.3240000152587891,0.049815401434898376,Matt Phillips,h,1737,OpenPlay,2014,RightFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,,None,1737
+22604,82,Goal,0.624000015258789,0.5920000076293945,0.006731200031936169,Matt Phillips,a,1737,OpenPlay,2014,RightFoot,4493,Crystal Palace,Queens Park Rangers,3,1,2015-03-14 12:45:00,,BallRecovery,1737
+22606,87,SavedShot,0.7219999694824218,0.38,0.04174429923295975,Matt Phillips,a,1737,DirectFreekick,2014,RightFoot,4493,Crystal Palace,Queens Park Rangers,3,1,2015-03-14 12:45:00,,Standard,1737
+22609,94,MissedShots,0.7659999847412109,0.46599998474121096,0.019572099670767784,Matt Phillips,a,1737,FromCorner,2014,RightFoot,4493,Crystal Palace,Queens Park Rangers,3,1,2015-03-14 12:45:00,,None,1737
+22245,43,MissedShots,0.7069999694824218,0.45299999237060545,0.016853800043463707,Matt Phillips,h,1737,SetPiece,2014,RightFoot,4512,Queens Park Rangers,Everton,1,2,2015-03-22 16:00:00,Joey Barton,Pass,1737
+22713,4,SavedShot,0.7909999847412109,0.7480000305175781,0.04975999891757965,Matt Phillips,a,1737,DirectFreekick,2014,RightFoot,4445,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04 15:00:00,,Standard,1737
+22718,19,MissedShots,0.759000015258789,0.590999984741211,0.028348099440336227,Matt Phillips,a,1737,OpenPlay,2014,LeftFoot,4445,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04 15:00:00,Eduardo Vargas,Pass,1737
+22260,6,Goal,0.9519999694824218,0.48700000762939455,0.5952789783477783,Matt Phillips,a,1737,OpenPlay,2014,Head,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Bobby Zamora,Cross,1737
+20573,63,SavedShot,0.895,0.4640000152587891,0.3202590048313141,Matt Phillips,h,1737,OpenPlay,2014,LeftFoot,4458,Queens Park Rangers,Chelsea,0,1,2015-04-12 13:30:00,Bobby Zamora,Cross,1737
+20574,65,BlockedShot,0.875999984741211,0.745999984741211,0.029544999822974205,Matt Phillips,h,1737,OpenPlay,2014,RightFoot,4458,Queens Park Rangers,Chelsea,0,1,2015-04-12 13:30:00,Charlie Austin,Pass,1737
+20579,80,BlockedShot,0.7480000305175781,0.28899999618530275,0.017767999321222305,Matt Phillips,h,1737,OpenPlay,2014,RightFoot,4458,Queens Park Rangers,Chelsea,0,1,2015-04-12 13:30:00,Charlie Austin,Pass,1737
+22902,30,MissedShots,0.7919999694824219,0.5529999923706055,0.0544745996594429,Matt Phillips,h,1737,OpenPlay,2014,LeftFoot,4469,Queens Park Rangers,West Ham,0,0,2015-04-25 15:00:00,Sandro,TakeOn,1737
+22903,36,BlockedShot,0.7859999847412109,0.41200000762939454,0.036486998200416565,Matt Phillips,h,1737,OpenPlay,2014,RightFoot,4469,Queens Park Rangers,West Ham,0,0,2015-04-25 15:00:00,Bobby Zamora,LayOff,1737
+22919,90,SavedShot,0.9,0.29700000762939455,0.10108499974012375,Matt Phillips,h,1737,OpenPlay,2014,RightFoot,4469,Queens Park Rangers,West Ham,0,0,2015-04-25 15:00:00,Leroy Fer,Chipped,1737
+21365,65,SavedShot,0.77,0.4979999923706055,0.031231600791215897,Matt Phillips,a,1737,OpenPlay,2014,RightFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,,Rebound,1737
+21525,86,BlockedShot,0.7440000152587891,0.580999984741211,0.019722700119018555,Matt Phillips,a,1737,OpenPlay,2014,LeftFoot,4416,Manchester City,Queens Park Rangers,6,0,2015-05-10 13:30:00,Joey Barton,Pass,1737
+20409,46,BlockedShot,0.91,0.47200000762939454,0.09973199665546417,Matt Phillips,h,1737,OpenPlay,2014,LeftFoot,4420,Queens Park Rangers,Newcastle United,2,1,2015-05-16 15:00:00,Charlie Austin,Cross,1737
+20411,53,Goal,0.9540000152587891,0.5659999847412109,0.12759199738502502,Matt Phillips,h,1737,OpenPlay,2014,Head,4420,Queens Park Rangers,Newcastle United,2,1,2015-05-16 15:00:00,Charlie Austin,Cross,1737
+20420,69,MissedShots,0.875,0.47400001525878904,0.08804120123386383,Matt Phillips,h,1737,OpenPlay,2014,RightFoot,4420,Queens Park Rangers,Newcastle United,2,1,2015-05-16 15:00:00,Leroy Fer,Cross,1737
+22947,14,MissedShots,0.825,0.3729999923706055,0.046146199107170105,Matt Phillips,a,1737,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Clint Hill,TakeOn,1737
+22959,34,MissedShots,0.7330000305175781,0.4229999923706055,0.0147190997377038,Matt Phillips,a,1737,FromCorner,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,None,1737
+22965,46,BlockedShot,0.835999984741211,0.3320000076293945,0.04732929915189743,Matt Phillips,a,1737,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Leroy Fer,Pass,1737
+22975,60,MissedShots,0.759000015258789,0.5670000076293945,0.02040489949285984,Matt Phillips,a,1737,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Leroy Fer,Dispossessed,1737
+22983,81,MissedShots,0.775,0.33599998474121096,0.01657240092754364,Matt Phillips,a,1737,FromCorner,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,None,1737
+112206,80,MissedShots,0.7519999694824219,0.639000015258789,0.02165989950299263,Matt Phillips,a,1737,OpenPlay,2016,LeftFoot,462,Crystal Palace,West Bromwich Albion,0,1,2016-08-13 18:00:00,Salomón Rondón,Pass,1737
+113123,3,BlockedShot,0.725,0.4540000152587891,0.016874099150300026,Matt Phillips,h,1737,OpenPlay,2016,RightFoot,489,West Bromwich Albion,Middlesbrough,0,0,2016-08-28 16:30:00,,BallRecovery,1737
+113135,62,BlockedShot,0.735,0.34900001525878904,0.017260199412703514,Matt Phillips,h,1737,OpenPlay,2016,LeftFoot,489,West Bromwich Albion,Middlesbrough,0,0,2016-08-28 16:30:00,Darren Fletcher,Pass,1737
+113705,91,MissedShots,0.749000015258789,0.31799999237060544,0.032532699406147,Matt Phillips,h,1737,OpenPlay,2016,RightFoot,505,West Bromwich Albion,West Ham,4,2,2016-09-17 18:00:00,James Morrison,Chipped,1737
+113870,38,BlockedShot,0.784000015258789,0.715,0.018438799306750298,Matt Phillips,a,1737,FromCorner,2016,RightFoot,513,Stoke,West Bromwich Albion,1,1,2016-09-24 18:00:00,Darren Fletcher,Pass,1737
+114427,17,SavedShot,0.6509999847412109,0.46799999237060547,0.009990019723773003,Matt Phillips,a,1737,OpenPlay,2016,RightFoot,523,Sunderland,West Bromwich Albion,1,1,2016-10-01 18:00:00,Nacer Chadli,Pass,1737
+114431,37,MissedShots,0.785,0.30700000762939456,0.028527799993753433,Matt Phillips,a,1737,OpenPlay,2016,RightFoot,523,Sunderland,West Bromwich Albion,1,1,2016-10-01 18:00:00,,Dispossessed,1737
+114440,74,SavedShot,0.8169999694824219,0.38799999237060545,0.023134099319577217,Matt Phillips,a,1737,OpenPlay,2016,RightFoot,523,Sunderland,West Bromwich Albion,1,1,2016-10-01 18:00:00,,Aerial,1737
+114444,84,MissedShots,0.865,0.295,0.03247220069169998,Matt Phillips,a,1737,OpenPlay,2016,RightFoot,523,Sunderland,West Bromwich Albion,1,1,2016-10-01 18:00:00,Nacer Chadli,Pass,1737
+114101,25,MissedShots,0.87,0.37099998474121093,0.011733099818229675,Matt Phillips,h,1737,OpenPlay,2016,Head,536,West Bromwich Albion,Tottenham,1,1,2016-10-15 18:00:00,Nyom,Cross,1737
+114113,56,MissedShots,0.909000015258789,0.30100000381469727,0.019620100036263466,Matt Phillips,h,1737,OpenPlay,2016,RightFoot,536,West Bromwich Albion,Tottenham,1,1,2016-10-15 18:00:00,,Aerial,1737
+115631,2,SavedShot,0.8880000305175781,0.27399999618530274,0.03803889825940132,Matt Phillips,a,1737,OpenPlay,2016,RightFoot,2696,Leicester,West Bromwich Albion,1,2,2016-11-06 20:30:00,,None,1737
+115640,68,BlockedShot,0.7440000152587891,0.555,0.02337069995701313,Matt Phillips,a,1737,OpenPlay,2016,RightFoot,2696,Leicester,West Bromwich Albion,1,2,2016-11-06 20:30:00,James Morrison,Pass,1737
+115643,71,Goal,0.889000015258789,0.55,0.38554298877716064,Matt Phillips,a,1737,OpenPlay,2016,LeftFoot,2696,Leicester,West Bromwich Albion,1,2,2016-11-06 20:30:00,,None,1737
+115989,3,Goal,0.9369999694824219,0.44099998474121094,0.10840699821710587,Matt Phillips,h,1737,OpenPlay,2016,RightFoot,2706,West Bromwich Albion,Burnley,4,0,2016-11-22 00:00:00,,None,1737
+115994,18,MissedShots,0.710999984741211,0.615999984741211,0.017962999641895294,Matt Phillips,h,1737,OpenPlay,2016,RightFoot,2706,West Bromwich Albion,Burnley,4,0,2016-11-22 00:00:00,James Morrison,Pass,1737
+115999,45,MissedShots,0.9359999847412109,0.365,0.023117000237107277,Matt Phillips,h,1737,OpenPlay,2016,Head,2706,West Bromwich Albion,Burnley,4,0,2016-11-22 00:00:00,Craig Dawson,Cross,1737
+116292,24,MissedShots,0.775,0.3060000038146973,0.014781399630010128,Matt Phillips,a,1737,OpenPlay,2016,LeftFoot,2708,Hull,West Bromwich Albion,1,1,2016-11-26 19:00:00,Salomón Rondón,Chipped,1737
+116301,62,MissedShots,0.785,0.28200000762939453,0.023834099993109703,Matt Phillips,a,1737,OpenPlay,2016,LeftFoot,2708,Hull,West Bromwich Albion,1,1,2016-11-26 19:00:00,James Morrison,Pass,1737
+116049,8,MissedShots,0.769000015258789,0.7440000152587891,0.010559700429439545,Matt Phillips,h,1737,OpenPlay,2016,RightFoot,3110,West Bromwich Albion,Watford,3,1,2016-12-03 19:00:00,,TakeOn,1737
+116067,72,MissedShots,0.7909999847412109,0.7659999847412109,0.02227180078625679,Matt Phillips,h,1737,OpenPlay,2016,RightFoot,3110,West Bromwich Albion,Watford,3,1,2016-12-03 19:00:00,James Morrison,Pass,1737
+116070,90,Goal,0.7919999694824219,0.365,0.03934650123119354,Matt Phillips,h,1737,OpenPlay,2016,LeftFoot,3110,West Bromwich Albion,Watford,3,1,2016-12-03 19:00:00,Darren Fletcher,Pass,1737
+116721,9,MissedShots,0.7809999847412109,0.46799999237060547,0.03364989906549454,Matt Phillips,a,1737,OpenPlay,2016,RightFoot,3121,Chelsea,West Bromwich Albion,1,0,2016-12-11 16:00:00,Craig Dawson,Pass,1737
+117993,15,MissedShots,0.9390000152587891,0.4540000152587891,0.11783000081777573,Matt Phillips,h,1737,OpenPlay,2016,RightFoot,3131,West Bromwich Albion,Swansea,3,1,2016-12-15 00:00:00,Nacer Chadli,Cross,1737
+118000,57,MissedShots,0.95,0.549000015258789,0.10295899957418442,Matt Phillips,h,1737,OpenPlay,2016,Head,3131,West Bromwich Albion,Swansea,3,1,2016-12-15 00:00:00,Darren Fletcher,Aerial,1737
+118004,74,BlockedShot,0.6880000305175781,0.48400001525878905,0.021793300285935402,Matt Phillips,h,1737,OpenPlay,2016,RightFoot,3131,West Bromwich Albion,Swansea,3,1,2016-12-15 00:00:00,Claudio Yacob,Pass,1737
+115949,37,MissedShots,0.725,0.6880000305175781,0.012146799825131893,Matt Phillips,h,1737,OpenPlay,2016,RightFoot,3140,West Bromwich Albion,Manchester United,0,2,2016-12-17 21:30:00,,BallRecovery,1737
+115957,69,BlockedShot,0.9009999847412109,0.3729999923706055,0.04079119861125946,Matt Phillips,h,1737,OpenPlay,2016,RightFoot,3140,West Bromwich Albion,Manchester United,0,2,2016-12-17 21:30:00,,Aerial,1737
+117695,42,Goal,0.8590000152587891,0.5729999923706055,0.07167640328407288,Matt Phillips,a,1737,OpenPlay,2016,RightFoot,3160,Southampton,West Bromwich Albion,1,2,2016-12-31 19:00:00,Hal Robson-Kanu,Pass,1737
+117700,65,MissedShots,0.715,0.735,0.013394800014793873,Matt Phillips,a,1737,OpenPlay,2016,RightFoot,3160,Southampton,West Bromwich Albion,1,2,2016-12-31 19:00:00,,BallRecovery,1737
+117701,73,MissedShots,0.8119999694824219,0.6990000152587891,0.06976520270109177,Matt Phillips,a,1737,OpenPlay,2016,RightFoot,3160,Southampton,West Bromwich Albion,1,2,2016-12-31 19:00:00,Darren Fletcher,TakeOn,1737
+116979,39,SavedShot,0.874000015258789,0.57,0.028440499678254128,Matt Phillips,h,1737,OpenPlay,2016,Head,3333,West Bromwich Albion,Hull,3,1,2017-01-02 19:00:00,Chris Brunt,Cross,1737
+116986,63,BlockedShot,0.81,0.4929999923706055,0.07868809998035431,Matt Phillips,h,1737,OpenPlay,2016,LeftFoot,3333,West Bromwich Albion,Hull,3,1,2017-01-02 19:00:00,Salomón Rondón,TakeOn,1737
+117871,45,MissedShots,0.815,0.37099998474121093,0.09147509932518005,Matt Phillips,a,1737,OpenPlay,2016,RightFoot,3340,Tottenham,West Bromwich Albion,4,0,2017-01-14 16:30:00,Salomón Rondón,Throughball,1737
+118765,28,SavedShot,0.7419999694824219,0.534000015258789,0.02371389977633953,Matt Phillips,h,1737,OpenPlay,2016,LeftFoot,3355,West Bromwich Albion,Sunderland,2,0,2017-01-21 18:00:00,Darren Fletcher,Pass,1737
+118775,62,BlockedShot,0.8430000305175781,0.3340000152587891,0.03463960066437721,Matt Phillips,h,1737,OpenPlay,2016,LeftFoot,3355,West Bromwich Albion,Sunderland,2,0,2017-01-21 18:00:00,Craig Dawson,TakeOn,1737
+118782,91,BlockedShot,0.779000015258789,0.5779999923706055,0.025480300188064575,Matt Phillips,h,1737,SetPiece,2016,RightFoot,3355,West Bromwich Albion,Sunderland,2,0,2017-01-21 18:00:00,Chris Brunt,Pass,1737
+118959,55,ShotOnPost,0.9230000305175782,0.47200000762939454,0.3740060031414032,Matt Phillips,a,1737,OpenPlay,2016,Head,3363,Middlesbrough,West Bromwich Albion,1,1,2017-01-31 22:45:00,Nacer Chadli,Cross,1737
+118966,70,MissedShots,0.9169999694824219,0.5220000076293946,0.12038099765777588,Matt Phillips,a,1737,OpenPlay,2016,LeftFoot,3363,Middlesbrough,West Bromwich Albion,1,1,2017-01-31 22:45:00,James McClean,Cross,1737
+118970,82,MissedShots,0.8830000305175781,0.285,0.03368590027093887,Matt Phillips,a,1737,SetPiece,2016,RightFoot,3363,Middlesbrough,West Bromwich Albion,1,1,2017-01-31 22:45:00,Hal Robson-Kanu,Pass,1737
+117246,3,BlockedShot,0.835,0.3609999847412109,0.04546310007572174,Matt Phillips,h,1737,OpenPlay,2016,LeftFoot,3375,West Bromwich Albion,Stoke,1,0,2017-02-04 15:00:00,Jake Livermore,Chipped,1737
+117256,41,BlockedShot,0.8430000305175781,0.5179999923706055,0.0963440015912056,Matt Phillips,h,1737,OpenPlay,2016,RightFoot,3375,West Bromwich Albion,Stoke,1,0,2017-02-04 15:00:00,Nacer Chadli,Pass,1737
+120498,38,MissedShots,0.8630000305175781,0.5709999847412109,0.07267110049724579,Matt Phillips,h,1737,OpenPlay,2016,LeftFoot,3454,West Bromwich Albion,Southampton,0,1,2017-04-08 15:00:00,James Morrison,Pass,1737
+120500,45,BlockedShot,0.8390000152587891,0.5459999847412109,0.022279800847172737,Matt Phillips,h,1737,OpenPlay,2016,RightFoot,3454,West Bromwich Albion,Southampton,0,1,2017-04-08 15:00:00,,Aerial,1737
+121549,1,MissedShots,0.825,0.27700000762939453,0.018160700798034668,Matt Phillips,h,1737,OpenPlay,2016,LeftFoot,3469,West Bromwich Albion,Liverpool,0,1,2017-04-16 13:30:00,,TakeOn,1737
+121551,11,MissedShots,0.8230000305175781,0.24700000762939453,0.02121260017156601,Matt Phillips,h,1737,OpenPlay,2016,LeftFoot,3469,West Bromwich Albion,Liverpool,0,1,2017-04-16 13:30:00,Jake Livermore,Chipped,1737
+121568,79,SavedShot,0.9159999847412109,0.6309999847412109,0.3438760042190552,Matt Phillips,h,1737,OpenPlay,2016,LeftFoot,3469,West Bromwich Albion,Liverpool,0,1,2017-04-16 13:30:00,Salomón Rondón,Pass,1737
+158369,7,MissedShots,0.889000015258789,0.28299999237060547,0.039131999015808105,Matt Phillips,h,1737,OpenPlay,2017,RightFoot,7121,West Bromwich Albion,Bournemouth,1,0,2017-08-12 15:00:00,Jay Rodriguez,Pass,1737
+158374,22,BlockedShot,0.7319999694824219,0.28600000381469726,0.009499319829046726,Matt Phillips,h,1737,OpenPlay,2017,LeftFoot,7121,West Bromwich Albion,Bournemouth,1,0,2017-08-12 15:00:00,,None,1737
+158434,57,MissedShots,0.7080000305175781,0.4929999923706055,0.013707299716770649,Matt Phillips,a,1737,OpenPlay,2017,LeftFoot,7132,Burnley,West Bromwich Albion,0,1,2017-08-19 15:00:00,Jake Livermore,TakeOn,1737
+159112,23,BlockedShot,0.7530000305175781,0.38799999237060545,0.01749340072274208,Matt Phillips,a,1737,OpenPlay,2017,RightFoot,7153,Brighton,West Bromwich Albion,3,1,2017-09-09 15:00:00,,None,1737
+159130,93,MissedShots,0.925,0.710999984741211,0.03383810073137283,Matt Phillips,a,1737,FromCorner,2017,RightFoot,7153,Brighton,West Bromwich Albion,3,1,2017-09-09 15:00:00,,None,1737
+159025,38,MissedShots,0.815,0.43099998474121093,0.05897429957985878,Matt Phillips,h,1737,OpenPlay,2017,LeftFoot,7165,West Bromwich Albion,West Ham,0,0,2017-09-16 15:00:00,James Morrison,Pass,1737
+160352,16,BlockedShot,0.879000015258789,0.4640000152587891,0.08892250061035156,Matt Phillips,h,1737,OpenPlay,2017,LeftFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,,None,1737
+160365,49,SavedShot,0.87,0.7090000152587891,0.027121899649500847,Matt Phillips,h,1737,FromCorner,2017,RightFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,,None,1737
+160180,91,Goal,0.955999984741211,0.4929999923706055,0.5922219753265381,Matt Phillips,h,1737,OpenPlay,2017,RightFoot,7215,West Bromwich Albion,Manchester City,2,3,2017-10-28 15:00:00,,None,1737
+160313,92,SavedShot,0.8080000305175781,0.5,0.04155740141868591,Matt Phillips,a,1737,OpenPlay,2017,LeftFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,Ahmed Hegazy,Pass,1737
+161023,73,MissedShots,0.7809999847412109,0.7169999694824218,0.01073949970304966,Matt Phillips,h,1737,OpenPlay,2017,RightFoot,7229,West Bromwich Albion,Chelsea,0,4,2017-11-18 15:00:00,Salomón Rondón,HeadPass,1737
+161676,54,MissedShots,0.8469999694824218,0.28600000381469726,0.04522790014743805,Matt Phillips,a,1737,OpenPlay,2017,LeftFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Gareth Barry,Chipped,1737
+185648,82,MissedShots,0.8059999847412109,0.54,0.13702300190925598,Matt Phillips,h,1737,DirectFreekick,2017,RightFoot,7318,West Bromwich Albion,Everton,0,0,2017-12-26 15:00:00,,Standard,1737
+186207,10,MissedShots,0.765,0.32799999237060545,0.021332399919629097,Matt Phillips,h,1737,FromCorner,2017,RightFoot,7328,West Bromwich Albion,Arsenal,1,1,2017-12-31 16:30:00,Chris Brunt,Pass,1737
+187468,16,MissedShots,0.6179999923706054,0.7930000305175782,0.016032999381422997,Matt Phillips,h,1737,OpenPlay,2017,RightFoot,7348,West Bromwich Albion,Brighton,2,0,2018-01-13 15:00:00,Jay Rodriguez,BallRecovery,1737
+187473,30,BlockedShot,0.795,0.4,0.025998499244451523,Matt Phillips,h,1737,SetPiece,2017,RightFoot,7348,West Bromwich Albion,Brighton,2,0,2018-01-13 15:00:00,,None,1737
+188786,34,BlockedShot,0.795,0.29700000762939455,0.028230899944901466,Matt Phillips,a,1737,OpenPlay,2017,LeftFoot,7352,Everton,West Bromwich Albion,1,1,2018-01-20 15:00:00,Salomón Rondón,LayOff,1737
+188793,73,MissedShots,0.9530000305175781,0.5940000152587891,0.12726600468158722,Matt Phillips,a,1737,OpenPlay,2017,LeftFoot,7352,Everton,West Bromwich Albion,1,1,2018-01-20 15:00:00,,Rebound,1737
+188795,78,SavedShot,0.875999984741211,0.6480000305175782,0.0651697963476181,Matt Phillips,a,1737,OpenPlay,2017,LeftFoot,7352,Everton,West Bromwich Albion,1,1,2018-01-20 15:00:00,Ahmed Hegazy,BallRecovery,1737
+194240,91,SavedShot,0.9019999694824219,0.664000015258789,0.0792320966720581,Matt Phillips,a,1737,OpenPlay,2017,LeftFoot,7366,Manchester City,West Bromwich Albion,3,0,2018-01-31 20:00:00,Jay Rodriguez,Pass,1737
+193802,25,MissedShots,0.7090000152587891,0.5920000076293945,0.012842799536883831,Matt Phillips,h,1737,OpenPlay,2017,RightFoot,7378,West Bromwich Albion,Southampton,2,3,2018-02-03 15:00:00,Daniel Sturridge,LayOff,1737
+201443,96,BlockedShot,0.9619999694824218,0.5059999847412109,0.592831015586853,Matt Phillips,a,1737,OpenPlay,2017,Head,7419,Bournemouth,West Bromwich Albion,2,1,2018-03-17 15:00:00,Kieran Gibbs,Cross,1737
+207096,17,BlockedShot,0.8080000305175781,0.5259999847412109,0.05263660103082657,Matt Phillips,h,1737,OpenPlay,2017,RightFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Jay Rodriguez,BallRecovery,1737
+207110,82,MissedShots,0.805,0.27399999618530274,0.015689099207520485,Matt Phillips,h,1737,OpenPlay,2017,LeftFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,,Rebound,1737
+209200,55,BlockedShot,0.8009999847412109,0.6480000305175782,0.03780730068683624,Matt Phillips,a,1737,OpenPlay,2017,RightFoot,7453,Manchester United,West Bromwich Albion,0,1,2018-04-15 15:00:00,Jake Livermore,BallRecovery,1737
+210253,21,SavedShot,0.8690000152587891,0.28600000381469726,0.029993800446391106,Matt Phillips,h,1737,OpenPlay,2017,LeftFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Jay Rodriguez,Pass,1737
+210270,91,BlockedShot,0.93,0.4909999847412109,0.07972119748592377,Matt Phillips,h,1737,OpenPlay,2017,Head,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Salomón Rondón,Aerial,1737
+211708,28,Goal,0.8959999847412109,0.3820000076293945,0.2951599955558777,Matt Phillips,a,1737,OpenPlay,2017,RightFoot,7474,Newcastle United,West Bromwich Albion,0,1,2018-04-28 14:00:00,Jake Livermore,Chipped,1737
+379036,78,BlockedShot,0.7609999847412109,0.44,0.01821249909698963,Matt Phillips,h,1737,FromCorner,2020,RightFoot,14108,West Bromwich Albion,Chelsea,3,3,2020-09-26 16:30:00,,None,1737
+390564,25,SavedShot,0.9340000152587891,0.6809999847412109,0.01853409968316555,Matt Phillips,h,1737,OpenPlay,2020,Head,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Matheus Pereira,Chipped,1737
+391625,21,MissedShots,0.7240000152587891,0.555,0.016973700374364853,Matt Phillips,a,1737,OpenPlay,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Romaine Sawyers,Pass,1737
+391630,37,SavedShot,0.7240000152587891,0.6480000305175782,0.01576879993081093,Matt Phillips,a,1737,OpenPlay,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,Semi Ajayi,Pass,1737
+392725,61,MissedShots,0.7390000152587891,0.7269999694824218,0.010152099654078484,Matt Phillips,a,1737,OpenPlay,2020,RightFoot,14564,Manchester City,West Bromwich Albion,1,1,2020-12-15 20:00:00,,None,1737
+394775,39,SavedShot,0.7030000305175781,0.47,0.03884420171380043,Matt Phillips,h,1737,DirectFreekick,2020,RightFoot,14574,West Bromwich Albion,Aston Villa,0,3,2020-12-20 19:15:00,,Standard,1737
+396600,20,SavedShot,0.8919999694824219,0.3940000152587891,0.4043070077896118,Matt Phillips,h,1737,OpenPlay,2020,RightFoot,14600,West Bromwich Albion,Arsenal,0,4,2021-01-02 20:00:00,Matheus Pereira,Chipped,1737
+402446,1,BlockedShot,0.8540000152587891,0.6140000152587891,0.08523719757795334,Matt Phillips,a,1737,SetPiece,2020,LeftFoot,14649,Sheffield United,West Bromwich Albion,2,1,2021-02-02 18:00:00,,TakeOn,1737
+402454,40,Goal,0.9819999694824219,0.4759999847412109,0.9472519755363464,Matt Phillips,a,1737,OpenPlay,2020,RightFoot,14649,Sheffield United,West Bromwich Albion,2,1,2021-02-02 18:00:00,,Rebound,1737
+408241,12,SavedShot,0.725,0.525,0.015654200688004494,Matt Phillips,h,1737,OpenPlay,2020,RightFoot,14723,West Bromwich Albion,Everton,0,1,2021-03-04 18:00:00,Dara O&#039;Shea,BallRecovery,1737
+408243,19,BlockedShot,0.830999984741211,0.6419999694824219,0.04915289953351021,Matt Phillips,h,1737,OpenPlay,2020,RightFoot,14723,West Bromwich Albion,Everton,0,1,2021-03-04 18:00:00,Conor Gallagher,Pass,1737
+408832,34,SavedShot,0.7090000152587891,0.5609999847412109,0.015611699782311916,Matt Phillips,h,1737,OpenPlay,2020,RightFoot,14703,West Bromwich Albion,Newcastle United,0,0,2021-03-07 12:00:00,Conor Townsend,Pass,1737
+408836,54,MissedShots,0.915,0.49599998474121093,0.5023130178451538,Matt Phillips,h,1737,OpenPlay,2020,LeftFoot,14703,West Bromwich Albion,Newcastle United,0,0,2021-03-07 12:00:00,Conor Townsend,Pass,1737
+409971,52,MissedShots,0.9059999847412109,0.41200000762939454,0.08089339733123779,Matt Phillips,a,1737,OpenPlay,2020,RightFoot,14706,Crystal Palace,West Bromwich Albion,1,0,2021-03-13 15:00:00,Conor Townsend,Cross,1737
+409972,57,BlockedShot,0.835,0.445,0.020445099100470543,Matt Phillips,a,1737,OpenPlay,2020,RightFoot,14706,Crystal Palace,West Bromwich Albion,1,0,2021-03-13 15:00:00,,Aerial,1737
+412197,47,ShotOnPost,0.8480000305175781,0.265,0.023688899353146553,Matt Phillips,a,1737,OpenPlay,2020,LeftFoot,14727,Chelsea,West Bromwich Albion,2,5,2021-04-03 11:30:00,Okay Yokuslu,TakeOn,1737
+414882,3,SavedShot,0.91,0.685,0.04325610026717186,Matt Phillips,h,1737,SetPiece,2020,LeftFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Matheus Pereira,TakeOn,1737
+414897,34,Goal,0.9730000305175781,0.4129999923706055,0.43348801136016846,Matt Phillips,h,1737,OpenPlay,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Mbaye Diagne,Pass,1737
+416864,46,SavedShot,0.8019999694824219,0.534000015258789,0.07197210192680359,Matt Phillips,a,1737,OpenPlay,2020,LeftFoot,14750,Leicester,West Bromwich Albion,3,0,2021-04-22 19:00:00,Matheus Pereira,TakeOn,1737
+420858,57,BlockedShot,0.7469999694824219,0.40700000762939453,0.021053500473499298,Matt Phillips,a,1737,FromCorner,2020,RightFoot,14775,Arsenal,West Bromwich Albion,3,1,2021-05-09 18:00:00,Matheus Pereira,Pass,1737
+423386,44,MissedShots,0.7969999694824219,0.6359999847412109,0.018383899703621864,Matt Phillips,h,1737,OpenPlay,2020,LeftFoot,14804,West Bromwich Albion,West Ham,1,3,2021-05-19 19:15:00,,Aerial,1737
+424004,53,BlockedShot,0.8580000305175781,0.49700000762939456,0.07232259958982468,Matt Phillips,a,1737,OpenPlay,2020,RightFoot,14808,Leeds,West Bromwich Albion,3,1,2021-05-23 15:00:00,,Dispossessed,1737

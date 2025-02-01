@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+547699,86,OwnGoal,0.01100000023841858,0.505,0,Steve Mandanda,a,1670,SetPiece,2023,OtherBodyPart,23468,Nice,Rennes,2,0,2023-11-05 19:45:00,,Card,1670

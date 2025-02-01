@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+113130,23,MissedShots,0.9,0.6120000076293945,0.04699710011482239,Daniel Ayala,a,1718,FromCorner,2016,RightFoot,489,West Bromwich Albion,Middlesbrough,0,0,2016-08-28 16:30:00,Gastón Ramírez,Cross,1718
+113140,80,SavedShot,0.955,0.455,0.12514500319957733,Daniel Ayala,a,1718,FromCorner,2016,LeftFoot,489,West Bromwich Albion,Middlesbrough,0,0,2016-08-28 16:30:00,,None,1718
+113287,37,Goal,0.8919999694824219,0.4329999923706055,0.033650100231170654,Daniel Ayala,h,1718,FromCorner,2016,Head,492,Middlesbrough,Crystal Palace,1,2,2016-09-10 18:00:00,Stewart Downing,Cross,1718
+113298,76,MissedShots,0.9119999694824219,0.4929999923706055,0.035187698900699615,Daniel Ayala,h,1718,FromCorner,2016,Head,492,Middlesbrough,Crystal Palace,1,2,2016-09-10 18:00:00,Stewart Downing,Aerial,1718
+120126,85,BlockedShot,0.9459999847412109,0.51,0.07712879776954651,Daniel Ayala,h,1718,FromCorner,2016,Head,3456,Middlesbrough,Burnley,0,0,2017-04-08 15:00:00,Grant Leadbitter,Aerial,1718
+120127,92,MissedShots,0.9159999847412109,0.5220000076293946,0.12336800247430801,Daniel Ayala,h,1718,SetPiece,2016,Head,3456,Middlesbrough,Burnley,0,0,2017-04-08 15:00:00,Adam Clayton,Cross,1718
+121255,60,SavedShot,0.93,0.5320000076293945,0.4888019859790802,Daniel Ayala,h,1718,SetPiece,2016,Head,3461,Middlesbrough,Arsenal,1,2,2017-04-17 20:00:00,George Friend,HeadPass,1718
+121256,60,MissedShots,0.9740000152587891,0.509000015258789,0.1363919973373413,Daniel Ayala,h,1718,SetPiece,2016,LeftFoot,3461,Middlesbrough,Arsenal,1,2,2017-04-17 20:00:00,,BallRecovery,1718
+121262,83,SavedShot,0.9380000305175781,0.42200000762939455,0.038277000188827515,Daniel Ayala,h,1718,FromCorner,2016,Head,3461,Middlesbrough,Arsenal,1,2,2017-04-17 20:00:00,Adam Clayton,Aerial,1718
+121673,49,MissedShots,0.9519999694824218,0.5690000152587891,0.10557900369167328,Daniel Ayala,a,1718,FromCorner,2016,Head,3471,Bournemouth,Middlesbrough,4,0,2017-04-22 15:00:00,Stewart Downing,Cross,1718

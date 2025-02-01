@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+23925,87,OwnGoal,0.04300000190734863,0.46,0,Matt Upson,a,4438,OpenPlay,2014,Head,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,,Clearance,4438
+22877,38,SavedShot,0.94,0.26600000381469724,0.009455930441617966,Matt Upson,h,4438,FromCorner,2014,Head,4495,Leicester,Hull,0,0,2015-03-14 15:00:00,Jamie Vardy,Aerial,4438
+22894,93,SavedShot,0.9369999694824219,0.5520000076293945,0.0502328984439373,Matt Upson,h,4438,FromCorner,2014,OtherBodyPart,4495,Leicester,Hull,0,0,2015-03-14 15:00:00,Riyad Mahrez,Aerial,4438

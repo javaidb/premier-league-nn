@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,8,Sub,Crystal Palace,Chelsea,0,3,2016-01-03,279,2015,61030,0,0,0,0,0,0,0,1060
+0,1,0.09653300046920776,13,Sub,Crystal Palace,Burnley,0,0,2014-09-13,4721,2014,17924,0,0,0,0,0.09653300046920776,0.09653300046920776,0,1060
+0,1,0.024039100855588913,15,Sub,Crystal Palace,West Ham,1,3,2014-08-23,4761,2014,17368,0.38520100712776184,0,2,0,0.024039100855588913,0.4092409908771515,0.38520100712776184,1060

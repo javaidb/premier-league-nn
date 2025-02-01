@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+456575,66,MissedShots,0.764000015258789,0.36400001525878906,0.018236199393868446,Connor Roberts,h,5568,OpenPlay,2021,RightFoot,16608,Burnley,Manchester United,1,1,2022-02-08 20:00:00,,None,5568
+458257,9,ShotOnPost,0.8119999694824219,0.27,0.012779699638485909,Connor Roberts,a,5568,OpenPlay,2021,LeftFoot,16628,Brighton,Burnley,0,3,2022-02-19 15:00:00,Jack Cork,Chipped,5568
+460693,48,SavedShot,0.8640000152587891,0.27399999618530274,0.028286200016736984,Connor Roberts,h,5568,OpenPlay,2021,RightFoot,16588,Burnley,Leicester,0,2,2022-03-01 19:45:00,Josh Brownhill,Chipped,5568
+469680,11,Goal,0.789000015258789,0.295,0.020812399685382843,Connor Roberts,h,5568,OpenPlay,2021,LeftFoot,16667,Burnley,Southampton,2,0,2022-04-21 18:45:00,Josh Brownhill,Pass,5568
+474754,43,SavedShot,0.740999984741211,0.495,0.01603960059583187,Connor Roberts,h,5568,FromCorner,2021,LeftFoot,16732,Burnley,Aston Villa,1,3,2022-05-07 14:00:00,Wout Weghorst,None,5568
+476973,84,SavedShot,0.9480000305175781,0.5259999847412109,0.12640200555324554,Connor Roberts,a,5568,OpenPlay,2021,RightFoot,16546,Aston Villa,Burnley,1,1,2022-05-19 19:00:00,Charlie Taylor,Cross,5568

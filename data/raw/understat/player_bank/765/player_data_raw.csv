@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+765,Steven Taylor,10,655,1,0.42362750321626663,0,0,5,0,2,1,D S,Newcastle United,1,0.42362750321626663,0.8078706823289394,0.7066186852753162,2014
+765,Steven Taylor,10,810,0,0.08394379913806915,0,0.11183899641036987,1,2,1,0,D S,Newcastle United,0,0.08394379913806915,1.7559301909059286,1.560147201642394,2015

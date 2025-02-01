@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+539451,87,MissedShots,0.784000015258789,0.33099998474121095,0.026123253628611565,Benson Manuel,h,11702,OpenPlay,2023,LeftFoot,21950,Burnley,Manchester United,0,1,2023-09-23 19:00:00,Josh Cullen,TakeOn,11702
+539454,94,SavedShot,0.865,0.3029999923706055,0.03663841634988785,Benson Manuel,h,11702,SetPiece,2023,LeftFoot,21950,Burnley,Manchester United,0,1,2023-09-23 19:00:00,Mike Trésor,Pass,11702
+567063,95,MissedShots,0.7530000305175781,0.42400001525878905,0.01394630502909422,Benson Manuel,h,11702,OpenPlay,2023,LeftFoot,22156,Burnley,Bournemouth,0,2,2024-03-03 13:00:00,Lorenz Assignon,Pass,11702
+571840,88,SavedShot,0.805,0.2670000076293945,0.021881967782974243,Benson Manuel,h,11702,OpenPlay,2023,LeftFoot,22197,Burnley,Wolverhampton Wanderers,1,1,2024-04-02 18:45:00,Wilson Odobert,Pass,11702

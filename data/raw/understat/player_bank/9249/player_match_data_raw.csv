@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,16,Sub,Brighton,West Ham,1,1,2021-05-15,14785,2020,471072,0.334307998418808,1,2,0,0,0.334307998418808,0.010673100128769875,9249
+0,0,0,15,Sub,Leeds,Brighton,0,1,2021-01-16,14618,2020,442326,0,0,0,0,0,0,0,9249
+0,0,0,69,AMC,Manchester City,Brighton,1,0,2021-01-13,14614,2020,441924,0.03305720165371895,0,1,0,0,0.10821100324392319,0.07515370100736618,9249

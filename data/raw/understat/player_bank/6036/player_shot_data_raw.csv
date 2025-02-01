@@ -1,0 +1,50 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+158618,2,BlockedShot,0.7519999694824219,0.635,0.017921600490808487,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7144,Huddersfield,Southampton,0,0,2017-08-26 15:00:00,Tom Ince,BallRecovery,6036
+158623,22,BlockedShot,0.8569999694824219,0.47,0.09320809692144394,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7144,Huddersfield,Southampton,0,0,2017-08-26 15:00:00,Elias Kachunga,Pass,6036
+159219,75,SavedShot,0.799000015258789,0.7380000305175781,0.014908400364220142,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7174,Burnley,Huddersfield,0,0,2017-09-23 15:00:00,Aaron Mooy,Chipped,6036
+160183,7,BlockedShot,0.845999984741211,0.5640000152587891,0.07212360203266144,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7179,Huddersfield,Tottenham,0,4,2017-09-30 12:30:00,,Dispossessed,6036
+160197,84,BlockedShot,0.7659999847412109,0.44299999237060544,0.02310900017619133,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7179,Huddersfield,Tottenham,0,4,2017-09-30 12:30:00,Laurent Depoitre,Pass,6036
+160200,91,MissedShots,0.7319999694824219,0.34700000762939454,0.011419200338423252,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7179,Huddersfield,Tottenham,0,4,2017-09-30 12:30:00,Zanka,BallRecovery,6036
+160581,60,SavedShot,0.74,0.5729999923706055,0.01853719912469387,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7196,Swansea,Huddersfield,2,0,2017-10-14 15:00:00,Christopher Schindler,Pass,6036
+160583,80,BlockedShot,0.7340000152587891,0.5570000076293945,0.011168399825692177,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7196,Swansea,Huddersfield,2,0,2017-10-14 15:00:00,,None,6036
+160584,81,BlockedShot,0.870999984741211,0.7480000305175781,0.02908420003950596,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7196,Swansea,Huddersfield,2,0,2017-10-14 15:00:00,Elias Kachunga,Pass,6036
+159466,60,BlockedShot,0.8219999694824218,0.5359999847412109,0.04914209991693497,Rajiv van La Parra,h,6036,SetPiece,2017,RightFoot,7201,Huddersfield,Manchester United,2,1,2017-10-21 15:00:00,,None,6036
+160299,11,MissedShots,0.779000015258789,0.28899999618530275,0.015783600509166718,Rajiv van La Parra,h,6036,OpenPlay,2017,LeftFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,Florent Hadergjonaj,TakeOn,6036
+160306,44,Goal,0.754000015258789,0.6,0.018939800560474396,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,Scott Malone,Pass,6036
+161558,5,SavedShot,0.6409999847412109,0.675,0.006445690058171749,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Scott Malone,TakeOn,6036
+161560,7,SavedShot,0.8119999694824219,0.485,0.057068899273872375,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Tom Ince,Pass,6036
+161562,10,BlockedShot,0.8969999694824219,0.7140000152587891,0.05438850075006485,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Tom Ince,TakeOn,6036
+161565,18,MissedShots,0.85,0.5070000076293946,0.06364999711513519,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Florent Hadergjonaj,Cross,6036
+161575,44,BlockedShot,0.919000015258789,0.6140000152587891,0.10691999644041061,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Scott Malone,Pass,6036
+161577,51,MissedShots,0.7759999847412109,0.47200000762939454,0.0222523994743824,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,,None,6036
+161578,55,MissedShots,0.8909999847412109,0.43400001525878906,0.06402610242366791,Rajiv van La Parra,a,6036,SetPiece,2017,RightFoot,7237,Bournemouth,Huddersfield,4,0,2017-11-18 15:00:00,Aaron Mooy,Cross,6036
+182788,48,SavedShot,0.865999984741211,0.31799999237060544,0.06443729996681213,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7296,Watford,Huddersfield,1,4,2017-12-16 15:00:00,Aaron Mooy,Pass,6036
+183168,4,BlockedShot,0.8640000152587891,0.5209999847412109,0.07572150230407715,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Collin Quaner,Cross,6036
+183172,15,MissedShots,0.8019999694824219,0.40200000762939453,0.026146300137043,Rajiv van La Parra,a,6036,FromCorner,2017,LeftFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,,None,6036
+185554,23,BlockedShot,0.8430000305175781,0.7169999694824218,0.04143080115318298,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7312,Huddersfield,Stoke,1,1,2017-12-26 15:00:00,Aaron Mooy,Pass,6036
+185562,40,SavedShot,0.8330000305175781,0.7169999694824218,0.03817899897694588,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7312,Huddersfield,Stoke,1,1,2017-12-26 15:00:00,Tom Ince,Pass,6036
+185564,44,MissedShots,0.8880000305175781,0.669000015258789,0.0856064036488533,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7312,Huddersfield,Stoke,1,1,2017-12-26 15:00:00,Jonathan Hogg,Pass,6036
+185569,55,SavedShot,0.9519999694824218,0.595999984741211,0.43460801243782043,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7312,Huddersfield,Stoke,1,1,2017-12-26 15:00:00,Collin Quaner,BallTouch,6036
+187403,5,BlockedShot,0.705,0.7440000152587891,0.008946370333433151,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7342,Huddersfield,West Ham,1,4,2018-01-13 15:00:00,,None,6036
+187404,8,BlockedShot,0.7469999694824219,0.6909999847412109,0.014710599556565285,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7342,Huddersfield,West Ham,1,4,2018-01-13 15:00:00,Aaron Mooy,Pass,6036
+188836,73,SavedShot,0.86,0.7869999694824219,0.01605059951543808,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7356,Stoke,Huddersfield,2,0,2018-01-20 15:00:00,Aaron Mooy,Chipped,6036
+193757,44,MissedShots,0.7759999847412109,0.555,0.021240700036287308,Rajiv van La Parra,a,6036,FromCorner,2017,RightFoot,7376,Manchester United,Huddersfield,2,0,2018-02-03 15:00:00,,None,6036
+193896,94,Goal,0.885,0.5,0.761132001876831,Rajiv van La Parra,h,6036,Penalty,2017,RightFoot,7381,Huddersfield,Bournemouth,4,1,2018-02-11 12:00:00,,Standard,6036
+197390,35,SavedShot,0.9269999694824219,0.585,0.12286899983882904,Rajiv van La Parra,a,6036,OpenPlay,2017,LeftFoot,7394,West Bromwich Albion,Huddersfield,1,2,2018-02-24 15:00:00,,Rebound,6036
+197394,43,BlockedShot,0.8640000152587891,0.754000015258789,0.027365699410438538,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7394,West Bromwich Albion,Huddersfield,1,2,2018-02-24 15:00:00,Collin Quaner,Pass,6036
+197395,47,Goal,0.89,0.504000015258789,0.12896999716758728,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7394,West Bromwich Albion,Huddersfield,1,2,2018-02-24 15:00:00,Collin Quaner,Pass,6036
+197406,79,SavedShot,0.8969999694824219,0.7030000305175781,0.08685149997472763,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7394,West Bromwich Albion,Huddersfield,1,2,2018-02-24 15:00:00,Christopher Schindler,TakeOn,6036
+198896,30,SavedShot,0.845999984741211,0.6940000152587891,0.03983449935913086,Rajiv van La Parra,a,6036,OpenPlay,2017,RightFoot,7407,Tottenham,Huddersfield,2,0,2018-03-03 15:00:00,Steve Mounie,Pass,6036
+200037,14,BlockedShot,0.775,0.6840000152587891,0.016458699479699135,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7413,Huddersfield,Swansea,0,0,2018-03-10 15:00:00,Scott Malone,Pass,6036
+200038,16,MissedShots,0.915,0.7240000152587891,0.048717398196458817,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7413,Huddersfield,Swansea,0,0,2018-03-10 15:00:00,Aaron Mooy,Pass,6036
+201458,74,BlockedShot,0.8490000152587891,0.48,0.04657769948244095,Rajiv van La Parra,h,6036,FromCorner,2017,RightFoot,7421,Huddersfield,Crystal Palace,0,2,2018-03-17 15:00:00,Zanka,Pass,6036
+201460,80,SavedShot,0.7919999694824219,0.44299999237060544,0.03446489945054054,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7421,Huddersfield,Crystal Palace,0,2,2018-03-17 15:00:00,,Dispossessed,6036
+201463,85,MissedShots,0.7719999694824219,0.675,0.020833399146795273,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7421,Huddersfield,Crystal Palace,0,2,2018-03-17 15:00:00,Jonathan Hogg,Pass,6036
+208474,19,BlockedShot,0.9080000305175782,0.7119999694824218,0.052244000136852264,Rajiv van La Parra,h,6036,OpenPlay,2017,LeftFoot,7451,Huddersfield,Watford,1,0,2018-04-14 14:00:00,Steve Mounie,Pass,6036
+208481,68,MissedShots,0.8219999694824218,0.7559999847412109,0.02330549992620945,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7451,Huddersfield,Watford,1,0,2018-04-14 14:00:00,Aaron Mooy,Pass,6036
+211692,29,MissedShots,0.860999984741211,0.515,0.1012049987912178,Rajiv van La Parra,h,6036,OpenPlay,2017,RightFoot,7471,Huddersfield,Everton,0,2,2018-04-28 14:00:00,Alex Pritchard,Pass,6036
+233638,58,MissedShots,0.8619999694824219,0.580999984741211,0.07854720205068588,Rajiv van La Parra,a,6036,OpenPlay,2018,RightFoot,9229,Everton,Huddersfield,1,1,2018-09-01 14:00:00,Steve Mounie,BallTouch,6036
+233820,46,BlockedShot,0.8930000305175781,0.38799999237060545,0.060972098261117935,Rajiv van La Parra,h,6036,OpenPlay,2018,RightFoot,9240,Huddersfield,Crystal Palace,0,1,2018-09-15 14:00:00,Chris Löwe,Cross,6036
+234152,26,MissedShots,0.6040000152587891,0.5459999847412109,0.010482899844646454,Rajiv van La Parra,a,6036,OpenPlay,2018,RightFoot,9250,Leicester,Huddersfield,3,1,2018-09-22 14:00:00,Jonas Lössl,Pass,6036
+249088,23,MissedShots,0.7669999694824219,0.624000015258789,0.023306800052523613,Rajiv van La Parra,a,6036,OpenPlay,2018,RightFoot,9272,Burnley,Huddersfield,1,1,2018-10-06 14:00:00,Jonathan Hogg,Pass,6036
+249090,29,MissedShots,0.894000015258789,0.6730000305175782,0.06372319906949997,Rajiv van La Parra,a,6036,OpenPlay,2018,RightFoot,9272,Burnley,Huddersfield,1,1,2018-10-06 14:00:00,Alex Pritchard,Pass,6036

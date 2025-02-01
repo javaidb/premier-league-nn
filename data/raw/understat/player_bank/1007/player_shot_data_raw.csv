@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14754,30,MissedShots,0.895,0.40599998474121096,0.022010499611496925,Steve Sidwell,a,1007,FromCorner,2014,Head,4765,Hull,Stoke,1,1,2014-08-24 13:30:00,Marko Arnautovic,Chipped,1007
+14766,64,MissedShots,0.740999984741211,0.31,0.009805019944906235,Steve Sidwell,a,1007,OpenPlay,2014,RightFoot,4765,Hull,Stoke,1,1,2014-08-24 13:30:00,,Aerial,1007
+16245,37,MissedShots,0.764000015258789,0.34700000762939454,0.024417899549007416,Steve Sidwell,h,1007,OpenPlay,2014,RightFoot,4650,Stoke,West Ham,2,2,2014-11-01 15:00:00,Steven N&#039;Zonzi,Pass,1007
+17199,22,MissedShots,0.779000015258789,0.5309999847412109,0.021094700321555138,Steve Sidwell,h,1007,SetPiece,2014,LeftFoot,4669,Stoke,Burnley,1,2,2014-11-22 15:00:00,,Rebound,1007
+17202,36,MissedShots,0.9519999694824218,0.38599998474121094,0.014387399889528751,Steve Sidwell,h,1007,FromCorner,2014,Head,4669,Stoke,Burnley,1,2,2014-11-22 15:00:00,Victor Moses,Aerial,1007
+17213,72,BlockedShot,0.8140000152587891,0.4979999923706055,0.014646399766206741,Steve Sidwell,h,1007,OpenPlay,2014,RightFoot,4669,Stoke,Burnley,1,2,2014-11-22 15:00:00,Jonathan Walters,Aerial,1007
+23401,85,MissedShots,0.745999984741211,0.48700000762939455,0.02329850010573864,Steve Sidwell,h,1007,FromCorner,2014,RightFoot,4530,Stoke,Manchester City,1,4,2015-02-11 19:45:00,Charlie Adam,Pass,1007
+23403,90,BlockedShot,0.784000015258789,0.6469999694824219,0.02537740021944046,Steve Sidwell,h,1007,OpenPlay,2014,RightFoot,4530,Stoke,Manchester City,1,4,2015-02-11 19:45:00,Mame Biram Diouf,LayOff,1007

@@ -1,0 +1,48 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+508418,86,BlockedShot,0.8159999847412109,0.5,0.058437999337911606,João Gomes,a,11384,OpenPlay,2022,RightFoot,18430,Southampton,Wolverhampton Wanderers,1,2,2023-02-11 15:00:00,,BallRecovery,11384
+508419,86,Goal,0.8540000152587891,0.49599998474121093,0.07095489650964737,João Gomes,a,11384,OpenPlay,2022,RightFoot,18430,Southampton,Wolverhampton Wanderers,1,2,2023-02-11 15:00:00,,Rebound,11384
+515058,76,BlockedShot,0.7269999694824218,0.5840000152587891,0.012813099659979343,João Gomes,h,11384,FromCorner,2022,RightFoot,18481,Wolverhampton Wanderers,Leeds,2,4,2023-03-18 15:00:00,,Aerial,11384
+527494,35,SavedShot,0.855999984741211,0.3270000076293945,0.06307122856378555,João Gomes,h,11384,OpenPlay,2022,RightFoot,18571,Wolverhampton Wanderers,Everton,1,1,2023-05-20 14:00:00,,BallRecovery,11384
+532754,17,BlockedShot,0.8880000305175781,0.6329999923706054,0.017458826303482056,João Gomes,a,11384,SetPiece,2023,Head,22284,Manchester United,Wolverhampton Wanderers,1,0,2023-08-14 19:00:00,Pedro Neto,Cross,11384
+533149,37,BlockedShot,0.775,0.525,0.027802709490060806,João Gomes,h,11384,OpenPlay,2023,RightFoot,22286,Wolverhampton Wanderers,Brighton,1,4,2023-08-19 14:00:00,Rayan Ait Nouri,Pass,11384
+534655,34,BlockedShot,0.8290000152587891,0.45099998474121095,0.06710588932037354,João Gomes,a,11384,OpenPlay,2023,RightFoot,22299,Everton,Wolverhampton Wanderers,0,1,2023-08-26 14:00:00,Pedro Neto,Pass,11384
+536759,9,MissedShots,0.889000015258789,0.27,0.0417337529361248,João Gomes,a,11384,OpenPlay,2023,RightFoot,21932,Crystal Palace,Wolverhampton Wanderers,3,2,2023-09-03 13:00:00,Pablo Sarabia,Pass,11384
+537360,58,MissedShots,0.7680000305175781,0.2879999923706055,0.012938138097524643,João Gomes,h,11384,OpenPlay,2023,RightFoot,21935,Wolverhampton Wanderers,Liverpool,1,3,2023-09-16 11:30:00,,None,11384
+543085,11,BlockedShot,0.7430000305175781,0.6,0.018207469955086708,João Gomes,h,11384,OpenPlay,2023,RightFoot,21974,Wolverhampton Wanderers,Aston Villa,1,1,2023-10-08 13:00:00,,BallRecovery,11384
+548125,8,BlockedShot,0.749000015258789,0.4179999923706055,0.01977016031742096,João Gomes,h,11384,OpenPlay,2023,RightFoot,22014,Wolverhampton Wanderers,Tottenham,2,1,2023-11-11 12:30:00,Nélson Semedo,Pass,11384
+548137,54,BlockedShot,0.8090000152587891,0.505,0.03527435287833214,João Gomes,h,11384,FromCorner,2023,RightFoot,22014,Wolverhampton Wanderers,Tottenham,2,1,2023-11-11 12:30:00,,None,11384
+556439,46,BlockedShot,0.774000015258789,0.3820000076293945,0.025944700464606285,João Gomes,h,11384,OpenPlay,2023,RightFoot,22073,Wolverhampton Wanderers,Chelsea,2,1,2023-12-24 13:00:00,Hee-Chan Hwang,BallRecovery,11384
+556445,62,SavedShot,0.7909999847412109,0.3290000152587891,0.03481605648994446,João Gomes,h,11384,OpenPlay,2023,RightFoot,22073,Wolverhampton Wanderers,Chelsea,2,1,2023-12-24 13:00:00,,Dispossessed,11384
+556652,4,BlockedShot,0.8090000152587891,0.5070000076293946,0.05068773403763771,João Gomes,a,11384,OpenPlay,2023,RightFoot,22077,Brentford,Wolverhampton Wanderers,1,4,2023-12-27 19:30:00,Matheus Cunha,Pass,11384
+556654,11,BlockedShot,0.8290000152587891,0.4590000152587891,0.03817276656627655,João Gomes,a,11384,FromCorner,2023,RightFoot,22077,Brentford,Wolverhampton Wanderers,1,4,2023-12-27 19:30:00,Max Kilman,Pass,11384
+556976,67,SavedShot,0.9080000305175782,0.3340000152587891,0.09011026471853256,João Gomes,h,11384,OpenPlay,2023,RightFoot,22094,Wolverhampton Wanderers,Everton,3,0,2023-12-30 15:00:00,Pablo Sarabia,Pass,11384
+563947,41,Goal,0.9269999694824219,0.48200000762939454,0.11245949566364288,João Gomes,a,11384,FromCorner,2023,Head,22144,Tottenham,Wolverhampton Wanderers,1,2,2024-02-17 15:00:00,Pablo Sarabia,Cross,11384
+563954,62,Goal,0.8669999694824219,0.51,0.5096959471702576,João Gomes,a,11384,OpenPlay,2023,RightFoot,22144,Tottenham,Wolverhampton Wanderers,1,2,2024-02-17 15:00:00,Pedro Neto,Pass,11384
+565598,16,MissedShots,0.9069999694824219,0.41200000762939454,0.04297272115945816,João Gomes,h,11384,FromCorner,2023,Head,22154,Wolverhampton Wanderers,Sheffield United,1,0,2024-02-25 13:30:00,Pedro Neto,Cross,11384
+565611,56,MissedShots,0.89,0.5120000076293946,0.08206626027822495,João Gomes,h,11384,SetPiece,2023,RightFoot,22154,Wolverhampton Wanderers,Sheffield United,1,0,2024-02-25 13:30:00,,None,11384
+565617,91,SavedShot,0.7680000305175781,0.5570000076293945,0.03346528857946396,João Gomes,h,11384,OpenPlay,2023,RightFoot,22154,Wolverhampton Wanderers,Sheffield United,1,0,2024-02-25 13:30:00,Toti,Pass,11384
+571823,26,MissedShots,0.945,0.5070000076293946,0.09740512073040009,João Gomes,a,11384,FromCorner,2023,Head,22197,Burnley,Wolverhampton Wanderers,1,1,2024-04-02 18:45:00,Matt Doherty,HeadPass,11384
+572476,41,SavedShot,0.8080000305175781,0.3820000076293945,0.04094725102186203,João Gomes,h,11384,OpenPlay,2023,RightFoot,22214,Wolverhampton Wanderers,West Ham,1,2,2024-04-06 14:00:00,Pablo Sarabia,Pass,11384
+573780,26,BlockedShot,0.8490000152587891,0.66,0.05177506059408188,João Gomes,a,11384,OpenPlay,2023,RightFoot,22223,Nottingham Forest,Wolverhampton Wanderers,2,2,2024-04-13 14:00:00,,BallRecovery,11384
+575184,29,SavedShot,0.9409999847412109,0.35400001525878905,0.07003699988126755,João Gomes,h,11384,OpenPlay,2023,RightFoot,22234,Wolverhampton Wanderers,Arsenal,0,2,2024-04-20 18:30:00,,None,11384
+577900,37,MissedShots,0.805,0.495,0.05111967399716377,João Gomes,h,11384,OpenPlay,2023,RightFoot,22244,Wolverhampton Wanderers,Luton,2,1,2024-04-27 14:00:00,,BallRecovery,11384
+579866,82,MissedShots,0.879000015258789,0.3390000152587891,0.05066864565014839,João Gomes,h,11384,SetPiece,2023,RightFoot,22264,Wolverhampton Wanderers,Crystal Palace,1,3,2024-05-11 14:00:00,,None,11384
+579869,96,BlockedShot,0.8580000305175781,0.5990000152587891,0.05938439071178436,João Gomes,h,11384,SetPiece,2023,RightFoot,22264,Wolverhampton Wanderers,Crystal Palace,1,3,2024-05-11 14:00:00,,None,11384
+582009,4,BlockedShot,0.855,0.4570000076293945,0.17338916659355164,João Gomes,a,11384,OpenPlay,2023,LeftFoot,22271,Liverpool,Wolverhampton Wanderers,2,0,2024-05-19 15:00:00,Santiago Bueno,TakeOn,11384
+586672,44,MissedShots,0.720999984741211,0.6419999694824219,0.01599658839404583,João Gomes,h,11384,SetPiece,2024,RightFoot,26619,Wolverhampton Wanderers,Chelsea,2,6,2024-08-25 13:00:00,Matheus Cunha,Pass,11384
+589260,28,MissedShots,0.8130000305175781,0.47400001525878904,0.024038022384047508,João Gomes,a,11384,OpenPlay,2024,RightFoot,26627,Nottingham Forest,Wolverhampton Wanderers,1,1,2024-08-31 14:00:00,Jørgen Strand Larsen,Chipped,11384
+591578,57,MissedShots,0.9109999847412109,0.47200000762939454,0.03586387634277344,João Gomes,h,11384,FromCorner,2024,Head,26641,Wolverhampton Wanderers,Newcastle United,1,2,2024-09-15 15:30:00,,Aerial,11384
+595568,39,BlockedShot,0.7369999694824219,0.5559999847412109,0.01936696469783783,João Gomes,a,11384,OpenPlay,2024,RightFoot,26667,Brentford,Wolverhampton Wanderers,5,3,2024-10-05 14:00:00,André,Pass,11384
+598498,37,BlockedShot,0.9080000305175782,0.26,0.06097177043557167,João Gomes,a,11384,OpenPlay,2024,RightFoot,26686,Brighton,Wolverhampton Wanderers,2,2,2024-10-26 14:00:00,Nélson Semedo,Pass,11384
+600340,71,Goal,0.8590000152587891,0.43599998474121093,0.33423808217048645,João Gomes,h,11384,OpenPlay,2024,RightFoot,26701,Wolverhampton Wanderers,Crystal Palace,2,2,2024-11-02 17:30:00,Gonçalo Guedes,Pass,11384
+601500,49,SavedShot,0.8240000152587891,0.54,0.08002039045095444,João Gomes,h,11384,OpenPlay,2024,RightFoot,26711,Wolverhampton Wanderers,Southampton,2,0,2024-11-09 15:00:00,Toti,Pass,11384
+602865,10,SavedShot,0.7519999694824219,0.534000015258789,0.02382281981408596,João Gomes,a,11384,OpenPlay,2024,RightFoot,26717,Fulham,Wolverhampton Wanderers,1,4,2024-11-23 15:00:00,Mario Lemina,Pass,11384
+602872,52,Goal,0.895,0.615,0.10349234938621521,João Gomes,a,11384,OpenPlay,2024,LeftFoot,26717,Fulham,Wolverhampton Wanderers,1,4,2024-11-23 15:00:00,Matheus Cunha,Pass,11384
+602877,81,BlockedShot,0.7909999847412109,0.35200000762939454,0.03567051887512207,João Gomes,a,11384,OpenPlay,2024,RightFoot,26717,Fulham,Wolverhampton Wanderers,1,4,2024-11-23 15:00:00,Nélson Semedo,Pass,11384
+602880,85,MissedShots,0.8730000305175781,0.7019999694824218,0.05981534346938133,João Gomes,a,11384,OpenPlay,2024,RightFoot,26717,Fulham,Wolverhampton Wanderers,1,4,2024-11-23 15:00:00,Rodrigo Gomes,Pass,11384
+604110,35,MissedShots,0.914000015258789,0.59,0.0403633713722229,João Gomes,h,11384,FromCorner,2024,Head,26731,Wolverhampton Wanderers,Bournemouth,2,4,2024-11-30 15:00:00,Matheus Cunha,Cross,11384
+605369,4,MissedShots,0.7759999847412109,0.3940000152587891,0.019249634817242622,João Gomes,a,11384,FromCorner,2024,RightFoot,26735,Everton,Wolverhampton Wanderers,4,0,2024-12-04 19:30:00,,None,11384
+606697,20,SavedShot,0.8030000305175782,0.3940000152587891,0.041633639484643936,João Gomes,a,11384,OpenPlay,2024,RightFoot,26746,West Ham,Wolverhampton Wanderers,2,1,2024-12-09 20:00:00,André,Pass,11384
+606704,31,MissedShots,0.9180000305175782,0.575,0.3161773383617401,João Gomes,a,11384,OpenPlay,2024,RightFoot,26746,West Ham,Wolverhampton Wanderers,2,1,2024-12-09 20:00:00,Matt Doherty,Cross,11384
+608664,82,MissedShots,0.9309999847412109,0.48900001525878906,0.47908255457878113,João Gomes,a,11384,OpenPlay,2024,Head,26770,Leicester,Wolverhampton Wanderers,0,3,2024-12-22 14:00:00,Matheus Cunha,Cross,11384
+608665,84,SavedShot,0.8819999694824219,0.6909999847412109,0.10412454605102539,João Gomes,a,11384,OpenPlay,2024,RightFoot,26770,Leicester,Wolverhampton Wanderers,0,3,2024-12-22 14:00:00,Matheus Cunha,Pass,11384

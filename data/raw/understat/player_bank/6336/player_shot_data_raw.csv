@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+277588,78,MissedShots,0.715,0.6469999694824219,0.009197230450809002,Bruno Jordao,a,6336,SetPiece,2018,RightFoot,9810,Genoa,Lazio,2,1,2019-02-17 14:00:00,,None,6336

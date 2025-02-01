@@ -1,0 +1,5 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+8786,Stefan Ortega Moreno,3,270,0,0,0,0,0,0,0,0,GK,Manchester City,0,0,0.42193374037742615,0.42193374037742615,2022
+8786,Stefan Ortega Moreno,9,626,0,0,0,0,0,0,0,0,GK S,Manchester City,0,0,1.7157262079417706,1.7157262079417706,2023
+8786,Stefan Ortega Moreno,8,720,0,0,0,0,0,0,1,0,GK,Manchester City,0,0,2.7698024213314056,2.7698024213314056,2024
+8786,Stefan Ortega Moreno,8,720,0,0,0,0,0,0,1,0,GK,Manchester City,0,0,2.7698024213314056,2.7698024213314056,2025

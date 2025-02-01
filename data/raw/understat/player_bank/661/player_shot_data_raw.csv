@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+53272,90,SavedShot,0.7380000305175781,0.44299999237060544,0.02480500005185604,Josh Onomah,h,661,OpenPlay,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Christian Eriksen,Pass,661
+60134,93,MissedShots,0.8519999694824218,0.6469999694824219,0.0925917997956276,Josh Onomah,h,661,OpenPlay,2015,RightFoot,347,Tottenham,Swansea,2,1,2016-02-28 18:05:00,Kyle Walker,Pass,661
+52092,64,SavedShot,0.8719999694824219,0.3529999923706055,0.06146790087223053,Josh Onomah,a,661,OpenPlay,2015,LeftFoot,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,Erik Lamela,Pass,661
+118311,87,BlockedShot,0.8830000305175781,0.34,0.08651959896087646,Josh Onomah,h,661,OpenPlay,2016,RightFoot,3134,Tottenham,Hull,3,0,2016-12-15 00:00:00,Son Heung-Min,Pass,661
+410194,82,BlockedShot,0.91,0.5629999923706055,0.34119299054145813,Josh Onomah,h,661,OpenPlay,2020,LeftFoot,14708,Fulham,Manchester City,0,3,2021-03-13 20:00:00,Aleksandar Mitrovic,Throughball,661
+413242,90,SavedShot,0.7730000305175782,0.40099998474121096,0.01722949929535389,Josh Onomah,a,661,OpenPlay,2020,RightFoot,14726,Aston Villa,Fulham,3,1,2021-04-04 15:30:00,,None,661
+413241,90,MissedShots,0.8669999694824219,0.49400001525878906,0.1009100005030632,Josh Onomah,a,661,OpenPlay,2020,LeftFoot,14726,Aston Villa,Fulham,3,1,2021-04-04 15:30:00,Josh Maja,Pass,661
+421026,74,MissedShots,0.8880000305175781,0.5659999847412109,0.0232705008238554,Josh Onomah,h,661,OpenPlay,2020,Head,14777,Fulham,Burnley,0,2,2021-05-10 19:00:00,Franck Zambo,Chipped,661
+421978,6,MissedShots,0.865999984741211,0.674000015258789,0.058183200657367706,Josh Onomah,a,661,OpenPlay,2020,LeftFoot,14792,Southampton,Fulham,3,1,2021-05-15 14:00:00,Ola Aina,Pass,661
+423978,35,BlockedShot,0.745999984741211,0.6359999847412109,0.015409800224006176,Josh Onomah,h,661,OpenPlay,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,,Dispossessed,661

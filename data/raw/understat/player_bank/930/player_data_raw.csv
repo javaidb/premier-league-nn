@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+930,Steven Fletcher,30,1782,5,6.642457719892263,2,2.051580097526312,37,17,4,0,F M S,Sunderland,5,6.642457719892263,9.389527746476233,2.3070692121982574,2014
+930,Steven Fletcher,16,1021,4,3.1093484219163656,0,0.8061626013368368,25,8,0,0,F S,Sunderland,4,3.1093484219163656,3.5543337743729353,0.6958297900855541,2015

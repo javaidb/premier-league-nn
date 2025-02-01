@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+726,Vito Mannone,10,900,0,0,0,0.04317609965801239,0,1,0,0,GK,Sunderland,0,0,0.6401898041367531,0.597013708204031,2014
+726,Vito Mannone,19,1710,0,0,0,0,0,0,2,0,GK,Sunderland,0,0,0.20777370408177376,0.20777370408177376,2015
+726,Vito Mannone,9,810,0,0,0,0,0,0,0,0,GK,Sunderland,0,0,0,0,2016

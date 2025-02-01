@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+251342,45,SavedShot,0.7269999694824218,0.545,0.013078699819743633,Juninho Bacuna,h,7219,OpenPlay,2018,RightFoot,9363,Huddersfield,Newcastle United,0,1,2018-12-15 15:00:00,,None,7219
+275523,27,MissedShots,0.7140000152587891,0.44799999237060545,0.01657249964773655,Juninho Bacuna,h,7219,OpenPlay,2018,RightFoot,9456,Huddersfield,Arsenal,1,2,2019-02-09 15:00:00,Jonathan Hogg,Pass,7219
+275525,34,BlockedShot,0.7759999847412109,0.575999984741211,0.02880129963159561,Juninho Bacuna,h,7219,OpenPlay,2018,RightFoot,9456,Huddersfield,Arsenal,1,2,2019-02-09 15:00:00,Aaron Mooy,Pass,7219
+275528,46,SavedShot,0.7569999694824219,0.6659999847412109,0.014621400274336338,Juninho Bacuna,h,7219,OpenPlay,2018,RightFoot,9456,Huddersfield,Arsenal,1,2,2019-02-09 15:00:00,,BallTouch,7219
+275530,57,MissedShots,0.8159999847412109,0.4520000076293945,0.05766410008072853,Juninho Bacuna,h,7219,OpenPlay,2018,LeftFoot,9456,Huddersfield,Arsenal,1,2,2019-02-09 15:00:00,Adama Diakhaby,Pass,7219
+275542,94,SavedShot,0.754000015258789,0.67,0.017032800242304802,Juninho Bacuna,h,7219,OpenPlay,2018,RightFoot,9456,Huddersfield,Arsenal,1,2,2019-02-09 15:00:00,Karlan Grant,Pass,7219
+276217,47,SavedShot,0.7440000152587891,0.4909999847412109,0.011680199764668941,Juninho Bacuna,a,7219,OpenPlay,2018,LeftFoot,9485,Brighton,Huddersfield,1,0,2019-03-02 15:00:00,,Aerial,7219
+284495,58,MissedShots,0.745999984741211,0.575,0.017345299944281578,Juninho Bacuna,h,7219,OpenPlay,2018,RightFoot,9492,Huddersfield,Bournemouth,0,2,2019-03-09 15:00:00,Alex Pritchard,HeadPass,7219
+286228,7,MissedShots,0.73,0.455,0.0137296998873353,Juninho Bacuna,a,7219,OpenPlay,2018,RightFoot,9498,West Ham,Huddersfield,4,3,2019-03-16 15:00:00,,None,7219
+286232,16,Goal,0.915,0.45599998474121095,0.2765519917011261,Juninho Bacuna,a,7219,FromCorner,2018,Head,9498,West Ham,Huddersfield,4,3,2019-03-16 15:00:00,Aaron Mooy,Cross,7219
+286233,19,BlockedShot,0.8090000152587891,0.5179999923706055,0.07437510043382645,Juninho Bacuna,a,7219,OpenPlay,2018,LeftFoot,9498,West Ham,Huddersfield,4,3,2019-03-16 15:00:00,,TakeOn,7219
+286239,53,SavedShot,0.745999984741211,0.21899999618530275,0.022514399141073227,Juninho Bacuna,a,7219,OpenPlay,2018,RightFoot,9498,West Ham,Huddersfield,4,3,2019-03-16 15:00:00,Karlan Grant,BallTouch,7219
+293376,79,SavedShot,0.7,0.5159999847412109,0.037951499223709106,Juninho Bacuna,a,7219,DirectFreekick,2018,RightFoot,9528,Tottenham,Huddersfield,4,0,2019-04-13 12:30:00,,Standard,7219
+295283,15,MissedShots,0.8009999847412109,0.55,0.0386275015771389,Juninho Bacuna,h,7219,OpenPlay,2018,RightFoot,9541,Huddersfield,Watford,1,2,2019-04-20 15:00:00,,BallRecovery,7219
+297140,54,SavedShot,0.7469999694824219,0.44299999237060544,0.012567100115120411,Juninho Bacuna,a,7219,OpenPlay,2018,RightFoot,9551,Liverpool,Huddersfield,5,0,2019-04-26 20:00:00,,None,7219
+299805,23,MissedShots,0.754000015258789,0.445,0.01955059915781021,Juninho Bacuna,h,7219,OpenPlay,2018,RightFoot,9561,Huddersfield,Manchester United,1,1,2019-05-05 13:00:00,,BallRecovery,7219
+299807,30,BlockedShot,0.71,0.40400001525878904,0.03890309855341911,Juninho Bacuna,h,7219,DirectFreekick,2018,RightFoot,9561,Huddersfield,Manchester United,1,1,2019-05-05 13:00:00,,Standard,7219
+299809,38,BlockedShot,0.8590000152587891,0.5070000076293946,0.06615159660577774,Juninho Bacuna,h,7219,OpenPlay,2018,RightFoot,9561,Huddersfield,Manchester United,1,1,2019-05-05 13:00:00,Alex Pritchard,HeadPass,7219
+301419,36,MissedShots,0.7230000305175781,0.5929999923706055,0.01728140003979206,Juninho Bacuna,a,7219,OpenPlay,2018,RightFoot,9569,Southampton,Huddersfield,1,1,2019-05-12 14:00:00,Aaron Mooy,Pass,7219

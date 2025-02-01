@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+975,Lee Tomlin,6,298,0,0.208229199051857,0,0.497168704867363,5,7,1,0,M S,Bournemouth,0,0.208229199051857,0.7405246086418629,0.09621739946305752,2015

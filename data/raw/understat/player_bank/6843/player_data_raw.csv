@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+6843,David Button,4,360,0,0,0,0,0,0,0,0,GK,Brighton,0,0,0.130646001547575,0.130646001547575,2018
+6843,David Button,1,90,0,0,0,0,0,0,0,0,GK,West Bromwich Albion,0,0,0,0,2020

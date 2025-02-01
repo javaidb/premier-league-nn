@@ -1,0 +1,447 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+32716,62,SavedShot,0.879000015258789,0.515,0.03288489952683449,Raúl Jiménez,h,4105,OpenPlay,2014,Head,5840,Atletico Madrid,Eibar,2,1,2014-08-30 20:00:00,Gabi,Aerial,4105
+32724,89,SavedShot,0.745999984741211,0.4640000152587891,0.02838289923965931,Raúl Jiménez,h,4105,OpenPlay,2014,RightFoot,5840,Atletico Madrid,Eibar,2,1,2014-08-30 20:00:00,,None,4105
+32921,38,BlockedShot,0.7959999847412109,0.544000015258789,0.0507315993309021,Raúl Jiménez,a,4105,OpenPlay,2014,LeftFoot,5789,Real Madrid,Atletico Madrid,1,2,2014-09-13 19:00:00,Mario Mandzukic,HeadPass,4105
+33336,5,MissedShots,0.795,0.65,0.048656899482011795,Raúl Jiménez,h,4105,OpenPlay,2014,RightFoot,5799,Atletico Madrid,Celta Vigo,2,2,2014-09-20 19:00:00,Koke,Pass,4105
+33343,37,MissedShots,0.92,0.46599998474121096,0.09863849729299545,Raúl Jiménez,h,4105,OpenPlay,2014,LeftFoot,5799,Atletico Madrid,Celta Vigo,2,2,2014-09-20 19:00:00,Antoine Griezmann,Cross,4105
+33350,76,SavedShot,0.9,0.52,0.4552620053291321,Raúl Jiménez,h,4105,OpenPlay,2014,RightFoot,5799,Atletico Madrid,Celta Vigo,2,2,2014-09-20 19:00:00,Raúl García,BallTouch,4105
+33159,88,Goal,0.9569999694824218,0.5029999923706054,0.5632209777832031,Raúl Jiménez,h,4105,SetPiece,2014,Head,5819,Atletico Madrid,Sevilla,4,0,2014-09-27 19:00:00,Koke,Cross,4105
+34934,60,SavedShot,0.955999984741211,0.45799999237060546,0.11218100041151047,Raúl Jiménez,h,4105,OpenPlay,2014,Head,5736,Atletico Madrid,Malaga,3,1,2014-11-22 15:00:00,Cristian Ansaldi,Aerial,4105
+34936,64,SavedShot,0.865999984741211,0.509000015258789,0.1124420017004013,Raúl Jiménez,h,4105,OpenPlay,2014,RightFoot,5736,Atletico Madrid,Malaga,3,1,2014-11-22 15:00:00,Antoine Griezmann,Pass,4105
+34937,65,MissedShots,0.9230000305175782,0.504000015258789,0.11683399975299835,Raúl Jiménez,h,4105,FromCorner,2014,Head,5736,Atletico Madrid,Malaga,3,1,2014-11-22 15:00:00,Koke,Cross,4105
+35655,70,MissedShots,0.725999984741211,0.5690000152587891,0.02242469973862171,Raúl Jiménez,h,4105,OpenPlay,2014,RightFoot,5750,Atletico Madrid,Deportivo La Coruna,2,0,2014-11-30 11:00:00,Cristian Rodríguez,BallRecovery,4105
+40652,14,MissedShots,0.8580000305175781,0.3820000076293945,0.08023619651794434,Raúl Jiménez,h,4105,OpenPlay,2014,RightFoot,5592,Atletico Madrid,Getafe,2,0,2015-03-21 15:00:00,Koke,None,4105
+40663,59,SavedShot,0.674000015258789,0.32,0.011359700001776218,Raúl Jiménez,h,4105,OpenPlay,2014,RightFoot,5592,Atletico Madrid,Getafe,2,0,2015-03-21 15:00:00,,None,4105
+38801,79,MissedShots,0.8819999694824219,0.580999984741211,0.10184899717569351,Raúl Jiménez,h,4105,OpenPlay,2014,LeftFoot,5515,Atletico Madrid,Real Sociedad,2,0,2015-04-07 19:00:00,Antoine Griezmann,HeadPass,4105
+39290,63,SavedShot,0.769000015258789,0.7069999694824218,0.018537800759077072,Raúl Jiménez,a,4105,OpenPlay,2014,RightFoot,5537,Deportivo La Coruna,Atletico Madrid,1,2,2015-04-18 17:00:00,Koke,Pass,4105
+39297,72,BlockedShot,0.9069999694824219,0.4329999923706055,0.4406079947948456,Raúl Jiménez,a,4105,OpenPlay,2014,RightFoot,5537,Deportivo La Coruna,Atletico Madrid,1,2,2015-04-18 17:00:00,Raúl García,Rebound,4105
+39294,72,SavedShot,0.8619999694824219,0.4759999847412109,0.4439460039138794,Raúl Jiménez,a,4105,OpenPlay,2014,RightFoot,5537,Deportivo La Coruna,Atletico Madrid,1,2,2015-04-18 17:00:00,Fernando Torres,HeadPass,4105
+232931,59,SavedShot,0.89,0.3529999923706055,0.29954400658607483,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9203,Wolverhampton Wanderers,Everton,2,2,2018-08-11 19:30:00,Ryan Bennett,Throughball,4105
+232935,76,BlockedShot,0.8930000305175781,0.41,0.07273360341787338,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9203,Wolverhampton Wanderers,Everton,2,2,2018-08-11 19:30:00,Matt Doherty,Cross,4105
+232936,79,Goal,0.915,0.47299999237060547,0.27432000637054443,Raúl Jiménez,h,4105,OpenPlay,2018,Head,9203,Wolverhampton Wanderers,Everton,2,2,2018-08-11 19:30:00,Rúben Neves,Cross,4105
+233087,20,ShotOnPost,0.779000015258789,0.6619999694824219,0.023502100259065628,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,Jonny,Pass,4105
+233093,47,BlockedShot,0.9540000152587891,0.3609999847412109,0.05784109979867935,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,,None,4105
+233096,57,SavedShot,0.9359999847412109,0.3220000076293945,0.09331350028514862,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9210,Leicester,Wolverhampton Wanderers,2,0,2018-08-18 17:00:00,João Moutinho,Throughball,4105
+233446,37,MissedShots,0.9219999694824219,0.3160000038146973,0.031154099851846695,Raúl Jiménez,h,4105,FromCorner,2018,LeftFoot,9217,Wolverhampton Wanderers,Manchester City,1,1,2018-08-25 14:30:00,Rúben Neves,Chipped,4105
+233712,2,MissedShots,0.7659999847412109,0.33599998474121096,0.022275499999523163,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9228,West Ham,Wolverhampton Wanderers,0,1,2018-09-01 14:00:00,Matt Doherty,HeadPass,4105
+233722,42,MissedShots,0.8119999694824219,0.45799999237060546,0.04873650148510933,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9228,West Ham,Wolverhampton Wanderers,0,1,2018-09-01 14:00:00,,None,4105
+233729,59,SavedShot,0.9030000305175782,0.4229999923706055,0.14040899276733398,Raúl Jiménez,a,4105,SetPiece,2018,Head,9228,West Ham,Wolverhampton Wanderers,0,1,2018-09-01 14:00:00,João Moutinho,Cross,4105
+233733,73,MissedShots,0.8219999694824218,0.4620000076293945,0.07050710171461105,Raúl Jiménez,a,4105,OpenPlay,2018,LeftFoot,9228,West Ham,Wolverhampton Wanderers,0,1,2018-09-01 14:00:00,Adama Traoré,Pass,4105
+233967,10,BlockedShot,0.769000015258789,0.32799999237060545,0.018996400758624077,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9244,Wolverhampton Wanderers,Burnley,1,0,2018-09-16 12:30:00,,BlockedPass,4105
+233974,29,MissedShots,0.9019999694824219,0.55,0.027562199160456657,Raúl Jiménez,h,4105,OpenPlay,2018,Head,9244,Wolverhampton Wanderers,Burnley,1,0,2018-09-16 12:30:00,,Rebound,4105
+233973,29,SavedShot,0.9130000305175782,0.55,0.4546720087528229,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9244,Wolverhampton Wanderers,Burnley,1,0,2018-09-16 12:30:00,Diogo Jota,Pass,4105
+233978,34,SavedShot,0.92,0.3770000076293945,0.021121399477124214,Raúl Jiménez,h,4105,OpenPlay,2018,Head,9244,Wolverhampton Wanderers,Burnley,1,0,2018-09-16 12:30:00,Jonny,Aerial,4105
+233982,45,MissedShots,0.8730000305175781,0.4909999847412109,0.3639709949493408,Raúl Jiménez,h,4105,OpenPlay,2018,LeftFoot,9244,Wolverhampton Wanderers,Burnley,1,0,2018-09-16 12:30:00,Diogo Jota,Pass,4105
+233986,60,Goal,0.8859999847412109,0.435,0.11824999749660492,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9244,Wolverhampton Wanderers,Burnley,1,0,2018-09-16 12:30:00,Matt Doherty,Pass,4105
+234194,6,SavedShot,0.9059999847412109,0.47,0.43167799711227417,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9248,Manchester United,Wolverhampton Wanderers,1,1,2018-09-22 14:00:00,Hélder Costa,Pass,4105
+234458,38,SavedShot,0.9219999694824219,0.47,0.14323100447654724,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9258,Wolverhampton Wanderers,Southampton,2,0,2018-09-29 14:00:00,Matt Doherty,Pass,4105
+234459,41,MissedShots,0.9569999694824218,0.5829999923706055,0.058364901691675186,Raúl Jiménez,h,4105,OpenPlay,2018,Head,9258,Wolverhampton Wanderers,Southampton,2,0,2018-09-29 14:00:00,João Moutinho,Aerial,4105
+234472,82,SavedShot,0.895,0.5970000076293945,0.02916480042040348,Raúl Jiménez,h,4105,FromCorner,2018,Head,9258,Wolverhampton Wanderers,Southampton,2,0,2018-09-29 14:00:00,João Moutinho,Cross,4105
+234473,83,MissedShots,0.9069999694824219,0.6530000305175782,0.039815399795770645,Raúl Jiménez,h,4105,FromCorner,2018,RightFoot,9258,Wolverhampton Wanderers,Southampton,2,0,2018-09-29 14:00:00,Rúben Neves,Cross,4105
+249064,21,MissedShots,0.8130000305175781,0.52,0.0831167995929718,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9271,Crystal Palace,Wolverhampton Wanderers,0,1,2018-10-06 14:00:00,Diogo Jota,Pass,4105
+249065,25,SavedShot,0.9069999694824219,0.40200000762939453,0.3899970054626465,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9271,Crystal Palace,Wolverhampton Wanderers,0,1,2018-10-06 14:00:00,Diogo Jota,Throughball,4105
+249251,38,MissedShots,0.8,0.29100000381469726,0.021773599088191986,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9278,Wolverhampton Wanderers,Watford,0,2,2018-10-20 14:00:00,Diogo Jota,Pass,4105
+249522,1,BlockedShot,0.9390000152587891,0.3320000076293945,0.043418701738119125,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9290,Brighton,Wolverhampton Wanderers,1,0,2018-10-27 14:00:00,Matt Doherty,Cross,4105
+249528,17,MissedShots,0.85,0.5929999923706055,0.055648598819971085,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9290,Brighton,Wolverhampton Wanderers,1,0,2018-10-27 14:00:00,,Rebound,4105
+249537,50,MissedShots,0.9640000152587891,0.33599998474121096,0.06646029651165009,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9290,Brighton,Wolverhampton Wanderers,1,0,2018-10-27 14:00:00,Matt Doherty,Pass,4105
+249896,10,MissedShots,0.7659999847412109,0.31,0.019279399886727333,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9304,Wolverhampton Wanderers,Tottenham,2,3,2018-11-03 19:45:00,Matt Doherty,Pass,4105
+249904,39,BlockedShot,0.9330000305175781,0.4329999923706055,0.13184499740600586,Raúl Jiménez,h,4105,FromCorner,2018,RightFoot,9304,Wolverhampton Wanderers,Tottenham,2,3,2018-11-03 19:45:00,,TakeOn,4105
+249910,48,SavedShot,0.899000015258789,0.32,0.06532949954271317,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9304,Wolverhampton Wanderers,Tottenham,2,3,2018-11-03 19:45:00,Hélder Costa,Pass,4105
+249920,78,Goal,0.885,0.5,0.7611690163612366,Raúl Jiménez,h,4105,Penalty,2018,RightFoot,9304,Wolverhampton Wanderers,Tottenham,2,3,2018-11-03 19:45:00,,Standard,4105
+249921,80,SavedShot,0.9069999694824219,0.5379999923706055,0.03834740072488785,Raúl Jiménez,h,4105,OpenPlay,2018,Head,9304,Wolverhampton Wanderers,Tottenham,2,3,2018-11-03 19:45:00,Matt Doherty,Aerial,4105
+250230,10,MissedShots,0.6279999923706054,0.5109999847412109,0.013486499898135662,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Conor Coady,BallRecovery,4105
+250239,35,MissedShots,0.799000015258789,0.4,0.043290600180625916,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9316,Arsenal,Wolverhampton Wanderers,1,1,2018-11-11 16:30:00,Matt Doherty,Pass,4105
+250450,11,MissedShots,0.754000015258789,0.5790000152587891,0.020653100684285164,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9325,Wolverhampton Wanderers,Huddersfield,0,2,2018-11-25 16:00:00,,None,4105
+250461,55,SavedShot,0.9540000152587891,0.5459999847412109,0.06869509816169739,Raúl Jiménez,h,4105,OpenPlay,2018,Head,9325,Wolverhampton Wanderers,Huddersfield,0,2,2018-11-25 16:00:00,,Rebound,4105
+250460,55,BlockedShot,0.9740000152587891,0.5840000152587891,0.08891309797763824,Raúl Jiménez,h,4105,OpenPlay,2018,Head,9325,Wolverhampton Wanderers,Huddersfield,0,2,2018-11-25 16:00:00,Adama Traoré,Cross,4105
+250464,65,MissedShots,0.9,0.36700000762939455,0.0665144994854927,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9325,Wolverhampton Wanderers,Huddersfield,0,2,2018-11-25 16:00:00,Ryan Bennett,Pass,4105
+250465,68,MissedShots,0.9680000305175781,0.3189999961853027,0.05395419895648956,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9325,Wolverhampton Wanderers,Huddersfield,0,2,2018-11-25 16:00:00,Hélder Costa,Pass,4105
+250507,17,SavedShot,0.93,0.4370000076293945,0.035955000668764114,Raúl Jiménez,a,4105,FromCorner,2018,Head,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,João Moutinho,Aerial,4105
+250521,53,MissedShots,0.7819999694824219,0.2979999923706055,0.023376300930976868,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Willy Boly,Pass,4105
+250528,65,MissedShots,0.9440000152587891,0.534000015258789,0.1490039974451065,Raúl Jiménez,a,4105,OpenPlay,2018,Head,9335,Cardiff,Wolverhampton Wanderers,2,1,2018-11-30 20:00:00,Rúben Vinagre,Cross,4105
+250846,26,MissedShots,0.965,0.595999984741211,0.03370770066976547,Raúl Jiménez,h,4105,OpenPlay,2018,Head,9339,Wolverhampton Wanderers,Chelsea,2,1,2018-12-05 19:45:00,,Aerial,4105
+250848,34,MissedShots,0.914000015258789,0.4779999923706055,0.04148999974131584,Raúl Jiménez,h,4105,OpenPlay,2018,Head,9339,Wolverhampton Wanderers,Chelsea,2,1,2018-12-05 19:45:00,,None,4105
+250853,58,Goal,0.8919999694824219,0.3340000152587891,0.06145929917693138,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9339,Wolverhampton Wanderers,Chelsea,2,1,2018-12-05 19:45:00,Morgan Gibbs-White,Pass,4105
+251207,74,ShotOnPost,0.8580000305175781,0.6569999694824219,0.08099319785833359,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9348,Newcastle United,Wolverhampton Wanderers,1,2,2018-12-09 16:00:00,Hélder Costa,Pass,4105
+251209,82,SavedShot,0.9269999694824219,0.5690000152587891,0.07576709985733032,Raúl Jiménez,a,4105,FromCorner,2018,Head,9348,Newcastle United,Wolverhampton Wanderers,1,2,2018-12-09 16:00:00,João Moutinho,Cross,4105
+251211,90,MissedShots,0.6959999847412109,0.27100000381469724,0.0084181297570467,Raúl Jiménez,a,4105,OpenPlay,2018,LeftFoot,9348,Newcastle United,Wolverhampton Wanderers,1,2,2018-12-09 16:00:00,,None,4105
+251266,11,Goal,0.9580000305175781,0.47900001525878905,0.6879069805145264,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9357,Wolverhampton Wanderers,Bournemouth,2,0,2018-12-15 15:00:00,Diogo Jota,Rebound,4105
+251268,28,MissedShots,0.8080000305175781,0.48700000762939455,0.06386540085077286,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9357,Wolverhampton Wanderers,Bournemouth,2,0,2018-12-15 15:00:00,,None,4105
+251275,54,BlockedShot,0.8440000152587891,0.395,0.08329469710588455,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9357,Wolverhampton Wanderers,Bournemouth,2,0,2018-12-15 15:00:00,Morgan Gibbs-White,BallRecovery,4105
+251492,41,BlockedShot,0.8580000305175781,0.5920000076293945,0.07729759812355042,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9367,Wolverhampton Wanderers,Liverpool,0,2,2018-12-21 20:00:00,Matt Doherty,Pass,4105
+251725,11,MissedShots,0.9030000305175782,0.51,0.11221899837255478,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,João Moutinho,Chipped,4105
+251731,31,SavedShot,0.9180000305175782,0.24899999618530275,0.03374920040369034,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,,None,4105
+251734,50,MissedShots,0.924000015258789,0.549000015258789,0.058219198137521744,Raúl Jiménez,a,4105,OpenPlay,2018,Head,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,Jonny,Aerial,4105
+251736,57,SavedShot,0.78,0.62,0.02786009944975376,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,Ivan Cavaleiro,BallRecovery,4105
+251739,80,MissedShots,0.905,0.5070000076293946,0.03824310004711151,Raúl Jiménez,a,4105,OpenPlay,2018,Head,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,Romain Saiss,Aerial,4105
+251740,83,BlockedShot,0.935,0.605999984741211,0.08229169994592667,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,Ivan Cavaleiro,Cross,4105
+263567,24,BlockedShot,0.91,0.3270000076293945,0.05886799842119217,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9388,Tottenham,Wolverhampton Wanderers,1,3,2018-12-29 15:00:00,Adama Traoré,Pass,4105
+263573,56,MissedShots,0.8419999694824218,0.7530000305175781,0.01930359937250614,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9388,Tottenham,Wolverhampton Wanderers,1,3,2018-12-29 15:00:00,Ivan Cavaleiro,Cross,4105
+263576,82,Goal,0.8430000305175781,0.5420000076293945,0.0902412012219429,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9388,Tottenham,Wolverhampton Wanderers,1,3,2018-12-29 15:00:00,Ivan Cavaleiro,Pass,4105
+274210,10,MissedShots,0.705999984741211,0.3390000152587891,0.009740140289068222,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9397,Wolverhampton Wanderers,Crystal Palace,0,2,2019-01-02 19:45:00,,None,4105
+274213,27,BlockedShot,0.775,0.6309999847412109,0.025045499205589294,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9397,Wolverhampton Wanderers,Crystal Palace,0,2,2019-01-02 19:45:00,Jonny,Pass,4105
+274226,76,MissedShots,0.865999984741211,0.3,0.022838400676846504,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9397,Wolverhampton Wanderers,Crystal Palace,0,2,2019-01-02 19:45:00,Ivan Cavaleiro,HeadPass,4105
+274634,39,SavedShot,0.889000015258789,0.5770000076293945,0.13178199529647827,Raúl Jiménez,h,4105,OpenPlay,2018,LeftFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Rúben Vinagre,Pass,4105
+274635,40,BlockedShot,0.855999984741211,0.44099998474121094,0.10862799733877182,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9417,Wolverhampton Wanderers,Leicester,4,3,2019-01-19 12:30:00,Diogo Jota,Chipped,4105
+274952,1,MissedShots,0.899000015258789,0.43099998474121093,0.09108930081129074,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9427,Wolverhampton Wanderers,West Ham,3,0,2019-01-29 19:45:00,Leander Dendoncker,Cross,4105
+274953,4,BlockedShot,0.735999984741211,0.5529999923706055,0.018025999888777733,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9427,Wolverhampton Wanderers,West Ham,3,0,2019-01-29 19:45:00,,BallRecovery,4105
+274969,68,BlockedShot,0.865999984741211,0.295,0.05452499911189079,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9427,Wolverhampton Wanderers,West Ham,3,0,2019-01-29 19:45:00,,None,4105
+274971,79,Goal,0.9219999694824219,0.4909999847412109,0.10513299703598022,Raúl Jiménez,h,4105,SetPiece,2018,RightFoot,9427,Wolverhampton Wanderers,West Ham,3,0,2019-01-29 19:45:00,João Moutinho,Cross,4105
+274972,85,Goal,0.92,0.5640000152587891,0.5170469880104065,Raúl Jiménez,h,4105,OpenPlay,2018,LeftFoot,9427,Wolverhampton Wanderers,West Ham,3,0,2019-01-29 19:45:00,Diogo Jota,Pass,4105
+274975,93,MissedShots,0.9540000152587891,0.48400001525878905,0.12916800379753113,Raúl Jiménez,h,4105,OpenPlay,2018,Head,9427,Wolverhampton Wanderers,West Ham,3,0,2019-01-29 19:45:00,Ivan Cavaleiro,Aerial,4105
+275236,44,Goal,0.8880000305175781,0.5179999923706055,0.24252699315547943,Raúl Jiménez,a,4105,SetPiece,2018,Head,9441,Everton,Wolverhampton Wanderers,1,3,2019-02-02 15:00:00,João Moutinho,Chipped,4105
+275244,81,BlockedShot,0.8009999847412109,0.580999984741211,0.06188569962978363,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9441,Everton,Wolverhampton Wanderers,1,3,2019-02-02 15:00:00,João Moutinho,Pass,4105
+275629,18,MissedShots,0.889000015258789,0.509000015258789,0.12588900327682495,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9450,Wolverhampton Wanderers,Newcastle United,1,1,2019-02-11 20:00:00,Matt Doherty,Pass,4105
+275635,34,SavedShot,0.9009999847412109,0.7169999694824218,0.024846600368618965,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9450,Wolverhampton Wanderers,Newcastle United,1,1,2019-02-11 20:00:00,Rúben Neves,TakeOn,4105
+275640,47,BlockedShot,0.87,0.32599998474121095,0.056774601340293884,Raúl Jiménez,h,4105,OpenPlay,2018,LeftFoot,9450,Wolverhampton Wanderers,Newcastle United,1,1,2019-02-11 20:00:00,Matt Doherty,Pass,4105
+275651,81,MissedShots,0.9280000305175782,0.5059999847412109,0.34701600670814514,Raúl Jiménez,h,4105,OpenPlay,2018,Head,9450,Wolverhampton Wanderers,Newcastle United,1,1,2019-02-11 20:00:00,,Rebound,4105
+275652,84,MissedShots,0.8830000305175781,0.31,0.04394499957561493,Raúl Jiménez,h,4105,FromCorner,2018,LeftFoot,9450,Wolverhampton Wanderers,Newcastle United,1,1,2019-02-11 20:00:00,,TakeOn,4105
+275655,94,BlockedShot,0.875999984741211,0.4229999923706055,0.03603829815983772,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9450,Wolverhampton Wanderers,Newcastle United,1,1,2019-02-11 20:00:00,,Aerial,4105
+275750,68,BlockedShot,0.8030000305175782,0.5609999847412109,0.046803198754787445,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9465,Bournemouth,Wolverhampton Wanderers,1,1,2019-02-23 15:00:00,João Moutinho,Pass,4105
+275754,82,Goal,0.885,0.5,0.7611690163612366,Raúl Jiménez,a,4105,Penalty,2018,RightFoot,9465,Bournemouth,Wolverhampton Wanderers,1,1,2019-02-23 15:00:00,,Standard,4105
+275756,85,MissedShots,0.925,0.47,0.0999922975897789,Raúl Jiménez,a,4105,OpenPlay,2018,OtherBodyPart,9465,Bournemouth,Wolverhampton Wanderers,1,1,2019-02-23 15:00:00,Adama Traoré,Aerial,4105
+275904,40,MissedShots,0.925,0.55,0.12035299837589264,Raúl Jiménez,a,4105,SetPiece,2018,Head,9468,Huddersfield,Wolverhampton Wanderers,1,0,2019-02-26 19:45:00,João Moutinho,Cross,4105
+276138,17,Goal,0.91,0.5570000076293945,0.4242739975452423,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9477,Wolverhampton Wanderers,Cardiff,2,0,2019-03-02 15:00:00,Diogo Jota,Pass,4105
+276152,64,MissedShots,0.9130000305175782,0.47900001525878905,0.03455900028347969,Raúl Jiménez,h,4105,FromCorner,2018,Head,9477,Wolverhampton Wanderers,Cardiff,2,0,2019-03-02 15:00:00,João Moutinho,Aerial,4105
+276154,73,SavedShot,0.9059999847412109,0.47299999237060547,0.5261560082435608,Raúl Jiménez,h,4105,OpenPlay,2018,LeftFoot,9477,Wolverhampton Wanderers,Cardiff,2,0,2019-03-02 15:00:00,Matt Doherty,Pass,4105
+285120,55,Goal,0.8819999694824219,0.46900001525878904,0.5833370089530945,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9494,Chelsea,Wolverhampton Wanderers,1,1,2019-03-10 14:05:00,Diogo Jota,Throughball,4105
+287560,68,BlockedShot,0.799000015258789,0.33799999237060546,0.027273699641227722,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9515,Burnley,Wolverhampton Wanderers,2,0,2019-03-30 15:00:00,João Moutinho,Pass,4105
+287566,91,BlockedShot,0.850999984741211,0.41200000762939454,0.03259740024805069,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9515,Burnley,Wolverhampton Wanderers,2,0,2019-03-30 15:00:00,Diogo Jota,Cross,4105
+291002,8,BlockedShot,0.8530000305175781,0.3029999923706055,0.03759469836950302,Raúl Jiménez,h,4105,OpenPlay,2018,LeftFoot,9517,Wolverhampton Wanderers,Manchester United,2,1,2019-04-02 19:45:00,Rúben Neves,Pass,4105
+291007,23,MissedShots,0.9419999694824219,0.315,0.04750939831137657,Raúl Jiménez,h,4105,SetPiece,2018,RightFoot,9517,Wolverhampton Wanderers,Manchester United,2,1,2019-04-02 19:45:00,Willy Boly,Pass,4105
+291023,76,BlockedShot,0.9469999694824218,0.49900001525878906,0.07183849811553955,Raúl Jiménez,h,4105,OpenPlay,2018,Head,9517,Wolverhampton Wanderers,Manchester United,2,1,2019-04-02 19:45:00,João Moutinho,Tackle,4105
+293529,18,SavedShot,0.815,0.48400001525878905,0.06528879702091217,Raúl Jiménez,a,4105,OpenPlay,2018,LeftFoot,9529,Southampton,Wolverhampton Wanderers,3,1,2019-04-13 15:00:00,,TakeOn,4105
+293541,68,MissedShots,0.9209999847412109,0.445,0.10788100212812424,Raúl Jiménez,a,4105,FromCorner,2018,RightFoot,9529,Southampton,Wolverhampton Wanderers,3,1,2019-04-13 15:00:00,,None,4105
+295231,4,MissedShots,0.9290000152587891,0.41,0.06140829995274544,Raúl Jiménez,h,4105,FromCorner,2018,Head,9537,Wolverhampton Wanderers,Brighton,0,0,2019-04-20 15:00:00,João Moutinho,Cross,4105
+295247,67,MissedShots,0.895,0.500999984741211,0.04733889922499657,Raúl Jiménez,h,4105,OpenPlay,2018,Head,9537,Wolverhampton Wanderers,Brighton,0,0,2019-04-20 15:00:00,Rúben Vinagre,Aerial,4105
+295248,68,MissedShots,0.9019999694824219,0.27700000762939453,0.02860409952700138,Raúl Jiménez,h,4105,FromCorner,2018,RightFoot,9537,Wolverhampton Wanderers,Brighton,0,0,2019-04-20 15:00:00,,None,4105
+296786,24,MissedShots,0.9580000305175781,0.49400001525878906,0.12463799864053726,Raúl Jiménez,h,4105,OpenPlay,2018,LeftFoot,9497,Wolverhampton Wanderers,Arsenal,3,1,2019-04-24 19:45:00,Willy Boly,HeadPass,4105
+296788,29,MissedShots,0.885,0.3370000076293945,0.08187709748744965,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9497,Wolverhampton Wanderers,Arsenal,3,1,2019-04-24 19:45:00,Jonny,Pass,4105
+296799,59,BlockedShot,0.855999984741211,0.4159999847412109,0.040311701595783234,Raúl Jiménez,h,4105,FromCorner,2018,LeftFoot,9497,Wolverhampton Wanderers,Arsenal,3,1,2019-04-24 19:45:00,João Moutinho,Cross,4105
+296800,67,MissedShots,0.9359999847412109,0.3220000076293945,0.09477079659700394,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9497,Wolverhampton Wanderers,Arsenal,3,1,2019-04-24 19:45:00,Jonny,Pass,4105
+297373,32,BlockedShot,0.965999984741211,0.519000015258789,0.9316459894180298,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9547,Watford,Wolverhampton Wanderers,1,2,2019-04-27 15:00:00,Leander Dendoncker,Pass,4105
+297378,40,Goal,0.9640000152587891,0.4759999847412109,0.531108021736145,Raúl Jiménez,a,4105,FromCorner,2018,Head,9547,Watford,Wolverhampton Wanderers,1,2,2019-04-27 15:00:00,Diogo Jota,Cross,4105
+297376,40,BlockedShot,0.93,0.365,0.012797599658370018,Raúl Jiménez,a,4105,FromCorner,2018,Head,9547,Watford,Wolverhampton Wanderers,1,2,2019-04-27 15:00:00,João Moutinho,Aerial,4105
+299276,48,BlockedShot,0.7680000305175781,0.3579999923706055,0.018396100029349327,Raúl Jiménez,h,4105,OpenPlay,2018,RightFoot,9557,Wolverhampton Wanderers,Fulham,1,0,2019-05-04 14:00:00,,None,4105
+299281,64,MissedShots,0.9569999694824218,0.580999984741211,0.09202989935874939,Raúl Jiménez,h,4105,FromCorner,2018,Head,9557,Wolverhampton Wanderers,Fulham,1,0,2019-05-04 14:00:00,João Moutinho,Cross,4105
+301357,35,MissedShots,0.9290000152587891,0.46599998474121096,0.09769880026578903,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9571,Liverpool,Wolverhampton Wanderers,2,0,2019-05-12 14:00:00,Willy Boly,HeadPass,4105
+301361,59,MissedShots,0.9059999847412109,0.28899999618530275,0.048172399401664734,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9571,Liverpool,Wolverhampton Wanderers,2,0,2019-05-12 14:00:00,Diogo Jota,Pass,4105
+301363,64,MissedShots,0.895,0.445,0.10763899981975555,Raúl Jiménez,a,4105,OpenPlay,2018,RightFoot,9571,Liverpool,Wolverhampton Wanderers,2,0,2019-05-12 14:00:00,Matt Doherty,Pass,4105
+310231,46,SavedShot,0.8830000305175781,0.3840000152587891,0.17117899656295776,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11651,Leicester,Wolverhampton Wanderers,0,0,2019-08-11 14:00:00,Rúben Neves,TakeOn,4105
+310241,82,SavedShot,0.8030000305175782,0.565,0.04423670098185539,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11651,Leicester,Wolverhampton Wanderers,0,0,2019-08-11 14:00:00,Jonny,Pass,4105
+311296,31,BlockedShot,0.8690000152587891,0.59,0.06200540065765381,Raúl Jiménez,h,4105,FromCorner,2019,RightFoot,11662,Wolverhampton Wanderers,Manchester United,1,1,2019-08-19 20:00:00,,None,4105
+311298,53,ShotOnPost,0.8830000305175781,0.44,0.045065298676490784,Raúl Jiménez,h,4105,SetPiece,2019,Head,11662,Wolverhampton Wanderers,Manchester United,1,1,2019-08-19 20:00:00,João Moutinho,Cross,4105
+313096,46,BlockedShot,0.805,0.5170000076293946,0.05138330161571503,Raúl Jiménez,h,4105,OpenPlay,2019,LeftFoot,11668,Wolverhampton Wanderers,Burnley,1,1,2019-08-25 16:30:00,Willy Boly,Pass,4105
+313097,47,MissedShots,0.8519999694824218,0.5120000076293946,0.06539099663496017,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11668,Wolverhampton Wanderers,Burnley,1,1,2019-08-25 16:30:00,Ryan Bennett,Cross,4105
+313109,92,ShotOnPost,0.870999984741211,0.509000015258789,0.041322700679302216,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11668,Wolverhampton Wanderers,Burnley,1,1,2019-08-25 16:30:00,,Aerial,4105
+313112,96,Goal,0.885,0.5,0.7611690163612366,Raúl Jiménez,h,4105,Penalty,2019,RightFoot,11668,Wolverhampton Wanderers,Burnley,1,1,2019-08-25 16:30:00,,Standard,4105
+316299,23,SavedShot,0.86,0.7330000305175781,0.02515150047838688,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11681,Everton,Wolverhampton Wanderers,3,2,2019-09-01 14:00:00,Ryan Bennett,Chipped,4105
+316306,74,Goal,0.9569999694824218,0.49900001525878906,0.4760420024394989,Raúl Jiménez,a,4105,OpenPlay,2019,Head,11681,Everton,Wolverhampton Wanderers,3,2,2019-09-01 14:00:00,Willy Boly,HeadPass,4105
+317304,46,MissedShots,0.895,0.44299999237060544,0.04996759817004204,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11688,Wolverhampton Wanderers,Chelsea,2,5,2019-09-14 14:00:00,Adama Traoré,Cross,4105
+317308,57,MissedShots,0.9690000152587891,0.3820000076293945,0.04784980043768883,Raúl Jiménez,h,4105,FromCorner,2019,RightFoot,11688,Wolverhampton Wanderers,Chelsea,2,5,2019-09-14 14:00:00,João Moutinho,Cross,4105
+321497,51,MissedShots,0.9030000305175782,0.4470000076293945,0.03300980105996132,Raúl Jiménez,a,4105,OpenPlay,2019,Head,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Adama Traoré,Aerial,4105
+321502,62,SavedShot,0.879000015258789,0.549000015258789,0.07711789757013321,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11697,Crystal Palace,Wolverhampton Wanderers,1,1,2019-09-22 13:00:00,Jonny,Cross,4105
+322699,1,MissedShots,0.8830000305175781,0.285,0.04402279853820801,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11705,Wolverhampton Wanderers,Watford,2,0,2019-09-28 14:00:00,Willy Boly,Chipped,4105
+322700,8,MissedShots,0.97,0.6029999923706054,0.1438249945640564,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11705,Wolverhampton Wanderers,Watford,2,0,2019-09-28 14:00:00,Pedro Neto,Pass,4105
+324655,18,BlockedShot,0.8690000152587891,0.44099998474121094,0.1133280023932457,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11716,Manchester City,Wolverhampton Wanderers,0,2,2019-10-06 14:00:00,,TakeOn,4105
+324662,62,MissedShots,0.9319999694824219,0.6090000152587891,0.014857100322842598,Raúl Jiménez,a,4105,FromCorner,2019,Head,11716,Manchester City,Wolverhampton Wanderers,0,2,2019-10-06 14:00:00,João Moutinho,Aerial,4105
+325678,60,Goal,0.885,0.5,0.7611690163612366,Raúl Jiménez,h,4105,Penalty,2019,RightFoot,11732,Wolverhampton Wanderers,Southampton,1,1,2019-10-19 15:00:00,,Standard,4105
+327871,85,MissedShots,0.8830000305175781,0.7190000152587891,0.026856400072574615,Raúl Jiménez,a,4105,FromCorner,2019,RightFoot,11738,Newcastle United,Wolverhampton Wanderers,1,1,2019-10-27 14:00:00,Romain Saiss,BallTouch,4105
+327875,95,SavedShot,0.7659999847412109,0.3509999847412109,0.020896200090646744,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11738,Newcastle United,Wolverhampton Wanderers,1,1,2019-10-27 14:00:00,Matt Doherty,Pass,4105
+329134,3,BlockedShot,0.759000015258789,0.4759999847412109,0.02716119959950447,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,Rúben Neves,Pass,4105
+329136,8,BlockedShot,0.87,0.27600000381469725,0.038271501660346985,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,,BallRecovery,4105
+329149,43,SavedShot,0.9080000305175782,0.44,0.033491700887680054,Raúl Jiménez,a,4105,OpenPlay,2019,Head,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,,Aerial,4105
+329150,46,BlockedShot,0.7480000305175781,0.46099998474121096,0.022778799757361412,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,Jonny,Pass,4105
+329153,49,SavedShot,0.899000015258789,0.580999984741211,0.013798600062727928,Raúl Jiménez,a,4105,FromCorner,2019,Head,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,João Moutinho,Aerial,4105
+329157,57,BlockedShot,0.799000015258789,0.580999984741211,0.040784500539302826,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,Jonny,Pass,4105
+329160,70,SavedShot,0.865,0.7630000305175781,0.07858079671859741,Raúl Jiménez,a,4105,OpenPlay,2019,LeftFoot,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,Diogo Jota,Chipped,4105
+329161,75,Goal,0.914000015258789,0.5220000076293946,0.03908839821815491,Raúl Jiménez,a,4105,OpenPlay,2019,Head,11743,Arsenal,Wolverhampton Wanderers,1,1,2019-11-02 15:00:00,João Moutinho,Aerial,4105
+331416,18,MissedShots,0.8969999694824219,0.5279999923706055,0.10083600133657455,Raúl Jiménez,h,4105,OpenPlay,2019,LeftFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,,None,4105
+331419,27,MissedShots,0.865999984741211,0.6029999923706054,0.07364589720964432,Raúl Jiménez,h,4105,OpenPlay,2019,LeftFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,Rúben Neves,BallRecovery,4105
+331428,50,MissedShots,0.8540000152587891,0.3940000152587891,0.1268250048160553,Raúl Jiménez,h,4105,OpenPlay,2019,LeftFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,Rúben Neves,Chipped,4105
+331435,67,MissedShots,0.9030000305175782,0.41900001525878905,0.1234470009803772,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,,Rebound,4105
+331441,83,Goal,0.85,0.504000015258789,0.13235299289226532,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11760,Wolverhampton Wanderers,Aston Villa,2,1,2019-11-10 14:00:00,Adama Traoré,Pass,4105
+332146,11,BlockedShot,0.8469999694824218,0.575999984741211,0.04715240001678467,Raúl Jiménez,a,4105,OpenPlay,2019,LeftFoot,11765,Bournemouth,Wolverhampton Wanderers,1,2,2019-11-23 15:00:00,Diogo Jota,Cross,4105
+332149,30,Goal,0.9259999847412109,0.4520000076293945,0.5425599813461304,Raúl Jiménez,a,4105,SetPiece,2019,LeftFoot,11765,Bournemouth,Wolverhampton Wanderers,1,2,2019-11-23 15:00:00,Adama Traoré,Pass,4105
+332159,61,MissedShots,0.919000015258789,0.45099998474121095,0.0321430005133152,Raúl Jiménez,a,4105,FromCorner,2019,Head,11765,Bournemouth,Wolverhampton Wanderers,1,2,2019-11-23 15:00:00,João Moutinho,Aerial,4105
+332161,71,SavedShot,0.925,0.48200000762939454,0.07576440274715424,Raúl Jiménez,a,4105,OpenPlay,2019,Head,11765,Bournemouth,Wolverhampton Wanderers,1,2,2019-11-23 15:00:00,Diogo Jota,Aerial,4105
+332167,85,SavedShot,0.8159999847412109,0.35400001525878905,0.09947170317173004,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11765,Bournemouth,Wolverhampton Wanderers,1,2,2019-11-23 15:00:00,Rúben Neves,BallRecovery,4105
+332168,90,MissedShots,0.575999984741211,0.23100000381469726,0.008410469628870487,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11765,Bournemouth,Wolverhampton Wanderers,1,2,2019-11-23 15:00:00,,BallRecovery,4105
+334176,12,SavedShot,0.914000015258789,0.475,0.3719559907913208,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11780,Wolverhampton Wanderers,Sheffield United,1,1,2019-12-01 14:00:00,,Aerial,4105
+334177,13,BlockedShot,0.9009999847412109,0.5170000076293946,0.032737601548433304,Raúl Jiménez,h,4105,FromCorner,2019,Head,11780,Wolverhampton Wanderers,Sheffield United,1,1,2019-12-01 14:00:00,João Moutinho,Rebound,4105
+334180,33,BlockedShot,0.9480000305175781,0.4759999847412109,0.07866089791059494,Raúl Jiménez,h,4105,FromCorner,2019,Head,11780,Wolverhampton Wanderers,Sheffield United,1,1,2019-12-01 14:00:00,João Moutinho,Aerial,4105
+334194,90,BlockedShot,0.8530000305175781,0.66,0.04786190018057823,Raúl Jiménez,h,4105,SetPiece,2019,RightFoot,11780,Wolverhampton Wanderers,Sheffield United,1,1,2019-12-01 14:00:00,Jonny,BallTouch,4105
+335031,11,MissedShots,0.9,0.265,0.058866098523139954,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11787,Wolverhampton Wanderers,West Ham,2,0,2019-12-04 19:30:00,Adama Traoré,Pass,4105
+335032,21,SavedShot,0.9259999847412109,0.580999984741211,0.1352590024471283,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11787,Wolverhampton Wanderers,West Ham,2,0,2019-12-04 19:30:00,Diogo Jota,Pass,4105
+335044,63,MissedShots,0.925,0.669000015258789,0.13151699304580688,Raúl Jiménez,h,4105,OpenPlay,2019,LeftFoot,11787,Wolverhampton Wanderers,West Ham,2,0,2019-12-04 19:30:00,João Moutinho,Throughball,4105
+335045,72,SavedShot,0.874000015258789,0.645,0.11190299689769745,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11787,Wolverhampton Wanderers,West Ham,2,0,2019-12-04 19:30:00,Adama Traoré,Pass,4105
+337489,20,MissedShots,0.885,0.37099998474121093,0.016087200492620468,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11812,Wolverhampton Wanderers,Tottenham,1,2,2019-12-15 14:00:00,João Moutinho,Cross,4105
+337491,25,MissedShots,0.88,0.6229999923706054,0.07703150063753128,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11812,Wolverhampton Wanderers,Tottenham,1,2,2019-12-15 14:00:00,Diogo Jota,Pass,4105
+337495,33,BlockedShot,0.7930000305175782,0.5,0.03990510106086731,Raúl Jiménez,h,4105,OpenPlay,2019,LeftFoot,11812,Wolverhampton Wanderers,Tottenham,1,2,2019-12-15 14:00:00,João Moutinho,Pass,4105
+337499,48,SavedShot,0.825,0.335,0.03325650095939636,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11812,Wolverhampton Wanderers,Tottenham,1,2,2019-12-15 14:00:00,,TakeOn,4105
+337505,78,BlockedShot,0.7759999847412109,0.500999984741211,0.031985800713300705,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11812,Wolverhampton Wanderers,Tottenham,1,2,2019-12-15 14:00:00,Adama Traoré,TakeOn,4105
+338646,25,SavedShot,0.84,0.34599998474121096,0.04820840060710907,Raúl Jiménez,a,4105,OpenPlay,2019,LeftFoot,11819,Norwich,Wolverhampton Wanderers,1,2,2019-12-21 15:00:00,Adama Traoré,Pass,4105
+338655,59,BlockedShot,0.8859999847412109,0.3160000038146973,0.050459299236536026,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11819,Norwich,Wolverhampton Wanderers,1,2,2019-12-21 15:00:00,Adama Traoré,Pass,4105
+338659,68,MissedShots,0.8519999694824218,0.37099998474121093,0.06146550178527832,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11819,Norwich,Wolverhampton Wanderers,1,2,2019-12-21 15:00:00,,BallRecovery,4105
+338664,80,Goal,0.8880000305175781,0.534000015258789,0.37068700790405273,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11819,Norwich,Wolverhampton Wanderers,1,2,2019-12-21 15:00:00,,Rebound,4105
+339692,19,BlockedShot,0.960999984741211,0.3970000076293945,0.016622399911284447,Raúl Jiménez,h,4105,FromCorner,2019,Head,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,João Moutinho,Aerial,4105
+339699,43,SavedShot,0.779000015258789,0.6819999694824219,0.018512900918722153,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,João Moutinho,Chipped,4105
+339704,52,MissedShots,0.8230000305175781,0.49900001525878906,0.05757389962673187,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,Jonny,BallRecovery,4105
+339706,61,BlockedShot,0.8530000305175781,0.539000015258789,0.05849489942193031,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,Adama Traoré,Cross,4105
+339713,81,Goal,0.9569999694824218,0.49400001525878906,0.6489449739456177,Raúl Jiménez,h,4105,OpenPlay,2019,LeftFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,Adama Traoré,Pass,4105
+339941,82,BlockedShot,0.8830000305175781,0.6140000152587891,0.06673499941825867,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11836,Liverpool,Wolverhampton Wanderers,1,0,2019-12-29 16:30:00,Romain Saiss,Chipped,4105
+351456,15,MissedShots,0.855,0.500999984741211,0.08186490088701248,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11852,Watford,Wolverhampton Wanderers,2,1,2020-01-01 15:00:00,Leander Dendoncker,Chipped,4105
+351459,27,MissedShots,0.6919999694824219,0.46,0.012376800179481506,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11852,Watford,Wolverhampton Wanderers,2,1,2020-01-01 15:00:00,Pedro Neto,GoodSkill,4105
+351465,47,MissedShots,0.7390000152587891,0.49700000762939456,0.01062449999153614,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11852,Watford,Wolverhampton Wanderers,2,1,2020-01-01 15:00:00,,Aerial,4105
+351471,62,BlockedShot,0.8859999847412109,0.37400001525878906,0.058711498975753784,Raúl Jiménez,a,4105,FromCorner,2019,RightFoot,11852,Watford,Wolverhampton Wanderers,2,1,2020-01-01 15:00:00,Leander Dendoncker,None,4105
+351669,16,BlockedShot,0.805,0.3220000076293945,0.0489577017724514,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11853,Wolverhampton Wanderers,Newcastle United,1,1,2020-01-11 15:00:00,Adama Traoré,Pass,4105
+351671,33,SavedShot,0.965999984741211,0.539000015258789,0.5981379747390747,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11853,Wolverhampton Wanderers,Newcastle United,1,1,2020-01-11 15:00:00,Adama Traoré,Cross,4105
+351676,46,BlockedShot,0.85,0.43099998474121093,0.061554599553346634,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11853,Wolverhampton Wanderers,Newcastle United,1,1,2020-01-11 15:00:00,,Rebound,4105
+351941,22,SavedShot,0.9530000305175781,0.45799999237060546,0.10373599827289581,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11870,Southampton,Wolverhampton Wanderers,2,3,2020-01-18 15:00:00,,None,4105
+351943,26,MissedShots,0.889000015258789,0.35900001525878905,0.02852270007133484,Raúl Jiménez,a,4105,SetPiece,2019,RightFoot,11870,Southampton,Wolverhampton Wanderers,2,3,2020-01-18 15:00:00,João Moutinho,Cross,4105
+351945,32,MissedShots,0.9469999694824218,0.47200000762939454,0.5550569891929626,Raúl Jiménez,a,4105,OpenPlay,2019,LeftFoot,11870,Southampton,Wolverhampton Wanderers,2,3,2020-01-18 15:00:00,Pedro Neto,Cross,4105
+351951,64,Goal,0.885,0.5,0.7611690163612366,Raúl Jiménez,a,4105,Penalty,2019,RightFoot,11870,Southampton,Wolverhampton Wanderers,2,3,2020-01-18 15:00:00,,Standard,4105
+351955,75,Goal,0.865999984741211,0.5259999847412109,0.3526209890842438,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11870,Southampton,Wolverhampton Wanderers,2,3,2020-01-18 15:00:00,Adama Traoré,Pass,4105
+352331,37,MissedShots,0.86,0.6120000076293945,0.054575201123952866,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,,None,4105
+352332,42,BlockedShot,0.8230000305175781,0.524000015258789,0.05158190056681633,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Romain Saiss,BallTouch,4105
+352337,50,Goal,0.9059999847412109,0.46,0.3125329911708832,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Adama Traoré,Cross,4105
+352341,67,SavedShot,0.9640000152587891,0.355,0.31488001346588135,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11874,Wolverhampton Wanderers,Liverpool,1,2,2020-01-23 20:00:00,Adama Traoré,Throughball,4105
+352587,68,SavedShot,0.9359999847412109,0.3220000076293945,0.0994838997721672,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11888,Manchester United,Wolverhampton Wanderers,0,0,2020-02-01 17:30:00,Adama Traoré,Pass,4105
+352725,41,MissedShots,0.919000015258789,0.4570000076293945,0.29932400584220886,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11902,Wolverhampton Wanderers,Leicester,0,0,2020-02-14 20:00:00,Jonny,Cross,4105
+352732,80,MissedShots,0.870999984741211,0.53,0.031658198684453964,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11902,Wolverhampton Wanderers,Leicester,0,0,2020-02-14 20:00:00,Adama Traoré,Cross,4105
+352733,82,MissedShots,0.8719999694824219,0.46900001525878904,0.013251000083982944,Raúl Jiménez,h,4105,SetPiece,2019,Head,11902,Wolverhampton Wanderers,Leicester,0,0,2020-02-14 20:00:00,João Moutinho,Aerial,4105
+352735,89,MissedShots,0.9159999847412109,0.4640000152587891,0.2660819888114929,Raúl Jiménez,h,4105,FromCorner,2019,Head,11902,Wolverhampton Wanderers,Leicester,0,0,2020-02-14 20:00:00,João Moutinho,Cross,4105
+352739,94,BlockedShot,0.8719999694824219,0.445,0.09972009807825089,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11902,Wolverhampton Wanderers,Leicester,0,0,2020-02-14 20:00:00,Adama Traoré,Pass,4105
+353092,36,MissedShots,0.9519999694824218,0.44,0.11986900120973587,Raúl Jiménez,h,4105,FromCorner,2019,Head,11912,Wolverhampton Wanderers,Norwich,3,0,2020-02-23 14:00:00,João Moutinho,Cross,4105
+353097,48,MissedShots,0.8130000305175781,0.28700000762939454,0.03770510107278824,Raúl Jiménez,h,4105,OpenPlay,2019,LeftFoot,11912,Wolverhampton Wanderers,Norwich,3,0,2020-02-23 14:00:00,Diogo Jota,Pass,4105
+353099,49,Goal,0.9769999694824218,0.51,0.975928008556366,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11912,Wolverhampton Wanderers,Norwich,3,0,2020-02-23 14:00:00,,Rebound,4105
+353102,57,MissedShots,0.8930000305175781,0.4779999923706055,0.12650799751281738,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11912,Wolverhampton Wanderers,Norwich,3,0,2020-02-23 14:00:00,Matt Doherty,Rebound,4105
+353371,11,BlockedShot,0.935,0.615999984741211,0.05173090100288391,Raúl Jiménez,a,4105,FromCorner,2019,RightFoot,11920,Tottenham,Wolverhampton Wanderers,2,3,2020-03-01 14:00:00,João Moutinho,Cross,4105
+353369,11,BlockedShot,0.7190000152587891,0.3820000076293945,0.017535900697112083,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11920,Tottenham,Wolverhampton Wanderers,2,3,2020-03-01 14:00:00,Rúben Neves,Pass,4105
+353383,46,MissedShots,0.9230000305175782,0.555,0.04271459951996803,Raúl Jiménez,a,4105,FromCorner,2019,OtherBodyPart,11920,Tottenham,Wolverhampton Wanderers,2,3,2020-03-01 14:00:00,João Moutinho,Aerial,4105
+353390,72,Goal,0.9059999847412109,0.42700000762939455,0.3800329864025116,Raúl Jiménez,a,4105,OpenPlay,2019,LeftFoot,11920,Tottenham,Wolverhampton Wanderers,2,3,2020-03-01 14:00:00,Diogo Jota,Pass,4105
+353391,88,MissedShots,0.845999984741211,0.49700000762939456,0.155581995844841,Raúl Jiménez,a,4105,OpenPlay,2019,LeftFoot,11920,Tottenham,Wolverhampton Wanderers,2,3,2020-03-01 14:00:00,Pedro Neto,TakeOn,4105
+353477,7,MissedShots,0.825999984741211,0.37099998474121093,0.07956109941005707,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11931,Wolverhampton Wanderers,Brighton,0,0,2020-03-07 15:00:00,Rúben Neves,Pass,4105
+353480,28,MissedShots,0.7609999847412109,0.3529999923706055,0.014534500427544117,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11931,Wolverhampton Wanderers,Brighton,0,0,2020-03-07 15:00:00,Leander Dendoncker,HeadPass,4105
+353481,32,MissedShots,0.9030000305175782,0.31799999237060544,0.3184640109539032,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11931,Wolverhampton Wanderers,Brighton,0,0,2020-03-07 15:00:00,,None,4105
+353490,75,SavedShot,0.865999984741211,0.5479999923706055,0.07735840231180191,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11931,Wolverhampton Wanderers,Brighton,0,0,2020-03-07 15:00:00,Daniel Podence,Rebound,4105
+365569,12,SavedShot,0.92,0.4370000076293945,0.034799300134181976,Raúl Jiménez,a,4105,FromCorner,2019,Head,11934,West Ham,Wolverhampton Wanderers,0,2,2020-06-20 16:30:00,Jonny,Aerial,4105
+365573,32,BlockedShot,0.909000015258789,0.72,0.048648301512002945,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11934,West Ham,Wolverhampton Wanderers,0,2,2020-06-20 16:30:00,Diogo Jota,Pass,4105
+365575,35,BlockedShot,0.8119999694824219,0.5070000076293946,0.03915249928832054,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11934,West Ham,Wolverhampton Wanderers,0,2,2020-06-20 16:30:00,Matt Doherty,Chipped,4105
+365579,72,Goal,0.9730000305175781,0.5059999847412109,0.7120950222015381,Raúl Jiménez,a,4105,OpenPlay,2019,Head,11934,West Ham,Wolverhampton Wanderers,0,2,2020-06-20 16:30:00,Adama Traoré,Cross,4105
+366335,59,Goal,0.9540000152587891,0.54,0.15008699893951416,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11947,Wolverhampton Wanderers,Bournemouth,1,0,2020-06-24 17:00:00,Adama Traoré,Cross,4105
+366783,18,SavedShot,0.9219999694824219,0.35700000762939454,0.011452999897301197,Raúl Jiménez,a,4105,SetPiece,2019,Head,11954,Aston Villa,Wolverhampton Wanderers,0,1,2020-06-27 11:30:00,João Moutinho,Aerial,4105
+366787,36,MissedShots,0.8209999847412109,0.33799999237060546,0.039406001567840576,Raúl Jiménez,a,4105,SetPiece,2019,RightFoot,11954,Aston Villa,Wolverhampton Wanderers,0,1,2020-06-27 11:30:00,Rúben Neves,Chipped,4105
+366788,39,MissedShots,0.875,0.2989999961853027,0.05110830068588257,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11954,Aston Villa,Wolverhampton Wanderers,0,1,2020-06-27 11:30:00,Leander Dendoncker,Pass,4105
+368715,51,MissedShots,0.9369999694824219,0.5509999847412109,0.10676199942827225,Raúl Jiménez,h,4105,OpenPlay,2019,Head,11972,Wolverhampton Wanderers,Arsenal,0,2,2020-07-04 16:30:00,Adama Traoré,Cross,4105
+370704,26,SavedShot,0.88,0.59,0.07015590369701385,Raúl Jiménez,h,4105,FromCorner,2019,RightFoot,11992,Wolverhampton Wanderers,Everton,3,0,2020-07-12 11:00:00,Willy Boly,HeadPass,4105
+370705,46,Goal,0.885,0.5,0.7611690163612366,Raúl Jiménez,h,4105,Penalty,2019,RightFoot,11992,Wolverhampton Wanderers,Everton,3,0,2020-07-12 11:00:00,,Standard,4105
+370711,64,BlockedShot,0.9580000305175781,0.645,0.10940399765968323,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,11992,Wolverhampton Wanderers,Everton,3,0,2020-07-12 11:00:00,,Rebound,4105
+371438,9,SavedShot,0.9540000152587891,0.5220000076293946,0.11282899975776672,Raúl Jiménez,a,4105,OpenPlay,2019,Head,11994,Burnley,Wolverhampton Wanderers,1,1,2020-07-15 17:00:00,Adama Traoré,Aerial,4105
+371448,52,MissedShots,0.874000015258789,0.3340000152587891,0.09210880100727081,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11994,Burnley,Wolverhampton Wanderers,1,1,2020-07-15 17:00:00,,None,4105
+371454,75,Goal,0.8469999694824218,0.5329999923706055,0.0640576034784317,Raúl Jiménez,a,4105,OpenPlay,2019,RightFoot,11994,Burnley,Wolverhampton Wanderers,1,1,2020-07-15 17:00:00,,Rebound,4105
+372931,12,SavedShot,0.9469999694824218,0.3139999961853027,0.0541766993701458,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,12012,Wolverhampton Wanderers,Crystal Palace,2,0,2020-07-20 19:15:00,,None,4105
+372937,47,BlockedShot,0.73,0.6309999847412109,0.020368799567222595,Raúl Jiménez,h,4105,OpenPlay,2019,LeftFoot,12012,Wolverhampton Wanderers,Crystal Palace,2,0,2020-07-20 19:15:00,Rúben Neves,Pass,4105
+372940,67,MissedShots,0.8819999694824219,0.41,0.10847499966621399,Raúl Jiménez,h,4105,OpenPlay,2019,RightFoot,12012,Wolverhampton Wanderers,Crystal Palace,2,0,2020-07-20 19:15:00,Adama Traoré,Pass,4105
+373676,13,BlockedShot,0.6859999847412109,0.534000015258789,0.013450699858367443,Raúl Jiménez,a,4105,OpenPlay,2019,LeftFoot,12021,Chelsea,Wolverhampton Wanderers,2,0,2020-07-26 15:00:00,Matt Doherty,Pass,4105
+377103,2,Goal,0.87,0.42400001525878905,0.3069469928741455,Raúl Jiménez,a,4105,OpenPlay,2020,RightFoot,14094,Sheffield United,Wolverhampton Wanderers,0,2,2020-09-14 17:00:00,Daniel Podence,Cross,4105
+377104,5,SavedShot,0.8480000305175781,0.605999984741211,0.053645599633455276,Raúl Jiménez,a,4105,OpenPlay,2020,RightFoot,14094,Sheffield United,Wolverhampton Wanderers,0,2,2020-09-14 17:00:00,Leander Dendoncker,Cross,4105
+377106,23,MissedShots,0.7819999694824219,0.33799999237060546,0.03592190146446228,Raúl Jiménez,a,4105,OpenPlay,2020,LeftFoot,14094,Sheffield United,Wolverhampton Wanderers,0,2,2020-09-14 17:00:00,João Moutinho,Pass,4105
+377113,69,MissedShots,0.9130000305175782,0.49,0.5962269902229309,Raúl Jiménez,a,4105,OpenPlay,2020,LeftFoot,14094,Sheffield United,Wolverhampton Wanderers,0,2,2020-09-14 17:00:00,,None,4105
+377118,83,ShotOnPost,0.9469999694824218,0.415,0.02945229969918728,Raúl Jiménez,a,4105,FromCorner,2020,Head,14094,Sheffield United,Wolverhampton Wanderers,0,2,2020-09-14 17:00:00,João Moutinho,Aerial,4105
+378533,40,MissedShots,0.8919999694824219,0.40900001525878904,0.03680429980158806,Raúl Jiménez,h,4105,FromCorner,2020,Head,14105,Wolverhampton Wanderers,Manchester City,1,3,2020-09-21 19:15:00,Adama Traoré,Cross,4105
+378540,59,MissedShots,0.8859999847412109,0.47299999237060547,0.07151679694652557,Raúl Jiménez,h,4105,OpenPlay,2020,LeftFoot,14105,Wolverhampton Wanderers,Manchester City,1,3,2020-09-21 19:15:00,Adama Traoré,Cross,4105
+378545,77,Goal,0.8959999847412109,0.4570000076293945,0.24897900223731995,Raúl Jiménez,h,4105,FromCorner,2020,Head,14105,Wolverhampton Wanderers,Manchester City,1,3,2020-09-21 19:15:00,Daniel Podence,Cross,4105
+379785,22,BlockedShot,0.879000015258789,0.5309999847412109,0.07459820061922073,Raúl Jiménez,a,4105,OpenPlay,2020,LeftFoot,14113,West Ham,Wolverhampton Wanderers,4,0,2020-09-27 18:00:00,Pedro Neto,Cross,4105
+379790,36,SavedShot,0.9,0.555,0.048244401812553406,Raúl Jiménez,a,4105,FromCorner,2020,Head,14113,West Ham,Wolverhampton Wanderers,4,0,2020-09-27 18:00:00,Pedro Neto,Cross,4105
+379802,65,OwnGoal,0.04099999904632568,0.40200000762939453,0,Raúl Jiménez,a,4105,FromCorner,2020,OtherBodyPart,14113,West Ham,Wolverhampton Wanderers,4,0,2020-09-27 18:00:00,,None,4105
+381217,31,MissedShots,0.8819999694824219,0.5459999847412109,0.030401000753045082,Raúl Jiménez,h,4105,OpenPlay,2020,Head,14474,Wolverhampton Wanderers,Fulham,1,0,2020-10-04 13:00:00,Leander Dendoncker,Aerial,4105
+381220,54,SavedShot,0.8690000152587891,0.575999984741211,0.06656630337238312,Raúl Jiménez,h,4105,OpenPlay,2020,RightFoot,14474,Wolverhampton Wanderers,Fulham,1,0,2020-10-04 13:00:00,Max Kilman,BallRecovery,4105
+381227,68,BlockedShot,0.8230000305175781,0.5609999847412109,0.06846480071544647,Raúl Jiménez,h,4105,OpenPlay,2020,RightFoot,14474,Wolverhampton Wanderers,Fulham,1,0,2020-10-04 13:00:00,Max Kilman,TakeOn,4105
+382933,34,MissedShots,0.9619999694824218,0.3970000076293945,0.059832800179719925,Raúl Jiménez,a,4105,FromCorner,2020,RightFoot,14478,Leeds,Wolverhampton Wanderers,0,1,2020-10-19 19:00:00,João Moutinho,Cross,4105
+382940,69,Goal,0.7859999847412109,0.46099998474121096,0.02450069971382618,Raúl Jiménez,a,4105,OpenPlay,2020,RightFoot,14478,Leeds,Wolverhampton Wanderers,0,1,2020-10-19 19:00:00,Max Kilman,TakeOn,4105
+384000,10,MissedShots,0.785,0.4159999847412109,0.031108500435948372,Raúl Jiménez,h,4105,OpenPlay,2020,RightFoot,14494,Wolverhampton Wanderers,Newcastle United,1,1,2020-10-25 16:30:00,Nélson Semedo,Pass,4105
+384001,12,MissedShots,0.9059999847412109,0.4209999847412109,0.12049499899148941,Raúl Jiménez,h,4105,OpenPlay,2020,LeftFoot,14494,Wolverhampton Wanderers,Newcastle United,1,1,2020-10-25 16:30:00,Pedro Neto,Pass,4105
+384004,45,MissedShots,0.7369999694824219,0.63,0.018128899857401848,Raúl Jiménez,h,4105,OpenPlay,2020,RightFoot,14494,Wolverhampton Wanderers,Newcastle United,1,1,2020-10-25 16:30:00,Daniel Podence,Pass,4105
+384015,76,SavedShot,0.8190000152587891,0.5609999847412109,0.04195509850978851,Raúl Jiménez,h,4105,OpenPlay,2020,RightFoot,14494,Wolverhampton Wanderers,Newcastle United,1,1,2020-10-25 16:30:00,,Rebound,4105
+384014,76,BlockedShot,0.8280000305175781,0.585,0.06378179788589478,Raúl Jiménez,h,4105,OpenPlay,2020,RightFoot,14494,Wolverhampton Wanderers,Newcastle United,1,1,2020-10-25 16:30:00,Pedro Neto,Pass,4105
+384017,79,Goal,0.7769999694824219,0.45099998474121095,0.0222632996737957,Raúl Jiménez,h,4105,SetPiece,2020,RightFoot,14494,Wolverhampton Wanderers,Newcastle United,1,1,2020-10-25 16:30:00,,None,4105
+384372,69,SavedShot,0.789000015258789,0.5070000076293946,0.0769416019320488,Raúl Jiménez,h,4105,OpenPlay,2020,RightFoot,14504,Wolverhampton Wanderers,Crystal Palace,2,0,2020-10-30 20:00:00,Rúben Neves,TakeOn,4105
+388393,52,MissedShots,0.9009999847412109,0.5579999923706055,0.06356880068778992,Raúl Jiménez,h,4105,OpenPlay,2020,Head,14524,Wolverhampton Wanderers,Southampton,1,1,2020-11-23 20:00:00,Rayan Ait Nouri,Cross,4105
+388396,66,SavedShot,0.86,0.3,0.038888100534677505,Raúl Jiménez,h,4105,OpenPlay,2020,RightFoot,14524,Wolverhampton Wanderers,Southampton,1,1,2020-11-23 20:00:00,Rúben Neves,Chipped,4105
+388398,72,BlockedShot,0.895,0.35900001525878905,0.07642360031604767,Raúl Jiménez,h,4105,OpenPlay,2020,RightFoot,14524,Wolverhampton Wanderers,Southampton,1,1,2020-11-23 20:00:00,Adama Traoré,Pass,4105
+388400,74,ShotOnPost,0.84,0.3770000076293945,0.055253900587558746,Raúl Jiménez,h,4105,OpenPlay,2020,RightFoot,14524,Wolverhampton Wanderers,Southampton,1,1,2020-11-23 20:00:00,João Moutinho,Pass,4105
+425873,52,MissedShots,0.875999984741211,0.49900001525878906,0.022892899811267853,Raúl Jiménez,a,4105,OpenPlay,2021,Head,16381,Leicester,Wolverhampton Wanderers,1,0,2021-08-14 14:00:00,Fernando Marçal,Aerial,4105
+425876,64,MissedShots,0.9180000305175782,0.555,0.08631429821252823,Raúl Jiménez,a,4105,OpenPlay,2021,Head,16381,Leicester,Wolverhampton Wanderers,1,0,2021-08-14 14:00:00,Ki-Jana Hoever,Cross,4105
+425884,88,MissedShots,0.874000015258789,0.3609999847412109,0.048960600048303604,Raúl Jiménez,a,4105,FromCorner,2021,RightFoot,16381,Leicester,Wolverhampton Wanderers,1,0,2021-08-14 14:00:00,,None,4105
+427543,26,MissedShots,0.8419999694824218,0.61,0.04611609876155853,Raúl Jiménez,h,4105,OpenPlay,2021,RightFoot,16393,Wolverhampton Wanderers,Tottenham,0,1,2021-08-22 13:00:00,João Moutinho,Pass,4105
+427544,30,BlockedShot,0.8640000152587891,0.39799999237060546,0.055830299854278564,Raúl Jiménez,h,4105,FromCorner,2021,RightFoot,16393,Wolverhampton Wanderers,Tottenham,0,1,2021-08-22 13:00:00,Romain Saiss,None,4105
+427554,61,BlockedShot,0.924000015258789,0.43400001525878906,0.12709400057792664,Raúl Jiménez,h,4105,OpenPlay,2021,RightFoot,16393,Wolverhampton Wanderers,Tottenham,0,1,2021-08-22 13:00:00,Nélson Semedo,Pass,4105
+427552,61,BlockedShot,0.8680000305175781,0.345,0.05810270085930824,Raúl Jiménez,h,4105,OpenPlay,2021,RightFoot,16393,Wolverhampton Wanderers,Tottenham,0,1,2021-08-22 13:00:00,Trincão,Pass,4105
+427568,87,BlockedShot,0.865,0.5729999923706055,0.06445969641208649,Raúl Jiménez,h,4105,OpenPlay,2021,RightFoot,16393,Wolverhampton Wanderers,Tottenham,0,1,2021-08-22 13:00:00,Adama Traoré,Cross,4105
+429305,2,SavedShot,0.885,0.29100000381469726,0.06860099732875824,Raúl Jiménez,h,4105,OpenPlay,2021,RightFoot,16405,Wolverhampton Wanderers,Manchester United,0,1,2021-08-29 15:30:00,Adama Traoré,Pass,4105
+429312,11,BlockedShot,0.8730000305175781,0.6270000076293946,0.08237720280885696,Raúl Jiménez,h,4105,OpenPlay,2021,RightFoot,16405,Wolverhampton Wanderers,Manchester United,0,1,2021-08-29 15:30:00,Adama Traoré,Pass,4105
+429315,38,BlockedShot,0.7780000305175782,0.44799999237060545,0.03009689971804619,Raúl Jiménez,h,4105,OpenPlay,2021,RightFoot,16405,Wolverhampton Wanderers,Manchester United,0,1,2021-08-29 15:30:00,,None,4105
+429320,60,MissedShots,0.945,0.5629999923706055,0.08053690195083618,Raúl Jiménez,h,4105,OpenPlay,2021,OtherBodyPart,16405,Wolverhampton Wanderers,Manchester United,0,1,2021-08-29 15:30:00,Adama Traoré,Aerial,4105
+429857,68,MissedShots,0.9219999694824219,0.44,0.24862299859523773,Raúl Jiménez,a,4105,SetPiece,2021,Head,16412,Watford,Wolverhampton Wanderers,0,2,2021-09-11 14:00:00,João Moutinho,Cross,4105
+431122,86,MissedShots,0.9,0.5209999847412109,0.05526269972324371,Raúl Jiménez,h,4105,OpenPlay,2021,Head,16417,Wolverhampton Wanderers,Brentford,0,2,2021-09-18 11:30:00,Adama Traoré,Aerial,4105
+434098,60,Goal,0.904000015258789,0.5059999847412109,0.332845002412796,Raúl Jiménez,a,4105,OpenPlay,2021,RightFoot,16433,Southampton,Wolverhampton Wanderers,0,1,2021-09-26 13:00:00,José Sá,TakeOn,4105
+434105,94,SavedShot,0.9619999694824218,0.6020000076293945,0.3858189880847931,Raúl Jiménez,a,4105,OpenPlay,2021,RightFoot,16433,Southampton,Wolverhampton Wanderers,0,1,2021-09-26 13:00:00,,None,4105
+434940,86,MissedShots,0.7669999694824219,0.580999984741211,0.0446120984852314,Raúl Jiménez,h,4105,OpenPlay,2021,RightFoot,16445,Wolverhampton Wanderers,Newcastle United,2,1,2021-10-02 14:00:00,Leander Dendoncker,HeadPass,4105
+437808,9,BlockedShot,0.8690000152587891,0.4490000152587891,0.1017569974064827,Raúl Jiménez,a,4105,OpenPlay,2021,LeftFoot,16462,Leeds,Wolverhampton Wanderers,1,1,2021-10-23 14:00:00,Nélson Semedo,Pass,4105
+437820,54,SavedShot,0.8180000305175781,0.7240000152587891,0.023869400843977928,Raúl Jiménez,a,4105,OpenPlay,2021,RightFoot,16462,Leeds,Wolverhampton Wanderers,1,1,2021-10-23 14:00:00,,TakeOn,4105
+440651,26,BlockedShot,0.9119999694824219,0.6769999694824219,0.046561699360609055,Raúl Jiménez,h,4105,OpenPlay,2021,LeftFoot,16475,Wolverhampton Wanderers,Everton,2,1,2021-11-01 20:00:00,Trincão,HeadPass,4105
+440653,31,Goal,0.8630000305175781,0.44099998474121094,0.37892699241638184,Raúl Jiménez,h,4105,OpenPlay,2021,RightFoot,16475,Wolverhampton Wanderers,Everton,2,1,2021-11-01 20:00:00,,BallRecovery,4105
+440660,59,ShotOnPost,0.8980000305175782,0.4640000152587891,0.349698007106781,Raúl Jiménez,h,4105,OpenPlay,2021,Head,16475,Wolverhampton Wanderers,Everton,2,1,2021-11-01 20:00:00,Nélson Semedo,Chipped,4105
+441112,38,SavedShot,0.9169999694824219,0.47900001525878905,0.08264700323343277,Raúl Jiménez,a,4105,SetPiece,2021,Head,16480,Crystal Palace,Wolverhampton Wanderers,2,0,2021-11-06 15:00:00,João Moutinho,Chipped,4105
+442621,32,MissedShots,0.9019999694824219,0.40700000762939453,0.32146701216697693,Raúl Jiménez,h,4105,OpenPlay,2021,RightFoot,16495,Wolverhampton Wanderers,West Ham,1,0,2021-11-20 15:00:00,Rúben Neves,Throughball,4105
+442631,57,Goal,0.8169999694824219,0.4929999923706055,0.061167798936367035,Raúl Jiménez,h,4105,OpenPlay,2021,RightFoot,16495,Wolverhampton Wanderers,West Ham,1,0,2021-11-20 15:00:00,Daniel Podence,Pass,4105
+444076,9,MissedShots,0.9080000305175782,0.5659999847412109,0.10019099712371826,Raúl Jiménez,a,4105,OpenPlay,2021,LeftFoot,16505,Norwich,Wolverhampton Wanderers,0,0,2021-11-27 15:00:00,Rayan Ait Nouri,Cross,4105
+444090,85,MissedShots,0.870999984741211,0.5329999923706055,0.08134649693965912,Raúl Jiménez,a,4105,OpenPlay,2021,RightFoot,16505,Norwich,Wolverhampton Wanderers,0,0,2021-11-27 15:00:00,João Moutinho,None,4105
+445383,15,MissedShots,0.705,0.6359999847412109,0.015162499621510506,Raúl Jiménez,h,4105,OpenPlay,2021,RightFoot,16511,Wolverhampton Wanderers,Burnley,0,0,2021-12-01 19:30:00,Hee-Chan Hwang,Pass,4105
+445393,66,BlockedShot,0.7669999694824219,0.4809999847412109,0.028735699132084846,Raúl Jiménez,h,4105,OpenPlay,2021,RightFoot,16511,Wolverhampton Wanderers,Burnley,0,0,2021-12-01 19:30:00,João Moutinho,Pass,4105
+445395,68,MissedShots,0.9009999847412109,0.5670000076293945,0.04368419945240021,Raúl Jiménez,h,4105,OpenPlay,2021,Head,16511,Wolverhampton Wanderers,Burnley,0,0,2021-12-01 19:30:00,,Aerial,4105
+447435,23,MissedShots,0.8619999694824219,0.5320000076293945,0.010703899897634983,Raúl Jiménez,a,4105,SetPiece,2021,Head,16534,Manchester City,Wolverhampton Wanderers,1,0,2021-12-11 12:30:00,Rayan Ait Nouri,Aerial,4105
+451336,26,MissedShots,0.775,0.4909999847412109,0.0330565981566906,Raúl Jiménez,a,4105,OpenPlay,2021,LeftFoot,16583,Manchester United,Wolverhampton Wanderers,0,1,2022-01-03 17:30:00,Nélson Semedo,BallRecovery,4105
+451339,40,BlockedShot,0.9730000305175781,0.649000015258789,0.0841962993144989,Raúl Jiménez,a,4105,OpenPlay,2021,LeftFoot,16583,Manchester United,Wolverhampton Wanderers,0,1,2022-01-03 17:30:00,Daniel Podence,Pass,4105
+453274,32,BlockedShot,0.8859999847412109,0.48,0.12465599924325943,Raúl Jiménez,h,4105,OpenPlay,2021,LeftFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,Daniel Podence,Pass,4105
+453275,36,Goal,0.885,0.5,0.7611690163612366,Raúl Jiménez,h,4105,Penalty,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,,Standard,4105
+456691,21,SavedShot,0.5559999847412109,0.9,0.01792920008301735,Raúl Jiménez,h,4105,DirectFreekick,2021,RightFoot,16611,Wolverhampton Wanderers,Arsenal,0,1,2022-02-10 19:45:00,,Standard,4105
+456694,36,SavedShot,0.9019999694824219,0.4779999923706055,0.03852260112762451,Raúl Jiménez,h,4105,OpenPlay,2021,Head,16611,Wolverhampton Wanderers,Arsenal,0,1,2022-02-10 19:45:00,Nélson Semedo,Aerial,4105
+456713,92,MissedShots,0.870999984741211,0.56,0.06968700140714645,Raúl Jiménez,h,4105,OpenPlay,2021,RightFoot,16611,Wolverhampton Wanderers,Arsenal,0,1,2022-02-10 19:45:00,Chiquinho,Cross,4105
+457508,5,Goal,0.874000015258789,0.5459999847412109,0.08988229930400848,Raúl Jiménez,a,4105,SetPiece,2021,RightFoot,16624,Tottenham,Wolverhampton Wanderers,0,2,2022-02-13 14:00:00,,Rebound,4105
+457513,21,SavedShot,0.8130000305175781,0.4929999923706055,0.03750859946012497,Raúl Jiménez,a,4105,FromCorner,2021,RightFoot,16624,Tottenham,Wolverhampton Wanderers,0,2,2022-02-13 14:00:00,,None,4105
+457522,52,SavedShot,0.965,0.41200000762939454,0.47805100679397583,Raúl Jiménez,a,4105,OpenPlay,2021,RightFoot,16624,Tottenham,Wolverhampton Wanderers,0,2,2022-02-13 14:00:00,Luke Cundle,Pass,4105
+458856,36,MissedShots,0.8830000305175781,0.41,0.05846619978547096,Raúl Jiménez,h,4105,FromCorner,2021,LeftFoot,16635,Wolverhampton Wanderers,Leicester,2,1,2022-02-20 16:30:00,Romain Saiss,BallTouch,4105
+459238,12,MissedShots,0.8390000152587891,0.4540000152587891,0.2981800138950348,Raúl Jiménez,a,4105,OpenPlay,2021,RightFoot,16566,Arsenal,Wolverhampton Wanderers,2,1,2022-02-24 19:45:00,Daniel Podence,Pass,4105
+459248,45,MissedShots,0.8959999847412109,0.47299999237060547,0.09253200143575668,Raúl Jiménez,a,4105,OpenPlay,2021,Head,16566,Arsenal,Wolverhampton Wanderers,2,1,2022-02-24 19:45:00,Daniel Podence,Cross,4105
+460247,84,BlockedShot,0.740999984741211,0.605,0.018666399642825127,Raúl Jiménez,a,4105,OpenPlay,2021,RightFoot,16645,West Ham,Wolverhampton Wanderers,1,0,2022-02-27 14:00:00,Pedro Neto,Pass,4105
+462140,12,Goal,0.9309999847412109,0.585,0.4380910098552704,Raúl Jiménez,h,4105,OpenPlay,2021,LeftFoot,16565,Wolverhampton Wanderers,Watford,4,0,2022-03-10 19:30:00,Hee-Chan Hwang,Pass,4105
+462978,40,MissedShots,0.894000015258789,0.539000015258789,0.1032089963555336,Raúl Jiménez,a,4105,OpenPlay,2021,RightFoot,16661,Everton,Wolverhampton Wanderers,0,1,2022-03-13 14:00:00,Daniel Podence,Chipped,4105
+462980,52,MissedShots,0.8980000305175782,0.47099998474121096,0.07812940329313278,Raúl Jiménez,a,4105,SetPiece,2021,RightFoot,16661,Everton,Wolverhampton Wanderers,0,1,2022-03-13 14:00:00,João Moutinho,Cross,4105
+462983,60,BlockedShot,0.8480000305175781,0.285,0.044787198305130005,Raúl Jiménez,a,4105,OpenPlay,2021,RightFoot,16661,Everton,Wolverhampton Wanderers,0,1,2022-03-13 14:00:00,Jonny,Pass,4105
+462984,62,BlockedShot,0.7280000305175781,0.5170000076293946,0.02352689951658249,Raúl Jiménez,a,4105,OpenPlay,2021,RightFoot,16661,Everton,Wolverhampton Wanderers,0,1,2022-03-13 14:00:00,Fernando Marçal,Pass,4105
+463733,13,MissedShots,0.89,0.5659999847412109,0.07608699798583984,Raúl Jiménez,h,4105,OpenPlay,2021,RightFoot,16675,Wolverhampton Wanderers,Leeds,2,3,2022-03-18 20:00:00,Jonny,Cross,4105
+463738,47,MissedShots,0.86,0.6359999847412109,0.3369530141353607,Raúl Jiménez,h,4105,OpenPlay,2021,RightFoot,16675,Wolverhampton Wanderers,Leeds,2,3,2022-03-18 20:00:00,Daniel Podence,None,4105
+470491,7,SavedShot,0.879000015258789,0.5120000076293946,0.09996859729290009,Raúl Jiménez,a,4105,OpenPlay,2021,LeftFoot,16712,Burnley,Wolverhampton Wanderers,1,0,2022-04-24 13:00:00,Jonny,BallRecovery,4105
+474773,28,MissedShots,0.89,0.5270000076293946,0.1108430027961731,Raúl Jiménez,a,4105,SetPiece,2021,LeftFoot,16731,Chelsea,Wolverhampton Wanderers,2,2,2022-05-07 14:00:00,Rúben Neves,Rebound,4105
+474796,85,MissedShots,0.8119999694824219,0.49599998474121093,0.04550059884786606,Raúl Jiménez,a,4105,OpenPlay,2021,RightFoot,16731,Chelsea,Wolverhampton Wanderers,2,2,2022-05-07 14:00:00,,None,4105
+475288,68,SavedShot,0.7040000152587891,0.5840000152587891,0.010907799936830997,Raúl Jiménez,h,4105,OpenPlay,2021,RightFoot,16696,Wolverhampton Wanderers,Manchester City,1,5,2022-05-11 19:15:00,,TakeOn,4105
+476285,35,MissedShots,0.7280000305175781,0.53,0.01641250029206276,Raúl Jiménez,h,4105,OpenPlay,2021,RightFoot,16736,Wolverhampton Wanderers,Norwich,1,1,2022-05-15 13:00:00,Conor Coady,BallRecovery,4105
+484216,31,SavedShot,0.8519999694824218,0.41900001525878905,0.04161309823393822,Raúl Jiménez,h,4105,OpenPlay,2022,LeftFoot,18240,Wolverhampton Wanderers,Newcastle United,1,1,2022-08-28 13:00:00,Nélson Semedo,Cross,4105
+484217,32,BlockedShot,0.905,0.5729999923706055,0.1277499943971634,Raúl Jiménez,h,4105,OpenPlay,2022,RightFoot,18240,Wolverhampton Wanderers,Newcastle United,1,1,2022-08-28 13:00:00,Pedro Neto,Pass,4105
+485173,17,SavedShot,0.8780000305175781,0.590999984741211,0.018528899177908897,Raúl Jiménez,a,4105,OpenPlay,2022,Head,18248,Bournemouth,Wolverhampton Wanderers,0,0,2022-08-31 18:30:00,Nélson Semedo,Cross,4105
+485175,34,MissedShots,0.9519999694824218,0.4540000152587891,0.07193169742822647,Raúl Jiménez,a,4105,FromCorner,2022,Head,18248,Bournemouth,Wolverhampton Wanderers,0,0,2022-08-31 18:30:00,Pedro Neto,Aerial,4105
+485186,77,MissedShots,0.8669999694824219,0.495,0.43391600251197815,Raúl Jiménez,a,4105,OpenPlay,2022,RightFoot,18248,Bournemouth,Wolverhampton Wanderers,0,0,2022-08-31 18:30:00,Daniel Podence,Pass,4105
+485189,86,MissedShots,0.9319999694824219,0.5479999923706055,0.0661574974656105,Raúl Jiménez,a,4105,OpenPlay,2022,Head,18248,Bournemouth,Wolverhampton Wanderers,0,0,2022-08-31 18:30:00,Daniel Podence,Aerial,4105
+485192,94,SavedShot,0.8619999694824219,0.33799999237060546,0.06148749962449074,Raúl Jiménez,a,4105,OpenPlay,2022,LeftFoot,18248,Bournemouth,Wolverhampton Wanderers,0,0,2022-08-31 18:30:00,João Moutinho,Pass,4105
+501653,91,BlockedShot,0.9069999694824219,0.514000015258789,0.03884259983897209,Raúl Jiménez,h,4105,OpenPlay,2022,Head,18381,Wolverhampton Wanderers,Manchester United,0,1,2022-12-31 12:30:00,Jonny,Aerial,4105
+501654,93,SavedShot,0.9390000152587891,0.54,0.12102799862623215,Raúl Jiménez,h,4105,FromCorner,2022,Head,18381,Wolverhampton Wanderers,Manchester United,0,1,2022-12-31 12:30:00,Rayan Ait Nouri,Cross,4105
+507116,62,MissedShots,0.74,0.2510000038146973,0.01964299939572811,Raúl Jiménez,h,4105,OpenPlay,2022,RightFoot,18421,Wolverhampton Wanderers,Liverpool,3,0,2023-02-04 15:00:00,Matheus Nunes,Pass,4105
+507122,77,MissedShots,0.695,0.46299999237060546,0.022356700152158737,Raúl Jiménez,h,4105,OpenPlay,2022,RightFoot,18421,Wolverhampton Wanderers,Liverpool,3,0,2023-02-04 15:00:00,Max Kilman,Pass,4105
+507124,87,SavedShot,0.875999984741211,0.6229999923706054,0.5262140035629272,Raúl Jiménez,h,4105,OpenPlay,2022,RightFoot,18421,Wolverhampton Wanderers,Liverpool,3,0,2023-02-04 15:00:00,Adama Traoré,Throughball,4105
+510648,51,MissedShots,0.9030000305175782,0.5420000076293945,0.23621399700641632,Raúl Jiménez,a,4105,OpenPlay,2022,Head,18445,Fulham,Wolverhampton Wanderers,1,1,2023-02-24 20:00:00,Pablo Sarabia,Cross,4105
+511726,3,MissedShots,0.9180000305175782,0.5840000152587891,0.07885140180587769,Raúl Jiménez,a,4105,FromCorner,2022,RightFoot,18264,Liverpool,Wolverhampton Wanderers,2,0,2023-03-01 20:00:00,Matheus Nunes,BallTouch,4105
+511729,12,BlockedShot,0.855999984741211,0.6580000305175782,0.0522645004093647,Raúl Jiménez,a,4105,OpenPlay,2022,LeftFoot,18264,Liverpool,Wolverhampton Wanderers,2,0,2023-03-01 20:00:00,Rúben Neves,Pass,4105
+512137,54,SavedShot,0.919000015258789,0.485,0.12441399693489075,Raúl Jiménez,h,4105,OpenPlay,2022,Head,18461,Wolverhampton Wanderers,Tottenham,1,0,2023-03-04 15:00:00,Adama Traoré,Cross,4105
+512148,81,SavedShot,0.805,0.35400001525878905,0.029713500291109085,Raúl Jiménez,h,4105,OpenPlay,2022,RightFoot,18461,Wolverhampton Wanderers,Tottenham,1,0,2023-03-04 15:00:00,João Moutinho,TakeOn,4105
+514218,29,SavedShot,0.7519999694824219,0.5129999923706055,0.02033269964158535,Raúl Jiménez,a,4105,OpenPlay,2022,RightFoot,18469,Newcastle United,Wolverhampton Wanderers,2,1,2023-03-12 16:30:00,Daniel Podence,Pass,4105
+515054,69,SavedShot,0.95,0.46700000762939453,0.6098160147666931,Raúl Jiménez,h,4105,OpenPlay,2022,RightFoot,18481,Wolverhampton Wanderers,Leeds,2,4,2023-03-18 15:00:00,Adama Traoré,Pass,4105
+515060,93,SavedShot,0.9569999694824218,0.674000015258789,0.010261200368404388,Raúl Jiménez,h,4105,OpenPlay,2022,Head,18481,Wolverhampton Wanderers,Leeds,2,4,2023-03-18 15:00:00,Adama Traoré,Aerial,4105
+532092,56,ShotOnPost,0.8880000305175781,0.4540000152587891,0.08995097130537033,Raúl Jiménez,a,4105,OpenPlay,2023,RightFoot,22279,Everton,Fulham,0,1,2023-08-12 14:00:00,Harry Wilson,Cross,4105
+533183,49,BlockedShot,0.789000015258789,0.5609999847412109,0.03205651044845581,Raúl Jiménez,h,4105,OpenPlay,2023,RightFoot,22287,Fulham,Brentford,0,3,2023-08-19 14:00:00,Harrison Reed,BallTouch,4105
+533189,68,BlockedShot,0.8569999694824219,0.6480000305175782,0.04780588299036026,Raúl Jiménez,h,4105,FromCorner,2023,RightFoot,22287,Fulham,Brentford,0,3,2023-08-19 14:00:00,Harry Wilson,Pass,4105
+534704,21,MissedShots,0.8690000152587891,0.5529999923706055,0.09922729432582855,Raúl Jiménez,a,4105,OpenPlay,2023,RightFoot,22297,Arsenal,Fulham,2,2,2023-08-26 14:00:00,,None,4105
+534705,22,BlockedShot,0.9019999694824219,0.6419999694824219,0.12214888632297516,Raúl Jiménez,a,4105,OpenPlay,2023,LeftFoot,22297,Arsenal,Fulham,2,2,2023-08-26 14:00:00,Bobby Reid,Pass,4105
+536290,31,BlockedShot,0.9069999694824219,0.3920000076293945,0.0485595241189003,Raúl Jiménez,a,4105,FromCorner,2023,RightFoot,21927,Manchester City,Fulham,5,1,2023-09-02 14:00:00,Andreas Pereira,Cross,4105
+536299,73,SavedShot,0.924000015258789,0.3970000076293945,0.08566980808973312,Raúl Jiménez,a,4105,OpenPlay,2023,RightFoot,21927,Manchester City,Fulham,5,1,2023-09-02 14:00:00,,BallTouch,4105
+537667,17,MissedShots,0.8490000152587891,0.505,0.09279400110244751,Raúl Jiménez,h,4105,OpenPlay,2023,RightFoot,21939,Fulham,Luton,1,0,2023-09-16 14:00:00,Willian,Pass,4105
+539080,34,SavedShot,0.8930000305175781,0.35700000762939454,0.06892883777618408,Raúl Jiménez,a,4105,OpenPlay,2023,RightFoot,21948,Crystal Palace,Fulham,0,0,2023-09-23 14:00:00,Andreas Pereira,Chipped,4105
+539084,58,MissedShots,0.8959999847412109,0.47,0.042600713670253754,Raúl Jiménez,a,4105,OpenPlay,2023,Head,21948,Crystal Palace,Fulham,0,0,2023-09-23 14:00:00,Antonee Robinson,Aerial,4105
+542137,40,MissedShots,0.9019999694824219,0.455,0.019255857914686203,Raúl Jiménez,h,4105,FromCorner,2023,Head,21964,Fulham,Chelsea,0,2,2023-10-02 19:00:00,Andreas Pereira,Aerial,4105
+545051,83,SavedShot,0.895,0.41400001525878904,0.31251615285873413,Raúl Jiménez,a,4105,OpenPlay,2023,RightFoot,21984,Tottenham,Fulham,2,0,2023-10-23 19:00:00,Harry Wilson,Throughball,4105
+548884,45,SavedShot,0.7909999847412109,0.665,0.02641521394252777,Raúl Jiménez,a,4105,OpenPlay,2023,RightFoot,22007,Aston Villa,Fulham,3,1,2023-11-12 14:00:00,Andreas Pereira,Pass,4105
+548888,47,SavedShot,0.8419999694824218,0.35900001525878905,0.04539386183023453,Raúl Jiménez,a,4105,OpenPlay,2023,RightFoot,22007,Aston Villa,Fulham,3,1,2023-11-12 14:00:00,,BallTouch,4105
+548895,69,Goal,0.92,0.46900001525878904,0.42698991298675537,Raúl Jiménez,a,4105,OpenPlay,2023,RightFoot,22007,Aston Villa,Fulham,3,1,2023-11-12 14:00:00,Antonee Robinson,Pass,4105
+550734,0,MissedShots,0.9259999847412109,0.45,0.11342499405145645,Raúl Jiménez,h,4105,OpenPlay,2023,RightFoot,22018,Fulham,Wolverhampton Wanderers,3,2,2023-11-27 20:00:00,Andreas Pereira,Cross,4105
+551732,47,BlockedShot,0.92,0.5940000152587891,0.04238411784172058,Raúl Jiménez,a,4105,FromCorner,2023,Head,22030,Liverpool,Fulham,4,3,2023-12-03 14:00:00,Andreas Pereira,Cross,4105
+552216,8,BlockedShot,0.889000015258789,0.3129999923706055,0.06330019980669022,Raúl Jiménez,h,4105,OpenPlay,2023,RightFoot,22038,Fulham,Nottingham Forest,5,0,2023-12-06 19:30:00,Andreas Pereira,Pass,4105
+552219,20,SavedShot,0.9269999694824219,0.7090000152587891,0.05504200980067253,Raúl Jiménez,h,4105,OpenPlay,2023,RightFoot,22038,Fulham,Nottingham Forest,5,0,2023-12-06 19:30:00,Tom Cairney,Pass,4105
+552223,33,Goal,0.9069999694824219,0.44099998474121094,0.4515107274055481,Raúl Jiménez,h,4105,OpenPlay,2023,RightFoot,22038,Fulham,Nottingham Forest,5,0,2023-12-06 19:30:00,Andreas Pereira,Throughball,4105
+552224,39,BlockedShot,0.9230000305175782,0.4420000076293945,0.08597944676876068,Raúl Jiménez,h,4105,FromCorner,2023,LeftFoot,22038,Fulham,Nottingham Forest,5,0,2023-12-06 19:30:00,Andreas Pereira,Cross,4105
+552227,53,Goal,0.93,0.46599998474121096,0.9161244034767151,Raúl Jiménez,h,4105,OpenPlay,2023,RightFoot,22038,Fulham,Nottingham Forest,5,0,2023-12-06 19:30:00,,TakeOn,4105
+552226,53,MissedShots,0.8690000152587891,0.69,0.06680530309677124,Raúl Jiménez,h,4105,OpenPlay,2023,RightFoot,22038,Fulham,Nottingham Forest,5,0,2023-12-06 19:30:00,Willian,Pass,4105
+553421,21,Goal,0.9319999694824219,0.44299999237060544,0.1268635392189026,Raúl Jiménez,h,4105,OpenPlay,2023,Head,22049,Fulham,West Ham,5,0,2023-12-10 14:00:00,João Palhinha,Cross,4105
+554303,5,SavedShot,0.79,0.39,0.036673884838819504,Raúl Jiménez,a,4105,OpenPlay,2023,RightFoot,22062,Newcastle United,Fulham,3,0,2023-12-16 15:00:00,Timothy Castagne,HeadPass,4105
+557150,13,SavedShot,0.8369999694824218,0.5179999923706055,0.07289072871208191,Raúl Jiménez,h,4105,OpenPlay,2023,RightFoot,22087,Fulham,Arsenal,2,1,2023-12-31 14:00:00,Antonee Robinson,Pass,4105
+557154,21,MissedShots,0.9019999694824219,0.4129999923706055,0.05379589647054672,Raúl Jiménez,h,4105,FromCorner,2023,RightFoot,22087,Fulham,Arsenal,2,1,2023-12-31 14:00:00,Willian,Cross,4105
+557155,28,Goal,0.9330000305175781,0.42700000762939455,0.3578510284423828,Raúl Jiménez,h,4105,OpenPlay,2023,RightFoot,22087,Fulham,Arsenal,2,1,2023-12-31 14:00:00,Tom Cairney,Cross,4105
+557168,70,BlockedShot,0.7880000305175782,0.5509999847412109,0.06350866705179214,Raúl Jiménez,h,4105,OpenPlay,2023,RightFoot,22087,Fulham,Arsenal,2,1,2023-12-31 14:00:00,Alex Iwobi,TakeOn,4105
+557171,83,BlockedShot,0.950999984741211,0.6809999847412109,0.07106159627437592,Raúl Jiménez,h,4105,OpenPlay,2023,RightFoot,22087,Fulham,Arsenal,2,1,2023-12-31 14:00:00,Antonee Robinson,BallRecovery,4105
+557904,54,MissedShots,0.899000015258789,0.4909999847412109,0.07010222971439362,Raúl Jiménez,a,4105,OpenPlay,2023,Head,22097,Chelsea,Fulham,1,0,2024-01-13 12:30:00,Antonee Robinson,Cross,4105
+557907,72,SavedShot,0.8680000305175781,0.435,0.08803412318229675,Raúl Jiménez,a,4105,OpenPlay,2023,LeftFoot,22097,Chelsea,Fulham,1,0,2024-01-13 12:30:00,Andreas Pereira,Pass,4105
+557908,73,SavedShot,0.905,0.720999984741211,0.03310919925570488,Raúl Jiménez,a,4105,OpenPlay,2023,RightFoot,22097,Chelsea,Fulham,1,0,2024-01-13 12:30:00,Willian,Chipped,4105
+557911,81,MissedShots,0.465,0.5579999923706055,0.00956763606518507,Raúl Jiménez,a,4105,OpenPlay,2023,RightFoot,22097,Chelsea,Fulham,1,0,2024-01-13 12:30:00,João Palhinha,BallRecovery,4105
+560542,0,MissedShots,0.7930000305175782,0.3970000076293945,0.03604741394519806,Raúl Jiménez,h,4105,OpenPlay,2023,RightFoot,22106,Fulham,Everton,0,0,2024-01-30 19:45:00,Willian,BallTouch,4105
+560561,40,MissedShots,0.960999984741211,0.5540000152587891,0.6087160110473633,Raúl Jiménez,h,4105,OpenPlay,2023,RightFoot,22106,Fulham,Everton,0,0,2024-01-30 19:45:00,,Rebound,4105
+572434,95,BlockedShot,0.9130000305175782,0.6519999694824219,0.02518690936267376,Raúl Jiménez,h,4105,FromCorner,2023,RightFoot,22209,Fulham,Newcastle United,0,1,2024-04-06 14:00:00,,Aerial,4105
+578417,72,MissedShots,0.8969999694824219,0.5840000152587891,0.5409829616546631,Raúl Jiménez,a,4105,OpenPlay,2023,LeftFoot,22246,Brentford,Fulham,0,0,2024-05-04 14:00:00,,None,4105
+581986,32,MissedShots,0.9690000152587891,0.40400001525878904,0.2526808977127075,Raúl Jiménez,a,4105,OpenPlay,2023,Head,22272,Luton,Fulham,2,4,2024-05-19 15:00:00,Adama Traoré,Cross,4105
+581993,47,Goal,0.8530000305175781,0.40099998474121096,0.0760214701294899,Raúl Jiménez,a,4105,OpenPlay,2023,RightFoot,22272,Luton,Fulham,2,4,2024-05-19 15:00:00,Harry Wilson,Pass,4105
+581994,48,Goal,0.8819999694824219,0.4129999923706055,0.1120944693684578,Raúl Jiménez,a,4105,SetPiece,2023,Head,22272,Luton,Fulham,2,4,2024-05-19 15:00:00,Harrison Reed,Cross,4105
+589230,85,SavedShot,0.909000015258789,0.7130000305175781,0.062255099415779114,Raúl Jiménez,a,4105,OpenPlay,2024,LeftFoot,26625,Ipswich,Fulham,1,1,2024-08-31 14:00:00,Sander Berge,Pass,4105
+590824,6,SavedShot,0.970999984741211,0.6509999847412109,0.08158840239048004,Raúl Jiménez,h,4105,OpenPlay,2024,RightFoot,26634,Fulham,West Ham,1,1,2024-09-14 14:00:00,Antonee Robinson,Pass,4105
+590832,23,Goal,0.9540000152587891,0.5540000152587891,0.5958940982818604,Raúl Jiménez,h,4105,OpenPlay,2024,LeftFoot,26634,Fulham,West Ham,1,1,2024-09-14 14:00:00,Emile Smith-Rowe,Pass,4105
+592434,4,Goal,0.8780000305175781,0.5,0.07961276173591614,Raúl Jiménez,h,4105,OpenPlay,2024,RightFoot,26646,Fulham,Newcastle United,3,1,2024-09-21 14:00:00,Adama Traoré,Cross,4105
+592436,13,SavedShot,0.9109999847412109,0.35,0.2890464961528778,Raúl Jiménez,h,4105,OpenPlay,2024,RightFoot,26646,Fulham,Newcastle United,3,1,2024-09-21 14:00:00,Alex Iwobi,Throughball,4105
+592442,27,MissedShots,0.9030000305175782,0.5279999923706055,0.4102216958999634,Raúl Jiménez,h,4105,OpenPlay,2024,RightFoot,26646,Fulham,Newcastle United,3,1,2024-09-21 14:00:00,Sasa Lukic,Cross,4105
+592454,52,SavedShot,0.855,0.555,0.04230372980237007,Raúl Jiménez,h,4105,FromCorner,2024,RightFoot,26646,Fulham,Newcastle United,3,1,2024-09-21 14:00:00,Andreas Pereira,Cross,4105
+594054,26,SavedShot,0.9109999847412109,0.685,0.1156199723482132,Raúl Jiménez,a,4105,OpenPlay,2024,LeftFoot,26653,Nottingham Forest,Fulham,0,1,2024-09-28 14:00:00,Alex Iwobi,Throughball,4105
+594061,50,Goal,0.885,0.5,0.7611688375473022,Raúl Jiménez,a,4105,Penalty,2024,RightFoot,26653,Nottingham Forest,Fulham,0,1,2024-09-28 14:00:00,,Standard,4105
+594069,72,MissedShots,0.8869999694824219,0.34599998474121096,0.08993783593177795,Raúl Jiménez,a,4105,OpenPlay,2024,RightFoot,26653,Nottingham Forest,Fulham,0,1,2024-09-28 14:00:00,Alex Iwobi,Pass,4105
+595458,12,MissedShots,0.8980000305175782,0.49700000762939456,0.02047610655426979,Raúl Jiménez,a,4105,FromCorner,2024,Head,26664,Manchester City,Fulham,3,2,2024-10-05 14:00:00,Andreas Pereira,Aerial,4105
+595473,36,BlockedShot,0.879000015258789,0.4909999847412109,0.11126439273357391,Raúl Jiménez,a,4105,OpenPlay,2024,RightFoot,26664,Manchester City,Fulham,3,2,2024-10-05 14:00:00,Andreas Pereira,Pass,4105
+595472,36,MissedShots,0.8380000305175781,0.44,0.07389960438013077,Raúl Jiménez,a,4105,OpenPlay,2024,RightFoot,26664,Manchester City,Fulham,3,2,2024-10-05 14:00:00,Alex Iwobi,Pass,4105
+595476,53,BlockedShot,0.8230000305175781,0.49400001525878906,0.0981578528881073,Raúl Jiménez,a,4105,OpenPlay,2024,RightFoot,26664,Manchester City,Fulham,3,2,2024-10-05 14:00:00,Adama Traoré,Pass,4105
+595480,75,BlockedShot,0.8980000305175782,0.4929999923706055,0.11363224685192108,Raúl Jiménez,a,4105,OpenPlay,2024,RightFoot,26664,Manchester City,Fulham,3,2,2024-10-05 14:00:00,Antonee Robinson,Pass,4105
+597046,4,Goal,0.8419999694824218,0.44299999237060544,0.04459531605243683,Raúl Jiménez,h,4105,OpenPlay,2024,LeftFoot,26673,Fulham,Aston Villa,1,3,2024-10-19 14:00:00,Bernd Leno,Pass,4105
+597048,10,MissedShots,0.965,0.5120000076293946,0.532126784324646,Raúl Jiménez,h,4105,FromCorner,2024,Head,26673,Fulham,Aston Villa,1,3,2024-10-19 14:00:00,Andreas Pereira,Cross,4105
+597054,48,MissedShots,0.9630000305175781,0.549000015258789,0.5176738500595093,Raúl Jiménez,h,4105,OpenPlay,2024,Head,26673,Fulham,Aston Villa,1,3,2024-10-19 14:00:00,Adama Traoré,HeadPass,4105
+597068,98,SavedShot,0.9540000152587891,0.4520000076293945,0.5963118076324463,Raúl Jiménez,h,4105,OpenPlay,2024,Head,26673,Fulham,Aston Villa,1,3,2024-10-19 14:00:00,Tom Cairney,Aerial,4105
+598606,6,SavedShot,0.8819999694824219,0.5209999847412109,0.09161393344402313,Raúl Jiménez,a,4105,OpenPlay,2024,RightFoot,26687,Everton,Fulham,1,1,2024-10-26 16:30:00,Kenny Tete,Cross,4105
+598605,6,BlockedShot,0.7340000152587891,0.5659999847412109,0.017027821391820908,Raúl Jiménez,a,4105,OpenPlay,2024,RightFoot,26687,Everton,Fulham,1,1,2024-10-26 16:30:00,Andreas Pereira,BallTouch,4105
+598613,36,BlockedShot,0.9230000305175782,0.34099998474121096,0.10835476964712143,Raúl Jiménez,a,4105,OpenPlay,2024,RightFoot,26687,Everton,Fulham,1,1,2024-10-26 16:30:00,Adama Traoré,Pass,4105
+598622,77,MissedShots,0.805,0.4829999923706055,0.04790228605270386,Raúl Jiménez,a,4105,OpenPlay,2024,RightFoot,26687,Everton,Fulham,1,1,2024-10-26 16:30:00,,Rebound,4105
+601006,1,SavedShot,0.8080000305175781,0.48900001525878906,0.0548623725771904,Raúl Jiménez,h,4105,OpenPlay,2024,RightFoot,26693,Fulham,Brentford,2,1,2024-11-04 20:00:00,Emile Smith-Rowe,Pass,4105
+601013,27,BlockedShot,0.9080000305175782,0.37,0.04453927278518677,Raúl Jiménez,h,4105,FromCorner,2024,RightFoot,26693,Fulham,Brentford,2,1,2024-11-04 20:00:00,Andreas Pereira,Cross,4105
+601431,5,MissedShots,0.8290000152587891,0.37599998474121094,0.08183978497982025,Raúl Jiménez,a,4105,OpenPlay,2024,RightFoot,26706,Crystal Palace,Fulham,0,2,2024-11-09 15:00:00,Alex Iwobi,Pass,4105
+601451,58,MissedShots,0.9230000305175782,0.415,0.24932339787483215,Raúl Jiménez,a,4105,FromCorner,2024,RightFoot,26706,Crystal Palace,Fulham,0,2,2024-11-09 15:00:00,Andreas Pereira,Cross,4105
+602864,3,MissedShots,0.9269999694824219,0.4929999923706055,0.05561168119311333,Raúl Jiménez,h,4105,FromCorner,2024,Head,26717,Fulham,Wolverhampton Wanderers,1,4,2024-11-23 15:00:00,Andreas Pereira,Aerial,4105
+602867,16,ShotOnPost,0.9490000152587891,0.43099998474121093,0.39185410737991333,Raúl Jiménez,h,4105,OpenPlay,2024,RightFoot,26717,Fulham,Wolverhampton Wanderers,1,4,2024-11-23 15:00:00,Antonee Robinson,Cross,4105
+604627,11,MissedShots,0.905,0.42400001525878905,0.016070706769824028,Raúl Jiménez,a,4105,FromCorner,2024,Head,26729,Tottenham,Fulham,1,1,2024-12-01 13:30:00,Sasa Lukic,Aerial,4105
+604632,35,SavedShot,0.9009999847412109,0.519000015258789,0.32512158155441284,Raúl Jiménez,a,4105,OpenPlay,2024,RightFoot,26729,Tottenham,Fulham,1,1,2024-12-01 13:30:00,Kenny Tete,Cross,4105
+604637,43,BlockedShot,0.8569999694824219,0.45099998474121095,0.06986229866743088,Raúl Jiménez,a,4105,OpenPlay,2024,RightFoot,26729,Tottenham,Fulham,1,1,2024-12-01 13:30:00,,Rebound,4105
+604642,52,SavedShot,0.9069999694824219,0.5,0.09461554139852524,Raúl Jiménez,a,4105,OpenPlay,2024,Head,26729,Tottenham,Fulham,1,1,2024-12-01 13:30:00,Emile Smith-Rowe,Cross,4105
+606253,10,Goal,0.8590000152587891,0.33799999237060546,0.0449378602206707,Raúl Jiménez,h,4105,OpenPlay,2024,RightFoot,26749,Fulham,Arsenal,1,1,2024-12-08 14:00:00,Kenny Tete,Pass,4105
+608644,72,BlockedShot,0.8869999694824219,0.385,0.06525883823633194,Raúl Jiménez,h,4105,OpenPlay,2024,RightFoot,26763,Fulham,Southampton,0,0,2024-12-22 14:00:00,Antonee Robinson,Cross,4105
+609084,14,SavedShot,0.8469999694824218,0.6819999694824219,0.06215991452336311,Raúl Jiménez,a,4105,OpenPlay,2024,RightFoot,26775,Chelsea,Fulham,1,2,2024-12-26 15:00:00,,TakeOn,4105
+609087,19,MissedShots,0.9119999694824219,0.27899999618530275,0.04749548062682152,Raúl Jiménez,a,4105,OpenPlay,2024,RightFoot,26775,Chelsea,Fulham,1,2,2024-12-26 15:00:00,Alex Iwobi,Pass,4105
+609093,39,MissedShots,0.889000015258789,0.37799999237060544,0.013849749229848385,Raúl Jiménez,a,4105,FromCorner,2024,Head,26775,Chelsea,Fulham,1,2,2024-12-26 15:00:00,Andreas Pereira,Cross,4105
+609099,67,MissedShots,0.855999984741211,0.500999984741211,0.06368964165449142,Raúl Jiménez,a,4105,OpenPlay,2024,RightFoot,26775,Chelsea,Fulham,1,2,2024-12-26 15:00:00,Harry Wilson,BallTouch,4105
+609514,39,Goal,0.9059999847412109,0.4229999923706055,0.23345795273780823,Raúl Jiménez,h,4105,FromCorner,2024,Head,26786,Fulham,Bournemouth,2,2,2024-12-29 15:00:00,Andreas Pereira,Cross,4105
+609524,66,BlockedShot,0.9540000152587891,0.43,0.060683876276016235,Raúl Jiménez,h,4105,OpenPlay,2024,Head,26786,Fulham,Bournemouth,2,2,2024-12-29 15:00:00,,Rebound,4105
+609523,66,SavedShot,0.9359999847412109,0.4640000152587891,0.08259797096252441,Raúl Jiménez,h,4105,OpenPlay,2024,Head,26786,Fulham,Bournemouth,2,2,2024-12-29 15:00:00,Alex Iwobi,Aerial,4105
+610193,19,SavedShot,0.9159999847412109,0.46599998474121096,0.3555952310562134,Raúl Jiménez,h,4105,SetPiece,2024,Head,26796,Fulham,Ipswich,2,2,2025-01-05 14:00:00,Tom Cairney,Aerial,4105
+610194,20,BlockedShot,0.845,0.4470000076293945,0.08939436078071594,Raúl Jiménez,h,4105,OpenPlay,2024,RightFoot,26796,Fulham,Ipswich,2,2,2025-01-05 14:00:00,Harry Wilson,Pass,4105
+610199,41,BlockedShot,0.779000015258789,0.5270000076293946,0.031801287084817886,Raúl Jiménez,h,4105,OpenPlay,2024,RightFoot,26796,Fulham,Ipswich,2,2,2025-01-05 14:00:00,,None,4105
+610206,68,Goal,0.885,0.5,0.7611688375473022,Raúl Jiménez,h,4105,Penalty,2024,RightFoot,26796,Fulham,Ipswich,2,2,2025-01-05 14:00:00,,Standard,4105
+610208,78,MissedShots,0.8980000305175782,0.5359999847412109,0.08265586942434311,Raúl Jiménez,h,4105,SetPiece,2024,Head,26796,Fulham,Ipswich,2,2,2025-01-05 14:00:00,Harry Wilson,Cross,4105
+610212,90,Goal,0.885,0.5,0.7611688375473022,Raúl Jiménez,h,4105,Penalty,2024,RightFoot,26796,Fulham,Ipswich,2,2,2025-01-05 14:00:00,,Standard,4105
+611518,18,MissedShots,0.74,0.6780000305175782,0.019078057259321213,Raúl Jiménez,a,4105,OpenPlay,2024,RightFoot,26808,West Ham,Fulham,3,2,2025-01-14 19:30:00,Antonee Robinson,Pass,4105
+611522,35,ShotOnPost,0.9580000305175781,0.45799999237060546,0.6331969499588013,Raúl Jiménez,a,4105,OpenPlay,2024,Head,26808,West Ham,Fulham,3,2,2025-01-14 19:30:00,Alex Iwobi,Aerial,4105
+611532,79,SavedShot,0.895,0.6559999847412109,0.10812555253505707,Raúl Jiménez,a,4105,OpenPlay,2024,RightFoot,26808,West Ham,Fulham,3,2,2025-01-14 19:30:00,Alex Iwobi,Pass,4105
+611534,90,MissedShots,0.91,0.46900001525878904,0.08117152750492096,Raúl Jiménez,a,4105,OpenPlay,2024,Head,26808,West Ham,Fulham,3,2,2025-01-14 19:30:00,Adama Traoré,Cross,4105
+612292,52,BlockedShot,0.8640000152587891,0.54,0.017733437940478325,Raúl Jiménez,a,4105,FromCorner,2024,Head,26817,Leicester,Fulham,0,2,2025-01-18 15:00:00,Harry Wilson,Cross,4105
+612297,69,MissedShots,0.8859999847412109,0.3129999923706055,0.06581419706344604,Raúl Jiménez,a,4105,OpenPlay,2024,RightFoot,26817,Leicester,Fulham,0,2,2025-01-18 15:00:00,Adama Traoré,Pass,4105
+614101,36,MissedShots,0.7909999847412109,0.7190000152587891,0.04203840345144272,Raúl Jiménez,h,4105,OpenPlay,2024,RightFoot,26826,Fulham,Manchester United,0,1,2025-01-26 19:00:00,Alex Iwobi,Pass,4105
+614102,37,MissedShots,0.960999984741211,0.6769999694824219,0.031030459329485893,Raúl Jiménez,h,4105,OpenPlay,2024,LeftFoot,26826,Fulham,Manchester United,0,1,2025-01-26 19:00:00,Antonee Robinson,Cross,4105

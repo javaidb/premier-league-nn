@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+24155,61,MissedShots,0.889000015258789,0.49599998474121093,0.06205720081925392,Alex Bruce,h,4411,FromCorner,2014,Head,4483,Hull,Sunderland,1,1,2015-03-03 19:45:00,Ahmed Elmohamady,Cross,4411

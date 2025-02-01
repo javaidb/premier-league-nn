@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+286265,49,MissedShots,0.9319999694824219,0.41,0.018855199217796326,Chris Mepham,h,7384,FromCorner,2018,Head,9506,Bournemouth,Newcastle United,2,2,2019-03-16 15:00:00,Ryan Fraser,Aerial,7384
+301291,72,MissedShots,0.9119999694824219,0.5270000076293946,0.03158269822597504,Chris Mepham,a,7384,FromCorner,2018,Head,9574,Crystal Palace,Bournemouth,5,3,2019-05-12 14:00:00,Ryan Fraser,Aerial,7384
+309944,44,MissedShots,0.9019999694824219,0.3629999923706055,0.07839860022068024,Chris Mepham,h,7384,OpenPlay,2019,RightFoot,11645,Bournemouth,Sheffield United,1,1,2019-08-10 15:00:00,Philip Billing,BallTouch,7384
+309954,61,Goal,0.9590000152587891,0.5529999923706055,0.6191139817237854,Chris Mepham,h,7384,SetPiece,2019,RightFoot,11645,Bournemouth,Sheffield United,1,1,2019-08-10 15:00:00,,Rebound,7384
+334834,22,SavedShot,0.895,0.45,0.0812200978398323,Chris Mepham,a,7384,SetPiece,2019,LeftFoot,11791,Crystal Palace,Bournemouth,1,0,2019-12-03 19:30:00,,None,7384
+336995,54,BlockedShot,0.81,0.49900001525878906,0.04049240052700043,Chris Mepham,a,7384,OpenPlay,2019,RightFoot,11805,Chelsea,Bournemouth,0,1,2019-12-14 15:00:00,,Rebound,7384
+338597,67,MissedShots,0.9290000152587891,0.44599998474121094,0.09645870327949524,Chris Mepham,h,7384,FromCorner,2019,Head,11814,Bournemouth,Burnley,0,1,2019-12-21 15:00:00,Ryan Fraser,Cross,7384
+339516,42,MissedShots,0.9290000152587891,0.4809999847412109,0.11403500288724899,Chris Mepham,h,7384,FromCorner,2019,Head,11824,Bournemouth,Arsenal,1,1,2019-12-26 15:00:00,Ryan Fraser,Cross,7384
+339724,24,MissedShots,0.9019999694824219,0.505,0.023586299270391464,Chris Mepham,a,7384,FromCorner,2019,Head,11834,Brighton,Bournemouth,2,0,2019-12-28 12:30:00,Junior Stanislas,Aerial,7384
+481991,50,SavedShot,0.905,0.629000015258789,0.021167999133467674,Chris Mepham,h,7384,OpenPlay,2022,Head,18227,Bournemouth,Arsenal,0,3,2022-08-20 16:30:00,Lloyd Kelly,BallRecovery,7384
+483659,45,OwnGoal,0.07400000095367432,0.4759999847412109,0,Chris Mepham,a,7384,OpenPlay,2022,LeftFoot,18236,Liverpool,Bournemouth,9,0,2022-08-27 14:00:00,,None,7384
+491563,62,MissedShots,0.88,0.46099998474121096,0.08204709738492966,Chris Mepham,h,7384,FromCorner,2022,LeftFoot,18293,Bournemouth,Leicester,2,1,2022-10-08 14:00:00,,None,7384
+493108,54,MissedShots,0.9530000305175781,0.649000015258789,0.040879398584365845,Chris Mepham,a,7384,FromCorner,2022,RightFoot,18304,Fulham,Bournemouth,2,2,2022-10-15 14:00:00,Lewis Cook,Cross,7384
+496618,93,SavedShot,0.9269999694824219,0.37599998474121094,0.01878570020198822,Chris Mepham,h,7384,OpenPlay,2022,Head,18333,Bournemouth,Tottenham,2,3,2022-10-29 14:00:00,Jefferson Lerma,Aerial,7384
+498030,12,BlockedShot,0.8209999847412109,0.4759999847412109,0.04181709885597229,Chris Mepham,a,7384,FromCorner,2022,LeftFoot,18345,Leeds,Bournemouth,4,3,2022-11-05 15:00:00,,None,7384
+507150,7,MissedShots,0.9690000152587891,0.635,0.04134640097618103,Chris Mepham,a,7384,FromCorner,2022,RightFoot,18414,Brighton,Bournemouth,1,0,2023-02-04 15:00:00,Hamed Junior Traore,Cross,7384
+511030,50,OwnGoal,0.04,0.48200000762939454,0,Chris Mepham,h,7384,OpenPlay,2022,RightFoot,18442,Bournemouth,Manchester City,1,4,2023-02-25 17:30:00,,BallTouch,7384
+518098,48,SavedShot,0.9680000305175781,0.4590000152587891,0.13325299322605133,Chris Mepham,a,7384,OpenPlay,2022,Head,18496,Leicester,Bournemouth,0,1,2023-04-08 14:00:00,Joe Rothwell,Aerial,7384
+521396,21,SavedShot,0.960999984741211,0.4420000076293945,0.12172405421733856,Chris Mepham,h,7384,FromCorner,2022,Head,18513,Bournemouth,West Ham,0,4,2023-04-23 13:00:00,Joe Rothwell,Cross,7384
+545482,37,SavedShot,0.924000015258789,0.45099998474121095,0.0895473062992096,Chris Mepham,h,7384,FromCorner,2023,Head,21985,Bournemouth,Burnley,2,1,2023-10-28 14:00:00,Alex Scott,Cross,7384

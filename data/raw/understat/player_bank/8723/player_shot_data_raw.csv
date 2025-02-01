@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+379272,74,BlockedShot,0.850999984741211,0.36400001525878906,0.04748120158910751,Ian Poveda-Ocampo,a,8723,OpenPlay,2020,LeftFoot,14110,Sheffield United,Leeds,0,1,2020-09-27 11:00:00,Mateusz Klich,Chipped,8723
+379273,77,SavedShot,0.7609999847412109,0.51,0.05031979829072952,Ian Poveda-Ocampo,a,8723,OpenPlay,2020,LeftFoot,14110,Sheffield United,Leeds,0,1,2020-09-27 11:00:00,Patrick Bamford,Pass,8723
+382944,82,BlockedShot,0.93,0.4179999923706055,0.4506619870662689,Ian Poveda-Ocampo,h,8723,OpenPlay,2020,RightFoot,14478,Leeds,Wolverhampton Wanderers,0,1,2020-10-19 19:00:00,,None,8723
+388101,82,SavedShot,0.875999984741211,0.33299999237060546,0.06025170162320137,Ian Poveda-Ocampo,h,8723,OpenPlay,2020,LeftFoot,14518,Leeds,Arsenal,0,0,2020-11-22 16:30:00,Robin Koch,Pass,8723
+390471,77,SavedShot,0.8109999847412109,0.500999984741211,0.051698800176382065,Ian Poveda-Ocampo,a,8723,OpenPlay,2020,LeftFoot,14538,Chelsea,Leeds,3,1,2020-12-05 20:00:00,,TakeOn,8723

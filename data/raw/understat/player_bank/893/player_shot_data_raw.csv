@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14604,21,MissedShots,0.6830000305175781,0.8019999694824219,0.009169279597699642,Sébastien Pocognoli,h,893,OpenPlay,2014,LeftFoot,4753,West Bromwich Albion,Sunderland,2,2,2014-08-16 15:00:00,Andre Wisdom,Pass,893
+14608,34,MissedShots,0.6919999694824219,0.6530000305175782,0.012352099642157555,Sébastien Pocognoli,h,893,OpenPlay,2014,LeftFoot,4753,West Bromwich Albion,Sunderland,2,2,2014-08-16 15:00:00,Graham Dorrans,Pass,893
+15929,58,MissedShots,0.6959999847412109,0.7480000305175781,0.011449400335550308,Sébastien Pocognoli,h,893,OpenPlay,2014,LeftFoot,4747,West Bromwich Albion,Burnley,4,0,2014-09-28 16:00:00,Craig Gardner,BallRecovery,893
+17422,16,SavedShot,0.7190000152587891,0.534000015258789,0.015919899567961693,Sébastien Pocognoli,h,893,OpenPlay,2014,LeftFoot,4667,West Bromwich Albion,Newcastle United,0,2,2014-11-09 13:30:00,Chris Brunt,Pass,893
+18576,8,SavedShot,0.8880000305175781,0.7380000305175781,0.03690439835190773,Sébastien Pocognoli,h,893,OpenPlay,2014,LeftFoot,4612,West Bromwich Albion,Aston Villa,1,0,2014-12-13 15:00:00,Graham Dorrans,TakeOn,893
+18582,45,MissedShots,0.789000015258789,0.6630000305175782,0.011348200030624866,Sébastien Pocognoli,h,893,SetPiece,2014,LeftFoot,4612,West Bromwich Albion,Aston Villa,1,0,2014-12-13 15:00:00,,Aerial,893
+18585,61,BlockedShot,0.74,0.5520000076293945,0.015648700296878815,Sébastien Pocognoli,h,893,FromCorner,2014,LeftFoot,4612,West Bromwich Albion,Aston Villa,1,0,2014-12-13 15:00:00,,None,893

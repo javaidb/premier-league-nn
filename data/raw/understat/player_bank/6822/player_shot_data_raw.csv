@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+288121,31,SavedShot,0.795,0.435,0.035975899547338486,Lee Peltier,h,6822,FromCorner,2018,RightFoot,9514,Cardiff,Chelsea,1,2,2019-03-31 13:05:00,Junior Hoilett,Pass,6822

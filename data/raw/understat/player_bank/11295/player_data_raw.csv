@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+11295,David Datro Fofana,3,65,0,0.32611268758773804,0,0.08742763008922338,3,3,0,0,F S,Chelsea,0,0.32611268758773804,0.38537351693958044,0,2022
+11295,David Datro Fofana,15,876,4,4.029318623244762,1,1.4943999461829662,19,8,1,0,F S,Burnley,4,4.029318623244762,4.770294601097703,0.415885504335165,2023

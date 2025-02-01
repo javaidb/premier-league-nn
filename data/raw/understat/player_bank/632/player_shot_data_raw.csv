@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14561,29,MissedShots,0.935,0.44299999237060544,0.38135701417922974,Jordon Mutch,h,632,OpenPlay,2014,Head,4751,Queens Park Rangers,Hull,0,1,2014-08-16 15:00:00,Loïc Remy,Cross,632
+15039,8,BlockedShot,0.7340000152587891,0.7090000152587891,0.010861200280487537,Jordon Mutch,h,632,OpenPlay,2014,RightFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,,None,632
+15061,73,MissedShots,0.750999984741211,0.24200000762939453,0.021255500614643097,Jordon Mutch,h,632,OpenPlay,2014,RightFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,Mauricio Isla,Pass,632
+15598,41,BlockedShot,0.9030000305175782,0.700999984741211,0.054139699786901474,Jordon Mutch,h,632,OpenPlay,2014,LeftFoot,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,Niko Kranjcar,Pass,632
+17757,81,SavedShot,0.7169999694824218,0.6569999694824219,0.009071470238268375,Jordon Mutch,a,632,OpenPlay,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Adel Taarabt,Pass,632
+18101,91,MissedShots,0.914000015258789,0.43599998474121093,0.05364279821515083,Jordon Mutch,h,632,OpenPlay,2014,Head,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,Mauricio Isla,Aerial,632
+18035,60,BlockedShot,0.97,0.5990000152587891,0.04895789921283722,Jordon Mutch,a,632,FromCorner,2014,Head,4618,Everton,Queens Park Rangers,3,1,2014-12-15 20:00:00,Yun Suk-Young,Cross,632
+18038,64,MissedShots,0.8519999694824218,0.37099998474121093,0.06539569795131683,Jordon Mutch,a,632,OpenPlay,2014,RightFoot,4618,Everton,Queens Park Rangers,3,1,2014-12-15 20:00:00,Mauricio Isla,Pass,632
+18041,79,SavedShot,0.8619999694824219,0.6040000152587891,0.07976879924535751,Jordon Mutch,a,632,OpenPlay,2014,RightFoot,4618,Everton,Queens Park Rangers,3,1,2014-12-15 20:00:00,Junior Hoilett,Pass,632
+19670,45,MissedShots,0.874000015258789,0.529000015258789,0.07708729803562164,Jordon Mutch,h,632,SetPiece,2014,LeftFoot,4587,Crystal Palace,Everton,0,1,2015-01-31 15:00:00,Scott Dann,HeadPass,632
+23088,0,MissedShots,0.835999984741211,0.4229999923706055,0.03717140108346939,Jordon Mutch,a,632,FromCorner,2014,RightFoot,4518,Leicester,Crystal Palace,0,1,2015-02-07 15:00:00,Jason Puncheon,Cross,632
+23101,36,BlockedShot,0.9180000305175782,0.6419999694824219,0.02717600017786026,Jordon Mutch,a,632,FromCorner,2014,RightFoot,4518,Leicester,Crystal Palace,0,1,2015-02-07 15:00:00,,Aerial,632
+23803,56,BlockedShot,0.8159999847412109,0.48,0.01880979910492897,Jordon Mutch,h,632,SetPiece,2014,RightFoot,4537,Crystal Palace,Arsenal,1,2,2015-02-21 15:00:00,,Aerial,632
+23808,63,MissedShots,0.884000015258789,0.39799999237060546,0.05214190110564232,Jordon Mutch,h,632,OpenPlay,2014,RightFoot,4537,Crystal Palace,Arsenal,1,2,2015-02-21 15:00:00,Wilfried Zaha,Cross,632
+51649,12,BlockedShot,0.8530000305175781,0.7369999694824219,0.023883100599050522,Jordon Mutch,a,632,OpenPlay,2015,RightFoot,85,Norwich,Crystal Palace,1,3,2015-08-08 18:00:00,Glenn Murray,Pass,632
+51656,41,SavedShot,0.8640000152587891,0.3990000152587891,0.13212700188159943,Jordon Mutch,a,632,OpenPlay,2015,RightFoot,85,Norwich,Crystal Palace,1,3,2015-08-08 18:00:00,Yohan Cabaye,Throughball,632
+51759,86,MissedShots,0.9730000305175781,0.5109999847412109,0.13615299761295319,Jordon Mutch,h,632,FromCorner,2015,Head,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,,None,632
+56502,60,BlockedShot,0.8540000152587891,0.3170000076293945,0.041525401175022125,Jordon Mutch,h,632,OpenPlay,2015,LeftFoot,104,Crystal Palace,Aston Villa,2,1,2015-08-22 18:00:00,,None,632
+54019,90,MissedShots,0.765,0.46799999237060547,0.027852600440382957,Jordon Mutch,a,632,OpenPlay,2015,LeftFoot,230,Everton,Crystal Palace,1,1,2015-12-08 00:00:00,,BallRecovery,632
+52645,87,MissedShots,0.87,0.37099998474121093,0.05057840049266815,Jordon Mutch,a,632,FromCorner,2015,RightFoot,243,Stoke,Crystal Palace,1,2,2015-12-19 19:00:00,,None,632
+53932,40,MissedShots,0.93,0.495,0.13951100409030914,Jordon Mutch,a,632,OpenPlay,2015,Head,255,Bournemouth,Crystal Palace,0,0,2015-12-26 19:00:00,Wilfried Zaha,Cross,632
+53933,45,MissedShots,0.8959999847412109,0.5879999923706055,0.07015039771795273,Jordon Mutch,a,632,OpenPlay,2015,RightFoot,255,Bournemouth,Crystal Palace,0,0,2015-12-26 19:00:00,Jason Puncheon,Cross,632
+52561,81,MissedShots,0.74,0.61,0.017660899087786674,Jordon Mutch,h,632,OpenPlay,2015,RightFoot,264,Crystal Palace,Swansea,0,0,2015-12-28 19:00:00,Mile Jedinak,TakeOn,632
+53673,46,BlockedShot,0.8980000305175782,0.539000015258789,0.06308139860630035,Jordon Mutch,a,632,OpenPlay,2015,Head,325,Swansea,Crystal Palace,1,1,2016-02-06 19:00:00,Pape Souaré,Cross,632
+55188,58,SavedShot,0.755,0.26,0.012533700093626976,Jordon Mutch,h,632,OpenPlay,2015,RightFoot,335,Crystal Palace,Watford,1,2,2016-02-13 19:00:00,Lee Chung-yong,Pass,632
+60299,38,MissedShots,0.865999984741211,0.500999984741211,0.02480130083858967,Jordon Mutch,a,632,OpenPlay,2015,Head,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Martin Kelly,Cross,632
+60301,49,BlockedShot,0.8830000305175781,0.7230000305175781,0.030329199507832527,Jordon Mutch,a,632,SetPiece,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,,None,632
+60302,49,MissedShots,0.8969999694824219,0.68,0.04883069917559624,Jordon Mutch,a,632,SetPiece,2015,LeftFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,,None,632
+60307,56,BlockedShot,0.8490000152587891,0.7559999847412109,0.014483300037682056,Jordon Mutch,a,632,FromCorner,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Yohan Cabaye,HeadPass,632
+60994,20,MissedShots,0.9319999694824219,0.6780000305175782,0.0718488022685051,Jordon Mutch,a,632,OpenPlay,2015,LeftFoot,352,Sunderland,Crystal Palace,2,2,2016-03-01 23:45:00,Yannick Bolasie,Pass,632
+56247,87,MissedShots,0.7709999847412109,0.5029999923706054,0.025620099157094955,Jordon Mutch,h,632,SetPiece,2015,RightFoot,438,Crystal Palace,Stoke,2,1,2016-05-07 18:00:00,,BallTouch,632

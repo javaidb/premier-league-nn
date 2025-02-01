@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+60642,57,MissedShots,0.8959999847412109,0.515,0.06087049841880798,Kevin Stewart,h,479,FromCorner,2015,Head,403,Liverpool,Stoke,4,1,2016-04-10 19:00:00,James Milner,Cross,479
+60648,65,MissedShots,0.715,0.500999984741211,0.010859300382435322,Kevin Stewart,h,479,OpenPlay,2015,LeftFoot,403,Liverpool,Stoke,4,1,2016-04-10 19:00:00,,Aerial,479
+57430,57,BlockedShot,0.7530000305175781,0.6020000076293945,0.013457199558615685,Kevin Stewart,h,479,SetPiece,2015,RightFoot,423,Liverpool,Newcastle United,2,2,2016-04-23 18:00:00,,None,479
+57434,79,MissedShots,0.7709999847412109,0.5790000152587891,0.025386599823832512,Kevin Stewart,h,479,OpenPlay,2015,LeftFoot,423,Liverpool,Newcastle United,2,2,2016-04-23 18:00:00,,None,479
+57466,62,BlockedShot,0.7519999694824219,0.534000015258789,0.021611999720335007,Kevin Stewart,a,479,OpenPlay,2015,LeftFoot,433,Swansea,Liverpool,3,1,2016-05-01 15:00:00,Nathaniel Clyne,Pass,479

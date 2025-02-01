@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+445104,28,BlockedShot,0.77,0.7809999847412109,0.014091500081121922,Christos Tzolis,a,9746,FromCorner,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Teemu Pukki,Pass,9746
+445106,31,SavedShot,0.8919999694824219,0.44299999237060544,0.060245998203754425,Christos Tzolis,a,9746,OpenPlay,2021,Head,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Max Aarons,Cross,9746
+445108,36,BlockedShot,0.8590000152587891,0.6969999694824218,0.040039900690317154,Christos Tzolis,a,9746,OpenPlay,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Lukas Rupp,Pass,9746
+445110,45,SavedShot,0.9009999847412109,0.675,0.11966600269079208,Christos Tzolis,a,9746,OpenPlay,2021,RightFoot,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Brandon Williams,Throughball,9746
+450763,45,BlockedShot,0.935,0.5570000076293945,0.08775649964809418,Christos Tzolis,a,9746,OpenPlay,2021,LeftFoot,16570,Crystal Palace,Norwich,3,0,2021-12-28 15:00:00,,None,9746
+452967,72,MissedShots,0.7180000305175781,0.764000015258789,0.01154869981110096,Christos Tzolis,a,9746,OpenPlay,2021,RightFoot,16554,West Ham,Norwich,2,0,2022-01-12 21:45:00,Teemu Pukki,Pass,9746

@@ -1,0 +1,52 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15509,36,MissedShots,0.7169999694824218,0.7090000152587891,0.015234899707138538,Marcos Rojo,a,550,OpenPlay,2014,LeftFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Daley Blind,Pass,550
+15511,41,MissedShots,0.96,0.47200000762939454,0.5051869750022888,Marcos Rojo,a,550,FromCorner,2014,Head,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Ángel Di María,Cross,550
+17113,64,BlockedShot,0.735,0.669000015258789,0.015518699772655964,Marcos Rojo,a,550,OpenPlay,2014,LeftFoot,4708,West Bromwich Albion,Manchester United,2,2,2014-10-20 20:00:00,Daley Blind,Pass,550
+17122,80,MissedShots,0.9169999694824219,0.4620000076293945,0.034616999328136444,Marcos Rojo,a,550,FromCorner,2014,Head,4708,West Bromwich Albion,Manchester United,2,2,2014-10-20 20:00:00,Ashley Young,Aerial,550
+23739,78,BlockedShot,0.7709999847412109,0.624000015258789,0.017720600590109825,Marcos Rojo,a,550,FromCorner,2014,LeftFoot,4524,West Ham,Manchester United,1,1,2015-02-08 16:15:00,,None,550
+24043,50,MissedShots,0.8480000305175781,0.6959999847412109,0.04651549831032753,Marcos Rojo,h,550,OpenPlay,2014,RightFoot,4531,Manchester United,Burnley,3,1,2015-02-11 19:45:00,Wayne Rooney,Pass,550
+24288,64,MissedShots,0.955,0.46700000762939453,0.4740689992904663,Marcos Rojo,a,550,FromCorner,2014,Head,4539,Swansea,Manchester United,2,1,2015-02-21 15:00:00,Ángel Di María,Cross,550
+23445,38,BlockedShot,0.8919999694824219,0.4929999923706055,0.06406030058860779,Marcos Rojo,h,550,FromCorner,2014,LeftFoot,4550,Manchester United,Sunderland,2,0,2015-02-28 15:00:00,Ashley Young,Cross,550
+23449,48,MissedShots,0.875,0.5529999923706055,0.08088629692792892,Marcos Rojo,h,550,FromCorner,2014,LeftFoot,4550,Manchester United,Sunderland,2,0,2015-02-28 15:00:00,Falcao,Rebound,550
+23459,79,MissedShots,0.9330000305175781,0.524000015258789,0.13607199490070343,Marcos Rojo,h,550,SetPiece,2014,Head,4550,Manchester United,Sunderland,2,0,2015-02-28 15:00:00,Ashley Young,Cross,550
+21284,46,MissedShots,0.7519999694824219,0.6880000305175781,0.016794299706816673,Marcos Rojo,a,550,OpenPlay,2014,LeftFoot,4487,Newcastle United,Manchester United,0,1,2015-03-04 19:45:00,Marouane Fellaini,Pass,550
+21288,53,MissedShots,0.774000015258789,0.5879999923706055,0.021372200921177864,Marcos Rojo,a,550,OpenPlay,2014,LeftFoot,4487,Newcastle United,Manchester United,0,1,2015-03-04 19:45:00,,Rebound,550
+22078,22,SavedShot,0.730999984741211,0.7369999694824219,0.011232799850404263,Marcos Rojo,h,550,OpenPlay,2014,LeftFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Ashley Young,Pass,550
+22084,45,SavedShot,0.9159999847412109,0.5479999923706055,0.03911609947681427,Marcos Rojo,h,550,FromCorner,2014,Head,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,,Rebound,550
+22620,53,SavedShot,0.7580000305175781,0.66,0.02323630079627037,Marcos Rojo,h,550,OpenPlay,2014,LeftFoot,4427,Manchester United,Arsenal,1,1,2015-05-17 16:00:00,Ander Herrera,Pass,550
+22850,39,BlockedShot,0.825999984741211,0.7090000152587891,0.02827730029821396,Marcos Rojo,a,550,OpenPlay,2014,LeftFoot,4435,Hull,Manchester United,0,0,2015-05-24 15:00:00,Juan Mata,Pass,550
+59301,64,BlockedShot,0.720999984741211,0.654000015258789,0.013857999816536903,Marcos Rojo,h,550,OpenPlay,2015,LeftFoot,179,Manchester United,Manchester City,0,0,2015-10-25 18:05:00,Bastian Schweinsteiger,Pass,550
+60268,51,SavedShot,0.94,0.7240000152587891,0.06019429862499237,Marcos Rojo,a,550,OpenPlay,2015,LeftFoot,382,Manchester City,Manchester United,0,1,2016-03-20 20:00:00,Anthony Martial,Pass,550
+59911,24,MissedShots,0.8119999694824219,0.7609999847412109,0.01155530009418726,Marcos Rojo,h,550,OpenPlay,2015,LeftFoot,393,Manchester United,Everton,1,0,2016-04-03 19:00:00,Juan Mata,Chipped,550
+61147,79,BlockedShot,0.7380000305175781,0.62,0.0128280995413661,Marcos Rojo,a,550,OpenPlay,2015,LeftFoot,402,Tottenham,Manchester United,3,0,2016-04-10 19:00:00,Michael Carrick,Pass,550
+56564,8,MissedShots,0.9530000305175781,0.39599998474121095,0.06758250296115875,Marcos Rojo,h,550,SetPiece,2015,Head,406,Manchester United,Aston Villa,1,0,2016-04-16 18:00:00,Memphis Depay,Cross,550
+56566,19,BlockedShot,0.925,0.5709999847412109,0.08063880354166031,Marcos Rojo,h,550,FromCorner,2015,LeftFoot,406,Manchester United,Aston Villa,1,0,2016-04-16 18:00:00,Juan Mata,Cross,550
+57176,62,MissedShots,0.7719999694824219,0.705,0.01872269995510578,Marcos Rojo,h,550,OpenPlay,2015,LeftFoot,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,Wayne Rooney,Pass,550
+56657,64,MissedShots,0.8780000305175781,0.47200000762939454,0.030589500442147255,Marcos Rojo,a,550,FromCorner,2015,Head,437,Norwich,Manchester United,0,1,2016-05-07 15:45:00,Juan Mata,Cross,550
+114302,66,MissedShots,0.9159999847412109,0.43400001525878906,0.09622649848461151,Marcos Rojo,a,550,SetPiece,2016,Head,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Juan Mata,Cross,550
+114313,92,SavedShot,0.7340000152587891,0.6580000305175782,0.012260000221431255,Marcos Rojo,a,550,OpenPlay,2016,LeftFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Ander Herrera,Pass,550
+114785,35,BlockedShot,0.6980000305175781,0.6179999923706054,0.012395099736750126,Marcos Rojo,h,550,OpenPlay,2016,LeftFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,Juan Mata,Pass,550
+114816,90,MissedShots,0.6840000152587891,0.639000015258789,0.01142009999603033,Marcos Rojo,h,550,OpenPlay,2016,LeftFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,Daley Blind,Pass,550
+115512,79,MissedShots,0.924000015258789,0.43400001525878906,0.0774310976266861,Marcos Rojo,h,550,FromCorner,2016,Head,2697,Manchester United,Arsenal,1,1,2016-11-19 16:30:00,Daley Blind,Cross,550
+117927,77,MissedShots,0.9180000305175782,0.525,0.0406544990837574,Marcos Rojo,a,550,FromCorner,2016,Head,3130,Crystal Palace,Manchester United,1,2,2016-12-15 00:00:00,Wayne Rooney,Aerial,550
+116571,5,MissedShots,0.7819999694824219,0.725999984741211,0.015666000545024872,Marcos Rojo,h,550,OpenPlay,2016,LeftFoot,3147,Manchester United,Sunderland,3,1,2016-12-26 19:00:00,Phil Jones,TakeOn,550
+119030,14,MissedShots,0.8719999694824219,0.515,0.025906600058078766,Marcos Rojo,h,550,FromCorner,2016,Head,3368,Manchester United,Hull,0,0,2017-02-01 23:00:00,Marcus Rashford,Pass,550
+119047,93,SavedShot,0.8909999847412109,0.5359999847412109,0.043979398906230927,Marcos Rojo,h,550,OpenPlay,2016,Head,3368,Manchester United,Hull,0,0,2017-02-01 23:00:00,Paul Pogba,Aerial,550
+116737,5,SavedShot,0.8490000152587891,0.7390000152587891,0.028876399621367455,Marcos Rojo,a,550,OpenPlay,2016,LeftFoot,3379,Leicester,Manchester United,0,3,2017-02-05 16:00:00,Zlatan Ibrahimovic,Pass,550
+119576,22,Goal,0.919000015258789,0.47900001525878905,0.4723910093307495,Marcos Rojo,h,550,FromCorner,2016,LeftFoot,3402,Manchester United,Bournemouth,1,1,2017-03-04 12:30:00,Antonio Valencia,Rebound,550
+119582,49,BlockedShot,0.9169999694824219,0.43900001525878907,0.06797689944505692,Marcos Rojo,h,550,FromCorner,2016,Head,3402,Manchester United,Bournemouth,1,1,2017-03-04 12:30:00,Juan Mata,Cross,550
+119592,88,BlockedShot,0.735,0.6480000305175782,0.016799399629235268,Marcos Rojo,h,550,OpenPlay,2016,LeftFoot,3402,Manchester United,Bournemouth,1,1,2017-03-04 12:30:00,Juan Mata,Pass,550
+119334,76,MissedShots,0.9540000152587891,0.47900001525878905,0.10532200336456299,Marcos Rojo,h,550,OpenPlay,2016,Head,3446,Manchester United,Everton,1,1,2017-04-04 20:00:00,Paul Pogba,Cross,550
+185587,21,BlockedShot,0.6919999694824219,0.6370000076293946,0.01316209975630045,Marcos Rojo,h,550,OpenPlay,2017,LeftFoot,7314,Manchester United,Burnley,2,2,2017-12-26 15:00:00,Paul Pogba,Pass,550
+186349,26,SavedShot,0.884000015258789,0.4540000152587891,0.015548299998044968,Marcos Rojo,a,550,SetPiece,2017,Head,7333,Everton,Manchester United,0,2,2018-01-01 17:30:00,Juan Mata,Aerial,550
+186355,40,BlockedShot,0.665,0.5609999847412109,0.008213539607822895,Marcos Rojo,a,550,OpenPlay,2017,LeftFoot,7333,Everton,Manchester United,0,2,2018-01-01 17:30:00,,None,550
+186359,47,MissedShots,0.7180000305175781,0.509000015258789,0.013552499935030937,Marcos Rojo,a,550,OpenPlay,2017,LeftFoot,7333,Everton,Manchester United,0,2,2018-01-01 17:30:00,,None,550
+215759,30,MissedShots,0.82,0.5159999847412109,0.02071250043809414,Marcos Rojo,h,550,FromCorner,2017,LeftFoot,7496,Manchester United,Watford,1,0,2018-05-13 15:00:00,,Aerial,550
+250960,29,SavedShot,0.735,0.44,0.05267620086669922,Marcos Rojo,h,550,DirectFreekick,2018,LeftFoot,9344,Manchester United,Arsenal,2,2,2018-12-05 20:00:00,,Standard,550
+250963,37,BlockedShot,0.8230000305175781,0.5109999847412109,0.05828100070357323,Marcos Rojo,h,550,SetPiece,2018,LeftFoot,9344,Manchester United,Arsenal,2,2,2018-12-05 20:00:00,Marcus Rashford,Pass,550
+250965,58,SavedShot,0.740999984741211,0.6730000305175782,0.015938900411128998,Marcos Rojo,h,550,OpenPlay,2018,LeftFoot,9344,Manchester United,Arsenal,2,2,2018-12-05 20:00:00,Ander Herrera,Pass,550
+250966,67,OwnGoal,0.12199999809265137,0.48200000762939454,0,Marcos Rojo,h,550,OpenPlay,2018,RightFoot,9344,Manchester United,Arsenal,2,2,2018-12-05 20:00:00,,None,550
+293719,4,BlockedShot,0.6469999694824219,0.555,0.010285000316798687,Marcos Rojo,h,550,FromCorner,2018,LeftFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,,Rebound,550
+293739,66,SavedShot,0.740999984741211,0.5270000076293946,0.01719130016863346,Marcos Rojo,h,550,OpenPlay,2018,LeftFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,,None,550
+298224,92,BlockedShot,0.9319999694824219,0.43,0.08099979907274246,Marcos Rojo,h,550,FromCorner,2018,Head,9550,Manchester United,Chelsea,1,1,2019-04-28 16:30:00,Ashley Young,Cross,550
+324972,74,MissedShots,0.9419999694824219,0.4640000152587891,0.13206900656223297,Marcos Rojo,a,550,SetPiece,2019,Head,11721,Newcastle United,Manchester United,1,0,2019-10-06 16:30:00,Ashley Young,Cross,550

@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+537945,36,Goal,0.9490000152587891,0.4759999847412109,0.6081414818763733,Joel Asoro,a,1754,OpenPlay,2023,RightFoot,23415,Lens,Metz,0,1,2023-09-16 19:00:00,,None,1754
+546024,30,MissedShots,0.855,0.40200000762939453,0.08051576465368271,Joel Asoro,h,1754,OpenPlay,2023,RightFoot,23458,Metz,Le Havre,0,0,2023-10-29 14:00:00,Kévin Van Den Kerkhof,Pass,1754
+548993,84,Goal,0.8619999694824219,0.610999984741211,0.07589209824800491,Joel Asoro,h,1754,OpenPlay,2023,RightFoot,23476,Metz,Nantes,3,1,2023-11-12 14:00:00,Kévin Van Den Kerkhof,Cross,1754
+554715,70,BlockedShot,0.7719999694824219,0.615,0.014458171091973782,Joel Asoro,h,1754,FromCorner,2023,RightFoot,23514,Metz,Montpellier,0,1,2023-12-17 14:00:00,,Aerial,1754
+554716,73,BlockedShot,0.870999984741211,0.3189999961853027,0.019486427307128906,Joel Asoro,h,1754,FromCorner,2023,RightFoot,23514,Metz,Montpellier,0,1,2023-12-17 14:00:00,,Aerial,1754
+561649,93,SavedShot,0.9259999847412109,0.46700000762939453,0.051758479326963425,Joel Asoro,h,1754,OpenPlay,2023,Head,23549,Metz,Lorient,1,2,2024-02-04 14:00:00,Matthieu Udol,Aerial,1754

@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,90,GK,Las Palmas,Espanyol,4,0,2016-04-22,1739,2015,103281,0,0,0,0,0,0.026519600301980972,0.026519600301980972,949
+0,0,0,46,GK,Espanyol,Real Sociedad,0,5,2016-02-08,1627,2015,99321,0,0,0,0,0,0,0,949
+0,0,0,90,GK,Real Madrid,Espanyol,6,0,2016-01-31,1616,2015,99502,0,0,0,0,0,0,0,949
+0,0,0,22,Sub,Aston Villa,Watford,2,3,2015-11-28,212,2015,61642,0,0,0,0,0,0,0,949

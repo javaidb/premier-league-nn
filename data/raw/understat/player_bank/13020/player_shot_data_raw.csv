@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+589249,80,BlockedShot,0.8180000305175781,0.534000015258789,0.04740983620285988,Bilal El Khannouss,h,13020,OpenPlay,2024,RightFoot,26626,Leicester,Aston Villa,1,2,2024-08-31 14:00:00,,None,13020
+597112,41,ShotOnPost,0.8769999694824219,0.665,0.06848186254501343,Bilal El Khannouss,a,13020,OpenPlay,2024,RightFoot,26678,Southampton,Leicester,2,3,2024-10-19 14:00:00,Victor Kristiansen,Pass,13020
+605196,60,Goal,0.86,0.5609999847412109,0.1082911565899849,Bilal El Khannouss,h,13020,OpenPlay,2024,RightFoot,26738,Leicester,West Ham,3,1,2024-12-03 20:15:00,Kasey McAteer,Pass,13020
+606995,19,BlockedShot,0.8159999847412109,0.3990000152587891,0.052330054342746735,Bilal El Khannouss,a,13020,OpenPlay,2024,RightFoot,26760,Newcastle United,Leicester,4,0,2024-12-14 15:00:00,Hamza Choudhury,Pass,13020
+609215,9,MissedShots,0.8180000305175781,0.385,0.04188062995672226,Bilal El Khannouss,a,13020,FromCorner,2024,RightFoot,26776,Liverpool,Leicester,3,1,2024-12-26 20:00:00,,Rebound,13020
+609413,53,MissedShots,0.755,0.629000015258789,0.025766268372535706,Bilal El Khannouss,h,13020,OpenPlay,2024,RightFoot,26788,Leicester,Manchester City,0,2,2024-12-29 14:30:00,,TakeOn,13020
+609984,33,MissedShots,0.785,0.5659999847412109,0.04475076124072075,Bilal El Khannouss,a,13020,OpenPlay,2024,RightFoot,26793,Aston Villa,Leicester,2,1,2025-01-04 15:00:00,,TakeOn,13020
+611654,13,SavedShot,0.725,0.4209999847412109,0.01896199770271778,Bilal El Khannouss,h,13020,OpenPlay,2024,RightFoot,26806,Leicester,Crystal Palace,0,2,2025-01-15 19:30:00,James Justin,Pass,13020
+611660,39,MissedShots,0.7380000305175781,0.6459999847412109,0.010138550773262978,Bilal El Khannouss,h,13020,OpenPlay,2024,RightFoot,26806,Leicester,Crystal Palace,0,2,2025-01-15 19:30:00,Stephy Mavididi,TakeOn,13020
+613834,9,BlockedShot,0.7130000305175781,0.6769999694824219,0.010102581232786179,Bilal El Khannouss,a,13020,OpenPlay,2024,RightFoot,26830,Tottenham,Leicester,1,2,2025-01-26 14:00:00,,Rebound,13020
+613842,37,BlockedShot,0.749000015258789,0.664000015258789,0.012845605611801147,Bilal El Khannouss,a,13020,OpenPlay,2024,RightFoot,26830,Tottenham,Leicester,1,2,2025-01-26 14:00:00,Bobby Reid,TakeOn,13020
+613846,49,Goal,0.7809999847412109,0.5159999847412109,0.0349152572453022,Bilal El Khannouss,a,13020,OpenPlay,2024,RightFoot,26830,Tottenham,Leicester,1,2,2025-01-26 14:00:00,Bobby Reid,Pass,13020

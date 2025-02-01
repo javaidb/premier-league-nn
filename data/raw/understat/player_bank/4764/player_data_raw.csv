@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+4764,Jean-Philippe Gbamin,2,135,0,0,0,0,0,0,0,0,M S,Everton,0,0,0,0,2019
+4764,Jean-Philippe Gbamin,1,9,0,0,0,0,0,0,0,0,S,Everton,0,0,0,0,2020
+4764,Jean-Philippe Gbamin,3,67,0,0,0,0,0,0,0,0,M S,Everton,0,0,0.05828259885311127,0.05828259885311127,2021

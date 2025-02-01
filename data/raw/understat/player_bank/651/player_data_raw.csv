@@ -1,0 +1,6 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+651,Michel Vorm,4,357,0,0,0,0.025591399520635605,0,1,0,0,GK S,Tottenham,0,0,0.7053749859333038,0.6797835864126682,2014
+651,Michel Vorm,1,90,0,0,0,0,0,0,0,0,GK,Tottenham,0,0,0,0,2015
+651,Michel Vorm,5,416,0,0,0,0,0,0,0,0,GK S,Tottenham,0,0,0.25676970183849335,0.25676970183849335,2016
+651,Michel Vorm,1,90,0,0,0,0,0,0,0,0,GK,Tottenham,0,0,0.023387400433421135,0.023387400433421135,2017
+651,Michel Vorm,2,180,0,0,0,0,0,0,0,0,GK,Tottenham,0,0,0.1521739959716797,0.1521739959716797,2018

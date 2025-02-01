@@ -1,0 +1,58 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+388380,5,SavedShot,0.914000015258789,0.5070000076293946,0.04137270152568817,Max Kilman,h,7332,FromCorner,2020,Head,14524,Wolverhampton Wanderers,Southampton,1,1,2020-11-23 20:00:00,João Moutinho,Aerial,7332
+388383,25,BlockedShot,0.93,0.48,0.07450360059738159,Max Kilman,h,7332,SetPiece,2020,Head,14524,Wolverhampton Wanderers,Southampton,1,1,2020-11-23 20:00:00,,Aerial,7332
+388399,73,MissedShots,0.8959999847412109,0.47400001525878904,0.062144700437784195,Max Kilman,h,7332,SetPiece,2020,RightFoot,14524,Wolverhampton Wanderers,Southampton,1,1,2020-11-23 20:00:00,Leander Dendoncker,Aerial,7332
+402429,10,MissedShots,0.9309999847412109,0.47900001525878905,0.05936120077967644,Max Kilman,h,7332,FromCorner,2020,Head,14650,Wolverhampton Wanderers,Arsenal,2,1,2021-02-02 18:00:00,João Moutinho,Aerial,7332
+403782,63,BlockedShot,0.9280000305175782,0.5270000076293946,0.05560769885778427,Max Kilman,h,7332,FromCorner,2020,Head,14664,Wolverhampton Wanderers,Leicester,0,0,2021-02-07 14:00:00,Pedro Neto,Aerial,7332
+420434,48,SavedShot,0.725999984741211,0.6580000305175782,0.015026399865746498,Max Kilman,h,7332,OpenPlay,2020,LeftFoot,14784,Wolverhampton Wanderers,Brighton,2,1,2021-05-09 11:00:00,João Moutinho,Pass,7332
+425881,86,BlockedShot,0.9569999694824218,0.3990000152587891,0.15790200233459473,Max Kilman,a,7332,OpenPlay,2021,LeftFoot,16381,Leicester,Wolverhampton Wanderers,1,0,2021-08-14 14:00:00,Raúl Jiménez,TakeOn,7332
+425882,86,SavedShot,0.91,0.5429999923706055,0.038339901715517044,Max Kilman,a,7332,OpenPlay,2021,Head,16381,Leicester,Wolverhampton Wanderers,1,0,2021-08-14 14:00:00,Rúben Neves,Aerial,7332
+436198,42,MissedShots,0.9440000152587891,0.629000015258789,0.011882700026035309,Max Kilman,a,7332,FromCorner,2021,Head,16447,Aston Villa,Wolverhampton Wanderers,2,3,2021-10-16 14:00:00,João Moutinho,Aerial,7332
+436208,84,ShotOnPost,0.96,0.5729999923706055,0.33672699332237244,Max Kilman,a,7332,FromCorner,2021,Head,16447,Aston Villa,Wolverhampton Wanderers,2,3,2021-10-16 14:00:00,Fabio Silva,Aerial,7332
+437811,20,MissedShots,0.95,0.595999984741211,0.03648750111460686,Max Kilman,a,7332,SetPiece,2021,Head,16462,Leeds,Wolverhampton Wanderers,1,1,2021-10-23 14:00:00,Adama Traoré,Aerial,7332
+440652,27,Goal,0.9209999847412109,0.4759999847412109,0.09891889989376068,Max Kilman,h,7332,FromCorner,2021,Head,16475,Wolverhampton Wanderers,Everton,2,1,2021-11-01 20:00:00,Rayan Ait Nouri,Cross,7332
+442626,47,BlockedShot,0.909000015258789,0.549000015258789,0.06510750204324722,Max Kilman,h,7332,FromCorner,2021,Head,16495,Wolverhampton Wanderers,West Ham,1,0,2021-11-20 15:00:00,Rayan Ait Nouri,Cross,7332
+442637,86,MissedShots,0.89,0.5509999847412109,0.26709499955177307,Max Kilman,h,7332,SetPiece,2021,RightFoot,16495,Wolverhampton Wanderers,West Ham,1,0,2021-11-20 15:00:00,Rayan Ait Nouri,Cross,7332
+447455,91,SavedShot,0.9469999694824218,0.4470000076293945,0.06558000296354294,Max Kilman,a,7332,OpenPlay,2021,Head,16534,Manchester City,Wolverhampton Wanderers,1,0,2021-12-11 12:30:00,Daniel Podence,Aerial,7332
+453281,58,ShotOnPost,0.885,0.3970000076293945,0.10431800037622452,Max Kilman,h,7332,SetPiece,2021,Head,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,Rayan Ait Nouri,Cross,7332
+458850,18,SavedShot,0.9080000305175782,0.5520000076293945,0.060763001441955566,Max Kilman,h,7332,FromCorner,2021,Head,16635,Wolverhampton Wanderers,Leicester,2,1,2022-02-20 16:30:00,João Moutinho,Cross,7332
+458868,82,BlockedShot,0.8490000152587891,0.5509999847412109,0.0626102015376091,Max Kilman,h,7332,SetPiece,2021,LeftFoot,16635,Wolverhampton Wanderers,Leicester,2,1,2022-02-20 16:30:00,,None,7332
+460232,47,MissedShots,0.9119999694824219,0.48200000762939454,0.07189220190048218,Max Kilman,a,7332,SetPiece,2021,Head,16645,West Ham,Wolverhampton Wanderers,1,0,2022-02-27 14:00:00,Rúben Neves,Chipped,7332
+479291,82,MissedShots,0.9359999847412109,0.59,0.061051901429891586,Max Kilman,a,7332,FromCorner,2022,Head,18205,Leeds,Wolverhampton Wanderers,2,1,2022-08-06 14:00:00,Pedro Neto,Cross,7332
+481630,47,MissedShots,0.8669999694824219,0.5159999847412109,0.013044900260865688,Max Kilman,a,7332,FromCorner,2022,Head,18222,Tottenham,Wolverhampton Wanderers,1,0,2022-08-20 11:30:00,João Moutinho,Aerial,7332
+491638,48,MissedShots,0.924000015258789,0.47,0.2207220047712326,Max Kilman,a,7332,FromCorner,2022,Head,18295,Chelsea,Wolverhampton Wanderers,3,0,2022-10-08 14:00:00,João Moutinho,Aerial,7332
+493078,38,ShotOnPost,0.9059999847412109,0.45799999237060546,0.07682760059833527,Max Kilman,h,7332,OpenPlay,2022,Head,18311,Wolverhampton Wanderers,Nottingham Forest,1,0,2022-10-15 14:00:00,Adama Traoré,Cross,7332
+495550,13,MissedShots,0.9590000152587891,0.56,0.12436900287866592,Max Kilman,h,7332,FromCorner,2022,Head,18331,Wolverhampton Wanderers,Leicester,0,4,2022-10-23 13:00:00,João Moutinho,Cross,7332
+502574,17,BlockedShot,0.9169999694824219,0.41700000762939454,0.04875219985842705,Max Kilman,a,7332,FromCorner,2022,Head,18383,Aston Villa,Wolverhampton Wanderers,1,1,2023-01-04 20:00:00,João Moutinho,Cross,7332
+504963,85,MissedShots,0.9259999847412109,0.6179999923706054,0.012866100296378136,Max Kilman,a,7332,FromCorner,2022,Head,18409,Manchester City,Wolverhampton Wanderers,3,0,2023-01-22 14:00:00,João Moutinho,Aerial,7332
+507094,11,BlockedShot,0.9059999847412109,0.524000015258789,0.3624410033226013,Max Kilman,h,7332,SetPiece,2022,Head,18421,Wolverhampton Wanderers,Liverpool,3,0,2023-02-04 15:00:00,,None,7332
+510647,48,MissedShots,0.9219999694824219,0.5479999923706055,0.3221290111541748,Max Kilman,a,7332,SetPiece,2022,Head,18445,Fulham,Wolverhampton Wanderers,1,1,2023-02-24 20:00:00,Rúben Neves,Chipped,7332
+516329,67,MissedShots,0.7609999847412109,0.47900001525878905,0.025578200817108154,Max Kilman,a,7332,OpenPlay,2022,LeftFoot,18490,Nottingham Forest,Wolverhampton Wanderers,1,1,2023-04-01 14:00:00,Toti,Pass,7332
+520922,93,MissedShots,0.9490000152587891,0.56,0.05796007439494133,Max Kilman,a,7332,FromCorner,2022,Head,18518,Leicester,Wolverhampton Wanderers,2,1,2023-04-22 14:00:00,Daniel Podence,Aerial,7332
+521934,46,MissedShots,0.9269999694824219,0.455,0.04457966610789299,Max Kilman,h,7332,FromCorner,2022,Head,18527,Wolverhampton Wanderers,Crystal Palace,2,0,2023-04-25 18:30:00,Rúben Neves,Aerial,7332
+526036,54,MissedShots,0.9130000305175782,0.4879999923706055,0.036351218819618225,Max Kilman,a,7332,FromCorner,2022,Head,18560,Manchester United,Wolverhampton Wanderers,2,0,2023-05-13 14:00:00,Rúben Neves,Aerial,7332
+526037,57,MissedShots,0.9119999694824219,0.47200000762939454,0.0805094838142395,Max Kilman,a,7332,FromCorner,2022,Head,18560,Manchester United,Wolverhampton Wanderers,2,0,2023-05-13 14:00:00,Rúben Neves,Cross,7332
+532782,87,SavedShot,0.9219999694824219,0.6029999923706054,0.017349420115351677,Max Kilman,a,7332,SetPiece,2023,Head,22284,Manchester United,Wolverhampton Wanderers,1,0,2023-08-14 19:00:00,Matheus Nunes,Aerial,7332
+537344,1,MissedShots,0.919000015258789,0.61,0.027341511100530624,Max Kilman,h,7332,FromCorner,2023,Head,21935,Wolverhampton Wanderers,Liverpool,1,3,2023-09-16 11:30:00,Pedro Neto,Cross,7332
+539122,56,SavedShot,0.9519999694824218,0.53,0.6383761167526245,Max Kilman,a,7332,SetPiece,2023,LeftFoot,21945,Luton,Wolverhampton Wanderers,1,1,2023-09-23 14:00:00,,Rebound,7332
+550744,53,SavedShot,0.909000015258789,0.6040000152587891,0.01293906569480896,Max Kilman,a,7332,FromCorner,2023,Head,22018,Fulham,Wolverhampton Wanderers,3,2,2023-11-27 20:00:00,João Gomes,Aerial,7332
+556964,24,Goal,0.9830000305175781,0.544000015258789,0.7218176126480103,Max Kilman,h,7332,FromCorner,2023,LeftFoot,22094,Wolverhampton Wanderers,Everton,3,0,2023-12-30 15:00:00,,None,7332
+560847,48,BlockedShot,0.9180000305175782,0.565,0.04134621098637581,Max Kilman,h,7332,SetPiece,2023,Head,22111,Wolverhampton Wanderers,Manchester United,3,4,2024-02-01 20:15:00,Pedro Neto,Aerial,7332
+560864,84,Goal,0.9730000305175781,0.504000015258789,0.8638169169425964,Max Kilman,h,7332,FromCorner,2023,LeftFoot,22111,Wolverhampton Wanderers,Manchester United,3,4,2024-02-01 20:15:00,Craig Dawson,Rebound,7332
+562598,60,MissedShots,0.9430000305175781,0.5220000076293946,0.07133712619543076,Max Kilman,h,7332,FromCorner,2023,Head,22134,Wolverhampton Wanderers,Brentford,0,2,2024-02-10 15:00:00,Pedro Neto,Aerial,7332
+566694,85,MissedShots,0.794000015258789,0.3840000152587891,0.023471854627132416,Max Kilman,a,7332,OpenPlay,2023,LeftFoot,22161,Newcastle United,Wolverhampton Wanderers,3,0,2024-03-02 15:00:00,,None,7332
+568106,58,MissedShots,0.9119999694824219,0.395,0.012983379885554314,Max Kilman,h,7332,FromCorner,2023,Head,22174,Wolverhampton Wanderers,Fulham,2,1,2024-03-09 15:00:00,Pablo Sarabia,Aerial,7332
+570932,15,MissedShots,0.9059999847412109,0.6170000076293946,0.012065929360687733,Max Kilman,a,7332,FromCorner,2023,Head,22186,Aston Villa,Wolverhampton Wanderers,2,0,2024-03-30 17:30:00,Pablo Sarabia,Aerial,7332
+571826,38,BlockedShot,0.9009999847412109,0.49900001525878906,0.10291603207588196,Max Kilman,a,7332,FromCorner,2023,LeftFoot,22197,Burnley,Wolverhampton Wanderers,1,1,2024-04-02 18:45:00,,None,7332
+573789,61,BlockedShot,0.8809999847412109,0.5820000076293945,0.020349469035863876,Max Kilman,a,7332,FromCorner,2023,Head,22223,Nottingham Forest,Wolverhampton Wanderers,2,2,2024-04-13 14:00:00,Pablo Sarabia,Cross,7332
+579844,7,MissedShots,0.879000015258789,0.4879999923706055,0.032075975090265274,Max Kilman,h,7332,FromCorner,2023,Head,22264,Wolverhampton Wanderers,Crystal Palace,1,3,2024-05-11 14:00:00,João Gomes,Cross,7332
+586041,8,MissedShots,0.915,0.5309999847412109,0.08504483848810196,Max Kilman,a,7332,FromCorner,2024,Head,26613,Crystal Palace,West Ham,0,2,2024-08-24 14:00:00,Jarrod Bowen,Cross,7332
+589424,70,MissedShots,0.955999984741211,0.4929999923706055,0.49307331442832947,Max Kilman,h,7332,FromCorner,2024,Head,26628,West Ham,Manchester City,1,3,2024-08-31 16:30:00,Jarrod Bowen,Cross,7332
+598853,64,MissedShots,0.909000015258789,0.5670000076293945,0.039550453424453735,Max Kilman,h,7332,OpenPlay,2024,Head,26690,West Ham,Manchester United,2,1,2024-10-27 14:00:00,Michail Antonio,Aerial,7332
+598854,72,MissedShots,0.9630000305175781,0.495,0.5223097801208496,Max Kilman,h,7332,FromCorner,2024,Head,26690,West Ham,Manchester United,2,1,2024-10-27 14:00:00,Jarrod Bowen,Cross,7332
+605175,12,BlockedShot,0.935,0.505,0.1420920491218567,Max Kilman,a,7332,SetPiece,2024,RightFoot,26738,Leicester,West Ham,3,1,2024-12-03 20:15:00,,Rebound,7332
+605178,21,SavedShot,0.8580000305175781,0.644000015258789,0.013045987114310265,Max Kilman,a,7332,SetPiece,2024,Head,26738,Leicester,West Ham,3,1,2024-12-03 20:15:00,,None,7332
+606695,15,BlockedShot,0.9740000152587891,0.4109999847412109,0.0657072365283966,Max Kilman,h,7332,FromCorner,2024,Head,26746,West Ham,Wolverhampton Wanderers,2,1,2024-12-09 20:00:00,Crysencio Summerville,Cross,7332
+606699,23,BlockedShot,0.8959999847412109,0.5609999847412109,0.03652285784482956,Max Kilman,h,7332,OpenPlay,2024,Head,26746,West Ham,Wolverhampton Wanderers,2,1,2024-12-09 20:00:00,Aaron Wan-Bissaka,Aerial,7332
+607935,13,BlockedShot,0.9530000305175781,0.46900001525878904,0.058623798191547394,Max Kilman,a,7332,FromCorner,2024,Head,26754,Bournemouth,West Ham,1,1,2024-12-16 20:00:00,Carlos Soler,CornerAwarded,7332
+607938,18,SavedShot,0.965999984741211,0.49599998474121093,0.1002018004655838,Max Kilman,a,7332,FromCorner,2024,Head,26754,Bournemouth,West Ham,1,1,2024-12-16 20:00:00,Jarrod Bowen,Aerial,7332

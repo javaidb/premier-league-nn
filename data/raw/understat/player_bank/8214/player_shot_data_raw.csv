@@ -1,0 +1,32 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+383349,69,SavedShot,0.9309999847412109,0.6459999847412109,0.11092600226402283,Tyrick Mitchell,a,8214,OpenPlay,2020,LeftFoot,14489,Fulham,Crystal Palace,1,2,2020-10-24 14:00:00,Jairo Riedewald,Pass,8214
+422329,83,Goal,0.975999984741211,0.5070000076293946,0.9646120071411133,Tyrick Mitchell,h,8214,OpenPlay,2020,OtherBodyPart,14794,Crystal Palace,Aston Villa,3,2,2021-05-16 11:00:00,,Rebound,8214
+451009,48,BlockedShot,0.8859999847412109,0.6519999694824219,0.08275739848613739,Tyrick Mitchell,h,8214,OpenPlay,2021,LeftFoot,16579,Crystal Palace,West Ham,2,3,2022-01-01 17:30:00,Odsonne Edouard,Pass,8214
+459226,33,MissedShots,0.7880000305175782,0.6509999847412109,0.025490399450063705,Tyrick Mitchell,a,8214,OpenPlay,2021,LeftFoot,16553,Watford,Crystal Palace,1,4,2022-02-23 19:30:00,Wilfried Zaha,Pass,8214
+459816,16,BlockedShot,0.899000015258789,0.7090000152587891,0.059239499270915985,Tyrick Mitchell,h,8214,OpenPlay,2021,LeftFoot,16640,Crystal Palace,Burnley,1,1,2022-02-26 15:00:00,James McArthur,Pass,8214
+476376,64,BlockedShot,0.86,0.669000015258789,0.053892798721790314,Tyrick Mitchell,a,8214,OpenPlay,2021,LeftFoot,16745,Aston Villa,Crystal Palace,1,1,2022-05-15 13:00:00,Wilfried Zaha,Pass,8214
+498708,5,BlockedShot,0.86,0.5479999923706055,0.08296330273151398,Tyrick Mitchell,a,8214,OpenPlay,2022,LeftFoot,18350,West Ham,Crystal Palace,1,2,2022-11-06 14:00:00,,BallTouch,8214
+498719,48,BlockedShot,0.9080000305175782,0.6730000305175782,0.049591101706027985,Tyrick Mitchell,a,8214,OpenPlay,2022,LeftFoot,18350,West Ham,Crystal Palace,1,2,2022-11-06 14:00:00,,Rebound,8214
+504047,18,SavedShot,0.9569999694824218,0.5479999923706055,0.528639018535614,Tyrick Mitchell,a,8214,OpenPlay,2022,LeftFoot,18395,Chelsea,Crystal Palace,1,0,2023-01-15 14:00:00,,Aerial,8214
+516370,92,MissedShots,0.9690000152587891,0.5779999923706055,0.14640800654888153,Tyrick Mitchell,h,8214,OpenPlay,2022,LeftFoot,18486,Crystal Palace,Leicester,2,1,2023-04-01 14:00:00,,Rebound,8214
+520845,25,MissedShots,0.8430000305175781,0.6940000152587891,0.03948742523789406,Tyrick Mitchell,h,8214,OpenPlay,2022,LeftFoot,18516,Crystal Palace,Everton,0,0,2023-04-22 14:00:00,Jeffrey Schlupp,BallTouch,8214
+520860,84,BlockedShot,0.95,0.705,0.04913017153739929,Tyrick Mitchell,h,8214,OpenPlay,2022,LeftFoot,18516,Crystal Palace,Everton,0,0,2023-04-22 14:00:00,,None,8214
+534234,94,MissedShots,0.9269999694824219,0.6780000305175782,0.051525987684726715,Tyrick Mitchell,h,8214,OpenPlay,2023,LeftFoot,22294,Crystal Palace,Arsenal,0,1,2023-08-21 19:00:00,,Rebound,8214
+544089,18,MissedShots,0.8230000305175781,0.5870000076293945,0.03637315705418587,Tyrick Mitchell,a,8214,FromCorner,2023,LeftFoot,21981,Newcastle United,Crystal Palace,4,0,2023-10-21 14:00:00,,None,8214
+546903,93,Goal,0.879000015258789,0.5570000076293945,0.37314674258232117,Tyrick Mitchell,a,8214,OpenPlay,2023,LeftFoot,21996,Burnley,Crystal Palace,0,2,2023-11-04 15:00:00,Eberechi Eze,Pass,8214
+564764,55,SavedShot,0.9330000305175781,0.66,0.26001405715942383,Tyrick Mitchell,a,8214,OpenPlay,2023,LeftFoot,22137,Everton,Crystal Palace,1,1,2024-02-19 20:00:00,Jean-Philippe Mateta,Pass,8214
+568087,90,BlockedShot,0.9519999694824218,0.615,0.3679986596107483,Tyrick Mitchell,h,8214,OpenPlay,2023,LeftFoot,22170,Crystal Palace,Luton,1,1,2024-03-09 15:00:00,Jefferson Lerma,Pass,8214
+575532,8,MissedShots,0.8669999694824219,0.580999984741211,0.11392094194889069,Tyrick Mitchell,h,8214,OpenPlay,2023,RightFoot,22227,Crystal Palace,West Ham,5,2,2024-04-21 14:00:00,Eberechi Eze,Pass,8214
+575553,82,MissedShots,0.8769999694824219,0.7069999694824218,0.044289007782936096,Tyrick Mitchell,h,8214,OpenPlay,2023,LeftFoot,22227,Crystal Palace,West Ham,5,2,2024-04-21 14:00:00,,None,8214
+576285,94,BlockedShot,0.8719999694824219,0.6919999694824219,0.06260444223880768,Tyrick Mitchell,h,8214,OpenPlay,2023,LeftFoot,22178,Crystal Palace,Newcastle United,2,0,2024-04-24 19:00:00,Jeffrey Schlupp,Pass,8214
+579440,56,SavedShot,0.94,0.6990000152587891,0.07477578520774841,Tyrick Mitchell,h,8214,OpenPlay,2023,LeftFoot,22250,Crystal Palace,Manchester United,4,0,2024-05-06 19:00:00,Eberechi Eze,Pass,8214
+579442,57,Goal,0.9569999694824218,0.5029999923706054,0.6076993942260742,Tyrick Mitchell,h,8214,FromCorner,2023,LeftFoot,22250,Crystal Palace,Manchester United,4,0,2024-05-06 19:00:00,,None,8214
+579852,40,BlockedShot,0.9480000305175781,0.4540000152587891,0.1382094919681549,Tyrick Mitchell,a,8214,FromCorner,2023,RightFoot,22264,Wolverhampton Wanderers,Crystal Palace,1,3,2024-05-11 14:00:00,Joachim Andersen,HeadPass,8214
+582059,40,BlockedShot,0.92,0.6630000305175782,0.0810585618019104,Tyrick Mitchell,h,8214,OpenPlay,2023,RightFoot,22270,Crystal Palace,Aston Villa,5,0,2024-05-19 15:00:00,,Dispossessed,8214
+585153,6,MissedShots,0.88,0.64,0.06253562122583389,Tyrick Mitchell,a,8214,OpenPlay,2024,LeftFoot,26609,Brentford,Crystal Palace,2,1,2024-08-18 13:00:00,,None,8214
+589767,98,BlockedShot,0.9059999847412109,0.5209999847412109,0.103780098259449,Tyrick Mitchell,a,8214,FromCorner,2024,RightFoot,26630,Chelsea,Crystal Palace,1,1,2024-09-01 12:30:00,Ismaila Sarr,Pass,8214
+590818,83,SavedShot,0.879000015258789,0.7330000305175781,0.031843822449445724,Tyrick Mitchell,h,8214,OpenPlay,2024,LeftFoot,26636,Crystal Palace,Leicester,2,2,2024-09-14 14:00:00,,None,8214
+600338,70,BlockedShot,0.8959999847412109,0.6669999694824219,0.05115372687578201,Tyrick Mitchell,a,8214,OpenPlay,2024,LeftFoot,26701,Wolverhampton Wanderers,Crystal Palace,2,2,2024-11-02 17:30:00,Jean-Philippe Mateta,Rebound,8214
+602889,28,MissedShots,0.8830000305175781,0.6580000305175782,0.04757049307227135,Tyrick Mitchell,a,8214,OpenPlay,2024,LeftFoot,26716,Aston Villa,Crystal Palace,2,2,2024-11-23 15:00:00,Daniel Muñoz,Chipped,8214
+611661,45,MissedShots,0.855,0.6909999847412109,0.026629790663719177,Tyrick Mitchell,a,8214,OpenPlay,2024,LeftFoot,26806,Leicester,Crystal Palace,0,2,2025-01-15 19:30:00,Jean-Philippe Mateta,Cross,8214
+611664,60,SavedShot,0.9330000305175781,0.595999984741211,0.39725711941719055,Tyrick Mitchell,a,8214,OpenPlay,2024,LeftFoot,26806,Leicester,Crystal Palace,0,2,2025-01-15 19:30:00,Ismaila Sarr,Pass,8214

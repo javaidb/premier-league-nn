@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+372482,87,MissedShots,0.9590000152587891,0.41,0.07191500067710876,George Hirst,a,8563,FromCorner,2019,Head,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Demarai Gray,Cross,8563
+372483,90,MissedShots,0.8130000305175781,0.27100000381469724,0.021223099902272224,George Hirst,a,8563,OpenPlay,2019,RightFoot,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Demarai Gray,Pass,8563
+373850,90,SavedShot,0.905,0.6509999847412109,0.007464699912816286,George Hirst,h,8563,SetPiece,2019,Head,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Kasper Schmeichel,Aerial,8563
+592362,80,MissedShots,0.905,0.519000015258789,0.04118742793798447,George Hirst,a,8563,OpenPlay,2024,Head,26643,Southampton,Ipswich,1,1,2024-09-21 14:00:00,Omari Hutchinson,Aerial,8563
+592366,93,SavedShot,0.955,0.5070000076293946,0.48290765285491943,George Hirst,a,8563,OpenPlay,2024,Head,26643,Southampton,Ipswich,1,1,2024-09-21 14:00:00,Jack Clarke,Cross,8563
+598460,30,Goal,0.904000015258789,0.36,0.3358561098575592,George Hirst,a,8563,OpenPlay,2024,RightFoot,26685,Brentford,Ipswich,4,3,2024-10-26 14:00:00,Conor Chaplin,Throughball,8563
+613400,84,SavedShot,0.9059999847412109,0.4829999923706055,0.2919474244117737,George Hirst,a,8563,OpenPlay,2024,Head,26827,Liverpool,Ipswich,4,1,2025-01-25 15:00:00,Conor Townsend,Cross,8563

@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+412056,81,MissedShots,0.9269999694824219,0.37099998474121093,0.018329400569200516,Joe Rodon,a,6377,FromCorner,2020,Head,14606,Aston Villa,Tottenham,0,2,2021-03-21 19:30:00,Lucas Moura,BallTouch,6377
+479815,20,MissedShots,0.935,0.515,0.06607910245656967,Joe Rodon,h,6377,FromCorner,2022,Head,19656,Rennes,Lorient,0,1,2022-08-07 15:05:00,Benjamin Bourigeaud,Aerial,6377
+485403,31,MissedShots,0.9340000152587891,0.4909999847412109,0.06618119776248932,Joe Rodon,h,6377,FromCorner,2022,Head,19696,Rennes,Brest,3,1,2022-08-31 19:00:00,Benjamin Bourigeaud,Aerial,6377
+485408,52,Goal,0.925,0.54,0.046686600893735886,Joe Rodon,h,6377,FromCorner,2022,Head,19696,Rennes,Brest,3,1,2022-08-31 19:00:00,Lovro Majer,Aerial,6377
+486654,27,MissedShots,0.9019999694824219,0.49400001525878906,0.042769599705934525,Joe Rodon,a,6377,SetPiece,2022,Head,19707,Troyes,Rennes,1,1,2022-09-04 15:05:00,Benjamin Bourigeaud,Aerial,6377
+486672,78,MissedShots,0.9269999694824219,0.5659999847412109,0.03255769982933998,Joe Rodon,a,6377,FromCorner,2022,Head,19707,Troyes,Rennes,1,1,2022-09-04 15:05:00,Benjamin Bourigeaud,Aerial,6377
+489206,10,SavedShot,0.9290000152587891,0.5420000076293945,0.10949400067329407,Joe Rodon,a,6377,FromCorner,2022,Head,19725,Marseille,Rennes,1,1,2022-09-18 13:00:00,Benjamin Bourigeaud,Cross,6377
+492331,68,MissedShots,0.9319999694824219,0.545,0.11160799860954285,Joe Rodon,h,6377,FromCorner,2022,Head,19746,Rennes,Nantes,3,0,2022-10-09 15:05:00,Benjamin Bourigeaud,Cross,6377

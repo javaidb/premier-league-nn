@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+19190,7,BlockedShot,0.96,0.664000015258789,0.02423200011253357,Kyle Bartley,h,964,FromCorner,2014,LeftFoot,4592,Swansea,Queens Park Rangers,2,0,2014-12-02 19:45:00,Wilfried Bony,Aerial,964
+19189,7,SavedShot,0.955999984741211,0.40599998474121096,0.06556600332260132,Kyle Bartley,h,964,FromCorner,2014,Head,4592,Swansea,Queens Park Rangers,2,0,2014-12-02 19:45:00,Gylfi Sigurdsson,Cross,964
+19192,17,BlockedShot,0.8919999694824219,0.46099998474121096,0.07071109861135483,Kyle Bartley,h,964,SetPiece,2014,Head,4592,Swansea,Queens Park Rangers,2,0,2014-12-02 19:45:00,Gylfi Sigurdsson,Cross,964
+17540,81,MissedShots,0.82,0.445,0.03400139883160591,Kyle Bartley,a,964,FromCorner,2014,RightFoot,4606,West Ham,Swansea,3,1,2014-12-07 13:30:00,Wilfried Bony,Pass,964
+54811,11,MissedShots,0.9119999694824219,0.41900001525878905,0.04607509821653366,Kyle Bartley,h,964,FromCorner,2015,Head,202,Swansea,Bournemouth,2,2,2015-11-21 19:00:00,Jonjo Shelvey,Cross,964
+56175,27,MissedShots,0.915,0.445,0.07006630301475525,Kyle Bartley,a,964,FromCorner,2015,Head,219,Liverpool,Swansea,1,0,2015-11-29 20:15:00,Gylfi Sigurdsson,Cross,964
+159001,33,MissedShots,0.9319999694824219,0.5070000076293946,0.061425499618053436,Kyle Bartley,h,964,FromCorner,2017,Head,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Tom Carroll,Aerial,964
+187429,46,MissedShots,0.8980000305175782,0.34799999237060547,0.011062700301408768,Kyle Bartley,a,964,FromCorner,2017,Head,7345,Newcastle United,Swansea,1,1,2018-01-13 15:00:00,Ki Sung-yueng,Aerial,964
+379018,26,Goal,0.9540000152587891,0.4490000152587891,0.5151029825210571,Kyle Bartley,h,964,FromCorner,2020,RightFoot,14108,West Bromwich Albion,Chelsea,3,3,2020-09-26 16:30:00,Darnell Furlong,HeadPass,964
+387640,41,MissedShots,0.93,0.4879999923706055,0.11671599745750427,Kyle Bartley,a,964,FromCorner,2020,Head,14520,Manchester United,West Bromwich Albion,1,0,2020-11-21 20:00:00,Conor Gallagher,Cross,964
+389050,10,MissedShots,0.9440000152587891,0.4329999923706055,0.5375409722328186,Kyle Bartley,h,964,SetPiece,2020,RightFoot,14527,West Bromwich Albion,Sheffield United,1,0,2020-11-28 20:00:00,,None,964
+389056,33,SavedShot,0.9259999847412109,0.47900001525878905,0.10419800132513046,Kyle Bartley,h,964,FromCorner,2020,RightFoot,14527,West Bromwich Albion,Sheffield United,1,0,2020-11-28 20:00:00,,CornerAwarded,964
+389065,51,SavedShot,0.9169999694824219,0.48,0.1776449978351593,Kyle Bartley,h,964,FromCorner,2020,Head,14527,West Bromwich Albion,Sheffield United,1,0,2020-11-28 20:00:00,Matheus Pereira,Aerial,964
+390585,92,MissedShots,0.950999984741211,0.54,0.12532800436019897,Kyle Bartley,h,964,FromCorner,2020,Head,14543,West Bromwich Albion,Crystal Palace,1,5,2020-12-06 12:00:00,Matt Phillips,Cross,964
+401687,46,Goal,0.9209999847412109,0.5470000076293945,0.4799639880657196,Kyle Bartley,h,964,OpenPlay,2020,RightFoot,14640,West Bromwich Albion,Fulham,2,2,2021-01-30 15:00:00,,None,964
+401690,71,MissedShots,0.945,0.325,0.07957679778337479,Kyle Bartley,h,964,OpenPlay,2020,RightFoot,14640,West Bromwich Albion,Fulham,2,2,2021-01-30 15:00:00,Semi Ajayi,BallTouch,964
+406750,10,Goal,0.960999984741211,0.5059999847412109,0.1362600028514862,Kyle Bartley,h,964,FromCorner,2020,Head,14692,West Bromwich Albion,Brighton,1,0,2021-02-27 15:00:00,Conor Gallagher,Cross,964
+408841,67,MissedShots,0.915,0.43900001525878907,0.06564740091562271,Kyle Bartley,h,964,FromCorner,2020,Head,14703,West Bromwich Albion,Newcastle United,0,0,2021-03-07 12:00:00,Matt Phillips,Cross,964
+408844,82,BlockedShot,0.955999984741211,0.49400001525878906,0.13394199311733246,Kyle Bartley,h,964,FromCorner,2020,Head,14703,West Bromwich Albion,Newcastle United,0,0,2021-03-07 12:00:00,Matheus Pereira,Cross,964
+420847,18,BlockedShot,0.7219999694824218,0.4370000076293945,0.010421199724078178,Kyle Bartley,a,964,OpenPlay,2020,RightFoot,14775,Arsenal,West Bromwich Albion,3,1,2021-05-09 18:00:00,,Aerial,964
+422456,46,MissedShots,0.9569999694824218,0.59,0.026082100346684456,Kyle Bartley,h,964,FromCorner,2020,Head,14789,West Bromwich Albion,Liverpool,1,2,2021-05-16 15:30:00,Matheus Pereira,Aerial,964
+423993,2,MissedShots,0.9419999694824219,0.48,0.09297560155391693,Kyle Bartley,a,964,SetPiece,2020,Head,14808,Leeds,West Bromwich Albion,3,1,2021-05-23 15:00:00,Conor Gallagher,Aerial,964

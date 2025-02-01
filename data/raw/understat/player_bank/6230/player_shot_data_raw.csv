@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+158931,88,MissedShots,0.8880000305175781,0.585,0.034503400325775146,André Carrillo,h,6230,OpenPlay,2017,Head,7143,Watford,Brighton,0,0,2017-08-26 15:00:00,Kiko Femenía,Cross,6230
+159444,54,BlockedShot,0.9569999694824218,0.57,0.13829199969768524,André Carrillo,a,6230,FromCorner,2017,RightFoot,7150,Southampton,Watford,0,2,2017-09-09 15:00:00,,Rebound,6230
+159452,88,MissedShots,0.740999984741211,0.47299999237060547,0.026119999587535858,André Carrillo,a,6230,OpenPlay,2017,RightFoot,7150,Southampton,Watford,0,2,2017-09-09 15:00:00,Nathaniel Chalobah,TakeOn,6230
+159455,93,MissedShots,0.8580000305175781,0.34200000762939453,0.06802999973297119,André Carrillo,a,6230,OpenPlay,2017,LeftFoot,7150,Southampton,Watford,0,2,2017-09-09 15:00:00,Abdoulaye Doucouré,TakeOn,6230
+158950,47,MissedShots,0.8380000305175781,0.27700000762939453,0.027581000700592995,André Carrillo,h,6230,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Daryl Janmaat,BallTouch,6230
+160359,32,MissedShots,0.96,0.47200000762939454,0.6505360007286072,André Carrillo,a,6230,OpenPlay,2017,Head,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Richarlison,Rebound,6230
+161768,86,MissedShots,0.8109999847412109,0.7069999694824218,0.027367599308490753,André Carrillo,h,6230,OpenPlay,2017,RightFoot,7198,Watford,Arsenal,2,1,2017-10-14 17:30:00,Richarlison,BallRecovery,6230
+161795,64,MissedShots,0.850999984741211,0.4420000076293945,0.057790398597717285,André Carrillo,a,6230,FromCorner,2017,LeftFoot,7199,Chelsea,Watford,4,2,2017-10-21 19:30:00,,None,6230
+160115,56,BlockedShot,0.7919999694824219,0.35200000762939454,0.0256120003759861,André Carrillo,h,6230,OpenPlay,2017,LeftFoot,7216,Watford,Stoke,0,1,2017-10-28 15:00:00,Etienne Capoue,TakeOn,6230
+160120,72,BlockedShot,0.795,0.3629999923706055,0.0320252999663353,André Carrillo,h,6230,OpenPlay,2017,RightFoot,7216,Watford,Stoke,0,1,2017-10-28 15:00:00,Tom Cleverley,TakeOn,6230
+160979,62,BlockedShot,0.775,0.34299999237060547,0.015528099611401558,André Carrillo,h,6230,OpenPlay,2017,RightFoot,7251,Watford,Manchester United,2,4,2017-11-28 20:00:00,Tom Cleverley,TakeOn,6230
+182793,57,BlockedShot,0.889000015258789,0.645,0.06667789816856384,André Carrillo,h,6230,SetPiece,2017,RightFoot,7296,Watford,Huddersfield,1,4,2017-12-16 15:00:00,Christian Kabasele,HeadPass,6230
+182925,2,MissedShots,0.9290000152587891,0.445,0.08133140206336975,André Carrillo,a,6230,OpenPlay,2017,Head,7305,Brighton,Watford,1,0,2017-12-23 15:00:00,José Holebas,Pass,6230
+182930,28,BlockedShot,0.7219999694824218,0.49900001525878906,0.018133599311113358,André Carrillo,a,6230,OpenPlay,2017,RightFoot,7305,Brighton,Watford,1,0,2017-12-23 15:00:00,Richarlison,Pass,6230
+186055,10,Goal,0.9169999694824219,0.5070000076293946,0.3778569996356964,André Carrillo,h,6230,OpenPlay,2017,Head,7327,Watford,Swansea,1,2,2017-12-30 15:00:00,,Rebound,6230
+186450,42,SavedShot,0.875,0.6509999847412109,0.07325919717550278,André Carrillo,a,6230,OpenPlay,2017,LeftFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Andre Gray,TakeOn,6230
+187441,18,BlockedShot,0.88,0.40799999237060547,0.08481130003929138,André Carrillo,h,6230,OpenPlay,2017,RightFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Andre Gray,BallTouch,6230
+187458,61,MissedShots,0.7780000305175782,0.3659999847412109,0.01827630028128624,André Carrillo,h,6230,FromCorner,2017,RightFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,,None,6230
+188737,1,MissedShots,0.8019999694824219,0.46799999237060547,0.030983099713921547,André Carrillo,a,6230,FromCorner,2017,RightFoot,7353,Leicester,Watford,2,0,2018-01-20 15:00:00,,None,6230
+198911,7,MissedShots,0.8619999694824219,0.6,0.02476239949464798,André Carrillo,h,6230,FromCorner,2017,LeftFoot,7408,Watford,West Bromwich Albion,1,0,2018-03-03 15:00:00,,Aerial,6230
+198926,64,MissedShots,0.725999984741211,0.5570000076293945,0.016213100403547287,André Carrillo,h,6230,OpenPlay,2017,RightFoot,7408,Watford,West Bromwich Albion,1,0,2018-03-03 15:00:00,Roberto Pereyra,Pass,6230
+212820,90,BlockedShot,0.865999984741211,0.34200000762939453,0.03835979849100113,André Carrillo,a,6230,OpenPlay,2017,LeftFoot,7477,Tottenham,Watford,2,0,2018-04-30 19:00:00,Abdoulaye Doucouré,TakeOn,6230
+212822,94,SavedShot,0.9719999694824218,0.3270000076293945,0.05171170085668564,André Carrillo,a,6230,OpenPlay,2017,RightFoot,7477,Tottenham,Watford,2,0,2018-04-30 19:00:00,Gerard Deulofeu,TakeOn,6230

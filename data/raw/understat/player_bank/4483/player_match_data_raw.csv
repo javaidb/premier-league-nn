@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,22,Sub,Brighton,Southampton,0,1,2019-03-30,9516,2018,317967,0,0,0,0,0,0,0,4483
+0,0,0,1,Sub,Manchester United,Southampton,3,2,2019-03-02,9481,2018,305289,0,0,0,0,0,0,0,4483
+0,0,0,6,Sub,Southampton,Cardiff,1,2,2019-02-09,9453,2018,304532,0,0,0,0,0,0,0,4483
+0,0,0,1,Sub,Leicester,Southampton,1,2,2019-01-12,9410,2018,303480,0,0,0,0,0,0,0,4483

@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+9683,Mads Bech Sørensen,11,841,0,0.07186190038919449,0,0.34183360263705254,2,7,3,0,D S,Brentford,0,0.07186190038919449,1.5663126846775413,1.2244802778586745,2021
+9683,Mads Bech Sørensen,4,13,0,0,0,0,0,0,0,0,S,Brentford,0,0,0.014539799652993679,0.014539799652993679,2022

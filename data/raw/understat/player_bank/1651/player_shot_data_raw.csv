@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+23159,63,OwnGoal,0.012000000476837159,0.5070000076293946,0,Tom Heaton,h,1651,FromCorner,2014,OtherBodyPart,4549,Burnley,Swansea,0,1,2015-02-28 15:00:00,,Save,1651
+286300,92,MissedShots,0.8969999694824219,0.5070000076293946,0.058809999376535416,Tom Heaton,h,1651,FromCorner,2018,Head,9504,Burnley,Leicester,1,2,2019-03-16 15:00:00,Ashley Westwood,Cross,1651
+334497,41,OwnGoal,0.01,0.4929999923706055,0,Tom Heaton,a,1651,FromCorner,2019,OtherBodyPart,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,,End,1651

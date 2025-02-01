@@ -1,0 +1,3 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+376852,86,BlockedShot,0.8880000305175781,0.41,0.06261110305786133,Kyle Edwards,h,8758,OpenPlay,2020,RightFoot,14092,West Bromwich Albion,Leicester,0,3,2020-09-13 13:00:00,,None,8758
+380953,16,SavedShot,0.8530000305175781,0.34200000762939453,0.056204698979854584,Kyle Edwards,a,8758,OpenPlay,2020,LeftFoot,14473,Southampton,West Bromwich Albion,2,0,2020-10-04 11:00:00,Romaine Sawyers,Pass,8758

@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+18145,90,MissedShots,0.9269999694824219,0.49700000762939456,0.10869999974966049,Mikael Mandron,h,912,OpenPlay,2014,Head,4561,Sunderland,Liverpool,0,1,2015-01-10 12:45:00,William Buckley,Cross,912

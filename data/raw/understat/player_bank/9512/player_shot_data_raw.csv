@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+427528,51,MissedShots,0.7569999694824219,0.36900001525878906,0.024040499702095985,Valentino Livramento,h,9512,OpenPlay,2021,RightFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,Che Adams,Pass,9512
+434094,54,SavedShot,0.905,0.29200000762939454,0.05074030160903931,Valentino Livramento,h,9512,OpenPlay,2021,RightFoot,16433,Southampton,Wolverhampton Wanderers,0,1,2021-09-26 13:00:00,Adam Armstrong,Pass,9512
+436308,27,MissedShots,0.750999984741211,0.435,0.017588499933481216,Valentino Livramento,h,9512,OpenPlay,2021,LeftFoot,16454,Southampton,Leeds,1,0,2021-10-16 14:00:00,Nathan Redmond,Pass,9512
+437736,38,BlockedShot,0.905,0.34900001525878904,0.055328499525785446,Valentino Livramento,h,9512,OpenPlay,2021,LeftFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Oriol Romeu,Chipped,9512
+437737,40,Goal,0.955,0.44299999237060544,0.12309899926185608,Valentino Livramento,h,9512,FromCorner,2021,Head,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Nathan Redmond,Cross,9512
+437746,81,MissedShots,0.8380000305175781,0.3029999923706055,0.01663370057940483,Valentino Livramento,h,9512,OpenPlay,2021,RightFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Stuart Armstrong,HeadPass,9512
+446163,11,BlockedShot,0.8540000152587891,0.37099998474121093,0.07120340317487717,Valentino Livramento,h,9512,OpenPlay,2021,LeftFoot,16521,Southampton,Brighton,1,1,2021-12-04 15:00:00,Lyanco,Pass,9512
+446165,13,MissedShots,0.8859999847412109,0.575999984741211,0.07772909849882126,Valentino Livramento,h,9512,FromCorner,2021,RightFoot,16521,Southampton,Brighton,1,1,2021-12-04 15:00:00,Oriol Romeu,HeadPass,9512
+458335,31,SavedShot,0.97,0.4859999847412109,0.5564069747924805,Valentino Livramento,h,9512,FromCorner,2021,RightFoot,16633,Southampton,Everton,2,0,2022-02-19 15:00:00,James Ward-Prowse,Cross,9512
+462168,42,MissedShots,0.935,0.45,0.10905200242996216,Valentino Livramento,h,9512,FromCorner,2021,Head,16584,Southampton,Newcastle United,1,2,2022-03-10 19:30:00,James Ward-Prowse,Cross,9512
+465293,82,MissedShots,0.9359999847412109,0.28299999237060547,0.026575099676847458,Valentino Livramento,a,9512,OpenPlay,2021,RightFoot,16681,Leeds,Southampton,1,1,2022-04-02 14:00:00,Stuart Armstrong,Cross,9512
+470466,12,BlockedShot,0.764000015258789,0.2979999923706055,0.01715880073606968,Valentino Livramento,a,9512,OpenPlay,2021,RightFoot,16713,Brighton,Southampton,2,2,2022-04-24 13:00:00,Che Adams,Pass,9512
+554316,51,BlockedShot,0.8730000305175781,0.7390000152587891,0.024373112246394157,Valentino Livramento,h,9512,OpenPlay,2023,RightFoot,22062,Newcastle United,Fulham,3,0,2023-12-16 15:00:00,,Rebound,9512
+566696,91,Goal,0.9369999694824219,0.44799999237060545,0.5532678365707397,Valentino Livramento,h,9512,OpenPlay,2023,RightFoot,22161,Newcastle United,Wolverhampton Wanderers,3,0,2024-03-02 15:00:00,Fabian Schär,TakeOn,9512
+569026,75,BlockedShot,0.8959999847412109,0.644000015258789,0.04423995688557625,Valentino Livramento,a,9512,OpenPlay,2023,RightFoot,22169,Chelsea,Newcastle United,3,2,2024-03-11 20:00:00,Joe Willock,HeadPass,9512
+578432,24,SavedShot,0.9019999694824219,0.36400001525878906,0.33916497230529785,Valentino Livramento,a,9512,OpenPlay,2023,RightFoot,22248,Burnley,Newcastle United,1,4,2024-05-04 14:00:00,Callum Wilson,Pass,9512
+607001,28,MissedShots,0.7769999694824219,0.3370000076293945,0.023102259263396263,Valentino Livramento,h,9512,OpenPlay,2024,RightFoot,26760,Newcastle United,Leicester,4,0,2024-12-14 15:00:00,Sandro Tonali,Pass,9512
+613380,91,MissedShots,0.784000015258789,0.3629999923706055,0.019039712846279144,Valentino Livramento,a,9512,FromCorner,2024,RightFoot,26829,Southampton,Newcastle United,1,3,2025-01-25 15:00:00,,None,9512

@@ -1,0 +1,59 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+24387,5,MissedShots,0.96,0.6079999923706054,0.08863160014152527,Håvard Nordtveit,h,202,OpenPlay,2014,RightFoot,5455,Borussia M.Gladbach,VfB Stuttgart,1,1,2014-08-24 16:30:00,Julian Korb,Chipped,202
+24402,60,SavedShot,0.655,0.33599998474121096,0.010231100022792816,Håvard Nordtveit,h,202,FromCorner,2014,RightFoot,5455,Borussia M.Gladbach,VfB Stuttgart,1,1,2014-08-24 16:30:00,,Rebound,202
+25226,87,MissedShots,0.925,0.4640000152587891,0.13256999850273132,Håvard Nordtveit,a,202,SetPiece,2014,Head,5428,FC Cologne,Borussia M.Gladbach,0,0,2014-09-21 16:30:00,Raffael,Cross,202
+26542,51,SavedShot,0.7869999694824219,0.43900001525878907,0.10429699718952179,Håvard Nordtveit,h,202,DirectFreekick,2014,RightFoot,5353,Borussia M.Gladbach,Hoffenheim,3,1,2014-11-02 14:30:00,,Standard,202
+26977,4,Goal,0.799000015258789,0.3729999923706055,0.02889470010995865,Håvard Nordtveit,h,202,OpenPlay,2014,LeftFoot,5367,Borussia M.Gladbach,Eintracht Frankfurt,1,3,2014-11-22 14:30:00,Granit Xhaka,Pass,202
+26997,55,MissedShots,0.815,0.3629999923706055,0.03799210116267204,Håvard Nordtveit,h,202,OpenPlay,2014,RightFoot,5367,Borussia M.Gladbach,Eintracht Frankfurt,1,3,2014-11-22 14:30:00,,None,202
+27556,14,BlockedShot,0.7580000305175781,0.5570000076293945,0.021264100447297096,Håvard Nordtveit,a,202,OpenPlay,2014,RightFoot,5381,Wolfsburg,Borussia M.Gladbach,1,0,2014-11-30 14:30:00,Max Kruse,Pass,202
+27557,16,BlockedShot,0.730999984741211,0.5279999923706055,0.0555013008415699,Håvard Nordtveit,a,202,DirectFreekick,2014,RightFoot,5381,Wolfsburg,Borussia M.Gladbach,1,0,2014-11-30 14:30:00,,Standard,202
+29570,34,BlockedShot,0.749000015258789,0.34,0.05227480083703995,Håvard Nordtveit,a,202,DirectFreekick,2014,RightFoot,5296,Hamburger SV,Borussia M.Gladbach,1,1,2015-02-22 14:30:00,,Standard,202
+29071,52,BlockedShot,0.755,0.5459999847412109,0.029754100367426872,Håvard Nordtveit,h,202,OpenPlay,2014,RightFoot,5231,Borussia M.Gladbach,Paderborn,2,0,2015-03-01 14:30:00,Granit Xhaka,TakeOn,202
+30955,66,Goal,0.9530000305175781,0.5670000076293945,0.529350996017456,Håvard Nordtveit,h,202,FromCorner,2014,RightFoot,5207,Borussia M.Gladbach,Borussia Dortmund,3,1,2015-04-11 14:30:00,,None,202
+31241,31,BlockedShot,0.8019999694824219,0.6819999694824219,0.02282949909567833,Håvard Nordtveit,h,202,FromCorner,2014,RightFoot,5191,Borussia M.Gladbach,Augsburg,1,3,2015-05-23 14:30:00,Patrick Herrmann,Pass,202
+76832,23,MissedShots,0.6990000152587891,0.5270000076293946,0.039889201521873474,Håvard Nordtveit,h,202,DirectFreekick,2015,RightFoot,1048,Borussia M.Gladbach,Hamburger SV,0,3,2015-09-11 22:30:00,,Standard,202
+76851,91,MissedShots,0.92,0.4759999847412109,0.04732799902558327,Håvard Nordtveit,h,202,FromCorner,2015,Head,1048,Borussia M.Gladbach,Hamburger SV,0,3,2015-09-11 22:30:00,Thorgan Hazard,Aerial,202
+77315,80,MissedShots,0.76,0.6719999694824219,0.0558071993291378,Håvard Nordtveit,h,202,DirectFreekick,2015,RightFoot,1073,Borussia M.Gladbach,Augsburg,4,2,2015-09-23 22:00:00,,Standard,202
+77781,74,Goal,0.77,0.40599998474121096,0.012551899999380112,Håvard Nordtveit,h,202,OpenPlay,2015,RightFoot,1085,Borussia M.Gladbach,Wolfsburg,2,0,2015-10-03 17:30:00,Raffael,Chipped,202
+78249,59,MissedShots,0.730999984741211,0.5790000152587891,0.014857799746096134,Håvard Nordtveit,h,202,FromCorner,2015,RightFoot,1110,Borussia M.Gladbach,Schalke 04,3,1,2015-10-25 20:30:00,,None,202
+78609,43,BlockedShot,0.7909999847412109,0.23600000381469727,0.02205199934542179,Håvard Nordtveit,a,202,FromCorner,2015,RightFoot,1113,Hertha Berlin,Borussia M.Gladbach,1,4,2015-10-31 18:30:00,Ibrahima Traoré,Cross,202
+78623,90,Goal,0.9169999694824219,0.3,0.08420330286026001,Håvard Nordtveit,a,202,OpenPlay,2015,RightFoot,1113,Hertha Berlin,Borussia M.Gladbach,1,4,2015-10-31 18:30:00,Marvin Schulz,Pass,202
+78892,17,BlockedShot,0.649000015258789,0.4159999847412109,0.02655390091240406,Håvard Nordtveit,h,202,DirectFreekick,2015,RightFoot,1133,Borussia M.Gladbach,Hannover 96,2,1,2015-11-21 18:30:00,,Standard,202
+78912,73,BlockedShot,0.8219999694824218,0.2560000038146973,0.024477500468492508,Håvard Nordtveit,h,202,OpenPlay,2015,RightFoot,1133,Borussia M.Gladbach,Hannover 96,2,1,2015-11-21 18:30:00,Lars Stindl,Pass,202
+79256,9,SavedShot,0.9169999694824219,0.6329999923706054,0.011957899667322636,Håvard Nordtveit,a,202,FromCorner,2015,Head,1141,Hoffenheim,Borussia M.Gladbach,3,3,2015-11-28 18:30:00,Raffael,Aerial,202
+79382,30,BlockedShot,0.8119999694824219,0.5990000152587891,0.04277219995856285,Håvard Nordtveit,h,202,OpenPlay,2015,LeftFoot,1148,Borussia M.Gladbach,Bayern Munich,3,1,2015-12-05 18:30:00,Raffael,Pass,202
+79871,50,Goal,0.759000015258789,0.29100000381469726,0.04844360053539276,Håvard Nordtveit,h,202,DirectFreekick,2015,RightFoot,1173,Borussia M.Gladbach,Darmstadt,3,2,2015-12-20 20:30:00,,Standard,202
+80476,8,SavedShot,0.894000015258789,0.5459999847412109,0.017127199098467827,Håvard Nordtveit,a,202,FromCorner,2015,Head,1183,Mainz 05,Borussia M.Gladbach,1,0,2016-01-29 23:30:00,Raffael,Aerial,202
+80592,87,Goal,0.7090000152587891,0.43099998474121093,0.014496199786663055,Håvard Nordtveit,h,202,OpenPlay,2015,RightFoot,1192,Borussia M.Gladbach,Werder Bremen,5,1,2016-02-05 23:30:00,,None,202
+80815,93,BlockedShot,0.879000015258789,0.6409999847412109,0.05200520157814026,Håvard Nordtveit,a,202,FromCorner,2015,RightFoot,1208,Hamburger SV,Borussia M.Gladbach,3,2,2016-02-14 18:30:00,,None,202
+81078,41,SavedShot,0.909000015258789,0.605,0.044927701354026794,Håvard Nordtveit,h,202,SetPiece,2015,Head,1215,Borussia M.Gladbach,FC Cologne,1,0,2016-02-20 18:30:00,Raffael,Cross,202
+81080,46,BlockedShot,0.6890000152587891,0.4209999847412109,0.03508489951491356,Håvard Nordtveit,h,202,DirectFreekick,2015,RightFoot,1215,Borussia M.Gladbach,FC Cologne,1,0,2016-02-20 18:30:00,,Standard,202
+81553,83,SavedShot,0.68,0.745,0.025861799716949463,Håvard Nordtveit,h,202,DirectFreekick,2015,RightFoot,1236,Borussia M.Gladbach,VfB Stuttgart,4,0,2016-03-02 23:00:00,,Standard,202
+82486,56,MissedShots,0.7390000152587891,0.39799999237060546,0.015224600210785866,Håvard Nordtveit,h,202,FromCorner,2015,RightFoot,1271,Borussia M.Gladbach,Hertha Berlin,5,0,2016-04-03 17:30:00,Oscar Wendt,None,202
+82836,76,MissedShots,0.7580000305175781,0.8719999694824219,0.02728939987719059,Håvard Nordtveit,a,202,DirectFreekick,2015,RightFoot,1274,Ingolstadt,Borussia M.Gladbach,1,0,2016-04-09 17:30:00,,Standard,202
+83094,40,MissedShots,0.889000015258789,0.5179999923706055,0.25120899081230164,Håvard Nordtveit,h,202,SetPiece,2015,Head,1298,Borussia M.Gladbach,Hoffenheim,3,1,2016-04-24 17:30:00,Ibrahima Traoré,Chipped,202
+83961,64,MissedShots,0.73,0.6719999694824219,0.01826629973948002,Håvard Nordtveit,a,202,OpenPlay,2015,RightFoot,1326,Darmstadt,Borussia M.Gladbach,0,2,2016-05-14 17:30:00,Granit Xhaka,Pass,202
+83965,76,MissedShots,0.855999984741211,0.3240000152587891,0.06507570296525955,Håvard Nordtveit,a,202,OpenPlay,2015,RightFoot,1326,Darmstadt,Borussia M.Gladbach,0,2,2016-05-14 17:30:00,Julian Korb,Pass,202
+114891,94,BlockedShot,0.7519999694824219,0.3129999923706055,0.013728500343859196,Håvard Nordtveit,a,202,OpenPlay,2016,RightFoot,537,Crystal Palace,West Ham,0,1,2016-10-15 20:30:00,Jonathan Calleri,Chipped,202
+116815,77,MissedShots,0.7880000305175782,0.3270000076293945,0.01682410016655922,Håvard Nordtveit,a,202,OpenPlay,2016,RightFoot,3146,Swansea,West Ham,1,4,2016-12-26 19:00:00,,Rebound,202
+117426,65,BlockedShot,0.720999984741211,0.48700000762939455,0.010816800408065319,Håvard Nordtveit,a,202,SetPiece,2016,RightFoot,3156,Leicester,West Ham,1,0,2016-12-31 15:00:00,,None,202
+117076,10,MissedShots,0.8069999694824219,0.5159999847412109,0.034016501158475876,Håvard Nordtveit,h,202,FromCorner,2016,RightFoot,3335,West Ham,Manchester United,0,2,2017-01-02 21:15:00,,None,202
+120884,27,SavedShot,0.7680000305175781,0.4929999923706055,0.029538899660110474,Håvard Nordtveit,h,202,FromCorner,2016,LeftFoot,3479,West Ham,Everton,0,0,2017-04-22 15:00:00,,Rebound,202
+120883,27,BlockedShot,0.735999984741211,0.43900001525878907,0.01516489963978529,Håvard Nordtveit,h,202,FromCorner,2016,RightFoot,3479,West Ham,Everton,0,0,2017-04-22 15:00:00,,None,202
+121041,54,BlockedShot,0.7630000305175781,0.675,0.013195600360631943,Håvard Nordtveit,a,202,FromCorner,2016,RightFoot,3485,Stoke,West Ham,0,0,2017-04-29 15:00:00,,Aerial,202
+165795,14,MissedShots,0.919000015258789,0.40599998474121096,0.0872747004032135,Håvard Nordtveit,h,202,FromCorner,2017,LeftFoot,8260,Hoffenheim,Werder Bremen,1,0,2017-08-19 14:30:00,,None,202
+167211,41,SavedShot,0.7340000152587891,0.6609999847412109,0.045278601348400116,Håvard Nordtveit,a,202,DirectFreekick,2017,RightFoot,8303,Mainz 05,Hoffenheim,2,3,2017-09-20 19:30:00,,Standard,202
+166635,10,SavedShot,0.9219999694824219,0.47200000762939454,0.12928999960422516,Håvard Nordtveit,h,202,SetPiece,2017,Head,8309,Hoffenheim,Schalke 04,2,0,2017-09-23 14:30:00,Nadiem Amiri,Cross,202
+201321,81,SavedShot,0.8540000152587891,0.40099998474121096,0.0799964964389801,Håvard Nordtveit,a,202,OpenPlay,2017,RightFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Mark Uth,Pass,202
+204519,86,SavedShot,0.759000015258789,0.44299999237060544,0.04375870153307915,Håvard Nordtveit,h,202,OpenPlay,2017,RightFoot,8506,Hoffenheim,FC Cologne,6,0,2018-03-31 14:30:00,Florian Grillitsch,Pass,202
+208349,71,BlockedShot,0.775,0.4779999923706055,0.04095949977636337,Håvard Nordtveit,h,202,OpenPlay,2017,LeftFoot,8521,Hoffenheim,Hamburger SV,2,0,2018-04-14 13:30:00,Pavel Kaderábek,Pass,202
+255800,84,MissedShots,0.740999984741211,0.26399999618530273,0.019012199714779854,Håvard Nordtveit,h,202,OpenPlay,2018,RightFoot,10409,Hoffenheim,VfB Stuttgart,4,0,2018-10-27 16:30:00,Kerem Demirbay,Pass,202
+256192,31,MissedShots,0.915,0.45599998474121095,0.08318410068750381,Håvard Nordtveit,h,202,FromCorner,2018,Head,10427,Hoffenheim,Augsburg,2,1,2018-11-10 14:30:00,Andrej Kramaric,Cross,202
+256473,52,MissedShots,0.92,0.4929999923706055,0.10808700323104858,Håvard Nordtveit,a,202,FromCorner,2018,Head,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,Kerem Demirbay,Cross,202
+256476,59,MissedShots,0.8969999694824219,0.5059999847412109,0.021637100726366043,Håvard Nordtveit,a,202,FromCorner,2018,Head,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,Kerem Demirbay,Aerial,202
+359810,94,BlockedShot,0.8730000305175781,0.485,0.0740509033203125,Håvard Nordtveit,a,202,SetPiece,2019,RightFoot,12603,Borussia M.Gladbach,Hoffenheim,1,1,2020-02-22 14:30:00,,None,202
+360756,10,MissedShots,0.9319999694824219,0.5259999847412109,0.3696010112762451,Håvard Nordtveit,h,202,FromCorner,2019,Head,12613,Hoffenheim,Bayern Munich,0,6,2020-02-29 14:30:00,Florian Grillitsch,Cross,202
+393891,59,MissedShots,0.9380000305175781,0.41900001525878905,0.030059000477194786,Håvard Nordtveit,a,202,FromCorner,2020,Head,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Robert Skov,Aerial,202
+401662,87,MissedShots,0.875,0.44299999237060544,0.025986500084400177,Håvard Nordtveit,a,202,FromCorner,2020,Head,15302,Bayern Munich,Hoffenheim,4,1,2021-01-30 14:30:00,Sebastian Rudy,Cross,202
+401661,87,SavedShot,0.8769999694824219,0.6909999847412109,0.061048299074172974,Håvard Nordtveit,a,202,OpenPlay,2020,RightFoot,15302,Bayern Munich,Hoffenheim,4,1,2021-01-30 14:30:00,Andrej Kramaric,Pass,202
+469907,79,MissedShots,0.885,0.49200000762939455,0.046768199652433395,Håvard Nordtveit,a,202,FromCorner,2021,Head,17791,Eintracht Frankfurt,Hoffenheim,2,2,2022-04-23 13:30:00,Stefan Posch,HeadPass,202

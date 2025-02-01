@@ -1,0 +1,284 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14443,3,BlockedShot,0.7880000305175782,0.5129999923706055,0.040882598608732224,André Schürrle,a,154,OpenPlay,2014,RightFoot,4758,Burnley,Chelsea,1,3,2014-08-18 20:00:00,Cesc Fàbregas,Pass,154
+14449,20,Goal,0.9590000152587891,0.4370000076293945,0.6008729934692383,André Schürrle,a,154,OpenPlay,2014,RightFoot,4758,Burnley,Chelsea,1,3,2014-08-18 20:00:00,Cesc Fàbregas,Throughball,154
+14453,35,BlockedShot,0.8590000152587891,0.575,0.1383640021085739,André Schürrle,a,154,OpenPlay,2014,LeftFoot,4758,Burnley,Chelsea,1,3,2014-08-18 20:00:00,Diego Costa,Throughball,154
+14457,53,MissedShots,0.75,0.36400001525878906,0.05292920023202896,André Schürrle,a,154,DirectFreekick,2014,RightFoot,4758,Burnley,Chelsea,1,3,2014-08-18 20:00:00,,Standard,154
+14460,61,BlockedShot,0.7780000305175782,0.20200000762939452,0.01938050054013729,André Schürrle,a,154,OpenPlay,2014,RightFoot,4758,Burnley,Chelsea,1,3,2014-08-18 20:00:00,Nemanja Matic,Pass,154
+14669,2,BlockedShot,0.7769999694824219,0.515,0.022331399843096733,André Schürrle,h,154,FromCorner,2014,LeftFoot,4760,Chelsea,Leicester,2,0,2014-08-23 15:00:00,,None,154
+14671,8,MissedShots,0.8180000305175781,0.42900001525878906,0.06254260241985321,André Schürrle,h,154,OpenPlay,2014,RightFoot,4760,Chelsea,Leicester,2,0,2014-08-23 15:00:00,Diego Costa,Pass,154
+14674,28,MissedShots,0.9080000305175782,0.5559999847412109,0.07420309633016586,André Schürrle,h,154,OpenPlay,2014,Head,4760,Chelsea,Leicester,2,0,2014-08-23 15:00:00,Eden Hazard,Cross,154
+14680,43,MissedShots,0.8040000152587891,0.6229999923706054,0.03521360084414482,André Schürrle,h,154,OpenPlay,2014,LeftFoot,4760,Chelsea,Leicester,2,0,2014-08-23 15:00:00,,None,154
+14684,52,MissedShots,0.855,0.7559999847412109,0.02610429935157299,André Schürrle,h,154,OpenPlay,2014,RightFoot,4760,Chelsea,Leicester,2,0,2014-08-23 15:00:00,Oscar,Pass,154
+14690,57,BlockedShot,0.7519999694824219,0.44400001525878907,0.021745100617408752,André Schürrle,h,154,OpenPlay,2014,RightFoot,4760,Chelsea,Leicester,2,0,2014-08-23 15:00:00,Eden Hazard,Pass,154
+15187,32,MissedShots,0.749000015258789,0.625999984741211,0.05382530018687248,André Schürrle,h,154,DirectFreekick,2014,RightFoot,4720,Chelsea,Swansea,4,2,2014-09-13 15:00:00,,Standard,154
+15545,70,Goal,0.965999984741211,0.53,0.6522250175476074,André Schürrle,a,154,OpenPlay,2014,LeftFoot,4737,Manchester City,Chelsea,1,1,2014-09-21 16:00:00,Eden Hazard,Cross,154
+15718,82,BlockedShot,0.9030000305175782,0.74,0.07067769765853882,André Schürrle,h,154,OpenPlay,2014,RightFoot,4742,Chelsea,Aston Villa,3,0,2014-09-27 15:00:00,Willian,Chipped,154
+15719,85,BlockedShot,0.8059999847412109,0.4229999923706055,0.062349800020456314,André Schürrle,h,154,OpenPlay,2014,RightFoot,4742,Chelsea,Aston Villa,3,0,2014-09-27 15:00:00,Willian,Pass,154
+17040,81,SavedShot,0.774000015258789,0.534000015258789,0.03901910036802292,André Schürrle,h,154,OpenPlay,2014,RightFoot,4653,Chelsea,Queens Park Rangers,2,1,2014-11-01 15:00:00,Cesc Fàbregas,Pass,154
+20062,61,SavedShot,0.720999984741211,0.5220000076293946,0.01639859937131405,André Schürrle,a,154,OpenPlay,2014,RightFoot,4599,Newcastle United,Chelsea,2,1,2014-12-06 12:45:00,César Azpilicueta,Pass,154
+17837,83,BlockedShot,0.8630000305175781,0.4640000152587891,0.12875400483608246,André Schürrle,h,154,OpenPlay,2014,RightFoot,4610,Chelsea,Hull,2,0,2014-12-13 15:00:00,Didier Drogba,Pass,154
+17838,85,BlockedShot,0.82,0.44799999237060545,0.08591389656066895,André Schürrle,h,154,OpenPlay,2014,LeftFoot,4610,Chelsea,Hull,2,0,2014-12-13 15:00:00,Diego Costa,Pass,154
+19399,95,SavedShot,0.8080000305175781,0.625999984741211,0.07534439861774445,André Schürrle,a,154,OpenPlay,2014,RightFoot,4628,Stoke,Chelsea,0,2,2014-12-22 20:00:00,John Terry,Chipped,154
+19148,78,Goal,0.98,0.49,0.9700660109519958,André Schürrle,a,154,OpenPlay,2014,RightFoot,4575,Swansea,Chelsea,0,5,2015-01-17 15:00:00,Branislav Ivanovic,Pass,154
+29355,15,BlockedShot,0.9290000152587891,0.68,0.2626990079879761,André Schürrle,h,154,OpenPlay,2014,LeftFoot,5276,Wolfsburg,Hoffenheim,3,0,2015-02-07 14:30:00,Bas Dost,Pass,154
+29357,16,MissedShots,0.835999984741211,0.4470000076293945,0.05063439905643463,André Schürrle,h,154,FromCorner,2014,RightFoot,5276,Wolfsburg,Hoffenheim,3,0,2015-02-07 14:30:00,,None,154
+29359,26,ShotOnPost,0.8530000305175781,0.37599998474121094,0.05354899913072586,André Schürrle,h,154,OpenPlay,2014,RightFoot,5276,Wolfsburg,Hoffenheim,3,0,2015-02-07 14:30:00,Daniel Caligiuri,HeadPass,154
+28996,33,ShotOnPost,0.840999984741211,0.6480000305175782,0.29679200053215027,André Schürrle,a,154,OpenPlay,2014,RightFoot,5282,Bayer Leverkusen,Wolfsburg,4,5,2015-02-14 14:30:00,Ricardo Rodríguez,Chipped,154
+28998,37,MissedShots,0.8919999694824219,0.41900001525878905,0.4118950068950653,André Schürrle,a,154,OpenPlay,2014,RightFoot,5282,Bayer Leverkusen,Wolfsburg,4,5,2015-02-14 14:30:00,Kevin De Bruyne,Pass,154
+29017,12,BlockedShot,0.805,0.615,0.055662401020526886,André Schürrle,h,154,OpenPlay,2014,RightFoot,5297,Wolfsburg,Hertha Berlin,2,1,2015-02-22 16:30:00,,BallRecovery,154
+29023,38,MissedShots,0.9290000152587891,0.3840000152587891,0.3615269958972931,André Schürrle,h,154,OpenPlay,2014,RightFoot,5297,Wolfsburg,Hertha Berlin,2,1,2015-02-22 16:30:00,Sebastian Jung,Pass,154
+29026,57,MissedShots,0.845999984741211,0.539000015258789,0.052997201681137085,André Schürrle,h,154,OpenPlay,2014,RightFoot,5297,Wolfsburg,Hertha Berlin,2,1,2015-02-22 16:30:00,Bas Dost,HeadPass,154
+29028,65,MissedShots,0.8919999694824219,0.4640000152587891,0.07792550325393677,André Schürrle,h,154,OpenPlay,2014,Head,5297,Wolfsburg,Hertha Berlin,2,1,2015-02-22 16:30:00,Ricardo Rodríguez,Cross,154
+29029,71,MissedShots,0.88,0.45099998474121095,0.07763530313968658,André Schürrle,h,154,OpenPlay,2014,RightFoot,5297,Wolfsburg,Hertha Berlin,2,1,2015-02-22 16:30:00,Vieirinha,Cross,154
+29035,87,SavedShot,0.8590000152587891,0.35400001525878905,0.09166499972343445,André Schürrle,h,154,OpenPlay,2014,RightFoot,5297,Wolfsburg,Hertha Berlin,2,1,2015-02-22 16:30:00,Daniel Caligiuri,Pass,154
+29505,69,MissedShots,0.725,0.504000015258789,0.0384724996984005,André Schürrle,a,154,OpenPlay,2014,RightFoot,5232,Werder Bremen,Wolfsburg,3,5,2015-03-01 16:30:00,Kevin De Bruyne,TakeOn,154
+29973,8,MissedShots,0.8590000152587891,0.5990000152587891,0.040807999670505524,André Schürrle,a,154,FromCorner,2014,RightFoot,5235,Augsburg,Wolfsburg,1,0,2015-03-07 14:30:00,Ricardo Rodríguez,Cross,154
+31783,18,MissedShots,0.8009999847412109,0.3120000076293945,0.026596900075674057,André Schürrle,a,154,OpenPlay,2014,RightFoot,5258,Mainz 05,Wolfsburg,1,1,2015-03-22 14:30:00,Sebastian Jung,Pass,154
+32342,71,BlockedShot,0.8959999847412109,0.5279999923706055,0.13813599944114685,André Schürrle,h,154,OpenPlay,2014,LeftFoot,5200,Wolfsburg,VfB Stuttgart,3,1,2015-04-04 14:30:00,,Rebound,154
+32341,71,BlockedShot,0.865,0.5670000076293945,0.10855799913406372,André Schürrle,h,154,OpenPlay,2014,RightFoot,5200,Wolfsburg,VfB Stuttgart,3,1,2015-04-04 14:30:00,Kevin De Bruyne,Pass,154
+32344,75,Goal,0.85,0.47900001525878905,0.3905389904975891,André Schürrle,h,154,OpenPlay,2014,RightFoot,5200,Wolfsburg,VfB Stuttgart,3,1,2015-04-04 14:30:00,Kevin De Bruyne,Chipped,154
+32350,90,SavedShot,0.879000015258789,0.40299999237060546,0.3242259919643402,André Schürrle,h,154,OpenPlay,2014,RightFoot,5200,Wolfsburg,VfB Stuttgart,3,1,2015-04-04 14:30:00,Robin Knoche,Chipped,154
+31851,59,MissedShots,0.9,0.445,0.027911700308322906,André Schürrle,h,154,OpenPlay,2014,Head,5221,Wolfsburg,Schalke 04,1,1,2015-04-19 16:30:00,Ricardo Rodríguez,Aerial,154
+31855,67,SavedShot,0.9309999847412109,0.3220000076293945,0.051858898252248764,André Schürrle,h,154,OpenPlay,2014,RightFoot,5221,Wolfsburg,Schalke 04,1,1,2015-04-19 16:30:00,Maximilian Arnold,Chipped,154
+30573,12,BlockedShot,0.8809999847412109,0.7180000305175781,0.03809100016951561,André Schürrle,h,154,OpenPlay,2014,RightFoot,5160,Wolfsburg,Hannover 96,2,2,2015-05-02 14:30:00,Kevin De Bruyne,Pass,154
+30574,13,MissedShots,0.8580000305175781,0.649000015258789,0.07013200223445892,André Schürrle,h,154,OpenPlay,2014,RightFoot,5160,Wolfsburg,Hannover 96,2,2,2015-05-02 14:30:00,Kevin De Bruyne,TakeOn,154
+30589,65,BlockedShot,0.749000015258789,0.425,0.0642981007695198,André Schürrle,h,154,DirectFreekick,2014,RightFoot,5160,Wolfsburg,Hannover 96,2,2,2015-05-02 14:30:00,,Standard,154
+31770,65,MissedShots,0.8719999694824219,0.6370000076293946,0.0693185031414032,André Schürrle,a,154,OpenPlay,2014,RightFoot,5186,FC Cologne,Wolfsburg,2,2,2015-05-23 14:30:00,Luiz Gustavo,Pass,154
+31772,68,SavedShot,0.799000015258789,0.5770000076293945,0.09736250340938568,André Schürrle,a,154,OpenPlay,2014,RightFoot,5186,FC Cologne,Wolfsburg,2,2,2015-05-23 14:30:00,Ivan Perisic,Chipped,154
+76953,7,BlockedShot,0.7869999694824219,0.725999984741211,0.020754899829626083,André Schürrle,a,154,OpenPlay,2015,RightFoot,1052,Ingolstadt,Wolfsburg,0,0,2015-09-12 17:30:00,Julian Draxler,Pass,154
+76967,58,BlockedShot,0.7709999847412109,0.3890000152587891,0.027046600356698036,André Schürrle,a,154,FromCorner,2015,RightFoot,1052,Ingolstadt,Wolfsburg,0,0,2015-09-12 17:30:00,Ricardo Rodríguez,Cross,154
+76968,60,MissedShots,0.78,0.45799999237060546,0.016200900077819824,André Schürrle,a,154,FromCorner,2015,RightFoot,1052,Ingolstadt,Wolfsburg,0,0,2015-09-12 17:30:00,,Aerial,154
+77772,12,SavedShot,0.9130000305175782,0.6619999694824219,0.07939650118350983,André Schürrle,a,154,OpenPlay,2015,RightFoot,1085,Borussia M.Gladbach,Wolfsburg,2,0,2015-10-03 17:30:00,Maximilian Arnold,TakeOn,154
+77777,47,MissedShots,0.8069999694824219,0.385,0.023467300459742546,André Schürrle,a,154,OpenPlay,2015,RightFoot,1085,Borussia M.Gladbach,Wolfsburg,2,0,2015-10-03 17:30:00,Josuha Guilavogui,HeadPass,154
+78388,81,SavedShot,0.9359999847412109,0.2979999923706055,0.01817220076918602,André Schürrle,a,154,OpenPlay,2015,Head,1104,Darmstadt,Wolfsburg,0,1,2015-10-24 17:30:00,Daniel Caligiuri,Chipped,154
+78391,90,SavedShot,0.88,0.7119999694824218,0.12780100107192993,André Schürrle,a,154,OpenPlay,2015,RightFoot,1104,Darmstadt,Wolfsburg,0,1,2015-10-24 17:30:00,Max Kruse,Throughball,154
+78390,90,MissedShots,0.860999984741211,0.6790000152587891,0.05887800082564354,André Schürrle,a,154,OpenPlay,2015,RightFoot,1104,Darmstadt,Wolfsburg,0,1,2015-10-24 17:30:00,Max Kruse,Chipped,154
+78429,45,SavedShot,0.879000015258789,0.42200000762939455,0.0280069001019001,André Schürrle,h,154,FromCorner,2015,Head,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Sebastian Jung,Cross,154
+78437,68,MissedShots,0.8730000305175781,0.605999984741211,0.333761990070343,André Schürrle,h,154,OpenPlay,2015,RightFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,Maximilian Arnold,Pass,154
+78442,86,SavedShot,0.9430000305175781,0.28200000762939453,0.06220490112900734,André Schürrle,h,154,OpenPlay,2015,RightFoot,1117,Wolfsburg,Bayer Leverkusen,2,1,2015-10-31 21:30:00,,None,154
+78942,65,SavedShot,0.89,0.48200000762939454,0.24589300155639648,André Schürrle,h,154,OpenPlay,2015,Head,1134,Wolfsburg,Werder Bremen,6,0,2015-11-21 18:30:00,Max Kruse,Cross,154
+78950,80,BlockedShot,0.7980000305175782,0.2560000038146973,0.02058660052716732,André Schürrle,h,154,OpenPlay,2015,RightFoot,1134,Wolfsburg,Werder Bremen,6,0,2015-11-21 18:30:00,Maximilian Arnold,TakeOn,154
+78951,81,SavedShot,0.9209999847412109,0.34299999237060547,0.4101080000400543,André Schürrle,h,154,OpenPlay,2015,RightFoot,1134,Wolfsburg,Werder Bremen,6,0,2015-11-21 18:30:00,,None,154
+79191,49,MissedShots,0.7680000305175781,0.7419999694824219,0.019408300518989563,André Schürrle,a,154,OpenPlay,2015,RightFoot,1146,Augsburg,Wolfsburg,0,0,2015-11-29 20:30:00,Maximilian Arnold,Pass,154
+79192,52,MissedShots,0.8859999847412109,0.6509999847412109,0.02879210002720356,André Schürrle,a,154,OpenPlay,2015,LeftFoot,1146,Augsburg,Wolfsburg,0,0,2015-11-29 20:30:00,Maximilian Arnold,Cross,154
+79193,56,BlockedShot,0.7719999694824219,0.5870000076293945,0.028322700411081314,André Schürrle,a,154,OpenPlay,2015,RightFoot,1146,Augsburg,Wolfsburg,0,0,2015-11-29 20:30:00,Maximilian Arnold,Pass,154
+79411,30,MissedShots,0.8530000305175781,0.6780000305175782,0.040754999965429306,André Schürrle,h,154,OpenPlay,2015,RightFoot,1153,Wolfsburg,Borussia Dortmund,1,2,2015-12-05 21:30:00,Maximilian Arnold,Pass,154
+79417,38,BlockedShot,0.825,0.700999984741211,0.018824400380253792,André Schürrle,h,154,OpenPlay,2015,RightFoot,1153,Wolfsburg,Borussia Dortmund,1,2,2015-12-05 21:30:00,Julian Draxler,Cross,154
+79422,54,MissedShots,0.875999984741211,0.5570000076293945,0.09572599828243256,André Schürrle,h,154,OpenPlay,2015,RightFoot,1153,Wolfsburg,Borussia Dortmund,1,2,2015-12-05 21:30:00,Ricardo Rodríguez,Pass,154
+79677,32,SavedShot,0.8809999847412109,0.605999984741211,0.11619000136852264,André Schürrle,h,154,OpenPlay,2015,RightFoot,1158,Wolfsburg,Hamburger SV,1,1,2015-12-12 18:30:00,Marcel Schäfer,Throughball,154
+79680,46,SavedShot,0.9369999694824219,0.7019999694824218,0.0530133992433548,André Schürrle,h,154,OpenPlay,2015,LeftFoot,1158,Wolfsburg,Hamburger SV,1,1,2015-12-12 18:30:00,Max Kruse,Pass,154
+79684,58,SavedShot,0.799000015258789,0.775,0.017721600830554962,André Schürrle,h,154,FromCorner,2015,RightFoot,1158,Wolfsburg,Hamburger SV,1,1,2015-12-12 18:30:00,Max Kruse,Pass,154
+80157,63,SavedShot,0.915,0.52,0.3227519989013672,André Schürrle,a,154,OpenPlay,2015,Head,1181,Eintracht Frankfurt,Wolfsburg,3,2,2016-01-24 18:30:00,Sebastian Jung,Chipped,154
+80165,78,Goal,0.8959999847412109,0.43099998474121093,0.10422199964523315,André Schürrle,a,154,OpenPlay,2015,RightFoot,1181,Eintracht Frankfurt,Wolfsburg,3,2,2016-01-24 18:30:00,Sebastian Jung,Pass,154
+80166,79,MissedShots,0.759000015258789,0.26399999618530273,0.011389699764549732,André Schürrle,a,154,OpenPlay,2015,RightFoot,1181,Eintracht Frankfurt,Wolfsburg,3,2,2016-01-24 18:30:00,Nicklas Bendtner,HeadPass,154
+80167,81,SavedShot,0.9030000305175782,0.3160000038146973,0.059098199009895325,André Schürrle,a,154,OpenPlay,2015,RightFoot,1181,Eintracht Frankfurt,Wolfsburg,3,2,2016-01-24 18:30:00,Vieirinha,Pass,154
+80370,37,MissedShots,0.9,0.5720000076293945,0.11900000274181366,André Schürrle,h,154,OpenPlay,2015,RightFoot,1190,Wolfsburg,FC Cologne,1,1,2016-01-31 18:30:00,Vieirinha,Pass,154
+80372,39,BlockedShot,0.7659999847412109,0.4620000076293945,0.018172699958086014,André Schürrle,h,154,SetPiece,2015,LeftFoot,1190,Wolfsburg,FC Cologne,1,1,2016-01-31 18:30:00,,Rebound,154
+80375,48,BlockedShot,0.8780000305175781,0.3659999847412109,0.04574669897556305,André Schürrle,h,154,FromCorner,2015,RightFoot,1190,Wolfsburg,FC Cologne,1,1,2016-01-31 18:30:00,Josuha Guilavogui,BallTouch,154
+81559,8,MissedShots,0.94,0.435,0.36354100704193115,André Schürrle,a,154,OpenPlay,2015,Head,1228,Hannover 96,Wolfsburg,0,4,2016-03-01 23:00:00,Christian Träsch,Cross,154
+81569,35,Goal,0.9,0.6,0.11089000105857849,André Schürrle,a,154,OpenPlay,2015,LeftFoot,1228,Hannover 96,Wolfsburg,0,4,2016-03-01 23:00:00,Julian Draxler,Pass,154
+81576,57,SavedShot,0.965999984741211,0.40799999237060547,0.14575499296188354,André Schürrle,a,154,OpenPlay,2015,RightFoot,1228,Hannover 96,Wolfsburg,0,4,2016-03-01 23:00:00,,Rebound,154
+81575,57,BlockedShot,0.92,0.45799999237060546,0.4901280105113983,André Schürrle,a,154,OpenPlay,2015,LeftFoot,1228,Hannover 96,Wolfsburg,0,4,2016-03-01 23:00:00,,Rebound,154
+81578,58,Goal,0.8690000152587891,0.325,0.03460720181465149,André Schürrle,a,154,FromCorner,2015,RightFoot,1228,Hannover 96,Wolfsburg,0,4,2016-03-01 23:00:00,Luiz Gustavo,BallTouch,154
+81579,61,Goal,0.86,0.4779999923706055,0.12661999464035034,André Schürrle,a,154,OpenPlay,2015,LeftFoot,1228,Hannover 96,Wolfsburg,0,4,2016-03-01 23:00:00,,None,154
+81580,67,MissedShots,0.8630000305175781,0.38599998474121094,0.4223349988460541,André Schürrle,a,154,OpenPlay,2015,RightFoot,1228,Hannover 96,Wolfsburg,0,4,2016-03-01 23:00:00,Max Kruse,Throughball,154
+81719,59,MissedShots,0.730999984741211,0.549000015258789,0.04031969979405403,André Schürrle,h,154,OpenPlay,2015,RightFoot,1242,Wolfsburg,Borussia M.Gladbach,2,1,2016-03-05 18:30:00,Julian Draxler,TakeOn,154
+81726,76,BlockedShot,0.8419999694824218,0.6990000152587891,0.03916659951210022,André Schürrle,h,154,OpenPlay,2015,RightFoot,1242,Wolfsburg,Borussia M.Gladbach,2,1,2016-03-05 18:30:00,Maximilian Arnold,Pass,154
+82101,51,MissedShots,0.884000015258789,0.649000015258789,0.05840250104665756,André Schürrle,a,154,OpenPlay,2015,RightFoot,1247,Hoffenheim,Wolfsburg,1,0,2016-03-12 18:30:00,Ricardo Rodríguez,Pass,154
+82112,90,SavedShot,0.8969999694824219,0.5840000152587891,0.07468540221452713,André Schürrle,a,154,OpenPlay,2015,RightFoot,1247,Hoffenheim,Wolfsburg,1,0,2016-03-12 18:30:00,Josuha Guilavogui,HeadPass,154
+82211,6,SavedShot,0.8019999694824219,0.674000015258789,0.025039199739694595,André Schürrle,h,154,OpenPlay,2015,RightFoot,1256,Wolfsburg,Darmstadt,1,1,2016-03-19 18:30:00,,None,154
+82212,13,MissedShots,0.86,0.47299999237060547,0.07552839815616608,André Schürrle,h,154,OpenPlay,2015,RightFoot,1256,Wolfsburg,Darmstadt,1,1,2016-03-19 18:30:00,,None,154
+82219,32,MissedShots,0.7759999847412109,0.6930000305175781,0.05979520082473755,André Schürrle,h,154,DirectFreekick,2015,RightFoot,1256,Wolfsburg,Darmstadt,1,1,2016-03-19 18:30:00,,Standard,154
+82223,40,MissedShots,0.93,0.40400001525878904,0.26832500100135803,André Schürrle,h,154,OpenPlay,2015,Head,1256,Wolfsburg,Darmstadt,1,1,2016-03-19 18:30:00,Maximilian Arnold,Chipped,154
+82226,61,BlockedShot,0.874000015258789,0.42400001525878905,0.10127899795770645,André Schürrle,h,154,OpenPlay,2015,RightFoot,1256,Wolfsburg,Darmstadt,1,1,2016-03-19 18:30:00,Vieirinha,Pass,154
+82228,64,SavedShot,0.779000015258789,0.66,0.025120999664068222,André Schürrle,h,154,OpenPlay,2015,RightFoot,1256,Wolfsburg,Darmstadt,1,1,2016-03-19 18:30:00,Marcel Schäfer,Pass,154
+82237,92,Goal,0.7480000305175781,0.6469999694824219,0.019125699996948242,André Schürrle,h,154,OpenPlay,2015,LeftFoot,1256,Wolfsburg,Darmstadt,1,1,2016-03-19 18:30:00,Max Kruse,LayOff,154
+82458,25,SavedShot,0.92,0.715,0.042792100459337234,André Schürrle,a,154,OpenPlay,2015,LeftFoot,1264,Bayer Leverkusen,Wolfsburg,3,0,2016-04-01 22:30:00,Maximilian Arnold,Pass,154
+82471,75,BlockedShot,0.795,0.36900001525878906,0.03347650170326233,André Schürrle,a,154,OpenPlay,2015,RightFoot,1264,Bayer Leverkusen,Wolfsburg,3,0,2016-04-01 22:30:00,Marcel Schäfer,Pass,154
+82473,88,MissedShots,0.8969999694824219,0.4420000076293945,0.06933219730854034,André Schürrle,a,154,OpenPlay,2015,RightFoot,1264,Bayer Leverkusen,Wolfsburg,3,0,2016-04-01 22:30:00,Vieirinha,Cross,154
+82474,91,SavedShot,0.95,0.3890000152587891,0.11014000326395035,André Schürrle,a,154,OpenPlay,2015,RightFoot,1264,Bayer Leverkusen,Wolfsburg,3,0,2016-04-01 22:30:00,Bruno Henrique,Pass,154
+82658,23,BlockedShot,0.879000015258789,0.720999984741211,0.03535529971122742,André Schürrle,h,154,OpenPlay,2015,LeftFoot,1279,Wolfsburg,Mainz 05,1,1,2016-04-09 20:30:00,Bruno Henrique,Pass,154
+82661,28,SavedShot,0.88,0.3509999847412109,0.06015419960021973,André Schürrle,h,154,OpenPlay,2015,RightFoot,1279,Wolfsburg,Mainz 05,1,1,2016-04-09 20:30:00,,None,154
+82663,31,SavedShot,0.7680000305175781,0.6819999694824219,0.015706099569797516,André Schürrle,h,154,FromCorner,2015,RightFoot,1279,Wolfsburg,Mainz 05,1,1,2016-04-09 20:30:00,,None,154
+82662,31,BlockedShot,0.789000015258789,0.36700000762939455,0.0211900994181633,André Schürrle,h,154,FromCorner,2015,RightFoot,1279,Wolfsburg,Mainz 05,1,1,2016-04-09 20:30:00,,None,154
+82665,45,BlockedShot,0.8619999694824219,0.44099998474121094,0.1023619994521141,André Schürrle,h,154,OpenPlay,2015,RightFoot,1279,Wolfsburg,Mainz 05,1,1,2016-04-09 20:30:00,Bas Dost,Pass,154
+82666,49,MissedShots,0.7830000305175782,0.525,0.03619400039315224,André Schürrle,h,154,FromCorner,2015,RightFoot,1279,Wolfsburg,Mainz 05,1,1,2016-04-09 20:30:00,,TakeOn,154
+82667,52,Goal,0.9059999847412109,0.38599998474121094,0.3430429995059967,André Schürrle,h,154,OpenPlay,2015,RightFoot,1279,Wolfsburg,Mainz 05,1,1,2016-04-09 20:30:00,Bruno Henrique,Pass,154
+82681,85,BlockedShot,0.8330000305175781,0.295,0.031536899507045746,André Schürrle,h,154,OpenPlay,2015,RightFoot,1279,Wolfsburg,Mainz 05,1,1,2016-04-09 20:30:00,Luiz Gustavo,Pass,154
+83313,34,BlockedShot,0.8590000152587891,0.40200000762939453,0.04050980135798454,André Schürrle,a,154,FromCorner,2015,RightFoot,1306,Borussia Dortmund,Wolfsburg,5,1,2016-04-30 17:30:00,Christian Träsch,Cross,154
+83326,85,Goal,0.8519999694824218,0.49900001525878906,0.3814519941806793,André Schürrle,a,154,OpenPlay,2015,RightFoot,1306,Borussia Dortmund,Wolfsburg,5,1,2016-04-30 17:30:00,Max Kruse,Pass,154
+83573,67,SavedShot,0.805,0.19399999618530273,0.016686800867319107,André Schürrle,a,154,OpenPlay,2015,RightFoot,1311,Hamburger SV,Wolfsburg,0,1,2016-05-07 17:30:00,Maximilian Arnold,Pass,154
+83574,70,BlockedShot,0.92,0.55,0.47546499967575073,André Schürrle,a,154,OpenPlay,2015,RightFoot,1311,Hamburger SV,Wolfsburg,0,1,2016-05-07 17:30:00,Maximilian Arnold,Pass,154
+83580,85,MissedShots,0.749000015258789,0.40200000762939453,0.061521999537944794,André Schürrle,a,154,DirectFreekick,2015,RightFoot,1311,Hamburger SV,Wolfsburg,0,1,2016-05-07 17:30:00,,Standard,154
+83912,8,BlockedShot,0.8780000305175781,0.7730000305175782,0.02397100068628788,André Schürrle,h,154,OpenPlay,2015,RightFoot,1325,Wolfsburg,VfB Stuttgart,3,1,2016-05-14 17:30:00,Vieirinha,Chipped,154
+83919,28,Goal,0.9069999694824219,0.33,0.10421700030565262,André Schürrle,h,154,OpenPlay,2015,RightFoot,1325,Wolfsburg,VfB Stuttgart,3,1,2016-05-14 17:30:00,Daniel Caligiuri,Pass,154
+83931,75,MissedShots,0.7069999694824218,0.655,0.01686600036919117,André Schürrle,h,154,OpenPlay,2015,RightFoot,1325,Wolfsburg,VfB Stuttgart,3,1,2016-05-14 17:30:00,Julian Draxler,Pass,154
+83939,91,Goal,0.89,0.595999984741211,0.3428939878940582,André Schürrle,h,154,OpenPlay,2015,LeftFoot,1325,Wolfsburg,VfB Stuttgart,3,1,2016-05-14 17:30:00,Julian Draxler,Pass,154
+127597,8,BlockedShot,0.775,0.4779999923706055,0.02694300003349781,André Schürrle,h,154,SetPiece,2016,LeftFoot,1332,Borussia Dortmund,Mainz 05,2,1,2016-08-27 17:30:00,,BallTouch,154
+127605,37,SavedShot,0.779000015258789,0.6569999694824219,0.02131499908864498,André Schürrle,h,154,OpenPlay,2016,RightFoot,1332,Borussia Dortmund,Mainz 05,2,1,2016-08-27 17:30:00,Marcel Schmelzer,HeadPass,154
+127608,47,MissedShots,0.81,0.8169999694824219,0.021327199414372444,André Schürrle,h,154,OpenPlay,2016,RightFoot,1332,Borussia Dortmund,Mainz 05,2,1,2016-08-27 17:30:00,Shinji Kagawa,Pass,154
+127610,49,BlockedShot,0.889000015258789,0.6780000305175782,0.06933730095624924,André Schürrle,h,154,OpenPlay,2016,RightFoot,1332,Borussia Dortmund,Mainz 05,2,1,2016-08-27 17:30:00,Ousmane Dembélé,Pass,154
+127614,56,SavedShot,0.9480000305175781,0.7569999694824219,0.038775600492954254,André Schürrle,h,154,OpenPlay,2016,RightFoot,1332,Borussia Dortmund,Mainz 05,2,1,2016-08-27 17:30:00,Gonzalo Castro,Pass,154
+127620,74,SavedShot,0.7219999694824218,0.325,0.0190350990742445,André Schürrle,h,154,OpenPlay,2016,LeftFoot,1332,Borussia Dortmund,Mainz 05,2,1,2016-08-27 17:30:00,Julian Weigl,Pass,154
+127621,80,BlockedShot,0.789000015258789,0.705,0.06372450292110443,André Schürrle,h,154,DirectFreekick,2016,RightFoot,1332,Borussia Dortmund,Mainz 05,2,1,2016-08-27 17:30:00,,Standard,154
+128096,6,BlockedShot,0.8909999847412109,0.595999984741211,0.08065909892320633,André Schürrle,a,154,SetPiece,2016,LeftFoot,1342,RasenBallsport Leipzig,Borussia Dortmund,1,0,2016-09-10 20:30:00,Mario Götze,Pass,154
+128101,29,MissedShots,0.8190000152587891,0.5070000076293946,0.06340540200471878,André Schürrle,a,154,OpenPlay,2016,RightFoot,1342,RasenBallsport Leipzig,Borussia Dortmund,1,0,2016-09-10 20:30:00,Mario Götze,Pass,154
+128110,82,ShotOnPost,0.840999984741211,0.5329999923706055,0.12440499663352966,André Schürrle,a,154,OpenPlay,2016,LeftFoot,1342,RasenBallsport Leipzig,Borussia Dortmund,1,0,2016-09-10 20:30:00,Lukasz Piszczek,TakeOn,154
+128112,91,BlockedShot,0.7880000305175782,0.53,0.01710760034620762,André Schürrle,a,154,FromCorner,2016,RightFoot,1342,RasenBallsport Leipzig,Borussia Dortmund,1,0,2016-09-10 20:30:00,,Aerial,154
+129645,83,MissedShots,0.88,0.5509999847412109,0.2989499866962433,André Schürrle,a,154,OpenPlay,2016,RightFoot,2807,Hamburger SV,Borussia Dortmund,2,5,2016-11-05 18:30:00,Pierre-Emerick Aubameyang,Cross,154
+129766,19,SavedShot,0.865999984741211,0.4540000152587891,0.07645239681005478,André Schürrle,h,154,OpenPlay,2016,RightFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Pierre-Emerick Aubameyang,Cross,154
+129771,27,BlockedShot,0.750999984741211,0.6,0.026625100523233414,André Schürrle,h,154,OpenPlay,2016,RightFoot,2821,Borussia Dortmund,Bayern Munich,1,0,2016-11-19 21:30:00,Adrián Ramos,Pass,154
+130257,6,BlockedShot,0.86,0.7,0.03889309987425804,André Schürrle,a,154,OpenPlay,2016,RightFoot,2829,Eintracht Frankfurt,Borussia Dortmund,2,1,2016-11-26 18:30:00,Gonzalo Castro,TakeOn,154
+130258,13,SavedShot,0.8780000305175781,0.625,0.2895730137825012,André Schürrle,a,154,OpenPlay,2016,RightFoot,2829,Eintracht Frankfurt,Borussia Dortmund,2,1,2016-11-26 18:30:00,Sokratis,Chipped,154
+130259,16,SavedShot,0.88,0.34,0.08587139844894409,André Schürrle,a,154,OpenPlay,2016,RightFoot,2829,Eintracht Frankfurt,Borussia Dortmund,2,1,2016-11-26 18:30:00,Pierre-Emerick Aubameyang,Pass,154
+131752,81,BlockedShot,0.7290000152587891,0.46,0.05386130139231682,André Schürrle,h,154,DirectFreekick,2016,RightFoot,3222,Borussia Dortmund,Augsburg,1,1,2016-12-20 23:00:00,,Standard,154
+131756,87,MissedShots,0.889000015258789,0.5529999923706055,0.08730480074882507,André Schürrle,h,154,OpenPlay,2016,RightFoot,3222,Borussia Dortmund,Augsburg,1,1,2016-12-20 23:00:00,Gonzalo Castro,None,154
+130736,4,Goal,0.8930000305175781,0.5659999847412109,0.40806499123573303,André Schürrle,a,154,OpenPlay,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,None,154
+130737,6,BlockedShot,0.8669999694824219,0.2879999923706055,0.04853779822587967,André Schürrle,a,154,OpenPlay,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Christian Pulisic,Pass,154
+130739,10,SavedShot,0.87,0.475,0.10359399765729904,André Schürrle,a,154,OpenPlay,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,None,154
+130741,14,SavedShot,0.8969999694824219,0.544000015258789,0.10656599700450897,André Schürrle,a,154,OpenPlay,2016,Head,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Shinji Kagawa,Cross,154
+130748,42,MissedShots,0.7240000152587891,0.47299999237060547,0.05146870017051697,André Schürrle,a,154,DirectFreekick,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,,Standard,154
+130758,66,BlockedShot,0.845999984741211,0.7140000152587891,0.03186719864606857,André Schürrle,a,154,OpenPlay,2016,RightFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Erik Durm,Pass,154
+130765,84,SavedShot,0.8130000305175781,0.5179999923706055,0.06930360198020935,André Schürrle,a,154,OpenPlay,2016,LeftFoot,3726,Werder Bremen,Borussia Dortmund,1,2,2017-01-21 14:30:00,Erik Durm,Chipped,154
+131195,19,MissedShots,0.7809999847412109,0.4570000076293945,0.06825590133666992,André Schürrle,a,154,OpenPlay,2016,LeftFoot,3739,Mainz 05,Borussia Dortmund,1,1,2017-01-29 19:30:00,,TakeOn,154
+131203,60,BlockedShot,0.8880000305175781,0.5570000076293945,0.09880790114402771,André Schürrle,a,154,OpenPlay,2016,RightFoot,3739,Mainz 05,Borussia Dortmund,1,1,2017-01-29 19:30:00,Gonzalo Castro,Cross,154
+131207,77,SavedShot,0.905,0.24600000381469728,0.04142859950661659,André Schürrle,a,154,OpenPlay,2016,RightFoot,3739,Mainz 05,Borussia Dortmund,1,1,2017-01-29 19:30:00,Ousmane Dembélé,Pass,154
+131919,41,MissedShots,0.784000015258789,0.7559999847412109,0.04874749854207039,André Schürrle,h,154,DirectFreekick,2016,RightFoot,3763,Borussia Dortmund,Wolfsburg,3,0,2017-02-18 14:30:00,,Standard,154
+132379,82,SavedShot,0.7519999694824219,0.639000015258789,0.02121580019593239,André Schürrle,a,154,OpenPlay,2016,LeftFoot,3770,Freiburg,Borussia Dortmund,0,3,2017-02-25 14:30:00,,BallRecovery,154
+132381,89,BlockedShot,0.69,0.6759999847412109,0.03071429952979088,André Schürrle,a,154,DirectFreekick,2016,RightFoot,3770,Freiburg,Borussia Dortmund,0,3,2017-02-25 14:30:00,,Standard,154
+132475,84,Goal,0.885,0.5,0.7577769756317139,André Schürrle,h,154,Penalty,2016,RightFoot,3781,Borussia Dortmund,Bayer Leverkusen,6,2,2017-03-04 14:30:00,,Standard,154
+133796,1,MissedShots,0.8959999847412109,0.645,0.25665000081062317,André Schürrle,a,154,OpenPlay,2016,RightFoot,3790,Hertha Berlin,Borussia Dortmund,2,1,2017-03-11 14:30:00,Shinji Kagawa,Pass,154
+133799,8,MissedShots,0.755,0.7519999694824219,0.01640079915523529,André Schürrle,a,154,FromCorner,2016,RightFoot,3790,Hertha Berlin,Borussia Dortmund,2,1,2017-03-11 14:30:00,Raphael Guerreiro,Pass,154
+133826,82,MissedShots,0.784000015258789,0.3970000076293945,0.03022100031375885,André Schürrle,a,154,OpenPlay,2016,RightFoot,3790,Hertha Berlin,Borussia Dortmund,2,1,2017-03-11 14:30:00,Marc Bartra,Pass,154
+168182,2,MissedShots,0.9130000305175782,0.34799999237060547,0.06610739976167679,André Schürrle,a,154,OpenPlay,2017,RightFoot,8366,VfB Stuttgart,Borussia Dortmund,2,1,2017-11-17 19:30:00,,None,154
+168186,12,SavedShot,0.835999984741211,0.4159999847412109,0.05484610050916672,André Schürrle,a,154,OpenPlay,2017,RightFoot,8366,VfB Stuttgart,Borussia Dortmund,2,1,2017-11-17 19:30:00,Mario Götze,HeadPass,154
+168190,47,SavedShot,0.885,0.5,0.7577769756317139,André Schürrle,a,154,Penalty,2017,RightFoot,8366,VfB Stuttgart,Borussia Dortmund,2,1,2017-11-17 19:30:00,,Standard,154
+168200,72,BlockedShot,0.899000015258789,0.32799999237060545,0.052971601486206055,André Schürrle,a,154,OpenPlay,2017,RightFoot,8366,VfB Stuttgart,Borussia Dortmund,2,1,2017-11-17 19:30:00,,Rebound,154
+168199,72,SavedShot,0.9030000305175782,0.3160000038146973,0.05412989854812622,André Schürrle,a,154,OpenPlay,2017,RightFoot,8366,VfB Stuttgart,Borussia Dortmund,2,1,2017-11-17 19:30:00,Mahmoud Dahoud,Pass,154
+169017,55,ShotOnPost,0.9209999847412109,0.6930000305175781,0.0522317998111248,André Schürrle,a,154,OpenPlay,2017,RightFoot,8382,Bayer Leverkusen,Borussia Dortmund,1,1,2017-12-02 14:30:00,Shinji Kagawa,Pass,154
+179828,51,SavedShot,0.8069999694824219,0.525,0.04401560127735138,André Schürrle,h,154,OpenPlay,2017,RightFoot,8385,Borussia Dortmund,Werder Bremen,1,2,2017-12-09 14:30:00,,None,154
+179827,51,MissedShots,0.94,0.7080000305175781,0.045225098729133606,André Schürrle,h,154,OpenPlay,2017,RightFoot,8385,Borussia Dortmund,Werder Bremen,1,2,2017-12-09 14:30:00,,None,154
+179834,82,SavedShot,0.8490000152587891,0.5509999847412109,0.1185929998755455,André Schürrle,h,154,OpenPlay,2017,RightFoot,8385,Borussia Dortmund,Werder Bremen,1,2,2017-12-09 14:30:00,Pierre-Emerick Aubameyang,Pass,154
+188012,78,MissedShots,0.8719999694824219,0.6869999694824219,0.017479300498962402,André Schürrle,h,154,SetPiece,2017,RightFoot,8412,Borussia Dortmund,Wolfsburg,0,0,2018-01-14 17:00:00,Nuri Sahin,Aerial,154
+195072,7,MissedShots,0.774000015258789,0.745,0.020218800753355026,André Schürrle,a,154,OpenPlay,2017,RightFoot,8447,FC Cologne,Borussia Dortmund,2,3,2018-02-02 19:30:00,Jeremy Toljan,Pass,154
+195097,80,SavedShot,0.8769999694824219,0.6630000305175782,0.06863830238580704,André Schürrle,a,154,OpenPlay,2017,LeftFoot,8447,FC Cologne,Borussia Dortmund,2,3,2018-02-02 19:30:00,Raphael Guerreiro,Pass,154
+195098,83,Goal,0.875,0.3509999847412109,0.09499339759349823,André Schürrle,a,154,OpenPlay,2017,RightFoot,8447,FC Cologne,Borussia Dortmund,2,3,2018-02-02 19:30:00,Michy Batshuayi,Pass,154
+194942,0,BlockedShot,0.9059999847412109,0.615,0.10191100090742111,André Schürrle,h,154,OpenPlay,2017,RightFoot,8452,Borussia Dortmund,Hamburger SV,2,0,2018-02-10 14:30:00,Marco Reus,Pass,154
+194943,8,MissedShots,0.7959999847412109,0.66,0.02379640005528927,André Schürrle,h,154,OpenPlay,2017,RightFoot,8452,Borussia Dortmund,Hamburger SV,2,0,2018-02-10 14:30:00,Marco Reus,Pass,154
+194952,62,SavedShot,0.88,0.6659999847412109,0.07516690343618393,André Schürrle,h,154,OpenPlay,2017,RightFoot,8452,Borussia Dortmund,Hamburger SV,2,0,2018-02-10 14:30:00,Marco Reus,Pass,154
+196827,25,BlockedShot,0.7859999847412109,0.5990000152587891,0.03096120059490204,André Schürrle,a,154,OpenPlay,2017,RightFoot,8460,Borussia M.Gladbach,Borussia Dortmund,0,1,2018-02-18 17:00:00,Gonzalo Castro,Pass,154
+198126,0,BlockedShot,0.855999984741211,0.5940000152587891,0.07880830019712448,André Schürrle,h,154,OpenPlay,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Gonzalo Castro,Pass,154
+198134,38,BlockedShot,0.855999984741211,0.415,0.10430800169706345,André Schürrle,h,154,OpenPlay,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Michy Batshuayi,Pass,154
+198140,68,MissedShots,0.865,0.3129999923706055,0.05707380175590515,André Schürrle,h,154,OpenPlay,2017,RightFoot,8467,Borussia Dortmund,Augsburg,1,1,2018-02-26 19:30:00,Marco Reus,Pass,154
+200833,9,MissedShots,0.9340000152587891,0.5509999847412109,0.13891099393367767,André Schürrle,h,154,OpenPlay,2017,Head,8485,Borussia Dortmund,Eintracht Frankfurt,3,2,2018-03-11 17:00:00,Christian Pulisic,Cross,154
+200836,21,BlockedShot,0.874000015258789,0.6869999694824219,0.057893700897693634,André Schürrle,h,154,OpenPlay,2017,RightFoot,8485,Borussia Dortmund,Eintracht Frankfurt,3,2,2018-03-11 17:00:00,Marco Reus,Pass,154
+201895,0,BlockedShot,0.865,0.4470000076293945,0.07677599787712097,André Schürrle,h,154,OpenPlay,2017,LeftFoot,8493,Borussia Dortmund,Hannover 96,1,0,2018-03-18 12:30:00,,None,154
+201899,8,MissedShots,0.8930000305175781,0.39599998474121095,0.07676590234041214,André Schürrle,h,154,OpenPlay,2017,LeftFoot,8493,Borussia Dortmund,Hannover 96,1,0,2018-03-18 12:30:00,,None,154
+201913,44,MissedShots,0.7680000305175781,0.69,0.02146659977734089,André Schürrle,h,154,OpenPlay,2017,RightFoot,8493,Borussia Dortmund,Hannover 96,1,0,2018-03-18 12:30:00,Gonzalo Castro,Pass,154
+201923,77,MissedShots,0.8059999847412109,0.8209999847412109,0.014192299917340279,André Schürrle,h,154,OpenPlay,2017,RightFoot,8493,Borussia Dortmund,Hannover 96,1,0,2018-03-18 12:30:00,Mahmoud Dahoud,Chipped,154
+204476,7,SavedShot,0.799000015258789,0.5059999847412109,0.048688698559999466,André Schürrle,a,154,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Gonzalo Castro,Pass,154
+204478,12,MissedShots,0.8880000305175781,0.580999984741211,0.06340260058641434,André Schürrle,a,154,OpenPlay,2017,RightFoot,8502,Bayern Munich,Borussia Dortmund,6,0,2018-03-31 14:30:00,Lukasz Piszczek,Cross,154
+209154,74,BlockedShot,0.9630000305175781,0.6419999694824219,0.06069929897785187,André Schürrle,a,154,OpenPlay,2017,RightFoot,8524,Schalke 04,Borussia Dortmund,2,0,2018-04-15 13:30:00,,None,154
+209159,86,SavedShot,0.805,0.25,0.0310370996594429,André Schürrle,a,154,FromCorner,2017,LeftFoot,8524,Schalke 04,Borussia Dortmund,2,0,2018-04-15 13:30:00,Jadon Sancho,Pass,154
+212540,63,MissedShots,0.8119999694824219,0.5109999847412109,0.03514939919114113,André Schürrle,a,154,FromCorner,2017,RightFoot,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,Lukasz Piszczek,Pass,154
+212547,78,SavedShot,0.8930000305175781,0.4,0.33444300293922424,André Schürrle,a,154,OpenPlay,2017,RightFoot,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,Marco Reus,Pass,154
+212550,85,SavedShot,0.88,0.48200000762939454,0.27448099851608276,André Schürrle,a,154,OpenPlay,2017,Head,8542,Werder Bremen,Borussia Dortmund,1,1,2018-04-29 16:00:00,Jadon Sancho,Chipped,154
+213148,71,BlockedShot,0.8640000152587891,0.504000015258789,0.07788640260696411,André Schürrle,h,154,OpenPlay,2017,RightFoot,8550,Borussia Dortmund,Mainz 05,1,2,2018-05-05 14:30:00,Mario Götze,Pass,154
+214530,10,BlockedShot,0.7519999694824219,0.47,0.023243000730872154,André Schürrle,a,154,OpenPlay,2017,RightFoot,8557,Hoffenheim,Borussia Dortmund,3,1,2018-05-12 14:30:00,Nuri Sahin,Pass,154
+214537,32,MissedShots,0.889000015258789,0.3579999923706055,0.354434996843338,André Schürrle,a,154,OpenPlay,2017,RightFoot,8557,Hoffenheim,Borussia Dortmund,3,1,2018-05-12 14:30:00,Marco Reus,Pass,154
+233258,2,MissedShots,0.7909999847412109,0.23100000381469726,0.013520699925720692,André Schürrle,h,154,OpenPlay,2018,LeftFoot,9220,Fulham,Burnley,4,2,2018-08-26 17:00:00,Timothy Fosu-Mensah,Pass,154
+233262,20,MissedShots,0.69,0.46,0.016937099397182465,André Schürrle,h,154,OpenPlay,2018,RightFoot,9220,Fulham,Burnley,4,2,2018-08-26 17:00:00,Kevin McDonald,Pass,154
+233263,32,SavedShot,0.9019999694824219,0.6680000305175782,0.07796119898557663,André Schürrle,h,154,OpenPlay,2018,RightFoot,9220,Fulham,Burnley,4,2,2018-08-26 17:00:00,Luciano Vietto,Pass,154
+233272,46,BlockedShot,0.774000015258789,0.7440000152587891,0.021087000146508217,André Schürrle,h,154,OpenPlay,2018,RightFoot,9220,Fulham,Burnley,4,2,2018-08-26 17:00:00,Joe Bryan,Pass,154
+233276,54,ShotOnPost,0.8230000305175781,0.769000015258789,0.02732289955019951,André Schürrle,h,154,OpenPlay,2018,RightFoot,9220,Fulham,Burnley,4,2,2018-08-26 17:00:00,Joe Bryan,Pass,154
+233277,55,SavedShot,0.725,0.415,0.021100100129842758,André Schürrle,h,154,OpenPlay,2018,RightFoot,9220,Fulham,Burnley,4,2,2018-08-26 17:00:00,Maxime Le Marchand,BallRecovery,154
+233280,65,BlockedShot,0.7930000305175782,0.6029999923706054,0.04091940075159073,André Schürrle,h,154,OpenPlay,2018,RightFoot,9220,Fulham,Burnley,4,2,2018-08-26 17:00:00,Tom Cairney,Pass,154
+233282,68,MissedShots,0.784000015258789,0.2670000076293945,0.021397100761532784,André Schürrle,h,154,FromCorner,2018,RightFoot,9220,Fulham,Burnley,4,2,2018-08-26 17:00:00,Jean Michael Seri,Pass,154
+233285,80,SavedShot,0.924000015258789,0.34200000762939453,0.09476669877767563,André Schürrle,h,154,OpenPlay,2018,RightFoot,9220,Fulham,Burnley,4,2,2018-08-26 17:00:00,Luciano Vietto,Pass,154
+233289,82,Goal,0.879000015258789,0.5770000076293945,0.09870380163192749,André Schürrle,h,154,OpenPlay,2018,RightFoot,9220,Fulham,Burnley,4,2,2018-08-26 17:00:00,,Rebound,154
+233287,82,SavedShot,0.9019999694824219,0.575,0.07585590332746506,André Schürrle,h,154,OpenPlay,2018,Head,9220,Fulham,Burnley,4,2,2018-08-26 17:00:00,Aleksandar Mitrovic,Cross,154
+233477,42,Goal,0.9319999694824219,0.45,0.38293901085853577,André Schürrle,a,154,OpenPlay,2018,RightFoot,9233,Brighton,Fulham,2,2,2018-09-01 14:00:00,Jean Michael Seri,Chipped,154
+233478,52,MissedShots,0.695,0.5320000076293945,0.03607119992375374,André Schürrle,a,154,DirectFreekick,2018,RightFoot,9233,Brighton,Fulham,2,2,2018-09-01 14:00:00,,Standard,154
+233485,71,BlockedShot,0.8419999694824218,0.705999984741211,0.04350480064749718,André Schürrle,a,154,OpenPlay,2018,RightFoot,9233,Brighton,Fulham,2,2,2018-09-01 14:00:00,Alfie Mawson,Pass,154
+233835,1,MissedShots,0.755,0.38599998474121094,0.016109900549054146,André Schürrle,a,154,FromCorner,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,,None,154
+233844,24,MissedShots,0.715,0.525,0.010969500057399273,André Schürrle,a,154,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Luciano Vietto,Pass,154
+233846,29,SavedShot,0.7969999694824219,0.22700000762939454,0.013158200308680534,André Schürrle,a,154,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Jean Michael Seri,Pass,154
+233850,40,SavedShot,0.81,0.5059999847412109,0.0581028014421463,André Schürrle,a,154,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Luciano Vietto,Pass,154
+233865,82,BlockedShot,0.759000015258789,0.52,0.016575099900364876,André Schürrle,a,154,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,,None,154
+234138,71,BlockedShot,0.7919999694824219,0.6430000305175781,0.028934499248862267,André Schürrle,h,154,OpenPlay,2018,RightFoot,9247,Fulham,Watford,1,1,2018-09-22 11:30:00,Jean Michael Seri,Pass,154
+234141,77,BlockedShot,0.8119999694824219,0.5790000152587891,0.04747710004448891,André Schürrle,h,154,OpenPlay,2018,RightFoot,9247,Fulham,Watford,1,1,2018-09-22 11:30:00,Jean Michael Seri,Pass,154
+234336,11,MissedShots,0.8440000152587891,0.5,0.08326560258865356,André Schürrle,a,154,OpenPlay,2018,RightFoot,9262,Everton,Fulham,3,0,2018-09-29 14:00:00,Ryan Sessegnon,Pass,154
+249142,6,BlockedShot,0.78,0.629000015258789,0.026334300637245178,André Schürrle,h,154,FromCorner,2018,RightFoot,9274,Fulham,Arsenal,1,5,2018-10-07 11:00:00,Jean Michael Seri,Cross,154
+249147,26,SavedShot,0.7819999694824219,0.754000015258789,0.018113400787115097,André Schürrle,h,154,OpenPlay,2018,RightFoot,9274,Fulham,Arsenal,1,5,2018-10-07 11:00:00,Ryan Sessegnon,Pass,154
+249152,41,MissedShots,0.875,0.6780000305175782,0.056045498698949814,André Schürrle,h,154,OpenPlay,2018,LeftFoot,9274,Fulham,Arsenal,1,5,2018-10-07 11:00:00,Ryan Sessegnon,Pass,154
+249153,43,Goal,0.9019999694824219,0.3609999847412109,0.33340299129486084,André Schürrle,h,154,OpenPlay,2018,RightFoot,9274,Fulham,Arsenal,1,5,2018-10-07 11:00:00,Luciano Vietto,Throughball,154
+249157,54,BlockedShot,0.7080000305175781,0.5120000076293946,0.019299300387501717,André Schürrle,h,154,FromCorner,2018,RightFoot,9274,Fulham,Arsenal,1,5,2018-10-07 11:00:00,Franck Zambo,Pass,154
+249160,60,BlockedShot,0.7869999694824219,0.7959999847412109,0.013969000428915024,André Schürrle,h,154,OpenPlay,2018,RightFoot,9274,Fulham,Arsenal,1,5,2018-10-07 11:00:00,Aleksandar Mitrovic,Pass,154
+249166,88,MissedShots,0.8280000305175781,0.17799999237060546,0.012285499833524227,André Schürrle,h,154,OpenPlay,2018,RightFoot,9274,Fulham,Arsenal,1,5,2018-10-07 11:00:00,Jean Michael Seri,Pass,154
+249354,10,Goal,0.7269999694824218,0.629000015258789,0.015957500785589218,André Schürrle,a,154,OpenPlay,2018,RightFoot,9282,Cardiff,Fulham,4,2,2018-10-20 14:00:00,Jean Michael Seri,Pass,154
+249374,75,BlockedShot,0.7709999847412109,0.485,0.08449509739875793,André Schürrle,a,154,DirectFreekick,2018,RightFoot,9282,Cardiff,Fulham,4,2,2018-10-20 14:00:00,,Standard,154
+249377,82,BlockedShot,0.7090000152587891,0.485,0.01638690009713173,André Schürrle,a,154,OpenPlay,2018,RightFoot,9282,Cardiff,Fulham,4,2,2018-10-20 14:00:00,Kevin McDonald,Pass,154
+249505,21,SavedShot,0.8019999694824219,0.5120000076293946,0.04932279884815216,André Schürrle,h,154,OpenPlay,2018,RightFoot,9289,Fulham,Bournemouth,0,3,2018-10-27 14:00:00,Kevin McDonald,Pass,154
+249508,34,MissedShots,0.8159999847412109,0.32,0.026888800784945488,André Schürrle,h,154,FromCorner,2018,RightFoot,9289,Fulham,Bournemouth,0,3,2018-10-27 14:00:00,Jean Michael Seri,Pass,154
+249991,80,MissedShots,0.840999984741211,0.6630000305175782,0.03552430123090744,André Schürrle,a,154,OpenPlay,2018,RightFoot,9306,Huddersfield,Fulham,1,0,2018-11-05 20:00:00,Tom Cairney,Pass,154
+250165,28,SavedShot,0.7969999694824219,0.3509999847412109,0.02957729995250702,André Schürrle,a,154,OpenPlay,2018,RightFoot,9313,Liverpool,Fulham,2,0,2018-11-11 12:00:00,Tom Cairney,Pass,154
+250179,61,BlockedShot,0.7930000305175782,0.7530000305175781,0.010273800231516361,André Schürrle,a,154,OpenPlay,2018,RightFoot,9313,Liverpool,Fulham,2,0,2018-11-11 12:00:00,Tom Cairney,Chipped,154
+250322,42,Goal,0.9369999694824219,0.4329999923706055,0.3591209948062897,André Schürrle,h,154,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Ryan Sessegnon,Cross,154
+251062,57,MissedShots,0.8219999694824218,0.605999984741211,0.046224698424339294,André Schürrle,a,154,OpenPlay,2018,RightFoot,9349,Manchester United,Fulham,4,1,2018-12-08 15:00:00,,BallTouch,154
+251064,60,MissedShots,0.9340000152587891,0.6780000305175782,0.04475700110197067,André Schürrle,a,154,OpenPlay,2018,LeftFoot,9349,Manchester United,Fulham,4,1,2018-12-08 15:00:00,,None,154
+251377,8,MissedShots,0.755,0.28700000762939454,0.01184799987822771,André Schürrle,h,154,OpenPlay,2018,RightFoot,9364,Fulham,West Ham,0,2,2018-12-15 17:30:00,Aleksandar Mitrovic,TakeOn,154
+251386,33,MissedShots,0.8419999694824218,0.674000015258789,0.017277000471949577,André Schürrle,h,154,FromCorner,2018,RightFoot,9364,Fulham,West Ham,0,2,2018-12-15 17:30:00,,Aerial,154
+251389,44,MissedShots,0.785,0.6580000305175782,0.02289620041847229,André Schürrle,h,154,OpenPlay,2018,RightFoot,9364,Fulham,West Ham,0,2,2018-12-15 17:30:00,Aboubakar Kamara,Pass,154
+251555,29,BlockedShot,0.765,0.5709999847412109,0.027365699410438538,André Schürrle,a,154,OpenPlay,2018,RightFoot,9369,Newcastle United,Fulham,0,0,2018-12-22 15:00:00,Jean Michael Seri,Pass,154
+251728,26,SavedShot,0.789000015258789,0.674000015258789,0.019399400800466537,André Schürrle,h,154,OpenPlay,2018,RightFoot,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,Aleksandar Mitrovic,Pass,154
+274145,29,MissedShots,0.7809999847412109,0.72,0.016100000590085983,André Schürrle,a,154,OpenPlay,2018,RightFoot,9406,Arsenal,Fulham,4,1,2019-01-01 15:00:00,Aleksandar Mitrovic,BallTouch,154
+274150,38,MissedShots,0.7240000152587891,0.504000015258789,0.048451099544763565,André Schürrle,a,154,DirectFreekick,2018,RightFoot,9406,Arsenal,Fulham,4,1,2019-01-01 15:00:00,,Standard,154
+274437,1,Goal,0.865,0.28899999618530275,0.04327020049095154,André Schürrle,a,154,OpenPlay,2018,RightFoot,9415,Burnley,Fulham,2,1,2019-01-12 15:00:00,Denis Odoi,Chipped,154
+274455,72,BlockedShot,0.8490000152587891,0.30100000381469727,0.03893439844250679,André Schürrle,a,154,OpenPlay,2018,RightFoot,9415,Burnley,Fulham,2,1,2019-01-12 15:00:00,Tom Cairney,Pass,154
+274841,40,SavedShot,0.9230000305175782,0.3840000152587891,0.09589889645576477,André Schürrle,h,154,OpenPlay,2018,RightFoot,9424,Fulham,Tottenham,1,2,2019-01-20 16:00:00,Ryan Babel,Chipped,154
+274904,37,BlockedShot,0.9319999694824219,0.575999984741211,0.2783069908618927,André Schürrle,h,154,OpenPlay,2018,RightFoot,9429,Fulham,Brighton,4,2,2019-01-29 19:45:00,Ryan Babel,Cross,154
+275391,3,BlockedShot,0.9030000305175782,0.53,0.12923100590705872,André Schürrle,h,154,OpenPlay,2018,LeftFoot,9447,Fulham,Manchester United,0,3,2019-02-09 12:30:00,,Rebound,154
+275392,4,MissedShots,0.74,0.64,0.01424300018697977,André Schürrle,h,154,FromCorner,2018,RightFoot,9447,Fulham,Manchester United,0,3,2019-02-09 12:30:00,,None,154
+275400,42,MissedShots,0.8519999694824218,0.4420000076293945,0.06328050047159195,André Schürrle,h,154,SetPiece,2018,RightFoot,9447,Fulham,Manchester United,0,3,2019-02-09 12:30:00,,None,154
+287315,86,BlockedShot,0.8619999694824219,0.8209999847412109,0.05160810053348541,André Schürrle,h,154,DirectFreekick,2018,RightFoot,9512,Fulham,Manchester City,0,2,2019-03-30 12:30:00,,Standard,154
+307864,48,SavedShot,0.7619999694824219,0.525,0.0261314008384943,André Schürrle,h,154,OpenPlay,2019,RightFoot,11049,Spartak Moscow,Dinamo Moscow,0,0,2019-08-03 17:00:00,Roman Zobnin,TakeOn,154
+307873,69,SavedShot,0.9119999694824219,0.23899999618530274,0.0325440987944603,André Schürrle,h,154,OpenPlay,2019,RightFoot,11049,Spartak Moscow,Dinamo Moscow,0,0,2019-08-03 17:00:00,Zelimkhan Bakaev,Pass,154
+307877,80,MissedShots,0.8180000305175781,0.3940000152587891,0.04391010105609894,André Schürrle,h,154,OpenPlay,2019,RightFoot,11049,Spartak Moscow,Dinamo Moscow,0,0,2019-08-03 17:00:00,,None,154
+307879,81,BlockedShot,0.8190000152587891,0.6819999694824219,0.08408760279417038,André Schürrle,h,154,OpenPlay,2019,RightFoot,11049,Spartak Moscow,Dinamo Moscow,0,0,2019-08-03 17:00:00,Roman Zobnin,TakeOn,154
+308585,16,MissedShots,0.7390000152587891,0.4370000076293945,0.017848199233412743,André Schürrle,a,154,OpenPlay,2019,RightFoot,11061,FK Akhmat,Spartak Moscow,1,3,2019-08-11 19:30:00,Zelimkhan Bakaev,BallRecovery,154
+308598,53,SavedShot,0.7390000152587891,0.3089999961853027,0.03840560093522072,André Schürrle,a,154,DirectFreekick,2019,RightFoot,11061,FK Akhmat,Spartak Moscow,1,3,2019-08-11 19:30:00,,Standard,154
+308601,69,Goal,0.904000015258789,0.29399999618530276,0.0633603036403656,André Schürrle,a,154,OpenPlay,2019,RightFoot,11061,FK Akhmat,Spartak Moscow,1,3,2019-08-11 19:30:00,Guus Til,Pass,154
+308602,73,MissedShots,0.789000015258789,0.3729999923706055,0.0778333991765976,André Schürrle,a,154,DirectFreekick,2019,RightFoot,11061,FK Akhmat,Spartak Moscow,1,3,2019-08-11 19:30:00,,Standard,154
+309822,4,MissedShots,0.76,0.754000015258789,0.011214000172913074,André Schürrle,h,154,OpenPlay,2019,RightFoot,11070,Spartak Moscow,CSKA Moscow,2,1,2019-08-19 18:00:00,Ayrton Lucas,Pass,154
+309849,77,BlockedShot,0.9380000305175781,0.24299999237060546,0.03430899977684021,André Schürrle,h,154,OpenPlay,2019,RightFoot,11070,Spartak Moscow,CSKA Moscow,2,1,2019-08-19 18:00:00,,None,154
+314467,10,SavedShot,0.845,0.48,0.09353329986333847,André Schürrle,a,154,OpenPlay,2019,LeftFoot,11074,Krylya Sovetov Samara,Spartak Moscow,1,2,2019-08-25 17:00:00,Guus Til,Pass,154
+314469,13,MissedShots,0.87,0.3729999923706055,0.023296400904655457,André Schürrle,a,154,FromCorner,2019,LeftFoot,11074,Krylya Sovetov Samara,Spartak Moscow,1,2,2019-08-25 17:00:00,Roman Zobnin,Aerial,154
+314472,20,BlockedShot,0.7580000305175781,0.365,0.01911179907619953,André Schürrle,a,154,OpenPlay,2019,RightFoot,11074,Krylya Sovetov Samara,Spartak Moscow,1,2,2019-08-25 17:00:00,Nail Umiarov,BallRecovery,154
+314471,20,MissedShots,0.8630000305175781,0.580999984741211,0.0992467999458313,André Schürrle,a,154,OpenPlay,2019,RightFoot,11074,Krylya Sovetov Samara,Spartak Moscow,1,2,2019-08-25 17:00:00,Roman Zobnin,Pass,154
+314475,38,MissedShots,0.7780000305175782,0.47200000762939454,0.023872200399637222,André Schürrle,a,154,SetPiece,2019,LeftFoot,11074,Krylya Sovetov Samara,Spartak Moscow,1,2,2019-08-25 17:00:00,Nail Umiarov,None,154
+314476,40,ShotOnPost,0.885,0.59,0.33726799488067627,André Schürrle,a,154,OpenPlay,2019,LeftFoot,11074,Krylya Sovetov Samara,Spartak Moscow,1,2,2019-08-25 17:00:00,Nail Umiarov,Pass,154
+314488,63,MissedShots,0.7240000152587891,0.43400001525878906,0.04381319880485535,André Schürrle,a,154,DirectFreekick,2019,RightFoot,11074,Krylya Sovetov Samara,Spartak Moscow,1,2,2019-08-25 17:00:00,,Standard,154
+316442,13,BlockedShot,0.7019999694824218,0.6630000305175782,0.012049799785017967,André Schürrle,h,154,OpenPlay,2019,RightFoot,11086,Spartak Moscow,Zenit St. Petersburg,0,1,2019-09-01 17:00:00,Ayrton Lucas,Pass,154
+316448,28,MissedShots,0.754000015258789,0.40200000762939453,0.057082198560237885,André Schürrle,h,154,DirectFreekick,2019,RightFoot,11086,Spartak Moscow,Zenit St. Petersburg,0,1,2019-09-01 17:00:00,,Standard,154
+316454,52,BlockedShot,0.755,0.27,0.013948099687695503,André Schürrle,h,154,OpenPlay,2019,LeftFoot,11086,Spartak Moscow,Zenit St. Petersburg,0,1,2019-09-01 17:00:00,Jordan Larsson,Pass,154
+316460,65,MissedShots,0.72,0.34799999237060547,0.03631129860877991,André Schürrle,h,154,DirectFreekick,2019,RightFoot,11086,Spartak Moscow,Zenit St. Petersburg,0,1,2019-09-01 17:00:00,,Standard,154
+316465,74,MissedShots,0.7719999694824219,0.5779999923706055,0.07356149703264236,André Schürrle,h,154,DirectFreekick,2019,RightFoot,11086,Spartak Moscow,Zenit St. Petersburg,0,1,2019-09-01 17:00:00,,Standard,154
+316466,77,BlockedShot,0.8330000305175781,0.705999984741211,0.030225399881601334,André Schürrle,h,154,OpenPlay,2019,RightFoot,11086,Spartak Moscow,Zenit St. Petersburg,0,1,2019-09-01 17:00:00,Ayrton Lucas,Pass,154
+316467,79,SavedShot,0.769000015258789,0.7030000305175781,0.019183000549674034,André Schürrle,h,154,OpenPlay,2019,RightFoot,11086,Spartak Moscow,Zenit St. Petersburg,0,1,2019-09-01 17:00:00,Nail Umiarov,Pass,154
+319997,42,BlockedShot,0.8119999694824219,0.500999984741211,0.05693500116467476,André Schürrle,a,154,OpenPlay,2019,RightFoot,11099,FC Ufa,Spartak Moscow,1,0,2019-09-20 14:30:00,Ayaz Guliev,Pass,154
+320004,58,SavedShot,0.7330000305175781,0.36,0.017878200858831406,André Schürrle,a,154,OpenPlay,2019,RightFoot,11099,FC Ufa,Spartak Moscow,1,0,2019-09-20 14:30:00,Roman Zobnin,Pass,154
+320006,66,BlockedShot,0.950999984741211,0.5059999847412109,0.6143079996109009,André Schürrle,a,154,OpenPlay,2019,RightFoot,11099,FC Ufa,Spartak Moscow,1,0,2019-09-20 14:30:00,Zelimkhan Bakaev,Pass,154
+325516,1,SavedShot,0.9019999694824219,0.695,0.057580601423978806,André Schürrle,h,154,OpenPlay,2019,LeftFoot,11126,Spartak Moscow,Rubin Kazan,0,0,2019-10-19 14:30:00,Lorenzo Melgarejo,Pass,154
+325521,23,MissedShots,0.9130000305175782,0.6580000305175782,0.0838427022099495,André Schürrle,h,154,OpenPlay,2019,LeftFoot,11126,Spartak Moscow,Rubin Kazan,0,0,2019-10-19 14:30:00,Lorenzo Melgarejo,Pass,154
+325525,44,BlockedShot,0.865,0.6179999923706054,0.08160179853439331,André Schürrle,h,154,OpenPlay,2019,RightFoot,11126,Spartak Moscow,Rubin Kazan,0,0,2019-10-19 14:30:00,Zelimkhan Bakaev,Pass,154
+325526,47,SavedShot,0.8690000152587891,0.73,0.03456860035657883,André Schürrle,h,154,OpenPlay,2019,RightFoot,11126,Spartak Moscow,Rubin Kazan,0,0,2019-10-19 14:30:00,Guus Til,BlockedPass,154
+325530,52,SavedShot,0.87,0.6869999694824219,0.05174240097403526,André Schürrle,h,154,OpenPlay,2019,LeftFoot,11126,Spartak Moscow,Rubin Kazan,0,0,2019-10-19 14:30:00,Zelimkhan Bakaev,Pass,154
+327700,23,ShotOnPost,0.9119999694824219,0.6,0.299439013004303,André Schürrle,a,154,OpenPlay,2019,RightFoot,11130,Lokomotiv Moscow,Spartak Moscow,0,3,2019-10-27 13:30:00,Nail Umiarov,Cross,154
+330750,88,SavedShot,0.77,0.6120000076293945,0.04107780009508133,André Schürrle,h,154,OpenPlay,2019,RightFoot,11150,Spartak Moscow,Krylya Sovetov Samara,2,0,2019-11-09 16:00:00,Alex Kral,Pass,154
+330752,92,MissedShots,0.779000015258789,0.46299999237060546,0.03765939921140671,André Schürrle,h,154,OpenPlay,2019,LeftFoot,11150,Spartak Moscow,Krylya Sovetov Samara,2,0,2019-11-09 16:00:00,Roman Zobnin,Pass,154
+332689,7,MissedShots,0.725,0.6270000076293946,0.017847299575805664,André Schürrle,a,154,OpenPlay,2019,RightFoot,11157,Ural,Spartak Moscow,0,0,2019-11-24 11:00:00,Nail Umiarov,Pass,154
+332699,44,MissedShots,0.965,0.415,0.34370800852775574,André Schürrle,a,154,OpenPlay,2019,Head,11157,Ural,Spartak Moscow,0,0,2019-11-24 11:00:00,,None,154
+332702,53,BlockedShot,0.81,0.49700000762939456,0.05503150075674057,André Schürrle,a,154,OpenPlay,2019,RightFoot,11157,Ural,Spartak Moscow,0,0,2019-11-24 11:00:00,Nail Umiarov,Pass,154
+334450,58,BlockedShot,0.7390000152587891,0.47299999237060547,0.017733100801706314,André Schürrle,a,154,OpenPlay,2019,RightFoot,11165,Zenit St. Petersburg,Spartak Moscow,1,0,2019-12-01 16:00:00,Ezequiel Ponce,Pass,154
+336465,75,SavedShot,0.7969999694824219,0.34,0.021718500182032585,André Schürrle,h,154,OpenPlay,2019,LeftFoot,11173,Spartak Moscow,FC Rostov,1,4,2019-12-08 16:00:00,,BallRecovery,154
+336471,84,SavedShot,0.7669999694824219,0.43099998474121093,0.02744480036199093,André Schürrle,h,154,OpenPlay,2019,LeftFoot,11173,Spartak Moscow,FC Rostov,1,4,2019-12-08 16:00:00,Soltmurad Bakaev,Pass,154

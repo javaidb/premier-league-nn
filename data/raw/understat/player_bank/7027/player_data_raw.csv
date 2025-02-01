@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+7027,Arijanet Muric,10,900,0,0,0,0.37258302234113216,0,4,0,0,GK,Burnley,0,0,2.251372165977955,1.878789134323597,2023
+7027,Arijanet Muric,17,1530,0,0,0,0,0,0,1,0,GK,Ipswich,0,0,2.313407499343157,2.313407499343157,2024
+7027,Arijanet Muric,17,1530,0,0,0,0,0,0,1,0,GK,Ipswich,0,0,2.313407499343157,2.313407499343157,2025

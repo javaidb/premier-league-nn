@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+9556,William Osula,21,769,0,2.0722835399210453,0,0.09878482669591904,21,1,4,0,F S,Sheffield United,0,2.0722835399210453,2.056103426963091,0.1622651368379593,2023
+9556,William Osula,8,34,0,0,0,0.08025070279836655,0,1,0,0,S,Newcastle United,0,0,0.08025070279836655,0,2024
+9556,William Osula,8,34,0,0,0,0.08025070279836655,0,1,0,0,S,Newcastle United,0,0,0.08025070279836655,0,2025

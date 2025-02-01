@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+454433,71,BlockedShot,0.895,0.5179999923706055,0.031716201454401016,Tyler Onyango,h,9287,OpenPlay,2021,Head,16600,Everton,Aston Villa,0,1,2022-01-22 12:30:00,Demarai Gray,Aerial,9287

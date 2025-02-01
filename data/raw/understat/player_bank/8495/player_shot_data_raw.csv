@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+592364,86,SavedShot,0.9069999694824219,0.4590000152587891,0.09397579729557037,Taylor Harwood-Bellis,h,8495,SetPiece,2024,RightFoot,26643,Southampton,Ipswich,1,1,2024-09-21 14:00:00,,BallTouch,8495
+595029,49,SavedShot,0.9119999694824219,0.5120000076293946,0.0530579537153244,Taylor Harwood-Bellis,a,8495,SetPiece,2024,Head,26661,Bournemouth,Southampton,3,1,2024-09-30 19:00:00,Tyler Dibling,Aerial,8495
+595030,50,Goal,0.8980000305175782,0.5179999923706055,0.3438728451728821,Taylor Harwood-Bellis,a,8495,SetPiece,2024,Head,26661,Bournemouth,Southampton,3,1,2024-09-30 19:00:00,,None,8495
+595544,78,BlockedShot,0.975999984741211,0.4640000152587891,0.5442954301834106,Taylor Harwood-Bellis,a,8495,FromCorner,2024,Head,26666,Arsenal,Southampton,3,1,2024-10-05 14:00:00,Yukinari Sugawara,Cross,8495
+597109,31,MissedShots,0.9269999694824219,0.3609999847412109,0.012276073917746544,Taylor Harwood-Bellis,h,8495,OpenPlay,2024,Head,26678,Southampton,Leicester,2,3,2024-10-19 14:00:00,Yukinari Sugawara,Pass,8495
+597121,66,BlockedShot,0.9540000152587891,0.5620000076293945,0.11455089598894119,Taylor Harwood-Bellis,h,8495,FromCorner,2024,Head,26678,Southampton,Leicester,2,3,2024-10-19 14:00:00,Ryan Manning,Cross,8495
+600221,45,MissedShots,0.94,0.5359999847412109,0.06330083310604095,Taylor Harwood-Bellis,h,8495,FromCorner,2024,Head,26699,Southampton,Everton,1,0,2024-11-02 15:00:00,Ryan Manning,Aerial,8495
+600223,56,BlockedShot,0.9169999694824219,0.48700000762939455,0.09895281493663788,Taylor Harwood-Bellis,h,8495,SetPiece,2024,RightFoot,26699,Southampton,Everton,1,0,2024-11-02 15:00:00,Cameron Archer,BallTouch,8495
+601497,38,MissedShots,0.950999984741211,0.4520000076293945,0.402206689119339,Taylor Harwood-Bellis,a,8495,FromCorner,2024,Head,26711,Wolverhampton Wanderers,Southampton,2,0,2024-11-09 15:00:00,Mateus Fernandes,Cross,8495
+607798,88,SavedShot,0.7859999847412109,0.26600000381469724,0.00962061807513237,Taylor Harwood-Bellis,h,8495,OpenPlay,2024,RightFoot,26759,Southampton,Tottenham,0,5,2024-12-15 19:00:00,,Rebound,8495
+609470,48,MissedShots,0.975999984741211,0.6320000076293946,0.0320218987762928,Taylor Harwood-Bellis,a,8495,SetPiece,2024,LeftFoot,26784,Crystal Palace,Southampton,2,1,2024-12-29 15:00:00,James Bree,Cross,8495
+609939,46,MissedShots,0.8080000305175781,0.3110000038146973,0.025177307426929474,Taylor Harwood-Bellis,h,8495,OpenPlay,2024,RightFoot,26799,Southampton,Brentford,0,5,2025-01-04 15:00:00,,None,8495
+611909,91,BlockedShot,0.8880000305175781,0.46900001525878904,0.04050851985812187,Taylor Harwood-Bellis,a,8495,FromCorner,2024,Head,26811,Manchester United,Southampton,3,1,2025-01-16 20:00:00,Yukinari Sugawara,Cross,8495
+612646,15,BlockedShot,0.9169999694824219,0.4979999923706055,0.04261612892150879,Taylor Harwood-Bellis,a,8495,FromCorner,2024,Head,26820,Nottingham Forest,Southampton,3,2,2025-01-19 14:00:00,Mateus Fernandes,Aerial,8495
+613366,48,SavedShot,0.9390000152587891,0.500999984741211,0.1232711598277092,Taylor Harwood-Bellis,h,8495,FromCorner,2024,RightFoot,26829,Southampton,Newcastle United,1,3,2025-01-25 15:00:00,,None,8495
+613367,49,SavedShot,0.9730000305175781,0.639000015258789,0.010650099255144596,Taylor Harwood-Bellis,h,8495,FromCorner,2024,Head,26829,Southampton,Newcastle United,1,3,2025-01-25 15:00:00,Ryan Manning,Aerial,8495

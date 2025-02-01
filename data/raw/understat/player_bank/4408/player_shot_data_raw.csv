@@ -1,0 +1,56 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14782,15,BlockedShot,0.6880000305175781,0.42400001525878905,0.009091840125620365,Steven Gerrard,a,4408,OpenPlay,2014,RightFoot,4768,Manchester City,Liverpool,3,1,2014-08-25 20:00:00,,None,4408
+15113,48,Goal,0.885,0.5,0.7611690163612366,Steven Gerrard,a,4408,Penalty,2014,RightFoot,4777,Tottenham,Liverpool,0,3,2014-08-31 13:30:00,,Standard,4408
+15799,64,Goal,0.74,0.4129999923706055,0.053371600806713104,Steven Gerrard,h,4408,DirectFreekick,2014,RightFoot,4739,Liverpool,Everton,1,1,2014-09-27 12:45:00,,Standard,4408
+17127,8,BlockedShot,0.8109999847412109,0.5229999923706055,0.1518239974975586,Steven Gerrard,h,4408,DirectFreekick,2014,RightFoot,4691,Liverpool,West Bromwich Albion,2,1,2014-10-04 15:00:00,,Standard,4408
+17143,65,BlockedShot,0.745999984741211,0.5640000152587891,0.026993200182914734,Steven Gerrard,h,4408,OpenPlay,2014,LeftFoot,4691,Liverpool,West Bromwich Albion,2,1,2014-10-04 15:00:00,,None,4408
+17147,76,SavedShot,0.815,0.38599998474121094,0.051477499306201935,Steven Gerrard,h,4408,OpenPlay,2014,RightFoot,4691,Liverpool,West Bromwich Albion,2,1,2014-10-04 15:00:00,Raheem Sterling,Pass,4408
+16676,43,MissedShots,0.870999984741211,0.5690000152587891,0.10502400249242783,Steven Gerrard,a,4408,OpenPlay,2014,RightFoot,4706,Queens Park Rangers,Liverpool,2,3,2014-10-19 13:30:00,Mario Balotelli,Pass,4408
+16695,91,OwnGoal,0.03,0.4520000076293945,0,Steven Gerrard,a,4408,FromCorner,2014,OtherBodyPart,4706,Queens Park Rangers,Liverpool,2,3,2014-10-19 13:30:00,,Dispossessed,4408
+17370,59,MissedShots,0.7769999694824219,0.40099998474121096,0.024772200733423233,Steven Gerrard,h,4408,OpenPlay,2014,RightFoot,4713,Liverpool,Hull,0,0,2014-10-25 15:00:00,Raheem Sterling,Pass,4408
+17371,61,BlockedShot,0.6859999847412109,0.5820000076293945,0.009812469594180584,Steven Gerrard,h,4408,OpenPlay,2014,RightFoot,4713,Liverpool,Hull,0,0,2014-10-25 15:00:00,,None,4408
+16479,76,BlockedShot,0.754000015258789,0.544000015258789,0.022516300901770592,Steven Gerrard,h,4408,OpenPlay,2014,RightFoot,4659,Liverpool,Chelsea,1,2,2014-11-08 12:45:00,Joe Allen,Pass,4408
+16481,87,BlockedShot,0.7680000305175781,0.5609999847412109,0.012179800309240818,Steven Gerrard,h,4408,OpenPlay,2014,LeftFoot,4659,Liverpool,Chelsea,1,2,2014-11-08 12:45:00,Rickie Lambert,Aerial,4408
+16373,37,MissedShots,0.7380000305175781,0.43599998474121093,0.018488699570298195,Steven Gerrard,a,4408,OpenPlay,2014,RightFoot,4676,Crystal Palace,Liverpool,3,1,2014-11-23 13:30:00,Joe Allen,Pass,4408
+16377,47,MissedShots,0.705,0.6990000152587891,0.030873099341988564,Steven Gerrard,a,4408,DirectFreekick,2014,RightFoot,4676,Crystal Palace,Liverpool,3,1,2014-11-23 13:30:00,,Standard,4408
+16378,51,BlockedShot,0.7230000305175781,0.345,0.013438900001347065,Steven Gerrard,a,4408,OpenPlay,2014,RightFoot,4676,Crystal Palace,Liverpool,3,1,2014-11-23 13:30:00,Adam Lallana,BallRecovery,4408
+16380,56,MissedShots,0.740999984741211,0.5209999847412109,0.019009500741958618,Steven Gerrard,a,4408,OpenPlay,2014,RightFoot,4676,Crystal Palace,Liverpool,3,1,2014-11-23 13:30:00,Raheem Sterling,Pass,4408
+16388,84,MissedShots,0.7919999694824219,0.3820000076293945,0.0889454036951065,Steven Gerrard,a,4408,DirectFreekick,2014,RightFoot,4676,Crystal Palace,Liverpool,3,1,2014-11-23 13:30:00,,Standard,4408
+18980,53,Goal,0.884000015258789,0.49599998474121093,0.3974429965019226,Steven Gerrard,a,4408,OpenPlay,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,None,4408
+18982,58,MissedShots,0.7880000305175782,0.4209999847412109,0.04245920106768608,Steven Gerrard,a,4408,OpenPlay,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,Jordan Henderson,Pass,4408
+19960,83,BlockedShot,0.7219999694824218,0.3820000076293945,0.015235699713230133,Steven Gerrard,h,4408,OpenPlay,2014,RightFoot,4604,Liverpool,Sunderland,0,0,2014-12-06 15:00:00,Lucas Leiva,Pass,4408
+18252,17,SavedShot,0.735,0.5629999923706055,0.018050499260425568,Steven Gerrard,a,4408,OpenPlay,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Raheem Sterling,Pass,4408
+18850,2,MissedShots,0.7669999694824219,0.515,0.08014880120754242,Steven Gerrard,h,4408,DirectFreekick,2014,RightFoot,4627,Liverpool,Arsenal,2,2,2014-12-21 16:00:00,,Standard,4408
+18864,60,MissedShots,0.715999984741211,0.7569999694824219,0.010001899674534798,Steven Gerrard,h,4408,OpenPlay,2014,RightFoot,4627,Liverpool,Arsenal,2,2,2014-12-21 16:00:00,Lazar Markovic,Pass,4408
+18865,61,MissedShots,0.8730000305175781,0.504000015258789,0.029941100627183914,Steven Gerrard,h,4408,OpenPlay,2014,Head,4627,Liverpool,Arsenal,2,2,2014-12-21 16:00:00,Raheem Sterling,Chipped,4408
+18871,69,SavedShot,0.7240000152587891,0.519000015258789,0.01693269982933998,Steven Gerrard,h,4408,OpenPlay,2014,RightFoot,4627,Liverpool,Arsenal,2,2,2014-12-21 16:00:00,Lazar Markovic,Pass,4408
+18870,69,SavedShot,0.82,0.72,0.025297699496150017,Steven Gerrard,h,4408,OpenPlay,2014,RightFoot,4627,Liverpool,Arsenal,2,2,2014-12-21 16:00:00,Jordan Henderson,Pass,4408
+18880,94,SavedShot,0.7080000305175781,0.4420000076293945,0.014805199578404427,Steven Gerrard,h,4408,OpenPlay,2014,RightFoot,4627,Liverpool,Arsenal,2,2,2014-12-21 16:00:00,Lucas Leiva,Pass,4408
+19539,16,Goal,0.885,0.5,0.7611690163612366,Steven Gerrard,h,4408,Penalty,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,,Standard,4408
+19546,39,Goal,0.885,0.5,0.7611690163612366,Steven Gerrard,h,4408,Penalty,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,,Standard,4408
+19567,93,MissedShots,0.8669999694824219,0.7180000305175781,0.04153729975223541,Steven Gerrard,h,4408,FromCorner,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Philippe Coutinho,Pass,4408
+18124,23,BlockedShot,0.8830000305175781,0.4329999923706055,0.06570979952812195,Steven Gerrard,a,4408,FromCorner,2014,RightFoot,4561,Sunderland,Liverpool,0,1,2015-01-10 12:45:00,Jordan Henderson,Pass,4408
+18123,23,BlockedShot,0.8030000305175782,0.45799999237060546,0.06440400332212448,Steven Gerrard,a,4408,OpenPlay,2014,RightFoot,4561,Sunderland,Liverpool,0,1,2015-01-10 12:45:00,Philippe Coutinho,Pass,4408
+18127,37,MissedShots,0.85,0.27899999618530275,0.06061460077762604,Steven Gerrard,a,4408,OpenPlay,2014,RightFoot,4561,Sunderland,Liverpool,0,1,2015-01-10 12:45:00,Fabio Borini,Pass,4408
+18128,38,SavedShot,0.8390000152587891,0.5129999923706055,0.0842536985874176,Steven Gerrard,a,4408,OpenPlay,2014,LeftFoot,4561,Sunderland,Liverpool,0,1,2015-01-10 12:45:00,Fabio Borini,Pass,4408
+24171,9,SavedShot,0.769000015258789,0.6430000305175781,0.06293600052595139,Steven Gerrard,a,4408,DirectFreekick,2014,RightFoot,4521,Everton,Liverpool,0,0,2015-02-07 17:30:00,,Standard,4408
+24182,52,BlockedShot,0.8859999847412109,0.40799999237060547,0.0306209996342659,Steven Gerrard,a,4408,FromCorner,2014,RightFoot,4521,Everton,Liverpool,0,0,2015-02-07 17:30:00,Mamadou Sakho,Aerial,4408
+24190,87,MissedShots,0.8009999847412109,0.549000015258789,0.04659099876880646,Steven Gerrard,a,4408,OpenPlay,2014,LeftFoot,4521,Everton,Liverpool,0,0,2015-02-07 17:30:00,Daniel Sturridge,Pass,4408
+23060,10,MissedShots,0.759000015258789,0.36,0.057328201830387115,Steven Gerrard,h,4408,DirectFreekick,2014,RightFoot,4528,Liverpool,Tottenham,3,2,2015-02-10 20:00:00,,Standard,4408
+23077,52,Goal,0.885,0.5,0.7611690163612366,Steven Gerrard,h,4408,Penalty,2014,RightFoot,4528,Liverpool,Tottenham,3,2,2015-02-10 20:00:00,,Standard,4408
+20309,26,MissedShots,0.8119999694824219,0.6480000305175782,0.09849300235509872,Steven Gerrard,a,4408,DirectFreekick,2014,RightFoot,4471,West Bromwich Albion,Liverpool,0,0,2015-04-25 15:00:00,,Standard,4408
+20329,77,SavedShot,0.8230000305175781,0.635,0.039658598601818085,Steven Gerrard,a,4408,OpenPlay,2014,LeftFoot,4471,West Bromwich Albion,Liverpool,0,0,2015-04-25 15:00:00,Adam Lallana,Pass,4408
+21345,12,MissedShots,0.7390000152587891,0.53,0.019456900656223297,Steven Gerrard,h,4408,OpenPlay,2014,RightFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,Jordan Henderson,Pass,4408
+21352,25,MissedShots,0.794000015258789,0.514000015258789,0.04704419896006584,Steven Gerrard,h,4408,OpenPlay,2014,RightFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,Raheem Sterling,Pass,4408
+21355,39,SavedShot,0.725,0.45799999237060546,0.04815779998898506,Steven Gerrard,h,4408,DirectFreekick,2014,RightFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,,Standard,4408
+21366,68,BlockedShot,0.8240000152587891,0.4329999923706055,0.07165680080652237,Steven Gerrard,h,4408,OpenPlay,2014,RightFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,,BallTouch,4408
+21369,78,SavedShot,0.885,0.5,0.7611690163612366,Steven Gerrard,h,4408,Penalty,2014,RightFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,,Standard,4408
+21373,86,Goal,0.9230000305175782,0.5579999923706055,0.08071409910917282,Steven Gerrard,h,4408,FromCorner,2014,Head,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,Philippe Coutinho,Cross,4408
+20469,43,Goal,0.9590000152587891,0.4520000076293945,0.5492619872093201,Steven Gerrard,a,4408,SetPiece,2014,Head,4417,Chelsea,Liverpool,1,1,2015-05-10 16:00:00,Jordan Henderson,Cross,4408
+22413,63,SavedShot,0.794000015258789,0.37400001525878906,0.025246400386095047,Steven Gerrard,h,4408,OpenPlay,2014,RightFoot,4425,Liverpool,Crystal Palace,1,3,2015-05-16 17:30:00,Raheem Sterling,Pass,4408
+22418,76,MissedShots,0.735999984741211,0.615,0.04838839918375015,Steven Gerrard,h,4408,DirectFreekick,2014,RightFoot,4425,Liverpool,Crystal Palace,1,3,2015-05-16 17:30:00,,Standard,4408
+22419,80,MissedShots,0.8119999694824219,0.515,0.05406180024147034,Steven Gerrard,h,4408,OpenPlay,2014,RightFoot,4425,Liverpool,Crystal Palace,1,3,2015-05-16 17:30:00,Alberto Moreno,Pass,4408
+23226,47,BlockedShot,0.769000015258789,0.5420000076293945,0.08040309697389603,Steven Gerrard,a,4408,DirectFreekick,2014,RightFoot,4439,Stoke,Liverpool,6,1,2015-05-24 15:00:00,,Standard,4408
+23230,65,SavedShot,0.8880000305175781,0.33099998474121095,0.06965570151805878,Steven Gerrard,a,4408,OpenPlay,2014,RightFoot,4439,Stoke,Liverpool,6,1,2015-05-24 15:00:00,Philippe Coutinho,Pass,4408
+23232,68,MissedShots,0.759000015258789,0.634000015258789,0.013590199872851372,Steven Gerrard,a,4408,OpenPlay,2014,RightFoot,4439,Stoke,Liverpool,6,1,2015-05-24 15:00:00,Jordon Ibe,Pass,4408
+23233,69,Goal,0.889000015258789,0.41,0.25505200028419495,Steven Gerrard,a,4408,OpenPlay,2014,RightFoot,4439,Stoke,Liverpool,6,1,2015-05-24 15:00:00,Rickie Lambert,HeadPass,4408

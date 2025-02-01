@@ -1,0 +1,67 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15241,72,BlockedShot,0.7169999694824218,0.534000015258789,0.04452880099415779,Kieran Trippier,a,652,DirectFreekick,2014,RightFoot,4721,Crystal Palace,Burnley,0,0,2014-09-13 15:00:00,,Standard,652
+15444,2,SavedShot,0.7390000152587891,0.32099998474121094,0.01400190033018589,Kieran Trippier,h,652,OpenPlay,2014,RightFoot,4732,Burnley,Sunderland,0,0,2014-09-20 15:00:00,Scott Arfield,BallRecovery,652
+15915,20,BlockedShot,0.7019999694824218,0.5220000076293946,0.03860190138220787,Kieran Trippier,a,652,DirectFreekick,2014,RightFoot,4747,West Bromwich Albion,Burnley,4,0,2014-09-28 16:00:00,,Standard,652
+17724,35,MissedShots,0.759000015258789,0.52,0.016768300905823708,Kieran Trippier,h,652,SetPiece,2014,RightFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,,Rebound,652
+17723,35,BlockedShot,0.735,0.5420000076293945,0.05368959903717041,Kieran Trippier,h,652,DirectFreekick,2014,RightFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,,Standard,652
+19501,54,MissedShots,0.7519999694824219,0.33099998474121095,0.0144421998411417,Kieran Trippier,a,652,FromCorner,2014,RightFoot,4621,Tottenham,Burnley,2,1,2014-12-20 15:00:00,,None,652
+18648,84,BlockedShot,0.8019999694824219,0.32299999237060545,0.07656680047512054,Kieran Trippier,a,652,DirectFreekick,2014,RightFoot,4643,Manchester City,Burnley,2,2,2014-12-28 15:00:00,,Standard,652
+19763,89,BlockedShot,0.7769999694824219,0.730999984741211,0.04813950136303902,Kieran Trippier,a,652,DirectFreekick,2014,RightFoot,4553,Newcastle United,Burnley,3,3,2015-01-01 15:00:00,,Standard,652
+22830,23,SavedShot,0.7480000305175781,0.49700000762939456,0.0635278970003128,Kieran Trippier,h,652,DirectFreekick,2014,RightFoot,4457,Burnley,Arsenal,0,1,2015-04-11 17:30:00,,Standard,652
+22461,44,MissedShots,0.7440000152587891,0.5840000152587891,0.05603770166635513,Kieran Trippier,a,652,DirectFreekick,2014,RightFoot,4404,West Ham,Burnley,1,0,2015-05-02 15:00:00,,Standard,652
+22098,0,SavedShot,0.6840000152587891,0.4640000152587891,0.032844800502061844,Kieran Trippier,a,652,DirectFreekick,2014,RightFoot,4430,Aston Villa,Burnley,0,1,2015-05-24 15:00:00,,Standard,652
+54113,43,MissedShots,0.7390000152587891,0.46,0.015657899901270866,Kieran Trippier,a,652,FromCorner,2015,RightFoot,262,Watford,Tottenham,1,2,2015-12-28 19:00:00,,None,652
+53959,63,Goal,0.97,0.42700000762939455,0.40166300535202026,Kieran Trippier,h,652,OpenPlay,2015,RightFoot,324,Tottenham,Watford,1,0,2016-02-06 19:00:00,Dele Alli,Cross,652
+119149,36,MissedShots,0.76,0.3609999847412109,0.02641730010509491,Kieran Trippier,a,652,FromCorner,2016,RightFoot,3431,Burnley,Tottenham,0,2,2017-04-01 15:00:00,Harry Winks,Pass,652
+119154,49,BlockedShot,0.755,0.47400001525878904,0.017774399369955063,Kieran Trippier,a,652,FromCorner,2016,RightFoot,3431,Burnley,Tottenham,0,2,2017-04-01 15:00:00,,None,652
+120386,6,BlockedShot,0.8209999847412109,0.42700000762939455,0.03502679988741875,Kieran Trippier,h,652,FromCorner,2016,RightFoot,3453,Tottenham,Watford,4,0,2017-04-08 12:30:00,Mousa Dembélé,Cross,652
+158889,37,MissedShots,0.799000015258789,0.38,0.023289499804377556,Kieran Trippier,h,652,FromCorner,2017,RightFoot,7166,Tottenham,Swansea,0,0,2017-09-16 17:30:00,,None,652
+158908,90,MissedShots,0.755,0.6140000152587891,0.016109900549054146,Kieran Trippier,h,652,FromCorner,2017,RightFoot,7166,Tottenham,Swansea,0,0,2017-09-16 17:30:00,,None,652
+161678,67,MissedShots,0.7880000305175782,0.285,0.015592600218951702,Kieran Trippier,h,652,FromCorner,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,,None,652
+160797,7,MissedShots,0.7919999694824219,0.26799999237060546,0.009644719772040844,Kieran Trippier,a,652,FromCorner,2017,RightFoot,7264,Watford,Tottenham,1,1,2017-12-02 15:00:00,Eric Dier,HeadPass,652
+194036,75,SavedShot,0.9069999694824219,0.38799999237060545,0.30695000290870667,Kieran Trippier,h,652,OpenPlay,2017,RightFoot,7387,Tottenham,Arsenal,1,0,2018-02-10 12:30:00,Christian Eriksen,Chipped,652
+204093,24,MissedShots,0.7719999694824219,0.42900001525878906,0.019869700074195862,Kieran Trippier,a,652,FromCorner,2017,RightFoot,7431,Chelsea,Tottenham,1,3,2018-04-01 16:00:00,,None,652
+213351,81,BlockedShot,0.72,0.66,0.037591200321912766,Kieran Trippier,a,652,DirectFreekick,2017,RightFoot,7483,West Bromwich Albion,Tottenham,1,0,2018-05-05 15:00:00,,Standard,652
+233154,40,BlockedShot,0.9019999694824219,0.3729999923706055,0.07182040065526962,Kieran Trippier,h,652,OpenPlay,2018,RightFoot,9209,Tottenham,Fulham,3,1,2018-08-18 17:00:00,,Rebound,652
+233168,73,Goal,0.7230000305175781,0.5779999923706055,0.045305099338293076,Kieran Trippier,h,652,DirectFreekick,2018,RightFoot,9209,Tottenham,Fulham,3,1,2018-08-18 17:00:00,,Standard,652
+234028,40,BlockedShot,0.77,0.3820000076293945,0.0688806027173996,Kieran Trippier,a,652,DirectFreekick,2018,RightFoot,9254,Brighton,Tottenham,1,2,2018-09-22 16:30:00,,Standard,652
+251697,12,SavedShot,0.8780000305175781,0.39,0.08890160173177719,Kieran Trippier,a,652,OpenPlay,2018,RightFoot,9372,Everton,Tottenham,2,6,2018-12-23 16:00:00,Son Heung-Min,Pass,652
+251708,41,ShotOnPost,0.779000015258789,0.285,0.05238499864935875,Kieran Trippier,a,652,DirectFreekick,2018,RightFoot,9372,Everton,Tottenham,2,6,2018-12-23 16:00:00,,Standard,652
+263560,12,SavedShot,0.7619999694824219,0.610999984741211,0.06430479884147644,Kieran Trippier,h,652,DirectFreekick,2018,RightFoot,9388,Tottenham,Wolverhampton Wanderers,1,3,2018-12-29 15:00:00,,Standard,652
+275568,2,BlockedShot,0.895,0.3729999923706055,0.0573979988694191,Kieran Trippier,h,652,OpenPlay,2018,RightFoot,9452,Tottenham,Leicester,3,1,2019-02-10 13:30:00,Danny Rose,Cross,652
+276084,83,OwnGoal,0.19600000381469726,0.345,0,Kieran Trippier,a,652,OpenPlay,2018,RightFoot,9474,Chelsea,Tottenham,2,0,2019-02-27 20:00:00,,None,652
+291350,46,MissedShots,0.759000015258789,0.315,0.012964800000190735,Kieran Trippier,h,652,FromCorner,2018,RightFoot,9500,Tottenham,Crystal Palace,2,0,2019-04-03 19:45:00,,Aerial,652
+320595,47,BlockedShot,0.7480000305175781,0.47200000762939454,0.07138019800186157,Kieran Trippier,h,652,DirectFreekick,2019,RightFoot,12064,Atletico Madrid,Celta Vigo,0,0,2019-09-21 16:30:00,,Standard,652
+327581,9,BlockedShot,0.715,0.5070000076293946,0.05039430037140846,Kieran Trippier,h,652,DirectFreekick,2019,RightFoot,12115,Atletico Madrid,Athletic Club,2,0,2019-10-26 20:00:00,,Standard,652
+334652,71,BlockedShot,0.9469999694824218,0.2929999923706055,0.04338710010051727,Kieran Trippier,h,652,OpenPlay,2019,RightFoot,12165,Atletico Madrid,Barcelona,0,1,2019-12-01 20:00:00,,Rebound,652
+384758,62,SavedShot,0.7609999847412109,0.5970000076293945,0.07453689724206924,Kieran Trippier,a,652,DirectFreekick,2020,RightFoot,14851,Osasuna,Atletico Madrid,1,3,2020-10-31 17:30:00,,Standard,652
+413350,88,BlockedShot,0.9219999694824219,0.365,0.01569809950888157,Kieran Trippier,a,652,OpenPlay,2020,Head,15066,Sevilla,Atletico Madrid,1,0,2021-04-04 19:00:00,Saúl Ñíguez,Aerial,652
+418618,74,MissedShots,0.825,0.28299999237060547,0.040085699409246445,Kieran Trippier,a,652,OpenPlay,2020,RightFoot,15112,Elche,Atletico Madrid,0,1,2021-05-01 14:15:00,,None,652
+429517,34,MissedShots,0.76,0.7659999847412109,0.042063698172569275,Kieran Trippier,h,652,DirectFreekick,2021,RightFoot,17165,Atletico Madrid,Villarreal,2,2,2021-08-29 20:00:00,,Standard,652
+429520,49,BlockedShot,0.92,0.41,0.07511439919471741,Kieran Trippier,h,652,OpenPlay,2021,Head,17165,Atletico Madrid,Villarreal,2,2,2021-08-29 20:00:00,Thomas Lemar,Cross,652
+456537,79,Goal,0.7530000305175781,0.3990000152587891,0.059716999530792236,Kieran Trippier,h,652,DirectFreekick,2021,RightFoot,16612,Newcastle United,Everton,3,1,2022-02-08 19:45:00,,Standard,652
+457538,34,Goal,0.82,0.549000015258789,0.16641700267791748,Kieran Trippier,h,652,DirectFreekick,2021,RightFoot,16622,Newcastle United,Aston Villa,1,0,2022-02-13 14:00:00,,Standard,652
+479298,15,BlockedShot,0.7959999847412109,0.7469999694824219,0.0519057996571064,Kieran Trippier,h,652,DirectFreekick,2022,RightFoot,18206,Newcastle United,Nottingham Forest,2,0,2022-08-06 14:00:00,,Standard,652
+482577,53,Goal,0.7519999694824219,0.46599998474121096,0.06569059938192368,Kieran Trippier,h,652,DirectFreekick,2022,RightFoot,18230,Newcastle United,Manchester City,3,3,2022-08-21 15:30:00,,Standard,652
+485302,28,SavedShot,0.7909999847412109,0.5840000152587891,0.0986751988530159,Kieran Trippier,a,652,DirectFreekick,2022,RightFoot,18250,Liverpool,Newcastle United,2,1,2022-08-31 19:00:00,,Standard,652
+486013,88,BlockedShot,0.7469999694824219,0.54,0.06161779910326004,Kieran Trippier,h,652,DirectFreekick,2022,RightFoot,18253,Newcastle United,Crystal Palace,0,0,2022-09-03 14:00:00,,Standard,652
+488756,26,ShotOnPost,0.7430000305175781,0.4540000152587891,0.05850749835371971,Kieran Trippier,h,652,DirectFreekick,2022,RightFoot,18275,Newcastle United,Bournemouth,1,1,2022-09-17 14:00:00,,Standard,652
+493571,23,BlockedShot,0.75,0.5879999923706055,0.05940590053796768,Kieran Trippier,a,652,DirectFreekick,2022,RightFoot,18308,Manchester United,Newcastle United,0,0,2022-10-16 13:00:00,,Standard,652
+501694,47,BlockedShot,0.7559999847412109,0.629000015258789,0.05740179866552353,Kieran Trippier,h,652,DirectFreekick,2022,RightFoot,18377,Newcastle United,Leeds,0,0,2022-12-31 15:00:00,,Standard,652
+503957,43,BlockedShot,0.715999984741211,0.32799999237060545,0.03539939969778061,Kieran Trippier,h,652,DirectFreekick,2022,RightFoot,18398,Newcastle United,Fulham,1,0,2023-01-15 14:00:00,,Standard,652
+511889,93,SavedShot,0.7069999694824218,0.4759999847412109,0.04046940058469772,Kieran Trippier,a,652,DirectFreekick,2022,RightFoot,18458,Manchester City,Newcastle United,2,0,2023-03-04 12:30:00,,Standard,652
+514214,10,BlockedShot,0.8009999847412109,0.514000015258789,0.13092200458049774,Kieran Trippier,h,652,DirectFreekick,2022,RightFoot,18469,Newcastle United,Wolverhampton Wanderers,2,1,2023-03-12 16:30:00,,Standard,652
+514232,58,SavedShot,0.7680000305175781,0.34200000762939453,0.05917859822511673,Kieran Trippier,h,652,DirectFreekick,2022,RightFoot,18469,Newcastle United,Wolverhampton Wanderers,2,1,2023-03-12 16:30:00,,Standard,652
+514238,84,BlockedShot,0.7019999694824218,0.39,0.015381899662315845,Kieran Trippier,h,652,OpenPlay,2022,RightFoot,18469,Newcastle United,Wolverhampton Wanderers,2,1,2023-03-12 16:30:00,,BallTouch,652
+525750,92,BlockedShot,0.8040000152587891,0.375,0.10012292116880417,Kieran Trippier,a,652,DirectFreekick,2022,RightFoot,18558,Leeds,Newcastle United,2,2,2023-05-13 11:30:00,,Standard,652
+529740,26,OwnGoal,0.006000000238418579,0.48,0,Kieran Trippier,a,652,SetPiece,2022,OtherBodyPart,18575,Chelsea,Newcastle United,1,1,2023-05-28 15:30:00,,Challenge,652
+529750,48,MissedShots,0.84,0.3120000076293945,0.03731866925954819,Kieran Trippier,a,652,OpenPlay,2022,RightFoot,18575,Chelsea,Newcastle United,1,1,2023-05-28 15:30:00,,None,652
+537844,42,MissedShots,0.794000015258789,0.674000015258789,0.011364758014678955,Kieran Trippier,h,652,SetPiece,2023,RightFoot,21943,Newcastle United,Brentford,1,0,2023-09-16 16:30:00,,Aerial,652
+541208,45,BlockedShot,0.8080000305175781,0.34700000762939454,0.04500456526875496,Kieran Trippier,h,652,OpenPlay,2023,RightFoot,21958,Newcastle United,Burnley,2,0,2023-09-30 14:00:00,,None,652
+549747,42,ShotOnPost,0.779000015258789,0.6890000152587891,0.05840819329023361,Kieran Trippier,h,652,DirectFreekick,2023,RightFoot,22021,Newcastle United,Chelsea,4,1,2023-11-25 15:00:00,,Standard,652
+551418,38,ShotOnPost,0.7530000305175781,0.6079999923706054,0.05874377861618996,Kieran Trippier,h,652,DirectFreekick,2023,RightFoot,22032,Newcastle United,Manchester United,1,0,2023-12-02 20:00:00,,Standard,652
+551427,70,MissedShots,0.7419999694824219,0.25299999237060544,0.014135515317320824,Kieran Trippier,h,652,OpenPlay,2023,RightFoot,22032,Newcastle United,Manchester United,1,0,2023-12-02 20:00:00,Bruno Guimarães,Chipped,652
+552419,13,SavedShot,0.7659999847412109,0.6419999694824219,0.06121476739645004,Kieran Trippier,a,652,DirectFreekick,2023,RightFoot,22037,Everton,Newcastle United,3,0,2023-12-07 19:30:00,,Standard,652
+561266,66,Goal,0.9359999847412109,0.46,0.3362906873226166,Kieran Trippier,h,652,OpenPlay,2023,LeftFoot,22123,Newcastle United,Luton,4,4,2024-02-03 15:00:00,Bruno Guimarães,Cross,652
+566679,23,BlockedShot,0.745999984741211,0.48,0.06176576763391495,Kieran Trippier,h,652,DirectFreekick,2023,RightFoot,22161,Newcastle United,Wolverhampton Wanderers,3,0,2024-03-02 15:00:00,,Standard,652
+593808,14,BlockedShot,0.8580000305175781,0.345,0.06009542569518089,Kieran Trippier,h,652,OpenPlay,2024,RightFoot,26652,Newcastle United,Manchester City,1,1,2024-09-28 11:30:00,Anthony Gordon,Pass,652

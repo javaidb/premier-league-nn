@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+10756,Joe Worrall,30,2210,1,0.9123191181570292,0,0.567169152200222,7,4,6,0,D S,Nottingham Forest,1,0.9123191181570292,4.2543785236775875,3.960568632930517,2022
+10756,Joe Worrall,7,440,0,0.08149255812168121,0,0.12857882678508759,2,2,0,1,D S,Nottingham Forest,0,0.08149255812168121,0.3787533640861511,0.3787533640861511,2023

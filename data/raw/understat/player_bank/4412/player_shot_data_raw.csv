@@ -1,0 +1,3 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+18343,4,MissedShots,0.7319999694824219,0.6229999923706054,0.011626100167632103,Maynor Figueroa,a,4412,OpenPlay,2014,LeftFoot,4563,West Bromwich Albion,Hull,1,0,2015-01-10 15:00:00,,TakeOn,4412
+18353,45,MissedShots,0.6830000305175781,0.634000015258789,0.01159489993005991,Maynor Figueroa,a,4412,FromCorner,2014,LeftFoot,4563,West Bromwich Albion,Hull,1,0,2015-01-10 15:00:00,,None,4412

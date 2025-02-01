@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1675,Ashley Fletcher,16,329,0,1.0369999893009663,0,0.3355157021433115,9,4,2,0,F S,West Ham,0,1.0369999893009663,1.5228868760168552,0.22792789619415998,2016
+1675,Ashley Fletcher,3,24,0,0.43765371292829514,0,0,2,0,0,0,S,Watford,0,0.43765371292829514,0.43765371292829514,0,2021

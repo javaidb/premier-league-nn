@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+6651,Grady Diangana,17,602,0,0.6380325052887201,1,1.2208154816180468,10,12,0,0,M S,West Ham,0,0.6380325052887201,2.2976639084517956,1.2466072887182236,2018
+6651,Grady Diangana,20,1249,1,1.0978216975927353,0,0.16204879991710186,14,5,0,0,F M S,West Bromwich Albion,1,1.0978216975927353,1.629269490018487,0.6211163979023695,2020

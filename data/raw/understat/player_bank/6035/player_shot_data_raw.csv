@@ -1,0 +1,17 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+158663,83,MissedShots,0.9159999847412109,0.5359999847412109,0.10460399836301804,Collin Quaner,h,6035,OpenPlay,2017,RightFoot,7161,Huddersfield,Leicester,1,1,2017-09-16 15:00:00,Aaron Mooy,Cross,6035
+160721,37,BlockedShot,0.8719999694824219,0.6530000305175782,0.1095300018787384,Collin Quaner,a,6035,OpenPlay,2017,LeftFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Steve Mounie,Throughball,6035
+160725,50,SavedShot,0.915,0.34900001525878904,0.10659000277519226,Collin Quaner,a,6035,OpenPlay,2017,RightFoot,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Jonathan Hogg,TakeOn,6035
+179204,54,BlockedShot,0.8859999847412109,0.7280000305175781,0.06022199988365173,Collin Quaner,h,6035,OpenPlay,2017,RightFoot,7274,Huddersfield,Brighton,2,0,2017-12-09 15:00:00,Steve Mounie,Pass,6035
+182781,5,BlockedShot,0.97,0.41200000762939454,0.10504800081253052,Collin Quaner,a,6035,FromCorner,2017,RightFoot,7296,Watford,Huddersfield,1,4,2017-12-16 15:00:00,Aaron Mooy,Chipped,6035
+182790,48,MissedShots,0.895,0.46799999237060547,0.28662699460983276,Collin Quaner,a,6035,OpenPlay,2017,Head,7296,Watford,Huddersfield,1,4,2017-12-16 15:00:00,Tom Ince,Cross,6035
+182805,93,BlockedShot,0.855999984741211,0.5770000076293945,0.12047799676656723,Collin Quaner,a,6035,OpenPlay,2017,RightFoot,7296,Watford,Huddersfield,1,4,2017-12-16 15:00:00,,None,6035
+183171,14,BlockedShot,0.8680000305175781,0.534000015258789,0.041154198348522186,Collin Quaner,a,6035,SetPiece,2017,RightFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,,Aerial,6035
+185550,6,MissedShots,0.75,0.5309999847412109,0.02505039982497692,Collin Quaner,h,6035,OpenPlay,2017,LeftFoot,7312,Huddersfield,Stoke,1,1,2017-12-26 15:00:00,Rajiv van La Parra,Pass,6035
+185574,64,SavedShot,0.86,0.3029999923706055,0.06638780236244202,Collin Quaner,h,6035,OpenPlay,2017,RightFoot,7312,Huddersfield,Stoke,1,1,2017-12-26 15:00:00,Laurent Depoitre,Pass,6035
+185578,93,MissedShots,0.840999984741211,0.3240000152587891,0.0678555965423584,Collin Quaner,h,6035,OpenPlay,2017,RightFoot,7312,Huddersfield,Stoke,1,1,2017-12-26 15:00:00,Laurent Depoitre,LayOff,6035
+185992,7,SavedShot,0.7430000305175781,0.38599998474121094,0.020823799073696136,Collin Quaner,h,6035,OpenPlay,2017,RightFoot,7322,Huddersfield,Burnley,0,0,2017-12-30 15:00:00,Zanka,TakeOn,6035
+186316,67,MissedShots,0.8519999694824218,0.29399999618530276,0.03796830028295517,Collin Quaner,a,6035,OpenPlay,2017,RightFoot,7334,Leicester,Huddersfield,3,0,2018-01-01 15:00:00,Tom Ince,Pass,6035
+188837,77,MissedShots,0.9019999694824219,0.45799999237060546,0.09017500281333923,Collin Quaner,a,6035,SetPiece,2017,Head,7356,Stoke,Huddersfield,2,0,2018-01-20 15:00:00,Aaron Mooy,Cross,6035
+206959,93,MissedShots,0.975,0.39799999237060546,0.07962919771671295,Collin Quaner,a,6035,SetPiece,2017,LeftFoot,7441,Brighton,Huddersfield,1,1,2018-04-07 14:00:00,Zanka,HeadPass,6035
+211694,35,BlockedShot,0.8130000305175781,0.69,0.028099799528717995,Collin Quaner,h,6035,OpenPlay,2017,LeftFoot,7471,Huddersfield,Everton,0,2,2018-04-28 14:00:00,Rajiv van La Parra,Pass,6035

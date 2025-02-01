@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1007,Steve Sidwell,12,438,0,0.1550377979874611,0,0.03437490016222,8,1,3,0,M S,Stoke,0,0.1550377979874611,1.000602800399065,0.8919809982180595,2014
+1007,Steve Sidwell,1,10,0,0,0,0,0,0,0,0,S,Stoke,0,0,0.08865729719400406,0.08865729719400406,2015

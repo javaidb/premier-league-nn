@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+594070,78,SavedShot,0.7480000305175781,0.5659999847412109,0.019439101219177246,Jota Silva,h,12766,OpenPlay,2024,RightFoot,26653,Nottingham Forest,Fulham,0,1,2024-09-28 14:00:00,,None,12766
+594071,86,MissedShots,0.9490000152587891,0.5479999923706055,0.12561558187007904,Jota Silva,h,12766,FromCorner,2024,Head,26653,Nottingham Forest,Fulham,0,1,2024-09-28 14:00:00,Callum Hudson-Odoi,Cross,12766
+596086,102,SavedShot,0.91,0.41,0.20647384226322174,Jota Silva,a,12766,FromCorner,2024,Head,26668,Chelsea,Nottingham Forest,1,1,2024-10-06 13:00:00,Ola Aina,Cross,12766
+598166,84,MissedShots,0.8640000152587891,0.285,0.052419960498809814,Jota Silva,a,12766,OpenPlay,2024,RightFoot,26682,Leicester,Nottingham Forest,1,3,2024-10-25 19:00:00,Ramón Sosa,Pass,12766
+602966,70,BlockedShot,0.895,0.495,0.07939890027046204,Jota Silva,a,12766,OpenPlay,2024,RightFoot,26714,Arsenal,Nottingham Forest,3,0,2024-11-23 15:00:00,,None,12766
+604126,25,MissedShots,0.915,0.5309999847412109,0.057889390736818314,Jota Silva,h,12766,OpenPlay,2024,Head,26728,Nottingham Forest,Ipswich,1,0,2024-11-30 15:00:00,Neco Williams,Aerial,12766
+605213,9,MissedShots,0.795,0.7019999694824218,0.022472480311989784,Jota Silva,a,12766,OpenPlay,2024,RightFoot,26739,Manchester City,Nottingham Forest,3,0,2024-12-04 19:30:00,Morgan Gibbs-White,Pass,12766
+605992,26,ShotOnPost,0.8809999847412109,0.4929999923706055,0.05027336627244949,Jota Silva,a,12766,SetPiece,2024,Head,26744,Manchester United,Nottingham Forest,2,3,2024-12-07 17:30:00,Ryan Yates,HeadPass,12766
+605994,32,BlockedShot,0.815,0.44599998474121094,0.05841830000281334,Jota Silva,a,12766,OpenPlay,2024,LeftFoot,26744,Manchester United,Nottingham Forest,2,3,2024-12-07 17:30:00,Callum Hudson-Odoi,Pass,12766
+612654,46,MissedShots,0.955,0.36,0.09811994433403015,Jota Silva,h,12766,OpenPlay,2024,RightFoot,26820,Nottingham Forest,Southampton,3,2,2025-01-19 14:00:00,Neco Williams,Cross,12766
+612661,66,BlockedShot,0.845999984741211,0.5029999923706054,0.06376755237579346,Jota Silva,h,12766,SetPiece,2024,RightFoot,26820,Nottingham Forest,Southampton,3,2,2025-01-19 14:00:00,,None,12766
+612663,72,MissedShots,0.9480000305175781,0.5479999923706055,0.45189744234085083,Jota Silva,h,12766,SetPiece,2024,Head,26820,Nottingham Forest,Southampton,3,2,2025-01-19 14:00:00,Nicolás Domínguez,Cross,12766
+613419,49,BlockedShot,0.915,0.34599998474121096,0.061860520392656326,Jota Silva,a,12766,FromCorner,2024,RightFoot,26822,Bournemouth,Nottingham Forest,5,0,2025-01-25 15:00:00,Morgan Gibbs-White,Rebound,12766

@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+10187,Jarell Quansah,17,1182,2,1.4266883935779333,0,0.07552261091768742,6,3,1,0,D S,Liverpool,2,1.4266883935779333,7.204154305160046,7.149779371917248,2023
+10187,Jarell Quansah,5,220,0,0,0,0,0,0,1,0,D S,Liverpool,0,0,1.189561054110527,1.189561054110527,2024
+10187,Jarell Quansah,5,220,0,0,0,0,0,0,1,0,D S,Liverpool,0,0,1.189561054110527,1.189561054110527,2025

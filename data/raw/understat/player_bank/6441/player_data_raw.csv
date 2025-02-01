@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+6441,Ferrán Torres,24,1305,7,5.728712034411728,2,2.2024257499724627,36,18,1,0,F M S,Manchester City,7,5.728712034411728,10.003002636134624,2.9583604130893946,2020
+6441,Ferrán Torres,4,308,2,2.512162998318672,1,0.02164440043270588,13,1,0,0,F,Manchester City,2,2.512162998318672,2.4304743483662605,1.1770952492952347,2021

@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+26903,48,BlockedShot,0.7630000305175781,0.29100000381469726,0.013783900067210197,Jan Kirchhoff,a,232,OpenPlay,2014,RightFoot,5361,Freiburg,Schalke 04,2,0,2014-11-08 14:30:00,,None,232
+26951,20,MissedShots,0.7609999847412109,0.5370000076293945,0.030905699357390404,Jan Kirchhoff,h,232,OpenPlay,2014,RightFoot,5366,Schalke 04,Wolfsburg,3,2,2014-11-22 14:30:00,Eric Maxim Choupo-Moting,Pass,232
+27412,41,MissedShots,0.919000015258789,0.47900001525878905,0.04663439840078354,Jan Kirchhoff,a,232,FromCorner,2014,Head,5315,VfB Stuttgart,Schalke 04,0,4,2014-12-06 14:30:00,Tranquillo Barnetta,Aerial,232
+28400,37,SavedShot,0.9430000305175781,0.515,0.6919549703598022,Jan Kirchhoff,h,232,SetPiece,2014,OtherBodyPart,5310,Schalke 04,Hannover 96,1,0,2015-01-31 14:30:00,Eric Maxim Choupo-Moting,Pass,232
+28411,81,MissedShots,0.8859999847412109,0.3220000076293945,0.007248349953442812,Jan Kirchhoff,h,232,SetPiece,2014,Head,5310,Schalke 04,Hannover 96,1,0,2015-01-31 14:30:00,Tranquillo Barnetta,Aerial,232
+29266,21,MissedShots,0.7930000305175782,0.43599998474121093,0.05439959838986397,Jan Kirchhoff,h,232,OpenPlay,2014,RightFoot,5271,Schalke 04,Borussia M.Gladbach,1,0,2015-02-06 19:30:00,,None,232
+28836,49,MissedShots,0.9159999847412109,0.4370000076293945,0.07095479965209961,Jan Kirchhoff,a,232,FromCorner,2014,Head,5286,Eintracht Frankfurt,Schalke 04,1,0,2015-02-14 17:30:00,Tranquillo Barnetta,Cross,232
+28843,89,SavedShot,0.909000015258789,0.47,0.030666200444102287,Jan Kirchhoff,a,232,FromCorner,2014,Head,5286,Eintracht Frankfurt,Schalke 04,1,0,2015-02-14 17:30:00,Marco Höger,Aerial,232
+53987,92,BlockedShot,0.914000015258789,0.45799999237060546,0.030199600383639336,Jan Kirchhoff,h,232,FromCorner,2015,Head,314,Sunderland,Manchester City,0,1,2016-02-02 23:45:00,Dame N&#039;Doye,Aerial,232
+60150,31,MissedShots,0.845999984741211,0.375,0.04787449911236763,Jan Kirchhoff,a,232,SetPiece,2015,RightFoot,360,Southampton,Sunderland,1,1,2016-03-05 19:00:00,Lamine Koné,None,232
+60224,53,SavedShot,0.88,0.48700000762939455,0.12322500348091125,Jan Kirchhoff,h,232,OpenPlay,2015,RightFoot,389,Sunderland,West Bromwich Albion,0,0,2016-04-02 18:00:00,Fabio Borini,TakeOn,232
+57405,42,BlockedShot,0.9169999694824219,0.6859999847412109,0.05413129925727844,Jan Kirchhoff,a,232,SetPiece,2015,LeftFoot,427,Stoke,Sunderland,1,1,2016-04-30 18:00:00,Lamine Koné,Pass,232
+56750,36,BlockedShot,0.7780000305175782,0.45799999237060546,0.030253900215029716,Jan Kirchhoff,h,232,OpenPlay,2015,RightFoot,442,Sunderland,Chelsea,3,2,2016-05-07 18:00:00,,None,232
+56754,46,BlockedShot,0.7980000305175782,0.5559999847412109,0.0368008017539978,Jan Kirchhoff,h,232,OpenPlay,2015,RightFoot,442,Sunderland,Chelsea,3,2,2016-05-07 18:00:00,,Dispossessed,232
+56757,50,BlockedShot,0.915,0.5059999847412109,0.12311600148677826,Jan Kirchhoff,h,232,SetPiece,2015,Head,442,Sunderland,Chelsea,3,2,2016-05-07 18:00:00,Wahbi Khazri,Cross,232
+59751,48,MissedShots,0.95,0.5159999847412109,0.13119499385356903,Jan Kirchhoff,h,232,FromCorner,2015,Head,449,Sunderland,Everton,3,0,2016-05-11 22:45:00,Wahbi Khazri,Cross,232
+113361,64,BlockedShot,0.7019999694824218,0.485,0.012105099856853485,Jan Kirchhoff,h,232,OpenPlay,2016,RightFoot,500,Sunderland,Everton,0,3,2016-09-12 23:00:00,,BallRecovery,232
+113625,23,MissedShots,0.91,0.53,0.10772000253200531,Jan Kirchhoff,a,232,SetPiece,2016,Head,510,Tottenham,Sunderland,1,0,2016-09-18 19:30:00,Adnan Januzaj,Cross,232
+115902,63,MissedShots,0.9419999694824219,0.445,0.11419600248336792,Jan Kirchhoff,h,232,FromCorner,2016,Head,3108,Sunderland,Leicester,2,1,2016-12-03 15:00:00,Sebastian Larsson,Cross,232

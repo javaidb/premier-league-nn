@@ -1,0 +1,665 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14621,8,SavedShot,0.730999984741211,0.815,0.027250999584794044,Christian Eriksen,a,646,DirectFreekick,2014,RightFoot,4754,West Ham,Tottenham,0,1,2014-08-16 15:00:00,,Standard,646
+14633,47,BlockedShot,0.8859999847412109,0.639000015258789,0.09628120064735413,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4754,West Ham,Tottenham,0,1,2014-08-16 15:00:00,Nabil Bentaleb,TakeOn,646
+14636,63,MissedShots,0.765,0.509000015258789,0.07826089859008789,Christian Eriksen,a,646,DirectFreekick,2014,RightFoot,4754,West Ham,Tottenham,0,1,2014-08-16 15:00:00,,Standard,646
+14864,23,ShotOnPost,0.725999984741211,0.5820000076293945,0.046445298939943314,Christian Eriksen,h,646,DirectFreekick,2014,RightFoot,4766,Tottenham,Queens Park Rangers,4,0,2014-08-24 13:30:00,,Standard,646
+14868,30,BlockedShot,0.8490000152587891,0.5640000152587891,0.10340700298547745,Christian Eriksen,h,646,OpenPlay,2014,LeftFoot,4766,Tottenham,Queens Park Rangers,4,0,2014-08-24 13:30:00,Emmanuel Adebayor,Pass,646
+14873,56,BlockedShot,0.8969999694824219,0.5670000076293945,0.16051200032234192,Christian Eriksen,h,646,OpenPlay,2014,LeftFoot,4766,Tottenham,Queens Park Rangers,4,0,2014-08-24 13:30:00,,TakeOn,646
+14874,58,MissedShots,0.7340000152587891,0.3659999847412109,0.016266999766230583,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4766,Tottenham,Queens Park Rangers,4,0,2014-08-24 13:30:00,,None,646
+15115,55,BlockedShot,0.7069999694824218,0.325,0.008823259733617306,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4777,Tottenham,Liverpool,0,3,2014-08-31 13:30:00,Nacer Chadli,Pass,646
+15390,28,BlockedShot,0.710999984741211,0.49900001525878906,0.015283499844372272,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4724,Sunderland,Tottenham,2,2,2014-09-13 15:00:00,Nacer Chadli,Pass,646
+15393,47,Goal,0.975,0.52,0.7687270045280457,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4724,Sunderland,Tottenham,2,2,2014-09-13 15:00:00,,None,646
+15395,57,BlockedShot,0.7319999694824219,0.40099998474121096,0.017674800008535385,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4724,Sunderland,Tottenham,2,2,2014-09-13 15:00:00,Erik Lamela,Pass,646
+15640,42,BlockedShot,0.8519999694824218,0.35,0.052792299538850784,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4735,Tottenham,West Bromwich Albion,0,1,2014-09-21 13:30:00,Nacer Chadli,Pass,646
+15687,54,SavedShot,0.7090000152587891,0.57,0.03985689952969551,Christian Eriksen,a,646,DirectFreekick,2014,RightFoot,4746,Arsenal,Tottenham,1,1,2014-09-27 17:30:00,,Standard,646
+17617,5,BlockedShot,0.7859999847412109,0.644000015258789,0.026253899559378624,Christian Eriksen,h,646,OpenPlay,2014,LeftFoot,4696,Tottenham,Southampton,1,0,2014-10-05 14:05:00,Erik Lamela,Pass,646
+17622,35,SavedShot,0.755,0.485,0.02712780050933361,Christian Eriksen,h,646,OpenPlay,2014,LeftFoot,4696,Tottenham,Southampton,1,0,2014-10-05 14:05:00,Erik Lamela,LayOff,646
+17623,39,Goal,0.8009999847412109,0.56,0.049447499215602875,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4696,Tottenham,Southampton,1,0,2014-10-05 14:05:00,Nacer Chadli,LayOff,646
+16394,7,BlockedShot,0.925,0.2879999923706055,0.061481498181819916,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,Erik Lamela,TakeOn,646
+16396,14,Goal,0.8769999694824219,0.3390000152587891,0.23976799845695496,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,Roberto Soldado,Pass,646
+16400,29,MissedShots,0.7530000305175781,0.6179999923706054,0.057297199964523315,Christian Eriksen,a,646,DirectFreekick,2014,RightFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,,Standard,646
+16404,39,SavedShot,0.769000015258789,0.34200000762939453,0.021449299529194832,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,Roberto Soldado,Pass,646
+16417,56,BlockedShot,0.8590000152587891,0.6120000076293945,0.07148429751396179,Christian Eriksen,a,646,OpenPlay,2014,LeftFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,Nacer Chadli,Pass,646
+16425,73,BlockedShot,0.764000015258789,0.705,0.047974299639463425,Christian Eriksen,a,646,DirectFreekick,2014,RightFoot,4699,Manchester City,Tottenham,4,1,2014-10-18 12:45:00,,Standard,646
+16314,9,MissedShots,0.7919999694824219,0.6609999847412109,0.012827100232243538,Christian Eriksen,h,646,OpenPlay,2014,LeftFoot,4715,Tottenham,Newcastle United,1,2,2014-10-26 13:30:00,,Aerial,646
+16327,52,BlockedShot,0.9109999847412109,0.5979999923706054,0.29893600940704346,Christian Eriksen,h,646,OpenPlay,2014,LeftFoot,4715,Tottenham,Newcastle United,1,2,2014-10-26 13:30:00,Danny Rose,Cross,646
+16328,55,BlockedShot,0.735999984741211,0.35900001525878905,0.018902799114584923,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4715,Tottenham,Newcastle United,1,2,2014-10-26 13:30:00,,TakeOn,646
+16332,65,BlockedShot,0.7930000305175782,0.3529999923706055,0.03600170090794563,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4715,Tottenham,Newcastle United,1,2,2014-10-26 13:30:00,Emmanuel Adebayor,LayOff,646
+16334,72,BlockedShot,0.779000015258789,0.56,0.03211209923028946,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4715,Tottenham,Newcastle United,1,2,2014-10-26 13:30:00,Emmanuel Adebayor,Pass,646
+16883,10,BlockedShot,0.8590000152587891,0.6329999923706054,0.06756020337343216,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4657,Aston Villa,Tottenham,1,2,2014-11-02 16:00:00,Danny Rose,Pass,646
+16885,11,BlockedShot,0.9009999847412109,0.575999984741211,0.11783900111913681,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4657,Aston Villa,Tottenham,1,2,2014-11-02 16:00:00,Emmanuel Adebayor,Pass,646
+17307,13,MissedShots,0.6969999694824218,0.5279999923706055,0.03678229823708534,Christian Eriksen,h,646,DirectFreekick,2014,RightFoot,4666,Tottenham,Stoke,1,2,2014-11-09 13:30:00,,Standard,646
+16643,28,BlockedShot,0.8080000305175781,0.48200000762939454,0.04357200115919113,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4677,Hull,Tottenham,1,2,2014-11-23 16:00:00,,None,646
+16648,47,BlockedShot,0.8030000305175782,0.30100000381469727,0.03468659892678261,Christian Eriksen,a,646,FromCorner,2014,LeftFoot,4677,Hull,Tottenham,1,2,2014-11-23 16:00:00,Ryan Mason,Pass,646
+16652,55,MissedShots,0.765,0.6040000152587891,0.022489799186587334,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4677,Hull,Tottenham,1,2,2014-11-23 16:00:00,Ben Davies,Pass,646
+16654,60,ShotOnPost,0.749000015258789,0.5059999847412109,0.06426390260457993,Christian Eriksen,a,646,DirectFreekick,2014,RightFoot,4677,Hull,Tottenham,1,2,2014-11-23 16:00:00,,Standard,646
+16662,89,Goal,0.794000015258789,0.42700000762939455,0.040579598397016525,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4677,Hull,Tottenham,1,2,2014-11-23 16:00:00,Aaron Lennon,Pass,646
+18505,20,Goal,0.9130000305175782,0.59,0.3754790127277374,Christian Eriksen,h,646,OpenPlay,2014,LeftFoot,4688,Tottenham,Everton,2,1,2014-11-30 16:00:00,,Rebound,646
+18509,33,BlockedShot,0.795,0.415,0.03487280011177063,Christian Eriksen,h,646,OpenPlay,2014,LeftFoot,4688,Tottenham,Everton,2,1,2014-11-30 16:00:00,Aaron Lennon,Pass,646
+18517,59,BlockedShot,0.764000015258789,0.3189999961853027,0.05245810002088547,Christian Eriksen,h,646,DirectFreekick,2014,RightFoot,4688,Tottenham,Everton,2,1,2014-11-30 16:00:00,,Standard,646
+18520,63,BlockedShot,0.78,0.5370000076293945,0.13541899621486664,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4688,Tottenham,Everton,2,1,2014-11-30 16:00:00,Erik Lamela,TakeOn,646
+19525,49,MissedShots,0.7290000152587891,0.629000015258789,0.012849099934101105,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4595,Chelsea,Tottenham,3,0,2014-12-03 19:45:00,Harry Kane,LayOff,646
+20189,6,MissedShots,0.925,0.71,0.03016740083694458,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4602,Tottenham,Crystal Palace,0,0,2014-12-06 15:00:00,Ryan Mason,TakeOn,646
+20199,32,SavedShot,0.7619999694824219,0.7390000152587891,0.04144129902124405,Christian Eriksen,h,646,DirectFreekick,2014,RightFoot,4602,Tottenham,Crystal Palace,0,0,2014-12-06 15:00:00,,Standard,646
+20213,84,BlockedShot,0.769000015258789,0.32799999237060545,0.020070800557732582,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4602,Tottenham,Crystal Palace,0,0,2014-12-06 15:00:00,Nabil Bentaleb,Pass,646
+18499,88,Goal,0.85,0.5690000152587891,0.08989199995994568,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4617,Swansea,Tottenham,1,2,2014-12-14 16:00:00,Ben Davies,Pass,646
+18498,88,SavedShot,0.764000015258789,0.34,0.020966099575161934,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4617,Swansea,Tottenham,1,2,2014-12-14 16:00:00,Benjamin Stambouli,Pass,646
+19482,7,MissedShots,0.835999984741211,0.10399999618530273,0.013326000422239304,Christian Eriksen,h,646,FromCorner,2014,LeftFoot,4621,Tottenham,Burnley,2,1,2014-12-20 15:00:00,Ryan Mason,Pass,646
+19489,29,MissedShots,0.950999984741211,0.629000015258789,0.3335320055484772,Christian Eriksen,h,646,OpenPlay,2014,LeftFoot,4621,Tottenham,Burnley,2,1,2014-12-20 15:00:00,Harry Kane,None,646
+19503,58,BlockedShot,0.8019999694824219,0.315,0.030949600040912628,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4621,Tottenham,Burnley,2,1,2014-12-20 15:00:00,Erik Lamela,Pass,646
+19511,92,MissedShots,0.75,0.71,0.015644699335098267,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4621,Tottenham,Burnley,2,1,2014-12-20 15:00:00,Nacer Chadli,Pass,646
+17766,22,BlockedShot,0.875,0.41,0.1136699989438057,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4637,Leicester,Tottenham,1,2,2014-12-26 15:00:00,Erik Lamela,Pass,646
+17782,70,Goal,0.7609999847412109,0.8280000305175781,0.030065899714827538,Christian Eriksen,a,646,DirectFreekick,2014,RightFoot,4637,Leicester,Tottenham,1,2,2014-12-26 15:00:00,,Standard,646
+17790,95,MissedShots,0.7730000305175782,0.4209999847412109,0.03924750164151192,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4637,Leicester,Tottenham,1,2,2014-12-26 15:00:00,Paulinho,LayOff,646
+19118,77,SavedShot,0.725999984741211,0.664000015258789,0.03917689993977547,Christian Eriksen,h,646,DirectFreekick,2014,RightFoot,4639,Tottenham,Manchester United,0,0,2014-12-28 12:00:00,,Standard,646
+20026,68,BlockedShot,0.889000015258789,0.4229999923706055,0.12040700018405914,Christian Eriksen,h,646,OpenPlay,2014,LeftFoot,4560,Tottenham,Chelsea,5,3,2015-01-01 17:30:00,Nacer Chadli,Cross,646
+17690,21,MissedShots,0.9430000305175781,0.48700000762939455,0.6047409772872925,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4568,Crystal Palace,Tottenham,2,1,2015-01-10 17:30:00,,None,646
+17709,80,BlockedShot,0.7919999694824219,0.45099998474121095,0.04071339964866638,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4568,Crystal Palace,Tottenham,2,1,2015-01-10 17:30:00,Mousa Dembélé,Pass,646
+19248,6,BlockedShot,0.8530000305175781,0.33599998474121096,0.062073301523923874,Christian Eriksen,h,646,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,None,646
+19249,17,SavedShot,0.8290000152587891,0.495,0.07512280344963074,Christian Eriksen,h,646,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,None,646
+19250,26,SavedShot,0.7380000305175781,0.5279999923706055,0.026434699073433876,Christian Eriksen,h,646,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Nacer Chadli,LayOff,646
+19260,46,BlockedShot,0.9369999694824219,0.27399999618530274,0.04617450013756752,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Harry Kane,Pass,646
+19262,55,MissedShots,0.8140000152587891,0.37099998474121093,0.05399860069155693,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,,TakeOn,646
+19270,73,BlockedShot,0.894000015258789,0.2520000076293945,0.022140299901366234,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Benjamin Stambouli,Chipped,646
+19277,87,Goal,0.815,0.515,0.061878401786088943,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Andros Townsend,Pass,646
+23869,5,Goal,0.7709999847412109,0.6769999694824219,0.056844498962163925,Christian Eriksen,a,646,DirectFreekick,2014,RightFoot,4586,West Bromwich Albion,Tottenham,0,3,2015-01-31 15:00:00,,Standard,646
+23881,48,MissedShots,0.7830000305175782,0.32099998474121094,0.021210700273513794,Christian Eriksen,a,646,OpenPlay,2014,LeftFoot,4586,West Bromwich Albion,Tottenham,0,3,2015-01-31 15:00:00,,None,646
+23614,31,MissedShots,0.735999984741211,0.715,0.014913300052285194,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4515,Tottenham,Arsenal,2,1,2015-02-07 12:45:00,Danny Rose,Pass,646
+23622,58,BlockedShot,0.7980000305175782,0.6840000152587891,0.027280200272798538,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4515,Tottenham,Arsenal,2,1,2015-02-07 12:45:00,Nabil Bentaleb,Pass,646
+23630,71,MissedShots,0.7390000152587891,0.455,0.05598120018839836,Christian Eriksen,h,646,DirectFreekick,2014,RightFoot,4515,Tottenham,Arsenal,2,1,2015-02-07 12:45:00,,Standard,646
+23067,20,BlockedShot,0.7930000305175782,0.24299999237060546,0.016859399154782295,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4528,Liverpool,Tottenham,3,2,2015-02-10 20:00:00,Kyle Walker,Pass,646
+23082,60,SavedShot,0.7630000305175781,0.7140000152587891,0.04596589878201485,Christian Eriksen,a,646,DirectFreekick,2014,RightFoot,4528,Liverpool,Tottenham,3,2,2015-02-10 20:00:00,,Standard,646
+24327,76,SavedShot,0.7219999694824218,0.4779999923706055,0.04721419885754585,Christian Eriksen,h,646,DirectFreekick,2014,RightFoot,4542,Tottenham,West Ham,2,2,2015-02-22 12:00:00,,Standard,646
+24328,79,BlockedShot,0.8730000305175781,0.37099998474121093,0.07571680098772049,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4542,Tottenham,West Ham,2,2,2015-02-22 12:00:00,Erik Lamela,Pass,646
+24335,93,MissedShots,0.774000015258789,0.3220000076293945,0.018296999856829643,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4542,Tottenham,West Ham,2,2,2015-02-22 12:00:00,Kyle Walker,Pass,646
+21686,36,BlockedShot,0.759000015258789,0.3659999847412109,0.02174529992043972,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4489,Tottenham,Swansea,3,2,2015-03-04 19:45:00,Nabil Bentaleb,Pass,646
+21689,44,BlockedShot,0.7180000305175781,0.7140000152587891,0.012667300179600716,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4489,Tottenham,Swansea,3,2,2015-03-04 19:45:00,Ryan Mason,Pass,646
+21693,52,MissedShots,0.7859999847412109,0.6659999847412109,0.02966279909014702,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4489,Tottenham,Swansea,3,2,2015-03-04 19:45:00,Danny Rose,Pass,646
+23650,46,ShotOnPost,0.749000015258789,0.7340000152587891,0.016281599178910255,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,Nabil Bentaleb,Pass,646
+23654,58,BlockedShot,0.885,0.4329999923706055,0.3996570110321045,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,,None,646
+23655,65,MissedShots,0.730999984741211,0.7040000152587891,0.036652300506830215,Christian Eriksen,a,646,DirectFreekick,2014,RightFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,,Standard,646
+23656,66,MissedShots,0.5670000076293945,0.8530000305175781,0.007962229661643505,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,Ben Davies,Pass,646
+23659,75,SavedShot,0.8780000305175781,0.6630000305175782,0.06736689805984497,Christian Eriksen,a,646,OpenPlay,2014,LeftFoot,4492,Queens Park Rangers,Tottenham,1,2,2015-03-07 15:00:00,Mousa Dembélé,HeadPass,646
+20378,18,BlockedShot,0.8919999694824219,0.715,0.06835729628801346,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4505,Tottenham,Leicester,4,3,2015-03-21 15:00:00,Danny Rose,Pass,646
+20380,22,ShotOnPost,0.87,0.3370000076293945,0.058660298585891724,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4505,Tottenham,Leicester,4,3,2015-03-21 15:00:00,,None,646
+20395,84,SavedShot,0.9009999847412109,0.5229999923706055,0.4138120114803314,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4505,Tottenham,Leicester,4,3,2015-03-21 15:00:00,Paulinho,Throughball,646
+21014,39,MissedShots,0.7580000305175781,0.7080000305175781,0.015621799975633621,Christian Eriksen,a,646,FromCorner,2014,RightFoot,4447,Burnley,Tottenham,0,0,2015-04-05 13:30:00,Ryan Mason,Pass,646
+21022,68,MissedShots,0.8540000152587891,0.345,0.0602681003510952,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4447,Burnley,Tottenham,0,0,2015-04-05 13:30:00,Erik Lamela,Pass,646
+21405,20,MissedShots,0.805,0.5059999847412109,0.046789299696683884,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,,None,646
+21410,37,MissedShots,0.82,0.34400001525878904,0.03658369928598404,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Harry Kane,Chipped,646
+21415,43,MissedShots,0.8059999847412109,0.46900001525878904,0.043244000524282455,Christian Eriksen,h,646,OpenPlay,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Nacer Chadli,Pass,646
+21319,20,SavedShot,0.7219999694824218,0.24600000381469728,0.030200999230146408,Christian Eriksen,a,646,DirectFreekick,2014,RightFoot,4467,Newcastle United,Tottenham,1,3,2015-04-19 16:00:00,,Standard,646
+21327,49,BlockedShot,0.769000015258789,0.515,0.03044150024652481,Christian Eriksen,a,646,OpenPlay,2014,LeftFoot,4467,Newcastle United,Tottenham,1,3,2015-04-19 16:00:00,Erik Lamela,Pass,646
+21328,52,Goal,0.7609999847412109,0.9209999847412109,0.023875199258327484,Christian Eriksen,a,646,DirectFreekick,2014,RightFoot,4467,Newcastle United,Tottenham,1,3,2015-04-19 16:00:00,,Standard,646
+22217,41,BlockedShot,0.7330000305175781,0.7240000152587891,0.035124000161886215,Christian Eriksen,h,646,DirectFreekick,2014,RightFoot,4407,Tottenham,Manchester City,0,1,2015-05-03 16:00:00,,Standard,646
+21956,46,SavedShot,0.735999984741211,0.509000015258789,0.01567469909787178,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4414,Stoke,Tottenham,3,0,2015-05-09 15:00:00,Nacer Chadli,Pass,646
+21964,81,MissedShots,0.7390000152587891,0.37400001525878906,0.04862530156970024,Christian Eriksen,a,646,DirectFreekick,2014,RightFoot,4414,Stoke,Tottenham,3,0,2015-05-09 15:00:00,,Standard,646
+21966,87,MissedShots,0.8630000305175781,0.705999984741211,0.025821300223469734,Christian Eriksen,a,646,OpenPlay,2014,LeftFoot,4414,Stoke,Tottenham,3,0,2015-05-09 15:00:00,,None,646
+22763,62,BlockedShot,0.8369999694824218,0.66,0.06092400103807449,Christian Eriksen,a,646,OpenPlay,2014,RightFoot,4434,Everton,Tottenham,0,1,2015-05-24 15:00:00,Ryan Mason,Pass,646
+545903,4,MissedShots,0.9019999694824219,0.61,0.2973036766052246,Christian Eriksen,a,646,OpenPlay,2015,LeftFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,Harry Kane,Chipped,646
+545919,83,SavedShot,0.9330000305175781,0.720999984741211,0.03649123013019562,Christian Eriksen,a,646,OpenPlay,2015,LeftFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,Toby Alderweireld,Chipped,646
+545921,88,SavedShot,0.8209999847412109,0.35400001525878905,0.029682794585824013,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,Erik Lamela,Pass,646
+51898,5,SavedShot,0.855,0.6759999847412109,0.04433109983801842,Christian Eriksen,h,646,OpenPlay,2015,LeftFoot,95,Tottenham,Stoke,2,2,2015-08-15 18:00:00,,None,646
+51899,8,SavedShot,0.7809999847412109,0.41700000762939454,0.08675289899110794,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,95,Tottenham,Stoke,2,2,2015-08-15 18:00:00,,Standard,646
+51908,45,MissedShots,0.7169999694824218,0.6469999694824219,0.01633019931614399,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,95,Tottenham,Stoke,2,2,2015-08-15 18:00:00,Ryan Mason,Pass,646
+58322,72,MissedShots,0.6969999694824218,0.524000015258789,0.0368368998169899,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,138,Tottenham,Crystal Palace,1,0,2015-09-20 16:30:00,,Standard,646
+58522,60,ShotOnPost,0.730999984741211,0.4329999923706055,0.05000019818544388,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,,Standard,646
+58870,23,BlockedShot,0.8019999694824219,0.7340000152587891,0.01860699988901615,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Dele Alli,Pass,646
+58871,26,Goal,0.7819999694824219,0.72,0.0525738000869751,Christian Eriksen,a,646,DirectFreekick,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,,Standard,646
+58872,27,MissedShots,0.835,0.634000015258789,0.05796260014176369,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Ben Davies,TakeOn,646
+58877,35,SavedShot,0.7480000305175781,0.40099998474121096,0.056811798363924026,Christian Eriksen,a,646,DirectFreekick,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,,Standard,646
+58879,40,SavedShot,0.7869999694824219,0.39099998474121095,0.0320000983774662,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Erik Lamela,Pass,646
+58886,64,Goal,0.7909999847412109,0.7040000152587891,0.0609498992562294,Christian Eriksen,a,646,DirectFreekick,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,,Standard,646
+58894,89,MissedShots,0.7380000305175781,0.445,0.017203599214553833,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Ben Davies,Pass,646
+59128,31,BlockedShot,0.73,0.44,0.02116129919886589,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,161,Tottenham,Liverpool,0,0,2015-10-17 15:45:00,Dele Alli,Pass,646
+59265,66,ShotOnPost,0.7659999847412109,0.5359999847412109,0.026764700189232826,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,178,Bournemouth,Tottenham,1,5,2015-10-25 18:05:00,,None,646
+53260,60,BlockedShot,0.769000015258789,0.764000015258789,0.039560601115226746,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,,Standard,646
+53262,70,MissedShots,0.745,0.610999984741211,0.05357370153069496,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,,Standard,646
+54022,19,MissedShots,0.8109999847412109,0.7709999847412109,0.017271699383854866,Christian Eriksen,a,646,FromCorner,2015,RightFoot,199,Arsenal,Tottenham,1,1,2015-11-08 20:00:00,Mousa Dembélé,Pass,646
+54032,63,SavedShot,0.865,0.31799999237060544,0.05782970041036606,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,199,Arsenal,Tottenham,1,1,2015-11-08 20:00:00,Kyle Walker,Pass,646
+54035,68,BlockedShot,0.8440000152587891,0.33599998474121096,0.0483223982155323,Christian Eriksen,a,646,OpenPlay,2015,LeftFoot,199,Arsenal,Tottenham,1,1,2015-11-08 20:00:00,Erik Lamela,Chipped,646
+55060,20,SavedShot,0.7719999694824219,0.539000015258789,0.029861899092793465,Christian Eriksen,h,646,OpenPlay,2015,LeftFoot,209,Tottenham,West Ham,4,1,2015-11-22 20:00:00,Mousa Dembélé,Pass,646
+55078,51,SavedShot,0.894000015258789,0.4179999923706055,0.10266900062561035,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,209,Tottenham,West Ham,4,1,2015-11-22 20:00:00,,Rebound,646
+52786,46,MissedShots,0.740999984741211,0.41200000762939454,0.01595740020275116,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,224,West Bromwich Albion,Tottenham,1,1,2015-12-05 19:00:00,,None,646
+55094,16,MissedShots,0.7240000152587891,0.3729999923706055,0.013567100279033184,Christian Eriksen,h,646,OpenPlay,2015,LeftFoot,239,Tottenham,Newcastle United,1,2,2015-12-13 20:00:00,Erik Lamela,Pass,646
+55093,16,BlockedShot,0.754000015258789,0.345,0.01573600061237812,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,239,Tottenham,Newcastle United,1,2,2015-12-13 20:00:00,Erik Lamela,Pass,646
+55100,43,BlockedShot,0.7619999694824219,0.6,0.030573299154639244,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,239,Tottenham,Newcastle United,1,2,2015-12-13 20:00:00,Tom Carroll,Pass,646
+55102,49,BlockedShot,0.785,0.4759999847412109,0.10208000242710114,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,239,Tottenham,Newcastle United,1,2,2015-12-13 20:00:00,,Standard,646
+55108,69,SavedShot,0.759000015258789,0.7559999847412109,0.038035798817873,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,239,Tottenham,Newcastle United,1,2,2015-12-13 20:00:00,,Standard,646
+55109,71,SavedShot,0.7530000305175781,0.515,0.029418300837278366,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,239,Tottenham,Newcastle United,1,2,2015-12-13 20:00:00,Son Heung-Min,Pass,646
+55113,82,BlockedShot,0.805,0.41900001525878905,0.04724869877099991,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,239,Tottenham,Newcastle United,1,2,2015-12-13 20:00:00,Harry Kane,Pass,646
+52393,15,MissedShots,0.8680000305175781,0.26399999618530273,0.043017201125621796,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,242,Southampton,Tottenham,0,2,2015-12-19 19:00:00,,TakeOn,646
+52398,30,BlockedShot,0.72,0.4979999923706055,0.046431101858615875,Christian Eriksen,a,646,DirectFreekick,2015,RightFoot,242,Southampton,Tottenham,0,2,2015-12-19 19:00:00,,Standard,646
+52408,80,SavedShot,0.774000015258789,0.3240000152587891,0.03604999929666519,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,242,Southampton,Tottenham,0,2,2015-12-19 19:00:00,Tom Carroll,Pass,646
+54114,52,MissedShots,0.9180000305175782,0.7019999694824218,0.04951940104365349,Christian Eriksen,a,646,OpenPlay,2015,LeftFoot,262,Watford,Tottenham,1,2,2015-12-28 19:00:00,,None,646
+55348,25,BlockedShot,0.784000015258789,0.27,0.01462399959564209,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,280,Everton,Tottenham,1,1,2016-01-03 20:00:00,Dele Alli,BallRecovery,646
+55358,53,SavedShot,0.7709999847412109,0.40400001525878904,0.02809480018913746,Christian Eriksen,a,646,OpenPlay,2015,LeftFoot,280,Everton,Tottenham,1,1,2016-01-03 20:00:00,Tom Carroll,Pass,646
+55371,1,SavedShot,0.7609999847412109,0.555,0.02259170077741146,Christian Eriksen,h,646,OpenPlay,2015,LeftFoot,290,Tottenham,Leicester,0,1,2016-01-14 00:00:00,Erik Lamela,None,646
+55381,30,SavedShot,0.759000015258789,0.6020000076293945,0.02148899994790554,Christian Eriksen,h,646,FromCorner,2015,RightFoot,290,Tottenham,Leicester,0,1,2016-01-14 00:00:00,Harry Kane,Pass,646
+55387,53,BlockedShot,0.7830000305175782,0.2879999923706055,0.054896701127290726,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,290,Tottenham,Leicester,0,1,2016-01-14 00:00:00,,Standard,646
+53355,41,Goal,0.87,0.3240000152587891,0.04352330043911934,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,291,Tottenham,Sunderland,4,1,2016-01-16 16:45:00,,Rebound,646
+53357,46,SavedShot,0.7319999694824219,0.49700000762939456,0.015883900225162506,Christian Eriksen,h,646,OpenPlay,2015,LeftFoot,291,Tottenham,Sunderland,4,1,2016-01-16 16:45:00,Mousa Dembélé,Pass,646
+53366,66,Goal,0.7130000305175781,0.5029999923706054,0.02096880041062832,Christian Eriksen,h,646,OpenPlay,2015,LeftFoot,291,Tottenham,Sunderland,4,1,2016-01-16 16:45:00,Eric Dier,Pass,646
+53371,91,MissedShots,0.75,0.3340000152587891,0.0161662008613348,Christian Eriksen,h,646,OpenPlay,2015,LeftFoot,291,Tottenham,Sunderland,4,1,2016-01-16 16:45:00,Son Heung-Min,Pass,646
+53868,49,MissedShots,0.774000015258789,0.28600000381469726,0.017431100830435753,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,302,Crystal Palace,Tottenham,1,3,2016-01-23 19:00:00,Dele Alli,Pass,646
+53871,61,SavedShot,0.6969999694824218,0.5220000076293946,0.03686109930276871,Christian Eriksen,a,646,DirectFreekick,2015,RightFoot,302,Crystal Palace,Tottenham,1,3,2016-01-23 19:00:00,,Standard,646
+53874,68,BlockedShot,0.77,0.735999984741211,0.0446075014770031,Christian Eriksen,a,646,DirectFreekick,2015,RightFoot,302,Crystal Palace,Tottenham,1,3,2016-01-23 19:00:00,,Standard,646
+53880,82,BlockedShot,0.7669999694824219,0.639000015258789,0.01992719992995262,Christian Eriksen,a,646,OpenPlay,2015,LeftFoot,302,Crystal Palace,Tottenham,1,3,2016-01-23 19:00:00,Dele Alli,Pass,646
+53693,1,SavedShot,0.8780000305175781,0.68,0.047284599393606186,Christian Eriksen,a,646,FromCorner,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,,Rebound,646
+53707,39,SavedShot,0.795,0.2610000038146973,0.02916410006582737,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Harry Kane,Pass,646
+53713,56,MissedShots,0.8630000305175781,0.21200000762939453,0.024058299139142036,Christian Eriksen,a,646,FromCorner,2015,LeftFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Son Heung-Min,Pass,646
+53942,1,BlockedShot,0.750999984741211,0.2589999961853027,0.009599089622497559,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,324,Tottenham,Watford,1,0,2016-02-06 19:00:00,Nacer Chadli,HeadPass,646
+53943,7,BlockedShot,0.7230000305175781,0.3940000152587891,0.04328950121998787,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,324,Tottenham,Watford,1,0,2016-02-06 19:00:00,,Standard,646
+53965,80,SavedShot,0.9690000152587891,0.31799999237060544,0.1067039966583252,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,324,Tottenham,Watford,1,0,2016-02-06 19:00:00,Son Heung-Min,TakeOn,646
+53967,83,BlockedShot,0.765,0.45299999237060545,0.03754439949989319,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,324,Tottenham,Watford,1,0,2016-02-06 19:00:00,,None,646
+55621,27,SavedShot,0.745,0.585,0.01651589944958687,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,340,Manchester City,Tottenham,1,2,2016-02-14 20:15:00,Son Heung-Min,Pass,646
+55636,82,Goal,0.879000015258789,0.47200000762939454,0.3942619860172272,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,340,Manchester City,Tottenham,1,2,2016-02-14 20:15:00,Erik Lamela,Throughball,646
+60085,29,SavedShot,0.785,0.6680000305175782,0.0674251988530159,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,347,Tottenham,Swansea,2,1,2016-02-28 18:05:00,,Standard,646
+60095,52,SavedShot,0.7769999694824219,0.7419999694824219,0.045938000082969666,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,347,Tottenham,Swansea,2,1,2016-02-28 18:05:00,,Standard,646
+60099,58,MissedShots,0.7869999694824219,0.6830000305175781,0.06451710313558578,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,347,Tottenham,Swansea,2,1,2016-02-28 18:05:00,,Standard,646
+60100,62,SavedShot,0.7380000305175781,0.515,0.017467299476265907,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,347,Tottenham,Swansea,2,1,2016-02-28 18:05:00,Eric Dier,TakeOn,646
+60108,67,MissedShots,0.7830000305175782,0.6359999847412109,0.03609690070152283,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,347,Tottenham,Swansea,2,1,2016-02-28 18:05:00,,TakeOn,646
+60115,71,SavedShot,0.6890000152587891,0.30700000762939456,0.014967200346291065,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,347,Tottenham,Swansea,2,1,2016-02-28 18:05:00,Toby Alderweireld,Pass,646
+61126,63,SavedShot,0.89,0.33599998474121096,0.06731309741735458,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,354,West Ham,Tottenham,1,0,2016-03-02 23:45:00,Erik Lamela,Pass,646
+60345,20,BlockedShot,0.7169999694824218,0.38599998474121094,0.013515999540686607,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,359,Tottenham,Arsenal,2,2,2016-03-05 16:45:00,Dele Alli,BallRecovery,646
+60354,26,SavedShot,0.9640000152587891,0.8369999694824218,0.06019379943609238,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,359,Tottenham,Arsenal,2,2,2016-03-05 16:45:00,,Standard,646
+60378,84,SavedShot,0.7769999694824219,0.255,0.013881799764931202,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,359,Tottenham,Arsenal,2,2,2016-03-05 16:45:00,Harry Kane,Pass,646
+60382,93,MissedShots,0.8590000152587891,0.674000015258789,0.04613709822297096,Christian Eriksen,h,646,OpenPlay,2015,LeftFoot,359,Tottenham,Arsenal,2,2,2016-03-05 16:45:00,,None,646
+60738,4,MissedShots,0.7080000305175781,0.40099998474121096,0.01541650015860796,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,372,Aston Villa,Tottenham,0,2,2016-03-13 20:00:00,Erik Lamela,Pass,646
+60742,17,MissedShots,0.7140000152587891,0.5359999847412109,0.014686999842524529,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,372,Aston Villa,Tottenham,0,2,2016-03-13 20:00:00,Harry Kane,Pass,646
+60765,76,MissedShots,0.8430000305175781,0.6409999847412109,0.05154379829764366,Christian Eriksen,a,646,OpenPlay,2015,LeftFoot,372,Aston Villa,Tottenham,0,2,2016-03-13 20:00:00,,None,646
+60667,18,MissedShots,0.8730000305175781,0.3170000076293945,0.09153970330953598,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,383,Tottenham,Bournemouth,3,0,2016-03-20 20:00:00,Toby Alderweireld,Chipped,646
+60681,51,Goal,0.919000015258789,0.48200000762939454,0.5673080086708069,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,383,Tottenham,Bournemouth,3,0,2016-03-20 20:00:00,,Rebound,646
+60692,86,BlockedShot,0.9230000305175782,0.25799999237060545,0.042167700827121735,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,383,Tottenham,Bournemouth,3,0,2016-03-20 20:00:00,,None,646
+60695,91,MissedShots,0.7280000305175781,0.500999984741211,0.018956800922751427,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,383,Tottenham,Bournemouth,3,0,2016-03-20 20:00:00,Nacer Chadli,Pass,646
+59791,8,SavedShot,0.8469999694824218,0.40599998474121096,0.0728026032447815,Christian Eriksen,a,646,OpenPlay,2015,LeftFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Kyle Walker,Pass,646
+59823,64,SavedShot,0.7680000305175781,0.4490000152587891,0.027732299640774727,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Harry Kane,Pass,646
+59840,89,MissedShots,0.7340000152587891,0.545,0.05295579880475998,Christian Eriksen,a,646,DirectFreekick,2015,RightFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,,Standard,646
+61125,25,MissedShots,0.7480000305175781,0.6659999847412109,0.017628999426960945,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,402,Tottenham,Manchester United,3,0,2016-04-10 19:00:00,Dele Alli,Pass,646
+61131,50,SavedShot,0.8169999694824219,0.8630000305175781,0.009951350279152393,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,402,Tottenham,Manchester United,3,0,2016-04-10 19:00:00,,None,646
+61140,66,MissedShots,0.7959999847412109,0.6630000305175782,0.02618510089814663,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,402,Tottenham,Manchester United,3,0,2016-04-10 19:00:00,,None,646
+56891,40,ShotOnPost,0.8490000152587891,0.5029999923706054,0.35019800066947937,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,414,Stoke,Tottenham,0,4,2016-04-18 23:00:00,Dele Alli,Throughball,646
+56609,2,BlockedShot,0.7869999694824219,0.7530000305175781,0.014401299878954887,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,426,Tottenham,West Bromwich Albion,1,1,2016-04-25 23:00:00,Dele Alli,LayOff,646
+56610,3,BlockedShot,0.745,0.6790000152587891,0.04439929872751236,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,426,Tottenham,West Bromwich Albion,1,1,2016-04-25 23:00:00,,Standard,646
+56614,12,ShotOnPost,0.8209999847412109,0.6990000152587891,0.08140569925308228,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,426,Tottenham,West Bromwich Albion,1,1,2016-04-25 23:00:00,,Standard,646
+56630,55,BlockedShot,0.884000015258789,0.75,0.04282870143651962,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,426,Tottenham,West Bromwich Albion,1,1,2016-04-25 23:00:00,Dele Alli,Pass,646
+56633,63,MissedShots,0.764000015258789,0.5179999923706055,0.03562530130147934,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,426,Tottenham,West Bromwich Albion,1,1,2016-04-25 23:00:00,Dele Alli,Pass,646
+56641,81,MissedShots,0.730999984741211,0.5459999847412109,0.05119689926505089,Christian Eriksen,h,646,DirectFreekick,2015,RightFoot,426,Tottenham,West Bromwich Albion,1,1,2016-04-25 23:00:00,,Standard,646
+56941,11,BlockedShot,0.7469999694824219,0.62,0.015225600451231003,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,436,Chelsea,Tottenham,2,2,2016-05-02 23:00:00,,None,646
+56944,23,MissedShots,0.899000015258789,0.7169999694824218,0.02864300087094307,Christian Eriksen,a,646,FromCorner,2015,RightFoot,436,Chelsea,Tottenham,2,2,2016-05-02 23:00:00,Toby Alderweireld,BallTouch,646
+56964,75,BlockedShot,0.909000015258789,0.6819999694824219,0.059566400945186615,Christian Eriksen,a,646,OpenPlay,2015,LeftFoot,436,Chelsea,Tottenham,2,2,2016-05-02 23:00:00,,Rebound,646
+56848,4,SavedShot,0.8859999847412109,0.544000015258789,0.09361209720373154,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,444,Tottenham,Southampton,1,2,2016-05-08 16:30:00,Danny Rose,Cross,646
+56856,25,SavedShot,0.845999984741211,0.4620000076293945,0.09961120039224625,Christian Eriksen,h,646,OpenPlay,2015,RightFoot,444,Tottenham,Southampton,1,2,2016-05-08 16:30:00,Erik Lamela,Pass,646
+56862,47,SavedShot,0.960999984741211,0.705999984741211,0.052845701575279236,Christian Eriksen,h,646,OpenPlay,2015,LeftFoot,444,Tottenham,Southampton,1,2,2016-05-08 16:30:00,Harry Kane,Pass,646
+56869,67,MissedShots,0.855999984741211,0.28,0.028772199526429176,Christian Eriksen,h,646,FromCorner,2015,LeftFoot,444,Tottenham,Southampton,1,2,2016-05-08 16:30:00,Harry Kane,Pass,646
+52071,2,MissedShots,0.7319999694824219,0.5609999847412109,0.017771199345588684,Christian Eriksen,a,646,OpenPlay,2015,LeftFoot,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,Erik Lamela,Pass,646
+52086,44,SavedShot,0.9669999694824218,0.3579999923706055,0.08161529898643494,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,Harry Kane,Pass,646
+52088,56,BlockedShot,0.7969999694824219,0.5609999847412109,0.11437100172042847,Christian Eriksen,a,646,DirectFreekick,2015,RightFoot,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,,Standard,646
+52093,67,MissedShots,0.735999984741211,0.539000015258789,0.019711900502443314,Christian Eriksen,a,646,OpenPlay,2015,RightFoot,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,Erik Lamela,Pass,646
+112212,7,BlockedShot,0.7709999847412109,0.455,0.03089050017297268,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,463,Everton,Tottenham,1,1,2016-08-13 18:00:00,,Rebound,646
+112217,26,SavedShot,0.8,0.34200000762939453,0.02583489939570427,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,463,Everton,Tottenham,1,1,2016-08-13 18:00:00,Kyle Walker,Pass,646
+112230,82,MissedShots,0.8080000305175781,0.66,0.08859290182590485,Christian Eriksen,a,646,DirectFreekick,2016,RightFoot,463,Everton,Tottenham,1,1,2016-08-13 18:00:00,,Standard,646
+112775,0,BlockedShot,0.7419999694824219,0.35900001525878905,0.014741900376975536,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,475,Tottenham,Crystal Palace,1,0,2016-08-20 18:00:00,Vincent Janssen,Pass,646
+113076,5,SavedShot,0.91,0.8119999694824219,0.06429369747638702,Christian Eriksen,h,646,DirectFreekick,2016,RightFoot,481,Tottenham,Liverpool,1,1,2016-08-27 15:30:00,,Standard,646
+113086,50,MissedShots,0.735999984741211,0.5179999923706055,0.014847200363874435,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,481,Tottenham,Liverpool,1,1,2016-08-27 15:30:00,Victor Wanyama,BallRecovery,646
+113089,61,MissedShots,0.8490000152587891,0.55,0.07379110157489777,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,481,Tottenham,Liverpool,1,1,2016-08-27 15:30:00,Eric Dier,Pass,646
+113317,47,SavedShot,0.9059999847412109,0.715,0.05104050040245056,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,493,Stoke,Tottenham,0,4,2016-09-10 18:00:00,Dele Alli,Chipped,646
+113324,63,BlockedShot,0.7569999694824219,0.4209999847412109,0.03873090073466301,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,493,Stoke,Tottenham,0,4,2016-09-10 18:00:00,Toby Alderweireld,Pass,646
+113329,68,SavedShot,0.904000015258789,0.34799999237060547,0.10565199702978134,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,493,Stoke,Tottenham,0,4,2016-09-10 18:00:00,Erik Lamela,Chipped,646
+113839,0,BlockedShot,0.850999984741211,0.6840000152587891,0.040050800889730453,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Son Heung-Min,Pass,646
+113847,34,BlockedShot,0.8959999847412109,0.5829999923706055,0.10742300003767014,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,,None,646
+113852,47,BlockedShot,0.7759999847412109,0.4209999847412109,0.04625429958105087,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Victor Wanyama,Pass,646
+113858,66,MissedShots,0.7669999694824219,0.4420000076293945,0.03369539976119995,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Son Heung-Min,Pass,646
+114527,17,SavedShot,0.7080000305175781,0.22200000762939454,0.010435599833726883,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,529,Tottenham,Manchester City,2,0,2016-10-02 17:15:00,,Aerial,646
+114528,20,MissedShots,0.8190000152587891,0.45799999237060546,0.1665640026330948,Christian Eriksen,h,646,DirectFreekick,2016,RightFoot,529,Tottenham,Manchester City,2,0,2016-10-02 17:15:00,,Standard,646
+114534,48,MissedShots,0.884000015258789,0.23700000762939452,0.02772819995880127,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,529,Tottenham,Manchester City,2,0,2016-10-02 17:15:00,,None,646
+114537,57,SavedShot,0.7190000152587891,0.40099998474121096,0.018248900771141052,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,529,Tottenham,Manchester City,2,0,2016-10-02 17:15:00,Moussa Sissoko,Pass,646
+114099,15,SavedShot,0.740999984741211,0.34799999237060547,0.014484900049865246,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,536,West Bromwich Albion,Tottenham,1,1,2016-10-15 18:00:00,Moussa Sissoko,Pass,646
+114102,26,BlockedShot,0.8119999694824219,0.51,0.049042798578739166,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,536,West Bromwich Albion,Tottenham,1,1,2016-10-15 18:00:00,Vincent Janssen,Pass,646
+114108,41,SavedShot,0.8109999847412109,0.47200000762939454,0.05516659840941429,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,536,West Bromwich Albion,Tottenham,1,1,2016-10-15 18:00:00,Dele Alli,Pass,646
+114116,76,BlockedShot,0.7819999694824219,0.6430000305175781,0.026487400755286217,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,536,West Bromwich Albion,Tottenham,1,1,2016-10-15 18:00:00,Mousa Dembélé,Pass,646
+114122,88,BlockedShot,0.8969999694824219,0.6179999923706054,0.0831288993358612,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,536,West Bromwich Albion,Tottenham,1,1,2016-10-15 18:00:00,Son Heung-Min,Pass,646
+114126,94,SavedShot,0.81,0.8619999694824219,0.03324269875884056,Christian Eriksen,a,646,DirectFreekick,2016,RightFoot,536,West Bromwich Albion,Tottenham,1,1,2016-10-15 18:00:00,,Standard,646
+114180,27,SavedShot,0.7809999847412109,0.35900001525878905,0.027241799980401993,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,541,Bournemouth,Tottenham,0,0,2016-10-22 15:30:00,Victor Wanyama,Pass,646
+114182,30,BlockedShot,0.7480000305175781,0.500999984741211,0.021247200667858124,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,541,Bournemouth,Tottenham,0,0,2016-10-22 15:30:00,Erik Lamela,LayOff,646
+114185,41,BlockedShot,0.8090000152587891,0.509000015258789,0.05765470117330551,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,541,Bournemouth,Tottenham,0,0,2016-10-22 15:30:00,Erik Lamela,LayOff,646
+114197,85,MissedShots,0.884000015258789,0.345,0.07578150182962418,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,541,Bournemouth,Tottenham,0,0,2016-10-22 15:30:00,Moussa Sissoko,Pass,646
+114975,19,MissedShots,0.720999984741211,0.669000015258789,0.037106599658727646,Christian Eriksen,h,646,DirectFreekick,2016,RightFoot,2678,Tottenham,Leicester,1,1,2016-10-29 18:00:00,,Standard,646
+114984,47,BlockedShot,0.7930000305175782,0.7080000305175781,0.021730799227952957,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,2678,Tottenham,Leicester,1,1,2016-10-29 18:00:00,Vincent Janssen,Pass,646
+114987,55,BlockedShot,0.75,0.6519999694824219,0.05054070055484772,Christian Eriksen,h,646,DirectFreekick,2016,RightFoot,2678,Tottenham,Leicester,1,1,2016-10-29 18:00:00,,Standard,646
+114988,58,SavedShot,0.774000015258789,0.610999984741211,0.02156759984791279,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,2678,Tottenham,Leicester,1,1,2016-10-29 18:00:00,Dele Alli,Pass,646
+114990,65,BlockedShot,0.85,0.6840000152587891,0.04153519868850708,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,2678,Tottenham,Leicester,1,1,2016-10-29 18:00:00,Danny Rose,Pass,646
+115074,54,SavedShot,0.8540000152587891,0.590999984741211,0.06379490345716476,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,2692,Arsenal,Tottenham,1,1,2016-11-06 16:00:00,,None,646
+115079,63,MissedShots,0.7069999694824218,0.675,0.012040800414979458,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,2692,Arsenal,Tottenham,1,1,2016-11-06 16:00:00,Danny Rose,Pass,646
+115820,8,BlockedShot,0.9490000152587891,0.7230000305175781,0.043657101690769196,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,2704,Tottenham,West Ham,3,2,2016-11-19 21:30:00,,None,646
+115835,64,MissedShots,0.7469999694824219,0.8209999847412109,0.02877580001950264,Christian Eriksen,h,646,DirectFreekick,2016,RightFoot,2704,Tottenham,West Ham,3,2,2016-11-19 21:30:00,,Standard,646
+115840,84,MissedShots,0.74,0.5720000076293945,0.054722998291254044,Christian Eriksen,h,646,DirectFreekick,2016,RightFoot,2704,Tottenham,West Ham,3,2,2016-11-19 21:30:00,,Standard,646
+116217,10,Goal,0.8130000305175781,0.639000015258789,0.040895700454711914,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,2712,Chelsea,Tottenham,2,1,2016-11-26 21:30:00,Dele Alli,Pass,646
+116218,12,BlockedShot,0.705,0.285,0.01170829962939024,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,2712,Chelsea,Tottenham,2,1,2016-11-26 21:30:00,Harry Kane,Pass,646
+116225,37,MissedShots,0.750999984741211,0.40900001525878904,0.02457199990749359,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,2712,Chelsea,Tottenham,2,1,2016-11-26 21:30:00,Kyle Walker,Pass,646
+116233,62,SavedShot,0.905,0.6430000305175781,0.06594110280275345,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,2712,Chelsea,Tottenham,2,1,2016-11-26 21:30:00,Harry Kane,Pass,646
+115966,34,SavedShot,0.8130000305175781,0.29100000381469726,0.07188580185174942,Christian Eriksen,h,646,DirectFreekick,2016,RightFoot,3109,Tottenham,Swansea,5,0,2016-12-03 19:00:00,,Standard,646
+115970,45,BlockedShot,0.8190000152587891,0.45,0.05726499855518341,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3109,Tottenham,Swansea,5,0,2016-12-03 19:00:00,Dele Alli,Pass,646
+115974,53,MissedShots,0.720999984741211,0.395,0.020390499383211136,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3109,Tottenham,Swansea,5,0,2016-12-03 19:00:00,Mousa Dembélé,Pass,646
+115976,62,MissedShots,0.7319999694824219,0.7559999847412109,0.03185420110821724,Christian Eriksen,h,646,DirectFreekick,2016,RightFoot,3109,Tottenham,Swansea,5,0,2016-12-03 19:00:00,,Standard,646
+115979,69,Goal,0.9740000152587891,0.4779999923706055,0.9689760208129883,Christian Eriksen,h,646,OpenPlay,2016,OtherBodyPart,3109,Tottenham,Swansea,5,0,2016-12-03 19:00:00,,Rebound,646
+115986,80,SavedShot,0.7680000305175781,0.35400001525878905,0.021321099251508713,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,3109,Tottenham,Swansea,5,0,2016-12-03 19:00:00,Moussa Sissoko,Pass,646
+115988,91,Goal,0.8580000305175781,0.6079999923706054,0.10649199783802032,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,3109,Tottenham,Swansea,5,0,2016-12-03 19:00:00,Moussa Sissoko,Pass,646
+117124,18,SavedShot,0.715,0.34900001525878904,0.03678179904818535,Christian Eriksen,a,646,DirectFreekick,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,,Standard,646
+117139,53,SavedShot,0.8009999847412109,0.34,0.023586099967360497,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Kyle Walker,Pass,646
+117143,63,BlockedShot,0.7230000305175781,0.5929999923706055,0.016937699168920517,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,Victor Wanyama,Pass,646
+117145,69,SavedShot,0.7859999847412109,0.3659999847412109,0.07802239805459976,Christian Eriksen,a,646,DirectFreekick,2016,RightFoot,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,,Standard,646
+118281,13,Goal,0.8880000305175781,0.5629999923706055,0.11479900032281876,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,3134,Tottenham,Hull,3,0,2016-12-15 00:00:00,Danny Rose,Pass,646
+118284,18,MissedShots,0.7869999694824219,0.669000015258789,0.016016099601984024,Christian Eriksen,h,646,SetPiece,2016,RightFoot,3134,Tottenham,Hull,3,0,2016-12-15 00:00:00,,Rebound,646
+118283,18,BlockedShot,0.7809999847412109,0.685,0.060485199093818665,Christian Eriksen,h,646,DirectFreekick,2016,RightFoot,3134,Tottenham,Hull,3,0,2016-12-15 00:00:00,,Standard,646
+118301,62,Goal,0.9890000152587891,0.5359999847412109,0.966733992099762,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,3134,Tottenham,Hull,3,0,2016-12-15 00:00:00,Kyle Walker,Pass,646
+118307,72,SavedShot,0.7430000305175781,0.634000015258789,0.04960339888930321,Christian Eriksen,h,646,DirectFreekick,2016,RightFoot,3134,Tottenham,Hull,3,0,2016-12-15 00:00:00,,Standard,646
+118310,79,SavedShot,0.8190000152587891,0.61,0.06969600170850754,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,3134,Tottenham,Hull,3,0,2016-12-15 00:00:00,Moussa Sissoko,Pass,646
+118312,90,BlockedShot,0.7809999847412109,0.34900001525878904,0.06927800178527832,Christian Eriksen,h,646,DirectFreekick,2016,RightFoot,3134,Tottenham,Hull,3,0,2016-12-15 00:00:00,,Standard,646
+115847,9,BlockedShot,0.8230000305175781,0.5220000076293946,0.056323498487472534,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3143,Tottenham,Burnley,2,1,2016-12-18 20:00:00,,None,646
+115848,10,MissedShots,0.7290000152587891,0.385,0.0076094199903309345,Christian Eriksen,h,646,FromCorner,2016,RightFoot,3143,Tottenham,Burnley,2,1,2016-12-18 20:00:00,Danny Rose,Chipped,646
+115861,40,BlockedShot,0.8219999694824218,0.8119999694824219,0.04443550109863281,Christian Eriksen,h,646,DirectFreekick,2016,RightFoot,3143,Tottenham,Burnley,2,1,2016-12-18 20:00:00,,Standard,646
+115864,45,MissedShots,0.8119999694824219,0.4759999847412109,0.042075399309396744,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,3143,Tottenham,Burnley,2,1,2016-12-18 20:00:00,,Rebound,646
+115866,49,MissedShots,0.7240000152587891,0.5670000076293945,0.016429100185632706,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3143,Tottenham,Burnley,2,1,2016-12-18 20:00:00,Mousa Dembélé,Pass,646
+115867,53,SavedShot,0.9119999694824219,0.5609999847412109,0.0824500024318695,Christian Eriksen,h,646,OpenPlay,2016,Head,3143,Tottenham,Burnley,2,1,2016-12-18 20:00:00,Danny Rose,Cross,646
+115869,63,SavedShot,0.7730000305175782,0.6459999847412109,0.033584900200366974,Christian Eriksen,h,646,FromCorner,2016,RightFoot,3143,Tottenham,Burnley,2,1,2016-12-18 20:00:00,Danny Rose,Pass,646
+116699,18,BlockedShot,0.7419999694824219,0.49700000762939456,0.020015699788928032,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,Mousa Dembélé,Pass,646
+116702,30,MissedShots,0.8430000305175781,0.5570000076293945,0.05278119817376137,Christian Eriksen,a,646,FromCorner,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,,None,646
+116701,30,BlockedShot,0.8090000152587891,0.445,0.0543844997882843,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,Mousa Dembélé,Pass,646
+116712,70,ShotOnPost,0.865999984741211,0.44299999237060544,0.09919849783182144,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,,None,646
+116714,74,BlockedShot,0.794000015258789,0.27899999618530275,0.020607300102710724,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,3154,Southampton,Tottenham,1,4,2016-12-28 23:45:00,Kyle Walker,TakeOn,646
+117886,10,MissedShots,0.8519999694824218,0.56,0.08635310083627701,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,3328,Watford,Tottenham,1,4,2017-01-01 13:30:00,Danny Rose,Pass,646
+117890,24,MissedShots,0.764000015258789,0.3240000152587891,0.021703800186514854,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,3328,Watford,Tottenham,1,4,2017-01-01 13:30:00,Son Heung-Min,Pass,646
+117905,78,MissedShots,0.7859999847412109,0.5990000152587891,0.03985850140452385,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,3328,Watford,Tottenham,1,4,2017-01-01 13:30:00,,BallRecovery,646
+116876,22,MissedShots,0.769000015258789,0.45599998474121095,0.029257899150252342,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3339,Tottenham,Chelsea,2,0,2017-01-05 00:00:00,,BallRecovery,646
+116882,50,MissedShots,0.6980000305175781,0.595999984741211,0.017989499494433403,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3339,Tottenham,Chelsea,2,0,2017-01-05 00:00:00,Mousa Dembélé,Pass,646
+116888,65,BlockedShot,0.7880000305175782,0.3320000076293945,0.022965699434280396,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,3339,Tottenham,Chelsea,2,0,2017-01-05 00:00:00,Kyle Walker,Pass,646
+116890,76,MissedShots,0.7269999694824218,0.664000015258789,0.03951619938015938,Christian Eriksen,h,646,DirectFreekick,2016,RightFoot,3339,Tottenham,Chelsea,2,0,2017-01-05 00:00:00,,Standard,646
+117867,25,BlockedShot,0.8059999847412109,0.39599998474121095,0.043938200920820236,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3340,Tottenham,West Bromwich Albion,4,0,2017-01-14 16:30:00,Danny Rose,Pass,646
+117879,57,SavedShot,0.7719999694824219,0.32599998474121095,0.027220599353313446,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3340,Tottenham,West Bromwich Albion,4,0,2017-01-14 16:30:00,Harry Kane,Pass,646
+118976,52,BlockedShot,0.735999984741211,0.39,0.015296099707484245,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,3364,Sunderland,Tottenham,0,0,2017-01-31 22:45:00,Kyle Walker,Pass,646
+118978,54,SavedShot,0.735,0.38299999237060545,0.0476921983063221,Christian Eriksen,a,646,DirectFreekick,2016,RightFoot,3364,Sunderland,Tottenham,0,0,2017-01-31 22:45:00,,Standard,646
+118986,84,SavedShot,0.795,0.24,0.01823580078780651,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,3364,Sunderland,Tottenham,0,0,2017-01-31 22:45:00,Moussa Sissoko,Pass,646
+117054,33,BlockedShot,0.805,0.32,0.022087199613451958,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,3377,Tottenham,Middlesbrough,1,0,2017-02-04 17:30:00,Harry Kane,Pass,646
+117062,50,SavedShot,0.8209999847412109,0.3820000076293945,0.03802340105175972,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3377,Tottenham,Middlesbrough,1,0,2017-02-04 17:30:00,Son Heung-Min,Pass,646
+117065,58,SavedShot,0.875999984741211,0.6040000152587891,0.11192700266838074,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,3377,Tottenham,Middlesbrough,1,0,2017-02-04 17:30:00,Harry Kane,Pass,646
+117069,83,BlockedShot,0.8690000152587891,0.6140000152587891,0.08259280025959015,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3377,Tottenham,Middlesbrough,1,0,2017-02-04 17:30:00,,None,646
+117638,10,MissedShots,0.8719999694824219,0.265,0.01883080042898655,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3386,Liverpool,Tottenham,2,0,2017-02-11 17:30:00,Kyle Walker,Chipped,646
+117650,34,MissedShots,0.795,0.41,0.1021910011768341,Christian Eriksen,a,646,DirectFreekick,2016,RightFoot,3386,Liverpool,Tottenham,2,0,2017-02-11 17:30:00,,Standard,646
+118742,27,BlockedShot,0.7959999847412109,0.6090000152587891,0.06496100127696991,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3397,Tottenham,Stoke,4,0,2017-02-26 13:30:00,Harry Kane,TakeOn,646
+118752,60,BlockedShot,0.785,0.4329999923706055,0.03875900059938431,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3397,Tottenham,Stoke,4,0,2017-02-26 13:30:00,Jan Vertonghen,BallRecovery,646
+118756,80,MissedShots,0.7369999694824219,0.42400001525878905,0.017868300899863243,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3397,Tottenham,Stoke,4,0,2017-02-26 13:30:00,,None,646
+119966,4,BlockedShot,0.73,0.5820000076293945,0.04841100051999092,Christian Eriksen,h,646,DirectFreekick,2016,RightFoot,3406,Tottenham,Everton,3,2,2017-03-05 13:30:00,,Standard,646
+119971,20,MissedShots,0.87,0.3509999847412109,0.06147199869155884,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3406,Tottenham,Everton,3,2,2017-03-05 13:30:00,,Rebound,646
+119973,24,MissedShots,0.794000015258789,0.39799999237060546,0.03907430171966553,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3406,Tottenham,Everton,3,2,2017-03-05 13:30:00,Kyle Walker,Pass,646
+120412,13,Goal,0.769000015258789,0.44299999237060544,0.029032500460743904,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,3422,Tottenham,Southampton,2,1,2017-03-19 14:15:00,Mousa Dembélé,Pass,646
+120415,22,BlockedShot,0.7909999847412109,0.3840000152587891,0.018543200567364693,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3422,Tottenham,Southampton,2,1,2017-03-19 14:15:00,Dele Alli,Aerial,646
+120421,48,MissedShots,0.8080000305175781,0.37099998474121093,0.041478998959064484,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3422,Tottenham,Southampton,2,1,2017-03-19 14:15:00,Kyle Walker,Pass,646
+120423,51,MissedShots,0.805,0.3160000038146973,0.03777959942817688,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3422,Tottenham,Southampton,2,1,2017-03-19 14:15:00,,None,646
+119140,9,BlockedShot,0.7969999694824219,0.3240000152587891,0.026203399524092674,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3431,Burnley,Tottenham,0,2,2017-04-01 15:00:00,,BallRecovery,646
+119145,31,SavedShot,0.924000015258789,0.7,0.04954110085964203,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,3431,Burnley,Tottenham,0,2,2017-04-01 15:00:00,Dele Alli,TakeOn,646
+119148,35,BlockedShot,0.7469999694824219,0.42400001525878905,0.01989229954779148,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3431,Burnley,Tottenham,0,2,2017-04-01 15:00:00,Harry Winks,Pass,646
+119151,47,BlockedShot,0.7519999694824219,0.639000015258789,0.053553398698568344,Christian Eriksen,a,646,DirectFreekick,2016,RightFoot,3431,Burnley,Tottenham,0,2,2017-04-01 15:00:00,,Standard,646
+119152,48,BlockedShot,0.7469999694824219,0.6809999847412109,0.012115400284528732,Christian Eriksen,a,646,SetPiece,2016,RightFoot,3431,Burnley,Tottenham,0,2,2017-04-01 15:00:00,,Rebound,646
+119160,60,SavedShot,0.7080000305175781,0.5879999923706055,0.017148099839687347,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3431,Burnley,Tottenham,0,2,2017-04-01 15:00:00,Eric Dier,Pass,646
+119174,13,BlockedShot,0.9519999694824218,0.41,0.10827499628067017,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3444,Swansea,Tottenham,1,3,2017-04-05 19:45:00,Mousa Dembélé,Throughball,646
+119176,19,SavedShot,0.779000015258789,0.7609999847412109,0.015805000439286232,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3444,Swansea,Tottenham,1,3,2017-04-05 19:45:00,Moussa Sissoko,Pass,646
+119182,73,MissedShots,0.775,0.3509999847412109,0.02311279997229576,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3444,Swansea,Tottenham,1,3,2017-04-05 19:45:00,Mousa Dembélé,Pass,646
+119187,87,BlockedShot,0.855,0.25,0.02517239935696125,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3444,Swansea,Tottenham,1,3,2017-04-05 19:45:00,,None,646
+119191,93,Goal,0.845,0.48900001525878906,0.1214430034160614,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3444,Swansea,Tottenham,1,3,2017-04-05 19:45:00,Dele Alli,Pass,646
+120391,22,MissedShots,0.7519999694824219,0.40599998474121096,0.018017100170254707,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,3453,Tottenham,Watford,4,0,2017-04-08 12:30:00,Dele Alli,Pass,646
+120393,31,SavedShot,0.7919999694824219,0.5459999847412109,0.038864098489284515,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,3453,Tottenham,Watford,4,0,2017-04-08 12:30:00,Vincent Janssen,Pass,646
+121452,36,BlockedShot,0.8059999847412109,0.3129999923706055,0.022385599091649055,Christian Eriksen,h,646,FromCorner,2016,RightFoot,3465,Tottenham,Bournemouth,4,0,2017-04-15 12:30:00,Son Heung-Min,Pass,646
+121451,36,SavedShot,0.870999984741211,0.3920000076293945,0.11148499697446823,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3465,Tottenham,Bournemouth,4,0,2017-04-15 12:30:00,Harry Kane,Pass,646
+121453,39,MissedShots,0.874000015258789,0.5640000152587891,0.12952400743961334,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,3465,Tottenham,Bournemouth,4,0,2017-04-15 12:30:00,Son Heung-Min,Pass,646
+121459,59,BlockedShot,0.7580000305175781,0.7080000305175781,0.045069798827171326,Christian Eriksen,h,646,DirectFreekick,2016,RightFoot,3465,Tottenham,Bournemouth,4,0,2017-04-15 12:30:00,,Standard,646
+121463,65,SavedShot,0.7969999694824219,0.62,0.03972969949245453,Christian Eriksen,h,646,FromCorner,2016,RightFoot,3465,Tottenham,Bournemouth,4,0,2017-04-15 12:30:00,Ben Davies,Pass,646
+121472,85,BlockedShot,0.77,0.38299999237060545,0.0228962991386652,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3465,Tottenham,Bournemouth,4,0,2017-04-15 12:30:00,Moussa Sissoko,Pass,646
+119201,28,SavedShot,0.9380000305175781,0.26799999237060546,0.03229689970612526,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3415,Crystal Palace,Tottenham,0,1,2017-04-26 20:00:00,,Rebound,646
+119200,28,BlockedShot,0.8830000305175781,0.3240000152587891,0.05127770081162453,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3415,Crystal Palace,Tottenham,0,1,2017-04-26 20:00:00,,None,646
+119207,57,BlockedShot,0.8580000305175781,0.6309999847412109,0.06072409823536873,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,3415,Crystal Palace,Tottenham,0,1,2017-04-26 20:00:00,Son Heung-Min,Pass,646
+119214,77,Goal,0.7290000152587891,0.4640000152587891,0.019564500078558922,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3415,Crystal Palace,Tottenham,0,1,2017-04-26 20:00:00,Harry Kane,Pass,646
+121096,24,ShotOnPost,0.9219999694824219,0.42900001525878906,0.5638610124588013,Christian Eriksen,h,646,OpenPlay,2016,LeftFoot,3487,Tottenham,Arsenal,2,0,2017-04-30 16:30:00,,Rebound,646
+121109,54,SavedShot,0.9740000152587891,0.33799999237060546,0.05449509993195534,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3487,Tottenham,Arsenal,2,0,2017-04-30 16:30:00,Dele Alli,TakeOn,646
+121118,69,BlockedShot,0.8590000152587891,0.745999984741211,0.04490070044994354,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3487,Tottenham,Arsenal,2,0,2017-04-30 16:30:00,Dele Alli,LayOff,646
+121698,35,MissedShots,0.749000015258789,0.3529999923706055,0.0157880000770092,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,3499,West Ham,Tottenham,1,0,2017-05-05 20:00:00,Eric Dier,Pass,646
+121701,59,SavedShot,0.9030000305175782,0.35700000762939454,0.08512470126152039,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,3499,West Ham,Tottenham,1,0,2017-05-05 20:00:00,Son Heung-Min,Pass,646
+121710,85,MissedShots,0.775,0.645,0.03156229853630066,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,3499,West Ham,Tottenham,1,0,2017-05-05 20:00:00,,TakeOn,646
+120472,12,BlockedShot,0.705,0.42200000762939455,0.017446499317884445,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3507,Tottenham,Manchester United,2,1,2017-05-14 16:30:00,Jan Vertonghen,TakeOn,646
+120475,18,MissedShots,0.795,0.3970000076293945,0.0358830988407135,Christian Eriksen,h,646,OpenPlay,2016,RightFoot,3507,Tottenham,Manchester United,2,1,2017-05-14 16:30:00,,Rebound,646
+112460,66,SavedShot,0.9069999694824219,0.4759999847412109,0.4359489977359772,Christian Eriksen,a,646,OpenPlay,2016,RightFoot,3513,Hull,Tottenham,1,7,2017-05-21 15:00:00,Dele Alli,Chipped,646
+112465,79,MissedShots,0.8819999694824219,0.634000015258789,0.10163599997758865,Christian Eriksen,a,646,OpenPlay,2016,LeftFoot,3513,Hull,Tottenham,1,7,2017-05-21 15:00:00,Son Heung-Min,Pass,646
+158290,16,SavedShot,0.7609999847412109,0.5690000152587891,0.02230769954621792,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7127,Newcastle United,Tottenham,0,2,2017-08-13 13:30:00,,None,646
+158293,25,MissedShots,0.84,0.6880000305175781,0.03414659947156906,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7127,Newcastle United,Tottenham,0,2,2017-08-13 13:30:00,Ben Davies,Pass,646
+158295,40,SavedShot,0.7559999847412109,0.6759999847412109,0.014697199687361717,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7127,Newcastle United,Tottenham,0,2,2017-08-13 13:30:00,Moussa Sissoko,LayOff,646
+158297,44,MissedShots,0.6990000152587891,0.505,0.010500799864530563,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7127,Newcastle United,Tottenham,0,2,2017-08-13 13:30:00,Harry Kane,LayOff,646
+158301,55,BlockedShot,0.769000015258789,0.3509999847412109,0.021233100444078445,Christian Eriksen,a,646,OpenPlay,2017,LeftFoot,7127,Newcastle United,Tottenham,0,2,2017-08-13 13:30:00,Toby Alderweireld,Pass,646
+158304,62,SavedShot,0.9369999694824219,0.6930000305175781,0.12502799928188324,Christian Eriksen,a,646,OpenPlay,2017,LeftFoot,7127,Newcastle United,Tottenham,0,2,2017-08-13 13:30:00,Harry Kane,Throughball,646
+159073,45,BlockedShot,0.870999984741211,0.3120000076293945,0.0503665991127491,Christian Eriksen,h,646,OpenPlay,2017,LeftFoot,7137,Tottenham,Chelsea,1,2,2017-08-20 16:00:00,Harry Kane,Pass,646
+158844,9,BlockedShot,0.7959999847412109,0.35400001525878905,0.029049599543213844,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7147,Tottenham,Burnley,1,1,2017-08-27 16:00:00,Son Heung-Min,Pass,646
+158869,73,SavedShot,0.93,0.30100000381469727,0.06135819852352142,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7147,Tottenham,Burnley,1,1,2017-08-27 16:00:00,Moussa Sissoko,Chipped,646
+158874,78,BlockedShot,0.8859999847412109,0.6859999847412109,0.06386079639196396,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7147,Tottenham,Burnley,1,1,2017-08-27 16:00:00,Ben Davies,Pass,646
+159224,6,BlockedShot,0.865999984741211,0.5870000076293945,0.09691809862852097,Christian Eriksen,a,646,OpenPlay,2017,LeftFoot,7154,Everton,Tottenham,0,3,2017-09-09 15:00:00,Ben Davies,Pass,646
+159225,11,MissedShots,0.850999984741211,0.5070000076293946,0.09186320006847382,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7154,Everton,Tottenham,0,3,2017-09-09 15:00:00,Dele Alli,Pass,646
+159228,26,BlockedShot,0.7580000305175781,0.6969999694824218,0.046901799738407135,Christian Eriksen,a,646,DirectFreekick,2017,RightFoot,7154,Everton,Tottenham,0,3,2017-09-09 15:00:00,,Standard,646
+159233,41,Goal,0.93,0.534000015258789,0.5328789949417114,Christian Eriksen,a,646,OpenPlay,2017,LeftFoot,7154,Everton,Tottenham,0,3,2017-09-09 15:00:00,,Rebound,646
+159237,52,SavedShot,0.9130000305175782,0.33099998474121095,0.10249999910593033,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7154,Everton,Tottenham,0,3,2017-09-09 15:00:00,Harry Kane,Chipped,646
+158892,47,SavedShot,0.7559999847412109,0.29700000762939455,0.01770929992198944,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7166,Tottenham,Swansea,0,0,2017-09-16 17:30:00,Son Heung-Min,Pass,646
+158894,55,BlockedShot,0.745,0.5940000152587891,0.016302499920129776,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7166,Tottenham,Swansea,0,0,2017-09-16 17:30:00,Dele Alli,Pass,646
+159939,12,SavedShot,0.8080000305175781,0.524000015258789,0.05660349875688553,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7169,West Ham,Tottenham,2,3,2017-09-23 12:30:00,Moussa Sissoko,Pass,646
+159949,59,Goal,0.845999984741211,0.4520000076293945,0.06142159923911095,Christian Eriksen,a,646,SetPiece,2017,RightFoot,7169,West Ham,Tottenham,2,3,2017-09-23 12:30:00,,None,646
+160195,66,SavedShot,0.8390000152587891,0.7190000152587891,0.06288210302591324,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7179,Huddersfield,Tottenham,0,4,2017-09-30 12:30:00,Ben Davies,TakeOn,646
+161740,46,Goal,0.8619999694824219,0.4470000076293945,0.07255429774522781,Christian Eriksen,h,646,OpenPlay,2017,LeftFoot,7197,Tottenham,Bournemouth,1,0,2017-10-14 15:00:00,,None,646
+161745,63,BlockedShot,0.774000015258789,0.30700000762939456,0.020174099132418633,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7197,Tottenham,Bournemouth,1,0,2017-10-14 15:00:00,Kieran Trippier,Pass,646
+161750,80,SavedShot,0.8190000152587891,0.6170000076293946,0.06463149935007095,Christian Eriksen,h,646,OpenPlay,2017,LeftFoot,7197,Tottenham,Bournemouth,1,0,2017-10-14 15:00:00,Moussa Sissoko,Pass,646
+161754,96,SavedShot,0.8240000152587891,0.5659999847412109,0.16810199618339539,Christian Eriksen,h,646,DirectFreekick,2017,RightFoot,7197,Tottenham,Bournemouth,1,0,2017-10-14 15:00:00,,Standard,646
+159654,62,MissedShots,0.8219999694824218,0.6140000152587891,0.031700499355793,Christian Eriksen,h,646,FromCorner,2017,LeftFoot,7207,Tottenham,Liverpool,4,1,2017-10-22 16:00:00,,None,646
+160083,74,MissedShots,0.7680000305175781,0.40099998474121096,0.024971000850200653,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7218,Manchester United,Tottenham,1,0,2017-10-28 12:30:00,Mousa Dembélé,Pass,646
+160088,83,BlockedShot,0.7340000152587891,0.46799999237060547,0.017609799280762672,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7218,Manchester United,Tottenham,1,0,2017-10-28 12:30:00,Mousa Dembélé,Pass,646
+161325,12,BlockedShot,0.7619999694824219,0.3120000076293945,0.014581499621272087,Christian Eriksen,h,646,OpenPlay,2017,LeftFoot,7226,Tottenham,Crystal Palace,1,0,2017-11-05 12:00:00,Serge Aurier,Pass,646
+161326,13,MissedShots,0.735,0.38599998474121094,0.015785299241542816,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7226,Tottenham,Crystal Palace,1,0,2017-11-05 12:00:00,Son Heung-Min,BallRecovery,646
+161493,32,MissedShots,0.8640000152587891,0.655,0.060740601271390915,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Ben Davies,Pass,646
+161501,62,MissedShots,0.795,0.715,0.013159699738025665,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Ben Davies,Pass,646
+161505,77,SavedShot,0.7290000152587891,0.6170000076293946,0.0118562001734972,Christian Eriksen,a,646,OpenPlay,2017,LeftFoot,7236,Arsenal,Tottenham,2,0,2017-11-18 12:30:00,Fernando Llorente,Pass,646
+161669,32,MissedShots,0.7280000305175781,0.59,0.012814399786293507,Christian Eriksen,h,646,FromCorner,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,,Aerial,646
+161674,51,BlockedShot,0.7930000305175782,0.695,0.023348700255155563,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Jan Vertonghen,Pass,646
+161680,75,BlockedShot,0.8130000305175781,0.66,0.09348669648170471,Christian Eriksen,h,646,DirectFreekick,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,,Standard,646
+161685,83,BlockedShot,0.7440000152587891,0.42700000762939455,0.017059199512004852,Christian Eriksen,h,646,OpenPlay,2017,LeftFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Kieran Trippier,Pass,646
+160934,74,MissedShots,0.9540000152587891,0.44099998474121094,0.4663960039615631,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7249,Leicester,Tottenham,2,1,2017-11-28 19:45:00,,Rebound,646
+160933,74,MissedShots,0.92,0.47,0.12480799853801727,Christian Eriksen,a,646,OpenPlay,2017,Head,7249,Leicester,Tottenham,2,1,2017-11-28 19:45:00,Son Heung-Min,Cross,646
+160801,36,SavedShot,0.7419999694824219,0.36900001525878906,0.049490999430418015,Christian Eriksen,a,646,DirectFreekick,2017,RightFoot,7264,Watford,Tottenham,1,1,2017-12-02 15:00:00,,Standard,646
+179340,27,SavedShot,0.7390000152587891,0.705999984741211,0.03879280015826225,Christian Eriksen,h,646,DirectFreekick,2017,RightFoot,7270,Tottenham,Stoke,5,1,2017-12-09 15:00:00,,Standard,646
+179354,73,Goal,0.8930000305175781,0.534000015258789,0.6124420166015625,Christian Eriksen,h,646,OpenPlay,2017,LeftFoot,7270,Tottenham,Stoke,5,1,2017-12-09 15:00:00,Son Heung-Min,Throughball,646
+179356,82,SavedShot,0.9169999694824219,0.5129999923706055,0.5681599974632263,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7270,Tottenham,Stoke,5,1,2017-12-09 15:00:00,Son Heung-Min,Pass,646
+183088,19,BlockedShot,0.8159999847412109,0.4520000076293945,0.03721249848604202,Christian Eriksen,h,646,FromCorner,2017,RightFoot,7288,Tottenham,Brighton,2,0,2017-12-13 20:00:00,,None,646
+182729,92,Goal,0.815,0.54,0.05176300182938576,Christian Eriksen,a,646,OpenPlay,2017,LeftFoot,7298,Manchester City,Tottenham,4,1,2017-12-16 17:30:00,,BallRecovery,646
+182985,48,SavedShot,0.899000015258789,0.5420000076293945,0.14094600081443787,Christian Eriksen,a,646,OpenPlay,2017,LeftFoot,7304,Burnley,Tottenham,0,3,2017-12-23 17:30:00,Son Heung-Min,Pass,646
+182996,90,BlockedShot,0.725,0.5029999923706054,0.016482800245285034,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7304,Burnley,Tottenham,0,3,2017-12-23 17:30:00,Fernando Llorente,Pass,646
+185447,3,BlockedShot,0.7680000305175781,0.585,0.02364869974553585,Christian Eriksen,h,646,OpenPlay,2017,LeftFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,,None,646
+185454,30,MissedShots,0.924000015258789,0.3220000076293945,0.08602190017700195,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7316,Tottenham,Southampton,5,2,2017-12-26 12:30:00,Mousa Dembélé,Pass,646
+186426,61,SavedShot,0.785,0.79,0.039512999355793,Christian Eriksen,a,646,DirectFreekick,2017,RightFoot,7338,Swansea,Tottenham,0,2,2018-01-02 19:45:00,,Standard,646
+186524,14,BlockedShot,0.9390000152587891,0.39,0.10245999693870544,Christian Eriksen,h,646,OpenPlay,2017,LeftFoot,7326,Tottenham,West Ham,1,1,2018-01-04 20:00:00,,Rebound,646
+186528,29,MissedShots,0.7680000305175781,0.5420000076293945,0.023061100393533707,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7326,Tottenham,West Ham,1,1,2018-01-04 20:00:00,Harry Kane,Pass,646
+186529,34,BlockedShot,0.7709999847412109,0.7240000152587891,0.01432109996676445,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7326,Tottenham,West Ham,1,1,2018-01-04 20:00:00,Ben Davies,Pass,646
+186531,44,SavedShot,0.7759999847412109,0.53,0.03280059993267059,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7326,Tottenham,West Ham,1,1,2018-01-04 20:00:00,Dele Alli,Pass,646
+186535,60,BlockedShot,0.8569999694824219,0.4779999923706055,0.07577580213546753,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7326,Tottenham,West Ham,1,1,2018-01-04 20:00:00,,None,646
+186538,65,SavedShot,0.750999984741211,0.7319999694824219,0.01282429974526167,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7326,Tottenham,West Ham,1,1,2018-01-04 20:00:00,Ben Davies,Pass,646
+186544,74,SavedShot,0.7809999847412109,0.62,0.02473440021276474,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7326,Tottenham,West Ham,1,1,2018-01-04 20:00:00,Son Heung-Min,Pass,646
+186554,93,BlockedShot,0.750999984741211,0.5629999923706055,0.01930450089275837,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7326,Tottenham,West Ham,1,1,2018-01-04 20:00:00,Dele Alli,Pass,646
+187585,80,Goal,0.855999984741211,0.5270000076293946,0.41981199383735657,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7346,Tottenham,Everton,4,0,2018-01-13 17:30:00,Dele Alli,Pass,646
+193544,0,Goal,0.9269999694824219,0.4209999847412109,0.09497109800577164,Christian Eriksen,h,646,OpenPlay,2017,LeftFoot,7367,Tottenham,Manchester United,2,0,2018-01-31 20:00:00,,None,646
+193546,9,BlockedShot,0.7380000305175781,0.5420000076293945,0.023722900077700615,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7367,Tottenham,Manchester United,2,0,2018-01-31 20:00:00,Mousa Dembélé,Pass,646
+193563,64,MissedShots,0.735999984741211,0.34700000762939454,0.016527999192476273,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7367,Tottenham,Manchester United,2,0,2018-01-31 20:00:00,Son Heung-Min,Pass,646
+193728,3,BlockedShot,0.865,0.725999984741211,0.03471459820866585,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7375,Liverpool,Tottenham,2,2,2018-02-04 16:30:00,Ben Davies,Pass,646
+194021,24,SavedShot,0.8730000305175781,0.3729999923706055,0.011799599975347519,Christian Eriksen,h,646,OpenPlay,2017,Head,7387,Tottenham,Arsenal,1,0,2018-02-10 12:30:00,Kieran Trippier,Cross,646
+194029,56,SavedShot,0.8059999847412109,0.6719999694824219,0.08166450262069702,Christian Eriksen,h,646,DirectFreekick,2017,RightFoot,7387,Tottenham,Arsenal,1,0,2018-02-10 12:30:00,,Standard,646
+197798,21,MissedShots,0.23799999237060546,0.6669999694824219,0.0057664900086820126,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7397,Crystal Palace,Tottenham,0,1,2018-02-25 00:00:00,Ben Davies,BallRecovery,646
+197802,44,BlockedShot,0.765,0.2720000076293945,0.015440599992871284,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7397,Crystal Palace,Tottenham,0,1,2018-02-25 00:00:00,Erik Lamela,Pass,646
+197804,50,MissedShots,0.87,0.4229999923706055,0.07474640011787415,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7397,Crystal Palace,Tottenham,0,1,2018-02-25 00:00:00,,None,646
+197807,58,BlockedShot,0.8519999694824218,0.47,0.06807240098714828,Christian Eriksen,a,646,OpenPlay,2017,LeftFoot,7397,Crystal Palace,Tottenham,0,1,2018-02-25 00:00:00,,Rebound,646
+197812,92,BlockedShot,0.8059999847412109,0.6930000305175781,0.07344820350408554,Christian Eriksen,a,646,DirectFreekick,2017,RightFoot,7397,Crystal Palace,Tottenham,0,1,2018-02-25 00:00:00,,Standard,646
+198893,18,BlockedShot,0.749000015258789,0.7119999694824218,0.041238900274038315,Christian Eriksen,h,646,DirectFreekick,2017,RightFoot,7407,Tottenham,Huddersfield,2,0,2018-03-03 15:00:00,,Standard,646
+198894,25,SavedShot,0.8469999694824218,0.33299999237060546,0.043137598782777786,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7407,Tottenham,Huddersfield,2,0,2018-03-03 15:00:00,Serge Aurier,TakeOn,646
+198898,39,SavedShot,0.6890000152587891,0.35900001525878905,0.014102799817919731,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7407,Tottenham,Huddersfield,2,0,2018-03-03 15:00:00,Son Heung-Min,Pass,646
+200790,44,SavedShot,0.76,0.59,0.02326500043272972,Christian Eriksen,a,646,OpenPlay,2017,LeftFoot,7410,Bournemouth,Tottenham,1,4,2018-03-11 16:00:00,Erik Lamela,Pass,646
+200792,56,SavedShot,0.730999984741211,0.485,0.016833800822496414,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7410,Bournemouth,Tottenham,1,4,2018-03-11 16:00:00,Dele Alli,Pass,646
+204096,39,SavedShot,0.715,0.46900001525878904,0.01530510000884533,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7431,Chelsea,Tottenham,1,3,2018-04-01 16:00:00,Erik Lamela,Pass,646
+204099,44,BlockedShot,0.7880000305175782,0.40400001525878904,0.028184300288558006,Christian Eriksen,a,646,OpenPlay,2017,LeftFoot,7431,Chelsea,Tottenham,1,3,2018-04-01 16:00:00,Son Heung-Min,Pass,646
+204100,45,Goal,0.740999984741211,0.6819999694824219,0.01565149985253811,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7431,Chelsea,Tottenham,1,3,2018-04-01 16:00:00,Ben Davies,Pass,646
+207047,12,MissedShots,0.8690000152587891,0.2610000038146973,0.029119400307536125,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7446,Stoke,Tottenham,1,2,2018-04-07 14:00:00,,None,646
+207048,19,MissedShots,0.875999984741211,0.8469999694824218,0.04702819883823395,Christian Eriksen,a,646,DirectFreekick,2017,RightFoot,7446,Stoke,Tottenham,1,2,2018-04-07 14:00:00,,Standard,646
+207050,26,BlockedShot,0.769000015258789,0.4640000152587891,0.028845399618148804,Christian Eriksen,a,646,OpenPlay,2017,LeftFoot,7446,Stoke,Tottenham,1,2,2018-04-07 14:00:00,Mousa Dembélé,Pass,646
+207053,51,Goal,0.9030000305175782,0.4209999847412109,0.3835340142250061,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7446,Stoke,Tottenham,1,2,2018-04-07 14:00:00,Dele Alli,Pass,646
+207058,73,BlockedShot,0.915,0.8,0.07015080004930496,Christian Eriksen,a,646,DirectFreekick,2017,RightFoot,7446,Stoke,Tottenham,1,2,2018-04-07 14:00:00,,Standard,646
+208834,41,Goal,0.91,0.5670000076293945,0.11106199771165848,Christian Eriksen,h,646,OpenPlay,2017,LeftFoot,7457,Tottenham,Manchester City,1,3,2018-04-14 18:45:00,,Rebound,646
+208833,41,BlockedShot,0.905,0.6,0.10935600101947784,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7457,Tottenham,Manchester City,1,3,2018-04-14 18:45:00,Harry Kane,Throughball,646
+208845,86,SavedShot,0.865,0.5329999923706055,0.07616019994020462,Christian Eriksen,h,646,OpenPlay,2017,LeftFoot,7457,Tottenham,Manchester City,1,3,2018-04-14 18:45:00,,BallTouch,646
+209522,11,BlockedShot,0.8109999847412109,0.4929999923706055,0.15359699726104736,Christian Eriksen,a,646,DirectFreekick,2017,RightFoot,7462,Brighton,Tottenham,1,1,2018-04-17 18:45:00,,Standard,646
+209537,57,BlockedShot,0.735999984741211,0.565,0.05291159823536873,Christian Eriksen,a,646,DirectFreekick,2017,RightFoot,7462,Brighton,Tottenham,1,1,2018-04-17 18:45:00,,Standard,646
+209540,71,BlockedShot,0.749000015258789,0.4,0.018154900521039963,Christian Eriksen,a,646,OpenPlay,2017,LeftFoot,7462,Brighton,Tottenham,1,1,2018-04-17 18:45:00,Serge Aurier,Pass,646
+212806,30,MissedShots,0.7119999694824218,0.5709999847412109,0.017771899700164795,Christian Eriksen,h,646,OpenPlay,2017,RightFoot,7477,Tottenham,Watford,2,0,2018-04-30 19:00:00,,BallRecovery,646
+213335,18,MissedShots,0.7619999694824219,0.32599998474121095,0.01291900034993887,Christian Eriksen,a,646,OpenPlay,2017,LeftFoot,7483,West Bromwich Albion,Tottenham,1,0,2018-05-05 15:00:00,Kieran Trippier,TakeOn,646
+213340,38,BlockedShot,0.764000015258789,0.39799999237060546,0.0673179030418396,Christian Eriksen,a,646,DirectFreekick,2017,RightFoot,7483,West Bromwich Albion,Tottenham,1,0,2018-05-05 15:00:00,,Standard,646
+213345,50,BlockedShot,0.8009999847412109,0.3120000076293945,0.02009960077702999,Christian Eriksen,a,646,OpenPlay,2017,RightFoot,7483,West Bromwich Albion,Tottenham,1,0,2018-05-05 15:00:00,Kieran Trippier,Pass,646
+213349,61,SavedShot,0.7069999694824218,0.5059999847412109,0.040646400302648544,Christian Eriksen,a,646,DirectFreekick,2017,RightFoot,7483,West Bromwich Albion,Tottenham,1,0,2018-05-05 15:00:00,,Standard,646
+214361,9,SavedShot,0.7909999847412109,0.28200000762939453,0.057169001549482346,Christian Eriksen,h,646,DirectFreekick,2017,RightFoot,7427,Tottenham,Newcastle United,1,0,2018-05-09 20:00:00,,Standard,646
+215614,46,BlockedShot,0.8580000305175781,0.6430000305175781,0.06956080347299576,Christian Eriksen,h,646,OpenPlay,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,,TakeOn,646
+215624,70,MissedShots,0.7780000305175782,0.3029999923706055,0.020066499710083008,Christian Eriksen,h,646,FromCorner,2017,LeftFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Lucas Moura,Pass,646
+232836,7,MissedShots,0.72,0.67,0.010889999568462372,Christian Eriksen,a,646,OpenPlay,2018,LeftFoot,9198,Newcastle United,Tottenham,1,2,2018-08-11 14:30:00,,None,646
+232859,80,SavedShot,0.6719999694824219,0.549000015258789,0.029902499169111252,Christian Eriksen,a,646,DirectFreekick,2018,RightFoot,9198,Newcastle United,Tottenham,1,2,2018-08-11 14:30:00,,Standard,646
+233146,22,MissedShots,0.7819999694824219,0.49700000762939456,0.03799770027399063,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9209,Tottenham,Fulham,3,1,2018-08-18 17:00:00,,Dispossessed,646
+233147,24,MissedShots,0.9409999847412109,0.265,0.040435101836919785,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9209,Tottenham,Fulham,3,1,2018-08-18 17:00:00,Kieran Trippier,Pass,646
+233150,33,SavedShot,0.7290000152587891,0.27399999618530274,0.033958498388528824,Christian Eriksen,h,646,DirectFreekick,2018,RightFoot,9209,Tottenham,Fulham,3,1,2018-08-18 17:00:00,,Standard,646
+233155,40,MissedShots,0.875,0.34,0.0474587008357048,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9209,Tottenham,Fulham,3,1,2018-08-18 17:00:00,,Rebound,646
+233166,68,BlockedShot,0.8830000305175781,0.595999984741211,0.10666199773550034,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9209,Tottenham,Fulham,3,1,2018-08-18 17:00:00,Harry Kane,Pass,646
+233351,39,SavedShot,0.8380000305175781,0.5459999847412109,0.06694679707288742,Christian Eriksen,a,646,OpenPlay,2018,LeftFoot,9226,Manchester United,Tottenham,0,3,2018-08-27 22:00:00,Lucas Moura,Pass,646
+233369,81,MissedShots,0.7340000152587891,0.345,0.021501200273633003,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9226,Manchester United,Tottenham,0,3,2018-08-27 22:00:00,,TakeOn,646
+233700,47,MissedShots,0.715,0.515,0.012333099730312824,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9236,Watford,Tottenham,2,1,2018-09-02 15:00:00,Lucas Moura,LayOff,646
+233701,50,SavedShot,0.7619999694824219,0.7130000305175781,0.015148700214922428,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9236,Watford,Tottenham,2,1,2018-09-02 15:00:00,Ben Davies,BallRecovery,646
+233703,55,BlockedShot,0.7469999694824219,0.43599998474121093,0.02513130009174347,Christian Eriksen,a,646,OpenPlay,2018,LeftFoot,9236,Watford,Tottenham,2,1,2018-09-02 15:00:00,Lucas Moura,Pass,646
+233709,82,SavedShot,0.7230000305175781,0.5029999923706054,0.017506400123238564,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9236,Watford,Tottenham,2,1,2018-09-02 15:00:00,Dele Alli,Pass,646
+233917,28,SavedShot,0.7930000305175782,0.3370000076293945,0.07464879751205444,Christian Eriksen,h,646,DirectFreekick,2018,RightFoot,9237,Tottenham,Liverpool,1,2,2018-09-15 11:30:00,,Standard,646
+233929,66,MissedShots,0.9019999694824219,0.295,0.034177299588918686,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9237,Tottenham,Liverpool,1,2,2018-09-15 11:30:00,,None,646
+234024,16,BlockedShot,0.7959999847412109,0.31799999237060544,0.02676120027899742,Christian Eriksen,a,646,OpenPlay,2018,LeftFoot,9254,Brighton,Tottenham,1,2,2018-09-22 16:30:00,Harry Kane,Pass,646
+234030,52,MissedShots,0.8090000152587891,0.6859999847412109,0.03589800000190735,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9254,Brighton,Tottenham,1,2,2018-09-22 16:30:00,Lucas Moura,Pass,646
+234031,54,MissedShots,0.8519999694824218,0.5709999847412109,0.05612710118293762,Christian Eriksen,a,646,FromCorner,2018,RightFoot,9254,Brighton,Tottenham,1,2,2018-09-22 16:30:00,,None,646
+250733,86,BlockedShot,0.750999984741211,0.7130000305175781,0.011471100151538849,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9336,Arsenal,Tottenham,4,2,2018-12-02 14:05:00,Harry Winks,Pass,646
+250734,96,BlockedShot,0.88,0.6680000305175782,0.06122719869017601,Christian Eriksen,a,646,OpenPlay,2018,LeftFoot,9336,Arsenal,Tottenham,4,2,2018-12-02 14:05:00,Danny Rose,Pass,646
+250984,39,SavedShot,0.7919999694824219,0.735,0.021806500852108,Christian Eriksen,h,646,OpenPlay,2018,LeftFoot,9346,Tottenham,Southampton,3,1,2018-12-05 20:00:00,Son Heung-Min,Pass,646
+250986,50,SavedShot,0.77,0.2560000038146973,0.04318289831280708,Christian Eriksen,h,646,DirectFreekick,2018,RightFoot,9346,Tottenham,Southampton,3,1,2018-12-05 20:00:00,,Standard,646
+251332,90,Goal,0.9169999694824219,0.6079999923706054,0.3828909993171692,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9359,Tottenham,Burnley,1,0,2018-12-15 15:00:00,Harry Kane,Pass,646
+251710,47,Goal,0.7619999694824219,0.4620000076293945,0.02543959952890873,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9372,Everton,Tottenham,2,6,2018-12-23 16:00:00,,None,646
+251718,87,MissedShots,0.7240000152587891,0.30100000381469727,0.035231199115514755,Christian Eriksen,a,646,DirectFreekick,2018,RightFoot,9372,Everton,Tottenham,2,6,2018-12-23 16:00:00,,Standard,646
+251749,15,Goal,0.764000015258789,0.3820000076293945,0.018981799483299255,Christian Eriksen,h,646,OpenPlay,2018,LeftFoot,9378,Tottenham,Bournemouth,5,0,2018-12-26 15:00:00,Kyle Walker-Peters,Pass,646
+263564,18,SavedShot,0.7380000305175781,0.5129999923706055,0.016443399712443352,Christian Eriksen,h,646,OpenPlay,2018,LeftFoot,9388,Tottenham,Wolverhampton Wanderers,1,3,2018-12-29 15:00:00,Dele Alli,Pass,646
+263565,19,BlockedShot,0.8859999847412109,0.7280000305175781,0.037911199033260345,Christian Eriksen,h,646,FromCorner,2018,RightFoot,9388,Tottenham,Wolverhampton Wanderers,1,3,2018-12-29 15:00:00,Son Heung-Min,Pass,646
+274168,11,Goal,0.8230000305175781,0.55,0.0793934017419815,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9404,Cardiff,Tottenham,0,3,2019-01-01 17:30:00,Son Heung-Min,Pass,646
+274566,28,BlockedShot,0.8069999694824219,0.5059999847412109,0.05375659838318825,Christian Eriksen,h,646,OpenPlay,2018,LeftFoot,9408,Tottenham,Manchester United,0,1,2019-01-13 16:30:00,Son Heung-Min,Pass,646
+274580,64,SavedShot,0.7140000152587891,0.45099998474121095,0.011256299912929535,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9408,Tottenham,Manchester United,0,1,2019-01-13 16:30:00,Harry Kane,TakeOn,646
+274582,66,MissedShots,0.740999984741211,0.46599998474121096,0.057807400822639465,Christian Eriksen,h,646,DirectFreekick,2018,RightFoot,9408,Tottenham,Manchester United,0,1,2019-01-13 16:30:00,,Standard,646
+274832,5,MissedShots,0.765,0.6580000305175782,0.02085839956998825,Christian Eriksen,a,646,OpenPlay,2018,LeftFoot,9424,Fulham,Tottenham,1,2,2019-01-20 16:00:00,Erik Lamela,Pass,646
+274833,6,BlockedShot,0.8390000152587891,0.295,0.030933700501918793,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9424,Fulham,Tottenham,1,2,2019-01-20 16:00:00,Kieran Trippier,Pass,646
+274849,54,BlockedShot,0.865,0.43900001525878907,0.04043859988451004,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9424,Fulham,Tottenham,1,2,2019-01-20 16:00:00,,Aerial,646
+275080,7,BlockedShot,0.7580000305175781,0.6120000076293945,0.019885500892996788,Christian Eriksen,h,646,OpenPlay,2018,LeftFoot,9435,Tottenham,Watford,2,1,2019-01-30 20:00:00,Fernando Llorente,Pass,646
+275082,14,MissedShots,0.81,0.46,0.05568410083651543,Christian Eriksen,h,646,OpenPlay,2018,LeftFoot,9435,Tottenham,Watford,2,1,2019-01-30 20:00:00,Moussa Sissoko,Pass,646
+275098,74,BlockedShot,0.730999984741211,0.3890000152587891,0.04640290141105652,Christian Eriksen,h,646,DirectFreekick,2018,RightFoot,9435,Tottenham,Watford,2,1,2019-01-30 20:00:00,,Standard,646
+275123,19,BlockedShot,0.7390000152587891,0.36,0.015469999983906746,Christian Eriksen,h,646,OpenPlay,2018,LeftFoot,9438,Tottenham,Newcastle United,1,0,2019-02-02 12:30:00,Kieran Trippier,TakeOn,646
+275136,64,BlockedShot,0.9840000152587891,0.55,0.6151670217514038,Christian Eriksen,h,646,FromCorner,2018,LeftFoot,9438,Tottenham,Newcastle United,1,0,2019-02-02 12:30:00,Son Heung-Min,HeadPass,646
+275145,80,BlockedShot,0.945,0.5220000076293946,0.5788620114326477,Christian Eriksen,h,646,FromCorner,2018,LeftFoot,9438,Tottenham,Newcastle United,1,0,2019-02-02 12:30:00,Fernando Llorente,Rebound,646
+275589,56,SavedShot,0.8180000305175781,0.28899999618530275,0.03609760105609894,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9452,Tottenham,Leicester,3,1,2019-02-10 13:30:00,,None,646
+275591,62,Goal,0.8009999847412109,0.5590000152587891,0.04828520119190216,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9452,Tottenham,Leicester,3,1,2019-02-10 13:30:00,Fernando Llorente,Pass,646
+275718,31,BlockedShot,0.799000015258789,0.5570000076293945,0.04611850157380104,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9464,Burnley,Tottenham,2,1,2019-02-23 12:30:00,Harry Kane,Pass,646
+275719,32,SavedShot,0.8009999847412109,0.47,0.04795030131936073,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9464,Burnley,Tottenham,2,1,2019-02-23 12:30:00,Moussa Sissoko,Pass,646
+275739,89,MissedShots,0.81,0.48700000762939455,0.04425889998674393,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9464,Burnley,Tottenham,2,1,2019-02-23 12:30:00,,None,646
+276078,58,MissedShots,0.7519999694824219,0.32599998474121095,0.01799670048058033,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9474,Chelsea,Tottenham,2,0,2019-02-27 20:00:00,Harry Kane,Pass,646
+276117,30,MissedShots,0.875,0.705,0.04744569957256317,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9480,Tottenham,Arsenal,1,1,2019-03-02 12:30:00,Danny Rose,Pass,646
+276121,43,SavedShot,0.919000015258789,0.48,0.4973059892654419,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9480,Tottenham,Arsenal,1,1,2019-03-02 12:30:00,,None,646
+276124,45,BlockedShot,0.730999984741211,0.48200000762939454,0.016891099512577057,Christian Eriksen,h,646,OpenPlay,2018,LeftFoot,9480,Tottenham,Arsenal,1,1,2019-03-02 12:30:00,Kieran Trippier,Pass,646
+284509,22,ShotOnPost,0.759000015258789,0.6680000305175782,0.052385199815034866,Christian Eriksen,a,646,DirectFreekick,2018,RightFoot,9487,Southampton,Tottenham,2,1,2019-03-09 15:00:00,,Standard,646
+284517,43,SavedShot,0.750999984741211,0.7,0.016238300129771233,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9487,Southampton,Tottenham,2,1,2019-03-09 15:00:00,Danny Rose,Pass,646
+284525,61,SavedShot,0.7219999694824218,0.49400001525878906,0.02219020016491413,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9487,Southampton,Tottenham,2,1,2019-03-09 15:00:00,Harry Kane,Pass,646
+288243,46,MissedShots,0.769000015258789,0.3089999961853027,0.020083799958229065,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,Moussa Sissoko,Pass,646
+288247,55,BlockedShot,0.8780000305175781,0.46299999237060546,0.08111239969730377,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,,Rebound,646
+291336,9,MissedShots,0.8269999694824218,0.5,0.07694309949874878,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9500,Tottenham,Crystal Palace,2,0,2019-04-03 19:45:00,Son Heung-Min,Pass,646
+291337,10,BlockedShot,0.8180000305175781,0.524000015258789,0.053196199238300323,Christian Eriksen,h,646,OpenPlay,2018,LeftFoot,9500,Tottenham,Crystal Palace,2,0,2019-04-03 19:45:00,,None,646
+291338,16,SavedShot,0.8780000305175781,0.3729999923706055,0.08622089773416519,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9500,Tottenham,Crystal Palace,2,0,2019-04-03 19:45:00,Kieran Trippier,Pass,646
+291340,23,MissedShots,0.705,0.735999984741211,0.009868049994111061,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9500,Tottenham,Crystal Palace,2,0,2019-04-03 19:45:00,Danny Rose,Pass,646
+291355,59,BlockedShot,0.8130000305175781,0.475,0.07735180109739304,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9500,Tottenham,Crystal Palace,2,0,2019-04-03 19:45:00,Moussa Sissoko,Pass,646
+291358,79,Goal,0.9269999694824219,0.6020000076293945,0.14082999527454376,Christian Eriksen,h,646,OpenPlay,2018,LeftFoot,9500,Tottenham,Crystal Palace,2,0,2019-04-03 19:45:00,,TakeOn,646
+293353,2,BlockedShot,0.7869999694824219,0.5520000076293945,0.10101400315761566,Christian Eriksen,h,646,DirectFreekick,2018,RightFoot,9528,Tottenham,Huddersfield,4,0,2019-04-13 12:30:00,,Standard,646
+293364,49,BlockedShot,0.7140000152587891,0.5070000076293946,0.010251699946820736,Christian Eriksen,h,646,SetPiece,2018,RightFoot,9528,Tottenham,Huddersfield,4,0,2019-04-13 12:30:00,,None,646
+293373,72,MissedShots,0.8669999694824219,0.32099998474121094,0.03265279904007912,Christian Eriksen,h,646,FromCorner,2018,LeftFoot,9528,Tottenham,Huddersfield,4,0,2019-04-13 12:30:00,Kyle Walker-Peters,Pass,646
+293378,80,BlockedShot,0.925,0.655,0.10515899956226349,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9528,Tottenham,Huddersfield,4,0,2019-04-13 12:30:00,,Rebound,646
+293377,80,BlockedShot,0.865,0.6329999923706054,0.11485400050878525,Christian Eriksen,h,646,OpenPlay,2018,LeftFoot,9528,Tottenham,Huddersfield,4,0,2019-04-13 12:30:00,Kyle Walker-Peters,Pass,646
+294906,13,SavedShot,0.899000015258789,0.35900001525878905,0.07890690118074417,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9540,Manchester City,Tottenham,1,0,2019-04-20 12:30:00,Lucas Moura,Pass,646
+294926,79,BlockedShot,0.7530000305175781,0.6840000152587891,0.010054299607872963,Christian Eriksen,a,646,OpenPlay,2018,LeftFoot,9540,Manchester City,Tottenham,1,0,2019-04-20 12:30:00,,Aerial,646
+296526,8,MissedShots,0.725,0.3529999923706055,0.013513799756765366,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9519,Tottenham,Brighton,1,0,2019-04-23 19:45:00,Lucas Moura,Pass,646
+296529,17,BlockedShot,0.7069999694824218,0.6120000076293945,0.013793299905955791,Christian Eriksen,h,646,OpenPlay,2018,LeftFoot,9519,Tottenham,Brighton,1,0,2019-04-23 19:45:00,Kieran Trippier,Pass,646
+296530,18,BlockedShot,0.8880000305175781,0.8419999694824218,0.05040530115365982,Christian Eriksen,h,646,DirectFreekick,2018,RightFoot,9519,Tottenham,Brighton,1,0,2019-04-23 19:45:00,,Standard,646
+296535,29,MissedShots,0.7930000305175782,0.725999984741211,0.016947099938988686,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9519,Tottenham,Brighton,1,0,2019-04-23 19:45:00,Lucas Moura,Pass,646
+296541,49,MissedShots,0.7240000152587891,0.35400001525878905,0.014069899916648865,Christian Eriksen,h,646,OpenPlay,2018,LeftFoot,9519,Tottenham,Brighton,1,0,2019-04-23 19:45:00,Son Heung-Min,Pass,646
+296555,81,SavedShot,0.735999984741211,0.325,0.017434699460864067,Christian Eriksen,h,646,OpenPlay,2018,LeftFoot,9519,Tottenham,Brighton,1,0,2019-04-23 19:45:00,Toby Alderweireld,Pass,646
+296557,87,Goal,0.740999984741211,0.40400001525878904,0.02006619982421398,Christian Eriksen,h,646,OpenPlay,2018,LeftFoot,9519,Tottenham,Brighton,1,0,2019-04-23 19:45:00,Dele Alli,Pass,646
+297192,35,SavedShot,0.9540000152587891,0.3820000076293945,0.3528220057487488,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9548,Tottenham,West Ham,0,1,2019-04-27 12:30:00,Son Heung-Min,Pass,646
+297199,59,BlockedShot,0.765,0.6459999847412109,0.05980439856648445,Christian Eriksen,h,646,DirectFreekick,2018,RightFoot,9548,Tottenham,West Ham,0,1,2019-04-27 12:30:00,,Standard,646
+299096,27,BlockedShot,0.6940000152587891,0.5129999923706055,0.015168599784374237,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9565,Bournemouth,Tottenham,1,0,2019-05-04 11:30:00,Danny Rose,Pass,646
+299100,33,BlockedShot,0.8630000305175781,0.375,0.05936099961400032,Christian Eriksen,a,646,OpenPlay,2018,RightFoot,9565,Bournemouth,Tottenham,1,0,2019-05-04 11:30:00,,None,646
+299102,39,SavedShot,0.74,0.5509999847412109,0.019171500578522682,Christian Eriksen,a,646,OpenPlay,2018,LeftFoot,9565,Bournemouth,Tottenham,1,0,2019-05-04 11:30:00,Dele Alli,Pass,646
+301448,53,BlockedShot,0.7919999694824219,0.7119999694824218,0.027642499655485153,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9568,Tottenham,Everton,2,2,2019-05-12 14:00:00,Lucas Moura,Pass,646
+301451,62,MissedShots,0.8280000305175781,0.3160000038146973,0.04734019935131073,Christian Eriksen,h,646,OpenPlay,2018,RightFoot,9568,Tottenham,Everton,2,2,2019-05-12 14:00:00,,None,646
+301457,74,Goal,0.784000015258789,0.664000015258789,0.06786079704761505,Christian Eriksen,h,646,DirectFreekick,2018,RightFoot,9568,Tottenham,Everton,2,2,2019-05-12 14:00:00,,Standard,646
+310053,68,MissedShots,0.8230000305175781,0.5420000076293945,0.056019701063632965,Christian Eriksen,h,646,OpenPlay,2019,RightFoot,11649,Tottenham,Aston Villa,3,1,2019-08-10 17:30:00,Harry Kane,Pass,646
+310054,71,BlockedShot,0.740999984741211,0.40200000762939453,0.017339300364255905,Christian Eriksen,h,646,OpenPlay,2019,LeftFoot,11649,Tottenham,Aston Villa,3,1,2019-08-10 17:30:00,Kyle Walker-Peters,Pass,646
+310059,77,SavedShot,0.7919999694824219,0.45799999237060546,0.11053299903869629,Christian Eriksen,h,646,DirectFreekick,2019,RightFoot,11649,Tottenham,Aston Villa,3,1,2019-08-10 17:30:00,,Standard,646
+313126,69,BlockedShot,0.7169999694824218,0.575,0.015433600172400475,Christian Eriksen,h,646,OpenPlay,2019,RightFoot,11672,Tottenham,Newcastle United,0,1,2019-08-25 16:30:00,Son Heung-Min,Pass,646
+313133,90,BlockedShot,0.7659999847412109,0.285,0.015871400013566017,Christian Eriksen,h,646,OpenPlay,2019,LeftFoot,11672,Tottenham,Newcastle United,0,1,2019-08-25 16:30:00,Giovani Lo Celso,Pass,646
+316403,9,Goal,0.965,0.549000015258789,0.6370769739151001,Christian Eriksen,a,646,OpenPlay,2019,LeftFoot,11682,Arsenal,Tottenham,2,2,2019-09-01 16:30:00,,Rebound,646
+316404,14,SavedShot,0.7380000305175781,0.580999984741211,0.02563280053436756,Christian Eriksen,a,646,OpenPlay,2019,RightFoot,11682,Arsenal,Tottenham,2,2,2019-09-01 16:30:00,Harry Winks,Pass,646
+316410,37,SavedShot,0.7219999694824218,0.38,0.04174429923295975,Christian Eriksen,a,646,DirectFreekick,2019,RightFoot,11682,Arsenal,Tottenham,2,2,2019-09-01 16:30:00,,Standard,646
+316424,59,SavedShot,0.8109999847412109,0.24100000381469727,0.01758820004761219,Christian Eriksen,a,646,FromCorner,2019,LeftFoot,11682,Arsenal,Tottenham,2,2,2019-09-01 16:30:00,Son Heung-Min,Pass,646
+317376,91,MissedShots,0.764000015258789,0.6909999847412109,0.05056620016694069,Christian Eriksen,h,646,DirectFreekick,2019,RightFoot,11687,Tottenham,Crystal Palace,4,0,2019-09-14 14:00:00,,Standard,646
+322687,37,MissedShots,0.8240000152587891,0.6140000152587891,0.06190450116991997,Christian Eriksen,h,646,OpenPlay,2019,LeftFoot,11704,Tottenham,Southampton,2,1,2019-09-28 14:00:00,Son Heung-Min,Pass,646
+323891,25,SavedShot,0.71,0.415,0.014632100239396095,Christian Eriksen,a,646,OpenPlay,2019,RightFoot,11713,Brighton,Tottenham,3,0,2019-10-05 12:30:00,Eric Dier,Pass,646
+323903,57,BlockedShot,0.7280000305175781,0.4420000076293945,0.04896150156855583,Christian Eriksen,a,646,DirectFreekick,2019,RightFoot,11713,Brighton,Tottenham,3,0,2019-10-05 12:30:00,,Standard,646
+323907,67,MissedShots,0.7709999847412109,0.49400001525878906,0.01523240003734827,Christian Eriksen,a,646,FromCorner,2019,LeftFoot,11713,Brighton,Tottenham,3,0,2019-10-05 12:30:00,,Aerial,646
+328007,23,MissedShots,0.9009999847412109,0.2989999961853027,0.06388039886951447,Christian Eriksen,a,646,OpenPlay,2019,RightFoot,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,,None,646
+339349,54,BlockedShot,0.745999984741211,0.33599998474121096,0.010259199887514114,Christian Eriksen,h,646,OpenPlay,2019,LeftFoot,11820,Tottenham,Chelsea,0,2,2019-12-22 16:30:00,Serge Aurier,Pass,646
+339353,86,BlockedShot,0.845999984741211,0.8059999847412109,0.05214089900255203,Christian Eriksen,h,646,DirectFreekick,2019,RightFoot,11820,Tottenham,Chelsea,0,2,2019-12-22 16:30:00,,Standard,646
+339501,92,BlockedShot,0.8719999694824219,0.47200000762939454,0.1207209974527359,Christian Eriksen,h,646,OpenPlay,2019,LeftFoot,11831,Tottenham,Brighton,2,1,2019-12-26 12:30:00,Moussa Sissoko,Pass,646
+339836,5,BlockedShot,0.7480000305175781,0.6880000305175781,0.01574609987437725,Christian Eriksen,a,646,OpenPlay,2019,RightFoot,11839,Norwich,Tottenham,2,2,2019-12-28 17:30:00,Harry Kane,Pass,646
+339847,54,Goal,0.799000015258789,0.5420000076293945,0.12270499765872955,Christian Eriksen,a,646,DirectFreekick,2019,RightFoot,11839,Norwich,Tottenham,2,2,2019-12-28 17:30:00,,Standard,646
+339848,57,BlockedShot,0.81,0.5990000152587891,0.04561090096831322,Christian Eriksen,a,646,OpenPlay,2019,LeftFoot,11839,Norwich,Tottenham,2,2,2019-12-28 17:30:00,Lucas Moura,Pass,646
+339852,72,SavedShot,0.7530000305175781,0.6719999694824219,0.0164388008415699,Christian Eriksen,a,646,OpenPlay,2019,RightFoot,11839,Norwich,Tottenham,2,2,2019-12-28 17:30:00,Ryan Sessegnon,Pass,646
+351484,19,BlockedShot,0.7530000305175781,0.7330000305175781,0.039561301469802856,Christian Eriksen,a,646,DirectFreekick,2019,RightFoot,11851,Southampton,Tottenham,1,0,2020-01-01 15:00:00,,Standard,646
+351776,20,SavedShot,0.759000015258789,0.539000015258789,0.024260900914669037,Christian Eriksen,h,646,OpenPlay,2019,LeftFoot,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Lucas Moura,Pass,646
+351877,72,BlockedShot,0.735999984741211,0.375,0.013444599695503712,Christian Eriksen,a,646,OpenPlay,2019,RightFoot,11871,Watford,Tottenham,0,0,2020-01-18 12:30:00,Son Heung-Min,LayOff,646
+352294,90,MissedShots,0.8530000305175781,0.53,0.11112599819898605,Christian Eriksen,h,646,OpenPlay,2019,LeftFoot,11880,Tottenham,Norwich,2,1,2020-01-22 19:30:00,Lucas Moura,Pass,646
+357383,6,SavedShot,0.8080000305175781,0.5370000076293945,0.05412749946117401,Christian Eriksen,a,646,OpenPlay,2019,LeftFoot,13308,Udinese,Inter,0,2,2020-02-02 19:45:00,Matías Vecino,Pass,646
+357396,44,BlockedShot,0.8569999694824219,0.3110000038146973,0.05876139923930168,Christian Eriksen,a,646,OpenPlay,2019,RightFoot,13308,Udinese,Inter,0,2,2020-02-02 19:45:00,,TakeOn,646
+358668,79,ShotOnPost,0.6890000152587891,0.6969999694824218,0.028263600543141365,Christian Eriksen,h,646,DirectFreekick,2019,RightFoot,13312,Inter,AC Milan,4,2,2020-02-09 19:45:00,,Standard,646
+359551,77,SavedShot,0.79,0.4109999847412109,0.03689450025558472,Christian Eriksen,a,646,OpenPlay,2019,RightFoot,13323,Lazio,Inter,2,1,2020-02-16 19:45:00,Milan Skriniar,Pass,646
+362385,77,MissedShots,0.8590000152587891,0.3240000152587891,0.03734999895095825,Christian Eriksen,a,646,OpenPlay,2019,RightFoot,13340,Juventus,Inter,2,0,2020-03-08 19:45:00,Matías Vecino,Pass,646
+365883,5,SavedShot,0.8030000305175782,0.6419999694824219,0.03397129848599434,Christian Eriksen,h,646,OpenPlay,2019,RightFoot,13334,Inter,Sampdoria,2,1,2020-06-21 19:45:00,Ashley Young,Pass,646
+365885,7,BlockedShot,0.8530000305175781,0.625999984741211,0.04513879865407944,Christian Eriksen,h,646,SetPiece,2019,LeftFoot,13334,Inter,Sampdoria,2,1,2020-06-21 19:45:00,,Rebound,646
+365896,45,BlockedShot,0.8069999694824219,0.46299999237060546,0.07094799727201462,Christian Eriksen,h,646,OpenPlay,2019,RightFoot,13334,Inter,Sampdoria,2,1,2020-06-21 19:45:00,Lautaro Martínez,Pass,646
+365898,49,SavedShot,0.8390000152587891,0.4329999923706055,0.07007289677858353,Christian Eriksen,h,646,OpenPlay,2019,LeftFoot,13334,Inter,Sampdoria,2,1,2020-06-21 19:45:00,,None,646
+365902,75,BlockedShot,0.7959999847412109,0.6270000076293946,0.035978399217128754,Christian Eriksen,h,646,OpenPlay,2019,RightFoot,13334,Inter,Sampdoria,2,1,2020-06-21 19:45:00,Romelu Lukaku,Pass,646
+367555,30,BlockedShot,0.73,0.51,0.051945898681879044,Christian Eriksen,a,646,DirectFreekick,2019,RightFoot,13365,Parma Calcio 1913,Inter,1,2,2020-06-28 19:45:00,,Standard,646
+367570,61,MissedShots,0.8419999694824218,0.3920000076293945,0.05468299984931946,Christian Eriksen,a,646,OpenPlay,2019,RightFoot,13365,Parma Calcio 1913,Inter,1,2,2020-06-28 19:45:00,Antonio Candreva,Pass,646
+368055,69,MissedShots,0.8769999694824219,0.6480000305175782,0.06874849647283554,Christian Eriksen,h,646,OpenPlay,2019,LeftFoot,13378,Inter,Brescia,6,0,2020-07-01 17:30:00,,None,646
+368059,82,Goal,0.9869999694824219,0.47900001525878905,0.9716020226478577,Christian Eriksen,h,646,OpenPlay,2019,RightFoot,13378,Inter,Brescia,6,0,2020-07-01 17:30:00,,Rebound,646
+368058,82,SavedShot,0.97,0.529000015258789,0.810820996761322,Christian Eriksen,h,646,OpenPlay,2019,LeftFoot,13378,Inter,Brescia,6,0,2020-07-01 17:30:00,,Rebound,646
+371288,91,SavedShot,0.85,0.4759999847412109,0.12072499841451645,Christian Eriksen,h,646,OpenPlay,2019,RightFoot,13404,Inter,Torino,3,1,2020-07-13 19:45:00,Antonio Candreva,Pass,646
+372241,18,BlockedShot,0.8580000305175781,0.4329999923706055,0.07926589995622635,Christian Eriksen,a,646,OpenPlay,2019,LeftFoot,13412,SPAL 2013,Inter,0,4,2020-07-16 19:45:00,Lautaro Martínez,BallTouch,646
+372263,80,MissedShots,0.754000015258789,0.35200000762939454,0.03112740069627762,Christian Eriksen,a,646,OpenPlay,2019,RightFoot,13412,SPAL 2013,Inter,0,4,2020-07-16 19:45:00,Borja Valero,Pass,646
+372890,70,BlockedShot,0.69,0.5059999847412109,0.03491729870438576,Christian Eriksen,a,646,DirectFreekick,2019,RightFoot,13427,Roma,Inter,2,2,2020-07-19 19:45:00,,Standard,646
+373441,55,BlockedShot,0.735999984741211,0.5159999847412109,0.05544779822230339,Christian Eriksen,h,646,DirectFreekick,2019,RightFoot,13430,Inter,Fiorentina,0,0,2020-07-22 19:45:00,,Standard,646
+373569,12,SavedShot,0.785,0.5479999923706055,0.03400690108537674,Christian Eriksen,a,646,OpenPlay,2019,LeftFoot,13441,Genoa,Inter,0,3,2020-07-25 17:30:00,Cristiano Biraghi,Pass,646
+373573,29,MissedShots,0.879000015258789,0.5609999847412109,0.1031000018119812,Christian Eriksen,a,646,OpenPlay,2019,RightFoot,13441,Genoa,Inter,0,3,2020-07-25 17:30:00,Romelu Lukaku,Pass,646
+373577,43,BlockedShot,0.7880000305175782,0.355,0.02895439974963665,Christian Eriksen,a,646,OpenPlay,2019,RightFoot,13441,Genoa,Inter,0,3,2020-07-25 17:30:00,Romelu Lukaku,Pass,646
+374107,92,SavedShot,0.76,0.835999984741211,0.029312899336218834,Christian Eriksen,h,646,DirectFreekick,2019,RightFoot,13450,Inter,Napoli,2,0,2020-07-28 19:45:00,,Standard,646
+397356,86,SavedShot,0.825999984741211,0.47400001525878904,0.01116739958524704,Christian Eriksen,a,646,SetPiece,2020,Head,15583,Sampdoria,Inter,2,1,2021-01-06 14:00:00,,Rebound,646
+397355,86,MissedShots,0.8180000305175781,0.46,0.03951000049710274,Christian Eriksen,a,646,SetPiece,2020,RightFoot,15583,Sampdoria,Inter,2,1,2021-01-06 14:00:00,,Rebound,646
+397354,86,BlockedShot,0.7909999847412109,0.445,0.10673300176858902,Christian Eriksen,a,646,DirectFreekick,2020,RightFoot,15583,Sampdoria,Inter,2,1,2021-01-06 14:00:00,,Standard,646
+397358,95,BlockedShot,0.955999984741211,0.605999984741211,0.027208099141716957,Christian Eriksen,a,646,OpenPlay,2020,Head,15583,Sampdoria,Inter,2,1,2021-01-06 14:00:00,Lautaro Martínez,Aerial,646
+401862,47,BlockedShot,0.7569999694824219,0.415,0.024400200694799423,Christian Eriksen,h,646,OpenPlay,2020,LeftFoot,15624,Inter,Benevento,4,0,2021-01-30 19:45:00,Nicolò Barella,Pass,646
+401868,82,SavedShot,0.775,0.4179999923706055,0.023003000766038895,Christian Eriksen,h,646,FromCorner,2020,RightFoot,15624,Inter,Benevento,4,0,2021-01-30 19:45:00,Achraf Hakimi,Pass,646
+404965,31,SavedShot,0.755,0.754000015258789,0.014071299694478512,Christian Eriksen,h,646,OpenPlay,2020,RightFoot,15641,Inter,Lazio,3,1,2021-02-14 19:45:00,Ivan Perisic,Pass,646
+405935,24,BlockedShot,0.7330000305175781,0.54,0.023094799369573593,Christian Eriksen,a,646,OpenPlay,2020,LeftFoot,15648,AC Milan,Inter,0,3,2021-02-21 14:00:00,,None,646
+405951,68,MissedShots,0.764000015258789,0.625999984741211,0.02143009938299656,Christian Eriksen,a,646,OpenPlay,2020,LeftFoot,15648,AC Milan,Inter,0,3,2021-02-21 14:00:00,Lautaro Martínez,Pass,646
+407316,49,MissedShots,0.745,0.5329999923706055,0.02728099934756756,Christian Eriksen,h,646,OpenPlay,2020,LeftFoot,15660,Inter,Genoa,3,0,2021-02-28 14:00:00,Nicolò Barella,Pass,646
+407318,66,MissedShots,0.7609999847412109,0.500999984741211,0.03299370035529137,Christian Eriksen,h,646,OpenPlay,2020,RightFoot,15660,Inter,Genoa,3,0,2021-02-28 14:00:00,Lautaro Martínez,Pass,646
+410515,76,BlockedShot,0.855,0.47200000762939454,0.10418900102376938,Christian Eriksen,a,646,OpenPlay,2020,LeftFoot,15688,Torino,Inter,1,2,2021-03-14 14:00:00,Nicolò Barella,Pass,646
+412801,16,MissedShots,0.7269999694824218,0.3609999847412109,0.04219600185751915,Christian Eriksen,a,646,DirectFreekick,2020,RightFoot,15708,Bologna,Inter,0,1,2021-04-03 18:45:00,,Standard,646
+414235,9,SavedShot,0.745999984741211,0.46700000762939453,0.01945750042796135,Christian Eriksen,h,646,OpenPlay,2020,RightFoot,15718,Inter,Cagliari,1,0,2021-04-11 10:30:00,Stefano Sensi,Pass,646
+414240,36,MissedShots,0.875,0.3220000076293945,0.05568860098719597,Christian Eriksen,h,646,OpenPlay,2020,RightFoot,15718,Inter,Cagliari,1,0,2021-04-11 10:30:00,Romelu Lukaku,BallTouch,646
+414243,43,BlockedShot,0.8580000305175781,0.6659999847412109,0.04821290075778961,Christian Eriksen,h,646,OpenPlay,2020,RightFoot,15718,Inter,Cagliari,1,0,2021-04-11 10:30:00,,None,646
+414246,56,SavedShot,0.7519999694824219,0.6959999847412109,0.014525200240314007,Christian Eriksen,h,646,OpenPlay,2020,RightFoot,15718,Inter,Cagliari,1,0,2021-04-11 10:30:00,Ashley Young,Pass,646
+416122,27,BlockedShot,0.904000015258789,0.6769999694824219,0.055257398635149,Christian Eriksen,a,646,OpenPlay,2020,RightFoot,15729,Napoli,Inter,1,1,2021-04-18 18:45:00,Romelu Lukaku,None,646
+416131,54,Goal,0.8059999847412109,0.6270000076293946,0.0325855016708374,Christian Eriksen,a,646,OpenPlay,2020,LeftFoot,15729,Napoli,Inter,1,1,2021-04-18 18:45:00,,None,646
+416132,56,BlockedShot,0.8519999694824218,0.5879999923706055,0.07110559940338135,Christian Eriksen,a,646,OpenPlay,2020,RightFoot,15729,Napoli,Inter,1,1,2021-04-18 18:45:00,Romelu Lukaku,BallTouch,646
+416137,65,MissedShots,0.745999984741211,0.28100000381469725,0.03951359912753105,Christian Eriksen,a,646,DirectFreekick,2020,RightFoot,15729,Napoli,Inter,1,1,2021-04-18 18:45:00,,Standard,646
+416138,77,SavedShot,0.874000015258789,0.7659999847412109,0.01919489912688732,Christian Eriksen,a,646,OpenPlay,2020,RightFoot,15729,Napoli,Inter,1,1,2021-04-18 18:45:00,Ivan Perisic,Chipped,646
+417790,28,MissedShots,0.7090000152587891,0.6359999847412109,0.036212798207998276,Christian Eriksen,h,646,DirectFreekick,2020,RightFoot,15755,Inter,Verona,1,0,2021-04-25 13:00:00,,Standard,646
+417797,63,MissedShots,0.8109999847412109,0.49900001525878906,0.04133220016956329,Christian Eriksen,h,646,OpenPlay,2020,RightFoot,15755,Inter,Verona,1,0,2021-04-25 13:00:00,,Rebound,646
+418701,68,Goal,0.755,0.43900001525878907,0.02007870003581047,Christian Eriksen,a,646,OpenPlay,2020,RightFoot,15761,Crotone,Inter,0,2,2021-05-01 16:00:00,Romelu Lukaku,Pass,646
+422013,57,SavedShot,0.705999984741211,0.41200000762939454,0.03810200095176697,Christian Eriksen,a,646,DirectFreekick,2020,RightFoot,15790,Juventus,Inter,3,2,2021-05-15 16:00:00,,Standard,646
+423923,43,Goal,0.789000015258789,0.524000015258789,0.10866300016641617,Christian Eriksen,h,646,DirectFreekick,2020,RightFoot,15804,Inter,Udinese,5,1,2021-05-23 13:00:00,,Standard,646
+423924,47,BlockedShot,0.9,0.830999984741211,0.0560653991997242,Christian Eriksen,h,646,DirectFreekick,2020,RightFoot,15804,Inter,Udinese,5,1,2021-05-23 13:00:00,,Standard,646
+423928,52,SavedShot,0.7559999847412109,0.40599998474121096,0.027760999277234077,Christian Eriksen,h,646,OpenPlay,2020,RightFoot,15804,Inter,Udinese,5,1,2021-05-23 13:00:00,Andrea Pinamonti,BallRecovery,646
+461114,42,BlockedShot,0.7869999694824219,0.545,0.04921279847621918,Christian Eriksen,a,646,OpenPlay,2021,RightFoot,16652,Norwich,Brentford,1,3,2022-03-05 15:00:00,Sergi Canos,Pass,646
+462491,15,SavedShot,0.8119999694824219,0.5179999923706055,0.0620265007019043,Christian Eriksen,h,646,OpenPlay,2021,RightFoot,16657,Brentford,Burnley,2,0,2022-03-12 15:00:00,Sergi Canos,Pass,646
+462505,82,BlockedShot,0.7669999694824219,0.36700000762939455,0.021608300507068634,Christian Eriksen,h,646,OpenPlay,2021,RightFoot,16657,Brentford,Burnley,2,0,2022-03-12 15:00:00,Bryan Mbeumo,Pass,646
+465233,1,MissedShots,0.735999984741211,0.32599998474121095,0.041608501225709915,Christian Eriksen,a,646,DirectFreekick,2021,RightFoot,16683,Chelsea,Brentford,1,4,2022-04-02 14:00:00,,Standard,646
+465252,53,Goal,0.9159999847412109,0.5159999847412109,0.6271399855613708,Christian Eriksen,a,646,OpenPlay,2021,LeftFoot,16683,Chelsea,Brentford,1,4,2022-04-02 14:00:00,Bryan Mbeumo,Pass,646
+467154,31,SavedShot,0.8030000305175782,0.38799999237060545,0.03979849815368652,Christian Eriksen,h,646,OpenPlay,2021,RightFoot,16693,Brentford,West Ham,2,0,2022-04-10 13:00:00,Ivan Toney,Pass,646
+467158,45,SavedShot,0.8390000152587891,0.3240000152587891,0.02670150063931942,Christian Eriksen,h,646,FromCorner,2021,RightFoot,16693,Brentford,West Ham,2,0,2022-04-10 13:00:00,,None,646
+468183,8,MissedShots,0.7190000152587891,0.6509999847412109,0.013252399861812592,Christian Eriksen,a,646,OpenPlay,2021,RightFoot,16698,Watford,Brentford,1,2,2022-04-16 14:00:00,Christian Nørgaard,Pass,646
+468192,32,SavedShot,0.7369999694824219,0.5059999847412109,0.022731799632310867,Christian Eriksen,a,646,OpenPlay,2021,LeftFoot,16698,Watford,Brentford,1,2,2022-04-16 14:00:00,Ivan Toney,Pass,646
+468210,81,BlockedShot,0.710999984741211,0.3820000076293945,0.012327100150287151,Christian Eriksen,a,646,OpenPlay,2021,LeftFoot,16698,Watford,Brentford,1,2,2022-04-16 14:00:00,Mads Bech Sørensen,Pass,646
+470180,62,BlockedShot,0.740999984741211,0.34200000762939453,0.04557010158896446,Christian Eriksen,h,646,DirectFreekick,2021,RightFoot,16714,Brentford,Tottenham,0,0,2022-04-23 16:30:00,,Standard,646
+470181,64,BlockedShot,0.749000015258789,0.5170000076293946,0.02240060083568096,Christian Eriksen,h,646,OpenPlay,2021,LeftFoot,16714,Brentford,Tottenham,0,0,2022-04-23 16:30:00,Mathias Jensen,Pass,646
+470183,65,SavedShot,0.9169999694824219,0.69,0.04580799862742424,Christian Eriksen,h,646,OpenPlay,2021,RightFoot,16714,Brentford,Tottenham,0,0,2022-04-23 16:30:00,,Rebound,646
+472567,10,SavedShot,0.755,0.45799999237060546,0.0213616993278265,Christian Eriksen,a,646,OpenPlay,2021,RightFoot,16722,Manchester United,Brentford,3,0,2022-05-02 19:00:00,Bryan Mbeumo,Pass,646
+472575,54,SavedShot,0.7169999694824218,0.5520000076293945,0.04392249882221222,Christian Eriksen,a,646,DirectFreekick,2021,RightFoot,16722,Manchester United,Brentford,3,0,2022-05-02 19:00:00,,Standard,646
+472581,78,BlockedShot,0.7530000305175781,0.710999984741211,0.010487600229680538,Christian Eriksen,a,646,OpenPlay,2021,RightFoot,16722,Manchester United,Brentford,3,0,2022-05-02 19:00:00,Ivan Toney,Pass,646
+474707,9,MissedShots,0.7759999847412109,0.38,0.023419899865984917,Christian Eriksen,h,646,OpenPlay,2021,RightFoot,16734,Brentford,Southampton,3,0,2022-05-07 14:00:00,,None,646
+474722,47,MissedShots,0.735,0.4759999847412109,0.05436469987034798,Christian Eriksen,h,646,DirectFreekick,2021,RightFoot,16734,Brentford,Southampton,3,0,2022-05-07 14:00:00,,Standard,646
+476489,19,MissedShots,0.774000015258789,0.38599998474121094,0.07293339818716049,Christian Eriksen,a,646,DirectFreekick,2021,RightFoot,16744,Everton,Brentford,2,3,2022-05-15 15:30:00,,Standard,646
+476508,82,MissedShots,0.784000015258789,0.4490000152587891,0.0445358008146286,Christian Eriksen,a,646,OpenPlay,2021,RightFoot,16744,Everton,Brentford,2,3,2022-05-15 15:30:00,Christian Nørgaard,Pass,646
+476510,89,BlockedShot,0.845,0.5220000076293946,0.08437000215053558,Christian Eriksen,a,646,OpenPlay,2021,RightFoot,16744,Everton,Brentford,2,3,2022-05-15 15:30:00,,None,646
+477738,35,BlockedShot,0.8430000305175781,0.3139999961853027,0.018203800544142723,Christian Eriksen,h,646,FromCorner,2021,LeftFoot,16747,Brentford,Leeds,1,2,2022-05-22 15:00:00,Mathias Jensen,TakeOn,646
+479587,23,SavedShot,0.9159999847412109,0.7019999694824218,0.0532430000603199,Christian Eriksen,h,646,OpenPlay,2022,LeftFoot,18209,Manchester United,Brighton,1,2,2022-08-07 13:00:00,Bruno Fernandes,Pass,646
+479601,66,SavedShot,0.775,0.27,0.011520200408995152,Christian Eriksen,h,646,OpenPlay,2022,RightFoot,18209,Manchester United,Brighton,1,2,2022-08-07 13:00:00,Diogo Dalot,Pass,646
+479608,85,BlockedShot,0.779000015258789,0.3390000152587891,0.022673700004816055,Christian Eriksen,h,646,OpenPlay,2022,RightFoot,18209,Manchester United,Brighton,1,2,2022-08-07 13:00:00,Cristiano Ronaldo,Pass,646
+480513,66,SavedShot,0.915,0.5479999923706055,0.08567609637975693,Christian Eriksen,a,646,OpenPlay,2022,Head,18218,Brentford,Manchester United,4,0,2022-08-13 16:30:00,Marcus Rashford,Cross,646
+480516,80,MissedShots,0.9319999694824219,0.5579999923706055,0.37341299653053284,Christian Eriksen,a,646,OpenPlay,2022,LeftFoot,18218,Brentford,Manchester United,4,0,2022-08-13 16:30:00,,None,646
+483108,7,BlockedShot,0.81,0.7469999694824219,0.05757040157914162,Christian Eriksen,h,646,DirectFreekick,2022,RightFoot,18231,Manchester United,Liverpool,2,1,2022-08-22 19:00:00,,Standard,646
+483133,82,MissedShots,0.8069999694824219,0.37599998474121094,0.049345001578330994,Christian Eriksen,h,646,OpenPlay,2022,LeftFoot,18231,Manchester United,Liverpool,2,1,2022-08-22 19:00:00,Diogo Dalot,Pass,646
+483388,18,BlockedShot,0.9169999694824219,0.5179999923706055,0.4808819890022278,Christian Eriksen,a,646,OpenPlay,2022,RightFoot,18232,Southampton,Manchester United,0,1,2022-08-27 11:30:00,,Rebound,646
+485505,10,MissedShots,0.850999984741211,0.644000015258789,0.06351110339164734,Christian Eriksen,a,646,OpenPlay,2022,RightFoot,18251,Leicester,Manchester United,0,1,2022-09-01 19:00:00,Bruno Fernandes,Pass,646
+485509,26,SavedShot,0.74,0.355,0.017397599294781685,Christian Eriksen,a,646,OpenPlay,2022,LeftFoot,18251,Leicester,Manchester United,0,1,2022-09-01 19:00:00,Scott McTominay,Pass,646
+486679,7,MissedShots,0.9230000305175782,0.605999984741211,0.3088349997997284,Christian Eriksen,h,646,OpenPlay,2022,LeftFoot,18261,Manchester United,Arsenal,3,1,2022-09-04 15:30:00,Diogo Dalot,Cross,646
+490634,14,SavedShot,0.875,0.6519999694824219,0.05371309816837311,Christian Eriksen,a,646,OpenPlay,2022,LeftFoot,18289,Manchester City,Manchester United,6,3,2022-10-02 13:00:00,Jadon Sancho,Pass,646
+492492,7,BlockedShot,0.825999984741211,0.4540000152587891,0.06460870057344437,Christian Eriksen,a,646,OpenPlay,2022,LeftFoot,18297,Everton,Manchester United,1,2,2022-10-09 18:00:00,Antony,TakeOn,646
+492495,19,SavedShot,0.7909999847412109,0.46599998474121096,0.042554501444101334,Christian Eriksen,a,646,OpenPlay,2022,LeftFoot,18297,Everton,Manchester United,1,2,2022-10-09 18:00:00,,BallRecovery,646
+492506,73,MissedShots,0.8269999694824218,0.5990000152587891,0.05689220130443573,Christian Eriksen,a,646,OpenPlay,2022,LeftFoot,18297,Everton,Manchester United,1,2,2022-10-09 18:00:00,Cristiano Ronaldo,Pass,646
+495174,40,MissedShots,0.705,0.555,0.01506850030273199,Christian Eriksen,a,646,OpenPlay,2022,RightFoot,18323,Chelsea,Manchester United,1,1,2022-10-22 15:30:00,Antony,Pass,646
+500815,13,Goal,0.965,0.47200000762939454,0.8592079877853394,Christian Eriksen,a,646,OpenPlay,2022,RightFoot,18354,Fulham,Manchester United,1,2,2022-11-13 16:30:00,,Rebound,646
+500823,45,MissedShots,0.8719999694824219,0.544000015258789,0.09453950077295303,Christian Eriksen,a,646,OpenPlay,2022,LeftFoot,18354,Fulham,Manchester United,1,2,2022-11-13 16:30:00,Bruno Fernandes,Cross,646
+501101,14,BlockedShot,0.7669999694824219,0.55,0.02626740001142025,Christian Eriksen,h,646,OpenPlay,2022,LeftFoot,18370,Manchester United,Nottingham Forest,3,0,2022-12-27 20:00:00,Casemiro,Pass,646
+501109,55,MissedShots,0.7759999847412109,0.40200000762939453,0.02976980060338974,Christian Eriksen,h,646,OpenPlay,2022,RightFoot,18370,Manchester United,Nottingham Forest,3,0,2022-12-27 20:00:00,Bruno Fernandes,Pass,646
+502228,36,BlockedShot,0.8109999847412109,0.42200000762939455,0.13337799906730652,Christian Eriksen,h,646,DirectFreekick,2022,RightFoot,18390,Manchester United,Bournemouth,3,0,2023-01-03 20:00:00,,Standard,646
+505098,86,BlockedShot,0.8859999847412109,0.3320000076293945,0.061844900250434875,Christian Eriksen,a,646,OpenPlay,2022,RightFoot,18402,Arsenal,Manchester United,3,2,2023-01-22 16:30:00,,Dispossessed,646
+517778,85,BlockedShot,0.8469999694824218,0.3940000152587891,0.1085600033402443,Christian Eriksen,h,646,OpenPlay,2022,RightFoot,18498,Manchester United,Everton,2,0,2023-04-08 11:30:00,,TakeOn,646
+517780,89,BlockedShot,0.9,0.5690000152587891,0.07400739938020706,Christian Eriksen,h,646,FromCorner,2022,LeftFoot,18498,Manchester United,Everton,2,0,2023-04-08 11:30:00,Bruno Fernandes,Pass,646
+520191,56,BlockedShot,0.7980000305175782,0.5379999923706055,0.03561960160732269,Christian Eriksen,a,646,FromCorner,2022,RightFoot,18507,Nottingham Forest,Manchester United,0,2,2023-04-16 15:30:00,Bruno Fernandes,Pass,646
+520195,63,BlockedShot,0.9580000305175781,0.5770000076293945,0.047338299453258514,Christian Eriksen,a,646,SetPiece,2022,Head,18507,Nottingham Forest,Manchester United,0,2,2023-04-16 15:30:00,,Rebound,646
+520194,63,SavedShot,0.9540000152587891,0.5720000076293945,0.4305660128593445,Christian Eriksen,a,646,SetPiece,2022,LeftFoot,18507,Nottingham Forest,Manchester United,0,2,2023-04-16 15:30:00,Bruno Fernandes,Chipped,646
+522375,41,MissedShots,0.710999984741211,0.500999984741211,0.04230822995305061,Christian Eriksen,a,646,DirectFreekick,2022,RightFoot,18525,Tottenham,Manchester United,2,2,2023-04-27 19:15:00,,Standard,646
+523113,12,MissedShots,0.7630000305175781,0.9490000152587891,0.007188651245087385,Christian Eriksen,h,646,OpenPlay,2022,LeftFoot,18540,Manchester United,Aston Villa,1,0,2023-04-30 13:00:00,,None,646
+523120,46,BlockedShot,0.9030000305175782,0.67,0.08923032879829407,Christian Eriksen,h,646,OpenPlay,2022,LeftFoot,18540,Manchester United,Aston Villa,1,0,2023-04-30 13:00:00,Jadon Sancho,Pass,646
+523125,63,MissedShots,0.7630000305175781,0.38099998474121094,0.02362171933054924,Christian Eriksen,h,646,OpenPlay,2022,RightFoot,18540,Manchester United,Aston Villa,1,0,2023-04-30 13:00:00,Marcel Sabitzer,Pass,646
+525256,14,MissedShots,0.845,0.3629999923706055,0.05879279598593712,Christian Eriksen,a,646,OpenPlay,2022,RightFoot,18550,West Ham,Manchester United,1,0,2023-05-07 18:00:00,Antony,Pass,646
+525267,46,SavedShot,0.9,0.649000015258789,0.07413040846586227,Christian Eriksen,a,646,OpenPlay,2022,LeftFoot,18550,West Ham,Manchester United,1,0,2023-05-07 18:00:00,Casemiro,Pass,646
+526018,6,MissedShots,0.7369999694824219,0.5570000076293945,0.019169460982084274,Christian Eriksen,h,646,OpenPlay,2022,LeftFoot,18560,Manchester United,Wolverhampton Wanderers,2,0,2023-05-13 14:00:00,Casemiro,Pass,646
+526024,26,MissedShots,0.749000015258789,0.5420000076293945,0.022052638232707977,Christian Eriksen,h,646,OpenPlay,2022,RightFoot,18560,Manchester United,Wolverhampton Wanderers,2,0,2023-05-13 14:00:00,Jadon Sancho,BallTouch,646
+526035,49,BlockedShot,0.725999984741211,0.5479999923706055,0.01749325729906559,Christian Eriksen,h,646,OpenPlay,2022,RightFoot,18560,Manchester United,Wolverhampton Wanderers,2,0,2023-05-13 14:00:00,Anthony Martial,Pass,646
+527422,20,MissedShots,0.8019999694824219,0.5790000152587891,0.05506470426917076,Christian Eriksen,a,646,OpenPlay,2022,LeftFoot,18562,Bournemouth,Manchester United,0,1,2023-05-20 14:00:00,Antony,Pass,646
+528734,51,SavedShot,0.97,0.485,0.8001889586448669,Christian Eriksen,h,646,OpenPlay,2022,LeftFoot,18520,Manchester United,Chelsea,4,1,2023-05-25 19:00:00,,None,646
+534732,16,Goal,0.970999984741211,0.539000015258789,0.16082441806793213,Christian Eriksen,h,646,OpenPlay,2023,RightFoot,22300,Manchester United,Nottingham Forest,3,2,2023-08-26 14:00:00,Marcus Rashford,Pass,646
+536987,31,BlockedShot,0.8019999694824219,0.4779999923706055,0.04675746336579323,Christian Eriksen,a,646,OpenPlay,2023,RightFoot,21934,Arsenal,Manchester United,3,1,2023-09-03 15:30:00,Bruno Fernandes,Pass,646
+542715,52,SavedShot,0.7230000305175781,0.639000015258789,0.01488331239670515,Christian Eriksen,h,646,OpenPlay,2023,RightFoot,21972,Manchester United,Brentford,2,1,2023-10-07 14:00:00,Jonny Evans,Pass,646
+546217,84,BlockedShot,0.8640000152587891,0.5170000076293946,0.04741537570953369,Christian Eriksen,h,646,FromCorner,2023,RightFoot,21992,Manchester United,Manchester City,0,3,2023-10-29 15:30:00,Bruno Fernandes,Cross,646
+546573,37,BlockedShot,0.75,0.56,0.021167868748307228,Christian Eriksen,a,646,OpenPlay,2023,LeftFoot,21998,Fulham,Manchester United,0,1,2023-11-04 12:30:00,Bruno Fernandes,Pass,646
+556578,10,SavedShot,0.775,0.385,0.012741079553961754,Christian Eriksen,h,646,OpenPlay,2023,RightFoot,22082,Manchester United,Aston Villa,3,2,2023-12-26 20:00:00,,Aerial,646
+556584,33,BlockedShot,0.7440000152587891,0.24200000762939453,0.034137140959501266,Christian Eriksen,h,646,DirectFreekick,2023,RightFoot,22082,Manchester United,Aston Villa,3,2,2023-12-26 20:00:00,,Standard,646
+557117,81,SavedShot,0.7880000305175782,0.5559999847412109,0.06150337681174278,Christian Eriksen,a,646,OpenPlay,2023,RightFoot,22091,Nottingham Forest,Manchester United,2,1,2023-12-30 17:30:00,Alejandro Garnacho,Pass,646
+557122,100,MissedShots,0.8719999694824219,0.47,0.09952811896800995,Christian Eriksen,a,646,OpenPlay,2023,RightFoot,22091,Nottingham Forest,Manchester United,2,1,2023-12-30 17:30:00,Amad Diallo Traore,Pass,646
+576195,20,MissedShots,0.7880000305175782,0.3940000152587891,0.028575433418154716,Christian Eriksen,h,646,OpenPlay,2023,RightFoot,22182,Manchester United,Sheffield United,4,2,2024-04-24 19:00:00,Antony,Pass,646
+576206,45,MissedShots,0.7669999694824219,0.775,0.011690384708344936,Christian Eriksen,h,646,OpenPlay,2023,RightFoot,22182,Manchester United,Sheffield United,4,2,2024-04-24 19:00:00,Diogo Dalot,Pass,646
+576778,9,MissedShots,0.850999984741211,0.6220000076293946,0.0674610584974289,Christian Eriksen,h,646,OpenPlay,2023,RightFoot,22239,Manchester United,Burnley,1,1,2024-04-27 14:00:00,Alejandro Garnacho,Pass,646
+579433,25,BlockedShot,0.784000015258789,0.6140000152587891,0.08195130527019501,Christian Eriksen,a,646,DirectFreekick,2023,RightFoot,22250,Crystal Palace,Manchester United,4,0,2024-05-06 19:00:00,,Standard,646
+597020,32,BlockedShot,0.875,0.42400001525878905,0.10616970807313919,Christian Eriksen,h,646,OpenPlay,2024,RightFoot,26675,Manchester United,Brentford,2,1,2024-10-19 14:00:00,Casemiro,Pass,646
+598846,50,BlockedShot,0.785,0.3220000076293945,0.019443491473793983,Christian Eriksen,a,646,OpenPlay,2024,RightFoot,26690,West Ham,Manchester United,2,1,2024-10-27 14:00:00,Rasmus Højlund,Pass,646
+603535,5,MissedShots,0.7630000305175781,0.49700000762939456,0.03245377540588379,Christian Eriksen,a,646,OpenPlay,2024,RightFoot,26718,Ipswich,Manchester United,1,1,2024-11-24 16:30:00,Amad Diallo Traore,Pass,646

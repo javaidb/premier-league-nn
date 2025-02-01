@@ -1,0 +1,147 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+103435,28,SavedShot,0.885,0.615999984741211,0.09387879818677902,Odsonne Edouard,a,3697,OpenPlay,2016,LeftFoot,2277,Saint-Etienne,Toulouse,0,0,2016-08-28 19:00:00,François Moubandje,Pass,3697
+103439,37,MissedShots,0.8930000305175781,0.34,0.059476301074028015,Odsonne Edouard,a,3697,OpenPlay,2016,LeftFoot,2277,Saint-Etienne,Toulouse,0,0,2016-08-28 19:00:00,Somália,Pass,3697
+104277,64,MissedShots,0.9059999847412109,0.49400001525878906,0.4900150001049042,Odsonne Edouard,a,3697,OpenPlay,2016,RightFoot,2299,Lille,Toulouse,1,2,2016-09-20 21:00:00,,None,3697
+104289,16,MissedShots,0.905,0.43900001525878907,0.05603969842195511,Odsonne Edouard,h,3697,FromCorner,2016,Head,2309,Toulouse,Paris Saint Germain,2,0,2016-09-23 22:45:00,Yann Bodiger,Cross,3697
+104936,90,SavedShot,0.8019999694824219,0.45,0.05212229862809181,Odsonne Edouard,h,3697,SetPiece,2016,RightFoot,2329,Toulouse,Monaco,3,1,2016-10-14 21:00:00,Alexis Blin,HeadPass,3697
+105563,86,MissedShots,0.9080000305175782,0.48700000762939455,0.05028190091252327,Odsonne Edouard,h,3697,SetPiece,2016,Head,3319,Toulouse,Lyon,1,2,2016-10-29 19:00:00,Óscar Trejo,Aerial,3697
+105915,75,BlockedShot,0.7719999694824219,0.6370000076293946,0.010463999584317207,Odsonne Edouard,h,3697,OpenPlay,2016,RightFoot,2849,Toulouse,Metz,1,2,2016-11-19 23:00:00,Martin Braithwaite,HeadPass,3697
+105916,77,BlockedShot,0.8230000305175781,0.5629999923706055,0.041703201830387115,Odsonne Edouard,h,3697,OpenPlay,2016,RightFoot,2849,Toulouse,Metz,1,2,2016-11-19 23:00:00,,None,3697
+105918,94,Goal,0.89,0.500999984741211,0.354216992855072,Odsonne Edouard,h,3697,OpenPlay,2016,LeftFoot,2849,Toulouse,Metz,1,2,2016-11-19 23:00:00,Martin Braithwaite,TakeOn,3697
+106025,59,MissedShots,0.875,0.3579999923706055,0.04905090108513832,Odsonne Edouard,a,3697,OpenPlay,2016,LeftFoot,3238,Nice,Toulouse,3,0,2016-12-04 23:45:00,,None,3697
+106226,8,SavedShot,0.9109999847412109,0.66,0.3120169937610626,Odsonne Edouard,a,3697,OpenPlay,2016,LeftFoot,3265,Dijon,Toulouse,2,0,2016-12-21 23:50:00,,None,3697
+429610,83,Goal,0.8569999694824219,0.5429999923706055,0.10611200332641602,Odsonne Edouard,h,3697,OpenPlay,2021,LeftFoot,16406,Crystal Palace,Tottenham,3,0,2021-09-11 11:30:00,Wilfried Zaha,Pass,3697
+429612,92,Goal,0.9130000305175782,0.5470000076293945,0.5152080059051514,Odsonne Edouard,h,3697,OpenPlay,2021,LeftFoot,16406,Crystal Palace,Tottenham,3,0,2021-09-11 11:30:00,Conor Gallagher,Pass,3697
+431358,70,BlockedShot,0.769000015258789,0.4640000152587891,0.028166599571704865,Odsonne Edouard,a,3697,OpenPlay,2021,RightFoot,16420,Liverpool,Crystal Palace,3,0,2021-09-18 14:00:00,Jairo Riedewald,Pass,3697
+431361,80,SavedShot,0.874000015258789,0.4179999923706055,0.07346930354833603,Odsonne Edouard,a,3697,OpenPlay,2021,RightFoot,16420,Liverpool,Crystal Palace,3,0,2021-09-18 14:00:00,,Dispossessed,3697
+434493,19,SavedShot,0.8080000305175781,0.524000015258789,0.0585113987326622,Odsonne Edouard,h,3697,OpenPlay,2021,RightFoot,16435,Crystal Palace,Brighton,1,1,2021-09-27 19:00:00,Joachim Andersen,Pass,3697
+435319,51,ShotOnPost,0.85,0.5590000152587891,0.212677001953125,Odsonne Edouard,h,3697,OpenPlay,2021,RightFoot,16439,Crystal Palace,Leicester,2,2,2021-10-03 13:00:00,Luka Milivojevic,TakeOn,3697
+435320,52,MissedShots,0.9540000152587891,0.6509999847412109,0.09492480009794235,Odsonne Edouard,h,3697,OpenPlay,2021,RightFoot,16439,Crystal Palace,Leicester,2,2,2021-10-03 13:00:00,Wilfried Zaha,Throughball,3697
+437263,34,MissedShots,0.875,0.5890000152587891,0.078923799097538,Odsonne Edouard,a,3697,OpenPlay,2021,LeftFoot,16446,Arsenal,Crystal Palace,2,2,2021-10-18 19:00:00,Tyrick Mitchell,Pass,3697
+437274,72,Goal,0.8640000152587891,0.40599998474121096,0.11738300323486328,Odsonne Edouard,a,3697,OpenPlay,2021,RightFoot,16446,Arsenal,Crystal Palace,2,2,2021-10-18 19:00:00,Michael Olise,Pass,3697
+437757,25,BlockedShot,0.88,0.6459999847412109,0.06702999770641327,Odsonne Edouard,h,3697,OpenPlay,2021,RightFoot,16460,Crystal Palace,Newcastle United,1,1,2021-10-23 14:00:00,Christian Benteke,Dispossessed,3697
+441109,14,SavedShot,0.865,0.38,0.08448799699544907,Odsonne Edouard,h,3697,OpenPlay,2021,RightFoot,16480,Crystal Palace,Wolverhampton Wanderers,2,0,2021-11-06 15:00:00,Wilfried Zaha,Pass,3697
+441111,34,MissedShots,0.889000015258789,0.43900001525878907,0.05440789833664894,Odsonne Edouard,h,3697,SetPiece,2021,Head,16480,Crystal Palace,Wolverhampton Wanderers,2,0,2021-11-06 15:00:00,Conor Gallagher,Cross,3697
+441114,53,BlockedShot,0.8769999694824219,0.40299999237060546,0.16952300071716309,Odsonne Edouard,h,3697,OpenPlay,2021,LeftFoot,16480,Crystal Palace,Wolverhampton Wanderers,2,0,2021-11-06 15:00:00,Conor Gallagher,TakeOn,3697
+441118,71,SavedShot,0.93,0.6530000305175782,0.3103579878807068,Odsonne Edouard,h,3697,OpenPlay,2021,LeftFoot,16480,Crystal Palace,Wolverhampton Wanderers,2,0,2021-11-06 15:00:00,Tyrick Mitchell,Pass,3697
+444132,80,SavedShot,0.850999984741211,0.38799999237060545,0.06296829879283905,Odsonne Edouard,h,3697,OpenPlay,2021,RightFoot,16501,Crystal Palace,Aston Villa,1,2,2021-11-27 15:00:00,Conor Gallagher,Pass,3697
+448503,26,MissedShots,0.9290000152587891,0.5259999847412109,0.05247059836983681,Odsonne Edouard,h,3697,FromCorner,2021,Head,16531,Crystal Palace,Everton,3,1,2021-12-12 16:30:00,Jordan Ayew,CornerAwarded,3697
+448507,39,BlockedShot,0.789000015258789,0.49700000762939456,0.0376690998673439,Odsonne Edouard,h,3697,OpenPlay,2021,RightFoot,16531,Crystal Palace,Everton,3,1,2021-12-12 16:30:00,Wilfried Zaha,Pass,3697
+448512,51,BlockedShot,0.9030000305175782,0.4909999847412109,0.14437299966812134,Odsonne Edouard,h,3697,OpenPlay,2021,LeftFoot,16531,Crystal Palace,Everton,3,1,2021-12-12 16:30:00,Conor Gallagher,Pass,3697
+449086,22,MissedShots,0.9030000305175782,0.5529999923706055,0.33243700861930847,Odsonne Edouard,h,3697,OpenPlay,2021,RightFoot,16542,Crystal Palace,Southampton,2,2,2021-12-15 19:30:00,Wilfried Zaha,Cross,3697
+449094,57,SavedShot,0.9680000305175781,0.3390000152587891,0.29433301091194153,Odsonne Edouard,h,3697,OpenPlay,2021,RightFoot,16542,Crystal Palace,Southampton,2,2,2021-12-15 19:30:00,,Rebound,3697
+449093,57,SavedShot,0.924000015258789,0.35400001525878905,0.27142399549484253,Odsonne Edouard,h,3697,OpenPlay,2021,RightFoot,16542,Crystal Palace,Southampton,2,2,2021-12-15 19:30:00,Jordan Ayew,HeadPass,3697
+449095,64,SavedShot,0.9359999847412109,0.6179999923706054,0.06891980022192001,Odsonne Edouard,h,3697,OpenPlay,2021,LeftFoot,16542,Crystal Palace,Southampton,2,2,2021-12-15 19:30:00,,BallTouch,3697
+450756,7,Goal,0.885,0.5,0.7611690163612366,Odsonne Edouard,h,3697,Penalty,2021,RightFoot,16570,Crystal Palace,Norwich,3,0,2021-12-28 15:00:00,,Standard,3697
+450775,63,MissedShots,0.8490000152587891,0.49700000762939456,0.12130700051784515,Odsonne Edouard,h,3697,OpenPlay,2021,LeftFoot,16570,Crystal Palace,Norwich,3,0,2021-12-28 15:00:00,Jeffrey Schlupp,Pass,3697
+450778,70,BlockedShot,0.95,0.6730000305175782,0.09162910282611847,Odsonne Edouard,h,3697,OpenPlay,2021,LeftFoot,16570,Crystal Palace,Norwich,3,0,2021-12-28 15:00:00,Jordan Ayew,Chipped,3697
+450781,85,MissedShots,0.9269999694824219,0.555,0.09173119813203812,Odsonne Edouard,h,3697,FromCorner,2021,Head,16570,Crystal Palace,Norwich,3,0,2021-12-28 15:00:00,Luka Milivojevic,Cross,3697
+450780,85,BlockedShot,0.909000015258789,0.5220000076293946,0.048529401421546936,Odsonne Edouard,h,3697,SetPiece,2021,Head,16570,Crystal Palace,Norwich,3,0,2021-12-28 15:00:00,Luka Milivojevic,Aerial,3697
+450782,88,MissedShots,0.96,0.655,0.0481100007891655,Odsonne Edouard,h,3697,OpenPlay,2021,LeftFoot,16570,Crystal Palace,Norwich,3,0,2021-12-28 15:00:00,Tyrick Mitchell,Aerial,3697
+450999,31,ShotOnPost,0.8880000305175781,0.43900001525878907,0.33353400230407715,Odsonne Edouard,h,3697,OpenPlay,2021,RightFoot,16579,Crystal Palace,West Ham,2,3,2022-01-01 17:30:00,Jordan Ayew,Pass,3697
+451010,50,MissedShots,0.7469999694824219,0.5359999847412109,0.020275499671697617,Odsonne Edouard,h,3697,OpenPlay,2021,LeftFoot,16579,Crystal Palace,West Ham,2,3,2022-01-01 17:30:00,Will Hughes,Pass,3697
+451012,54,MissedShots,0.9680000305175781,0.6,0.26721400022506714,Odsonne Edouard,h,3697,OpenPlay,2021,LeftFoot,16579,Crystal Palace,West Ham,2,3,2022-01-01 17:30:00,Jordan Ayew,Cross,3697
+451015,65,MissedShots,0.845,0.5270000076293946,0.06918159872293472,Odsonne Edouard,h,3697,OpenPlay,2021,LeftFoot,16579,Crystal Palace,West Ham,2,3,2022-01-01 17:30:00,Jean-Philippe Mateta,Pass,3697
+451018,82,Goal,0.955,0.5,0.5571039915084839,Odsonne Edouard,h,3697,OpenPlay,2021,RightFoot,16579,Crystal Palace,West Ham,2,3,2022-01-01 17:30:00,Michael Olise,Cross,3697
+454978,47,SavedShot,0.9569999694824218,0.46700000762939453,0.10185100138187408,Odsonne Edouard,h,3697,OpenPlay,2021,RightFoot,16599,Crystal Palace,Liverpool,1,3,2022-01-23 14:00:00,,None,3697
+454981,54,Goal,0.919000015258789,0.5379999923706055,0.40714699029922485,Odsonne Edouard,h,3697,OpenPlay,2021,LeftFoot,16599,Crystal Palace,Liverpool,1,3,2022-01-23 14:00:00,Jean-Philippe Mateta,Pass,3697
+463517,81,BlockedShot,0.86,0.5109999847412109,0.10587500035762787,Odsonne Edouard,h,3697,OpenPlay,2021,RightFoot,16660,Crystal Palace,Manchester City,0,0,2022-03-14 20:00:00,Cheikhou Kouyaté,Pass,3697
+469379,40,SavedShot,0.84,0.580999984741211,0.052516501396894455,Odsonne Edouard,a,3697,OpenPlay,2021,RightFoot,16671,Newcastle United,Crystal Palace,1,0,2022-04-20 18:45:00,,BallRecovery,3697
+469391,73,SavedShot,0.9180000305175782,0.514000015258789,0.05084669962525368,Odsonne Edouard,a,3697,FromCorner,2021,Head,16671,Newcastle United,Crystal Palace,1,0,2022-04-20 18:45:00,Joachim Andersen,Aerial,3697
+469392,79,MissedShots,0.91,0.48900001525878906,0.08205980062484741,Odsonne Edouard,a,3697,OpenPlay,2021,Head,16671,Newcastle United,Crystal Palace,1,0,2022-04-20 18:45:00,Jean-Philippe Mateta,Cross,3697
+473327,61,SavedShot,0.9690000152587891,0.6930000305175781,0.08772759884595871,Odsonne Edouard,h,3697,OpenPlay,2021,LeftFoot,16730,Crystal Palace,Watford,1,0,2022-05-07 14:00:00,Wilfried Zaha,TakeOn,3697
+479025,41,SavedShot,0.92,0.5120000076293946,0.3935759961605072,Odsonne Edouard,h,3697,SetPiece,2022,Head,18202,Crystal Palace,Arsenal,0,2,2022-08-05 19:00:00,Joachim Andersen,HeadPass,3697
+479027,45,BlockedShot,0.9209999847412109,0.3659999847412109,0.06706040352582932,Odsonne Edouard,h,3697,OpenPlay,2022,RightFoot,18202,Crystal Palace,Arsenal,0,2,2022-08-05 19:00:00,,Rebound,3697
+479026,45,BlockedShot,0.850999984741211,0.345,0.05573190003633499,Odsonne Edouard,h,3697,OpenPlay,2022,RightFoot,18202,Crystal Palace,Arsenal,0,2,2022-08-05 19:00:00,Jordan Ayew,Pass,3697
+481877,28,SavedShot,0.9569999694824218,0.5640000152587891,0.12407000362873077,Odsonne Edouard,h,3697,OpenPlay,2022,RightFoot,18223,Crystal Palace,Aston Villa,3,1,2022-08-20 14:00:00,,End,3697
+481884,52,MissedShots,0.845,0.45799999237060546,0.0839155986905098,Odsonne Edouard,h,3697,OpenPlay,2022,RightFoot,18223,Crystal Palace,Aston Villa,3,1,2022-08-20 14:00:00,Jordan Ayew,Pass,3697
+486005,72,SavedShot,0.8980000305175782,0.385,0.07412909716367722,Odsonne Edouard,a,3697,OpenPlay,2022,RightFoot,18253,Newcastle United,Crystal Palace,0,0,2022-09-03 14:00:00,,None,3697
+486016,93,SavedShot,0.9159999847412109,0.6509999847412109,0.08516570180654526,Odsonne Edouard,a,3697,OpenPlay,2022,LeftFoot,18253,Newcastle United,Crystal Palace,0,0,2022-09-03 14:00:00,Wilfried Zaha,Pass,3697
+490088,6,Goal,0.9290000152587891,0.5279999923706055,0.4297940135002136,Odsonne Edouard,h,3697,OpenPlay,2022,LeftFoot,18284,Crystal Palace,Chelsea,1,2,2022-10-01 14:00:00,Jordan Ayew,Cross,3697
+492078,23,Goal,0.9280000305175782,0.5659999847412109,0.28236499428749084,Odsonne Edouard,h,3697,SetPiece,2022,Head,18296,Crystal Palace,Leeds,2,1,2022-10-09 13:00:00,Michael Olise,Cross,3697
+492084,58,MissedShots,0.9269999694824219,0.4979999923706055,0.06813990324735641,Odsonne Edouard,h,3697,OpenPlay,2022,Head,18296,Crystal Palace,Leeds,2,1,2022-10-09 13:00:00,Michael Olise,Aerial,3697
+492866,63,SavedShot,0.8290000152587891,0.635,0.05494070053100586,Odsonne Edouard,a,3697,OpenPlay,2022,RightFoot,18306,Leicester,Crystal Palace,0,0,2022-10-15 11:30:00,Eberechi Eze,LayOff,3697
+494291,48,BlockedShot,0.85,0.524000015258789,0.09770499914884567,Odsonne Edouard,h,3697,OpenPlay,2022,LeftFoot,18318,Crystal Palace,Wolverhampton Wanderers,2,1,2022-10-18 19:15:00,Jeffrey Schlupp,Pass,3697
+494297,67,MissedShots,0.885,0.445,0.08839459717273712,Odsonne Edouard,h,3697,OpenPlay,2022,RightFoot,18318,Crystal Palace,Wolverhampton Wanderers,2,1,2022-10-18 19:15:00,Michael Olise,Chipped,3697
+495043,50,BlockedShot,0.8680000305175781,0.4640000152587891,0.07777629792690277,Odsonne Edouard,a,3697,OpenPlay,2022,RightFoot,18324,Everton,Crystal Palace,3,0,2022-10-22 14:00:00,Eberechi Eze,Pass,3697
+496486,34,BlockedShot,0.91,0.35400001525878905,0.06786979734897614,Odsonne Edouard,h,3697,OpenPlay,2022,RightFoot,18336,Crystal Palace,Southampton,1,0,2022-10-29 14:00:00,,None,3697
+496489,37,Goal,0.9330000305175781,0.534000015258789,0.5538370013237,Odsonne Edouard,h,3697,OpenPlay,2022,RightFoot,18336,Crystal Palace,Southampton,1,0,2022-10-29 14:00:00,Tyrick Mitchell,Pass,3697
+500161,89,MissedShots,0.909000015258789,0.48900001525878906,0.038511600345373154,Odsonne Edouard,a,3697,OpenPlay,2022,Head,18358,Nottingham Forest,Crystal Palace,1,0,2022-11-12 15:00:00,Michael Olise,Aerial,3697
+501759,88,SavedShot,0.9580000305175781,0.5770000076293945,0.6372179985046387,Odsonne Edouard,a,3697,OpenPlay,2022,LeftFoot,18372,Bournemouth,Crystal Palace,0,2,2022-12-31 15:00:00,Wilfried Zaha,Pass,3697
+502568,79,MissedShots,0.895,0.524000015258789,0.018156399950385094,Odsonne Edouard,h,3697,FromCorner,2022,Head,18386,Crystal Palace,Tottenham,0,4,2023-01-04 20:00:00,Will Hughes,Aerial,3697
+504068,87,MissedShots,0.89,0.4929999923706055,0.016621900722384453,Odsonne Edouard,a,3697,FromCorner,2022,Head,18395,Chelsea,Crystal Palace,1,0,2023-01-15 14:00:00,Michael Olise,Aerial,3697
+504328,32,MissedShots,0.9169999694824219,0.5740000152587891,0.059050798416137695,Odsonne Edouard,h,3697,SetPiece,2022,Head,18270,Crystal Palace,Manchester United,1,1,2023-01-18 15:30:00,Michael Olise,Chipped,3697
+504332,39,SavedShot,0.8180000305175781,0.35900001525878905,0.03975600004196167,Odsonne Edouard,h,3697,OpenPlay,2022,RightFoot,18270,Crystal Palace,Manchester United,1,1,2023-01-18 15:30:00,Michael Olise,Pass,3697
+504757,44,BlockedShot,0.8469999694824218,0.5329999923706055,0.07696250081062317,Odsonne Edouard,h,3697,OpenPlay,2022,RightFoot,18404,Crystal Palace,Newcastle United,0,0,2023-01-21 17:30:00,Wilfried Zaha,BallTouch,3697
+507149,97,BlockedShot,0.8480000305175781,0.6809999847412109,0.02183930017054081,Odsonne Edouard,a,3697,OpenPlay,2022,RightFoot,18417,Manchester United,Crystal Palace,2,1,2023-02-04 15:00:00,Tyrick Mitchell,TakeOn,3697
+508441,76,MissedShots,0.894000015258789,0.45599998474121095,0.06677079945802689,Odsonne Edouard,h,3697,OpenPlay,2022,Head,18424,Crystal Palace,Brighton,1,1,2023-02-11 15:00:00,Michael Olise,Cross,3697
+509721,85,BlockedShot,0.8640000152587891,0.5020000076293946,0.12185300141572952,Odsonne Edouard,a,3697,OpenPlay,2022,LeftFoot,18433,Brentford,Crystal Palace,1,1,2023-02-18 15:00:00,Jordan Ayew,Pass,3697
+514535,6,MissedShots,0.9259999847412109,0.534000015258789,0.31735900044441223,Odsonne Edouard,a,3697,FromCorner,2022,Head,18276,Brighton,Crystal Palace,1,0,2023-03-15 19:30:00,Nathaniel Clyne,Cross,3697
+514538,10,SavedShot,0.8169999694824219,0.57,0.06164159998297691,Odsonne Edouard,a,3697,OpenPlay,2022,RightFoot,18276,Brighton,Crystal Palace,1,0,2023-03-15 19:30:00,Wilfried Zaha,Pass,3697
+516345,16,BlockedShot,0.919000015258789,0.43099998474121093,0.027484599500894547,Odsonne Edouard,h,3697,FromCorner,2022,Head,18486,Crystal Palace,Leicester,2,1,2023-04-01 14:00:00,,Aerial,3697
+516347,20,BlockedShot,0.91,0.585999984741211,0.12528100609779358,Odsonne Edouard,h,3697,OpenPlay,2022,LeftFoot,18486,Crystal Palace,Leicester,2,1,2023-04-01 14:00:00,Jeffrey Schlupp,Pass,3697
+516352,31,SavedShot,0.889000015258789,0.5929999923706055,0.07282319664955139,Odsonne Edouard,h,3697,FromCorner,2022,RightFoot,18486,Crystal Palace,Leicester,2,1,2023-04-01 14:00:00,,None,3697
+516354,40,BlockedShot,0.8669999694824219,0.6090000152587891,0.0896734967827797,Odsonne Edouard,h,3697,OpenPlay,2022,LeftFoot,18486,Crystal Palace,Leicester,2,1,2023-04-01 14:00:00,Cheick Oumar Doucoure,Pass,3697
+518636,32,BlockedShot,0.9130000305175782,0.6769999694824219,0.05487919971346855,Odsonne Edouard,a,3697,OpenPlay,2022,RightFoot,18495,Leeds,Crystal Palace,1,5,2023-04-09 13:00:00,Eberechi Eze,Pass,3697
+518642,51,MissedShots,0.9640000152587891,0.4209999847412109,0.12640799582004547,Odsonne Edouard,a,3697,OpenPlay,2022,Head,18495,Leeds,Crystal Palace,1,5,2023-04-09 13:00:00,Michael Olise,Cross,3697
+518645,57,BlockedShot,0.889000015258789,0.5779999923706055,0.13260500133037567,Odsonne Edouard,a,3697,OpenPlay,2022,RightFoot,18495,Leeds,Crystal Palace,1,5,2023-04-09 13:00:00,Jeffrey Schlupp,Pass,3697
+518647,68,Goal,0.8730000305175781,0.69,0.27220699191093445,Odsonne Edouard,a,3697,OpenPlay,2022,LeftFoot,18495,Leeds,Crystal Palace,1,5,2023-04-09 13:00:00,Michael Olise,Pass,3697
+527451,33,Goal,0.9059999847412109,0.6580000305175782,0.46376344561576843,Odsonne Edouard,a,3697,OpenPlay,2022,LeftFoot,18564,Fulham,Crystal Palace,2,2,2023-05-20 14:00:00,Eberechi Eze,Throughball,3697
+527461,71,SavedShot,0.8109999847412109,0.42900001525878906,0.03479565680027008,Odsonne Edouard,a,3697,OpenPlay,2022,RightFoot,18564,Fulham,Crystal Palace,2,2,2023-05-20 14:00:00,Jordan Ayew,Pass,3697
+529773,38,MissedShots,0.9169999694824219,0.6020000076293945,0.05515896901488304,Odsonne Edouard,h,3697,SetPiece,2022,Head,18576,Crystal Palace,Nottingham Forest,1,1,2023-05-28 15:30:00,Michael Olise,Cross,3697
+532109,13,BlockedShot,0.8930000305175781,0.72,0.03663801774382591,Odsonne Edouard,a,3697,OpenPlay,2023,LeftFoot,22280,Sheffield United,Crystal Palace,0,1,2023-08-12 14:00:00,Eberechi Eze,TakeOn,3697
+532112,19,SavedShot,0.8859999847412109,0.28899999618530275,0.11435908079147339,Odsonne Edouard,a,3697,OpenPlay,2023,RightFoot,22280,Sheffield United,Crystal Palace,0,1,2023-08-12 14:00:00,Joachim Andersen,Throughball,3697
+532114,23,MissedShots,0.865,0.5659999847412109,0.043866027146577835,Odsonne Edouard,a,3697,FromCorner,2023,RightFoot,22280,Sheffield United,Crystal Palace,0,1,2023-08-12 14:00:00,Eberechi Eze,Cross,3697
+532121,31,MissedShots,0.9740000152587891,0.605,0.015999101102352142,Odsonne Edouard,a,3697,FromCorner,2023,Head,22280,Sheffield United,Crystal Palace,0,1,2023-08-12 14:00:00,,Aerial,3697
+532126,48,Goal,0.960999984741211,0.49,0.6095026135444641,Odsonne Edouard,a,3697,OpenPlay,2023,LeftFoot,22280,Sheffield United,Crystal Palace,0,1,2023-08-12 14:00:00,Jordan Ayew,Cross,3697
+532128,59,MissedShots,0.86,0.5179999923706055,0.01455082930624485,Odsonne Edouard,a,3697,SetPiece,2023,Head,22280,Sheffield United,Crystal Palace,0,1,2023-08-12 14:00:00,Jeffrey Schlupp,Aerial,3697
+532129,60,SavedShot,0.9669999694824218,0.455,0.5279421210289001,Odsonne Edouard,a,3697,SetPiece,2023,Head,22280,Sheffield United,Crystal Palace,0,1,2023-08-12 14:00:00,Eberechi Eze,Cross,3697
+534210,15,BlockedShot,0.9030000305175782,0.645,0.08285962790250778,Odsonne Edouard,h,3697,OpenPlay,2023,RightFoot,22294,Crystal Palace,Arsenal,0,1,2023-08-21 19:00:00,Jeffrey Schlupp,Pass,3697
+534229,85,MissedShots,0.915,0.5329999923706055,0.3232669234275818,Odsonne Edouard,h,3697,OpenPlay,2023,Head,22294,Crystal Palace,Arsenal,0,1,2023-08-21 19:00:00,Tyrick Mitchell,Cross,3697
+534233,94,SavedShot,0.965,0.580999984741211,0.08803697675466537,Odsonne Edouard,h,3697,OpenPlay,2023,RightFoot,22294,Crystal Palace,Arsenal,0,1,2023-08-21 19:00:00,Jefferson Lerma,HeadPass,3697
+534672,8,BlockedShot,0.884000015258789,0.674000015258789,0.08477585017681122,Odsonne Edouard,a,3697,OpenPlay,2023,LeftFoot,22298,Brentford,Crystal Palace,1,1,2023-08-26 14:00:00,Jordan Ayew,TakeOn,3697
+534687,67,SavedShot,0.774000015258789,0.345,0.06352251023054123,Odsonne Edouard,a,3697,DirectFreekick,2023,RightFoot,22298,Brentford,Crystal Palace,1,1,2023-08-26 14:00:00,,Standard,3697
+536760,13,BlockedShot,0.8580000305175781,0.6370000076293946,0.06192906200885773,Odsonne Edouard,h,3697,OpenPlay,2023,RightFoot,21932,Crystal Palace,Wolverhampton Wanderers,3,2,2023-09-03 13:00:00,Eberechi Eze,BallTouch,3697
+536762,15,MissedShots,0.865,0.61,0.060594622045755386,Odsonne Edouard,h,3697,OpenPlay,2023,RightFoot,21932,Crystal Palace,Wolverhampton Wanderers,3,2,2023-09-03 13:00:00,,Rebound,3697
+536764,24,MissedShots,0.9180000305175782,0.44,0.05845431983470917,Odsonne Edouard,h,3697,SetPiece,2023,Head,21932,Crystal Palace,Wolverhampton Wanderers,3,2,2023-09-03 13:00:00,Jeffrey Schlupp,Chipped,3697
+536769,40,SavedShot,0.9119999694824219,0.6840000152587891,0.08161208033561707,Odsonne Edouard,h,3697,OpenPlay,2023,LeftFoot,21932,Crystal Palace,Wolverhampton Wanderers,3,2,2023-09-03 13:00:00,Jefferson Lerma,Pass,3697
+536773,55,Goal,0.9619999694824218,0.5420000076293945,0.5881925225257874,Odsonne Edouard,h,3697,OpenPlay,2023,RightFoot,21932,Crystal Palace,Wolverhampton Wanderers,3,2,2023-09-03 13:00:00,Tyrick Mitchell,Cross,3697
+536778,74,MissedShots,0.88,0.6619999694824219,0.053188059478998184,Odsonne Edouard,h,3697,OpenPlay,2023,LeftFoot,21932,Crystal Palace,Wolverhampton Wanderers,3,2,2023-09-03 13:00:00,Eberechi Eze,Pass,3697
+536781,83,Goal,0.8640000152587891,0.49599998474121093,0.1231609508395195,Odsonne Edouard,h,3697,OpenPlay,2023,RightFoot,21932,Crystal Palace,Wolverhampton Wanderers,3,2,2023-09-03 13:00:00,Jean-Philippe Mateta,Pass,3697
+537718,46,Goal,0.8540000152587891,0.4640000152587891,0.3049984574317932,Odsonne Edouard,a,3697,OpenPlay,2023,LeftFoot,21938,Aston Villa,Crystal Palace,3,1,2023-09-16 14:00:00,Jean-Philippe Mateta,Pass,3697
+544098,52,BlockedShot,0.8469999694824218,0.41200000762939454,0.0839858204126358,Odsonne Edouard,a,3697,OpenPlay,2023,RightFoot,21981,Newcastle United,Crystal Palace,4,0,2023-10-21 14:00:00,Will Hughes,Pass,3697
+544100,56,BlockedShot,0.919000015258789,0.5729999923706055,0.12960568070411682,Odsonne Edouard,a,3697,OpenPlay,2023,RightFoot,21981,Newcastle United,Crystal Palace,4,0,2023-10-21 14:00:00,Tyrick Mitchell,Pass,3697
+544111,83,SavedShot,0.750999984741211,0.5059999847412109,0.06581473350524902,Odsonne Edouard,a,3697,DirectFreekick,2023,RightFoot,21981,Newcastle United,Crystal Palace,4,0,2023-10-21 14:00:00,,Standard,3697
+545152,6,SavedShot,0.8490000152587891,0.48400001525878905,0.07193966209888458,Odsonne Edouard,h,3697,SetPiece,2023,RightFoot,21990,Crystal Palace,Tottenham,1,2,2023-10-27 19:00:00,Jeffrey Schlupp,BallTouch,3697
+545164,54,BlockedShot,0.77,0.585,0.036469414830207825,Odsonne Edouard,h,3697,OpenPlay,2023,RightFoot,21990,Crystal Palace,Tottenham,1,2,2023-10-27 19:00:00,,TakeOn,3697
+548394,10,BlockedShot,0.8440000152587891,0.544000015258789,0.0735011100769043,Odsonne Edouard,h,3697,OpenPlay,2023,RightFoot,22010,Crystal Palace,Everton,2,3,2023-11-11 15:00:00,Jeffrey Schlupp,BallTouch,3697
+548393,10,BlockedShot,0.865,0.7030000305175781,0.040289778262376785,Odsonne Edouard,h,3697,OpenPlay,2023,RightFoot,22010,Crystal Palace,Everton,2,3,2023-11-11 15:00:00,Jefferson Lerma,Pass,3697
+548395,14,BlockedShot,0.8180000305175781,0.51,0.06474742293357849,Odsonne Edouard,h,3697,OpenPlay,2023,LeftFoot,22010,Crystal Palace,Everton,2,3,2023-11-11 15:00:00,Eberechi Eze,Pass,3697
+548398,47,SavedShot,0.8590000152587891,0.29700000762939455,0.037372663617134094,Odsonne Edouard,h,3697,OpenPlay,2023,RightFoot,22010,Crystal Palace,Everton,2,3,2023-11-11 15:00:00,Eberechi Eze,Pass,3697
+548403,61,BlockedShot,0.909000015258789,0.65,0.10517659783363342,Odsonne Edouard,h,3697,OpenPlay,2023,LeftFoot,22010,Crystal Palace,Everton,2,3,2023-11-11 15:00:00,Jefferson Lerma,Throughball,3697
+548407,73,Goal,0.9540000152587891,0.5320000076293945,0.546331524848938,Odsonne Edouard,h,3697,OpenPlay,2023,RightFoot,22010,Crystal Palace,Everton,2,3,2023-11-11 15:00:00,Jefferson Lerma,HeadPass,3697
+549714,5,SavedShot,0.8530000305175781,0.5070000076293946,0.10475490242242813,Odsonne Edouard,a,3697,OpenPlay,2023,LeftFoot,22019,Luton,Crystal Palace,2,1,2023-11-25 15:00:00,Cheick Oumar Doucoure,Pass,3697
+549724,65,BlockedShot,0.9130000305175782,0.62,0.14748366177082062,Odsonne Edouard,a,3697,OpenPlay,2023,LeftFoot,22019,Luton,Crystal Palace,2,1,2023-11-25 15:00:00,Michael Olise,Throughball,3697
+551757,10,MissedShots,0.9290000152587891,0.4859999847412109,0.10405560582876205,Odsonne Edouard,a,3697,SetPiece,2023,RightFoot,22034,West Ham,Crystal Palace,1,1,2023-12-03 14:00:00,Joachim Andersen,HeadPass,3697
+551764,51,BlockedShot,0.9590000152587891,0.5070000076293946,0.5936451554298401,Odsonne Edouard,a,3697,SetPiece,2023,Head,22034,West Ham,Crystal Palace,1,1,2023-12-03 14:00:00,Marc Guehi,Pass,3697
+551766,52,Goal,0.8930000305175781,0.55,0.07479832321405411,Odsonne Edouard,a,3697,OpenPlay,2023,LeftFoot,22034,West Ham,Crystal Palace,1,1,2023-12-03 14:00:00,,BallRecovery,3697
+552290,26,BlockedShot,0.9269999694824219,0.610999984741211,0.3556579053401947,Odsonne Edouard,h,3697,OpenPlay,2023,RightFoot,22043,Crystal Palace,Bournemouth,0,2,2023-12-06 19:30:00,,Rebound,3697
+552299,72,BlockedShot,0.8630000305175781,0.624000015258789,0.10222326219081879,Odsonne Edouard,h,3697,OpenPlay,2023,RightFoot,22043,Crystal Palace,Bournemouth,0,2,2023-12-06 19:30:00,Jefferson Lerma,TakeOn,3697
+552306,95,MissedShots,0.8169999694824219,0.5979999923706054,0.05646481364965439,Odsonne Edouard,h,3697,OpenPlay,2023,LeftFoot,22043,Crystal Palace,Bournemouth,0,2,2023-12-06 19:30:00,Naouirou Ahamada,Pass,3697
+563440,85,BlockedShot,0.9009999847412109,0.63,0.07174023240804672,Odsonne Edouard,h,3697,OpenPlay,2023,LeftFoot,22126,Crystal Palace,Chelsea,1,3,2024-02-12 20:00:00,,None,3697
+564753,11,SavedShot,0.87,0.64,0.07506252080202103,Odsonne Edouard,a,3697,OpenPlay,2023,LeftFoot,22137,Everton,Crystal Palace,1,1,2024-02-19 20:00:00,Jean-Philippe Mateta,Pass,3697
+564766,57,MissedShots,0.93,0.580999984741211,0.11878716200590134,Odsonne Edouard,a,3697,FromCorner,2023,RightFoot,22137,Everton,Crystal Palace,1,1,2024-02-19 20:00:00,Chris Richards,Rebound,3697
+565210,22,BlockedShot,0.9080000305175782,0.6919999694824219,0.026300694793462753,Odsonne Edouard,h,3697,OpenPlay,2023,LeftFoot,22150,Crystal Palace,Burnley,3,0,2024-02-24 15:00:00,Jordan Ayew,Cross,3697
+565211,27,SavedShot,0.9619999694824218,0.5790000152587891,0.26130539178848267,Odsonne Edouard,h,3697,FromCorner,2023,Head,22150,Crystal Palace,Burnley,3,0,2024-02-24 15:00:00,Adam Wharton,Cross,3697
+565212,28,MissedShots,0.905,0.580999984741211,0.03195043280720711,Odsonne Edouard,h,3697,OpenPlay,2023,Head,22150,Crystal Palace,Burnley,3,0,2024-02-24 15:00:00,Jordan Ayew,OffsidePass,3697
+565213,37,ShotOnPost,0.8119999694824219,0.524000015258789,0.1540295034646988,Odsonne Edouard,h,3697,DirectFreekick,2023,RightFoot,22150,Crystal Palace,Burnley,3,0,2024-02-24 15:00:00,,Standard,3697
+568090,93,ShotOnPost,0.8030000305175782,0.6530000305175782,0.04009458050131798,Odsonne Edouard,h,3697,OpenPlay,2023,RightFoot,22170,Crystal Palace,Luton,1,1,2024-03-09 15:00:00,Tyrick Mitchell,Pass,3697
+572169,80,BlockedShot,0.8959999847412109,0.40099998474121096,0.312286913394928,Odsonne Edouard,h,3697,OpenPlay,2023,RightFoot,22207,Crystal Palace,Manchester City,2,4,2024-04-06 11:30:00,Michael Olise,Pass,3697
+572171,85,Goal,0.9540000152587891,0.5320000076293945,0.5301830768585205,Odsonne Edouard,h,3697,OpenPlay,2023,RightFoot,22207,Crystal Palace,Manchester City,2,4,2024-04-06 11:30:00,Jeffrey Schlupp,Cross,3697
+576765,69,SavedShot,0.8930000305175781,0.33,0.06460453569889069,Odsonne Edouard,a,3697,OpenPlay,2023,RightFoot,22238,Fulham,Crystal Palace,1,1,2024-04-27 14:00:00,Michael Olise,Pass,3697
+579451,91,ShotOnPost,0.840999984741211,0.749000015258789,0.05139845237135887,Odsonne Edouard,h,3697,OpenPlay,2023,RightFoot,22250,Crystal Palace,Manchester United,4,0,2024-05-06 19:00:00,Marc Guehi,TakeOn,3697
+585168,72,MissedShots,0.775,0.445,0.03039775788784027,Odsonne Edouard,a,3697,OpenPlay,2024,LeftFoot,26609,Brentford,Crystal Palace,2,1,2024-08-18 13:00:00,Jordan Ayew,Pass,3697
+586046,18,MissedShots,0.879000015258789,0.36700000762939455,0.144565612077713,Odsonne Edouard,h,3697,OpenPlay,2024,RightFoot,26613,Crystal Palace,West Ham,0,2,2024-08-24 14:00:00,Jean-Philippe Mateta,Throughball,3697
+586047,22,BlockedShot,0.8909999847412109,0.7,0.05661970004439354,Odsonne Edouard,h,3697,OpenPlay,2024,LeftFoot,26613,Crystal Palace,West Ham,0,2,2024-08-24 14:00:00,Eberechi Eze,Pass,3697
+586052,44,BlockedShot,0.840999984741211,0.40599998474121096,0.06978604942560196,Odsonne Edouard,h,3697,OpenPlay,2024,LeftFoot,26613,Crystal Palace,West Ham,0,2,2024-08-24 14:00:00,Eberechi Eze,Pass,3697
+586053,51,SavedShot,0.754000015258789,0.51,0.02431916818022728,Odsonne Edouard,h,3697,OpenPlay,2024,LeftFoot,26613,Crystal Palace,West Ham,0,2,2024-08-24 14:00:00,Eberechi Eze,Pass,3697

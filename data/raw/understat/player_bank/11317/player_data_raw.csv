@@ -1,0 +1,5 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+11317,Danilo,13,999,3,1.6606165627017617,2,0.8088494967669249,15,9,1,0,M S,Nottingham Forest,3,1.6606165627017617,2.9866478964686394,0.7929538227617741,2022
+11317,Danilo,29,1799,2,1.6652069194242358,2,1.5294003784656525,23,20,4,0,F M S,Nottingham Forest,2,1.6652069194242358,10.227419295348227,7.997594775632024,2023
+11317,Danilo,1,14,0,0,0,0,0,0,0,0,M,Nottingham Forest,0,0,0,0,2024
+11317,Danilo,1,14,0,0,0,0,0,0,0,0,M,Nottingham Forest,0,0,0,0,2025

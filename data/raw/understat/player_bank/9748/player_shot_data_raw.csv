@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+447873,58,BlockedShot,0.9680000305175781,0.5209999847412109,0.12742899358272552,Jacob Sørensen,h,9748,FromCorner,2021,Head,16535,Norwich,Manchester United,0,1,2021-12-11 17:30:00,Joshua Sargent,Aerial,9748
+448894,30,SavedShot,0.8719999694824219,0.5840000152587891,0.00985317025333643,Jacob Sørensen,h,9748,SetPiece,2021,Head,16541,Norwich,Aston Villa,0,2,2021-12-14 19:45:00,Billy Gilmour,Aerial,9748
+448906,81,BlockedShot,0.9369999694824219,0.4159999847412109,0.027282800525426865,Jacob Sørensen,h,9748,FromCorner,2021,Head,16541,Norwich,Aston Villa,0,2,2021-12-14 19:45:00,Kieran Dowell,Aerial,9748
+453265,80,MissedShots,0.77,0.3579999923706055,0.01689309999346733,Jacob Sørensen,h,9748,FromCorner,2021,LeftFoot,16592,Norwich,Everton,2,1,2022-01-15 15:00:00,,None,9748
+473992,44,BlockedShot,0.7180000305175781,0.534000015258789,0.010136299766600132,Jacob Sørensen,h,9748,OpenPlay,2021,RightFoot,16726,Norwich,West Ham,0,4,2022-05-08 13:00:00,Pierre Lees-Melou,Pass,9748

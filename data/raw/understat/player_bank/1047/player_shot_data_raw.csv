@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+114335,13,BlockedShot,0.9059999847412109,0.4540000152587891,0.10097599774599075,Will Keane,h,1047,FromCorner,2016,RightFoot,545,Hull,Stoke,0,2,2016-10-22 18:00:00,,None,1047
+114336,22,MissedShots,0.9169999694824219,0.4570000076293945,0.1115809977054596,Will Keane,h,1047,OpenPlay,2016,Head,545,Hull,Stoke,0,2,2016-10-22 18:00:00,Ryan Mason,Cross,1047
+114340,33,MissedShots,0.850999984741211,0.515,0.01233069971203804,Will Keane,h,1047,OpenPlay,2016,Head,545,Hull,Stoke,0,2,2016-10-22 18:00:00,Ryan Mason,Aerial,1047
+115010,25,MissedShots,0.6969999694824218,0.7230000305175781,0.011699199676513672,Will Keane,a,1047,OpenPlay,2016,RightFoot,2679,Watford,Hull,1,0,2016-10-29 18:00:00,Sam Clucas,Pass,1047

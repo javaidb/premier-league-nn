@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+57991,91,SavedShot,0.8719999694824219,0.39599998474121095,0.08059470355510712,Steven Berghuis,h,744,OpenPlay,2015,LeftFoot,124,Watford,Swansea,1,0,2015-09-12 18:00:00,,Rebound,744
+57990,91,SavedShot,0.9059999847412109,0.44,0.5741360187530518,Steven Berghuis,h,744,OpenPlay,2015,LeftFoot,124,Watford,Swansea,1,0,2015-09-12 18:00:00,Jurado,Pass,744
+58564,83,MissedShots,0.7730000305175782,0.27600000381469725,0.014452699571847916,Steven Berghuis,h,744,OpenPlay,2015,LeftFoot,149,Watford,Crystal Palace,0,1,2015-09-27 19:00:00,Ikechi Anya,BlockedPass,744
+59880,66,MissedShots,0.7380000305175781,0.2929999923706055,0.010511600412428379,Steven Berghuis,a,744,OpenPlay,2015,LeftFoot,416,West Ham,Watford,3,1,2016-04-20 22:45:00,José Holebas,Pass,744
+57534,64,SavedShot,0.725,0.43400001525878906,0.01774200052022934,Steven Berghuis,h,744,OpenPlay,2015,LeftFoot,430,Watford,Aston Villa,3,2,2016-04-30 18:00:00,Jurado,Pass,744
+57537,88,MissedShots,0.8059999847412109,0.3370000076293945,0.028675299137830734,Steven Berghuis,h,744,OpenPlay,2015,LeftFoot,430,Watford,Aston Villa,3,2,2016-04-30 18:00:00,,None,744
+56448,71,SavedShot,0.855999984741211,0.32299999237060545,0.049719199538230896,Steven Berghuis,a,744,OpenPlay,2015,LeftFoot,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,Troy Deeney,Pass,744
+56417,76,BlockedShot,0.860999984741211,0.3559999847412109,0.06607480347156525,Steven Berghuis,a,744,OpenPlay,2015,LeftFoot,448,Norwich,Watford,4,2,2016-05-11 22:45:00,Almen Abdi,Pass,744

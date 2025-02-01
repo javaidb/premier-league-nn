@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+6903,Matz Sels,16,1440,0,0,0,0.06965266913175583,0,1,1,0,GK,Nottingham Forest,0,0,0.8204675614833832,0.7508148960769176,2023
+6903,Matz Sels,23,2070,0,0,0,0,0,0,2,0,GK,Nottingham Forest,0,0,1.6545678554102778,1.6545678554102778,2024
+6903,Matz Sels,23,2070,0,0,0,0,0,0,2,0,GK,Nottingham Forest,0,0,1.6545678554102778,1.6545678554102778,2025

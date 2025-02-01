@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+539438,31,BlockedShot,0.855,0.725,0.03272872045636177,Aaron Ramsey,h,9913,OpenPlay,2023,RightFoot,21950,Burnley,Manchester United,0,1,2023-09-23 19:00:00,Josh Brownhill,Pass,9913
+539441,41,SavedShot,0.81,0.595999984741211,0.04853382706642151,Aaron Ramsey,h,9913,OpenPlay,2023,RightFoot,21950,Burnley,Manchester United,0,1,2023-09-23 19:00:00,Zeki Amdouni,Pass,9913
+549705,72,MissedShots,0.8590000152587891,0.2989999961853027,0.06961099803447723,Aaron Ramsey,h,9913,OpenPlay,2023,RightFoot,22016,Burnley,West Ham,1,2,2023-11-25 15:00:00,Jay Rodriguez,Pass,9913
+561233,46,SavedShot,0.9459999847412109,0.49900001525878906,0.14768511056900024,Aaron Ramsey,h,9913,OpenPlay,2023,RightFoot,22119,Burnley,Fulham,2,2,2024-02-03 15:00:00,Josh Brownhill,Rebound,9913
+562456,48,MissedShots,0.9119999694824219,0.265,0.03665505349636078,Aaron Ramsey,a,9913,OpenPlay,2023,RightFoot,22128,Liverpool,Burnley,3,1,2024-02-10 15:00:00,Sander Berge,Pass,9913
+563833,26,MissedShots,0.8569999694824219,0.4929999923706055,0.06679408252239227,Aaron Ramsey,h,9913,OpenPlay,2023,LeftFoot,22136,Burnley,Arsenal,0,5,2024-02-17 15:00:00,Hannes Delcroix,Cross,9913

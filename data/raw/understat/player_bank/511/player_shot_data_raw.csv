@@ -1,0 +1,42 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14717,46,MissedShots,0.8869999694824219,0.2560000038146973,0.02147419936954975,Damien Delaney,h,511,SetPiece,2014,LeftFoot,4761,Crystal Palace,West Ham,1,3,2014-08-23 15:00:00,,Rebound,511
+15220,6,BlockedShot,0.9080000305175782,0.40900001525878904,0.07161570340394974,Damien Delaney,h,511,FromCorner,2014,RightFoot,4721,Crystal Palace,Burnley,0,0,2014-09-13 15:00:00,Wilfried Zaha,Pass,511
+15234,51,MissedShots,0.9209999847412109,0.38,0.013505900278687477,Damien Delaney,h,511,FromCorner,2014,Head,4721,Crystal Palace,Burnley,0,0,2014-09-13 15:00:00,Jason Puncheon,Aerial,511
+16878,90,BlockedShot,0.93,0.5590000152587891,0.03907020017504692,Damien Delaney,a,511,FromCorner,2014,Head,4689,Hull,Crystal Palace,2,0,2014-10-04 15:00:00,Yannick Bolasie,Aerial,511
+16624,77,SavedShot,0.7619999694824219,0.385,0.030321400612592697,Damien Delaney,a,511,OpenPlay,2014,LeftFoot,4661,Manchester United,Crystal Palace,1,0,2014-11-08 15:00:00,Fraizer Campbell,LayOff,511
+17692,25,MissedShots,0.88,0.5540000152587891,0.0830501988530159,Damien Delaney,h,511,SetPiece,2014,LeftFoot,4568,Crystal Palace,Tottenham,2,1,2015-01-10 17:30:00,,BallTouch,511
+17696,35,MissedShots,0.8969999694824219,0.5179999923706055,0.09630029648542404,Damien Delaney,h,511,FromCorner,2014,LeftFoot,4568,Crystal Palace,Tottenham,2,1,2015-01-10 17:30:00,James McArthur,HeadPass,511
+17707,76,BlockedShot,0.8219999694824218,0.549000015258789,0.041360799223184586,Damien Delaney,h,511,SetPiece,2014,RightFoot,4568,Crystal Palace,Tottenham,2,1,2015-01-10 17:30:00,,Rebound,511
+23960,36,BlockedShot,0.9719999694824218,0.38599998474121094,0.07379460334777832,Damien Delaney,a,511,FromCorner,2014,RightFoot,4545,West Ham,Crystal Palace,1,3,2015-02-28 12:45:00,,None,511
+22590,26,MissedShots,0.8590000152587891,0.57,0.0695388987660408,Damien Delaney,h,511,SetPiece,2014,RightFoot,4493,Crystal Palace,Queens Park Rangers,3,1,2015-03-14 12:45:00,Yannick Bolasie,Chipped,511
+20271,50,MissedShots,0.894000015258789,0.5690000152587891,0.03928599879145622,Damien Delaney,h,511,FromCorner,2014,Head,4462,Crystal Palace,West Bromwich Albion,0,2,2015-04-18 15:00:00,Jason Puncheon,Cross,511
+20280,83,SavedShot,0.9259999847412109,0.5479999923706055,0.12511800229549408,Damien Delaney,h,511,SetPiece,2014,Head,4462,Crystal Palace,West Bromwich Albion,0,2,2015-04-18 15:00:00,Jason Puncheon,Cross,511
+20681,75,MissedShots,0.85,0.4809999847412109,0.038961298763751984,Damien Delaney,h,511,FromCorner,2014,LeftFoot,4415,Crystal Palace,Manchester United,1,2,2015-05-09 17:30:00,Mile Jedinak,HeadPass,511
+51660,48,Goal,0.975999984741211,0.5940000152587891,0.32147398591041565,Damien Delaney,a,511,FromCorner,2015,RightFoot,85,Norwich,Crystal Palace,1,3,2015-08-08 18:00:00,Pape Souaré,HeadPass,511
+51754,54,OwnGoal,0.01899999976158142,0.509000015258789,0,Damien Delaney,h,511,OpenPlay,2015,RightFoot,98,Crystal Palace,Arsenal,1,2,2015-08-16 16:30:00,,None,511
+53526,5,MissedShots,0.9119999694824219,0.5940000152587891,0.05552389845252037,Damien Delaney,h,511,FromCorner,2015,LeftFoot,210,Crystal Palace,Sunderland,0,1,2015-11-24 00:00:00,Jason Puncheon,Cross,511
+54008,61,MissedShots,0.905,0.545,0.06935010105371475,Damien Delaney,a,511,FromCorner,2015,RightFoot,230,Everton,Crystal Palace,1,1,2015-12-08 00:00:00,Jason Puncheon,Cross,511
+52646,87,BlockedShot,0.885,0.6409999847412109,0.059620700776576996,Damien Delaney,a,511,FromCorner,2015,RightFoot,243,Stoke,Crystal Palace,1,2,2015-12-19 19:00:00,,Rebound,511
+53925,8,BlockedShot,0.9159999847412109,0.41200000762939454,0.05832109972834587,Damien Delaney,a,511,FromCorner,2015,LeftFoot,255,Bournemouth,Crystal Palace,0,0,2015-12-26 19:00:00,Jason Puncheon,Cross,511
+55119,16,SavedShot,0.8690000152587891,0.54,0.021055199205875397,Damien Delaney,h,511,FromCorner,2015,Head,279,Crystal Palace,Chelsea,0,3,2016-01-03 17:30:00,Jason Puncheon,Cross,511
+55121,23,SavedShot,0.87,0.4370000076293945,0.010064899921417236,Damien Delaney,h,511,SetPiece,2015,Head,279,Crystal Palace,Chelsea,0,3,2016-01-03 17:30:00,Jason Puncheon,Aerial,511
+53123,26,MissedShots,0.8959999847412109,0.5129999923706055,0.08983699977397919,Damien Delaney,a,511,SetPiece,2015,LeftFoot,282,Aston Villa,Crystal Palace,1,0,2016-01-12 23:45:00,Yohan Cabaye,Chipped,511
+52237,1,SavedShot,0.919000015258789,0.46599998474121096,0.2961820065975189,Damien Delaney,a,511,OpenPlay,2015,Head,292,Manchester City,Crystal Palace,4,0,2016-01-16 19:00:00,Connor Wickham,Cross,511
+52245,23,MissedShots,0.8130000305175781,0.5640000152587891,0.043529998511075974,Damien Delaney,a,511,OpenPlay,2015,LeftFoot,292,Manchester City,Crystal Palace,4,0,2016-01-16 19:00:00,James McArthur,Rebound,511
+53877,69,BlockedShot,0.899000015258789,0.590999984741211,0.0862668976187706,Damien Delaney,h,511,FromCorner,2015,LeftFoot,302,Crystal Palace,Tottenham,1,3,2016-01-23 19:00:00,,Rebound,511
+55194,78,MissedShots,0.9180000305175782,0.41,0.04436450079083443,Damien Delaney,h,511,FromCorner,2015,Head,335,Crystal Palace,Watford,1,2,2016-02-13 19:00:00,Lee Chung-yong,Cross,511
+55200,92,MissedShots,0.8130000305175781,0.45,0.009256860241293907,Damien Delaney,h,511,OpenPlay,2015,Head,335,Crystal Palace,Watford,1,2,2016-02-13 19:00:00,Lee Chung-yong,Cross,511
+60992,13,SavedShot,0.9730000305175781,0.39599998474121095,0.09786699712276459,Damien Delaney,a,511,SetPiece,2015,RightFoot,352,Sunderland,Crystal Palace,2,2,2016-03-01 23:45:00,Connor Wickham,Pass,511
+59722,28,MissedShots,0.9369999694824219,0.6140000152587891,0.04360949993133545,Damien Delaney,h,511,SetPiece,2015,Head,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Yohan Cabaye,Cross,511
+60077,91,ShotOnPost,0.9009999847412109,0.5170000076293946,0.10479199886322021,Damien Delaney,h,511,FromCorner,2015,LeftFoot,375,Crystal Palace,Leicester,0,1,2016-03-19 19:00:00,Scott Dann,HeadPass,511
+60319,14,Goal,0.9869999694824219,0.585,0.2712250053882599,Damien Delaney,a,511,SetPiece,2015,Head,390,West Ham,Crystal Palace,2,2,2016-04-02 18:00:00,,None,511
+60558,78,MissedShots,0.8830000305175781,0.4370000076293945,0.02557940036058426,Damien Delaney,h,511,FromCorner,2015,Head,399,Crystal Palace,Norwich,1,0,2016-04-09 18:00:00,Yohan Cabaye,Cross,511
+60560,79,MissedShots,0.8919999694824219,0.4520000076293945,0.041325099766254425,Damien Delaney,h,511,FromCorner,2015,Head,399,Crystal Palace,Norwich,1,0,2016-04-09 18:00:00,Yohan Cabaye,Cross,511
+61150,3,OwnGoal,0.08600000381469726,0.42900001525878906,0,Damien Delaney,a,511,OpenPlay,2015,RightFoot,417,Manchester United,Crystal Palace,2,0,2016-04-20 23:00:00,,None,511
+57255,42,MissedShots,0.7909999847412109,0.7019999694824218,0.022124599665403366,Damien Delaney,a,511,FromCorner,2015,LeftFoot,428,Newcastle United,Crystal Palace,1,0,2016-04-30 18:00:00,,Rebound,511
+56220,3,MissedShots,0.845,0.5709999847412109,0.0628248006105423,Damien Delaney,h,511,FromCorner,2015,LeftFoot,438,Crystal Palace,Stoke,2,1,2016-05-07 18:00:00,Scott Dann,LayOff,511
+113296,69,MissedShots,0.9840000152587891,0.39599998474121095,0.01706239953637123,Damien Delaney,a,511,FromCorner,2016,Head,492,Middlesbrough,Crystal Palace,1,2,2016-09-10 18:00:00,Scott Dann,TakeOn,511
+113896,42,MissedShots,0.9830000305175781,0.40799999237060547,0.09581749886274338,Damien Delaney,a,511,FromCorner,2016,LeftFoot,514,Sunderland,Crystal Palace,2,3,2016-09-24 18:00:00,Christian Benteke,Rebound,511
+114399,38,MissedShots,0.855,0.4179999923706055,0.008424759842455387,Damien Delaney,a,511,SetPiece,2016,Head,544,Leicester,Crystal Palace,3,1,2016-10-22 18:00:00,Yohan Cabaye,Aerial,511
+118055,93,BlockedShot,0.8169999694824219,0.46599998474121096,0.039219800382852554,Damien Delaney,a,511,SetPiece,2016,RightFoot,3346,West Ham,Crystal Palace,3,0,2017-01-14 19:00:00,,Rebound,511
+120916,63,SavedShot,0.8959999847412109,0.37900001525878907,0.0539017990231514,Damien Delaney,h,511,FromCorner,2016,LeftFoot,3480,Crystal Palace,Burnley,0,2,2017-04-29 17:30:00,Luka Milivojevic,BallTouch,511

@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15608,69,MissedShots,0.8109999847412109,0.7230000305175781,0.024168699979782104,Karl Henry,h,4394,OpenPlay,2014,LeftFoot,4729,Queens Park Rangers,Stoke,2,2,2014-09-20 12:45:00,Charlie Austin,Pass,4394
+17608,77,MissedShots,0.725,0.38799999237060545,0.021011900156736374,Karl Henry,h,4394,OpenPlay,2014,RightFoot,4718,Queens Park Rangers,Aston Villa,2,0,2014-10-27 20:00:00,Leroy Fer,Pass,4394
+18064,27,MissedShots,0.7809999847412109,0.6619999694824219,0.023981399834156036,Karl Henry,h,4394,OpenPlay,2014,RightFoot,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,,Rebound,4394
+19840,49,BlockedShot,0.784000015258789,0.3340000152587891,0.03281079977750778,Karl Henry,h,4394,OpenPlay,2014,RightFoot,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,,None,4394
+19051,89,MissedShots,0.774000015258789,0.27,0.017740599811077118,Karl Henry,h,4394,OpenPlay,2014,RightFoot,4574,Queens Park Rangers,Manchester United,0,2,2015-01-17 15:00:00,Adel Taarabt,Pass,4394
+22603,78,BlockedShot,0.7140000152587891,0.5420000076293945,0.01197190023958683,Karl Henry,a,4394,OpenPlay,2014,RightFoot,4493,Crystal Palace,Queens Park Rangers,3,1,2015-03-14 12:45:00,Adel Taarabt,Pass,4394
+22742,90,BlockedShot,0.7659999847412109,0.5059999847412109,0.03493469953536987,Karl Henry,a,4394,OpenPlay,2014,RightFoot,4445,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04 15:00:00,Matt Phillips,BallTouch,4394
+22901,26,MissedShots,0.97,0.600999984741211,0.08604410290718079,Karl Henry,h,4394,OpenPlay,2014,LeftFoot,4469,Queens Park Rangers,West Ham,0,0,2015-04-25 15:00:00,Matt Phillips,Cross,4394
+22918,84,SavedShot,0.799000015258789,0.41900001525878905,0.030430100858211517,Karl Henry,h,4394,SetPiece,2014,LeftFoot,4469,Queens Park Rangers,West Ham,0,0,2015-04-25 15:00:00,,None,4394
+21344,10,MissedShots,0.779000015258789,0.67,0.01674089953303337,Karl Henry,a,4394,FromCorner,2014,RightFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,,None,4394

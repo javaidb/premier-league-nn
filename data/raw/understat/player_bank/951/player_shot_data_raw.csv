@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14520,52,BlockedShot,0.9619999694824218,0.44,0.0694786012172699,Phil Jones,h,951,FromCorner,2014,Head,4749,Manchester United,Swansea,1,2,2014-08-16 12:45:00,Juan Mata,Aerial,951
+19970,60,SavedShot,0.8769999694824219,0.4520000076293945,0.04083380103111267,Phil Jones,a,951,SetPiece,2014,Head,4551,Stoke,Manchester United,1,1,2015-01-01 12:45:00,Juan Mata,Cross,951
+18010,52,MissedShots,0.895,0.54,0.0774431973695755,Phil Jones,h,951,SetPiece,2014,Head,4570,Manchester United,Southampton,0,1,2015-01-11 16:00:00,Wayne Rooney,Cross,951
+55288,50,BlockedShot,0.8519999694824218,0.3240000152587891,0.058942899107933044,Phil Jones,a,951,OpenPlay,2015,LeftFoot,201,Watford,Manchester United,1,2,2015-11-21 16:45:00,Juan Mata,Pass,951
+115510,67,BlockedShot,0.889000015258789,0.43099998474121093,0.029365699738264084,Phil Jones,h,951,FromCorner,2016,Head,2697,Manchester United,Arsenal,1,1,2016-11-19 16:30:00,Juan Mata,Cross,951
+117127,22,BlockedShot,0.9469999694824218,0.5659999847412109,0.05377740040421486,Phil Jones,h,951,FromCorner,2016,Head,3122,Manchester United,Tottenham,1,0,2016-12-11 18:15:00,,Aerial,951
+116576,17,MissedShots,0.9159999847412109,0.4329999923706055,0.02381410077214241,Phil Jones,h,951,FromCorner,2016,Head,3147,Manchester United,Sunderland,3,1,2016-12-26 19:00:00,Ander Herrera,Aerial,951
+158998,9,ShotOnPost,0.9469999694824218,0.4759999847412109,0.5364760160446167,Phil Jones,a,951,SetPiece,2017,OtherBodyPart,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Juan Mata,Cross,951
+186348,24,MissedShots,0.720999984741211,0.33799999237060546,0.014374399557709694,Phil Jones,a,951,OpenPlay,2017,RightFoot,7333,Everton,Manchester United,0,2,2018-01-01 17:30:00,Ander Herrera,Pass,951
+193552,27,OwnGoal,0.07300000190734864,0.5709999847412109,0,Phil Jones,a,951,OpenPlay,2017,RightFoot,7367,Tottenham,Manchester United,2,0,2018-01-31 20:00:00,,Clearance,951
+251689,70,SavedShot,0.885,0.48700000762939455,0.08950109779834747,Phil Jones,a,951,FromCorner,2018,RightFoot,9374,Cardiff,Manchester United,1,5,2018-12-22 17:30:00,,None,951
+274332,41,MissedShots,0.9430000305175781,0.45599998474121095,0.07810550183057785,Phil Jones,a,951,SetPiece,2018,Head,9399,Newcastle United,Manchester United,0,2,2019-01-02 20:00:00,Juan Mata,Aerial,951
+275398,40,SavedShot,0.7580000305175781,0.5459999847412109,0.019618500024080276,Phil Jones,a,951,FromCorner,2018,LeftFoot,9447,Fulham,Manchester United,0,3,2019-02-09 12:30:00,Ander Herrera,Pass,951
+291019,69,MissedShots,0.755,0.4570000076293945,0.017588699236512184,Phil Jones,a,951,FromCorner,2018,RightFoot,9517,Wolverhampton Wanderers,Manchester United,2,1,2019-04-02 19:45:00,,None,951
+299818,70,MissedShots,0.91,0.5579999923706055,0.3469820022583008,Phil Jones,a,951,SetPiece,2018,RightFoot,9561,Huddersfield,Manchester United,1,1,2019-05-05 13:00:00,Ashley Young,Cross,951
+352312,58,MissedShots,0.9019999694824219,0.5570000076293945,0.08081100136041641,Phil Jones,h,951,SetPiece,2019,Head,11879,Manchester United,Burnley,0,2,2020-01-22 20:15:00,Juan Mata,Cross,951
+352318,73,SavedShot,0.915,0.5320000076293945,0.03403479978442192,Phil Jones,h,951,FromCorner,2019,Head,11879,Manchester United,Burnley,0,2,2020-01-22 20:15:00,Juan Mata,Aerial,951

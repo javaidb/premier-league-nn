@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1759,Ben Hamer,8,720,0,0,0,0,0,0,0,0,GK,Leicester,0,0,0.3751891031861305,0.3751891031861305,2014
+1759,Ben Hamer,4,272,0,0,0,0,0,0,0,0,GK S,Leicester,0,0,0.3402630090713501,0.3402630090713501,2017
+1759,Ben Hamer,7,552,0,0,0,0,0,0,0,0,GK,Huddersfield,0,0,0.0903921015560627,0.0903921015560627,2018

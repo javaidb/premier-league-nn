@@ -1,0 +1,46 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+437826,79,BlockedShot,0.8730000305175781,0.34,0.03615409880876541,Crysencio Summerville,h,9492,FromCorner,2021,RightFoot,16462,Leeds,Wolverhampton Wanderers,1,1,2021-10-23 14:00:00,,Dispossessed,9492
+449598,76,MissedShots,0.9080000305175782,0.46599998474121096,0.2862370014190674,Crysencio Summerville,h,9492,OpenPlay,2021,RightFoot,16548,Leeds,Arsenal,1,4,2021-12-18 17:30:00,Mateusz Klich,Cross,9492
+492090,82,BlockedShot,0.9330000305175781,0.655,0.051572900265455246,Crysencio Summerville,a,9492,OpenPlay,2022,RightFoot,18296,Crystal Palace,Leeds,2,1,2022-10-09 13:00:00,Rodrigo,Cross,9492
+493748,88,MissedShots,0.9059999847412109,0.40200000762939453,0.10083600133657455,Crysencio Summerville,h,9492,OpenPlay,2022,RightFoot,18305,Leeds,Arsenal,0,1,2022-10-16 13:00:00,Brenden Aaronson,Pass,9492
+494640,31,MissedShots,0.8630000305175781,0.625,0.06639319658279419,Crysencio Summerville,a,9492,OpenPlay,2022,RightFoot,18317,Leicester,Leeds,2,0,2022-10-20 19:15:00,Brenden Aaronson,Pass,9492
+494653,83,BlockedShot,0.7280000305175781,0.4179999923706055,0.01091499999165535,Crysencio Summerville,a,9492,SetPiece,2022,RightFoot,18317,Leicester,Leeds,2,0,2022-10-20 19:15:00,,None,9492
+495518,90,Goal,0.9009999847412109,0.5579999923706055,0.3218440115451813,Crysencio Summerville,h,9492,OpenPlay,2022,RightFoot,18325,Leeds,Fulham,2,3,2022-10-23 13:00:00,Joe Gelhardt,Throughball,9492
+496848,36,BlockedShot,0.794000015258789,0.6379999923706055,0.018662599846720695,Crysencio Summerville,a,9492,OpenPlay,2022,RightFoot,18339,Liverpool,Leeds,1,2,2022-10-29 18:45:00,Rodrigo,Cross,9492
+496872,88,Goal,0.904000015258789,0.6359999847412109,0.0790363997220993,Crysencio Summerville,a,9492,OpenPlay,2022,RightFoot,18339,Liverpool,Leeds,1,2,2022-10-29 18:45:00,Patrick Bamford,BallTouch,9492
+498052,83,Goal,0.894000015258789,0.49400001525878906,0.625944972038269,Crysencio Summerville,h,9492,OpenPlay,2022,RightFoot,18345,Leeds,Bournemouth,4,3,2022-11-05 15:00:00,Wilfried Gnonto,Throughball,9492
+500121,9,Goal,0.9059999847412109,0.585,0.3740760087966919,Crysencio Summerville,a,9492,OpenPlay,2022,LeftFoot,18359,Tottenham,Leeds,4,3,2022-11-12 15:00:00,Brenden Aaronson,Pass,9492
+500125,19,SavedShot,0.8819999694824219,0.645,0.37050101161003113,Crysencio Summerville,a,9492,OpenPlay,2022,RightFoot,18359,Tottenham,Leeds,4,3,2022-11-12 15:00:00,Brenden Aaronson,Pass,9492
+500141,73,BlockedShot,0.8690000152587891,0.725999984741211,0.03394560143351555,Crysencio Summerville,a,9492,OpenPlay,2022,RightFoot,18359,Tottenham,Leeds,4,3,2022-11-12 15:00:00,Pascal Struijk,Pass,9492
+507596,92,MissedShots,0.745,0.6919999694824219,0.017047299072146416,Crysencio Summerville,a,9492,SetPiece,2022,RightFoot,18419,Nottingham Forest,Leeds,1,0,2023-02-05 14:00:00,Wilfried Gnonto,Pass,9492
+508051,46,BlockedShot,0.8530000305175781,0.649000015258789,0.0751447007060051,Crysencio Summerville,a,9492,OpenPlay,2022,RightFoot,18279,Manchester United,Leeds,2,2,2023-02-08 19:00:00,Wilfried Gnonto,Pass,9492
+508884,3,MissedShots,0.9380000305175781,0.4590000152587891,0.5600429773330688,Crysencio Summerville,h,9492,OpenPlay,2022,LeftFoot,18426,Leeds,Manchester United,0,2,2023-02-12 14:00:00,,Rebound,9492
+508888,43,SavedShot,0.9369999694824219,0.32099998474121094,0.05776650086045265,Crysencio Summerville,h,9492,OpenPlay,2022,RightFoot,18426,Leeds,Manchester United,0,2,2023-02-12 14:00:00,,None,9492
+508890,46,SavedShot,0.779000015258789,0.34900001525878904,0.025799300521612167,Crysencio Summerville,h,9492,OpenPlay,2022,RightFoot,18426,Leeds,Manchester United,0,2,2023-02-12 14:00:00,Weston McKennie,Pass,9492
+508899,77,SavedShot,0.909000015258789,0.3029999923706055,0.05623399838805199,Crysencio Summerville,h,9492,OpenPlay,2022,RightFoot,18426,Leeds,Manchester United,0,2,2023-02-12 14:00:00,,BallRecovery,9492
+509690,46,MissedShots,0.9219999694824219,0.4909999847412109,0.06505150347948074,Crysencio Summerville,a,9492,OpenPlay,2022,Head,18436,Everton,Leeds,1,0,2023-02-18 15:00:00,Júnior Firpo,Aerial,9492
+510853,71,BlockedShot,0.8880000305175781,0.47,0.0936276987195015,Crysencio Summerville,h,9492,OpenPlay,2022,LeftFoot,18446,Leeds,Southampton,1,0,2023-02-25 15:00:00,,None,9492
+510858,94,MissedShots,0.89,0.33299999237060546,0.0817079022526741,Crysencio Summerville,h,9492,OpenPlay,2022,RightFoot,18446,Leeds,Southampton,1,0,2023-02-25 15:00:00,Georginio Rutter,Dispossessed,9492
+512171,79,BlockedShot,0.8569999694824219,0.37,0.04770129919052124,Crysencio Summerville,a,9492,OpenPlay,2022,LeftFoot,18456,Chelsea,Leeds,1,0,2023-03-04 15:00:00,Wilfried Gnonto,Chipped,9492
+516415,29,SavedShot,0.8619999694824219,0.6769999694824219,0.05043569952249527,Crysencio Summerville,a,9492,OpenPlay,2022,RightFoot,18482,Arsenal,Leeds,4,1,2023-04-01 14:00:00,Marc Roca,Pass,9492
+516423,56,BlockedShot,0.8859999847412109,0.425,0.06432729959487915,Crysencio Summerville,a,9492,OpenPlay,2022,RightFoot,18482,Arsenal,Leeds,4,1,2023-04-01 14:00:00,Luis Sinisterra,Cross,9492
+517487,76,BlockedShot,0.8180000305175781,0.45,0.038166701793670654,Crysencio Summerville,h,9492,FromCorner,2022,RightFoot,18271,Leeds,Nottingham Forest,2,1,2023-04-04 18:45:00,Rodrigo,None,9492
+520636,59,MissedShots,0.8859999847412109,0.3129999923706055,0.036274462938308716,Crysencio Summerville,a,9492,FromCorner,2022,RightFoot,18517,Fulham,Leeds,2,1,2023-04-22 11:30:00,Robin Koch,None,9492
+523175,51,MissedShots,0.9080000305175782,0.5429999923706055,0.08795218914747238,Crysencio Summerville,a,9492,FromCorner,2022,RightFoot,18533,Bournemouth,Leeds,4,1,2023-04-30 13:00:00,Weston McKennie,BallTouch,9492
+527874,84,BlockedShot,0.89,0.435,0.10548197478055954,Crysencio Summerville,a,9492,OpenPlay,2022,RightFoot,18570,West Ham,Leeds,3,1,2023-05-21 12:30:00,Marc Roca,Throughball,9492
+527877,89,BlockedShot,0.875999984741211,0.6959999847412109,0.02967608906328678,Crysencio Summerville,a,9492,FromCorner,2022,LeftFoot,18570,West Ham,Leeds,3,1,2023-05-21 12:30:00,Robin Koch,BallTouch,9492
+527880,98,MissedShots,0.740999984741211,0.46599998474121096,0.013042382895946503,Crysencio Summerville,a,9492,SetPiece,2022,RightFoot,18570,West Ham,Leeds,3,1,2023-05-21 12:30:00,,None,9492
+589429,94,SavedShot,0.8919999694824219,0.6669999694824219,0.040852297097444534,Crysencio Summerville,h,9492,OpenPlay,2024,RightFoot,26628,West Ham,Manchester City,1,3,2024-08-31 16:30:00,,None,9492
+594164,80,BlockedShot,0.9,0.7130000305175781,0.050104398280382156,Crysencio Summerville,a,9492,OpenPlay,2024,LeftFoot,26656,Brentford,West Ham,1,1,2024-09-28 14:00:00,Carlos Soler,Pass,9492
+598856,73,Goal,0.975999984741211,0.5579999923706055,0.6295180916786194,Crysencio Summerville,h,9492,OpenPlay,2024,RightFoot,26690,West Ham,Manchester United,2,1,2024-10-27 14:00:00,Danny Ings,Rebound,9492
+601485,73,SavedShot,0.8809999847412109,0.635,0.12134786695241928,Crysencio Summerville,h,9492,OpenPlay,2024,LeftFoot,26710,West Ham,Everton,0,0,2024-11-09 15:00:00,Lucas Paquetá,Throughball,9492
+605200,67,BlockedShot,0.924000015258789,0.5209999847412109,0.45171138644218445,Crysencio Summerville,a,9492,OpenPlay,2024,RightFoot,26738,Leicester,West Ham,3,1,2024-12-03 20:15:00,Jarrod Bowen,Pass,9492
+605207,94,BlockedShot,0.8719999694824219,0.54,0.10697945952415466,Crysencio Summerville,a,9492,OpenPlay,2024,RightFoot,26738,Leicester,West Ham,3,1,2024-12-03 20:15:00,Jarrod Bowen,Pass,9492
+606709,39,BlockedShot,0.8390000152587891,0.7180000305175781,0.04435800015926361,Crysencio Summerville,h,9492,OpenPlay,2024,RightFoot,26746,West Ham,Wolverhampton Wanderers,2,1,2024-12-09 20:00:00,,TakeOn,9492
+606711,43,MissedShots,0.914000015258789,0.5990000152587891,0.052269499748945236,Crysencio Summerville,h,9492,OpenPlay,2024,Head,26746,West Ham,Wolverhampton Wanderers,2,1,2024-12-09 20:00:00,Aaron Wan-Bissaka,Cross,9492
+606722,71,BlockedShot,0.8130000305175781,0.5279999923706055,0.0440586693584919,Crysencio Summerville,h,9492,SetPiece,2024,RightFoot,26746,West Ham,Wolverhampton Wanderers,2,1,2024-12-09 20:00:00,,None,9492
+608384,77,BlockedShot,0.855999984741211,0.575,0.07543265074491501,Crysencio Summerville,h,9492,OpenPlay,2024,RightFoot,26767,West Ham,Brighton,1,1,2024-12-21 15:00:00,,BallRecovery,9492
+609185,69,MissedShots,0.9409999847412109,0.7019999694824218,0.06331120431423187,Crysencio Summerville,a,9492,OpenPlay,2024,RightFoot,26780,Southampton,West Ham,0,1,2024-12-26 15:00:00,Jarrod Bowen,Pass,9492
+609608,94,BlockedShot,0.8730000305175781,0.6959999847412109,0.019830258563160896,Crysencio Summerville,h,9492,FromCorner,2024,RightFoot,26791,West Ham,Liverpool,0,5,2024-12-29 17:15:00,,TakeOn,9492
+610014,45,SavedShot,0.89,0.624000015258789,0.01805780455470085,Crysencio Summerville,a,9492,OpenPlay,2024,Head,26798,Manchester City,West Ham,4,1,2025-01-04 15:00:00,Edson Álvarez,Aerial,9492
+610023,80,MissedShots,0.9019999694824219,0.6170000076293946,0.09620468318462372,Crysencio Summerville,a,9492,OpenPlay,2024,RightFoot,26798,Manchester City,West Ham,4,1,2025-01-04 15:00:00,Niclas Füllkrug,Pass,9492

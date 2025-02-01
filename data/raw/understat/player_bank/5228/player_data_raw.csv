@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+5228,Renato Sanches,12,703,0,0.36920759826898575,0,0.25285069830715656,12,6,1,0,M S,Swansea,0,0.36920759826898575,1.2484090775251389,0.9803172778338194,2017

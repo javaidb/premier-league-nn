@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+9301,Emmanuel Dennis,33,2612,10,7.006806670688093,6,3.959161562845111,60,33,7,1,F M S,Watford,10,7.006806670688093,12.345256780274212,4.416254226118326,2021
+9301,Emmanuel Dennis,19,705,2,1.5486181434243917,2,0.5363962892442942,21,7,3,0,F M S,Nottingham Forest,2,1.5486181434243917,2.086062991991639,0.9663639571517706,2022

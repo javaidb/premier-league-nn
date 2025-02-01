@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+253140,84,BlockedShot,0.955999984741211,0.38299999237060545,0.013179699890315533,William Troost-Ekong,h,6996,FromCorner,2018,Head,9686,Udinese,AC Milan,0,1,2018-11-04 19:30:00,Rodrigo de Paul,Aerial,6996
+253347,43,BlockedShot,0.9569999694824218,0.6179999923706054,0.055265601724386215,William Troost-Ekong,a,6996,FromCorner,2018,RightFoot,9689,Empoli,Udinese,2,1,2018-11-11 14:00:00,Rolando Mandragora,BallTouch,6996
+253451,26,MissedShots,0.6919999694824219,0.5790000152587891,0.011815500445663929,William Troost-Ekong,h,6996,OpenPlay,2018,RightFoot,9706,Udinese,Roma,1,0,2018-11-24 14:00:00,Rodrigo de Paul,Pass,6996
+254947,51,MissedShots,0.9009999847412109,0.49900001525878906,0.022923100739717484,William Troost-Ekong,a,6996,FromCorner,2018,Head,9755,SPAL 2013,Udinese,0,0,2018-12-26 14:00:00,Rodrigo de Paul,Aerial,6996
+277066,20,MissedShots,0.925,0.5359999847412109,0.10134200006723404,William Troost-Ekong,h,6996,FromCorner,2018,LeftFoot,9788,Udinese,Fiorentina,1,1,2019-02-03 14:00:00,,BallTouch,6996
+292483,35,MissedShots,0.9119999694824219,0.519000015258789,0.08375409990549088,William Troost-Ekong,h,6996,FromCorner,2018,Head,9885,Udinese,Empoli,3,2,2019-04-07 14:00:00,Rolando Mandragora,Cross,6996
+294650,42,MissedShots,0.97,0.639000015258789,0.00830789003521204,William Troost-Ekong,a,6996,SetPiece,2018,Head,9821,Lazio,Udinese,2,0,2019-04-17 18:00:00,Rodrigo de Paul,Aerial,6996
+301081,69,BlockedShot,0.9319999694824219,0.46299999237060546,0.0547374002635479,William Troost-Ekong,a,6996,FromCorner,2018,Head,9934,Frosinone,Udinese,1,3,2019-05-12 14:00:00,Rodrigo de Paul,Aerial,6996
+313220,77,MissedShots,0.765,0.5920000076293945,0.018053000792860985,William Troost-Ekong,h,6996,FromCorner,2019,RightFoot,13091,Udinese,AC Milan,1,0,2019-08-25 17:00:00,,None,6996
+316863,71,MissedShots,0.8969999694824219,0.44799999237060545,0.04599570110440254,William Troost-Ekong,h,6996,FromCorner,2019,Head,13108,Udinese,Parma Calcio 1913,1,3,2019-09-01 19:45:00,Rodrigo de Paul,Cross,6996
+338426,4,MissedShots,0.965,0.49599998474121093,0.521477997303009,William Troost-Ekong,h,6996,FromCorner,2019,Head,13258,Udinese,Cagliari,2,1,2019-12-21 14:00:00,Rolando Mandragora,Aerial,6996
+359768,79,BlockedShot,0.8680000305175781,0.5420000076293945,0.020969200879335403,William Troost-Ekong,a,6996,FromCorner,2019,Head,13330,Bologna,Udinese,1,1,2020-02-22 14:00:00,Rodrigo de Paul,Cross,6996
+362311,28,MissedShots,0.8009999847412109,0.61,0.03156609833240509,William Troost-Ekong,h,6996,FromCorner,2019,LeftFoot,13348,Udinese,Fiorentina,0,0,2020-03-08 17:00:00,Rolando Mandragora,Pass,6996
+374549,59,MissedShots,0.9130000305175782,0.47,0.3891009986400604,William Troost-Ekong,a,6996,SetPiece,2019,RightFoot,13461,Sassuolo,Udinese,0,1,2020-08-02 18:45:00,Rodrigo de Paul,Cross,6996
+433488,37,MissedShots,0.705,0.27799999237060546,0.012392000295221806,William Troost-Ekong,h,6996,OpenPlay,2021,RightFoot,16427,Watford,Newcastle United,1,1,2021-09-25 14:00:00,Juraj Kucka,Pass,6996
+444642,10,MissedShots,0.899000015258789,0.48700000762939455,0.09180139750242233,William Troost-Ekong,a,6996,SetPiece,2021,Head,16502,Leicester,Watford,4,2,2021-11-28 14:00:00,Tom Cleverley,Cross,6996
+528871,95,Goal,0.9459999847412109,0.4909999847412109,0.5647739768028259,William Troost-Ekong,h,6996,OpenPlay,2022,RightFoot,18949,Salernitana,Udinese,3,2,2023-05-27 13:00:00,Junior Sambia,Cross,6996
+530839,93,MissedShots,0.8969999694824219,0.54,0.053669147193431854,William Troost-Ekong,a,6996,FromCorner,2022,Head,18953,Cremonese,Salernitana,2,0,2023-06-03 19:00:00,Antonio Candreva,Cross,6996

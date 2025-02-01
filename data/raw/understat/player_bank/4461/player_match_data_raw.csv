@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,1,0.0254891999065876,13,Sub,Leicester,Hull,0,0,2015-03-14,4495,2014,25877,0,0,0,0,0.0254891999065876,0.0254891999065876,0,4461
+0,0,0,17,Sub,Leicester,Stoke,0,1,2015-01-17,4573,2014,21601,0,0,0,0,0,0,0,4461
+0,2,0.2081190049648285,17,Sub,Leicester,Aston Villa,1,0,2015-01-10,4567,2014,20728,0,0,0,0,0.2081190049648285,0.2081190049648285,0,4461

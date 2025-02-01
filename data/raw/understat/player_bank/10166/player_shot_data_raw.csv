@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+585663,85,MissedShots,0.895,0.590999984741211,0.013084491714835167,Kasey McAteer,h,10166,SetPiece,2024,Head,26611,Leicester,Tottenham,1,1,2024-08-19 19:00:00,Harry Winks,Aerial,10166
+600131,93,BlockedShot,0.835999984741211,0.585,0.021347910165786743,Kasey McAteer,a,10166,FromCorner,2024,LeftFoot,26695,Ipswich,Leicester,1,1,2024-11-02 15:00:00,,Aerial,10166
+602634,37,MissedShots,0.8519999694824218,0.33599998474121096,0.04845397174358368,Kasey McAteer,h,10166,OpenPlay,2024,LeftFoot,26719,Leicester,Chelsea,1,2,2024-11-23 12:30:00,Oliver Skipp,Pass,10166
+605181,32,SavedShot,0.9059999847412109,0.34400001525878904,0.5183331966400146,Kasey McAteer,h,10166,OpenPlay,2024,RightFoot,26738,Leicester,West Ham,3,1,2024-12-03 20:15:00,Facundo Buonanotte,Throughball,10166
+605203,71,MissedShots,0.8530000305175781,0.6480000305175782,0.43212637305259705,Kasey McAteer,h,10166,OpenPlay,2024,LeftFoot,26738,Leicester,West Ham,3,1,2024-12-03 20:15:00,Bilal El Khannouss,Chipped,10166
+607011,54,SavedShot,0.8490000152587891,0.6459999847412109,0.06144732981920242,Kasey McAteer,a,10166,OpenPlay,2024,RightFoot,26760,Newcastle United,Leicester,4,0,2024-12-14 15:00:00,Bilal El Khannouss,Pass,10166

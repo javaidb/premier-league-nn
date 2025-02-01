@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14903,91,MissedShots,0.875999984741211,0.3120000076293945,0.05773089826107025,Darren Bent,h,4508,OpenPlay,2014,RightFoot,4776,Aston Villa,Hull,2,1,2014-08-31 13:30:00,Ashley Westwood,Pass,4508

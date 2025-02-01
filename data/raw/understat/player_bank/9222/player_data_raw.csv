@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+9222,Antwoine Hackford,1,4,0,0.10344500094652176,0,0,1,0,0,0,S,Sheffield United,0,0.10344500094652176,0.11183100193738937,0.008386320434510708,2020
+9222,Antwoine Hackford,2,8,0,0,0,0,0,0,0,0,S,Sheffield United,0,0,0,0,2023

@@ -1,0 +1,88 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+18777,70,MissedShots,0.8730000305175781,0.4779999923706055,0.02534330077469349,Federico Fernández,a,708,FromCorner,2014,Head,4625,Hull,Swansea,0,1,2014-12-20 15:00:00,Jonjo Shelvey,Cross,708
+19842,51,MissedShots,0.92,0.5820000076293945,0.08055339753627777,Federico Fernández,a,708,SetPiece,2014,Head,4554,Queens Park Rangers,Swansea,1,1,2015-01-01 15:00:00,Gylfi Sigurdsson,Cross,708
+23576,54,MissedShots,0.8490000152587891,0.44,0.021716399118304253,Federico Fernández,a,708,SetPiece,2014,Head,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,Jonjo Shelvey,Cross,708
+23532,48,MissedShots,0.9030000305175782,0.580999984741211,0.07909739762544632,Federico Fernández,h,708,SetPiece,2014,LeftFoot,4517,Swansea,Sunderland,1,1,2015-02-07 15:00:00,,None,708
+23174,48,MissedShots,0.889000015258789,0.3390000152587891,0.03784589841961861,Federico Fernández,a,708,FromCorner,2014,RightFoot,4534,West Bromwich Albion,Swansea,2,0,2015-02-11 20:00:00,Jonjo Shelvey,Cross,708
+24277,21,MissedShots,0.9230000305175782,0.6229999923706054,0.029404500499367714,Federico Fernández,h,708,FromCorner,2014,Head,4539,Swansea,Manchester United,2,1,2015-02-21 15:00:00,Jack Cork,Cross,708
+21695,59,SavedShot,0.87,0.46099998474121096,0.04845630005002022,Federico Fernández,a,708,FromCorner,2014,RightFoot,4489,Tottenham,Swansea,3,2,2015-03-04 19:45:00,Gylfi Sigurdsson,Cross,708
+21704,92,SavedShot,0.905,0.47700000762939454,0.07426279783248901,Federico Fernández,a,708,OpenPlay,2014,Head,4489,Tottenham,Swansea,3,2,2015-03-04 19:45:00,Jefferson Montero,Cross,708
+21705,93,BlockedShot,0.874000015258789,0.4129999923706055,0.044848598539829254,Federico Fernández,a,708,FromCorner,2014,RightFoot,4489,Tottenham,Swansea,3,2,2015-03-04 19:45:00,Gylfi Sigurdsson,Cross,708
+21205,14,BlockedShot,0.9369999694824219,0.39799999237060546,0.015448699705302715,Federico Fernández,h,708,FromCorner,2014,Head,4451,Swansea,Everton,1,1,2015-04-11 12:45:00,Gylfi Sigurdsson,Aerial,708
+21223,84,BlockedShot,0.835,0.3629999923706055,0.03284589946269989,Federico Fernández,h,708,FromCorner,2014,RightFoot,4451,Swansea,Everton,1,1,2015-04-11 12:45:00,,None,708
+22801,22,SavedShot,0.909000015258789,0.46900001525878904,0.07368049770593643,Federico Fernández,a,708,FromCorner,2014,Head,4470,Newcastle United,Swansea,2,3,2015-04-25 15:00:00,Gylfi Sigurdsson,Cross,708
+21062,81,SavedShot,0.8780000305175781,0.5259999847412109,0.0303678996860981,Federico Fernández,h,708,FromCorner,2014,Head,4426,Swansea,Manchester City,2,4,2015-05-17 13:30:00,Gylfi Sigurdsson,Cross,708
+51533,29,OwnGoal,0.05699999809265137,0.295,0,Federico Fernández,a,708,OpenPlay,2015,RightFoot,86,Chelsea,Swansea,2,2,2015-08-08 20:30:00,,Aerial,708
+51540,47,MissedShots,0.9340000152587891,0.524000015258789,0.12019900232553482,Federico Fernández,a,708,FromCorner,2015,Head,86,Chelsea,Swansea,2,2,2015-08-08 20:30:00,Jonjo Shelvey,Cross,708
+57059,86,MissedShots,0.9419999694824219,0.445,0.07005129754543304,Federico Fernández,a,708,SetPiece,2015,Head,103,Sunderland,Swansea,1,1,2015-08-22 18:00:00,Jefferson Montero,Aerial,708
+57985,75,MissedShots,0.730999984741211,0.3120000076293945,0.014691299758851528,Federico Fernández,a,708,OpenPlay,2015,RightFoot,124,Watford,Swansea,1,0,2015-09-12 18:00:00,Ki Sung-yueng,Pass,708
+57993,94,MissedShots,0.9330000305175781,0.3559999847412109,0.14099399745464325,Federico Fernández,a,708,OpenPlay,2015,Head,124,Watford,Swansea,1,0,2015-09-12 18:00:00,Jefferson Montero,Cross,708
+58271,19,MissedShots,0.8680000305175781,0.5659999847412109,0.016701100394129753,Federico Fernández,h,708,FromCorner,2015,Head,136,Swansea,Everton,0,0,2015-09-19 18:00:00,Jonjo Shelvey,Cross,708
+58895,91,SavedShot,0.909000015258789,0.5309999847412109,0.10365600138902664,Federico Fernández,h,708,SetPiece,2015,Head,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Ki Sung-yueng,Cross,708
+59216,12,MissedShots,0.9330000305175781,0.515,0.47229498624801636,Federico Fernández,a,708,FromCorner,2015,RightFoot,171,Aston Villa,Swansea,1,2,2015-10-24 18:00:00,Bafétimbi Gomis,HeadPass,708
+54347,58,MissedShots,0.914000015258789,0.49900001525878906,0.03834160044789314,Federico Fernández,a,708,FromCorner,2015,Head,232,Manchester City,Swansea,2,1,2015-12-12 19:00:00,Gylfi Sigurdsson,Aerial,708
+52903,60,BlockedShot,0.9369999694824219,0.32799999237060545,0.04888549819588661,Federico Fernández,h,708,FromCorner,2015,RightFoot,249,Swansea,West Ham,0,0,2015-12-20 20:00:00,,None,708
+52907,62,MissedShots,0.720999984741211,0.6759999847412109,0.013692200183868408,Federico Fernández,h,708,FromCorner,2015,RightFoot,249,Swansea,West Ham,0,0,2015-12-20 20:00:00,,Rebound,708
+53629,48,OwnGoal,0.12699999809265136,0.435,0,Federico Fernández,h,708,OpenPlay,2015,OtherBodyPart,286,Swansea,Sunderland,2,4,2016-01-13 23:45:00,,KeeperSweeper,708
+53680,63,MissedShots,0.9390000152587891,0.43900001525878907,0.10052900016307831,Federico Fernández,h,708,FromCorner,2015,Head,325,Swansea,Crystal Palace,1,1,2016-02-06 19:00:00,Gylfi Sigurdsson,Cross,708
+53689,83,MissedShots,0.9019999694824219,0.5320000076293945,0.06095439940690994,Federico Fernández,h,708,FromCorner,2015,Head,325,Swansea,Crystal Palace,1,1,2016-02-06 19:00:00,Gylfi Sigurdsson,Cross,708
+60851,15,MissedShots,0.9130000305175782,0.41700000762939454,0.06920979917049408,Federico Fernández,a,708,SetPiece,2015,Head,371,Bournemouth,Swansea,3,2,2016-03-12 19:00:00,Gylfi Sigurdsson,Cross,708
+60595,53,Goal,0.93,0.5420000076293945,0.16795900464057922,Federico Fernández,h,708,SetPiece,2015,OtherBodyPart,379,Swansea,Aston Villa,1,0,2016-03-19 21:30:00,Gylfi Sigurdsson,Cross,708
+57344,32,MissedShots,0.9319999694824219,0.5029999923706054,0.12800100445747375,Federico Fernández,a,708,SetPiece,2015,Head,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Gylfi Sigurdsson,Cross,708
+57000,70,BlockedShot,0.885,0.5529999923706055,0.07362979650497437,Federico Fernández,a,708,FromCorner,2015,RightFoot,439,West Ham,Swansea,1,4,2016-05-07 18:00:00,Jordi Amat,Pass,708
+52187,57,MissedShots,0.895,0.4209999847412109,0.030485600233078003,Federico Fernández,h,708,FromCorner,2015,Head,457,Swansea,Manchester City,1,1,2016-05-15 18:00:00,Stephen Kingsley,Cross,708
+112149,63,MissedShots,0.9619999694824218,0.45799999237060546,0.5510780215263367,Federico Fernández,a,708,FromCorner,2016,RightFoot,464,Burnley,Swansea,0,1,2016-08-13 18:00:00,Jack Cork,HeadPass,708
+112764,75,MissedShots,0.8180000305175781,0.44299999237060544,0.05981149896979332,Federico Fernández,h,708,OpenPlay,2016,RightFoot,474,Swansea,Hull,0,2,2016-08-20 18:00:00,Modou Barrow,Pass,708
+114707,90,SavedShot,0.9159999847412109,0.55,0.07920210063457489,Federico Fernández,a,708,OpenPlay,2016,Head,532,Arsenal,Swansea,3,2,2016-10-15 18:00:00,Angel Rangel,Cross,708
+118062,26,MissedShots,0.9209999847412109,0.524000015258789,0.060899000614881516,Federico Fernández,a,708,SetPiece,2016,Head,3337,Crystal Palace,Swansea,1,2,2017-01-04 00:00:00,Gylfi Sigurdsson,Aerial,708
+117780,64,MissedShots,0.8690000152587891,0.605999984741211,0.0605412982404232,Federico Fernández,h,708,FromCorner,2016,RightFoot,3343,Swansea,Arsenal,0,4,2017-01-14 19:00:00,Fernando Llorente,LayOff,708
+118422,19,BlockedShot,0.97,0.59,0.06922049820423126,Federico Fernández,a,708,FromCorner,2016,Head,3350,Liverpool,Swansea,2,3,2017-01-21 15:30:00,Gylfi Sigurdsson,Cross,708
+118241,6,MissedShots,0.91,0.5870000076293945,0.04010370001196861,Federico Fernández,a,708,FromCorner,2016,Head,3391,Chelsea,Swansea,3,1,2017-02-25 15:00:00,Gylfi Sigurdsson,Cross,708
+119892,74,MissedShots,0.8730000305175781,0.655,0.05252809822559357,Federico Fernández,h,708,FromCorner,2016,RightFoot,3405,Swansea,Burnley,3,2,2017-03-04 15:00:00,,Rebound,708
+120605,31,MissedShots,0.9,0.52,0.06106939911842346,Federico Fernández,a,708,FromCorner,2016,Head,3455,West Ham,Swansea,1,0,2017-04-08 15:00:00,Gylfi Sigurdsson,Cross,708
+121504,12,MissedShots,0.990999984741211,0.6079999923706054,0.015135999768972397,Federico Fernández,a,708,SetPiece,2016,Head,3466,Watford,Swansea,1,0,2017-04-15 15:00:00,,None,708
+120870,46,SavedShot,0.8930000305175781,0.6419999694824219,0.011220799759030342,Federico Fernández,h,708,FromCorner,2016,Head,3478,Swansea,Stoke,2,0,2017-04-22 15:00:00,Gylfi Sigurdsson,Aerial,708
+120874,63,BlockedShot,0.9669999694824218,0.6509999847412109,0.059790100902318954,Federico Fernández,h,708,SetPiece,2016,RightFoot,3478,Swansea,Stoke,2,0,2017-04-22 15:00:00,,None,708
+121654,67,BlockedShot,0.915,0.4520000076293945,0.07498999685049057,Federico Fernández,h,708,FromCorner,2016,Head,3498,Swansea,Everton,1,0,2017-05-06 17:30:00,Gylfi Sigurdsson,Cross,708
+112588,30,MissedShots,0.9330000305175781,0.5790000152587891,0.07456909865140915,Federico Fernández,h,708,FromCorner,2016,Head,3518,Swansea,West Bromwich Albion,2,1,2017-05-21 15:00:00,Kyle Naughton,Cross,708
+112595,51,MissedShots,0.9719999694824218,0.4370000076293945,0.38086599111557007,Federico Fernández,h,708,FromCorner,2016,Head,3518,Swansea,West Bromwich Albion,2,1,2017-05-21 15:00:00,Leroy Fer,Pass,708
+159612,24,OwnGoal,0.05,0.42700000762939455,0,Federico Fernández,h,708,OpenPlay,2017,Head,7206,Swansea,Leicester,1,2,2017-10-21 15:00:00,,None,708
+159629,80,SavedShot,0.894000015258789,0.3629999923706055,0.014186100102961063,Federico Fernández,h,708,OpenPlay,2017,Head,7206,Swansea,Leicester,1,2,2017-10-21 15:00:00,Tom Carroll,Cross,708
+193715,52,Goal,0.95,0.48200000762939454,0.46229299902915955,Federico Fernández,a,708,FromCorner,2017,Head,7374,Leicester,Swansea,1,1,2018-02-03 15:00:00,Ki Sung-yueng,Cross,708
+197421,25,MissedShots,0.924000015258789,0.47900001525878905,0.06436929851770401,Federico Fernández,a,708,SetPiece,2017,Head,7391,Brighton,Swansea,4,1,2018-02-24 15:00:00,Alfie Mawson,HeadPass,708
+198876,16,BlockedShot,0.9569999694824218,0.605999984741211,0.4102790057659149,Federico Fernández,h,708,OpenPlay,2017,RightFoot,7406,Swansea,West Ham,4,1,2018-03-03 15:00:00,Mike van der Hoorn,BallTouch,708
+208491,21,BlockedShot,0.924000015258789,0.5309999847412109,0.047008201479911804,Federico Fernández,h,708,FromCorner,2017,Head,7456,Swansea,Everton,1,1,2018-04-14 14:00:00,Tom Carroll,Aerial,708
+208505,63,BlockedShot,0.9080000305175782,0.45099998474121095,0.024983000010252,Federico Fernández,h,708,FromCorner,2017,Head,7456,Swansea,Everton,1,1,2018-04-14 14:00:00,Tom Carroll,Aerial,708
+213370,56,MissedShots,0.91,0.6659999847412109,0.010832100175321102,Federico Fernández,a,708,FromCorner,2017,Head,7488,Bournemouth,Swansea,1,0,2018-05-05 15:00:00,Tom Carroll,Aerial,708
+214269,95,BlockedShot,0.775,0.639000015258789,0.022096900269389153,Federico Fernández,h,708,OpenPlay,2017,RightFoot,7426,Swansea,Southampton,0,1,2018-05-08 19:45:00,,None,708
+233874,31,BlockedShot,0.895,0.5429999923706055,0.01634329929947853,Federico Fernández,h,708,FromCorner,2018,Head,9238,Newcastle United,Arsenal,1,2,2018-09-15 14:00:00,Matt Ritchie,Aerial,708
+249313,63,MissedShots,0.9169999694824219,0.5609999847412109,0.03463109955191612,Federico Fernández,h,708,OpenPlay,2018,Head,9280,Newcastle United,Brighton,0,1,2018-10-20 14:00:00,Matt Ritchie,Aerial,708
+250475,3,MissedShots,0.789000015258789,0.615,0.020849300548434258,Federico Fernández,a,708,FromCorner,2018,RightFoot,9326,Burnley,Newcastle United,1,2,2018-11-26 20:00:00,Kenedy,Dispossessed,708
+251198,29,SavedShot,0.895,0.6029999923706054,0.011073799803853035,Federico Fernández,h,708,SetPiece,2018,Head,9348,Newcastle United,Wolverhampton Wanderers,1,2,2018-12-09 16:00:00,Ki Sung-yueng,Aerial,708
+329275,21,Goal,0.8909999847412109,0.4490000152587891,0.14386600255966187,Federico Fernández,a,708,FromCorner,2019,Head,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Jetro Willems,Chipped,708
+330694,28,MissedShots,0.725999984741211,0.48700000762939455,0.016020800918340683,Federico Fernández,h,708,OpenPlay,2019,RightFoot,11756,Newcastle United,Bournemouth,2,1,2019-11-09 15:00:00,,None,708
+330706,51,BlockedShot,0.865999984741211,0.43599998474121093,0.16610699892044067,Federico Fernández,h,708,FromCorner,2019,Head,11756,Newcastle United,Bournemouth,2,1,2019-11-09 15:00:00,,None,708
+333251,42,SavedShot,0.9430000305175781,0.5029999923706054,0.28538399934768677,Federico Fernández,a,708,FromCorner,2019,Head,11764,Aston Villa,Newcastle United,2,0,2019-11-25 20:00:00,Jonjo Shelvey,Aerial,708
+336300,45,SavedShot,0.9219999694824219,0.6569999694824219,0.029230400919914246,Federico Fernández,h,708,SetPiece,2019,Head,11798,Newcastle United,Southampton,2,1,2019-12-08 14:00:00,Jonjo Shelvey,Chipped,708
+336319,86,Goal,0.97,0.4520000076293945,0.631102979183197,Federico Fernández,h,708,FromCorner,2019,RightFoot,11798,Newcastle United,Southampton,2,1,2019-12-08 14:00:00,,Rebound,708
+339666,69,MissedShots,0.9619999694824218,0.5929999923706055,0.09061519801616669,Federico Fernández,a,708,SetPiece,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Sean Longstaff,Chipped,708
+352027,37,MissedShots,0.909000015258789,0.509000015258789,0.10488899797201157,Federico Fernández,h,708,SetPiece,2019,Head,11868,Newcastle United,Chelsea,1,0,2020-01-18 17:30:00,Jonjo Shelvey,Cross,708
+352117,86,SavedShot,0.925,0.5890000152587891,0.0169879999011755,Federico Fernández,a,708,FromCorner,2019,Head,11877,Everton,Newcastle United,2,2,2020-01-21 19:30:00,Matt Ritchie,Aerial,708
+352121,94,ShotOnPost,0.9669999694824218,0.3340000152587891,0.0549096018075943,Federico Fernández,a,708,SetPiece,2019,RightFoot,11877,Everton,Newcastle United,2,2,2020-01-21 19:30:00,Matt Ritchie,Rebound,708
+365737,9,BlockedShot,0.9169999694824219,0.5379999923706055,0.10968200117349625,Federico Fernández,h,708,FromCorner,2019,RightFoot,11938,Newcastle United,Sheffield United,3,0,2020-06-21 13:00:00,Jamaal Lascelles,None,708
+366363,89,MissedShots,0.9219999694824219,0.5670000076293945,0.06670369952917099,Federico Fernández,h,708,SetPiece,2019,Head,11949,Newcastle United,Aston Villa,1,1,2020-06-24 17:00:00,Jonjo Shelvey,Chipped,708
+369701,30,SavedShot,0.9219999694824219,0.39,0.019713500514626503,Federico Fernández,a,708,SetPiece,2019,Head,11979,Manchester City,Newcastle United,5,0,2020-07-08 17:00:00,Matt Ritchie,Aerial,708
+369714,57,OwnGoal,0.08100000381469727,0.5270000076293946,0,Federico Fernández,a,708,OpenPlay,2019,OtherBodyPart,11979,Manchester City,Newcastle United,5,0,2020-07-08 17:00:00,,Tackle,708
+370378,22,MissedShots,0.9219999694824219,0.37400001525878906,0.020044200122356415,Federico Fernández,a,708,FromCorner,2019,Head,11991,Watford,Newcastle United,2,1,2020-07-11 11:30:00,Matt Ritchie,Cross,708
+373776,32,SavedShot,0.9440000152587891,0.18899999618530272,0.02610119991004467,Federico Fernández,h,708,FromCorner,2019,RightFoot,12016,Newcastle United,Liverpool,1,3,2020-07-26 15:00:00,Matt Ritchie,Cross,708
+387142,9,OwnGoal,0.017999999523162842,0.4779999923706055,0,Federico Fernández,h,708,FromCorner,2020,LeftFoot,14521,Newcastle United,Chelsea,0,2,2020-11-21 12:30:00,,CornerAwarded,708
+415124,12,SavedShot,0.8690000152587891,0.475,0.011672199703752995,Federico Fernández,h,708,SetPiece,2020,Head,14752,Newcastle United,West Ham,3,2,2021-04-17 11:30:00,Matt Ritchie,Aerial,708
+419127,12,MissedShots,0.8440000152587891,0.4909999847412109,0.020074399188160896,Federico Fernández,h,708,SetPiece,2020,Head,14771,Newcastle United,Arsenal,0,2,2021-05-02 13:00:00,Matt Ritchie,Cross,708
+419723,12,MissedShots,0.924000015258789,0.5029999923706054,0.13401900231838226,Federico Fernández,a,708,SetPiece,2020,Head,14779,Leicester,Newcastle United,2,4,2021-05-07 19:00:00,Jonjo Shelvey,Cross,708
+423248,29,SavedShot,0.875999984741211,0.4829999923706055,0.02807760052382946,Federico Fernández,h,708,FromCorner,2020,Head,14801,Newcastle United,Sheffield United,1,0,2021-05-19 17:00:00,Matt Ritchie,Cross,708
+426252,87,MissedShots,0.9059999847412109,0.48,0.10544800013303757,Federico Fernández,h,708,FromCorner,2021,RightFoot,16384,Newcastle United,West Ham,2,4,2021-08-15 13:00:00,,None,708
+427016,45,MissedShots,0.9130000305175782,0.495,0.054715100675821304,Federico Fernández,a,708,SetPiece,2021,Head,16388,Aston Villa,Newcastle United,2,0,2021-08-21 14:00:00,Matt Ritchie,Aerial,708
+433481,13,BlockedShot,0.9390000152587891,0.5570000076293945,0.049410101026296616,Federico Fernández,a,708,FromCorner,2021,Head,16427,Watford,Newcastle United,1,1,2021-09-25 14:00:00,Matt Ritchie,BallTouch,708
+433482,14,SavedShot,0.9340000152587891,0.56,0.04675399884581566,Federico Fernández,a,708,FromCorner,2021,Head,16427,Watford,Newcastle United,1,1,2021-09-25 14:00:00,,Aerial,708
+434941,87,MissedShots,0.899000015258789,0.45599998474121095,0.028856800869107246,Federico Fernández,a,708,SetPiece,2021,Head,16445,Wolverhampton Wanderers,Newcastle United,2,1,2021-10-02 14:00:00,Matt Ritchie,Aerial,708
+445112,56,BlockedShot,0.8969999694824219,0.5409999847412109,0.05194870010018349,Federico Fernández,h,708,FromCorner,2021,Head,16513,Newcastle United,Norwich,1,1,2021-11-30 19:30:00,Jonjo Shelvey,Cross,708

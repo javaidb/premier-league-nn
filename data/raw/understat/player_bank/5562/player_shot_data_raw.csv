@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+396622,92,SavedShot,0.7730000305175782,0.5459999847412109,0.029595399275422096,Rekeem Harper,h,5562,OpenPlay,2020,LeftFoot,14600,West Bromwich Albion,Arsenal,0,4,2021-01-02 20:00:00,Matheus Pereira,Pass,5562

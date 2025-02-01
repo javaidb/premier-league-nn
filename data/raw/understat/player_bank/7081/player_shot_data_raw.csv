@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+287884,61,MissedShots,0.69,0.500999984741211,0.008855580352246761,Francisco Sierralta,h,7081,SetPiece,2018,RightFoot,9863,Parma Calcio 1913,Atalanta,1,3,2019-03-31 11:30:00,,None,7081
+291454,51,MissedShots,0.9540000152587891,0.3609999847412109,0.016654200851917267,Francisco Sierralta,a,7081,SetPiece,2018,Head,9870,Frosinone,Parma Calcio 1913,3,2,2019-04-03 20:00:00,,None,7081
+301862,83,OwnGoal,0.12199999809265137,0.5309999847412109,0,Francisco Sierralta,a,7081,OpenPlay,2018,RightFoot,9931,Bologna,Parma Calcio 1913,4,1,2019-05-13 18:00:00,,None,7081
+429859,73,OwnGoal,0.04199999809265137,0.524000015258789,0,Francisco Sierralta,h,7081,FromCorner,2021,Head,16412,Watford,Wolverhampton Wanderers,0,2,2021-09-11 14:00:00,,CornerAwarded,7081
+450809,94,SavedShot,0.9130000305175782,0.53,0.03239230066537857,Francisco Sierralta,h,7081,FromCorner,2021,Head,16569,Watford,West Ham,1,4,2021-12-28 15:00:00,Imran Louza,Aerial,7081

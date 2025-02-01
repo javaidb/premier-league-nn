@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+589161,60,MissedShots,0.9009999847412109,0.5629999923706055,0.059616949409246445,Mateus Fernandes,a,12948,OpenPlay,2024,Head,26623,Brentford,Southampton,3,1,2024-08-31 14:00:00,Tyler Dibling,Cross,12948
+589175,92,SavedShot,0.960999984741211,0.38,0.3053131103515625,Mateus Fernandes,a,12948,OpenPlay,2024,RightFoot,26623,Brentford,Southampton,3,1,2024-08-31 14:00:00,Flynn Downes,Throughball,12948
+592357,54,MissedShots,0.9030000305175782,0.644000015258789,0.13153265416622162,Mateus Fernandes,h,12948,OpenPlay,2024,LeftFoot,26643,Southampton,Ipswich,1,1,2024-09-21 14:00:00,Yukinari Sugawara,Chipped,12948
+595534,48,MissedShots,0.9080000305175782,0.47900001525878905,0.4313855469226837,Mateus Fernandes,a,12948,OpenPlay,2024,LeftFoot,26666,Arsenal,Southampton,3,1,2024-10-05 14:00:00,,Rebound,12948
+601492,11,BlockedShot,0.8980000305175782,0.5459999847412109,0.1133810430765152,Mateus Fernandes,a,12948,OpenPlay,2024,RightFoot,26711,Wolverhampton Wanderers,Southampton,2,0,2024-11-09 15:00:00,Ryan Manning,Pass,12948
+601496,38,BlockedShot,0.7980000305175782,0.6120000076293945,0.027795981615781784,Mateus Fernandes,a,12948,OpenPlay,2024,LeftFoot,26711,Wolverhampton Wanderers,Southampton,2,0,2024-11-09 15:00:00,Adam Lallana,Pass,12948
+601498,46,MissedShots,0.7480000305175781,0.65,0.04985871911048889,Mateus Fernandes,a,12948,DirectFreekick,2024,RightFoot,26711,Wolverhampton Wanderers,Southampton,2,0,2024-11-09 15:00:00,,Standard,12948
+603445,4,SavedShot,0.7569999694824219,0.38799999237060545,0.023734262213110924,Mateus Fernandes,h,12948,OpenPlay,2024,RightFoot,26721,Southampton,Liverpool,2,3,2024-11-24 14:00:00,Taylor Harwood-Bellis,Pass,12948
+603463,55,Goal,0.8690000152587891,0.47200000762939454,0.4493879973888397,Mateus Fernandes,h,12948,OpenPlay,2024,LeftFoot,26721,Southampton,Liverpool,2,3,2024-11-24 14:00:00,Adam Armstrong,Pass,12948
+603804,6,BlockedShot,0.840999984741211,0.625,0.038019899278879166,Mateus Fernandes,a,12948,FromCorner,2024,RightFoot,26723,Brighton,Southampton,1,1,2024-11-29 20:00:00,,None,12948
+603812,37,BlockedShot,0.7709999847412109,0.509000015258789,0.0309382863342762,Mateus Fernandes,a,12948,OpenPlay,2024,RightFoot,26723,Brighton,Southampton,1,1,2024-11-29 20:00:00,Adam Armstrong,Pass,12948
+605285,39,SavedShot,0.9669999694824218,0.43099998474121093,0.3537207245826721,Mateus Fernandes,h,12948,FromCorner,2024,Head,26741,Southampton,Chelsea,1,5,2024-12-04 19:30:00,James Bree,Cross,12948
+605294,58,SavedShot,0.9059999847412109,0.5029999923706054,0.3703863024711609,Mateus Fernandes,h,12948,OpenPlay,2024,LeftFoot,26741,Southampton,Chelsea,1,5,2024-12-04 19:30:00,Joe Ayodele-Aribo,Pass,12948
+605827,8,BlockedShot,0.855,0.455,0.10010764747858047,Mateus Fernandes,a,12948,OpenPlay,2024,RightFoot,26742,Aston Villa,Southampton,1,0,2024-12-07 15:00:00,Adam Armstrong,Pass,12948
+608646,80,BlockedShot,0.7290000152587891,0.509000015258789,0.05112668499350548,Mateus Fernandes,a,12948,DirectFreekick,2024,RightFoot,26763,Fulham,Southampton,0,0,2024-12-22 14:00:00,,Standard,12948
+609166,17,SavedShot,0.9180000305175782,0.5179999923706055,0.3470700979232788,Mateus Fernandes,h,12948,OpenPlay,2024,Head,26780,Southampton,West Ham,0,1,2024-12-26 15:00:00,Adam Armstrong,Cross,12948
+609184,68,MissedShots,0.9,0.5820000076293945,0.09769940376281738,Mateus Fernandes,h,12948,OpenPlay,2024,LeftFoot,26780,Southampton,West Ham,0,1,2024-12-26 15:00:00,Kyle Walker-Peters,Pass,12948
+609474,63,SavedShot,0.8490000152587891,0.495,0.12393573671579361,Mateus Fernandes,a,12948,OpenPlay,2024,LeftFoot,26784,Crystal Palace,Southampton,2,1,2024-12-29 15:00:00,Chimuanya Ugochukwu,TakeOn,12948
+611876,15,SavedShot,0.85,0.624000015258789,0.0687241181731224,Mateus Fernandes,a,12948,OpenPlay,2024,LeftFoot,26811,Manchester United,Southampton,3,1,2025-01-16 20:00:00,Joe Ayodele-Aribo,Pass,12948
+611885,27,SavedShot,0.9330000305175781,0.4809999847412109,0.5662372708320618,Mateus Fernandes,a,12948,OpenPlay,2024,RightFoot,26811,Manchester United,Southampton,3,1,2025-01-16 20:00:00,,Rebound,12948
+611897,53,BlockedShot,0.7669999694824219,0.624000015258789,0.06545702368021011,Mateus Fernandes,a,12948,DirectFreekick,2024,RightFoot,26811,Manchester United,Southampton,3,1,2025-01-16 20:00:00,,Standard,12948
+612647,16,BlockedShot,0.9030000305175782,0.624000015258789,0.12321560829877853,Mateus Fernandes,a,12948,OpenPlay,2024,LeftFoot,26820,Nottingham Forest,Southampton,3,2,2025-01-19 14:00:00,Cameron Archer,Throughball,12948
+613371,63,SavedShot,0.840999984741211,0.6519999694824219,0.04415431618690491,Mateus Fernandes,h,12948,OpenPlay,2024,LeftFoot,26829,Southampton,Newcastle United,1,3,2025-01-25 15:00:00,Paul Onuachu,LayOff,12948
+613373,73,BlockedShot,0.855,0.5729999923706055,0.07556457072496414,Mateus Fernandes,h,12948,OpenPlay,2024,LeftFoot,26829,Southampton,Newcastle United,1,3,2025-01-25 15:00:00,Paul Onuachu,Pass,12948
+613376,81,BlockedShot,0.81,0.710999984741211,0.01682518608868122,Mateus Fernandes,h,12948,OpenPlay,2024,RightFoot,26829,Southampton,Newcastle United,1,3,2025-01-25 15:00:00,Kyle Walker-Peters,Pass,12948

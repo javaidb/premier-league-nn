@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+611535,90,BlockedShot,0.9330000305175781,0.5559999847412109,0.04245133325457573,Joshua King,a,12410,OpenPlay,2024,Head,26808,West Ham,Fulham,3,2,2025-01-14 19:30:00,Raúl Jiménez,Rebound,12410

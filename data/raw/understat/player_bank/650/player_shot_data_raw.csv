@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+25968,78,OwnGoal,0.025999999046325682,0.5479999923706055,0,Kevin Wimmer,a,650,FromCorner,2014,LeftFoot,5389,Eintracht Frankfurt,FC Cologne,3,2,2014-10-04 17:30:00,,CornerAwarded,650
+27540,42,MissedShots,0.9619999694824218,0.39799999237060546,0.016706500202417374,Kevin Wimmer,h,650,FromCorner,2014,Head,5317,FC Cologne,Augsburg,1,2,2014-12-06 14:30:00,Marcel Risse,Aerial,650
+31447,23,MissedShots,0.725,0.5479999923706055,0.022816600278019905,Kevin Wimmer,h,650,OpenPlay,2014,LeftFoot,5211,FC Cologne,Hoffenheim,3,2,2015-04-12 14:30:00,,TakeOn,650
+31761,38,SavedShot,0.8069999694824219,0.6140000152587891,0.0707205981016159,Kevin Wimmer,h,650,OpenPlay,2014,RightFoot,5186,FC Cologne,Wolfsburg,2,2,2015-05-23 14:30:00,Dominic Maroh,TakeOn,650
+31774,73,MissedShots,0.924000015258789,0.5070000076293946,0.05524839833378792,Kevin Wimmer,h,650,FromCorner,2014,Head,5186,FC Cologne,Wolfsburg,2,2,2015-05-23 14:30:00,Slawomir Peszko,Aerial,650
+53963,72,MissedShots,0.88,0.415,0.060923900455236435,Kevin Wimmer,h,650,FromCorner,2015,RightFoot,324,Tottenham,Watford,1,0,2016-02-06 19:00:00,Christian Eriksen,Pass,650
+115071,41,OwnGoal,0.07300000190734864,0.4759999847412109,0,Kevin Wimmer,a,650,SetPiece,2016,Head,2692,Arsenal,Tottenham,1,1,2016-11-06 16:00:00,,Foul,650
+186479,74,BlockedShot,0.8580000305175781,0.509000015258789,0.06951329857110977,Kevin Wimmer,h,650,SetPiece,2017,RightFoot,7337,Stoke,Newcastle United,0,1,2018-01-01 15:00:00,Kurt Zouma,None,650
+226253,23,MissedShots,0.874000015258789,0.5459999847412109,0.05466590076684952,Kevin Wimmer,h,650,FromCorner,2018,LeftFoot,10374,Hannover 96,Hoffenheim,1,3,2018-09-25 18:30:00,Linton Maina,End,650
+278393,70,MissedShots,0.7340000152587891,0.38,0.05016990005970001,Kevin Wimmer,h,650,DirectFreekick,2018,LeftFoot,10494,Hannover 96,Werder Bremen,0,1,2019-01-19 14:30:00,,Standard,650
+279203,25,MissedShots,0.925,0.39099998474121095,0.16109399497509003,Kevin Wimmer,a,650,FromCorner,2018,LeftFoot,10526,Hoffenheim,Hannover 96,3,0,2019-02-16 14:30:00,Nicolai Müller,Cross,650

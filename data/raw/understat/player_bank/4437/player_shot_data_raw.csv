@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+21496,91,SavedShot,0.8009999847412109,0.2720000076293945,0.059140898287296295,Luke Garbutt,a,4437,DirectFreekick,2014,LeftFoot,4488,Stoke,Everton,2,0,2015-03-04 19:45:00,,Standard,4437

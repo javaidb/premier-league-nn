@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+44693,61,BlockedShot,0.904000015258789,0.48700000762939455,0.04194039851427078,Marco van Ginkel,h,946,OpenPlay,2014,Head,5063,AC Milan,Udinese,2,0,2014-11-30 14:00:00,Pablo Armero,Foul,946
+48904,34,MissedShots,0.7909999847412109,0.6179999923706054,0.03565400093793869,Marco van Ginkel,h,946,OpenPlay,2014,RightFoot,4910,AC Milan,Cagliari,3,1,2015-03-21 19:45:00,Jérémy Menez,Pass,946
+48911,62,BlockedShot,0.8030000305175782,0.3629999923706055,0.04816329851746559,Marco van Ginkel,h,946,OpenPlay,2014,RightFoot,4910,AC Milan,Cagliari,3,1,2015-03-21 19:45:00,,None,946
+48863,13,SavedShot,0.7809999847412109,0.28100000381469725,0.01981559954583645,Marco van Ginkel,h,946,OpenPlay,2014,RightFoot,4849,AC Milan,Sampdoria,1,1,2015-04-12 19:45:00,Giacomo Bonaventura,Pass,946
+48865,15,MissedShots,0.750999984741211,0.42900001525878906,0.025495000183582306,Marco van Ginkel,h,946,FromCorner,2014,RightFoot,4849,AC Milan,Sampdoria,1,1,2015-04-12 19:45:00,Giacomo Bonaventura,Pass,946
+51208,35,MissedShots,0.7730000305175782,0.39099998474121095,0.02438659965991974,Marco van Ginkel,a,946,OpenPlay,2014,RightFoot,4861,Udinese,AC Milan,2,1,2015-04-25 17:00:00,Ignazio Abate,Pass,946
+51212,49,MissedShots,0.815,0.29600000381469727,0.026979800313711166,Marco van Ginkel,a,946,OpenPlay,2014,LeftFoot,4861,Udinese,AC Milan,2,1,2015-04-25 17:00:00,Suso,Pass,946
+50264,65,SavedShot,0.9519999694824218,0.51,0.639726996421814,Marco van Ginkel,h,946,OpenPlay,2014,RightFoot,4878,AC Milan,Genoa,1,3,2015-04-29 19:45:00,Giacomo Bonaventura,Pass,946
+51019,39,Goal,0.9590000152587891,0.45799999237060546,0.6464769840240479,Marco van Ginkel,h,946,OpenPlay,2014,RightFoot,4790,AC Milan,Roma,2,1,2015-05-09 19:45:00,Keisuke Honda,Pass,946
+50231,31,BlockedShot,0.919000015258789,0.53,0.09110990166664124,Marco van Ginkel,a,946,OpenPlay,2014,RightFoot,4801,Sassuolo,AC Milan,3,2,2015-05-17 11:30:00,Ignazio Abate,Cross,946
+51682,45,MissedShots,0.7619999694824219,0.20700000762939452,0.010778600350022316,Marco van Ginkel,h,946,OpenPlay,2015,LeftFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,Jonathan Walters,Pass,946
+51687,79,BlockedShot,0.86,0.41900001525878905,0.08865729719400406,Marco van Ginkel,h,946,OpenPlay,2015,LeftFoot,89,Stoke,Liverpool,0,1,2015-08-09 19:00:00,Jonathan Walters,Pass,946
+51901,11,BlockedShot,0.909000015258789,0.3509999847412109,0.06257739663124084,Marco van Ginkel,a,946,OpenPlay,2015,RightFoot,95,Tottenham,Stoke,2,2,2015-08-15 18:00:00,,Rebound,946
+51904,43,MissedShots,0.8619999694824219,0.48,0.026509199291467667,Marco van Ginkel,a,946,OpenPlay,2015,Head,95,Tottenham,Stoke,2,2,2015-08-15 18:00:00,Glen Johnson,Cross,946
+56915,13,MissedShots,0.7809999847412109,0.7709999847412109,0.015001799911260605,Marco van Ginkel,a,946,OpenPlay,2015,RightFoot,102,Norwich,Stoke,1,1,2015-08-22 18:00:00,Marko Arnautovic,Pass,946
+57804,70,MissedShots,0.815,0.7440000152587891,0.018347900360822678,Marco van Ginkel,a,946,OpenPlay,2015,RightFoot,122,Arsenal,Stoke,2,0,2015-09-12 18:00:00,Xherdan Shaqiri,Pass,946
+58245,10,BlockedShot,0.795,0.62,0.028736000880599022,Marco van Ginkel,h,946,OpenPlay,2015,LeftFoot,135,Stoke,Leicester,2,2,2015-09-19 18:00:00,Marko Arnautovic,Pass,946
+58253,37,BlockedShot,0.904000015258789,0.49,0.1002189964056015,Marco van Ginkel,h,946,SetPiece,2015,Head,135,Stoke,Leicester,2,2,2015-09-19 18:00:00,Xherdan Shaqiri,Cross,946
+58259,61,SavedShot,0.815,0.35900001525878905,0.06364549696445465,Marco van Ginkel,h,946,OpenPlay,2015,LeftFoot,135,Stoke,Leicester,2,2,2015-09-19 18:00:00,Xherdan Shaqiri,TakeOn,946
+55308,10,MissedShots,0.9159999847412109,0.43099998474121093,0.44731900095939636,Marco van Ginkel,a,946,OpenPlay,2015,LeftFoot,235,West Ham,Stoke,0,0,2015-12-12 19:00:00,,None,946
+52620,37,ShotOnPost,0.9159999847412109,0.6140000152587891,0.07119330018758774,Marco van Ginkel,h,946,OpenPlay,2015,RightFoot,243,Stoke,Crystal Palace,1,2,2015-12-19 19:00:00,Erik Pieters,Cross,946
+52630,59,SavedShot,0.9569999694824218,0.40799999237060547,0.10199999809265137,Marco van Ginkel,h,946,FromCorner,2015,RightFoot,243,Stoke,Crystal Palace,1,2,2015-12-19 19:00:00,,None,946

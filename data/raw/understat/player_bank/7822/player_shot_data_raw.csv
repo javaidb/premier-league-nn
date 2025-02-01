@@ -1,0 +1,31 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+332311,91,Goal,0.935,0.4179999923706055,0.43341100215911865,Dennis Srbeny,a,7822,OpenPlay,2019,LeftFoot,11768,Everton,Norwich,0,2,2019-11-23 15:00:00,,TakeOn,7822
+336290,82,MissedShots,0.915,0.38299999237060545,0.048736099153757095,Dennis Srbeny,h,7822,FromCorner,2019,RightFoot,11799,Norwich,Sheffield United,1,2,2019-12-08 14:00:00,Emiliano Buendía,Cross,7822
+355319,50,Goal,0.9619999694824218,0.5329999923706055,0.6379579901695251,Dennis Srbeny,h,7822,OpenPlay,2019,RightFoot,12564,Paderborn,Bayer Leverkusen,1,4,2020-01-19 17:00:00,,Rebound,7822
+355324,64,BlockedShot,0.88,0.5529999923706055,0.11011199653148651,Dennis Srbeny,h,7822,OpenPlay,2019,LeftFoot,12564,Paderborn,Bayer Leverkusen,1,4,2020-01-19 17:00:00,Gerrit Holtmann,Pass,7822
+355744,23,BlockedShot,0.7390000152587891,0.6409999847412109,0.020368000492453575,Dennis Srbeny,a,7822,OpenPlay,2019,RightFoot,12572,Freiburg,Paderborn,0,2,2020-01-25 14:30:00,Christopher Antwi-Adjei,Pass,7822
+355756,52,MissedShots,0.8419999694824218,0.4620000076293945,0.0962952971458435,Dennis Srbeny,a,7822,OpenPlay,2019,RightFoot,12572,Freiburg,Paderborn,0,2,2020-01-25 14:30:00,Christopher Antwi-Adjei,Pass,7822
+357286,10,SavedShot,0.879000015258789,0.365,0.10573899745941162,Dennis Srbeny,h,7822,OpenPlay,2019,RightFoot,12582,Paderborn,Wolfsburg,2,4,2020-02-02 17:00:00,Christopher Antwi-Adjei,Pass,7822
+358041,86,MissedShots,0.8859999847412109,0.5279999923706055,0.03341750055551529,Dennis Srbeny,a,7822,OpenPlay,2019,Head,12591,Schalke 04,Paderborn,1,1,2020-02-08 14:30:00,Kai Pröger,Aerial,7822
+358923,46,BlockedShot,0.9009999847412109,0.49,0.04086120054125786,Dennis Srbeny,h,7822,OpenPlay,2019,Head,12599,Paderborn,Hertha Berlin,1,2,2020-02-15 14:30:00,Laurent Jans,Aerial,7822
+358925,50,Goal,0.985,0.6669999694824219,0.04467900097370148,Dennis Srbeny,h,7822,OpenPlay,2019,LeftFoot,12599,Paderborn,Hertha Berlin,1,2,2020-02-15 14:30:00,Christopher Antwi-Adjei,Pass,7822
+358926,52,BlockedShot,0.7390000152587891,0.3840000152587891,0.022026000544428825,Dennis Srbeny,h,7822,OpenPlay,2019,RightFoot,12599,Paderborn,Hertha Berlin,1,2,2020-02-15 14:30:00,,TakeOn,7822
+358936,69,MissedShots,0.8519999694824218,0.34900001525878904,0.04346739873290062,Dennis Srbeny,h,7822,SetPiece,2019,LeftFoot,12599,Paderborn,Hertha Berlin,1,2,2020-02-15 14:30:00,,None,7822
+358943,91,BlockedShot,0.94,0.295,0.054246701300144196,Dennis Srbeny,h,7822,OpenPlay,2019,RightFoot,12599,Paderborn,Hertha Berlin,1,2,2020-02-15 14:30:00,Kai Pröger,Pass,7822
+359652,43,Goal,0.9519999694824218,0.44299999237060544,0.40042200684547424,Dennis Srbeny,a,7822,OpenPlay,2019,LeftFoot,12601,Bayern Munich,Paderborn,3,2,2020-02-21 19:30:00,Christian Strohdiek,Chipped,7822
+360785,33,SavedShot,0.9209999847412109,0.7440000152587891,0.04073169827461243,Dennis Srbeny,a,7822,OpenPlay,2019,RightFoot,12615,Mainz 05,Paderborn,2,0,2020-02-29 14:30:00,Jamilu Collins,Pass,7822
+361514,22,MissedShots,0.915,0.6809999847412109,0.05648139864206314,Dennis Srbeny,h,7822,OpenPlay,2019,LeftFoot,12627,Paderborn,FC Cologne,1,2,2020-03-06 19:00:00,Christopher Antwi-Adjei,Pass,7822
+361528,72,Goal,0.9219999694824219,0.4329999923706055,0.056266698986291885,Dennis Srbeny,h,7822,OpenPlay,2019,Head,12627,Paderborn,FC Cologne,1,2,2020-03-06 19:00:00,Kai Pröger,Aerial,7822
+361532,81,MissedShots,0.88,0.46599998474121096,0.0499051995575428,Dennis Srbeny,h,7822,OpenPlay,2019,Head,12627,Paderborn,FC Cologne,1,2,2020-03-06 19:00:00,Kai Pröger,Cross,7822
+361536,93,MissedShots,0.8680000305175781,0.7030000305175781,0.038382500410079956,Dennis Srbeny,h,7822,OpenPlay,2019,LeftFoot,12627,Paderborn,FC Cologne,1,2,2020-03-06 19:00:00,Jamilu Collins,Pass,7822
+363001,30,BlockedShot,0.8080000305175781,0.539000015258789,0.048173900693655014,Dennis Srbeny,a,7822,OpenPlay,2019,RightFoot,12633,Fortuna Duesseldorf,Paderborn,0,0,2020-05-16 13:30:00,Dennis Jastrzembski,Pass,7822
+363004,37,MissedShots,0.6630000305175782,0.34599998474121096,0.012094699777662754,Dennis Srbeny,a,7822,OpenPlay,2019,RightFoot,12633,Fortuna Duesseldorf,Paderborn,0,0,2020-05-16 13:30:00,Klaus Gjasula,Pass,7822
+363137,8,Goal,0.74,0.4859999847412109,0.0175710991024971,Dennis Srbeny,h,7822,OpenPlay,2019,RightFoot,12637,Paderborn,Hoffenheim,1,1,2020-05-23 13:30:00,,BallRecovery,7822
+363151,44,SavedShot,0.28299999237060547,0.4229999923706055,0.005777399986982346,Dennis Srbeny,h,7822,OpenPlay,2019,RightFoot,12637,Paderborn,Hoffenheim,1,1,2020-05-23 13:30:00,Mohamed Dräger,BallRecovery,7822
+363843,11,SavedShot,0.73,0.47900001525878905,0.017355600371956825,Dennis Srbeny,a,7822,OpenPlay,2019,LeftFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Streli Mamba,BallRecovery,7822
+363855,51,BlockedShot,0.955,0.5790000152587891,0.09487070143222809,Dennis Srbeny,a,7822,FromCorner,2019,RightFoot,12665,RasenBallsport Leipzig,Paderborn,1,1,2020-06-06 13:30:00,Christopher Antwi-Adjei,Cross,7822
+364261,35,BlockedShot,0.7909999847412109,0.7030000305175781,0.021371599286794662,Dennis Srbeny,h,7822,OpenPlay,2019,RightFoot,12681,Paderborn,Werder Bremen,1,5,2020-06-13 13:30:00,Jamilu Collins,Pass,7822
+364263,45,MissedShots,0.88,0.4329999923706055,0.03624879941344261,Dennis Srbeny,h,7822,OpenPlay,2019,Head,12681,Paderborn,Werder Bremen,1,5,2020-06-13 13:30:00,Laurent Jans,Cross,7822
+366933,17,BlockedShot,0.9419999694824219,0.3129999923706055,0.05557499825954437,Dennis Srbeny,a,7822,FromCorner,2019,RightFoot,12704,Eintracht Frankfurt,Paderborn,3,2,2020-06-27 13:30:00,,Rebound,7822
+366936,24,MissedShots,0.754000015258789,0.47,0.02447279915213585,Dennis Srbeny,a,7822,OpenPlay,2019,RightFoot,12704,Eintracht Frankfurt,Paderborn,3,2,2020-06-27 13:30:00,Sebastian Vasiliadis,Pass,7822
+366945,52,MissedShots,0.9030000305175782,0.46900001525878904,0.07972779870033264,Dennis Srbeny,a,7822,OpenPlay,2019,LeftFoot,12704,Eintracht Frankfurt,Paderborn,3,2,2020-06-27 13:30:00,,None,7822

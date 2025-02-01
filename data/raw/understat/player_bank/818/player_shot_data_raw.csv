@@ -1,0 +1,69 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14615,54,MissedShots,0.9130000305175782,0.3370000076293945,0.07602380216121674,Victor Anichebe,h,818,OpenPlay,2014,RightFoot,4753,West Bromwich Albion,Sunderland,2,2,2014-08-16 15:00:00,Graham Dorrans,Pass,818
+14798,3,MissedShots,0.8769999694824219,0.529000015258789,0.08523820340633392,Victor Anichebe,a,818,OpenPlay,2014,RightFoot,4762,Southampton,West Bromwich Albion,0,0,2014-08-23 15:00:00,Chris Brunt,Cross,818
+16443,50,Goal,0.9719999694824218,0.5059999847412109,0.1431249976158142,Victor Anichebe,h,818,FromCorner,2014,Head,4712,West Bromwich Albion,Crystal Palace,2,2,2014-10-25 15:00:00,Chris Brunt,Cross,818
+16444,57,MissedShots,0.9369999694824219,0.68,0.06362450122833252,Victor Anichebe,h,818,OpenPlay,2014,LeftFoot,4712,West Bromwich Albion,Crystal Palace,2,2,2014-10-25 15:00:00,Chris Brunt,Pass,818
+17424,26,BlockedShot,0.8519999694824218,0.5070000076293946,0.10174600034952164,Victor Anichebe,h,818,OpenPlay,2014,LeftFoot,4667,West Bromwich Albion,Newcastle United,0,2,2014-11-09 13:30:00,Saido Berahino,Pass,818
+19401,6,BlockedShot,0.8780000305175781,0.4829999923706055,0.09095530211925507,Victor Anichebe,h,818,SetPiece,2014,LeftFoot,4594,West Bromwich Albion,West Ham,1,2,2014-12-02 20:00:00,Chris Baird,Pass,818
+19416,40,BlockedShot,0.885,0.6680000305175782,0.06539519876241684,Victor Anichebe,h,818,OpenPlay,2014,LeftFoot,4594,West Bromwich Albion,West Ham,1,2,2014-12-02 20:00:00,Saido Berahino,Pass,818
+19423,63,SavedShot,0.9230000305175782,0.6959999847412109,0.05356929823756218,Victor Anichebe,h,818,OpenPlay,2014,LeftFoot,4594,West Bromwich Albion,West Ham,1,2,2014-12-02 20:00:00,Saido Berahino,Pass,818
+19426,69,MissedShots,0.7190000152587891,0.42700000762939455,0.017234699800610542,Victor Anichebe,h,818,OpenPlay,2014,RightFoot,4594,West Bromwich Albion,West Ham,1,2,2014-12-02 20:00:00,Chris Baird,Pass,818
+19428,73,SavedShot,0.905,0.48900001525878906,0.07535039633512497,Victor Anichebe,h,818,OpenPlay,2014,Head,4594,West Bromwich Albion,West Ham,1,2,2014-12-02 20:00:00,Silvestre Varela,Cross,818
+19429,75,BlockedShot,0.879000015258789,0.46900001525878904,0.08251430094242096,Victor Anichebe,h,818,FromCorner,2014,RightFoot,4594,West Bromwich Albion,West Ham,1,2,2014-12-02 20:00:00,,None,818
+19430,81,BlockedShot,0.8080000305175781,0.5370000076293945,0.05017950013279915,Victor Anichebe,h,818,OpenPlay,2014,LeftFoot,4594,West Bromwich Albion,West Ham,1,2,2014-12-02 20:00:00,Graham Dorrans,Pass,818
+19432,84,SavedShot,0.924000015258789,0.575,0.08402600139379501,Victor Anichebe,h,818,OpenPlay,2014,LeftFoot,4594,West Bromwich Albion,West Ham,1,2,2014-12-02 20:00:00,Graham Dorrans,Cross,818
+19901,11,BlockedShot,0.885,0.38299999237060545,0.09155820310115814,Victor Anichebe,a,818,OpenPlay,2014,RightFoot,4603,Hull,West Bromwich Albion,0,0,2014-12-06 15:00:00,James Morrison,Pass,818
+23870,9,BlockedShot,0.855999984741211,0.47200000762939454,0.0768624022603035,Victor Anichebe,h,818,OpenPlay,2014,RightFoot,4586,West Bromwich Albion,Tottenham,0,3,2015-01-31 15:00:00,James Morrison,Pass,818
+23877,33,BlockedShot,0.9519999694824218,0.41200000762939454,0.07994390279054642,Victor Anichebe,h,818,OpenPlay,2014,RightFoot,4586,West Bromwich Albion,Tottenham,0,3,2015-01-31 15:00:00,Saido Berahino,Cross,818
+23886,67,MissedShots,0.925,0.5629999923706055,0.0804378017783165,Victor Anichebe,h,818,FromCorner,2014,Head,4586,West Bromwich Albion,Tottenham,0,3,2015-01-31 15:00:00,James Morrison,Cross,818
+23895,90,BlockedShot,0.7480000305175781,0.5259999847412109,0.01074379961937666,Victor Anichebe,h,818,OpenPlay,2014,LeftFoot,4586,West Bromwich Albion,Tottenham,0,3,2015-01-31 15:00:00,,Aerial,818
+22731,57,Goal,0.919000015258789,0.49599998474121093,0.12024299800395966,Victor Anichebe,h,818,OpenPlay,2014,Head,4445,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04 15:00:00,Saido Berahino,Cross,818
+22736,72,BlockedShot,0.8859999847412109,0.29100000381469726,0.046104200184345245,Victor Anichebe,h,818,OpenPlay,2014,RightFoot,4445,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04 15:00:00,Youssouf Mulumbu,Pass,818
+20278,77,BlockedShot,0.9369999694824219,0.32099998474121094,0.045273199677467346,Victor Anichebe,a,818,FromCorner,2014,RightFoot,4462,Crystal Palace,West Bromwich Albion,0,2,2015-04-18 15:00:00,James Morrison,Pass,818
+20305,5,MissedShots,0.93,0.48900001525878906,0.09291529655456543,Victor Anichebe,h,818,SetPiece,2014,RightFoot,4471,West Bromwich Albion,Liverpool,0,0,2015-04-25 15:00:00,Craig Gardner,None,818
+21714,31,Goal,0.9130000305175782,0.46599998474121096,0.1148729994893074,Victor Anichebe,a,818,SetPiece,2014,Head,4413,Newcastle United,West Bromwich Albion,1,1,2015-05-09 15:00:00,Craig Gardner,Cross,818
+21900,56,SavedShot,0.8680000305175781,0.6719999694824219,0.03214139863848686,Victor Anichebe,a,818,OpenPlay,2014,LeftFoot,4433,Arsenal,West Bromwich Albion,4,1,2015-05-24 15:00:00,Craig Gardner,HeadPass,818
+21903,66,MissedShots,0.945,0.32,0.06983249634504318,Victor Anichebe,a,818,OpenPlay,2014,RightFoot,4433,Arsenal,West Bromwich Albion,4,1,2015-05-24 15:00:00,Craig Gardner,Pass,818
+51713,86,SavedShot,0.749000015258789,0.629000015258789,0.016134200617671013,Victor Anichebe,h,818,OpenPlay,2015,LeftFoot,90,West Bromwich Albion,Manchester City,0,3,2015-08-10 23:00:00,Darren Fletcher,TakeOn,818
+54362,2,BlockedShot,0.8959999847412109,0.5640000152587891,0.12358000129461288,Victor Anichebe,h,818,OpenPlay,2015,LeftFoot,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,Chris Brunt,Pass,818
+54364,8,BlockedShot,0.855,0.49,0.10168399661779404,Victor Anichebe,h,818,OpenPlay,2015,RightFoot,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,Darren Fletcher,Pass,818
+54365,9,BlockedShot,0.8630000305175781,0.47900001525878905,0.10185299813747406,Victor Anichebe,h,818,OpenPlay,2015,RightFoot,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,Craig Dawson,Pass,818
+54383,74,ShotOnPost,0.950999984741211,0.5209999847412109,0.1313139945268631,Victor Anichebe,h,818,FromCorner,2015,Head,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,Stéphane Sessegnon,Cross,818
+54388,81,SavedShot,0.9169999694824219,0.625999984741211,0.34176701307296753,Victor Anichebe,h,818,OpenPlay,2015,LeftFoot,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,Jonny Evans,TakeOn,818
+52570,28,BlockedShot,0.9269999694824219,0.38599998474121094,0.04343140125274658,Victor Anichebe,a,818,OpenPlay,2015,Head,294,Southampton,West Bromwich Albion,3,0,2016-01-16 19:00:00,Jonny Evans,Cross,818
+52575,45,MissedShots,0.9269999694824219,0.5059999847412109,0.1407420039176941,Victor Anichebe,a,818,OpenPlay,2015,Head,294,Southampton,West Bromwich Albion,3,0,2016-01-16 19:00:00,Craig Gardner,Cross,818
+52580,65,MissedShots,0.8130000305175781,0.48700000762939455,0.03761310130357742,Victor Anichebe,a,818,OpenPlay,2015,RightFoot,294,Southampton,West Bromwich Albion,3,0,2016-01-16 19:00:00,,None,818
+55227,76,SavedShot,0.8690000152587891,0.275,0.030246900394558907,Victor Anichebe,h,818,OpenPlay,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Salomón Rondón,Chipped,818
+55231,88,SavedShot,0.775,0.34700000762939454,0.02009820006787777,Victor Anichebe,h,818,OpenPlay,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,,None,818
+55234,91,BlockedShot,0.909000015258789,0.48700000762939455,0.05016519874334335,Victor Anichebe,h,818,FromCorner,2015,Head,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Jonas Olsson,HeadPass,818
+60236,86,BlockedShot,0.894000015258789,0.705999984741211,0.0325779989361763,Victor Anichebe,a,818,FromCorner,2015,RightFoot,389,Sunderland,West Bromwich Albion,0,0,2016-04-02 18:00:00,James McClean,Cross,818
+115091,24,BlockedShot,0.8590000152587891,0.7319999694824219,0.033359598368406296,Victor Anichebe,a,818,OpenPlay,2016,LeftFoot,2687,Bournemouth,Sunderland,1,2,2016-11-05 19:00:00,Patrick van Aanholt,Pass,818
+115097,32,Goal,0.965999984741211,0.6370000076293946,0.06760890036821365,Victor Anichebe,a,818,OpenPlay,2016,LeftFoot,2687,Bournemouth,Sunderland,1,2,2016-11-05 19:00:00,Jermain Defoe,Pass,818
+115752,15,MissedShots,0.7859999847412109,0.36700000762939455,0.02871130034327507,Victor Anichebe,h,818,OpenPlay,2016,LeftFoot,2700,Sunderland,Hull,3,0,2016-11-19 19:00:00,Billy Jones,BallRecovery,818
+115757,35,MissedShots,0.845,0.4909999847412109,0.10163500159978867,Victor Anichebe,h,818,OpenPlay,2016,RightFoot,2700,Sunderland,Hull,3,0,2016-11-19 19:00:00,Jermain Defoe,Pass,818
+115761,53,BlockedShot,0.9219999694824219,0.34799999237060547,0.09935209900140762,Victor Anichebe,h,818,OpenPlay,2016,RightFoot,2700,Sunderland,Hull,3,0,2016-11-19 19:00:00,Paddy McNair,Pass,818
+115764,61,Goal,0.879000015258789,0.3060000038146973,0.06588999927043915,Victor Anichebe,h,818,OpenPlay,2016,LeftFoot,2700,Sunderland,Hull,3,0,2016-11-19 19:00:00,Patrick van Aanholt,Pass,818
+115772,83,Goal,0.9280000305175782,0.38599998474121094,0.13313999772071838,Victor Anichebe,h,818,OpenPlay,2016,RightFoot,2700,Sunderland,Hull,3,0,2016-11-19 19:00:00,Jermain Defoe,Pass,818
+115248,67,BlockedShot,0.8730000305175781,0.57,0.07722020149230957,Victor Anichebe,a,818,OpenPlay,2016,RightFoot,2710,Liverpool,Sunderland,2,0,2016-11-26 19:00:00,,None,818
+115880,2,MissedShots,0.925,0.7380000305175781,0.03878770023584366,Victor Anichebe,h,818,OpenPlay,2016,LeftFoot,3108,Sunderland,Leicester,2,1,2016-12-03 15:00:00,Jermain Defoe,Pass,818
+115881,3,BlockedShot,0.8830000305175781,0.6020000076293945,0.09545069932937622,Victor Anichebe,h,818,OpenPlay,2016,RightFoot,3108,Sunderland,Leicester,2,1,2016-12-03 15:00:00,Patrick van Aanholt,Pass,818
+115885,13,BlockedShot,0.9319999694824219,0.56,0.11483500152826309,Victor Anichebe,h,818,OpenPlay,2016,RightFoot,3108,Sunderland,Leicester,2,1,2016-12-03 15:00:00,Didier Ndong,Cross,818
+115899,57,MissedShots,0.9530000305175781,0.5709999847412109,0.13316600024700165,Victor Anichebe,h,818,OpenPlay,2016,Head,3108,Sunderland,Leicester,2,1,2016-12-03 15:00:00,Duncan Watmore,Cross,818
+115900,59,SavedShot,0.7269999694824218,0.66,0.018936200067400932,Victor Anichebe,h,818,OpenPlay,2016,RightFoot,3108,Sunderland,Leicester,2,1,2016-12-03 15:00:00,Patrick van Aanholt,Pass,818
+115904,65,SavedShot,0.8480000305175781,0.7019999694824218,0.04683230072259903,Victor Anichebe,h,818,OpenPlay,2016,RightFoot,3108,Sunderland,Leicester,2,1,2016-12-03 15:00:00,Patrick van Aanholt,Pass,818
+115912,79,BlockedShot,0.8109999847412109,0.5529999923706055,0.06310299783945084,Victor Anichebe,h,818,OpenPlay,2016,RightFoot,3108,Sunderland,Leicester,2,1,2016-12-03 15:00:00,,None,818
+115914,88,SavedShot,0.8119999694824219,0.64,0.05804850161075592,Victor Anichebe,h,818,OpenPlay,2016,RightFoot,3108,Sunderland,Leicester,2,1,2016-12-03 15:00:00,Patrick van Aanholt,TakeOn,818
+117326,6,BlockedShot,0.91,0.4640000152587891,0.08206439763307571,Victor Anichebe,a,818,FromCorner,2016,Head,3117,Swansea,Sunderland,3,0,2016-12-10 19:00:00,Sebastian Larsson,Cross,818
+115777,6,BlockedShot,0.8980000305175782,0.705,0.05002329871058464,Victor Anichebe,h,818,OpenPlay,2016,LeftFoot,3139,Sunderland,Watford,1,0,2016-12-17 19:00:00,Jason Denayer,Pass,818
+115781,29,BlockedShot,0.9569999694824218,0.6840000152587891,0.031857699155807495,Victor Anichebe,h,818,OpenPlay,2016,RightFoot,3139,Sunderland,Watford,1,0,2016-12-17 19:00:00,Jordan Pickford,TakeOn,818
+115786,53,MissedShots,0.8119999694824219,0.7230000305175781,0.03302590176463127,Victor Anichebe,h,818,OpenPlay,2016,RightFoot,3139,Sunderland,Watford,1,0,2016-12-17 19:00:00,,None,818
+115788,62,MissedShots,0.8190000152587891,0.5329999923706055,0.06940239667892456,Victor Anichebe,h,818,OpenPlay,2016,RightFoot,3139,Sunderland,Watford,1,0,2016-12-17 19:00:00,Jermain Defoe,None,818
+116581,28,SavedShot,0.9290000152587891,0.4520000076293945,0.10850100219249725,Victor Anichebe,a,818,OpenPlay,2016,RightFoot,3147,Manchester United,Sunderland,3,1,2016-12-26 19:00:00,,None,818
+116584,34,BlockedShot,0.9219999694824219,0.28299999237060547,0.05279960110783577,Victor Anichebe,a,818,OpenPlay,2016,RightFoot,3147,Manchester United,Sunderland,3,1,2016-12-26 19:00:00,Billy Jones,HeadPass,818
+118778,71,BlockedShot,0.825,0.6680000305175782,0.039101000875234604,Victor Anichebe,a,818,OpenPlay,2016,RightFoot,3355,West Bromwich Albion,Sunderland,2,0,2017-01-21 18:00:00,George Honeyman,Pass,818
+119095,76,BlockedShot,0.8719999694824219,0.5820000076293945,0.06838910281658173,Victor Anichebe,a,818,OpenPlay,2016,LeftFoot,3445,Leicester,Sunderland,2,0,2017-04-04 19:45:00,,BallTouch,818
+120302,39,SavedShot,0.9590000152587891,0.5570000076293945,0.5235819816589355,Victor Anichebe,h,818,OpenPlay,2016,LeftFoot,3452,Sunderland,Manchester United,0,3,2017-04-09 13:30:00,Billy Jones,Cross,818
+121407,40,BlockedShot,0.9230000305175782,0.4490000152587891,0.10963500291109085,Victor Anichebe,h,818,OpenPlay,2016,LeftFoot,3464,Sunderland,West Ham,2,2,2017-04-15 15:00:00,,None,818
+121417,98,MissedShots,0.7759999847412109,0.3160000038146973,0.021457400172948837,Victor Anichebe,h,818,OpenPlay,2016,LeftFoot,3464,Sunderland,West Ham,2,2,2017-04-15 15:00:00,Fabio Borini,Pass,818
+121086,83,MissedShots,0.735,0.5220000076293946,0.015231399796903133,Victor Anichebe,h,818,OpenPlay,2016,RightFoot,3486,Sunderland,Bournemouth,0,1,2017-04-29 15:00:00,,None,818
+121429,44,SavedShot,0.8419999694824218,0.6270000076293946,0.04541179910302162,Victor Anichebe,a,818,SetPiece,2016,RightFoot,3494,Hull,Sunderland,0,2,2017-05-06 15:00:00,,None,818

@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+536296,59,SavedShot,0.9009999847412109,0.4370000076293945,0.33846035599708557,Luke Harris,a,10719,OpenPlay,2023,RightFoot,21927,Manchester City,Fulham,5,1,2023-09-02 14:00:00,Raúl Jiménez,Pass,10719

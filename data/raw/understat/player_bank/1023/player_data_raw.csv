@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1023,Cameron Brannagan,3,110,0,0.07124289870262146,0,0.6725328154861927,1,3,0,0,M S,Liverpool,0,0.07124289870262146,0.8265926763415337,0.8151228725910187,2015

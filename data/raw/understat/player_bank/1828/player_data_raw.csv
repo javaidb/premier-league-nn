@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1828,Alex Telles,9,696,0,0.1452345959842205,2,0.7849516943097115,5,12,0,0,D S,Manchester United,0,0.1452345959842205,3.626065954566002,3.524719938635826,2020
+1828,Alex Telles,21,1659,0,0.4515142934396863,4,2.16702869720757,10,26,1,0,D S,Manchester United,0,0.4515142934396863,7.514895491302013,6.459274772554636,2021

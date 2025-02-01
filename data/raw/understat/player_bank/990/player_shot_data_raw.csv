@@ -1,0 +1,82 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15098,82,SavedShot,0.7230000305175781,0.33099998474121095,0.01029639970511198,James Morrison,a,990,OpenPlay,2014,RightFoot,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Stéphane Sessegnon,Pass,990
+15646,69,SavedShot,0.79,0.6020000076293945,0.03317210078239441,James Morrison,a,990,OpenPlay,2014,RightFoot,4735,Tottenham,West Bromwich Albion,0,1,2014-09-21 13:30:00,Stéphane Sessegnon,Pass,990
+15648,73,Goal,0.9490000152587891,0.5359999847412109,0.43323299288749695,James Morrison,a,990,FromCorner,2014,Head,4735,Tottenham,West Bromwich Albion,0,1,2014-09-21 13:30:00,Chris Brunt,Cross,990
+15918,34,BlockedShot,0.6909999847412109,0.41200000762939454,0.015305999666452408,James Morrison,h,990,OpenPlay,2014,RightFoot,4747,West Bromwich Albion,Burnley,4,0,2014-09-28 16:00:00,Stéphane Sessegnon,Pass,990
+15920,39,SavedShot,0.9640000152587891,0.664000015258789,0.009822879917919636,James Morrison,h,990,FromCorner,2014,Head,4747,West Bromwich Albion,Burnley,4,0,2014-09-28 16:00:00,Chris Brunt,Cross,990
+15927,52,MissedShots,0.7869999694824219,0.40400001525878904,0.02052449993789196,James Morrison,h,990,OpenPlay,2014,RightFoot,4747,West Bromwich Albion,Burnley,4,0,2014-09-28 16:00:00,,Rebound,990
+17097,0,BlockedShot,0.775,0.4540000152587891,0.0266501996666193,James Morrison,h,990,OpenPlay,2014,RightFoot,4708,West Bromwich Albion,Manchester United,2,2,2014-10-20 20:00:00,Stéphane Sessegnon,Pass,990
+17100,14,MissedShots,0.7680000305175781,0.3629999923706055,0.030051900073885918,James Morrison,h,990,OpenPlay,2014,RightFoot,4708,West Bromwich Albion,Manchester United,2,2,2014-10-20 20:00:00,,Dispossessed,990
+16450,76,BlockedShot,0.8819999694824219,0.5529999923706055,0.07644149661064148,James Morrison,h,990,OpenPlay,2014,LeftFoot,4712,West Bromwich Albion,Crystal Palace,2,2,2014-10-25 15:00:00,Sébastien Pocognoli,Cross,990
+17435,90,MissedShots,0.754000015258789,0.4759999847412109,0.01413660030812025,James Morrison,h,990,FromCorner,2014,RightFoot,4667,West Bromwich Albion,Newcastle United,0,2,2014-11-09 13:30:00,,Aerial,990
+18206,55,SavedShot,0.7340000152587891,0.545,0.014236999675631523,James Morrison,h,990,OpenPlay,2014,RightFoot,4633,West Bromwich Albion,Manchester City,1,3,2014-12-26 15:00:00,,Tackle,990
+19003,18,MissedShots,0.735,0.715,0.01235789991915226,James Morrison,a,990,OpenPlay,2014,RightFoot,4646,Stoke,West Bromwich Albion,2,0,2014-12-28 15:00:00,Stéphane Sessegnon,Pass,990
+19005,28,SavedShot,0.7619999694824219,0.6040000152587891,0.02350570075213909,James Morrison,a,990,OpenPlay,2014,RightFoot,4646,Stoke,West Bromwich Albion,2,0,2014-12-28 15:00:00,Craig Gardner,LayOff,990
+20085,36,MissedShots,0.7719999694824219,0.669000015258789,0.019290799275040627,James Morrison,a,990,OpenPlay,2014,RightFoot,4556,West Ham,West Bromwich Albion,1,1,2015-01-01 15:00:00,Chris Brunt,Pass,990
+20089,55,BlockedShot,0.705,0.6780000305175782,0.011444799602031708,James Morrison,a,990,OpenPlay,2014,RightFoot,4556,West Ham,West Bromwich Albion,1,1,2015-01-01 15:00:00,,Dispossessed,990
+18362,88,BlockedShot,0.7659999847412109,0.49900001525878906,0.02500220015645027,James Morrison,h,990,OpenPlay,2014,RightFoot,4563,West Bromwich Albion,Hull,1,0,2015-01-10 15:00:00,Victor Anichebe,HeadPass,990
+23874,26,SavedShot,0.830999984741211,0.495,0.07894690334796906,James Morrison,h,990,OpenPlay,2014,LeftFoot,4586,West Bromwich Albion,Tottenham,0,3,2015-01-31 15:00:00,Victor Anichebe,Pass,990
+24254,7,SavedShot,0.8130000305175781,0.5129999923706055,0.028623199090361595,James Morrison,a,990,OpenPlay,2014,LeftFoot,4538,Sunderland,West Bromwich Albion,0,0,2015-02-21 15:00:00,Chris Brunt,Cross,990
+23860,56,MissedShots,0.9209999847412109,0.49,0.14151300489902496,James Morrison,h,990,OpenPlay,2014,Head,4546,West Bromwich Albion,Southampton,1,0,2015-02-28 15:00:00,Craig Gardner,Cross,990
+20973,75,BlockedShot,0.9269999694824219,0.6880000305175781,0.08588030189275742,James Morrison,h,990,OpenPlay,2014,LeftFoot,4496,West Bromwich Albion,Stoke,1,0,2015-03-14 15:00:00,Chris Brunt,TakeOn,990
+20975,79,SavedShot,0.7390000152587891,0.575,0.023166200146079063,James Morrison,h,990,OpenPlay,2014,RightFoot,4496,West Bromwich Albion,Stoke,1,0,2015-03-14 15:00:00,Darren Fletcher,Pass,990
+22714,9,MissedShots,0.7480000305175781,0.6329999923706054,0.016979100182652473,James Morrison,h,990,OpenPlay,2014,RightFoot,4445,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04 15:00:00,Saido Berahino,Pass,990
+22733,67,MissedShots,0.725999984741211,0.539000015258789,0.009805929847061634,James Morrison,h,990,OpenPlay,2014,RightFoot,4445,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04 15:00:00,,None,990
+20257,1,Goal,0.9230000305175782,0.539000015258789,0.30828601121902466,James Morrison,a,990,FromCorner,2014,Head,4462,Crystal Palace,West Bromwich Albion,0,2,2015-04-18 15:00:00,Chris Brunt,Cross,990
+20259,4,MissedShots,0.759000015258789,0.31,0.020808199420571327,James Morrison,a,990,OpenPlay,2014,RightFoot,4462,Crystal Palace,West Bromwich Albion,0,2,2015-04-18 15:00:00,Darren Fletcher,TakeOn,990
+20323,63,SavedShot,0.9490000152587891,0.54,0.12321300059556961,James Morrison,h,990,OpenPlay,2014,Head,4471,West Bromwich Albion,Liverpool,0,0,2015-04-25 15:00:00,,None,990
+21469,59,MissedShots,0.8090000152587891,0.40599998474121096,0.06017019972205162,James Morrison,h,990,OpenPlay,2014,RightFoot,4428,West Bromwich Albion,Chelsea,3,0,2015-05-18 20:00:00,Darren Fletcher,Pass,990
+21895,44,SavedShot,0.7530000305175781,0.48700000762939455,0.02157600037753582,James Morrison,a,990,SetPiece,2014,RightFoot,4433,Arsenal,West Bromwich Albion,4,1,2015-05-24 15:00:00,Darren Fletcher,Pass,990
+21902,62,MissedShots,0.7730000305175782,0.544000015258789,0.03205249831080437,James Morrison,a,990,OpenPlay,2014,RightFoot,4433,Arsenal,West Bromwich Albion,4,1,2015-05-24 15:00:00,Saido Berahino,Pass,990
+21910,83,BlockedShot,0.7759999847412109,0.6830000305175781,0.017175400629639626,James Morrison,a,990,OpenPlay,2014,RightFoot,4433,Arsenal,West Bromwich Albion,4,1,2015-05-24 15:00:00,Saido Berahino,Pass,990
+51710,76,SavedShot,0.9080000305175782,0.5690000152587891,0.05620719864964485,James Morrison,h,990,OpenPlay,2015,Head,90,West Bromwich Albion,Manchester City,0,3,2015-08-10 23:00:00,Chris Brunt,Cross,990
+51711,81,MissedShots,0.8859999847412109,0.3320000076293945,0.026801999658346176,James Morrison,h,990,OpenPlay,2015,LeftFoot,90,West Bromwich Albion,Manchester City,0,3,2015-08-10 23:00:00,Callum McManaman,Cross,990
+57218,13,SavedShot,0.885,0.5,0.7611690163612366,James Morrison,h,990,Penalty,2015,RightFoot,107,West Bromwich Albion,Chelsea,2,3,2015-08-23 16:30:00,,Standard,990
+57224,34,Goal,0.865999984741211,0.5179999923706055,0.10255499929189682,James Morrison,h,990,OpenPlay,2015,RightFoot,107,West Bromwich Albion,Chelsea,2,3,2015-08-23 16:30:00,Salomón Rondón,Pass,990
+57233,58,Goal,0.9059999847412109,0.5629999923706055,0.05003239959478378,James Morrison,h,990,OpenPlay,2015,Head,107,West Bromwich Albion,Chelsea,2,3,2015-08-23 16:30:00,Callum McManaman,Aerial,990
+57705,23,SavedShot,0.875,0.625,0.06430409848690033,James Morrison,a,990,OpenPlay,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,,None,990
+57719,65,MissedShots,0.81,0.3659999847412109,0.030649300664663315,James Morrison,a,990,SetPiece,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,Callum McManaman,Pass,990
+57722,74,SavedShot,0.7619999694824219,0.7440000152587891,0.016740400344133377,James Morrison,a,990,OpenPlay,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,Callum McManaman,Pass,990
+58056,38,BlockedShot,0.774000015258789,0.545,0.02408440038561821,James Morrison,a,990,OpenPlay,2015,RightFoot,133,Aston Villa,West Bromwich Albion,0,1,2015-09-19 18:00:00,Salomón Rondón,Pass,990
+58066,77,MissedShots,0.835,0.7519999694824219,0.03186510130763054,James Morrison,a,990,OpenPlay,2015,RightFoot,133,Aston Villa,West Bromwich Albion,0,1,2015-09-19 18:00:00,Claudio Yacob,Pass,990
+58568,8,SavedShot,0.7659999847412109,0.4540000152587891,0.03956009820103645,James Morrison,h,990,OpenPlay,2015,RightFoot,150,West Bromwich Albion,Everton,2,3,2015-09-28 23:00:00,,TakeOn,990
+58576,46,BlockedShot,0.8019999694824219,0.6430000305175781,0.04033780097961426,James Morrison,h,990,OpenPlay,2015,LeftFoot,150,West Bromwich Albion,Everton,2,3,2015-09-28 23:00:00,Chris Brunt,Pass,990
+55511,34,Goal,0.9059999847412109,0.62,0.07534710317850113,James Morrison,h,990,SetPiece,2015,RightFoot,204,West Bromwich Albion,Arsenal,2,1,2015-11-21 19:00:00,Chris Brunt,Chipped,990
+54079,27,MissedShots,0.9059999847412109,0.61,0.09508860111236572,James Morrison,a,990,OpenPlay,2015,LeftFoot,238,Liverpool,West Bromwich Albion,2,2,2015-12-13 20:00:00,,TakeOn,990
+53394,3,MissedShots,0.7809999847412109,0.19399999618530273,0.009695669636130333,James Morrison,h,990,OpenPlay,2015,RightFoot,241,West Bromwich Albion,Bournemouth,1,2,2015-12-19 19:00:00,,None,990
+55609,47,SavedShot,0.8519999694824218,0.61,0.0397316999733448,James Morrison,a,990,OpenPlay,2015,LeftFoot,252,Swansea,West Bromwich Albion,1,0,2015-12-26 19:00:00,Rickie Lambert,HeadPass,990
+55614,78,BlockedShot,0.875999984741211,0.32599998474121095,0.04594630002975464,James Morrison,a,990,OpenPlay,2015,RightFoot,252,Swansea,West Bromwich Albion,1,0,2015-12-26 19:00:00,,None,990
+54363,2,BlockedShot,0.91,0.5220000076293946,0.13464300334453583,James Morrison,h,990,OpenPlay,2015,RightFoot,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,,Rebound,990
+54366,9,SavedShot,0.789000015258789,0.43099998474121093,0.037833500653505325,James Morrison,h,990,OpenPlay,2015,RightFoot,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,Victor Anichebe,BallTouch,990
+54370,21,MissedShots,0.7559999847412109,0.575,0.02089270018041134,James Morrison,h,990,OpenPlay,2015,RightFoot,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,Craig Gardner,TakeOn,990
+52602,77,SavedShot,0.904000015258789,0.30200000762939455,0.07135149836540222,James Morrison,h,990,OpenPlay,2015,RightFoot,272,West Bromwich Albion,Stoke,2,1,2016-01-02 19:00:00,Rickie Lambert,HeadPass,990
+52604,90,BlockedShot,0.855,0.7419999694824219,0.023636799305677414,James Morrison,h,990,OpenPlay,2015,LeftFoot,272,West Bromwich Albion,Stoke,2,1,2016-01-02 19:00:00,Saido Berahino,Pass,990
+52607,91,BlockedShot,0.8030000305175782,0.5329999923706055,0.0378246009349823,James Morrison,h,990,OpenPlay,2015,RightFoot,272,West Bromwich Albion,Stoke,2,1,2016-01-02 19:00:00,,Rebound,990
+52606,91,BlockedShot,0.8030000305175782,0.5329999923706055,0.054468199610710144,James Morrison,h,990,OpenPlay,2015,RightFoot,272,West Bromwich Albion,Stoke,2,1,2016-01-02 19:00:00,Craig Gardner,Pass,990
+114466,73,MissedShots,0.7809999847412109,0.41,0.027362700551748276,James Morrison,a,990,OpenPlay,2016,RightFoot,548,Liverpool,West Bromwich Albion,2,1,2016-10-22 20:30:00,Hal Robson-Kanu,Pass,990
+115637,51,Goal,0.91,0.48200000762939454,0.11417499929666519,James Morrison,a,990,OpenPlay,2016,Head,2696,Leicester,West Bromwich Albion,1,2,2016-11-06 20:30:00,Matt Phillips,Cross,990
+115993,15,Goal,0.8190000152587891,0.44799999237060545,0.09543559700250626,James Morrison,h,990,OpenPlay,2016,RightFoot,2706,West Bromwich Albion,Burnley,4,0,2016-11-22 00:00:00,Salomón Rondón,Pass,990
+115995,20,MissedShots,0.8059999847412109,0.46900001525878904,0.04959839954972267,James Morrison,h,990,OpenPlay,2016,LeftFoot,2706,West Bromwich Albion,Burnley,4,0,2016-11-22 00:00:00,,None,990
+116289,2,BlockedShot,0.8969999694824219,0.46,0.12970399856567383,James Morrison,a,990,OpenPlay,2016,LeftFoot,2708,Hull,West Bromwich Albion,1,1,2016-11-26 19:00:00,Craig Dawson,Pass,990
+116291,23,MissedShots,0.7969999694824219,0.46099998474121096,0.041141901165246964,James Morrison,a,990,OpenPlay,2016,LeftFoot,2708,Hull,West Bromwich Albion,1,1,2016-11-26 19:00:00,,None,990
+116058,45,MissedShots,0.87,0.47400001525878904,0.13119900226593018,James Morrison,h,990,OpenPlay,2016,LeftFoot,3110,West Bromwich Albion,Watford,3,1,2016-12-03 19:00:00,Matt Phillips,Pass,990
+117991,12,BlockedShot,0.7369999694824219,0.32099998474121094,0.015551500022411346,James Morrison,h,990,OpenPlay,2016,RightFoot,3131,West Bromwich Albion,Swansea,3,1,2016-12-15 00:00:00,Matt Phillips,Pass,990
+117997,43,MissedShots,0.7530000305175781,0.34599998474121096,0.01234230026602745,James Morrison,h,990,OpenPlay,2016,RightFoot,3131,West Bromwich Albion,Swansea,3,1,2016-12-15 00:00:00,Nyom,TakeOn,990
+117699,56,SavedShot,0.9230000305175782,0.5629999923706055,0.3196159899234772,James Morrison,a,990,OpenPlay,2016,Head,3160,Southampton,West Bromwich Albion,1,2,2016-12-31 19:00:00,Matt Phillips,Cross,990
+116988,72,Goal,0.904000015258789,0.555,0.11829499900341034,James Morrison,h,990,OpenPlay,2016,LeftFoot,3333,West Bromwich Albion,Hull,3,1,2017-01-02 19:00:00,,None,990
+118947,5,Goal,0.815,0.4,0.03820889815688133,James Morrison,a,990,SetPiece,2016,RightFoot,3363,Middlesbrough,West Bromwich Albion,1,1,2017-01-31 22:45:00,Darren Fletcher,Pass,990
+117247,5,Goal,0.9369999694824219,0.6619999694824219,0.48281601071357727,James Morrison,h,990,OpenPlay,2016,LeftFoot,3375,West Bromwich Albion,Stoke,1,0,2017-02-04 15:00:00,Nacer Chadli,Throughball,990
+117250,10,MissedShots,0.9519999694824218,0.5279999923706055,0.5705609917640686,James Morrison,h,990,OpenPlay,2016,RightFoot,3375,West Bromwich Albion,Stoke,1,0,2017-02-04 15:00:00,Chris Brunt,Cross,990
+117266,60,MissedShots,0.7480000305175781,0.53,0.02499699965119362,James Morrison,h,990,OpenPlay,2016,RightFoot,3375,West Bromwich Albion,Stoke,1,0,2017-02-04 15:00:00,Salomón Rondón,Pass,990
+118175,28,MissedShots,0.9159999847412109,0.265,0.02699900045990944,James Morrison,a,990,FromCorner,2016,RightFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,,None,990
+118841,20,BlockedShot,0.8240000152587891,0.555,0.058761101216077805,James Morrison,h,990,OpenPlay,2016,RightFoot,3395,West Bromwich Albion,Bournemouth,2,1,2017-02-25 15:00:00,Darren Fletcher,Pass,990
+120196,79,MissedShots,0.7140000152587891,0.5459999847412109,0.013506799936294556,James Morrison,h,990,OpenPlay,2016,RightFoot,3408,West Bromwich Albion,Crystal Palace,0,2,2017-03-04 15:00:00,James McClean,LayOff,990
+119294,89,BlockedShot,0.755,0.4329999923706055,0.022284699603915215,James Morrison,a,990,OpenPlay,2016,RightFoot,3416,Everton,West Bromwich Albion,3,0,2017-03-11 15:00:00,Chris Brunt,Pass,990
+119274,94,MissedShots,0.840999984741211,0.549000015258789,0.06630399823188782,James Morrison,a,990,OpenPlay,2016,LeftFoot,3443,Watford,West Bromwich Albion,2,0,2017-04-04 19:45:00,Salomón Rondón,LayOff,990
+120493,19,SavedShot,0.7380000305175781,0.575,0.01714939996600151,James Morrison,h,990,OpenPlay,2016,LeftFoot,3454,West Bromwich Albion,Southampton,0,1,2017-04-08 15:00:00,Salomón Rondón,HeadPass,990
+121204,77,SavedShot,0.91,0.495,0.08151949942111969,James Morrison,h,990,OpenPlay,2016,Head,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,James McClean,Cross,990
+121335,63,BlockedShot,0.875999984741211,0.47200000762939454,0.021006200462579727,James Morrison,a,990,OpenPlay,2016,Head,3492,Burnley,West Bromwich Albion,2,2,2017-05-06 15:00:00,Marc Wilson,Aerial,990
+158969,4,MissedShots,0.9669999694824218,0.585,0.08132710307836533,James Morrison,h,990,FromCorner,2017,Head,7146,West Bromwich Albion,Stoke,1,1,2017-08-27 13:30:00,Chris Brunt,Cross,990
+159124,76,Goal,0.8959999847412109,0.46599998474121096,0.30227500200271606,James Morrison,a,990,OpenPlay,2017,RightFoot,7153,Brighton,West Bromwich Albion,3,1,2017-09-09 15:00:00,Oliver Burke,HeadPass,990
+159129,92,SavedShot,0.9030000305175782,0.45599998474121095,0.29472801089286804,James Morrison,a,990,OpenPlay,2017,RightFoot,7153,Brighton,West Bromwich Albion,3,1,2017-09-09 15:00:00,Craig Dawson,HeadPass,990
+159024,37,MissedShots,0.919000015258789,0.534000015258789,0.35418400168418884,James Morrison,h,990,OpenPlay,2017,Head,7165,West Bromwich Albion,West Ham,0,0,2017-09-16 15:00:00,Matt Phillips,Cross,990

@@ -1,0 +1,5 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+505,David Ospina,18,1620,0,0,0,0.04679640009999275,0,2,0,0,GK,Arsenal,0,0,2.0648585204035044,2.018061827868223,2014
+505,David Ospina,4,360,0,0,0,0,0,0,0,0,GK,Arsenal,0,0,0.03578979894518852,0.03578979894518852,2015
+505,David Ospina,2,143,0,0,0,0,0,0,0,0,GK S,Arsenal,0,0,0.02810630016028881,0.02810630016028881,2016
+505,David Ospina,5,378,0,0,0,0,0,0,0,0,GK S,Arsenal,0,0,1.5613323859870434,1.5613323859870434,2017

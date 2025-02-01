@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+52914,80,BlockedShot,0.8080000305175781,0.695,0.01872830092906952,Leon Britton,h,830,FromCorner,2015,RightFoot,249,Swansea,West Ham,0,0,2015-12-20 20:00:00,,None,830
+53102,41,BlockedShot,0.8090000152587891,0.3270000076293945,0.040203798562288284,Leon Britton,h,830,OpenPlay,2015,LeftFoot,300,Swansea,Watford,1,0,2016-01-19 00:00:00,Jack Cork,Pass,830
+56114,35,MissedShots,0.7390000152587891,0.725,0.012556999921798706,Leon Britton,h,830,OpenPlay,2015,RightFoot,332,Swansea,Southampton,0,1,2016-02-13 19:00:00,,BallTouch,830
+60597,58,MissedShots,0.774000015258789,0.6,0.0116955004632473,Leon Britton,h,830,SetPiece,2015,LeftFoot,379,Swansea,Aston Villa,1,0,2016-03-19 21:30:00,,Aerial,830
+60101,3,MissedShots,0.76,0.52,0.018628599122166634,Leon Britton,a,830,FromCorner,2015,RightFoot,388,Stoke,Swansea,2,2,2016-04-02 18:00:00,,None,830

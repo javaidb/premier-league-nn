@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+9251,Christian Walton,6,540,0,0,0,0.01685086265206337,0,1,0,0,GK,Ipswich,0,0,0.18078524991869926,0.1639343872666359,2024
+9251,Christian Walton,6,540,0,0,0,0.01685086265206337,0,1,0,0,GK,Ipswich,0,0,0.18078524991869926,0.1639343872666359,2025

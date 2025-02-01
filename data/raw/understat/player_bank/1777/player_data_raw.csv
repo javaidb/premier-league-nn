@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1777,Julien Ngoy,5,39,0,0.12737710028886795,0,0.09213949739933014,2,1,0,0,S,Stoke,0,0.12737710028886795,0.2195165976881981,0,2016
+1777,Julien Ngoy,1,16,0,0,0,0,0,0,0,0,S,Stoke,0,0,0,0,2017

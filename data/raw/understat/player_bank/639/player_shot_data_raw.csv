@@ -1,0 +1,144 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+16910,1,MissedShots,0.8730000305175781,0.5740000152587891,0.04666240140795708,Toby Alderweireld,h,639,FromCorner,2014,RightFoot,4663,Southampton,Leicester,2,0,2014-11-08 15:00:00,Dusan Tadic,Cross,639
+16189,75,BlockedShot,0.88,0.5320000076293945,0.07457269728183746,Toby Alderweireld,a,639,OpenPlay,2014,LeftFoot,4678,Aston Villa,Southampton,1,1,2014-11-24 20:00:00,,None,639
+16191,76,BlockedShot,0.85,0.5259999847412109,0.06649109721183777,Toby Alderweireld,a,639,FromCorner,2014,LeftFoot,4678,Aston Villa,Southampton,1,1,2014-11-24 20:00:00,Nathaniel Clyne,Rebound,639
+18172,46,MissedShots,0.6940000152587891,0.2989999961853027,0.009791280142962933,Toby Alderweireld,h,639,OpenPlay,2014,RightFoot,4687,Southampton,Manchester City,0,3,2014-11-30 13:30:00,Steven Davis,Pass,639
+18183,78,BlockedShot,0.7380000305175781,0.33,0.012924100272357464,Toby Alderweireld,h,639,OpenPlay,2014,RightFoot,4687,Southampton,Manchester City,0,3,2014-11-30 13:30:00,,None,639
+18190,90,BlockedShot,0.7440000152587891,0.495,0.016909899190068245,Toby Alderweireld,h,639,OpenPlay,2014,RightFoot,4687,Southampton,Manchester City,0,3,2014-11-30 13:30:00,Victor Wanyama,Pass,639
+17545,2,SavedShot,0.754000015258789,0.6659999847412109,0.014659799635410309,Toby Alderweireld,a,639,FromCorner,2014,RightFoot,4635,Crystal Palace,Southampton,1,3,2014-12-26 15:00:00,,None,639
+17561,52,Goal,0.9340000152587891,0.46599998474121096,0.11714400351047516,Toby Alderweireld,a,639,FromCorner,2014,Head,4635,Crystal Palace,Southampton,1,3,2014-12-26 15:00:00,James Ward-Prowse,Cross,639
+18921,85,MissedShots,0.785,0.3840000152587891,0.026297900825738907,Toby Alderweireld,h,639,FromCorner,2014,RightFoot,4640,Southampton,Chelsea,1,1,2014-12-28 14:05:00,,TakeOn,639
+19928,39,MissedShots,0.94,0.53,0.15594099462032318,Toby Alderweireld,h,639,OpenPlay,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,,Rebound,639
+22370,46,SavedShot,0.7330000305175781,0.615,0.04694779962301254,Toby Alderweireld,a,639,DirectFreekick,2014,RightFoot,4499,Chelsea,Southampton,1,1,2015-03-15 13:30:00,,Standard,639
+22517,76,MissedShots,0.8080000305175781,0.6990000152587891,0.072530098259449,Toby Alderweireld,h,639,DirectFreekick,2014,RightFoot,4506,Southampton,Burnley,2,0,2015-03-21 15:00:00,,Standard,639
+20773,45,SavedShot,0.7959999847412109,0.2720000076293945,0.01911270059645176,Toby Alderweireld,h,639,OpenPlay,2014,RightFoot,4453,Southampton,Hull,2,0,2015-04-11 15:00:00,,Dispossessed,639
+21542,43,BlockedShot,0.7809999847412109,0.28,0.02081429958343506,Toby Alderweireld,a,639,OpenPlay,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Graziano Pellè,Pass,639
+23003,93,SavedShot,0.9130000305175782,0.46599998474121096,0.07970540225505829,Toby Alderweireld,h,639,FromCorner,2014,Head,4468,Southampton,Tottenham,2,2,2015-04-25 12:45:00,Eljero Elia,Cross,639
+21768,93,SavedShot,0.899000015258789,0.4640000152587891,0.0835840031504631,Toby Alderweireld,a,639,OpenPlay,2014,RightFoot,4402,Sunderland,Southampton,2,1,2015-05-02 15:00:00,,None,639
+21305,50,SavedShot,0.725999984741211,0.5129999923706055,0.0494363009929657,Toby Alderweireld,a,639,DirectFreekick,2014,RightFoot,4412,Leicester,Southampton,2,0,2015-05-09 15:00:00,,Standard,639
+21314,91,BlockedShot,0.7609999847412109,0.5559999847412109,0.017586400732398033,Toby Alderweireld,a,639,OpenPlay,2014,RightFoot,4412,Leicester,Southampton,2,0,2015-05-09 15:00:00,Filip Djuricic,Pass,639
+545905,11,BlockedShot,0.865999984741211,0.49700000762939456,0.0210388395935297,Toby Alderweireld,a,639,FromCorner,2015,Head,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,Christian Eriksen,Cross,639
+545914,46,SavedShot,0.8490000152587891,0.6719999694824219,0.03595825284719467,Toby Alderweireld,a,639,SetPiece,2015,RightFoot,81,Manchester United,Tottenham,1,0,2015-08-08 15:45:00,,None,639
+56721,92,BlockedShot,0.9630000305175781,0.6930000305175781,0.038489799946546555,Toby Alderweireld,a,639,FromCorner,2015,RightFoot,105,Leicester,Tottenham,1,1,2015-08-22 18:00:00,,None,639
+57760,32,SavedShot,0.919000015258789,0.5120000076293946,0.04476210102438927,Toby Alderweireld,h,639,FromCorner,2015,Head,118,Tottenham,Everton,0,0,2015-08-29 20:30:00,Ryan Mason,Aerial,639
+58315,53,BlockedShot,0.904000015258789,0.5840000152587891,0.03500770032405853,Toby Alderweireld,h,639,FromCorner,2015,Head,138,Tottenham,Crystal Palace,1,0,2015-09-20 16:30:00,Erik Lamela,Cross,639
+58520,49,Goal,0.9319999694824219,0.46099998474121096,0.13198700547218323,Toby Alderweireld,h,639,SetPiece,2015,Head,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Erik Lamela,Cross,639
+58865,6,MissedShots,0.9290000152587891,0.4209999847412109,0.06722229719161987,Toby Alderweireld,a,639,FromCorner,2015,Head,159,Swansea,Tottenham,2,2,2015-10-04 19:00:00,Erik Lamela,Cross,639
+59259,62,SavedShot,0.904000015258789,0.42900001525878906,0.043808501213788986,Toby Alderweireld,a,639,FromCorner,2015,Head,178,Bournemouth,Tottenham,1,5,2015-10-25 18:05:00,Christian Eriksen,Cross,639
+54036,69,SavedShot,0.955999984741211,0.4329999923706055,0.11545199900865555,Toby Alderweireld,a,639,FromCorner,2015,Head,199,Arsenal,Tottenham,1,1,2015-11-08 20:00:00,Erik Lamela,Cross,639
+55067,32,Goal,0.9780000305175781,0.5479999923706055,0.5262060165405273,Toby Alderweireld,h,639,FromCorner,2015,Head,209,Tottenham,West Ham,4,1,2015-11-22 20:00:00,Christian Eriksen,Cross,639
+55106,52,MissedShots,0.9130000305175782,0.48700000762939455,0.040302399545907974,Toby Alderweireld,h,639,FromCorner,2015,Head,239,Tottenham,Newcastle United,1,2,2015-12-13 20:00:00,Dele Alli,Aerial,639
+52399,30,MissedShots,0.8780000305175781,0.6409999847412109,0.025969700887799263,Toby Alderweireld,a,639,SetPiece,2015,Head,242,Southampton,Tottenham,0,2,2015-12-19 19:00:00,Kyle Walker,Chipped,639
+55782,34,SavedShot,0.9519999694824218,0.5529999923706055,0.12454000115394592,Toby Alderweireld,h,639,FromCorner,2015,Head,253,Tottenham,Norwich,3,0,2015-12-26 19:00:00,Christian Eriksen,Cross,639
+55784,35,MissedShots,0.925,0.47099998474121096,0.33005398511886597,Toby Alderweireld,h,639,FromCorner,2015,Head,253,Tottenham,Norwich,3,0,2015-12-26 19:00:00,Erik Lamela,Cross,639
+54117,64,MissedShots,0.6880000305175781,0.28600000381469726,0.011508899740874767,Toby Alderweireld,a,639,OpenPlay,2015,LeftFoot,262,Watford,Tottenham,1,2,2015-12-28 19:00:00,Dele Alli,Pass,639
+55373,10,SavedShot,0.92,0.5170000076293946,0.09970779716968536,Toby Alderweireld,h,639,FromCorner,2015,Head,290,Tottenham,Leicester,0,1,2016-01-14 00:00:00,Erik Lamela,Cross,639
+55374,11,MissedShots,0.905,0.5259999847412109,0.024147100746631622,Toby Alderweireld,h,639,FromCorner,2015,Head,290,Tottenham,Leicester,0,1,2016-01-14 00:00:00,Erik Lamela,Aerial,639
+55380,29,BlockedShot,0.7090000152587891,0.24399999618530274,0.011125599965453148,Toby Alderweireld,h,639,OpenPlay,2015,RightFoot,290,Tottenham,Leicester,0,1,2016-01-14 00:00:00,Eric Dier,Pass,639
+55393,63,BlockedShot,0.899000015258789,0.485,0.020492199808359146,Toby Alderweireld,h,639,FromCorner,2015,Head,290,Tottenham,Leicester,0,1,2016-01-14 00:00:00,Erik Lamela,Aerial,639
+53342,2,SavedShot,0.9319999694824219,0.5259999847412109,0.06441020220518112,Toby Alderweireld,h,639,SetPiece,2015,Head,291,Tottenham,Sunderland,4,1,2016-01-16 16:45:00,,Rebound,639
+53358,46,MissedShots,0.8980000305175782,0.4159999847412109,0.05299469828605652,Toby Alderweireld,h,639,FromCorner,2015,RightFoot,291,Tottenham,Sunderland,4,1,2016-01-16 16:45:00,Christian Eriksen,Cross,639
+53369,81,MissedShots,0.9519999694824218,0.435,0.055849701166152954,Toby Alderweireld,h,639,FromCorner,2015,Head,291,Tottenham,Sunderland,4,1,2016-01-16 16:45:00,Christian Eriksen,Aerial,639
+53855,16,MissedShots,0.8909999847412109,0.4859999847412109,0.04864969849586487,Toby Alderweireld,a,639,FromCorner,2015,Head,302,Crystal Palace,Tottenham,1,3,2016-01-23 19:00:00,Christian Eriksen,Cross,639
+53860,32,MissedShots,0.7959999847412109,0.3390000152587891,0.029861200600862503,Toby Alderweireld,a,639,OpenPlay,2015,RightFoot,302,Crystal Palace,Tottenham,1,3,2016-01-23 19:00:00,Christian Eriksen,TakeOn,639
+53692,1,BlockedShot,0.8119999694824219,0.435,0.024057699367403984,Toby Alderweireld,a,639,FromCorner,2015,LeftFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Son Heung-Min,Chipped,639
+53697,9,MissedShots,0.909000015258789,0.5229999923706055,0.07653199881315231,Toby Alderweireld,a,639,FromCorner,2015,Head,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Christian Eriksen,Cross,639
+53956,57,MissedShots,0.85,0.495,0.04046440124511719,Toby Alderweireld,h,639,FromCorner,2015,LeftFoot,324,Tottenham,Watford,1,0,2016-02-06 19:00:00,Harry Kane,HeadPass,639
+61119,60,SavedShot,0.7440000152587891,0.2539999961853027,0.01357369963079691,Toby Alderweireld,a,639,OpenPlay,2015,RightFoot,354,West Ham,Tottenham,1,0,2016-03-02 23:45:00,Christian Eriksen,Pass,639
+61123,61,MissedShots,0.74,0.22299999237060547,0.012600299902260303,Toby Alderweireld,a,639,OpenPlay,2015,RightFoot,354,West Ham,Tottenham,1,0,2016-03-02 23:45:00,Eric Dier,Pass,639
+60366,59,Goal,0.965999984741211,0.575,0.48703300952911377,Toby Alderweireld,h,639,FromCorner,2015,LeftFoot,359,Tottenham,Arsenal,2,2,2016-03-05 16:45:00,Erik Lamela,Pass,639
+59811,53,MissedShots,0.894000015258789,0.4329999923706055,0.034224700182676315,Toby Alderweireld,a,639,FromCorner,2015,Head,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Christian Eriksen,Cross,639
+59825,65,MissedShots,0.8180000305175781,0.6819999694824219,0.03266559913754463,Toby Alderweireld,a,639,OpenPlay,2015,LeftFoot,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Christian Eriksen,Pass,639
+59842,91,MissedShots,0.9219999694824219,0.455,0.09003300219774246,Toby Alderweireld,a,639,FromCorner,2015,Head,391,Liverpool,Tottenham,1,1,2016-04-02 20:30:00,Christian Eriksen,Cross,639
+61142,73,Goal,0.884000015258789,0.5329999923706055,0.060406699776649475,Toby Alderweireld,h,639,SetPiece,2015,Head,402,Tottenham,Manchester United,3,0,2016-04-10 19:00:00,Erik Lamela,Cross,639
+56905,76,MissedShots,0.6790000152587891,0.4809999847412109,0.016011899337172508,Toby Alderweireld,a,639,OpenPlay,2015,RightFoot,414,Stoke,Tottenham,0,4,2016-04-18 23:00:00,Mousa Dembélé,Pass,639
+56612,4,MissedShots,0.8959999847412109,0.38,0.07049959897994995,Toby Alderweireld,h,639,FromCorner,2015,RightFoot,426,Tottenham,West Bromwich Albion,1,1,2016-04-25 23:00:00,,Rebound,639
+56615,18,BlockedShot,0.7380000305175781,0.2539999961853027,0.012942000292241573,Toby Alderweireld,h,639,OpenPlay,2015,RightFoot,426,Tottenham,West Bromwich Albion,1,1,2016-04-25 23:00:00,Christian Eriksen,Pass,639
+56874,87,BlockedShot,0.7980000305175782,0.27399999618530274,0.021978799253702164,Toby Alderweireld,h,639,OpenPlay,2015,RightFoot,444,Tottenham,Southampton,1,2,2016-05-08 16:30:00,Christian Eriksen,Pass,639
+52082,32,SavedShot,0.730999984741211,0.32799999237060545,0.015955699607729912,Toby Alderweireld,a,639,OpenPlay,2015,RightFoot,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,Erik Lamela,Pass,639
+52104,86,MissedShots,0.9130000305175782,0.15800000190734864,0.016645299270749092,Toby Alderweireld,a,639,OpenPlay,2015,RightFoot,454,Newcastle United,Tottenham,5,1,2016-05-15 18:00:00,Christian Eriksen,Pass,639
+112218,35,BlockedShot,0.8880000305175781,0.37900001525878907,0.04318990185856819,Toby Alderweireld,a,639,FromCorner,2016,RightFoot,463,Everton,Tottenham,1,1,2016-08-13 18:00:00,Christian Eriksen,Cross,639
+112777,11,SavedShot,0.9169999694824219,0.539000015258789,0.28606298565864563,Toby Alderweireld,h,639,FromCorner,2016,Head,475,Tottenham,Crystal Palace,1,0,2016-08-20 18:00:00,Erik Lamela,Cross,639
+112787,37,MissedShots,0.8690000152587891,0.35400001525878905,0.03635130077600479,Toby Alderweireld,h,639,FromCorner,2016,RightFoot,475,Tottenham,Crystal Palace,1,0,2016-08-20 18:00:00,Erik Lamela,Cross,639
+113077,7,BlockedShot,0.6709999847412109,0.345,0.009909000247716904,Toby Alderweireld,h,639,OpenPlay,2016,RightFoot,481,Tottenham,Liverpool,1,1,2016-08-27 15:30:00,Victor Wanyama,Pass,639
+113091,63,SavedShot,0.9330000305175781,0.5840000152587891,0.0655772015452385,Toby Alderweireld,h,639,FromCorner,2016,Head,481,Tottenham,Liverpool,1,1,2016-08-27 15:30:00,Christian Eriksen,Cross,639
+113095,84,MissedShots,0.914000015258789,0.46900001525878904,0.08308160305023193,Toby Alderweireld,h,639,FromCorner,2016,Head,481,Tottenham,Liverpool,1,1,2016-08-27 15:30:00,Christian Eriksen,Cross,639
+113326,64,MissedShots,0.88,0.2929999923706055,0.05430369824171066,Toby Alderweireld,a,639,OpenPlay,2016,LeftFoot,493,Stoke,Tottenham,0,4,2016-09-10 18:00:00,Christian Eriksen,Pass,639
+113621,15,SavedShot,0.92,0.47400001525878904,0.09715600311756134,Toby Alderweireld,h,639,FromCorner,2016,Head,510,Tottenham,Sunderland,1,0,2016-09-18 19:30:00,Son Heung-Min,Cross,639
+113855,55,MissedShots,0.9519999694824218,0.5379999923706055,0.13043299317359924,Toby Alderweireld,a,639,FromCorner,2016,Head,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Christian Eriksen,Cross,639
+114103,29,MissedShots,0.7340000152587891,0.40299999237060546,0.01897759921848774,Toby Alderweireld,a,639,OpenPlay,2016,RightFoot,536,West Bromwich Albion,Tottenham,1,1,2016-10-15 18:00:00,Victor Wanyama,Pass,639
+117887,10,MissedShots,0.970999984741211,0.3920000076293945,0.045530401170253754,Toby Alderweireld,a,639,FromCorner,2016,Head,3328,Watford,Tottenham,1,4,2017-01-01 13:30:00,Danny Rose,Cross,639
+117875,55,SavedShot,0.875999984741211,0.485,0.08858189731836319,Toby Alderweireld,h,639,FromCorner,2016,RightFoot,3340,Tottenham,West Bromwich Albion,4,0,2017-01-14 16:30:00,Harry Kane,Rebound,639
+117053,24,ShotOnPost,0.935,0.59,0.059621501713991165,Toby Alderweireld,h,639,FromCorner,2016,Head,3377,Tottenham,Middlesbrough,1,0,2017-02-04 17:30:00,Christian Eriksen,Cross,639
+117059,43,SavedShot,0.92,0.4229999923706055,0.02005689963698387,Toby Alderweireld,h,639,FromCorner,2016,Head,3377,Tottenham,Middlesbrough,1,0,2017-02-04 17:30:00,Christian Eriksen,Aerial,639
+117655,68,BlockedShot,0.9180000305175782,0.5579999923706055,0.045862600207328796,Toby Alderweireld,a,639,SetPiece,2016,Head,3386,Liverpool,Tottenham,2,0,2017-02-11 17:30:00,Son Heung-Min,Aerial,639
+117660,92,MissedShots,0.754000015258789,0.38,0.022120900452136993,Toby Alderweireld,a,639,OpenPlay,2016,RightFoot,3386,Liverpool,Tottenham,2,0,2017-02-11 17:30:00,,TakeOn,639
+119986,77,BlockedShot,0.91,0.5629999923706055,0.03688900172710419,Toby Alderweireld,h,639,SetPiece,2016,Head,3406,Tottenham,Everton,3,2,2017-03-05 13:30:00,Christian Eriksen,Foul,639
+120416,23,SavedShot,0.9440000152587891,0.534000015258789,0.13016000390052795,Toby Alderweireld,h,639,FromCorner,2016,Head,3422,Tottenham,Southampton,2,1,2017-03-19 14:15:00,Christian Eriksen,Cross,639
+119142,16,SavedShot,0.7169999694824218,0.48200000762939454,0.01741570048034191,Toby Alderweireld,a,639,SetPiece,2016,RightFoot,3431,Burnley,Tottenham,0,2,2017-04-01 15:00:00,Christian Eriksen,Pass,639
+119184,83,MissedShots,0.779000015258789,0.3609999847412109,0.025227399542927742,Toby Alderweireld,a,639,OpenPlay,2016,RightFoot,3444,Swansea,Tottenham,1,3,2017-04-05 19:45:00,Son Heung-Min,Pass,639
+119197,21,MissedShots,0.6959999847412109,0.36400001525878906,0.013055999763309956,Toby Alderweireld,a,639,OpenPlay,2016,RightFoot,3415,Crystal Palace,Tottenham,0,1,2017-04-26 20:00:00,Mousa Dembélé,Pass,639
+119215,85,MissedShots,0.8969999694824219,0.4640000152587891,0.09399420022964478,Toby Alderweireld,a,639,FromCorner,2016,LeftFoot,3415,Crystal Palace,Tottenham,0,1,2017-04-26 20:00:00,Ben Davies,HeadPass,639
+121092,6,MissedShots,0.9630000305175781,0.38599998474121094,0.030483800917863846,Toby Alderweireld,h,639,FromCorner,2016,Head,3487,Tottenham,Arsenal,2,0,2017-04-30 16:30:00,Christian Eriksen,Cross,639
+121120,77,SavedShot,0.9169999694824219,0.41,0.01630139909684658,Toby Alderweireld,h,639,FromCorner,2016,Head,3487,Tottenham,Arsenal,2,0,2017-04-30 16:30:00,Christian Eriksen,Aerial,639
+121696,28,MissedShots,0.7340000152587891,0.365,0.01842859946191311,Toby Alderweireld,a,639,SetPiece,2016,RightFoot,3499,West Ham,Tottenham,1,0,2017-05-05 20:00:00,Dele Alli,Pass,639
+121708,77,BlockedShot,0.965999984741211,0.61,0.033095501363277435,Toby Alderweireld,a,639,FromCorner,2016,Head,3499,West Ham,Tottenham,1,0,2017-05-05 20:00:00,Christian Eriksen,Cross,639
+120778,5,MissedShots,0.8730000305175781,0.5309999847412109,0.02400819957256317,Toby Alderweireld,a,639,FromCorner,2016,Head,3475,Leicester,Tottenham,1,6,2017-05-18 19:45:00,Ben Davies,Cross,639
+112468,86,Goal,0.9169999694824219,0.55,0.4509449899196625,Toby Alderweireld,a,639,OpenPlay,2016,RightFoot,3513,Hull,Tottenham,1,7,2017-05-21 15:00:00,Kieran Trippier,Cross,639
+159063,26,MissedShots,0.9009999847412109,0.425,0.03771759942173958,Toby Alderweireld,h,639,FromCorner,2017,Head,7137,Tottenham,Chelsea,1,2,2017-08-20 16:00:00,Ben Davies,Cross,639
+158854,36,BlockedShot,0.7819999694824219,0.5970000076293945,0.024912599474191666,Toby Alderweireld,h,639,FromCorner,2017,RightFoot,7147,Tottenham,Burnley,1,1,2017-08-27 16:00:00,Dele Alli,TakeOn,639
+159234,43,MissedShots,0.7880000305175782,0.24899999618530275,0.0476502999663353,Toby Alderweireld,a,639,OpenPlay,2017,RightFoot,7154,Everton,Tottenham,0,3,2017-09-09 15:00:00,Christian Eriksen,TakeOn,639
+158898,57,MissedShots,0.8380000305175781,0.40400001525878904,0.05763290077447891,Toby Alderweireld,h,639,OpenPlay,2017,RightFoot,7166,Tottenham,Swansea,0,0,2017-09-16 17:30:00,Son Heung-Min,Pass,639
+159942,22,MissedShots,0.7169999694824218,0.2539999961853027,0.011897300370037556,Toby Alderweireld,a,639,OpenPlay,2017,RightFoot,7169,West Ham,Tottenham,2,3,2017-09-23 12:30:00,Eric Dier,Pass,639
+161737,32,MissedShots,0.9119999694824219,0.4929999923706055,0.035572100430727005,Toby Alderweireld,h,639,FromCorner,2017,Head,7197,Tottenham,Bournemouth,1,0,2017-10-14 15:00:00,Kieran Trippier,Aerial,639
+160070,19,MissedShots,0.730999984741211,0.21100000381469727,0.012202300131320953,Toby Alderweireld,a,639,OpenPlay,2017,RightFoot,7218,Manchester United,Tottenham,1,0,2017-10-28 12:30:00,Harry Winks,Pass,639
+209541,72,MissedShots,0.93,0.6940000152587891,0.039834000170230865,Toby Alderweireld,a,639,FromCorner,2017,LeftFoot,7462,Brighton,Tottenham,1,1,2018-04-17 18:45:00,,None,639
+215601,12,SavedShot,0.7809999847412109,0.55,0.027560800313949585,Toby Alderweireld,h,639,SetPiece,2017,RightFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,Lucas Moura,Pass,639
+215622,67,MissedShots,0.899000015258789,0.6609999847412109,0.05600940063595772,Toby Alderweireld,h,639,SetPiece,2017,RightFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,,None,639
+233143,8,MissedShots,0.8859999847412109,0.41700000762939454,0.021104900166392326,Toby Alderweireld,h,639,FromCorner,2018,Head,9209,Tottenham,Fulham,3,1,2018-08-18 17:00:00,Kieran Trippier,Cross,639
+233151,37,MissedShots,0.740999984741211,0.3139999961853027,0.011712299659848213,Toby Alderweireld,h,639,OpenPlay,2018,LeftFoot,9209,Tottenham,Fulham,3,1,2018-08-18 17:00:00,,None,639
+234021,9,SavedShot,0.9290000152587891,0.36700000762939455,0.01952739991247654,Toby Alderweireld,a,639,FromCorner,2018,Head,9254,Brighton,Tottenham,1,2,2018-09-22 16:30:00,Kieran Trippier,Cross,639
+249268,25,MissedShots,0.9069999694824219,0.39799999237060546,0.026265399530529976,Toby Alderweireld,a,639,FromCorner,2018,Head,9279,West Ham,Tottenham,0,1,2018-10-20 14:00:00,Kieran Trippier,Cross,639
+249724,9,SavedShot,0.9640000152587891,0.38599998474121094,0.013588099740445614,Toby Alderweireld,h,639,FromCorner,2018,Head,9296,Tottenham,Manchester City,0,1,2018-10-29 19:00:00,Kieran Trippier,Aerial,639
+250140,26,MissedShots,0.8980000305175782,0.59,0.016194500029087067,Toby Alderweireld,a,639,SetPiece,2018,Head,9312,Crystal Palace,Tottenham,0,1,2018-11-10 17:30:00,Erik Lamela,Aerial,639
+250396,29,SavedShot,0.9530000305175781,0.43900001525878907,0.12516699731349945,Toby Alderweireld,h,639,FromCorner,2018,RightFoot,9323,Tottenham,Chelsea,3,1,2018-11-24 17:30:00,Christian Eriksen,Cross,639
+250985,47,SavedShot,0.9490000152587891,0.6780000305175782,0.012001600116491318,Toby Alderweireld,h,639,FromCorner,2018,Head,9346,Tottenham,Southampton,3,1,2018-12-05 20:00:00,Christian Eriksen,Aerial,639
+274584,69,SavedShot,0.960999984741211,0.41,0.078398697078228,Toby Alderweireld,h,639,FromCorner,2018,LeftFoot,9408,Tottenham,Manchester United,0,1,2019-01-13 16:30:00,Christian Eriksen,Cross,639
+275099,75,BlockedShot,0.9430000305175781,0.6659999847412109,0.011488599702715874,Toby Alderweireld,h,639,FromCorner,2018,Head,9435,Tottenham,Watford,2,1,2019-01-30 20:00:00,Danny Rose,Cross,639
+276081,66,MissedShots,0.919000015258789,0.4490000152587891,0.031132400035858154,Toby Alderweireld,a,639,FromCorner,2018,Head,9474,Chelsea,Tottenham,2,0,2019-02-27 20:00:00,Kieran Trippier,Aerial,639
+276083,82,MissedShots,0.7980000305175782,0.235,0.014482500031590462,Toby Alderweireld,a,639,OpenPlay,2018,RightFoot,9474,Chelsea,Tottenham,2,0,2019-02-27 20:00:00,,BallRecovery,639
+276123,43,MissedShots,0.8869999694824219,0.5879999923706055,0.018286900594830513,Toby Alderweireld,h,639,FromCorner,2018,Head,9480,Tottenham,Arsenal,1,1,2019-03-02 12:30:00,Kieran Trippier,BallTouch,639
+276127,54,MissedShots,0.93,0.34,0.3338629901409149,Toby Alderweireld,h,639,SetPiece,2018,RightFoot,9480,Tottenham,Arsenal,1,1,2019-03-02 12:30:00,,None,639
+288258,89,OwnGoal,0.025,0.5270000076293946,0,Toby Alderweireld,a,639,FromCorner,2018,RightFoot,9510,Liverpool,Tottenham,2,1,2019-03-31 15:30:00,,Save,639
+291348,43,MissedShots,0.9440000152587891,0.47,0.12117899954319,Toby Alderweireld,h,639,FromCorner,2018,Head,9500,Tottenham,Crystal Palace,2,0,2019-04-03 19:45:00,Christian Eriksen,Cross,639
+291347,43,BlockedShot,0.845999984741211,0.4179999923706055,0.04231400042772293,Toby Alderweireld,h,639,FromCorner,2018,RightFoot,9500,Tottenham,Crystal Palace,2,0,2019-04-03 19:45:00,Dele Alli,BallTouch,639
+296536,36,BlockedShot,0.749000015258789,0.355,0.01770780049264431,Toby Alderweireld,h,639,OpenPlay,2018,RightFoot,9519,Tottenham,Brighton,1,0,2019-04-23 19:45:00,Dele Alli,Pass,639
+296547,71,ShotOnPost,0.8159999847412109,0.46900001525878904,0.04842279851436615,Toby Alderweireld,h,639,FromCorner,2018,LeftFoot,9519,Tottenham,Brighton,1,0,2019-04-23 19:45:00,Christian Eriksen,Pass,639
+296551,76,BlockedShot,0.785,0.3340000152587891,0.024281099438667297,Toby Alderweireld,h,639,OpenPlay,2018,LeftFoot,9519,Tottenham,Brighton,1,0,2019-04-23 19:45:00,Jan Vertonghen,TakeOn,639
+310050,64,MissedShots,0.914000015258789,0.38299999237060545,0.013485100120306015,Toby Alderweireld,h,639,FromCorner,2019,Head,11649,Tottenham,Aston Villa,3,1,2019-08-10 17:30:00,Erik Lamela,Aerial,639
+310061,79,MissedShots,0.8819999694824219,0.40599998474121096,0.04698279872536659,Toby Alderweireld,h,639,FromCorner,2019,LeftFoot,11649,Tottenham,Aston Villa,3,1,2019-08-10 17:30:00,Danny Rose,Cross,639
+328032,93,SavedShot,0.89,0.575999984741211,0.02658109925687313,Toby Alderweireld,a,639,FromCorner,2019,Head,11736,Liverpool,Tottenham,2,1,2019-10-27 16:30:00,Danny Rose,Cross,639
+329942,25,MissedShots,0.9419999694824219,0.35900001525878905,0.009575629606842995,Toby Alderweireld,a,639,SetPiece,2019,Head,11748,Everton,Tottenham,1,1,2019-11-03 16:30:00,Ben Davies,Aerial,639
+331914,31,BlockedShot,0.955999984741211,0.615,0.03253709897398949,Toby Alderweireld,a,639,FromCorner,2019,Head,11772,West Ham,Tottenham,2,3,2019-11-23 12:30:00,Harry Winks,Cross,639
+331915,31,BlockedShot,0.86,0.515,0.029589099809527397,Toby Alderweireld,a,639,FromCorner,2019,LeftFoot,11772,West Ham,Tottenham,2,3,2019-11-23 12:30:00,Eric Dier,Aerial,639
+351789,59,MissedShots,0.9,0.4929999923706055,0.02191310003399849,Toby Alderweireld,h,639,FromCorner,2019,Head,11854,Tottenham,Liverpool,0,1,2020-01-11 17:30:00,Christian Eriksen,Aerial,639
+352782,8,OwnGoal,0.05699999809265137,0.53,0,Toby Alderweireld,a,639,OpenPlay,2019,LeftFoot,11894,Aston Villa,Tottenham,2,3,2020-02-16 14:00:00,,Tackle,639
+352792,26,Goal,0.9180000305175782,0.3729999923706055,0.0698063001036644,Toby Alderweireld,a,639,FromCorner,2019,RightFoot,11894,Aston Villa,Tottenham,2,3,2020-02-16 14:00:00,Eric Dier,None,639
+352913,65,SavedShot,0.875999984741211,0.4540000152587891,0.03793549910187721,Toby Alderweireld,a,639,FromCorner,2019,Head,11906,Chelsea,Tottenham,2,1,2020-02-22 12:30:00,Harry Winks,Cross,639
+353536,57,MissedShots,0.769000015258789,0.5829999923706055,0.01892250031232834,Toby Alderweireld,a,639,FromCorner,2019,LeftFoot,11924,Burnley,Tottenham,1,1,2020-03-07 17:30:00,,None,639
+353548,86,BlockedShot,0.8180000305175781,0.7230000305175781,0.025195499882102013,Toby Alderweireld,a,639,FromCorner,2019,LeftFoot,11924,Burnley,Tottenham,1,1,2020-03-07 17:30:00,Giovani Lo Celso,Pass,639
+370107,69,MissedShots,0.9369999694824219,0.3529999923706055,0.013955200091004372,Toby Alderweireld,a,639,FromCorner,2019,Head,11975,Bournemouth,Tottenham,0,0,2020-07-09 17:00:00,Erik Lamela,Cross,639
+370913,80,Goal,0.9330000305175781,0.5429999923706055,0.052921198308467865,Toby Alderweireld,h,639,FromCorner,2019,Head,11990,Tottenham,Arsenal,2,1,2020-07-12 15:30:00,Son Heung-Min,Aerial,639
+372455,9,MissedShots,0.865999984741211,0.5629999923706055,0.029921699315309525,Toby Alderweireld,h,639,SetPiece,2019,Head,12010,Tottenham,Leicester,3,0,2020-07-19 15:00:00,Son Heung-Min,Cross,639
+373703,46,MissedShots,0.9480000305175781,0.41200000762939454,0.026276400312781334,Toby Alderweireld,a,639,FromCorner,2019,Head,12020,Crystal Palace,Tottenham,1,1,2020-07-26 15:00:00,Giovani Lo Celso,Aerial,639
+386361,81,SavedShot,0.9390000152587891,0.649000015258789,0.014106499962508678,Toby Alderweireld,a,639,FromCorner,2020,Head,14513,West Bromwich Albion,Tottenham,0,1,2020-11-08 12:00:00,Son Heung-Min,Cross,639
+394586,58,OwnGoal,0.035,0.5029999923706054,0,Toby Alderweireld,h,639,OpenPlay,2020,RightFoot,14573,Tottenham,Leicester,0,2,2020-12-20 14:15:00,,Tackle,639
+394589,70,MissedShots,0.9259999847412109,0.43099998474121093,0.07432150095701218,Toby Alderweireld,h,639,FromCorner,2020,Head,14573,Tottenham,Leicester,0,2,2020-12-20 14:15:00,Gareth Bale,Cross,639
+396282,30,BlockedShot,0.9119999694824219,0.504000015258789,0.08825650066137314,Toby Alderweireld,h,639,SetPiece,2020,RightFoot,14599,Tottenham,Leeds,3,0,2021-01-02 12:30:00,,None,639
+396293,49,Goal,0.955,0.4370000076293945,0.11948099732398987,Toby Alderweireld,h,639,FromCorner,2020,Head,14599,Tottenham,Leeds,3,0,2021-01-02 12:30:00,Son Heung-Min,Cross,639
+403551,41,BlockedShot,0.9059999847412109,0.48400001525878905,0.1239050030708313,Toby Alderweireld,h,639,FromCorner,2020,RightFoot,14663,Tottenham,West Bromwich Albion,2,0,2021-02-07 12:00:00,,Rebound,639
+415068,56,ShotOnPost,0.9519999694824218,0.40900001525878904,0.06833729892969131,Toby Alderweireld,a,639,FromCorner,2020,Head,14748,Everton,Tottenham,2,2,2021-04-16 19:00:00,Son Heung-Min,Cross,639
+416400,44,MissedShots,0.9219999694824219,0.5659999847412109,0.026139099150896072,Toby Alderweireld,h,639,FromCorner,2020,Head,14722,Tottenham,Southampton,2,1,2021-04-21 19:00:00,Gareth Bale,Aerial,639
+419329,73,BlockedShot,0.94,0.6569999694824219,0.04047190025448799,Toby Alderweireld,h,639,FromCorner,2020,RightFoot,14773,Tottenham,Sheffield United,4,0,2021-05-02 18:15:00,Son Heung-Min,Cross,639
+419330,74,SavedShot,0.95,0.6659999847412109,0.038632798939943314,Toby Alderweireld,h,639,FromCorner,2020,RightFoot,14773,Tottenham,Sheffield United,4,0,2021-05-02 18:15:00,Son Heung-Min,Cross,639
+424028,24,BlockedShot,0.9630000305175781,0.625,0.020167699083685875,Toby Alderweireld,a,639,FromCorner,2020,Head,14809,Leicester,Tottenham,2,4,2021-05-23 15:00:00,Son Heung-Min,Cross,639

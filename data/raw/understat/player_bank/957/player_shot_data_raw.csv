@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+59268,80,MissedShots,0.875999984741211,0.43400001525878906,0.03292449936270714,Yann Kermorgant,h,957,OpenPlay,2015,Head,178,Bournemouth,Tottenham,1,5,2015-10-25 18:05:00,Charlie Daniels,Aerial,957

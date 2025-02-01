@@ -1,0 +1,443 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+11422,8,SavedShot,0.9059999847412109,0.5509999847412109,0.09786470234394073,Salomón Rondón,a,813,OpenPlay,2014,LeftFoot,6419,Arsenal Tula,Zenit St. Petersburg,0,4,2014-08-02 16:00:00,Domenico Criscito,Cross,813
+11424,14,MissedShots,0.919000015258789,0.46,0.3160650134086609,Salomón Rondón,a,813,OpenPlay,2014,Head,6419,Arsenal Tula,Zenit St. Petersburg,0,4,2014-08-02 16:00:00,Viktor Faizulin,Cross,813
+11427,17,Goal,0.92,0.4909999847412109,0.5111500024795532,Salomón Rondón,a,813,OpenPlay,2014,RightFoot,6419,Arsenal Tula,Zenit St. Petersburg,0,4,2014-08-02 16:00:00,Hulk,Pass,813
+11431,38,MissedShots,0.9319999694824219,0.4640000152587891,0.14677800238132477,Salomón Rondón,a,813,OpenPlay,2014,RightFoot,6419,Arsenal Tula,Zenit St. Petersburg,0,4,2014-08-02 16:00:00,Danny,Pass,813
+9007,6,SavedShot,0.9219999694824219,0.5420000076293945,0.4774250090122223,Salomón Rondón,h,813,OpenPlay,2014,RightFoot,6428,Zenit St. Petersburg,Torpedo Moscow,8,1,2014-08-09 14:00:00,Hulk,Pass,813
+9011,11,MissedShots,0.8819999694824219,0.5609999847412109,0.03869200125336647,Salomón Rondón,h,813,OpenPlay,2014,Head,6428,Zenit St. Petersburg,Torpedo Moscow,8,1,2014-08-09 14:00:00,Igor Smolnikov,Cross,813
+9012,12,MissedShots,0.855,0.46299999237060546,0.023899400606751442,Salomón Rondón,h,813,OpenPlay,2014,Head,6428,Zenit St. Petersburg,Torpedo Moscow,8,1,2014-08-09 14:00:00,Danny,Chipped,813
+9021,32,Goal,0.9280000305175782,0.524000015258789,0.13851700723171234,Salomón Rondón,h,813,OpenPlay,2014,RightFoot,6428,Zenit St. Petersburg,Torpedo Moscow,8,1,2014-08-09 14:00:00,Hulk,Cross,813
+9027,46,Goal,0.9269999694824219,0.47700000762939454,0.5864629745483398,Salomón Rondón,h,813,OpenPlay,2014,RightFoot,6428,Zenit St. Petersburg,Torpedo Moscow,8,1,2014-08-09 14:00:00,,Rebound,813
+9029,51,MissedShots,0.919000015258789,0.465,0.14554700255393982,Salomón Rondón,h,813,OpenPlay,2014,LeftFoot,6428,Zenit St. Petersburg,Torpedo Moscow,8,1,2014-08-09 14:00:00,Danny,Pass,813
+9249,29,MissedShots,0.89,0.6509999847412109,0.3461340069770813,Salomón Rondón,a,813,OpenPlay,2014,LeftFoot,6435,Ural,Zenit St. Petersburg,1,2,2014-08-13 14:30:00,Hulk,TakeOn,813
+9254,46,SavedShot,0.9290000152587891,0.5579999923706055,0.0356036014854908,Salomón Rondón,a,813,FromCorner,2014,Head,6435,Ural,Zenit St. Petersburg,1,2,2014-08-13 14:30:00,Oleg Shatov,Aerial,813
+9256,55,MissedShots,0.9169999694824219,0.41200000762939454,0.06175690144300461,Salomón Rondón,a,813,OpenPlay,2014,Head,6435,Ural,Zenit St. Petersburg,1,2,2014-08-13 14:30:00,Igor Smolnikov,Cross,813
+9260,65,MissedShots,0.9740000152587891,0.7130000305175781,0.04689729958772659,Salomón Rondón,a,813,OpenPlay,2014,LeftFoot,6435,Ural,Zenit St. Petersburg,1,2,2014-08-13 14:30:00,Aleksandr Ryazantsev,Pass,813
+9262,73,Goal,0.935,0.505,0.45875999331474304,Salomón Rondón,a,813,OpenPlay,2014,RightFoot,6435,Ural,Zenit St. Petersburg,1,2,2014-08-13 14:30:00,Hulk,Cross,813
+10591,90,MissedShots,0.9259999847412109,0.42700000762939455,0.06465400010347366,Salomón Rondón,h,813,FromCorner,2014,Head,6442,Zenit St. Petersburg,FC Ufa,1,0,2014-08-16 17:00:00,Oleg Shatov,Cross,813
+14102,70,MissedShots,0.9769999694824218,0.38599998474121094,0.11586400121450424,Salomón Rondón,h,813,OpenPlay,2014,RightFoot,6451,Zenit St. Petersburg,Amkar,2,0,2014-08-23 14:00:00,Viktor Faizulin,Cross,813
+10656,92,MissedShots,0.905,0.6329999923706054,0.29767799377441406,Salomón Rondón,a,813,OpenPlay,2014,LeftFoot,6463,Lokomotiv Moscow,Zenit St. Petersburg,0,1,2014-08-31 15:00:00,Viktor Faizulin,Pass,813
+10010,71,BlockedShot,0.845,0.6659999847412109,0.05332320183515549,Salomón Rondón,h,813,OpenPlay,2014,LeftFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,Hulk,Pass,813
+10012,78,SavedShot,0.950999984741211,0.66,0.09192889928817749,Salomón Rondón,h,813,OpenPlay,2014,LeftFoot,6395,Zenit St. Petersburg,Dinamo Moscow,3,2,2014-09-13 15:30:00,Hulk,Pass,813
+10246,6,SavedShot,0.85,0.38799999237060545,0.07184779644012451,Salomón Rondón,a,813,OpenPlay,2014,RightFoot,6403,FC Rostov,Zenit St. Petersburg,0,5,2014-09-20 11:30:00,Hulk,Pass,813
+10249,10,Goal,0.9530000305175781,0.5740000152587891,0.499983012676239,Salomón Rondón,a,813,FromCorner,2014,LeftFoot,6403,FC Rostov,Zenit St. Petersburg,0,5,2014-09-20 11:30:00,,None,813
+10258,56,Goal,0.8880000305175781,0.45,0.4926230013370514,Salomón Rondón,a,813,OpenPlay,2014,LeftFoot,6403,FC Rostov,Zenit St. Petersburg,0,5,2014-09-20 11:30:00,,None,813
+10261,67,MissedShots,0.7559999847412109,0.47700000762939454,0.03274010121822357,Salomón Rondón,a,813,OpenPlay,2014,RightFoot,6403,FC Rostov,Zenit St. Petersburg,0,5,2014-09-20 11:30:00,Yuri Lodygin,Pass,813
+10265,72,Goal,0.9169999694824219,0.509000015258789,0.5459499955177307,Salomón Rondón,a,813,OpenPlay,2014,RightFoot,6403,FC Rostov,Zenit St. Petersburg,0,5,2014-09-20 11:30:00,Oleg Shatov,Pass,813
+10269,90,SavedShot,0.9430000305175781,0.7019999694824218,0.09014949947595596,Salomón Rondón,a,813,OpenPlay,2014,RightFoot,6403,FC Rostov,Zenit St. Petersburg,0,5,2014-09-20 11:30:00,Pavel Mogilevets,Chipped,813
+10184,11,BlockedShot,0.7959999847412109,0.6819999694824219,0.06620000302791595,Salomón Rondón,h,813,DirectFreekick,2014,RightFoot,6411,Zenit St. Petersburg,Spartak Moscow,0,0,2014-09-27 15:30:00,,Standard,813
+10185,13,BlockedShot,0.754000015258789,0.5379999923706055,0.017594600096344948,Salomón Rondón,h,813,OpenPlay,2014,RightFoot,6411,Zenit St. Petersburg,Spartak Moscow,0,0,2014-09-27 15:30:00,Ezequiel Garay,Chipped,813
+10190,34,BlockedShot,0.83,0.3579999923706055,0.04559760168194771,Salomón Rondón,h,813,OpenPlay,2014,RightFoot,6411,Zenit St. Petersburg,Spartak Moscow,0,0,2014-09-27 15:30:00,,Dispossessed,813
+8764,13,SavedShot,0.69,0.55,0.01301610004156828,Salomón Rondón,a,813,OpenPlay,2014,RightFoot,6378,FC Krasnodar,Zenit St. Petersburg,2,2,2014-10-18 14:00:00,Viktor Faizulin,Pass,813
+9920,62,BlockedShot,0.925,0.31799999237060544,0.0551145002245903,Salomón Rondón,h,813,OpenPlay,2014,RightFoot,6356,Zenit St. Petersburg,FK Akhmat,1,3,2014-11-08 16:00:00,Hulk,Pass,813
+9984,53,MissedShots,0.899000015258789,0.6580000305175782,0.012682300060987473,Salomón Rondón,h,813,OpenPlay,2014,Head,6364,Zenit St. Petersburg,Kuban Krasnodar,1,0,2014-11-22 16:00:00,Domenico Criscito,Cross,813
+9985,54,MissedShots,0.860999984741211,0.49400001525878906,0.020142599940299988,Salomón Rondón,h,813,OpenPlay,2014,Head,6364,Zenit St. Petersburg,Kuban Krasnodar,1,0,2014-11-22 16:00:00,Domenico Criscito,Aerial,813
+9990,72,SavedShot,0.875,0.705,0.08542530238628387,Salomón Rondón,h,813,OpenPlay,2014,LeftFoot,6364,Zenit St. Petersburg,Kuban Krasnodar,1,0,2014-11-22 16:00:00,Axel Witsel,Pass,813
+11024,51,BlockedShot,0.9290000152587891,0.39799999237060546,0.09001850336790085,Salomón Rondón,a,813,OpenPlay,2014,RightFoot,6332,Rubin Kazan,Zenit St. Petersburg,0,1,2014-12-03 14:45:00,Aleksandr Ryazantsev,Cross,813
+11027,67,MissedShots,0.9269999694824219,0.2979999923706055,0.056505899876356125,Salomón Rondón,a,813,OpenPlay,2014,RightFoot,6332,Rubin Kazan,Zenit St. Petersburg,0,1,2014-12-03 14:45:00,Aleksandr Ryazantsev,Pass,813
+12043,22,ShotOnPost,0.9159999847412109,0.5429999923706055,0.0742688998579979,Salomón Rondón,h,813,FromCorner,2014,Head,6338,Zenit St. Petersburg,FC Krasnodar,4,0,2014-12-06 13:45:00,Danny,Cross,813
+12052,61,BlockedShot,0.9440000152587891,0.500999984741211,0.14725500345230103,Salomón Rondón,h,813,OpenPlay,2014,LeftFoot,6338,Zenit St. Petersburg,FC Krasnodar,4,0,2014-12-06 13:45:00,Viktor Faizulin,Cross,813
+12054,63,MissedShots,0.89,0.5209999847412109,0.05360909923911095,Salomón Rondón,h,813,OpenPlay,2014,Head,6338,Zenit St. Petersburg,FC Krasnodar,4,0,2014-12-06 13:45:00,Danny,Chipped,813
+12059,88,BlockedShot,0.87,0.3139999961853027,0.10451900213956833,Salomón Rondón,h,813,OpenPlay,2014,RightFoot,6338,Zenit St. Petersburg,FC Krasnodar,4,0,2014-12-06 13:45:00,Danny,Pass,813
+12804,10,MissedShots,0.92,0.5620000076293945,0.326090008020401,Salomón Rondón,h,813,OpenPlay,2014,RightFoot,6307,Zenit St. Petersburg,Ural,3,0,2015-03-07 16:00:00,Igor Smolnikov,Cross,813
+12809,44,Goal,0.9469999694824218,0.47,0.14909300208091736,Salomón Rondón,h,813,OpenPlay,2014,Head,6307,Zenit St. Petersburg,Ural,3,0,2015-03-07 16:00:00,Igor Smolnikov,Cross,813
+12811,57,MissedShots,0.8980000305175782,0.4759999847412109,0.41872501373291016,Salomón Rondón,h,813,OpenPlay,2014,RightFoot,6307,Zenit St. Petersburg,Ural,3,0,2015-03-07 16:00:00,Domenico Criscito,Pass,813
+12813,69,Goal,0.915,0.31,0.07156559824943542,Salomón Rondón,h,813,OpenPlay,2014,RightFoot,6307,Zenit St. Petersburg,Ural,3,0,2015-03-07 16:00:00,Aleksandr Ryazantsev,Pass,813
+12815,77,Goal,0.9109999847412109,0.545,0.4425010085105896,Salomón Rondón,h,813,OpenPlay,2014,LeftFoot,6307,Zenit St. Petersburg,Ural,3,0,2015-03-07 16:00:00,Aleksandr Ryazantsev,BallTouch,813
+13546,7,SavedShot,0.9519999694824218,0.35700000762939454,0.06086190044879913,Salomón Rondón,a,813,OpenPlay,2014,RightFoot,6319,Torpedo Moscow,Zenit St. Petersburg,1,1,2015-03-15 13:00:00,Igor Smolnikov,Cross,813
+13553,39,BlockedShot,0.7609999847412109,0.565,0.06601180136203766,Salomón Rondón,a,813,DirectFreekick,2014,RightFoot,6319,Torpedo Moscow,Zenit St. Petersburg,1,1,2015-03-15 13:00:00,,Standard,813
+12472,57,Goal,0.8880000305175781,0.555,0.3855170011520386,Salomón Rondón,a,813,SetPiece,2014,RightFoot,6275,FK Akhmat,Zenit St. Petersburg,1,2,2015-04-08 15:45:00,,Rebound,813
+13212,19,MissedShots,0.904000015258789,0.6140000152587891,0.08324850350618362,Salomón Rondón,h,813,OpenPlay,2014,LeftFoot,6282,Zenit St. Petersburg,Rubin Kazan,1,1,2015-04-12 11:30:00,Hulk,Pass,813
+11337,73,SavedShot,0.905,0.46599998474121096,0.05131610110402107,Salomón Rondón,h,813,OpenPlay,2014,Head,6304,Zenit St. Petersburg,Arsenal Tula,1,0,2015-04-26 16:30:00,Danny,Aerial,813
+11340,91,MissedShots,0.8780000305175781,0.4,0.022583099082112312,Salomón Rondón,h,813,OpenPlay,2014,Head,6304,Zenit St. Petersburg,Arsenal Tula,1,0,2015-04-26 16:30:00,Igor Smolnikov,Cross,813
+12879,86,Goal,0.9019999694824219,0.44599998474121094,0.537310004234314,Salomón Rondón,h,813,OpenPlay,2014,RightFoot,6237,Zenit St. Petersburg,FC Rostov,3,0,2015-05-10 16:30:00,Domenico Criscito,Chipped,813
+11138,33,SavedShot,0.9030000305175782,0.6090000152587891,0.3090539872646332,Salomón Rondón,a,813,OpenPlay,2014,RightFoot,6249,Amkar,Zenit St. Petersburg,1,0,2015-05-23 11:00:00,Hulk,Pass,813
+11141,42,MissedShots,0.9309999847412109,0.3039999961853027,0.05935730040073395,Salomón Rondón,a,813,OpenPlay,2014,RightFoot,6249,Amkar,Zenit St. Petersburg,1,0,2015-05-23 11:00:00,Igor Smolnikov,Pass,813
+11144,55,SavedShot,0.74,0.6469999694824219,0.04383090138435364,Salomón Rondón,a,813,DirectFreekick,2014,RightFoot,6249,Amkar,Zenit St. Petersburg,1,0,2015-05-23 11:00:00,,Standard,813
+13978,45,BlockedShot,0.8830000305175781,0.47700000762939454,0.1235089972615242,Salomón Rondón,h,813,OpenPlay,2014,LeftFoot,6257,Zenit St. Petersburg,Lokomotiv Moscow,1,0,2015-05-30 11:30:00,Oleg Shatov,Pass,813
+13980,60,Goal,0.955999984741211,0.48,0.7288879752159119,Salomón Rondón,h,813,OpenPlay,2014,RightFoot,6257,Zenit St. Petersburg,Lokomotiv Moscow,1,0,2015-05-30 11:30:00,Danny,Pass,813
+13981,73,BlockedShot,0.789000015258789,0.46,0.10023900121450424,Salomón Rondón,h,813,DirectFreekick,2014,RightFoot,6257,Zenit St. Petersburg,Lokomotiv Moscow,1,0,2015-05-30 11:30:00,,Standard,813
+51939,62,MissedShots,0.865999984741211,0.3170000076293945,0.060072701424360275,Salomón Rondón,a,813,OpenPlay,2015,LeftFoot,96,Watford,West Bromwich Albion,0,0,2015-08-15 18:00:00,Craig Dawson,Pass,813
+57230,55,BlockedShot,0.8030000305175782,0.5940000152587891,0.11236099898815155,Salomón Rondón,h,813,DirectFreekick,2015,RightFoot,107,West Bromwich Albion,Chelsea,2,3,2015-08-23 16:30:00,,Standard,813
+57235,66,MissedShots,0.8219999694824218,0.5690000152587891,0.03978170081973076,Salomón Rondón,h,813,FromCorner,2015,RightFoot,107,West Bromwich Albion,Chelsea,2,3,2015-08-23 16:30:00,James Morrison,HeadPass,813
+57245,92,SavedShot,0.9769999694824218,0.40599998474121096,0.07815860211849213,Salomón Rondón,h,813,OpenPlay,2015,RightFoot,107,West Bromwich Albion,Chelsea,2,3,2015-08-23 16:30:00,,None,813
+57711,43,MissedShots,0.8690000152587891,0.43099998474121093,0.02067280001938343,Salomón Rondón,a,813,OpenPlay,2015,Head,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,James McClean,Cross,813
+57714,46,MissedShots,0.899000015258789,0.485,0.05249670147895813,Salomón Rondón,a,813,OpenPlay,2015,Head,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,James Morrison,Aerial,813
+57712,46,BlockedShot,0.8780000305175781,0.5209999847412109,0.08953530341386795,Salomón Rondón,a,813,OpenPlay,2015,LeftFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,,None,813
+57713,47,Goal,0.9459999847412109,0.575,0.2858690023422241,Salomón Rondón,a,813,OpenPlay,2015,Head,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,Rickie Lambert,Chipped,813
+58004,53,MissedShots,0.899000015258789,0.425,0.08777859807014465,Salomón Rondón,h,813,OpenPlay,2015,RightFoot,125,West Bromwich Albion,Southampton,0,0,2015-09-12 18:00:00,Craig Dawson,Chipped,813
+58048,1,SavedShot,0.895,0.534000015258789,0.07874909788370132,Salomón Rondón,a,813,OpenPlay,2015,Head,133,Aston Villa,West Bromwich Albion,0,1,2015-09-19 18:00:00,Chris Brunt,Cross,813
+58049,6,BlockedShot,0.8780000305175781,0.5659999847412109,0.11050800234079361,Salomón Rondón,a,813,OpenPlay,2015,RightFoot,133,Aston Villa,West Bromwich Albion,0,1,2015-09-19 18:00:00,Darren Fletcher,Pass,813
+58061,56,BlockedShot,0.9790000152587891,0.3990000152587891,0.12201400101184845,Salomón Rondón,a,813,OpenPlay,2015,RightFoot,133,Aston Villa,West Bromwich Albion,0,1,2015-09-19 18:00:00,Craig Dawson,Pass,813
+58062,59,SavedShot,0.785,0.36700000762939455,0.03899120166897774,Salomón Rondón,a,813,OpenPlay,2015,LeftFoot,133,Aston Villa,West Bromwich Albion,0,1,2015-09-19 18:00:00,Craig Dawson,BallRecovery,813
+58064,64,SavedShot,0.8690000152587891,0.68,0.06346440315246582,Salomón Rondón,a,813,OpenPlay,2015,RightFoot,133,Aston Villa,West Bromwich Albion,0,1,2015-09-19 18:00:00,Saido Berahino,Pass,813
+58068,82,SavedShot,0.96,0.6409999847412109,0.022765299305319786,Salomón Rondón,a,813,OpenPlay,2015,Head,133,Aston Villa,West Bromwich Albion,0,1,2015-09-19 18:00:00,James McClean,Cross,813
+58575,44,MissedShots,0.685,0.365,0.012868699617683887,Salomón Rondón,h,813,OpenPlay,2015,RightFoot,150,West Bromwich Albion,Everton,2,3,2015-09-28 23:00:00,James McClean,Pass,813
+59180,42,MissedShots,0.94,0.5529999923706055,0.06766559928655624,Salomón Rondón,h,813,OpenPlay,2015,Head,163,West Bromwich Albion,Sunderland,1,0,2015-10-17 18:00:00,James McClean,HeadPass,813
+59182,47,BlockedShot,0.915,0.46,0.11697100102901459,Salomón Rondón,h,813,OpenPlay,2015,Head,163,West Bromwich Albion,Sunderland,1,0,2015-10-17 18:00:00,Craig Dawson,Cross,813
+59185,60,MissedShots,0.9230000305175782,0.5029999923706054,0.13728199899196625,Salomón Rondón,h,813,OpenPlay,2015,LeftFoot,163,West Bromwich Albion,Sunderland,1,0,2015-10-17 18:00:00,Chris Brunt,Cross,813
+59335,45,Goal,0.9619999694824218,0.4879999923706055,0.6193810105323792,Salomón Rondón,a,813,OpenPlay,2015,Head,174,Norwich,West Bromwich Albion,0,1,2015-10-24 18:00:00,James McClean,Cross,813
+59332,45,MissedShots,0.9030000305175782,0.45799999237060546,0.23124699294567108,Salomón Rondón,a,813,OpenPlay,2015,Head,174,Norwich,West Bromwich Albion,0,1,2015-10-24 18:00:00,Chris Brunt,Cross,813
+53760,29,Goal,0.9530000305175781,0.615999984741211,0.031062699854373932,Salomón Rondón,h,813,FromCorner,2015,Head,187,West Bromwich Albion,Leicester,2,3,2015-10-31 19:00:00,Stéphane Sessegnon,Cross,813
+53771,71,MissedShots,0.950999984741211,0.415,0.03887780010700226,Salomón Rondón,h,813,OpenPlay,2015,Head,187,West Bromwich Albion,Leicester,2,3,2015-10-31 19:00:00,James McClean,Aerial,813
+53774,78,SavedShot,0.914000015258789,0.47099998474121096,0.10858400166034698,Salomón Rondón,h,813,OpenPlay,2015,Head,187,West Bromwich Albion,Leicester,2,3,2015-10-31 19:00:00,Craig Dawson,Cross,813
+53776,84,BlockedShot,0.9030000305175782,0.4279999923706055,0.12118600308895111,Salomón Rondón,h,813,OpenPlay,2015,RightFoot,187,West Bromwich Albion,Leicester,2,3,2015-10-31 19:00:00,Rickie Lambert,Throughball,813
+55265,19,MissedShots,0.904000015258789,0.49599998474121093,0.10137800127267838,Salomón Rondón,a,813,OpenPlay,2015,Head,193,Manchester United,West Bromwich Albion,2,0,2015-11-07 19:00:00,James McClean,Cross,813
+55516,53,MissedShots,0.865,0.6309999847412109,0.07691270112991333,Salomón Rondón,h,813,OpenPlay,2015,RightFoot,204,West Bromwich Albion,Arsenal,2,1,2015-11-21 19:00:00,,None,813
+53220,12,MissedShots,0.7809999847412109,0.345,0.02582320012152195,Salomón Rondón,a,813,OpenPlay,2015,RightFoot,218,West Ham,West Bromwich Albion,1,1,2015-11-29 18:05:00,Darren Fletcher,Pass,813
+53232,60,SavedShot,0.9540000152587891,0.509000015258789,0.5899199843406677,Salomón Rondón,a,813,OpenPlay,2015,Head,218,West Ham,West Bromwich Albion,1,1,2015-11-29 18:05:00,Darren Fletcher,Cross,813
+52780,2,BlockedShot,0.8380000305175781,0.7530000305175781,0.017039699479937553,Salomón Rondón,h,813,OpenPlay,2015,RightFoot,224,West Bromwich Albion,Tottenham,1,1,2015-12-05 19:00:00,James McClean,Cross,813
+52781,5,MissedShots,0.8669999694824219,0.5609999847412109,0.11745499819517136,Salomón Rondón,h,813,OpenPlay,2015,LeftFoot,224,West Bromwich Albion,Tottenham,1,1,2015-12-05 19:00:00,James Morrison,Pass,813
+52784,33,BlockedShot,0.7809999847412109,0.7659999847412109,0.042672500014305115,Salomón Rondón,h,813,DirectFreekick,2015,RightFoot,224,West Bromwich Albion,Tottenham,1,1,2015-12-05 19:00:00,,Standard,813
+52798,77,SavedShot,0.7630000305175781,0.49,0.027825599536299706,Salomón Rondón,h,813,OpenPlay,2015,RightFoot,224,West Bromwich Albion,Tottenham,1,1,2015-12-05 19:00:00,James McClean,BallRecovery,813
+52799,92,MissedShots,0.47200000762939454,0.41900001525878905,0.006886220071464777,Salomón Rondón,h,813,OpenPlay,2015,RightFoot,224,West Bromwich Albion,Tottenham,1,1,2015-12-05 19:00:00,Jonny Evans,BallRecovery,813
+54097,86,MissedShots,0.8159999847412109,0.435,0.0757388025522232,Salomón Rondón,a,813,OpenPlay,2015,RightFoot,238,Liverpool,West Bromwich Albion,2,2,2015-12-13 20:00:00,James McClean,Pass,813
+53401,46,BlockedShot,0.750999984741211,0.38799999237060545,0.019375300034880638,Salomón Rondón,h,813,OpenPlay,2015,RightFoot,241,West Bromwich Albion,Bournemouth,1,2,2015-12-19 19:00:00,Darren Fletcher,Pass,813
+53402,48,SavedShot,0.8819999694824219,0.44,0.08494559675455093,Salomón Rondón,h,813,OpenPlay,2015,RightFoot,241,West Bromwich Albion,Bournemouth,1,2,2015-12-19 19:00:00,Gareth McAuley,Chipped,813
+53415,91,BlockedShot,0.855,0.5309999847412109,0.08323489874601364,Salomón Rondón,h,813,OpenPlay,2015,LeftFoot,241,West Bromwich Albion,Bournemouth,1,2,2015-12-19 19:00:00,Rickie Lambert,Pass,813
+54164,39,MissedShots,0.7430000305175781,0.5170000076293946,0.02323639951646328,Salomón Rondón,a,813,OpenPlay,2015,LeftFoot,287,Chelsea,West Bromwich Albion,2,2,2016-01-13 23:45:00,Darren Fletcher,Pass,813
+52583,85,BlockedShot,0.8109999847412109,0.525,0.04293939843773842,Salomón Rondón,a,813,SetPiece,2015,LeftFoot,294,Southampton,West Bromwich Albion,3,0,2016-01-16 19:00:00,,None,813
+52694,56,MissedShots,0.895,0.36400001525878906,0.05341000109910965,Salomón Rondón,h,813,OpenPlay,2015,RightFoot,305,West Bromwich Albion,Aston Villa,0,0,2016-01-23 19:00:00,Craig Dawson,Cross,813
+55209,39,MissedShots,0.9169999694824219,0.4909999847412109,0.11875800043344498,Salomón Rondón,h,813,OpenPlay,2015,Head,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Sandro,Cross,813
+55223,71,MissedShots,0.865999984741211,0.445,0.027296200394630432,Salomón Rondón,h,813,OpenPlay,2015,Head,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Craig Dawson,Cross,813
+55236,91,Goal,0.98,0.45799999237060546,0.795678973197937,Salomón Rondón,h,813,FromCorner,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,,Rebound,813
+55427,13,Goal,0.9890000152587891,0.47,0.9668689966201782,Salomón Rondón,a,813,FromCorner,2015,OtherBodyPart,334,Everton,West Bromwich Albion,0,1,2016-02-13 19:00:00,Jonas Olsson,HeadPass,813
+55440,36,MissedShots,0.965999984741211,0.3770000076293945,0.0738179013133049,Salomón Rondón,a,813,SetPiece,2015,RightFoot,334,Everton,West Bromwich Albion,0,1,2016-02-13 19:00:00,Craig Dawson,HeadPass,813
+60290,11,SavedShot,0.919000015258789,0.3220000076293945,0.3116059899330139,Salomón Rondón,h,813,OpenPlay,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,Saido Berahino,Throughball,813
+60788,10,Goal,0.9030000305175782,0.355,0.3102329969406128,Salomón Rondón,a,813,OpenPlay,2015,RightFoot,351,Leicester,West Bromwich Albion,2,2,2016-03-01 23:45:00,Darren Fletcher,Throughball,813
+60801,39,BlockedShot,0.8019999694824219,0.47200000762939454,0.05366389825940132,Salomón Rondón,a,813,OpenPlay,2015,RightFoot,351,Leicester,West Bromwich Albion,2,2,2016-03-01 23:45:00,Saido Berahino,Pass,813
+60817,65,MissedShots,0.96,0.52,0.6546549797058105,Salomón Rondón,a,813,FromCorner,2015,RightFoot,351,Leicester,West Bromwich Albion,2,2,2016-03-01 23:45:00,Craig Dawson,Rebound,813
+60596,65,Goal,0.895,0.4540000152587891,0.09631259739398956,Salomón Rondón,h,813,OpenPlay,2015,LeftFoot,368,West Bromwich Albion,Manchester United,1,0,2016-03-06 20:00:00,Sébastien Pocognoli,Cross,813
+60862,8,MissedShots,0.865,0.2720000076293945,0.03561269864439964,Salomón Rondón,h,813,OpenPlay,2015,LeftFoot,378,West Bromwich Albion,Norwich,0,1,2016-03-19 19:00:00,Stéphane Sessegnon,Pass,813
+57007,12,MissedShots,0.7819999694824219,0.7709999847412109,0.01351580023765564,Salomón Rondón,h,813,OpenPlay,2015,RightFoot,409,West Bromwich Albion,Watford,0,1,2016-04-16 18:00:00,Gareth McAuley,BallRecovery,813
+57025,63,BlockedShot,0.865999984741211,0.4420000076293945,0.06387340277433395,Salomón Rondón,h,813,OpenPlay,2015,RightFoot,409,West Bromwich Albion,Watford,0,1,2016-04-16 18:00:00,Stéphane Sessegnon,Cross,813
+57027,66,MissedShots,0.8780000305175781,0.5609999847412109,0.07398489862680435,Salomón Rondón,h,813,OpenPlay,2015,RightFoot,409,West Bromwich Albion,Watford,0,1,2016-04-16 18:00:00,Darren Fletcher,Rebound,813
+60668,48,BlockedShot,0.76,0.3340000152587891,0.016642799600958824,Salomón Rondón,a,813,OpenPlay,2015,RightFoot,419,Arsenal,West Bromwich Albion,2,0,2016-04-21 22:45:00,Saido Berahino,Pass,813
+60682,72,MissedShots,0.9830000305175781,0.45799999237060546,0.5735359787940979,Salomón Rondón,a,813,FromCorner,2015,RightFoot,419,Arsenal,West Bromwich Albion,2,0,2016-04-21 22:45:00,Craig Gardner,Cross,813
+56622,37,BlockedShot,0.7480000305175781,0.35200000762939454,0.015617200173437595,Salomón Rondón,a,813,OpenPlay,2015,RightFoot,426,Tottenham,West Bromwich Albion,1,1,2016-04-25 23:00:00,,None,813
+56632,62,MissedShots,0.9269999694824219,0.5329999923706055,0.31792598962783813,Salomón Rondón,a,813,OpenPlay,2015,Head,426,Tottenham,West Bromwich Albion,1,1,2016-04-25 23:00:00,Craig Gardner,Aerial,813
+56639,71,SavedShot,0.8959999847412109,0.34200000762939453,0.05289129912853241,Salomón Rondón,a,813,OpenPlay,2015,RightFoot,426,Tottenham,West Bromwich Albion,1,1,2016-04-25 23:00:00,,Rebound,813
+57578,55,SavedShot,0.9069999694824219,0.59,0.015542400069534779,Salomón Rondón,h,813,FromCorner,2015,Head,431,West Bromwich Albion,West Ham,0,3,2016-04-30 18:00:00,Craig Gardner,Aerial,813
+57651,14,MissedShots,0.745,0.8059999847412109,0.010669100098311901,Salomón Rondón,a,813,OpenPlay,2015,RightFoot,441,Bournemouth,West Bromwich Albion,1,1,2016-05-07 18:00:00,James McClean,BallRecovery,813
+57652,15,Goal,0.9340000152587891,0.48700000762939455,0.1401969939470291,Salomón Rondón,a,813,OpenPlay,2015,Head,441,Bournemouth,West Bromwich Albion,1,1,2016-05-07 18:00:00,Jonny Evans,Cross,813
+57663,72,MissedShots,0.899000015258789,0.49400001525878906,0.05101719871163368,Salomón Rondón,a,813,OpenPlay,2015,Head,441,Bournemouth,West Bromwich Albion,1,1,2016-05-07 18:00:00,James McClean,Aerial,813
+52218,12,Goal,0.909000015258789,0.35900001525878905,0.09266790002584457,Salomón Rondón,h,813,OpenPlay,2015,RightFoot,459,West Bromwich Albion,Liverpool,1,1,2016-05-15 18:00:00,Jonathan Leko,Pass,813
+52226,46,MissedShots,0.9719999694824218,0.43599998474121093,0.6126239895820618,Salomón Rondón,h,813,SetPiece,2015,LeftFoot,459,West Bromwich Albion,Liverpool,1,1,2016-05-15 18:00:00,,Rebound,813
+52225,46,ShotOnPost,0.8930000305175781,0.37099998474121093,0.022694600746035576,Salomón Rondón,h,813,SetPiece,2015,Head,459,West Bromwich Albion,Liverpool,1,1,2016-05-15 18:00:00,Craig Gardner,Cross,813
+52230,60,MissedShots,0.9290000152587891,0.4329999923706055,0.11436499655246735,Salomón Rondón,h,813,OpenPlay,2015,Head,459,West Bromwich Albion,Liverpool,1,1,2016-05-15 18:00:00,Craig Dawson,Cross,813
+52232,65,BlockedShot,0.9159999847412109,0.38299999237060545,0.0747343972325325,Salomón Rondón,h,813,FromCorner,2015,LeftFoot,459,West Bromwich Albion,Liverpool,1,1,2016-05-15 18:00:00,,None,813
+52234,81,MissedShots,0.9259999847412109,0.69,0.041202299296855927,Salomón Rondón,h,813,FromCorner,2015,RightFoot,459,West Bromwich Albion,Liverpool,1,1,2016-05-15 18:00:00,,None,813
+52236,89,BlockedShot,0.745,0.71,0.011587999761104584,Salomón Rondón,h,813,OpenPlay,2015,RightFoot,459,West Bromwich Albion,Liverpool,1,1,2016-05-15 18:00:00,,None,813
+112184,4,BlockedShot,0.9130000305175782,0.44599998474121094,0.0676795020699501,Salomón Rondón,a,813,FromCorner,2016,Head,462,Crystal Palace,West Bromwich Albion,0,1,2016-08-13 18:00:00,Craig Gardner,Cross,813
+112183,4,BlockedShot,0.94,0.315,0.055923398584127426,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,462,Crystal Palace,West Bromwich Albion,0,1,2016-08-13 18:00:00,,None,813
+112185,7,SavedShot,0.9130000305175782,0.5270000076293946,0.11258000135421753,Salomón Rondón,a,813,OpenPlay,2016,Head,462,Crystal Palace,West Bromwich Albion,0,1,2016-08-13 18:00:00,Craig Gardner,Cross,813
+112191,39,MissedShots,0.9030000305175782,0.4520000076293945,0.05699960142374039,Salomón Rondón,a,813,FromCorner,2016,Head,462,Crystal Palace,West Bromwich Albion,0,1,2016-08-13 18:00:00,Craig Gardner,Cross,813
+112203,70,MissedShots,0.7340000152587891,0.40099998474121096,0.020293299108743668,Salomón Rondón,a,813,SetPiece,2016,LeftFoot,462,Crystal Palace,West Bromwich Albion,0,1,2016-08-13 18:00:00,Ben Foster,Pass,813
+112205,73,Goal,0.92,0.4329999923706055,0.1024399995803833,Salomón Rondón,a,813,SetPiece,2016,Head,462,Crystal Palace,West Bromwich Albion,0,1,2016-08-13 18:00:00,James McClean,Cross,813
+112824,7,SavedShot,0.9219999694824219,0.5729999923706055,0.3119710087776184,Salomón Rondón,h,813,OpenPlay,2016,LeftFoot,477,West Bromwich Albion,Everton,1,2,2016-08-20 18:00:00,Craig Gardner,Chipped,813
+112843,87,MissedShots,0.9319999694824219,0.485,0.13494999706745148,Salomón Rondón,h,813,FromCorner,2016,LeftFoot,477,West Bromwich Albion,Everton,1,2,2016-08-20 18:00:00,Rickie Lambert,HeadPass,813
+113127,15,MissedShots,0.8690000152587891,0.5179999923706055,0.03363120183348656,Salomón Rondón,h,813,OpenPlay,2016,Head,489,West Bromwich Albion,Middlesbrough,0,0,2016-08-28 16:30:00,James McClean,Cross,813
+113129,18,MissedShots,0.915,0.445,0.07034750282764435,Salomón Rondón,h,813,FromCorner,2016,Head,489,West Bromwich Albion,Middlesbrough,0,0,2016-08-28 16:30:00,Matt Phillips,Cross,813
+113133,43,MissedShots,0.9080000305175782,0.5670000076293945,0.07369480282068253,Salomón Rondón,h,813,OpenPlay,2016,Head,489,West Bromwich Albion,Middlesbrough,0,0,2016-08-28 16:30:00,Brendan Galloway,Cross,813
+113142,85,BlockedShot,0.8380000305175781,0.4470000076293945,0.06181659922003746,Salomón Rondón,h,813,OpenPlay,2016,LeftFoot,489,West Bromwich Albion,Middlesbrough,0,0,2016-08-28 16:30:00,,None,813
+113683,36,Goal,0.875999984741211,0.34,0.08210930228233337,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,505,West Bromwich Albion,West Ham,4,2,2016-09-17 18:00:00,Nacer Chadli,Pass,813
+113864,5,MissedShots,0.7830000305175782,0.6940000152587891,0.021549100056290627,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,513,Stoke,West Bromwich Albion,1,1,2016-09-24 18:00:00,Jonny Evans,Pass,813
+113869,32,MissedShots,0.775,0.669000015258789,0.01853490062057972,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,513,Stoke,West Bromwich Albion,1,1,2016-09-24 18:00:00,,None,813
+113871,42,MissedShots,0.8480000305175781,0.49700000762939456,0.07892650365829468,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,513,Stoke,West Bromwich Albion,1,1,2016-09-24 18:00:00,,Dispossessed,813
+113884,90,Goal,0.9459999847412109,0.6569999694824219,0.012551399879157543,Salomón Rondón,a,813,FromCorner,2016,Head,513,Stoke,West Bromwich Albion,1,1,2016-09-24 18:00:00,Jonathan Leko,Cross,813
+114436,59,BlockedShot,0.9030000305175782,0.33599998474121096,0.0668862983584404,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,523,Sunderland,West Bromwich Albion,1,1,2016-10-01 18:00:00,,Rebound,813
+114439,71,MissedShots,0.764000015258789,0.5629999923706055,0.035972800105810165,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,523,Sunderland,West Bromwich Albion,1,1,2016-10-01 18:00:00,,None,813
+114441,77,SavedShot,0.9369999694824219,0.6990000152587891,0.05536229908466339,Salomón Rondón,a,813,OpenPlay,2016,LeftFoot,523,Sunderland,West Bromwich Albion,1,1,2016-10-01 18:00:00,Nacer Chadli,Pass,813
+114445,87,MissedShots,0.9019999694824219,0.504000015258789,0.10501199960708618,Salomón Rondón,a,813,OpenPlay,2016,Head,523,Sunderland,West Bromwich Albion,1,1,2016-10-01 18:00:00,Nyom,Cross,813
+114447,89,MissedShots,0.9169999694824219,0.54,0.12187899649143219,Salomón Rondón,a,813,OpenPlay,2016,Head,523,Sunderland,West Bromwich Albion,1,1,2016-10-01 18:00:00,Matt Phillips,Cross,813
+114111,46,SavedShot,0.9690000152587891,0.5029999923706054,0.6859040260314941,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,536,West Bromwich Albion,Tottenham,1,1,2016-10-15 18:00:00,,None,813
+114467,75,BlockedShot,0.725,0.5879999923706055,0.00997587013989687,Salomón Rondón,a,813,OpenPlay,2016,LeftFoot,548,Liverpool,West Bromwich Albion,2,1,2016-10-22 20:30:00,James Morrison,None,813
+114475,90,MissedShots,0.8490000152587891,0.40299999237060546,0.00852723978459835,Salomón Rondón,a,813,OpenPlay,2016,Head,548,Liverpool,West Bromwich Albion,2,1,2016-10-22 20:30:00,Craig Dawson,Aerial,813
+115049,53,MissedShots,0.8090000152587891,0.53,0.05761450156569481,Salomón Rondón,h,813,OpenPlay,2016,Head,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,Chris Brunt,Throughball,813
+115055,71,MissedShots,0.9230000305175782,0.48900001525878906,0.13030800223350525,Salomón Rondón,h,813,OpenPlay,2016,LeftFoot,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,James McClean,Pass,813
+115632,2,SavedShot,0.9,0.5379999923706055,0.019774800166487694,Salomón Rondón,a,813,FromCorner,2016,Head,2696,Leicester,West Bromwich Albion,1,2,2016-11-06 20:30:00,Chris Brunt,Aerial,813
+115634,14,MissedShots,0.8569999694824219,0.5579999923706055,0.012061400339007378,Salomón Rondón,a,813,OpenPlay,2016,Head,2696,Leicester,West Bromwich Albion,1,2,2016-11-06 20:30:00,Matt Phillips,Aerial,813
+115636,49,BlockedShot,0.85,0.46099998474121096,0.0677884966135025,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,2696,Leicester,West Bromwich Albion,1,2,2016-11-06 20:30:00,,None,813
+115996,29,MissedShots,0.9180000305175782,0.7119999694824218,0.04962439835071564,Salomón Rondón,h,813,OpenPlay,2016,LeftFoot,2706,West Bromwich Albion,Burnley,4,0,2016-11-22 00:00:00,,None,813
+115997,31,SavedShot,0.8159999847412109,0.695,0.04459289833903313,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,2706,West Bromwich Albion,Burnley,4,0,2016-11-22 00:00:00,Nyom,Pass,813
+116000,50,MissedShots,0.8219999694824218,0.7380000305175781,0.056067101657390594,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,2706,West Bromwich Albion,Burnley,4,0,2016-11-22 00:00:00,James Morrison,Chipped,813
+116001,63,Goal,0.9069999694824219,0.575,0.1388069987297058,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,2706,West Bromwich Albion,Burnley,4,0,2016-11-22 00:00:00,Nyom,Pass,813
+116290,4,MissedShots,0.92,0.49599998474121093,0.05121079832315445,Salomón Rondón,a,813,FromCorner,2016,Head,2708,Hull,West Bromwich Albion,1,1,2016-11-26 19:00:00,Jonny Evans,Aerial,813
+116309,93,MissedShots,0.9219999694824219,0.4809999847412109,0.35868600010871887,Salomón Rondón,a,813,OpenPlay,2016,Head,2708,Hull,West Bromwich Albion,1,1,2016-11-26 19:00:00,James McClean,Cross,813
+116051,17,MissedShots,0.93,0.4279999923706055,0.1250319927930832,Salomón Rondón,h,813,OpenPlay,2016,Head,3110,West Bromwich Albion,Watford,3,1,2016-12-03 19:00:00,Nyom,Cross,813
+116062,52,MissedShots,0.875,0.4520000076293945,0.12308400124311447,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,3110,West Bromwich Albion,Watford,3,1,2016-12-03 19:00:00,Chris Brunt,Cross,813
+116719,3,SavedShot,0.8980000305175782,0.4129999923706055,0.026019899174571037,Salomón Rondón,a,813,OpenPlay,2016,Head,3121,Chelsea,West Bromwich Albion,1,0,2016-12-11 16:00:00,Craig Dawson,Aerial,813
+116723,25,MissedShots,0.9209999847412109,0.6790000152587891,0.056772299110889435,Salomón Rondón,a,813,OpenPlay,2016,LeftFoot,3121,Chelsea,West Bromwich Albion,1,0,2016-12-11 16:00:00,,None,813
+117995,23,MissedShots,0.67,0.42700000762939455,0.008159440010786057,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,3131,West Bromwich Albion,Swansea,3,1,2016-12-15 00:00:00,,None,813
+117996,35,SavedShot,0.884000015258789,0.44599998474121094,0.3798980116844177,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,3131,West Bromwich Albion,Swansea,3,1,2016-12-15 00:00:00,Nacer Chadli,Throughball,813
+117998,44,BlockedShot,0.860999984741211,0.63,0.07322520017623901,Salomón Rondón,h,813,OpenPlay,2016,LeftFoot,3131,West Bromwich Albion,Swansea,3,1,2016-12-15 00:00:00,James Morrison,Pass,813
+117999,49,Goal,0.919000015258789,0.4879999923706055,0.3450709879398346,Salomón Rondón,h,813,SetPiece,2016,Head,3131,West Bromwich Albion,Swansea,3,1,2016-12-15 00:00:00,Matt Phillips,Cross,813
+118001,60,Goal,0.9359999847412109,0.475,0.44998401403427124,Salomón Rondón,h,813,OpenPlay,2016,Head,3131,West Bromwich Albion,Swansea,3,1,2016-12-15 00:00:00,Chris Brunt,Cross,813
+118002,62,Goal,0.9130000305175782,0.49,0.12073899805545807,Salomón Rondón,h,813,OpenPlay,2016,Head,3131,West Bromwich Albion,Swansea,3,1,2016-12-15 00:00:00,Chris Brunt,Cross,813
+115942,4,BlockedShot,0.749000015258789,0.43099998474121093,0.010732799768447876,Salomón Rondón,h,813,SetPiece,2016,RightFoot,3140,West Bromwich Albion,Manchester United,0,2,2016-12-17 21:30:00,Craig Dawson,Aerial,813
+115948,30,MissedShots,0.9219999694824219,0.5690000152587891,0.29736900329589844,Salomón Rondón,h,813,OpenPlay,2016,Head,3140,West Bromwich Albion,Manchester United,0,2,2016-12-17 21:30:00,Matt Phillips,Cross,813
+116103,16,BlockedShot,0.9269999694824219,0.44299999237060544,0.06116190180182457,Salomón Rondón,a,813,OpenPlay,2016,Head,3149,Arsenal,West Bromwich Albion,1,0,2016-12-26 19:00:00,Nyom,Aerial,813
+116106,31,SavedShot,0.9540000152587891,0.5729999923706055,0.13604100048542023,Salomón Rondón,a,813,OpenPlay,2016,Head,3149,Arsenal,West Bromwich Albion,1,0,2016-12-26 19:00:00,Nacer Chadli,Cross,813
+116976,33,SavedShot,0.925,0.5,0.08771000057458878,Salomón Rondón,h,813,OpenPlay,2016,Head,3333,West Bromwich Albion,Hull,3,1,2017-01-02 19:00:00,Nyom,Cross,813
+116982,43,BlockedShot,0.895,0.34900001525878904,0.06945779919624329,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,3333,West Bromwich Albion,Hull,3,1,2017-01-02 19:00:00,James Morrison,Pass,813
+118764,27,BlockedShot,0.9540000152587891,0.534000015258789,0.15203499794006348,Salomón Rondón,h,813,OpenPlay,2016,Head,3355,West Bromwich Albion,Sunderland,2,0,2017-01-21 18:00:00,Nacer Chadli,Cross,813
+118767,32,BlockedShot,0.8859999847412109,0.6040000152587891,0.1108269989490509,Salomón Rondón,h,813,OpenPlay,2016,LeftFoot,3355,West Bromwich Albion,Sunderland,2,0,2017-01-21 18:00:00,James Morrison,Pass,813
+118950,20,BlockedShot,0.909000015258789,0.6840000152587891,0.06183220073580742,Salomón Rondón,a,813,OpenPlay,2016,LeftFoot,3363,Middlesbrough,West Bromwich Albion,1,1,2017-01-31 22:45:00,Nacer Chadli,Pass,813
+118960,55,ShotOnPost,0.884000015258789,0.475,0.10362300276756287,Salomón Rondón,a,813,OpenPlay,2016,LeftFoot,3363,Middlesbrough,West Bromwich Albion,1,1,2017-01-31 22:45:00,,Rebound,813
+117251,11,MissedShots,0.935,0.41700000762939454,0.14145700633525848,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,3375,West Bromwich Albion,Stoke,1,0,2017-02-04 15:00:00,Darren Fletcher,Pass,813
+117255,33,SavedShot,0.8230000305175781,0.54,0.0705764964222908,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,3375,West Bromwich Albion,Stoke,1,0,2017-02-04 15:00:00,,None,813
+117268,73,BlockedShot,0.77,0.555,0.017299599945545197,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,3375,West Bromwich Albion,Stoke,1,0,2017-02-04 15:00:00,,Aerial,813
+118173,14,ShotOnPost,0.745999984741211,0.43099998474121093,0.03329410031437874,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Matt Phillips,LayOff,813
+118190,79,MissedShots,0.8469999694824218,0.725999984741211,0.024515099823474884,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,3385,West Ham,West Bromwich Albion,2,2,2017-02-11 15:00:00,Jake Livermore,Pass,813
+118840,20,BlockedShot,0.789000015258789,0.44799999237060545,0.040149398148059845,Salomón Rondón,h,813,OpenPlay,2016,LeftFoot,3395,West Bromwich Albion,Bournemouth,2,1,2017-02-25 15:00:00,,BallRecovery,813
+118849,56,BlockedShot,0.8340000152587891,0.3729999923706055,0.07341569662094116,Salomón Rondón,h,813,OpenPlay,2016,LeftFoot,3395,West Bromwich Albion,Bournemouth,2,1,2017-02-25 15:00:00,James McClean,HeadPass,813
+120521,30,MissedShots,0.905,0.3390000152587891,0.10228700190782547,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,3420,West Bromwich Albion,Arsenal,3,1,2017-03-18 12:30:00,Nacer Chadli,Pass,813
+120528,50,MissedShots,0.9259999847412109,0.5529999923706055,0.061019301414489746,Salomón Rondón,h,813,OpenPlay,2016,Head,3420,West Bromwich Albion,Arsenal,3,1,2017-03-18 12:30:00,Chris Brunt,Aerial,813
+119266,69,MissedShots,0.784000015258789,0.19100000381469726,0.008872860111296177,Salomón Rondón,a,813,OpenPlay,2016,LeftFoot,3443,Watford,West Bromwich Albion,2,0,2017-04-04 19:45:00,,Aerial,813
+120490,2,MissedShots,0.8,0.345,0.02775689959526062,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,3454,West Bromwich Albion,Southampton,0,1,2017-04-08 15:00:00,,None,813
+120497,38,SavedShot,0.965999984741211,0.5570000076293945,0.4621660113334656,Salomón Rondón,h,813,OpenPlay,2016,Head,3454,West Bromwich Albion,Southampton,0,1,2017-04-08 15:00:00,Nacer Chadli,Cross,813
+120503,53,MissedShots,0.9,0.5029999923706054,0.039331600069999695,Salomón Rondón,h,813,SetPiece,2016,Head,3454,West Bromwich Albion,Southampton,0,1,2017-04-08 15:00:00,Chris Brunt,Aerial,813
+120507,68,SavedShot,0.909000015258789,0.485,0.04373319819569588,Salomón Rondón,h,813,OpenPlay,2016,Head,3454,West Bromwich Albion,Southampton,0,1,2017-04-08 15:00:00,James McClean,Aerial,813
+120510,73,BlockedShot,0.7819999694824219,0.27399999618530274,0.01954610086977482,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,3454,West Bromwich Albion,Southampton,0,1,2017-04-08 15:00:00,Nacer Chadli,Pass,813
+120512,82,BlockedShot,0.8190000152587891,0.500999984741211,0.058679599314928055,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,3454,West Bromwich Albion,Southampton,0,1,2017-04-08 15:00:00,James Morrison,Pass,813
+121193,36,BlockedShot,0.8430000305175781,0.5870000076293945,0.08459539711475372,Salomón Rondón,h,813,SetPiece,2016,RightFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Gareth McAuley,TakeOn,813
+121197,46,MissedShots,0.9730000305175781,0.605999984741211,0.03196389973163605,Salomón Rondón,h,813,FromCorner,2016,Head,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Nacer Chadli,Cross,813
+121198,47,SavedShot,0.784000015258789,0.415,0.03571920096874237,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Chris Brunt,HeadPass,813
+121206,84,MissedShots,0.9219999694824219,0.5179999923706055,0.09967249631881714,Salomón Rondón,h,813,OpenPlay,2016,Head,3489,West Bromwich Albion,Leicester,0,1,2017-04-29 15:00:00,Chris Brunt,Cross,813
+121322,10,BlockedShot,0.95,0.3029999923706055,0.046383101493120193,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,3492,Burnley,West Bromwich Albion,2,2,2017-05-06 15:00:00,Gareth McAuley,BallRecovery,813
+121326,22,BlockedShot,0.8859999847412109,0.43099998474121093,0.02008170075714588,Salomón Rondón,a,813,OpenPlay,2016,Head,3492,Burnley,West Bromwich Albion,2,2,2017-05-06 15:00:00,Chris Brunt,Aerial,813
+121331,49,BlockedShot,0.7909999847412109,0.3729999923706055,0.027784600853919983,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,3492,Burnley,West Bromwich Albion,2,2,2017-05-06 15:00:00,,None,813
+121337,65,Goal,0.935,0.54,0.09740850329399109,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,3492,Burnley,West Bromwich Albion,2,2,2017-05-06 15:00:00,,None,813
+120569,0,SavedShot,0.845,0.4209999847412109,0.011441599577665329,Salomón Rondón,h,813,OpenPlay,2016,Head,3508,West Bromwich Albion,Chelsea,0,1,2017-05-12 20:00:00,Darren Fletcher,Aerial,813
+120586,46,BlockedShot,0.9,0.5329999923706055,0.08207549899816513,Salomón Rondón,h,813,SetPiece,2016,LeftFoot,3508,West Bromwich Albion,Chelsea,0,1,2017-05-12 20:00:00,Chris Brunt,Cross,813
+120594,69,BlockedShot,0.9030000305175782,0.355,0.21584099531173706,Salomón Rondón,h,813,OpenPlay,2016,RightFoot,3508,West Bromwich Albion,Chelsea,0,1,2017-05-12 20:00:00,Claudio Yacob,TakeOn,813
+120841,19,BlockedShot,0.425,0.355,0.006693920120596886,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,3477,Manchester City,West Bromwich Albion,3,1,2017-05-16 20:00:00,,BallRecovery,813
+120851,45,SavedShot,0.7959999847412109,0.6990000152587891,0.01934020034968853,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,3477,Manchester City,West Bromwich Albion,3,1,2017-05-16 20:00:00,Chris Brunt,Pass,813
+120855,61,MissedShots,0.9030000305175782,0.445,0.04662200063467026,Salomón Rondón,a,813,OpenPlay,2016,Head,3477,Manchester City,West Bromwich Albion,3,1,2017-05-16 20:00:00,James McClean,Aerial,813
+112580,9,SavedShot,0.9059999847412109,0.45799999237060546,0.09896539896726608,Salomón Rondón,a,813,OpenPlay,2016,Head,3518,Swansea,West Bromwich Albion,2,1,2017-05-21 15:00:00,Chris Brunt,Cross,813
+112582,12,BlockedShot,0.835999984741211,0.32599998474121095,0.048930298537015915,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,3518,Swansea,West Bromwich Albion,2,1,2017-05-21 15:00:00,Jake Livermore,TakeOn,813
+112583,13,MissedShots,0.9530000305175781,0.40200000762939453,0.08130460232496262,Salomón Rondón,a,813,OpenPlay,2016,Head,3518,Swansea,West Bromwich Albion,2,1,2017-05-21 15:00:00,Craig Dawson,Cross,813
+112584,19,SavedShot,0.919000015258789,0.3509999847412109,0.3162879943847656,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,3518,Swansea,West Bromwich Albion,2,1,2017-05-21 15:00:00,Darren Fletcher,Throughball,813
+112586,26,MissedShots,0.9019999694824219,0.4759999847412109,0.09940390288829803,Salomón Rondón,a,813,OpenPlay,2016,Head,3518,Swansea,West Bromwich Albion,2,1,2017-05-21 15:00:00,Marc Wilson,Cross,813
+112591,43,BlockedShot,0.9330000305175781,0.42700000762939455,0.14660599827766418,Salomón Rondón,a,813,OpenPlay,2016,RightFoot,3518,Swansea,West Bromwich Albion,2,1,2017-05-21 15:00:00,James Morrison,Pass,813
+112594,48,BlockedShot,0.919000015258789,0.6659999847412109,0.3259179890155792,Salomón Rondón,a,813,OpenPlay,2016,LeftFoot,3518,Swansea,West Bromwich Albion,2,1,2017-05-21 15:00:00,,None,813
+158391,91,SavedShot,0.795,0.6880000305175781,0.030843300744891167,Salomón Rondón,h,813,OpenPlay,2017,RightFoot,7121,West Bromwich Albion,Bournemouth,1,0,2017-08-12 15:00:00,Rekeem Harper,Pass,813
+158970,7,MissedShots,0.6509999847412109,0.6370000076293946,0.009294269606471062,Salomón Rondón,h,813,OpenPlay,2017,RightFoot,7146,West Bromwich Albion,Stoke,1,1,2017-08-27 13:30:00,,Dispossessed,813
+158988,82,MissedShots,0.9319999694824219,0.4540000152587891,0.13527199625968933,Salomón Rondón,h,813,OpenPlay,2017,Head,7146,West Bromwich Albion,Stoke,1,1,2017-08-27 13:30:00,Chris Brunt,Cross,813
+158994,92,MissedShots,0.875999984741211,0.544000015258789,0.08270400017499924,Salomón Rondón,h,813,OpenPlay,2017,RightFoot,7146,West Bromwich Albion,Stoke,1,1,2017-08-27 13:30:00,James McClean,Cross,813
+160353,17,Goal,0.9769999694824218,0.6090000152587891,0.3279770016670227,Salomón Rondón,h,813,OpenPlay,2017,LeftFoot,7182,West Bromwich Albion,Watford,2,2,2017-09-30 15:00:00,Grzegorz Krychowiak,TakeOn,813
+160168,32,SavedShot,0.874000015258789,0.545,0.03510750085115433,Salomón Rondón,h,813,OpenPlay,2017,Head,7215,West Bromwich Albion,Manchester City,2,3,2017-10-28 15:00:00,,None,813
+160170,40,MissedShots,0.9209999847412109,0.4640000152587891,0.1109900027513504,Salomón Rondón,h,813,OpenPlay,2017,Head,7215,West Bromwich Albion,Manchester City,2,3,2017-10-28 15:00:00,Jay Rodriguez,Cross,813
+160309,73,MissedShots,0.909000015258789,0.5709999847412109,0.06252709776163101,Salomón Rondón,a,813,FromCorner,2017,Head,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,Jonny Evans,Cross,813
+161661,3,Goal,0.9169999694824219,0.4,0.11160200089216232,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Jake Livermore,Pass,813
+161690,94,MissedShots,0.9430000305175781,0.46900001525878904,0.5194180011749268,Salomón Rondón,a,813,OpenPlay,2017,LeftFoot,7239,Tottenham,West Bromwich Albion,1,1,2017-11-25 15:00:00,Matt Phillips,Cross,813
+161030,11,BlockedShot,0.74,0.605,0.05151990056037903,Salomón Rondón,h,813,DirectFreekick,2017,RightFoot,7252,West Bromwich Albion,Newcastle United,2,2,2017-11-28 20:00:00,,Standard,813
+161032,19,ShotOnPost,0.7140000152587891,0.44099998474121094,0.012016800232231617,Salomón Rondón,h,813,OpenPlay,2017,RightFoot,7252,West Bromwich Albion,Newcastle United,2,2,2017-11-28 20:00:00,,None,813
+160858,9,SavedShot,0.735999984741211,0.605,0.015506800264120102,Salomón Rondón,h,813,OpenPlay,2017,RightFoot,7265,West Bromwich Albion,Crystal Palace,0,0,2017-12-02 15:00:00,Hal Robson-Kanu,Chipped,813
+160877,62,SavedShot,0.955,0.24,0.032248299568891525,Salomón Rondón,h,813,OpenPlay,2017,RightFoot,7265,West Bromwich Albion,Crystal Palace,0,0,2017-12-02 15:00:00,Jay Rodriguez,Pass,813
+160883,80,BlockedShot,0.8469999694824218,0.515,0.09359779953956604,Salomón Rondón,h,813,OpenPlay,2017,RightFoot,7265,West Bromwich Albion,Crystal Palace,0,0,2017-12-02 15:00:00,Jay Rodriguez,LayOff,813
+160884,82,MissedShots,0.9180000305175782,0.51,0.057531800121068954,Salomón Rondón,h,813,OpenPlay,2017,Head,7265,West Bromwich Albion,Crystal Palace,0,0,2017-12-02 15:00:00,Nyom,Aerial,813
+179322,56,BlockedShot,0.885,0.34900001525878904,0.0671159029006958,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7271,Swansea,West Bromwich Albion,1,0,2017-12-09 15:00:00,Nyom,BallTouch,813
+179321,56,BlockedShot,0.860999984741211,0.255,0.029465999454259872,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7271,Swansea,West Bromwich Albion,1,0,2017-12-09 15:00:00,,Tackle,813
+179332,82,MissedShots,0.925,0.500999984741211,0.05962419882416725,Salomón Rondón,a,813,OpenPlay,2017,Head,7271,Swansea,West Bromwich Albion,1,0,2017-12-09 15:00:00,James McClean,Aerial,813
+185327,9,BlockedShot,0.795,0.5879999923706055,0.023822100833058357,Salomón Rondón,a,813,SetPiece,2017,RightFoot,7287,Liverpool,West Bromwich Albion,0,0,2017-12-13 20:00:00,Ben Foster,Pass,813
+182847,73,SavedShot,0.8290000152587891,0.649000015258789,0.046087298542261124,Salomón Rondón,h,813,OpenPlay,2017,LeftFoot,7295,West Bromwich Albion,Manchester United,1,2,2017-12-17 14:15:00,Chris Brunt,Pass,813
+182849,76,BlockedShot,0.86,0.509000015258789,0.05466010048985481,Salomón Rondón,h,813,OpenPlay,2017,RightFoot,7295,West Bromwich Albion,Manchester United,1,2,2017-12-17 14:15:00,Kieran Gibbs,Cross,813
+185349,13,MissedShots,0.7780000305175782,0.41900001525878905,0.02984580025076866,Salomón Rondón,a,813,OpenPlay,2017,LeftFoot,7306,Stoke,West Bromwich Albion,3,1,2017-12-23 15:00:00,James McClean,Pass,813
+185352,20,SavedShot,0.8230000305175781,0.66,0.03320920094847679,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7306,Stoke,West Bromwich Albion,3,1,2017-12-23 15:00:00,,None,813
+185355,29,MissedShots,0.895,0.515,0.47150400280952454,Salomón Rondón,a,813,SetPiece,2017,LeftFoot,7306,Stoke,West Bromwich Albion,3,1,2017-12-23 15:00:00,,None,813
+185357,34,MissedShots,0.9290000152587891,0.634000015258789,0.026560500264167786,Salomón Rondón,a,813,OpenPlay,2017,Head,7306,Stoke,West Bromwich Albion,3,1,2017-12-23 15:00:00,Kieran Gibbs,Cross,813
+185356,34,BlockedShot,0.8769999694824219,0.53,0.07313910126686096,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7306,Stoke,West Bromwich Albion,3,1,2017-12-23 15:00:00,James McClean,BallTouch,813
+185358,42,SavedShot,0.8619999694824219,0.6270000076293946,0.05240330100059509,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7306,Stoke,West Bromwich Albion,3,1,2017-12-23 15:00:00,,None,813
+185360,50,Goal,0.904000015258789,0.575999984741211,0.27055999636650085,Salomón Rondón,a,813,OpenPlay,2017,LeftFoot,7306,Stoke,West Bromwich Albion,3,1,2017-12-23 15:00:00,Chris Brunt,Chipped,813
+185368,74,SavedShot,0.754000015258789,0.625,0.017919600009918213,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7306,Stoke,West Bromwich Albion,3,1,2017-12-23 15:00:00,Jay Rodriguez,Pass,813
+185631,22,MissedShots,0.894000015258789,0.5940000152587891,0.03387770056724548,Salomón Rondón,h,813,OpenPlay,2017,Head,7318,West Bromwich Albion,Everton,0,0,2017-12-26 15:00:00,Kieran Gibbs,Cross,813
+185638,48,MissedShots,0.9230000305175782,0.67,0.06644939631223679,Salomón Rondón,h,813,OpenPlay,2017,LeftFoot,7318,West Bromwich Albion,Everton,0,0,2017-12-26 15:00:00,Chris Brunt,Pass,813
+186377,12,MissedShots,0.774000015258789,0.375,0.023268399760127068,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Craig Dawson,TakeOn,813
+186389,54,MissedShots,0.4420000076293945,0.4640000152587891,0.006698269862681627,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7329,West Ham,West Bromwich Albion,2,1,2018-01-02 19:45:00,Grzegorz Krychowiak,BallRecovery,813
+187478,42,SavedShot,0.7680000305175781,0.35400001525878905,0.0294662993401289,Salomón Rondón,h,813,OpenPlay,2017,LeftFoot,7348,West Bromwich Albion,Brighton,2,0,2018-01-13 15:00:00,Jonny Evans,GoodSkill,813
+187486,68,MissedShots,0.9030000305175782,0.629000015258789,0.20862099528312683,Salomón Rondón,h,813,OpenPlay,2017,LeftFoot,7348,West Bromwich Albion,Brighton,2,0,2018-01-13 15:00:00,Gareth Barry,Pass,813
+187490,90,MissedShots,0.8040000152587891,0.48700000762939455,0.09460169821977615,Salomón Rondón,h,813,OpenPlay,2017,RightFoot,7348,West Bromwich Albion,Brighton,2,0,2018-01-13 15:00:00,,TakeOn,813
+187491,92,MissedShots,0.8909999847412109,0.28299999237060547,0.08456499874591827,Salomón Rondón,h,813,OpenPlay,2017,RightFoot,7348,West Bromwich Albion,Brighton,2,0,2018-01-13 15:00:00,Nyom,TakeOn,813
+188780,2,SavedShot,0.7730000305175782,0.29100000381469726,0.016802199184894562,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7352,Everton,West Bromwich Albion,1,1,2018-01-20 15:00:00,,BallRecovery,813
+188788,44,MissedShots,0.9230000305175782,0.5129999923706055,0.10673899948596954,Salomón Rondón,a,813,FromCorner,2017,Head,7352,Everton,West Bromwich Albion,1,1,2018-01-20 15:00:00,Chris Brunt,Cross,813
+188789,47,MissedShots,0.8469999694824218,0.4570000076293945,0.09423050284385681,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7352,Everton,West Bromwich Albion,1,1,2018-01-20 15:00:00,Jay Rodriguez,HeadPass,813
+188796,78,MissedShots,0.9259999847412109,0.415,0.03962099924683571,Salomón Rondón,a,813,OpenPlay,2017,Head,7352,Everton,West Bromwich Albion,1,1,2018-01-20 15:00:00,Chris Brunt,Aerial,813
+188798,80,SavedShot,0.7440000152587891,0.53,0.02043740078806877,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7352,Everton,West Bromwich Albion,1,1,2018-01-20 15:00:00,James McClean,BallRecovery,813
+188799,81,MissedShots,0.875,0.46299999237060546,0.2836099863052368,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7352,Everton,West Bromwich Albion,1,1,2018-01-20 15:00:00,Craig Dawson,Cross,813
+188800,83,MissedShots,0.889000015258789,0.475,0.06694810092449188,Salomón Rondón,a,813,OpenPlay,2017,Head,7352,Everton,West Bromwich Albion,1,1,2018-01-20 15:00:00,Kieran Gibbs,Cross,813
+188801,95,ShotOnPost,0.745999984741211,0.735999984741211,0.012674599885940552,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7352,Everton,West Bromwich Albion,1,1,2018-01-20 15:00:00,Jake Livermore,Tackle,813
+193804,32,MissedShots,0.8880000305175781,0.5420000076293945,0.037923600524663925,Salomón Rondón,h,813,OpenPlay,2017,Head,7378,West Bromwich Albion,Southampton,2,3,2018-02-03 15:00:00,Nyom,Aerial,813
+193814,58,MissedShots,0.6919999694824219,0.485,0.007117810193449259,Salomón Rondón,h,813,OpenPlay,2017,RightFoot,7378,West Bromwich Albion,Southampton,2,3,2018-02-03 15:00:00,,None,813
+193816,71,Goal,0.9230000305175782,0.5179999923706055,0.04609239846467972,Salomón Rondón,h,813,FromCorner,2017,OtherBodyPart,7378,West Bromwich Albion,Southampton,2,3,2018-02-03 15:00:00,Chris Brunt,Aerial,813
+193820,5,MissedShots,0.9230000305175782,0.46299999237060546,0.1264059990644455,Salomón Rondón,a,813,SetPiece,2017,Head,7379,Chelsea,West Bromwich Albion,3,0,2018-02-12 20:00:00,Matt Phillips,Cross,813
+193835,46,MissedShots,0.730999984741211,0.485,0.014264900237321854,Salomón Rondón,a,813,OpenPlay,2017,LeftFoot,7379,Chelsea,West Bromwich Albion,3,0,2018-02-12 20:00:00,Grzegorz Krychowiak,TakeOn,813
+193838,56,SavedShot,0.8969999694824219,0.32599998474121095,0.24639399349689484,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7379,Chelsea,West Bromwich Albion,3,0,2018-02-12 20:00:00,,BallRecovery,813
+197388,3,MissedShots,0.7609999847412109,0.664000015258789,0.01895809918642044,Salomón Rondón,h,813,OpenPlay,2017,RightFoot,7394,West Bromwich Albion,Huddersfield,1,2,2018-02-24 15:00:00,James McClean,GoodSkill,813
+197412,90,MissedShots,0.8769999694824219,0.40700000762939453,0.06381049752235413,Salomón Rondón,h,813,OpenPlay,2017,RightFoot,7394,West Bromwich Albion,Huddersfield,1,2,2018-02-24 15:00:00,,None,813
+198914,25,MissedShots,0.9,0.3820000076293945,0.021349700167775154,Salomón Rondón,a,813,OpenPlay,2017,Head,7408,Watford,West Bromwich Albion,1,0,2018-03-03 15:00:00,Matt Phillips,Aerial,813
+198921,47,MissedShots,0.94,0.38599998474121094,0.09296850115060806,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7408,Watford,West Bromwich Albion,1,0,2018-03-03 15:00:00,Matt Phillips,Chipped,813
+198922,49,SavedShot,0.8019999694824219,0.2560000038146973,0.018225500360131264,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7408,Watford,West Bromwich Albion,1,0,2018-03-03 15:00:00,,Dispossessed,813
+198923,50,SavedShot,0.9230000305175782,0.6819999694824219,0.29442399740219116,Salomón Rondón,a,813,OpenPlay,2017,LeftFoot,7408,Watford,West Bromwich Albion,1,0,2018-03-03 15:00:00,Jay Rodriguez,Throughball,813
+198925,53,MissedShots,0.9280000305175782,0.475,0.39293399453163147,Salomón Rondón,a,813,OpenPlay,2017,Head,7408,Watford,West Bromwich Albion,1,0,2018-03-03 15:00:00,Kieran Gibbs,Cross,813
+199971,7,Goal,0.9369999694824219,0.45599998474121095,0.12735700607299805,Salomón Rondón,h,813,OpenPlay,2017,LeftFoot,7417,West Bromwich Albion,Leicester,1,4,2018-03-10 15:00:00,Oliver Burke,Cross,813
+199980,41,BlockedShot,0.884000015258789,0.3820000076293945,0.11240000277757645,Salomón Rondón,h,813,OpenPlay,2017,RightFoot,7417,West Bromwich Albion,Leicester,1,4,2018-03-10 15:00:00,Grzegorz Krychowiak,Pass,813
+201419,9,SavedShot,0.9069999694824219,0.44299999237060544,0.07860320061445236,Salomón Rondón,a,813,OpenPlay,2017,Head,7419,Bournemouth,West Bromwich Albion,2,1,2018-03-17 15:00:00,Nyom,Cross,813
+201425,24,SavedShot,0.91,0.5359999847412109,0.11838500201702118,Salomón Rondón,a,813,OpenPlay,2017,Head,7419,Bournemouth,West Bromwich Albion,2,1,2018-03-17 15:00:00,Ahmed Hegazy,Cross,813
+201429,47,BlockedShot,0.875,0.5609999847412109,0.07720740139484406,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7419,Bournemouth,West Bromwich Albion,2,1,2018-03-17 15:00:00,Kieran Gibbs,Cross,813
+204018,8,SavedShot,0.9269999694824219,0.49700000762939456,0.08166660368442535,Salomón Rondón,h,813,OpenPlay,2017,Head,7438,West Bromwich Albion,Burnley,1,2,2018-03-31 15:00:00,Jay Rodriguez,Aerial,813
+204026,44,SavedShot,0.8930000305175781,0.435,0.036220598965883255,Salomón Rondón,h,813,OpenPlay,2017,Head,7438,West Bromwich Albion,Burnley,1,2,2018-03-31 15:00:00,Jake Livermore,Chipped,813
+204034,82,Goal,0.8630000305175781,0.47,0.04889350011944771,Salomón Rondón,h,813,OpenPlay,2017,LeftFoot,7438,West Bromwich Albion,Burnley,1,2,2018-03-31 15:00:00,Jonny Evans,Cross,813
+207102,50,MissedShots,0.8919999694824219,0.4520000076293945,0.03834399953484535,Salomón Rondón,h,813,OpenPlay,2017,Head,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Kieran Gibbs,Aerial,813
+207109,82,BlockedShot,0.9069999694824219,0.62,0.10201200097799301,Salomón Rondón,h,813,OpenPlay,2017,RightFoot,7448,West Bromwich Albion,Swansea,1,1,2018-04-07 14:00:00,Kieran Gibbs,Pass,813
+209187,12,MissedShots,0.9069999694824219,0.415,0.051088400185108185,Salomón Rondón,a,813,OpenPlay,2017,Head,7453,Manchester United,West Bromwich Albion,0,1,2018-04-15 15:00:00,James McClean,Cross,813
+209190,24,SavedShot,0.9359999847412109,0.3840000152587891,0.025994300842285156,Salomón Rondón,a,813,OpenPlay,2017,Head,7453,Manchester United,West Bromwich Albion,0,1,2018-04-15 15:00:00,James McClean,Aerial,813
+209198,48,SavedShot,0.89,0.46900001525878904,0.06237100064754486,Salomón Rondón,a,813,OpenPlay,2017,Head,7453,Manchester United,West Bromwich Albion,0,1,2018-04-15 15:00:00,James McClean,Cross,813
+210263,69,SavedShot,0.9169999694824219,0.495,0.13363200426101685,Salomón Rondón,h,813,SetPiece,2017,RightFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,,Rebound,813
+210268,85,SavedShot,0.87,0.3509999847412109,0.05016480013728142,Salomón Rondón,h,813,OpenPlay,2017,RightFoot,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,,None,813
+210269,87,Goal,0.92,0.5370000076293945,0.0562422014772892,Salomón Rondón,h,813,SetPiece,2017,Head,7468,West Bromwich Albion,Liverpool,2,2,2018-04-21 00:00:00,Chris Brunt,Aerial,813
+211706,23,MissedShots,0.7190000152587891,0.3840000152587891,0.018848499283194542,Salomón Rondón,a,813,OpenPlay,2017,RightFoot,7474,Newcastle United,West Bromwich Albion,0,1,2018-04-28 14:00:00,Matt Phillips,Pass,813
+211718,60,MissedShots,0.9080000305175782,0.6430000305175781,0.10549400001764297,Salomón Rondón,a,813,OpenPlay,2017,LeftFoot,7474,Newcastle United,West Bromwich Albion,0,1,2018-04-28 14:00:00,Jake Livermore,Pass,813
+215693,38,MissedShots,0.9469999694824218,0.375,0.03308340162038803,Salomón Rondón,a,813,OpenPlay,2017,Head,7493,Crystal Palace,West Bromwich Albion,2,0,2018-05-13 15:00:00,Chris Brunt,Cross,813
+232858,77,MissedShots,0.894000015258789,0.45099998474121095,0.08598189800977707,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9198,Newcastle United,Tottenham,1,2,2018-08-11 14:30:00,Christian Atsu,Cross,813
+232860,84,BlockedShot,0.855,0.46599998474121096,0.10660000145435333,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9198,Newcastle United,Tottenham,1,2,2018-08-11 14:30:00,Jonjo Shelvey,Throughball,813
+233381,33,MissedShots,0.894000015258789,0.5509999847412109,0.062432099133729935,Salomón Rondón,h,813,SetPiece,2018,Head,9225,Newcastle United,Chelsea,1,2,2018-08-26 18:00:00,Federico Fernández,Cross,813
+249602,82,BlockedShot,0.789000015258789,0.40599998474121096,0.016755500808358192,Salomón Rondón,a,813,OpenPlay,2018,RightFoot,9292,Southampton,Newcastle United,0,0,2018-10-27 14:00:00,Jonjo Shelvey,Aerial,813
+249606,94,MissedShots,0.925,0.5790000152587891,0.12764999270439148,Salomón Rondón,a,813,OpenPlay,2018,RightFoot,9292,Southampton,Newcastle United,0,0,2018-10-27 14:00:00,Christian Atsu,Cross,813
+249826,68,MissedShots,0.9169999694824219,0.43900001525878907,0.11688199639320374,Salomón Rondón,h,813,OpenPlay,2018,Head,9299,Newcastle United,Watford,1,0,2018-11-03 15:00:00,Kenedy,Cross,813
+250049,3,MissedShots,0.7419999694824219,0.655,0.015271199867129326,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9309,Newcastle United,Bournemouth,2,1,2018-11-10 15:00:00,,BallRecovery,813
+250051,6,Goal,0.9159999847412109,0.475,0.48016199469566345,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9309,Newcastle United,Bournemouth,2,1,2018-11-10 15:00:00,,Rebound,813
+250050,6,SavedShot,0.9209999847412109,0.46099998474121096,0.5080599784851074,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9309,Newcastle United,Bournemouth,2,1,2018-11-10 15:00:00,DeAndre Yedlin,Pass,813
+250058,39,Goal,0.9080000305175782,0.5309999847412109,0.4154059886932373,Salomón Rondón,h,813,OpenPlay,2018,Head,9309,Newcastle United,Bournemouth,2,1,2018-11-10 15:00:00,Kenedy,Aerial,813
+250059,41,BlockedShot,0.8959999847412109,0.6370000076293946,0.012490300461649895,Salomón Rondón,h,813,FromCorner,2018,Head,9309,Newcastle United,Bournemouth,2,1,2018-11-10 15:00:00,Ki Sung-yueng,Cross,813
+250065,46,BlockedShot,0.9219999694824219,0.664000015258789,0.012548600323498249,Salomón Rondón,h,813,FromCorner,2018,Head,9309,Newcastle United,Bournemouth,2,1,2018-11-10 15:00:00,Ki Sung-yueng,Aerial,813
+250067,54,MissedShots,0.925,0.4490000152587891,0.06904370337724686,Salomón Rondón,h,813,OpenPlay,2018,Head,9309,Newcastle United,Bournemouth,2,1,2018-11-10 15:00:00,Matt Ritchie,Aerial,813
+250079,88,SavedShot,0.8959999847412109,0.38,0.3982270061969757,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9309,Newcastle United,Bournemouth,2,1,2018-11-10 15:00:00,Isaac Hayden,Pass,813
+250481,21,BlockedShot,0.86,0.29399999618530276,0.042855098843574524,Salomón Rondón,a,813,OpenPlay,2018,RightFoot,9326,Burnley,Newcastle United,1,2,2018-11-26 20:00:00,DeAndre Yedlin,Pass,813
+250540,25,BlockedShot,0.7219999694824218,0.47,0.016215000301599503,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9328,Newcastle United,West Ham,0,3,2018-12-01 15:00:00,Ayoze Pérez,Pass,813
+250545,47,BlockedShot,0.955,0.6029999923706054,0.08813309669494629,Salomón Rondón,h,813,OpenPlay,2018,LeftFoot,9328,Newcastle United,West Ham,0,3,2018-12-01 15:00:00,Ayoze Pérez,Chipped,813
+250546,48,BlockedShot,0.740999984741211,0.36700000762939455,0.04875149950385094,Salomón Rondón,h,813,DirectFreekick,2018,RightFoot,9328,Newcastle United,West Ham,0,3,2018-12-01 15:00:00,,Standard,813
+250547,50,BlockedShot,0.89,0.4779999923706055,0.08734100311994553,Salomón Rondón,h,813,OpenPlay,2018,LeftFoot,9328,Newcastle United,West Ham,0,3,2018-12-01 15:00:00,Kenedy,Cross,813
+250548,52,MissedShots,0.93,0.4229999923706055,0.025854099541902542,Salomón Rondón,h,813,FromCorner,2018,Head,9328,Newcastle United,West Ham,0,3,2018-12-01 15:00:00,Matt Ritchie,Aerial,813
+250553,64,MissedShots,0.9219999694824219,0.48200000762939454,0.0673803985118866,Salomón Rondón,h,813,OpenPlay,2018,Head,9328,Newcastle United,West Ham,0,3,2018-12-01 15:00:00,DeAndre Yedlin,Aerial,813
+250558,79,SavedShot,0.8240000152587891,0.4929999923706055,0.020552799105644226,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9328,Newcastle United,West Ham,0,3,2018-12-01 15:00:00,Christian Atsu,HeadPass,813
+250934,18,Goal,0.9719999694824218,0.4540000152587891,0.6086339950561523,Salomón Rondón,a,813,OpenPlay,2018,RightFoot,9345,Everton,Newcastle United,1,1,2018-12-05 19:45:00,Jacob Murphy,Cross,813
+250937,21,MissedShots,0.8019999694824219,0.49599998474121093,0.07567290216684341,Salomón Rondón,a,813,OpenPlay,2018,RightFoot,9345,Everton,Newcastle United,1,1,2018-12-05 19:45:00,Christian Atsu,Pass,813
+251189,0,SavedShot,0.875,0.5629999923706055,0.08728770166635513,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9348,Newcastle United,Wolverhampton Wanderers,1,2,2018-12-09 16:00:00,Mohamed Diamé,Chipped,813
+251192,12,BlockedShot,0.9130000305175782,0.4759999847412109,0.06109879910945892,Salomón Rondón,h,813,OpenPlay,2018,Head,9348,Newcastle United,Wolverhampton Wanderers,1,2,2018-12-09 16:00:00,Christian Atsu,Aerial,813
+251195,21,ShotOnPost,0.765,0.5840000152587891,0.07108639925718307,Salomón Rondón,h,813,DirectFreekick,2018,RightFoot,9348,Newcastle United,Wolverhampton Wanderers,1,2,2018-12-09 16:00:00,,Standard,813
+251197,25,SavedShot,0.7519999694824219,0.575,0.02418610081076622,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9348,Newcastle United,Wolverhampton Wanderers,1,2,2018-12-09 16:00:00,Christian Atsu,Pass,813
+251347,54,Goal,0.9059999847412109,0.54,0.4251430034637451,Salomón Rondón,a,813,OpenPlay,2018,LeftFoot,9363,Huddersfield,Newcastle United,0,1,2018-12-15 15:00:00,Javier Manquillo,Pass,813
+251560,46,MissedShots,0.9209999847412109,0.42400001525878905,0.040427401661872864,Salomón Rondón,h,813,OpenPlay,2018,Head,9369,Newcastle United,Fulham,0,0,2018-12-22 15:00:00,Matt Ritchie,Aerial,813
+263542,28,Goal,0.960999984741211,0.46299999237060546,0.5350559949874878,Salomón Rondón,a,813,OpenPlay,2018,Head,9387,Watford,Newcastle United,1,1,2018-12-29 15:00:00,Matt Ritchie,Aerial,813
+263547,50,MissedShots,0.919000015258789,0.5420000076293945,0.03555290028452873,Salomón Rondón,a,813,FromCorner,2018,Head,9387,Watford,Newcastle United,1,1,2018-12-29 15:00:00,Matt Ritchie,Aerial,813
+274330,33,MissedShots,0.955999984741211,0.5370000076293945,0.12610000371932983,Salomón Rondón,h,813,OpenPlay,2018,Head,9399,Newcastle United,Manchester United,0,2,2019-01-02 20:00:00,DeAndre Yedlin,Aerial,813
+274346,92,BlockedShot,0.8969999694824219,0.6140000152587891,0.07586819678544998,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9399,Newcastle United,Manchester United,0,2,2019-01-02 20:00:00,Yoshinori Muto,BallTouch,813
+274512,29,MissedShots,0.855,0.6140000152587891,0.0628288984298706,Salomón Rondón,a,813,OpenPlay,2018,LeftFoot,9413,Chelsea,Newcastle United,2,1,2019-01-12 17:30:00,Christian Atsu,Pass,813
+274526,85,MissedShots,0.919000015258789,0.6020000076293945,0.021406199783086777,Salomón Rondón,a,813,OpenPlay,2018,Head,9413,Chelsea,Newcastle United,2,1,2019-01-12 17:30:00,Javier Manquillo,Aerial,813
+274771,46,MissedShots,0.765,0.700999984741211,0.020464399829506874,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9420,Newcastle United,Cardiff,3,0,2019-01-19 15:00:00,,None,813
+274773,57,BlockedShot,0.8640000152587891,0.7480000305175781,0.03816720098257065,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9420,Newcastle United,Cardiff,3,0,2019-01-19 15:00:00,Isaac Hayden,Pass,813
+274777,65,BlockedShot,0.865999984741211,0.4640000152587891,0.11719600111246109,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9420,Newcastle United,Cardiff,3,0,2019-01-19 15:00:00,DeAndre Yedlin,Cross,813
+274783,78,BlockedShot,0.8530000305175781,0.46799999237060547,0.12272699922323227,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9420,Newcastle United,Cardiff,3,0,2019-01-19 15:00:00,DeAndre Yedlin,Pass,813
+275022,65,Goal,0.9159999847412109,0.5070000076293946,0.08698859810829163,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9434,Newcastle United,Manchester City,2,1,2019-01-29 20:00:00,Isaac Hayden,HeadPass,813
+275127,29,BlockedShot,0.9169999694824219,0.39,0.09180860221385956,Salomón Rondón,a,813,OpenPlay,2018,RightFoot,9438,Tottenham,Newcastle United,1,0,2019-02-02 12:30:00,,Rebound,813
+275134,50,ShotOnPost,0.915,0.534000015258789,0.05484430119395256,Salomón Rondón,a,813,OpenPlay,2018,Head,9438,Tottenham,Newcastle United,1,0,2019-02-02 12:30:00,DeAndre Yedlin,Aerial,813
+275627,3,SavedShot,0.879000015258789,0.6619999694824219,0.05371280014514923,Salomón Rondón,a,813,OpenPlay,2018,LeftFoot,9450,Wolverhampton Wanderers,Newcastle United,1,1,2019-02-11 20:00:00,Ayoze Pérez,Chipped,813
+275637,39,SavedShot,0.8569999694824219,0.4779999923706055,0.020181600004434586,Salomón Rondón,a,813,OpenPlay,2018,Head,9450,Wolverhampton Wanderers,Newcastle United,1,1,2019-02-11 20:00:00,Isaac Hayden,Cross,813
+275639,44,BlockedShot,0.919000015258789,0.6229999923706054,0.10766100138425827,Salomón Rondón,a,813,OpenPlay,2018,LeftFoot,9450,Wolverhampton Wanderers,Newcastle United,1,1,2019-02-11 20:00:00,Ayoze Pérez,Pass,813
+275761,7,BlockedShot,0.8809999847412109,0.45799999237060546,0.08785460144281387,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9458,Newcastle United,Huddersfield,2,0,2019-02-23 15:00:00,Matt Ritchie,Cross,813
+275763,11,SavedShot,0.8980000305175782,0.6519999694824219,0.07115550339221954,Salomón Rondón,h,813,OpenPlay,2018,LeftFoot,9458,Newcastle United,Huddersfield,2,0,2019-02-23 15:00:00,Miguel Almirón,BallTouch,813
+275765,18,SavedShot,0.8880000305175781,0.3340000152587891,0.06735260039567947,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9458,Newcastle United,Huddersfield,2,0,2019-02-23 15:00:00,Ayoze Pérez,BallRecovery,813
+275778,45,Goal,0.909000015258789,0.4909999847412109,0.46337398886680603,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9458,Newcastle United,Huddersfield,2,0,2019-02-23 15:00:00,Isaac Hayden,BallTouch,813
+275776,45,MissedShots,0.9330000305175781,0.51,0.4388810098171234,Salomón Rondón,h,813,OpenPlay,2018,Head,9458,Newcastle United,Huddersfield,2,0,2019-02-23 15:00:00,Sean Longstaff,Cross,813
+275775,45,BlockedShot,0.8540000152587891,0.4879999923706055,0.10301800072193146,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9458,Newcastle United,Huddersfield,2,0,2019-02-23 15:00:00,DeAndre Yedlin,Pass,813
+275782,60,BlockedShot,0.9230000305175782,0.500999984741211,0.11891999840736389,Salomón Rondón,h,813,FromCorner,2018,RightFoot,9458,Newcastle United,Huddersfield,2,0,2019-02-23 15:00:00,Florian Lejeune,HeadPass,813
+275946,46,MissedShots,0.9019999694824219,0.505,0.340815007686615,Salomón Rondón,h,813,OpenPlay,2018,Head,9473,Newcastle United,Burnley,2,0,2019-02-26 20:00:00,Isaac Hayden,Aerial,813
+275952,70,BlockedShot,0.9059999847412109,0.34599998474121096,0.08446849882602692,Salomón Rondón,h,813,OpenPlay,2018,LeftFoot,9473,Newcastle United,Burnley,2,0,2019-02-26 20:00:00,Matt Ritchie,Cross,813
+276258,3,BlockedShot,0.87,0.43,0.10345400124788284,Salomón Rondón,a,813,OpenPlay,2018,RightFoot,9478,West Ham,Newcastle United,2,0,2019-03-02 17:30:00,Ayoze Pérez,Pass,813
+276269,57,SavedShot,0.9119999694824219,0.28299999237060547,0.056106001138687134,Salomón Rondón,a,813,OpenPlay,2018,RightFoot,9478,West Ham,Newcastle United,2,0,2019-03-02 17:30:00,Isaac Hayden,Pass,813
+276274,71,MissedShots,0.9259999847412109,0.415,0.09093409776687622,Salomón Rondón,a,813,OpenPlay,2018,Head,9478,West Ham,Newcastle United,2,0,2019-03-02 17:30:00,Matt Ritchie,Cross,813
+276276,81,BlockedShot,0.9169999694824219,0.5420000076293945,0.1309330016374588,Salomón Rondón,a,813,OpenPlay,2018,LeftFoot,9478,West Ham,Newcastle United,2,0,2019-03-02 17:30:00,Christian Atsu,Pass,813
+276279,88,SavedShot,0.7669999694824219,0.7169999694824218,0.04697800055146217,Salomón Rondón,a,813,DirectFreekick,2018,RightFoot,9478,West Ham,Newcastle United,2,0,2019-03-02 17:30:00,,Standard,813
+284548,55,MissedShots,0.8769999694824219,0.629000015258789,0.04746310040354729,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9488,Newcastle United,Everton,3,2,2019-03-09 15:00:00,Florian Lejeune,Chipped,813
+284549,64,Goal,0.9209999847412109,0.595999984741211,0.06907159835100174,Salomón Rondón,h,813,OpenPlay,2018,LeftFoot,9488,Newcastle United,Everton,3,2,2019-03-09 15:00:00,Ayoze Pérez,Chipped,813
+284554,81,MissedShots,0.8519999694824218,0.7140000152587891,0.03812919929623604,Salomón Rondón,h,813,OpenPlay,2018,LeftFoot,9488,Newcastle United,Everton,3,2,2019-03-09 15:00:00,Jonjo Shelvey,Chipped,813
+286263,49,Goal,0.76,0.7119999694824218,0.045164499431848526,Salomón Rondón,a,813,DirectFreekick,2018,RightFoot,9506,Bournemouth,Newcastle United,2,2,2019-03-16 15:00:00,,Standard,813
+286267,55,BlockedShot,0.905,0.38,0.07723160088062286,Salomón Rondón,a,813,OpenPlay,2018,RightFoot,9506,Bournemouth,Newcastle United,2,2,2019-03-16 15:00:00,,None,813
+290915,30,SavedShot,0.9169999694824219,0.7269999694824218,0.01932859979569912,Salomón Rondón,a,813,OpenPlay,2018,RightFoot,9507,Arsenal,Newcastle United,2,0,2019-04-01 20:00:00,Matt Ritchie,Aerial,813
+290922,83,MissedShots,0.49900001525878906,0.5,0.005662950221449137,Salomón Rondón,a,813,OpenPlay,2018,RightFoot,9507,Arsenal,Newcastle United,2,0,2019-04-01 20:00:00,,BlockedPass,813
+291951,5,MissedShots,0.915,0.4779999923706055,0.036712899804115295,Salomón Rondón,h,813,FromCorner,2018,Head,9521,Newcastle United,Crystal Palace,0,1,2019-04-06 15:00:00,Matt Ritchie,Aerial,813
+291958,28,MissedShots,0.9530000305175781,0.580999984741211,0.12684699892997742,Salomón Rondón,h,813,OpenPlay,2018,Head,9521,Newcastle United,Crystal Palace,0,1,2019-04-06 15:00:00,DeAndre Yedlin,Cross,813
+291959,33,SavedShot,0.9069999694824219,0.45099998474121095,0.11215300112962723,Salomón Rondón,h,813,OpenPlay,2018,LeftFoot,9521,Newcastle United,Crystal Palace,0,1,2019-04-06 15:00:00,,BallTouch,813
+291961,46,MissedShots,0.8119999694824219,0.905,0.028608299791812897,Salomón Rondón,h,813,DirectFreekick,2018,RightFoot,9521,Newcastle United,Crystal Palace,0,1,2019-04-06 15:00:00,,Standard,813
+291966,55,MissedShots,0.735999984741211,0.6869999694824219,0.04007570073008537,Salomón Rondón,h,813,DirectFreekick,2018,RightFoot,9521,Newcastle United,Crystal Palace,0,1,2019-04-06 15:00:00,,Standard,813
+293224,14,ShotOnPost,0.715,0.509000015258789,0.04403800144791603,Salomón Rondón,a,813,DirectFreekick,2018,RightFoot,9532,Leicester,Newcastle United,0,1,2019-04-12 20:00:00,,Standard,813
+293229,29,MissedShots,0.53,0.5640000152587891,0.007448370102792978,Salomón Rondón,a,813,OpenPlay,2018,RightFoot,9532,Leicester,Newcastle United,0,1,2019-04-12 20:00:00,Isaac Hayden,BallRecovery,813
+295448,45,BlockedShot,0.925,0.4129999923706055,0.11896900087594986,Salomón Rondón,h,813,OpenPlay,2018,LeftFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,,None,813
+295461,79,BlockedShot,0.7169999694824218,0.580999984741211,0.04248329997062683,Salomón Rondón,h,813,DirectFreekick,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,,Standard,813
+295463,85,BlockedShot,0.9880000305175781,0.42700000762939455,0.04341049864888191,Salomón Rondón,h,813,FromCorner,2018,Head,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Federico Fernández,Aerial,813
+297527,48,BlockedShot,0.7909999847412109,0.355,0.12512800097465515,Salomón Rondón,a,813,OpenPlay,2018,RightFoot,9556,Brighton,Newcastle United,1,1,2019-04-27 17:30:00,Isaac Hayden,Throughball,813
+299602,19,BlockedShot,0.9590000152587891,0.4759999847412109,0.15205499529838562,Salomón Rondón,h,813,OpenPlay,2018,LeftFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Matt Ritchie,Rebound,813
+299611,41,SavedShot,0.7659999847412109,0.5259999847412109,0.08113490045070648,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Javier Manquillo,Chipped,813
+299614,49,SavedShot,0.8580000305175781,0.5940000152587891,0.07695270329713821,Salomón Rondón,h,813,OpenPlay,2018,RightFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Christian Atsu,Pass,813
+299617,53,Goal,0.87,0.580999984741211,0.06565819680690765,Salomón Rondón,h,813,FromCorner,2018,LeftFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Javier Manquillo,HeadPass,813
+299620,73,BlockedShot,0.8419999694824218,0.59,0.06845679879188538,Salomón Rondón,h,813,OpenPlay,2018,LeftFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,Christian Atsu,Pass,813
+299622,93,BlockedShot,0.7040000152587891,0.485,0.03942130133509636,Salomón Rondón,h,813,DirectFreekick,2018,RightFoot,9559,Newcastle United,Liverpool,2,3,2019-05-04 18:45:00,,Standard,813
+301316,39,MissedShots,0.82,0.35700000762939454,0.0638376995921135,Salomón Rondón,a,813,OpenPlay,2018,RightFoot,9573,Fulham,Newcastle United,0,4,2019-05-12 14:00:00,Ayoze Pérez,Pass,813
+301322,70,BlockedShot,0.9219999694824219,0.49,0.14899200201034546,Salomón Rondón,a,813,OpenPlay,2018,RightFoot,9573,Fulham,Newcastle United,0,4,2019-05-12 14:00:00,Paul Dummett,Pass,813
+301324,85,MissedShots,0.9530000305175781,0.33099998474121095,0.0896977037191391,Salomón Rondón,a,813,OpenPlay,2018,RightFoot,9573,Fulham,Newcastle United,0,4,2019-05-12 14:00:00,Jonjo Shelvey,Pass,813
+301328,89,Goal,0.9680000305175781,0.5820000076293945,0.5429279804229736,Salomón Rondón,a,813,OpenPlay,2018,LeftFoot,9573,Fulham,Newcastle United,0,4,2019-05-12 14:00:00,,Rebound,813
+301327,89,SavedShot,0.8930000305175781,0.6309999847412109,0.2853820025920868,Salomón Rondón,a,813,OpenPlay,2018,LeftFoot,9573,Fulham,Newcastle United,0,4,2019-05-12 14:00:00,Ayoze Pérez,Pass,813
+406786,15,SavedShot,0.8059999847412109,0.7119999694824218,0.04373550042510033,Salomón Rondón,a,813,OpenPlay,2020,RightFoot,14384,Lokomotiv Moscow,CSKA Moscow,2,0,2021-02-27 16:00:00,Nikola Vlasic,Pass,813
+406791,43,SavedShot,0.9159999847412109,0.5220000076293946,0.14506100118160248,Salomón Rondón,a,813,OpenPlay,2020,LeftFoot,14384,Lokomotiv Moscow,CSKA Moscow,2,0,2021-02-27 16:00:00,Baktiyor Zainutdinov,Rebound,813
+406793,48,MissedShots,0.8640000152587891,0.5840000152587891,0.012406200170516968,Salomón Rondón,a,813,OpenPlay,2020,Head,14384,Lokomotiv Moscow,CSKA Moscow,2,0,2021-02-27 16:00:00,Chidera Ejuke,Cross,813
+408364,35,ShotOnPost,0.830999984741211,0.3559999847412109,0.02800299972295761,Salomón Rondón,h,813,OpenPlay,2020,RightFoot,14392,CSKA Moscow,FK Akhmat,2,0,2021-03-06 11:00:00,Nikola Vlasic,HeadPass,813
+408365,37,Goal,0.885,0.5,0.7542740106582642,Salomón Rondón,h,813,Penalty,2020,RightFoot,14392,CSKA Moscow,FK Akhmat,2,0,2021-03-06 11:00:00,,Standard,813
+409740,48,SavedShot,0.955999984741211,0.5309999847412109,0.5734930038452148,Salomón Rondón,a,813,OpenPlay,2020,LeftFoot,14399,Arsenal Tula,CSKA Moscow,2,1,2021-03-13 11:00:00,Georgy Schennikov,HeadPass,813
+409753,94,MissedShots,0.9330000305175781,0.5220000076293946,0.48380500078201294,Salomón Rondón,a,813,OpenPlay,2020,RightFoot,14399,Arsenal Tula,CSKA Moscow,2,1,2021-03-13 11:00:00,Arnór Sigurdsson,Pass,813
+410903,20,MissedShots,0.9069999694824219,0.475,0.10088100284337997,Salomón Rondón,h,813,OpenPlay,2020,OtherBodyPart,14403,CSKA Moscow,Zenit St. Petersburg,2,3,2021-03-17 17:00:00,Mario Fernandes,Cross,813
+410905,27,Goal,0.9359999847412109,0.4879999923706055,0.45809999108314514,Salomón Rondón,h,813,OpenPlay,2020,Head,14403,CSKA Moscow,Zenit St. Petersburg,2,3,2021-03-17 17:00:00,Chidera Ejuke,Cross,813
+413136,16,BlockedShot,0.865999984741211,0.4520000076293945,0.0724027007818222,Salomón Rondón,a,813,OpenPlay,2020,RightFoot,14412,FC Tambov,CSKA Moscow,1,2,2021-04-04 13:30:00,Arnór Sigurdsson,Cross,813
+413137,18,SavedShot,0.9540000152587891,0.49900001525878906,0.4213489890098572,Salomón Rondón,a,813,OpenPlay,2020,Head,14412,FC Tambov,CSKA Moscow,1,2,2021-04-04 13:30:00,Mario Fernandes,HeadPass,813
+413148,49,SavedShot,0.899000015258789,0.46900001525878904,0.10335300117731094,Salomón Rondón,a,813,OpenPlay,2020,RightFoot,14412,FC Tambov,CSKA Moscow,1,2,2021-04-04 13:30:00,Hördur Bjorgvin Magnusson,Cross,813
+413149,50,BlockedShot,0.9,0.3320000076293945,0.047504398971796036,Salomón Rondón,a,813,OpenPlay,2020,RightFoot,14412,FC Tambov,CSKA Moscow,1,2,2021-04-04 13:30:00,Mario Fernandes,Cross,813
+413150,51,Goal,0.885,0.5,0.7542750239372253,Salomón Rondón,a,813,Penalty,2020,RightFoot,14412,FC Tambov,CSKA Moscow,1,2,2021-04-04 13:30:00,,Standard,813
+414852,0,BlockedShot,0.845,0.49,0.0920540988445282,Salomón Rondón,h,813,OpenPlay,2020,RightFoot,14423,CSKA Moscow,FC Rotor Volgograd,2,0,2021-04-12 16:00:00,Arnór Sigurdsson,Pass,813
+414857,16,SavedShot,0.9369999694824219,0.4570000076293945,0.12023500353097916,Salomón Rondón,h,813,OpenPlay,2020,RightFoot,14423,CSKA Moscow,FC Rotor Volgograd,2,0,2021-04-12 16:00:00,,None,813
+414860,26,MissedShots,0.9030000305175782,0.42200000762939455,0.028629999607801437,Salomón Rondón,h,813,OpenPlay,2020,Head,14423,CSKA Moscow,FC Rotor Volgograd,2,0,2021-04-12 16:00:00,Georgy Schennikov,Aerial,813
+414870,61,SavedShot,0.865,0.42200000762939455,0.020557699725031853,Salomón Rondón,h,813,SetPiece,2020,Head,14423,CSKA Moscow,FC Rotor Volgograd,2,0,2021-04-12 16:00:00,Arnór Sigurdsson,Cross,813
+414876,70,Goal,0.965,0.580999984741211,0.7719640135765076,Salomón Rondón,h,813,OpenPlay,2020,LeftFoot,14423,CSKA Moscow,FC Rotor Volgograd,2,0,2021-04-12 16:00:00,,TakeOn,813
+417843,55,MissedShots,0.879000015258789,0.6140000152587891,0.021717999130487442,Salomón Rondón,a,813,OpenPlay,2020,Head,14439,Spartak Moscow,CSKA Moscow,1,0,2021-04-25 13:30:00,Nikola Vlasic,Chipped,813
+418555,18,SavedShot,0.8440000152587891,0.37400001525878906,0.06274469941854477,Salomón Rondón,h,813,OpenPlay,2020,RightFoot,14444,CSKA Moscow,FC Ufa,1,1,2021-05-01 13:30:00,Nikola Vlasic,Pass,813
+418558,23,MissedShots,0.9259999847412109,0.6179999923706054,0.2991519868373871,Salomón Rondón,h,813,OpenPlay,2020,LeftFoot,14444,CSKA Moscow,FC Ufa,1,1,2021-05-01 13:30:00,Georgy Schennikov,Chipped,813
+418559,34,BlockedShot,0.895,0.5220000076293946,0.0757777988910675,Salomón Rondón,h,813,OpenPlay,2020,Head,14444,CSKA Moscow,FC Ufa,1,1,2021-05-01 13:30:00,Arnór Sigurdsson,Cross,813
+418567,56,BlockedShot,0.9369999694824219,0.6,0.04283519834280014,Salomón Rondón,h,813,FromCorner,2020,Head,14444,CSKA Moscow,FC Ufa,1,1,2021-05-01 13:30:00,Ivan Oblyakov,Cross,813
+418573,68,SavedShot,0.8809999847412109,0.519000015258789,0.2699289917945862,Salomón Rondón,h,813,OpenPlay,2020,RightFoot,14444,CSKA Moscow,FC Ufa,1,1,2021-05-01 13:30:00,Ilzat Akhmetov,Chipped,813
+418575,75,BlockedShot,0.82,0.38299999237060545,0.05102520063519478,Salomón Rondón,h,813,OpenPlay,2020,RightFoot,14444,CSKA Moscow,FC Ufa,1,1,2021-05-01 13:30:00,Konstantin Kuchaev,Pass,813
+418577,76,MissedShots,0.9540000152587891,0.5209999847412109,0.15126100182533264,Salomón Rondón,h,813,OpenPlay,2020,Head,14444,CSKA Moscow,FC Ufa,1,1,2021-05-01 13:30:00,Chidera Ejuke,Cross,813
+418578,82,BlockedShot,0.78,0.43099998474121093,0.03228729963302612,Salomón Rondón,h,813,OpenPlay,2020,LeftFoot,14444,CSKA Moscow,FC Ufa,1,1,2021-05-01 13:30:00,Ivan Oblyakov,Pass,813
+431555,3,BlockedShot,0.970999984741211,0.44599998474121094,0.13417699933052063,Salomón Rondón,a,813,OpenPlay,2021,RightFoot,16422,Aston Villa,Everton,3,0,2021-09-18 16:30:00,Ben Godfrey,Cross,813
+431556,4,MissedShots,0.9680000305175781,0.4179999923706055,0.0399915985763073,Salomón Rondón,a,813,FromCorner,2021,Head,16422,Aston Villa,Everton,3,0,2021-09-18 16:30:00,Andros Townsend,Aerial,813
+434649,24,BlockedShot,0.9,0.415,0.1198040023446083,Salomón Rondón,a,813,OpenPlay,2021,RightFoot,16442,Manchester United,Everton,1,1,2021-10-02 11:30:00,Abdoulaye Doucouré,Pass,813
+434651,30,MissedShots,0.925,0.605999984741211,0.08837100118398666,Salomón Rondón,a,813,OpenPlay,2021,RightFoot,16442,Manchester United,Everton,1,1,2021-10-02 11:30:00,Anthony Gordon,Cross,813
+436671,51,MissedShots,0.9209999847412109,0.4420000076293945,0.12141399830579758,Salomón Rondón,h,813,OpenPlay,2021,Head,16449,Everton,West Ham,0,1,2021-10-17 13:00:00,Andros Townsend,Cross,813
+436677,72,SavedShot,0.9080000305175782,0.41,0.06204269826412201,Salomón Rondón,h,813,OpenPlay,2021,Head,16449,Everton,West Ham,0,1,2021-10-17 13:00:00,Andros Townsend,Cross,813
+436685,90,MissedShots,0.899000015258789,0.53,0.0805957019329071,Salomón Rondón,h,813,OpenPlay,2021,Head,16449,Everton,West Ham,0,1,2021-10-17 13:00:00,Lucas Digne,Cross,813
+437779,27,BlockedShot,0.7269999694824218,0.54,0.014613199979066849,Salomón Rondón,h,813,OpenPlay,2021,RightFoot,16461,Everton,Watford,2,5,2021-10-23 14:00:00,Allan,TakeOn,813
+444543,24,SavedShot,0.955999984741211,0.6220000076293946,0.33695799112319946,Salomón Rondón,a,813,OpenPlay,2021,LeftFoot,16497,Brentford,Everton,1,0,2021-11-28 14:00:00,Lucas Digne,TakeOn,813
+444544,25,SavedShot,0.88,0.42700000762939455,0.031520601361989975,Salomón Rondón,a,813,OpenPlay,2021,Head,16497,Brentford,Everton,1,0,2021-11-28 14:00:00,Andros Townsend,Cross,813
+444552,48,MissedShots,0.9169999694824219,0.6880000305175781,0.060590699315071106,Salomón Rondón,a,813,OpenPlay,2021,LeftFoot,16497,Brentford,Everton,1,0,2021-11-28 14:00:00,Lucas Digne,Pass,813
+444553,55,BlockedShot,0.8680000305175781,0.4620000076293945,0.06804610043764114,Salomón Rondón,a,813,OpenPlay,2021,RightFoot,16497,Brentford,Everton,1,0,2021-11-28 14:00:00,,None,813
+444557,83,MissedShots,0.8809999847412109,0.43099998474121093,0.04206860065460205,Salomón Rondón,a,813,OpenPlay,2021,Head,16497,Brentford,Everton,1,0,2021-11-28 14:00:00,Seamus Coleman,Cross,813
+448518,69,Goal,0.9740000152587891,0.4470000076293945,0.6327469944953918,Salomón Rondón,a,813,OpenPlay,2021,RightFoot,16531,Crystal Palace,Everton,3,1,2021-12-12 16:30:00,,Rebound,813
+451067,89,MissedShots,0.9169999694824219,0.6719999694824219,0.037616100162267685,Salomón Rondón,h,813,FromCorner,2021,LeftFoot,16580,Everton,Brighton,2,3,2022-01-02 14:00:00,André Gomes,Cross,813
+451069,93,BlockedShot,0.875999984741211,0.6329999923706054,0.07219479978084564,Salomón Rondón,h,813,OpenPlay,2021,RightFoot,16580,Everton,Brighton,2,3,2022-01-02 14:00:00,Ben Godfrey,Pass,813
+453255,33,SavedShot,0.8769999694824219,0.534000015258789,0.05940429866313934,Salomón Rondón,a,813,OpenPlay,2021,RightFoot,16592,Norwich,Everton,2,1,2022-01-15 15:00:00,Seamus Coleman,Cross,813
+457095,90,SavedShot,0.860999984741211,0.580999984741211,0.41025298833847046,Salomón Rondón,h,813,OpenPlay,2021,LeftFoot,16619,Everton,Leeds,3,0,2022-02-12 15:00:00,Dele Alli,Throughball,813
+466381,91,MissedShots,0.845999984741211,0.4809999847412109,0.08012060075998306,Salomón Rondón,a,813,OpenPlay,2021,RightFoot,16558,Burnley,Everton,3,2,2022-04-06 18:30:00,Dominic Calvert-Lewin,Pass,813
+469368,88,MissedShots,0.955,0.4209999847412109,0.0948508009314537,Salomón Rondón,h,813,FromCorner,2021,Head,16547,Everton,Leicester,1,1,2022-04-20 18:45:00,Anthony Gordon,Cross,813
+470779,85,BlockedShot,0.9119999694824219,0.3120000076293945,0.053041499108076096,Salomón Rondón,a,813,OpenPlay,2021,RightFoot,16708,Liverpool,Everton,2,0,2022-04-24 15:30:00,,Dispossessed,813
+480139,90,SavedShot,0.9419999694824219,0.5159999847412109,0.5962280035018921,Salomón Rondón,a,813,OpenPlay,2022,RightFoot,18212,Aston Villa,Everton,2,1,2022-08-13 11:30:00,,Rebound,813
+481797,14,BlockedShot,0.8540000152587891,0.5359999847412109,0.10064099729061127,Salomón Rondón,h,813,OpenPlay,2022,LeftFoot,18224,Everton,Nottingham Forest,1,1,2022-08-20 14:00:00,Anthony Gordon,Pass,813
+481808,51,MissedShots,0.8080000305175781,0.509000015258789,0.051436398178339005,Salomón Rondón,h,813,OpenPlay,2022,RightFoot,18224,Everton,Nottingham Forest,1,1,2022-08-20 14:00:00,Tom Davies,Pass,813
+490139,95,MissedShots,0.700999984741211,0.5129999923706055,0.016460899263620377,Salomón Rondón,a,813,OpenPlay,2022,RightFoot,18290,Southampton,Everton,1,2,2022-10-01 14:00:00,Alex Iwobi,BallTouch,813

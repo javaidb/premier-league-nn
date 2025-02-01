@@ -1,0 +1,38 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15500,94,MissedShots,0.8580000305175781,0.3579999923706055,0.18780000507831573,Adlène Guédioura,a,583,OpenPlay,2014,RightFoot,4738,Everton,Crystal Palace,2,3,2014-09-21 16:00:00,Mile Jedinak,TakeOn,583
+16212,74,MissedShots,0.725,0.3039999961853027,0.010152099654078484,Adlène Guédioura,h,583,OpenPlay,2014,RightFoot,4702,Crystal Palace,Chelsea,1,2,2014-10-18 15:00:00,Mile Jedinak,Pass,583
+16453,87,SavedShot,0.9080000305175782,0.32,0.10210199654102325,Adlène Guédioura,a,583,OpenPlay,2014,RightFoot,4712,West Bromwich Albion,Crystal Palace,2,2,2014-10-25 15:00:00,Jason Puncheon,Pass,583
+17703,56,MissedShots,0.74,0.7090000152587891,0.015110500156879425,Adlène Guédioura,h,583,OpenPlay,2014,RightFoot,4568,Crystal Palace,Tottenham,2,1,2015-01-10 17:30:00,Martin Kelly,Pass,583
+23118,88,BlockedShot,0.845,0.3770000076293945,0.04449620097875595,Adlène Guédioura,a,583,SetPiece,2014,LeftFoot,4518,Leicester,Crystal Palace,0,1,2015-02-07 15:00:00,Yaya Sanogo,Pass,583
+55689,89,SavedShot,0.9069999694824219,0.7119999694824218,0.05582519993185997,Adlène Guédioura,a,583,OpenPlay,2015,RightFoot,212,Aston Villa,Watford,2,3,2015-11-28 19:00:00,Ben Watson,TakeOn,583
+55690,90,SavedShot,0.7580000305175781,0.5070000076293946,0.014388700015842915,Adlène Guédioura,a,583,FromCorner,2015,RightFoot,212,Aston Villa,Watford,2,3,2015-11-28 19:00:00,,Aerial,583
+52550,95,MissedShots,0.5990000152587891,0.33099998474121095,0.009454339742660522,Adlène Guédioura,h,583,OpenPlay,2015,RightFoot,223,Watford,Norwich,2,0,2015-12-05 19:00:00,,BallRecovery,583
+54857,87,SavedShot,0.775,0.68,0.02035369910299778,Adlène Guédioura,a,583,OpenPlay,2015,RightFoot,233,Sunderland,Watford,0,1,2015-12-12 19:00:00,Ikechi Anya,Pass,583
+60987,84,MissedShots,0.764000015258789,0.7769999694824219,0.023253699764609337,Adlène Guédioura,a,583,FromCorner,2015,RightFoot,385,Arsenal,Watford,4,0,2016-04-02 18:00:00,Ben Watson,Pass,583
+60986,84,BlockedShot,0.7030000305175781,0.48700000762939455,0.015151199884712696,Adlène Guédioura,a,583,SetPiece,2015,RightFoot,385,Arsenal,Watford,4,0,2016-04-02 18:00:00,Ben Watson,Pass,583
+61217,91,MissedShots,0.8769999694824219,0.24200000762939453,0.020132599398493767,Adlène Guédioura,h,583,FromCorner,2015,RightFoot,395,Watford,Everton,1,1,2016-04-09 18:00:00,,None,583
+57008,16,MissedShots,0.73,0.59,0.01620589941740036,Adlène Guédioura,a,583,OpenPlay,2015,RightFoot,409,West Bromwich Albion,Watford,0,1,2016-04-16 18:00:00,Jurado,Pass,583
+57012,26,BlockedShot,0.7380000305175781,0.34700000762939454,0.015836600214242935,Adlène Guédioura,a,583,OpenPlay,2015,RightFoot,409,West Bromwich Albion,Watford,0,1,2016-04-16 18:00:00,Jurado,Pass,583
+56445,55,MissedShots,0.764000015258789,0.7390000152587891,0.009464549832046032,Adlène Guédioura,a,583,FromCorner,2015,RightFoot,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,Ikechi Anya,TakeOn,583
+56419,88,MissedShots,0.749000015258789,0.42900001525878906,0.060581400990486145,Adlène Guédioura,a,583,DirectFreekick,2015,RightFoot,448,Norwich,Watford,4,2,2016-05-11 22:45:00,,Standard,583
+52210,55,MissedShots,0.795,0.5829999923706055,0.03185399994254112,Adlène Guédioura,h,583,OpenPlay,2015,RightFoot,458,Watford,Sunderland,2,2,2016-05-15 18:00:00,Jurado,Pass,583
+52216,93,MissedShots,0.9419999694824219,0.2720000076293945,0.036540500819683075,Adlène Guédioura,h,583,OpenPlay,2015,RightFoot,458,Watford,Sunderland,2,2,2016-05-15 18:00:00,Ben Watson,Chipped,583
+112331,62,MissedShots,0.7519999694824219,0.295,0.015039600431919098,Adlène Guédioura,a,583,FromCorner,2016,RightFoot,466,Southampton,Watford,1,1,2016-08-13 18:00:00,José Holebas,Pass,583
+112808,31,MissedShots,0.7830000305175782,0.38799999237060545,0.013245999813079834,Adlène Guédioura,h,583,OpenPlay,2016,RightFoot,476,Watford,Chelsea,1,2,2016-08-20 18:00:00,,Aerial,583
+112810,49,BlockedShot,0.6869999694824219,0.509000015258789,0.013139800168573856,Adlène Guédioura,h,583,OpenPlay,2016,RightFoot,476,Watford,Chelsea,1,2,2016-08-20 18:00:00,José Holebas,Pass,583
+113101,23,BlockedShot,0.7880000305175782,0.29100000381469726,0.020061999559402466,Adlène Guédioura,h,583,OpenPlay,2016,RightFoot,482,Watford,Arsenal,1,3,2016-08-27 18:00:00,Nordin Amrabat,Pass,583
+114568,90,SavedShot,0.7769999694824219,0.7030000305175781,0.021195199340581894,Adlène Guédioura,a,583,OpenPlay,2016,RightFoot,543,Swansea,Watford,0,0,2016-10-22 18:00:00,Roberto Pereyra,Pass,583
+116046,1,BlockedShot,0.7769999694824219,0.6370000076293946,0.019328000023961067,Adlène Guédioura,a,583,OpenPlay,2016,RightFoot,3110,West Bromwich Albion,Watford,3,1,2016-12-03 19:00:00,José Holebas,Pass,583
+116057,44,BlockedShot,0.710999984741211,0.49900001525878906,0.00897534005343914,Adlène Guédioura,a,583,OpenPlay,2016,RightFoot,3110,West Bromwich Albion,Watford,3,1,2016-12-03 19:00:00,,None,583
+116068,87,MissedShots,0.975999984741211,0.20700000762939452,0.021202899515628815,Adlène Guédioura,a,583,OpenPlay,2016,RightFoot,3110,West Bromwich Albion,Watford,3,1,2016-12-03 19:00:00,Sebastian Prödl,Chipped,583
+117440,34,SavedShot,0.9119999694824219,0.5529999923706055,0.04109970107674599,Adlène Guédioura,h,583,OpenPlay,2016,Head,3115,Watford,Everton,3,2,2016-12-10 16:30:00,Troy Deeney,Aerial,583
+118166,63,MissedShots,0.6980000305175781,0.5,0.037328001111745834,Adlène Guédioura,a,583,DirectFreekick,2016,RightFoot,3132,Manchester City,Watford,2,0,2016-12-15 00:00:00,,Standard,583
+116903,56,MissedShots,0.735,0.735999984741211,0.011890299618244171,Adlène Guédioura,h,583,OpenPlay,2016,RightFoot,3145,Watford,Crystal Palace,1,1,2016-12-26 16:30:00,,BallRecovery,583
+116911,89,SavedShot,0.77,0.6609999847412109,0.017895499244332314,Adlène Guédioura,h,583,OpenPlay,2016,LeftFoot,3145,Watford,Crystal Palace,1,1,2016-12-26 16:30:00,,None,583
+116683,63,BlockedShot,0.7869999694824219,0.5459999847412109,0.10211099684238434,Adlène Guédioura,a,583,DirectFreekick,2016,RightFoot,3338,Stoke,Watford,2,0,2017-01-04 00:00:00,,Standard,583
+117067,67,MissedShots,0.7140000152587891,0.42700000762939455,0.01740339957177639,Adlène Guédioura,a,583,OpenPlay,2016,RightFoot,3377,Tottenham,Middlesbrough,1,0,2017-02-04 17:30:00,Calum Chambers,Pass,583
+117856,69,MissedShots,0.7340000152587891,0.534000015258789,0.020653899759054184,Adlène Guédioura,h,583,OpenPlay,2016,RightFoot,3382,Middlesbrough,Everton,0,0,2017-02-11 15:00:00,Adama Traoré,Pass,583
+117857,83,MissedShots,0.74,0.49,0.0179625004529953,Adlène Guédioura,h,583,OpenPlay,2016,RightFoot,3382,Middlesbrough,Everton,0,0,2017-02-11 15:00:00,Gastón Ramírez,Pass,583
+118332,72,SavedShot,0.8109999847412109,0.49400001525878906,0.05100160092115402,Adlène Guédioura,a,583,OpenPlay,2016,LeftFoot,3392,Crystal Palace,Middlesbrough,1,0,2017-02-25 15:00:00,Fabio,Pass,583
+118338,90,MissedShots,0.7859999847412109,0.7119999694824218,0.01994509994983673,Adlène Guédioura,a,583,OpenPlay,2016,RightFoot,3392,Crystal Palace,Middlesbrough,1,0,2017-02-25 15:00:00,Gastón Ramírez,Pass,583
+119689,82,MissedShots,0.805,0.6170000076293946,0.029702400788664818,Adlène Guédioura,a,583,OpenPlay,2016,RightFoot,3403,Stoke,Middlesbrough,2,0,2017-03-04 15:00:00,Rudy Gestede,Pass,583

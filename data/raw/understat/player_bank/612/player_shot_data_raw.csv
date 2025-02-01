@@ -1,0 +1,41 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15176,96,MissedShots,0.935,0.45599998474121095,0.1352750062942505,Vincent Kompany,a,612,SetPiece,2014,Head,4719,Arsenal,Manchester City,2,2,2014-09-13 12:45:00,David Silva,Cross,612
+15766,71,MissedShots,0.8959999847412109,0.41900001525878905,0.029400700703263283,Vincent Kompany,a,612,FromCorner,2014,Head,4744,Hull,Manchester City,2,4,2014-09-27 15:00:00,Jesús Navas,Cross,612
+16573,7,MissedShots,0.9230000305175782,0.5109999847412109,0.06439679861068726,Vincent Kompany,a,612,SetPiece,2014,Head,4709,West Ham,Manchester City,2,1,2014-10-25 12:45:00,Jesús Navas,Aerial,612
+18849,88,MissedShots,0.92,0.4159999847412109,0.01809149980545044,Vincent Kompany,h,612,FromCorner,2014,Head,4579,Manchester City,Arsenal,0,2,2015-01-18 16:00:00,David Silva,Aerial,612
+23202,53,MissedShots,0.9069999694824219,0.3920000076293945,0.023725099861621857,Vincent Kompany,h,612,FromCorner,2014,Head,4519,Manchester City,Hull,1,1,2015-02-07 15:00:00,Samir Nasri,Cross,612
+21433,30,MissedShots,0.925,0.41700000762939454,0.05771090090274811,Vincent Kompany,a,612,FromCorner,2014,Head,4449,Crystal Palace,Manchester City,2,1,2015-04-06 20:00:00,Jesús Navas,Cross,612
+51704,58,Goal,0.9619999694824218,0.6,0.01791669987142086,Vincent Kompany,a,612,FromCorner,2015,Head,90,West Bromwich Albion,Manchester City,0,3,2015-08-10 23:00:00,David Silva,Aerial,612
+51814,78,Goal,0.925,0.5729999923706055,0.06910660117864609,Vincent Kompany,h,612,FromCorner,2015,Head,99,Manchester City,Chelsea,3,0,2015-08-16 19:00:00,David Silva,Cross,612
+56593,28,BlockedShot,0.9130000305175782,0.5920000076293945,0.09664580225944519,Vincent Kompany,a,612,FromCorner,2015,RightFoot,108,Everton,Manchester City,0,2,2015-08-23 19:00:00,,Rebound,612
+56592,28,BlockedShot,0.909000015258789,0.575999984741211,0.04631879925727844,Vincent Kompany,a,612,FromCorner,2015,Head,108,Everton,Manchester City,0,2,2015-08-23 19:00:00,David Silva,Cross,612
+57832,55,MissedShots,0.9440000152587891,0.6819999694824219,0.010053000412881374,Vincent Kompany,a,612,FromCorner,2015,Head,123,Crystal Palace,Manchester City,0,1,2015-09-12 18:00:00,Kevin De Bruyne,Cross,612
+59486,41,MissedShots,0.9130000305175782,0.495,0.05185269936919212,Vincent Kompany,h,612,FromCorner,2015,Head,183,Manchester City,Norwich,2,1,2015-10-31 19:00:00,Bacary Sagna,HeadPass,612
+55639,91,MissedShots,0.904000015258789,0.5570000076293945,0.01826849952340126,Vincent Kompany,h,612,FromCorner,2015,Head,340,Manchester City,Tottenham,1,2,2016-02-14 20:15:00,Aleksandar Kolarov,Aerial,612
+59526,3,SavedShot,0.919000015258789,0.445,0.04806309938430786,Vincent Kompany,a,612,SetPiece,2015,Head,369,Norwich,Manchester City,0,0,2016-03-12 16:45:00,David Silva,Aerial,612
+59533,15,MissedShots,0.87,0.49700000762939456,0.013625700026750565,Vincent Kompany,a,612,FromCorner,2015,Head,369,Norwich,Manchester City,0,0,2016-03-12 16:45:00,David Silva,Aerial,612
+59544,74,BlockedShot,0.7619999694824219,0.5329999923706055,0.01974949985742569,Vincent Kompany,a,612,FromCorner,2015,RightFoot,369,Norwich,Manchester City,0,0,2016-03-12 16:45:00,Fernando,LayOff,612
+59788,54,MissedShots,0.875,0.47,0.025829199701547623,Vincent Kompany,a,612,FromCorner,2015,Head,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,Aleksandar Kolarov,Cross,612
+121312,54,Goal,0.925,0.5059999847412109,0.3445639908313751,Vincent Kompany,a,612,FromCorner,2016,Head,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,David Silva,Cross,612
+121313,60,BlockedShot,0.92,0.585,0.09488789737224579,Vincent Kompany,a,612,FromCorner,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,,None,612
+121007,94,MissedShots,0.745,0.5129999923706055,0.019381599500775337,Vincent Kompany,a,612,OpenPlay,2016,RightFoot,3483,Middlesbrough,Manchester City,2,2,2017-04-30 14:05:00,,None,612
+121575,24,MissedShots,0.865,0.485,0.04769359901547432,Vincent Kompany,h,612,FromCorner,2016,RightFoot,3497,Manchester City,Crystal Palace,5,0,2017-05-06 12:30:00,Kevin De Bruyne,Cross,612
+121586,48,Goal,0.865999984741211,0.4470000076293945,0.05991480126976967,Vincent Kompany,h,612,FromCorner,2016,RightFoot,3497,Manchester City,Crystal Palace,5,0,2017-05-06 12:30:00,Kevin De Bruyne,Pass,612
+121587,50,MissedShots,0.8959999847412109,0.4779999923706055,0.018880700692534447,Vincent Kompany,h,612,FromCorner,2016,Head,3497,Manchester City,Crystal Palace,5,0,2017-05-06 12:30:00,Kevin De Bruyne,Aerial,612
+121816,82,MissedShots,0.9119999694824219,0.46799999237060547,0.03583979979157448,Vincent Kompany,h,612,FromCorner,2016,Head,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,David Silva,Aerial,612
+120854,59,MissedShots,0.7930000305175782,0.6959999847412109,0.01885640062391758,Vincent Kompany,h,612,FromCorner,2016,RightFoot,3477,Manchester City,West Bromwich Albion,3,1,2017-05-16 20:00:00,,Interception,612
+112608,4,Goal,0.8930000305175781,0.525,0.05021660029888153,Vincent Kompany,a,612,FromCorner,2016,Head,3519,Watford,Manchester City,0,5,2017-05-21 15:00:00,Kevin De Bruyne,Cross,612
+158523,37,MissedShots,0.8769999694824219,0.56,0.03671979904174805,Vincent Kompany,h,612,SetPiece,2017,Head,7138,Manchester City,Everton,1,1,2017-08-21 20:00:00,Kevin De Bruyne,Cross,612
+159194,29,BlockedShot,0.9440000152587891,0.590999984741211,0.022761700674891472,Vincent Kompany,a,612,FromCorner,2017,Head,7139,Bournemouth,Manchester City,1,2,2017-08-26 12:30:00,Kevin De Bruyne,Aerial,612
+161207,6,MissedShots,0.9169999694824219,0.495,0.04672050103545189,Vincent Kompany,a,612,FromCorner,2017,Head,7245,Huddersfield,Manchester City,1,2,2017-11-26 16:00:00,,Aerial,612
+161210,18,BlockedShot,0.8669999694824219,0.485,0.013219700194895267,Vincent Kompany,a,612,FromCorner,2017,Head,7245,Huddersfield,Manchester City,1,2,2017-11-26 16:00:00,Kevin De Bruyne,Aerial,612
+193651,5,SavedShot,0.884000015258789,0.5670000076293945,0.014972000382840633,Vincent Kompany,a,612,FromCorner,2017,Head,7372,Burnley,Manchester City,1,1,2018-02-03 12:30:00,Nicolás Otamendi,Aerial,612
+193653,13,MissedShots,0.9630000305175781,0.54,0.42353200912475586,Vincent Kompany,a,612,FromCorner,2017,Head,7372,Burnley,Manchester City,1,1,2018-02-03 12:30:00,,None,612
+207023,24,Goal,0.9230000305175782,0.53,0.3151420056819916,Vincent Kompany,h,612,FromCorner,2017,Head,7445,Manchester City,Manchester United,2,3,2018-04-07 16:30:00,Leroy Sané,Cross,612
+207044,94,MissedShots,0.9009999847412109,0.605,0.07005409896373749,Vincent Kompany,h,612,OpenPlay,2017,LeftFoot,7445,Manchester City,Manchester United,2,3,2018-04-07 16:30:00,Kevin De Bruyne,Cross,612
+211075,86,MissedShots,0.955,0.4329999923706055,0.07703080028295517,Vincent Kompany,h,612,OpenPlay,2017,Head,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,Yaya Touré,Throughball,612
+233451,48,MissedShots,0.9219999694824219,0.5220000076293946,0.04702730104327202,Vincent Kompany,a,612,FromCorner,2018,Head,9217,Wolverhampton Wanderers,Manchester City,1,1,2018-08-25 14:30:00,Ilkay Gündogan,Aerial,612
+263764,50,BlockedShot,0.9069999694824219,0.5670000076293945,0.05025490000844002,Vincent Kompany,a,612,FromCorner,2018,Head,9389,Southampton,Manchester City,1,3,2018-12-30 14:15:00,David Silva,Cross,612
+276255,85,MissedShots,0.914000015258789,0.5720000076293945,0.11173299700021744,Vincent Kompany,a,612,FromCorner,2018,LeftFoot,9486,Bournemouth,Manchester City,0,1,2019-03-02 15:00:00,Kyle Walker,Rebound,612
+284662,11,BlockedShot,0.725,0.3820000076293945,0.014300299808382988,Vincent Kompany,h,612,OpenPlay,2018,RightFoot,9489,Manchester City,Watford,3,1,2019-03-09 17:30:00,Kyle Walker,Pass,612
+300385,69,Goal,0.7319999694824219,0.39,0.01691870018839836,Vincent Kompany,h,612,OpenPlay,2018,RightFoot,9560,Manchester City,Leicester,1,0,2019-05-06 19:00:00,Aymeric Laporte,Pass,612

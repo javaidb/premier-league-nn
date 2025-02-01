@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+12774,Andy Irving,8,61,0,0.09358540549874306,0,0,3,0,1,0,S,West Ham,0,0.09358540549874306,0.7196405455470085,0.6598710045218468,2024
+12774,Andy Irving,8,61,0,0.09358540549874306,0,0,3,0,1,0,S,West Ham,0,0.09358540549874306,0.7196405455470085,0.6598710045218468,2025

@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+328502,90,OwnGoal,0.008999999761581421,0.525,0,Robin Olsen,h,6962,FromCorner,2019,RightFoot,13180,Cagliari,Bologna,3,2,2019-10-30 20:00:00,,CornerAwarded,6962

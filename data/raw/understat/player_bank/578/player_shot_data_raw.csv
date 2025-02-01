@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+59359,71,SavedShot,0.740999984741211,0.4129999923706055,0.02281860075891018,Juan Carlos Paredes,a,578,OpenPlay,2015,RightFoot,175,Stoke,Watford,0,2,2015-10-24 18:00:00,Etienne Capoue,Pass,578
+53520,69,MissedShots,0.8130000305175781,0.3609999847412109,0.03896139934659004,Juan Carlos Paredes,h,578,OpenPlay,2015,RightFoot,186,Watford,West Ham,2,0,2015-10-31 19:00:00,,None,578
+52442,22,MissedShots,0.81,0.255,0.02282409928739071,Juan Carlos Paredes,h,578,OpenPlay,2015,RightFoot,307,Watford,Newcastle United,2,1,2016-01-23 19:00:00,Etienne Capoue,Pass,578
+60200,52,MissedShots,0.785,0.33099998474121095,0.02079790085554123,Juan Carlos Paredes,h,578,OpenPlay,2015,RightFoot,342,Watford,Bournemouth,0,0,2016-02-27 19:00:00,,None,578
+52215,87,MissedShots,0.7069999694824218,0.45799999237060546,0.013199600391089916,Juan Carlos Paredes,h,578,FromCorner,2015,RightFoot,458,Watford,Sunderland,2,2,2016-05-15 18:00:00,,None,578

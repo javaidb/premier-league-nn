@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14557,16,BlockedShot,0.7580000305175781,0.415,0.013217899948358536,Alejandro Faurlin,h,4528,FromCorner,2014,LeftFoot,4751,Queens Park Rangers,Hull,0,1,2014-08-16 15:00:00,Danny Simpson,HeadPass,4528
+14559,16,MissedShots,0.865,0.5179999923706055,0.06668400019407272,Alejandro Faurlin,h,4528,FromCorner,2014,LeftFoot,4751,Queens Park Rangers,Hull,0,1,2014-08-16 15:00:00,Steven Caulker,Pass,4528
+14569,63,SavedShot,0.8380000305175781,0.29,0.032656099647283554,Alejandro Faurlin,h,4528,OpenPlay,2014,LeftFoot,4751,Queens Park Rangers,Hull,0,1,2014-08-16 15:00:00,Joey Barton,Pass,4528

@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+37,Loris Karius,10,900,0,0,0,0,0,0,0,0,GK,Liverpool,0,0,1.9014004841446877,1.9014004841446877,2016
+37,Loris Karius,19,1710,0,0,0,0,0,0,1,0,GK,Liverpool,0,0,4.033254375681281,4.033254375681281,2017
+37,Loris Karius,1,90,0,0,0,0,0,0,0,0,GK,Newcastle United,0,0,0,0,2023

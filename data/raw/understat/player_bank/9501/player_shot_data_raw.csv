@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+421984,29,SavedShot,0.904000015258789,0.4490000152587891,0.1621060073375702,Fabio Carvalho,a,9501,OpenPlay,2020,RightFoot,14792,Southampton,Fulham,3,1,2021-05-15 14:00:00,Ivan Cavaleiro,TakeOn,9501
+421995,74,Goal,0.9130000305175782,0.34700000762939454,0.25161099433898926,Fabio Carvalho,a,9501,OpenPlay,2020,RightFoot,14792,Southampton,Fulham,3,1,2021-05-15 14:00:00,Bobby Reid,Pass,9501
+421998,87,SavedShot,0.799000015258789,0.5070000076293946,0.020168600603938103,Fabio Carvalho,a,9501,FromCorner,2020,LeftFoot,14792,Southampton,Fulham,3,1,2021-05-15 14:00:00,Harrison Reed,HeadPass,9501
+423110,37,SavedShot,0.879000015258789,0.5929999923706055,0.31687501072883606,Fabio Carvalho,a,9501,OpenPlay,2020,RightFoot,14800,Manchester United,Fulham,1,1,2021-05-18 17:00:00,Ademola Lookman,Throughball,9501
+423118,60,SavedShot,0.975999984741211,0.5870000076293945,0.03868680074810982,Fabio Carvalho,a,9501,OpenPlay,2020,Head,14800,Manchester United,Fulham,1,1,2021-05-18 17:00:00,,Rebound,9501
+423977,31,BlockedShot,0.8630000305175781,0.4520000076293945,0.07895609736442566,Fabio Carvalho,h,9501,OpenPlay,2020,LeftFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,,TakeOn,9501
+423984,52,BlockedShot,0.7759999847412109,0.32,0.01602349989116192,Fabio Carvalho,h,9501,FromCorner,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,,None,9501
+423987,63,MissedShots,0.8330000305175781,0.7340000152587891,0.024730000644922256,Fabio Carvalho,h,9501,OpenPlay,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,Ademola Lookman,Pass,9501
+423990,85,BlockedShot,0.8959999847412109,0.5,0.08827520161867142,Fabio Carvalho,h,9501,OpenPlay,2020,LeftFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,Josh Maja,BallTouch,9501
+479077,79,MissedShots,0.875,0.61,0.059218600392341614,Fabio Carvalho,a,9501,FromCorner,2022,RightFoot,18203,Fulham,Liverpool,2,2,2022-08-06 11:30:00,,None,9501
+481453,89,MissedShots,0.8219999694824218,0.5,0.08236909657716751,Fabio Carvalho,h,9501,SetPiece,2022,LeftFoot,18221,Liverpool,Crystal Palace,1,1,2022-08-15 19:00:00,Fabinho,LayOff,9501
+483129,76,BlockedShot,0.895,0.47299999237060547,0.11826600134372711,Fabio Carvalho,a,9501,OpenPlay,2022,RightFoot,18231,Manchester United,Liverpool,2,1,2022-08-22 19:00:00,Mohamed Salah,Pass,9501
+483131,80,SavedShot,0.8919999694824219,0.37099998474121093,0.06325659900903702,Fabio Carvalho,a,9501,FromCorner,2022,RightFoot,18231,Manchester United,Liverpool,2,1,2022-08-22 19:00:00,Harvey Elliott,HeadPass,9501
+483668,79,Goal,0.8690000152587891,0.5840000152587891,0.11991000175476074,Fabio Carvalho,h,9501,OpenPlay,2022,RightFoot,18236,Liverpool,Bournemouth,9,0,2022-08-27 14:00:00,Konstantinos Tsimikas,Pass,9501
+485321,89,MissedShots,0.9059999847412109,0.6480000305175782,0.06750749796628952,Fabio Carvalho,h,9501,SetPiece,2022,LeftFoot,18250,Liverpool,Newcastle United,2,1,2022-08-31 19:00:00,James Milner,Chipped,9501
+485326,97,Goal,0.970999984741211,0.5690000152587891,0.1409900039434433,Fabio Carvalho,h,9501,FromCorner,2022,RightFoot,18250,Liverpool,Newcastle United,2,1,2022-08-31 19:00:00,Mohamed Salah,Rebound,9501
+494754,8,SavedShot,0.9480000305175781,0.5790000152587891,0.32726600766181946,Fabio Carvalho,a,9501,OpenPlay,2022,RightFoot,18327,Nottingham Forest,Liverpool,1,0,2022-10-22 11:30:00,Harvey Elliott,Chipped,9501
+494758,22,MissedShots,0.9119999694824219,0.4329999923706055,0.048428699374198914,Fabio Carvalho,a,9501,OpenPlay,2022,Head,18327,Nottingham Forest,Liverpool,1,0,2022-10-22 11:30:00,Harvey Elliott,Aerial,9501
+494763,49,MissedShots,0.9259999847412109,0.5929999923706055,0.06885340064764023,Fabio Carvalho,a,9501,OpenPlay,2022,Head,18327,Nottingham Forest,Liverpool,1,0,2022-10-22 11:30:00,James Milner,Cross,9501
+494764,51,MissedShots,0.8669999694824219,0.6320000076293946,0.061845000833272934,Fabio Carvalho,a,9501,SetPiece,2022,RightFoot,18327,Nottingham Forest,Liverpool,1,0,2022-10-22 11:30:00,Mohamed Salah,BallTouch,9501
+539044,43,SavedShot,0.830999984741211,0.6129999923706054,0.05429280549287796,Fabio Carvalho,a,9501,OpenPlay,2023,RightFoot,23103,Borussia M.Gladbach,RasenBallsport Leipzig,0,1,2023-09-23 13:30:00,Benjamin Henrichs,Pass,9501
+545629,86,SavedShot,0.89,0.6430000305175781,0.11042720079421997,Fabio Carvalho,h,9501,OpenPlay,2023,LeftFoot,23138,RasenBallsport Leipzig,FC Cologne,6,0,2023-10-28 16:30:00,Christopher Lenz,Pass,9501
+554408,84,BlockedShot,0.89,0.5520000076293945,0.048867117613554,Fabio Carvalho,h,9501,OpenPlay,2023,Head,23192,RasenBallsport Leipzig,Hoffenheim,3,1,2023-12-16 17:30:00,Yussuf Poulsen,Cross,9501
+589174,90,BlockedShot,0.88,0.42700000762939455,0.13437029719352722,Fabio Carvalho,h,9501,OpenPlay,2024,RightFoot,26623,Brentford,Southampton,3,1,2024-08-31 14:00:00,Yoane Wissa,Pass,9501
+594163,62,BlockedShot,0.69,0.5209999847412109,0.013267315924167633,Fabio Carvalho,h,9501,OpenPlay,2024,LeftFoot,26656,Brentford,West Ham,1,1,2024-09-28 14:00:00,Bryan Mbeumo,Pass,9501
+595585,89,Goal,0.9580000305175781,0.4759999847412109,0.673401951789856,Fabio Carvalho,h,9501,OpenPlay,2024,RightFoot,26667,Brentford,Wolverhampton Wanderers,5,3,2024-10-05 14:00:00,,None,9501
+597040,84,BlockedShot,0.8440000152587891,0.31799999237060544,0.04400383308529854,Fabio Carvalho,a,9501,OpenPlay,2024,LeftFoot,26675,Manchester United,Brentford,2,1,2024-10-19 14:00:00,Bryan Mbeumo,Pass,9501
+597042,94,MissedShots,0.850999984741211,0.485,0.05657294765114784,Fabio Carvalho,a,9501,OpenPlay,2024,LeftFoot,26675,Manchester United,Brentford,2,1,2024-10-19 14:00:00,Kristoffer Ajer,HeadPass,9501
+601034,95,SavedShot,0.9309999847412109,0.4490000152587891,0.5010765194892883,Fabio Carvalho,a,9501,OpenPlay,2024,RightFoot,26693,Fulham,Brentford,2,1,2024-11-04 20:00:00,Mads Roerslev,Pass,9501
+604179,75,SavedShot,0.8190000152587891,0.56,0.06734663248062134,Fabio Carvalho,h,9501,OpenPlay,2024,RightFoot,26722,Brentford,Leicester,4,1,2024-11-30 15:00:00,Thiago,BallRecovery,9501
+605363,77,BlockedShot,0.7880000305175782,0.5029999923706054,0.04399307444691658,Fabio Carvalho,a,9501,OpenPlay,2024,RightFoot,26734,Aston Villa,Brentford,3,1,2024-12-04 20:15:00,Mikkel Damsgaard,Pass,9501
+605877,12,SavedShot,0.8959999847412109,0.35,0.08192084729671478,Fabio Carvalho,h,9501,OpenPlay,2024,RightFoot,26743,Brentford,Newcastle United,4,2,2024-12-07 15:00:00,Bryan Mbeumo,Pass,9501
+607763,75,ShotOnPost,0.945,0.47400001525878904,0.4976228177547455,Fabio Carvalho,a,9501,OpenPlay,2024,RightFoot,26757,Chelsea,Brentford,2,1,2024-12-15 19:00:00,Kristoffer Ajer,Cross,9501

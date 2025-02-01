@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+597113,45,MissedShots,0.8640000152587891,0.67,0.06889019906520844,Ryan Manning,h,13134,OpenPlay,2024,LeftFoot,26678,Southampton,Leicester,2,3,2024-10-19 14:00:00,Kyle Walker-Peters,Pass,13134
+603815,42,MissedShots,0.88,0.7090000152587891,0.04026070237159729,Ryan Manning,a,13134,OpenPlay,2024,LeftFoot,26723,Brighton,Southampton,1,1,2024-11-29 20:00:00,Yukinari Sugawara,Cross,13134
+605828,8,BlockedShot,0.8930000305175781,0.6959999847412109,0.04303988441824913,Ryan Manning,a,13134,OpenPlay,2024,LeftFoot,26742,Aston Villa,Southampton,1,0,2024-12-07 15:00:00,Kyle Walker-Peters,Pass,13134

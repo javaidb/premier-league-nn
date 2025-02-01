@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+893,Sébastien Pocognoli,15,1228,0,0.11279190145432949,0,1.1693175081163645,7,9,1,0,D,West Bromwich Albion,0,0.11279190145432949,2.0024180877953768,1.3211269080638885,2014
+893,Sébastien Pocognoli,1,33,0,0,1,0.16966499388217926,0,2,0,0,S,West Bromwich Albion,0,0,0.16966499388217926,0.07335220277309418,2015

@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+433496,53,MissedShots,0.6709999847412109,0.5070000076293946,0.013418399728834629,Ozan Tufan,h,9957,OpenPlay,2021,RightFoot,16427,Watford,Newcastle United,1,1,2021-09-25 14:00:00,Moussa Sissoko,Pass,9957
+434860,27,MissedShots,0.8819999694824219,0.37099998474121093,0.06096290051937103,Ozan Tufan,a,9957,OpenPlay,2021,RightFoot,16440,Leeds,Watford,1,0,2021-10-02 14:00:00,,BallRecovery,9957
+444670,83,MissedShots,0.924000015258789,0.4420000076293945,0.27543899416923523,Ozan Tufan,a,9957,OpenPlay,2021,RightFoot,16502,Leicester,Watford,4,2,2021-11-28 14:00:00,Kiko Femenía,Cross,9957

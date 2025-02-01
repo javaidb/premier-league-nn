@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+763,Robert Elliot,3,227,0,0,0,0.04892899841070175,0,1,0,0,GK,Newcastle United,0,0,0.21767349541187286,0.1687444970011711,2014
+763,Robert Elliot,21,1890,0,0,0,0.02298929914832115,0,1,1,0,GK,Newcastle United,0,0,1.7296239947900176,1.70663498993963,2015
+763,Robert Elliot,16,1440,0,0,0,0,0,0,0,0,GK,Newcastle United,0,0,0.7621870897710323,0.7621870897710323,2017

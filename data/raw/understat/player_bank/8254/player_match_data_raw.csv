@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,1,Sub,Aston Villa,Manchester United,0,3,2020-07-09,11974,2019,407182,0,0,0,0,0,0,0,8254
+0,1,0.032814398407936096,2,Sub,Liverpool,Aston Villa,2,0,2020-07-05,11966,2019,405783,0,0,0,0,0.032814398407936096,0.032814398407936096,0,8254
+0,0,0,11,Sub,Aston Villa,Watford,2,1,2020-01-21,11873,2019,386402,0,0,0,0,0,0,0,8254
+0,0,0,21,Sub,Brighton,Aston Villa,1,1,2020-01-18,11867,2019,386197,0,0,0,0,0,0,0,8254

@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1048,Donald Love,1,54,0,0,0,0,0,0,0,0,S,Manchester United,0,0,0.022390099242329597,0.022390099242329597,2015
+1048,Donald Love,12,598,0,0.05020209960639477,1,0.38475089706480503,2,4,1,0,D S,Sunderland,0,0.05020209960639477,1.29962451569736,0.9656935017555952,2016

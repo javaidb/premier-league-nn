@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+128434,89,BlockedShot,0.860999984741211,0.519000015258789,0.08023899793624878,Aleksandar Dragovic,h,5219,FromCorner,2016,LeftFoot,1361,Bayer Leverkusen,Augsburg,0,0,2016-09-21 22:00:00,,Rebound,5219
+129902,82,MissedShots,0.9,0.48200000762939454,0.12116999924182892,Aleksandar Dragovic,a,5219,FromCorner,2016,RightFoot,3301,Wolfsburg,Bayer Leverkusen,1,2,2016-10-29 17:30:00,Tin Jedvaj,Rebound,5219
+130870,89,BlockedShot,0.885,0.47,0.09487420320510864,Aleksandar Dragovic,a,5219,OpenPlay,2016,OtherBodyPart,2830,Bayern Munich,Bayer Leverkusen,2,1,2016-11-26 21:30:00,,Dispossessed,5219
+130399,51,SavedShot,0.9019999694824219,0.5420000076293945,0.020528100430965424,Aleksandar Dragovic,h,5219,FromCorner,2016,Head,3195,Bayer Leverkusen,Freiburg,1,1,2016-12-03 18:30:00,Hakan Calhanoglu,Aerial,5219
+135056,5,SavedShot,0.875999984741211,0.45799999237060546,0.030350400134921074,Aleksandar Dragovic,a,5219,FromCorner,2016,Head,3865,Ingolstadt,Bayer Leverkusen,1,1,2017-05-06 14:30:00,Wendell,Cross,5219
+135058,28,MissedShots,0.8180000305175781,0.634000015258789,0.028976600617170334,Aleksandar Dragovic,a,5219,FromCorner,2016,RightFoot,3865,Ingolstadt,Bayer Leverkusen,1,1,2017-05-06 14:30:00,,None,5219
+187355,11,BlockedShot,0.94,0.595999984741211,0.110555000603199,Aleksandar Dragovic,a,5219,FromCorner,2017,RightFoot,7340,Chelsea,Leicester,0,0,2018-01-13 15:00:00,,Rebound,5219
+255347,20,MissedShots,0.7580000305175781,0.435,0.02329850010573864,Aleksandar Dragovic,a,5219,OpenPlay,2018,LeftFoot,10397,Freiburg,Bayer Leverkusen,0,0,2018-10-07 11:30:00,Mitchell Weiser,Pass,5219
+255868,71,Goal,0.970999984741211,0.46900001525878904,0.3933520019054413,Aleksandar Dragovic,a,5219,FromCorner,2018,LeftFoot,10412,Werder Bremen,Bayer Leverkusen,2,6,2018-10-28 16:00:00,Julian Brandt,Goal,5219
+257534,25,Goal,0.9230000305175782,0.365,0.36751800775527954,Aleksandar Dragovic,a,5219,SetPiece,2018,RightFoot,10473,Schalke 04,Bayer Leverkusen,1,2,2018-12-19 17:30:00,,None,5219
+257907,79,BlockedShot,0.909000015258789,0.4370000076293945,0.09136640280485153,Aleksandar Dragovic,h,5219,FromCorner,2018,LeftFoot,10484,Bayer Leverkusen,Hertha Berlin,3,1,2018-12-22 14:30:00,Mitchell Weiser,Pass,5219
+327411,59,MissedShots,0.9719999694824218,0.5159999847412109,0.7072780132293701,Aleksandar Dragovic,h,5219,SetPiece,2019,Head,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,Karim Bellarabi,Cross,5219
+327416,66,MissedShots,0.9130000305175782,0.5929999923706055,0.10743100196123123,Aleksandar Dragovic,h,5219,OpenPlay,2019,LeftFoot,12475,Bayer Leverkusen,Werder Bremen,2,2,2019-10-26 17:30:00,,Rebound,5219
+387331,87,Goal,0.8730000305175781,0.4640000152587891,0.08917470276355743,Aleksandar Dragovic,a,5219,FromCorner,2020,RightFoot,15207,Arminia Bielefeld,Bayer Leverkusen,1,2,2020-11-21 14:30:00,,Rebound,5219
+393165,27,SavedShot,0.8080000305175781,0.5940000152587891,0.018535500392317772,Aleksandar Dragovic,a,5219,FromCorner,2020,RightFoot,15241,FC Cologne,Bayer Leverkusen,0,4,2020-12-16 19:30:00,Patrik Schick,HeadPass,5219
+407486,83,MissedShots,0.7680000305175781,0.345,0.022385500371456146,Aleksandar Dragovic,h,5219,OpenPlay,2020,RightFoot,15341,Bayer Leverkusen,Freiburg,1,2,2021-02-28 17:00:00,Charles Aránguiz,Pass,5219
+407491,90,BlockedShot,0.86,0.48700000762939455,0.09150809794664383,Aleksandar Dragovic,h,5219,OpenPlay,2020,RightFoot,15341,Bayer Leverkusen,Freiburg,1,2,2021-02-28 17:00:00,Florian Wirtz,Pass,5219

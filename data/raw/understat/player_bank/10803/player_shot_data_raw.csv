@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+480512,53,BlockedShot,0.759000015258789,0.674000015258789,0.014477699995040894,Tyrell Malacia,a,10803,OpenPlay,2022,LeftFoot,18218,Brentford,Manchester United,4,0,2022-08-13 16:30:00,Cristiano Ronaldo,Pass,10803
+501100,5,SavedShot,0.909000015258789,0.68,0.04937160015106201,Tyrell Malacia,h,10803,OpenPlay,2022,LeftFoot,18370,Manchester United,Nottingham Forest,3,0,2022-12-27 20:00:00,,Rebound,10803
+501122,92,BlockedShot,0.7909999847412109,0.7130000305175781,0.027171900495886803,Tyrell Malacia,h,10803,OpenPlay,2022,LeftFoot,18370,Manchester United,Nottingham Forest,3,0,2022-12-27 20:00:00,Fred,Pass,10803
+517748,13,MissedShots,0.7240000152587891,0.485,0.019870800897479057,Tyrell Malacia,h,10803,FromCorner,2022,LeftFoot,18498,Manchester United,Everton,2,0,2023-04-08 11:30:00,Bruno Fernandes,Pass,10803
+517781,91,SavedShot,0.8719999694824219,0.7240000152587891,0.05716700106859207,Tyrell Malacia,h,10803,OpenPlay,2022,LeftFoot,18498,Manchester United,Everton,2,0,2023-04-08 11:30:00,Wout Weghorst,Pass,10803

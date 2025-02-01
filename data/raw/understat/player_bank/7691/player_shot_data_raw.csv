@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+324170,27,SavedShot,0.7440000152587891,0.5940000152587891,0.01665410026907921,Jamal Lewis,h,7691,OpenPlay,2019,RightFoot,11717,Norwich,Aston Villa,1,5,2019-10-05 15:00:00,,None,7691
+328043,38,MissedShots,0.7830000305175782,0.39099998474121095,0.031289100646972656,Jamal Lewis,h,7691,FromCorner,2019,RightFoot,11739,Norwich,Manchester United,1,3,2019-10-27 16:30:00,Todd Cantwell,Pass,7691
+330353,62,SavedShot,0.7819999694824219,0.6969999694824218,0.020470499992370605,Jamal Lewis,h,7691,OpenPlay,2019,LeftFoot,11757,Norwich,Watford,0,2,2019-11-08 20:00:00,Kenny McLean,Pass,7691
+330356,75,MissedShots,0.845999984741211,0.750999984741211,0.022098800167441368,Jamal Lewis,h,7691,FromCorner,2019,LeftFoot,11757,Norwich,Watford,0,2,2019-11-08 20:00:00,Todd Cantwell,Pass,7691
+339837,7,MissedShots,0.730999984741211,0.5879999923706055,0.017968200147151947,Jamal Lewis,h,7691,OpenPlay,2019,LeftFoot,11839,Norwich,Tottenham,2,2,2019-12-28 17:30:00,Alexander Tettey,Pass,7691
+352777,74,BlockedShot,0.845,0.635,0.15307199954986572,Jamal Lewis,h,7691,OpenPlay,2019,LeftFoot,11899,Norwich,Liverpool,0,1,2020-02-15 17:30:00,Todd Cantwell,TakeOn,7691
+353190,69,Goal,0.8830000305175781,0.74,0.0215659998357296,Jamal Lewis,h,7691,OpenPlay,2019,LeftFoot,11919,Norwich,Leicester,1,0,2020-02-28 20:00:00,Max Aarons,Cross,7691
+353454,84,SavedShot,0.935,0.6480000305175782,0.02814350090920925,Jamal Lewis,a,7691,OpenPlay,2019,LeftFoot,11929,Sheffield United,Norwich,1,0,2020-03-07 15:00:00,,Aerial,7691
+371329,61,BlockedShot,0.8540000152587891,0.715,0.03746439889073372,Jamal Lewis,a,7691,OpenPlay,2019,LeftFoot,11995,Chelsea,Norwich,1,0,2020-07-14 19:15:00,Kenny McLean,Pass,7691
+388447,40,SavedShot,0.7580000305175781,0.6359999847412109,0.021654300391674042,Jamal Lewis,a,7691,OpenPlay,2020,RightFoot,14530,Crystal Palace,Newcastle United,0,2,2020-11-27 20:00:00,Jonjo Shelvey,Pass,7691
+401142,65,ShotOnPost,0.9019999694824219,0.6759999847412109,0.059090498834848404,Jamal Lewis,h,7691,OpenPlay,2020,LeftFoot,14631,Newcastle United,Leeds,1,2,2021-01-26 18:00:00,Allan Saint-Maximin,Pass,7691
+406978,21,BlockedShot,0.8819999694824219,0.7180000305175781,0.03883190080523491,Jamal Lewis,h,7691,OpenPlay,2020,RightFoot,14688,Newcastle United,Wolverhampton Wanderers,1,1,2021-02-27 20:00:00,Allan Saint-Maximin,TakeOn,7691

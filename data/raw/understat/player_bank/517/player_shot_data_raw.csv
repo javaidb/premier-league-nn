@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15484,39,BlockedShot,0.885,0.5570000076293945,0.11810299754142761,Joe Ledley,a,517,OpenPlay,2014,LeftFoot,4738,Everton,Crystal Palace,2,3,2014-09-21 16:00:00,Yannick Bolasie,Pass,517
+15727,26,BlockedShot,0.9209999847412109,0.4370000076293945,0.026475999504327774,Joe Ledley,h,517,FromCorner,2014,Head,4743,Crystal Palace,Leicester,2,0,2014-09-27 15:00:00,Jason Puncheon,Aerial,517
+16386,77,Goal,0.9,0.5109999847412109,0.33695998787879944,Joe Ledley,h,517,OpenPlay,2014,LeftFoot,4676,Crystal Palace,Liverpool,3,1,2014-11-23 13:30:00,Yannick Bolasie,Cross,517
+16391,91,MissedShots,0.825999984741211,0.5790000152587891,0.08214999735355377,Joe Ledley,h,517,OpenPlay,2014,LeftFoot,4676,Crystal Palace,Liverpool,3,1,2014-11-23 13:30:00,James McArthur,Pass,517
+20193,19,MissedShots,0.855,0.5259999847412109,0.0537491999566555,Joe Ledley,a,517,FromCorner,2014,LeftFoot,4602,Tottenham,Crystal Palace,0,0,2014-12-06 15:00:00,Yannick Bolasie,Pass,517
+20212,81,MissedShots,0.8969999694824219,0.6370000076293946,0.34278398752212524,Joe Ledley,a,517,OpenPlay,2014,LeftFoot,4602,Tottenham,Crystal Palace,0,0,2014-12-06 15:00:00,Jason Puncheon,TakeOn,517
+17553,28,MissedShots,0.7169999694824218,0.5870000076293945,0.013228599913418293,Joe Ledley,h,517,OpenPlay,2014,LeftFoot,4635,Crystal Palace,Southampton,1,3,2014-12-26 15:00:00,,None,517
+17698,46,SavedShot,0.9590000152587891,0.4640000152587891,0.059279099106788635,Joe Ledley,h,517,FromCorner,2014,Head,4568,Crystal Palace,Tottenham,2,1,2015-01-10 17:30:00,Jason Puncheon,Challenge,517
+23108,54,Goal,0.9530000305175781,0.534000015258789,0.4138540029525757,Joe Ledley,a,517,FromCorner,2014,Head,4518,Leicester,Crystal Palace,0,1,2015-02-07 15:00:00,Brede Hangeland,HeadPass,517
+24213,13,MissedShots,0.9209999847412109,0.5529999923706055,0.11848799884319305,Joe Ledley,h,517,SetPiece,2014,Head,4533,Crystal Palace,Newcastle United,1,1,2015-02-11 20:00:00,Jason Puncheon,Cross,517
+22600,73,MissedShots,0.775,0.539000015258789,0.01993050053715706,Joe Ledley,h,517,OpenPlay,2014,LeftFoot,4493,Crystal Palace,Queens Park Rangers,3,1,2015-03-14 12:45:00,,Rebound,517
+20717,38,MissedShots,0.8219999694824218,0.4779999923706055,0.04995249956846237,Joe Ledley,a,517,SetPiece,2014,LeftFoot,4406,Chelsea,Crystal Palace,1,0,2015-05-03 13:30:00,,None,517
+22397,27,MissedShots,0.85,0.5540000152587891,0.0586359016597271,Joe Ledley,a,517,OpenPlay,2014,LeftFoot,4425,Liverpool,Crystal Palace,1,3,2015-05-16 17:30:00,,None,517
+52256,58,BlockedShot,0.7530000305175781,0.455,0.02067580074071884,Joe Ledley,a,517,OpenPlay,2015,LeftFoot,292,Manchester City,Crystal Palace,4,0,2016-01-16 19:00:00,Connor Wickham,LayOff,517
+53866,40,BlockedShot,0.745999984741211,0.6329999923706054,0.022360600531101227,Joe Ledley,h,517,OpenPlay,2015,LeftFoot,302,Crystal Palace,Tottenham,1,3,2016-01-23 19:00:00,,None,517
+60303,49,BlockedShot,0.855,0.524000015258789,0.07383029907941818,Joe Ledley,a,517,SetPiece,2015,RightFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,,Rebound,517
+60309,72,MissedShots,0.7559999847412109,0.625999984741211,0.012571199797093868,Joe Ledley,a,517,OpenPlay,2015,LeftFoot,346,West Bromwich Albion,Crystal Palace,3,2,2016-02-27 21:30:00,,None,517
+59729,44,MissedShots,0.87,0.45799999237060546,0.08287440240383148,Joe Ledley,h,517,OpenPlay,2015,RightFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,Joel Ward,Rebound,517
+59733,47,Goal,0.845,0.45599998474121095,0.062284499406814575,Joe Ledley,h,517,FromCorner,2015,LeftFoot,367,Crystal Palace,Liverpool,1,2,2016-03-06 17:30:00,,Rebound,517
+60317,1,SavedShot,0.865,0.515,0.031442999839782715,Joe Ledley,a,517,OpenPlay,2015,Head,390,West Ham,Crystal Palace,2,2,2016-04-02 18:00:00,Joel Ward,Cross,517
+113904,60,Goal,0.8059999847412109,0.4759999847412109,0.044123001396656036,Joe Ledley,a,517,OpenPlay,2016,LeftFoot,514,Sunderland,Crystal Palace,2,3,2016-09-24 18:00:00,James McArthur,Pass,517
+117921,45,MissedShots,0.789000015258789,0.66,0.022688400000333786,Joe Ledley,h,517,OpenPlay,2016,LeftFoot,3130,Crystal Palace,Manchester United,1,2,2016-12-15 00:00:00,Christian Benteke,Pass,517
+118068,62,BlockedShot,0.865999984741211,0.455,0.06629779934883118,Joe Ledley,h,517,OpenPlay,2016,LeftFoot,3337,Crystal Palace,Swansea,1,2,2017-01-04 00:00:00,,None,517

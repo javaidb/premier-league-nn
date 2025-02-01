@@ -1,0 +1,52 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+41465,86,BlockedShot,0.885,0.2879999923706055,0.060036901384592056,Stephan Lichtsteiner,a,1303,OpenPlay,2014,RightFoot,5149,Chievo,Juventus,0,1,2014-08-30 17:00:00,Roberto Pereyra,Pass,1303
+41803,35,MissedShots,0.840999984741211,0.500999984741211,0.11950299888849258,Stephan Lichtsteiner,h,1303,OpenPlay,2014,RightFoot,5110,Juventus,Udinese,2,0,2014-09-13 19:45:00,Fernando Llorente,LayOff,1303
+42321,7,MissedShots,0.774000015258789,0.2929999923706055,0.01175410021096468,Stephan Lichtsteiner,h,1303,SetPiece,2014,LeftFoot,5133,Juventus,Cesena,3,0,2014-09-24 19:45:00,,None,1303
+42345,84,Goal,0.9159999847412109,0.3579999923706055,0.10120999813079834,Stephan Lichtsteiner,h,1303,OpenPlay,2014,RightFoot,5133,Juventus,Cesena,3,0,2014-09-24 19:45:00,Simone Padoin,Pass,1303
+43206,38,SavedShot,0.904000015258789,0.3060000038146973,0.0536516010761261,Stephan Lichtsteiner,a,1303,OpenPlay,2014,RightFoot,5080,Sassuolo,Juventus,1,1,2014-10-18 19:45:00,Andrea Pirlo,Pass,1303
+43615,9,BlockedShot,0.8,0.29600000381469727,0.04058549925684929,Stephan Lichtsteiner,a,1303,FromCorner,2014,RightFoot,5107,Genoa,Juventus,1,0,2014-10-29 19:45:00,Kwadwo Asamoah,TakeOn,1303
+43624,49,MissedShots,0.7480000305175781,0.33599998474121096,0.013715500012040138,Stephan Lichtsteiner,a,1303,OpenPlay,2014,LeftFoot,5107,Genoa,Juventus,1,0,2014-10-29 19:45:00,Fernando Llorente,LayOff,1303
+44191,28,Goal,0.7980000305175782,0.3770000076293945,0.046956900507211685,Stephan Lichtsteiner,h,1303,OpenPlay,2014,RightFoot,5045,Juventus,Parma,7,0,2014-11-09 14:00:00,,None,1303
+44661,42,BlockedShot,0.76,0.35900001525878905,0.013021600432693958,Stephan Lichtsteiner,h,1303,SetPiece,2014,RightFoot,5067,Juventus,Torino,2,1,2014-11-30 17:00:00,,None,1303
+46424,72,Goal,0.965999984741211,0.4540000152587891,0.6594780087471008,Stephan Lichtsteiner,h,1303,OpenPlay,2014,RightFoot,4992,Juventus,Chievo,2,0,2015-01-25 14:00:00,,Rebound,1303
+46742,2,MissedShots,0.8830000305175781,0.4,0.019672200083732605,Stephan Lichtsteiner,a,1303,OpenPlay,2014,Head,4920,Udinese,Juventus,0,0,2015-02-01 14:00:00,Patrice Evra,Cross,1303
+47482,50,MissedShots,0.784000015258789,0.28899999618530275,0.01428260002285242,Stephan Lichtsteiner,a,1303,OpenPlay,2014,LeftFoot,4888,Roma,Juventus,1,1,2015-03-02 19:45:00,Claudio Marchisio,Chipped,1303
+48472,12,MissedShots,0.775,0.24799999237060547,0.014475899748504162,Stephan Lichtsteiner,a,1303,OpenPlay,2014,RightFoot,4899,Palermo,Juventus,0,1,2015-03-14 17:00:00,Roberto Pereyra,BallRecovery,1303
+48479,42,MissedShots,0.779000015258789,0.26399999618530273,0.01370370015501976,Stephan Lichtsteiner,a,1303,OpenPlay,2014,LeftFoot,4899,Palermo,Juventus,0,1,2015-03-14 17:00:00,Roberto Pereyra,TakeOn,1303
+48484,65,BlockedShot,0.96,0.42900001525878906,0.055132899433374405,Stephan Lichtsteiner,a,1303,FromCorner,2014,Head,4899,Palermo,Juventus,0,1,2015-03-14 17:00:00,Claudio Marchisio,Aerial,1303
+48993,26,MissedShots,0.8669999694824219,0.245,0.04028540104627609,Stephan Lichtsteiner,h,1303,OpenPlay,2014,LeftFoot,4912,Juventus,Genoa,1,0,2015-03-22 14:00:00,,BallRecovery,1303
+48033,20,MissedShots,0.8930000305175781,0.6179999923706054,0.11015299707651138,Stephan Lichtsteiner,h,1303,OpenPlay,2014,LeftFoot,4838,Juventus,Empoli,2,0,2015-04-04 20:00:00,,TakeOn,1303
+48040,33,SavedShot,0.9569999694824218,0.46099998474121096,0.6125029921531677,Stephan Lichtsteiner,h,1303,OpenPlay,2014,RightFoot,4838,Juventus,Empoli,2,0,2015-04-04 20:00:00,Arturo Vidal,None,1303
+51075,61,MissedShots,0.9130000305175782,0.43099998474121093,0.029622100293636322,Stephan Lichtsteiner,a,1303,OpenPlay,2014,Head,4865,Torino,Juventus,2,1,2015-04-26 14:00:00,Simone Padoin,Aerial,1303
+50001,44,BlockedShot,0.784000015258789,0.3120000076293945,0.021344399079680443,Stephan Lichtsteiner,a,1303,OpenPlay,2014,RightFoot,4799,Inter,Juventus,1,2,2015-05-16 17:00:00,Claudio Marchisio,Pass,1303
+50295,76,MissedShots,0.7930000305175782,0.34700000762939454,0.0243282001465559,Stephan Lichtsteiner,a,1303,OpenPlay,2014,RightFoot,4819,Verona,Juventus,2,2,2015-05-30 17:00:00,Roberto Pereyra,Cross,1303
+93201,18,BlockedShot,0.9059999847412109,0.27899999618530275,0.05218660086393356,Stephan Lichtsteiner,h,1303,OpenPlay,2015,RightFoot,553,Juventus,Udinese,0,1,2015-08-23 20:00:00,Mario Mandzukic,HeadPass,1303
+93209,32,SavedShot,0.9,0.315,0.06887780129909515,Stephan Lichtsteiner,h,1303,OpenPlay,2015,RightFoot,553,Juventus,Udinese,0,1,2015-08-23 20:00:00,Roberto Pereyra,Pass,1303
+95668,11,MissedShots,0.7559999847412109,0.4520000076293945,0.017719000577926636,Stephan Lichtsteiner,h,1303,FromCorner,2015,RightFoot,599,Juventus,Frosinone,1,1,2015-09-23 22:45:00,,None,1303
+95672,21,BlockedShot,0.7480000305175781,0.3509999847412109,0.02444400079548359,Stephan Lichtsteiner,h,1303,FromCorner,2015,RightFoot,599,Juventus,Frosinone,1,1,2015-09-23 22:45:00,Roberto Pereyra,Pass,1303
+98744,83,SavedShot,0.95,0.4470000076293945,0.43977200984954834,Stephan Lichtsteiner,a,1303,OpenPlay,2015,RightFoot,667,Empoli,Juventus,1,3,2015-11-08 18:00:00,Paul Pogba,Chipped,1303
+101871,2,MissedShots,0.925,0.695,0.05542939901351929,Stephan Lichtsteiner,h,1303,OpenPlay,2015,LeftFoot,725,Juventus,Verona,3,0,2016-01-06 18:00:00,Paulo Dybala,Pass,1303
+94583,54,BlockedShot,0.7669999694824219,0.4909999847412109,0.012071600183844566,Stephan Lichtsteiner,a,1303,SetPiece,2015,RightFoot,764,Chievo,Juventus,0,4,2016-01-31 15:30:00,,Aerial,1303
+98635,37,MissedShots,0.7680000305175781,0.2989999961853027,0.016612499952316284,Stephan Lichtsteiner,a,1303,OpenPlay,2015,LeftFoot,847,Torino,Juventus,1,4,2016-03-20 18:00:00,Álvaro Morata,TakeOn,1303
+98958,11,SavedShot,0.75,0.5129999923706055,0.023571200668811798,Stephan Lichtsteiner,h,1303,FromCorner,2015,RightFoot,852,Juventus,Empoli,1,0,2016-04-02 22:45:00,Paul Pogba,Pass,1303
+98965,27,SavedShot,0.76,0.39799999237060546,0.02286529913544655,Stephan Lichtsteiner,h,1303,OpenPlay,2015,RightFoot,852,Juventus,Empoli,1,0,2016-04-02 22:45:00,Paul Pogba,Pass,1303
+99659,21,SavedShot,0.9030000305175782,0.3920000076293945,0.0948989987373352,Stephan Lichtsteiner,a,1303,OpenPlay,2015,LeftFoot,864,AC Milan,Juventus,1,2,2016-04-09 22:45:00,Álvaro Morata,Pass,1303
+99666,45,MissedShots,0.9169999694824219,0.295,0.11451099812984467,Stephan Lichtsteiner,a,1303,OpenPlay,2015,RightFoot,864,AC Milan,Juventus,1,2,2016-04-09 22:45:00,Paul Pogba,Throughball,1303
+102851,28,SavedShot,0.8919999694824219,0.52,0.01742660067975521,Stephan Lichtsteiner,h,1303,FromCorner,2015,Head,921,Juventus,Sampdoria,5,0,2016-05-14 19:00:00,Paulo Dybala,Aerial,1303
+102853,31,ShotOnPost,0.9380000305175781,0.5609999847412109,0.0897073969244957,Stephan Lichtsteiner,h,1303,OpenPlay,2015,Head,921,Juventus,Sampdoria,5,0,2016-05-14 19:00:00,Paulo Dybala,Chipped,1303
+102865,61,MissedShots,0.8930000305175781,0.31,0.08412659913301468,Stephan Lichtsteiner,h,1303,OpenPlay,2015,RightFoot,921,Juventus,Sampdoria,5,0,2016-05-14 19:00:00,Paul Pogba,Chipped,1303
+102869,70,BlockedShot,0.8580000305175781,0.3029999923706055,0.0727187991142273,Stephan Lichtsteiner,h,1303,OpenPlay,2015,RightFoot,921,Juventus,Sampdoria,5,0,2016-05-14 19:00:00,Mario Mandzukic,LayOff,1303
+145466,67,SavedShot,0.9259999847412109,0.5209999847412109,0.5906429886817932,Stephan Lichtsteiner,h,1303,OpenPlay,2016,LeftFoot,951,Juventus,Sassuolo,3,1,2016-09-10 20:00:00,Gonzalo Higuaín,Rebound,1303
+145937,65,Goal,0.9619999694824218,0.48200000762939454,0.6154329776763916,Stephan Lichtsteiner,a,1303,OpenPlay,2016,RightFoot,968,Inter,Juventus,2,1,2016-09-18 20:00:00,Alex Sandro,Cross,1303
+148071,33,MissedShots,0.924000015258789,0.3220000076293945,0.06327089667320251,Stephan Lichtsteiner,h,1303,OpenPlay,2016,RightFoot,1002,Juventus,Udinese,2,1,2016-10-15 22:45:00,Mario Mandzukic,Pass,1303
+149680,19,MissedShots,0.8540000152587891,0.295,0.03559570014476776,Stephan Lichtsteiner,h,1303,OpenPlay,2016,RightFoot,3291,Juventus,Napoli,2,1,2016-10-29 22:45:00,,None,1303
+153880,13,MissedShots,0.9069999694824219,0.435,0.09108150005340576,Stephan Lichtsteiner,h,1303,FromCorner,2016,LeftFoot,3529,Juventus,Bologna,3,0,2017-01-08 23:45:00,Stefano Sturaro,HeadPass,1303
+152760,29,SavedShot,0.8480000305175781,0.305,0.03182649984955788,Stephan Lichtsteiner,h,1303,SetPiece,2016,RightFoot,3691,Juventus,Torino,1,1,2017-05-06 19:45:00,Paulo Dybala,Pass,1303
+173544,27,BlockedShot,0.7619999694824219,0.31799999237060544,0.024567700922489166,Stephan Lichtsteiner,a,1303,OpenPlay,2017,RightFoot,7536,Sassuolo,Juventus,1,3,2017-09-17 11:30:00,Miralem Pjanic,Pass,1303
+175151,4,BlockedShot,0.795,0.2929999923706055,0.02419169992208481,Stephan Lichtsteiner,h,1303,OpenPlay,2017,RightFoot,7596,Juventus,SPAL 2013,4,1,2017-10-25 19:45:00,Paulo Dybala,Pass,1303
+215954,22,MissedShots,0.7669999694824219,0.29200000762939454,0.010996700264513493,Stephan Lichtsteiner,h,1303,OpenPlay,2017,LeftFoot,7874,Juventus,Verona,2,1,2018-05-19 00:00:00,Alex Sandro,Chipped,1303
+215982,84,SavedShot,0.885,0.5,0.7612990140914917,Stephan Lichtsteiner,h,1303,Penalty,2017,RightFoot,7874,Juventus,Verona,2,1,2018-05-19 00:00:00,,Standard,1303
+249453,12,MissedShots,0.735,0.649000015258789,0.018410900607705116,Stephan Lichtsteiner,h,1303,OpenPlay,2018,RightFoot,9286,Arsenal,Leicester,3,1,2018-10-22 19:00:00,Granit Xhaka,Pass,1303
+320311,9,MissedShots,0.749000015258789,0.44,0.01402520015835762,Stephan Lichtsteiner,a,1303,SetPiece,2019,RightFoot,12441,Freiburg,Augsburg,1,1,2019-09-21 13:30:00,,None,1303
+329960,45,OwnGoal,0.06400000095367432,0.41400001525878904,0,Stephan Lichtsteiner,h,1303,SetPiece,2019,Head,12491,Augsburg,Schalke 04,2,3,2019-11-03 17:00:00,,Foul,1303
+354862,17,MissedShots,0.754000015258789,0.4909999847412109,0.014311299659311771,Stephan Lichtsteiner,h,1303,FromCorner,2019,RightFoot,12562,Augsburg,Borussia Dortmund,3,5,2020-01-18 14:30:00,,Aerial,1303

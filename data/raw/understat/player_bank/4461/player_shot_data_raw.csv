@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+17933,78,MissedShots,0.8819999694824219,0.5879999923706055,0.11326699703931808,Tom Lawrence,h,4461,OpenPlay,2014,RightFoot,4567,Leicester,Aston Villa,1,0,2015-01-10 15:00:00,David Nugent,Pass,4461
+17936,89,BlockedShot,0.8530000305175781,0.6370000076293946,0.09485290199518204,Tom Lawrence,h,4461,OpenPlay,2014,RightFoot,4567,Leicester,Aston Villa,1,0,2015-01-10 15:00:00,Anthony Knockaert,Pass,4461
+22890,83,MissedShots,0.7930000305175782,0.685,0.0254891999065876,Tom Lawrence,h,4461,OpenPlay,2014,RightFoot,4495,Leicester,Hull,0,0,2015-03-14 15:00:00,Riyad Mahrez,Pass,4461

@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1004,Joe Cole,12,263,1,0.2769546937197447,1,0.45160370226949453,4,7,0,0,F M S,Aston Villa,1,0.2769546937197447,0.664939814247191,0.2615206213667989,2014

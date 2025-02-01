@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+2265,Filipe Luis,15,940,0,0.2597896968945861,0,0.49444039911031723,5,10,1,0,D S,Chelsea,0,0.2597896968945861,4.816306881606579,4.59536337852478,2014

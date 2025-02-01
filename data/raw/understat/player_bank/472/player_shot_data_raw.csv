@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+51780,62,MissedShots,0.9440000152587891,0.33099998474121095,0.07165630161762238,Eunan O&#039;Kane,a,472,OpenPlay,2015,RightFoot,100,Liverpool,Bournemouth,1,0,2015-08-17 23:00:00,Callum Wilson,Pass,472
+51787,83,BlockedShot,0.720999984741211,0.500999984741211,0.014533599838614464,Eunan O&#039;Kane,a,472,OpenPlay,2015,RightFoot,100,Liverpool,Bournemouth,1,0,2015-08-17 23:00:00,Andrew Surman,HeadPass,472
+58691,89,SavedShot,0.8540000152587891,0.6880000305175781,0.03557579964399338,Eunan O&#039;Kane,h,472,OpenPlay,2015,RightFoot,153,Bournemouth,Watford,1,1,2015-10-03 18:00:00,Andrew Surman,TakeOn,472
+53934,50,SavedShot,0.805,0.49599998474121093,0.06946849822998047,Eunan O&#039;Kane,h,472,OpenPlay,2015,RightFoot,255,Bournemouth,Crystal Palace,0,0,2015-12-26 19:00:00,Simon Francis,TakeOn,472
+52323,80,MissedShots,0.850999984741211,0.6140000152587891,0.06898190081119537,Eunan O&#039;Kane,a,472,OpenPlay,2015,RightFoot,266,Arsenal,Bournemouth,2,0,2015-12-28 21:30:00,Charlie Daniels,Pass,472
+59605,68,MissedShots,0.9259999847412109,0.655,0.2557780146598816,Eunan O&#039;Kane,h,472,OpenPlay,2015,RightFoot,386,Bournemouth,Manchester City,0,4,2016-04-02 18:00:00,,None,472

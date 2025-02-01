@@ -1,0 +1,94 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14499,55,Goal,0.9009999847412109,0.38,0.33073899149894714,Nathaniel Clyne,a,603,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Dusan Tadic,Pass,603
+16911,20,SavedShot,0.7619999694824219,0.41700000762939454,0.024305399507284164,Nathaniel Clyne,h,603,FromCorner,2014,RightFoot,4663,Southampton,Leicester,2,0,2014-11-08 15:00:00,Dusan Tadic,Pass,603
+16923,59,SavedShot,0.795,0.3320000076293945,0.01883940026164055,Nathaniel Clyne,h,603,FromCorner,2014,RightFoot,4663,Southampton,Leicester,2,0,2014-11-08 15:00:00,,None,603
+16190,76,MissedShots,0.77,0.44599998474121094,0.019965000450611115,Nathaniel Clyne,a,603,FromCorner,2014,RightFoot,4678,Aston Villa,Southampton,1,1,2014-11-24 20:00:00,,None,603
+16193,80,Goal,0.8530000305175781,0.44,0.06077510118484497,Nathaniel Clyne,a,603,OpenPlay,2014,RightFoot,4678,Aston Villa,Southampton,1,1,2014-11-24 20:00:00,Ryan Bertrand,Cross,603
+20160,84,MissedShots,0.7609999847412109,0.4929999923706055,0.02512669935822487,Nathaniel Clyne,h,603,FromCorner,2014,RightFoot,4608,Southampton,Manchester United,1,2,2014-12-08 20:00:00,Steven Davis,Pass,603
+17736,86,MissedShots,0.7659999847412109,0.3139999961853027,0.020700300112366676,Nathaniel Clyne,a,603,FromCorner,2014,RightFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,Steven Davis,Pass,603
+19293,69,MissedShots,0.73,0.35,0.018302399665117264,Nathaniel Clyne,h,603,OpenPlay,2014,RightFoot,4623,Southampton,Everton,3,0,2014-12-20 15:00:00,James Ward-Prowse,Pass,603
+17562,59,SavedShot,0.7619999694824219,0.4129999923706055,0.029654499143362045,Nathaniel Clyne,a,603,OpenPlay,2014,RightFoot,4635,Crystal Palace,Southampton,1,3,2014-12-26 15:00:00,Victor Wanyama,Pass,603
+18000,0,MissedShots,0.8859999847412109,0.27100000381469724,0.03539549931883812,Nathaniel Clyne,a,603,OpenPlay,2014,RightFoot,4570,Manchester United,Southampton,0,1,2015-01-11 16:00:00,Graziano Pellè,Pass,603
+24136,76,BlockedShot,0.735999984741211,0.39099998474121095,0.016267700120806694,Nathaniel Clyne,h,603,OpenPlay,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,Victor Wanyama,BlockedPass,603
+24137,77,BlockedShot,0.8969999694824219,0.47099998474121096,0.10976000130176544,Nathaniel Clyne,h,603,OpenPlay,2014,RightFoot,4532,Southampton,West Ham,0,0,2015-02-11 19:45:00,James Ward-Prowse,Dispossessed,603
+22496,28,MissedShots,0.8440000152587891,0.29600000381469727,0.023305099457502365,Nathaniel Clyne,h,603,FromCorner,2014,RightFoot,4506,Southampton,Burnley,2,0,2015-03-21 15:00:00,,None,603
+22498,36,BlockedShot,0.8430000305175781,0.3129999923706055,0.028443999588489532,Nathaniel Clyne,h,603,OpenPlay,2014,RightFoot,4506,Southampton,Burnley,2,0,2015-03-21 15:00:00,,Rebound,603
+22503,44,BlockedShot,0.710999984741211,0.3509999847412109,0.015787800773978233,Nathaniel Clyne,h,603,FromCorner,2014,RightFoot,4506,Southampton,Burnley,2,0,2015-03-21 15:00:00,Steven Davis,Cross,603
+21640,78,BlockedShot,0.8109999847412109,0.275,0.020996099337935448,Nathaniel Clyne,a,603,OpenPlay,2014,LeftFoot,4441,Everton,Southampton,1,0,2015-04-04 15:00:00,Graziano Pellè,Pass,603
+21539,34,MissedShots,0.9209999847412109,0.2589999961853027,0.04515799880027771,Nathaniel Clyne,a,603,OpenPlay,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Sadio Mané,Pass,603
+21758,41,MissedShots,0.7169999694824218,0.3139999961853027,0.00880734995007515,Nathaniel Clyne,a,603,SetPiece,2014,RightFoot,4402,Sunderland,Southampton,2,1,2015-05-02 15:00:00,,None,603
+20627,75,MissedShots,0.875,0.39,0.08353540301322937,Nathaniel Clyne,h,603,OpenPlay,2014,RightFoot,4419,Southampton,Aston Villa,6,1,2015-05-16 12:45:00,,None,603
+51791,87,MissedShots,0.7869999694824219,0.295,0.026128899306058884,Nathaniel Clyne,h,603,OpenPlay,2015,LeftFoot,100,Liverpool,Bournemouth,1,0,2015-08-17 23:00:00,,None,603
+56370,25,BlockedShot,0.8290000152587891,0.34200000762939453,0.041428301483392715,Nathaniel Clyne,a,603,OpenPlay,2015,LeftFoot,110,Arsenal,Liverpool,0,0,2015-08-24 23:00:00,Roberto Firmino,Pass,603
+57907,18,MissedShots,0.765,0.42700000762939455,0.012655699625611305,Nathaniel Clyne,a,603,OpenPlay,2015,RightFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,,Aerial,603
+58131,29,MissedShots,0.745,0.27100000381469724,0.010174600407481194,Nathaniel Clyne,h,603,OpenPlay,2015,RightFoot,140,Liverpool,Norwich,1,1,2015-09-20 19:00:00,,None,603
+58387,51,BlockedShot,0.955999984741211,0.3770000076293945,0.10294199734926224,Nathaniel Clyne,h,603,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,,Rebound,603
+59419,14,MissedShots,0.875,0.39099998474121095,0.08193530142307281,Nathaniel Clyne,a,603,OpenPlay,2015,RightFoot,181,Chelsea,Liverpool,1,3,2015-10-31 16:45:00,Adam Lallana,Pass,603
+55031,25,BlockedShot,0.8630000305175781,0.2589999961853027,0.02982419915497303,Nathaniel Clyne,h,603,OpenPlay,2015,RightFoot,200,Liverpool,Crystal Palace,1,2,2015-11-08 20:00:00,,Rebound,603
+55056,89,MissedShots,0.6909999847412109,0.45,0.012368899770081043,Nathaniel Clyne,h,603,FromCorner,2015,RightFoot,200,Liverpool,Crystal Palace,1,2,2015-11-08 20:00:00,,None,603
+54520,30,BlockedShot,0.7480000305175781,0.28899999618530275,0.014502700418233871,Nathaniel Clyne,a,603,OpenPlay,2015,RightFoot,229,Newcastle United,Liverpool,2,0,2015-12-06 20:00:00,Christian Benteke,Pass,603
+54072,9,MissedShots,0.7580000305175781,0.26600000381469724,0.011354800313711166,Nathaniel Clyne,h,603,OpenPlay,2015,RightFoot,238,Liverpool,West Bromwich Albion,2,2,2015-12-13 20:00:00,,Rebound,603
+54102,98,BlockedShot,0.735999984741211,0.345,0.017141200602054596,Nathaniel Clyne,h,603,OpenPlay,2015,RightFoot,238,Liverpool,West Bromwich Albion,2,2,2015-12-13 20:00:00,Emre Can,Pass,603
+53140,8,BlockedShot,0.815,0.28100000381469725,0.020983699709177017,Nathaniel Clyne,a,603,OpenPlay,2015,RightFoot,248,Watford,Liverpool,3,0,2015-12-20 17:30:00,,Dispossessed,603
+53828,4,SavedShot,0.700999984741211,0.4179999923706055,0.0144507996737957,Nathaniel Clyne,a,603,FromCorner,2015,RightFoot,270,Sunderland,Liverpool,0,1,2015-12-30 23:45:00,,BallTouch,603
+53888,6,BlockedShot,0.7819999694824219,0.26399999618530273,0.020053600892424583,Nathaniel Clyne,h,603,OpenPlay,2015,RightFoot,289,Liverpool,Arsenal,3,3,2016-01-14 00:00:00,,TakeOn,603
+56092,52,MissedShots,0.7040000152587891,0.46,0.013041100464761257,Nathaniel Clyne,h,603,FromCorner,2015,RightFoot,298,Liverpool,Manchester United,0,1,2016-01-17 18:05:00,,None,603
+54896,29,BlockedShot,0.745,0.3120000076293945,0.012400100007653236,Nathaniel Clyne,a,603,OpenPlay,2015,RightFoot,301,Norwich,Liverpool,4,5,2016-01-23 16:45:00,,None,603
+53467,81,BlockedShot,0.8569999694824219,0.29,0.03713209927082062,Nathaniel Clyne,a,603,OpenPlay,2015,RightFoot,312,Leicester,Liverpool,2,0,2016-02-02 23:45:00,James Milner,Pass,603
+54483,64,Goal,0.955,0.49700000762939456,0.6778489947319031,Nathaniel Clyne,a,603,SetPiece,2015,LeftFoot,339,Aston Villa,Liverpool,0,6,2016-02-14 18:05:00,,Rebound,603
+54482,64,SavedShot,0.9059999847412109,0.4490000152587891,0.10516999661922455,Nathaniel Clyne,a,603,SetPiece,2015,RightFoot,339,Aston Villa,Liverpool,0,6,2016-02-14 18:05:00,Roberto Firmino,Pass,603
+61186,92,SavedShot,0.7330000305175781,0.8030000305175782,0.014805000275373459,Nathaniel Clyne,h,603,OpenPlay,2015,RightFoot,357,Liverpool,Manchester City,3,0,2016-03-03 00:00:00,Emre Can,Pass,603
+60488,19,BlockedShot,0.7669999694824219,0.7559999847412109,0.020018400624394417,Nathaniel Clyne,a,603,OpenPlay,2015,RightFoot,380,Southampton,Liverpool,3,2,2016-03-20 17:30:00,Adam Lallana,Pass,603
+60508,67,SavedShot,0.8680000305175781,0.6359999847412109,0.08785580098628998,Nathaniel Clyne,a,603,OpenPlay,2015,RightFoot,380,Southampton,Liverpool,3,2,2016-03-20 17:30:00,Emre Can,Pass,603
+60630,45,SavedShot,0.8209999847412109,0.31799999237060544,0.04529239982366562,Nathaniel Clyne,h,603,OpenPlay,2015,RightFoot,403,Liverpool,Stoke,4,1,2016-04-10 19:00:00,,None,603
+60652,91,BlockedShot,0.8219999694824218,0.5720000076293945,0.11367800086736679,Nathaniel Clyne,h,603,OpenPlay,2015,RightFoot,403,Liverpool,Stoke,4,1,2016-04-10 19:00:00,Adam Lallana,TakeOn,603
+59574,42,BlockedShot,0.8280000305175781,0.345,0.034003499895334244,Nathaniel Clyne,h,603,SetPiece,2015,RightFoot,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,James Milner,Pass,603
+59593,73,MissedShots,0.88,0.2560000038146973,0.04895219951868057,Nathaniel Clyne,h,603,OpenPlay,2015,RightFoot,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,Philippe Coutinho,Pass,603
+59606,91,MissedShots,0.8619999694824219,0.5029999923706054,0.1398410052061081,Nathaniel Clyne,h,603,OpenPlay,2015,RightFoot,418,Liverpool,Everton,4,0,2016-04-20 23:00:00,Adam Lallana,Throughball,603
+57471,74,BlockedShot,0.7069999694824218,0.36,0.012447499670088291,Nathaniel Clyne,a,603,FromCorner,2015,RightFoot,433,Swansea,Liverpool,3,1,2016-05-01 15:00:00,,None,603
+61097,70,MissedShots,0.8630000305175781,0.2929999923706055,0.03675900027155876,Nathaniel Clyne,h,603,OpenPlay,2015,RightFoot,450,Liverpool,Chelsea,1,1,2016-05-11 23:00:00,,Rebound,603
+112089,12,SavedShot,0.8480000305175781,0.26399999618530273,0.02930689975619316,Nathaniel Clyne,a,603,OpenPlay,2016,RightFoot,469,Arsenal,Liverpool,3,4,2016-08-14 19:00:00,Jordan Henderson,Pass,603
+120552,38,SavedShot,0.8040000152587891,0.33099998474121095,0.03102399967610836,Nathaniel Clyne,a,603,OpenPlay,2016,LeftFoot,473,Burnley,Liverpool,2,0,2016-08-20 18:00:00,Adam Lallana,Pass,603
+120558,52,BlockedShot,0.725,0.46299999237060546,0.01217340026050806,Nathaniel Clyne,a,603,OpenPlay,2016,RightFoot,473,Burnley,Liverpool,2,0,2016-08-20 18:00:00,Georginio Wijnaldum,Pass,603
+120567,89,MissedShots,0.7519999694824219,0.385,0.018675200641155243,Nathaniel Clyne,a,603,OpenPlay,2016,RightFoot,473,Burnley,Liverpool,2,0,2016-08-20 18:00:00,Jordan Henderson,Pass,603
+113088,53,BlockedShot,0.88,0.24399999618530274,0.02976980060338974,Nathaniel Clyne,a,603,OpenPlay,2016,RightFoot,481,Tottenham,Liverpool,1,1,2016-08-27 15:30:00,Philippe Coutinho,Chipped,603
+113094,79,MissedShots,0.7930000305175782,0.3890000152587891,0.032924700528383255,Nathaniel Clyne,a,603,OpenPlay,2016,LeftFoot,481,Tottenham,Liverpool,1,1,2016-08-27 15:30:00,Adam Lallana,Pass,603
+113794,46,MissedShots,0.9230000305175782,0.41900001525878905,0.14196400344371796,Nathaniel Clyne,h,603,OpenPlay,2016,RightFoot,516,Liverpool,Hull,5,1,2016-09-24 18:00:00,Sadio Mané,Pass,603
+114493,67,SavedShot,0.77,0.3,0.01915000006556511,Nathaniel Clyne,a,603,OpenPlay,2016,RightFoot,522,Swansea,Liverpool,1,2,2016-10-01 15:30:00,Georginio Wijnaldum,Pass,603
+113991,77,BlockedShot,0.7809999847412109,0.31799999237060544,0.01687219925224781,Nathaniel Clyne,h,603,OpenPlay,2016,RightFoot,540,Liverpool,Manchester United,0,0,2016-10-17 23:00:00,Philippe Coutinho,Pass,603
+113994,82,BlockedShot,0.865,0.26,0.02020920068025589,Nathaniel Clyne,h,603,OpenPlay,2016,RightFoot,540,Liverpool,Manchester United,0,0,2016-10-17 23:00:00,James Milner,Cross,603
+114456,37,MissedShots,0.860999984741211,0.3340000152587891,0.0756525993347168,Nathaniel Clyne,h,603,OpenPlay,2016,RightFoot,548,Liverpool,West Bromwich Albion,2,1,2016-10-22 20:30:00,Roberto Firmino,Pass,603
+115626,79,MissedShots,0.9390000152587891,0.45099998474121095,0.4132309854030609,Nathaniel Clyne,a,603,OpenPlay,2016,Head,2698,Southampton,Liverpool,0,0,2016-11-19 19:00:00,Daniel Sturridge,Cross,603
+115226,0,MissedShots,0.799000015258789,0.24399999618530274,0.0169856995344162,Nathaniel Clyne,h,603,OpenPlay,2016,RightFoot,2710,Liverpool,Sunderland,2,0,2016-11-26 19:00:00,,Dispossessed,603
+115258,91,MissedShots,0.77,0.27899999618530275,0.01749590039253235,Nathaniel Clyne,h,603,OpenPlay,2016,RightFoot,2710,Liverpool,Sunderland,2,0,2016-11-26 19:00:00,Lucas Leiva,Pass,603
+115482,61,MissedShots,0.8380000305175781,0.2610000038146973,0.0316024012863636,Nathaniel Clyne,a,603,OpenPlay,2016,RightFoot,3112,Bournemouth,Liverpool,4,3,2016-12-04 17:30:00,Roberto Firmino,Pass,603
+117046,82,MissedShots,0.8590000152587891,0.38799999237060545,0.06709150224924088,Nathaniel Clyne,h,603,OpenPlay,2016,RightFoot,3124,Liverpool,West Ham,2,2,2016-12-11 20:30:00,Adam Lallana,Pass,603
+118516,49,BlockedShot,0.8680000305175781,0.3579999923706055,0.06405790150165558,Nathaniel Clyne,a,603,OpenPlay,2016,RightFoot,3144,Everton,Liverpool,0,1,2016-12-20 00:00:00,Sadio Mané,Pass,603
+117504,45,MissedShots,0.89,0.4540000152587891,0.1024480015039444,Nathaniel Clyne,h,603,OpenPlay,2016,LeftFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,Roberto Firmino,Cross,603
+118434,76,BlockedShot,0.7559999847412109,0.26799999237060546,0.013174699619412422,Nathaniel Clyne,h,603,FromCorner,2016,RightFoot,3350,Liverpool,Swansea,2,3,2017-01-21 15:30:00,,None,603
+117652,36,SavedShot,0.870999984741211,0.2560000038146973,0.049118898808956146,Nathaniel Clyne,h,603,OpenPlay,2016,RightFoot,3386,Liverpool,Tottenham,2,0,2017-02-11 17:30:00,Philippe Coutinho,Pass,603
+118553,85,BlockedShot,0.8980000305175782,0.2589999961853027,0.03650389984250069,Nathaniel Clyne,a,603,OpenPlay,2016,RightFoot,3399,Leicester,Liverpool,3,1,2017-02-27 20:00:00,Roberto Firmino,Pass,603
+119609,47,SavedShot,0.8190000152587891,0.2670000076293945,0.016808800399303436,Nathaniel Clyne,h,603,OpenPlay,2016,RightFoot,3449,Liverpool,Bournemouth,2,2,2017-04-05 20:00:00,Roberto Firmino,Chipped,603
+119611,55,MissedShots,0.825999984741211,0.32799999237060545,0.03720460087060928,Nathaniel Clyne,h,603,OpenPlay,2016,LeftFoot,3449,Liverpool,Bournemouth,2,2,2017-04-05 20:00:00,Philippe Coutinho,Pass,603
+121129,43,BlockedShot,0.8040000152587891,0.24700000762939453,0.018456099554896355,Nathaniel Clyne,a,603,OpenPlay,2016,RightFoot,3488,Watford,Liverpool,0,1,2017-05-01 20:00:00,Roberto Firmino,Pass,603
+112501,5,MissedShots,0.885,0.4209999847412109,0.08114899694919586,Nathaniel Clyne,h,603,OpenPlay,2016,RightFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,,None,603
+112520,52,MissedShots,0.8580000305175781,0.3629999923706055,0.041012901812791824,Nathaniel Clyne,h,603,OpenPlay,2016,RightFoot,3515,Liverpool,Middlesbrough,3,0,2017-05-21 15:00:00,,Rebound,603
+211494,66,SavedShot,0.915,0.41200000762939454,0.043438300490379333,Nathaniel Clyne,h,603,OpenPlay,2017,Head,7472,Liverpool,Stoke,0,0,2018-04-28 11:30:00,Ragnar Klavan,Chipped,603
+211500,89,BlockedShot,0.87,0.40200000762939453,0.06938090175390244,Nathaniel Clyne,h,603,OpenPlay,2017,RightFoot,7472,Liverpool,Stoke,0,0,2018-04-28 11:30:00,,None,603
+251461,55,BlockedShot,0.7,0.38,0.013827499933540821,Nathaniel Clyne,h,603,OpenPlay,2018,RightFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,Virgil van Dijk,Pass,603
+251462,56,MissedShots,0.7269999694824218,0.42900001525878906,0.014313600026071072,Nathaniel Clyne,h,603,FromCorner,2018,RightFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,,None,603
+251908,92,SavedShot,0.8380000305175781,0.6780000305175782,0.053803399205207825,Nathaniel Clyne,h,603,OpenPlay,2018,RightFoot,9381,Liverpool,Newcastle United,4,0,2018-12-26 15:00:00,Xherdan Shaqiri,Pass,603
+284500,68,MissedShots,0.89,0.36,0.10182800143957138,Nathaniel Clyne,a,603,OpenPlay,2018,RightFoot,9492,Huddersfield,Bournemouth,0,2,2019-03-09 15:00:00,Dominic Solanke,Pass,603
+299111,70,MissedShots,0.925,0.3729999923706055,0.08090929687023163,Nathaniel Clyne,h,603,OpenPlay,2018,RightFoot,9565,Bournemouth,Tottenham,1,0,2019-05-04 11:30:00,,Rebound,603
+384365,54,BlockedShot,0.840999984741211,0.37599998474121094,0.03140290081501007,Nathaniel Clyne,a,603,OpenPlay,2020,RightFoot,14504,Wolverhampton Wanderers,Crystal Palace,2,0,2020-10-30 20:00:00,Wilfried Zaha,Cross,603
+388331,1,SavedShot,0.7669999694824219,0.315,0.018924599513411522,Nathaniel Clyne,a,603,OpenPlay,2020,RightFoot,14516,Burnley,Crystal Palace,1,0,2020-11-23 17:30:00,James McArthur,Pass,603
+401695,9,MissedShots,0.8069999694824219,0.31799999237060544,0.025327300652861595,Nathaniel Clyne,h,603,OpenPlay,2020,RightFoot,14638,Crystal Palace,Wolverhampton Wanderers,1,0,2021-01-30 15:00:00,Michy Batshuayi,Pass,603
+401697,41,MissedShots,0.8319999694824218,0.3629999923706055,0.047279201447963715,Nathaniel Clyne,h,603,OpenPlay,2020,RightFoot,14638,Crystal Palace,Wolverhampton Wanderers,1,0,2021-01-30 15:00:00,Patrick van Aanholt,Pass,603
+459817,17,SavedShot,0.700999984741211,0.3679999923706055,0.014714299701154232,Nathaniel Clyne,h,603,OpenPlay,2021,RightFoot,16640,Crystal Palace,Burnley,1,1,2022-02-26 15:00:00,,BallRecovery,603
+476373,37,SavedShot,0.7619999694824219,0.4209999847412109,0.023566700518131256,Nathaniel Clyne,a,603,OpenPlay,2021,RightFoot,16745,Aston Villa,Crystal Palace,1,1,2022-05-15 13:00:00,Jean-Philippe Mateta,Pass,603
+476375,42,MissedShots,0.8109999847412109,0.3189999961853027,0.028743300586938858,Nathaniel Clyne,a,603,OpenPlay,2021,RightFoot,16745,Aston Villa,Crystal Palace,1,1,2022-05-15 13:00:00,Eberechi Eze,Pass,603
+542841,80,MissedShots,0.845,0.38299999237060545,0.0418425016105175,Nathaniel Clyne,h,603,FromCorner,2023,RightFoot,21968,Crystal Palace,Nottingham Forest,0,0,2023-10-07 16:30:00,,None,603
+558832,31,MissedShots,0.740999984741211,0.3110000038146973,0.011621417477726936,Nathaniel Clyne,a,603,SetPiece,2023,RightFoot,22103,Arsenal,Crystal Palace,5,0,2024-01-20 12:30:00,,Rebound,603
+576754,24,MissedShots,0.715,0.44299999237060544,0.01484264712780714,Nathaniel Clyne,a,603,OpenPlay,2023,RightFoot,22238,Fulham,Crystal Palace,1,1,2024-04-27 14:00:00,,BallRecovery,603
+579849,27,BlockedShot,0.9009999847412109,0.4209999847412109,0.11445742100477219,Nathaniel Clyne,a,603,OpenPlay,2023,RightFoot,22264,Wolverhampton Wanderers,Crystal Palace,1,3,2024-05-11 14:00:00,Michael Olise,Chipped,603
+595238,74,MissedShots,0.7180000305175781,0.4620000076293945,0.01046830415725708,Nathaniel Clyne,h,603,SetPiece,2024,RightFoot,26662,Crystal Palace,Liverpool,0,1,2024-10-05 11:30:00,,None,603

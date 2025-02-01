@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+894,Andre Wisdom,24,1971,0,0.34310710057616234,1,0.4987742817029357,3,9,1,0,D S,West Bromwich Albion,0,0.34310710057616234,5.626683754846454,5.097014447674155,2014
+894,Andre Wisdom,10,827,0,0.1478172019124031,0,0.4556616060435772,2,4,1,0,D S,Norwich,0,0.1478172019124031,2.582524059340358,2.3602333534508944,2015

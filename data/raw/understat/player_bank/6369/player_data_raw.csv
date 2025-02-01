@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+6369,Ethan Ampadu,1,9,0,0,0,0,0,0,0,0,S,Chelsea,0,0,0,0,2017
+6369,Ethan Ampadu,25,2095,0,0.1944530000910163,0,0.9830157030373812,7,11,3,0,D M S,Sheffield United,0,0.1944530000910163,3.262279963120818,2.9991719853132963,2020

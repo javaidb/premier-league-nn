@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+17891,82,BlockedShot,0.69,0.47700000762939454,0.0123947998508811,José Enrique,h,4492,FromCorner,2014,LeftFoot,4682,Liverpool,Stoke,1,0,2014-11-29 15:00:00,,None,4492

@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+249275,46,MissedShots,0.8419999694824218,0.35900001525878905,0.05089360103011131,Grady Diangana,h,6651,OpenPlay,2018,LeftFoot,9279,West Ham,Tottenham,0,1,2018-10-20 14:00:00,Marko Arnautovic,Pass,6651
+249623,58,MissedShots,0.7659999847412109,0.66,0.02773289941251278,Grady Diangana,a,6651,OpenPlay,2018,LeftFoot,9293,Leicester,West Ham,1,1,2018-10-27 16:30:00,,TakeOn,6651
+249793,72,BlockedShot,0.91,0.30700000762939456,0.05481849983334541,Grady Diangana,h,6651,OpenPlay,2018,LeftFoot,9298,West Ham,Burnley,4,2,2018-11-03 15:00:00,,Rebound,6651
+250806,85,SavedShot,0.8930000305175781,0.3609999847412109,0.12268300354480743,Grady Diangana,h,6651,OpenPlay,2018,LeftFoot,9340,West Ham,Cardiff,3,1,2018-12-04 19:45:00,,TakeOn,6651
+250807,86,SavedShot,0.9440000152587891,0.6659999847412109,0.1030300036072731,Grady Diangana,h,6651,OpenPlay,2018,LeftFoot,9340,West Ham,Cardiff,3,1,2018-12-04 19:45:00,Felipe Anderson,Chipped,6651
+251044,82,SavedShot,0.98,0.38799999237060545,0.11044900119304657,Grady Diangana,h,6651,OpenPlay,2018,LeftFoot,9347,West Ham,Crystal Palace,3,2,2018-12-08 15:00:00,Robert Snodgrass,Pass,6651
+251975,17,MissedShots,0.8830000305175781,0.45799999237060546,0.04842820018529892,Grady Diangana,a,6651,OpenPlay,2018,Head,9379,Southampton,West Ham,1,2,2018-12-27 19:45:00,Felipe Anderson,Cross,6651
+293748,83,BlockedShot,0.8780000305175781,0.590999984741211,0.06704170256853104,Grady Diangana,a,6651,OpenPlay,2018,LeftFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Michail Antonio,BallTouch,6651
+299290,7,MissedShots,0.705,0.3129999923706055,0.009768280200660229,Grady Diangana,h,6651,OpenPlay,2018,LeftFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,,None,6651
+299291,10,BlockedShot,0.825,0.39,0.04318829998373985,Grady Diangana,h,6651,OpenPlay,2018,LeftFoot,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Marko Arnautovic,Pass,6651
+376834,8,MissedShots,0.9690000152587891,0.4159999847412109,0.14022700488567352,Grady Diangana,h,6651,OpenPlay,2020,RightFoot,14092,West Bromwich Albion,Leicester,0,3,2020-09-13 13:00:00,Darnell Furlong,Pass,6651
+377330,0,SavedShot,0.8590000152587891,0.67,0.043270401656627655,Grady Diangana,a,6651,OpenPlay,2020,LeftFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,Callum Robinson,Pass,6651
+377333,9,Goal,0.7480000305175781,0.5970000076293945,0.04497389867901802,Grady Diangana,a,6651,OpenPlay,2020,LeftFoot,14096,Everton,West Bromwich Albion,5,2,2020-09-19 11:30:00,Matheus Pereira,BallRecovery,6651
+379023,43,MissedShots,0.8319999694824218,0.44299999237060544,0.09195780009031296,Grady Diangana,h,6651,OpenPlay,2020,LeftFoot,14108,West Bromwich Albion,Chelsea,3,3,2020-09-26 16:30:00,Romaine Sawyers,Pass,6651
+379024,44,BlockedShot,0.8130000305175781,0.34599998474121096,0.04902379959821701,Grady Diangana,h,6651,OpenPlay,2020,LeftFoot,14108,West Bromwich Albion,Chelsea,3,3,2020-09-26 16:30:00,Jake Livermore,Pass,6651
+380959,50,MissedShots,0.8719999694824219,0.649000015258789,0.04086120054125786,Grady Diangana,a,6651,SetPiece,2020,LeftFoot,14473,Southampton,West Bromwich Albion,2,0,2020-10-04 11:00:00,Matheus Pereira,Pass,6651
+382892,57,SavedShot,0.9540000152587891,0.7290000152587891,0.043325599282979965,Grady Diangana,h,6651,FromCorner,2020,RightFoot,14484,West Bromwich Albion,Burnley,0,0,2020-10-19 16:30:00,Matheus Pereira,Pass,6651
+385498,30,MissedShots,0.9019999694824219,0.485,0.05329990014433861,Grady Diangana,a,6651,OpenPlay,2020,Head,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Jake Livermore,Aerial,6651
+385505,64,BlockedShot,0.7609999847412109,0.5690000152587891,0.01911349967122078,Grady Diangana,a,6651,OpenPlay,2020,RightFoot,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Romaine Sawyers,BallTouch,6651
+387639,40,BlockedShot,0.8769999694824219,0.7140000152587891,0.04263709858059883,Grady Diangana,a,6651,OpenPlay,2020,LeftFoot,14520,Manchester United,West Bromwich Albion,1,0,2020-11-21 20:00:00,Conor Gallagher,Pass,6651
+395796,67,MissedShots,0.845,0.5420000076293945,0.04812610149383545,Grady Diangana,a,6651,OpenPlay,2020,LeftFoot,14580,Liverpool,West Bromwich Albion,1,1,2020-12-27 16:30:00,Callum Robinson,Cross,6651
+395934,55,SavedShot,0.8930000305175781,0.4979999923706055,0.36410999298095703,Grady Diangana,h,6651,OpenPlay,2020,LeftFoot,14590,West Bromwich Albion,Leeds,0,5,2020-12-29 18:00:00,,Interception,6651
+423395,72,MissedShots,0.785,0.295,0.02073119953274727,Grady Diangana,h,6651,OpenPlay,2020,LeftFoot,14804,West Bromwich Albion,West Ham,1,3,2021-05-19 19:15:00,Semi Ajayi,Pass,6651
+424013,67,MissedShots,0.8619999694824219,0.5220000076293946,0.09616389870643616,Grady Diangana,a,6651,OpenPlay,2020,RightFoot,14808,Leeds,West Bromwich Albion,3,1,2021-05-23 15:00:00,Ainsley Maitland-Niles,Pass,6651

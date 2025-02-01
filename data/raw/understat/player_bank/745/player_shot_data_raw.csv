@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+185623,64,OwnGoal,0.008999999761581421,0.4640000152587891,0,Kasper Schmeichel,a,745,SetPiece,2017,OtherBodyPart,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,,None,745
+232831,94,MissedShots,0.9159999847412109,0.5420000076293945,0.08071509748697281,Kasper Schmeichel,a,745,FromCorner,2018,Head,9197,Manchester United,Leicester,2,1,2018-08-10 22:00:00,Ben Chilwell,Cross,745
+369547,75,MissedShots,0.5109999847412109,0.47400001525878904,0.018557699397206306,Kasper Schmeichel,a,745,DirectFreekick,2019,RightFoot,11973,Arsenal,Leicester,1,1,2020-07-07 19:15:00,,Standard,745
+424037,75,OwnGoal,0.024000000953674317,0.48200000762939454,0,Kasper Schmeichel,h,745,FromCorner,2020,OtherBodyPart,14809,Leicester,Tottenham,2,4,2021-05-23 15:00:00,,Aerial,745

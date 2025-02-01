@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,8,Sub,Brighton,Newcastle United,1,0,2017-09-24,7177,2017,176852,0,0,0,0,0,0,0,6052
+0,0,0,1,Sub,Watford,Brighton,0,0,2017-08-26,7143,2017,176618,0,0,0,0,0,0,0,6052
+0,1,0.05850150063633919,90,ML,Leicester,Brighton,2,0,2017-08-19,7133,2017,176171,0.00925317034125328,0,1,0,0.05850150063633919,0.0677545964717865,0.00925317034125328,6052
+0,0,0,67,Sub,Brighton,Manchester City,0,2,2017-08-12,7126,2017,175832,0,0,0,0,0,0,0,6052

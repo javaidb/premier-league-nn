@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+382887,31,SavedShot,0.9069999694824219,0.6930000305175781,0.007333420217037201,Conor Townsend,h,8905,OpenPlay,2020,Head,14484,West Bromwich Albion,Burnley,0,0,2020-10-19 16:30:00,Darnell Furlong,Cross,8905
+385514,87,MissedShots,0.8969999694824219,0.5479999923706055,0.05090299993753433,Conor Townsend,a,8905,OpenPlay,2020,Head,14497,Fulham,West Bromwich Albion,2,0,2020-11-02 17:30:00,Matt Phillips,Aerial,8905
+387643,51,SavedShot,0.950999984741211,0.6459999847412109,0.06914959847927094,Conor Townsend,a,8905,OpenPlay,2020,LeftFoot,14520,Manchester United,West Bromwich Albion,1,0,2020-11-21 20:00:00,,None,8905
+405562,8,MissedShots,0.6940000152587891,0.57,0.011001399718225002,Conor Townsend,a,8905,SetPiece,2020,LeftFoot,14678,Burnley,West Bromwich Albion,0,0,2021-02-20 15:00:00,,BallRecovery,8905
+409966,31,BlockedShot,0.919000015258789,0.7030000305175781,0.047418899834156036,Conor Townsend,a,8905,OpenPlay,2020,LeftFoot,14706,Crystal Palace,West Bromwich Albion,1,0,2021-03-13 15:00:00,Matheus Pereira,HeadPass,8905
+409978,80,MissedShots,0.8519999694824218,0.6379999923706055,0.047224801033735275,Conor Townsend,a,8905,OpenPlay,2020,LeftFoot,14706,Crystal Palace,West Bromwich Albion,1,0,2021-03-13 15:00:00,Mbaye Diagne,Pass,8905
+412191,30,MissedShots,0.8040000152587891,0.500999984741211,0.13779699802398682,Conor Townsend,a,8905,DirectFreekick,2020,LeftFoot,14727,Chelsea,West Bromwich Albion,2,5,2021-04-03 11:30:00,,Standard,8905
+414887,11,SavedShot,0.9690000152587891,0.6719999694824219,0.3014239966869354,Conor Townsend,h,8905,OpenPlay,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,Callum Robinson,BallTouch,8905
+419456,53,SavedShot,0.8830000305175781,0.66,0.06779810041189194,Conor Townsend,h,8905,OpenPlay,2020,LeftFoot,14774,West Bromwich Albion,Wolverhampton Wanderers,1,1,2021-05-03 17:00:00,Matheus Pereira,Pass,8905
+423378,34,BlockedShot,0.7959999847412109,0.6930000305175781,0.01572990044951439,Conor Townsend,h,8905,SetPiece,2020,LeftFoot,14804,West Bromwich Albion,West Ham,1,3,2021-05-19 19:15:00,,Rebound,8905
+423377,34,BlockedShot,0.7959999847412109,0.6930000305175781,0.06704310327768326,Conor Townsend,h,8905,DirectFreekick,2020,LeftFoot,14804,West Bromwich Albion,West Ham,1,3,2021-05-19 19:15:00,,Standard,8905

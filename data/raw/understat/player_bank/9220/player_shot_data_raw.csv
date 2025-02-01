@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+463753,87,MissedShots,0.9180000305175782,0.43099998474121093,0.06303489953279495,Charlie Cresswell,a,9220,FromCorner,2021,Head,16675,Wolverhampton Wanderers,Leeds,2,3,2022-03-18 20:00:00,Jack Harrison,Cross,9220
+585252,60,MissedShots,0.9080000305175782,0.43400001525878906,0.05503367260098457,Charlie Cresswell,h,9220,FromCorner,2024,Head,28054,Toulouse,Nantes,0,0,2024-08-18 15:00:00,Niklas Schmidt,Cross,9220
+585256,71,SavedShot,0.9290000152587891,0.385,0.05103105679154396,Charlie Cresswell,h,9220,SetPiece,2024,Head,28054,Toulouse,Nantes,0,0,2024-08-18 15:00:00,Gabriel Suazo,Cross,9220
+586798,96,MissedShots,0.8959999847412109,0.49700000762939456,0.020607534795999527,Charlie Cresswell,a,9220,FromCorner,2024,Head,28062,Nice,Toulouse,1,1,2024-08-25 15:00:00,Niklas Schmidt,Aerial,9220
+589651,51,OwnGoal,0.07599999904632568,0.4420000076293945,0,Charlie Cresswell,h,9220,OpenPlay,2024,OtherBodyPart,28069,Toulouse,Marseille,1,3,2024-08-31 19:00:00,,Foul,9220
+593049,46,MissedShots,0.9569999694824218,0.49,0.5982701182365417,Charlie Cresswell,a,9220,SetPiece,2024,RightFoot,28087,Brest,Toulouse,2,0,2024-09-22 15:00:00,Vincent Sierro,Cross,9220
+595839,84,MissedShots,0.9569999694824218,0.5509999847412109,0.07574696838855743,Charlie Cresswell,a,9220,FromCorner,2024,Head,28106,Lille,Toulouse,2,1,2024-10-05 17:00:00,Vincent Sierro,Aerial,9220
+597680,84,SavedShot,0.8769999694824219,0.524000015258789,0.03201446682214737,Charlie Cresswell,h,9220,FromCorner,2024,Head,28114,Toulouse,Angers,1,1,2024-10-20 15:00:00,Denis Genreau,Cross,9220
+599146,58,SavedShot,0.9280000305175782,0.44799999237060545,0.15916524827480316,Charlie Cresswell,a,9220,FromCorner,2024,Head,28124,Montpellier,Toulouse,0,3,2024-10-27 16:00:00,Cristian Cásseres Jr.,Aerial,9220
+600646,45,BlockedShot,0.889000015258789,0.6630000305175782,0.05417073518037796,Charlie Cresswell,h,9220,OpenPlay,2024,RightFoot,28132,Toulouse,Reims,1,0,2024-11-03 14:00:00,,Rebound,9220
+600656,55,MissedShots,0.935,0.395,0.04576857388019562,Charlie Cresswell,h,9220,FromCorner,2024,Head,28132,Toulouse,Reims,1,0,2024-11-03 14:00:00,Cristian Cásseres Jr.,Cross,9220
+602170,26,MissedShots,0.91,0.4829999923706055,0.03319264575839043,Charlie Cresswell,a,9220,FromCorner,2024,Head,28138,Rennes,Toulouse,0,2,2024-11-10 16:00:00,Gabriel Suazo,Aerial,9220
+602571,73,MissedShots,0.9069999694824219,0.5609999847412109,0.17345233261585236,Charlie Cresswell,a,9220,SetPiece,2024,Head,28147,Paris Saint Germain,Toulouse,3,0,2024-11-22 20:00:00,Vincent Sierro,Cross,9220
+606836,61,BlockedShot,0.8319999694824218,0.485,0.007947994396090508,Charlie Cresswell,h,9220,SetPiece,2024,Head,28178,Toulouse,Saint-Etienne,2,1,2024-12-13 19:45:00,Aron Dønnum,Aerial,9220
+611140,12,MissedShots,0.899000015258789,0.47,0.09295301139354706,Charlie Cresswell,h,9220,SetPiece,2024,Head,28192,Toulouse,Strasbourg,1,2,2025-01-12 16:15:00,Cristian Cásseres Jr.,Cross,9220
+611166,98,SavedShot,0.9019999694824219,0.5359999847412109,0.03250611573457718,Charlie Cresswell,h,9220,OpenPlay,2024,Head,28192,Toulouse,Strasbourg,1,2,2025-01-12 16:15:00,Shavy Babicka,Aerial,9220
+613925,25,BlockedShot,0.914000015258789,0.68,0.009961182251572609,Charlie Cresswell,h,9220,FromCorner,2024,Head,28212,Toulouse,Montpellier,1,2,2025-01-26 16:15:00,Gabriel Suazo,Cross,9220
+613933,63,SavedShot,0.8640000152587891,0.57,0.07202649861574173,Charlie Cresswell,h,9220,SetPiece,2024,RightFoot,28212,Toulouse,Montpellier,1,2,2025-01-26 16:15:00,Cristian Cásseres Jr.,Chipped,9220

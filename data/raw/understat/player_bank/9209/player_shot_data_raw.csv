@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+567027,70,MissedShots,0.74,0.725,0.009956705383956432,Theo Corbeanu,a,9209,OpenPlay,2023,RightFoot,22953,Villarreal,Granada,5,1,2024-03-03 13:00:00,,BallRecovery,9209
+567031,89,SavedShot,0.7330000305175781,0.3170000076293945,0.045152172446250916,Theo Corbeanu,a,9209,DirectFreekick,2023,RightFoot,22953,Villarreal,Granada,5,1,2024-03-03 13:00:00,,Standard,9209
+567033,90,Goal,0.9680000305175781,0.35400001525878905,0.04462292790412903,Theo Corbeanu,a,9209,OpenPlay,2023,LeftFoot,22953,Villarreal,Granada,5,1,2024-03-03 13:00:00,Sergio Ruiz,Chipped,9209
+570300,67,BlockedShot,0.8809999847412109,0.6270000076293946,0.06545969843864441,Theo Corbeanu,a,9209,SetPiece,2023,RightFoot,22977,Cadiz,Granada,1,0,2024-03-29 20:00:00,,Rebound,9209
+571955,51,MissedShots,0.6830000305175781,0.4640000152587891,0.018736492842435837,Theo Corbeanu,h,9209,OpenPlay,2023,RightFoot,22941,Granada,Valencia,0,1,2024-04-04 18:00:00,Ignasi Miquel,Pass,9209

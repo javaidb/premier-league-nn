@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+501758,84,SavedShot,0.8059999847412109,0.6709999847412109,0.03037259913980961,Siriki Dembélé,h,10749,OpenPlay,2022,RightFoot,18372,Bournemouth,Crystal Palace,0,2,2022-12-31 15:00:00,Dominic Solanke,Pass,10749
+503733,67,SavedShot,0.924000015258789,0.6430000305175781,0.07739090174436569,Siriki Dembélé,a,10749,OpenPlay,2022,LeftFoot,18393,Brentford,Bournemouth,2,0,2023-01-14 17:30:00,Philip Billing,Pass,10749
+511163,8,BlockedShot,0.9259999847412109,0.43099998474121093,0.43951499462127686,Siriki Dembélé,a,10749,OpenPlay,2022,RightFoot,19892,Lorient,Auxerre,0,1,2023-02-26 12:00:00,Gaetan Perrin,TakeOn,10749
+511825,58,MissedShots,0.78,0.5990000152587891,0.03691700100898743,Siriki Dembélé,a,10749,OpenPlay,2022,RightFoot,19899,Nice,Auxerre,1,1,2023-03-03 20:00:00,,TakeOn,10749
+526550,76,SavedShot,0.73,0.524000015258789,0.018560471013188362,Siriki Dembélé,a,10749,OpenPlay,2022,RightFoot,19995,Brest,Auxerre,1,0,2023-05-14 13:00:00,Gideon Mensah,TakeOn,10749
+528324,89,SavedShot,0.735,0.5479999923706055,0.014382573775947094,Siriki Dembélé,h,10749,OpenPlay,2022,LeftFoot,19999,Auxerre,Paris Saint Germain,1,2,2023-05-21 18:45:00,Akim Zedadka,TakeOn,10749
+530570,86,BlockedShot,0.8430000305175781,0.7380000305175781,0.02798277698457241,Siriki Dembélé,h,10749,OpenPlay,2022,RightFoot,20019,Auxerre,Lens,1,3,2023-06-03 17:00:00,M&#039;Baye Niang,Pass,10749

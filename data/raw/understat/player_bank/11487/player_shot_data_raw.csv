@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+536247,84,BlockedShot,0.8640000152587891,0.6830000305175781,0.04614442214369774,Michael Olakigbe,h,11487,OpenPlay,2023,RightFoot,21928,Brentford,Bournemouth,2,2,2023-09-02 14:00:00,Christian Nørgaard,Pass,11487
+541731,96,BlockedShot,0.9069999694824219,0.6840000152587891,0.02618621103465557,Michael Olakigbe,a,11487,OpenPlay,2023,RightFoot,21963,Nottingham Forest,Brentford,1,1,2023-10-01 13:00:00,Bryan Mbeumo,Cross,11487
+556676,91,MissedShots,0.7330000305175781,0.7269999694824218,0.011411809362471104,Michael Olakigbe,h,11487,OpenPlay,2023,RightFoot,22077,Brentford,Wolverhampton Wanderers,1,4,2023-12-27 19:30:00,Myles Peart-Harris,Pass,11487

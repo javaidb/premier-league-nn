@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+278762,36,SavedShot,0.7069999694824218,0.5629999923706055,0.015198400244116783,Tyler Adams,a,7352,OpenPlay,2018,RightFoot,10513,Hannover 96,RasenBallsport Leipzig,0,3,2019-02-01 19:30:00,Diego Demme,Pass,7352
+279621,75,MissedShots,0.825,0.31799999237060544,0.04806340113282204,Tyler Adams,a,7352,OpenPlay,2018,LeftFoot,10552,Nuernberg,RasenBallsport Leipzig,0,1,2019-03-02 14:30:00,,None,7352
+354992,28,BlockedShot,0.799000015258789,0.529000015258789,0.04047840088605881,Tyler Adams,h,7352,OpenPlay,2019,RightFoot,12556,RasenBallsport Leipzig,Union Berlin,3,1,2020-01-18 17:30:00,Nordi Mukiele,Pass,7352
+355009,77,SavedShot,0.7440000152587891,0.43099998474121093,0.028307100757956505,Tyler Adams,h,7352,OpenPlay,2019,RightFoot,12556,RasenBallsport Leipzig,Union Berlin,3,1,2020-01-18 17:30:00,,BallTouch,7352
+358563,45,BlockedShot,0.9169999694824219,0.39,0.08416129648685455,Tyler Adams,a,7352,OpenPlay,2019,RightFoot,12583,Bayern Munich,RasenBallsport Leipzig,0,0,2020-02-09 17:00:00,,None,7352
+362942,26,MissedShots,0.8469999694824218,0.495,0.060905300080776215,Tyler Adams,h,7352,OpenPlay,2019,LeftFoot,12629,RasenBallsport Leipzig,Freiburg,1,1,2020-05-16 13:30:00,Marcel Halstenberg,HeadPass,7352
+362957,63,MissedShots,0.8619999694824219,0.5029999923706054,0.02784070000052452,Tyler Adams,h,7352,OpenPlay,2019,Head,12629,RasenBallsport Leipzig,Freiburg,1,1,2020-05-16 13:30:00,,None,7352
+364780,25,MissedShots,0.8009999847412109,0.5459999847412109,0.049827300012111664,Tyler Adams,h,7352,OpenPlay,2019,LeftFoot,12683,RasenBallsport Leipzig,Fortuna Duesseldorf,2,2,2020-06-17 18:30:00,Marcel Sabitzer,Pass,7352
+365273,90,BlockedShot,0.899000015258789,0.4329999923706055,0.07522770017385483,Tyler Adams,h,7352,FromCorner,2019,RightFoot,12692,RasenBallsport Leipzig,Borussia Dortmund,0,2,2020-06-20 13:30:00,Marcel Halstenberg,BallTouch,7352
+397925,82,SavedShot,0.7959999847412109,0.645,0.03119109943509102,Tyler Adams,h,7352,OpenPlay,2020,RightFoot,15266,RasenBallsport Leipzig,Borussia Dortmund,1,3,2021-01-09 17:30:00,Dani Olmo,Pass,7352
+400396,8,BlockedShot,0.9080000305175782,0.5070000076293946,0.058066900819540024,Tyler Adams,a,7352,OpenPlay,2020,Head,15299,Mainz 05,RasenBallsport Leipzig,3,2,2021-01-23 14:30:00,Angelino,Aerial,7352
+400399,14,Goal,0.9619999694824218,0.46,0.6484079957008362,Tyler Adams,a,7352,OpenPlay,2020,RightFoot,15299,Mainz 05,RasenBallsport Leipzig,3,2,2021-01-23 14:30:00,,Rebound,7352
+401781,22,MissedShots,0.759000015258789,0.485,0.026134099811315536,Tyler Adams,h,7352,OpenPlay,2020,RightFoot,15304,RasenBallsport Leipzig,Bayer Leverkusen,1,0,2021-01-30 17:30:00,Angelino,Pass,7352
+406883,12,SavedShot,0.7919999694824219,0.40299999237060546,0.030758000910282135,Tyler Adams,h,7352,OpenPlay,2020,RightFoot,15340,RasenBallsport Leipzig,Borussia M.Gladbach,3,2,2021-02-27 17:30:00,Justin Kluivert,Pass,7352
+411099,40,SavedShot,0.7780000305175782,0.3770000076293945,0.03618060052394867,Tyler Adams,a,7352,FromCorner,2020,RightFoot,15373,Arminia Bielefeld,RasenBallsport Leipzig,0,1,2021-03-19 19:30:00,Marcel Sabitzer,Pass,7352
+415007,59,MissedShots,0.9540000152587891,0.46,0.5552269816398621,Tyler Adams,h,7352,OpenPlay,2020,Head,15393,RasenBallsport Leipzig,Hoffenheim,0,0,2021-04-16 18:30:00,Emil Forsberg,Cross,7352
+426693,18,BlockedShot,0.9059999847412109,0.40400001525878904,0.11053399741649628,Tyler Adams,h,7352,OpenPlay,2021,RightFoot,17525,RasenBallsport Leipzig,VfB Stuttgart,4,0,2021-08-20 18:30:00,Emil Forsberg,Pass,7352
+455224,56,BlockedShot,0.6859999847412109,0.6,0.01824519969522953,Tyler Adams,h,7352,FromCorner,2021,RightFoot,17695,RasenBallsport Leipzig,Wolfsburg,2,0,2022-01-23 14:30:00,Kevin Kampl,Pass,7352
+479269,19,MissedShots,0.7390000152587891,0.5770000076293945,0.015242200344800949,Tyler Adams,h,7352,FromCorner,2022,LeftFoot,18205,Leeds,Wolverhampton Wanderers,2,1,2022-08-06 14:00:00,,None,7352
+482414,56,BlockedShot,0.7580000305175781,0.445,0.017845699563622475,Tyler Adams,h,7352,FromCorner,2022,RightFoot,18228,Leeds,Chelsea,3,0,2022-08-21 13:00:00,,None,7352
+512167,56,MissedShots,0.7869999694824219,0.6229999923706054,0.0251460000872612,Tyler Adams,a,7352,OpenPlay,2022,RightFoot,18456,Chelsea,Leeds,1,0,2023-03-04 15:00:00,,BallTouch,7352
+513522,26,BlockedShot,0.7519999694824219,0.3320000076293945,0.01010959967970848,Tyler Adams,h,7352,OpenPlay,2022,RightFoot,18466,Leeds,Brighton,2,2,2023-03-11 15:00:00,Crysencio Summerville,TakeOn,7352
+601413,36,BlockedShot,0.774000015258789,0.4229999923706055,0.020240508019924164,Tyler Adams,a,7352,OpenPlay,2024,RightFoot,26702,Brentford,Bournemouth,3,2,2024-11-09 15:00:00,,Rebound,7352
+604115,62,BlockedShot,0.9119999694824219,0.5209999847412109,0.03861125558614731,Tyler Adams,a,7352,FromCorner,2024,Head,26731,Wolverhampton Wanderers,Bournemouth,2,4,2024-11-30 15:00:00,Marcos Senesi,Foul,7352
+605430,70,SavedShot,0.8830000305175781,0.539000015258789,0.40632864832878113,Tyler Adams,h,7352,OpenPlay,2024,LeftFoot,26732,Bournemouth,Tottenham,1,0,2024-12-05 20:15:00,,Interception,7352
+605441,91,BlockedShot,0.865999984741211,0.5170000076293946,0.11087841540575027,Tyler Adams,h,7352,OpenPlay,2024,LeftFoot,26732,Bournemouth,Tottenham,1,0,2024-12-05 20:15:00,Dango Ouattara,Pass,7352
+607971,95,BlockedShot,0.8119999694824219,0.4929999923706055,0.05595764145255089,Tyler Adams,h,7352,OpenPlay,2024,RightFoot,26754,Bournemouth,West Ham,1,1,2024-12-16 20:00:00,Philip Billing,BallTouch,7352

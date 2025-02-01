@@ -1,0 +1,81 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+1304,68,MissedShots,0.8969999694824219,0.595999984741211,0.13494500517845154,Georges-Kévin Nkoudou,h,1729,OpenPlay,2014,Head,6159,Nantes,Nice,2,1,2014-09-20 19:00:00,Lucas Deaux,Cross,1729
+1308,78,MissedShots,0.720999984741211,0.5979999923706054,0.017750900238752365,Georges-Kévin Nkoudou,h,1729,OpenPlay,2014,RightFoot,6159,Nantes,Nice,2,1,2014-09-20 19:00:00,,None,1729
+1309,81,MissedShots,0.875,0.6609999847412109,0.13448399305343628,Georges-Kévin Nkoudou,h,1729,OpenPlay,2014,LeftFoot,6159,Nantes,Nice,2,1,2014-09-20 19:00:00,Olivier Veigneau,Throughball,1729
+2363,68,MissedShots,0.784000015258789,0.71,0.02089950069785118,Georges-Kévin Nkoudou,h,1729,OpenPlay,2014,LeftFoot,6183,Nantes,Lyon,1,1,2014-09-28 16:00:00,Papy Djilobodji,Pass,1729
+1176,32,Goal,0.765,0.7069999694824218,0.015821000561118126,Georges-Kévin Nkoudou,a,1729,OpenPlay,2014,RightFoot,6121,Guingamp,Nantes,0,1,2014-10-05 16:00:00,Jordan Veretout,Pass,1729
+1179,42,SavedShot,0.904000015258789,0.685,0.11694999784231186,Georges-Kévin Nkoudou,a,1729,OpenPlay,2014,RightFoot,6121,Guingamp,Nantes,0,1,2014-10-05 16:00:00,Olivier Veigneau,TakeOn,1729
+1192,85,ShotOnPost,0.8730000305175781,0.655,0.08205410093069077,Georges-Kévin Nkoudou,a,1729,OpenPlay,2014,RightFoot,6121,Guingamp,Nantes,0,1,2014-10-05 16:00:00,Johan Audel,Pass,1729
+6057,18,BlockedShot,0.8169999694824219,0.325,0.03204980120062828,Georges-Kévin Nkoudou,h,1729,OpenPlay,2014,LeftFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Lucas Deaux,Chipped,1729
+6069,76,SavedShot,0.8109999847412109,0.25299999237060544,0.022463899105787277,Georges-Kévin Nkoudou,h,1729,OpenPlay,2014,LeftFoot,6101,Nantes,Saint-Etienne,0,0,2014-11-23 13:00:00,Jordan Veretout,Pass,1729
+3348,35,SavedShot,0.899000015258789,0.534000015258789,0.4592669904232025,Georges-Kévin Nkoudou,a,1729,OpenPlay,2014,RightFoot,6104,Marseille,Nantes,2,0,2014-11-28 19:30:00,Serge Gakpe,Pass,1729
+5134,21,BlockedShot,0.8080000305175781,0.3390000152587891,0.040277399122714996,Georges-Kévin Nkoudou,h,1729,OpenPlay,2014,LeftFoot,6037,Nantes,Toulouse,1,2,2014-12-02 18:00:00,Johan Audel,TakeOn,1729
+4156,47,MissedShots,0.8019999694824219,0.7169999694824218,0.022931499406695366,Georges-Kévin Nkoudou,h,1729,OpenPlay,2014,RightFoot,6057,Nantes,Bordeaux,2,1,2014-12-13 16:00:00,Jordan Veretout,Pass,1729
+4993,27,SavedShot,0.8880000305175781,0.675,0.23186400532722473,Georges-Kévin Nkoudou,a,1729,FromCorner,2014,LeftFoot,6069,Lorient,Nantes,1,2,2014-12-20 19:00:00,Yacine Bammou,Pass,1729
+4996,39,SavedShot,0.8930000305175781,0.54,0.049406498670578,Georges-Kévin Nkoudou,a,1729,OpenPlay,2014,Head,6069,Lorient,Nantes,1,2,2014-12-20 19:00:00,Alejandro Bedoya,HeadPass,1729
+5013,81,MissedShots,0.7930000305175782,0.769000015258789,0.022762399166822433,Georges-Kévin Nkoudou,a,1729,OpenPlay,2014,RightFoot,6069,Lorient,Nantes,1,2,2014-12-20 19:00:00,Johan Audel,Pass,1729
+4553,31,BlockedShot,0.8580000305175781,0.7069999694824218,0.03503520041704178,Georges-Kévin Nkoudou,a,1729,OpenPlay,2014,RightFoot,6015,Monaco,Nantes,1,0,2015-01-17 19:00:00,Issa Cissokho,Chipped,1729
+4561,70,BlockedShot,0.779000015258789,0.6120000076293945,0.020151499658823013,Georges-Kévin Nkoudou,a,1729,FromCorner,2014,LeftFoot,6015,Monaco,Nantes,1,0,2015-01-17 19:00:00,,None,1729
+5530,90,SavedShot,0.9359999847412109,0.655,0.1475590020418167,Georges-Kévin Nkoudou,a,1729,OpenPlay,2014,RightFoot,6022,Montpellier,Nantes,4,0,2015-01-24 19:00:00,Johan Audel,TakeOn,1729
+2671,82,SavedShot,0.8530000305175781,0.3160000038146973,0.05017710104584694,Georges-Kévin Nkoudou,h,1729,OpenPlay,2014,RightFoot,5975,Nantes,SC Bastia,0,2,2015-02-14 19:00:00,Lucas Deaux,BallRecovery,1729
+8058,44,Goal,0.9259999847412109,0.5029999923706054,0.43515801429748535,Georges-Kévin Nkoudou,h,1729,OpenPlay,2014,LeftFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,Serge Gakpe,Cross,1729
+8061,64,MissedShots,0.8730000305175781,0.7340000152587891,0.1343819946050644,Georges-Kévin Nkoudou,h,1729,OpenPlay,2014,LeftFoot,5945,Nantes,Evian Thonon Gaillard,2,1,2015-03-14 19:00:00,Ismael Bangoura,Throughball,1729
+8074,7,MissedShots,0.775,0.685,0.016609400510787964,Georges-Kévin Nkoudou,a,1729,OpenPlay,2014,RightFoot,5952,Rennes,Nantes,0,0,2015-03-21 19:00:00,,None,1729
+8073,7,BlockedShot,0.8,0.6980000305175781,0.03459789976477623,Georges-Kévin Nkoudou,a,1729,OpenPlay,2014,RightFoot,5952,Rennes,Nantes,0,0,2015-03-21 19:00:00,,TakeOn,1729
+8083,51,MissedShots,0.7659999847412109,0.6830000305175781,0.020519500598311424,Georges-Kévin Nkoudou,a,1729,OpenPlay,2014,LeftFoot,5952,Rennes,Nantes,0,0,2015-03-21 19:00:00,Jordan Veretout,Pass,1729
+7370,93,BlockedShot,0.8919999694824219,0.4979999923706055,0.09819290041923523,Georges-Kévin Nkoudou,h,1729,OpenPlay,2014,RightFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Alejandro Bedoya,Rebound,1729
+6966,80,SavedShot,0.8719999694824219,0.39,0.3411479890346527,Georges-Kévin Nkoudou,h,1729,OpenPlay,2014,RightFoot,5873,Nantes,Lorient,1,1,2015-05-16 20:00:00,Lucas Deaux,Throughball,1729
+7192,57,BlockedShot,0.924000015258789,0.715,0.05379680171608925,Georges-Kévin Nkoudou,a,1729,OpenPlay,2014,LeftFoot,5877,Lens,Nantes,1,0,2015-05-23 20:00:00,Johan Audel,TakeOn,1729
+61474,86,MissedShots,0.8769999694824219,0.315,0.04509349912405014,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,1871,Marseille,Caen,0,1,2015-08-08 23:00:00,,Rebound,1729
+61477,90,BlockedShot,0.9430000305175781,0.3160000038146973,0.06380730122327805,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,1871,Marseille,Caen,0,1,2015-08-08 23:00:00,Abdel Barrada,Pass,1729
+62238,47,BlockedShot,0.7140000152587891,0.6040000152587891,0.011362600140273571,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,1928,Marseille,Lyon,1,1,2015-09-20 23:00:00,Benjamin Mendy,TakeOn,1729
+62239,50,MissedShots,0.88,0.68,0.09372209757566452,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,LeftFoot,1928,Marseille,Lyon,1,1,2015-09-20 23:00:00,Lass Diarra,Throughball,1729
+62242,53,MissedShots,0.7859999847412109,0.6530000305175782,0.026567799970507622,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,1928,Marseille,Lyon,1,1,2015-09-20 23:00:00,Abdel Barrada,TakeOn,1729
+62245,66,SavedShot,0.8580000305175781,0.555,0.3739030063152313,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,1928,Marseille,Lyon,1,1,2015-09-20 23:00:00,Michy Batshuayi,Throughball,1729
+63123,58,MissedShots,0.735999984741211,0.544000015258789,0.019211100414395332,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,RightFoot,1936,Toulouse,Marseille,1,1,2015-09-23 23:00:00,Karim Rekik,Chipped,1729
+63688,37,SavedShot,0.8769999694824219,0.7130000305175781,0.048072900623083115,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,LeftFoot,1975,Lille,Marseille,1,2,2015-10-25 20:00:00,Lucas Silva,Pass,1729
+63700,66,BlockedShot,0.9219999694824219,0.715,0.07188180088996887,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,LeftFoot,1975,Lille,Marseille,1,2,2015-10-25 20:00:00,Michy Batshuayi,Pass,1729
+64571,52,Goal,0.779000015258789,0.519000015258789,0.046473901718854904,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,LeftFoot,1987,Nantes,Marseille,0,1,2015-11-02 00:00:00,,TakeOn,1729
+64012,15,BlockedShot,0.9119999694824219,0.715999984741211,0.04787110164761543,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,LeftFoot,2008,Saint-Etienne,Marseille,0,2,2015-11-23 00:00:00,Rémy Cabella,Pass,1729
+64014,20,BlockedShot,0.7080000305175781,0.6580000305175782,0.012288999743759632,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,RightFoot,2008,Saint-Etienne,Marseille,0,2,2015-11-23 00:00:00,Javier Manquillo,TakeOn,1729
+64024,40,MissedShots,0.8809999847412109,0.63,0.04336350038647652,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,LeftFoot,2008,Saint-Etienne,Marseille,0,2,2015-11-23 00:00:00,Brice Dja Djédjé,Cross,1729
+64033,50,Goal,0.845999984741211,0.754000015258789,0.03172149881720543,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,RightFoot,2008,Saint-Etienne,Marseille,0,2,2015-11-23 00:00:00,Michy Batshuayi,Pass,1729
+64621,81,Goal,0.96,0.6229999923706054,0.3319909870624542,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,LeftFoot,2018,Marseille,Monaco,3,3,2015-11-30 00:00:00,Lucas Ocampos,Rebound,1729
+65021,42,BlockedShot,0.8419999694824218,0.4370000076293945,0.04702470079064369,Georges-Kévin Nkoudou,a,1729,SetPiece,2015,RightFoot,2028,Rennes,Marseille,0,1,2015-12-04 00:00:00,Karim Rekik,HeadPass,1729
+65023,45,SavedShot,0.909000015258789,0.69,0.09237129986286163,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,LeftFoot,2028,Rennes,Marseille,0,1,2015-12-04 00:00:00,Rémy Cabella,Pass,1729
+65024,46,BlockedShot,0.8490000152587891,0.745999984741211,0.02604050002992153,Georges-Kévin Nkoudou,a,1729,FromCorner,2015,RightFoot,2028,Rennes,Marseille,0,1,2015-12-04 00:00:00,Rémy Cabella,Pass,1729
+65596,63,SavedShot,0.9159999847412109,0.68,0.06232060119509697,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,LeftFoot,2036,Marseille,Montpellier,2,2,2015-12-06 17:00:00,Benjamin Mendy,Pass,1729
+64901,2,MissedShots,0.754000015258789,0.73,0.01506549958139658,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,2046,Marseille,GFC Ajaccio,1,1,2015-12-13 20:00:00,Benjamin Mendy,TakeOn,1729
+64903,9,MissedShots,0.9030000305175782,0.735999984741211,0.038596101105213165,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,LeftFoot,2046,Marseille,GFC Ajaccio,1,1,2015-12-13 20:00:00,Lass Diarra,Pass,1729
+65880,1,MissedShots,0.8519999694824218,0.7609999847412109,0.025743799284100533,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,2068,Marseille,Guingamp,0,0,2016-01-11 00:00:00,Javier Manquillo,BallRecovery,1729
+65886,20,BlockedShot,0.8009999847412109,0.779000015258789,0.015786200761795044,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,2068,Marseille,Guingamp,0,0,2016-01-11 00:00:00,Javier Manquillo,Pass,1729
+66170,56,MissedShots,0.845,0.6969999694824218,0.045935001224279404,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,RightFoot,2077,Caen,Marseille,1,3,2016-01-17 20:00:00,Bouna Sarr,Pass,1729
+66171,59,Goal,0.8809999847412109,0.665,0.08118460327386856,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,RightFoot,2077,Caen,Marseille,1,3,2016-01-17 20:00:00,Michy Batshuayi,Pass,1729
+66174,77,SavedShot,0.9080000305175782,0.7069999694824218,0.057538699358701706,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,LeftFoot,2077,Caen,Marseille,1,3,2016-01-17 20:00:00,Abdel Barrada,Pass,1729
+66339,16,SavedShot,0.9490000152587891,0.664000015258789,0.31751200556755066,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,LeftFoot,2088,Lyon,Marseille,1,1,2016-01-25 00:00:00,Rémy Cabella,Tackle,1729
+66565,16,MissedShots,0.865999984741211,0.6079999923706054,0.06498900055885315,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,,None,1729
+66567,22,SavedShot,0.855999984741211,0.52,0.06760480254888535,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Mauricio Isla,Cross,1729
+66573,39,MissedShots,0.785,0.745999984741211,0.018175799399614334,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Bouna Sarr,Pass,1729
+66580,67,BlockedShot,0.8030000305175782,0.6469999694824219,0.02691599912941456,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,2089,Marseille,Lille,1,1,2016-01-29 23:30:00,Rolando,Chipped,1729
+69089,67,Goal,0.8959999847412109,0.665,0.05891859903931618,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,LeftFoot,2100,Montpellier,Marseille,0,1,2016-02-03 00:00:00,,None,1729
+69336,18,MissedShots,0.9080000305175782,0.8630000305175781,0.01864589937031269,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,LeftFoot,2118,Marseille,Paris Saint Germain,1,2,2016-02-08 00:00:00,Rémy Cabella,Pass,1729
+69347,51,SavedShot,0.7390000152587891,0.5359999847412109,0.019001400098204613,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,2118,Marseille,Paris Saint Germain,1,2,2016-02-08 00:00:00,,BallRecovery,1729
+69357,88,MissedShots,0.919000015258789,0.675,0.09078609943389893,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,LeftFoot,2118,Marseille,Paris Saint Germain,1,2,2016-02-08 00:00:00,Rémy Cabella,Pass,1729
+69540,69,MissedShots,0.7809999847412109,0.6040000152587891,0.03504600003361702,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,RightFoot,2128,Nice,Marseille,1,1,2016-02-15 00:00:00,Rémy Cabella,LayOff,1729
+69541,70,SavedShot,0.9330000305175781,0.5770000076293945,0.396589994430542,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,Head,2128,Nice,Marseille,1,1,2016-02-15 00:00:00,,None,1729
+69830,22,SavedShot,0.885,0.5529999923706055,0.08691670000553131,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,2135,Marseille,Saint-Etienne,1,1,2016-02-21 17:00:00,,None,1729
+66757,40,MissedShots,0.7519999694824219,0.49900001525878906,0.016838200390338898,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,2154,Marseille,Toulouse,1,1,2016-03-06 17:00:00,,TakeOn,1729
+66759,43,BlockedShot,0.875999984741211,0.4570000076293945,0.08141499757766724,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,2154,Marseille,Toulouse,1,1,2016-03-06 17:00:00,,None,1729
+66767,62,MissedShots,0.8109999847412109,0.7240000152587891,0.024332599714398384,Georges-Kévin Nkoudou,h,1729,OpenPlay,2015,RightFoot,2154,Marseille,Toulouse,1,1,2016-03-06 17:00:00,Mauricio Isla,Pass,1729
+66777,85,SavedShot,0.88,0.6780000305175782,0.05409049987792969,Georges-Kévin Nkoudou,h,1729,SetPiece,2015,RightFoot,2154,Marseille,Toulouse,1,1,2016-03-06 17:00:00,Karim Rekik,HeadPass,1729
+70038,15,SavedShot,0.905,0.7030000305175781,0.0384162999689579,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,RightFoot,2158,GFC Ajaccio,Marseille,1,1,2016-03-09 21:30:00,Jacques-Alaixys Romao,Pass,1729
+70039,17,SavedShot,0.8390000152587891,0.715,0.030236799269914627,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,RightFoot,2158,GFC Ajaccio,Marseille,1,1,2016-03-09 21:30:00,Jacques-Alaixys Romao,Pass,1729
+70043,24,SavedShot,0.845999984741211,0.645,0.21603800356388092,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,RightFoot,2158,GFC Ajaccio,Marseille,1,1,2016-03-09 21:30:00,Rémy Cabella,Pass,1729
+67554,58,MissedShots,0.8619999694824219,0.62,0.042420901358127594,Georges-Kévin Nkoudou,a,1729,OpenPlay,2015,RightFoot,2187,SC Bastia,Marseille,2,1,2016-04-03 19:00:00,Steven Fletcher,Rebound,1729
+113863,95,MissedShots,0.7780000305175782,0.6079999923706054,0.03347339853644371,Georges-Kévin Nkoudou,a,1729,OpenPlay,2016,LeftFoot,512,Middlesbrough,Tottenham,1,2,2016-09-24 18:00:00,Erik Lamela,Pass,1729
+116235,85,SavedShot,0.9580000305175781,0.7659999847412109,0.029185300692915916,Georges-Kévin Nkoudou,a,1729,OpenPlay,2016,LeftFoot,2712,Chelsea,Tottenham,2,1,2016-11-26 21:30:00,Harry Winks,TakeOn,1729
+194192,90,MissedShots,0.8159999847412109,0.33599998474121096,0.02705409936606884,Georges-Kévin Nkoudou,a,1729,SetPiece,2017,LeftFoot,7364,Newcastle United,Burnley,1,1,2018-01-31 19:45:00,Jeff Hendrick,Pass,1729
+204017,3,MissedShots,0.799000015258789,0.7,0.024293599650263786,Georges-Kévin Nkoudou,a,1729,OpenPlay,2017,RightFoot,7438,West Bromwich Albion,Burnley,1,2,2018-03-31 15:00:00,Ashley Barnes,Pass,1729
+204021,26,MissedShots,0.7609999847412109,0.5359999847412109,0.036312300711870193,Georges-Kévin Nkoudou,a,1729,OpenPlay,2017,RightFoot,7438,West Bromwich Albion,Burnley,1,2,2018-03-31 15:00:00,,BallRecovery,1729
+283466,87,MissedShots,0.919000015258789,0.685,0.09936819970607758,Georges-Kévin Nkoudou,h,1729,OpenPlay,2018,LeftFoot,10889,Monaco,Nantes,1,0,2019-02-16 19:00:00,Carlos Vinicius,Pass,1729
+310069,92,BlockedShot,0.865999984741211,0.7080000305175781,0.056358400732278824,Georges-Kévin Nkoudou,h,1729,OpenPlay,2019,RightFoot,11649,Tottenham,Aston Villa,3,1,2019-08-10 17:30:00,Harry Kane,Pass,1729

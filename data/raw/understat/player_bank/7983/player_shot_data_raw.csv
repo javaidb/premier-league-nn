@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+399178,84,MissedShots,0.8859999847412109,0.4640000152587891,0.026467299088835716,Daniel N&#039;Lundulu,a,7983,OpenPlay,2020,Head,14619,Leicester,Southampton,2,0,2021-01-16 20:00:00,Kyle Walker-Peters,Aerial,7983

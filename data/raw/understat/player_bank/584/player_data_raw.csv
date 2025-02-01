@@ -1,0 +1,5 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+584,Joel Robles,7,575,0,0,0,0,0,0,1,0,GK S,Everton,0,0,0.3928008954972029,0.3928008954972029,2014
+584,Joel Robles,13,1170,0,0,0,0,0,0,1,0,GK,Everton,0,0,1.238632912747562,1.238632912747562,2015
+584,Joel Robles,20,1735,0,0,1,0.0849992036819458,0,1,2,0,GK S,Everton,0,0,1.57752057723701,1.4925213735550642,2016
+584,Joel Robles,4,360,0,0,0,0,0,0,1,0,GK,Leeds,0,0,0.04860883392393589,0.04860883392393589,2022

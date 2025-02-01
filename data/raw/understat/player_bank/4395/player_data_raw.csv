@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+4395,Junior Hoilett,22,868,0,0.8032064093276858,0,1.0915372902527452,24,12,2,0,M S,Queens Park Rangers,0,0.8032064093276858,2.4889727272093296,1.444477604702115,2014
+4395,Junior Hoilett,32,2144,3,3.1675134040415287,1,1.3379894085228443,40,25,4,0,F M S,Cardiff,3,3.1675134040415287,5.06641336902976,1.2493918761610985,2018

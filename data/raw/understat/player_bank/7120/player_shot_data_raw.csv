@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+249381,86,Goal,0.955999984741211,0.5729999923706055,0.3930149972438812,Kadeem Harris,h,7120,OpenPlay,2018,RightFoot,9282,Cardiff,Fulham,4,2,2018-10-20 14:00:00,Víctor Camarasa,Cross,7120
+250009,58,ShotOnPost,0.775,0.2589999961853027,0.013763399794697762,Kadeem Harris,h,7120,OpenPlay,2018,LeftFoot,9307,Cardiff,Brighton,2,1,2018-11-10 12:30:00,Aron Gunnarsson,Pass,7120
+251830,43,MissedShots,0.8040000152587891,0.725999984741211,0.0214649997651577,Kadeem Harris,a,7120,OpenPlay,2018,LeftFoot,9384,Crystal Palace,Cardiff,0,0,2018-12-26 15:00:00,Joe Bennett,Pass,7120
+251847,78,SavedShot,0.8880000305175781,0.6020000076293945,0.35590600967407227,Kadeem Harris,a,7120,OpenPlay,2018,RightFoot,9384,Crystal Palace,Cardiff,0,0,2018-12-26 15:00:00,,None,7120
+263606,95,SavedShot,0.87,0.42200000762939455,0.10443799942731857,Kadeem Harris,a,7120,OpenPlay,2018,RightFoot,9392,Leicester,Cardiff,0,1,2018-12-29 15:00:00,Callum Paterson,Pass,7120

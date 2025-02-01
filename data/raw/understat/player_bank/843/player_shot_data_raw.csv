@@ -1,0 +1,407 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14494,39,SavedShot,0.7390000152587891,0.6079999923706054,0.019021300598978996,James Ward-Prowse,a,843,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,José Fonte,Pass,843
+14502,66,BlockedShot,0.730999984741211,0.629000015258789,0.015140400268137455,James Ward-Prowse,a,843,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,José Fonte,BallRecovery,843
+14507,85,SavedShot,0.8919999694824219,0.69,0.05837570130825043,James Ward-Prowse,a,843,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Graziano Pellè,LayOff,843
+14810,69,ShotOnPost,0.740999984741211,0.7469999694824219,0.03464389964938164,James Ward-Prowse,h,843,DirectFreekick,2014,RightFoot,4762,Southampton,West Bromwich Albion,0,0,2014-08-23 15:00:00,,Standard,843
+15138,53,BlockedShot,0.7119999694824218,0.27399999618530274,0.014640900306403637,James Ward-Prowse,a,843,OpenPlay,2014,RightFoot,4774,West Ham,Southampton,1,3,2014-08-30 15:00:00,José Fonte,Pass,843
+15140,58,BlockedShot,0.6990000152587891,0.58,0.012015599757432938,James Ward-Prowse,a,843,OpenPlay,2014,RightFoot,4774,West Ham,Southampton,1,3,2014-08-30 15:00:00,Morgan Schneiderlin,Pass,843
+15341,80,MissedShots,0.7830000305175782,0.6790000152587891,0.020660599693655968,James Ward-Prowse,h,843,OpenPlay,2014,RightFoot,4722,Southampton,Newcastle United,4,0,2014-09-13 15:00:00,Victor Wanyama,Pass,843
+17726,39,SavedShot,0.7290000152587891,0.5329999923706055,0.014468500390648842,James Ward-Prowse,a,843,OpenPlay,2014,LeftFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,,None,843
+17735,80,MissedShots,0.7340000152587891,0.36400001525878906,0.04518510028719902,James Ward-Prowse,a,843,DirectFreekick,2014,RightFoot,4609,Burnley,Southampton,1,0,2014-12-13 15:00:00,,Standard,843
+17555,36,MissedShots,0.8130000305175781,0.3770000076293945,0.05491049960255623,James Ward-Prowse,a,843,OpenPlay,2014,RightFoot,4635,Crystal Palace,Southampton,1,3,2014-12-26 15:00:00,Sadio Mané,Pass,843
+17558,41,MissedShots,0.9280000305175782,0.49400001525878906,0.0955457016825676,James Ward-Prowse,a,843,OpenPlay,2014,Head,4635,Crystal Palace,Southampton,1,3,2014-12-26 15:00:00,,None,843
+19927,39,SavedShot,0.895,0.4470000076293945,0.39429599046707153,James Ward-Prowse,h,843,OpenPlay,2014,LeftFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,Sadio Mané,Pass,843
+19935,60,MissedShots,0.89,0.5770000076293945,0.0989651009440422,James Ward-Prowse,h,843,OpenPlay,2014,RightFoot,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,,Rebound,843
+19939,69,SavedShot,0.9169999694824219,0.5329999923706055,0.12137199938297272,James Ward-Prowse,h,843,OpenPlay,2014,Head,4555,Southampton,Arsenal,2,0,2015-01-01 15:00:00,Dusan Tadic,Cross,843
+23569,6,SavedShot,0.9230000305175782,0.4779999923706055,0.3921769857406616,James Ward-Prowse,h,843,OpenPlay,2014,RightFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,Nathaniel Clyne,Cross,843
+23578,59,SavedShot,0.91,0.52,0.11409900337457657,James Ward-Prowse,h,843,OpenPlay,2014,Head,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,Eljero Elia,Cross,843
+23579,60,SavedShot,0.7909999847412109,0.5279999923706055,0.04724929854273796,James Ward-Prowse,h,843,OpenPlay,2014,RightFoot,4514,Southampton,Swansea,0,1,2015-02-01 16:00:00,Dusan Tadic,LayOff,843
+23418,51,MissedShots,0.8059999847412109,0.39599998474121095,0.1125129982829094,James Ward-Prowse,a,843,DirectFreekick,2014,RightFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,,Standard,843
+23424,67,BlockedShot,0.740999984741211,0.46099998474121096,0.020024200901389122,James Ward-Prowse,a,843,OpenPlay,2014,LeftFoot,4520,Queens Park Rangers,Southampton,0,1,2015-02-07 15:00:00,Eljero Elia,Pass,843
+24195,7,MissedShots,0.7569999694824219,0.4,0.02395150065422058,James Ward-Prowse,h,843,OpenPlay,2014,LeftFoot,4544,Southampton,Liverpool,0,2,2015-02-22 16:15:00,Graziano Pellè,LayOff,843
+20456,81,SavedShot,0.8159999847412109,0.5279999923706055,0.0693110004067421,James Ward-Prowse,h,843,OpenPlay,2014,LeftFoot,4484,Southampton,Crystal Palace,1,0,2015-03-03 19:45:00,Sadio Mané,TakeOn,843
+22387,86,BlockedShot,0.860999984741211,0.49900001525878906,0.09775029867887497,James Ward-Prowse,a,843,OpenPlay,2014,LeftFoot,4499,Chelsea,Southampton,1,1,2015-03-15 13:30:00,Filip Djuricic,TakeOn,843
+21630,24,MissedShots,0.775,0.445,0.08528690040111542,James Ward-Prowse,a,843,DirectFreekick,2014,RightFoot,4441,Everton,Southampton,1,0,2015-04-04 15:00:00,,Standard,843
+21631,27,SavedShot,0.7240000152587891,0.5279999923706055,0.018420599400997162,James Ward-Prowse,a,843,OpenPlay,2014,RightFoot,4441,Everton,Southampton,1,0,2015-04-04 15:00:00,Ryan Bertrand,Pass,843
+20775,55,Goal,0.885,0.5,0.7611690163612366,James Ward-Prowse,h,843,Penalty,2014,RightFoot,4453,Southampton,Hull,2,0,2015-04-11 15:00:00,,Standard,843
+21552,71,BlockedShot,0.7969999694824219,0.6880000305175781,0.02618500031530857,James Ward-Prowse,a,843,OpenPlay,2014,RightFoot,4464,Stoke,Southampton,2,1,2015-04-18 15:00:00,Morgan Schneiderlin,Chipped,843
+22985,23,BlockedShot,0.72,0.53,0.0157478004693985,James Ward-Prowse,h,843,OpenPlay,2014,RightFoot,4468,Southampton,Tottenham,2,2,2015-04-25 12:45:00,Sadio Mané,Pass,843
+20606,4,BlockedShot,0.7480000305175781,0.37099998474121093,0.016632499173283577,James Ward-Prowse,h,843,OpenPlay,2014,RightFoot,4419,Southampton,Aston Villa,6,1,2015-05-16 12:45:00,Graziano Pellè,BallRecovery,843
+20613,17,SavedShot,0.8859999847412109,0.32799999237060545,0.12519200146198273,James Ward-Prowse,h,843,OpenPlay,2014,RightFoot,4419,Southampton,Aston Villa,6,1,2015-05-16 12:45:00,Nathaniel Clyne,Throughball,843
+23023,71,BlockedShot,0.7280000305175781,0.40200000762939453,0.01763859950006008,James Ward-Prowse,a,843,OpenPlay,2014,RightFoot,4437,Manchester City,Southampton,2,0,2015-05-24 15:00:00,Graziano Pellè,Pass,843
+57672,1,SavedShot,0.735,0.5259999847412109,0.054307300597429276,James Ward-Prowse,h,843,DirectFreekick,2015,RightFoot,119,Southampton,Norwich,3,0,2015-08-30 16:30:00,,Standard,843
+57697,80,MissedShots,0.7519999694824219,0.6959999847412109,0.04466789960861206,James Ward-Prowse,h,843,DirectFreekick,2015,RightFoot,119,Southampton,Norwich,3,0,2015-08-30 16:30:00,,Standard,843
+57999,36,BlockedShot,0.7290000152587891,0.44400001525878907,0.01788710057735443,James Ward-Prowse,a,843,OpenPlay,2015,RightFoot,125,West Bromwich Albion,Southampton,0,0,2015-09-12 18:00:00,Steven Davis,Pass,843
+58007,63,MissedShots,0.835,0.34200000762939453,0.03436319902539253,James Ward-Prowse,a,843,OpenPlay,2015,RightFoot,125,West Bromwich Albion,Southampton,0,0,2015-09-12 18:00:00,Dusan Tadic,Pass,843
+58008,66,MissedShots,0.7719999694824219,0.46099998474121096,0.025884900242090225,James Ward-Prowse,a,843,OpenPlay,2015,RightFoot,125,West Bromwich Albion,Southampton,0,0,2015-09-12 18:00:00,Graziano Pellè,Pass,843
+58224,19,SavedShot,0.8119999694824219,0.5479999923706055,0.06830289959907532,James Ward-Prowse,h,843,OpenPlay,2015,RightFoot,139,Southampton,Manchester United,2,3,2015-09-20 19:00:00,Matt Targett,Pass,843
+58705,48,MissedShots,0.7859999847412109,0.45599998474121095,0.02712409943342209,James Ward-Prowse,a,843,OpenPlay,2015,RightFoot,157,Chelsea,Southampton,1,3,2015-10-03 20:30:00,,Rebound,843
+58709,68,MissedShots,0.715999984741211,0.57,0.010093100368976593,James Ward-Prowse,a,843,SetPiece,2015,RightFoot,157,Chelsea,Southampton,1,3,2015-10-03 20:30:00,,None,843
+52763,26,BlockedShot,0.8430000305175781,0.48200000762939454,0.0694516971707344,James Ward-Prowse,a,843,OpenPlay,2015,LeftFoot,196,Sunderland,Southampton,0,1,2015-11-07 19:00:00,Graziano Pellè,Pass,843
+52772,60,BlockedShot,0.750999984741211,0.5940000152587891,0.019201699644327164,James Ward-Prowse,a,843,OpenPlay,2015,LeftFoot,196,Sunderland,Southampton,0,1,2015-11-07 19:00:00,Sadio Mané,Pass,843
+52776,83,MissedShots,0.81,0.605999984741211,0.05733500048518181,James Ward-Prowse,a,843,OpenPlay,2015,LeftFoot,196,Sunderland,Southampton,0,1,2015-11-07 19:00:00,Dusan Tadic,Pass,843
+56204,28,MissedShots,0.789000015258789,0.2720000076293945,0.05372120067477226,James Ward-Prowse,a,843,DirectFreekick,2015,RightFoot,215,Manchester City,Southampton,3,1,2015-11-28 19:00:00,,Standard,843
+54764,26,SavedShot,0.7669999694824219,0.43400001525878906,0.027876999229192734,James Ward-Prowse,h,843,OpenPlay,2015,RightFoot,227,Southampton,Aston Villa,1,1,2015-12-05 19:00:00,Sadio Mané,Pass,843
+54782,83,BlockedShot,0.67,0.49900001525878906,0.011147799901664257,James Ward-Prowse,h,843,OpenPlay,2015,RightFoot,227,Southampton,Aston Villa,1,1,2015-12-05 19:00:00,Juanmi,Pass,843
+52410,91,SavedShot,0.8869999694824219,0.44400001525878907,0.3138499855995178,James Ward-Prowse,h,843,OpenPlay,2015,RightFoot,242,Southampton,Tottenham,0,2,2015-12-19 19:00:00,Ryan Bertrand,Pass,843
+55160,24,MissedShots,0.7819999694824219,0.43599998474121093,0.04672909900546074,James Ward-Prowse,h,843,OpenPlay,2015,LeftFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,,BallRecovery,843
+55161,26,MissedShots,0.795,0.5929999923706055,0.047101300209760666,James Ward-Prowse,h,843,OpenPlay,2015,RightFoot,260,Southampton,Arsenal,4,0,2015-12-26 23:45:00,Ryan Bertrand,Pass,843
+55908,11,SavedShot,0.8519999694824218,0.5659999847412109,0.08506549894809723,James Ward-Prowse,a,843,OpenPlay,2015,LeftFoot,276,Norwich,Southampton,1,0,2016-01-02 19:00:00,Ryan Bertrand,Pass,843
+52566,4,Goal,0.75,0.72,0.04044799879193306,James Ward-Prowse,h,843,DirectFreekick,2015,RightFoot,294,Southampton,West Bromwich Albion,3,0,2016-01-16 19:00:00,,Standard,843
+52572,34,Goal,0.885,0.5,0.7611690163612366,James Ward-Prowse,h,843,Penalty,2015,RightFoot,294,Southampton,West Bromwich Albion,3,0,2016-01-16 19:00:00,,Standard,843
+53209,71,BlockedShot,0.7440000152587891,0.7190000152587891,0.011229099705815315,James Ward-Prowse,a,843,OpenPlay,2015,RightFoot,311,Arsenal,Southampton,0,0,2016-02-02 23:45:00,,None,843
+56123,60,BlockedShot,0.7530000305175781,0.3129999923706055,0.015181699767708778,James Ward-Prowse,a,843,OpenPlay,2015,RightFoot,332,Swansea,Southampton,0,1,2016-02-13 19:00:00,Graziano Pellè,Pass,843
+60165,68,BlockedShot,0.76,0.48700000762939455,0.01856289990246296,James Ward-Prowse,h,843,OpenPlay,2015,RightFoot,360,Southampton,Sunderland,1,1,2016-03-05 19:00:00,,Rebound,843
+60179,92,BlockedShot,0.7290000152587891,0.415,0.014379399828612804,James Ward-Prowse,h,843,OpenPlay,2015,RightFoot,360,Southampton,Sunderland,1,1,2016-03-05 19:00:00,,None,843
+59666,78,MissedShots,0.7040000152587891,0.4979999923706055,0.0394895002245903,James Ward-Prowse,a,843,DirectFreekick,2015,RightFoot,370,Stoke,Southampton,1,2,2016-03-12 19:00:00,,Standard,843
+59667,87,ShotOnPost,0.754000015258789,0.5990000152587891,0.060650698840618134,James Ward-Prowse,a,843,DirectFreekick,2015,RightFoot,370,Stoke,Southampton,1,2,2016-03-12 19:00:00,,Standard,843
+57338,83,BlockedShot,0.7719999694824219,0.39799999237060546,0.040748000144958496,James Ward-Prowse,h,843,OpenPlay,2015,RightFoot,435,Southampton,Manchester City,4,2,2016-05-01 19:30:00,Shane Long,Pass,843
+56875,92,MissedShots,0.8109999847412109,0.36700000762939455,0.04980450123548508,James Ward-Prowse,a,843,OpenPlay,2015,RightFoot,444,Tottenham,Southampton,1,2,2016-05-08 16:30:00,Shane Long,Pass,843
+112321,26,MissedShots,0.76,0.7019999694824218,0.016915200278162956,James Ward-Prowse,h,843,FromCorner,2016,RightFoot,466,Southampton,Watford,1,1,2016-08-13 18:00:00,Nathan Redmond,Pass,843
+113070,83,BlockedShot,0.8209999847412109,0.28299999237060547,0.07352180033922195,James Ward-Prowse,h,843,DirectFreekick,2016,RightFoot,484,Southampton,Sunderland,1,1,2016-08-27 18:00:00,,Standard,843
+113976,85,SavedShot,0.8580000305175781,0.3820000076293945,0.10159700363874435,James Ward-Prowse,a,843,OpenPlay,2016,RightFoot,519,West Ham,Southampton,0,3,2016-09-25 19:00:00,Cédric Soares,Pass,843
+113978,91,Goal,0.925,0.534000015258789,0.5833050012588501,James Ward-Prowse,a,843,OpenPlay,2016,LeftFoot,519,West Ham,Southampton,0,3,2016-09-25 19:00:00,,None,843
+114331,83,MissedShots,0.8730000305175781,0.5070000076293946,0.08313640207052231,James Ward-Prowse,a,843,OpenPlay,2016,LeftFoot,528,Leicester,Southampton,0,0,2016-10-02 17:15:00,,None,843
+114067,88,SavedShot,0.8159999847412109,0.705999984741211,0.039855100214481354,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,539,Southampton,Burnley,3,1,2016-10-16 19:00:00,Steven Davis,Pass,843
+115581,79,MissedShots,0.7880000305175782,0.8019999694824219,0.03823089972138405,James Ward-Prowse,a,843,DirectFreekick,2016,RightFoot,2694,Hull,Southampton,2,1,2016-11-06 18:15:00,,Standard,843
+115350,77,MissedShots,0.925,0.505,0.5683050155639648,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Charlie Austin,Pass,843
+115349,77,SavedShot,0.730999984741211,0.4809999847412109,0.023487400263547897,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,,BallRecovery,843
+115351,79,BlockedShot,0.935,0.59,0.3223620057106018,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Cédric Soares,Cross,843
+115355,89,BlockedShot,0.840999984741211,0.41900001525878905,0.08864480257034302,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,2715,Southampton,Everton,1,0,2016-11-27 20:30:00,Jordy Clasie,Pass,843
+115526,60,BlockedShot,0.825,0.5379999923706055,0.04180759936571121,James Ward-Prowse,a,843,OpenPlay,2016,LeftFoot,3106,Crystal Palace,Southampton,3,0,2016-12-03 19:00:00,Ryan Bertrand,BallTouch,843
+115534,76,MissedShots,0.855,0.4209999847412109,0.031010299921035767,James Ward-Prowse,a,843,FromCorner,2016,Head,3106,Crystal Palace,Southampton,3,0,2016-12-03 19:00:00,,None,843
+117230,32,MissedShots,0.905,0.539000015258789,0.09587389975786209,James Ward-Prowse,h,843,OpenPlay,2016,Head,3123,Southampton,Middlesbrough,1,0,2016-12-11 18:15:00,Dusan Tadic,Cross,843
+118227,34,SavedShot,0.740999984741211,0.524000015258789,0.058181699365377426,James Ward-Prowse,a,843,DirectFreekick,2016,RightFoot,3133,Stoke,Southampton,0,0,2016-12-15 00:00:00,,Standard,843
+118237,79,BlockedShot,0.885,0.5640000152587891,0.08003029972314835,James Ward-Prowse,a,843,FromCorner,2016,LeftFoot,3133,Stoke,Southampton,0,0,2016-12-15 00:00:00,,None,843
+117183,39,SavedShot,0.905,0.5879999923706055,0.04569369927048683,James Ward-Prowse,a,843,OpenPlay,2016,Head,3345,Burnley,Southampton,1,0,2017-01-14 19:00:00,Shane Long,Cross,843
+118629,25,Goal,0.8430000305175781,0.3270000076293945,0.04480310156941414,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,3357,Southampton,Leicester,3,0,2017-01-22 15:00:00,Cédric Soares,Pass,843
+118638,60,MissedShots,0.7830000305175782,0.455,0.043262798339128494,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,3357,Southampton,Leicester,3,0,2017-01-22 15:00:00,Nathan Redmond,Pass,843
+116942,2,SavedShot,0.8040000152587891,0.5220000076293946,0.017806099727749825,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,3376,Southampton,West Ham,1,3,2017-02-04 15:00:00,,Aerial,843
+116950,45,SavedShot,0.8480000305175781,0.3509999847412109,0.05242060124874115,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,3376,Southampton,West Ham,1,3,2017-02-04 15:00:00,Oriol Romeu,Pass,843
+116951,47,SavedShot,0.8640000152587891,0.845,0.04546229913830757,James Ward-Prowse,h,843,DirectFreekick,2016,RightFoot,3376,Southampton,West Ham,1,3,2017-02-04 15:00:00,,Standard,843
+116956,69,SavedShot,0.9080000305175782,0.555,0.054201699793338776,James Ward-Prowse,h,843,OpenPlay,2016,Head,3376,Southampton,West Ham,1,3,2017-02-04 15:00:00,Cédric Soares,Aerial,843
+116964,88,MissedShots,0.7440000152587891,0.33599998474121096,0.04605479910969734,James Ward-Prowse,h,843,DirectFreekick,2016,RightFoot,3376,Southampton,West Ham,1,3,2017-02-04 15:00:00,,Standard,843
+118022,69,MissedShots,0.7190000152587891,0.45,0.022403599694371223,James Ward-Prowse,a,843,OpenPlay,2016,RightFoot,3384,Sunderland,Southampton,0,4,2017-02-11 15:00:00,Nathan Redmond,Pass,843
+118024,71,MissedShots,0.9059999847412109,0.4620000076293945,0.3217810094356537,James Ward-Prowse,a,843,OpenPlay,2016,Head,3384,Sunderland,Southampton,0,4,2017-02-11 15:00:00,Nathan Redmond,Cross,843
+120077,12,BlockedShot,0.8209999847412109,0.43900001525878907,0.04118259996175766,James Ward-Prowse,a,843,FromCorner,2016,RightFoot,3407,Watford,Southampton,3,4,2017-03-04 15:00:00,Dusan Tadic,Pass,843
+120076,12,SavedShot,0.909000015258789,0.325,0.06397479772567749,James Ward-Prowse,a,843,OpenPlay,2016,RightFoot,3407,Watford,Southampton,3,4,2017-03-04 15:00:00,Dusan Tadic,Pass,843
+120087,36,MissedShots,0.7519999694824219,0.7730000305175782,0.034206099808216095,James Ward-Prowse,a,843,DirectFreekick,2016,RightFoot,3407,Watford,Southampton,3,4,2017-03-04 15:00:00,,Standard,843
+120422,51,Goal,0.925,0.43900001525878907,0.08741720020771027,James Ward-Prowse,a,843,OpenPlay,2016,LeftFoot,3422,Tottenham,Southampton,2,1,2017-03-19 14:15:00,Ryan Bertrand,Cross,843
+119662,61,MissedShots,0.8569999694824219,0.27399999618530274,0.023220600560307503,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,3437,Southampton,Bournemouth,0,0,2017-04-01 17:30:00,,Rebound,843
+119503,33,MissedShots,0.91,0.25799999237060545,0.03341339901089668,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,3447,Southampton,Crystal Palace,3,1,2017-04-05 19:45:00,Dusan Tadic,Pass,843
+119508,49,BlockedShot,0.9130000305175782,0.4159999847412109,0.12336400151252747,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,3447,Southampton,Crystal Palace,3,1,2017-04-05 19:45:00,Nathan Redmond,Pass,843
+119531,84,Goal,0.9180000305175782,0.47299999237060547,0.4933130145072937,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,3447,Southampton,Crystal Palace,3,1,2017-04-05 19:45:00,Cédric Soares,Pass,843
+121310,51,MissedShots,0.7819999694824219,0.765,0.043161001056432724,James Ward-Prowse,h,843,DirectFreekick,2016,RightFoot,3462,Southampton,Manchester City,0,3,2017-04-15 17:30:00,,Standard,843
+120735,40,BlockedShot,0.7759999847412109,0.5609999847412109,0.08547540009021759,James Ward-Prowse,a,843,DirectFreekick,2016,RightFoot,3473,Chelsea,Southampton,4,2,2017-04-25 19:45:00,,Standard,843
+118695,68,MissedShots,0.9480000305175781,0.47,0.4077329933643341,James Ward-Prowse,h,843,OpenPlay,2016,Head,3390,Southampton,Arsenal,0,2,2017-05-10 19:45:00,Ryan Bertrand,Aerial,843
+119627,18,MissedShots,0.7609999847412109,0.6459999847412109,0.057424500584602356,James Ward-Prowse,h,843,DirectFreekick,2016,RightFoot,3412,Southampton,Manchester United,0,0,2017-05-17 19:45:00,,Standard,843
+119641,58,SavedShot,0.774000015258789,0.5420000076293945,0.029117699712514877,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,3412,Southampton,Manchester United,0,0,2017-05-17 19:45:00,,None,843
+119644,70,BlockedShot,0.889000015258789,0.40099998474121096,0.07240030169487,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,3412,Southampton,Manchester United,0,0,2017-05-17 19:45:00,Nathan Redmond,Cross,843
+112552,19,BlockedShot,0.7809999847412109,0.27899999618530275,0.019673099741339684,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,3517,Southampton,Stoke,0,1,2017-05-21 15:00:00,Oriol Romeu,Pass,843
+112566,72,SavedShot,0.9059999847412109,0.5770000076293945,0.09051889926195145,James Ward-Prowse,h,843,OpenPlay,2016,RightFoot,3517,Southampton,Stoke,0,1,2017-05-21 15:00:00,,Rebound,843
+158317,19,BlockedShot,0.89,0.5359999847412109,0.12201599776744843,James Ward-Prowse,h,843,OpenPlay,2017,LeftFoot,7122,Southampton,Swansea,0,0,2017-08-12 15:00:00,Nathan Redmond,Pass,843
+158318,20,MissedShots,0.924000015258789,0.4809999847412109,0.13214999437332153,James Ward-Prowse,h,843,OpenPlay,2017,Head,7122,Southampton,Swansea,0,0,2017-08-12 15:00:00,Nathan Redmond,Cross,843
+158321,24,SavedShot,0.7619999694824219,0.525,0.02582640014588833,James Ward-Prowse,h,843,OpenPlay,2017,RightFoot,7122,Southampton,Swansea,0,0,2017-08-12 15:00:00,Steven Davis,Pass,843
+158322,34,BlockedShot,0.845999984741211,0.5479999923706055,0.09047289937734604,James Ward-Prowse,h,843,OpenPlay,2017,LeftFoot,7122,Southampton,Swansea,0,0,2017-08-12 15:00:00,Oriol Romeu,Pass,843
+159838,5,ShotOnPost,0.740999984741211,0.615,0.05092319846153259,James Ward-Prowse,a,843,DirectFreekick,2017,RightFoot,7211,Brighton,Southampton,1,1,2017-10-29 13:30:00,,Standard,843
+161526,49,BlockedShot,0.779000015258789,0.7469999694824219,0.013433399610221386,James Ward-Prowse,h,843,OpenPlay,2017,RightFoot,7241,Southampton,Everton,4,1,2017-11-26 13:30:00,,None,843
+183022,83,MissedShots,0.795,0.655,0.0180612001568079,James Ward-Prowse,h,843,OpenPlay,2017,LeftFoot,7285,Southampton,Leicester,1,4,2017-12-13 19:45:00,,None,843
+183218,8,BlockedShot,0.7959999847412109,0.39099998474121095,0.03597019985318184,James Ward-Prowse,a,843,OpenPlay,2017,RightFoot,7292,Chelsea,Southampton,1,0,2017-12-16 15:00:00,Pierre-Emile Højbjerg,Pass,843
+183188,83,SavedShot,0.7290000152587891,0.45799999237060546,0.020662199705839157,James Ward-Prowse,h,843,OpenPlay,2017,RightFoot,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Nathan Redmond,Pass,843
+186136,6,SavedShot,0.865,0.5179999923706055,0.07826829701662064,James Ward-Prowse,a,843,OpenPlay,2017,LeftFoot,7324,Manchester United,Southampton,0,0,2017-12-30 17:30:00,,None,843
+186137,18,SavedShot,0.8619999694824219,0.8159999847412109,0.05311359837651253,James Ward-Prowse,a,843,DirectFreekick,2017,RightFoot,7324,Manchester United,Southampton,0,0,2017-12-30 17:30:00,,Standard,843
+187443,19,Goal,0.865999984741211,0.37900001525878907,0.061387598514556885,James Ward-Prowse,a,843,OpenPlay,2017,RightFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,,None,843
+187446,28,MissedShots,0.4879999923706055,0.39799999237060546,0.007152399979531765,James Ward-Prowse,a,843,OpenPlay,2017,RightFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Pierre-Emile Højbjerg,Pass,843
+187451,43,Goal,0.89,0.39799999237060546,0.4653970003128052,James Ward-Prowse,a,843,OpenPlay,2017,RightFoot,7347,Watford,Southampton,2,2,2018-01-13 15:00:00,Dusan Tadic,Pass,843
+189355,7,MissedShots,0.71,0.539000015258789,0.016418300569057465,James Ward-Prowse,h,843,OpenPlay,2017,RightFoot,7355,Southampton,Tottenham,1,1,2018-01-21 16:00:00,Oriol Romeu,Pass,843
+189368,48,SavedShot,0.745999984741211,0.43900001525878907,0.021611299365758896,James Ward-Prowse,h,843,OpenPlay,2017,RightFoot,7355,Southampton,Tottenham,1,1,2018-01-21 16:00:00,Pierre-Emile Højbjerg,Pass,843
+194206,44,BlockedShot,0.845,0.534000015258789,0.0762844979763031,James Ward-Prowse,h,843,OpenPlay,2017,RightFoot,7363,Southampton,Brighton,1,1,2018-01-31 19:45:00,Dusan Tadic,Pass,843
+194214,71,BlockedShot,0.7819999694824219,0.5770000076293945,0.03280710056424141,James Ward-Prowse,h,843,OpenPlay,2017,RightFoot,7363,Southampton,Brighton,1,1,2018-01-31 19:45:00,Steven Davis,Pass,843
+194215,72,BlockedShot,0.8069999694824219,0.519000015258789,0.14321200549602509,James Ward-Prowse,h,843,DirectFreekick,2017,RightFoot,7363,Southampton,Brighton,1,1,2018-01-31 19:45:00,,Standard,843
+193813,54,Goal,0.8090000152587891,0.5359999847412109,0.14451999962329865,James Ward-Prowse,a,843,DirectFreekick,2017,RightFoot,7378,West Bromwich Albion,Southampton,2,3,2018-02-03 15:00:00,,Standard,843
+193815,68,MissedShots,0.7390000152587891,0.5709999847412109,0.05420929938554764,James Ward-Prowse,a,843,DirectFreekick,2017,RightFoot,7378,West Bromwich Albion,Southampton,2,3,2018-02-03 15:00:00,,Standard,843
+193947,28,SavedShot,0.935,0.40799999237060547,0.0628046989440918,James Ward-Prowse,h,843,OpenPlay,2017,Head,7384,Southampton,Liverpool,0,2,2018-02-11 16:30:00,Dusan Tadic,Cross,843
+193949,39,SavedShot,0.9030000305175782,0.38799999237060545,0.029538899660110474,James Ward-Prowse,h,843,OpenPlay,2017,Head,7384,Southampton,Liverpool,0,2,2018-02-11 16:30:00,Ryan Bertrand,Cross,843
+206869,7,BlockedShot,0.9,0.5790000152587891,0.37874099612236023,James Ward-Prowse,a,843,OpenPlay,2017,LeftFoot,7439,Arsenal,Southampton,3,2,2018-04-08 13:15:00,Dusan Tadic,Pass,843
+206879,42,MissedShots,0.7730000305175782,0.5370000076293945,0.028768600896000862,James Ward-Prowse,a,843,OpenPlay,2017,RightFoot,7439,Arsenal,Southampton,3,2,2018-04-08 13:15:00,Pierre-Emile Højbjerg,BallRecovery,843
+209332,37,SavedShot,0.784000015258789,0.485,0.049019500613212585,James Ward-Prowse,h,843,OpenPlay,2017,RightFoot,7455,Southampton,Chelsea,2,3,2018-04-14 11:30:00,,None,843
+213488,83,SavedShot,0.7709999847412109,0.24899999618530275,0.04228689894080162,James Ward-Prowse,a,843,DirectFreekick,2017,RightFoot,7486,Everton,Southampton,1,1,2018-05-05 17:30:00,,Standard,843
+215563,69,SavedShot,0.915,0.47200000762939454,0.05866819992661476,James Ward-Prowse,h,843,OpenPlay,2017,Head,7498,Southampton,Manchester City,0,1,2018-05-13 15:00:00,,Aerial,843
+233080,78,SavedShot,0.889000015258789,0.82,0.05757720023393631,James Ward-Prowse,a,843,DirectFreekick,2018,RightFoot,9211,Everton,Southampton,2,1,2018-08-18 17:00:00,,Standard,843
+249933,48,SavedShot,0.845,0.3029999923706055,0.03818659856915474,James Ward-Prowse,a,843,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Cédric Soares,Pass,843
+250993,67,BlockedShot,0.9030000305175782,0.605999984741211,0.10344400256872177,James Ward-Prowse,a,843,OpenPlay,2018,LeftFoot,9346,Tottenham,Southampton,3,1,2018-12-05 20:00:00,Steven Davis,Pass,843
+250994,69,BlockedShot,0.7959999847412109,0.6819999694824219,0.021794600412249565,James Ward-Prowse,a,843,OpenPlay,2018,RightFoot,9346,Tottenham,Southampton,3,1,2018-12-05 20:00:00,,Dispossessed,843
+250998,74,SavedShot,0.919000015258789,0.48700000762939455,0.4039120078086853,James Ward-Prowse,a,843,OpenPlay,2018,LeftFoot,9346,Tottenham,Southampton,3,1,2018-12-05 20:00:00,,Rebound,843
+263760,44,OwnGoal,0.06300000190734863,0.34,0,James Ward-Prowse,h,843,OpenPlay,2018,RightFoot,9389,Southampton,Manchester City,1,3,2018-12-30 14:15:00,,Interception,843
+274298,10,MissedShots,0.7169999694824218,0.66,0.01318180002272129,James Ward-Prowse,a,843,OpenPlay,2018,RightFoot,9403,Chelsea,Southampton,0,0,2019-01-02 19:45:00,Stuart Armstrong,Pass,843
+274313,62,BlockedShot,0.7930000305175782,0.6930000305175781,0.06523700058460236,James Ward-Prowse,a,843,DirectFreekick,2018,RightFoot,9403,Chelsea,Southampton,0,0,2019-01-02 19:45:00,,Standard,843
+274481,10,Goal,0.885,0.5,0.7611690163612366,James Ward-Prowse,a,843,Penalty,2018,RightFoot,9410,Leicester,Southampton,1,2,2019-01-12 15:00:00,,Standard,843
+274724,1,MissedShots,0.9719999694824218,0.38799999237060545,0.07827959954738617,James Ward-Prowse,h,843,OpenPlay,2018,LeftFoot,9419,Southampton,Everton,2,1,2019-01-19 15:00:00,Danny Ings,Chipped,843
+274725,5,BlockedShot,0.8780000305175781,0.5970000076293945,0.10159900039434433,James Ward-Prowse,h,843,OpenPlay,2018,LeftFoot,9419,Southampton,Everton,2,1,2019-01-19 15:00:00,Matt Targett,Pass,843
+274733,49,Goal,0.755,0.5059999847412109,0.012226499617099762,James Ward-Prowse,h,843,OpenPlay,2018,RightFoot,9419,Southampton,Everton,2,1,2019-01-19 15:00:00,,Aerial,843
+275072,76,Goal,0.9219999694824219,0.3970000076293945,0.3661099970340729,James Ward-Prowse,h,843,OpenPlay,2018,RightFoot,9433,Southampton,Crystal Palace,1,1,2019-01-30 19:45:00,Matt Targett,Pass,843
+275189,53,SavedShot,0.8880000305175781,0.47299999237060547,0.06476230174303055,James Ward-Prowse,a,843,OpenPlay,2018,Head,9445,Burnley,Southampton,1,1,2019-02-02 15:00:00,Matt Targett,Cross,843
+275480,84,SavedShot,0.71,0.3370000076293945,0.03445670008659363,James Ward-Prowse,h,843,DirectFreekick,2018,RightFoot,9453,Southampton,Cardiff,1,2,2019-02-09 15:00:00,,Standard,843
+275854,51,MissedShots,0.815,0.5359999847412109,0.05131649971008301,James Ward-Prowse,a,843,OpenPlay,2018,RightFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,,BallRecovery,843
+275858,75,BlockedShot,0.8969999694824219,0.40200000762939453,0.05145379900932312,James Ward-Prowse,a,843,OpenPlay,2018,RightFoot,9466,Arsenal,Southampton,2,0,2019-02-24 14:05:00,Pierre-Emile Højbjerg,Cross,843
+276002,40,Goal,0.9119999694824219,0.445,0.42350101470947266,James Ward-Prowse,h,843,OpenPlay,2018,RightFoot,9472,Southampton,Fulham,2,0,2019-02-27 19:45:00,,Rebound,843
+276007,47,BlockedShot,0.85,0.34900001525878904,0.07911030203104019,James Ward-Prowse,h,843,OpenPlay,2018,RightFoot,9472,Southampton,Fulham,2,0,2019-02-27 19:45:00,Nathan Redmond,Pass,843
+276012,72,SavedShot,0.879000015258789,0.610999984741211,0.08874980360269547,James Ward-Prowse,h,843,OpenPlay,2018,RightFoot,9472,Southampton,Fulham,2,0,2019-02-27 19:45:00,Shane Long,HeadPass,843
+276180,74,Goal,0.779000015258789,0.6120000076293945,0.07775980234146118,James Ward-Prowse,a,843,DirectFreekick,2018,RightFoot,9481,Manchester United,Southampton,3,2,2019-03-02 15:00:00,,Standard,843
+284511,25,BlockedShot,0.7609999847412109,0.4909999847412109,0.02691509947180748,James Ward-Prowse,h,843,OpenPlay,2018,RightFoot,9487,Southampton,Tottenham,2,1,2019-03-09 15:00:00,Oriol Romeu,Pass,843
+284529,80,Goal,0.765,0.500999984741211,0.07835149765014648,James Ward-Prowse,h,843,DirectFreekick,2018,RightFoot,9487,Southampton,Tottenham,2,1,2019-03-09 15:00:00,,Standard,843
+291751,79,BlockedShot,0.7559999847412109,0.3820000076293945,0.025032900273799896,James Ward-Prowse,h,843,FromCorner,2018,LeftFoot,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,,TakeOn,843
+295442,21,BlockedShot,0.8580000305175781,0.42900001525878906,0.09457360208034515,James Ward-Prowse,a,843,OpenPlay,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,Nathan Redmond,Pass,843
+295445,32,BlockedShot,0.8959999847412109,0.3509999847412109,0.051198601722717285,James Ward-Prowse,a,843,OpenPlay,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,,None,843
+295450,52,SavedShot,0.735999984741211,0.534000015258789,0.05463910102844238,James Ward-Prowse,a,843,DirectFreekick,2018,RightFoot,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,,Standard,843
+296519,77,SavedShot,0.8909999847412109,0.8140000152587891,0.06009810045361519,James Ward-Prowse,a,843,DirectFreekick,2018,RightFoot,9499,Watford,Southampton,1,1,2019-04-23 19:45:00,,Standard,843
+297393,2,BlockedShot,0.75,0.5920000076293945,0.02140429988503456,James Ward-Prowse,h,843,FromCorner,2018,RightFoot,9549,Southampton,Bournemouth,3,3,2019-04-27 15:00:00,,Rebound,843
+297407,54,Goal,0.785,0.435,0.033907901495695114,James Ward-Prowse,h,843,OpenPlay,2018,LeftFoot,9549,Southampton,Bournemouth,3,3,2019-04-27 15:00:00,Pierre-Emile Højbjerg,Pass,843
+301417,20,BlockedShot,0.7830000305175782,0.6329999923706054,0.045819900929927826,James Ward-Prowse,h,843,OpenPlay,2018,RightFoot,9569,Southampton,Huddersfield,1,1,2019-05-12 14:00:00,Nathan Redmond,Pass,843
+301422,46,SavedShot,0.715,0.46700000762939453,0.016212299466133118,James Ward-Prowse,h,843,OpenPlay,2018,RightFoot,9569,Southampton,Huddersfield,1,1,2019-05-12 14:00:00,Danny Ings,Pass,843
+309963,12,SavedShot,0.7380000305175781,0.44599998474121094,0.017030300572514534,James Ward-Prowse,a,843,OpenPlay,2019,RightFoot,11646,Burnley,Southampton,3,0,2019-08-10 15:00:00,,None,843
+309964,20,BlockedShot,0.8069999694824219,0.48400001525878905,0.04709719866514206,James Ward-Prowse,a,843,OpenPlay,2019,RightFoot,11646,Burnley,Southampton,3,0,2019-08-10 15:00:00,,None,843
+312519,45,MissedShots,0.7340000152587891,0.37,0.04583989828824997,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,,Standard,843
+312537,94,MissedShots,0.769000015258789,0.3940000152587891,0.07050400227308273,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11666,Brighton,Southampton,0,2,2019-08-24 15:00:00,,Standard,843
+320097,5,MissedShots,0.885,0.575,0.08218040317296982,James Ward-Prowse,h,843,OpenPlay,2019,RightFoot,11693,Southampton,Bournemouth,1,3,2019-09-20 19:00:00,Cédric Soares,Cross,843
+320102,27,MissedShots,0.7980000305175782,0.32799999237060545,0.025243299081921577,James Ward-Prowse,h,843,OpenPlay,2019,RightFoot,11693,Southampton,Bournemouth,1,3,2019-09-20 19:00:00,Oriol Romeu,BallRecovery,843
+320111,48,MissedShots,0.875999984741211,0.4420000076293945,0.06270910054445267,James Ward-Prowse,h,843,OpenPlay,2019,RightFoot,11693,Southampton,Bournemouth,1,3,2019-09-20 19:00:00,Cédric Soares,Cross,843
+320112,52,Goal,0.885,0.5,0.7611690163612366,James Ward-Prowse,h,843,Penalty,2019,RightFoot,11693,Southampton,Bournemouth,1,3,2019-09-20 19:00:00,,Standard,843
+320114,60,MissedShots,0.7780000305175782,0.4779999923706055,0.025046100839972496,James Ward-Prowse,h,843,OpenPlay,2019,RightFoot,11693,Southampton,Bournemouth,1,3,2019-09-20 19:00:00,Che Adams,Pass,843
+320116,68,MissedShots,0.750999984741211,0.61,0.018102699890732765,James Ward-Prowse,h,843,OpenPlay,2019,RightFoot,11693,Southampton,Bournemouth,1,3,2019-09-20 19:00:00,Sofiane Boufal,Pass,843
+320119,81,MissedShots,0.895,0.41200000762939454,0.09666349738836288,James Ward-Prowse,h,843,OpenPlay,2019,RightFoot,11693,Southampton,Bournemouth,1,3,2019-09-20 19:00:00,Danny Ings,Pass,843
+322691,56,SavedShot,0.7340000152587891,0.49700000762939456,0.05408230051398277,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11704,Tottenham,Southampton,2,1,2019-09-28 14:00:00,,Standard,843
+324692,58,MissedShots,0.7830000305175782,0.455,0.09665480256080627,James Ward-Prowse,h,843,DirectFreekick,2019,RightFoot,11718,Southampton,Chelsea,1,4,2019-10-06 14:00:00,,Standard,843
+325679,72,SavedShot,0.895,0.500999984741211,0.1519239991903305,James Ward-Prowse,a,843,OpenPlay,2019,LeftFoot,11732,Wolverhampton Wanderers,Southampton,1,1,2019-10-19 15:00:00,Pierre-Emile Højbjerg,Pass,843
+325681,87,SavedShot,0.735999984741211,0.4370000076293945,0.05305179953575134,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11732,Wolverhampton Wanderers,Southampton,1,1,2019-10-19 15:00:00,,Standard,843
+326852,66,SavedShot,0.749000015258789,0.30700000762939456,0.0439630001783371,James Ward-Prowse,h,843,DirectFreekick,2019,RightFoot,11740,Southampton,Leicester,0,9,2019-10-25 20:00:00,,Standard,843
+326853,67,BlockedShot,0.725,0.41,0.012068700045347214,James Ward-Prowse,h,843,OpenPlay,2019,RightFoot,11740,Southampton,Leicester,0,9,2019-10-25 20:00:00,Pierre-Emile Højbjerg,Pass,843
+329199,12,Goal,0.970999984741211,0.485,0.8681849837303162,James Ward-Prowse,a,843,OpenPlay,2019,RightFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,,Rebound,843
+330677,65,SavedShot,0.8580000305175781,0.825999984741211,0.049298498779535294,James Ward-Prowse,h,843,DirectFreekick,2019,RightFoot,11758,Southampton,Everton,1,2,2019-11-09 15:00:00,,Standard,843
+332317,15,SavedShot,0.7730000305175782,0.555,0.03465009853243828,James Ward-Prowse,a,843,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Nathan Redmond,Pass,843
+332323,40,MissedShots,0.48,0.43400001525878906,0.007038940209895372,James Ward-Prowse,a,843,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,,BallRecovery,843
+332334,70,Goal,0.9580000305175781,0.5370000076293945,0.6502900123596191,James Ward-Prowse,a,843,SetPiece,2019,LeftFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,,Rebound,843
+332333,70,SavedShot,0.885,0.5,0.7611690163612366,James Ward-Prowse,a,843,Penalty,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,,Standard,843
+333808,43,MissedShots,0.9130000305175782,0.40599998474121096,0.08221419900655746,James Ward-Prowse,h,843,OpenPlay,2019,RightFoot,11778,Southampton,Watford,2,1,2019-11-30 17:30:00,Cédric Soares,Cross,843
+333810,59,BlockedShot,0.7290000152587891,0.46599998474121096,0.05057860165834427,James Ward-Prowse,h,843,DirectFreekick,2019,RightFoot,11778,Southampton,Watford,2,1,2019-11-30 17:30:00,,Standard,843
+333815,82,Goal,0.7980000305175782,0.6569999694824219,0.08078709989786148,James Ward-Prowse,h,843,DirectFreekick,2019,RightFoot,11778,Southampton,Watford,2,1,2019-11-30 17:30:00,,Standard,843
+336311,69,BlockedShot,0.784000015258789,0.3189999961853027,0.06325490027666092,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11798,Newcastle United,Southampton,2,1,2019-12-08 14:00:00,,Standard,843
+336315,75,MissedShots,0.9119999694824219,0.8169999694824219,0.06265600025653839,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11798,Newcastle United,Southampton,2,1,2019-12-08 14:00:00,,Standard,843
+337168,48,MissedShots,0.9259999847412109,0.48400001525878905,0.054806899279356,James Ward-Prowse,h,843,OpenPlay,2019,Head,11811,Southampton,West Ham,0,1,2019-12-14 17:30:00,Cédric Soares,Aerial,843
+337180,89,SavedShot,0.7680000305175781,0.764000015258789,0.03928679972887039,James Ward-Prowse,h,843,DirectFreekick,2019,RightFoot,11811,Southampton,West Ham,0,1,2019-12-14 17:30:00,,Standard,843
+338680,3,SavedShot,0.7819999694824219,0.6719999694824219,0.06440690159797668,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,,Standard,843
+338702,67,SavedShot,0.7709999847412109,0.775,0.0383898988366127,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,,Standard,843
+339792,46,BlockedShot,0.794000015258789,0.624000015258789,0.03074819967150688,James Ward-Prowse,h,843,OpenPlay,2019,RightFoot,11840,Southampton,Crystal Palace,1,1,2019-12-28 15:00:00,,None,843
+339803,86,SavedShot,0.759000015258789,0.6519999694824219,0.05521940067410469,James Ward-Prowse,h,843,DirectFreekick,2019,RightFoot,11840,Southampton,Crystal Palace,1,1,2019-12-28 15:00:00,,Standard,843
+351709,35,BlockedShot,0.779000015258789,0.595999984741211,0.08162529766559601,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11861,Leicester,Southampton,1,2,2020-01-11 15:00:00,,Standard,843
+352559,68,MissedShots,0.805,0.36700000762939455,0.020068900659680367,James Ward-Prowse,a,843,OpenPlay,2019,LeftFoot,11887,Liverpool,Southampton,4,0,2020-02-01 15:00:00,Danny Ings,Chipped,843
+352997,4,BlockedShot,0.9330000305175781,0.93,0.034739501774311066,James Ward-Prowse,h,843,DirectFreekick,2019,RightFoot,11908,Southampton,Aston Villa,2,0,2020-02-22 15:00:00,,Standard,843
+365033,46,SavedShot,0.8590000152587891,0.8109999847412109,0.053942300379276276,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,,Standard,843
+365041,59,BlockedShot,0.8690000152587891,0.41,0.11139000207185745,James Ward-Prowse,a,843,OpenPlay,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,,Rebound,843
+365042,62,BlockedShot,0.8330000305175781,0.49700000762939456,0.10197799652814865,James Ward-Prowse,a,843,OpenPlay,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Ryan Bertrand,Pass,843
+365053,92,SavedShot,0.71,0.67,0.033956099301576614,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,,Standard,843
+366552,23,SavedShot,0.8009999847412109,0.76,0.01685510016977787,James Ward-Prowse,h,843,OpenPlay,2019,RightFoot,11952,Southampton,Arsenal,0,2,2020-06-25 17:00:00,Stuart Armstrong,Pass,843
+366554,50,MissedShots,0.7609999847412109,0.5120000076293946,0.02115830034017563,James Ward-Prowse,h,843,OpenPlay,2019,RightFoot,11952,Southampton,Arsenal,0,2,2020-06-25 17:00:00,Pierre-Emile Højbjerg,Pass,843
+367399,23,MissedShots,0.96,0.5770000076293945,0.3668369948863983,James Ward-Prowse,a,843,OpenPlay,2019,LeftFoot,11961,Watford,Southampton,1,3,2020-06-28 15:30:00,Oriol Romeu,Chipped,843
+367412,81,Goal,0.8009999847412109,0.51,0.13120199739933014,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11961,Watford,Southampton,1,3,2020-06-28 15:30:00,,Standard,843
+367416,95,SavedShot,0.7809999847412109,0.6630000305175782,0.06611839681863785,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11961,Watford,Southampton,1,3,2020-06-28 15:30:00,,Standard,843
+370072,15,BlockedShot,0.8290000152587891,0.42700000762939455,0.054145701229572296,James Ward-Prowse,a,843,OpenPlay,2019,RightFoot,11978,Everton,Southampton,1,1,2020-07-09 17:00:00,Danny Ings,Pass,843
+370078,25,SavedShot,0.755,0.7419999694824219,0.0388885997235775,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11978,Everton,Southampton,1,1,2020-07-09 17:00:00,,Standard,843
+370080,27,ShotOnPost,0.885,0.5,0.7611690163612366,James Ward-Prowse,a,843,Penalty,2019,RightFoot,11978,Everton,Southampton,1,1,2020-07-09 17:00:00,,Standard,843
+370088,47,BlockedShot,0.7719999694824219,0.3270000076293945,0.05826110020279884,James Ward-Prowse,a,843,DirectFreekick,2019,RightFoot,11978,Everton,Southampton,1,1,2020-07-09 17:00:00,,Standard,843
+370090,48,BlockedShot,0.7819999694824219,0.6359999847412109,0.014552799984812737,James Ward-Prowse,a,843,FromCorner,2019,RightFoot,11978,Everton,Southampton,1,1,2020-07-09 17:00:00,,Aerial,843
+372150,14,BlockedShot,0.8469999694824218,0.5459999847412109,0.07293339818716049,James Ward-Prowse,h,843,OpenPlay,2019,RightFoot,12002,Southampton,Brighton,1,1,2020-07-16 19:15:00,Michael Obafemi,Pass,843
+372162,59,SavedShot,0.705999984741211,0.515,0.012660100124776363,James Ward-Prowse,h,843,OpenPlay,2019,LeftFoot,12002,Southampton,Brighton,1,1,2020-07-16 19:15:00,,None,843
+372171,78,BlockedShot,0.6990000152587891,0.49700000762939456,0.037670399993658066,James Ward-Prowse,h,843,DirectFreekick,2019,RightFoot,12002,Southampton,Brighton,1,1,2020-07-16 19:15:00,,Standard,843
+372429,27,SavedShot,0.8859999847412109,0.504000015258789,0.16439199447631836,James Ward-Prowse,a,843,OpenPlay,2019,Head,12004,Bournemouth,Southampton,0,2,2020-07-19 13:00:00,Oriol Romeu,Cross,843
+372435,54,SavedShot,0.74,0.515,0.02745259925723076,James Ward-Prowse,a,843,OpenPlay,2019,LeftFoot,12004,Bournemouth,Southampton,0,2,2020-07-19 13:00:00,Oriol Romeu,Pass,843
+373793,22,BlockedShot,0.8730000305175781,0.51,0.12308400124311447,James Ward-Prowse,h,843,OpenPlay,2019,RightFoot,12015,Southampton,Sheffield United,3,1,2020-07-26 15:00:00,,TakeOn,843
+376525,73,MissedShots,0.7859999847412109,0.77,0.043417900800704956,James Ward-Prowse,a,843,DirectFreekick,2020,RightFoot,14087,Crystal Palace,Southampton,1,0,2020-09-12 14:00:00,,Standard,843
+376528,86,MissedShots,0.715,0.59,0.04113470017910004,James Ward-Prowse,a,843,DirectFreekick,2020,RightFoot,14087,Crystal Palace,Southampton,1,0,2020-09-12 14:00:00,,Standard,843
+377881,19,SavedShot,0.9019999694824219,0.44799999237060545,0.11791999638080597,James Ward-Prowse,h,843,OpenPlay,2020,RightFoot,14100,Southampton,Tottenham,2,5,2020-09-20 11:00:00,,Rebound,843
+377889,49,SavedShot,0.7280000305175781,0.4279999923706055,0.018159599974751472,James Ward-Prowse,h,843,OpenPlay,2020,RightFoot,14100,Southampton,Tottenham,2,5,2020-09-20 11:00:00,Oriol Romeu,Pass,843
+377899,85,SavedShot,0.710999984741211,0.4370000076293945,0.04093509912490845,James Ward-Prowse,h,843,DirectFreekick,2020,RightFoot,14100,Southampton,Tottenham,2,5,2020-09-20 11:00:00,,Standard,843
+383918,26,Goal,0.899000015258789,0.36200000762939455,0.09319490194320679,James Ward-Prowse,h,843,OpenPlay,2020,RightFoot,14492,Southampton,Everton,2,0,2020-10-25 14:00:00,Danny Ings,Pass,843
+384953,32,Goal,0.769000015258789,0.5459999847412109,0.07998579740524292,James Ward-Prowse,a,843,DirectFreekick,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,,Standard,843
+384954,44,Goal,0.8069999694824219,0.504000015258789,0.1443769931793213,James Ward-Prowse,a,843,DirectFreekick,2020,RightFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,,Standard,843
+384959,58,MissedShots,0.8040000152587891,0.5179999923706055,0.06830540299415588,James Ward-Prowse,a,843,OpenPlay,2020,LeftFoot,14495,Aston Villa,Southampton,3,4,2020-11-01 12:00:00,Ryan Bertrand,Pass,843
+389417,32,Goal,0.8119999694824219,0.720999984741211,0.06691060215234756,James Ward-Prowse,h,843,DirectFreekick,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,,Standard,843
+391920,38,SavedShot,0.7909999847412109,0.6959999847412109,0.02445410005748272,James Ward-Prowse,h,843,OpenPlay,2020,RightFoot,14551,Southampton,Sheffield United,3,0,2020-12-13 12:00:00,Danny Ings,Pass,843
+391925,68,MissedShots,0.7030000305175781,0.4159999847412109,0.03710789978504181,James Ward-Prowse,h,843,DirectFreekick,2020,RightFoot,14551,Southampton,Sheffield United,3,0,2020-12-13 12:00:00,,Standard,843
+393078,65,MissedShots,0.7340000152587891,0.485,0.017777299508452415,James Ward-Prowse,a,843,OpenPlay,2020,RightFoot,14555,Arsenal,Southampton,1,1,2020-12-16 18:00:00,,None,843
+393080,77,BlockedShot,0.8909999847412109,0.5459999847412109,0.12318000197410583,James Ward-Prowse,a,843,OpenPlay,2020,RightFoot,14555,Arsenal,Southampton,1,1,2020-12-16 18:00:00,Moussa Djenepo,Pass,843
+395619,26,SavedShot,0.740999984741211,0.6559999847412109,0.045828599482774734,James Ward-Prowse,a,843,DirectFreekick,2020,RightFoot,14577,Fulham,Southampton,0,0,2020-12-26 15:00:00,,Standard,843
+395909,43,MissedShots,0.8109999847412109,0.59,0.1275559961795807,James Ward-Prowse,h,843,DirectFreekick,2020,RightFoot,14588,Southampton,West Ham,0,0,2020-12-29 18:00:00,,Standard,843
+399176,77,MissedShots,0.8480000305175781,0.4520000076293945,0.07967209815979004,James Ward-Prowse,a,843,OpenPlay,2020,RightFoot,14619,Leicester,Southampton,2,0,2021-01-16 20:00:00,Stuart Armstrong,Pass,843
+401195,85,SavedShot,0.7930000305175782,0.3629999923706055,0.08343909680843353,James Ward-Prowse,h,843,DirectFreekick,2020,RightFoot,14632,Southampton,Arsenal,1,3,2021-01-26 20:15:00,,Standard,843
+401901,52,BlockedShot,0.7959999847412109,0.43099998474121093,0.11041799932718277,James Ward-Prowse,h,843,DirectFreekick,2020,RightFoot,14641,Southampton,Aston Villa,0,1,2021-01-30 20:00:00,,Standard,843
+402471,16,MissedShots,0.7280000305175781,0.47,0.016576699912548065,James Ward-Prowse,a,843,OpenPlay,2020,RightFoot,14651,Manchester United,Southampton,9,0,2021-02-02 20:15:00,Che Adams,Pass,843
+402474,27,SavedShot,0.82,0.5670000076293945,0.15800899267196655,James Ward-Prowse,a,843,DirectFreekick,2020,RightFoot,14651,Manchester United,Southampton,9,0,2021-02-02 20:15:00,,Standard,843
+403258,47,Goal,0.7419999694824219,0.65,0.047049298882484436,James Ward-Prowse,a,843,DirectFreekick,2020,RightFoot,14661,Newcastle United,Southampton,3,2,2021-02-06 15:00:00,,Standard,843
+404642,78,SavedShot,0.75,0.5209999847412109,0.02124059945344925,James Ward-Prowse,h,843,OpenPlay,2020,RightFoot,14672,Southampton,Wolverhampton Wanderers,1,2,2021-02-14 12:00:00,,None,843
+406373,72,SavedShot,0.7390000152587891,0.6170000076293946,0.014666499570012093,James Ward-Prowse,a,843,OpenPlay,2020,RightFoot,14608,Leeds,Southampton,3,0,2021-02-23 20:00:00,Danny Ings,BlockedPass,843
+408574,31,Goal,0.885,0.5,0.7611690163612366,James Ward-Prowse,a,843,Penalty,2020,RightFoot,14701,Sheffield United,Southampton,0,2,2021-03-06 15:00:00,,Standard,843
+409497,24,Goal,0.885,0.5,0.7611690163612366,James Ward-Prowse,a,843,Penalty,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,,Standard,843
+409500,32,SavedShot,0.6840000152587891,0.4209999847412109,0.010723399929702282,James Ward-Prowse,a,843,OpenPlay,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,Che Adams,Pass,843
+409501,35,MissedShots,0.7190000152587891,0.5729999923706055,0.04379979893565178,James Ward-Prowse,a,843,DirectFreekick,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,,Standard,843
+409517,82,SavedShot,0.7090000152587891,0.415,0.039139699190855026,James Ward-Prowse,a,843,DirectFreekick,2020,RightFoot,14761,Manchester City,Southampton,5,2,2021-03-10 18:00:00,,Standard,843
+410284,52,SavedShot,0.8419999694824218,0.6220000076293946,0.05239139869809151,James Ward-Prowse,h,843,OpenPlay,2020,RightFoot,14713,Southampton,Brighton,1,2,2021-03-14 12:00:00,,None,843
+410286,60,BlockedShot,0.8130000305175781,0.48700000762939455,0.15801000595092773,James Ward-Prowse,h,843,DirectFreekick,2020,RightFoot,14713,Southampton,Brighton,1,2,2021-03-14 12:00:00,,Standard,843
+412910,59,BlockedShot,0.8090000152587891,0.42900001525878906,0.05227530002593994,James Ward-Prowse,h,843,OpenPlay,2020,RightFoot,14733,Southampton,Burnley,3,2,2021-04-04 11:00:00,Nathan Redmond,Pass,843
+414909,93,SavedShot,0.885,0.5,0.7611690163612366,James Ward-Prowse,a,843,Penalty,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,,Standard,843
+414910,94,MissedShots,0.779000015258789,0.355,0.06938660144805908,James Ward-Prowse,a,843,DirectFreekick,2020,RightFoot,14743,West Bromwich Albion,Southampton,3,0,2021-04-12 17:00:00,,Standard,843
+418372,60,Goal,0.885,0.5,0.7611690163612366,James Ward-Prowse,h,843,Penalty,2020,RightFoot,14772,Southampton,Leicester,1,1,2021-04-30 19:00:00,,Standard,843
+420360,68,SavedShot,0.735,0.44099998474121094,0.010490800254046917,James Ward-Prowse,a,843,OpenPlay,2020,RightFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,,Aerial,843
+421155,46,MissedShots,0.7440000152587891,0.549000015258789,0.05898730084300041,James Ward-Prowse,h,843,DirectFreekick,2020,RightFoot,14753,Southampton,Crystal Palace,3,1,2021-05-11 21:00:00,,Standard,843
+421167,79,SavedShot,0.8469999694824218,0.610999984741211,0.040494099259376526,James Ward-Prowse,h,843,OpenPlay,2020,LeftFoot,14753,Southampton,Crystal Palace,3,1,2021-05-11 21:00:00,,Rebound,843
+421985,35,SavedShot,0.8109999847412109,0.455,0.14648699760437012,James Ward-Prowse,h,843,DirectFreekick,2020,RightFoot,14792,Southampton,Fulham,3,1,2021-05-15 14:00:00,,Standard,843
+423139,39,BlockedShot,0.7069999694824218,0.33099998474121095,0.01168929971754551,James Ward-Prowse,h,843,OpenPlay,2020,RightFoot,14802,Southampton,Leeds,0,2,2021-05-18 17:00:00,,BallRecovery,843
+423140,46,ShotOnPost,0.7230000305175781,0.6329999923706054,0.04101400077342987,James Ward-Prowse,h,843,DirectFreekick,2020,RightFoot,14802,Southampton,Leeds,0,2,2021-05-18 17:00:00,,Standard,843
+423144,63,BlockedShot,0.7830000305175782,0.36,0.026280000805854797,James Ward-Prowse,h,843,OpenPlay,2020,RightFoot,14802,Southampton,Leeds,0,2,2021-05-18 17:00:00,Jack Stephens,Pass,843
+424125,20,BlockedShot,0.7330000305175781,0.3579999923706055,0.014875099994242191,James Ward-Prowse,a,843,OpenPlay,2020,LeftFoot,14813,West Ham,Southampton,3,0,2021-05-23 15:00:00,Kyle Walker-Peters,Pass,843
+427514,0,SavedShot,0.7240000152587891,0.7090000152587891,0.03432229906320572,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,,Standard,843
+427536,78,SavedShot,0.71,0.385,0.03775139898061752,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16392,Southampton,Manchester United,1,1,2021-08-22 13:00:00,,Standard,843
+428732,13,MissedShots,0.7559999847412109,0.4159999847412109,0.01837339997291565,James Ward-Prowse,a,843,OpenPlay,2021,LeftFoot,16397,Newcastle United,Southampton,2,2,2021-08-28 14:00:00,Valentino Livramento,Pass,843
+428739,38,SavedShot,0.8719999694824219,0.8540000152587891,0.04458490014076233,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16397,Newcastle United,Southampton,2,2,2021-08-28 14:00:00,,Standard,843
+428756,81,BlockedShot,0.8130000305175781,0.4209999847412109,0.042836401611566544,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16397,Newcastle United,Southampton,2,2,2021-08-28 14:00:00,Mohamed Elyounoussi,Pass,843
+428757,88,MissedShots,0.750999984741211,0.5,0.01959490031003952,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16397,Newcastle United,Southampton,2,2,2021-08-28 14:00:00,Valentino Livramento,Pass,843
+428760,95,Goal,0.885,0.5,0.7611690163612366,James Ward-Prowse,a,843,Penalty,2021,RightFoot,16397,Newcastle United,Southampton,2,2,2021-08-28 14:00:00,,Standard,843
+434101,69,SavedShot,0.7290000152587891,0.7780000305175782,0.02954139932990074,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16433,Southampton,Wolverhampton Wanderers,0,1,2021-09-26 13:00:00,,Standard,843
+434882,20,MissedShots,0.7659999847412109,0.5359999847412109,0.021903200075030327,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16438,Chelsea,Southampton,3,1,2021-10-02 14:00:00,Theo Walcott,Pass,843
+434891,60,Goal,0.885,0.5,0.7611690163612366,James Ward-Prowse,a,843,Penalty,2021,RightFoot,16438,Chelsea,Southampton,3,1,2021-10-02 14:00:00,,Standard,843
+440767,33,SavedShot,0.7669999694824219,0.42700000762939455,0.03318890184164047,James Ward-Prowse,h,843,OpenPlay,2021,RightFoot,16484,Southampton,Aston Villa,1,0,2021-11-05 20:00:00,Stuart Armstrong,Pass,843
+442642,14,SavedShot,0.835,0.625999984741211,0.039144501090049744,James Ward-Prowse,a,843,OpenPlay,2021,LeftFoot,16492,Norwich,Southampton,2,1,2021-11-20 15:00:00,,Rebound,843
+442650,39,MissedShots,0.7169999694824218,0.5690000152587891,0.01487599965184927,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16492,Norwich,Southampton,2,1,2021-11-20 15:00:00,,BallRecovery,843
+446177,52,MissedShots,0.8669999694824219,0.8959999847412109,0.03533089905977249,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16521,Southampton,Brighton,1,1,2021-12-04 15:00:00,,Standard,843
+446185,99,BlockedShot,0.7859999847412109,0.40400001525878904,0.026224300265312195,James Ward-Prowse,h,843,OpenPlay,2021,RightFoot,16521,Southampton,Brighton,1,1,2021-12-04 15:00:00,Valentino Livramento,Pass,843
+447731,12,SavedShot,0.7190000152587891,0.425,0.04368659853935242,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16526,Arsenal,Southampton,3,0,2021-12-11 15:00:00,,Standard,843
+447732,17,MissedShots,0.8190000152587891,0.7290000152587891,0.06772500276565552,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16526,Arsenal,Southampton,3,0,2021-12-11 15:00:00,,Standard,843
+447736,45,BlockedShot,0.8040000152587891,0.759000015258789,0.05189869925379753,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16526,Arsenal,Southampton,3,0,2021-12-11 15:00:00,,Standard,843
+449088,31,Goal,0.7369999694824219,0.5270000076293946,0.05550780147314072,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16542,Crystal Palace,Southampton,2,2,2021-12-15 19:30:00,,Standard,843
+449090,37,BlockedShot,0.784000015258789,0.35400001525878905,0.03584429994225502,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16542,Crystal Palace,Southampton,2,2,2021-12-15 19:30:00,,None,843
+449091,40,MissedShots,0.7980000305175782,0.6309999847412109,0.035916298627853394,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16542,Crystal Palace,Southampton,2,2,2021-12-15 19:30:00,Kyle Walker-Peters,Pass,843
+449100,74,BlockedShot,0.795,0.6120000076293945,0.03318740054965019,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16542,Crystal Palace,Southampton,2,2,2021-12-15 19:30:00,,None,843
+450637,60,Goal,0.885,0.5,0.7611690163612366,James Ward-Prowse,a,843,Penalty,2021,RightFoot,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,,Standard,843
+450723,24,Goal,0.8569999694824219,0.6459999847412109,0.053774598985910416,James Ward-Prowse,h,843,OpenPlay,2021,RightFoot,16575,Southampton,Tottenham,1,1,2021-12-28 15:00:00,,None,843
+450730,53,SavedShot,0.7980000305175782,0.285,0.016808100044727325,James Ward-Prowse,h,843,OpenPlay,2021,LeftFoot,16575,Southampton,Tottenham,1,1,2021-12-28 15:00:00,Stuart Armstrong,Pass,843
+452935,13,BlockedShot,0.7469999694824219,0.445,0.02583179995417595,James Ward-Prowse,h,843,OpenPlay,2021,RightFoot,16551,Southampton,Brentford,4,1,2022-01-11 21:45:00,Ibrahima Diallo,Pass,843
+453279,47,SavedShot,0.7240000152587891,0.5370000076293945,0.017208199948072433,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,Mohammed Salisu,Pass,843
+453284,70,MissedShots,0.685,0.8809999847412109,0.021476199850440025,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,,Standard,843
+453286,83,Goal,0.7090000152587891,0.5829999923706055,0.039241500198841095,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,,Standard,843
+456611,20,SavedShot,0.7440000152587891,0.6309999847412109,0.016670899465680122,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16613,Tottenham,Southampton,2,3,2022-02-09 19:45:00,Mohamed Elyounoussi,Pass,843
+456630,67,BlockedShot,0.7340000152587891,0.5179999923706055,0.01519909966737032,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16613,Tottenham,Southampton,2,3,2022-02-09 19:45:00,,None,843
+456804,8,BlockedShot,0.8569999694824219,0.4590000152587891,0.08266119658946991,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Che Adams,BallTouch,843
+458332,17,SavedShot,0.73,0.3129999923706055,0.038131799548864365,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16633,Southampton,Everton,2,0,2022-02-19 15:00:00,,Standard,843
+459383,20,MissedShots,0.7780000305175782,0.5720000076293945,0.031851399689912796,James Ward-Prowse,h,843,OpenPlay,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,None,843
+459411,83,MissedShots,0.715999984741211,0.4279999923706055,0.042560700327157974,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,,Standard,843
+461053,65,BlockedShot,0.8209999847412109,0.42400001525878905,0.048047199845314026,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16646,Aston Villa,Southampton,4,0,2022-03-05 15:00:00,Valentino Livramento,Pass,843
+461056,79,BlockedShot,0.7769999694824219,0.745,0.045354798436164856,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16646,Aston Villa,Southampton,4,0,2022-03-05 15:00:00,,Standard,843
+463112,85,MissedShots,0.8190000152587891,0.6919999694824219,0.08319339901208878,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16664,Southampton,Watford,1,2,2022-03-13 14:00:00,,Standard,843
+465280,26,BlockedShot,0.764000015258789,0.4540000152587891,0.026556700468063354,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16681,Leeds,Southampton,1,1,2022-04-02 14:00:00,Armando Broja,Pass,843
+465286,48,Goal,0.7780000305175782,0.64,0.06991259753704071,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16681,Leeds,Southampton,1,1,2022-04-02 14:00:00,,Standard,843
+468180,91,SavedShot,0.8269999694824218,0.805,0.04737510159611702,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16700,Southampton,Arsenal,1,0,2022-04-16 14:00:00,,Standard,843
+469697,70,SavedShot,0.745,0.33799999237060546,0.046764399856328964,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16667,Burnley,Southampton,2,0,2022-04-21 18:45:00,,Standard,843
+470475,48,Goal,0.7440000152587891,0.49400001525878906,0.06059899926185608,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16713,Brighton,Southampton,2,2,2022-04-24 13:00:00,,Standard,843
+470477,50,BlockedShot,0.7659999847412109,0.3629999923706055,0.020670399069786072,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16713,Brighton,Southampton,2,2,2022-04-24 13:00:00,Nathan Redmond,Pass,843
+470476,50,BlockedShot,0.7580000305175781,0.6270000076293946,0.020291900262236595,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16713,Brighton,Southampton,2,2,2022-04-24 13:00:00,Nathan Tella,Pass,843
+470480,53,Goal,0.7880000305175782,0.4979999923706055,0.036666400730609894,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16713,Brighton,Southampton,2,2,2022-04-24 13:00:00,Oriol Romeu,Pass,843
+470488,88,MissedShots,0.7659999847412109,0.5270000076293946,0.025919899344444275,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16713,Brighton,Southampton,2,2,2022-04-24 13:00:00,,None,843
+471635,70,MissedShots,0.7869999694824219,0.40700000762939453,0.03173710033297539,James Ward-Prowse,h,843,OpenPlay,2021,RightFoot,16720,Southampton,Crystal Palace,1,2,2022-04-30 14:00:00,Oriol Romeu,Pass,843
+474713,21,SavedShot,0.759000015258789,0.585999984741211,0.01551089994609356,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16734,Brentford,Southampton,3,0,2022-05-07 14:00:00,,None,843
+474716,30,BlockedShot,0.8159999847412109,0.5070000076293946,0.1660580039024353,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16734,Brentford,Southampton,3,0,2022-05-07 14:00:00,,Standard,843
+474729,74,BlockedShot,0.7290000152587891,0.625999984741211,0.04406990110874176,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16734,Brentford,Southampton,3,0,2022-05-07 14:00:00,,Standard,843
+476915,50,BlockedShot,0.72,0.649000015258789,0.03854620084166527,James Ward-Prowse,h,843,DirectFreekick,2021,RightFoot,16740,Southampton,Liverpool,1,2,2022-05-17 18:45:00,,Standard,843
+477882,29,MissedShots,0.7630000305175781,0.47700000762939454,0.025944599881768227,James Ward-Prowse,a,843,OpenPlay,2021,RightFoot,16752,Leicester,Southampton,4,1,2022-05-22 15:00:00,Mohamed Elyounoussi,Pass,843
+477892,78,Goal,0.885,0.5,0.7611690163612366,James Ward-Prowse,a,843,Penalty,2021,RightFoot,16752,Leicester,Southampton,4,1,2022-05-22 15:00:00,,Standard,843
+477894,84,MissedShots,0.7809999847412109,0.34700000762939454,0.06874839961528778,James Ward-Prowse,a,843,DirectFreekick,2021,RightFoot,16752,Leicester,Southampton,4,1,2022-05-22 15:00:00,,Standard,843
+479322,11,Goal,0.8469999694824218,0.45299999237060545,0.04496359825134277,James Ward-Prowse,a,843,OpenPlay,2022,RightFoot,18207,Tottenham,Southampton,4,1,2022-08-06 14:00:00,Moussa Djenepo,Chipped,843
+479335,58,MissedShots,0.795,0.38599998474121094,0.012899099849164486,James Ward-Prowse,a,843,OpenPlay,2022,RightFoot,18207,Tottenham,Southampton,4,1,2022-08-06 14:00:00,Jan Bednarek,Aerial,843
+480351,86,MissedShots,0.705,0.6469999694824219,0.034206800162792206,James Ward-Prowse,h,843,DirectFreekick,2022,RightFoot,18215,Southampton,Leeds,2,2,2022-08-13 14:00:00,,Standard,843
+485922,47,BlockedShot,0.815,0.51,0.044934701174497604,James Ward-Prowse,a,843,OpenPlay,2022,RightFoot,18256,Wolverhampton Wanderers,Southampton,1,0,2022-09-03 14:00:00,Joe Ayodele-Aribo,Pass,843
+485925,59,SavedShot,0.7869999694824219,0.3970000076293945,0.08820980042219162,James Ward-Prowse,a,843,DirectFreekick,2022,RightFoot,18256,Wolverhampton Wanderers,Southampton,1,0,2022-09-03 14:00:00,,Standard,843
+488469,25,BlockedShot,0.8080000305175781,0.565,0.049834299832582474,James Ward-Prowse,a,843,OpenPlay,2022,RightFoot,18272,Aston Villa,Southampton,1,0,2022-09-16 19:00:00,Romain Perraud,BallTouch,843
+488478,47,BlockedShot,0.715,0.580999984741211,0.013204500079154968,James Ward-Prowse,a,843,OpenPlay,2022,RightFoot,18272,Aston Villa,Southampton,1,0,2022-09-16 19:00:00,,None,843
+490122,53,BlockedShot,0.8209999847412109,0.48200000762939454,0.04611850157380104,James Ward-Prowse,h,843,OpenPlay,2022,RightFoot,18290,Southampton,Everton,1,2,2022-10-01 14:00:00,,Rebound,843
+490136,83,BlockedShot,0.7369999694824219,0.575999984741211,0.05264069885015488,James Ward-Prowse,h,843,DirectFreekick,2022,RightFoot,18290,Southampton,Everton,1,2,2022-10-01 14:00:00,,Standard,843
+494403,76,MissedShots,0.7909999847412109,0.5659999847412109,0.048723701387643814,James Ward-Prowse,a,843,OpenPlay,2022,LeftFoot,18313,Bournemouth,Southampton,0,1,2022-10-19 18:30:00,Adam Armstrong,Pass,843
+496502,68,MissedShots,0.7290000152587891,0.46700000762939453,0.019171399995684624,James Ward-Prowse,a,843,OpenPlay,2022,RightFoot,18336,Crystal Palace,Southampton,1,0,2022-10-29 14:00:00,Che Adams,Pass,843
+498652,46,SavedShot,0.715,0.59,0.04113470017910004,James Ward-Prowse,h,843,DirectFreekick,2022,RightFoot,18348,Southampton,Newcastle United,1,4,2022-11-06 14:00:00,,Standard,843
+500939,25,MissedShots,0.764000015258789,0.61,0.06591960042715073,James Ward-Prowse,h,843,DirectFreekick,2022,RightFoot,18371,Southampton,Brighton,1,3,2022-12-26 15:00:00,,Standard,843
+500955,72,Goal,0.9219999694824219,0.46900001525878904,0.3684599995613098,James Ward-Prowse,h,843,SetPiece,2022,Head,18371,Southampton,Brighton,1,3,2022-12-26 15:00:00,,Rebound,843
+500954,72,SavedShot,0.885,0.5,0.7611690163612366,James Ward-Prowse,h,843,Penalty,2022,RightFoot,18371,Southampton,Brighton,1,3,2022-12-26 15:00:00,,Standard,843
+501712,31,OwnGoal,0.10800000190734864,0.46,0,James Ward-Prowse,a,843,FromCorner,2022,RightFoot,18374,Fulham,Southampton,2,1,2022-12-31 15:00:00,,None,843
+501716,55,Goal,0.7290000152587891,0.4809999847412109,0.05098289996385574,James Ward-Prowse,a,843,DirectFreekick,2022,RightFoot,18374,Fulham,Southampton,2,1,2022-12-31 15:00:00,,Standard,843
+502453,18,MissedShots,0.7709999847412109,0.5740000152587891,0.07811550050973892,James Ward-Prowse,h,843,DirectFreekick,2022,RightFoot,18391,Southampton,Nottingham Forest,0,1,2023-01-04 19:30:00,,Standard,843
+503614,45,Goal,0.91,0.4370000076293945,0.3953999876976013,James Ward-Prowse,a,843,OpenPlay,2022,RightFoot,18396,Everton,Southampton,1,2,2023-01-14 15:00:00,Che Adams,TakeOn,843
+503613,46,SavedShot,0.8490000152587891,0.6179999923706054,0.10672999918460846,James Ward-Prowse,a,843,OpenPlay,2022,RightFoot,18396,Everton,Southampton,1,2,2023-01-14 15:00:00,Samuel Edozie,Pass,843
+503619,63,SavedShot,0.7240000152587891,0.524000015258789,0.015800699591636658,James Ward-Prowse,a,843,OpenPlay,2022,RightFoot,18396,Everton,Southampton,1,2,2023-01-14 15:00:00,Carlos Alcaraz,Pass,843
+503623,73,BlockedShot,0.7240000152587891,0.5029999923706054,0.048454400151968,James Ward-Prowse,a,843,DirectFreekick,2022,RightFoot,18396,Everton,Southampton,1,2,2023-01-14 15:00:00,,Standard,843
+503624,77,Goal,0.7730000305175782,0.6669999694824219,0.06016780063509941,James Ward-Prowse,a,843,DirectFreekick,2022,RightFoot,18396,Everton,Southampton,1,2,2023-01-14 15:00:00,,Standard,843
+507077,56,MissedShots,0.7919999694824219,0.3940000152587891,0.029519300907850266,James Ward-Prowse,a,843,OpenPlay,2022,RightFoot,18413,Brentford,Southampton,3,0,2023-02-04 15:00:00,James Bree,Pass,843
+507085,74,MissedShots,0.7380000305175781,0.47,0.016550499945878983,James Ward-Prowse,a,843,OpenPlay,2022,RightFoot,18413,Brentford,Southampton,3,0,2023-02-04 15:00:00,Paul Onuachu,BallTouch,843
+508409,64,BlockedShot,0.755,0.38599998474121094,0.019068099558353424,James Ward-Prowse,h,843,SetPiece,2022,RightFoot,18430,Southampton,Wolverhampton Wanderers,1,2,2023-02-11 15:00:00,Romain Perraud,Pass,843
+509666,45,Goal,0.754000015258789,0.5870000076293945,0.06223990023136139,James Ward-Prowse,a,843,DirectFreekick,2022,RightFoot,18435,Chelsea,Southampton,0,1,2023-02-18 15:00:00,,Standard,843
+510851,65,SavedShot,0.7230000305175781,0.5020000076293946,0.016147200018167496,James Ward-Prowse,a,843,OpenPlay,2022,RightFoot,18446,Leeds,Southampton,1,0,2023-02-25 15:00:00,Sékou Mara,BallTouch,843
+512337,31,SavedShot,0.885,0.5,0.7611690163612366,James Ward-Prowse,h,843,Penalty,2022,RightFoot,18460,Southampton,Leicester,1,0,2023-03-04 17:30:00,,Standard,843
+512342,47,SavedShot,0.785,0.8469999694824218,0.0315232016146183,James Ward-Prowse,h,843,DirectFreekick,2022,RightFoot,18460,Southampton,Leicester,1,0,2023-03-04 17:30:00,,Standard,843
+512346,67,BlockedShot,0.715999984741211,0.575,0.01679770089685917,James Ward-Prowse,h,843,OpenPlay,2022,RightFoot,18460,Southampton,Leicester,1,0,2023-03-04 17:30:00,,None,843
+513913,35,BlockedShot,0.7290000152587891,0.4620000076293945,0.05043359845876694,James Ward-Prowse,a,843,DirectFreekick,2022,RightFoot,18468,Manchester United,Southampton,0,0,2023-03-12 14:00:00,,Standard,843
+513916,53,ShotOnPost,0.7669999694824219,0.40299999237060546,0.0705597996711731,James Ward-Prowse,a,843,DirectFreekick,2022,RightFoot,18468,Manchester United,Southampton,0,0,2023-03-12 14:00:00,,Standard,843
+514523,35,BlockedShot,0.7340000152587891,0.4229999923706055,0.010274400003254414,James Ward-Prowse,h,843,OpenPlay,2022,RightFoot,18265,Southampton,Brentford,0,2,2023-03-15 19:30:00,,Aerial,843
+514526,62,MissedShots,0.7780000305175782,0.27700000762939453,0.05021139979362488,James Ward-Prowse,h,843,DirectFreekick,2022,RightFoot,18265,Southampton,Brentford,0,2,2023-03-15 19:30:00,,Standard,843
+514995,2,MissedShots,0.8130000305175781,0.455,0.039395399391651154,James Ward-Prowse,h,843,OpenPlay,2022,RightFoot,18480,Southampton,Tottenham,3,3,2023-03-18 15:00:00,,Rebound,843
+514997,9,MissedShots,0.8040000152587891,0.365,0.031143000349402428,James Ward-Prowse,h,843,OpenPlay,2022,LeftFoot,18480,Southampton,Tottenham,3,3,2023-03-18 15:00:00,Che Adams,Pass,843
+515011,50,MissedShots,0.710999984741211,0.5570000076293945,0.04117700085043907,James Ward-Prowse,h,843,DirectFreekick,2022,RightFoot,18480,Southampton,Tottenham,3,3,2023-03-18 15:00:00,,Standard,843
+515018,68,SavedShot,0.6980000305175781,0.6619999694824219,0.012768000364303589,James Ward-Prowse,h,843,OpenPlay,2022,RightFoot,18480,Southampton,Tottenham,3,3,2023-03-18 15:00:00,Romeo Lavia,Pass,843
+515026,92,Goal,0.885,0.5,0.7611690163612366,James Ward-Prowse,h,843,Penalty,2022,RightFoot,18480,Southampton,Tottenham,3,3,2023-03-18 15:00:00,,Standard,843
+525537,93,SavedShot,0.9130000305175782,0.655,0.012484366074204445,James Ward-Prowse,a,843,FromCorner,2022,Head,18548,Nottingham Forest,Southampton,4,3,2023-05-08 19:00:00,Ainsley Maitland-Niles,Chipped,843
+525538,95,Goal,0.885,0.5,0.7611688375473022,James Ward-Prowse,a,843,Penalty,2022,RightFoot,18548,Nottingham Forest,Southampton,4,3,2023-05-08 19:00:00,,Standard,843
+527962,71,BlockedShot,0.840999984741211,0.8590000152587891,0.03845875337719917,James Ward-Prowse,a,843,DirectFreekick,2022,RightFoot,18563,Brighton,Southampton,3,1,2023-05-21 13:00:00,,Standard,843
+529892,18,Goal,0.8690000152587891,0.5570000076293945,0.09558911621570587,James Ward-Prowse,h,843,OpenPlay,2022,RightFoot,18581,Southampton,Liverpool,4,4,2023-05-28 15:30:00,Carlos Alcaraz,Pass,843
+529898,30,SavedShot,0.8159999847412109,0.8640000152587891,0.033821314573287964,James Ward-Prowse,h,843,DirectFreekick,2022,RightFoot,18581,Southampton,Liverpool,4,4,2023-05-28 15:30:00,,Standard,843
+533856,50,BlockedShot,0.7419999694824219,0.56,0.020264754071831703,James Ward-Prowse,h,843,OpenPlay,2023,RightFoot,22293,West Ham,Chelsea,3,1,2023-08-20 15:30:00,Lucas Paquetá,Pass,843
+534782,18,Goal,0.9769999694824218,0.45299999237060545,0.8582800030708313,James Ward-Prowse,a,843,OpenPlay,2023,RightFoot,22301,Brighton,West Ham,1,3,2023-08-26 16:30:00,,Rebound,843
+534781,18,BlockedShot,0.9319999694824219,0.545,0.15586480498313904,James Ward-Prowse,a,843,OpenPlay,2023,LeftFoot,22301,Brighton,West Ham,1,3,2023-08-26 16:30:00,Michail Antonio,Pass,843
+534803,67,SavedShot,0.7680000305175781,0.5570000076293945,0.026833074167370796,James Ward-Prowse,a,843,OpenPlay,2023,RightFoot,22301,Brighton,West Ham,1,3,2023-08-26 16:30:00,Said Benrahma,Pass,843
+537609,34,SavedShot,0.8109999847412109,0.4,0.04874338582158089,James Ward-Prowse,h,843,OpenPlay,2023,RightFoot,21937,West Ham,Manchester City,1,3,2023-09-16 14:00:00,Emerson,Pass,843
+537610,35,Goal,0.9290000152587891,0.5359999847412109,0.48241332173347473,James Ward-Prowse,h,843,OpenPlay,2023,Head,21937,West Ham,Manchester City,1,3,2023-09-16 14:00:00,Vladimir Coufal,Cross,843
+541254,18,SavedShot,0.795,0.32599998474121095,0.07250095903873444,James Ward-Prowse,h,843,DirectFreekick,2023,RightFoot,21960,West Ham,Sheffield United,2,0,2023-09-30 14:00:00,,Standard,843
+541263,41,SavedShot,0.8619999694824219,0.5320000076293945,0.018839700147509575,James Ward-Prowse,h,843,OpenPlay,2023,Head,21960,West Ham,Sheffield United,2,0,2023-09-30 14:00:00,Vladimir Coufal,Aerial,843
+543079,79,MissedShots,0.7969999694824219,0.624000015258789,0.09229016304016113,James Ward-Prowse,h,843,DirectFreekick,2023,RightFoot,21973,West Ham,Newcastle United,2,2,2023-10-08 13:00:00,,Standard,843
+544769,41,BlockedShot,0.79,0.36,0.07968739420175552,James Ward-Prowse,a,843,DirectFreekick,2023,RightFoot,21976,Aston Villa,West Ham,4,1,2023-10-22 15:30:00,,Standard,843
+546877,78,BlockedShot,0.865999984741211,0.27399999618530274,0.029922183603048325,James Ward-Prowse,a,843,OpenPlay,2023,RightFoot,21995,Brentford,West Ham,3,2,2023-11-04 15:00:00,Jarrod Bowen,BallRecovery,843
+548753,55,MissedShots,0.905,0.88,0.04265140742063522,James Ward-Prowse,h,843,DirectFreekick,2023,RightFoot,22013,West Ham,Nottingham Forest,3,2,2023-11-12 14:00:00,,Standard,843
+548757,71,BlockedShot,0.7369999694824219,0.4809999847412109,0.018973181024193764,James Ward-Prowse,h,843,OpenPlay,2023,RightFoot,22013,West Ham,Nottingham Forest,3,2,2023-11-12 14:00:00,Mohammed Kudus,Pass,843
+548763,96,BlockedShot,0.8040000152587891,0.475,0.0876803770661354,James Ward-Prowse,h,843,OpenPlay,2023,RightFoot,22013,West Ham,Nottingham Forest,3,2,2023-11-12 14:00:00,Lucas Paquetá,Pass,843
+549699,54,BlockedShot,0.8569999694824219,0.575999984741211,0.025828005746006966,James Ward-Prowse,a,843,OpenPlay,2023,RightFoot,22016,Burnley,West Ham,1,2,2023-11-25 15:00:00,,Aerial,843
+551768,59,BlockedShot,0.7680000305175781,0.35200000762939454,0.06125284358859062,James Ward-Prowse,h,843,DirectFreekick,2023,RightFoot,22034,West Ham,Crystal Palace,1,1,2023-12-03 14:00:00,,Standard,843
+552473,73,Goal,0.9269999694824219,0.5259999847412109,0.5380217432975769,James Ward-Prowse,a,843,OpenPlay,2023,LeftFoot,22041,Tottenham,West Ham,1,2,2023-12-07 20:15:00,,None,843
+552472,73,ShotOnPost,0.8190000152587891,0.544000015258789,0.05812818929553032,James Ward-Prowse,a,843,OpenPlay,2023,LeftFoot,22041,Tottenham,West Ham,1,2,2023-12-07 20:15:00,,Goal,843
+553415,5,SavedShot,0.665,0.37,0.026970509439706802,James Ward-Prowse,a,843,DirectFreekick,2023,RightFoot,22049,Fulham,West Ham,5,0,2023-12-10 14:00:00,,Standard,843
+554766,18,SavedShot,0.6940000152587891,0.6730000305175782,0.030213475227355957,James Ward-Prowse,h,843,DirectFreekick,2023,RightFoot,22064,West Ham,Wolverhampton Wanderers,3,0,2023-12-17 14:00:00,,Standard,843
+554787,80,MissedShots,0.765,0.6329999923706054,0.06233489140868187,James Ward-Prowse,h,843,DirectFreekick,2023,RightFoot,22064,West Ham,Wolverhampton Wanderers,3,0,2023-12-17 14:00:00,,Standard,843
+556117,4,MissedShots,0.8030000305175782,0.534000015258789,0.04480624943971634,James Ward-Prowse,h,843,OpenPlay,2023,RightFoot,22072,West Ham,Manchester United,2,0,2023-12-23 12:30:00,,None,843
+556711,0,MissedShots,0.7709999847412109,0.4590000152587891,0.0133289759978652,James Ward-Prowse,a,843,OpenPlay,2023,RightFoot,22076,Arsenal,West Ham,0,2,2023-12-28 20:15:00,,Aerial,843
+557292,27,SavedShot,0.9019999694824219,0.590999984741211,0.08505090326070786,James Ward-Prowse,h,843,OpenPlay,2023,LeftFoot,22093,West Ham,Brighton,0,0,2024-01-02 18:30:00,,None,843
+559272,78,Goal,0.885,0.5,0.7611688375473022,James Ward-Prowse,a,843,Penalty,2023,RightFoot,22101,Sheffield United,West Ham,2,2,2024-01-21 14:00:00,,Standard,843
+560801,60,Goal,0.885,0.5,0.7611688375473022,James Ward-Prowse,h,843,Penalty,2023,RightFoot,22110,West Ham,Bournemouth,1,1,2024-02-01 19:30:00,,Standard,843
+561603,19,BlockedShot,0.799000015258789,0.5670000076293945,0.11592038720846176,James Ward-Prowse,a,843,DirectFreekick,2023,RightFoot,22122,Manchester United,West Ham,3,0,2024-02-04 14:00:00,,Standard,843
+561610,43,MissedShots,0.774000015258789,0.485,0.029591478407382965,James Ward-Prowse,a,843,OpenPlay,2023,RightFoot,22122,Manchester United,West Ham,3,0,2024-02-04 14:00:00,,None,843
+563896,60,MissedShots,0.8119999694824219,0.735,0.062179822474718094,James Ward-Prowse,a,843,DirectFreekick,2023,RightFoot,22142,Nottingham Forest,West Ham,2,0,2024-02-17 15:00:00,,Standard,843
+566009,3,MissedShots,0.8980000305175782,0.4379999923706055,0.06391218304634094,James Ward-Prowse,h,843,OpenPlay,2023,Head,22153,West Ham,Brentford,4,2,2024-02-26 20:00:00,Vladimir Coufal,Cross,843
+566028,73,SavedShot,0.7419999694824219,0.5379999923706055,0.023949777707457542,James Ward-Prowse,h,843,OpenPlay,2023,RightFoot,22153,West Ham,Brentford,4,2,2024-02-26 20:00:00,Emerson,Pass,843
+569837,91,BlockedShot,0.9030000305175782,0.47,0.14949139952659607,James Ward-Prowse,h,843,OpenPlay,2023,RightFoot,22183,West Ham,Aston Villa,1,1,2024-03-17 14:00:00,Mohammed Kudus,Pass,843
+571848,36,SavedShot,0.7119999694824218,0.35200000762939454,0.036105185747146606,James Ward-Prowse,h,843,DirectFreekick,2023,RightFoot,22199,West Ham,Tottenham,1,1,2024-04-02 19:15:00,,Standard,843
+572466,10,BlockedShot,0.7319999694824219,0.54,0.017100868746638298,James Ward-Prowse,a,843,OpenPlay,2023,RightFoot,22214,Wolverhampton Wanderers,West Ham,1,2,2024-04-06 14:00:00,,BallRecovery,843
+572480,58,BlockedShot,0.789000015258789,0.549000015258789,0.10452206432819366,James Ward-Prowse,a,843,DirectFreekick,2023,RightFoot,22214,Wolverhampton Wanderers,West Ham,1,2,2024-04-06 14:00:00,,Standard,843
+572481,59,MissedShots,0.8930000305175781,0.6029999923706054,0.012176308780908585,James Ward-Prowse,a,843,FromCorner,2023,Head,22214,Wolverhampton Wanderers,West Ham,1,2,2024-04-06 14:00:00,Lucas Paquetá,Aerial,843
+572485,83,Goal,0.9969999694824219,0.995,0.012514282017946243,James Ward-Prowse,a,843,FromCorner,2023,RightFoot,22214,Wolverhampton Wanderers,West Ham,1,2,2024-04-06 14:00:00,,CornerAwarded,843
+572489,97,MissedShots,0.7140000152587891,0.6029999923706054,0.039934150874614716,James Ward-Prowse,a,843,DirectFreekick,2023,RightFoot,22214,Wolverhampton Wanderers,West Ham,1,2,2024-04-06 14:00:00,,Standard,843
+574190,18,SavedShot,0.7369999694824219,0.669000015258789,0.015355877578258514,James Ward-Prowse,h,843,OpenPlay,2023,RightFoot,22224,West Ham,Fulham,0,2,2024-04-14 13:00:00,Emerson,Pass,843
+574204,46,MissedShots,0.91,0.5820000076293945,0.22940421104431152,James Ward-Prowse,h,843,OpenPlay,2023,Head,22224,West Ham,Fulham,0,2,2024-04-14 13:00:00,Lucas Paquetá,Cross,843
+578823,54,SavedShot,0.7759999847412109,0.725999984741211,0.04877309501171112,James Ward-Prowse,a,843,DirectFreekick,2023,RightFoot,22249,Chelsea,West Ham,5,0,2024-05-05 13:00:00,,Standard,843
+578830,70,MissedShots,0.730999984741211,0.6090000152587891,0.04659168794751167,James Ward-Prowse,a,843,DirectFreekick,2023,RightFoot,22249,Chelsea,West Ham,5,0,2024-05-05 13:00:00,,Standard,843
+579873,10,BlockedShot,0.7830000305175782,0.32299999237060545,0.06371045857667923,James Ward-Prowse,h,843,DirectFreekick,2023,RightFoot,22263,West Ham,Luton,3,1,2024-05-11 14:00:00,,Standard,843
+579883,53,Goal,0.8730000305175781,0.4209999847412109,0.06483994424343109,James Ward-Prowse,h,843,OpenPlay,2023,RightFoot,22263,West Ham,Luton,3,1,2024-05-11 14:00:00,,None,843
+594058,42,BlockedShot,0.750999984741211,0.645,0.015168030746281147,James Ward-Prowse,h,843,OpenPlay,2024,RightFoot,26653,Nottingham Forest,Fulham,0,1,2024-09-28 14:00:00,Elliot Anderson,Pass,843
+596075,75,SavedShot,0.7340000152587891,0.6430000305175781,0.04440886899828911,James Ward-Prowse,a,843,DirectFreekick,2024,RightFoot,26668,Chelsea,Nottingham Forest,1,1,2024-10-06 13:00:00,,Standard,843

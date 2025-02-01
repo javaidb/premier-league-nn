@@ -1,0 +1,144 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+251907,91,SavedShot,0.8019999694824219,0.4759999847412109,0.028753099963068962,Sean Longstaff,a,7078,OpenPlay,2018,RightFoot,9381,Liverpool,Newcastle United,4,0,2018-12-26 15:00:00,,TakeOn,7078
+274527,93,BlockedShot,0.8959999847412109,0.27399999618530274,0.035770900547504425,Sean Longstaff,a,7078,OpenPlay,2018,RightFoot,9413,Chelsea,Newcastle United,2,1,2019-01-12 17:30:00,Javier Manquillo,Pass,7078
+274767,16,MissedShots,0.745999984741211,0.6990000152587891,0.013388999737799168,Sean Longstaff,h,7078,OpenPlay,2018,RightFoot,9420,Newcastle United,Cardiff,3,0,2019-01-19 15:00:00,Salomón Rondón,Pass,7078
+275149,87,MissedShots,0.700999984741211,0.47,0.013762200251221657,Sean Longstaff,a,7078,OpenPlay,2018,RightFoot,9438,Tottenham,Newcastle United,1,0,2019-02-02 12:30:00,,TakeOn,7078
+275631,25,BlockedShot,0.7269999694824218,0.43099998474121093,0.01469419989734888,Sean Longstaff,a,7078,OpenPlay,2018,RightFoot,9450,Wolverhampton Wanderers,Newcastle United,1,1,2019-02-11 20:00:00,Isaac Hayden,BallRecovery,7078
+275771,39,BlockedShot,0.8390000152587891,0.52,0.08746299892663956,Sean Longstaff,h,7078,OpenPlay,2018,RightFoot,9458,Newcastle United,Huddersfield,2,0,2019-02-23 15:00:00,Miguel Almirón,Pass,7078
+275790,75,ShotOnPost,0.7369999694824219,0.625999984741211,0.01716119982302189,Sean Longstaff,h,7078,OpenPlay,2018,RightFoot,9458,Newcastle United,Huddersfield,2,0,2019-02-23 15:00:00,Miguel Almirón,Pass,7078
+275943,37,Goal,0.9440000152587891,0.39799999237060546,0.5425900220870972,Sean Longstaff,h,7078,OpenPlay,2018,RightFoot,9473,Newcastle United,Burnley,2,0,2019-02-26 20:00:00,,Aerial,7078
+313113,22,SavedShot,0.87,0.3029999923706055,0.05023369938135147,Sean Longstaff,a,7078,OpenPlay,2019,RightFoot,11672,Tottenham,Newcastle United,0,1,2019-08-25 16:30:00,Joelinton,Pass,7078
+315884,48,MissedShots,0.71,0.6609999847412109,0.03459950163960457,Sean Longstaff,h,7078,DirectFreekick,2019,RightFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,,Standard,7078
+315888,62,SavedShot,0.725999984741211,0.46,0.017474599182605743,Sean Longstaff,h,7078,OpenPlay,2019,RightFoot,11679,Newcastle United,Watford,1,1,2019-08-31 15:00:00,Christian Atsu,Pass,7078
+324973,76,SavedShot,0.754000015258789,0.7480000305175781,0.014017400331795216,Sean Longstaff,h,7078,OpenPlay,2019,RightFoot,11721,Newcastle United,Manchester United,1,0,2019-10-06 16:30:00,Jetro Willems,Pass,7078
+327857,34,MissedShots,0.774000015258789,0.3529999923706055,0.01639609970152378,Sean Longstaff,h,7078,OpenPlay,2019,RightFoot,11738,Newcastle United,Wolverhampton Wanderers,1,1,2019-10-27 14:00:00,,Rebound,7078
+327860,42,MissedShots,0.7609999847412109,0.46,0.02589620091021061,Sean Longstaff,h,7078,OpenPlay,2019,LeftFoot,11738,Newcastle United,Wolverhampton Wanderers,1,1,2019-10-27 14:00:00,,Rebound,7078
+327859,42,BlockedShot,0.815,0.42700000762939455,0.055076099932193756,Sean Longstaff,h,7078,OpenPlay,2019,RightFoot,11738,Newcastle United,Wolverhampton Wanderers,1,1,2019-10-27 14:00:00,Miguel Almirón,Pass,7078
+336318,86,SavedShot,0.7380000305175781,0.5359999847412109,0.020383499562740326,Sean Longstaff,h,7078,FromCorner,2019,RightFoot,11798,Newcastle United,Southampton,2,1,2019-12-08 14:00:00,Allan Saint-Maximin,Pass,7078
+337085,17,BlockedShot,0.7580000305175781,0.34599998474121096,0.015598399564623833,Sean Longstaff,a,7078,OpenPlay,2019,RightFoot,11804,Burnley,Newcastle United,1,0,2019-12-14 15:00:00,Christian Atsu,Pass,7078
+337088,46,MissedShots,0.8169999694824219,0.56,0.049858901649713516,Sean Longstaff,a,7078,OpenPlay,2019,LeftFoot,11804,Burnley,Newcastle United,1,0,2019-12-14 15:00:00,,None,7078
+337095,77,BlockedShot,0.73,0.5070000076293946,0.016456900164484978,Sean Longstaff,a,7078,OpenPlay,2019,RightFoot,11804,Burnley,Newcastle United,1,0,2019-12-14 15:00:00,,None,7078
+339667,73,MissedShots,0.754000015258789,0.68,0.011064000427722931,Sean Longstaff,a,7078,OpenPlay,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Christian Atsu,GoodSkill,7078
+351670,25,MissedShots,0.749000015258789,0.515,0.020833700895309448,Sean Longstaff,a,7078,OpenPlay,2019,RightFoot,11853,Wolverhampton Wanderers,Newcastle United,1,1,2020-01-11 15:00:00,Jetro Willems,Pass,7078
+351677,53,BlockedShot,0.775,0.6229999923706054,0.02120080031454563,Sean Longstaff,a,7078,OpenPlay,2019,RightFoot,11853,Wolverhampton Wanderers,Newcastle United,1,1,2020-01-11 15:00:00,Jetro Willems,Pass,7078
+352104,39,MissedShots,0.7809999847412109,0.5820000076293945,0.021354200318455696,Sean Longstaff,a,7078,FromCorner,2019,LeftFoot,11877,Everton,Newcastle United,2,2,2020-01-21 19:30:00,,None,7078
+352417,68,BlockedShot,0.7619999694824219,0.5779999923706055,0.06949020177125931,Sean Longstaff,h,7078,DirectFreekick,2019,RightFoot,11889,Newcastle United,Norwich,0,0,2020-02-01 15:00:00,,Standard,7078
+352422,83,SavedShot,0.914000015258789,0.4809999847412109,0.03637290000915527,Sean Longstaff,h,7078,FromCorner,2019,Head,11889,Newcastle United,Norwich,0,0,2020-02-01 15:00:00,Matt Ritchie,Aerial,7078
+352823,13,SavedShot,0.7780000305175782,0.445,0.01025409996509552,Sean Longstaff,a,7078,FromCorner,2019,RightFoot,11893,Arsenal,Newcastle United,4,0,2020-02-16 16:30:00,Valentino Lazaro,Chipped,7078
+352825,19,MissedShots,0.745999984741211,0.59,0.056630101054906845,Sean Longstaff,a,7078,DirectFreekick,2019,RightFoot,11893,Arsenal,Newcastle United,4,0,2020-02-16 16:30:00,,Standard,7078
+352841,71,BlockedShot,0.7680000305175781,0.355,0.01868869923055172,Sean Longstaff,a,7078,OpenPlay,2019,RightFoot,11893,Arsenal,Newcastle United,4,0,2020-02-16 16:30:00,Allan Saint-Maximin,Pass,7078
+352956,41,MissedShots,0.850999984741211,0.3,0.03974530100822449,Sean Longstaff,a,7078,OpenPlay,2019,LeftFoot,11905,Crystal Palace,Newcastle United,1,0,2020-02-22 15:00:00,Valentino Lazaro,Pass,7078
+353475,85,BlockedShot,0.799000015258789,0.500999984741211,0.055806200951337814,Sean Longstaff,a,7078,OpenPlay,2019,RightFoot,11930,Southampton,Newcastle United,0,1,2020-03-07 15:00:00,Allan Saint-Maximin,Pass,7078
+367970,14,MissedShots,0.815,0.524000015258789,0.04293740168213844,Sean Longstaff,a,7078,OpenPlay,2019,RightFoot,11955,Bournemouth,Newcastle United,1,4,2020-07-01 17:00:00,Joelinton,HeadPass,7078
+367973,29,Goal,0.905,0.5259999847412109,0.4363589882850647,Sean Longstaff,a,7078,OpenPlay,2019,LeftFoot,11955,Bournemouth,Newcastle United,1,4,2020-07-01 17:00:00,Allan Saint-Maximin,Pass,7078
+373783,50,MissedShots,0.749000015258789,0.46099998474121096,0.02088860049843788,Sean Longstaff,h,7078,OpenPlay,2019,RightFoot,12016,Newcastle United,Liverpool,1,3,2020-07-26 15:00:00,Jonjo Shelvey,Pass,7078
+380823,92,MissedShots,0.765,0.4929999923706055,0.03144820034503937,Sean Longstaff,h,7078,OpenPlay,2020,LeftFoot,14472,Newcastle United,Burnley,3,1,2020-10-03 19:00:00,Callum Wilson,Pass,7078
+385145,57,SavedShot,0.9009999847412109,0.45,0.12358199805021286,Sean Longstaff,h,7078,OpenPlay,2020,RightFoot,14501,Newcastle United,Everton,2,1,2020-11-01 14:00:00,,None,7078
+385741,21,SavedShot,0.9069999694824219,0.455,0.03150729835033417,Sean Longstaff,a,7078,OpenPlay,2020,Head,14512,Southampton,Newcastle United,2,0,2020-11-06 20:00:00,Jamal Lewis,Aerial,7078
+387154,71,ShotOnPost,0.7630000305175781,0.3160000038146973,0.022440100088715553,Sean Longstaff,h,7078,FromCorner,2020,RightFoot,14521,Newcastle United,Chelsea,0,2,2020-11-21 12:30:00,Miguel Almirón,Pass,7078
+388462,82,BlockedShot,0.7609999847412109,0.51,0.021590499207377434,Sean Longstaff,a,7078,SetPiece,2020,RightFoot,14530,Crystal Palace,Newcastle United,0,2,2020-11-27 20:00:00,,Dispossessed,7078
+391637,61,SavedShot,0.7230000305175781,0.5309999847412109,0.012858400121331215,Sean Longstaff,h,7078,FromCorner,2020,RightFoot,14550,Newcastle United,West Bromwich Albion,2,1,2020-12-12 15:00:00,,Aerial,7078
+394239,66,SavedShot,0.710999984741211,0.5879999923706055,0.03971650078892708,Sean Longstaff,h,7078,DirectFreekick,2020,RightFoot,14571,Newcastle United,Fulham,1,1,2020-12-19 20:00:00,,Standard,7078
+396870,20,BlockedShot,0.8159999847412109,0.5459999847412109,0.018240800127387047,Sean Longstaff,h,7078,SetPiece,2020,RightFoot,14597,Newcastle United,Leicester,1,2,2021-01-03 14:15:00,,Aerial,7078
+413088,46,MissedShots,0.9519999694824218,0.6759999847412109,0.05943400040268898,Sean Longstaff,h,7078,SetPiece,2020,RightFoot,14732,Newcastle United,Tottenham,2,2,2021-04-04 13:05:00,,Dispossessed,7078
+413092,48,MissedShots,0.855999984741211,0.38599998474121094,0.05301789939403534,Sean Longstaff,h,7078,OpenPlay,2020,LeftFoot,14732,Newcastle United,Tottenham,2,2,2021-04-04 13:05:00,,None,7078
+413104,89,MissedShots,0.7230000305175781,0.445,0.01477889996021986,Sean Longstaff,h,7078,OpenPlay,2020,RightFoot,14732,Newcastle United,Tottenham,2,2,2021-04-04 13:05:00,Allan Saint-Maximin,Pass,7078
+414213,37,BlockedShot,0.925,0.4879999923706055,0.04982610046863556,Sean Longstaff,a,7078,OpenPlay,2020,Head,14736,Burnley,Newcastle United,1,2,2021-04-11 11:00:00,,None,7078
+415122,5,BlockedShot,0.8090000152587891,0.49900001525878906,0.060203101485967636,Sean Longstaff,h,7078,OpenPlay,2020,RightFoot,14752,Newcastle United,West Ham,3,2,2021-04-17 11:30:00,Miguel Almirón,Pass,7078
+417049,19,SavedShot,0.9030000305175782,0.639000015258789,0.2527160048484802,Sean Longstaff,a,7078,OpenPlay,2020,LeftFoot,14760,Liverpool,Newcastle United,1,1,2021-04-24 11:30:00,Jonjo Shelvey,Chipped,7078
+423971,7,BlockedShot,0.8169999694824219,0.49,0.03506910055875778,Sean Longstaff,a,7078,FromCorner,2020,RightFoot,14807,Fulham,Newcastle United,0,2,2021-05-23 15:00:00,,Tackle,7078
+428742,42,MissedShots,0.715999984741211,0.30700000762939456,0.011378499679267406,Sean Longstaff,h,7078,OpenPlay,2021,RightFoot,16397,Newcastle United,Southampton,2,2,2021-08-28 14:00:00,Allan Saint-Maximin,Pass,7078
+431013,42,SavedShot,0.8209999847412109,0.549000015258789,0.04454680159687996,Sean Longstaff,h,7078,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Miguel Almirón,Pass,7078
+431024,65,MissedShots,0.68,0.42400001525878905,0.014034999534487724,Sean Longstaff,h,7078,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,Isaac Hayden,Pass,7078
+431025,69,MissedShots,0.7340000152587891,0.4490000152587891,0.015217199921607971,Sean Longstaff,h,7078,OpenPlay,2021,RightFoot,16416,Newcastle United,Leeds,1,1,2021-09-17 19:00:00,,None,7078
+433480,12,BlockedShot,0.7480000305175781,0.48400001525878905,0.01685520075261593,Sean Longstaff,a,7078,FromCorner,2021,RightFoot,16427,Watford,Newcastle United,1,1,2021-09-25 14:00:00,,None,7078
+433483,14,MissedShots,0.7959999847412109,0.500999984741211,0.02893799915909767,Sean Longstaff,a,7078,FromCorner,2021,RightFoot,16427,Watford,Newcastle United,1,1,2021-09-25 14:00:00,,None,7078
+433485,22,Goal,0.755,0.7140000152587891,0.016517600044608116,Sean Longstaff,a,7078,FromCorner,2021,RightFoot,16427,Watford,Newcastle United,1,1,2021-09-25 14:00:00,Allan Saint-Maximin,Pass,7078
+433491,43,MissedShots,0.8519999694824218,0.5129999923706055,0.35607099533081055,Sean Longstaff,a,7078,OpenPlay,2021,RightFoot,16427,Watford,Newcastle United,1,1,2021-09-25 14:00:00,Allan Saint-Maximin,Pass,7078
+434938,68,BlockedShot,0.7530000305175781,0.6179999923706054,0.057297199964523315,Sean Longstaff,a,7078,DirectFreekick,2021,RightFoot,16445,Wolverhampton Wanderers,Newcastle United,2,1,2021-10-02 14:00:00,,Standard,7078
+439643,54,BlockedShot,0.7219999694824218,0.5609999847412109,0.010630999691784382,Sean Longstaff,h,7078,SetPiece,2021,RightFoot,16471,Newcastle United,Chelsea,0,3,2021-10-30 14:00:00,,None,7078
+453226,38,MissedShots,0.799000015258789,0.5029999923706054,0.04258890077471733,Sean Longstaff,h,7078,OpenPlay,2021,LeftFoot,16591,Newcastle United,Watford,1,1,2022-01-15 15:00:00,,None,7078
+454616,71,MissedShots,0.8059999847412109,0.6170000076293946,0.06494040042161942,Sean Longstaff,a,7078,OpenPlay,2021,RightFoot,16601,Leeds,Newcastle United,0,1,2022-01-22 15:00:00,Chris Wood,Pass,7078
+462948,76,MissedShots,0.7330000305175781,0.48200000762939454,0.01852940022945404,Sean Longstaff,a,7078,OpenPlay,2021,RightFoot,16659,Chelsea,Newcastle United,1,0,2022-03-13 14:00:00,Allan Saint-Maximin,Pass,7078
+470037,44,MissedShots,0.8669999694824219,0.6580000305175782,0.06171049922704697,Sean Longstaff,a,7078,OpenPlay,2021,RightFoot,16706,Norwich,Newcastle United,0,3,2022-04-23 14:00:00,,None,7078
+476883,51,BlockedShot,0.7619999694824219,0.27299999237060546,0.018292900174856186,Sean Longstaff,h,7078,OpenPlay,2021,RightFoot,16741,Newcastle United,Arsenal,2,0,2022-05-16 19:00:00,Bruno Guimarães,Pass,7078
+484208,11,BlockedShot,0.86,0.46799999237060547,0.03826560080051422,Sean Longstaff,a,7078,OpenPlay,2022,RightFoot,18240,Wolverhampton Wanderers,Newcastle United,1,1,2022-08-28 13:00:00,,Aerial,7078
+484211,14,BlockedShot,0.825,0.5309999847412109,0.07378210127353668,Sean Longstaff,a,7078,OpenPlay,2022,RightFoot,18240,Wolverhampton Wanderers,Newcastle United,1,1,2022-08-28 13:00:00,Chris Wood,Pass,7078
+485985,33,SavedShot,0.9169999694824219,0.5279999923706055,0.0383622981607914,Sean Longstaff,h,7078,FromCorner,2022,Head,18253,Newcastle United,Crystal Palace,0,0,2022-09-03 14:00:00,Matt Targett,Aerial,7078
+485992,38,BlockedShot,0.8619999694824219,0.5659999847412109,0.06349340081214905,Sean Longstaff,h,7078,FromCorner,2022,RightFoot,18253,Newcastle United,Crystal Palace,0,0,2022-09-03 14:00:00,,None,7078
+490175,42,Goal,0.9730000305175781,0.43,0.530938982963562,Sean Longstaff,a,7078,FromCorner,2022,RightFoot,18285,Fulham,Newcastle United,1,4,2022-10-01 14:00:00,,Rebound,7078
+490185,93,MissedShots,0.7959999847412109,0.635,0.034866299480199814,Sean Longstaff,a,7078,OpenPlay,2022,RightFoot,18285,Fulham,Newcastle United,1,4,2022-10-01 14:00:00,Elliot Anderson,Pass,7078
+496542,5,MissedShots,0.72,0.04699999809265137,0.009798560291528702,Sean Longstaff,h,7078,OpenPlay,2022,RightFoot,18341,Newcastle United,Aston Villa,4,0,2022-10-29 14:00:00,Miguel Almirón,Pass,7078
+496550,51,BlockedShot,0.794000015258789,0.35200000762939454,0.03700460121035576,Sean Longstaff,h,7078,OpenPlay,2022,RightFoot,18341,Newcastle United,Aston Villa,4,0,2022-10-29 14:00:00,Bruno Guimarães,Pass,7078
+496558,76,MissedShots,0.85,0.634000015258789,0.039917800575494766,Sean Longstaff,h,7078,FromCorner,2022,LeftFoot,18341,Newcastle United,Aston Villa,4,0,2022-10-29 14:00:00,,None,7078
+498649,40,MissedShots,0.94,0.5459999847412109,0.4383859932422638,Sean Longstaff,a,7078,OpenPlay,2022,Head,18348,Southampton,Newcastle United,1,4,2022-11-06 14:00:00,Joe Willock,Cross,7078
+500324,50,MissedShots,0.915,0.4370000076293945,0.3405660092830658,Sean Longstaff,h,7078,OpenPlay,2022,RightFoot,18357,Newcastle United,Chelsea,1,0,2022-11-12 17:30:00,Miguel Almirón,Cross,7078
+500322,50,SavedShot,0.9540000152587891,0.505,0.6147310137748718,Sean Longstaff,h,7078,OpenPlay,2022,LeftFoot,18357,Newcastle United,Chelsea,1,0,2022-11-12 17:30:00,Joelinton,HeadPass,7078
+501699,62,MissedShots,0.9,0.62,0.31269699335098267,Sean Longstaff,h,7078,OpenPlay,2022,LeftFoot,18377,Newcastle United,Leeds,0,0,2022-12-31 15:00:00,Joelinton,Pass,7078
+501700,67,MissedShots,0.845999984741211,0.36400001525878906,0.04810649901628494,Sean Longstaff,h,7078,OpenPlay,2022,RightFoot,18377,Newcastle United,Leeds,0,0,2022-12-31 15:00:00,Miguel Almirón,Pass,7078
+502178,45,BlockedShot,0.8190000152587891,0.6220000076293946,0.04024380072951317,Sean Longstaff,a,7078,OpenPlay,2022,RightFoot,18382,Arsenal,Newcastle United,0,0,2023-01-03 19:45:00,Joelinton,Pass,7078
+503948,4,BlockedShot,0.894000015258789,0.40400001525878904,0.12532499432563782,Sean Longstaff,h,7078,OpenPlay,2022,LeftFoot,18398,Newcastle United,Fulham,1,0,2023-01-15 14:00:00,Bruno Guimarães,Throughball,7078
+503960,45,MissedShots,0.7619999694824219,0.5670000076293945,0.021713199093937874,Sean Longstaff,h,7078,OpenPlay,2022,LeftFoot,18398,Newcastle United,Fulham,1,0,2023-01-15 14:00:00,,None,7078
+508582,46,SavedShot,0.8280000305175781,0.5070000076293946,0.06800799816846848,Sean Longstaff,a,7078,OpenPlay,2022,LeftFoot,18423,Bournemouth,Newcastle United,1,1,2023-02-11 17:30:00,Allan Saint-Maximin,Pass,7078
+508585,50,SavedShot,0.9209999847412109,0.28299999237060547,0.05044880136847496,Sean Longstaff,a,7078,OpenPlay,2022,RightFoot,18423,Bournemouth,Newcastle United,1,1,2023-02-11 17:30:00,Alexander Isak,BallTouch,7078
+508589,69,SavedShot,0.9640000152587891,0.5220000076293946,0.6885610222816467,Sean Longstaff,a,7078,OpenPlay,2022,RightFoot,18423,Bournemouth,Newcastle United,1,1,2023-02-11 17:30:00,,Rebound,7078
+511877,16,BlockedShot,0.914000015258789,0.4159999847412109,0.10136400163173676,Sean Longstaff,a,7078,OpenPlay,2022,RightFoot,18458,Manchester City,Newcastle United,2,0,2023-03-04 12:30:00,Callum Wilson,Pass,7078
+514669,34,BlockedShot,0.8230000305175781,0.465,0.054612498730421066,Sean Longstaff,a,7078,OpenPlay,2022,RightFoot,18479,Nottingham Forest,Newcastle United,1,2,2023-03-17 20:00:00,Jacob Murphy,Pass,7078
+514671,38,MissedShots,0.8,0.35,0.0302450992166996,Sean Longstaff,a,7078,OpenPlay,2022,RightFoot,18479,Nottingham Forest,Newcastle United,1,2,2023-03-17 20:00:00,Jacob Murphy,Pass,7078
+517093,5,BlockedShot,0.9259999847412109,0.534000015258789,0.11619099974632263,Sean Longstaff,h,7078,OpenPlay,2022,LeftFoot,18489,Newcastle United,Manchester United,2,0,2023-04-02 15:30:00,Alexander Isak,HeadPass,7078
+517102,37,MissedShots,0.7719999694824219,0.3840000152587891,0.02422250062227249,Sean Longstaff,h,7078,OpenPlay,2022,RightFoot,18489,Newcastle United,Manchester United,2,0,2023-04-02 15:30:00,Allan Saint-Maximin,Pass,7078
+517978,19,BlockedShot,0.879000015258789,0.28399999618530275,0.04176289960741997,Sean Longstaff,a,7078,OpenPlay,2022,RightFoot,18493,Brentford,Newcastle United,1,2,2023-04-08 14:00:00,Kieran Trippier,Pass,7078
+517979,20,BlockedShot,0.9430000305175781,0.43900001525878907,0.08555349707603455,Sean Longstaff,a,7078,FromCorner,2022,LeftFoot,18493,Brentford,Newcastle United,1,2,2023-04-08 14:00:00,Kieran Trippier,Foul,7078
+521493,42,BlockedShot,0.8159999847412109,0.51,0.07279805094003677,Sean Longstaff,h,7078,OpenPlay,2022,RightFoot,18521,Newcastle United,Tottenham,6,1,2023-04-23 13:00:00,Joe Willock,Pass,7078
+521495,46,BlockedShot,0.8919999694824219,0.455,0.08711646497249603,Sean Longstaff,h,7078,OpenPlay,2022,LeftFoot,18521,Newcastle United,Tottenham,6,1,2023-04-23 13:00:00,,Aerial,7078
+521499,51,BlockedShot,0.9159999847412109,0.3579999923706055,0.09901563823223114,Sean Longstaff,h,7078,OpenPlay,2022,RightFoot,18521,Newcastle United,Tottenham,6,1,2023-04-23 13:00:00,Bruno Guimarães,Pass,7078
+528432,22,BlockedShot,0.875,0.36900001525878906,0.0805206447839737,Sean Longstaff,h,7078,OpenPlay,2022,LeftFoot,18567,Newcastle United,Leicester,0,0,2023-05-22 19:00:00,Bruno Guimarães,Pass,7078
+528444,52,MissedShots,0.799000015258789,0.425,0.04080775007605553,Sean Longstaff,h,7078,OpenPlay,2022,RightFoot,18567,Newcastle United,Leicester,0,0,2023-05-22 19:00:00,Sven Botman,Pass,7078
+528450,75,SavedShot,0.9230000305175782,0.32599998474121095,0.07680174708366394,Sean Longstaff,h,7078,OpenPlay,2022,RightFoot,18567,Newcastle United,Leicester,0,0,2023-05-22 19:00:00,Kieran Trippier,Pass,7078
+535411,88,SavedShot,0.76,0.57,0.026128316298127174,Sean Longstaff,h,7078,OpenPlay,2023,RightFoot,22304,Newcastle United,Liverpool,1,2,2023-08-27 15:30:00,Bruno Guimarães,Pass,7078
+535413,92,SavedShot,0.9290000152587891,0.34900001525878904,0.0665661171078682,Sean Longstaff,h,7078,OpenPlay,2023,RightFoot,22304,Newcastle United,Liverpool,1,2,2023-08-27 15:30:00,,None,7078
+539889,20,Goal,0.935,0.5179999923706055,0.585391640663147,Sean Longstaff,a,7078,OpenPlay,2023,LeftFoot,21954,Sheffield United,Newcastle United,0,8,2023-09-24 15:30:00,Anthony Gordon,Pass,7078
+539907,72,BlockedShot,0.85,0.5670000076293945,0.08219827711582184,Sean Longstaff,a,7078,OpenPlay,2023,LeftFoot,21954,Sheffield United,Newcastle United,0,8,2023-09-24 15:30:00,,BallTouch,7078
+541201,20,MissedShots,0.88,0.3340000152587891,0.07697629183530807,Sean Longstaff,h,7078,OpenPlay,2023,RightFoot,21958,Newcastle United,Burnley,2,0,2023-09-30 14:00:00,Alexander Isak,Chipped,7078
+541212,54,MissedShots,0.9059999847412109,0.5209999847412109,0.05552765354514122,Sean Longstaff,h,7078,OpenPlay,2023,Head,21958,Newcastle United,Burnley,2,0,2023-09-30 14:00:00,Kieran Trippier,Aerial,7078
+544094,41,MissedShots,0.9080000305175782,0.37099998474121093,0.09784157574176788,Sean Longstaff,h,7078,OpenPlay,2023,RightFoot,21981,Newcastle United,Crystal Palace,4,0,2023-10-21 14:00:00,Fabian Schär,Chipped,7078
+544096,46,Goal,0.924000015258789,0.4159999847412109,0.46584999561309814,Sean Longstaff,h,7078,OpenPlay,2023,RightFoot,21981,Newcastle United,Crystal Palace,4,0,2023-10-21 14:00:00,,TakeOn,7078
+545659,6,MissedShots,0.8919999694824219,0.305,0.05033702403306961,Sean Longstaff,a,7078,OpenPlay,2023,RightFoot,21994,Wolverhampton Wanderers,Newcastle United,2,2,2023-10-28 16:30:00,Joelinton,Pass,7078
+545666,29,BlockedShot,0.815,0.46700000762939453,0.05640076845884323,Sean Longstaff,a,7078,OpenPlay,2023,RightFoot,21994,Wolverhampton Wanderers,Newcastle United,2,2,2023-10-28 16:30:00,Bruno Guimarães,Pass,7078
+545669,40,BlockedShot,0.9290000152587891,0.38599998474121094,0.09467066079378128,Sean Longstaff,a,7078,OpenPlay,2023,RightFoot,21994,Wolverhampton Wanderers,Newcastle United,2,2,2023-10-28 16:30:00,,Dispossessed,7078
+548548,7,SavedShot,0.7730000305175782,0.42400001525878905,0.028187347576022148,Sean Longstaff,a,7078,OpenPlay,2023,RightFoot,22005,Bournemouth,Newcastle United,2,0,2023-11-11 17:30:00,Joelinton,Pass,7078
+548562,76,MissedShots,0.8859999847412109,0.38599998474121094,0.05798458680510521,Sean Longstaff,a,7078,OpenPlay,2023,LeftFoot,22005,Bournemouth,Newcastle United,2,0,2023-11-11 17:30:00,,None,7078
+554311,42,SavedShot,0.9519999694824218,0.545,0.5460641384124756,Sean Longstaff,h,7078,OpenPlay,2023,RightFoot,22062,Newcastle United,Fulham,3,0,2023-12-16 15:00:00,Valentino Livramento,Cross,7078
+554313,49,BlockedShot,0.7969999694824219,0.64,0.03141212835907936,Sean Longstaff,h,7078,OpenPlay,2023,RightFoot,22062,Newcastle United,Fulham,3,0,2023-12-16 15:00:00,Valentino Livramento,Pass,7078
+554329,87,MissedShots,0.805,0.5459999847412109,0.06513062119483948,Sean Longstaff,h,7078,OpenPlay,2023,RightFoot,22062,Newcastle United,Fulham,3,0,2023-12-16 15:00:00,Sven Botman,Pass,7078
+556241,82,BlockedShot,0.9169999694824219,0.33,0.05461837723851204,Sean Longstaff,a,7078,OpenPlay,2023,RightFoot,22069,Luton,Newcastle United,1,0,2023-12-23 15:00:00,Callum Wilson,BlockedPass,7078
+560641,29,BlockedShot,0.9130000305175782,0.4779999923706055,0.13970597088336945,Sean Longstaff,a,7078,OpenPlay,2023,RightFoot,22105,Aston Villa,Newcastle United,1,3,2024-01-30 20:15:00,,Rebound,7078
+560659,88,SavedShot,0.915,0.4279999923706055,0.47781217098236084,Sean Longstaff,a,7078,OpenPlay,2023,RightFoot,22105,Aston Villa,Newcastle United,1,3,2024-01-30 20:15:00,Bruno Guimarães,Pass,7078
+561247,6,Goal,0.88,0.48,0.3067140579223633,Sean Longstaff,h,7078,OpenPlay,2023,RightFoot,22123,Newcastle United,Luton,4,4,2024-02-03 15:00:00,Kieran Trippier,Cross,7078
+561254,22,Goal,0.9059999847412109,0.48200000762939454,0.5771327018737793,Sean Longstaff,h,7078,OpenPlay,2023,RightFoot,22123,Newcastle United,Luton,4,4,2024-02-03 15:00:00,,Rebound,7078
+561256,34,MissedShots,0.7280000305175781,0.34400001525878904,0.017663493752479553,Sean Longstaff,h,7078,OpenPlay,2023,RightFoot,22123,Newcastle United,Luton,4,4,2024-02-03 15:00:00,,BallRecovery,7078
+561264,65,BlockedShot,0.8719999694824219,0.45099998474121095,0.10323228687047958,Sean Longstaff,h,7078,OpenPlay,2023,LeftFoot,22123,Newcastle United,Luton,4,4,2024-02-03 15:00:00,Callum Wilson,Pass,7078
+562709,7,SavedShot,0.7469999694824219,0.3820000076293945,0.019057439640164375,Sean Longstaff,a,7078,OpenPlay,2023,RightFoot,22131,Nottingham Forest,Newcastle United,2,3,2024-02-10 17:30:00,Anthony Gordon,Pass,7078
+570375,45,SavedShot,0.9519999694824218,0.3270000076293945,0.07292637228965759,Sean Longstaff,h,7078,OpenPlay,2023,RightFoot,22191,Newcastle United,West Ham,4,3,2024-03-30 12:30:00,Jacob Murphy,Pass,7078
+570386,64,MissedShots,0.9080000305175782,0.5459999847412109,0.35020285844802856,Sean Longstaff,h,7078,OpenPlay,2023,RightFoot,22191,Newcastle United,West Ham,4,3,2024-03-30 12:30:00,Miguel Almirón,Pass,7078
+571790,44,MissedShots,0.9280000305175782,0.5309999847412109,0.1408434957265854,Sean Longstaff,h,7078,OpenPlay,2023,Head,22202,Newcastle United,Everton,1,1,2024-04-02 18:30:00,Lewis Hall,Cross,7078
+571796,66,BlockedShot,0.8240000152587891,0.46,0.07493960857391357,Sean Longstaff,h,7078,OpenPlay,2023,RightFoot,22202,Newcastle United,Everton,1,1,2024-04-02 18:30:00,,BallTouch,7078
+571804,93,BlockedShot,0.769000015258789,0.5209999847412109,0.022647427394986153,Sean Longstaff,h,7078,OpenPlay,2023,RightFoot,22202,Newcastle United,Everton,1,1,2024-04-02 18:30:00,Alexander Isak,Pass,7078
+572429,65,BlockedShot,0.8040000152587891,0.509000015258789,0.05487114563584328,Sean Longstaff,a,7078,OpenPlay,2023,RightFoot,22209,Fulham,Newcastle United,0,1,2024-04-06 14:00:00,Elliot Anderson,Pass,7078
+572436,98,MissedShots,0.9490000152587891,0.35200000762939454,0.3060466945171356,Sean Longstaff,a,7078,OpenPlay,2023,RightFoot,22209,Fulham,Newcastle United,0,1,2024-04-06 14:00:00,,Rebound,7078
+576819,10,BlockedShot,0.91,0.40900001525878904,0.08905547112226486,Sean Longstaff,h,7078,OpenPlay,2023,LeftFoot,22240,Newcastle United,Sheffield United,5,1,2024-04-27 14:00:00,Bruno Guimarães,Pass,7078
+576823,18,BlockedShot,0.8930000305175781,0.40700000762939453,0.09584693610668182,Sean Longstaff,h,7078,OpenPlay,2023,LeftFoot,22240,Newcastle United,Sheffield United,5,1,2024-04-27 14:00:00,Valentino Livramento,Pass,7078
+576841,61,BlockedShot,0.8919999694824219,0.34900001525878904,0.08936281502246857,Sean Longstaff,h,7078,OpenPlay,2023,RightFoot,22240,Newcastle United,Sheffield United,5,1,2024-04-27 14:00:00,Bruno Guimarães,Pass,7078
+578434,26,MissedShots,0.8019999694824219,0.32799999237060545,0.0396464541554451,Sean Longstaff,a,7078,OpenPlay,2023,RightFoot,22248,Burnley,Newcastle United,1,4,2024-05-04 14:00:00,,BlockedPass,7078
+578439,34,Goal,0.899000015258789,0.4109999847412109,0.11944347620010376,Sean Longstaff,a,7078,OpenPlay,2023,RightFoot,22248,Burnley,Newcastle United,1,4,2024-05-04 14:00:00,Jacob Murphy,Pass,7078
+579930,19,BlockedShot,0.855999984741211,0.29399999618530276,0.033790331333875656,Sean Longstaff,h,7078,OpenPlay,2023,RightFoot,22260,Newcastle United,Brighton,1,1,2024-05-11 14:00:00,Jacob Murphy,Pass,7078
+579934,33,SavedShot,0.9769999694824218,0.44599998474121094,0.47702062129974365,Sean Longstaff,h,7078,FromCorner,2023,Head,22260,Newcastle United,Brighton,1,1,2024-05-11 14:00:00,Anthony Gordon,Cross,7078
+579945,49,Goal,0.9330000305175781,0.5359999847412109,0.5093113780021667,Sean Longstaff,h,7078,OpenPlay,2023,RightFoot,22260,Newcastle United,Brighton,1,1,2024-05-11 14:00:00,Elliot Anderson,Pass,7078
+581177,66,SavedShot,0.894000015258789,0.43900001525878907,0.40428808331489563,Sean Longstaff,a,7078,OpenPlay,2023,RightFoot,22231,Manchester United,Newcastle United,3,2,2024-05-15 19:00:00,Joelinton,Throughball,7078
+581179,67,MissedShots,0.935,0.46299999237060546,0.11446760594844818,Sean Longstaff,a,7078,FromCorner,2023,Head,22231,Manchester United,Newcastle United,3,2,2024-05-15 19:00:00,Anthony Gordon,Cross,7078
+593827,79,MissedShots,0.8630000305175781,0.42900001525878906,0.09704757481813431,Sean Longstaff,h,7078,OpenPlay,2024,RightFoot,26652,Newcastle United,Manchester City,1,1,2024-09-28 11:30:00,Jacob Murphy,Pass,7078
+599839,52,BlockedShot,0.874000015258789,0.3029999923706055,0.06432937830686569,Sean Longstaff,h,7078,OpenPlay,2024,RightFoot,26694,Newcastle United,Arsenal,1,0,2024-11-02 12:30:00,Valentino Livramento,Pass,7078
+602032,53,BlockedShot,0.9590000152587891,0.48700000762939455,0.08627695590257645,Sean Longstaff,a,7078,FromCorner,2024,Head,26704,Nottingham Forest,Newcastle United,1,3,2024-11-10 14:00:00,Anthony Gordon,Aerial,7078
+603763,28,SavedShot,0.924000015258789,0.45,0.04258238151669502,Sean Longstaff,h,7078,OpenPlay,2024,Head,26713,Newcastle United,West Ham,0,2,2024-11-25 20:00:00,Anthony Gordon,Aerial,7078
+605872,1,ShotOnPost,0.8169999694824219,0.46700000762939453,0.06291933357715607,Sean Longstaff,a,7078,OpenPlay,2024,RightFoot,26743,Brentford,Newcastle United,4,2,2024-12-07 15:00:00,Alexander Isak,Pass,7078
+605875,9,BlockedShot,0.865,0.34400001525878904,0.053390130400657654,Sean Longstaff,a,7078,OpenPlay,2024,RightFoot,26743,Brentford,Newcastle United,4,2,2024-12-07 15:00:00,Jacob Murphy,Pass,7078

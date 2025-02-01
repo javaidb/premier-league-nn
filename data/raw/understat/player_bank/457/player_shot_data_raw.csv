@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+60448,37,BlockedShot,0.8859999847412109,0.45299999237060545,0.04888540133833885,Tommy Elphick,a,457,FromCorner,2015,Head,398,Aston Villa,Bournemouth,1,2,2016-04-09 18:00:00,Simon Francis,Cross,457
+61307,19,SavedShot,0.904000015258789,0.47400001525878904,0.10140199959278107,Tommy Elphick,h,457,SetPiece,2015,Head,412,Bournemouth,Liverpool,1,2,2016-04-17 16:30:00,Matt Ritchie,Cross,457
+57198,35,Goal,0.919000015258789,0.4929999923706055,0.09973719716072083,Tommy Elphick,h,457,FromCorner,2015,Head,422,Bournemouth,Chelsea,1,4,2016-04-23 18:00:00,Simon Francis,Cross,457
+57214,78,BlockedShot,0.915,0.524000015258789,0.04309970140457153,Tommy Elphick,h,457,FromCorner,2015,Head,422,Bournemouth,Chelsea,1,4,2016-04-23 18:00:00,Matt Ritchie,Aerial,457

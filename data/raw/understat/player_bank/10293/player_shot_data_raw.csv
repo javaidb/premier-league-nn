@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+476292,54,BlockedShot,0.9159999847412109,0.5709999847412109,0.036618199199438095,Toti,h,10293,SetPiece,2021,Head,16736,Wolverhampton Wanderers,Norwich,1,1,2022-05-15 13:00:00,João Moutinho,Aerial,10293
+518001,20,SavedShot,0.8980000305175782,0.5540000152587891,0.046925000846385956,Toti,h,10293,FromCorner,2022,Head,18501,Wolverhampton Wanderers,Chelsea,1,0,2023-04-08 14:00:00,Matheus Nunes,Cross,10293
+520913,79,MissedShots,0.975999984741211,0.6129999923706054,0.025729944929480553,Toti,a,10293,OpenPlay,2022,Head,18518,Leicester,Wolverhampton Wanderers,2,1,2023-04-22 14:00:00,Matheus Nunes,Chipped,10293
+522745,52,MissedShots,0.9109999847412109,0.4640000152587891,0.08213255554437637,Toti,a,10293,FromCorner,2022,Head,18535,Brighton,Wolverhampton Wanderers,6,0,2023-04-29 14:00:00,Daniel Podence,Cross,10293
+524680,8,Goal,0.9080000305175782,0.5429999923706055,0.06618057936429977,Toti,h,10293,FromCorner,2022,Head,18551,Wolverhampton Wanderers,Aston Villa,1,0,2023-05-06 14:00:00,Rúben Neves,Cross,10293
+529853,75,MissedShots,0.8590000152587891,0.555,0.014683893881738186,Toti,a,10293,FromCorner,2022,Head,18572,Arsenal,Wolverhampton Wanderers,5,0,2023-05-28 15:30:00,Rúben Neves,Cross,10293
+548130,33,MissedShots,0.909000015258789,0.5070000076293946,0.031235914677381516,Toti,h,10293,FromCorner,2023,Head,22014,Wolverhampton Wanderers,Tottenham,2,1,2023-11-11 12:30:00,Rayan Ait Nouri,Aerial,10293
+548133,47,SavedShot,0.9230000305175782,0.4829999923706055,0.06334789097309113,Toti,h,10293,SetPiece,2023,Head,22014,Wolverhampton Wanderers,Tottenham,2,1,2023-11-11 12:30:00,Rayan Ait Nouri,Aerial,10293
+551183,32,MissedShots,0.9740000152587891,0.4370000076293945,0.5247015953063965,Toti,a,10293,SetPiece,2023,LeftFoot,22026,Arsenal,Wolverhampton Wanderers,2,1,2023-12-02 15:00:00,Tommy Doyle,TakeOn,10293
+554776,49,BlockedShot,0.9009999847412109,0.4279999923706055,0.06529965251684189,Toti,a,10293,SetPiece,2023,LeftFoot,22064,West Ham,Wolverhampton Wanderers,3,0,2023-12-17 14:00:00,Pablo Sarabia,Cross,10293
+556440,47,SavedShot,0.9469999694824218,0.5620000076293945,0.3345531225204468,Toti,h,10293,FromCorner,2023,Head,22073,Wolverhampton Wanderers,Chelsea,2,1,2023-12-24 13:00:00,João Gomes,Cross,10293
+565605,44,BlockedShot,0.9009999847412109,0.6179999923706054,0.13301900029182434,Toti,h,10293,OpenPlay,2023,LeftFoot,22154,Wolverhampton Wanderers,Sheffield United,1,0,2024-02-25 13:30:00,Mario Lemina,TakeOn,10293
+566678,21,MissedShots,0.9680000305175781,0.4179999923706055,0.04109244421124458,Toti,a,10293,FromCorner,2023,Head,22161,Newcastle United,Wolverhampton Wanderers,3,0,2024-03-02 15:00:00,Jean-Ricner Bellegarde,Rebound,10293
+573790,61,SavedShot,0.96,0.48900001525878906,0.06405910849571228,Toti,a,10293,FromCorner,2023,Head,22223,Nottingham Forest,Wolverhampton Wanderers,2,2,2024-04-13 14:00:00,Max Kilman,Goal,10293
+577898,24,SavedShot,0.72,0.66,0.016126513481140137,Toti,h,10293,OpenPlay,2023,LeftFoot,22244,Wolverhampton Wanderers,Luton,2,1,2024-04-27 14:00:00,Max Kilman,Pass,10293
+577903,49,Goal,0.94,0.5229999923706055,0.40586352348327637,Toti,h,10293,FromCorner,2023,Head,22244,Wolverhampton Wanderers,Luton,2,1,2024-04-27 14:00:00,Mario Lemina,Cross,10293
+595561,25,MissedShots,0.6859999847412109,0.705,0.011178994551301003,Toti,a,10293,OpenPlay,2024,LeftFoot,26667,Brentford,Wolverhampton Wanderers,5,3,2024-10-05 14:00:00,André,Pass,10293
+604113,58,MissedShots,0.9169999694824219,0.6909999847412109,0.036476220935583115,Toti,h,10293,OpenPlay,2024,LeftFoot,26731,Wolverhampton Wanderers,Bournemouth,2,4,2024-11-30 15:00:00,Mario Lemina,Chipped,10293

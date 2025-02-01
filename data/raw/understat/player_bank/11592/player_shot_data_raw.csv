@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+612857,75,BlockedShot,0.6959999847412109,0.6170000076293946,0.015996936708688736,Nico O&#039;Reilly,a,11592,OpenPlay,2024,LeftFoot,26816,Ipswich,Manchester City,0,6,2025-01-19 16:30:00,Jéremy Doku,Pass,11592

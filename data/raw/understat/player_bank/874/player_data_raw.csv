@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+874,Andre Green,2,54,0,0.015768099576234818,0,0.1859554946422577,1,2,0,0,S,Aston Villa,0,0.015768099576234818,0.1150130033493042,0,2015

@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15086,55,MissedShots,0.915,0.46,0.15964099764823914,Jonas Olsson,a,805,FromCorner,2014,Head,4773,Swansea,West Bromwich Albion,3,0,2014-08-30 15:00:00,Chris Brunt,Aerial,805
+21809,72,MissedShots,0.9469999694824218,0.45799999237060546,0.1273380070924759,Jonas Olsson,a,805,FromCorner,2014,Head,4503,Manchester City,West Bromwich Albion,3,0,2015-03-21 12:45:00,Craig Gardner,Cross,805
+21575,62,Goal,0.865,0.4640000152587891,0.08254750072956085,Jonas Olsson,a,805,SetPiece,2014,LeftFoot,4405,Manchester United,West Bromwich Albion,0,1,2015-05-02 17:30:00,Chris Brunt,Rebound,805
+57246,93,MissedShots,0.94,0.3509999847412109,0.01400769967585802,Jonas Olsson,h,805,FromCorner,2015,Head,107,West Bromwich Albion,Chelsea,2,3,2015-08-23 16:30:00,Serge Gnabry,Cross,805
+55519,71,ShotOnPost,0.9619999694824218,0.42900001525878906,0.11447300016880035,Jonas Olsson,h,805,FromCorner,2015,Head,204,West Bromwich Albion,Arsenal,2,1,2015-11-21 19:00:00,Chris Brunt,Cross,805
+52797,72,SavedShot,0.955999984741211,0.49,0.6124240159988403,Jonas Olsson,h,805,SetPiece,2015,LeftFoot,224,West Bromwich Albion,Tottenham,1,1,2015-12-05 19:00:00,Craig Dawson,HeadPass,805
+54092,72,Goal,0.9590000152587891,0.4329999923706055,0.11820399761199951,Jonas Olsson,a,805,FromCorner,2015,Head,238,Liverpool,West Bromwich Albion,2,2,2015-12-13 20:00:00,Chris Brunt,Cross,805
+60798,29,OwnGoal,0.15300000190734864,0.5129999923706055,0,Jonas Olsson,a,805,OpenPlay,2015,LeftFoot,351,Leicester,West Bromwich Albion,2,2,2016-03-01 23:45:00,,Aerial,805
+60811,62,MissedShots,0.9730000305175781,0.580999984741211,0.09205140173435211,Jonas Olsson,a,805,FromCorner,2015,Head,351,Leicester,West Bromwich Albion,2,2,2016-03-01 23:45:00,Craig Gardner,Cross,805
+56628,46,MissedShots,0.9519999694824218,0.5820000076293945,0.03576910123229027,Jonas Olsson,a,805,FromCorner,2015,Head,426,Tottenham,West Bromwich Albion,1,1,2016-04-25 23:00:00,Craig Gardner,Aerial,805
+112197,61,MissedShots,0.9269999694824219,0.425,0.07655949890613556,Jonas Olsson,a,805,FromCorner,2016,LeftFoot,462,Crystal Palace,West Bromwich Albion,0,1,2016-08-13 18:00:00,Craig Gardner,Cross,805
+112202,64,MissedShots,0.8830000305175781,0.49400001525878906,0.06423089653253555,Jonas Olsson,a,805,SetPiece,2016,Head,462,Crystal Palace,West Bromwich Albion,0,1,2016-08-13 18:00:00,Craig Gardner,Cross,805
+115945,11,MissedShots,0.975999984741211,0.40700000762939453,0.05457660183310509,Jonas Olsson,h,805,FromCorner,2016,Head,3140,West Bromwich Albion,Manchester United,0,2,2016-12-17 21:30:00,Chris Brunt,Cross,805

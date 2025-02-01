@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+9274,Naouirou Ahamada,8,73,0,0.18205039761960506,0,0.09168640151619911,3,2,1,0,S,Crystal Palace,0,0.18205039761960506,0.21593520045280457,0.02503580041229725,2022
+9274,Naouirou Ahamada,20,282,0,0.5298433359712362,0,0.05646481364965439,9,1,2,1,S,Crystal Palace,0,0.5298433359712362,2.506193021312356,1.9648387469351292,2023

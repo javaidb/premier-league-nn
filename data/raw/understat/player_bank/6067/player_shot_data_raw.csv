@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+183717,46,MissedShots,0.914000015258789,0.5540000152587891,0.3616659939289093,Terence Kongolo,h,6067,SetPiece,2017,RightFoot,8754,Monaco,Rennes,2,1,2017-12-20 19:50:00,Thomas Lemar,Cross,6067
+211689,19,MissedShots,0.8069999694824219,0.735,0.020353900268673897,Terence Kongolo,h,6067,FromCorner,2017,LeftFoot,7471,Huddersfield,Everton,0,2,2018-04-28 14:00:00,Alex Pritchard,Pass,6067
+215708,4,MissedShots,0.9630000305175781,0.5270000076293946,0.13515299558639526,Terence Kongolo,h,6067,FromCorner,2017,LeftFoot,7494,Huddersfield,Arsenal,0,1,2018-05-13 15:00:00,Steve Mounie,None,6067
+233136,83,OwnGoal,0.03799999952316284,0.47400001525878904,0,Terence Kongolo,a,6067,OpenPlay,2018,LeftFoot,9213,Manchester City,Huddersfield,6,1,2018-08-19 15:30:00,,Save,6067
+233296,11,MissedShots,0.7759999847412109,0.710999984741211,0.014002700336277485,Terence Kongolo,h,6067,OpenPlay,2018,LeftFoot,9219,Huddersfield,Cardiff,0,0,2018-08-25 17:00:00,,None,6067
+233297,25,MissedShots,0.6780000305175782,0.53,0.009642009623348713,Terence Kongolo,h,6067,OpenPlay,2018,RightFoot,9219,Huddersfield,Cardiff,0,0,2018-08-25 17:00:00,,None,6067
+233821,47,MissedShots,0.8830000305175781,0.49900001525878906,0.05037359893321991,Terence Kongolo,h,6067,OpenPlay,2018,Head,9240,Huddersfield,Crystal Palace,0,1,2018-09-15 14:00:00,Philip Billing,Cross,6067
+250457,38,SavedShot,0.9569999694824218,0.6140000152587891,0.014370500110089779,Terence Kongolo,a,6067,FromCorner,2018,Head,9325,Wolverhampton Wanderers,Huddersfield,0,2,2018-11-25 16:00:00,Jonathan Hogg,Aerial,6067
+250606,40,MissedShots,0.915,0.5070000076293946,0.09067430347204208,Terence Kongolo,h,6067,FromCorner,2018,Head,9332,Huddersfield,Brighton,1,2,2018-12-01 15:00:00,Aaron Mooy,Cross,6067
+251870,37,Goal,0.91,0.5359999847412109,0.03361250087618828,Terence Kongolo,a,6067,FromCorner,2018,Head,9338,Bournemouth,Huddersfield,2,1,2018-12-04 19:45:00,Zanka,Aerial,6067
+251881,73,MissedShots,0.8619999694824219,0.5159999847412109,0.0795682966709137,Terence Kongolo,a,6067,OpenPlay,2018,LeftFoot,9338,Bournemouth,Huddersfield,2,1,2018-12-04 19:45:00,Philip Billing,Pass,6067
+251341,47,MissedShots,0.92,0.495,0.12975700199604034,Terence Kongolo,h,6067,SetPiece,2018,Head,9363,Huddersfield,Newcastle United,0,1,2018-12-15 15:00:00,Chris Löwe,Cross,6067
+251772,9,MissedShots,0.9169999694824219,0.505,0.45039498805999756,Terence Kongolo,a,6067,OpenPlay,2018,LeftFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Alex Pritchard,HeadPass,6067
+274820,27,SavedShot,0.7809999847412109,0.629000015258789,0.021457400172948837,Terence Kongolo,h,6067,OpenPlay,2018,LeftFoot,9423,Huddersfield,Manchester City,0,3,2019-01-20 13:30:00,Elias Kachunga,Pass,6067
+275915,89,MissedShots,0.9169999694824219,0.5529999923706055,0.11095400154590607,Terence Kongolo,h,6067,SetPiece,2018,Head,9468,Huddersfield,Wolverhampton Wanderers,1,0,2019-02-26 19:45:00,Aaron Mooy,Cross,6067
+286250,88,SavedShot,0.9030000305175782,0.38799999237060545,0.35572299361228943,Terence Kongolo,a,6067,OpenPlay,2018,LeftFoot,9498,West Ham,Huddersfield,4,3,2019-03-16 15:00:00,Jason Puncheon,Throughball,6067
+295293,53,BlockedShot,0.8959999847412109,0.595999984741211,0.047808099538087845,Terence Kongolo,h,6067,FromCorner,2018,LeftFoot,9541,Huddersfield,Watford,1,2,2019-04-20 15:00:00,Aaron Mooy,Cross,6067
+301416,17,MissedShots,0.87,0.5820000076293945,0.015320699661970139,Terence Kongolo,a,6067,FromCorner,2018,Head,9569,Southampton,Huddersfield,1,1,2019-05-12 14:00:00,Alex Pritchard,Cross,6067

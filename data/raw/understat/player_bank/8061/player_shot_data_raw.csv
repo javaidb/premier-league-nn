@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+322377,84,MissedShots,0.9159999847412109,0.495,0.42813000082969666,Leon Clarke,h,8061,OpenPlay,2019,RightFoot,11703,Sheffield United,Liverpool,0,1,2019-09-28 11:30:00,John Fleck,Throughball,8061

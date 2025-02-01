@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1671,Ezekiel Fryers,1,1,0,0,0,0,0,0,0,0,S,Crystal Palace,0,0,0,0,2014
+1671,Ezekiel Fryers,8,164,0,0,1,0.3745900094509125,0,2,0,0,S,Crystal Palace,0,0,0.437163807451725,0.06257379800081253,2016

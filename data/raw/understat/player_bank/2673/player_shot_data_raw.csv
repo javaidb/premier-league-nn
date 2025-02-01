@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+339878,77,BlockedShot,0.9109999847412109,0.40599998474121096,0.07892230153083801,Albian Ajeti,h,2673,OpenPlay,2019,RightFoot,11842,West Ham,Leicester,1,2,2019-12-28 17:30:00,Pablo Fornals,Cross,2673
+351936,86,BlockedShot,0.8590000152587891,0.4570000076293945,0.10442700237035751,Albian Ajeti,h,2673,OpenPlay,2019,RightFoot,11872,West Ham,Everton,1,1,2020-01-18 15:00:00,Sébastien Haller,Pass,2673
+369681,93,MissedShots,0.8169999694824219,0.500999984741211,0.01900229975581169,Albian Ajeti,h,2673,OpenPlay,2019,Head,11982,West Ham,Burnley,0,1,2020-07-08 17:00:00,Angelo Ogbonna,Chipped,2673

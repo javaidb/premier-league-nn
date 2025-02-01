@@ -1,0 +1,33 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+384419,38,MissedShots,0.89,0.4540000152587891,0.17470599710941315,Rhian Brewster,h,5569,OpenPlay,2020,Head,14502,Sheffield United,Manchester City,0,1,2020-10-31 12:30:00,Sander Berge,Cross,5569
+384426,70,SavedShot,0.8109999847412109,0.590999984741211,0.39700600504875183,Rhian Brewster,h,5569,OpenPlay,2020,RightFoot,14502,Sheffield United,Manchester City,0,1,2020-10-31 12:30:00,John Lundstram,BallRecovery,5569
+389074,68,BlockedShot,0.9069999694824219,0.48,0.07603789865970612,Rhian Brewster,a,5569,OpenPlay,2020,Head,14527,West Bromwich Albion,Sheffield United,1,0,2020-11-28 20:00:00,George Baldock,Cross,5569
+389080,93,SavedShot,0.749000015258789,0.34200000762939453,0.018365899100899696,Rhian Brewster,a,5569,OpenPlay,2020,RightFoot,14527,West Bromwich Albion,Sheffield United,1,0,2020-11-28 20:00:00,Lys Mousset,Pass,5569
+389082,95,MissedShots,0.9019999694824219,0.4329999923706055,0.4167709946632385,Rhian Brewster,a,5569,OpenPlay,2020,RightFoot,14527,West Bromwich Albion,Sheffield United,1,0,2020-11-28 20:00:00,George Baldock,Pass,5569
+390811,83,MissedShots,0.755,0.23399999618530273,0.010452300310134888,Rhian Brewster,h,5569,OpenPlay,2020,RightFoot,14541,Sheffield United,Leicester,1,2,2020-12-06 14:15:00,Sander Berge,Chipped,5569
+393730,82,BlockedShot,0.7930000305175782,0.38799999237060545,0.09211059659719467,Rhian Brewster,h,5569,DirectFreekick,2020,RightFoot,14560,Sheffield United,Manchester United,2,3,2020-12-17 20:00:00,,Standard,5569
+395893,28,BlockedShot,0.9590000152587891,0.5259999847412109,0.1323619931936264,Rhian Brewster,a,5569,FromCorner,2020,Head,14587,Burnley,Sheffield United,1,0,2020-12-29 18:00:00,Ethan Ampadu,Cross,5569
+395896,33,SavedShot,0.8159999847412109,0.6309999847412109,0.03658889979124069,Rhian Brewster,a,5569,OpenPlay,2020,RightFoot,14587,Burnley,Sheffield United,1,0,2020-12-29 18:00:00,,None,5569
+398622,74,MissedShots,0.8109999847412109,0.5259999847412109,0.0647158995270729,Rhian Brewster,h,5569,OpenPlay,2020,RightFoot,14610,Sheffield United,Newcastle United,1,0,2021-01-12 18:00:00,,None,5569
+398624,83,BlockedShot,0.7519999694824219,0.4520000076293945,0.04095609858632088,Rhian Brewster,h,5569,OpenPlay,2020,RightFoot,14610,Sheffield United,Newcastle United,1,0,2021-01-12 18:00:00,Billy Sharp,HeadPass,5569
+401666,34,SavedShot,0.8109999847412109,0.51,0.0562019981443882,Rhian Brewster,a,5569,OpenPlay,2020,RightFoot,14642,Manchester City,Sheffield United,1,0,2021-01-30 15:00:00,Oliver Norwood,Pass,5569
+403941,90,BlockedShot,0.85,0.4540000152587891,0.06564909964799881,Rhian Brewster,h,5569,SetPiece,2020,LeftFoot,14662,Sheffield United,Chelsea,1,2,2021-02-07 19:15:00,,Rebound,5569
+403940,90,BlockedShot,0.840999984741211,0.40299999237060546,0.02098800055682659,Rhian Brewster,h,5569,SetPiece,2020,RightFoot,14662,Sheffield United,Chelsea,1,2,2021-02-07 19:15:00,,Aerial,5569
+407950,16,MissedShots,0.9290000152587891,0.49,0.0585658997297287,Rhian Brewster,h,5569,FromCorner,2020,Head,14721,Sheffield United,Aston Villa,1,0,2021-03-03 18:00:00,Enda Stevens,Aerial,5569
+407958,39,SavedShot,0.749000015258789,0.5779999923706055,0.024013899266719818,Rhian Brewster,h,5569,OpenPlay,2020,RightFoot,14721,Sheffield United,Aston Villa,1,0,2021-03-03 18:00:00,David McGoldrick,Pass,5569
+412612,85,MissedShots,0.7380000305175781,0.59,0.011783000081777573,Rhian Brewster,a,5569,SetPiece,2020,RightFoot,14729,Leeds,Sheffield United,2,1,2021-04-03 14:00:00,,None,5569
+414779,77,BlockedShot,0.7090000152587891,0.4859999847412109,0.012955100275576115,Rhian Brewster,h,5569,OpenPlay,2020,RightFoot,14741,Sheffield United,Arsenal,0,3,2021-04-11 18:00:00,John Fleck,Pass,5569
+415493,24,SavedShot,0.7230000305175781,0.624000015258789,0.014231800101697445,Rhian Brewster,a,5569,OpenPlay,2020,RightFoot,14754,Wolverhampton Wanderers,Sheffield United,1,0,2021-04-17 19:15:00,,BallRecovery,5569
+417500,0,BlockedShot,0.8680000305175781,0.6969999694824218,0.04241510108113289,Rhian Brewster,h,5569,OpenPlay,2020,RightFoot,14762,Sheffield United,Brighton,1,0,2021-04-24 19:00:00,John Fleck,Chipped,5569
+417505,25,BlockedShot,0.769000015258789,0.5770000076293945,0.035562701523303986,Rhian Brewster,h,5569,OpenPlay,2020,LeftFoot,14762,Sheffield United,Brighton,1,0,2021-04-24 19:00:00,Ben Osborn,Pass,5569
+419316,30,MissedShots,0.7719999694824219,0.30100000381469727,0.017952999100089073,Rhian Brewster,a,5569,OpenPlay,2020,LeftFoot,14773,Tottenham,Sheffield United,4,0,2021-05-02 18:15:00,George Baldock,Pass,5569
+423259,67,BlockedShot,0.74,0.6840000152587891,0.015458700247108936,Rhian Brewster,a,5569,OpenPlay,2020,LeftFoot,14801,Newcastle United,Sheffield United,1,0,2021-05-19 17:00:00,David McGoldrick,Pass,5569
+423264,87,MissedShots,0.8969999694824219,0.4490000152587891,0.03060239925980568,Rhian Brewster,a,5569,OpenPlay,2020,Head,14801,Newcastle United,Sheffield United,1,0,2021-05-19 17:00:00,Oliver Norwood,Aerial,5569
+424119,85,SavedShot,0.8059999847412109,0.47299999237060547,0.06616529822349548,Rhian Brewster,h,5569,OpenPlay,2020,RightFoot,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,David McGoldrick,Pass,5569
+544348,51,SavedShot,0.7240000152587891,0.43,0.015292750671505928,Rhian Brewster,h,5569,OpenPlay,2023,RightFoot,21983,Sheffield United,Manchester United,1,2,2023-10-21 19:00:00,James McAtee,BallTouch,5569
+562532,96,MissedShots,0.43599998474121093,0.3659999847412109,0.010151401162147522,Rhian Brewster,a,5569,OpenPlay,2023,RightFoot,22129,Luton,Sheffield United,1,3,2024-02-10 15:00:00,,BallRecovery,5569
+565599,18,BlockedShot,0.8959999847412109,0.38,0.0739864930510521,Rhian Brewster,a,5569,OpenPlay,2023,LeftFoot,22154,Wolverhampton Wanderers,Sheffield United,1,0,2024-02-25 13:30:00,,None,5569
+565600,18,SavedShot,0.914000015258789,0.2989999961853027,0.040445346385240555,Rhian Brewster,a,5569,OpenPlay,2023,RightFoot,22154,Wolverhampton Wanderers,Sheffield United,1,0,2024-02-25 13:30:00,,Rebound,5569
+565601,22,MissedShots,0.8930000305175781,0.34,0.06726916134357452,Rhian Brewster,a,5569,OpenPlay,2023,RightFoot,22154,Wolverhampton Wanderers,Sheffield United,1,0,2024-02-25 13:30:00,Jayden Bogle,HeadPass,5569
+565612,58,SavedShot,0.9409999847412109,0.34299999237060547,0.0727507472038269,Rhian Brewster,a,5569,OpenPlay,2023,RightFoot,22154,Wolverhampton Wanderers,Sheffield United,1,0,2024-02-25 13:30:00,James McAtee,Cross,5569
+582091,79,MissedShots,0.87,0.30700000762939456,0.06504426151514053,Rhian Brewster,h,5569,OpenPlay,2023,RightFoot,22274,Sheffield United,Tottenham,0,3,2024-05-19 15:00:00,Wes Foderingham,Pass,5569

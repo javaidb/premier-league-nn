@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+232726,39,MissedShots,0.9880000305175781,0.5779999923706055,0.0842491015791893,Nathaniel Mendez-Laing,a,6824,OpenPlay,2018,RightFoot,9202,Bournemouth,Cardiff,2,0,2018-08-11 17:00:00,Joe Ralls,Cross,6824
+232727,44,MissedShots,0.9419999694824219,0.5879999923706055,0.03356479853391647,Nathaniel Mendez-Laing,a,6824,OpenPlay,2018,Head,9202,Bournemouth,Cardiff,2,0,2018-08-11 17:00:00,Junior Hoilett,Aerial,6824
+233295,4,SavedShot,0.9640000152587891,0.3320000076293945,0.08388379961252213,Nathaniel Mendez-Laing,a,6824,OpenPlay,2018,RightFoot,9219,Huddersfield,Cardiff,0,0,2018-08-25 17:00:00,Kenneth Zohore,TakeOn,6824
+250809,90,BlockedShot,0.855,0.500999984741211,0.05176610127091408,Nathaniel Mendez-Laing,a,6824,OpenPlay,2018,RightFoot,9340,West Ham,Cardiff,3,1,2018-12-04 19:45:00,Víctor Camarasa,Cross,6824
+251090,45,SavedShot,0.8519999694824218,0.655,0.0536809004843235,Nathaniel Mendez-Laing,h,6824,OpenPlay,2018,LeftFoot,9353,Cardiff,Southampton,1,0,2018-12-08 15:00:00,Callum Paterson,BallTouch,6824
+251091,50,MissedShots,0.875999984741211,0.24799999237060547,0.0210098996758461,Nathaniel Mendez-Laing,h,6824,OpenPlay,2018,LeftFoot,9353,Cardiff,Southampton,1,0,2018-12-08 15:00:00,Víctor Camarasa,TakeOn,6824
+274781,73,BlockedShot,0.94,0.28299999237060547,0.052956100553274155,Nathaniel Mendez-Laing,a,6824,OpenPlay,2018,RightFoot,9420,Newcastle United,Cardiff,3,0,2019-01-19 15:00:00,Bobby Reid,Pass,6824
+274890,92,Goal,0.8680000305175781,0.33799999237060546,0.02539440058171749,Nathaniel Mendez-Laing,a,6824,OpenPlay,2018,LeftFoot,9431,Arsenal,Cardiff,2,1,2019-01-29 19:45:00,Kenneth Zohore,TakeOn,6824
+275918,2,MissedShots,0.9,0.32799999237060545,0.02314719930291176,Nathaniel Mendez-Laing,h,6824,OpenPlay,2018,RightFoot,9469,Cardiff,Everton,0,3,2019-02-26 19:45:00,,Aerial,6824
+293620,94,BlockedShot,0.7480000305175781,0.27600000381469725,0.010835099965333939,Nathaniel Mendez-Laing,a,6824,OpenPlay,2018,LeftFoot,9535,Burnley,Cardiff,2,0,2019-04-13 15:00:00,Aron Gunnarsson,Pass,6824
+294618,21,Goal,0.8009999847412109,0.6609999847412109,0.026409199461340904,Nathaniel Mendez-Laing,a,6824,OpenPlay,2018,RightFoot,9505,Brighton,Cardiff,0,2,2019-04-16 19:45:00,Junior Hoilett,Pass,6824
+297429,72,SavedShot,0.8819999694824219,0.75,0.030605299398303032,Nathaniel Mendez-Laing,a,6824,OpenPlay,2018,RightFoot,9553,Fulham,Cardiff,1,0,2019-04-27 15:00:00,Sean Morrison,Chipped,6824
+297432,80,SavedShot,0.9469999694824218,0.610999984741211,0.0321585014462471,Nathaniel Mendez-Laing,a,6824,OpenPlay,2018,Head,9553,Fulham,Cardiff,1,0,2019-04-27 15:00:00,Rhys Healey,Pass,6824
+299509,75,BlockedShot,0.870999984741211,0.44799999237060545,0.1036359965801239,Nathaniel Mendez-Laing,h,6824,OpenPlay,2018,RightFoot,9564,Cardiff,Crystal Palace,2,3,2019-05-04 16:30:00,Sean Morrison,Pass,6824
+299514,88,SavedShot,0.8440000152587891,0.33299999237060546,0.049014199525117874,Nathaniel Mendez-Laing,h,6824,OpenPlay,2018,RightFoot,9564,Cardiff,Crystal Palace,2,3,2019-05-04 16:30:00,Bobby Reid,Pass,6824
+301375,5,MissedShots,0.9069999694824219,0.2520000076293945,0.025615399703383446,Nathaniel Mendez-Laing,a,6824,OpenPlay,2018,LeftFoot,9570,Manchester United,Cardiff,0,2,2019-05-12 14:00:00,Leandro Bacuna,TakeOn,6824
+301382,22,Goal,0.885,0.5,0.7611690163612366,Nathaniel Mendez-Laing,a,6824,Penalty,2018,RightFoot,9570,Manchester United,Cardiff,0,2,2019-05-12 14:00:00,,Standard,6824
+301388,37,BlockedShot,0.8959999847412109,0.735999984741211,0.025714799761772156,Nathaniel Mendez-Laing,a,6824,FromCorner,2018,RightFoot,9570,Manchester United,Cardiff,0,2,2019-05-12 14:00:00,Josh Murphy,Pass,6824
+301390,38,BlockedShot,0.8880000305175781,0.7440000152587891,0.04626629874110222,Nathaniel Mendez-Laing,a,6824,OpenPlay,2018,RightFoot,9570,Manchester United,Cardiff,0,2,2019-05-12 14:00:00,,None,6824
+301395,53,Goal,0.9719999694824218,0.5629999923706055,0.6204010248184204,Nathaniel Mendez-Laing,a,6824,OpenPlay,2018,LeftFoot,9570,Manchester United,Cardiff,0,2,2019-05-12 14:00:00,Josh Murphy,Pass,6824

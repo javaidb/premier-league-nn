@@ -1,0 +1,59 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+209342,59,Goal,0.94,0.6020000076293945,0.28035300970077515,Jan Bednarek,h,6042,SetPiece,2017,LeftFoot,7455,Southampton,Chelsea,2,3,2018-04-14 11:30:00,James Ward-Prowse,Cross,6042
+291750,79,MissedShots,0.9259999847412109,0.42700000762939455,0.025338100269436836,Jan Bednarek,h,6042,FromCorner,2018,Head,9520,Southampton,Liverpool,1,3,2019-04-05 20:00:00,James Ward-Prowse,Aerial,6042
+293548,79,SavedShot,0.975,0.4490000152587891,0.6049079895019531,Jan Bednarek,h,6042,FromCorner,2018,RightFoot,9529,Southampton,Wolverhampton Wanderers,3,1,2019-04-13 15:00:00,,None,6042
+295467,91,BlockedShot,0.9280000305175782,0.555,0.039403900504112244,Jan Bednarek,a,6042,FromCorner,2018,Head,9539,Newcastle United,Southampton,3,1,2019-04-20 17:30:00,James Ward-Prowse,Aerial,6042
+297391,2,BlockedShot,0.9290000152587891,0.515,0.13631999492645264,Jan Bednarek,h,6042,FromCorner,2018,LeftFoot,9549,Southampton,Bournemouth,3,3,2019-04-27 15:00:00,Pierre-Emile Højbjerg,Pass,6042
+299306,63,MissedShots,0.915,0.52,0.03719409927725792,Jan Bednarek,a,6042,FromCorner,2018,Head,9558,West Ham,Southampton,3,0,2019-05-04 14:00:00,Ryan Bertrand,Aerial,6042
+309980,89,MissedShots,0.865999984741211,0.5329999923706055,0.057172201573848724,Jan Bednarek,a,6042,FromCorner,2019,RightFoot,11646,Burnley,Southampton,3,0,2019-08-10 15:00:00,Sofiane Boufal,HeadPass,6042
+336295,18,MissedShots,0.97,0.345,0.05751730129122734,Jan Bednarek,a,6042,FromCorner,2019,RightFoot,11798,Newcastle United,Southampton,2,1,2019-12-08 14:00:00,,Rebound,6042
+338691,41,MissedShots,0.9230000305175782,0.5209999847412109,0.12750400602817535,Jan Bednarek,a,6042,SetPiece,2019,Head,11813,Aston Villa,Southampton,1,3,2019-12-21 15:00:00,Ryan Bertrand,Cross,6042
+339786,34,MissedShots,0.9830000305175781,0.565,0.5526400208473206,Jan Bednarek,h,6042,SetPiece,2019,LeftFoot,11840,Southampton,Crystal Palace,1,1,2019-12-28 15:00:00,James Ward-Prowse,Cross,6042
+351940,14,Goal,0.9130000305175782,0.59,0.07979860156774521,Jan Bednarek,h,6042,SetPiece,2019,RightFoot,11870,Southampton,Wolverhampton Wanderers,2,3,2020-01-18 15:00:00,,None,6042
+366557,61,MissedShots,0.9540000152587891,0.5070000076293946,0.13506799936294556,Jan Bednarek,h,6042,FromCorner,2019,Head,11952,Southampton,Arsenal,0,2,2020-06-25 17:00:00,James Ward-Prowse,Cross,6042
+367411,78,OwnGoal,0.04199999809265137,0.47,0,Jan Bednarek,a,6042,OpenPlay,2019,RightFoot,11961,Watford,Southampton,1,3,2020-06-28 15:30:00,,None,6042
+371252,95,BlockedShot,0.9569999694824218,0.5729999923706055,0.051093801856040955,Jan Bednarek,a,6042,FromCorner,2019,Head,11987,Manchester United,Southampton,2,2,2020-07-13 19:00:00,James Ward-Prowse,Aerial,6042
+379106,6,MissedShots,0.8969999694824219,0.5570000076293945,0.0444255992770195,Jan Bednarek,a,6042,FromCorner,2020,Head,14109,Burnley,Southampton,0,1,2020-09-26 19:00:00,Ryan Bertrand,Cross,6042
+380964,80,SavedShot,0.9119999694824219,0.5270000076293946,0.050919100642204285,Jan Bednarek,h,6042,SetPiece,2020,Head,14473,Southampton,West Bromwich Albion,2,0,2020-10-04 11:00:00,James Ward-Prowse,Aerial,6042
+385747,49,BlockedShot,0.905,0.5270000076293946,0.10151399672031403,Jan Bednarek,h,6042,FromCorner,2020,RightFoot,14512,Southampton,Newcastle United,2,0,2020-11-06 20:00:00,Jannik Vestergaard,HeadPass,6042
+385749,62,SavedShot,0.9169999694824219,0.40700000762939453,0.042232099920511246,Jan Bednarek,h,6042,FromCorner,2020,Head,14512,Southampton,Newcastle United,2,0,2020-11-06 20:00:00,James Ward-Prowse,Cross,6042
+389413,22,Goal,0.9790000152587891,0.5879999923706055,0.06189730018377304,Jan Bednarek,h,6042,FromCorner,2020,Head,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,James Ward-Prowse,Cross,6042
+401888,13,MissedShots,0.749000015258789,0.500999984741211,0.017744800075888634,Jan Bednarek,h,6042,OpenPlay,2020,RightFoot,14641,Southampton,Aston Villa,0,1,2021-01-30 20:00:00,,Rebound,6042
+401907,84,SavedShot,0.965999984741211,0.5979999923706054,0.017799900844693184,Jan Bednarek,h,6042,FromCorner,2020,Head,14641,Southampton,Aston Villa,0,1,2021-01-30 20:00:00,James Ward-Prowse,Aerial,6042
+402477,33,OwnGoal,0.051999998092651364,0.49,0,Jan Bednarek,a,6042,OpenPlay,2020,LeftFoot,14651,Manchester United,Southampton,9,0,2021-02-02 20:15:00,,BlockedPass,6042
+403264,80,MissedShots,0.9159999847412109,0.5670000076293945,0.0611783005297184,Jan Bednarek,a,6042,FromCorner,2020,Head,14661,Newcastle United,Southampton,3,2,2021-02-06 15:00:00,James Ward-Prowse,Cross,6042
+405417,70,MissedShots,0.9290000152587891,0.46099998474121096,0.049979399889707565,Jan Bednarek,h,6042,FromCorner,2020,Head,14682,Southampton,Chelsea,1,1,2021-02-20 12:30:00,James Ward-Prowse,Aerial,6042
+424142,51,SavedShot,0.9019999694824219,0.61,0.02070230059325695,Jan Bednarek,a,6042,FromCorner,2020,Head,14813,West Ham,Southampton,3,0,2021-05-23 15:00:00,James Ward-Prowse,Cross,6042
+439625,62,BlockedShot,0.93,0.5270000076293946,0.055515799671411514,Jan Bednarek,a,6042,FromCorner,2021,Head,16474,Watford,Southampton,0,1,2021-10-30 14:00:00,James Ward-Prowse,Aerial,6042
+442661,86,BlockedShot,0.8909999847412109,0.37799999237060544,0.05730219930410385,Jan Bednarek,a,6042,OpenPlay,2021,RightFoot,16492,Norwich,Southampton,2,1,2021-11-20 15:00:00,James Ward-Prowse,Cross,6042
+444092,0,MissedShots,0.945,0.5890000152587891,0.06883560121059418,Jan Bednarek,a,6042,FromCorner,2021,Head,16503,Liverpool,Southampton,4,0,2021-11-27 15:00:00,James Ward-Prowse,Cross,6042
+445473,2,Goal,0.9630000305175781,0.47,0.6543790102005005,Jan Bednarek,h,6042,FromCorner,2021,RightFoot,16514,Southampton,Leicester,2,2,2021-12-01 19:30:00,,Rebound,6042
+447748,73,MissedShots,0.9259999847412109,0.46799999237060547,0.10600099712610245,Jan Bednarek,a,6042,FromCorner,2021,Head,16526,Arsenal,Southampton,3,0,2021-12-11 15:00:00,James Ward-Prowse,Cross,6042
+450639,69,Goal,0.9019999694824219,0.5259999847412109,0.09396780282258987,Jan Bednarek,a,6042,SetPiece,2021,Head,16564,West Ham,Southampton,2,3,2021-12-26 15:00:00,James Ward-Prowse,Cross,6042
+452934,4,Goal,0.9719999694824218,0.5520000076293945,0.489329993724823,Jan Bednarek,h,6042,FromCorner,2021,Head,16551,Southampton,Brentford,4,1,2022-01-11 21:45:00,James Ward-Prowse,Cross,6042
+453270,3,SavedShot,0.9359999847412109,0.519000015258789,0.11626199632883072,Jan Bednarek,a,6042,FromCorner,2021,RightFoot,16595,Wolverhampton Wanderers,Southampton,3,1,2022-01-15 15:00:00,Mohammed Salisu,HeadPass,6042
+454770,45,SavedShot,0.960999984741211,0.5820000076293945,0.03923000022768974,Jan Bednarek,h,6042,FromCorner,2021,Head,16604,Southampton,Manchester City,1,1,2022-01-22 17:30:00,James Ward-Prowse,Aerial,6042
+454776,53,MissedShots,0.9590000152587891,0.40400001525878904,0.3829770088195801,Jan Bednarek,h,6042,FromCorner,2021,RightFoot,16604,Southampton,Manchester City,1,1,2022-01-22 17:30:00,,Rebound,6042
+456609,17,OwnGoal,0.049000000953674315,0.549000015258789,0,Jan Bednarek,a,6042,OpenPlay,2021,RightFoot,16613,Tottenham,Southampton,2,3,2022-02-09 19:45:00,,Clearance,6042
+456621,42,MissedShots,0.9159999847412109,0.3659999847412109,0.016280200332403183,Jan Bednarek,a,6042,FromCorner,2021,Head,16613,Tottenham,Southampton,2,3,2022-02-09 19:45:00,James Ward-Prowse,Cross,6042
+459387,29,SavedShot,0.8930000305175781,0.505,0.10977400094270706,Jan Bednarek,h,6042,FromCorner,2021,RightFoot,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Stuart Armstrong,Rebound,6042
+459398,49,MissedShots,0.93,0.4229999923706055,0.032917000353336334,Jan Bednarek,h,6042,FromCorner,2021,Head,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,James Ward-Prowse,Foul,6042
+459401,56,MissedShots,0.93,0.45799999237060546,0.12565800547599792,Jan Bednarek,h,6042,SetPiece,2021,Head,16644,Southampton,Norwich,2,0,2022-02-25 20:00:00,Stuart Armstrong,Cross,6042
+461054,70,MissedShots,0.9109999847412109,0.514000015258789,0.25505098700523376,Jan Bednarek,a,6042,FromCorner,2021,Head,16646,Aston Villa,Southampton,4,0,2022-03-05 15:00:00,Yan Valery,Cross,6042
+463114,88,BlockedShot,0.9,0.539000015258789,0.01850779913365841,Jan Bednarek,h,6042,FromCorner,2021,Head,16664,Southampton,Watford,1,2,2022-03-13 14:00:00,James Ward-Prowse,Aerial,6042
+465285,41,BlockedShot,0.874000015258789,0.575999984741211,0.06363920122385025,Jan Bednarek,a,6042,FromCorner,2021,RightFoot,16681,Leeds,Southampton,1,1,2022-04-02 14:00:00,Oriol Romeu,Pass,6042
+465295,93,MissedShots,0.85,0.46099998474121096,0.026767300441861153,Jan Bednarek,a,6042,SetPiece,2021,OtherBodyPart,16681,Leeds,Southampton,1,1,2022-04-02 14:00:00,James Ward-Prowse,Aerial,6042
+468161,43,Goal,0.945,0.605,0.07993640005588531,Jan Bednarek,h,6042,FromCorner,2021,LeftFoot,16700,Southampton,Arsenal,1,0,2022-04-16 14:00:00,Mohamed Elyounoussi,Pass,6042
+480337,46,MissedShots,0.89,0.5479999923706055,0.054240498691797256,Jan Bednarek,h,6042,FromCorner,2022,Head,18215,Southampton,Leeds,2,2,2022-08-13 14:00:00,Stuart Armstrong,Cross,6042
+507075,54,BlockedShot,0.9059999847412109,0.57,0.016187699511647224,Jan Bednarek,a,6042,FromCorner,2022,Head,18413,Brentford,Southampton,3,0,2023-02-04 15:00:00,James Ward-Prowse,Aerial,6042
+508395,2,MissedShots,0.9180000305175782,0.5840000152587891,0.049594100564718246,Jan Bednarek,h,6042,FromCorner,2022,Head,18430,Southampton,Wolverhampton Wanderers,1,2,2023-02-11 15:00:00,James Ward-Prowse,Cross,6042
+508396,12,MissedShots,0.8959999847412109,0.47,0.08445409685373306,Jan Bednarek,h,6042,SetPiece,2022,Head,18430,Southampton,Wolverhampton Wanderers,1,2,2023-02-11 15:00:00,James Ward-Prowse,Cross,6042
+508403,39,BlockedShot,0.8530000305175781,0.529000015258789,0.06636709719896317,Jan Bednarek,h,6042,SetPiece,2022,RightFoot,18430,Southampton,Wolverhampton Wanderers,1,2,2023-02-11 15:00:00,,None,6042
+508416,72,OwnGoal,0.004000000059604645,0.48,0,Jan Bednarek,h,6042,OpenPlay,2022,LeftFoot,18430,Southampton,Wolverhampton Wanderers,1,2,2023-02-11 15:00:00,,None,6042
+513923,65,BlockedShot,0.7090000152587891,0.41900001525878905,0.012750400230288506,Jan Bednarek,a,6042,OpenPlay,2022,RightFoot,18468,Manchester United,Southampton,0,0,2023-03-12 14:00:00,James Ward-Prowse,HeadPass,6042
+520561,26,BlockedShot,0.899000015258789,0.39599998474121095,0.015070023015141487,Jan Bednarek,a,6042,FromCorner,2022,Head,18512,Arsenal,Southampton,3,3,2023-04-21 19:00:00,,Aerial,6042
+529931,94,MissedShots,0.9469999694824218,0.36700000762939455,0.045560337603092194,Jan Bednarek,h,6042,FromCorner,2022,RightFoot,18581,Southampton,Liverpool,4,4,2023-05-28 15:30:00,Stuart Armstrong,Cross,6042
+601495,24,MissedShots,0.620999984741211,0.590999984741211,0.007854734547436237,Jan Bednarek,a,6042,OpenPlay,2024,RightFoot,26711,Wolverhampton Wanderers,Southampton,2,0,2024-11-09 15:00:00,,None,6042
+612660,59,Goal,0.8809999847412109,0.53,0.10091514885425568,Jan Bednarek,a,6042,SetPiece,2024,LeftFoot,26820,Nottingham Forest,Southampton,3,2,2025-01-19 14:00:00,Chimuanya Ugochukwu,Rebound,6042
+612667,94,BlockedShot,0.950999984741211,0.5279999923706055,0.465222030878067,Jan Bednarek,a,6042,FromCorner,2024,Head,26820,Nottingham Forest,Southampton,3,2,2025-01-19 14:00:00,Mateus Fernandes,Cross,6042
+613356,9,Goal,0.92,0.49400001525878906,0.3682292699813843,Jan Bednarek,h,6042,OpenPlay,2024,Head,26829,Southampton,Newcastle United,1,3,2025-01-25 15:00:00,James Bree,Cross,6042

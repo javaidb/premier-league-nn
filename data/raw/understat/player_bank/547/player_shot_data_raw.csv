@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+54283,62,MissedShots,0.74,0.41200000762939454,0.012051600031554699,Guillermo Varela,h,547,SetPiece,2015,RightFoot,226,Manchester United,West Ham,0,0,2015-12-05 19:00:00,,None,547
+390637,14,BlockedShot,0.7980000305175782,0.40599998474121096,0.02367679961025715,Guillermo Varela,h,547,FromCorner,2020,RightFoot,14357,Dinamo Moscow,Arsenal Tula,1,0,2020-12-06 13:30:00,,None,547
+390659,61,BlockedShot,0.7319999694824219,0.649000015258789,0.011007499881088734,Guillermo Varela,h,547,OpenPlay,2020,RightFoot,14357,Dinamo Moscow,Arsenal Tula,1,0,2020-12-06 13:30:00,Sergey Parshivlyuk,Chipped,547
+391695,93,BlockedShot,0.7440000152587891,0.7019999694824218,0.008945549838244915,Guillermo Varela,a,547,OpenPlay,2020,RightFoot,14361,Zenit St. Petersburg,Dinamo Moscow,3,1,2020-12-12 16:00:00,,None,547
+410035,74,SavedShot,0.9769999694824218,0.3920000076293945,0.34250301122665405,Guillermo Varela,h,547,OpenPlay,2020,RightFoot,14393,Dinamo Moscow,Spartak Moscow,1,2,2021-03-13 16:00:00,,None,547
+410976,30,MissedShots,0.8919999694824219,0.40099998474121096,0.3687570095062256,Guillermo Varela,a,547,OpenPlay,2020,RightFoot,14405,FC Krasnodar,Dinamo Moscow,2,3,2021-03-18 16:00:00,,None,547
+434699,42,BlockedShot,0.84,0.29700000762939455,0.025148499757051468,Guillermo Varela,h,547,OpenPlay,2021,RightFoot,16210,Dinamo Moscow,Krylya Sovetov Samara,0,1,2021-10-02 13:30:00,Denis Makarov,Pass,547
+439298,90,SavedShot,0.9540000152587891,0.3509999847412109,0.019332099705934525,Guillermo Varela,a,547,OpenPlay,2021,Head,16232,Zenit St. Petersburg,Dinamo Moscow,4,1,2021-10-29 16:00:00,Dmitrii Skopintcev,Aerial,547

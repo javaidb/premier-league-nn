@@ -1,0 +1,29 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+309946,46,MissedShots,0.78,0.625999984741211,0.018974799662828445,George Baldock,a,7706,FromCorner,2019,RightFoot,11645,Bournemouth,Sheffield United,1,1,2019-08-10 15:00:00,,None,7706
+312503,27,SavedShot,0.845999984741211,0.4,0.04125469923019409,George Baldock,h,7706,OpenPlay,2019,RightFoot,11665,Sheffield United,Leicester,1,2,2019-08-24 15:00:00,Jack O&#039;Connell,Cross,7706
+312511,82,BlockedShot,0.765,0.3529999923706055,0.018925800919532776,George Baldock,h,7706,OpenPlay,2019,RightFoot,11665,Sheffield United,Leicester,1,2,2019-08-24 15:00:00,,None,7706
+326712,58,MissedShots,0.8730000305175781,0.29100000381469726,0.05458009988069534,George Baldock,h,7706,OpenPlay,2019,RightFoot,11730,Sheffield United,Arsenal,1,0,2019-10-21 20:00:00,John Fleck,Pass,7706
+327171,52,BlockedShot,0.9080000305175782,0.33599998474121096,0.037985898554325104,George Baldock,a,7706,OpenPlay,2019,RightFoot,11742,West Ham,Sheffield United,1,1,2019-10-26 15:00:00,John Fleck,Chipped,7706
+327174,61,MissedShots,0.899000015258789,0.35700000762939454,0.07958769798278809,George Baldock,a,7706,OpenPlay,2019,RightFoot,11742,West Ham,Sheffield United,1,1,2019-10-26 15:00:00,David McGoldrick,Pass,7706
+330654,77,Goal,0.8909999847412109,0.2670000076293945,0.03985859826207161,George Baldock,a,7706,OpenPlay,2019,RightFoot,11759,Tottenham,Sheffield United,1,1,2019-11-09 15:00:00,David McGoldrick,Pass,7706
+336283,51,Goal,0.855,0.3509999847412109,0.07661750167608261,George Baldock,a,7706,OpenPlay,2019,RightFoot,11799,Norwich,Sheffield United,1,2,2019-12-08 14:00:00,,TakeOn,7706
+351646,63,BlockedShot,0.9430000305175781,0.3629999923706055,0.11348000168800354,George Baldock,h,7706,OpenPlay,2019,RightFoot,11855,Sheffield United,West Ham,1,0,2020-01-10 20:00:00,John Lundstram,Pass,7706
+366290,11,BlockedShot,0.85,0.37599998474121094,0.05304139852523804,George Baldock,a,7706,OpenPlay,2019,LeftFoot,11950,Manchester United,Sheffield United,3,0,2020-06-24 17:00:00,Oliver Norwood,Pass,7706
+368324,0,SavedShot,0.7569999694824219,0.5059999847412109,0.023052599281072617,George Baldock,h,7706,OpenPlay,2019,LeftFoot,11960,Sheffield United,Tottenham,3,1,2020-07-02 17:00:00,Oliver McBurnie,Pass,7706
+369690,76,MissedShots,0.92,0.47200000762939454,0.1276949942111969,George Baldock,h,7706,OpenPlay,2019,Head,11980,Sheffield United,Wolverhampton Wanderers,1,0,2020-07-08 17:00:00,Richairo Zivkovic,Cross,7706
+372927,84,MissedShots,0.9069999694824219,0.52,0.07795160263776779,George Baldock,h,7706,OpenPlay,2019,Head,12009,Sheffield United,Everton,0,1,2020-07-20 17:00:00,Enda Stevens,Cross,7706
+377110,50,BlockedShot,0.899000015258789,0.3220000076293945,0.03288149833679199,George Baldock,h,7706,OpenPlay,2020,RightFoot,14094,Sheffield United,Wolverhampton Wanderers,0,2,2020-09-14 17:00:00,,Rebound,7706
+379261,39,SavedShot,0.875,0.36400001525878906,0.0795534998178482,George Baldock,h,7706,OpenPlay,2020,RightFoot,14110,Sheffield United,Leeds,0,1,2020-09-27 11:00:00,Ben Osborn,Pass,7706
+379274,80,BlockedShot,0.81,0.43400001525878906,0.04868220165371895,George Baldock,h,7706,OpenPlay,2020,LeftFoot,14110,Sheffield United,Leeds,0,1,2020-09-27 11:00:00,Sander Berge,Pass,7706
+383644,47,BlockedShot,0.8380000305175781,0.4209999847412109,0.042161401361227036,George Baldock,a,7706,OpenPlay,2020,RightFoot,14490,Liverpool,Sheffield United,2,1,2020-10-24 19:00:00,Sander Berge,HeadPass,7706
+386145,6,BlockedShot,0.9490000152587891,0.3129999923706055,0.0548040010035038,George Baldock,a,7706,OpenPlay,2020,RightFoot,14507,Chelsea,Sheffield United,4,1,2020-11-07 17:30:00,,None,7706
+386166,89,BlockedShot,0.8059999847412109,0.52,0.05587020143866539,George Baldock,a,7706,OpenPlay,2020,RightFoot,14507,Chelsea,Sheffield United,4,1,2020-11-07 17:30:00,Ben Osborn,Pass,7706
+387828,2,SavedShot,0.9230000305175782,0.34599998474121096,0.06658010184764862,George Baldock,h,7706,OpenPlay,2020,RightFoot,14522,Sheffield United,West Ham,0,1,2020-11-22 14:00:00,John Egan,Chipped,7706
+389048,4,BlockedShot,0.8730000305175781,0.46599998474121096,0.35874301195144653,George Baldock,a,7706,OpenPlay,2020,RightFoot,14527,West Bromwich Albion,Sheffield United,1,0,2020-11-28 20:00:00,Oliver Burke,Pass,7706
+389073,62,MissedShots,0.9159999847412109,0.4179999923706055,0.4207659959793091,George Baldock,a,7706,OpenPlay,2020,LeftFoot,14527,West Bromwich Albion,Sheffield United,1,0,2020-11-28 20:00:00,Oliver Burke,Pass,7706
+389081,93,SavedShot,0.9319999694824219,0.32,0.05102720111608505,George Baldock,a,7706,OpenPlay,2020,RightFoot,14527,West Bromwich Albion,Sheffield United,1,0,2020-11-28 20:00:00,,None,7706
+395901,74,BlockedShot,0.7269999694824218,0.5259999847412109,0.017009099945425987,George Baldock,a,7706,OpenPlay,2020,RightFoot,14587,Burnley,Sheffield United,1,0,2020-12-29 18:00:00,Oliver Burke,Pass,7706
+407954,29,MissedShots,0.8619999694824219,0.34900001525878904,0.05033959820866585,George Baldock,h,7706,OpenPlay,2020,LeftFoot,14721,Sheffield United,Aston Villa,1,0,2021-03-03 18:00:00,David McGoldrick,Chipped,7706
+419323,48,BlockedShot,0.8380000305175781,0.4209999847412109,0.0379147008061409,George Baldock,a,7706,OpenPlay,2020,LeftFoot,14773,Tottenham,Sheffield United,4,0,2021-05-02 18:15:00,Sander Berge,HeadPass,7706
+424100,5,MissedShots,0.8640000152587891,0.355,0.01507870014756918,George Baldock,h,7706,OpenPlay,2020,Head,14812,Sheffield United,Burnley,1,0,2021-05-23 15:00:00,,Aerial,7706
+548866,49,MissedShots,0.8219999694824218,0.3390000152587891,0.024696996435523033,George Baldock,a,7706,FromCorner,2023,RightFoot,22008,Brighton,Sheffield United,1,1,2023-11-12 14:00:00,,None,7706

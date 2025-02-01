@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+17499,16,MissedShots,0.8090000152587891,0.33,0.02248460054397583,Gabriel Obertan,a,851,OpenPlay,2014,RightFoot,4693,Swansea,Newcastle United,2,2,2014-10-04 15:00:00,,TakeOn,851
+16520,50,BlockedShot,0.7859999847412109,0.33599998474121096,0.017852099612355232,Gabriel Obertan,h,851,FromCorner,2014,RightFoot,4704,Newcastle United,Leicester,1,0,2014-10-18 15:00:00,,None,851
+16528,70,Goal,0.8159999847412109,0.53,0.1436139941215515,Gabriel Obertan,h,851,OpenPlay,2014,RightFoot,4704,Newcastle United,Leicester,1,0,2014-10-18 15:00:00,Papiss Demba Cissé,TakeOn,851
+16321,30,MissedShots,0.7609999847412109,0.3629999923706055,0.016083599999547005,Gabriel Obertan,a,851,FromCorner,2014,RightFoot,4715,Tottenham,Newcastle United,1,2,2014-10-26 13:30:00,,None,851
+23549,40,BlockedShot,0.8469999694824218,0.59,0.07732409983873367,Gabriel Obertan,h,851,OpenPlay,2014,RightFoot,4548,Newcastle United,Aston Villa,1,0,2015-02-28 15:00:00,,None,851
+22770,2,SavedShot,0.9030000305175782,0.5420000076293945,0.09977470338344574,Gabriel Obertan,a,851,FromCorner,2014,RightFoot,4500,Everton,Newcastle United,3,0,2015-03-15 16:00:00,,None,851
+22931,47,MissedShots,0.899000015258789,0.46799999237060547,0.020825199782848358,Gabriel Obertan,a,851,FromCorner,2014,Head,4460,Liverpool,Newcastle United,2,0,2015-04-13 20:00:00,Ayoze Pérez,Aerial,851
+51636,49,MissedShots,0.720999984741211,0.645,0.022573400288820267,Gabriel Obertan,h,851,OpenPlay,2015,RightFoot,87,Newcastle United,Southampton,2,2,2015-08-09 16:30:00,Massadio Haidara,Pass,851
+51879,9,SavedShot,0.8619999694824219,0.7090000152587891,0.026121899485588074,Gabriel Obertan,a,851,OpenPlay,2015,RightFoot,94,Swansea,Newcastle United,2,0,2015-08-15 18:00:00,Moussa Sissoko,Cross,851
+51881,15,SavedShot,0.7969999694824219,0.685,0.025324499234557152,Gabriel Obertan,a,851,OpenPlay,2015,RightFoot,94,Swansea,Newcastle United,2,0,2015-08-15 18:00:00,Papiss Demba Cissé,Pass,851
+125924,24,Goal,0.8040000152587891,0.500999984741211,0.04319309815764427,Gabriel Obertan,a,851,OpenPlay,2016,RightFoot,2639,Ural,Anzhi Makhachkala,0,1,2016-09-17 17:30:00,Svyatoslav Georgievsky,Pass,851
+123760,67,BlockedShot,0.8780000305175781,0.675,0.05268169939517975,Gabriel Obertan,h,851,OpenPlay,2016,RightFoot,2966,Anzhi Makhachkala,FC Krasnodar,0,0,2016-10-30 20:30:00,Pylyp Budkivsky,HeadPass,851
+123762,79,MissedShots,0.7969999694824219,0.6270000076293946,0.02258959971368313,Gabriel Obertan,h,851,OpenPlay,2016,RightFoot,2966,Anzhi Makhachkala,FC Krasnodar,0,0,2016-10-30 20:30:00,Lorenzo Ebecilio,TakeOn,851
+124077,13,ShotOnPost,0.879000015258789,0.615999984741211,0.289342999458313,Gabriel Obertan,a,851,OpenPlay,2016,RightFoot,2720,Lokomotiv Moscow,Anzhi Makhachkala,4,0,2016-11-05 19:30:00,Pylyp Budkivsky,Pass,851
+124096,91,MissedShots,0.935,0.235,0.025679200887680054,Gabriel Obertan,a,851,OpenPlay,2016,RightFoot,2720,Lokomotiv Moscow,Anzhi Makhachkala,4,0,2016-11-05 19:30:00,Georgi Tigiev,Chipped,851
+124907,49,MissedShots,0.8959999847412109,0.5309999847412109,0.061485499143600464,Gabriel Obertan,a,851,OpenPlay,2016,Head,2739,FC Rostov,Anzhi Makhachkala,2,0,2016-11-27 17:30:00,Ivo Ilicevic,Cross,851
+125232,3,BlockedShot,0.7969999694824219,0.66,0.027575800195336342,Gabriel Obertan,h,851,OpenPlay,2016,LeftFoot,3272,Anzhi Makhachkala,Amkar,3,1,2016-12-01 21:30:00,,Interception,851

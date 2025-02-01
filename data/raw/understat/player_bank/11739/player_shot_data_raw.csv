@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+571940,86,BlockedShot,0.8180000305175781,0.43599998474121093,0.04926174506545067,Omari Kellyman,a,11739,OpenPlay,2023,LeftFoot,22204,Manchester City,Aston Villa,4,1,2024-04-03 19:15:00,Leon Bailey,Pass,11739

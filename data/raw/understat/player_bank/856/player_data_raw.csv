@@ -1,0 +1,7 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+856,Jack Butland,3,270,0,0,0,0,0,0,0,0,GK,Stoke,0,0,0.06753060221672058,0.06753060221672058,2014
+856,Jack Butland,31,2790,0,0,0,0.02827339991927147,0,1,0,0,GK,Stoke,0,0,2.1044688941910863,2.076195095665753,2015
+856,Jack Butland,5,450,0,0,0,0,0,0,0,0,GK,Stoke,0,0,1.2550198249518871,1.2550198249518871,2016
+856,Jack Butland,35,3150,0,0,0,0.0240446999669075,0,1,0,0,GK,Stoke,0,0,1.536594396457076,1.5125495977699757,2017
+856,Jack Butland,1,90,0,0,0,0,0,0,0,0,GK,Crystal Palace,0,0,0,0,2020
+856,Jack Butland,9,761,0,0,0,0,0,0,0,0,GK S,Crystal Palace,0,0,1.167527973651886,1.167527973651886,2021

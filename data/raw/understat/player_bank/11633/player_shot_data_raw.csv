@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+544979,79,Goal,0.904000015258789,0.6840000152587891,0.31662631034851074,Marc Guiu,h,11633,OpenPlay,2023,RightFoot,22777,Barcelona,Athletic Club,1,0,2023-10-22 19:00:00,João Félix,Throughball,11633
+563309,91,MissedShots,0.955,0.46599998474121096,0.5418446660041809,Marc Guiu,h,11633,OpenPlay,2023,Head,22916,Barcelona,Granada,3,3,2024-02-11 20:00:00,,None,11633
+567708,28,BlockedShot,0.86,0.33,0.070375956594944,Marc Guiu,h,11633,OpenPlay,2023,RightFoot,22956,Barcelona,Mallorca,1,0,2024-03-08 20:00:00,Lamine Yamal,Pass,11633
+567724,58,BlockedShot,0.9119999694824219,0.39099998474121095,0.02318313717842102,Marc Guiu,h,11633,OpenPlay,2023,Head,22956,Barcelona,Mallorca,1,0,2024-03-08 20:00:00,Fermín López,Foul,11633

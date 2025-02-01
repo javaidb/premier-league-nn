@@ -1,0 +1,613 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+1,5,MissedShots,0.8980000305175782,0.7069999694824218,0.0480680987238884,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Zlatan Ibrahimovic,Pass,3294
+8,24,MissedShots,0.92,0.6519999694824219,0.2859269976615906,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Javier Pastore,Pass,3294
+12,43,MissedShots,0.924000015258789,0.669000015258789,0.05450639873743057,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,,None,3294
+21,77,SavedShot,0.7719999694824219,0.7069999694824218,0.014965900219976902,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,,TakeOn,3294
+23,89,MissedShots,0.9490000152587891,0.3120000076293945,0.012133000418543816,Edinson Cavani,a,3294,FromCorner,2014,Head,6185,Reims,Paris Saint Germain,2,2,2014-08-08 19:30:00,Thiago Motta,Aerial,3294
+357,3,BlockedShot,0.904000015258789,0.40700000762939453,0.11476899683475494,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,6196,Paris Saint Germain,SC Bastia,2,0,2014-08-16 16:00:00,Lucas Moura,Pass,3294
+367,56,Goal,0.8959999847412109,0.55,0.3074980080127716,Edinson Cavani,h,3294,SetPiece,2014,RightFoot,6196,Paris Saint Germain,SC Bastia,2,0,2014-08-16 16:00:00,Marco Verratti,Chipped,3294
+369,62,MissedShots,0.9530000305175781,0.46,0.12846100330352783,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,6196,Paris Saint Germain,SC Bastia,2,0,2014-08-16 16:00:00,Javier Pastore,Tackle,3294
+371,77,SavedShot,0.7330000305175781,0.5020000076293946,0.05596400052309036,Edinson Cavani,h,3294,DirectFreekick,2014,RightFoot,6196,Paris Saint Germain,SC Bastia,2,0,2014-08-16 16:00:00,,Standard,3294
+374,84,MissedShots,0.8209999847412109,0.555,0.08045169711112976,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,6196,Paris Saint Germain,SC Bastia,2,0,2014-08-16 16:00:00,Thiago Motta,Pass,3294
+472,13,MissedShots,0.759000015258789,0.5259999847412109,0.02678550034761429,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,6205,Evian Thonon Gaillard,Paris Saint Germain,0,0,2014-08-22 19:30:00,Lucas Moura,Pass,3294
+473,22,SavedShot,0.7580000305175781,0.36400001525878906,0.060086801648139954,Edinson Cavani,a,3294,DirectFreekick,2014,RightFoot,6205,Evian Thonon Gaillard,Paris Saint Germain,0,0,2014-08-22 19:30:00,,Standard,3294
+475,26,SavedShot,0.879000015258789,0.4520000076293945,0.1259710043668747,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,6205,Evian Thonon Gaillard,Paris Saint Germain,0,0,2014-08-22 19:30:00,Lucas Moura,Throughball,3294
+478,70,SavedShot,0.8719999694824219,0.38299999237060545,0.08792900294065475,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6205,Evian Thonon Gaillard,Paris Saint Germain,0,0,2014-08-22 19:30:00,Lucas Moura,Pass,3294
+1075,32,BlockedShot,0.9590000152587891,0.3509999847412109,0.06189659982919693,Edinson Cavani,h,3294,FromCorner,2014,LeftFoot,6224,Paris Saint Germain,Saint-Etienne,5,0,2014-08-31 20:00:00,Zlatan Ibrahimovic,LayOff,3294
+1079,47,SavedShot,0.769000015258789,0.725999984741211,0.027192100882530212,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,6224,Paris Saint Germain,Saint-Etienne,5,0,2014-08-31 20:00:00,Javier Pastore,Pass,3294
+1085,62,Goal,0.769000015258789,0.5129999923706055,0.0407572016119957,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,6224,Paris Saint Germain,Saint-Etienne,5,0,2014-08-31 20:00:00,Maxwell,Pass,3294
+985,52,SavedShot,0.7280000305175781,0.5970000076293945,0.019649000838398933,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6146,Rennes,Paris Saint Germain,1,1,2014-09-13 16:00:00,,None,3294
+997,91,SavedShot,0.88,0.5670000076293945,0.02047079987823963,Edinson Cavani,a,3294,SetPiece,2014,Head,6146,Rennes,Paris Saint Germain,1,1,2014-09-13 16:00:00,,None,3294
+1394,19,Goal,0.919000015258789,0.45299999237060545,0.2961060106754303,Edinson Cavani,h,3294,OpenPlay,2014,Head,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Lucas Digne,Cross,3294
+1399,36,MissedShots,0.8819999694824219,0.3529999923706055,0.09112519770860672,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,6164,Paris Saint Germain,Lyon,1,1,2014-09-21 20:00:00,Yohan Cabaye,Pass,3294
+1484,4,SavedShot,0.909000015258789,0.4370000076293945,0.0860510990023613,Edinson Cavani,a,3294,OpenPlay,2014,Head,6173,Caen,Paris Saint Germain,0,2,2014-09-24 20:00:00,Gregory Van der Wiel,Cross,3294
+1493,43,SavedShot,0.875,0.6170000076293946,0.19891799986362457,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,6173,Caen,Paris Saint Germain,0,2,2014-09-24 20:00:00,Lucas Moura,TakeOn,3294
+1494,45,MissedShots,0.8880000305175781,0.5720000076293945,0.13833700120449066,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,6173,Caen,Paris Saint Germain,0,2,2014-09-24 20:00:00,Jean-Christophe Bahebeck,TakeOn,3294
+1505,73,SavedShot,0.9359999847412109,0.5129999923706055,0.5279099941253662,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6173,Caen,Paris Saint Germain,0,2,2014-09-24 20:00:00,Javier Pastore,Cross,3294
+1508,80,BlockedShot,0.919000015258789,0.6559999847412109,0.10537999868392944,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,6173,Caen,Paris Saint Germain,0,2,2014-09-24 20:00:00,Clément Chantôme,LayOff,3294
+2401,39,BlockedShot,0.865,0.36700000762939455,0.0707584023475647,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,6176,Toulouse,Paris Saint Germain,1,1,2014-09-27 16:00:00,Blaise Matuidi,Pass,3294
+2405,56,BlockedShot,0.6840000152587891,0.025,0.006471369881182909,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6176,Toulouse,Paris Saint Germain,1,1,2014-09-27 16:00:00,,None,3294
+1468,37,MissedShots,0.9480000305175781,0.5479999923706055,0.14748600125312805,Edinson Cavani,h,3294,OpenPlay,2014,Head,6123,Paris Saint Germain,Monaco,1,1,2014-10-05 20:00:00,Maxwell,Cross,3294
+1473,58,MissedShots,0.8059999847412109,0.34299999237060547,0.027595100924372673,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,6123,Paris Saint Germain,Monaco,1,1,2014-10-05 20:00:00,Lucas Moura,Pass,3294
+1560,3,MissedShots,0.909000015258789,0.3029999923706055,0.11402899771928787,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Lucas Moura,Throughball,3294
+1562,9,SavedShot,0.8730000305175781,0.5820000076293945,0.09784220159053802,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Maxwell,Pass,3294
+1565,18,SavedShot,0.8569999694824219,0.4420000076293945,0.2529299855232239,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Marco Verratti,Chipped,3294
+1568,24,BlockedShot,0.8419999694824218,0.5590000152587891,0.25409701466560364,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,Marco Verratti,Chipped,3294
+1581,54,Goal,0.885,0.5,0.7600950002670288,Edinson Cavani,a,3294,Penalty,2014,RightFoot,6124,Lens,Paris Saint Germain,1,3,2014-10-17 19:30:00,,Standard,3294
+3386,50,MissedShots,0.87,0.7290000152587891,0.02955229952931404,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,6076,Lorient,Paris Saint Germain,1,2,2014-11-01 16:00:00,Yohan Cabaye,Pass,3294
+3389,59,Goal,0.980999984741211,0.4929999923706055,0.9537169933319092,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,6076,Lorient,Paris Saint Germain,1,2,2014-11-01 16:00:00,,Rebound,3294
+3388,59,SavedShot,0.9330000305175781,0.46599998474121096,0.5207710266113281,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6076,Lorient,Paris Saint Germain,1,2,2014-11-01 16:00:00,Thiago Motta,Pass,3294
+3394,90,MissedShots,0.755,0.36400001525878906,0.0582721009850502,Edinson Cavani,a,3294,DirectFreekick,2014,RightFoot,6076,Lorient,Paris Saint Germain,1,2,2014-11-01 16:00:00,,Standard,3294
+5377,23,BlockedShot,0.8,0.6370000076293946,0.030991600826382637,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,6094,Paris Saint Germain,Marseille,2,0,2014-11-09 20:00:00,,None,3294
+5379,27,MissedShots,0.89,0.5159999847412109,0.03933969885110855,Edinson Cavani,h,3294,OpenPlay,2014,Head,6094,Paris Saint Germain,Marseille,2,0,2014-11-09 20:00:00,Maxwell,OffsidePass,3294
+5396,66,MissedShots,0.9159999847412109,0.6840000152587891,0.2865769863128662,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,6094,Paris Saint Germain,Marseille,2,0,2014-11-09 20:00:00,,Rebound,3294
+5399,83,SavedShot,0.78,0.6519999694824219,0.047119900584220886,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,6094,Paris Saint Germain,Marseille,2,0,2014-11-09 20:00:00,Lucas Moura,Pass,3294
+5401,84,Goal,0.9419999694824219,0.45799999237060546,0.4467700123786926,Edinson Cavani,h,3294,OpenPlay,2014,Head,6094,Paris Saint Germain,Marseille,2,0,2014-11-09 20:00:00,Serge Aurier,Cross,3294
+5932,85,SavedShot,0.89,0.655,0.45470601320266724,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6095,Metz,Paris Saint Germain,2,3,2014-11-21 19:30:00,Ezequiel Lavezzi,Throughball,3294
+3493,7,MissedShots,0.8030000305175782,0.534000015258789,0.028320100158452988,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,6105,Paris Saint Germain,Nice,1,0,2014-11-29 16:00:00,Salvatore Sirigu,TakeOn,3294
+3499,33,SavedShot,0.94,0.65,0.10402099788188934,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,6105,Paris Saint Germain,Nice,1,0,2014-11-29 16:00:00,Zlatan Ibrahimovic,Pass,3294
+3505,73,MissedShots,0.95,0.44400001525878907,0.48855501413345337,Edinson Cavani,h,3294,OpenPlay,2014,Head,6105,Paris Saint Germain,Nice,1,0,2014-11-29 16:00:00,Serge Aurier,Cross,3294
+3509,92,MissedShots,0.7480000305175781,0.22799999237060548,0.20643800497055054,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,6105,Paris Saint Germain,Nice,1,0,2014-11-29 16:00:00,,None,3294
+4460,10,MissedShots,0.955999984741211,0.6509999847412109,0.040381599217653275,Edinson Cavani,a,3294,FromCorner,2014,RightFoot,6044,Lille,Paris Saint Germain,1,1,2014-12-03 20:00:00,Ezequiel Lavezzi,Cross,3294
+4461,20,MissedShots,0.875,0.5259999847412109,0.37541699409484863,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6044,Lille,Paris Saint Germain,1,1,2014-12-03 20:00:00,Maxwell,Pass,3294
+4464,28,Goal,0.9469999694824218,0.5020000076293946,0.6531260013580322,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6044,Lille,Paris Saint Germain,1,1,2014-12-03 20:00:00,Ezequiel Lavezzi,Pass,3294
+4481,73,MissedShots,0.9569999694824218,0.5359999847412109,0.5823720097541809,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6044,Lille,Paris Saint Germain,1,1,2014-12-03 20:00:00,Gregory Van der Wiel,Cross,3294
+4482,76,SavedShot,0.840999984741211,0.55,0.3044930100440979,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6044,Lille,Paris Saint Germain,1,1,2014-12-03 20:00:00,Thiago Motta,Pass,3294
+3443,1,ShotOnPost,0.8140000152587891,0.4879999923706055,0.05101960152387619,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6063,Guingamp,Paris Saint Germain,1,0,2014-12-14 16:00:00,Marco Verratti,Chipped,3294
+3457,72,BlockedShot,0.77,0.6769999694824219,0.05892439931631088,Edinson Cavani,a,3294,DirectFreekick,2014,RightFoot,6063,Guingamp,Paris Saint Germain,1,0,2014-12-14 16:00:00,,Standard,3294
+3460,80,MissedShots,0.8830000305175781,0.6370000076293946,0.2813419997692108,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,6063,Guingamp,Paris Saint Germain,1,0,2014-12-14 16:00:00,Yohan Cabaye,Chipped,3294
+5299,12,MissedShots,0.8930000305175781,0.30100000381469727,0.0468146987259388,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,6067,Paris Saint Germain,Montpellier,0,0,2014-12-20 16:00:00,Lucas Moura,Pass,3294
+4687,88,Goal,0.9619999694824218,0.55,0.7855439782142639,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,6016,Paris Saint Germain,Evian Thonon Gaillard,4,2,2015-01-18 13:00:00,Zlatan Ibrahimovic,Pass,3294
+5871,52,SavedShot,0.764000015258789,0.735999984741211,0.018454300239682198,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6028,Saint-Etienne,Paris Saint Germain,0,1,2015-01-25 20:00:00,Zlatan Ibrahimovic,Pass,3294
+5878,75,ShotOnPost,0.8119999694824219,0.49599998474121093,0.32120099663734436,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,6028,Saint-Etienne,Paris Saint Germain,0,1,2015-01-25 20:00:00,Javier Pastore,Throughball,3294
+2563,48,SavedShot,0.8640000152587891,0.6279999923706054,0.33265799283981323,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,6029,Paris Saint Germain,Rennes,1,0,2015-01-30 19:30:00,Ezequiel Lavezzi,Throughball,3294
+2569,68,MissedShots,0.955999984741211,0.485,0.17435400187969208,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,6029,Paris Saint Germain,Rennes,1,0,2015-01-30 19:30:00,Javier Pastore,Rebound,3294
+3135,10,SavedShot,0.8630000305175781,0.47400001525878904,0.35335999727249146,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,5972,Lyon,Paris Saint Germain,1,1,2015-02-08 20:00:00,Zlatan Ibrahimovic,Pass,3294
+3144,59,SavedShot,0.9009999847412109,0.5790000152587891,0.08008799701929092,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,5972,Lyon,Paris Saint Germain,1,1,2015-02-08 20:00:00,Blaise Matuidi,Cross,3294
+3145,60,SavedShot,0.855,0.38299999237060545,0.2649419903755188,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,5972,Lyon,Paris Saint Germain,1,1,2015-02-08 20:00:00,Thiago Motta,Throughball,3294
+3842,57,MissedShots,0.955999984741211,0.44400001525878907,0.42649200558662415,Edinson Cavani,h,3294,FromCorner,2014,Head,5983,Paris Saint Germain,Toulouse,3,1,2015-02-21 16:00:00,Zlatan Ibrahimovic,Cross,3294
+5073,15,SavedShot,0.8719999694824219,0.6140000152587891,0.07529699802398682,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,5928,Monaco,Paris Saint Germain,0,0,2015-03-01 20:00:00,Ezequiel Lavezzi,Pass,3294
+5078,44,MissedShots,0.879000015258789,0.6669999694824219,0.06413359940052032,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,5928,Monaco,Paris Saint Germain,0,0,2015-03-01 20:00:00,Ezequiel Lavezzi,Pass,3294
+7766,75,SavedShot,0.884000015258789,0.5770000076293945,0.39132198691368103,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,5931,Paris Saint Germain,Lens,4,1,2015-03-07 16:00:00,Ezequiel Lavezzi,Pass,3294
+8392,1,SavedShot,0.865,0.664000015258789,0.05125870183110237,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,5950,Paris Saint Germain,Lorient,3,1,2015-03-20 19:30:00,Javier Pastore,Chipped,3294
+8402,48,MissedShots,0.7340000152587891,0.6120000076293945,0.02196129970252514,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,5950,Paris Saint Germain,Lorient,3,1,2015-03-20 19:30:00,Marco Verratti,Tackle,3294
+8406,63,MissedShots,0.759000015258789,0.6559999847412109,0.05704540014266968,Edinson Cavani,h,3294,DirectFreekick,2014,RightFoot,5950,Paris Saint Germain,Lorient,3,1,2015-03-20 19:30:00,,Standard,3294
+8411,77,MissedShots,0.94,0.43099998474121093,0.04386679828166962,Edinson Cavani,h,3294,FromCorner,2014,Head,5950,Paris Saint Germain,Lorient,3,1,2015-03-20 19:30:00,Thiago Motta,Aerial,3294
+8417,89,SavedShot,0.8030000305175782,0.500999984741211,0.08152420073747635,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,5950,Paris Saint Germain,Lorient,3,1,2015-03-20 19:30:00,Zlatan Ibrahimovic,LayOff,3294
+8534,18,SavedShot,0.94,0.6869999694824219,0.11088299751281738,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,5894,Marseille,Paris Saint Germain,2,3,2015-04-05 20:00:00,Javier Pastore,Throughball,3294
+6445,43,SavedShot,0.89,0.590999984741211,0.1014150008559227,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,5906,Nice,Paris Saint Germain,1,3,2015-04-18 16:00:00,Javier Pastore,Chipped,3294
+6450,53,BlockedShot,0.8119999694824219,0.55,0.048231299966573715,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,5906,Nice,Paris Saint Germain,1,3,2015-04-18 16:00:00,Lucas Digne,Pass,3294
+6456,68,Goal,0.885,0.5,0.7600950002670288,Edinson Cavani,a,3294,Penalty,2014,RightFoot,5906,Nice,Paris Saint Germain,1,3,2015-04-18 16:00:00,,Standard,3294
+6464,93,SavedShot,0.9619999694824218,0.35200000762939454,0.103363998234272,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,5906,Nice,Paris Saint Germain,1,3,2015-04-18 16:00:00,Maxwell,Chipped,3294
+6736,3,Goal,0.7880000305175782,0.45799999237060546,0.3291670083999634,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,5916,Paris Saint Germain,Lille,6,1,2015-04-25 16:00:00,Javier Pastore,Throughball,3294
+6747,63,MissedShots,0.9330000305175781,0.66,0.13725699484348297,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,5916,Paris Saint Germain,Lille,6,1,2015-04-25 16:00:00,Javier Pastore,Chipped,3294
+6748,64,MissedShots,0.965,0.7530000305175781,0.07785020023584366,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,5916,Paris Saint Germain,Lille,6,1,2015-04-25 16:00:00,Marco Verratti,Chipped,3294
+6750,72,Goal,0.885,0.5,0.7600950002670288,Edinson Cavani,h,3294,Penalty,2014,RightFoot,5916,Paris Saint Germain,Lille,6,1,2015-04-25 16:00:00,,Standard,3294
+6752,81,SavedShot,0.909000015258789,0.415,0.34815600514411926,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,5916,Paris Saint Germain,Lille,6,1,2015-04-25 16:00:00,Javier Pastore,Chipped,3294
+8336,5,MissedShots,0.8819999694824219,0.45599998474121095,0.015917500481009483,Edinson Cavani,h,3294,SetPiece,2014,Head,5925,Paris Saint Germain,Metz,3,1,2015-04-28 20:00:00,Gregory Van der Wiel,Aerial,3294
+8341,41,Goal,0.8930000305175781,0.42700000762939455,0.44589799642562866,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,5925,Paris Saint Germain,Metz,3,1,2015-04-28 20:00:00,Javier Pastore,TakeOn,3294
+8345,58,SavedShot,0.8919999694824219,0.3039999961853027,0.06399229913949966,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,5925,Paris Saint Germain,Metz,3,1,2015-04-28 20:00:00,Marco Verratti,Pass,3294
+8349,79,BlockedShot,0.9,0.5709999847412109,0.06684570014476776,Edinson Cavani,h,3294,SetPiece,2014,Head,5925,Paris Saint Germain,Metz,3,1,2015-04-28 20:00:00,Lucas Moura,Cross,3294
+8350,80,BlockedShot,0.9,0.6279999923706054,0.016519799828529358,Edinson Cavani,h,3294,FromCorner,2014,Head,5925,Paris Saint Germain,Metz,3,1,2015-04-28 20:00:00,Lucas Moura,Cross,3294
+7346,2,Goal,0.935,0.4370000076293945,0.11317399889230728,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Gregory Van der Wiel,BallTouch,3294
+7347,11,SavedShot,0.8919999694824219,0.32099998474121094,0.3096039891242981,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Javier Pastore,Throughball,3294
+7350,13,SavedShot,0.8880000305175781,0.6040000152587891,0.3758310079574585,Edinson Cavani,a,3294,OpenPlay,2014,LeftFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Zlatan Ibrahimovic,Throughball,3294
+7363,66,MissedShots,0.89,0.2989999961853027,0.08807359635829926,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Gregory Van der Wiel,Chipped,3294
+7368,92,SavedShot,0.8469999694824218,0.47200000762939454,0.41561800241470337,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,5854,Nantes,Paris Saint Germain,0,2,2015-05-03 20:00:00,Thiago Motta,Throughball,3294
+6413,1,Goal,0.9430000305175781,0.46799999237060547,0.5253159999847412,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,5855,Paris Saint Germain,Guingamp,6,0,2015-05-08 19:30:00,Serge Aurier,Cross,3294
+6422,51,Goal,0.865,0.6329999923706054,0.08749160170555115,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,5855,Paris Saint Germain,Guingamp,6,0,2015-05-08 19:30:00,Zlatan Ibrahimovic,Pass,3294
+6424,52,MissedShots,0.92,0.6819999694824219,0.08640170097351074,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,5855,Paris Saint Germain,Guingamp,6,0,2015-05-08 19:30:00,Marco Verratti,Pass,3294
+6423,52,SavedShot,0.899000015258789,0.62,0.42430898547172546,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,5855,Paris Saint Germain,Guingamp,6,0,2015-05-08 19:30:00,Javier Pastore,Throughball,3294
+6427,68,MissedShots,0.94,0.71,0.1348630040884018,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,5855,Paris Saint Germain,Guingamp,6,0,2015-05-08 19:30:00,Zlatan Ibrahimovic,Throughball,3294
+6428,69,Goal,0.9030000305175782,0.5829999923706055,0.3010219931602478,Edinson Cavani,h,3294,SetPiece,2014,RightFoot,5855,Paris Saint Germain,Guingamp,6,0,2015-05-08 19:30:00,Marco Verratti,Chipped,3294
+6909,7,MissedShots,0.925,0.645,0.33917900919914246,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,5872,Montpellier,Paris Saint Germain,1,2,2015-05-16 20:00:00,,BallRecovery,3294
+6915,30,SavedShot,0.894000015258789,0.52,0.38840800523757935,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,5872,Montpellier,Paris Saint Germain,1,2,2015-05-16 20:00:00,Adrien Rabiot,Cross,3294
+6929,94,MissedShots,0.925,0.3340000152587891,0.05333539843559265,Edinson Cavani,a,3294,OpenPlay,2014,RightFoot,5872,Montpellier,Paris Saint Germain,1,2,2015-05-16 20:00:00,Javier Pastore,Cross,3294
+7372,12,SavedShot,0.9330000305175781,0.695,0.055780600756406784,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Javier Pastore,Pass,3294
+7373,20,BlockedShot,0.7719999694824219,0.41700000762939454,0.08086729794740677,Edinson Cavani,h,3294,DirectFreekick,2014,RightFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,,Standard,3294
+7376,29,Goal,0.845999984741211,0.54,0.32595300674438477,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Marco Verratti,Throughball,3294
+7377,32,BlockedShot,0.894000015258789,0.5309999847412109,0.1375720053911209,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Lucas Moura,Pass,3294
+7382,41,MissedShots,0.899000015258789,0.5990000152587891,0.310232013463974,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Javier Pastore,Chipped,3294
+7387,60,SavedShot,0.8719999694824219,0.799000015258789,0.029575200751423836,Edinson Cavani,h,3294,OpenPlay,2014,RightFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Adrien Rabiot,Pass,3294
+7392,82,Goal,0.9230000305175782,0.46799999237060547,0.510869026184082,Edinson Cavani,h,3294,OpenPlay,2014,LeftFoot,5878,Paris Saint Germain,Reims,3,2,2015-05-23 20:00:00,Ezequiel Lavezzi,Pass,3294
+61415,76,MissedShots,0.9280000305175782,0.5479999923706055,0.08906889706850052,Edinson Cavani,a,3294,SetPiece,2015,RightFoot,1869,Lille,Paris Saint Germain,0,1,2015-08-07 22:30:00,Thiago Motta,Cross,3294
+61422,89,SavedShot,0.749000015258789,0.6029999923706054,0.059558600187301636,Edinson Cavani,a,3294,DirectFreekick,2015,RightFoot,1869,Lille,Paris Saint Germain,0,1,2015-08-07 22:30:00,,Standard,3294
+61424,93,BlockedShot,0.8530000305175781,0.47400001525878904,0.3415069878101349,Edinson Cavani,a,3294,OpenPlay,2015,RightFoot,1869,Lille,Paris Saint Germain,0,1,2015-08-07 22:30:00,Jean-Kevin Augustin,Pass,3294
+61680,62,MissedShots,0.8819999694824219,0.46,0.051573898643255234,Edinson Cavani,h,3294,SetPiece,2015,Head,1888,Paris Saint Germain,GFC Ajaccio,2,0,2015-08-16 23:00:00,Lucas Moura,Chipped,3294
+61686,68,BlockedShot,0.8780000305175781,0.580999984741211,0.01418409962207079,Edinson Cavani,h,3294,OpenPlay,2015,Head,1888,Paris Saint Germain,GFC Ajaccio,2,0,2015-08-16 23:00:00,Lucas Moura,Aerial,3294
+61696,84,SavedShot,0.885,0.524000015258789,0.0619438998401165,Edinson Cavani,h,3294,SetPiece,2015,Head,1888,Paris Saint Germain,GFC Ajaccio,2,0,2015-08-16 23:00:00,David Luiz,Cross,3294
+61917,21,MissedShots,0.7330000305175781,0.524000015258789,0.013913700357079506,Edinson Cavani,a,3294,OpenPlay,2015,LeftFoot,1889,Montpellier,Paris Saint Germain,0,1,2015-08-21 22:30:00,Ezequiel Lavezzi,HeadPass,3294
+61922,50,SavedShot,0.769000015258789,0.34799999237060547,0.020645100623369217,Edinson Cavani,a,3294,OpenPlay,2015,LeftFoot,1889,Montpellier,Paris Saint Germain,0,1,2015-08-21 22:30:00,Thiago Silva,BallRecovery,3294
+61924,56,BlockedShot,0.904000015258789,0.42900001525878906,0.07568459957838058,Edinson Cavani,a,3294,OpenPlay,2015,Head,1889,Montpellier,Paris Saint Germain,0,1,2015-08-21 22:30:00,Maxwell,Cross,3294
+62025,22,MissedShots,0.8690000152587891,0.44299999237060544,0.02929450012743473,Edinson Cavani,a,3294,OpenPlay,2015,Head,1908,Monaco,Paris Saint Germain,0,3,2015-08-30 23:00:00,Serge Aurier,Cross,3294
+62027,24,SavedShot,0.9080000305175782,0.6580000305175782,0.06133909896016121,Edinson Cavani,a,3294,OpenPlay,2015,RightFoot,1908,Monaco,Paris Saint Germain,0,3,2015-08-30 23:00:00,Maxwell,Rebound,3294
+62033,44,MissedShots,0.8619999694824219,0.5590000152587891,0.10127600282430649,Edinson Cavani,a,3294,OpenPlay,2015,LeftFoot,1908,Monaco,Paris Saint Germain,0,3,2015-08-30 23:00:00,Maxwell,Pass,3294
+62036,45,BlockedShot,0.8969999694824219,0.7340000152587891,0.03419420123100281,Edinson Cavani,a,3294,OpenPlay,2015,LeftFoot,1908,Monaco,Paris Saint Germain,0,3,2015-08-30 23:00:00,Blaise Matuidi,Pass,3294
+62042,56,Goal,0.9119999694824219,0.59,0.21609899401664734,Edinson Cavani,a,3294,OpenPlay,2015,Head,1908,Monaco,Paris Saint Germain,0,3,2015-08-30 23:00:00,Blaise Matuidi,Cross,3294
+62050,66,SavedShot,0.9159999847412109,0.5259999847412109,0.31846100091934204,Edinson Cavani,a,3294,OpenPlay,2015,Head,1908,Monaco,Paris Saint Germain,0,3,2015-08-30 23:00:00,Ángel Di María,Chipped,3294
+62051,72,Goal,0.8859999847412109,0.6469999694824219,0.3343929946422577,Edinson Cavani,a,3294,OpenPlay,2015,RightFoot,1908,Monaco,Paris Saint Germain,0,3,2015-08-30 23:00:00,Zlatan Ibrahimovic,Throughball,3294
+63015,26,Goal,0.88,0.4520000076293945,0.3998430073261261,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,1909,Paris Saint Germain,Bordeaux,2,2,2015-09-11 22:30:00,,None,3294
+63017,33,Goal,0.7780000305175782,0.669000015258789,0.06556670367717743,Edinson Cavani,h,3294,DirectFreekick,2015,RightFoot,1909,Paris Saint Germain,Bordeaux,2,2,2015-09-11 22:30:00,,Standard,3294
+63018,37,BlockedShot,0.9309999847412109,0.544000015258789,0.15101900696754456,Edinson Cavani,h,3294,OpenPlay,2015,LeftFoot,1909,Paris Saint Germain,Bordeaux,2,2,2015-09-11 22:30:00,Lucas Moura,Pass,3294
+63045,87,MissedShots,0.8859999847412109,0.40599998474121096,0.05846279859542847,Edinson Cavani,h,3294,OpenPlay,2015,LeftFoot,1909,Paris Saint Germain,Bordeaux,2,2,2015-09-11 22:30:00,Serge Aurier,HeadPass,3294
+62369,83,Goal,0.909000015258789,0.5109999847412109,0.470102995634079,Edinson Cavani,a,3294,OpenPlay,2015,RightFoot,1920,Reims,Paris Saint Germain,1,1,2015-09-19 19:30:00,Javier Pastore,Throughball,3294
+63025,3,SavedShot,0.9359999847412109,0.45799999237060546,0.4260140061378479,Edinson Cavani,h,3294,OpenPlay,2015,LeftFoot,1930,Paris Saint Germain,Guingamp,3,0,2015-09-22 23:00:00,David Luiz,Cross,3294
+63057,62,MissedShots,0.9030000305175782,0.5709999847412109,0.08516470342874527,Edinson Cavani,h,3294,OpenPlay,2015,Head,1930,Paris Saint Germain,Guingamp,3,0,2015-09-22 23:00:00,Maxwell,Cross,3294
+65736,72,Goal,0.93,0.3820000076293945,0.0429810993373394,Edinson Cavani,a,3294,SetPiece,2015,Head,1939,Nantes,Paris Saint Germain,1,4,2015-09-26 19:30:00,Ángel Di María,Cross,3294
+63235,65,MissedShots,0.879000015258789,0.710999984741211,0.056050799787044525,Edinson Cavani,h,3294,OpenPlay,2015,LeftFoot,1957,Paris Saint Germain,Marseille,2,1,2015-10-04 23:00:00,Ángel Di María,Chipped,3294
+63308,46,BlockedShot,0.8769999694824219,0.37400001525878906,0.06612739711999893,Edinson Cavani,a,3294,SetPiece,2015,RightFoot,1959,SC Bastia,Paris Saint Germain,0,2,2015-10-17 19:00:00,Javier Pastore,Chipped,3294
+63315,59,SavedShot,0.825,0.67,0.03482599928975105,Edinson Cavani,a,3294,OpenPlay,2015,RightFoot,1959,SC Bastia,Paris Saint Germain,0,2,2015-10-17 19:00:00,,None,3294
+63329,88,SavedShot,0.815,0.47900001525878905,0.07886870205402374,Edinson Cavani,a,3294,OpenPlay,2015,RightFoot,1959,SC Bastia,Paris Saint Germain,0,2,2015-10-17 19:00:00,Ezequiel Lavezzi,Chipped,3294
+63956,20,MissedShots,0.89,0.5729999923706055,0.09214700013399124,Edinson Cavani,h,3294,FromCorner,2015,RightFoot,1977,Paris Saint Germain,Saint-Etienne,4,1,2015-10-26 00:00:00,,Rebound,3294
+63971,40,SavedShot,0.9119999694824219,0.47900001525878905,0.525056004524231,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,1977,Paris Saint Germain,Saint-Etienne,4,1,2015-10-26 00:00:00,Zlatan Ibrahimovic,Pass,3294
+63980,47,Goal,0.705,0.5359999847412109,0.19595499336719513,Edinson Cavani,h,3294,OpenPlay,2015,LeftFoot,1977,Paris Saint Germain,Saint-Etienne,4,1,2015-10-26 00:00:00,Zlatan Ibrahimovic,Pass,3294
+63986,48,MissedShots,0.9540000152587891,0.5729999923706055,0.5862029790878296,Edinson Cavani,h,3294,OpenPlay,2015,LeftFoot,1977,Paris Saint Germain,Saint-Etienne,4,1,2015-10-26 00:00:00,,None,3294
+64003,79,MissedShots,0.8230000305175781,0.5320000076293945,0.09477409720420837,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,1977,Paris Saint Germain,Saint-Etienne,4,1,2015-10-26 00:00:00,Ángel Di María,Pass,3294
+64564,49,SavedShot,0.8319999694824218,0.6909999847412109,0.05425339937210083,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,1990,Paris Saint Germain,Toulouse,5,0,2015-11-07 20:00:00,Blaise Matuidi,Pass,3294
+64570,57,MissedShots,0.8590000152587891,0.725999984741211,0.04908270016312599,Edinson Cavani,h,3294,OpenPlay,2015,LeftFoot,1990,Paris Saint Germain,Toulouse,5,0,2015-11-07 20:00:00,Thiago Motta,Pass,3294
+64756,2,SavedShot,0.89,0.575,0.03853759914636612,Edinson Cavani,h,3294,OpenPlay,2015,Head,2010,Paris Saint Germain,Troyes,4,1,2015-11-28 20:00:00,Ángel Di María,Cross,3294
+64757,3,MissedShots,0.960999984741211,0.534000015258789,0.499985009431839,Edinson Cavani,h,3294,FromCorner,2015,Head,2010,Paris Saint Germain,Troyes,4,1,2015-11-28 20:00:00,Ángel Di María,Cross,3294
+64762,19,Goal,0.89,0.38799999237060545,0.2979939877986908,Edinson Cavani,h,3294,OpenPlay,2015,LeftFoot,2010,Paris Saint Germain,Troyes,4,1,2015-11-28 20:00:00,Ángel Di María,Chipped,3294
+64773,44,SavedShot,0.889000015258789,0.6580000305175782,0.10431099683046341,Edinson Cavani,h,3294,OpenPlay,2015,LeftFoot,2010,Paris Saint Germain,Troyes,4,1,2015-11-28 20:00:00,Ángel Di María,TakeOn,3294
+64785,60,MissedShots,0.8519999694824218,0.745999984741211,0.045263200998306274,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,2010,Paris Saint Germain,Troyes,4,1,2015-11-28 20:00:00,Zlatan Ibrahimovic,Pass,3294
+64804,78,MissedShots,0.94,0.580999984741211,0.08068180084228516,Edinson Cavani,h,3294,FromCorner,2015,Head,2010,Paris Saint Germain,Troyes,4,1,2015-11-28 20:00:00,Ángel Di María,Cross,3294
+64409,5,ShotOnPost,0.9440000152587891,0.35700000762939454,0.01763259992003441,Edinson Cavani,a,3294,FromCorner,2015,Head,2019,Angers,Paris Saint Germain,0,0,2015-12-01 22:00:00,Ángel Di María,Cross,3294
+64428,80,SavedShot,0.8590000152587891,0.6530000305175782,0.06027410179376602,Edinson Cavani,a,3294,OpenPlay,2015,RightFoot,2019,Angers,Paris Saint Germain,0,0,2015-12-01 22:00:00,Ángel Di María,Pass,3294
+64433,84,MissedShots,0.9730000305175781,0.66,0.03673259913921356,Edinson Cavani,a,3294,FromCorner,2015,RightFoot,2019,Angers,Paris Saint Germain,0,0,2015-12-01 22:00:00,Ezequiel Lavezzi,Cross,3294
+65612,34,Goal,0.9740000152587891,0.4779999923706055,0.859138011932373,Edinson Cavani,a,3294,OpenPlay,2015,LeftFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Zlatan Ibrahimovic,Pass,3294
+65626,92,SavedShot,0.850999984741211,0.305,0.05247209966182709,Edinson Cavani,a,3294,OpenPlay,2015,RightFoot,2029,Nice,Paris Saint Germain,0,3,2015-12-04 23:30:00,Adrien Rabiot,Chipped,3294
+65090,20,MissedShots,0.899000015258789,0.68,0.08866920322179794,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,2048,Paris Saint Germain,Lyon,5,1,2015-12-14 00:00:00,Ángel Di María,TakeOn,3294
+65096,60,Goal,0.9269999694824219,0.5379999923706055,0.43321698904037476,Edinson Cavani,h,3294,OpenPlay,2015,LeftFoot,2048,Paris Saint Germain,Lyon,5,1,2015-12-14 00:00:00,Ángel Di María,Cross,3294
+65102,85,MissedShots,0.784000015258789,0.36900001525878906,0.04456770047545433,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,2048,Paris Saint Germain,Lyon,5,1,2015-12-14 00:00:00,Ángel Di María,Pass,3294
+66389,81,SavedShot,0.9590000152587891,0.57,0.48874199390411377,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,2080,Paris Saint Germain,Angers,5,1,2016-01-23 20:00:00,Maxwell,Cross,3294
+69141,5,Goal,0.9619999694824218,0.3840000152587891,0.6354460120201111,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,2107,Paris Saint Germain,Lorient,3,1,2016-02-04 00:00:00,Zlatan Ibrahimovic,TakeOn,3294
+69151,53,ShotOnPost,0.835,0.500999984741211,0.2902509868144989,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,2107,Paris Saint Germain,Lorient,3,1,2016-02-04 00:00:00,Thiago Motta,Chipped,3294
+69594,55,MissedShots,0.875999984741211,0.4470000076293945,0.3882170021533966,Edinson Cavani,h,3294,OpenPlay,2015,LeftFoot,2120,Paris Saint Germain,Lille,0,0,2016-02-13 20:00:00,,None,3294
+69597,86,MissedShots,0.9130000305175782,0.6430000305175781,0.341607004404068,Edinson Cavani,h,3294,OpenPlay,2015,LeftFoot,2120,Paris Saint Germain,Lille,0,0,2016-02-13 20:00:00,Benjamin Stambouli,Throughball,3294
+69859,24,BlockedShot,0.9159999847412109,0.5640000152587891,0.12103000283241272,Edinson Cavani,h,3294,OpenPlay,2015,Head,2130,Paris Saint Germain,Reims,4,1,2016-02-20 20:00:00,Layvin Kurzawa,Cross,3294
+69866,45,Goal,0.865,0.565,0.3822459876537323,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,2130,Paris Saint Germain,Reims,4,1,2016-02-20 20:00:00,Zlatan Ibrahimovic,Throughball,3294
+69875,81,SavedShot,0.8109999847412109,0.4520000076293945,0.07875250279903412,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,2130,Paris Saint Germain,Reims,4,1,2016-02-20 20:00:00,Zlatan Ibrahimovic,Pass,3294
+66977,2,ShotOnPost,0.9580000305175781,0.525,0.6104069948196411,Edinson Cavani,h,3294,OpenPlay,2015,LeftFoot,2148,Paris Saint Germain,Montpellier,0,0,2016-03-05 20:00:00,Maxwell,Cross,3294
+66978,5,SavedShot,0.94,0.534000015258789,0.5950109958648682,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,2148,Paris Saint Germain,Montpellier,0,0,2016-03-05 20:00:00,Maxwell,Pass,3294
+67252,12,Goal,0.935,0.5479999923706055,0.5329599976539612,Edinson Cavani,a,3294,OpenPlay,2015,RightFoot,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,,Rebound,3294
+67251,12,SavedShot,0.89,0.59,0.378728985786438,Edinson Cavani,a,3294,OpenPlay,2015,RightFoot,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,,BallRecovery,3294
+67256,18,SavedShot,0.9169999694824219,0.5829999923706055,0.3844049870967865,Edinson Cavani,a,3294,OpenPlay,2015,RightFoot,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,Javier Pastore,Chipped,3294
+67272,60,MissedShots,0.889000015258789,0.5509999847412109,0.0562720000743866,Edinson Cavani,a,3294,FromCorner,2015,RightFoot,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,Adrien Rabiot,Cross,3294
+67277,74,Goal,0.9569999694824218,0.5029999923706054,0.6885330080986023,Edinson Cavani,a,3294,SetPiece,2015,RightFoot,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,,Rebound,3294
+67276,74,SavedShot,0.885,0.5,0.7600950002670288,Edinson Cavani,a,3294,Penalty,2015,RightFoot,2166,Troyes,Paris Saint Germain,0,9,2016-03-13 17:00:00,,Standard,3294
+67164,3,SavedShot,0.9569999694824218,0.585,0.3336299955844879,Edinson Cavani,h,3294,OpenPlay,2015,LeftFoot,2178,Paris Saint Germain,Monaco,0,2,2016-03-21 00:00:00,Marquinhos,Chipped,3294
+67168,20,BlockedShot,0.9,0.3509999847412109,0.11956299841403961,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,2178,Paris Saint Germain,Monaco,0,2,2016-03-21 00:00:00,Lucas Moura,Throughball,3294
+67169,21,MissedShots,0.9330000305175781,0.38599998474121094,0.0336139015853405,Edinson Cavani,h,3294,FromCorner,2015,Head,2178,Paris Saint Germain,Monaco,0,2,2016-03-21 00:00:00,Ángel Di María,Cross,3294
+67171,29,MissedShots,0.8919999694824219,0.62,0.06998589634895325,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,2178,Paris Saint Germain,Monaco,0,2,2016-03-21 00:00:00,Lucas Moura,Chipped,3294
+67175,37,MissedShots,0.875,0.41200000762939454,0.027587300166487694,Edinson Cavani,h,3294,OpenPlay,2015,Head,2178,Paris Saint Germain,Monaco,0,2,2016-03-21 00:00:00,Marquinhos,Cross,3294
+67183,54,MissedShots,0.9159999847412109,0.5520000076293945,0.05169450119137764,Edinson Cavani,h,3294,OpenPlay,2015,Head,2178,Paris Saint Germain,Monaco,0,2,2016-03-21 00:00:00,Maxwell,Aerial,3294
+67190,79,SavedShot,0.94,0.575,0.03825509920716286,Edinson Cavani,h,3294,FromCorner,2015,Head,2178,Paris Saint Germain,Monaco,0,2,2016-03-21 00:00:00,Ángel Di María,Aerial,3294
+68093,24,MissedShots,0.8859999847412109,0.6229999923706054,0.3384590148925781,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,2200,Paris Saint Germain,Caen,6,0,2016-04-16 19:00:00,Zlatan Ibrahimovic,Pass,3294
+68092,24,BlockedShot,0.7959999847412109,0.6990000152587891,0.06815549731254578,Edinson Cavani,h,3294,DirectFreekick,2015,RightFoot,2200,Paris Saint Germain,Caen,6,0,2016-04-16 19:00:00,,Standard,3294
+68098,38,MissedShots,0.8830000305175781,0.6969999694824218,0.06399770081043243,Edinson Cavani,h,3294,OpenPlay,2015,LeftFoot,2200,Paris Saint Germain,Caen,6,0,2016-04-16 19:00:00,Presnel Kimpembe,BallRecovery,3294
+68105,48,Goal,0.9180000305175782,0.504000015258789,0.5743470191955566,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,2200,Paris Saint Germain,Caen,6,0,2016-04-16 19:00:00,Blaise Matuidi,Pass,3294
+68637,22,BlockedShot,0.9630000305175781,0.505,0.12684600055217743,Edinson Cavani,h,3294,OpenPlay,2015,LeftFoot,2218,Paris Saint Germain,Rennes,4,0,2016-04-29 22:30:00,,None,3294
+68640,27,BlockedShot,0.7630000305175781,0.32099998474121094,0.02111399918794632,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,2218,Paris Saint Germain,Rennes,4,0,2016-04-29 22:30:00,Zlatan Ibrahimovic,Pass,3294
+68646,46,SavedShot,0.9630000305175781,0.45799999237060546,0.6751099824905396,Edinson Cavani,h,3294,OpenPlay,2015,LeftFoot,2218,Paris Saint Germain,Rennes,4,0,2016-04-29 22:30:00,Ángel Di María,Pass,3294
+68651,55,ShotOnPost,0.895,0.6809999847412109,0.13422900438308716,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,2218,Paris Saint Germain,Rennes,4,0,2016-04-29 22:30:00,Javier Pastore,Throughball,3294
+68663,80,MissedShots,0.8959999847412109,0.59,0.39744600653648376,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,2218,Paris Saint Germain,Rennes,4,0,2016-04-29 22:30:00,,Rebound,3294
+68665,89,SavedShot,0.895,0.4470000076293945,0.1386519968509674,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,2218,Paris Saint Germain,Rennes,4,0,2016-04-29 22:30:00,Lucas Moura,Pass,3294
+68667,90,Goal,0.8780000305175781,0.635,0.09185980260372162,Edinson Cavani,h,3294,OpenPlay,2015,RightFoot,2218,Paris Saint Germain,Rennes,4,0,2016-04-29 22:30:00,Marco Verratti,Pass,3294
+67865,12,Goal,0.9159999847412109,0.5070000076293946,0.525846004486084,Edinson Cavani,a,3294,OpenPlay,2015,OtherBodyPart,2232,GFC Ajaccio,Paris Saint Germain,0,4,2016-05-07 23:00:00,Ángel Di María,Aerial,3294
+67868,48,Goal,0.9540000152587891,0.6509999847412109,0.2867940068244934,Edinson Cavani,a,3294,OpenPlay,2015,RightFoot,2232,GFC Ajaccio,Paris Saint Germain,0,4,2016-05-07 23:00:00,Ángel Di María,TakeOn,3294
+67871,57,Goal,0.9480000305175781,0.54,0.5115870237350464,Edinson Cavani,a,3294,OpenPlay,2015,Head,2232,GFC Ajaccio,Paris Saint Germain,0,4,2016-05-07 23:00:00,Layvin Kurzawa,Aerial,3294
+103254,18,MissedShots,0.9469999694824218,0.5509999847412109,0.144569993019104,Edinson Cavani,h,3294,OpenPlay,2016,Head,2268,Paris Saint Germain,Metz,3,0,2016-08-21 22:45:00,Ángel Di María,Cross,3294
+103257,26,SavedShot,0.8569999694824219,0.6140000152587891,0.34516701102256775,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,2268,Paris Saint Germain,Metz,3,0,2016-08-21 22:45:00,Ángel Di María,Throughball,3294
+103258,30,BlockedShot,0.8980000305175782,0.63,0.11815200001001358,Edinson Cavani,h,3294,OpenPlay,2016,LeftFoot,2268,Paris Saint Germain,Metz,3,0,2016-08-21 22:45:00,Ángel Di María,Throughball,3294
+103261,40,BlockedShot,0.8959999847412109,0.565,0.4179309904575348,Edinson Cavani,h,3294,OpenPlay,2016,LeftFoot,2268,Paris Saint Germain,Metz,3,0,2016-08-21 22:45:00,Ángel Di María,Throughball,3294
+103280,76,MissedShots,0.9269999694824219,0.5979999923706054,0.4412359893321991,Edinson Cavani,h,3294,OpenPlay,2016,LeftFoot,2268,Paris Saint Germain,Metz,3,0,2016-08-21 22:45:00,,Rebound,3294
+103281,77,MissedShots,0.8580000305175781,0.3890000152587891,0.10010500252246857,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,2268,Paris Saint Germain,Metz,3,0,2016-08-21 22:45:00,Ángel Di María,Chipped,3294
+103765,22,MissedShots,0.87,0.37099998474121093,0.3531779944896698,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,Serge Aurier,Throughball,3294
+103773,62,Goal,0.9169999694824219,0.5359999847412109,0.28876999020576477,Edinson Cavani,a,3294,FromCorner,2016,Head,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,Serge Aurier,HeadPass,3294
+103774,67,BlockedShot,0.94,0.45,0.1015079990029335,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,2278,Monaco,Paris Saint Germain,3,1,2016-08-28 22:45:00,Thomas Meunier,Cross,3294
+103627,85,MissedShots,0.9119999694824219,0.5690000152587891,0.11594299972057343,Edinson Cavani,h,3294,SetPiece,2016,RightFoot,2279,Paris Saint Germain,Saint-Etienne,1,1,2016-09-09 22:45:00,Thomas Meunier,Rebound,3294
+103629,89,BlockedShot,0.9390000152587891,0.605999984741211,0.11884400248527527,Edinson Cavani,h,3294,OpenPlay,2016,LeftFoot,2279,Paris Saint Germain,Saint-Etienne,1,1,2016-09-09 22:45:00,,CornerAwarded,3294
+104194,3,MissedShots,0.889000015258789,0.5920000076293945,0.08223439753055573,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Ángel Di María,Chipped,3294
+104197,9,MissedShots,0.925,0.6040000152587891,0.07539670169353485,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Ángel Di María,Cross,3294
+104198,11,Goal,0.919000015258789,0.42700000762939455,0.32766398787498474,Edinson Cavani,a,3294,OpenPlay,2016,LeftFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Maxwell,Cross,3294
+104200,22,Goal,0.885,0.5,0.7600950002670288,Edinson Cavani,a,3294,Penalty,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,,Standard,3294
+104206,37,Goal,0.9330000305175781,0.5359999847412109,0.5791249871253967,Edinson Cavani,a,3294,OpenPlay,2016,LeftFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Maxwell,Pass,3294
+104208,45,Goal,0.875999984741211,0.445,0.4733319878578186,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,2289,Caen,Paris Saint Germain,0,6,2016-09-16 22:45:00,Thomas Meunier,Throughball,3294
+104406,26,Goal,0.885,0.5,0.7600950002670288,Edinson Cavani,h,3294,Penalty,2016,RightFoot,2300,Paris Saint Germain,Dijon,3,0,2016-09-20 23:00:00,,Standard,3294
+104291,28,SavedShot,0.95,0.49599998474121093,0.4474250078201294,Edinson Cavani,a,3294,FromCorner,2016,RightFoot,2309,Toulouse,Paris Saint Germain,2,0,2016-09-23 22:45:00,Thiago Silva,Chipped,3294
+104293,40,SavedShot,0.9080000305175782,0.48200000762939454,0.30732598900794983,Edinson Cavani,a,3294,OpenPlay,2016,Head,2309,Toulouse,Paris Saint Germain,2,0,2016-09-23 22:45:00,Maxwell,Cross,3294
+104294,41,MissedShots,0.879000015258789,0.57,0.07418680191040039,Edinson Cavani,a,3294,FromCorner,2016,RightFoot,2309,Toulouse,Paris Saint Germain,2,0,2016-09-23 22:45:00,,None,3294
+104302,69,BlockedShot,0.955,0.33599998474121096,0.01230739988386631,Edinson Cavani,a,3294,FromCorner,2016,Head,2309,Toulouse,Paris Saint Germain,2,0,2016-09-23 22:45:00,Ángel Di María,Cross,3294
+104305,81,MissedShots,0.8180000305175781,0.46099998474121096,0.038033999502658844,Edinson Cavani,a,3294,OpenPlay,2016,LeftFoot,2309,Toulouse,Paris Saint Germain,2,0,2016-09-23 22:45:00,Thiago Motta,Chipped,3294
+104502,2,Goal,0.924000015258789,0.575,0.29944100975990295,Edinson Cavani,h,3294,OpenPlay,2016,Head,2320,Paris Saint Germain,Bordeaux,2,0,2016-10-01 19:00:00,Ángel Di María,Cross,3294
+104508,29,Goal,0.9569999694824218,0.5770000076293945,0.5477550029754639,Edinson Cavani,h,3294,OpenPlay,2016,LeftFoot,2320,Paris Saint Germain,Bordeaux,2,0,2016-10-01 19:00:00,Layvin Kurzawa,Pass,3294
+104514,53,SavedShot,0.92,0.44299999237060544,0.46054500341415405,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,2320,Paris Saint Germain,Bordeaux,2,0,2016-10-01 19:00:00,Thomas Meunier,Cross,3294
+104516,65,SavedShot,0.8419999694824218,0.57,0.43275099992752075,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,2320,Paris Saint Germain,Bordeaux,2,0,2016-10-01 19:00:00,Lucas Moura,Throughball,3294
+104771,17,Goal,0.889000015258789,0.3840000152587891,0.34565600752830505,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,2331,Nancy,Paris Saint Germain,1,2,2016-10-15 19:00:00,,None,3294
+104772,20,SavedShot,0.855,0.46900001525878904,0.07929400354623795,Edinson Cavani,a,3294,OpenPlay,2016,Head,2331,Nancy,Paris Saint Germain,1,2,2016-10-15 19:00:00,Marco Verratti,Throughball,3294
+104777,49,MissedShots,0.8690000152587891,0.24399999618530274,0.04792239889502525,Edinson Cavani,a,3294,OpenPlay,2016,LeftFoot,2331,Nancy,Paris Saint Germain,1,2,2016-10-15 19:00:00,Thomas Meunier,TakeOn,3294
+104780,59,MissedShots,0.534000015258789,0.49599998474121093,0.007643320132046938,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,2331,Nancy,Paris Saint Germain,1,2,2016-10-15 19:00:00,,None,3294
+104781,67,MissedShots,0.84,0.415,0.0718512013554573,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,2331,Nancy,Paris Saint Germain,1,2,2016-10-15 19:00:00,Presnel Kimpembe,Chipped,3294
+105637,33,MissedShots,0.8719999694824219,0.4540000152587891,0.12888500094413757,Edinson Cavani,h,3294,SetPiece,2016,Head,2348,Paris Saint Germain,Marseille,0,0,2016-10-23 22:45:00,Ángel Di María,Cross,3294
+105641,68,MissedShots,0.9019999694824219,0.5790000152587891,0.14687900245189667,Edinson Cavani,h,3294,SetPiece,2016,Head,2348,Paris Saint Germain,Marseille,0,0,2016-10-23 22:45:00,Lucas Moura,Cross,3294
+105642,70,BlockedShot,0.9569999694824218,0.40599998474121096,0.12912599742412567,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,2348,Paris Saint Germain,Marseille,0,0,2016-10-23 22:45:00,Serge Aurier,Pass,3294
+105643,76,MissedShots,0.9219999694824219,0.5129999923706055,0.11003299802541733,Edinson Cavani,h,3294,FromCorner,2016,Head,2348,Paris Saint Germain,Marseille,0,0,2016-10-23 22:45:00,Jesé,Cross,3294
+105645,81,MissedShots,0.9569999694824218,0.49700000762939456,0.6070190072059631,Edinson Cavani,h,3294,OpenPlay,2016,LeftFoot,2348,Paris Saint Germain,Marseille,0,0,2016-10-23 22:45:00,Blaise Matuidi,Cross,3294
+105371,16,SavedShot,0.9719999694824218,0.4229999923706055,0.5039349794387817,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,3318,Lille,Paris Saint Germain,0,1,2016-10-28 22:45:00,,Rebound,3294
+105378,30,BlockedShot,0.749000015258789,0.545,0.06562270224094391,Edinson Cavani,a,3294,DirectFreekick,2016,RightFoot,3318,Lille,Paris Saint Germain,0,1,2016-10-28 22:45:00,,Standard,3294
+105381,38,MissedShots,0.8830000305175781,0.555,0.08605720102787018,Edinson Cavani,a,3294,OpenPlay,2016,LeftFoot,3318,Lille,Paris Saint Germain,0,1,2016-10-28 22:45:00,Ángel Di María,HeadPass,3294
+105382,41,MissedShots,0.8630000305175781,0.3820000076293945,0.2999120056629181,Edinson Cavani,a,3294,OpenPlay,2016,LeftFoot,3318,Lille,Paris Saint Germain,0,1,2016-10-28 22:45:00,Ángel Di María,Pass,3294
+105385,57,MissedShots,0.8909999847412109,0.31799999237060544,0.08222109824419022,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,3318,Lille,Paris Saint Germain,0,1,2016-10-28 22:45:00,,TakeOn,3294
+105388,64,Goal,0.9169999694824219,0.5690000152587891,0.44609400629997253,Edinson Cavani,a,3294,OpenPlay,2016,LeftFoot,3318,Lille,Paris Saint Germain,0,1,2016-10-28 22:45:00,Ángel Di María,Pass,3294
+105349,30,SavedShot,0.9630000305175781,0.345,0.01302419975399971,Edinson Cavani,h,3294,FromCorner,2016,Head,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,Ángel Di María,Cross,3294
+105353,41,Goal,0.745,0.4929999923706055,0.03012309968471527,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,2842,Paris Saint Germain,Rennes,4,0,2016-11-06 23:45:00,,BallRecovery,3294
+106462,29,Goal,0.885,0.5,0.7600950002670288,Edinson Cavani,a,3294,Penalty,2016,RightFoot,2862,Lyon,Paris Saint Germain,1,2,2016-11-27 23:45:00,,Standard,3294
+106472,58,BlockedShot,0.915,0.5929999923706055,0.08084399998188019,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,2862,Lyon,Paris Saint Germain,1,2,2016-11-27 23:45:00,Serge Aurier,Cross,3294
+106477,80,Goal,0.9469999694824218,0.55,0.5744479894638062,Edinson Cavani,a,3294,OpenPlay,2016,Head,2862,Lyon,Paris Saint Germain,1,2,2016-11-27 23:45:00,Thomas Meunier,Cross,3294
+107636,65,Goal,0.885,0.5,0.7600950002670288,Edinson Cavani,h,3294,Penalty,2016,RightFoot,3228,Paris Saint Germain,Angers,2,0,2016-12-01 00:00:00,,Standard,3294
+107280,6,SavedShot,0.98,0.59,0.11886399984359741,Edinson Cavani,h,3294,OpenPlay,2016,LeftFoot,3248,Paris Saint Germain,Nice,2,2,2016-12-11 23:45:00,,Rebound,3294
+107287,34,MissedShots,0.9330000305175781,0.59,0.09138640016317368,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,3248,Paris Saint Germain,Nice,2,2,2016-12-11 23:45:00,Layvin Kurzawa,Cross,3294
+107289,39,SavedShot,0.9119999694824219,0.549000015258789,0.3413139879703522,Edinson Cavani,h,3294,OpenPlay,2016,LeftFoot,3248,Paris Saint Germain,Nice,2,2,2016-12-11 23:45:00,Marco Verratti,Chipped,3294
+107293,45,Goal,0.9730000305175781,0.509000015258789,0.6307200193405151,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,3248,Paris Saint Germain,Nice,2,2,2016-12-11 23:45:00,Serge Aurier,Cross,3294
+107297,59,Goal,0.9840000152587891,0.5179999923706055,0.9400870203971863,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,3248,Paris Saint Germain,Nice,2,2,2016-12-11 23:45:00,,None,3294
+107298,61,MissedShots,0.955999984741211,0.4209999847412109,0.10754100233316422,Edinson Cavani,h,3294,FromCorner,2016,LeftFoot,3248,Paris Saint Germain,Nice,2,2,2016-12-11 23:45:00,,None,3294
+107304,87,MissedShots,0.899000015258789,0.505,0.41998499631881714,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,3248,Paris Saint Germain,Nice,2,2,2016-12-11 23:45:00,Hatem Ben Arfa,Rebound,3294
+108508,27,MissedShots,0.8930000305175781,0.6040000152587891,0.0767119973897934,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,3250,Guingamp,Paris Saint Germain,2,1,2016-12-17 20:00:00,Ángel Di María,Chipped,3294
+108513,53,SavedShot,0.9769999694824218,0.6020000076293945,0.3539769947528839,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,3250,Guingamp,Paris Saint Germain,2,1,2016-12-17 20:00:00,Marco Verratti,Throughball,3294
+108521,79,Goal,0.9680000305175781,0.4640000152587891,0.5946940183639526,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,3250,Guingamp,Paris Saint Germain,2,1,2016-12-17 20:00:00,Layvin Kurzawa,Cross,3294
+108522,90,ShotOnPost,0.865999984741211,0.4179999923706055,0.022063899785280228,Edinson Cavani,a,3294,OpenPlay,2016,Head,3250,Guingamp,Paris Saint Germain,2,1,2016-12-17 20:00:00,Marquinhos,Cross,3294
+108524,92,SavedShot,0.919000015258789,0.5529999923706055,0.33162400126457214,Edinson Cavani,a,3294,OpenPlay,2016,Head,3250,Guingamp,Paris Saint Germain,2,1,2016-12-17 20:00:00,Blaise Matuidi,Cross,3294
+106048,58,SavedShot,0.9280000305175782,0.2560000038146973,0.0771934986114502,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,3263,Paris Saint Germain,Lorient,5,0,2016-12-21 23:50:00,Thiago Motta,Chipped,3294
+106050,62,Goal,0.885,0.5,0.7600950002670288,Edinson Cavani,h,3294,Penalty,2016,RightFoot,3263,Paris Saint Germain,Lorient,5,0,2016-12-21 23:50:00,,Standard,3294
+107354,0,MissedShots,0.9169999694824219,0.46099998474121096,0.34866398572921753,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,4106,Rennes,Paris Saint Germain,0,1,2017-01-14 20:00:00,Thomas Meunier,Cross,3294
+108172,20,Goal,0.919000015258789,0.4620000076293945,0.37512800097465515,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,4116,Nantes,Paris Saint Germain,0,2,2017-01-21 19:00:00,Lucas Moura,Cross,3294
+108180,56,BlockedShot,0.8619999694824219,0.67,0.06807830184698105,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,4116,Nantes,Paris Saint Germain,0,2,2017-01-21 19:00:00,Marco Verratti,Pass,3294
+108183,64,Goal,0.740999984741211,0.544000015258789,0.05995909869670868,Edinson Cavani,a,3294,DirectFreekick,2016,RightFoot,4116,Nantes,Paris Saint Germain,0,2,2017-01-21 19:00:00,,Standard,3294
+106535,10,MissedShots,0.82,0.49700000762939456,0.03823250159621239,Edinson Cavani,h,3294,OpenPlay,2016,LeftFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Lucas Moura,HeadPass,3294
+106539,22,SavedShot,0.8690000152587891,0.3729999923706055,0.015114599838852882,Edinson Cavani,h,3294,OpenPlay,2016,Head,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,Thomas Meunier,Cross,3294
+106544,41,SavedShot,0.9730000305175781,0.6630000305175782,0.0540120005607605,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,,Rebound,3294
+106554,80,Goal,0.885,0.5,0.7600950002670288,Edinson Cavani,h,3294,Penalty,2016,RightFoot,4134,Paris Saint Germain,Monaco,1,1,2017-01-29 23:00:00,,Standard,3294
+107427,19,MissedShots,0.92,0.37,0.04574880003929138,Edinson Cavani,a,3294,FromCorner,2016,RightFoot,4139,Dijon,Paris Saint Germain,1,3,2017-02-04 19:00:00,Lucas Moura,Cross,3294
+107433,44,BlockedShot,0.875,0.6730000305175782,0.05589890107512474,Edinson Cavani,a,3294,OpenPlay,2016,LeftFoot,4139,Dijon,Paris Saint Germain,1,3,2017-02-04 19:00:00,Julian Draxler,Pass,3294
+107441,72,MissedShots,0.8980000305175782,0.3370000076293945,0.010617599822580814,Edinson Cavani,a,3294,OpenPlay,2016,Head,4139,Dijon,Paris Saint Germain,1,3,2017-02-04 19:00:00,Gonçalo Guedes,Aerial,3294
+107450,83,Goal,0.9669999694824218,0.45799999237060546,0.6338899731636047,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,4139,Dijon,Paris Saint Germain,1,3,2017-02-04 19:00:00,,None,3294
+108481,19,MissedShots,0.9259999847412109,0.6819999694824219,0.010900899767875671,Edinson Cavani,h,3294,FromCorner,2016,Head,4150,Paris Saint Germain,Lille,2,1,2017-02-07 23:00:00,Julian Draxler,Cross,3294
+108486,37,MissedShots,0.9380000305175781,0.6880000305175781,0.012316400185227394,Edinson Cavani,h,3294,FromCorner,2016,Head,4150,Paris Saint Germain,Lille,2,1,2017-02-07 23:00:00,Ángel Di María,Aerial,3294
+108493,68,MissedShots,0.955999984741211,0.44,0.143885999917984,Edinson Cavani,h,3294,OpenPlay,2016,Head,4150,Paris Saint Germain,Lille,2,1,2017-02-07 23:00:00,Serge Aurier,Cross,3294
+108494,69,Goal,0.9490000152587891,0.47299999237060547,0.6700360178947449,Edinson Cavani,h,3294,SetPiece,2016,OtherBodyPart,4150,Paris Saint Germain,Lille,2,1,2017-02-07 23:00:00,,Aerial,3294
+108500,91,SavedShot,0.895,0.54,0.3865810036659241,Edinson Cavani,h,3294,OpenPlay,2016,LeftFoot,4150,Paris Saint Germain,Lille,2,1,2017-02-07 23:00:00,,Rebound,3294
+109346,5,Goal,0.759000015258789,0.5790000152587891,0.02031470090150833,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,4157,Bordeaux,Paris Saint Germain,0,3,2017-02-10 19:45:00,,None,3294
+109356,46,Goal,0.8819999694824219,0.39,0.2517560124397278,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,4157,Bordeaux,Paris Saint Germain,0,3,2017-02-10 19:45:00,Ángel Di María,Cross,3294
+111188,10,BlockedShot,0.7019999694824218,0.47200000762939454,0.01338110025972128,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4170,Paris Saint Germain,Toulouse,0,0,2017-02-19 20:00:00,,BallRecovery,3294
+111190,15,MissedShots,0.8469999694824218,0.3039999961853027,0.03655819967389107,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4170,Paris Saint Germain,Toulouse,0,0,2017-02-19 20:00:00,Lucas Moura,Pass,3294
+111195,49,SavedShot,0.7669999694824219,0.6419999694824219,0.02402690052986145,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4170,Paris Saint Germain,Toulouse,0,0,2017-02-19 20:00:00,Thiago Motta,Pass,3294
+111196,51,ShotOnPost,0.9569999694824218,0.42200000762939455,0.5164210200309753,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4170,Paris Saint Germain,Toulouse,0,0,2017-02-19 20:00:00,,None,3294
+111200,63,BlockedShot,0.7519999694824219,0.4540000152587891,0.06787820160388947,Edinson Cavani,h,3294,DirectFreekick,2016,RightFoot,4170,Paris Saint Germain,Toulouse,0,0,2017-02-19 20:00:00,,Standard,3294
+111806,15,Goal,0.884000015258789,0.610999984741211,0.3530600070953369,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,4179,Marseille,Paris Saint Germain,1,5,2017-02-26 20:00:00,Javier Pastore,Throughball,3294
+111808,22,MissedShots,0.879000015258789,0.5420000076293945,0.40924298763275146,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,4179,Marseille,Paris Saint Germain,1,5,2017-02-26 20:00:00,,Rebound,3294
+111813,39,MissedShots,0.9290000152587891,0.5209999847412109,0.1324930042028427,Edinson Cavani,a,3294,OpenPlay,2016,Head,4179,Marseille,Paris Saint Germain,1,5,2017-02-26 20:00:00,Javier Pastore,Cross,3294
+111828,67,MissedShots,0.74,0.53,0.03106679953634739,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,4179,Marseille,Paris Saint Germain,1,5,2017-02-26 20:00:00,Marquinhos,Pass,3294
+109274,31,MissedShots,0.9269999694824219,0.555,0.08522249758243561,Edinson Cavani,h,3294,SetPiece,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Grzegorz Krychowiak,None,3294
+109276,39,MissedShots,0.9309999847412109,0.3220000076293945,0.10921499878168106,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Javier Pastore,Throughball,3294
+109282,51,BlockedShot,0.9640000152587891,0.6020000076293945,0.09446559846401215,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Blaise Matuidi,Cross,3294
+109283,52,MissedShots,0.965999984741211,0.4370000076293945,0.354418009519577,Edinson Cavani,h,3294,FromCorner,2016,Head,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,,None,3294
+109285,56,MissedShots,0.8969999694824219,0.5279999923706055,0.10254800319671631,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Layvin Kurzawa,Cross,3294
+109286,58,SavedShot,0.8580000305175781,0.475,0.11277700215578079,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,,TakeOn,3294
+109293,79,Goal,0.885,0.5,0.7600950002670288,Edinson Cavani,h,3294,Penalty,2016,RightFoot,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,,Standard,3294
+109294,81,SavedShot,0.9330000305175781,0.35700000762939454,0.016603300347924232,Edinson Cavani,h,3294,FromCorner,2016,Head,4188,Paris Saint Germain,Nancy,1,0,2017-03-04 16:00:00,Hatem Ben Arfa,Cross,3294
+108651,2,MissedShots,0.8180000305175781,0.5329999923706055,0.16750699281692505,Edinson Cavani,a,3294,DirectFreekick,2016,RightFoot,4199,Lorient,Paris Saint Germain,1,2,2017-03-12 20:00:00,,Standard,3294
+108657,27,SavedShot,0.89,0.3629999923706055,0.34007200598716736,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,4199,Lorient,Paris Saint Germain,1,2,2017-03-12 20:00:00,Julian Draxler,Throughball,3294
+108661,46,BlockedShot,0.9330000305175781,0.3160000038146973,0.03697219863533974,Edinson Cavani,a,3294,FromCorner,2016,RightFoot,4199,Lorient,Paris Saint Germain,1,2,2017-03-12 20:00:00,Ángel Di María,Cross,3294
+108663,55,SavedShot,0.91,0.485,0.32973501086235046,Edinson Cavani,a,3294,SetPiece,2016,Head,4199,Lorient,Paris Saint Germain,1,2,2017-03-12 20:00:00,Ángel Di María,Chipped,3294
+108667,80,MissedShots,0.9290000152587891,0.4540000152587891,0.06959430128335953,Edinson Cavani,a,3294,OpenPlay,2016,Head,4199,Lorient,Paris Saint Germain,1,2,2017-03-12 20:00:00,Layvin Kurzawa,Aerial,3294
+108669,87,MissedShots,0.8930000305175781,0.42700000762939455,0.043195098638534546,Edinson Cavani,a,3294,OpenPlay,2016,Head,4199,Lorient,Paris Saint Germain,1,2,2017-03-12 20:00:00,,None,3294
+109527,60,MissedShots,0.884000015258789,0.5870000076293945,0.10006599873304367,Edinson Cavani,h,3294,OpenPlay,2016,LeftFoot,4213,Paris Saint Germain,Lyon,2,1,2017-03-19 20:00:00,,None,3294
+110209,17,ShotOnPost,0.924000015258789,0.5579999923706055,0.08649539947509766,Edinson Cavani,h,3294,FromCorner,2016,Head,4229,Paris Saint Germain,Guingamp,4,0,2017-04-09 20:00:00,Ángel Di María,Cross,3294
+110221,59,Goal,0.865999984741211,0.675,0.2887910008430481,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4229,Paris Saint Germain,Guingamp,4,0,2017-04-09 20:00:00,Adrien Rabiot,TakeOn,3294
+110222,61,MissedShots,0.9209999847412109,0.5870000076293945,0.2094939947128296,Edinson Cavani,h,3294,OpenPlay,2016,Head,4229,Paris Saint Germain,Guingamp,4,0,2017-04-09 20:00:00,Javier Pastore,Cross,3294
+110223,63,MissedShots,0.745999984741211,0.5420000076293945,0.06358680129051208,Edinson Cavani,h,3294,DirectFreekick,2016,RightFoot,4229,Paris Saint Germain,Guingamp,4,0,2017-04-09 20:00:00,,Standard,3294
+110224,67,SavedShot,0.9030000305175782,0.5179999923706055,0.2664969861507416,Edinson Cavani,h,3294,OpenPlay,2016,Head,4229,Paris Saint Germain,Guingamp,4,0,2017-04-09 20:00:00,Thomas Meunier,Cross,3294
+110225,68,MissedShots,0.9490000152587891,0.39799999237060546,0.0765891969203949,Edinson Cavani,h,3294,OpenPlay,2016,Head,4229,Paris Saint Germain,Guingamp,4,0,2017-04-09 20:00:00,Maxwell,Cross,3294
+110226,69,Goal,0.8590000152587891,0.3770000076293945,0.31297099590301514,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4229,Paris Saint Germain,Guingamp,4,0,2017-04-09 20:00:00,Ángel Di María,Chipped,3294
+111313,8,MissedShots,0.850999984741211,0.4159999847412109,0.04053720086812973,Edinson Cavani,a,3294,FromCorner,2016,RightFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Ángel Di María,Cross,3294
+111324,42,MissedShots,0.885,0.5990000152587891,0.34676098823547363,Edinson Cavani,a,3294,OpenPlay,2016,LeftFoot,4239,Angers,Paris Saint Germain,0,2,2017-04-14 19:45:00,Javier Pastore,Throughball,3294
+109489,19,BlockedShot,0.9030000305175782,0.43,0.1254660040140152,Edinson Cavani,a,3294,OpenPlay,2016,LeftFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Blaise Matuidi,Pass,3294
+109494,32,Goal,0.9569999694824218,0.46900001525878904,0.584077000617981,Edinson Cavani,a,3294,OpenPlay,2016,Head,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Maxwell,Cross,3294
+109500,81,MissedShots,0.8919999694824219,0.48900001525878906,0.3895690143108368,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,Marco Verratti,Throughball,3294
+109501,84,MissedShots,0.7559999847412109,0.6419999694824219,0.057837601751089096,Edinson Cavani,a,3294,DirectFreekick,2016,RightFoot,4223,Metz,Paris Saint Germain,2,3,2017-04-18 17:30:00,,Standard,3294
+110260,16,BlockedShot,0.764000015258789,0.6509999847412109,0.019835099577903748,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4250,Paris Saint Germain,Montpellier,2,0,2017-04-22 16:00:00,Javier Pastore,Dispossessed,3294
+110262,19,SavedShot,0.9630000305175781,0.41,0.09594319760799408,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4250,Paris Saint Germain,Montpellier,2,0,2017-04-22 16:00:00,,None,3294
+110265,23,SavedShot,0.9730000305175781,0.31799999237060544,0.04203759878873825,Edinson Cavani,h,3294,FromCorner,2016,LeftFoot,4250,Paris Saint Germain,Montpellier,2,0,2017-04-22 16:00:00,,None,3294
+110266,28,Goal,0.925,0.5220000076293946,0.4249739944934845,Edinson Cavani,h,3294,OpenPlay,2016,LeftFoot,4250,Paris Saint Germain,Montpellier,2,0,2017-04-22 16:00:00,Blaise Matuidi,Cross,3294
+110284,70,SavedShot,0.9059999847412109,0.649000015258789,0.39166900515556335,Edinson Cavani,h,3294,OpenPlay,2016,LeftFoot,4250,Paris Saint Germain,Montpellier,2,0,2017-04-22 16:00:00,Blaise Matuidi,TakeOn,3294
+110286,71,BlockedShot,0.8530000305175781,0.44299999237060544,0.10378699749708176,Edinson Cavani,h,3294,OpenPlay,2016,LeftFoot,4250,Paris Saint Germain,Montpellier,2,0,2017-04-22 16:00:00,Marco Verratti,Pass,3294
+110532,16,MissedShots,0.9359999847412109,0.605999984741211,0.04614289849996567,Edinson Cavani,a,3294,FromCorner,2016,Head,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Ángel Di María,Cross,3294
+110541,56,SavedShot,0.9630000305175781,0.41200000762939454,0.27100300788879395,Edinson Cavani,a,3294,FromCorner,2016,Head,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Ángel Di María,Cross,3294
+110545,71,MissedShots,0.8830000305175781,0.5840000152587891,0.03146880120038986,Edinson Cavani,a,3294,OpenPlay,2016,Head,4256,Nice,Paris Saint Germain,3,1,2017-04-30 20:00:00,Ángel Di María,Cross,3294
+111570,41,MissedShots,0.8280000305175781,0.66,0.03970170021057129,Edinson Cavani,h,3294,OpenPlay,2016,LeftFoot,4271,Paris Saint Germain,SC Bastia,5,0,2017-05-06 16:00:00,,None,3294
+111581,75,Goal,0.9630000305175781,0.5259999847412109,0.8822950124740601,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4271,Paris Saint Germain,SC Bastia,5,0,2017-05-06 16:00:00,Gonçalo Guedes,Pass,3294
+111583,79,SavedShot,0.885,0.5,0.7600950002670288,Edinson Cavani,h,3294,Penalty,2016,RightFoot,4271,Paris Saint Germain,SC Bastia,5,0,2017-05-06 16:00:00,,Standard,3294
+111588,88,Goal,0.8190000152587891,0.5129999923706055,0.2618879973888397,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4271,Paris Saint Germain,SC Bastia,5,0,2017-05-06 16:00:00,Julian Draxler,BallRecovery,3294
+111849,1,Goal,0.965,0.5459999847412109,0.5861380100250244,Edinson Cavani,a,3294,OpenPlay,2016,Head,4275,Saint-Etienne,Paris Saint Germain,0,5,2017-05-14 20:00:00,Maxwell,Cross,3294
+111855,21,MissedShots,0.9169999694824219,0.654000015258789,0.040963198989629745,Edinson Cavani,a,3294,FromCorner,2016,RightFoot,4275,Saint-Etienne,Paris Saint Germain,0,5,2017-05-14 20:00:00,Julian Draxler,Cross,3294
+111866,63,SavedShot,0.764000015258789,0.7090000152587891,0.030136099085211754,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,4275,Saint-Etienne,Paris Saint Germain,0,5,2017-05-14 20:00:00,Blaise Matuidi,Pass,3294
+111867,65,MissedShots,0.850999984741211,0.6029999923706054,0.4089449942111969,Edinson Cavani,a,3294,OpenPlay,2016,LeftFoot,4275,Saint-Etienne,Paris Saint Germain,0,5,2017-05-14 20:00:00,Marco Verratti,Throughball,3294
+111869,67,MissedShots,0.9169999694824219,0.495,0.343625009059906,Edinson Cavani,a,3294,FromCorner,2016,Head,4275,Saint-Etienne,Paris Saint Germain,0,5,2017-05-14 20:00:00,Lucas Moura,Cross,3294
+111871,71,Goal,0.98,0.524000015258789,0.9592440128326416,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,4275,Saint-Etienne,Paris Saint Germain,0,5,2017-05-14 20:00:00,,Rebound,3294
+111870,71,SavedShot,0.9619999694824218,0.5309999847412109,0.7337459921836853,Edinson Cavani,a,3294,OpenPlay,2016,RightFoot,4275,Saint-Etienne,Paris Saint Germain,0,5,2017-05-14 20:00:00,Blaise Matuidi,Pass,3294
+110383,3,BlockedShot,0.8919999694824219,0.5120000076293946,0.09334570169448853,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4290,Paris Saint Germain,Caen,1,1,2017-05-20 20:00:00,,None,3294
+110394,25,BlockedShot,0.915,0.43900001525878907,0.061963099986314774,Edinson Cavani,h,3294,SetPiece,2016,Head,4290,Paris Saint Germain,Caen,1,1,2017-05-20 20:00:00,Serge Aurier,Chipped,3294
+110401,56,BlockedShot,0.9690000152587891,0.585,0.12598499655723572,Edinson Cavani,h,3294,OpenPlay,2016,Head,4290,Paris Saint Germain,Caen,1,1,2017-05-20 20:00:00,Ángel Di María,Cross,3294
+110414,89,MissedShots,0.9259999847412109,0.664000015258789,0.5290169715881348,Edinson Cavani,h,3294,OpenPlay,2016,RightFoot,4290,Paris Saint Germain,Caen,1,1,2017-05-20 20:00:00,Javier Pastore,TakeOn,3294
+161858,4,MissedShots,0.794000015258789,0.2620000076293945,0.016246600076556206,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8566,Paris Saint Germain,Amiens,2,0,2017-08-05 16:15:00,Ángel Di María,Pass,3294
+161859,5,MissedShots,0.865,0.4179999923706055,0.12118600308895111,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8566,Paris Saint Germain,Amiens,2,0,2017-08-05 16:15:00,Ángel Di María,Throughball,3294
+161870,41,Goal,0.895,0.6079999923706054,0.29446500539779663,Edinson Cavani,h,3294,OpenPlay,2017,LeftFoot,8566,Paris Saint Germain,Amiens,2,0,2017-08-05 16:15:00,Dani Alves,TakeOn,3294
+161875,74,SavedShot,0.8959999847412109,0.3920000076293945,0.33610498905181885,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8566,Paris Saint Germain,Amiens,2,0,2017-08-05 16:15:00,Javier Pastore,Pass,3294
+162107,14,SavedShot,0.889000015258789,0.645,0.08548200130462646,Edinson Cavani,a,3294,OpenPlay,2017,LeftFoot,8584,Guingamp,Paris Saint Germain,0,3,2017-08-13 20:00:00,Thiago Motta,Pass,3294
+162112,36,SavedShot,0.720999984741211,0.5359999847412109,0.048500899225473404,Edinson Cavani,a,3294,DirectFreekick,2017,RightFoot,8584,Guingamp,Paris Saint Germain,0,3,2017-08-13 20:00:00,,Standard,3294
+162118,54,SavedShot,0.865999984741211,0.6179999923706054,0.183555006980896,Edinson Cavani,a,3294,OpenPlay,2017,LeftFoot,8584,Guingamp,Paris Saint Germain,0,3,2017-08-13 20:00:00,Neymar,TakeOn,3294
+162119,59,MissedShots,0.9469999694824218,0.31799999237060544,0.07320129871368408,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8584,Guingamp,Paris Saint Germain,0,3,2017-08-13 20:00:00,Neymar,Pass,3294
+162120,61,Goal,0.8219999694824218,0.6759999847412109,0.30970099568367004,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8584,Guingamp,Paris Saint Germain,0,3,2017-08-13 20:00:00,Neymar,Throughball,3294
+162122,75,MissedShots,0.88,0.59,0.11489400267601013,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8584,Guingamp,Paris Saint Germain,0,3,2017-08-13 20:00:00,Dani Alves,Chipped,3294
+162436,17,SavedShot,0.9119999694824219,0.40900001525878904,0.36490699648857117,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8591,Paris Saint Germain,Toulouse,6,2,2017-08-20 20:00:00,Neymar,Throughball,3294
+162447,41,BlockedShot,0.8590000152587891,0.42700000762939455,0.1353829950094223,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8591,Paris Saint Germain,Toulouse,6,2,2017-08-20 20:00:00,Marco Verratti,Throughball,3294
+162454,72,SavedShot,0.8719999694824219,0.315,0.33469900488853455,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8591,Paris Saint Germain,Toulouse,6,2,2017-08-20 20:00:00,Ángel Di María,Throughball,3294
+162455,74,Goal,0.885,0.5,0.7600950002670288,Edinson Cavani,h,3294,Penalty,2017,RightFoot,8591,Paris Saint Germain,Toulouse,6,2,2017-08-20 20:00:00,,Standard,3294
+162725,19,Goal,0.885,0.5,0.7600950002670288,Edinson Cavani,h,3294,Penalty,2017,RightFoot,8602,Paris Saint Germain,Saint-Etienne,3,0,2017-08-25 19:45:00,,Standard,3294
+162740,73,MissedShots,0.9430000305175781,0.6270000076293946,0.09923139959573746,Edinson Cavani,h,3294,OpenPlay,2017,LeftFoot,8602,Paris Saint Germain,Saint-Etienne,3,0,2017-08-25 19:45:00,,Rebound,3294
+162745,88,Goal,0.955999984741211,0.52,0.6151350140571594,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8602,Paris Saint Germain,Saint-Etienne,3,0,2017-08-25 19:45:00,Thomas Meunier,Cross,3294
+163172,21,ShotOnPost,0.909000015258789,0.425,0.39857199788093567,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8614,Metz,Paris Saint Germain,1,5,2017-09-08 19:45:00,,None,3294
+163176,30,Goal,0.9290000152587891,0.649000015258789,0.5573430061340332,Edinson Cavani,a,3294,OpenPlay,2017,LeftFoot,8614,Metz,Paris Saint Germain,1,5,2017-09-08 19:45:00,Neymar,TakeOn,3294
+163177,33,SavedShot,0.8430000305175781,0.6430000305175781,0.055294498801231384,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8614,Metz,Paris Saint Germain,1,5,2017-09-08 19:45:00,Kylian Mbappe-Lottin,Pass,3294
+163178,34,SavedShot,0.9169999694824219,0.46599998474121096,0.4685930013656616,Edinson Cavani,a,3294,OpenPlay,2017,Head,8614,Metz,Paris Saint Germain,1,5,2017-09-08 19:45:00,Kylian Mbappe-Lottin,Cross,3294
+163187,62,MissedShots,0.909000015258789,0.6430000305175781,0.061242200434207916,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8614,Metz,Paris Saint Germain,1,5,2017-09-08 19:45:00,Thomas Meunier,Cross,3294
+163188,65,ShotOnPost,0.8419999694824218,0.32,0.05724719911813736,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8614,Metz,Paris Saint Germain,1,5,2017-09-08 19:45:00,Adrien Rabiot,Chipped,3294
+163192,69,SavedShot,0.915,0.6229999923706054,0.44238099455833435,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8614,Metz,Paris Saint Germain,1,5,2017-09-08 19:45:00,,None,3294
+163194,74,Goal,0.9169999694824219,0.49700000762939456,0.47613000869750977,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8614,Metz,Paris Saint Germain,1,5,2017-09-08 19:45:00,Kylian Mbappe-Lottin,BallTouch,3294
+163125,42,MissedShots,0.8880000305175781,0.37400001525878906,0.013989600352942944,Edinson Cavani,h,3294,OpenPlay,2017,Head,8624,Paris Saint Germain,Lyon,2,0,2017-09-17 20:00:00,Dani Alves,Aerial,3294
+163131,61,MissedShots,0.925,0.6930000305175781,0.010324199683964252,Edinson Cavani,h,3294,FromCorner,2017,Head,8624,Paris Saint Germain,Lyon,2,0,2017-09-17 20:00:00,Neymar,Cross,3294
+163132,61,MissedShots,0.8819999694824219,0.6790000152587891,0.03546940162777901,Edinson Cavani,h,3294,FromCorner,2017,RightFoot,8624,Paris Saint Germain,Lyon,2,0,2017-09-17 20:00:00,Thiago Motta,BallTouch,3294
+163137,74,MissedShots,0.965,0.57,0.12091799825429916,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8624,Paris Saint Germain,Lyon,2,0,2017-09-17 20:00:00,Giovani Lo Celso,Foul,3294
+163140,78,SavedShot,0.885,0.5,0.7600950002670288,Edinson Cavani,h,3294,Penalty,2017,RightFoot,8624,Paris Saint Germain,Lyon,2,0,2017-09-17 20:00:00,,Standard,3294
+163143,89,MissedShots,0.970999984741211,0.5729999923706055,0.14463399350643158,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8624,Paris Saint Germain,Lyon,2,0,2017-09-17 20:00:00,Yuri,Pass,3294
+163445,11,Goal,0.879000015258789,0.48700000762939455,0.4223569929599762,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8644,Paris Saint Germain,Bordeaux,6,2,2017-09-30 16:00:00,Neymar,Throughball,3294
+164109,12,SavedShot,0.8690000152587891,0.7090000152587891,0.04448369890451431,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,Adrien Rabiot,BallRecovery,3294
+164121,92,Goal,0.764000015258789,0.6759999847412109,0.0559007003903389,Edinson Cavani,a,3294,DirectFreekick,2017,RightFoot,8664,Marseille,Paris Saint Germain,2,2,2017-10-22 20:00:00,,Standard,3294
+164649,2,Goal,0.95,0.635,0.02690890058875084,Edinson Cavani,h,3294,SetPiece,2017,Head,8672,Paris Saint Germain,Nice,3,0,2017-10-27 19:45:00,Ángel Di María,Cross,3294
+164651,8,SavedShot,0.885,0.40799999237060547,0.3729589879512787,Edinson Cavani,h,3294,OpenPlay,2017,LeftFoot,8672,Paris Saint Germain,Nice,3,0,2017-10-27 19:45:00,Julian Draxler,Pass,3294
+164660,30,Goal,0.990999984741211,0.5429999923706055,0.9739779829978943,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8672,Paris Saint Germain,Nice,3,0,2017-10-27 19:45:00,Ángel Di María,TakeOn,3294
+164783,28,MissedShots,0.47299999237060547,0.6179999923706054,0.009345539845526218,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8680,Angers,Paris Saint Germain,0,5,2017-11-04 16:00:00,Marco Verratti,Pass,3294
+164784,29,Goal,0.875,0.33599998474121096,0.3727079927921295,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8680,Angers,Paris Saint Germain,0,5,2017-11-04 16:00:00,Kylian Mbappe-Lottin,Pass,3294
+164787,45,BlockedShot,0.774000015258789,0.45799999237060546,0.0893905982375145,Edinson Cavani,a,3294,DirectFreekick,2017,RightFoot,8680,Angers,Paris Saint Germain,0,5,2017-11-04 16:00:00,,Standard,3294
+164788,48,BlockedShot,0.855,0.4640000152587891,0.022818399593234062,Edinson Cavani,a,3294,OpenPlay,2017,Head,8680,Angers,Paris Saint Germain,0,5,2017-11-04 16:00:00,Kylian Mbappe-Lottin,Cross,3294
+164791,59,Goal,0.8819999694824219,0.3129999923706055,0.3723030090332031,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8680,Angers,Paris Saint Germain,0,5,2017-11-04 16:00:00,Julian Draxler,Throughball,3294
+164869,6,MissedShots,0.840999984741211,0.5659999847412109,0.06622820347547531,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8692,Paris Saint Germain,Nantes,4,1,2017-11-18 16:00:00,Neymar,Chipped,3294
+164880,37,Goal,0.87,0.6120000076293945,0.08544020354747772,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8692,Paris Saint Germain,Nantes,4,1,2017-11-18 16:00:00,Javier Pastore,Pass,3294
+164890,77,SavedShot,0.8580000305175781,0.6680000305175782,0.13736699521541595,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8692,Paris Saint Germain,Nantes,4,1,2017-11-18 16:00:00,Neymar,Throughball,3294
+164891,78,Goal,0.88,0.44299999237060544,0.4721519947052002,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8692,Paris Saint Germain,Nantes,4,1,2017-11-18 16:00:00,,None,3294
+164895,87,SavedShot,0.879000015258789,0.32599998474121095,0.08143249899148941,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8692,Paris Saint Germain,Nantes,4,1,2017-11-18 16:00:00,Neymar,Pass,3294
+165297,7,MissedShots,0.9209999847412109,0.44299999237060544,0.13696299493312836,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Kylian Mbappe-Lottin,Pass,3294
+165300,18,Goal,0.9590000152587891,0.5270000076293946,0.6735410094261169,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Julian Draxler,Pass,3294
+165314,74,MissedShots,0.9230000305175782,0.5359999847412109,0.4311400055885315,Edinson Cavani,a,3294,OpenPlay,2017,Head,8704,Monaco,Paris Saint Germain,1,2,2017-11-26 20:00:00,Neymar,Chipped,3294
+165599,10,MissedShots,0.925,0.6940000152587891,0.09661109745502472,Edinson Cavani,h,3294,SetPiece,2017,LeftFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Javier Pastore,Throughball,3294
+165602,21,BlockedShot,0.8440000152587891,0.36,0.053481899201869965,Edinson Cavani,h,3294,OpenPlay,2017,LeftFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Thomas Meunier,Pass,3294
+165606,40,SavedShot,0.885,0.5,0.7600950002670288,Edinson Cavani,h,3294,Penalty,2017,RightFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,,Standard,3294
+165622,89,Goal,0.874000015258789,0.43,0.11403399705886841,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8712,Paris Saint Germain,Troyes,2,0,2017-11-29 20:00:00,Neymar,Pass,3294
+165186,98,SavedShot,0.9580000305175781,0.519000015258789,0.07568679749965668,Edinson Cavani,a,3294,SetPiece,2017,Head,8716,Strasbourg,Paris Saint Germain,2,1,2017-12-02 16:00:00,Adrien Rabiot,End,3294
+179627,87,SavedShot,0.8480000305175781,0.4329999923706055,0.10132499784231186,Edinson Cavani,h,3294,OpenPlay,2017,LeftFoot,8733,Paris Saint Germain,Lille,3,1,2017-12-09 16:00:00,Kylian Mbappe-Lottin,Pass,3294
+179629,90,BlockedShot,0.9059999847412109,0.3840000152587891,0.11823300272226334,Edinson Cavani,h,3294,OpenPlay,2017,LeftFoot,8733,Paris Saint Germain,Lille,3,1,2017-12-09 16:00:00,Julian Draxler,Pass,3294
+183412,33,BlockedShot,0.8119999694824219,0.52,0.0849049985408783,Edinson Cavani,a,3294,OpenPlay,2017,LeftFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Neymar,Pass,3294
+183416,40,BlockedShot,0.9590000152587891,0.46,0.1543249934911728,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Kylian Mbappe-Lottin,Pass,3294
+183417,42,SavedShot,0.9030000305175782,0.37099998474121093,0.30487799644470215,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Neymar,Pass,3294
+183418,42,BlockedShot,0.9530000305175781,0.375,0.09672059863805771,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,,Rebound,3294
+183426,74,Goal,0.825999984741211,0.6469999694824219,0.2961390018463135,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8741,Rennes,Paris Saint Germain,1,4,2017-12-16 16:00:00,Neymar,Chipped,3294
+183270,13,MissedShots,0.8690000152587891,0.56,0.06324750185012817,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8747,Paris Saint Germain,Caen,3,1,2017-12-20 19:50:00,Thomas Meunier,Cross,3294
+183272,20,Goal,0.92,0.45099998474121095,0.13718700408935547,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8747,Paris Saint Germain,Caen,3,1,2017-12-20 19:50:00,Kylian Mbappe-Lottin,Pass,3294
+183275,27,MissedShots,0.8519999694824218,0.445,0.07403069734573364,Edinson Cavani,h,3294,OpenPlay,2017,LeftFoot,8747,Paris Saint Germain,Caen,3,1,2017-12-20 19:50:00,Neymar,HeadPass,3294
+183276,31,BlockedShot,0.875,0.62,0.10214400291442871,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8747,Paris Saint Germain,Caen,3,1,2017-12-20 19:50:00,Giovani Lo Celso,Pass,3294
+183282,50,MissedShots,0.8530000305175781,0.53,0.13589100539684296,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8747,Paris Saint Germain,Caen,3,1,2017-12-20 19:50:00,Giovani Lo Celso,Throughball,3294
+183284,55,MissedShots,0.904000015258789,0.6329999923706054,0.04126900061964989,Edinson Cavani,h,3294,FromCorner,2017,RightFoot,8747,Paris Saint Germain,Caen,3,1,2017-12-20 19:50:00,Kylian Mbappe-Lottin,Chipped,3294
+183286,59,BlockedShot,0.884000015258789,0.6,0.05631760135293007,Edinson Cavani,h,3294,OpenPlay,2017,Head,8747,Paris Saint Germain,Caen,3,1,2017-12-20 19:50:00,Kylian Mbappe-Lottin,Chipped,3294
+188377,20,Goal,0.9009999847412109,0.5509999847412109,0.2361290007829666,Edinson Cavani,h,3294,OpenPlay,2017,Head,8773,Paris Saint Germain,Dijon,8,0,2018-01-17 20:00:00,Ángel Di María,Cross,3294
+188385,50,BlockedShot,0.8209999847412109,0.4540000152587891,0.09807109832763672,Edinson Cavani,h,3294,OpenPlay,2017,LeftFoot,8773,Paris Saint Germain,Dijon,8,0,2018-01-17 20:00:00,,None,3294
+188390,63,MissedShots,0.8119999694824219,0.75,0.060186199843883514,Edinson Cavani,h,3294,DirectFreekick,2017,RightFoot,8773,Paris Saint Germain,Dijon,8,0,2018-01-17 20:00:00,,Standard,3294
+189514,7,MissedShots,0.634000015258789,0.9169999694824219,0.00681948009878397,Edinson Cavani,a,3294,OpenPlay,2017,LeftFoot,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,,None,3294
+189517,11,SavedShot,0.889000015258789,0.43099998474121093,0.028494099155068398,Edinson Cavani,a,3294,SetPiece,2017,OtherBodyPart,8777,Lyon,Paris Saint Germain,2,1,2018-01-21 20:00:00,Ángel Di María,Cross,3294
+189940,10,Goal,0.9590000152587891,0.515,0.6666240096092224,Edinson Cavani,h,3294,OpenPlay,2017,LeftFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Adrien Rabiot,Pass,3294
+189963,90,MissedShots,0.9290000152587891,0.4809999847412109,0.5941129922866821,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8790,Paris Saint Germain,Montpellier,4,0,2018-01-27 19:00:00,Ángel Di María,Pass,3294
+194464,26,BlockedShot,0.8090000152587891,0.4879999923706055,0.050938401371240616,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,,None,3294
+194467,28,MissedShots,0.745,0.29100000381469726,0.014451200142502785,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Ángel Di María,Pass,3294
+194471,38,MissedShots,0.8830000305175781,0.355,0.4856800138950348,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Javier Pastore,Throughball,3294
+194479,59,SavedShot,0.9290000152587891,0.3509999847412109,0.015443500131368637,Edinson Cavani,a,3294,FromCorner,2017,Head,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Ángel Di María,Cross,3294
+194484,85,MissedShots,0.9619999694824218,0.6840000152587891,0.035795800387859344,Edinson Cavani,a,3294,FromCorner,2017,RightFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Neymar,Cross,3294
+194487,90,SavedShot,0.9159999847412109,0.5670000076293945,0.5089730024337769,Edinson Cavani,a,3294,OpenPlay,2017,LeftFoot,8797,Lille,Paris Saint Germain,0,3,2018-02-03 16:00:00,Yuri,Pass,3294
+196384,29,SavedShot,0.909000015258789,0.4540000152587891,0.24660100042819977,Edinson Cavani,h,3294,OpenPlay,2017,Head,8821,Paris Saint Germain,Strasbourg,5,2,2018-02-17 16:00:00,Neymar,Cross,3294
+196388,42,BlockedShot,0.9630000305175781,0.5370000076293945,0.13952800631523132,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8821,Paris Saint Germain,Strasbourg,5,2,2018-02-17 16:00:00,,None,3294
+196390,59,BlockedShot,0.855999984741211,0.7930000305175782,0.037423599511384964,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8821,Paris Saint Germain,Strasbourg,5,2,2018-02-17 16:00:00,Neymar,Pass,3294
+196397,72,Goal,0.8880000305175781,0.355,0.3300589919090271,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8821,Paris Saint Germain,Strasbourg,5,2,2018-02-17 16:00:00,Javier Pastore,Throughball,3294
+196399,78,Goal,0.8440000152587891,0.5059999847412109,0.4136340022087097,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8821,Paris Saint Germain,Strasbourg,5,2,2018-02-17 16:00:00,Neymar,Throughball,3294
+198115,54,Goal,0.9259999847412109,0.6,0.12363500148057938,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8828,Paris Saint Germain,Marseille,3,0,2018-02-25 20:00:00,Neymar,Cross,3294
+201059,8,SavedShot,0.9519999694824218,0.620999984741211,0.06375099718570709,Edinson Cavani,h,3294,OpenPlay,2017,LeftFoot,8871,Paris Saint Germain,Angers,2,1,2018-03-14 16:00:00,Ángel Di María,Cross,3294
+201066,44,BlockedShot,0.905,0.63,0.12980900704860687,Edinson Cavani,h,3294,OpenPlay,2017,LeftFoot,8871,Paris Saint Germain,Angers,2,1,2018-03-14 16:00:00,,TakeOn,3294
+201863,13,ShotOnPost,0.9469999694824218,0.46599998474121096,0.6142370104789734,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8862,Nice,Paris Saint Germain,1,2,2018-03-18 12:00:00,,Rebound,3294
+201862,13,SavedShot,0.82,0.5179999923706055,0.05553890019655228,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8862,Nice,Paris Saint Germain,1,2,2018-03-18 12:00:00,,None,3294
+201872,40,MissedShots,0.754000015258789,0.6329999923706054,0.015318600460886955,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8862,Nice,Paris Saint Germain,1,2,2018-03-18 12:00:00,,None,3294
+207268,75,MissedShots,0.8690000152587891,0.4370000076293945,0.5039349794387817,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8882,Saint-Etienne,Paris Saint Germain,1,1,2018-04-06 18:45:00,Ángel Di María,Pass,3294
+207271,90,SavedShot,0.9290000152587891,0.5479999923706055,0.4127039909362793,Edinson Cavani,a,3294,OpenPlay,2017,LeftFoot,8882,Saint-Etienne,Paris Saint Germain,1,1,2018-04-06 18:45:00,Ángel Di María,Cross,3294
+209398,9,MissedShots,0.925,0.5920000076293945,0.41495200991630554,Edinson Cavani,h,3294,OpenPlay,2017,LeftFoot,8894,Paris Saint Germain,Monaco,7,1,2018-04-15 19:00:00,,None,3294
+209401,16,Goal,0.9059999847412109,0.49,0.32501500844955444,Edinson Cavani,h,3294,OpenPlay,2017,Head,8894,Paris Saint Germain,Monaco,7,1,2018-04-15 19:00:00,Yuri,Cross,3294
+211247,56,MissedShots,0.7619999694824219,0.615,0.023266799747943878,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8903,Bordeaux,Paris Saint Germain,0,1,2018-04-22 00:00:00,Javier Pastore,Pass,3294
+212682,24,MissedShots,0.86,0.4329999923706055,0.020642200484871864,Edinson Cavani,h,3294,OpenPlay,2017,Head,8912,Paris Saint Germain,Guingamp,2,2,2018-04-29 00:00:00,Kylian Mbappe-Lottin,Cross,3294
+212694,47,MissedShots,0.76,0.5179999923706055,0.07644250243902206,Edinson Cavani,h,3294,DirectFreekick,2017,RightFoot,8912,Paris Saint Germain,Guingamp,2,2,2018-04-29 00:00:00,,Standard,3294
+212699,74,Goal,0.885,0.5,0.7600950002670288,Edinson Cavani,h,3294,Penalty,2017,RightFoot,8912,Paris Saint Germain,Guingamp,2,2,2018-04-29 00:00:00,,Standard,3294
+212700,78,BlockedShot,0.9180000305175782,0.4540000152587891,0.08579739928245544,Edinson Cavani,h,3294,OpenPlay,2017,RightFoot,8912,Paris Saint Germain,Guingamp,2,2,2018-04-29 00:00:00,,None,3294
+212704,81,Goal,0.9209999847412109,0.509000015258789,0.2757369875907898,Edinson Cavani,h,3294,OpenPlay,2017,Head,8912,Paris Saint Germain,Guingamp,2,2,2018-04-29 00:00:00,Thomas Meunier,Chipped,3294
+212878,25,Goal,0.93,0.37,0.3536570072174072,Edinson Cavani,a,3294,OpenPlay,2017,RightFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Javier Pastore,Throughball,3294
+212896,74,SavedShot,0.8180000305175781,0.580999984741211,0.0679372027516365,Edinson Cavani,a,3294,OpenPlay,2017,LeftFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Layvin Kurzawa,Pass,3294
+212901,82,BlockedShot,0.895,0.6329999923706054,0.054112400859594345,Edinson Cavani,a,3294,OpenPlay,2017,LeftFoot,8915,Amiens,Paris Saint Germain,2,2,2018-05-04 19:45:00,Thomas Meunier,Cross,3294
+220171,11,Goal,0.9280000305175782,0.5509999847412109,0.5352519750595093,Edinson Cavani,h,3294,OpenPlay,2018,RightFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,,None,3294
+220172,13,ShotOnPost,0.909000015258789,0.46,0.2716819941997528,Edinson Cavani,h,3294,OpenPlay,2018,Head,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Neymar,Cross,3294
+220186,64,MissedShots,0.8619999694824219,0.72,0.04420040175318718,Edinson Cavani,h,3294,OpenPlay,2018,RightFoot,10664,Paris Saint Germain,Angers,3,1,2018-08-25 18:00:00,Ángel Di María,Pass,3294
+221814,91,Goal,0.9009999847412109,0.5,0.468284010887146,Edinson Cavani,a,3294,OpenPlay,2018,RightFoot,10674,Nimes,Paris Saint Germain,2,4,2018-09-01 15:00:00,Kylian Mbappe-Lottin,BallTouch,3294
+223190,50,Goal,0.885,0.5,0.7600950002670288,Edinson Cavani,h,3294,Penalty,2018,RightFoot,10691,Paris Saint Germain,Saint-Etienne,4,0,2018-09-14 18:45:00,,Standard,3294
+223196,83,MissedShots,0.915,0.4329999923706055,0.1197969987988472,Edinson Cavani,h,3294,OpenPlay,2018,RightFoot,10691,Paris Saint Germain,Saint-Etienne,4,0,2018-09-14 18:45:00,,None,3294
+225679,34,MissedShots,0.5520000076293945,0.47,0.008455689996480942,Edinson Cavani,a,3294,OpenPlay,2018,RightFoot,10699,Rennes,Paris Saint Germain,1,3,2018-09-23 13:00:00,Marco Verratti,Pass,3294
+225681,41,MissedShots,0.9219999694824219,0.47299999237060547,0.09300869703292847,Edinson Cavani,a,3294,OpenPlay,2018,Head,10699,Rennes,Paris Saint Germain,1,3,2018-09-23 13:00:00,Thomas Meunier,Cross,3294
+225684,45,ShotOnPost,0.860999984741211,0.3609999847412109,0.057022999972105026,Edinson Cavani,a,3294,OpenPlay,2018,RightFoot,10699,Rennes,Paris Saint Germain,1,3,2018-09-23 13:00:00,Neymar,Pass,3294
+225688,51,BlockedShot,0.9640000152587891,0.38599998474121094,0.15396100282669067,Edinson Cavani,a,3294,OpenPlay,2018,RightFoot,10699,Rennes,Paris Saint Germain,1,3,2018-09-23 13:00:00,,TakeOn,3294
+225700,91,MissedShots,0.7709999847412109,0.3579999923706055,0.014716300182044506,Edinson Cavani,a,3294,SetPiece,2018,RightFoot,10699,Rennes,Paris Saint Germain,1,3,2018-09-23 13:00:00,,None,3294
+226782,4,Goal,0.8580000305175781,0.2610000038146973,0.02693280018866062,Edinson Cavani,h,3294,OpenPlay,2018,RightFoot,10711,Paris Saint Germain,Reims,4,1,2018-09-26 19:00:00,,Dispossessed,3294
+226784,11,BlockedShot,0.9259999847412109,0.5929999923706055,0.1256140023469925,Edinson Cavani,h,3294,OpenPlay,2018,RightFoot,10711,Paris Saint Germain,Reims,4,1,2018-09-26 19:00:00,Moussa Diaby,Pass,3294
+226789,43,Goal,0.9569999694824218,0.6509999847412109,0.32728099822998047,Edinson Cavani,h,3294,SetPiece,2018,LeftFoot,10711,Paris Saint Germain,Reims,4,1,2018-09-26 19:00:00,,None,3294
+226793,50,MissedShots,0.9419999694824219,0.54,0.1165269985795021,Edinson Cavani,h,3294,FromCorner,2018,RightFoot,10711,Paris Saint Germain,Reims,4,1,2018-09-26 19:00:00,Julian Draxler,None,3294
+226796,55,MissedShots,0.8690000152587891,0.39799999237060546,0.2942039966583252,Edinson Cavani,h,3294,OpenPlay,2018,RightFoot,10711,Paris Saint Germain,Reims,4,1,2018-09-26 19:00:00,Julian Draxler,Pass,3294
+226802,89,ShotOnPost,0.8859999847412109,0.3820000076293945,0.44716599583625793,Edinson Cavani,h,3294,OpenPlay,2018,RightFoot,10711,Paris Saint Germain,Reims,4,1,2018-09-26 19:00:00,Neymar,Throughball,3294
+260750,33,SavedShot,0.9440000152587891,0.655,0.013827599585056305,Edinson Cavani,h,3294,FromCorner,2018,Head,10739,Paris Saint Germain,Amiens,5,0,2018-10-20 15:00:00,Ángel Di María,Cross,3294
+260754,44,MissedShots,0.9640000152587891,0.4520000076293945,0.5803809762001038,Edinson Cavani,h,3294,OpenPlay,2018,RightFoot,10739,Paris Saint Germain,Amiens,5,0,2018-10-20 15:00:00,Juan Bernat,Cross,3294
+260758,48,MissedShots,0.8980000305175782,0.5990000152587891,0.03627819940447807,Edinson Cavani,h,3294,SetPiece,2018,Head,10739,Paris Saint Germain,Amiens,5,0,2018-10-20 15:00:00,Ángel Di María,Cross,3294
+260760,59,MissedShots,0.774000015258789,0.5329999923706055,0.0903279036283493,Edinson Cavani,h,3294,DirectFreekick,2018,RightFoot,10739,Paris Saint Germain,Amiens,5,0,2018-10-20 15:00:00,,Standard,3294
+261632,3,Goal,0.9830000305175781,0.47200000762939454,0.8009250164031982,Edinson Cavani,a,3294,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Neymar,None,3294
+261634,10,Goal,0.879000015258789,0.45599998474121095,0.39404600858688354,Edinson Cavani,a,3294,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Moussa Diaby,Pass,3294
+261647,52,Goal,0.965999984741211,0.48,0.8686959743499756,Edinson Cavani,a,3294,OpenPlay,2018,RightFoot,10772,Monaco,Paris Saint Germain,0,4,2018-11-11 20:00:00,Moussa Diaby,Pass,3294
+261689,8,Goal,0.9259999847412109,0.595999984741211,0.3735159933567047,Edinson Cavani,h,3294,OpenPlay,2018,RightFoot,10779,Paris Saint Germain,Toulouse,1,0,2018-11-24 16:00:00,Adrien Rabiot,HeadPass,3294
+262452,31,MissedShots,0.914000015258789,0.39099998474121095,0.03924750164151192,Edinson Cavani,a,3294,OpenPlay,2018,Head,10802,Strasbourg,Paris Saint Germain,1,1,2018-12-05 20:00:00,Thomas Meunier,Cross,3294
+262458,62,MissedShots,0.7669999694824219,0.5209999847412109,0.08332139998674393,Edinson Cavani,a,3294,DirectFreekick,2018,RightFoot,10802,Strasbourg,Paris Saint Germain,1,1,2018-12-05 20:00:00,,Standard,3294
+262461,70,Goal,0.885,0.5,0.7600950002670288,Edinson Cavani,a,3294,Penalty,2018,RightFoot,10802,Strasbourg,Paris Saint Germain,1,1,2018-12-05 20:00:00,,Standard,3294
+262802,57,MissedShots,0.8930000305175781,0.3509999847412109,0.06435800343751907,Edinson Cavani,h,3294,OpenPlay,2018,RightFoot,10828,Paris Saint Germain,Nantes,1,0,2018-12-22 19:00:00,,None,3294
+262803,60,MissedShots,0.92,0.6329999923706054,0.019124699756503105,Edinson Cavani,h,3294,FromCorner,2018,Head,10828,Paris Saint Germain,Nantes,1,0,2018-12-22 19:00:00,Ángel Di María,Cross,3294
+282126,7,BlockedShot,0.9119999694824219,0.515,0.10911700129508972,Edinson Cavani,a,3294,FromCorner,2018,RightFoot,10839,Amiens,Paris Saint Germain,0,3,2019-01-12 16:00:00,Thiago Silva,Pass,3294
+282127,9,MissedShots,0.9059999847412109,0.46599998474121096,0.09982070326805115,Edinson Cavani,a,3294,OpenPlay,2018,RightFoot,10839,Amiens,Paris Saint Germain,0,3,2019-01-12 16:00:00,Juan Bernat,Cross,3294
+282136,56,Goal,0.885,0.5,0.7600950002670288,Edinson Cavani,a,3294,Penalty,2018,RightFoot,10839,Amiens,Paris Saint Germain,0,3,2019-01-12 16:00:00,,Standard,3294
+282145,83,MissedShots,0.865,0.585,0.09358269721269608,Edinson Cavani,a,3294,OpenPlay,2018,RightFoot,10839,Amiens,Paris Saint Germain,0,3,2019-01-12 16:00:00,Julian Draxler,Cross,3294
+282477,58,Goal,0.93,0.5420000076293945,0.5112199783325195,Edinson Cavani,h,3294,OpenPlay,2018,LeftFoot,10844,Paris Saint Germain,Guingamp,9,0,2019-01-19 16:00:00,Juan Bernat,Cross,3294
+282480,65,Goal,0.9590000152587891,0.500999984741211,0.5140510201454163,Edinson Cavani,h,3294,FromCorner,2018,Head,10844,Paris Saint Germain,Guingamp,9,0,2019-01-19 16:00:00,Ángel Di María,Chipped,3294
+282482,69,MissedShots,0.8519999694824218,0.46599998474121096,0.12227900326251984,Edinson Cavani,h,3294,OpenPlay,2018,RightFoot,10844,Paris Saint Germain,Guingamp,9,0,2019-01-19 16:00:00,Ángel Di María,Pass,3294
+282486,74,Goal,0.9030000305175782,0.57,0.5177800059318542,Edinson Cavani,h,3294,OpenPlay,2018,LeftFoot,10844,Paris Saint Germain,Guingamp,9,0,2019-01-19 16:00:00,,None,3294
+282914,6,Goal,0.9180000305175782,0.5479999923706055,0.3483949899673462,Edinson Cavani,h,3294,OpenPlay,2018,Head,10859,Paris Saint Germain,Rennes,4,1,2019-01-27 20:00:00,Ángel Di María,Cross,3294
+282919,20,BlockedShot,0.749000015258789,0.495,0.03018609993159771,Edinson Cavani,h,3294,OpenPlay,2018,RightFoot,10859,Paris Saint Germain,Rennes,4,1,2019-01-27 20:00:00,Kylian Mbappe-Lottin,Pass,3294
+282920,24,MissedShots,0.8780000305175781,0.6370000076293946,0.06577850133180618,Edinson Cavani,h,3294,SetPiece,2018,RightFoot,10859,Paris Saint Germain,Rennes,4,1,2019-01-27 20:00:00,Thilo Kehrer,HeadPass,3294
+282935,70,Goal,0.919000015258789,0.38799999237060545,0.39098700881004333,Edinson Cavani,h,3294,OpenPlay,2018,RightFoot,10859,Paris Saint Germain,Rennes,4,1,2019-01-27 20:00:00,Kylian Mbappe-Lottin,Pass,3294
+283061,43,MissedShots,0.8109999847412109,0.345,0.03905009850859642,Edinson Cavani,a,3294,OpenPlay,2018,RightFoot,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Marquinhos,Chipped,3294
+283069,66,SavedShot,0.9030000305175782,0.5129999923706055,0.07669100165367126,Edinson Cavani,a,3294,OpenPlay,2018,Head,10872,Lyon,Paris Saint Germain,2,1,2019-02-03 20:00:00,Ángel Di María,Cross,3294
+283137,20,ShotOnPost,0.9,0.5770000076293945,0.366474986076355,Edinson Cavani,h,3294,OpenPlay,2018,LeftFoot,10879,Paris Saint Germain,Bordeaux,1,0,2019-02-09 16:00:00,Marco Verratti,Throughball,3294
+283142,41,Goal,0.885,0.5,0.7600950002670288,Edinson Cavani,h,3294,Penalty,2018,RightFoot,10879,Paris Saint Germain,Bordeaux,1,0,2019-02-09 16:00:00,,Standard,3294
+299350,38,MissedShots,0.8680000305175781,0.5270000076293946,0.35792800784111023,Edinson Cavani,h,3294,OpenPlay,2018,RightFoot,10983,Paris Saint Germain,Nice,1,1,2019-05-04 16:00:00,,None,3294
+299363,92,SavedShot,0.885,0.5,0.7600950002670288,Edinson Cavani,h,3294,Penalty,2018,RightFoot,10983,Paris Saint Germain,Nice,1,1,2019-05-04 16:00:00,,Standard,3294
+300818,12,SavedShot,0.9469999694824218,0.3220000076293945,0.19315500557422638,Edinson Cavani,a,3294,OpenPlay,2018,RightFoot,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Dani Alves,Pass,3294
+300824,37,MissedShots,0.9169999694824219,0.42700000762939455,0.10740400105714798,Edinson Cavani,a,3294,OpenPlay,2018,Head,10994,Angers,Paris Saint Germain,1,2,2019-05-11 16:00:00,Colin Dagba,Cross,3294
+302898,3,Goal,0.9690000152587891,0.509000015258789,0.6499230265617371,Edinson Cavani,h,3294,OpenPlay,2018,Head,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Ángel Di María,Chipped,3294
+302910,35,BlockedShot,0.9569999694824218,0.42900001525878906,0.5828840136528015,Edinson Cavani,h,3294,OpenPlay,2018,RightFoot,11009,Paris Saint Germain,Dijon,4,0,2019-05-18 19:00:00,Layvin Kurzawa,Pass,3294
+310325,23,Goal,0.885,0.5,0.7600950002670288,Edinson Cavani,h,3294,Penalty,2019,RightFoot,12718,Paris Saint Germain,Nimes,3,0,2019-08-11 20:00:00,,Standard,3294
+310329,41,MissedShots,0.9690000152587891,0.54,0.6911420226097107,Edinson Cavani,h,3294,OpenPlay,2019,RightFoot,12718,Paris Saint Germain,Nimes,3,0,2019-08-11 20:00:00,Kylian Mbappe-Lottin,Pass,3294
+310336,81,MissedShots,0.8440000152587891,0.4370000076293945,0.07534050196409225,Edinson Cavani,h,3294,OpenPlay,2019,RightFoot,12718,Paris Saint Germain,Nimes,3,0,2019-08-11 20:00:00,,None,3294
+311241,13,ShotOnPost,0.88,0.5940000152587891,0.0300718005746603,Edinson Cavani,a,3294,SetPiece,2019,Head,12728,Rennes,Paris Saint Germain,2,1,2019-08-18 20:00:00,Ángel Di María,Cross,3294
+311243,35,Goal,0.9640000152587891,0.41900001525878905,0.4829219877719879,Edinson Cavani,a,3294,OpenPlay,2019,RightFoot,12728,Rennes,Paris Saint Germain,2,1,2019-08-18 20:00:00,,BallRecovery,3294
+313493,1,MissedShots,0.895,0.51,0.047853998839855194,Edinson Cavani,h,3294,OpenPlay,2019,Head,12729,Paris Saint Germain,Toulouse,4,0,2019-08-25 20:00:00,,None,3294
+328828,82,MissedShots,0.9669999694824218,0.575999984741211,0.4389190077781677,Edinson Cavani,a,3294,OpenPlay,2019,LeftFoot,12825,Dijon,Paris Saint Germain,2,1,2019-11-01 19:45:00,Layvin Kurzawa,Cross,3294
+330772,61,SavedShot,0.9319999694824219,0.575999984741211,0.4948050081729889,Edinson Cavani,a,3294,SetPiece,2019,RightFoot,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,,None,3294
+330774,64,MissedShots,0.97,0.4129999923706055,0.2656550109386444,Edinson Cavani,a,3294,FromCorner,2019,Head,12835,Brest,Paris Saint Germain,1,2,2019-11-09 16:30:00,Ángel Di María,Cross,3294
+331803,89,MissedShots,0.8909999847412109,0.5779999923706055,0.3255369961261749,Edinson Cavani,h,3294,OpenPlay,2019,RightFoot,12840,Paris Saint Germain,Lille,2,0,2019-11-22 19:45:00,Ángel Di María,Pass,3294
+335146,90,MissedShots,0.8859999847412109,0.5459999847412109,0.11777999997138977,Edinson Cavani,h,3294,OpenPlay,2019,RightFoot,12859,Paris Saint Germain,Nantes,2,0,2019-12-04 20:05:00,Ángel Di María,Cross,3294
+354596,95,SavedShot,0.8730000305175781,0.47200000762939454,0.03177089989185333,Edinson Cavani,h,3294,OpenPlay,2019,Head,12907,Paris Saint Germain,Monaco,3,3,2020-01-12 20:00:00,Thomas Meunier,Chipped,3294
+356737,71,BlockedShot,0.755,0.5,0.07221809774637222,Edinson Cavani,h,3294,DirectFreekick,2019,RightFoot,12923,Paris Saint Germain,Montpellier,5,0,2020-02-01 16:30:00,,Standard,3294
+358708,78,Goal,0.874000015258789,0.4209999847412109,0.3695339858531952,Edinson Cavani,h,3294,OpenPlay,2019,RightFoot,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,Ángel Di María,Pass,3294
+358709,85,MissedShots,0.8880000305175781,0.5640000152587891,0.051375798881053925,Edinson Cavani,h,3294,FromCorner,2019,Head,12940,Paris Saint Germain,Lyon,4,2,2020-02-09 20:05:00,Marco Verratti,Cross,3294
+359003,7,MissedShots,0.9259999847412109,0.5709999847412109,0.10320799797773361,Edinson Cavani,a,3294,OpenPlay,2019,RightFoot,12949,Amiens,Paris Saint Germain,4,4,2020-02-15 16:30:00,Julian Draxler,Cross,3294
+359005,19,SavedShot,0.95,0.34,0.23356500267982483,Edinson Cavani,a,3294,OpenPlay,2019,RightFoot,12949,Amiens,Paris Saint Germain,4,4,2020-02-15 16:30:00,Ángel Di María,Throughball,3294
+359016,50,SavedShot,0.9469999694824218,0.5570000076293945,0.3535740077495575,Edinson Cavani,a,3294,OpenPlay,2019,Head,12949,Amiens,Paris Saint Germain,4,4,2020-02-15 16:30:00,Ander Herrera,Cross,3294
+359022,75,SavedShot,0.8880000305175781,0.645,0.2692660093307495,Edinson Cavani,a,3294,OpenPlay,2019,RightFoot,12949,Amiens,Paris Saint Germain,4,4,2020-02-15 16:30:00,Nianzou Kouassi,TakeOn,3294
+359025,90,MissedShots,0.8830000305175781,0.5459999847412109,0.4088769853115082,Edinson Cavani,a,3294,OpenPlay,2019,LeftFoot,12949,Amiens,Paris Saint Germain,4,4,2020-02-15 16:30:00,Ángel Di María,Cross,3294
+360450,22,SavedShot,0.9130000305175782,0.5479999923706055,0.04390940070152283,Edinson Cavani,h,3294,OpenPlay,2019,Head,12966,Paris Saint Germain,Bordeaux,4,3,2020-02-23 20:00:00,Ángel Di María,Aerial,3294
+360451,24,Goal,0.9119999694824219,0.47099998474121096,0.27196601033210754,Edinson Cavani,h,3294,OpenPlay,2019,Head,12966,Paris Saint Germain,Bordeaux,4,3,2020-02-23 20:00:00,Ángel Di María,Cross,3294
+360453,28,ShotOnPost,0.9619999694824218,0.47299999237060547,0.6241649985313416,Edinson Cavani,h,3294,OpenPlay,2019,RightFoot,12966,Paris Saint Germain,Bordeaux,4,3,2020-02-23 20:00:00,Ángel Di María,HeadPass,3294
+360467,62,SavedShot,0.97,0.544000015258789,0.5081610083580017,Edinson Cavani,h,3294,FromCorner,2019,Head,12966,Paris Saint Germain,Bordeaux,4,3,2020-02-23 20:00:00,Kylian Mbappe-Lottin,Pass,3294
+360469,66,MissedShots,0.9030000305175782,0.664000015258789,0.27939900755882263,Edinson Cavani,h,3294,OpenPlay,2019,LeftFoot,12966,Paris Saint Germain,Bordeaux,4,3,2020-02-23 20:00:00,Thilo Kehrer,Pass,3294
+360475,73,MissedShots,0.9619999694824218,0.6179999923706054,0.630357027053833,Edinson Cavani,h,3294,OpenPlay,2019,LeftFoot,12966,Paris Saint Germain,Bordeaux,4,3,2020-02-23 20:00:00,Neymar,TakeOn,3294
+360911,35,MissedShots,0.96,0.47,0.6600940227508545,Edinson Cavani,h,3294,OpenPlay,2019,RightFoot,12973,Paris Saint Germain,Dijon,4,0,2020-02-29 16:30:00,Kylian Mbappe-Lottin,Pass,3294
+360918,59,MissedShots,0.9519999694824218,0.5129999923706055,0.6928139925003052,Edinson Cavani,h,3294,OpenPlay,2019,RightFoot,12973,Paris Saint Germain,Dijon,4,0,2020-02-29 16:30:00,Kylian Mbappe-Lottin,Pass,3294
+383531,58,MissedShots,0.9030000305175782,0.6459999847412109,0.042170200496912,Edinson Cavani,h,3294,FromCorner,2020,RightFoot,14491,Manchester United,Chelsea,0,0,2020-10-24 16:30:00,Bruno Fernandes,Cross,3294
+383537,87,BlockedShot,0.9419999694824219,0.43599998474121093,0.12405399978160858,Edinson Cavani,h,3294,OpenPlay,2020,RightFoot,14491,Manchester United,Chelsea,0,0,2020-10-24 16:30:00,Mason Greenwood,Interception,3294
+385800,94,Goal,0.885,0.610999984741211,0.4181309938430786,Edinson Cavani,a,3294,OpenPlay,2020,RightFoot,14509,Everton,Manchester United,1,3,2020-11-07 12:30:00,Bruno Fernandes,Pass,3294
+387650,70,BlockedShot,0.9319999694824219,0.38,0.01363889966160059,Edinson Cavani,h,3294,FromCorner,2020,Head,14520,Manchester United,West Bromwich Albion,1,0,2020-11-21 20:00:00,Bruno Fernandes,Aerial,3294
+387653,71,BlockedShot,0.904000015258789,0.605,0.14077800512313843,Edinson Cavani,h,3294,OpenPlay,2020,LeftFoot,14520,Manchester United,West Bromwich Albion,1,0,2020-11-21 20:00:00,Bruno Fernandes,Throughball,3294
+389424,55,BlockedShot,0.9169999694824219,0.46700000762939453,0.08460479974746704,Edinson Cavani,a,3294,OpenPlay,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,,None,3294
+389429,68,MissedShots,0.9,0.485,0.07383140176534653,Edinson Cavani,a,3294,OpenPlay,2020,Head,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,Aaron Wan-Bissaka,Cross,3294
+389431,73,Goal,0.9359999847412109,0.54,0.32373398542404175,Edinson Cavani,a,3294,FromCorner,2020,Head,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,,Rebound,3294
+389434,91,Goal,0.9169999694824219,0.555,0.26607298851013184,Edinson Cavani,a,3294,SetPiece,2020,Head,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,Marcus Rashford,Cross,3294
+394708,84,SavedShot,0.889000015258789,0.385,0.32850098609924316,Edinson Cavani,h,3294,OpenPlay,2020,RightFoot,14570,Manchester United,Leeds,6,2,2020-12-20 16:30:00,Anthony Martial,Pass,3294
+394715,90,SavedShot,0.8119999694824219,0.44799999237060545,0.07782209664583206,Edinson Cavani,h,3294,OpenPlay,2020,RightFoot,14570,Manchester United,Leeds,6,2,2020-12-20 16:30:00,Donny van de Beek,Pass,3294
+395988,25,MissedShots,0.92,0.5279999923706055,0.33400198817253113,Edinson Cavani,h,3294,OpenPlay,2020,Head,14592,Manchester United,Wolverhampton Wanderers,1,0,2020-12-29 20:00:00,Nemanja Matic,Cross,3294
+395991,33,MissedShots,0.97,0.5220000076293946,0.7399680018424988,Edinson Cavani,h,3294,OpenPlay,2020,LeftFoot,14592,Manchester United,Wolverhampton Wanderers,1,0,2020-12-29 20:00:00,,Rebound,3294
+398635,37,BlockedShot,0.9119999694824219,0.485,0.11354699730873108,Edinson Cavani,a,3294,OpenPlay,2020,RightFoot,14088,Burnley,Manchester United,0,1,2021-01-12 22:15:00,Paul Pogba,HeadPass,3294
+398639,51,SavedShot,0.9119999694824219,0.5359999847412109,0.09907709807157516,Edinson Cavani,a,3294,OpenPlay,2020,LeftFoot,14088,Burnley,Manchester United,0,1,2021-01-12 22:15:00,,None,3294
+398642,66,MissedShots,0.8909999847412109,0.43,0.08252990245819092,Edinson Cavani,a,3294,FromCorner,2020,LeftFoot,14088,Burnley,Manchester United,0,1,2021-01-12 22:15:00,,None,3294
+400110,20,Goal,0.93,0.5129999923706055,0.5428410172462463,Edinson Cavani,a,3294,OpenPlay,2020,LeftFoot,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,,None,3294
+400125,65,SavedShot,0.9209999847412109,0.4759999847412109,0.37159299850463867,Edinson Cavani,a,3294,OpenPlay,2020,Head,14607,Fulham,Manchester United,1,2,2021-01-20 20:15:00,Bruno Fernandes,Cross,3294
+401359,81,MissedShots,0.8630000305175781,0.5570000076293945,0.06367679685354233,Edinson Cavani,h,3294,OpenPlay,2020,LeftFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,,None,3294
+401843,57,MissedShots,0.95,0.495,0.6499040126800537,Edinson Cavani,a,3294,OpenPlay,2020,RightFoot,14635,Arsenal,Manchester United,0,0,2021-01-30 17:30:00,Luke Shaw,Rebound,3294
+401854,88,MissedShots,0.9269999694824219,0.485,0.41964200139045715,Edinson Cavani,a,3294,OpenPlay,2020,RightFoot,14635,Arsenal,Manchester United,0,0,2021-01-30 17:30:00,Aaron Wan-Bissaka,Cross,3294
+402479,38,Goal,0.9159999847412109,0.4909999847412109,0.38206401467323303,Edinson Cavani,h,3294,OpenPlay,2020,Head,14651,Manchester United,Southampton,9,0,2021-02-02 20:15:00,Luke Shaw,Cross,3294
+403455,1,BlockedShot,0.7969999694824219,0.6730000305175782,0.024233000352978706,Edinson Cavani,h,3294,OpenPlay,2020,RightFoot,14660,Manchester United,Everton,3,3,2021-02-06 20:00:00,,None,3294
+403458,23,Goal,0.9619999694824218,0.5429999923706055,0.5719519853591919,Edinson Cavani,h,3294,OpenPlay,2020,Head,14660,Manchester United,Everton,3,3,2021-02-06 20:00:00,Marcus Rashford,Cross,3294
+408204,13,MissedShots,0.96,0.495,0.15376800298690796,Edinson Cavani,a,3294,FromCorner,2020,RightFoot,14717,Crystal Palace,Manchester United,0,0,2021-03-03 20:15:00,Marcus Rashford,Rebound,3294
+408209,26,MissedShots,0.875,0.4159999847412109,0.024585500359535217,Edinson Cavani,a,3294,OpenPlay,2020,Head,14717,Crystal Palace,Manchester United,0,0,2021-03-03 20:15:00,Marcus Rashford,Cross,3294
+414635,56,SavedShot,0.92,0.5940000152587891,0.11219000071287155,Edinson Cavani,a,3294,OpenPlay,2020,LeftFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Fred,Throughball,3294
+414647,78,Goal,0.915,0.5370000076293945,0.2892870008945465,Edinson Cavani,a,3294,OpenPlay,2020,Head,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Mason Greenwood,Cross,3294
+415919,92,Goal,0.9669999694824218,0.5159999847412109,0.91948002576828,Edinson Cavani,h,3294,OpenPlay,2020,RightFoot,14751,Manchester United,Burnley,3,1,2021-04-18 15:00:00,Donny van de Beek,Pass,3294
+420676,86,BlockedShot,0.8380000305175781,0.6179999923706054,0.07756230235099792,Edinson Cavani,a,3294,OpenPlay,2020,RightFoot,14776,Aston Villa,Manchester United,1,3,2021-05-09 13:05:00,Paul Pogba,Pass,3294
+420678,86,Goal,0.9209999847412109,0.504000015258789,0.3907710015773773,Edinson Cavani,a,3294,OpenPlay,2020,Head,14776,Aston Villa,Manchester United,1,3,2021-05-09 13:05:00,Marcus Rashford,Cross,3294
+421643,4,MissedShots,0.8290000152587891,0.4620000076293945,0.313387006521225,Edinson Cavani,h,3294,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,,BallRecovery,3294
+421642,4,MissedShots,0.909000015258789,0.36700000762939455,0.019184300675988197,Edinson Cavani,h,3294,OpenPlay,2020,Head,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Aaron Wan-Bissaka,Aerial,3294
+423106,14,Goal,0.6719999694824219,0.33599998474121096,0.014647900126874447,Edinson Cavani,h,3294,OpenPlay,2020,RightFoot,14800,Manchester United,Fulham,1,1,2021-05-18 17:00:00,Bruno Fernandes,Pass,3294
+433162,90,BlockedShot,0.8669999694824219,0.4,0.016557199880480766,Edinson Cavani,h,3294,OpenPlay,2021,Head,16431,Manchester United,Aston Villa,0,1,2021-09-25 11:30:00,Bruno Fernandes,Cross,3294
+434648,20,SavedShot,0.9030000305175782,0.44,0.07726229727268219,Edinson Cavani,h,3294,OpenPlay,2021,Head,16442,Manchester United,Everton,1,1,2021-10-02 11:30:00,Fred,Cross,3294
+438526,82,BlockedShot,0.9690000152587891,0.47900001525878905,0.6800680160522461,Edinson Cavani,h,3294,SetPiece,2021,LeftFoot,16463,Manchester United,Liverpool,0,5,2021-10-24 15:30:00,Scott McTominay,HeadPass,3294
+439892,7,MissedShots,0.8880000305175781,0.34400001525878904,0.010568300262093544,Edinson Cavani,a,3294,OpenPlay,2021,Head,16473,Tottenham,Manchester United,0,3,2021-10-30 16:30:00,Bruno Fernandes,Cross,3294
+439893,8,BlockedShot,0.8819999694824219,0.42700000762939455,0.11403399705886841,Edinson Cavani,a,3294,OpenPlay,2021,RightFoot,16473,Tottenham,Manchester United,0,3,2021-10-30 16:30:00,Aaron Wan-Bissaka,Pass,3294
+439897,24,MissedShots,0.9180000305175782,0.47299999237060547,0.06702230125665665,Edinson Cavani,a,3294,OpenPlay,2021,Head,16473,Tottenham,Manchester United,0,3,2021-10-30 16:30:00,Bruno Fernandes,Chipped,3294
+439906,63,Goal,0.8540000152587891,0.45099998474121095,0.5647940039634705,Edinson Cavani,a,3294,OpenPlay,2021,RightFoot,16473,Tottenham,Manchester United,0,3,2021-10-30 16:30:00,Cristiano Ronaldo,Throughball,3294
+450707,54,MissedShots,0.860999984741211,0.495,0.08991680294275284,Edinson Cavani,a,3294,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Jadon Sancho,Pass,3294
+450713,70,Goal,0.9119999694824219,0.5079999923706054,0.11815600097179413,Edinson Cavani,a,3294,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,,Rebound,3294
+450712,70,BlockedShot,0.874000015258789,0.51,0.0810507982969284,Edinson Cavani,a,3294,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Diogo Dalot,Cross,3294
+450715,74,BlockedShot,0.955999984741211,0.455,0.5585910081863403,Edinson Cavani,a,3294,OpenPlay,2021,LeftFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Alex Telles,Cross,3294
+450720,92,MissedShots,0.7859999847412109,0.3729999923706055,0.2665039896965027,Edinson Cavani,a,3294,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Jadon Sancho,Pass,3294
+450892,24,MissedShots,0.9230000305175782,0.3729999923706055,0.030574800446629524,Edinson Cavani,h,3294,FromCorner,2021,LeftFoot,16574,Manchester United,Burnley,3,1,2021-12-30 20:15:00,,Aerial,3294
+451340,42,MissedShots,0.7219999694824218,0.42400001525878905,0.017145000398159027,Edinson Cavani,h,3294,OpenPlay,2021,RightFoot,16583,Manchester United,Wolverhampton Wanderers,0,1,2022-01-03 17:30:00,Luke Shaw,Pass,3294
+456561,32,SavedShot,0.9640000152587891,0.46,0.5768629908561707,Edinson Cavani,a,3294,OpenPlay,2021,Head,16608,Burnley,Manchester United,1,1,2022-02-08 20:00:00,,None,3294
+456567,41,BlockedShot,0.8919999694824219,0.6759999847412109,0.058657899498939514,Edinson Cavani,a,3294,OpenPlay,2021,RightFoot,16608,Burnley,Manchester United,1,1,2022-02-08 20:00:00,,Rebound,3294
+474690,62,SavedShot,0.9319999694824219,0.5529999923706055,0.3224259912967682,Edinson Cavani,a,3294,OpenPlay,2021,Head,16733,Brighton,Manchester United,4,0,2022-05-07 16:30:00,Juan Mata,Cross,3294
+477831,13,SavedShot,0.865,0.555,0.07512730360031128,Edinson Cavani,a,3294,OpenPlay,2021,RightFoot,16751,Crystal Palace,Manchester United,1,0,2022-05-22 15:00:00,,Rebound,3294
+490586,12,MissedShots,0.835,0.48200000762939454,0.07925920188426971,Edinson Cavani,a,3294,OpenPlay,2022,RightFoot,19024,Espanyol,Valencia,2,2,2022-10-02 12:00:00,Samuel Lino,Pass,3294
+490590,42,BlockedShot,0.885,0.6270000076293946,0.059801001101732254,Edinson Cavani,a,3294,FromCorner,2022,RightFoot,19024,Espanyol,Valencia,2,2,2022-10-02 12:00:00,,None,3294
+490596,65,MissedShots,0.89,0.8340000152587891,0.06072099879384041,Edinson Cavani,a,3294,DirectFreekick,2022,RightFoot,19024,Espanyol,Valencia,2,2,2022-10-02 12:00:00,,Standard,3294
+491303,31,MissedShots,0.794000015258789,0.29200000762939454,0.02744700014591217,Edinson Cavani,a,3294,OpenPlay,2022,RightFoot,19037,Osasuna,Valencia,1,2,2022-10-07 19:00:00,Ilaix Moriba,Pass,3294
+491307,52,BlockedShot,0.9009999847412109,0.47900001525878905,0.3540239930152893,Edinson Cavani,a,3294,OpenPlay,2022,RightFoot,19037,Osasuna,Valencia,1,2,2022-10-07 19:00:00,Justin Kluivert,Cross,3294
+491312,69,ShotOnPost,0.885,0.5,0.7432780265808105,Edinson Cavani,a,3294,Penalty,2022,RightFoot,19037,Osasuna,Valencia,1,2,2022-10-07 19:00:00,,Standard,3294
+491314,71,MissedShots,0.865,0.505,0.13068599998950958,Edinson Cavani,a,3294,OpenPlay,2022,RightFoot,19037,Osasuna,Valencia,1,2,2022-10-07 19:00:00,Justin Kluivert,Pass,3294
+493124,19,BlockedShot,0.909000015258789,0.4329999923706055,0.4642469882965088,Edinson Cavani,h,3294,OpenPlay,2022,RightFoot,19047,Valencia,Elche,2,2,2022-10-15 14:15:00,Justin Kluivert,Pass,3294
+493129,40,Goal,0.885,0.5,0.7432780265808105,Edinson Cavani,h,3294,Penalty,2022,RightFoot,19047,Valencia,Elche,2,2,2022-10-15 14:15:00,,Standard,3294
+493131,51,Goal,0.9209999847412109,0.49400001525878906,0.3722189962863922,Edinson Cavani,h,3294,OpenPlay,2022,Head,19047,Valencia,Elche,2,2,2022-10-15 14:15:00,André Almeida,Cross,3294
+494176,5,Goal,0.9309999847412109,0.5470000076293945,0.3842400014400482,Edinson Cavani,a,3294,OpenPlay,2022,Head,19055,Sevilla,Valencia,1,1,2022-10-18 17:00:00,Dimitri Foulquier,Cross,3294
+494179,14,SavedShot,0.879000015258789,0.500999984741211,0.03522679954767227,Edinson Cavani,a,3294,OpenPlay,2022,Head,19055,Sevilla,Valencia,1,1,2022-10-18 17:00:00,José Gayá,Aerial,3294
+495217,51,Goal,0.885,0.5,0.7432780265808105,Edinson Cavani,h,3294,Penalty,2022,RightFoot,19068,Valencia,Mallorca,1,2,2022-10-22 16:30:00,,Standard,3294
+495226,79,SavedShot,0.9719999694824218,0.3189999961853027,0.01905759982764721,Edinson Cavani,h,3294,SetPiece,2022,RightFoot,19068,Valencia,Mallorca,1,2,2022-10-22 16:30:00,Hugo Guillamón,Cross,3294
+501785,17,SavedShot,0.9359999847412109,0.5120000076293946,0.46094098687171936,Edinson Cavani,a,3294,OpenPlay,2022,Head,19110,Villarreal,Valencia,2,1,2022-12-31 15:15:00,,None,3294
+501789,20,Goal,0.850999984741211,0.47200000762939454,0.07726170122623444,Edinson Cavani,a,3294,OpenPlay,2022,LeftFoot,19110,Villarreal,Valencia,2,1,2022-12-31 15:15:00,,Rebound,3294
+501801,64,BlockedShot,0.8730000305175781,0.39799999237060546,0.03228830173611641,Edinson Cavani,a,3294,SetPiece,2022,RightFoot,19110,Villarreal,Valencia,2,1,2022-12-31 15:15:00,André Almeida,Cross,3294
+502642,1,BlockedShot,0.8859999847412109,0.5470000076293945,0.07103420048952103,Edinson Cavani,h,3294,OpenPlay,2022,Head,19120,Valencia,Cadiz,0,1,2023-01-06 20:00:00,José Gayá,Cross,3294
+502648,24,BlockedShot,0.7219999694824218,0.6669999694824219,0.04283929988741875,Edinson Cavani,h,3294,DirectFreekick,2022,RightFoot,19120,Valencia,Cadiz,0,1,2023-01-06 20:00:00,,Standard,3294
+502649,25,MissedShots,0.889000015258789,0.6170000076293946,0.025187300518155098,Edinson Cavani,h,3294,OpenPlay,2022,Head,19120,Valencia,Cadiz,0,1,2023-01-06 20:00:00,Samuel Lino,Cross,3294
+505258,5,MissedShots,0.9690000152587891,0.580999984741211,0.09999620169401169,Edinson Cavani,h,3294,OpenPlay,2022,RightFoot,19140,Valencia,Almeria,2,2,2023-01-23 20:00:00,José Gayá,Cross,3294
+505260,26,MissedShots,0.9590000152587891,0.5670000076293945,0.10976400226354599,Edinson Cavani,h,3294,OpenPlay,2022,LeftFoot,19140,Valencia,Almeria,2,2,2023-01-23 20:00:00,José Gayá,Cross,3294
+506089,4,SavedShot,0.9530000305175781,0.41,0.08284229785203934,Edinson Cavani,a,3294,FromCorner,2022,Head,19150,Real Valladolid,Valencia,1,0,2023-01-29 13:00:00,Samu Castillejo,Cross,3294
+506100,42,MissedShots,0.89,0.35200000762939454,0.04062290117144585,Edinson Cavani,a,3294,OpenPlay,2022,RightFoot,19150,Real Valladolid,Valencia,1,0,2023-01-29 13:00:00,José Gayá,Cross,3294
+507689,39,MissedShots,0.84,0.5940000152587891,0.058121200650930405,Edinson Cavani,a,3294,OpenPlay,2022,RightFoot,19160,Girona,Valencia,1,0,2023-02-05 15:15:00,José Gayá,Pass,3294
+508671,7,MissedShots,0.9059999847412109,0.5429999923706055,0.04789780080318451,Edinson Cavani,h,3294,OpenPlay,2022,Head,19166,Valencia,Athletic Club,1,2,2023-02-11 20:00:00,José Gayá,Aerial,3294
+518845,80,MissedShots,0.874000015258789,0.5359999847412109,0.047731298953294754,Edinson Cavani,a,3294,OpenPlay,2022,Head,19235,Almeria,Valencia,2,1,2023-04-09 16:30:00,Hugo Guillamón,Cross,3294
+520381,28,MissedShots,0.8769999694824219,0.475,0.05953950062394142,Edinson Cavani,h,3294,OpenPlay,2022,Head,19250,Valencia,Sevilla,0,2,2023-04-16 19:00:00,Dimitri Foulquier,Cross,3294
+522236,15,SavedShot,0.875999984741211,0.53,0.05059358850121498,Edinson Cavani,h,3294,OpenPlay,2022,Head,19267,Valencia,Real Valladolid,2,1,2023-04-27 17:30:00,José Gayá,Cross,3294
+523969,35,MissedShots,0.9540000152587891,0.620999984741211,0.034819286316633224,Edinson Cavani,h,3294,FromCorner,2022,Head,19286,Valencia,Villarreal,1,1,2023-05-03 17:30:00,André Almeida,Cross,3294
+523971,41,MissedShots,0.9419999694824219,0.5629999923706055,0.10014450550079346,Edinson Cavani,h,3294,OpenPlay,2022,Head,19286,Valencia,Villarreal,1,1,2023-05-03 17:30:00,Samuel Lino,Pass,3294
+523975,56,BlockedShot,0.755,0.654000015258789,0.060217034071683884,Edinson Cavani,h,3294,DirectFreekick,2022,RightFoot,19286,Valencia,Villarreal,1,1,2023-05-03 17:30:00,,Standard,3294
+528719,87,MissedShots,0.87,0.5159999847412109,0.032147571444511414,Edinson Cavani,a,3294,OpenPlay,2022,OtherBodyPart,19315,Mallorca,Valencia,1,0,2023-05-25 17:30:00,Dimitri Foulquier,Aerial,3294
+530250,86,BlockedShot,0.98,0.4229999923706055,0.11745750904083252,Edinson Cavani,h,3294,OpenPlay,2022,RightFoot,19330,Valencia,Espanyol,2,2,2023-05-28 17:00:00,Dimitri Foulquier,Pass,3294

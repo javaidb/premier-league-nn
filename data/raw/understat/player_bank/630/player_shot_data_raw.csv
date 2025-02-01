@@ -1,0 +1,100 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+17108,47,Goal,0.865,0.355,0.04944489896297455,Marouane Fellaini,a,630,OpenPlay,2014,RightFoot,4708,West Bromwich Albion,Manchester United,2,2,2014-10-20 20:00:00,聲gel Di Mar燰,Chipped,630
+17124,90,SavedShot,0.899000015258789,0.544000015258789,0.09810730069875717,Marouane Fellaini,a,630,FromCorner,2014,RightFoot,4708,West Bromwich Albion,Manchester United,2,2,2014-10-20 20:00:00,Falcao,HeadPass,630
+17474,3,SavedShot,0.9640000152587891,0.595999984741211,0.12002900242805481,Marouane Fellaini,h,630,OpenPlay,2014,LeftFoot,4717,Manchester United,Chelsea,1,1,2014-10-26 16:00:00,,Rebound,630
+17484,51,MissedShots,0.8119999694824219,0.485,0.030537700280547142,Marouane Fellaini,h,630,FromCorner,2014,RightFoot,4717,Manchester United,Chelsea,1,1,2014-10-26 16:00:00,Chris Smalling,Pass,630
+17497,93,SavedShot,0.9390000152587891,0.5070000076293946,0.1424420028924942,Marouane Fellaini,h,630,SetPiece,2014,Head,4717,Manchester United,Chelsea,1,1,2014-10-26 16:00:00,聲gel Di Mar燰,Cross,630
+16044,77,MissedShots,0.9169999694824219,0.4520000076293945,0.28463199734687805,Marouane Fellaini,a,630,SetPiece,2014,OtherBodyPart,4656,Manchester City,Manchester United,1,0,2014-11-02 13:30:00,聲gel Di Mar燰,Cross,630
+16046,84,MissedShots,0.9269999694824219,0.5320000076293945,0.10491800308227539,Marouane Fellaini,a,630,FromCorner,2014,Head,4656,Manchester City,Manchester United,1,0,2014-11-02 13:30:00,聲gel Di Mar燰,Cross,630
+16614,49,BlockedShot,0.7930000305175782,0.41200000762939454,0.034807801246643066,Marouane Fellaini,h,630,OpenPlay,2014,LeftFoot,4661,Manchester United,Crystal Palace,1,0,2014-11-08 15:00:00,,None,630
+16616,56,BlockedShot,0.92,0.54,0.08912180364131927,Marouane Fellaini,h,630,FromCorner,2014,Head,4661,Manchester United,Crystal Palace,1,0,2014-11-08 15:00:00,Wayne Rooney,Cross,630
+16619,61,MissedShots,0.92,0.539000015258789,0.03836039826273918,Marouane Fellaini,h,630,FromCorner,2014,Head,4661,Manchester United,Crystal Palace,1,0,2014-11-08 15:00:00,Wayne Rooney,Aerial,630
+16076,69,MissedShots,0.879000015258789,0.32799999237060545,0.010798200033605099,Marouane Fellaini,a,630,FromCorner,2014,Head,4675,Arsenal,Manchester United,1,2,2014-11-22 17:30:00,Wayne Rooney,Aerial,630
+16084,98,SavedShot,0.7240000152587891,0.5479999923706055,0.021456599235534668,Marouane Fellaini,a,630,OpenPlay,2014,RightFoot,4675,Arsenal,Manchester United,1,2,2014-11-22 17:30:00,Wayne Rooney,Pass,630
+17970,69,MissedShots,0.9519999694824218,0.42,0.1223440021276474,Marouane Fellaini,h,630,OpenPlay,2014,Head,4683,Manchester United,Hull,3,0,2014-11-29 15:00:00,Ashley Young,Cross,630
+19089,20,Goal,0.94,0.425,0.2979840040206909,Marouane Fellaini,h,630,OpenPlay,2014,Head,4591,Manchester United,Stoke,2,1,2014-12-02 19:45:00,Ander Herrera,Cross,630
+19092,41,SavedShot,0.955,0.4279999923706055,0.551904022693634,Marouane Fellaini,h,630,SetPiece,2014,RightFoot,4591,Manchester United,Stoke,2,1,2014-12-02 19:45:00,,Rebound,630
+19099,75,MissedShots,0.8140000152587891,0.32,0.039413899183273315,Marouane Fellaini,h,630,OpenPlay,2014,RightFoot,4591,Manchester United,Stoke,2,1,2014-12-02 19:45:00,Ander Herrera,Pass,630
+19040,57,Goal,0.8819999694824219,0.45,0.11735299974679947,Marouane Fellaini,a,630,OpenPlay,2014,RightFoot,4574,Queens Park Rangers,Manchester United,0,2,2015-01-17 15:00:00,Antonio Valencia,Pass,630
+23741,78,MissedShots,0.9130000305175782,0.43599998474121093,0.022898999974131584,Marouane Fellaini,a,630,FromCorner,2014,Head,4524,West Ham,Manchester United,1,1,2015-02-08 16:15:00,Robin van Persie,Aerial,630
+23746,89,SavedShot,0.885,0.5509999847412109,0.04815800115466118,Marouane Fellaini,a,630,OpenPlay,2014,RightFoot,4524,West Ham,Manchester United,1,1,2015-02-08 16:15:00,,Aerial,630
+24292,71,BlockedShot,0.8540000152587891,0.4279999923706055,0.0751601979136467,Marouane Fellaini,a,630,OpenPlay,2014,RightFoot,4539,Swansea,Manchester United,2,1,2015-02-21 15:00:00,Marcos Rojo,Chipped,630
+23456,71,MissedShots,0.8480000305175781,0.40400001525878904,0.09065049886703491,Marouane Fellaini,h,630,OpenPlay,2014,RightFoot,4550,Manchester United,Sunderland,2,0,2015-02-28 15:00:00,Wayne Rooney,Pass,630
+23465,90,SavedShot,0.9169999694824219,0.5359999847412109,0.44944098591804504,Marouane Fellaini,h,630,OpenPlay,2014,RightFoot,4550,Manchester United,Sunderland,2,0,2015-02-28 15:00:00,Adnan Januzaj,Cross,630
+21277,14,BlockedShot,0.7369999694824219,0.7019999694824218,0.01007859967648983,Marouane Fellaini,a,630,OpenPlay,2014,RightFoot,4487,Newcastle United,Manchester United,0,1,2015-03-04 19:45:00,Wayne Rooney,LayOff,630
+21279,21,MissedShots,0.874000015258789,0.634000015258789,0.011249099858105183,Marouane Fellaini,a,630,FromCorner,2014,Head,4487,Newcastle United,Manchester United,0,1,2015-03-04 19:45:00,Ashley Young,Aerial,630
+21283,43,SavedShot,0.9180000305175782,0.620999984741211,0.22611500322818756,Marouane Fellaini,a,630,OpenPlay,2014,Head,4487,Newcastle United,Manchester United,0,1,2015-03-04 19:45:00,Antonio Valencia,Cross,630
+21286,53,SavedShot,0.905,0.38599998474121094,0.34548699855804443,Marouane Fellaini,a,630,OpenPlay,2014,RightFoot,4487,Newcastle United,Manchester United,0,1,2015-03-04 19:45:00,聲gel Di Mar燰,Throughball,630
+20336,8,Goal,0.8969999694824219,0.6680000305175782,0.1195790022611618,Marouane Fellaini,h,630,OpenPlay,2014,LeftFoot,4501,Manchester United,Tottenham,3,0,2015-03-15 16:00:00,Michael Carrick,Throughball,630
+20337,18,BlockedShot,0.8980000305175782,0.43400001525878906,0.014888900332152843,Marouane Fellaini,h,630,FromCorner,2014,Head,4501,Manchester United,Tottenham,3,0,2015-03-15 16:00:00,Juan Mata,Aerial,630
+22085,46,MissedShots,0.9130000305175782,0.52,0.06556080281734467,Marouane Fellaini,h,630,OpenPlay,2014,Head,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Antonio Valencia,Aerial,630
+22089,61,SavedShot,0.955999984741211,0.55,0.5301629900932312,Marouane Fellaini,h,630,OpenPlay,2014,Head,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Antonio Valencia,Cross,630
+22092,71,MissedShots,0.8880000305175781,0.5740000152587891,0.1091030016541481,Marouane Fellaini,h,630,OpenPlay,2014,RightFoot,4443,Manchester United,Aston Villa,3,1,2015-04-04 15:00:00,Daley Blind,Rebound,630
+20359,26,Goal,0.955,0.4420000076293945,0.4419650137424469,Marouane Fellaini,h,630,OpenPlay,2014,Head,4459,Manchester United,Manchester City,4,2,2015-04-12 16:00:00,Ashley Young,Cross,630
+22425,0,BlockedShot,0.7580000305175781,0.575,0.02533699944615364,Marouane Fellaini,a,630,OpenPlay,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,Juan Mata,Pass,630
+22427,6,MissedShots,0.8090000152587891,0.5220000076293946,0.043386299163103104,Marouane Fellaini,a,630,OpenPlay,2014,RightFoot,4476,Everton,Manchester United,3,0,2015-04-26 13:30:00,,BallRecovery,630
+20676,66,BlockedShot,0.88,0.639000015258789,0.010327399708330631,Marouane Fellaini,a,630,OpenPlay,2014,Head,4415,Crystal Palace,Manchester United,1,2,2015-05-09 17:30:00,Antonio Valencia,Cross,630
+20683,77,Goal,0.955999984741211,0.455,0.5217130184173584,Marouane Fellaini,a,630,OpenPlay,2014,Head,4415,Crystal Palace,Manchester United,1,2,2015-05-09 17:30:00,Ashley Young,Cross,630
+57906,6,MissedShots,0.755,0.34,0.01560600008815527,Marouane Fellaini,h,630,OpenPlay,2015,RightFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,Juan Mata,Pass,630
+57919,78,BlockedShot,0.785,0.3240000152587891,0.021043000742793083,Marouane Fellaini,h,630,OpenPlay,2015,LeftFoot,127,Manchester United,Liverpool,3,1,2015-09-12 20:30:00,,None,630
+54264,4,MissedShots,0.7719999694824219,0.5309999847412109,0.027967600151896477,Marouane Fellaini,h,630,OpenPlay,2015,RightFoot,226,Manchester United,West Ham,0,0,2015-12-05 19:00:00,Daley Blind,TakeOn,630
+54265,8,MissedShots,0.9590000152587891,0.5609999847412109,0.14083600044250488,Marouane Fellaini,h,630,OpenPlay,2015,Head,226,Manchester United,West Ham,0,0,2015-12-05 19:00:00,Paddy McNair,Cross,630
+54269,15,MissedShots,0.8859999847412109,0.48,0.0421844981610775,Marouane Fellaini,h,630,FromCorner,2015,Head,226,Manchester United,West Ham,0,0,2015-12-05 19:00:00,Daley Blind,Cross,630
+54282,59,SavedShot,0.94,0.54,0.5811769962310791,Marouane Fellaini,h,630,OpenPlay,2015,LeftFoot,226,Manchester United,West Ham,0,0,2015-12-05 19:00:00,Anthony Martial,Pass,630
+53300,4,SavedShot,0.9230000305175782,0.5379999923706055,0.5325149893760681,Marouane Fellaini,a,630,SetPiece,2015,LeftFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,None,630
+53306,23,Goal,0.9590000152587891,0.49900001525878906,0.6941580176353455,Marouane Fellaini,a,630,OpenPlay,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,Rebound,630
+53313,55,SavedShot,0.88,0.5320000076293945,0.07406529784202576,Marouane Fellaini,a,630,OpenPlay,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,None,630
+53314,59,BlockedShot,0.895,0.6270000076293946,0.06138459965586662,Marouane Fellaini,a,630,OpenPlay,2015,RightFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,None,630
+53315,60,BlockedShot,0.9069999694824219,0.48700000762939455,0.1066880002617836,Marouane Fellaini,a,630,FromCorner,2015,LeftFoot,236,Bournemouth,Manchester United,2,1,2015-12-12 21:30:00,,None,630
+55412,27,SavedShot,0.919000015258789,0.4229999923706055,0.47028300166130066,Marouane Fellaini,a,630,SetPiece,2015,RightFoot,251,Stoke,Manchester United,2,0,2015-12-26 16:45:00,,None,630
+55414,35,BlockedShot,0.9069999694824219,0.5709999847412109,0.10709699988365173,Marouane Fellaini,a,630,OpenPlay,2015,LeftFoot,251,Stoke,Manchester United,2,0,2015-12-26 16:45:00,Anthony Martial,Pass,630
+55416,63,SavedShot,0.9159999847412109,0.495,0.4157960116863251,Marouane Fellaini,a,630,OpenPlay,2015,RightFoot,251,Stoke,Manchester United,2,0,2015-12-26 16:45:00,Wayne Rooney,Pass,630
+54655,8,BlockedShot,0.96,0.5790000152587891,0.09485779702663422,Marouane Fellaini,a,630,FromCorner,2015,Head,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,Daley Blind,Cross,630
+54657,24,BlockedShot,0.8930000305175781,0.38599998474121094,0.059098001569509506,Marouane Fellaini,a,630,FromCorner,2015,LeftFoot,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,Morgan Schneiderlin,Pass,630
+54679,83,SavedShot,0.93,0.4779999923706055,0.4312730133533478,Marouane Fellaini,a,630,OpenPlay,2015,Head,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,Memphis Depay,Cross,630
+56100,77,ShotOnPost,0.915,0.52,0.040294598788022995,Marouane Fellaini,a,630,FromCorner,2015,Head,298,Liverpool,Manchester United,0,1,2016-01-17 18:05:00,Juan Mata,Aerial,630
+54984,2,BlockedShot,0.905,0.4779999923706055,0.046356700360774994,Marouane Fellaini,h,630,OpenPlay,2015,Head,317,Manchester United,Stoke,3,0,2016-02-03 00:00:00,Anthony Martial,Aerial,630
+55993,39,MissedShots,0.9259999847412109,0.49599998474121093,0.08243530243635178,Marouane Fellaini,a,630,FromCorner,2015,OtherBodyPart,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Daley Blind,Cross,630
+56565,16,MissedShots,0.92,0.5129999923706055,0.04607649892568588,Marouane Fellaini,h,630,FromCorner,2015,Head,406,Manchester United,Aston Villa,1,0,2016-04-16 18:00:00,Daley Blind,Aerial,630
+57164,35,SavedShot,0.9369999694824219,0.5729999923706055,0.03416600078344345,Marouane Fellaini,h,630,FromCorner,2015,Head,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,Daley Blind,Aerial,630
+57179,69,MissedShots,0.9219999694824219,0.500999984741211,0.04968490079045296,Marouane Fellaini,h,630,FromCorner,2015,Head,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,Daley Blind,Aerial,630
+112975,36,BlockedShot,0.8190000152587891,0.3820000076293945,0.034668199717998505,Marouane Fellaini,a,630,OpenPlay,2016,RightFoot,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,,Rebound,630
+113982,15,MissedShots,0.7519999694824219,0.6619999694824219,0.016617700457572937,Marouane Fellaini,a,630,OpenPlay,2016,RightFoot,540,Liverpool,Manchester United,0,0,2016-10-17 23:00:00,,BallTouch,630
+113993,80,MissedShots,0.879000015258789,0.4620000076293945,0.029948800802230835,Marouane Fellaini,a,630,FromCorner,2016,Head,540,Liverpool,Manchester United,0,0,2016-10-17 23:00:00,Daley Blind,Cross,630
+115315,16,MissedShots,0.8719999694824219,0.5029999923706054,0.0928020030260086,Marouane Fellaini,a,630,OpenPlay,2016,LeftFoot,2695,Swansea,Manchester United,1,3,2016-11-06 19:00:00,Matteo Darmian,Cross,630
+117577,6,SavedShot,0.9059999847412109,0.48200000762939454,0.07284550368785858,Marouane Fellaini,h,630,FromCorner,2016,Head,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,Henrikh Mkhitaryan,Cross,630
+117578,9,MissedShots,0.91,0.4879999923706055,0.11740200221538544,Marouane Fellaini,h,630,SetPiece,2016,Head,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,Daley Blind,Cross,630
+117588,31,MissedShots,0.92,0.524000015258789,0.1302569955587387,Marouane Fellaini,h,630,OpenPlay,2016,Head,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,Anthony Martial,Cross,630
+117589,34,BlockedShot,0.9540000152587891,0.34599998474121096,0.05279989913105965,Marouane Fellaini,h,630,OpenPlay,2016,RightFoot,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,Antonio Valencia,Cross,630
+117592,43,SavedShot,0.9269999694824219,0.5579999923706055,0.03633140027523041,Marouane Fellaini,h,630,FromCorner,2016,Head,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,Daley Blind,Aerial,630
+117568,83,ShotOnPost,0.9569999694824218,0.54,0.12505300343036652,Marouane Fellaini,h,630,OpenPlay,2016,Head,3349,Manchester United,Liverpool,1,1,2017-01-15 16:00:00,Wayne Rooney,Cross,630
+118706,27,SavedShot,0.909000015258789,0.46299999237060546,0.07484880089759827,Marouane Fellaini,a,630,OpenPlay,2016,Head,3354,Stoke,Manchester United,1,1,2017-01-21 18:00:00,Juan Mata,Cross,630
+118712,41,SavedShot,0.9119999694824219,0.575,0.08316530287265778,Marouane Fellaini,a,630,SetPiece,2016,RightFoot,3354,Stoke,Manchester United,1,1,2017-01-21 18:00:00,Antonio Valencia,Cross,630
+118715,45,SavedShot,0.7719999694824219,0.30100000381469727,0.01923000067472458,Marouane Fellaini,a,630,OpenPlay,2016,RightFoot,3354,Stoke,Manchester United,1,1,2017-01-21 18:00:00,Paul Pogba,Pass,630
+120133,19,MissedShots,0.9319999694824219,0.49700000762939456,0.061687301844358444,Marouane Fellaini,a,630,FromCorner,2016,Head,3425,Middlesbrough,Manchester United,1,3,2017-03-19 12:00:00,Ashley Young,Aerial,630
+120138,29,Goal,0.9669999694824218,0.4179999923706055,0.31457599997520447,Marouane Fellaini,a,630,OpenPlay,2016,Head,3425,Middlesbrough,Manchester United,1,3,2017-03-19 12:00:00,Ashley Young,Cross,630
+119549,8,BlockedShot,0.6409999847412109,0.43400001525878906,0.00962825957685709,Marouane Fellaini,h,630,OpenPlay,2016,RightFoot,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,,BallRecovery,630
+119562,53,MissedShots,0.88,0.4370000076293945,0.0828075036406517,Marouane Fellaini,h,630,OpenPlay,2016,RightFoot,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,Henrikh Mkhitaryan,None,630
+119326,46,MissedShots,0.8859999847412109,0.5629999923706055,0.01941489987075329,Marouane Fellaini,h,630,OpenPlay,2016,Head,3446,Manchester United,Everton,1,1,2017-04-04 20:00:00,Jesse Lingard,Aerial,630
+119331,61,MissedShots,0.8969999694824219,0.5690000152587891,0.07891999930143356,Marouane Fellaini,h,630,OpenPlay,2016,RightFoot,3446,Manchester United,Everton,1,1,2017-04-04 20:00:00,Paul Pogba,HeadPass,630
+119333,72,MissedShots,0.8530000305175781,0.445,0.02700899913907051,Marouane Fellaini,h,630,OpenPlay,2016,RightFoot,3446,Manchester United,Everton,1,1,2017-04-04 20:00:00,,Aerial,630
+120301,34,BlockedShot,0.9330000305175781,0.5029999923706054,0.5939210057258606,Marouane Fellaini,a,630,OpenPlay,2016,LeftFoot,3452,Sunderland,Manchester United,0,3,2017-04-09 13:30:00,Luke Shaw,Pass,630
+120652,11,SavedShot,0.9209999847412109,0.545,0.087356798350811,Marouane Fellaini,a,630,FromCorner,2016,Head,3472,Burnley,Manchester United,0,2,2017-04-23 14:15:00,Ashley Young,Cross,630
+119630,27,BlockedShot,0.7119999694824218,0.5520000076293945,0.011824400164186954,Marouane Fellaini,a,630,OpenPlay,2016,RightFoot,3412,Southampton,Manchester United,0,0,2017-05-17 19:45:00,,None,630
+158760,81,Goal,0.9569999694824218,0.509000015258789,0.7094280123710632,Marouane Fellaini,h,630,OpenPlay,2017,RightFoot,7145,Manchester United,Leicester,2,0,2017-08-26 17:30:00,Jesse Lingard,Rebound,630
+158771,38,SavedShot,0.975999984741211,0.4929999923706055,0.3837839961051941,Marouane Fellaini,h,630,FromCorner,2017,Head,7168,Manchester United,Everton,4,0,2017-09-17 16:00:00,,Aerial,630
+160236,34,Goal,0.950999984741211,0.43900001525878907,0.46445900201797485,Marouane Fellaini,h,630,OpenPlay,2017,RightFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Ashley Young,Cross,630
+160243,48,Goal,0.9690000152587891,0.495,0.6777009963989258,Marouane Fellaini,h,630,SetPiece,2017,Head,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Marcus Rashford,Cross,630
+160226,89,SavedShot,0.875999984741211,0.5320000076293945,0.08226139843463898,Marouane Fellaini,a,630,OpenPlay,2017,RightFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Eric Bailly,Chipped,630
+160913,89,SavedShot,0.9640000152587891,0.49700000762939456,0.18399100005626678,Marouane Fellaini,h,630,FromCorner,2017,OtherBodyPart,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Ander Herrera,Chipped,630
+212484,71,MissedShots,0.78,0.31799999237060544,0.019404200837016106,Marouane Fellaini,h,630,OpenPlay,2017,RightFoot,7473,Manchester United,Arsenal,2,1,2018-04-29 15:30:00,Alexis S嫕chez,Pass,630
+212487,88,ShotOnPost,0.9130000305175782,0.5029999923706054,0.1194859966635704,Marouane Fellaini,h,630,OpenPlay,2017,Head,7473,Manchester United,Arsenal,2,1,2018-04-29 15:30:00,Anthony Martial,Cross,630
+212488,90,Goal,0.8930000305175781,0.445,0.028226500377058983,Marouane Fellaini,h,630,OpenPlay,2017,Head,7473,Manchester United,Arsenal,2,1,2018-04-29 15:30:00,Ashley Young,Aerial,630
+212859,55,BlockedShot,0.9530000305175781,0.44299999237060544,0.0632471963763237,Marouane Fellaini,a,630,FromCorner,2017,Head,7484,Brighton,Manchester United,1,0,2018-05-04 20:00:00,Anthony Martial,Aerial,630
+234205,59,BlockedShot,0.7519999694824219,0.5729999923706055,0.028663000091910362,Marouane Fellaini,h,630,OpenPlay,2018,RightFoot,9248,Manchester United,Wolverhampton Wanderers,1,1,2018-09-22 14:00:00,,TakeOn,630
+234210,71,SavedShot,0.9440000152587891,0.40299999237060546,0.08493229746818542,Marouane Fellaini,h,630,OpenPlay,2018,Head,9248,Manchester United,Wolverhampton Wanderers,1,1,2018-09-22 14:00:00,Luke Shaw,Cross,630
+234441,63,SavedShot,0.9030000305175782,0.5879999923706055,0.4530999958515167,Marouane Fellaini,a,630,OpenPlay,2018,Head,9257,West Ham,Manchester United,3,1,2018-09-29 11:30:00,Ashley Young,Aerial,630
+249130,73,SavedShot,0.855999984741211,0.6329999923706054,0.06465599685907364,Marouane Fellaini,h,630,OpenPlay,2018,RightFoot,9273,Manchester United,Newcastle United,3,2,2018-10-06 16:30:00,Romelu Lukaku,Pass,630
+250665,51,MissedShots,0.89,0.40200000762939453,0.03377370163798332,Marouane Fellaini,a,630,SetPiece,2018,Head,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Ashley Young,Cross,630
+250972,80,BlockedShot,0.8590000152587891,0.655,0.03242810070514679,Marouane Fellaini,h,630,OpenPlay,2018,RightFoot,9344,Manchester United,Arsenal,2,2,2018-12-05 20:00:00,Diogo Dalot,Cross,630
+251476,83,MissedShots,0.8569999694824219,0.7240000152587891,0.03634219989180565,Marouane Fellaini,a,630,SetPiece,2018,RightFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,Ashley Young,Chipped,630

@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+232743,2,SavedShot,0.759000015258789,0.26600000381469724,0.014737100340425968,Cyrus Christie,h,6833,OpenPlay,2018,RightFoot,9201,Fulham,Crystal Palace,0,2,2018-08-11 17:00:00,Tom Cairney,Pass,6833
+249162,72,BlockedShot,0.82,0.3220000076293945,0.033272698521614075,Cyrus Christie,h,6833,OpenPlay,2018,LeftFoot,9274,Fulham,Arsenal,1,5,2018-10-07 11:00:00,Denis Odoi,Pass,6833
+250320,35,MissedShots,0.8530000305175781,0.27,0.03964719921350479,Cyrus Christie,h,6833,OpenPlay,2018,LeftFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,André Schürrle,TakeOn,6833
+250677,0,MissedShots,0.7859999847412109,0.27399999618530274,0.019881799817085266,Cyrus Christie,a,6833,OpenPlay,2018,RightFoot,9334,Chelsea,Fulham,2,0,2018-12-02 12:00:00,Tom Cairney,Pass,6833
+250701,92,BlockedShot,0.7440000152587891,0.48700000762939455,0.018995599821209908,Cyrus Christie,a,6833,OpenPlay,2018,LeftFoot,9334,Chelsea,Fulham,2,0,2018-12-02 12:00:00,Jean Michael Seri,Pass,6833
+250876,36,SavedShot,0.7769999694824219,0.38599998474121094,0.02090900018811226,Cyrus Christie,h,6833,OpenPlay,2018,LeftFoot,9342,Fulham,Leicester,1,1,2018-12-05 19:45:00,Aboubakar Kamara,Pass,6833
+251729,27,MissedShots,0.9540000152587891,0.33099998474121095,0.07415589690208435,Cyrus Christie,h,6833,OpenPlay,2018,RightFoot,9383,Fulham,Wolverhampton Wanderers,1,1,2018-12-26 12:30:00,Aboubakar Kamara,Pass,6833
+263609,14,MissedShots,0.9340000152587891,0.4490000152587891,0.05752230063080788,Cyrus Christie,h,6833,OpenPlay,2018,Head,9393,Fulham,Huddersfield,1,0,2018-12-29 15:00:00,Luciano Vietto,Foul,6833
+274458,82,SavedShot,0.8059999847412109,0.28899999618530275,0.020897099748253822,Cyrus Christie,a,6833,OpenPlay,2018,LeftFoot,9415,Burnley,Fulham,2,1,2019-01-12 15:00:00,Jean Michael Seri,TakeOn,6833
+274895,6,MissedShots,0.905,0.255,0.03869849815964699,Cyrus Christie,h,6833,OpenPlay,2018,RightFoot,9429,Fulham,Brighton,4,2,2019-01-29 19:45:00,Jean Michael Seri,Pass,6833
+299288,85,BlockedShot,0.81,0.3189999961853027,0.03411690145730972,Cyrus Christie,a,6833,OpenPlay,2018,LeftFoot,9557,Wolverhampton Wanderers,Fulham,1,0,2019-05-04 14:00:00,Floyd Ayité,TakeOn,6833
+301307,19,MissedShots,0.725,0.44299999237060544,0.012238799594342709,Cyrus Christie,h,6833,OpenPlay,2018,RightFoot,9573,Fulham,Newcastle United,0,4,2019-05-12 14:00:00,Floyd Ayité,BallTouch,6833

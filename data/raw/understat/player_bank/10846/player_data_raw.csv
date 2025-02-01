@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+10846,Julián Álvarez,31,1416,9,7.753276175819337,0,2.0468210969120264,47,18,0,0,F M S,Manchester City,8,6.992107159458101,13.768698140978813,5.820535558275878,2022
+10846,Julián Álvarez,36,2682,11,14.373571239411831,8,5.823111834935844,98,66,2,0,F M S,Manchester City,9,12.851233504712582,27.162230297923088,13.089299127459526,2023

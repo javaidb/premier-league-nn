@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+182931,30,SavedShot,0.9719999694824218,0.40400001525878904,0.18596500158309937,Connor Goldson,h,6299,FromCorner,2017,Head,7305,Brighton,Watford,1,0,2017-12-23 15:00:00,Pascal Groﬂ,Cross,6299
+182935,52,MissedShots,0.919000015258789,0.43900001525878907,0.025789299979805946,Connor Goldson,h,6299,FromCorner,2017,Head,7305,Brighton,Watford,1,0,2017-12-23 15:00:00,Pascal Groﬂ,Aerial,6299
+182940,62,BlockedShot,0.93,0.4620000076293945,0.0517272986471653,Connor Goldson,h,6299,FromCorner,2017,Head,7305,Brighton,Watford,1,0,2017-12-23 15:00:00,Pascal Groﬂ,Aerial,6299

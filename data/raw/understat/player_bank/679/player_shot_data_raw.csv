@@ -1,0 +1,25 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+23592,19,Goal,0.9359999847412109,0.5629999923706055,0.09538409858942032,Scott Sinclair,h,679,FromCorner,2014,Head,4535,Aston Villa,Stoke,1,2,2015-02-21 15:00:00,Fabian Delph,Cross,679
+23547,33,SavedShot,0.9169999694824219,0.6880000305175781,0.0550961010158062,Scott Sinclair,a,679,OpenPlay,2014,LeftFoot,4548,Newcastle United,Aston Villa,1,0,2015-02-28 15:00:00,Ashley Westwood,Chipped,679
+20542,29,MissedShots,0.9330000305175781,0.44400001525878907,0.5633559823036194,Scott Sinclair,a,679,OpenPlay,2014,RightFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Leandro Bacuna,Pass,679
+21186,28,BlockedShot,0.8830000305175781,0.4620000076293945,0.0912787988781929,Scott Sinclair,h,679,OpenPlay,2014,LeftFoot,4504,Aston Villa,Swansea,0,1,2015-03-21 15:00:00,,None,679
+21194,70,MissedShots,0.874000015258789,0.595999984741211,0.09838379919528961,Scott Sinclair,h,679,OpenPlay,2014,LeftFoot,4504,Aston Villa,Swansea,0,1,2015-03-21 15:00:00,Fabian Delph,Pass,679
+21196,78,SavedShot,0.894000015258789,0.2520000076293945,0.033501800149679184,Scott Sinclair,h,679,OpenPlay,2014,LeftFoot,4504,Aston Villa,Swansea,0,1,2015-03-21 15:00:00,Andreas Weimann,Pass,679
+21199,88,MissedShots,0.914000015258789,0.355,0.06535910069942474,Scott Sinclair,h,679,OpenPlay,2014,RightFoot,4504,Aston Villa,Swansea,0,1,2015-03-21 15:00:00,Fabian Delph,Chipped,679
+57367,10,Goal,0.885,0.5,0.7611690163612366,Scott Sinclair,h,679,Penalty,2015,RightFoot,113,Aston Villa,Sunderland,2,2,2015-08-29 18:00:00,,Standard,679
+57368,16,BlockedShot,0.8969999694824219,0.634000015258789,0.0968794971704483,Scott Sinclair,h,679,OpenPlay,2015,RightFoot,113,Aston Villa,Sunderland,2,2,2015-08-29 18:00:00,Idrissa Gueye,Pass,679
+57375,40,Goal,0.9580000305175781,0.500999984741211,0.6205440163612366,Scott Sinclair,h,679,OpenPlay,2015,RightFoot,113,Aston Villa,Sunderland,2,2,2015-08-29 18:00:00,Jordan Amavi,Cross,679
+57878,7,MissedShots,0.985999984741211,0.42700000762939455,0.4947179853916168,Scott Sinclair,a,679,OpenPlay,2015,RightFoot,129,Leicester,Aston Villa,3,2,2015-09-13 19:00:00,Gabriel Agbonlahor,Pass,679
+58383,42,SavedShot,0.7340000152587891,0.45599998474121095,0.01603269949555397,Scott Sinclair,a,679,OpenPlay,2015,RightFoot,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,,None,679
+58385,50,MissedShots,0.850999984741211,0.475,0.018619699403643608,Scott Sinclair,a,679,OpenPlay,2015,Head,145,Liverpool,Aston Villa,3,2,2015-09-26 18:00:00,Alan Hutton,Cross,679
+53245,10,SavedShot,0.8580000305175781,0.6669999694824219,0.052320100367069244,Scott Sinclair,a,679,OpenPlay,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,Kieran Richardson,TakeOn,679
+53258,56,BlockedShot,0.7969999694824219,0.7440000152587891,0.010388500057160854,Scott Sinclair,a,679,OpenPlay,2015,RightFoot,190,Tottenham,Aston Villa,3,1,2015-11-03 00:00:00,,None,679
+55668,12,MissedShots,0.92,0.415,0.050844501703977585,Scott Sinclair,h,679,FromCorner,2015,Head,212,Aston Villa,Watford,2,3,2015-11-28 19:00:00,Carles Gil,Cross,679
+55678,33,SavedShot,0.7709999847412109,0.585,0.025409700348973274,Scott Sinclair,h,679,OpenPlay,2015,RightFoot,212,Aston Villa,Watford,2,3,2015-11-28 19:00:00,Kieran Richardson,TakeOn,679
+54781,81,BlockedShot,0.7719999694824219,0.4779999923706055,0.032591599971055984,Scott Sinclair,a,679,OpenPlay,2015,RightFoot,227,Southampton,Aston Villa,1,1,2015-12-05 19:00:00,Jordan Ayew,LayOff,679
+53035,5,SavedShot,0.8019999694824219,0.3270000076293945,0.02634360082447529,Scott Sinclair,h,679,OpenPlay,2015,LeftFoot,237,Aston Villa,Arsenal,0,2,2015-12-13 17:30:00,Idrissa Gueye,Chipped,679
+53050,55,MissedShots,0.9330000305175781,0.4879999923706055,0.38896799087524414,Scott Sinclair,h,679,OpenPlay,2015,Head,237,Aston Villa,Arsenal,0,2,2015-12-13 17:30:00,Alan Hutton,Cross,679
+54485,79,ShotOnPost,0.815,0.7,0.0266369991004467,Scott Sinclair,h,679,OpenPlay,2015,RightFoot,339,Aston Villa,Liverpool,0,6,2016-02-14 18:05:00,Joleon Lescott,Pass,679
+57105,34,MissedShots,0.775,0.645,0.020153099671006203,Scott Sinclair,h,679,OpenPlay,2015,RightFoot,421,Aston Villa,Southampton,2,4,2016-04-23 18:00:00,Carlos Sánchez,BallRecovery,679
+57123,94,SavedShot,0.8490000152587891,0.5359999847412109,0.1007160022854805,Scott Sinclair,h,679,OpenPlay,2015,LeftFoot,421,Aston Villa,Southampton,2,4,2016-04-23 18:00:00,Rudy Gestede,LayOff,679
+51974,37,BlockedShot,0.895,0.649000015258789,0.07361339777708054,Scott Sinclair,a,679,OpenPlay,2015,LeftFoot,451,Arsenal,Aston Villa,4,0,2016-05-15 18:00:00,Jordan Ayew,Pass,679

@@ -1,0 +1,69 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15581,72,Goal,0.9259999847412109,0.31799999237060544,0.07063650339841843,Papiss Demba Cissé,h,850,OpenPlay,2014,RightFoot,4733,Newcastle United,Hull,2,2,2014-09-20 15:00:00,Cheick Tioté,Pass,850
+15585,86,Goal,0.9690000152587891,0.51,0.7351809740066528,Papiss Demba Cissé,h,850,OpenPlay,2014,RightFoot,4733,Newcastle United,Hull,2,2,2014-09-20 15:00:00,Yoan Gouffran,HeadPass,850
+15587,89,BlockedShot,0.81,0.705999984741211,0.012513600289821625,Papiss Demba Cissé,h,850,OpenPlay,2014,RightFoot,4733,Newcastle United,Hull,2,2,2014-09-20 15:00:00,,Aerial,850
+15877,48,BlockedShot,0.8209999847412109,0.3029999923706055,0.05130570009350777,Papiss Demba Cissé,a,850,OpenPlay,2014,RightFoot,4748,Stoke,Newcastle United,1,0,2014-09-29 20:00:00,Moussa Sissoko,Pass,850
+17505,42,Goal,0.960999984741211,0.40400001525878904,0.09163050353527069,Papiss Demba Cissé,a,850,OpenPlay,2014,RightFoot,4693,Swansea,Newcastle United,2,2,2014-10-04 15:00:00,Gabriel Obertan,Cross,850
+17509,59,SavedShot,0.95,0.615,0.0767911970615387,Papiss Demba Cissé,a,850,OpenPlay,2014,RightFoot,4693,Swansea,Newcastle United,2,2,2014-10-04 15:00:00,Sammy Ameobi,Cross,850
+17512,74,Goal,0.955,0.49900001525878906,0.5697410106658936,Papiss Demba Cissé,a,850,OpenPlay,2014,RightFoot,4693,Swansea,Newcastle United,2,2,2014-10-04 15:00:00,Sammy Ameobi,Cross,850
+17516,79,MissedShots,0.9490000152587891,0.5929999923706055,0.1266389936208725,Papiss Demba Cissé,a,850,OpenPlay,2014,RightFoot,4693,Swansea,Newcastle United,2,2,2014-10-04 15:00:00,,Rebound,850
+16512,18,BlockedShot,0.7440000152587891,0.44299999237060544,0.01917489990592003,Papiss Demba Cissé,h,850,OpenPlay,2014,RightFoot,4704,Newcastle United,Leicester,1,0,2014-10-18 15:00:00,Gabriel Obertan,LayOff,850
+16515,22,BlockedShot,0.9230000305175782,0.47400001525878904,0.10076600313186646,Papiss Demba Cissé,h,850,SetPiece,2014,RightFoot,4704,Newcastle United,Leicester,1,0,2014-10-18 15:00:00,Jack Colback,Cross,850
+16517,43,BlockedShot,0.8159999847412109,0.295,0.027897000312805176,Papiss Demba Cissé,h,850,OpenPlay,2014,LeftFoot,4704,Newcastle United,Leicester,1,0,2014-10-18 15:00:00,Daryl Janmaat,Pass,850
+16521,51,MissedShots,0.965999984741211,0.37099998474121093,0.5969340205192566,Papiss Demba Cissé,h,850,OpenPlay,2014,RightFoot,4704,Newcastle United,Leicester,1,0,2014-10-18 15:00:00,,TakeOn,850
+16533,85,SavedShot,0.9309999847412109,0.534000015258789,0.4056999981403351,Papiss Demba Cissé,h,850,OpenPlay,2014,Head,4704,Newcastle United,Leicester,1,0,2014-10-18 15:00:00,Ayoze Pérez,Cross,850
+16151,3,BlockedShot,0.86,0.61,0.08810219913721085,Papiss Demba Cissé,h,850,OpenPlay,2014,RightFoot,4649,Newcastle United,Liverpool,1,0,2014-11-01 12:45:00,Gabriel Obertan,Pass,850
+16156,36,BlockedShot,0.9419999694824219,0.5920000076293945,0.0684335008263588,Papiss Demba Cissé,h,850,FromCorner,2014,RightFoot,4649,Newcastle United,Liverpool,1,0,2014-11-01 12:45:00,Jack Colback,Cross,850
+16158,45,MissedShots,0.8059999847412109,0.54,0.13702300190925598,Papiss Demba Cissé,h,850,DirectFreekick,2014,RightFoot,4649,Newcastle United,Liverpool,1,0,2014-11-01 12:45:00,,Standard,850
+17094,90,MissedShots,0.885,0.5670000076293945,0.35464298725128174,Papiss Demba Cissé,h,850,OpenPlay,2014,LeftFoot,4670,Newcastle United,Queens Park Rangers,1,0,2014-11-22 15:00:00,Moussa Sissoko,Throughball,850
+18714,90,MissedShots,0.715,0.445,0.012948200106620789,Papiss Demba Cissé,a,850,OpenPlay,2014,LeftFoot,4680,West Ham,Newcastle United,1,0,2014-11-29 15:00:00,,None,850
+18888,24,MissedShots,0.8930000305175781,0.415,0.06748349964618683,Papiss Demba Cissé,a,850,OpenPlay,2014,RightFoot,4589,Burnley,Newcastle United,1,1,2014-12-02 19:45:00,Yoan Gouffran,HeadPass,850
+18895,47,Goal,0.9369999694824219,0.49400001525878906,0.4905320107936859,Papiss Demba Cissé,a,850,OpenPlay,2014,RightFoot,4589,Burnley,Newcastle United,1,1,2014-12-02 19:45:00,Daryl Janmaat,Cross,850
+18905,87,MissedShots,0.8980000305175782,0.6709999847412109,0.07120759785175323,Papiss Demba Cissé,a,850,OpenPlay,2014,LeftFoot,4589,Burnley,Newcastle United,1,1,2014-12-02 19:45:00,Emmanuel Rivière,Pass,850
+20058,56,Goal,0.96,0.49700000762939456,0.6364840269088745,Papiss Demba Cissé,h,850,OpenPlay,2014,RightFoot,4599,Newcastle United,Chelsea,2,1,2014-12-06 12:45:00,,None,850
+20059,58,BlockedShot,0.775,0.46599998474121096,0.04095419868826866,Papiss Demba Cissé,h,850,OpenPlay,2014,RightFoot,4599,Newcastle United,Chelsea,2,1,2014-12-06 12:45:00,Jack Colback,Pass,850
+20060,59,BlockedShot,0.925,0.575,0.023570500314235687,Papiss Demba Cissé,h,850,FromCorner,2014,Head,4599,Newcastle United,Chelsea,2,1,2014-12-06 12:45:00,Jack Colback,Aerial,850
+20066,77,Goal,0.9,0.45799999237060546,0.44422799348831177,Papiss Demba Cissé,h,850,OpenPlay,2014,LeftFoot,4599,Newcastle United,Chelsea,2,1,2014-12-06 12:45:00,Moussa Sissoko,Pass,850
+17639,33,SavedShot,0.9630000305175781,0.5309999847412109,0.6955620050430298,Papiss Demba Cissé,a,850,SetPiece,2014,RightFoot,4615,Arsenal,Newcastle United,4,1,2014-12-13 17:30:00,,Rebound,850
+17914,86,Goal,0.885,0.5,0.761132001876831,Papiss Demba Cissé,a,850,Penalty,2014,RightFoot,4636,Manchester United,Newcastle United,3,1,2014-12-26 15:00:00,,Standard,850
+18721,33,Goal,0.9230000305175782,0.524000015258789,0.4955480098724365,Papiss Demba Cissé,h,850,FromCorner,2014,RightFoot,4647,Newcastle United,Everton,3,2,2014-12-28 16:15:00,Mike Williamson,Pass,850
+18732,70,SavedShot,0.855,0.34,0.07677700370550156,Papiss Demba Cissé,h,850,OpenPlay,2014,RightFoot,4647,Newcastle United,Everton,3,2,2014-12-28 16:15:00,Paul Dummett,Pass,850
+23319,72,MissedShots,0.889000015258789,0.385,0.016965199261903763,Papiss Demba Cissé,h,850,OpenPlay,2014,Head,4523,Newcastle United,Stoke,1,1,2015-02-08 14:05:00,Gabriel Obertan,Cross,850
+24210,1,MissedShots,0.6930000305175781,0.275,0.008747429586946964,Papiss Demba Cissé,a,850,OpenPlay,2014,RightFoot,4533,Crystal Palace,Newcastle United,1,1,2015-02-11 20:00:00,,None,850
+24215,41,Goal,0.9290000152587891,0.4540000152587891,0.3573780059814453,Papiss Demba Cissé,a,850,OpenPlay,2014,Head,4533,Crystal Palace,Newcastle United,1,1,2015-02-11 20:00:00,Daryl Janmaat,Cross,850
+24220,76,MissedShots,0.759000015258789,0.6070000076293945,0.02153169922530651,Papiss Demba Cissé,a,850,OpenPlay,2014,RightFoot,4533,Crystal Palace,Newcastle United,1,1,2015-02-11 20:00:00,Ayoze Pérez,Pass,850
+24110,46,SavedShot,0.8569999694824219,0.6519999694824219,0.03383670002222061,Papiss Demba Cissé,a,850,OpenPlay,2014,LeftFoot,4541,Manchester City,Newcastle United,5,0,2015-02-21 17:30:00,Moussa Sissoko,Chipped,850
+23548,36,Goal,0.9159999847412109,0.525,0.3606080114841461,Papiss Demba Cissé,h,850,OpenPlay,2014,RightFoot,4548,Newcastle United,Aston Villa,1,0,2015-02-28 15:00:00,Daryl Janmaat,Cross,850
+23552,57,MissedShots,0.879000015258789,0.5479999923706055,0.04660559818148613,Papiss Demba Cissé,h,850,SetPiece,2014,Head,4548,Newcastle United,Aston Villa,1,0,2015-02-28 15:00:00,Sammy Ameobi,Cross,850
+21281,34,MissedShots,0.749000015258789,0.5570000076293945,0.024827999994158745,Papiss Demba Cissé,h,850,OpenPlay,2014,LeftFoot,4487,Newcastle United,Manchester United,0,1,2015-03-04 19:45:00,Emmanuel Rivière,HeadPass,850
+21289,65,MissedShots,0.765,0.5379999923706055,0.026897400617599487,Papiss Demba Cissé,h,850,OpenPlay,2014,RightFoot,4487,Newcastle United,Manchester United,0,1,2015-03-04 19:45:00,Ayoze Pérez,LayOff,850
+21291,67,MissedShots,0.8619999694824219,0.43400001525878906,0.37282899022102356,Papiss Demba Cissé,h,850,OpenPlay,2014,RightFoot,4487,Newcastle United,Manchester United,0,1,2015-03-04 19:45:00,Ayoze Pérez,Pass,850
+21294,90,SavedShot,0.9069999694824219,0.6140000152587891,0.018267100676894188,Papiss Demba Cissé,h,850,OpenPlay,2014,Head,4487,Newcastle United,Manchester United,0,1,2015-03-04 19:45:00,Moussa Sissoko,Aerial,850
+20421,70,SavedShot,0.784000015258789,0.27899999618530275,0.020160699263215065,Papiss Demba Cissé,a,850,OpenPlay,2014,LeftFoot,4420,Queens Park Rangers,Newcastle United,2,1,2015-05-16 15:00:00,Rolando Aarons,Pass,850
+20425,87,BlockedShot,0.9459999847412109,0.5609999847412109,0.09368620067834854,Papiss Demba Cissé,a,850,OpenPlay,2014,LeftFoot,4420,Queens Park Rangers,Newcastle United,2,1,2015-05-16 15:00:00,,None,850
+20427,92,SavedShot,0.7669999694824219,0.6419999694824219,0.06185059994459152,Papiss Demba Cissé,a,850,DirectFreekick,2014,RightFoot,4420,Queens Park Rangers,Newcastle United,2,1,2015-05-16 15:00:00,,Standard,850
+23137,72,BlockedShot,0.914000015258789,0.5059999847412109,0.13196200132369995,Papiss Demba Cissé,h,850,OpenPlay,2014,Head,4438,Newcastle United,West Ham,2,0,2015-05-24 15:00:00,Moussa Sissoko,Cross,850
+23138,73,MissedShots,0.7609999847412109,0.20399999618530273,0.011446099728345871,Papiss Demba Cissé,h,850,OpenPlay,2014,LeftFoot,4438,Newcastle United,West Ham,2,0,2015-05-24 15:00:00,,Aerial,850
+51625,14,SavedShot,0.8030000305175782,0.4929999923706055,0.04991050064563751,Papiss Demba Cissé,h,850,OpenPlay,2015,RightFoot,87,Newcastle United,Southampton,2,2,2015-08-09 16:30:00,Georginio Wijnaldum,Save,850
+51632,41,Goal,0.995,0.49599998474121093,0.9756079912185669,Papiss Demba Cissé,h,850,FromCorner,2015,OtherBodyPart,87,Newcastle United,Southampton,2,2,2015-08-09 16:30:00,,None,850
+51640,69,MissedShots,0.9290000152587891,0.635,0.0451384000480175,Papiss Demba Cissé,h,850,FromCorner,2015,LeftFoot,87,Newcastle United,Southampton,2,2,2015-08-09 16:30:00,Jack Colback,Cross,850
+56820,90,MissedShots,0.92,0.33099998474121095,0.11055599898099899,Papiss Demba Cissé,a,850,OpenPlay,2015,RightFoot,101,Manchester United,Newcastle United,0,0,2015-08-22 15:45:00,Georginio Wijnaldum,Pass,850
+58033,53,MissedShots,0.8369999694824218,0.5059999847412109,0.036528900265693665,Papiss Demba Cissé,a,850,OpenPlay,2015,RightFoot,130,West Ham,Newcastle United,2,0,2015-09-14 23:00:00,Moussa Sissoko,Cross,850
+58194,6,SavedShot,0.915,0.5070000076293946,0.48785400390625,Papiss Demba Cissé,h,850,OpenPlay,2015,LeftFoot,132,Newcastle United,Watford,1,2,2015-09-19 18:00:00,Florian Thauvin,None,850
+58196,13,MissedShots,0.895,0.6309999847412109,0.07483600080013275,Papiss Demba Cissé,h,850,OpenPlay,2015,LeftFoot,132,Newcastle United,Watford,1,2,2015-09-19 18:00:00,Moussa Sissoko,Pass,850
+54325,67,BlockedShot,0.8969999694824219,0.674000015258789,0.05100280046463013,Papiss Demba Cissé,h,850,SetPiece,2015,RightFoot,205,Newcastle United,Leicester,0,3,2015-11-21 19:00:00,,None,850
+56015,9,Goal,0.9330000305175781,0.48700000762939455,0.47274601459503174,Papiss Demba Cissé,a,850,OpenPlay,2015,Head,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Daryl Janmaat,Throughball,850
+56016,10,BlockedShot,0.8480000305175781,0.5029999923706054,0.10282699763774872,Papiss Demba Cissé,a,850,OpenPlay,2015,RightFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Moussa Sissoko,Pass,850
+56025,45,MissedShots,0.9369999694824219,0.41,0.08040759712457657,Papiss Demba Cissé,a,850,OpenPlay,2015,RightFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,Moussa Sissoko,Cross,850
+55096,32,MissedShots,0.8719999694824219,0.4779999923706055,0.03889539837837219,Papiss Demba Cissé,a,850,OpenPlay,2015,Head,239,Tottenham,Newcastle United,1,2,2015-12-13 20:00:00,Paul Dummett,Cross,850
+55104,51,MissedShots,0.925,0.655,0.10234799981117249,Papiss Demba Cissé,a,850,OpenPlay,2015,LeftFoot,239,Tottenham,Newcastle United,1,2,2015-12-13 20:00:00,Moussa Sissoko,Throughball,850
+55107,61,SavedShot,0.8680000305175781,0.45799999237060546,0.029908299446105957,Papiss Demba Cissé,a,850,OpenPlay,2015,Head,239,Tottenham,Newcastle United,1,2,2015-12-13 20:00:00,Moussa Sissoko,Cross,850
+52264,29,SavedShot,0.8969999694824219,0.5220000076293946,0.08738560229539871,Papiss Demba Cissé,h,850,OpenPlay,2015,Head,247,Newcastle United,Aston Villa,1,1,2015-12-19 21:30:00,Daryl Janmaat,Cross,850
+60000,8,MissedShots,0.8490000152587891,0.495,0.027519699186086655,Papiss Demba Cissé,a,850,OpenPlay,2015,Head,387,Norwich,Newcastle United,3,2,2016-04-02 18:00:00,Jonjo Shelvey,Chipped,850
+60007,48,MissedShots,0.7419999694824219,0.7709999847412109,0.00881276000291109,Papiss Demba Cissé,a,850,OpenPlay,2015,RightFoot,387,Norwich,Newcastle United,3,2,2016-04-02 18:00:00,Jonjo Shelvey,Chipped,850
+60031,90,SavedShot,0.9230000305175782,0.41700000762939454,0.04461609944701195,Papiss Demba Cissé,a,850,FromCorner,2015,Head,387,Norwich,Newcastle United,3,2,2016-04-02 18:00:00,Aleksandar Mitrovic,HeadPass,850
+56668,6,MissedShots,0.784000015258789,0.7580000305175781,0.015490200370550156,Papiss Demba Cissé,h,850,OpenPlay,2015,RightFoot,408,Newcastle United,Swansea,3,0,2016-04-16 18:00:00,Georginio Wijnaldum,BallRecovery,850
+59781,3,MissedShots,0.9059999847412109,0.4,0.03640289977192879,Papiss Demba Cissé,h,850,OpenPlay,2015,Head,415,Newcastle United,Manchester City,1,1,2016-04-19 22:45:00,Andros Townsend,Cross,850
+57425,47,Goal,0.94,0.6070000076293945,0.05349230021238327,Papiss Demba Cissé,a,850,OpenPlay,2015,Head,423,Liverpool,Newcastle United,2,2,2016-04-23 18:00:00,Vurnon Anita,Cross,850
+57614,22,MissedShots,0.9130000305175782,0.34799999237060547,0.12060099840164185,Papiss Demba Cissé,a,850,OpenPlay,2015,RightFoot,440,Aston Villa,Newcastle United,0,0,2016-05-07 18:00:00,Vurnon Anita,Throughball,850
+57615,35,SavedShot,0.905,0.664000015258789,0.03622550144791603,Papiss Demba Cissé,a,850,OpenPlay,2015,RightFoot,440,Aston Villa,Newcastle United,0,0,2016-05-07 18:00:00,Vurnon Anita,Cross,850

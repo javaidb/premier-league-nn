@@ -1,0 +1,26 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14603,4,Goal,0.7709999847412109,0.49599998474121093,0.02096790075302124,Lee Cattermole,a,738,SetPiece,2014,RightFoot,4753,West Bromwich Albion,Sunderland,2,2,2014-08-16 15:00:00,,None,738
+14815,3,MissedShots,0.805,0.6519999694824219,0.029940500855445862,Lee Cattermole,h,738,OpenPlay,2014,RightFoot,4767,Sunderland,Manchester United,1,1,2014-08-24 16:00:00,Steven Fletcher,Pass,738
+14817,12,BlockedShot,0.8109999847412109,0.4879999923706055,0.0463314987719059,Lee Cattermole,h,738,SetPiece,2014,RightFoot,4767,Sunderland,Manchester United,1,1,2014-08-24 16:00:00,Sebastian Larsson,Pass,738
+15064,83,MissedShots,0.7730000305175782,0.33099998474121095,0.016170399263501167,Lee Cattermole,a,738,FromCorner,2014,RightFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,,None,738
+15895,34,BlockedShot,0.815,0.4909999847412109,0.038651999086141586,Lee Cattermole,h,738,FromCorner,2014,RightFoot,4745,Sunderland,Swansea,0,0,2014-09-27 15:00:00,,None,738
+15909,93,MissedShots,0.740999984741211,0.495,0.019516099244356155,Lee Cattermole,h,738,OpenPlay,2014,RightFoot,4745,Sunderland,Swansea,0,0,2014-09-27 15:00:00,Jordi Gómez,BallTouch,738
+16145,86,MissedShots,0.7419999694824219,0.5690000152587891,0.013625900261104107,Lee Cattermole,h,738,OpenPlay,2014,RightFoot,4711,Sunderland,Arsenal,0,2,2014-10-25 15:00:00,Patrick van Aanholt,HeadPass,738
+18329,66,BlockedShot,0.7330000305175781,0.35200000762939454,0.012262100353837013,Lee Cattermole,a,738,OpenPlay,2014,RightFoot,4644,Aston Villa,Sunderland,0,0,2014-12-28 15:00:00,,None,738
+22298,41,BlockedShot,0.7330000305175781,0.4779999923706055,0.012041999958455563,Lee Cattermole,h,738,SetPiece,2014,RightFoot,4448,Sunderland,Newcastle United,1,0,2015-04-05 16:00:00,,None,738
+20256,90,MissedShots,0.7519999694824219,0.49599998474121093,0.02137880027294159,Lee Cattermole,a,738,OpenPlay,2014,RightFoot,4472,Stoke,Sunderland,1,1,2015-04-25 15:00:00,Patrick van Aanholt,Pass,738
+59171,10,BlockedShot,0.7919999694824219,0.46599998474121096,0.052832599729299545,Lee Cattermole,a,738,OpenPlay,2015,RightFoot,163,West Bromwich Albion,Sunderland,1,0,2015-10-17 18:00:00,Sebastian Larsson,LayOff,738
+59369,14,BlockedShot,0.745,0.5479999923706055,0.018192799761891365,Lee Cattermole,h,738,OpenPlay,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Billy Jones,Pass,738
+54701,58,MissedShots,0.785,0.285,0.015365200117230415,Lee Cattermole,a,738,FromCorner,2015,RightFoot,258,Manchester City,Sunderland,4,1,2015-12-26 19:00:00,,None,738
+53981,61,MissedShots,0.8219999694824218,0.635,0.0381351001560688,Lee Cattermole,h,738,OpenPlay,2015,LeftFoot,314,Sunderland,Manchester City,0,1,2016-02-02 23:45:00,,None,738
+55953,25,MissedShots,0.8080000305175781,0.32099998474121094,0.040137600153684616,Lee Cattermole,h,738,OpenPlay,2015,RightFoot,331,Sunderland,Manchester United,2,1,2016-02-13 16:45:00,,None,738
+55961,46,BlockedShot,0.750999984741211,0.40599998474121096,0.018095100298523903,Lee Cattermole,h,738,OpenPlay,2015,RightFoot,331,Sunderland,Manchester United,2,1,2016-02-13 16:45:00,,None,738
+60221,31,SavedShot,0.9080000305175782,0.3990000152587891,0.11519099771976471,Lee Cattermole,h,738,OpenPlay,2015,RightFoot,389,Sunderland,West Bromwich Albion,0,0,2016-04-02 18:00:00,Wahbi Khazri,Pass,738
+60227,53,BlockedShot,0.784000015258789,0.32299999237060545,0.022842800244688988,Lee Cattermole,h,738,OpenPlay,2015,RightFoot,389,Sunderland,West Bromwich Albion,0,0,2016-04-02 18:00:00,Jan Kirchhoff,Pass,738
+56775,34,MissedShots,0.9069999694824219,0.43900001525878907,0.10632099956274033,Lee Cattermole,a,738,OpenPlay,2015,RightFoot,405,Norwich,Sunderland,0,3,2016-04-16 15:45:00,Fabio Borini,Cross,738
+56518,14,MissedShots,0.7519999694824219,0.46799999237060547,0.017285799607634544,Lee Cattermole,h,738,FromCorner,2015,RightFoot,424,Sunderland,Arsenal,0,0,2016-04-24 17:05:00,,None,738
+56760,63,MissedShots,0.81,0.49599998474121093,0.035833701491355896,Lee Cattermole,h,738,FromCorner,2015,RightFoot,442,Sunderland,Chelsea,3,2,2016-05-07 18:00:00,,None,738
+120295,27,SavedShot,0.765,0.4129999923706055,0.02488039992749691,Lee Cattermole,h,738,OpenPlay,2016,RightFoot,3452,Sunderland,Manchester United,0,3,2017-04-09 13:30:00,Didier Ndong,Pass,738
+119544,55,MissedShots,0.765,0.5920000076293945,0.017994100227952003,Lee Cattermole,a,738,FromCorner,2016,RightFoot,3413,Middlesbrough,Sunderland,1,0,2017-04-26 19:45:00,,None,738
+112418,22,MissedShots,0.69,0.6419999694824219,0.0109526002779603,Lee Cattermole,a,738,OpenPlay,2016,RightFoot,3512,Chelsea,Sunderland,5,1,2017-05-21 15:00:00,Adnan Januzaj,Pass,738
+112420,24,MissedShots,0.7530000305175781,0.415,0.016256900504231453,Lee Cattermole,a,738,OpenPlay,2016,RightFoot,3512,Chelsea,Sunderland,5,1,2017-05-21 15:00:00,,Rebound,738

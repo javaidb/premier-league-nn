@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+3871,Lukas Podolski,7,83,0,0.9136223215609789,0,0.35460198670625687,9,2,0,0,S,Arsenal,0,0.9136223215609789,0.5932813864201307,0.11954280361533165,2014

@@ -1,0 +1,52 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+57939,81,MissedShots,0.8959999847412109,0.6530000305175782,0.09569290280342102,Dieumerci Mbokani,h,795,OpenPlay,2015,LeftFoot,126,Norwich,Bournemouth,3,1,2015-09-12 18:00:00,Nathan Redmond,Pass,795
+58816,59,MissedShots,0.909000015258789,0.46799999237060547,0.03502370044589043,Dieumerci Mbokani,h,795,FromCorner,2015,Head,155,Norwich,Leicester,1,2,2015-10-03 18:00:00,Robbie Brady,CornerAwarded,795
+58818,66,ShotOnPost,0.9230000305175782,0.46,0.06304959952831268,Dieumerci Mbokani,h,795,OpenPlay,2015,Head,155,Norwich,Leicester,1,2,2015-10-03 18:00:00,Robbie Brady,Aerial,795
+58820,67,Goal,0.96,0.475,0.5383800268173218,Dieumerci Mbokani,h,795,FromCorner,2015,RightFoot,155,Norwich,Leicester,1,2,2015-10-03 18:00:00,Jonny Howson,Cross,795
+58992,19,Goal,0.9569999694824218,0.509000015258789,0.5821880102157593,Dieumerci Mbokani,a,795,OpenPlay,2015,RightFoot,169,Newcastle United,Norwich,6,2,2015-10-18 19:00:00,Martin Olsson,Cross,795
+59009,71,SavedShot,0.915,0.580999984741211,0.04801829904317856,Dieumerci Mbokani,a,795,OpenPlay,2015,Head,169,Newcastle United,Norwich,6,2,2015-10-18 19:00:00,,None,795
+59016,88,BlockedShot,0.77,0.48700000762939455,0.022248199209570885,Dieumerci Mbokani,a,795,OpenPlay,2015,RightFoot,169,Newcastle United,Norwich,6,2,2015-10-18 19:00:00,Nathan Redmond,TakeOn,795
+59331,43,SavedShot,0.9819999694824219,0.605999984741211,0.08062650263309479,Dieumerci Mbokani,h,795,OpenPlay,2015,LeftFoot,174,Norwich,West Bromwich Albion,0,1,2015-10-24 18:00:00,,Rebound,795
+59350,91,MissedShots,0.855999984741211,0.48,0.021539000794291496,Dieumerci Mbokani,h,795,OpenPlay,2015,Head,174,Norwich,West Bromwich Albion,0,1,2015-10-24 18:00:00,Russell Martin,Cross,795
+53278,19,MissedShots,0.8480000305175781,0.5659999847412109,0.05234979838132858,Dieumerci Mbokani,a,795,OpenPlay,2015,LeftFoot,207,Chelsea,Norwich,1,0,2015-11-21 19:00:00,Robbie Brady,Cross,795
+55798,84,SavedShot,0.9009999847412109,0.534000015258789,0.10501500219106674,Dieumerci Mbokani,a,795,OpenPlay,2015,LeftFoot,253,Tottenham,Norwich,3,0,2015-12-26 19:00:00,,Rebound,795
+53596,86,Goal,0.919000015258789,0.4540000152587891,0.31995901465415955,Dieumerci Mbokani,h,795,OpenPlay,2015,Head,263,Norwich,Aston Villa,2,0,2015-12-28 19:00:00,Wes Hoolahan,Chipped,795
+55910,29,MissedShots,0.96,0.47400001525878904,0.6382660269737244,Dieumerci Mbokani,h,795,OpenPlay,2015,RightFoot,276,Norwich,Southampton,1,0,2016-01-02 19:00:00,,None,795
+55916,43,MissedShots,0.9309999847412109,0.4929999923706055,0.44413501024246216,Dieumerci Mbokani,h,795,OpenPlay,2015,LeftFoot,276,Norwich,Southampton,1,0,2016-01-02 19:00:00,Jonny Howson,Cross,795
+55769,71,MissedShots,0.7780000305175782,0.565,0.27288898825645447,Dieumerci Mbokani,a,795,OpenPlay,2015,RightFoot,296,Bournemouth,Norwich,3,0,2016-01-16 19:00:00,,Dispossessed,795
+55770,72,SavedShot,0.91,0.28299999237060547,0.08497639745473862,Dieumerci Mbokani,a,795,OpenPlay,2015,RightFoot,296,Bournemouth,Norwich,3,0,2016-01-16 19:00:00,Russell Martin,TakeOn,795
+54895,28,Goal,0.93,0.505,0.1140189990401268,Dieumerci Mbokani,h,795,FromCorner,2015,RightFoot,301,Norwich,Liverpool,4,5,2016-01-23 16:45:00,Graham Dorrans,HeadPass,795
+53699,13,SavedShot,0.8619999694824219,0.3129999923706055,0.045548200607299805,Dieumerci Mbokani,h,795,OpenPlay,2015,RightFoot,313,Norwich,Tottenham,0,3,2016-02-02 23:45:00,Alexander Tettey,Pass,795
+55645,19,SavedShot,0.785,0.6930000305175781,0.02017820067703724,Dieumerci Mbokani,a,795,OpenPlay,2015,RightFoot,326,Aston Villa,Norwich,2,0,2016-02-06 19:00:00,Steven Naismith,Pass,795
+55660,80,BlockedShot,0.9269999694824219,0.6040000152587891,0.014089800417423248,Dieumerci Mbokani,a,795,FromCorner,2015,Head,326,Aston Villa,Norwich,2,0,2016-02-06 19:00:00,Robbie Brady,Aerial,795
+55661,82,SavedShot,0.8630000305175781,0.47200000762939454,0.02327129989862442,Dieumerci Mbokani,a,795,OpenPlay,2015,Head,326,Aston Villa,Norwich,2,0,2016-02-06 19:00:00,Jonny Howson,Cross,795
+55663,88,BlockedShot,0.975999984741211,0.5879999923706055,0.11076399683952332,Dieumerci Mbokani,a,795,OpenPlay,2015,LeftFoot,326,Aston Villa,Norwich,2,0,2016-02-06 19:00:00,,Rebound,795
+55662,88,MissedShots,0.845999984741211,0.56,0.0841400995850563,Dieumerci Mbokani,a,795,OpenPlay,2015,RightFoot,326,Aston Villa,Norwich,2,0,2016-02-06 19:00:00,Matthew Jarvis,Pass,795
+60260,80,MissedShots,0.91,0.44099998474121094,0.08022800087928772,Dieumerci Mbokani,a,795,OpenPlay,2015,Head,361,Swansea,Norwich,1,0,2016-03-05 19:00:00,Wes Hoolahan,Cross,795
+60003,32,SavedShot,0.9319999694824219,0.47200000762939454,0.5640850067138672,Dieumerci Mbokani,h,795,OpenPlay,2015,RightFoot,387,Norwich,Newcastle United,3,2,2016-04-02 18:00:00,Steven Naismith,Pass,795
+60004,32,MissedShots,0.899000015258789,0.4759999847412109,0.10580799728631973,Dieumerci Mbokani,h,795,OpenPlay,2015,RightFoot,387,Norwich,Newcastle United,3,2,2016-04-02 18:00:00,Matthew Jarvis,Cross,795
+60016,73,Goal,0.8519999694824218,0.6840000152587891,0.043025899678468704,Dieumerci Mbokani,h,795,OpenPlay,2015,RightFoot,387,Norwich,Newcastle United,3,2,2016-04-02 18:00:00,Jonny Howson,Pass,795
+60546,40,MissedShots,0.9690000152587891,0.59,0.09880200028419495,Dieumerci Mbokani,a,795,OpenPlay,2015,RightFoot,399,Crystal Palace,Norwich,1,0,2016-04-09 18:00:00,,None,795
+56770,12,SavedShot,0.9169999694824219,0.48400001525878905,0.05669489875435829,Dieumerci Mbokani,h,795,OpenPlay,2015,Head,405,Norwich,Sunderland,0,3,2016-04-16 15:45:00,Robbie Brady,Aerial,795
+56776,37,BlockedShot,0.905,0.6079999923706054,0.02329310029745102,Dieumerci Mbokani,h,795,FromCorner,2015,Head,405,Norwich,Sunderland,0,3,2016-04-16 15:45:00,Robbie Brady,Cross,795
+56784,62,BlockedShot,0.909000015258789,0.445,0.36598899960517883,Dieumerci Mbokani,h,795,OpenPlay,2015,RightFoot,405,Norwich,Sunderland,0,3,2016-04-16 15:45:00,Steven Naismith,Throughball,795
+56785,64,BlockedShot,0.899000015258789,0.4909999847412109,0.04047980159521103,Dieumerci Mbokani,h,795,SetPiece,2015,Head,405,Norwich,Sunderland,0,3,2016-04-16 15:45:00,,None,795
+56843,78,BlockedShot,0.7869999694824219,0.5509999847412109,0.03654640167951584,Dieumerci Mbokani,a,795,OpenPlay,2015,RightFoot,432,Arsenal,Norwich,1,0,2016-04-30 20:30:00,Steven Naismith,Pass,795
+56660,68,SavedShot,0.8919999694824219,0.46799999237060547,0.2284190058708191,Dieumerci Mbokani,h,795,OpenPlay,2015,Head,437,Norwich,Manchester United,0,1,2016-05-07 15:45:00,Wes Hoolahan,Cross,795
+56399,17,Goal,0.9490000152587891,0.48,0.6395040154457092,Dieumerci Mbokani,h,795,OpenPlay,2015,LeftFoot,448,Norwich,Watford,4,2,2016-05-11 22:45:00,,Rebound,795
+56413,56,Goal,0.9069999694824219,0.59,0.38486000895500183,Dieumerci Mbokani,h,795,OpenPlay,2015,RightFoot,448,Norwich,Watford,4,2,2016-05-11 22:45:00,Nathan Redmond,Throughball,795
+56416,76,BlockedShot,0.8769999694824219,0.4370000076293945,0.1009330004453659,Dieumerci Mbokani,h,795,OpenPlay,2015,LeftFoot,448,Norwich,Watford,4,2,2016-05-11 22:45:00,,None,795
+115746,1,SavedShot,0.9009999847412109,0.6790000152587891,0.10634399950504303,Dieumerci Mbokani,a,795,OpenPlay,2016,LeftFoot,2700,Sunderland,Hull,3,0,2016-11-19 19:00:00,Jake Livermore,TakeOn,795
+115755,26,BlockedShot,0.7859999847412109,0.6669999694824219,0.025184400379657745,Dieumerci Mbokani,a,795,OpenPlay,2016,RightFoot,2700,Sunderland,Hull,3,0,2016-11-19 19:00:00,Ryan Mason,Pass,795
+115768,77,BlockedShot,0.955999984741211,0.475,0.467615008354187,Dieumerci Mbokani,a,795,FromCorner,2016,Head,2700,Sunderland,Hull,3,0,2016-11-19 19:00:00,,Rebound,795
+116302,65,BlockedShot,0.7480000305175781,0.4279999923706055,0.010755700059235096,Dieumerci Mbokani,h,795,OpenPlay,2016,RightFoot,2708,Hull,West Bromwich Albion,1,1,2016-11-26 19:00:00,,Aerial,795
+116015,18,MissedShots,0.8269999694824218,0.504000015258789,0.0754999965429306,Dieumerci Mbokani,a,795,OpenPlay,2016,RightFoot,3137,West Ham,Hull,1,0,2016-12-17 19:00:00,Sam Clucas,Pass,795
+116016,20,ShotOnPost,0.855999984741211,0.46799999237060547,0.3385230004787445,Dieumerci Mbokani,a,795,OpenPlay,2016,RightFoot,3137,West Ham,Hull,1,0,2016-12-17 19:00:00,,None,795
+116020,35,MissedShots,0.845,0.49900001525878906,0.07630950212478638,Dieumerci Mbokani,a,795,OpenPlay,2016,LeftFoot,3137,West Ham,Hull,1,0,2016-12-17 19:00:00,Michael Dawson,HeadPass,795
+116025,44,MissedShots,0.9219999694824219,0.5309999847412109,0.05124229937791824,Dieumerci Mbokani,a,795,FromCorner,2016,Head,3137,West Ham,Hull,1,0,2016-12-17 19:00:00,Michael Dawson,Aerial,795
+117298,22,BlockedShot,0.9569999694824218,0.5609999847412109,0.10498300194740295,Dieumerci Mbokani,h,795,OpenPlay,2016,Head,3155,Hull,Everton,2,2,2016-12-31 00:00:00,Robert Snodgrass,Aerial,795
+117300,24,SavedShot,0.9,0.4759999847412109,0.04999480023980141,Dieumerci Mbokani,h,795,OpenPlay,2016,Head,3155,Hull,Everton,2,2,2016-12-31 00:00:00,Jake Livermore,Aerial,795
+117325,92,MissedShots,0.8469999694824218,0.24899999618530275,0.021933700889348984,Dieumerci Mbokani,h,795,OpenPlay,2016,RightFoot,3155,Hull,Everton,2,2,2016-12-31 00:00:00,,None,795
+116977,36,SavedShot,0.87,0.46299999237060546,0.03547390177845955,Dieumerci Mbokani,a,795,FromCorner,2016,Head,3333,West Bromwich Albion,Hull,3,1,2017-01-02 19:00:00,,None,795
+118462,13,MissedShots,0.9290000152587891,0.47,0.13764899969100952,Dieumerci Mbokani,h,795,OpenPlay,2016,Head,3394,Hull,Burnley,1,1,2017-02-25 15:00:00,Ahmed Elmohamady,Cross,795
+118472,47,MissedShots,0.8969999694824219,0.5879999923706055,0.04838329926133156,Dieumerci Mbokani,h,795,OpenPlay,2016,Head,3394,Hull,Burnley,1,1,2017-02-25 15:00:00,Andrew Robertson,Cross,795

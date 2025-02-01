@@ -1,0 +1,21 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15009,19,BlockedShot,0.7230000305175781,0.6140000152587891,0.015147400088608265,Fabricio Coloccini,h,941,OpenPlay,2014,RightFoot,4771,Newcastle United,Crystal Palace,3,3,2014-08-30 15:00:00,Jack Colback,Pass,941
+15583,77,BlockedShot,0.795,0.4979999923706055,0.012407599948346615,Fabricio Coloccini,h,941,FromCorner,2014,RightFoot,4733,Newcastle United,Hull,2,2,2014-09-20 15:00:00,Rémy Cabella,Chipped,941
+15863,16,MissedShots,0.7730000305175782,0.43,0.027088100090622902,Fabricio Coloccini,a,941,FromCorner,2014,RightFoot,4748,Stoke,Newcastle United,1,0,2014-09-29 20:00:00,Rémy Cabella,Cross,941
+16511,7,MissedShots,0.9119999694824219,0.47400001525878904,0.49976301193237305,Fabricio Coloccini,h,941,OpenPlay,2014,LeftFoot,4704,Newcastle United,Leicester,1,0,2014-10-18 15:00:00,Moussa Sissoko,Cross,941
+17431,61,Goal,0.925,0.5420000076293945,0.30051299929618835,Fabricio Coloccini,a,941,FromCorner,2014,Head,4667,West Bromwich Albion,Newcastle United,0,2,2014-11-09 13:30:00,Daryl Janmaat,Cross,941
+22817,84,BlockedShot,0.8469999694824218,0.5370000076293945,0.08922860026359558,Fabricio Coloccini,h,941,OpenPlay,2014,RightFoot,4470,Newcastle United,Swansea,2,3,2015-04-25 15:00:00,Mike Williamson,Pass,941
+20407,45,SavedShot,0.95,0.5670000076293945,0.30034300684928894,Fabricio Coloccini,a,941,FromCorner,2014,Head,4420,Queens Park Rangers,Newcastle United,2,1,2015-05-16 15:00:00,Paul Dummett,Rebound,941
+20426,87,BlockedShot,0.889000015258789,0.4420000076293945,0.014042500406503677,Fabricio Coloccini,a,941,FromCorner,2014,Head,4420,Queens Park Rangers,Newcastle United,2,1,2015-05-16 15:00:00,Sammy Ameobi,Aerial,941
+23139,76,MissedShots,0.8819999694824219,0.5420000076293945,0.05464769899845123,Fabricio Coloccini,h,941,FromCorner,2014,RightFoot,4438,Newcastle United,West Ham,2,0,2015-05-24 15:00:00,Daryl Janmaat,Cross,941
+51627,20,BlockedShot,0.9290000152587891,0.4540000152587891,0.10784400254487991,Fabricio Coloccini,h,941,SetPiece,2015,LeftFoot,87,Newcastle United,Southampton,2,2,2015-08-09 16:30:00,Papiss Demba Cissé,Cross,941
+51630,36,BlockedShot,0.9030000305175782,0.5020000076293946,0.07548230141401291,Fabricio Coloccini,h,941,FromCorner,2015,LeftFoot,87,Newcastle United,Southampton,2,2,2015-08-09 16:30:00,Jack Colback,Cross,941
+57638,51,OwnGoal,0.05300000190734863,0.5379999923706055,0,Fabricio Coloccini,h,941,OpenPlay,2015,RightFoot,111,Newcastle United,Arsenal,0,1,2015-08-29 15:45:00,,None,941
+59366,2,SavedShot,0.9490000152587891,0.5420000076293945,0.13772700726985931,Fabricio Coloccini,a,941,SetPiece,2015,RightFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Aleksandar Mitrovic,Pass,941
+52487,50,MissedShots,0.915,0.375,0.011909900233149529,Fabricio Coloccini,h,941,FromCorner,2015,Head,184,Newcastle United,Stoke,0,0,2015-10-31 19:00:00,Ayoze Pérez,Aerial,941
+52501,83,BlockedShot,0.905,0.46599998474121096,0.06621430069208145,Fabricio Coloccini,h,941,FromCorner,2015,Head,184,Newcastle United,Stoke,0,0,2015-10-31 19:00:00,Ayoze Pérez,Cross,941
+54554,82,MissedShots,0.9519999694824218,0.435,0.41211798787117004,Fabricio Coloccini,a,941,SetPiece,2015,Head,191,Bournemouth,Newcastle United,0,1,2015-11-07 16:45:00,,None,941
+54335,90,MissedShots,0.865999984741211,0.2989999961853027,0.032967399805784225,Fabricio Coloccini,h,941,SetPiece,2015,RightFoot,205,Newcastle United,Leicester,0,3,2015-11-21 19:00:00,,None,941
+52266,37,Goal,0.9069999694824219,0.36900001525878906,0.042336899787187576,Fabricio Coloccini,h,941,FromCorner,2015,RightFoot,247,Newcastle United,Aston Villa,1,1,2015-12-19 21:30:00,Siem de Jong,Cross,941
+54878,63,BlockedShot,0.750999984741211,0.62,0.01693129912018776,Fabricio Coloccini,a,941,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Aleksandar Mitrovic,Pass,941
+54662,39,MissedShots,0.7130000305175781,0.509000015258789,0.010683099739253521,Fabricio Coloccini,h,941,OpenPlay,2015,RightFoot,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,Jack Colback,Pass,941

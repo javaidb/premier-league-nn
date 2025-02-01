@@ -1,0 +1,44 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+481622,31,MissedShots,0.865,0.4279999923706055,0.027766399085521698,Matheus Nunes,a,11000,SetPiece,2022,Head,18222,Tottenham,Wolverhampton Wanderers,1,0,2022-08-20 11:30:00,João Moutinho,Cross,11000
+481626,41,MissedShots,0.8930000305175781,0.44599998474121094,0.028872499242424965,Matheus Nunes,a,11000,OpenPlay,2022,Head,18222,Tottenham,Wolverhampton Wanderers,1,0,2022-08-20 11:30:00,Rúben Neves,Aerial,11000
+481629,47,BlockedShot,0.8819999694824219,0.34,0.05373169854283333,Matheus Nunes,a,11000,OpenPlay,2022,RightFoot,18222,Tottenham,Wolverhampton Wanderers,1,0,2022-08-20 11:30:00,Gonçalo Guedes,Pass,11000
+481641,65,BlockedShot,0.71,0.5640000152587891,0.015176399610936642,Matheus Nunes,a,11000,OpenPlay,2022,LeftFoot,18222,Tottenham,Wolverhampton Wanderers,1,0,2022-08-20 11:30:00,Leander Dendoncker,Pass,11000
+484215,25,MissedShots,0.905,0.4490000152587891,0.36641401052474976,Matheus Nunes,h,11000,OpenPlay,2022,Head,18240,Wolverhampton Wanderers,Newcastle United,1,1,2022-08-28 13:00:00,,None,11000
+484228,79,SavedShot,0.7709999847412109,0.325,0.1191760003566742,Matheus Nunes,h,11000,OpenPlay,2022,RightFoot,18240,Wolverhampton Wanderers,Newcastle United,1,1,2022-08-28 13:00:00,Rúben Neves,TakeOn,11000
+485172,10,ShotOnPost,0.8830000305175781,0.32599998474121095,0.039242301136255264,Matheus Nunes,a,11000,OpenPlay,2022,RightFoot,18248,Bournemouth,Wolverhampton Wanderers,0,0,2022-08-31 18:30:00,Pedro Neto,HeadPass,11000
+485927,65,MissedShots,0.9490000152587891,0.28899999618530275,0.055912598967552185,Matheus Nunes,h,11000,OpenPlay,2022,RightFoot,18256,Wolverhampton Wanderers,Southampton,1,0,2022-09-03 14:00:00,Daniel Podence,Chipped,11000
+490378,4,MissedShots,0.9369999694824219,0.7469999694824219,0.05569799989461899,Matheus Nunes,a,11000,OpenPlay,2022,RightFoot,18291,West Ham,Wolverhampton Wanderers,2,0,2022-10-01 16:30:00,,TakeOn,11000
+490396,59,BlockedShot,0.8369999694824218,0.38799999237060545,0.04043380171060562,Matheus Nunes,a,11000,OpenPlay,2022,RightFoot,18291,West Ham,Wolverhampton Wanderers,2,0,2022-10-01 16:30:00,,None,11000
+491634,40,MissedShots,0.9330000305175781,0.49,0.14315499365329742,Matheus Nunes,a,11000,OpenPlay,2022,Head,18295,Chelsea,Wolverhampton Wanderers,3,0,2022-10-08 14:00:00,Adama Traoré,Cross,11000
+495546,9,SavedShot,0.9019999694824219,0.37599998474121094,0.06887330114841461,Matheus Nunes,h,11000,OpenPlay,2022,RightFoot,18331,Wolverhampton Wanderers,Leicester,0,4,2022-10-23 13:00:00,Jonny,Pass,11000
+495548,11,SavedShot,0.8830000305175781,0.4759999847412109,0.04982199892401695,Matheus Nunes,h,11000,OpenPlay,2022,Head,18331,Wolverhampton Wanderers,Leicester,0,4,2022-10-23 13:00:00,Daniel Podence,Cross,11000
+495556,45,BlockedShot,0.7469999694824219,0.325,0.010914199985563755,Matheus Nunes,h,11000,OpenPlay,2022,RightFoot,18331,Wolverhampton Wanderers,Leicester,0,4,2022-10-23 13:00:00,João Moutinho,HeadPass,11000
+500371,89,BlockedShot,0.7580000305175781,0.41,0.017077500000596046,Matheus Nunes,h,11000,FromCorner,2022,LeftFoot,18361,Wolverhampton Wanderers,Arsenal,0,2,2022-11-12 19:45:00,,None,11000
+502575,21,SavedShot,0.92,0.33799999237060546,0.3502820134162903,Matheus Nunes,a,11000,OpenPlay,2022,RightFoot,18383,Aston Villa,Wolverhampton Wanderers,1,1,2023-01-04 20:00:00,,None,11000
+502589,87,MissedShots,0.7040000152587891,0.46,0.013372000306844711,Matheus Nunes,a,11000,OpenPlay,2022,RightFoot,18383,Aston Villa,Wolverhampton Wanderers,1,1,2023-01-04 20:00:00,Rúben Neves,BallRecovery,11000
+502592,89,BlockedShot,0.9159999847412109,0.31,0.031580399721860886,Matheus Nunes,a,11000,FromCorner,2022,LeftFoot,18383,Aston Villa,Wolverhampton Wanderers,1,1,2023-01-04 20:00:00,Rúben Neves,Chipped,11000
+503547,10,SavedShot,0.805,0.6370000076293946,0.0369441993534565,Matheus Nunes,h,11000,OpenPlay,2022,RightFoot,18401,Wolverhampton Wanderers,West Ham,1,0,2023-01-14 15:00:00,,BallRecovery,11000
+503549,15,BlockedShot,0.7240000152587891,0.53,0.013288900256156921,Matheus Nunes,h,11000,OpenPlay,2022,RightFoot,18401,Wolverhampton Wanderers,West Ham,1,0,2023-01-14 15:00:00,,Rebound,11000
+504964,92,BlockedShot,0.85,0.4909999847412109,0.09823449701070786,Matheus Nunes,a,11000,OpenPlay,2022,LeftFoot,18409,Manchester City,Wolverhampton Wanderers,3,0,2023-01-22 14:00:00,Daniel Podence,Pass,11000
+507102,25,SavedShot,0.8380000305175781,0.6709999847412109,0.31235000491142273,Matheus Nunes,h,11000,OpenPlay,2022,RightFoot,18421,Wolverhampton Wanderers,Liverpool,3,0,2023-02-04 15:00:00,,None,11000
+509636,5,BlockedShot,0.9419999694824219,0.655,0.07923000305891037,Matheus Nunes,h,11000,OpenPlay,2022,LeftFoot,18441,Wolverhampton Wanderers,Bournemouth,0,1,2023-02-18 15:00:00,Hugo Bueno,TakeOn,11000
+518003,30,Goal,0.894000015258789,0.26299999237060545,0.03560269996523857,Matheus Nunes,h,11000,OpenPlay,2022,RightFoot,18501,Wolverhampton Wanderers,Chelsea,1,0,2023-04-08 14:00:00,,None,11000
+522733,23,SavedShot,0.88,0.3940000152587891,0.09304972738027573,Matheus Nunes,a,11000,OpenPlay,2022,RightFoot,18535,Brighton,Wolverhampton Wanderers,6,0,2023-04-29 14:00:00,Pedro Neto,Pass,11000
+524694,57,MissedShots,0.9440000152587891,0.3220000076293945,0.06360124051570892,Matheus Nunes,h,11000,OpenPlay,2022,RightFoot,18551,Wolverhampton Wanderers,Aston Villa,1,0,2023-05-06 14:00:00,Pedro Neto,Chipped,11000
+527513,91,SavedShot,0.8490000152587891,0.38599998474121094,0.10740861296653748,Matheus Nunes,h,11000,OpenPlay,2022,RightFoot,18571,Wolverhampton Wanderers,Everton,1,1,2023-05-20 14:00:00,Matheus Cunha,Pass,11000
+529838,4,BlockedShot,0.865,0.8180000305175781,0.05318666249513626,Matheus Nunes,a,11000,DirectFreekick,2022,RightFoot,18572,Arsenal,Wolverhampton Wanderers,5,0,2023-05-28 15:30:00,,Standard,11000
+533146,31,MissedShots,0.8719999694824219,0.7040000152587891,0.10589331388473511,Matheus Nunes,h,11000,OpenPlay,2023,RightFoot,22286,Wolverhampton Wanderers,Brighton,1,4,2023-08-19 14:00:00,Matheus Cunha,Throughball,11000
+556627,13,SavedShot,0.8440000152587891,0.43400001525878906,0.0841282308101654,Matheus Nunes,a,11000,OpenPlay,2023,RightFoot,22081,Everton,Manchester City,1,3,2023-12-27 20:15:00,Julián Álvarez,Pass,11000
+560691,14,BlockedShot,0.8169999694824219,0.5509999847412109,0.052457671612501144,Matheus Nunes,h,11000,OpenPlay,2023,RightFoot,22114,Manchester City,Burnley,3,1,2024-01-31 19:30:00,Jéremy Doku,Pass,11000
+560696,26,SavedShot,0.909000015258789,0.6990000152587891,0.07309355586767197,Matheus Nunes,h,11000,OpenPlay,2023,RightFoot,22114,Manchester City,Burnley,3,1,2024-01-31 19:30:00,Rodri,Pass,11000
+571939,79,MissedShots,0.7480000305175781,0.5429999923706055,0.036961473524570465,Matheus Nunes,h,11000,OpenPlay,2023,RightFoot,22204,Manchester City,Aston Villa,4,1,2024-04-03 19:15:00,Mateo Kovacic,Pass,11000
+572168,77,MissedShots,0.899000015258789,0.35200000762939454,0.10757318884134293,Matheus Nunes,a,11000,OpenPlay,2023,RightFoot,22207,Crystal Palace,Manchester City,2,4,2024-04-06 11:30:00,Oscar Bobb,Chipped,11000
+573735,13,SavedShot,0.8619999694824219,0.44099998474121094,0.07701762765645981,Matheus Nunes,h,11000,OpenPlay,2023,LeftFoot,22221,Manchester City,Luton,5,1,2024-04-13 14:00:00,Jéremy Doku,Cross,11000
+573742,26,ShotOnPost,0.960999984741211,0.315,0.2421271800994873,Matheus Nunes,h,11000,OpenPlay,2023,RightFoot,22221,Manchester City,Luton,5,1,2024-04-13 14:00:00,Kevin De Bruyne,Pass,11000
+573759,72,SavedShot,0.7730000305175782,0.7040000152587891,0.026927100494503975,Matheus Nunes,h,11000,OpenPlay,2023,RightFoot,22221,Manchester City,Luton,5,1,2024-04-13 14:00:00,Rúben Dias,Pass,11000
+573770,94,BlockedShot,0.8730000305175781,0.590999984741211,0.11885250359773636,Matheus Nunes,h,11000,OpenPlay,2023,LeftFoot,22221,Manchester City,Luton,5,1,2024-04-13 14:00:00,Oscar Bobb,Pass,11000
+597508,93,BlockedShot,0.8730000305175781,0.675,0.08238567411899567,Matheus Nunes,a,11000,OpenPlay,2024,RightFoot,26681,Wolverhampton Wanderers,Manchester City,1,2,2024-10-20 13:00:00,Erling Haaland,Pass,11000
+598403,10,MissedShots,0.7680000305175781,0.7090000152587891,0.024550966918468475,Matheus Nunes,h,11000,OpenPlay,2024,RightFoot,26683,Manchester City,Southampton,1,0,2024-10-26 14:00:00,Bernardo Silva,Pass,11000
+598416,59,MissedShots,0.865999984741211,0.40900001525878904,0.09270773082971573,Matheus Nunes,h,11000,OpenPlay,2024,RightFoot,26683,Manchester City,Southampton,1,0,2024-10-26 14:00:00,,Foul,11000
+605861,54,BlockedShot,0.8440000152587891,0.46099998474121096,0.08930029720067978,Matheus Nunes,a,11000,OpenPlay,2024,RightFoot,26747,Crystal Palace,Manchester City,2,2,2024-12-07 15:00:00,Kevin De Bruyne,Pass,11000
+613535,41,SavedShot,0.860999984741211,0.5070000076293946,0.27899861335754395,Matheus Nunes,h,11000,OpenPlay,2024,RightFoot,26828,Manchester City,Chelsea,3,1,2025-01-25 17:30:00,Ilkay Gündogan,Chipped,11000

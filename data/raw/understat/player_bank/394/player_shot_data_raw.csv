@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+76805,89,BlockedShot,0.9130000305175782,0.5159999847412109,0.0966314971446991,Leon Balogun,a,394,FromCorner,2015,LeftFoot,1056,Schalke 04,Mainz 05,2,1,2015-09-13 19:30:00,Pablo De Blasis,BallTouch,394
+78331,71,MissedShots,0.9290000152587891,0.3509999847412109,0.01291080005466938,Leon Balogun,h,394,FromCorner,2015,Head,1103,Mainz 05,Werder Bremen,1,3,2015-10-24 17:30:00,Pablo De Blasis,Aerial,394
+78817,2,MissedShots,0.8590000152587891,0.5820000076293945,0.03389750048518181,Leon Balogun,h,394,SetPiece,2015,Head,1122,Mainz 05,Wolfsburg,2,0,2015-11-07 18:30:00,Danny Latza,Chipped,394
+80497,86,MissedShots,0.9230000305175782,0.46599998474121096,0.048024799674749374,Leon Balogun,h,394,FromCorner,2015,Head,1183,Mainz 05,Borussia M.Gladbach,1,0,2016-01-29 23:30:00,Danny Latza,Aerial,394
+80654,31,MissedShots,0.884000015258789,0.534000015258789,0.076590396463871,Leon Balogun,a,394,SetPiece,2015,RightFoot,1195,Hannover 96,Mainz 05,0,1,2016-02-06 18:30:00,,None,394
+80659,49,MissedShots,0.89,0.48200000762939454,0.051574401557445526,Leon Balogun,a,394,FromCorner,2015,Head,1195,Hannover 96,Mainz 05,0,1,2016-02-06 18:30:00,Danny Latza,Cross,394
+80661,53,MissedShots,0.94,0.5570000076293945,0.0674016997218132,Leon Balogun,a,394,SetPiece,2015,Head,1195,Hannover 96,Mainz 05,0,1,2016-02-06 18:30:00,Danny Latza,Aerial,394
+81173,39,MissedShots,0.9,0.38799999237060545,0.022179100662469864,Leon Balogun,a,394,FromCorner,2015,Head,1213,Hoffenheim,Mainz 05,3,2,2016-02-20 18:30:00,Daniel Brosinski,Cross,394
+81424,7,MissedShots,0.9059999847412109,0.4370000076293945,0.06209859997034073,Leon Balogun,h,394,SetPiece,2015,Head,1226,Mainz 05,Bayer Leverkusen,3,1,2016-02-28 20:30:00,Yunus Malli,Chipped,394
+81959,27,MissedShots,0.91,0.2929999923706055,0.006857350002974272,Leon Balogun,a,394,SetPiece,2015,Head,1254,Borussia Dortmund,Mainz 05,2,0,2016-03-13 20:30:00,Christian Clemens,Aerial,394
+82653,15,MissedShots,0.9019999694824219,0.6079999923706054,0.023666400462388992,Leon Balogun,a,394,FromCorner,2015,Head,1279,Wolfsburg,Mainz 05,1,1,2016-04-09 20:30:00,Danny Latza,Cross,394
+83015,48,Goal,0.9169999694824219,0.534000015258789,0.0568276010453701,Leon Balogun,h,394,SetPiece,2015,Head,1290,Mainz 05,FC Cologne,2,3,2016-04-17 19:30:00,Daniel Brosinski,Aerial,394
+127848,81,MissedShots,0.93,0.425,0.029088199138641357,Leon Balogun,h,394,FromCorner,2016,Head,1344,Mainz 05,Hoffenheim,4,4,2016-09-11 19:30:00,Yunus Malli,Aerial,394
+132767,89,SavedShot,0.8819999694824219,0.509000015258789,0.06443250179290771,Leon Balogun,h,394,SetPiece,2016,Head,3835,Mainz 05,Hertha Berlin,1,0,2017-04-15 14:30:00,Daniel Brosinski,Cross,394
+133056,33,BlockedShot,0.904000015258789,0.4490000152587891,0.08333659917116165,Leon Balogun,h,394,FromCorner,2016,LeftFoot,3868,Mainz 05,Eintracht Frankfurt,4,2,2017-05-13 14:30:00,Jhon Córdoba,BallTouch,394
+166422,58,MissedShots,0.9019999694824219,0.545,0.03327219933271408,Leon Balogun,h,394,SetPiece,2017,Head,8278,Mainz 05,Bayer Leverkusen,3,1,2017-09-09 14:30:00,Levin Öztunali,Aerial,394
+166481,37,SavedShot,0.63,0.33299999237060546,0.006593720056116581,Leon Balogun,a,394,OpenPlay,2017,RightFoot,8289,Bayern Munich,Mainz 05,4,0,2017-09-16 14:30:00,Suat Serdar,Pass,394
+250765,30,Goal,0.884000015258789,0.5520000076293945,0.08249639719724655,Leon Balogun,h,394,FromCorner,2018,RightFoot,9337,Brighton,Crystal Palace,3,1,2018-12-04 19:45:00,,None,394

@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1078,Sergi Canos,1,7,0,0,0,0,0,0,0,0,S,Liverpool,0,0,0,0,2015
+1078,Sergi Canos,31,2128,3,3.4899188801646233,2,2.1664950996637344,33,17,6,1,D F M S,Brentford,3,3.4899188801646233,6.9550468772649765,2.181806704029441,2021
+1078,Sergi Canos,5,55,0,0.05990799888968468,0,0.017622999846935272,1,1,0,0,S,Brentford,0,0.05990799888968468,0.07753099873661995,0,2022

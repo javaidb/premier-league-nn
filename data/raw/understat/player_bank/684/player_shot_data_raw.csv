@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+25108,4,BlockedShot,0.7480000305175781,0.6759999847412109,0.010900399647653103,Abdul Rahman Baba,h,684,FromCorner,2014,LeftFoot,5425,Augsburg,Werder Bremen,4,2,2014-09-20 14:30:00,Daniel Baier,HeadPass,684
+25121,41,MissedShots,0.74,0.63,0.009561359882354736,Abdul Rahman Baba,h,684,FromCorner,2014,LeftFoot,5425,Augsburg,Werder Bremen,4,2,2014-09-20 14:30:00,Halil Altintop,HeadPass,684
+26337,89,MissedShots,0.8980000305175782,0.6669999694824219,0.12665699422359467,Abdul Rahman Baba,h,684,OpenPlay,2014,LeftFoot,5403,Augsburg,Freiburg,2,0,2014-10-25 14:30:00,,BallRecovery,684
+26783,42,MissedShots,0.9440000152587891,0.695,0.09669029712677002,Abdul Rahman Baba,h,684,OpenPlay,2014,LeftFoot,5357,Augsburg,Paderborn,3,0,2014-11-08 14:30:00,,TakeOn,684
+27772,71,MissedShots,0.75,0.5459999847412109,0.01748960092663765,Abdul Rahman Baba,a,684,FromCorner,2014,LeftFoot,5330,Hannover 96,Augsburg,2,0,2014-12-16 19:00:00,,None,684
+29977,23,SavedShot,0.6809999847412109,0.9690000152587891,0.005607199855148792,Abdul Rahman Baba,h,684,OpenPlay,2014,LeftFoot,5235,Augsburg,Wolfsburg,1,0,2015-03-07 14:30:00,Ragnar Klavan,Chipped,684
+30768,42,BlockedShot,0.779000015258789,0.5720000076293945,0.02689269930124283,Abdul Rahman Baba,h,684,OpenPlay,2014,RightFoot,5161,Augsburg,FC Cologne,0,0,2015-05-02 14:30:00,Markus Feulner,Pass,684
+54980,78,MissedShots,0.7809999847412109,0.695,0.026526199653744698,Abdul Rahman Baba,h,684,OpenPlay,2015,RightFoot,337,Chelsea,Newcastle United,5,1,2016-02-13 21:30:00,Cesc Fàbregas,TakeOn,684
+59641,38,MissedShots,0.754000015258789,0.5940000152587891,0.017253199592232704,Abdul Rahman Baba,h,684,OpenPlay,2015,RightFoot,362,Chelsea,Stoke,1,1,2016-03-05 19:00:00,Willian,Pass,684
+59671,88,SavedShot,0.7390000152587891,0.7190000152587891,0.013070600107312202,Abdul Rahman Baba,h,684,OpenPlay,2015,LeftFoot,362,Chelsea,Stoke,1,1,2016-03-05 19:00:00,Loïc Remy,Pass,684
+61065,36,SavedShot,0.9490000152587891,0.6630000305175782,0.09250859916210175,Abdul Rahman Baba,a,684,OpenPlay,2015,LeftFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Cesc Fàbregas,Pass,684
+61092,83,MissedShots,0.9009999847412109,0.4570000076293945,0.14084500074386597,Abdul Rahman Baba,a,684,OpenPlay,2015,LeftFoot,384,Aston Villa,Chelsea,0,4,2016-04-02 15:45:00,Oscar,Throughball,684
+52008,43,BlockedShot,0.919000015258789,0.634000015258789,0.08891160041093826,Abdul Rahman Baba,h,684,OpenPlay,2015,LeftFoot,452,Chelsea,Leicester,1,1,2016-05-15 18:00:00,Pedro,Pass,684
+127526,90,MissedShots,0.8590000152587891,0.6930000305175781,0.09403470158576965,Abdul Rahman Baba,a,684,OpenPlay,2016,RightFoot,1330,Eintracht Frankfurt,Schalke 04,1,0,2016-08-27 17:30:00,Nabil Bentaleb,Throughball,684
+128256,82,MissedShots,0.7290000152587891,0.6840000152587891,0.008884799666702747,Abdul Rahman Baba,a,684,OpenPlay,2016,LeftFoot,1353,Hertha Berlin,Schalke 04,2,0,2016-09-18 19:30:00,,Aerial,684
+129601,91,MissedShots,0.865999984741211,0.66,0.09893900156021118,Abdul Rahman Baba,h,684,OpenPlay,2016,RightFoot,2814,Schalke 04,Werder Bremen,3,1,2016-11-06 20:30:00,Yevhen Konoplyanka,TakeOn,684
+131040,65,MissedShots,0.8230000305175781,0.639000015258789,0.061560001224279404,Abdul Rahman Baba,h,684,OpenPlay,2016,LeftFoot,3209,Schalke 04,Bayer Leverkusen,0,1,2016-12-11 20:30:00,,Rebound,684
+131457,80,MissedShots,0.9330000305175781,0.8919999694824219,0.019717400893568993,Abdul Rahman Baba,h,684,OpenPlay,2016,LeftFoot,3214,Schalke 04,Freiburg,1,1,2016-12-17 18:30:00,Sead Kolasinac,Pass,684
+131459,86,MissedShots,0.6940000152587891,0.61,0.01580129936337471,Abdul Rahman Baba,h,684,FromCorner,2016,LeftFoot,3214,Schalke 04,Freiburg,1,1,2016-12-17 18:30:00,Leon Goretzka,Pass,684
+222415,28,MissedShots,0.7519999694824219,0.6309999847412109,0.015831200405955315,Abdul Rahman Baba,h,684,FromCorner,2018,LeftFoot,10354,Schalke 04,Hertha Berlin,0,2,2018-09-02 16:00:00,,None,684
+222418,37,BlockedShot,0.774000015258789,0.49900001525878906,0.01584549993276596,Abdul Rahman Baba,h,684,FromCorner,2018,LeftFoot,10354,Schalke 04,Hertha Berlin,0,2,2018-09-02 16:00:00,,Aerial,684
+284761,50,MissedShots,0.885,0.649000015258789,0.07459630072116852,Abdul Rahman Baba,a,684,OpenPlay,2018,LeftFoot,10921,Dijon,Reims,1,1,2019-03-09 19:00:00,Tristan Dingome,Pass,684
+286737,5,MissedShots,0.725,0.6409999847412109,0.013427999801933765,Abdul Rahman Baba,h,684,FromCorner,2018,RightFoot,10923,Reims,Nantes,1,0,2019-03-17 14:00:00,,None,684
+286744,52,MissedShots,0.7340000152587891,0.575,0.00962310004979372,Abdul Rahman Baba,h,684,SetPiece,2018,LeftFoot,10923,Reims,Nantes,1,0,2019-03-17 14:00:00,,Aerial,684
+291146,12,ShotOnPost,0.965999984741211,0.6880000305175781,0.0514042004942894,Abdul Rahman Baba,a,684,OpenPlay,2018,RightFoot,10942,Strasbourg,Reims,4,0,2019-04-03 18:00:00,Xavier Chavalerin,Chipped,684
+303639,35,Goal,0.975,0.6880000305175781,0.052472300827503204,Abdul Rahman Baba,h,684,OpenPlay,2018,LeftFoot,11021,Reims,Paris Saint Germain,3,1,2019-05-24 19:05:00,Remi Oudin,Pass,684
+316985,70,BlockedShot,0.86,0.6840000152587891,0.043996501713991165,Abdul Rahman Baba,h,684,OpenPlay,2019,LeftFoot,12059,Mallorca,Athletic Club,0,0,2019-09-13 19:00:00,Aleix Febas,Pass,684

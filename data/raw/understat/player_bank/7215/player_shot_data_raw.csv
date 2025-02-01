@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+249380,86,BlockedShot,0.7609999847412109,0.5279999923706055,0.03124839998781681,Loïc Damour,h,7215,OpenPlay,2018,RightFoot,9282,Cardiff,Fulham,4,2,2018-10-20 14:00:00,Víctor Camarasa,Pass,7215

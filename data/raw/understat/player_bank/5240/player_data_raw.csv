@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+5240,Ondrej Duda,10,737,0,0.5319724082946777,0,1.5336715430021286,10,16,0,0,M S,Norwich,0,0.5319724082946777,1.9886052273213863,1.0739875845611095,2019

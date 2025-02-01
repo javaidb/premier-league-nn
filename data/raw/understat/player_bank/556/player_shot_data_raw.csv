@@ -1,0 +1,589 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+59682,28,Goal,0.909000015258789,0.5590000152587891,0.44006800651550293,Marcus Rashford,h,556,OpenPlay,2015,RightFoot,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,,None,556
+59684,31,Goal,0.9290000152587891,0.48200000762939454,0.4395659863948822,Marcus Rashford,h,556,OpenPlay,2015,Head,348,Manchester United,Arsenal,3,2,2016-02-28 18:05:00,Jesse Lingard,Cross,556
+60581,50,BlockedShot,0.835999984741211,0.47299999237060547,0.09524460136890411,Marcus Rashford,a,556,OpenPlay,2015,LeftFoot,368,West Bromwich Albion,Manchester United,1,0,2016-03-06 20:00:00,,TakeOn,556
+60254,15,Goal,0.9,0.6430000305175781,0.34136199951171875,Marcus Rashford,a,556,OpenPlay,2015,RightFoot,382,Manchester City,Manchester United,0,1,2016-03-20 20:00:00,Juan Mata,TakeOn,556
+60274,54,BlockedShot,0.9359999847412109,0.41900001525878905,0.4328700006008148,Marcus Rashford,a,556,OpenPlay,2015,RightFoot,382,Manchester City,Manchester United,0,1,2016-03-20 20:00:00,Matteo Darmian,Pass,556
+59907,7,BlockedShot,0.9159999847412109,0.5479999923706055,0.11464600265026093,Marcus Rashford,h,556,OpenPlay,2015,RightFoot,393,Manchester United,Everton,1,0,2016-04-03 19:00:00,Marcos Rojo,Cross,556
+59923,87,SavedShot,0.855,0.3940000152587891,0.09840139746665955,Marcus Rashford,h,556,OpenPlay,2015,LeftFoot,393,Manchester United,Everton,1,0,2016-04-03 19:00:00,Anthony Martial,Pass,556
+56569,31,Goal,0.9080000305175782,0.40599998474121096,0.11005999892950058,Marcus Rashford,h,556,SetPiece,2015,RightFoot,406,Manchester United,Aston Villa,1,0,2016-04-16 18:00:00,Antonio Valencia,Pass,556
+56573,47,MissedShots,0.909000015258789,0.585,0.14411099255084991,Marcus Rashford,h,556,OpenPlay,2015,RightFoot,406,Manchester United,Aston Villa,1,0,2016-04-16 18:00:00,Juan Mata,Throughball,556
+61153,10,BlockedShot,0.8059999847412109,0.34700000762939454,0.03283010050654411,Marcus Rashford,h,556,OpenPlay,2015,LeftFoot,417,Manchester United,Crystal Palace,2,0,2016-04-20 23:00:00,Jesse Lingard,Pass,556
+61156,38,SavedShot,0.9069999694824219,0.30700000762939456,0.12606999278068542,Marcus Rashford,h,556,OpenPlay,2015,RightFoot,417,Manchester United,Crystal Palace,2,0,2016-04-20 23:00:00,Wayne Rooney,Throughball,556
+61169,61,SavedShot,0.8969999694824219,0.5279999923706055,0.4752880036830902,Marcus Rashford,h,556,OpenPlay,2015,LeftFoot,417,Manchester United,Crystal Palace,2,0,2016-04-20 23:00:00,,Rebound,556
+57154,4,BlockedShot,0.759000015258789,0.42200000762939455,0.03240450099110603,Marcus Rashford,h,556,OpenPlay,2015,RightFoot,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,,TakeOn,556
+57163,32,BlockedShot,0.9130000305175782,0.720999984741211,0.04197340086102486,Marcus Rashford,h,556,OpenPlay,2015,RightFoot,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,Daley Blind,Pass,556
+57180,70,BlockedShot,0.755,0.455,0.020811699330806732,Marcus Rashford,h,556,OpenPlay,2015,RightFoot,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,,None,556
+52064,73,Goal,0.8680000305175781,0.3390000152587891,0.0797405019402504,Marcus Rashford,h,556,OpenPlay,2015,RightFoot,460,Manchester United,Bournemouth,3,1,2016-05-17 23:00:00,Antonio Valencia,LayOff,556
+112990,78,SavedShot,0.8730000305175781,0.655,0.06678149849176407,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,Paul Pogba,Pass,556
+112993,84,MissedShots,0.8690000152587891,0.5129999923706055,0.026926500722765923,Marcus Rashford,a,556,FromCorner,2016,Head,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,Wayne Rooney,Cross,556
+113000,91,Goal,0.9740000152587891,0.509000015258789,0.8469570279121399,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,488,Hull,Manchester United,0,1,2016-08-27 20:30:00,Wayne Rooney,Pass,556
+113262,46,BlockedShot,0.7609999847412109,0.5929999923706055,0.02274640090763569,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Paul Pogba,Pass,556
+113269,69,BlockedShot,0.865,0.6580000305175782,0.046466000378131866,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Daley Blind,Chipped,556
+113663,48,MissedShots,0.8030000305175782,0.6959999847412109,0.023057300597429276,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,507,Watford,Manchester United,3,1,2016-09-18 15:00:00,,None,556
+113667,61,Goal,0.9619999694824218,0.56,0.560696005821228,Marcus Rashford,a,556,OpenPlay,2016,LeftFoot,507,Watford,Manchester United,3,1,2016-09-18 15:00:00,,None,556
+113821,24,MissedShots,0.8969999694824219,0.385,0.4286609888076782,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,511,Manchester United,Leicester,4,1,2016-09-24 15:30:00,Zlatan Ibrahimovic,Pass,556
+113822,25,MissedShots,0.8680000305175781,0.4909999847412109,0.10099499672651291,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,511,Manchester United,Leicester,4,1,2016-09-24 15:30:00,Paul Pogba,HeadPass,556
+113826,39,Goal,0.9769999694824218,0.48400001525878905,0.9030370116233826,Marcus Rashford,h,556,FromCorner,2016,RightFoot,511,Manchester United,Leicester,4,1,2016-09-24 15:30:00,Juan Mata,Pass,556
+114289,22,BlockedShot,0.8619999694824219,0.5279999923706055,0.03720510005950928,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Zlatan Ibrahimovic,HeadPass,556
+114295,46,MissedShots,0.850999984741211,0.4809999847412109,0.04862460121512413,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Antonio Valencia,Cross,556
+114799,55,BlockedShot,0.865999984741211,0.7180000305175781,0.03479750081896782,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,Marcos Rojo,Pass,556
+114805,65,BlockedShot,0.8909999847412109,0.7019999694824218,0.05078360065817833,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,Paul Pogba,Pass,556
+115508,49,BlockedShot,0.899000015258789,0.6869999694824219,0.052986498922109604,Marcus Rashford,h,556,SetPiece,2016,RightFoot,2697,Manchester United,Arsenal,1,1,2016-11-19 16:30:00,Paul Pogba,Pass,556
+115295,35,SavedShot,0.8719999694824219,0.4370000076293945,0.20160500705242157,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Phil Jones,BallRecovery,556
+115959,93,BlockedShot,0.8930000305175781,0.7069999694824218,0.07285039871931076,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,3140,West Bromwich Albion,Manchester United,0,2,2016-12-17 21:30:00,Zlatan Ibrahimovic,Pass,556
+117605,74,SavedShot,0.8490000152587891,0.48,0.07962600141763687,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,3159,Manchester United,Middlesbrough,2,1,2016-12-31 15:00:00,Ander Herrera,Pass,556
+117087,75,SavedShot,0.8640000152587891,0.31,0.05422290042042732,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,3335,West Ham,Manchester United,0,2,2017-01-02 21:15:00,Zlatan Ibrahimovic,Pass,556
+118724,75,MissedShots,0.8640000152587891,0.5940000152587891,0.05897970125079155,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,3354,Stoke,Manchester United,1,1,2017-01-21 18:00:00,,None,556
+119039,55,MissedShots,0.894000015258789,0.3920000076293945,0.11862900108098984,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,3368,Manchester United,Hull,0,0,2017-02-01 23:00:00,Paul Pogba,Throughball,556
+116741,22,MissedShots,0.87,0.555,0.07288619875907898,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,3379,Leicester,Manchester United,0,3,2017-02-05 16:00:00,Henrikh Mkhitaryan,Cross,556
+116742,34,SavedShot,0.865999984741211,0.685,0.0482449010014534,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,3379,Leicester,Manchester United,0,3,2017-02-05 16:00:00,Paul Pogba,Pass,556
+116751,51,SavedShot,0.9290000152587891,0.73,0.13575899600982666,Marcus Rashford,a,556,OpenPlay,2016,LeftFoot,3379,Leicester,Manchester United,0,3,2017-02-05 16:00:00,Henrikh Mkhitaryan,Throughball,556
+117761,80,SavedShot,0.8090000152587891,0.735,0.03817649930715561,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,3381,Manchester United,Watford,2,0,2017-02-11 15:00:00,Ander Herrera,TakeOn,556
+119588,73,BlockedShot,0.8059999847412109,0.5059999847412109,0.05834690108895302,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,3402,Manchester United,Bournemouth,1,1,2017-03-04 12:30:00,Juan Mata,Pass,556
+120129,6,SavedShot,0.915,0.6029999923706054,0.357914000749588,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,3425,Middlesbrough,Manchester United,1,3,2017-03-19 12:00:00,Jesse Lingard,Throughball,556
+120135,22,SavedShot,0.960999984741211,0.5120000076293946,0.6159650087356567,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,3425,Middlesbrough,Manchester United,1,3,2017-03-19 12:00:00,Juan Mata,Cross,556
+120143,54,BlockedShot,0.8930000305175781,0.72,0.05597430095076561,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,3425,Middlesbrough,Manchester United,1,3,2017-03-19 12:00:00,Juan Mata,Pass,556
+120144,56,MissedShots,0.855999984741211,0.15899999618530272,0.02388859912753105,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,3425,Middlesbrough,Manchester United,1,3,2017-03-19 12:00:00,Jesse Lingard,Pass,556
+119554,27,MissedShots,0.875,0.740999984741211,0.03304529935121536,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,Anthony Martial,Pass,556
+119559,48,BlockedShot,0.905,0.37,0.0812997967004776,Marcus Rashford,h,556,OpenPlay,2016,LeftFoot,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,,BallRecovery,556
+119565,70,SavedShot,0.7290000152587891,0.5929999923706055,0.017561599612236023,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,Jesse Lingard,Pass,556
+119566,82,MissedShots,0.7580000305175781,0.6759999847412109,0.021638700738549232,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,Ashley Young,Pass,556
+119568,87,SavedShot,0.7240000152587891,0.6959999847412109,0.03550739958882332,Marcus Rashford,h,556,DirectFreekick,2016,RightFoot,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,,Standard,556
+119340,86,BlockedShot,0.88,0.6580000305175782,0.05058389902114868,Marcus Rashford,h,556,OpenPlay,2016,LeftFoot,3446,Manchester United,Everton,1,1,2017-04-04 20:00:00,,None,556
+120315,88,Goal,0.904000015258789,0.34299999237060547,0.09806949645280838,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,3452,Sunderland,Manchester United,0,3,2017-04-09 13:30:00,Zlatan Ibrahimovic,Pass,556
+121209,5,MissedShots,0.7930000305175782,0.4279999923706055,0.04066089913249016,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,3460,Manchester United,Chelsea,2,0,2017-04-16 16:00:00,,BallRecovery,556
+121210,6,Goal,0.9,0.35400001525878905,0.31218698620796204,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,3460,Manchester United,Chelsea,2,0,2017-04-16 16:00:00,Ander Herrera,Throughball,556
+121218,60,MissedShots,0.84,0.30700000762939456,0.05733770132064819,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,3460,Manchester United,Chelsea,2,0,2017-04-16 16:00:00,Michael Carrick,Pass,556
+121220,68,SavedShot,0.8730000305175781,0.6509999847412109,0.1063309982419014,Marcus Rashford,h,556,OpenPlay,2016,RightFoot,3460,Manchester United,Chelsea,2,0,2017-04-16 16:00:00,Marouane Fellaini,TakeOn,556
+120664,82,MissedShots,0.87,0.24700000762939453,0.040831100195646286,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,3472,Burnley,Manchester United,0,2,2017-04-23 14:15:00,Henrikh Mkhitaryan,Pass,556
+120971,89,MissedShots,0.8019999694824219,0.8390000152587891,0.035241998732089996,Marcus Rashford,h,556,DirectFreekick,2016,RightFoot,3482,Manchester United,Swansea,1,1,2017-04-30 12:00:00,,Standard,556
+120489,91,MissedShots,0.88,0.54,0.10020899772644043,Marcus Rashford,a,556,OpenPlay,2016,RightFoot,3507,Tottenham,Manchester United,2,1,2017-05-14 16:30:00,Michael Carrick,Throughball,556
+158264,24,BlockedShot,0.8959999847412109,0.6909999847412109,0.05460049957036972,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7128,Manchester United,West Ham,4,0,2017-08-13 16:00:00,Henrikh Mkhitaryan,Pass,556
+158271,49,MissedShots,0.9130000305175782,0.664000015258789,0.13128499686717987,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7128,Manchester United,West Ham,4,0,2017-08-13 16:00:00,Paul Pogba,Throughball,556
+158277,62,MissedShots,0.845999984741211,0.6480000305175782,0.07445020228624344,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7128,Manchester United,West Ham,4,0,2017-08-13 16:00:00,Paul Pogba,Pass,556
+158279,65,ShotOnPost,0.84,0.720999984741211,0.041105400770902634,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7128,Manchester United,West Ham,4,0,2017-08-13 16:00:00,Romelu Lukaku,Pass,556
+158997,6,MissedShots,0.7780000305175782,0.6170000076293946,0.030990099534392357,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Henrikh Mkhitaryan,TakeOn,556
+159000,28,SavedShot,0.6809999847412109,0.6880000305175781,0.012561400420963764,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Henrikh Mkhitaryan,Pass,556
+159002,35,SavedShot,0.87,0.4909999847412109,0.38928401470184326,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,,None,556
+159006,55,SavedShot,0.7909999847412109,0.664000015258789,0.032538700848817825,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7129,Swansea,Manchester United,0,4,2017-08-19 12:30:00,Juan Mata,Pass,556
+158754,69,Goal,0.9059999847412109,0.4929999923706055,0.08039829879999161,Marcus Rashford,h,556,FromCorner,2017,RightFoot,7145,Manchester United,Leicester,2,0,2017-08-26 17:30:00,Henrikh Mkhitaryan,Cross,556
+159474,23,SavedShot,0.905,0.355,0.11706999689340591,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Eric Bailly,Throughball,556
+159476,26,SavedShot,0.9,0.715,0.043584901839494705,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Paul Pogba,Pass,556
+159481,45,Goal,0.965999984741211,0.48,0.1075420007109642,Marcus Rashford,a,556,FromCorner,2017,Head,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Paul Pogba,None,556
+159483,46,BlockedShot,0.8419999694824218,0.669000015258789,0.043793998658657074,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7155,Stoke,Manchester United,2,2,2017-09-09 17:30:00,Paul Pogba,Pass,556
+158768,33,BlockedShot,0.8959999847412109,0.66,0.07812400162220001,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7168,Manchester United,Everton,4,0,2017-09-17 16:00:00,,None,556
+158773,50,MissedShots,0.865,0.720999984741211,0.0481875017285347,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7168,Manchester United,Everton,4,0,2017-09-17 16:00:00,Henrikh Mkhitaryan,Pass,556
+159793,11,BlockedShot,0.879000015258789,0.7030000305175781,0.04398540034890175,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7172,Southampton,Manchester United,0,1,2017-09-23 15:00:00,Henrikh Mkhitaryan,Pass,556
+159798,26,MissedShots,0.7390000152587891,0.655,0.04510140046477318,Marcus Rashford,a,556,DirectFreekick,2017,RightFoot,7172,Southampton,Manchester United,0,1,2017-09-23 15:00:00,,Standard,556
+160239,42,SavedShot,0.965999984741211,0.6480000305175782,0.061292700469493866,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Romelu Lukaku,Rebound,556
+160242,46,BlockedShot,0.8290000152587891,0.54,0.06646809726953506,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,,None,556
+159468,77,Goal,0.9340000152587891,0.5270000076293946,0.352387011051178,Marcus Rashford,a,556,OpenPlay,2017,Head,7201,Huddersfield,Manchester United,2,1,2017-10-21 15:00:00,Romelu Lukaku,Cross,556
+160067,11,SavedShot,0.6959999847412109,0.59,0.03469590097665787,Marcus Rashford,h,556,DirectFreekick,2017,RightFoot,7218,Manchester United,Tottenham,1,0,2017-10-28 12:30:00,,Standard,556
+160202,7,MissedShots,0.9519999694824218,0.44099998474121094,0.4251500070095062,Marcus Rashford,a,556,OpenPlay,2017,Head,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Ashley Young,Cross,556
+160219,67,BlockedShot,0.8130000305175781,0.51,0.033149100840091705,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,Marouane Fellaini,HeadPass,556
+160225,86,MissedShots,0.8240000152587891,0.5179999923706055,0.05009499937295914,Marcus Rashford,a,556,OpenPlay,2017,LeftFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,,None,556
+160228,93,BlockedShot,0.7580000305175781,0.5970000076293945,0.06369320303201675,Marcus Rashford,a,556,DirectFreekick,2017,RightFoot,7219,Chelsea,Manchester United,1,0,2017-11-05 16:30:00,,Standard,556
+160891,15,MissedShots,0.759000015258789,0.59,0.017208199948072433,Marcus Rashford,h,556,FromCorner,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,,None,556
+160892,17,BlockedShot,0.7609999847412109,0.53,0.023677000775933266,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Anthony Martial,Pass,556
+160895,19,MissedShots,0.855,0.7440000152587891,0.026042399927973747,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7232,Manchester United,Newcastle United,4,1,2017-11-18 17:30:00,Ashley Young,Pass,556
+161365,78,BlockedShot,0.82,0.6959999847412109,0.03885529935359955,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7243,Manchester United,Brighton,1,0,2017-11-25 15:00:00,Zlatan Ibrahimovic,Pass,556
+160984,72,BlockedShot,0.76,0.620999984741211,0.031223399564623833,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7251,Watford,Manchester United,2,4,2017-11-28 20:00:00,Jesse Lingard,Pass,556
+179259,46,Goal,0.9119999694824219,0.40700000762939453,0.40131300687789917,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7276,Manchester United,Manchester City,1,2,2017-12-10 16:30:00,,None,556
+179264,69,MissedShots,0.7609999847412109,0.69,0.04940050095319748,Marcus Rashford,h,556,DirectFreekick,2017,RightFoot,7276,Manchester United,Manchester City,1,2,2017-12-10 16:30:00,,Standard,556
+179266,75,SavedShot,0.855,0.29100000381469726,0.03347039967775345,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7276,Manchester United,Manchester City,1,2,2017-12-10 16:30:00,,None,556
+182918,71,ShotOnPost,0.765,0.785,0.017403699457645416,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7283,Manchester United,Bournemouth,1,0,2017-12-13 20:00:00,Scott McTominay,Pass,556
+182836,4,BlockedShot,0.845999984741211,0.6170000076293946,0.033325500786304474,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7295,West Bromwich Albion,Manchester United,1,2,2017-12-17 14:15:00,David de Gea,Pass,556
+182845,56,MissedShots,0.8730000305175781,0.645,0.09658599644899368,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7295,West Bromwich Albion,Manchester United,1,2,2017-12-17 14:15:00,Jesse Lingard,Pass,556
+182844,56,BlockedShot,0.8540000152587891,0.69,0.061443500220775604,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7295,West Bromwich Albion,Manchester United,1,2,2017-12-17 14:15:00,Chris Smalling,Pass,556
+183081,77,BlockedShot,0.8009999847412109,0.6480000305175782,0.03989399969577789,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7302,Leicester,Manchester United,2,2,2017-12-23 19:45:00,Paul Pogba,Pass,556
+185589,36,BlockedShot,0.9169999694824219,0.66,0.13511300086975098,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7314,Manchester United,Burnley,2,2,2017-12-26 15:00:00,Paul Pogba,TakeOn,556
+185600,74,BlockedShot,0.8909999847412109,0.715,0.0242381002753973,Marcus Rashford,h,556,FromCorner,2017,LeftFoot,7314,Manchester United,Burnley,2,2,2017-12-26 15:00:00,Luke Shaw,TakeOn,556
+185601,79,BlockedShot,0.759000015258789,0.6419999694824219,0.015736699104309082,Marcus Rashford,h,556,FromCorner,2017,RightFoot,7314,Manchester United,Burnley,2,2,2017-12-26 15:00:00,,None,556
+186140,29,MissedShots,0.9630000305175781,0.48200000762939454,0.6193209886550903,Marcus Rashford,h,556,OpenPlay,2017,Head,7324,Manchester United,Southampton,0,0,2017-12-30 17:30:00,Ashley Young,Cross,556
+186152,76,BlockedShot,0.899000015258789,0.590999984741211,0.11049900203943253,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7324,Manchester United,Southampton,0,0,2017-12-30 17:30:00,Anthony Martial,Pass,556
+186157,90,BlockedShot,0.8780000305175781,0.5370000076293945,0.023106500506401062,Marcus Rashford,h,556,OpenPlay,2017,Head,7324,Manchester United,Southampton,0,0,2017-12-30 17:30:00,Ashley Young,Aerial,556
+186371,79,BlockedShot,0.7880000305175782,0.6580000305175782,0.034341901540756226,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7333,Everton,Manchester United,0,2,2018-01-01 17:30:00,Luke Shaw,Pass,556
+188120,83,SavedShot,0.9440000152587891,0.4370000076293945,0.14524400234222412,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7344,Manchester United,Stoke,3,0,2018-01-15 20:00:00,Antonio Valencia,Pass,556
+188123,89,SavedShot,0.905,0.6759999847412109,0.06008780002593994,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7344,Manchester United,Stoke,3,0,2018-01-15 20:00:00,Nemanja Matic,TakeOn,556
+199604,46,BlockedShot,0.919000015258789,0.67,0.06064160168170929,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7401,Crystal Palace,Manchester United,2,3,2018-03-05 20:00:00,Alexis Sánchez,TakeOn,556
+199613,68,MissedShots,0.710999984741211,0.8330000305175781,0.024438699707388878,Marcus Rashford,a,556,DirectFreekick,2017,RightFoot,7401,Crystal Palace,Manchester United,2,3,2018-03-05 20:00:00,,Standard,556
+199825,13,Goal,0.899000015258789,0.649000015258789,0.06856989860534668,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,Romelu Lukaku,HeadPass,556
+199827,23,Goal,0.88,0.655,0.10157199949026108,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7414,Manchester United,Liverpool,2,1,2018-03-10 12:30:00,,TakeOn,556
+209742,25,BlockedShot,0.749000015258789,0.4759999847412109,0.019206300377845764,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7463,Bournemouth,Manchester United,0,2,2018-04-18 18:45:00,,None,556
+209743,26,SavedShot,0.9009999847412109,0.28200000762939453,0.04637899994850159,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7463,Bournemouth,Manchester United,0,2,2018-04-18 18:45:00,,BallRecovery,556
+209755,64,BlockedShot,0.8469999694824218,0.45099998474121095,0.09696350246667862,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7463,Bournemouth,Manchester United,0,2,2018-04-18 18:45:00,Anthony Martial,Pass,556
+209758,68,SavedShot,0.749000015258789,0.33099998474121095,0.02125380001962185,Marcus Rashford,a,556,OpenPlay,2017,LeftFoot,7463,Bournemouth,Manchester United,0,2,2018-04-18 18:45:00,Matteo Darmian,Pass,556
+212479,53,MissedShots,0.9459999847412109,0.5690000152587891,0.1018500030040741,Marcus Rashford,h,556,FromCorner,2017,Head,7473,Manchester United,Arsenal,2,1,2018-04-29 15:30:00,Ashley Young,Cross,556
+212845,2,BlockedShot,0.7809999847412109,0.7269999694824218,0.05057939887046814,Marcus Rashford,a,556,DirectFreekick,2017,RightFoot,7484,Brighton,Manchester United,1,0,2018-05-04 20:00:00,,Standard,556
+212853,23,BlockedShot,0.7630000305175781,0.5509999847412109,0.023996800184249878,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7484,Brighton,Manchester United,1,0,2018-05-04 20:00:00,,None,556
+212863,70,SavedShot,0.7830000305175782,0.38599998474121094,0.03778349980711937,Marcus Rashford,a,556,OpenPlay,2017,RightFoot,7484,Brighton,Manchester United,1,0,2018-05-04 20:00:00,Juan Mata,LayOff,556
+215757,11,MissedShots,0.7469999694824219,0.6759999847412109,0.012690199539065361,Marcus Rashford,h,556,FromCorner,2017,RightFoot,7496,Manchester United,Watford,1,0,2018-05-13 15:00:00,Juan Mata,TakeOn,556
+215760,33,Goal,0.8569999694824219,0.48700000762939455,0.34458300471305847,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7496,Manchester United,Watford,1,0,2018-05-13 15:00:00,Juan Mata,Pass,556
+215765,71,MissedShots,0.7319999694824219,0.615,0.021330999210476875,Marcus Rashford,h,556,OpenPlay,2017,RightFoot,7496,Manchester United,Watford,1,0,2018-05-13 15:00:00,Daley Blind,Pass,556
+234442,70,Goal,0.9380000305175781,0.575,0.08810870349407196,Marcus Rashford,a,556,FromCorner,2018,RightFoot,9257,West Ham,Manchester United,3,1,2018-09-29 11:30:00,Luke Shaw,Cross,556
+234445,87,BlockedShot,0.7280000305175781,0.5509999847412109,0.04932640120387077,Marcus Rashford,a,556,DirectFreekick,2018,RightFoot,9257,West Ham,Manchester United,3,1,2018-09-29 11:30:00,,Standard,556
+249113,21,MissedShots,0.919000015258789,0.5209999847412109,0.31410500407218933,Marcus Rashford,h,556,OpenPlay,2018,Head,9273,Manchester United,Newcastle United,3,2,2018-10-06 16:30:00,Romelu Lukaku,Cross,556
+249126,55,MissedShots,0.9419999694824219,0.48200000762939454,0.43429499864578247,Marcus Rashford,h,556,OpenPlay,2018,Head,9273,Manchester United,Newcastle United,3,2,2018-10-06 16:30:00,Paul Pogba,Cross,556
+249709,53,SavedShot,0.905,0.3120000076293945,0.42799100279808044,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9287,Manchester United,Everton,2,1,2018-10-28 15:00:00,Juan Mata,Throughball,556
+249763,63,BlockedShot,0.9319999694824219,0.5029999923706054,0.5917059779167175,Marcus Rashford,a,556,SetPiece,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,,Rebound,556
+249773,91,Goal,0.9540000152587891,0.5070000076293946,0.5724800229072571,Marcus Rashford,a,556,OpenPlay,2018,LeftFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,,BallTouch,556
+250308,88,BlockedShot,0.895,0.54,0.09814029932022095,Marcus Rashford,h,556,OpenPlay,2018,LeftFoot,9319,Manchester United,Crystal Palace,0,0,2018-11-24 15:00:00,Alexis Sánchez,Chipped,556
+250658,27,MissedShots,0.7730000305175782,0.500999984741211,0.030217500403523445,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Romelu Lukaku,BallTouch,556
+250955,4,SavedShot,0.779000015258789,0.7130000305175781,0.016770999878644943,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9344,Manchester United,Arsenal,2,2,2018-12-05 20:00:00,Matteo Darmian,Pass,556
+250973,84,SavedShot,0.6940000152587891,0.47200000762939454,0.012174299918115139,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9344,Manchester United,Arsenal,2,2,2018-12-05 20:00:00,Ander Herrera,BallRecovery,556
+251054,37,SavedShot,0.6969999694824218,0.47,0.03675189986824989,Marcus Rashford,h,556,DirectFreekick,2018,RightFoot,9349,Manchester United,Fulham,4,1,2018-12-08 15:00:00,,Standard,556
+251055,40,BlockedShot,0.84,0.8280000305175781,0.01567240059375763,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9349,Manchester United,Fulham,4,1,2018-12-08 15:00:00,Romelu Lukaku,Pass,556
+251058,47,SavedShot,0.84,0.6370000076293946,0.0757249966263771,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9349,Manchester United,Fulham,4,1,2018-12-08 15:00:00,Ashley Young,Pass,556
+251068,78,MissedShots,0.875999984741211,0.74,0.03355399891734123,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9349,Manchester United,Fulham,4,1,2018-12-08 15:00:00,,None,556
+251069,79,SavedShot,0.8719999694824219,0.5720000076293945,0.41228100657463074,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9349,Manchester United,Fulham,4,1,2018-12-08 15:00:00,Ander Herrera,TakeOn,556
+251071,81,Goal,0.8490000152587891,0.8230000305175781,0.029315199702978134,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9349,Manchester United,Fulham,4,1,2018-12-08 15:00:00,Ashley Young,Pass,556
+251442,6,SavedShot,0.7140000152587891,0.555,0.01886639930307865,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,Nemanja Matic,Pass,556
+251669,2,Goal,0.710999984741211,0.5609999847412109,0.04101809859275818,Marcus Rashford,a,556,DirectFreekick,2018,RightFoot,9374,Cardiff,Manchester United,1,5,2018-12-22 17:30:00,,Standard,556
+251671,20,BlockedShot,0.899000015258789,0.5459999847412109,0.13893499970436096,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9374,Cardiff,Manchester United,1,5,2018-12-22 17:30:00,Anthony Martial,Pass,556
+251679,50,SavedShot,0.909000015258789,0.6780000305175782,0.08293090015649796,Marcus Rashford,a,556,OpenPlay,2018,LeftFoot,9374,Cardiff,Manchester United,1,5,2018-12-22 17:30:00,Anthony Martial,Pass,556
+251684,62,MissedShots,0.889000015258789,0.355,0.4111019968986511,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9374,Cardiff,Manchester United,1,5,2018-12-22 17:30:00,Victor Lindelöf,Throughball,556
+251781,42,MissedShots,0.8690000152587891,0.2620000076293945,0.04210209846496582,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Juan Mata,Pass,556
+251782,44,SavedShot,0.8640000152587891,0.775,0.032245200127363205,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Paul Pogba,Pass,556
+251787,53,SavedShot,0.7859999847412109,0.8569999694824219,0.030573900789022446,Marcus Rashford,h,556,DirectFreekick,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,,Standard,556
+251788,58,BlockedShot,0.92,0.6580000305175782,0.10017000138759613,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Nemanja Matic,Pass,556
+263802,14,BlockedShot,0.8380000305175781,0.32,0.02870059944689274,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9390,Manchester United,Bournemouth,4,1,2018-12-30 16:30:00,Paul Pogba,HeadPass,556
+263808,44,Goal,0.9530000305175781,0.534000015258789,0.6101449728012085,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9390,Manchester United,Bournemouth,4,1,2018-12-30 16:30:00,Anthony Martial,Cross,556
+263812,65,SavedShot,0.9030000305175782,0.5940000152587891,0.4880490005016327,Marcus Rashford,h,556,OpenPlay,2018,LeftFoot,9390,Manchester United,Bournemouth,4,1,2018-12-30 16:30:00,Paul Pogba,Throughball,556
+274321,8,SavedShot,0.7430000305175781,0.7959999847412109,0.03026360087096691,Marcus Rashford,a,556,DirectFreekick,2018,RightFoot,9399,Newcastle United,Manchester United,0,2,2019-01-02 20:00:00,,Standard,556
+274326,23,SavedShot,0.8619999694824219,0.4209999847412109,0.28625500202178955,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9399,Newcastle United,Manchester United,0,2,2019-01-02 20:00:00,Victor Lindelöf,Chipped,556
+274329,30,BlockedShot,0.88,0.5670000076293945,0.12738199532032013,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9399,Newcastle United,Manchester United,0,2,2019-01-02 20:00:00,Anthony Martial,Throughball,556
+274333,50,MissedShots,0.9269999694824219,0.3220000076293945,0.06150609999895096,Marcus Rashford,a,556,OpenPlay,2018,LeftFoot,9399,Newcastle United,Manchester United,0,2,2019-01-02 20:00:00,Victor Lindelöf,Pass,556
+274337,63,SavedShot,0.7119999694824218,0.649000015258789,0.036031801253557205,Marcus Rashford,a,556,DirectFreekick,2018,RightFoot,9399,Newcastle United,Manchester United,0,2,2019-01-02 20:00:00,,Standard,556
+274340,73,BlockedShot,0.6919999694824219,0.48200000762939454,0.035305801779031754,Marcus Rashford,a,556,DirectFreekick,2018,RightFoot,9399,Newcastle United,Manchester United,0,2,2019-01-02 20:00:00,,Standard,556
+274342,79,Goal,0.899000015258789,0.5940000152587891,0.4931209981441498,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9399,Newcastle United,Manchester United,0,2,2019-01-02 20:00:00,Alexis Sánchez,Pass,556
+274562,11,SavedShot,0.9180000305175782,0.6519999694824219,0.11197099834680557,Marcus Rashford,a,556,OpenPlay,2018,LeftFoot,9408,Tottenham,Manchester United,0,1,2019-01-13 16:30:00,Anthony Martial,Pass,556
+274570,43,Goal,0.885,0.3240000152587891,0.11051800101995468,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9408,Tottenham,Manchester United,0,1,2019-01-13 16:30:00,Paul Pogba,Chipped,556
+274577,56,MissedShots,0.7119999694824218,0.5,0.013591400347650051,Marcus Rashford,a,556,FromCorner,2018,RightFoot,9408,Tottenham,Manchester United,0,1,2019-01-13 16:30:00,,None,556
+274699,4,BlockedShot,0.750999984741211,0.6229999923706054,0.02555220015347004,Marcus Rashford,h,556,FromCorner,2018,RightFoot,9421,Manchester United,Brighton,2,1,2019-01-19 15:00:00,Ander Herrera,Pass,556
+274705,19,BlockedShot,0.8830000305175781,0.46799999237060547,0.09040600061416626,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9421,Manchester United,Brighton,2,1,2019-01-19 15:00:00,,None,556
+274708,21,MissedShots,0.919000015258789,0.6869999694824219,0.043150100857019424,Marcus Rashford,h,556,FromCorner,2018,RightFoot,9421,Manchester United,Brighton,2,1,2019-01-19 15:00:00,Ashley Young,Pass,556
+274713,41,Goal,0.9519999694824218,0.6680000305175782,0.09591829776763916,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9421,Manchester United,Brighton,2,1,2019-01-19 15:00:00,Diogo Dalot,TakeOn,556
+274714,49,MissedShots,0.835,0.82,0.04567259922623634,Marcus Rashford,h,556,DirectFreekick,2018,RightFoot,9421,Manchester United,Brighton,2,1,2019-01-19 15:00:00,,Standard,556
+274722,76,SavedShot,0.7480000305175781,0.81,0.013101699762046337,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9421,Manchester United,Brighton,2,1,2019-01-19 15:00:00,,Dispossessed,556
+274977,4,BlockedShot,0.884000015258789,0.39799999237060546,0.04565399885177612,Marcus Rashford,h,556,FromCorner,2018,RightFoot,9432,Manchester United,Burnley,2,2,2019-01-29 20:00:00,Luke Shaw,Cross,556
+274979,8,MissedShots,0.9030000305175782,0.544000015258789,0.5565720200538635,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9432,Manchester United,Burnley,2,2,2019-01-29 20:00:00,Romelu Lukaku,Pass,556
+274991,52,SavedShot,0.7809999847412109,0.46900001525878904,0.03381609916687012,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9432,Manchester United,Burnley,2,2,2019-01-29 20:00:00,Juan Mata,Pass,556
+274992,53,MissedShots,0.8159999847412109,0.6790000152587891,0.03308140113949776,Marcus Rashford,h,556,OpenPlay,2018,LeftFoot,9432,Manchester United,Burnley,2,2,2019-01-29 20:00:00,Paul Pogba,Pass,556
+275004,83,SavedShot,0.935,0.595999984741211,0.039965398609638214,Marcus Rashford,h,556,OpenPlay,2018,Head,9432,Manchester United,Burnley,2,2,2019-01-29 20:00:00,Paul Pogba,Chipped,556
+275297,3,MissedShots,0.9630000305175781,0.47,0.5858910083770752,Marcus Rashford,a,556,OpenPlay,2018,Head,9440,Leicester,Manchester United,0,1,2019-02-03 14:05:00,Luke Shaw,Cross,556
+275298,6,SavedShot,0.9640000152587891,0.7169999694824218,0.040004100650548935,Marcus Rashford,a,556,FromCorner,2018,LeftFoot,9440,Leicester,Manchester United,0,1,2019-02-03 14:05:00,Ander Herrera,Pass,556
+275299,8,Goal,0.8880000305175781,0.435,0.3717840015888214,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9440,Leicester,Manchester United,0,1,2019-02-03 14:05:00,Paul Pogba,Throughball,556
+275308,45,SavedShot,0.785,0.5109999847412109,0.05196920037269592,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9440,Leicester,Manchester United,0,1,2019-02-03 14:05:00,Ander Herrera,Pass,556
+275312,58,MissedShots,0.8640000152587891,0.72,0.03739050030708313,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9440,Leicester,Manchester United,0,1,2019-02-03 14:05:00,Luke Shaw,Pass,556
+275828,6,SavedShot,0.805,0.2670000076293945,0.020932400599122047,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9459,Manchester United,Liverpool,0,0,2019-02-24 14:05:00,Ashley Young,Chipped,556
+275836,56,MissedShots,0.909000015258789,0.6759999847412109,0.04980349913239479,Marcus Rashford,h,556,OpenPlay,2018,LeftFoot,9459,Manchester United,Liverpool,0,0,2019-02-24 14:05:00,Paul Pogba,HeadPass,556
+276164,32,MissedShots,0.909000015258789,0.53,0.11855000257492065,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9481,Manchester United,Southampton,3,2,2019-03-02 15:00:00,Luke Shaw,Pass,556
+276168,43,MissedShots,0.895,0.53,0.06611750274896622,Marcus Rashford,h,556,OpenPlay,2018,Head,9481,Manchester United,Southampton,3,2,2019-03-02 15:00:00,Romelu Lukaku,Cross,556
+276170,52,MissedShots,0.9430000305175781,0.585,0.22845199704170227,Marcus Rashford,h,556,OpenPlay,2018,Head,9481,Manchester United,Southampton,3,2,2019-03-02 15:00:00,Diogo Dalot,Cross,556
+276178,68,BlockedShot,0.7530000305175781,0.3029999923706055,0.01776370033621788,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9481,Manchester United,Southampton,3,2,2019-03-02 15:00:00,,None,556
+285243,22,MissedShots,0.9119999694824219,0.6930000305175781,0.05367869883775711,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Luke Shaw,HeadPass,556
+285250,48,MissedShots,0.7280000305175781,0.5570000076293945,0.017622899264097214,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Luke Shaw,Pass,556
+285253,58,MissedShots,0.7430000305175781,0.5929999923706055,0.054500699043273926,Marcus Rashford,a,556,DirectFreekick,2018,RightFoot,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,,Standard,556
+285259,91,SavedShot,0.919000015258789,0.544000015258789,0.2950330078601837,Marcus Rashford,a,556,OpenPlay,2018,Head,9496,Arsenal,Manchester United,2,0,2019-03-10 16:30:00,Ashley Young,Cross,556
+287508,27,Goal,0.815,0.43900001525878907,0.43649598956108093,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9509,Manchester United,Watford,2,1,2019-03-30 15:00:00,Luke Shaw,Throughball,556
+287509,29,BlockedShot,0.7480000305175781,0.5729999923706055,0.02273480035364628,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9509,Manchester United,Watford,2,1,2019-03-30 15:00:00,Juan Mata,Pass,556
+293737,57,SavedShot,0.9169999694824219,0.325,0.06592059880495071,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Chris Smalling,Pass,556
+293738,62,MissedShots,0.9669999694824218,0.5259999847412109,0.503570020198822,Marcus Rashford,h,556,FromCorner,2018,Head,9530,Manchester United,West Ham,2,1,2019-04-13 17:30:00,Phil Jones,HeadPass,556
+295824,18,MissedShots,0.905,0.649000015258789,0.05751499906182289,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,Paul Pogba,Chipped,556
+295826,23,MissedShots,0.7080000305175781,0.37099998474121093,0.03621460124850273,Marcus Rashford,a,556,DirectFreekick,2018,RightFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,,Standard,556
+295834,71,MissedShots,0.78,0.3160000038146973,0.014932399615645409,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9542,Everton,Manchester United,4,0,2019-04-21 13:30:00,,BallRecovery,556
+296810,22,MissedShots,0.6819999694824219,0.48200000762939454,0.01659560017287731,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9501,Manchester United,Manchester City,0,2,2019-04-24 20:00:00,Andreas Pereira,Pass,556
+298216,49,SavedShot,0.715999984741211,0.41900001525878905,0.042068399488925934,Marcus Rashford,h,556,DirectFreekick,2018,RightFoot,9550,Manchester United,Chelsea,1,1,2019-04-28 16:30:00,,Standard,556
+299799,5,SavedShot,0.6969999694824218,0.43900001525878907,0.036032699048519135,Marcus Rashford,a,556,DirectFreekick,2018,RightFoot,9561,Huddersfield,Manchester United,1,1,2019-05-05 13:00:00,,Standard,556
+299801,10,BlockedShot,0.9569999694824218,0.565,0.15227200090885162,Marcus Rashford,a,556,OpenPlay,2018,LeftFoot,9561,Huddersfield,Manchester United,1,1,2019-05-05 13:00:00,Alexis Sánchez,Pass,556
+299819,72,MissedShots,0.8830000305175781,0.5429999923706055,0.121567003428936,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9561,Huddersfield,Manchester United,1,1,2019-05-05 13:00:00,Juan Mata,Pass,556
+299820,81,SavedShot,0.774000015258789,0.8080000305175781,0.01513690035790205,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9561,Huddersfield,Manchester United,1,1,2019-05-05 13:00:00,Luke Shaw,Pass,556
+299828,97,SavedShot,0.7980000305175782,0.7419999694824219,0.019891800358891487,Marcus Rashford,a,556,OpenPlay,2018,RightFoot,9561,Huddersfield,Manchester United,1,1,2019-05-05 13:00:00,Juan Mata,Pass,556
+301379,14,SavedShot,0.7909999847412109,0.6930000305175781,0.02264389954507351,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9570,Manchester United,Cardiff,0,2,2019-05-12 14:00:00,Andreas Pereira,Pass,556
+301380,16,MissedShots,0.9009999847412109,0.7030000305175781,0.044292401522397995,Marcus Rashford,h,556,OpenPlay,2018,LeftFoot,9570,Manchester United,Cardiff,0,2,2019-05-12 14:00:00,Paul Pogba,Pass,556
+301396,55,SavedShot,0.9269999694824219,0.46299999237060546,0.3291339874267578,Marcus Rashford,h,556,FromCorner,2018,Head,9570,Manchester United,Cardiff,0,2,2019-05-12 14:00:00,Ashley Young,Cross,556
+301400,64,BlockedShot,0.7859999847412109,0.5420000076293945,0.03320090100169182,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9570,Manchester United,Cardiff,0,2,2019-05-12 14:00:00,Mason Greenwood,Pass,556
+301404,79,MissedShots,0.86,0.6880000305175781,0.042454201728105545,Marcus Rashford,h,556,OpenPlay,2018,RightFoot,9570,Manchester United,Cardiff,0,2,2019-05-12 14:00:00,Ashley Young,TakeOn,556
+310297,17,Goal,0.885,0.5,0.7611690163612366,Marcus Rashford,h,556,Penalty,2019,RightFoot,11652,Manchester United,Chelsea,4,0,2019-08-11 16:30:00,,Standard,556
+310309,53,BlockedShot,0.815,0.519000015258789,0.05784349888563156,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11652,Manchester United,Chelsea,4,0,2019-08-11 16:30:00,Harry Maguire,Pass,556
+310312,66,Goal,0.8219999694824218,0.4759999847412109,0.3715749979019165,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11652,Manchester United,Chelsea,4,0,2019-08-11 16:30:00,Paul Pogba,Throughball,556
+310315,79,BlockedShot,0.84,0.6020000076293945,0.11251000314950943,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11652,Manchester United,Chelsea,4,0,2019-08-11 16:30:00,Paul Pogba,Pass,556
+311302,62,MissedShots,0.700999984741211,0.8109999847412109,0.02453329972922802,Marcus Rashford,a,556,DirectFreekick,2019,RightFoot,11662,Wolverhampton Wanderers,Manchester United,1,1,2019-08-19 20:00:00,,Standard,556
+311307,76,BlockedShot,0.8159999847412109,0.534000015258789,0.07932370156049728,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11662,Wolverhampton Wanderers,Manchester United,1,1,2019-08-19 20:00:00,,TakeOn,556
+312579,14,MissedShots,0.720999984741211,0.56,0.04539550095796585,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,,Standard,556
+312583,25,MissedShots,0.7930000305175782,0.6029999923706054,0.09518429636955261,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,,Standard,556
+312594,57,SavedShot,0.7280000305175781,0.66,0.00996480043977499,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,Paul Pogba,Chipped,556
+312595,69,ShotOnPost,0.885,0.5,0.7611690163612366,Marcus Rashford,h,556,Penalty,2019,RightFoot,11669,Manchester United,Crystal Palace,1,2,2019-08-24 15:00:00,,Standard,556
+315558,3,BlockedShot,0.9519999694824218,0.5670000076293945,0.10870499908924103,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,,None,556
+315567,27,MissedShots,0.93,0.5429999923706055,0.3419420123100281,Marcus Rashford,a,556,FromCorner,2019,Head,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Daniel James,Cross,556
+315572,49,SavedShot,0.9669999694824218,0.4179999923706055,0.27699199318885803,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Victor Lindelöf,TakeOn,556
+315577,64,BlockedShot,0.905,0.67,0.11490499973297119,Marcus Rashford,a,556,OpenPlay,2019,LeftFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Paul Pogba,Throughball,556
+315582,82,SavedShot,0.8969999694824219,0.6459999847412109,0.08360899984836578,Marcus Rashford,a,556,OpenPlay,2019,LeftFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Paul Pogba,Pass,556
+315587,87,MissedShots,0.91,0.49,0.05845950171351433,Marcus Rashford,a,556,OpenPlay,2019,Head,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Daniel James,Chipped,556
+317282,7,Goal,0.885,0.5,0.7611690163612366,Marcus Rashford,h,556,Penalty,2019,RightFoot,11684,Manchester United,Leicester,1,0,2019-09-14 14:00:00,,Standard,556
+317294,82,ShotOnPost,0.7480000305175781,0.3729999923706055,0.053136199712753296,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11684,Manchester United,Leicester,1,0,2019-09-14 14:00:00,,Standard,556
+323712,42,BlockedShot,0.884000015258789,0.639000015258789,0.14846700429916382,Marcus Rashford,h,556,OpenPlay,2019,LeftFoot,11712,Manchester United,Arsenal,1,1,2019-09-30 19:00:00,Paul Pogba,Throughball,556
+323726,69,MissedShots,0.8230000305175781,0.3340000152587891,0.03717710077762604,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11712,Manchester United,Arsenal,1,1,2019-09-30 19:00:00,Paul Pogba,Chipped,556
+323731,90,SavedShot,0.7969999694824219,0.6359999847412109,0.08772479742765427,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11712,Manchester United,Arsenal,1,1,2019-09-30 19:00:00,,Standard,556
+326448,35,Goal,0.9230000305175782,0.5029999923706054,0.5694850087165833,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11729,Manchester United,Liverpool,1,1,2019-10-20 16:30:00,Daniel James,Cross,556
+326451,66,MissedShots,0.7719999694824219,0.5870000076293945,0.027871200814843178,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11729,Manchester United,Liverpool,1,1,2019-10-20 16:30:00,Andreas Pereira,TakeOn,556
+328035,18,SavedShot,0.905,0.36700000762939455,0.12376800179481506,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11739,Norwich,Manchester United,1,3,2019-10-27 16:30:00,Anthony Martial,Pass,556
+328038,28,SavedShot,0.885,0.5,0.7611690163612366,Marcus Rashford,a,556,Penalty,2019,RightFoot,11739,Norwich,Manchester United,1,3,2019-10-27 16:30:00,,Standard,556
+328039,29,Goal,0.865999984741211,0.54,0.3792650103569031,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11739,Norwich,Manchester United,1,3,2019-10-27 16:30:00,Daniel James,Chipped,556
+328040,32,SavedShot,0.9730000305175781,0.6680000305175782,0.09097220003604889,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11739,Norwich,Manchester United,1,3,2019-10-27 16:30:00,Harry Maguire,TakeOn,556
+328055,65,MissedShots,0.895,0.53,0.06886450201272964,Marcus Rashford,a,556,OpenPlay,2019,Head,11739,Norwich,Manchester United,1,3,2019-10-27 16:30:00,Daniel James,Cross,556
+328062,92,MissedShots,0.7330000305175781,0.5659999847412109,0.05115170031785965,Marcus Rashford,a,556,DirectFreekick,2019,RightFoot,11739,Norwich,Manchester United,1,3,2019-10-27 16:30:00,,Standard,556
+328900,22,BlockedShot,0.8930000305175781,0.68,0.08934629708528519,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11745,Bournemouth,Manchester United,1,0,2019-11-02 12:30:00,Fred,Pass,556
+331310,14,SavedShot,0.840999984741211,0.629000015258789,0.05979910120368004,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,Andreas Pereira,Pass,556
+331323,60,MissedShots,0.7369999694824219,0.6170000076293946,0.08462409675121307,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,Daniel James,Chipped,556
+331327,65,Goal,0.889000015258789,0.5509999847412109,0.3953019976615906,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,Anthony Martial,Pass,556
+331328,67,MissedShots,0.9290000152587891,0.5420000076293945,0.6199489831924438,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,Daniel James,Pass,556
+331331,74,BlockedShot,0.8109999847412109,0.524000015258789,0.151651993393898,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,,Standard,556
+331333,75,SavedShot,0.975999984741211,0.6079999923706054,0.11858700215816498,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,,TakeOn,556
+331336,89,MissedShots,0.93,0.669000015258789,0.28206899762153625,Marcus Rashford,h,556,OpenPlay,2019,LeftFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,Anthony Martial,Pass,556
+333038,47,MissedShots,0.7469999694824219,0.63,0.012817899696528912,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11770,Sheffield United,Manchester United,3,3,2019-11-24 16:30:00,Brandon Williams,TakeOn,556
+333046,78,Goal,0.899000015258789,0.57,0.40659698843955994,Marcus Rashford,a,556,OpenPlay,2019,LeftFoot,11770,Sheffield United,Manchester United,3,3,2019-11-24 16:30:00,Daniel James,Pass,556
+333052,94,BlockedShot,0.84,0.48200000762939454,0.09699580073356628,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11770,Sheffield United,Manchester United,3,3,2019-11-24 16:30:00,Jesse Lingard,TakeOn,556
+334494,30,MissedShots,0.9069999694824219,0.5720000076293945,0.0805359035730362,Marcus Rashford,h,556,OpenPlay,2019,LeftFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,,None,556
+334496,41,ShotOnPost,0.955999984741211,0.524000015258789,0.4518420100212097,Marcus Rashford,h,556,FromCorner,2019,Head,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Andreas Pereira,Cross,556
+335108,5,Goal,0.87,0.7290000152587891,0.037406500428915024,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11788,Manchester United,Tottenham,2,1,2019-12-04 19:30:00,,Dispossessed,556
+335110,17,MissedShots,0.7530000305175781,0.395,0.05916519835591316,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11788,Manchester United,Tottenham,2,1,2019-12-04 19:30:00,,Standard,556
+335114,24,SavedShot,0.7530000305175781,0.6630000305175782,0.021994300186634064,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11788,Manchester United,Tottenham,2,1,2019-12-04 19:30:00,Jesse Lingard,Pass,556
+335115,26,SavedShot,0.845,0.6759999847412109,0.08565740287303925,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11788,Manchester United,Tottenham,2,1,2019-12-04 19:30:00,Jesse Lingard,LayOff,556
+335119,48,Goal,0.885,0.5,0.761132001876831,Marcus Rashford,h,556,Penalty,2019,RightFoot,11788,Manchester United,Tottenham,2,1,2019-12-04 19:30:00,,Standard,556
+335126,92,BlockedShot,0.9059999847412109,0.40900001525878904,0.14004799723625183,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11788,Manchester United,Tottenham,2,1,2019-12-04 19:30:00,Luke Shaw,Chipped,556
+335822,22,Goal,0.885,0.5,0.7611690163612366,Marcus Rashford,a,556,Penalty,2019,RightFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,,Standard,556
+335825,24,MissedShots,0.8580000305175781,0.565,0.13056699931621552,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,Fred,Pass,556
+335826,26,ShotOnPost,0.8230000305175781,0.5529999923706055,0.07319469749927521,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,Anthony Martial,Pass,556
+337456,9,MissedShots,0.8859999847412109,0.6519999694824219,0.06496120244264603,Marcus Rashford,h,556,OpenPlay,2019,LeftFoot,11809,Manchester United,Everton,1,1,2019-12-15 14:00:00,Victor Lindelöf,Pass,556
+337458,18,BlockedShot,0.7680000305175781,0.6659999847412109,0.018099000677466393,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11809,Manchester United,Everton,1,1,2019-12-15 14:00:00,Daniel James,Pass,556
+337459,25,SavedShot,0.7609999847412109,0.6519999694824219,0.05632850155234337,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11809,Manchester United,Everton,1,1,2019-12-15 14:00:00,,Standard,556
+337468,50,MissedShots,0.7530000305175781,0.654000015258789,0.018974600359797478,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11809,Manchester United,Everton,1,1,2019-12-15 14:00:00,Anthony Martial,Pass,556
+337479,78,SavedShot,0.860999984741211,0.8540000152587891,0.042786501348018646,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11809,Manchester United,Everton,1,1,2019-12-15 14:00:00,,Standard,556
+337484,90,SavedShot,0.870999984741211,0.8240000152587891,0.017780600115656853,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11809,Manchester United,Everton,1,1,2019-12-15 14:00:00,Juan Mata,Pass,556
+339204,71,SavedShot,0.925,0.8719999694824219,0.046592000871896744,Marcus Rashford,a,556,DirectFreekick,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,,Standard,556
+339212,89,SavedShot,0.9030000305175782,0.534000015258789,0.34271299839019775,Marcus Rashford,a,556,OpenPlay,2019,LeftFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Anthony Martial,TakeOn,556
+339644,11,BlockedShot,0.755,0.740999984741211,0.039028599858284,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,,Standard,556
+339649,20,BlockedShot,0.7930000305175782,0.655,0.019391100853681564,Marcus Rashford,h,556,FromCorner,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,,None,556
+339654,27,MissedShots,0.8190000152587891,0.710999984741211,0.05016719922423363,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Anthony Martial,Pass,556
+339659,40,Goal,0.9330000305175781,0.55,0.38651299476623535,Marcus Rashford,h,556,OpenPlay,2019,Head,11829,Manchester United,Newcastle United,4,1,2019-12-26 17:30:00,Aaron Wan-Bissaka,Cross,556
+339884,12,SavedShot,0.6730000305175782,0.5029999923706054,0.03046879917383194,Marcus Rashford,a,556,DirectFreekick,2019,RightFoot,11835,Burnley,Manchester United,0,2,2019-12-28 19:45:00,,Standard,556
+339886,18,ShotOnPost,0.8119999694824219,0.4129999923706055,0.04165869951248169,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11835,Burnley,Manchester United,0,2,2019-12-28 19:45:00,Andreas Pereira,Pass,556
+339888,28,BlockedShot,0.7290000152587891,0.590999984741211,0.047210000455379486,Marcus Rashford,a,556,DirectFreekick,2019,RightFoot,11835,Burnley,Manchester United,0,2,2019-12-28 19:45:00,,Standard,556
+339897,59,BlockedShot,0.7619999694824219,0.7869999694824219,0.012492699548602104,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11835,Burnley,Manchester United,0,2,2019-12-28 19:45:00,Harry Maguire,TakeOn,556
+339905,94,Goal,0.9619999694824218,0.534000015258789,0.8093510270118713,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11835,Burnley,Manchester United,0,2,2019-12-28 19:45:00,Daniel James,Pass,556
+351591,0,SavedShot,0.7080000305175781,0.5879999923706055,0.015638399869203568,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Jesse Lingard,Pass,556
+351603,63,MissedShots,0.8580000305175781,0.6940000152587891,0.05275360122323036,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Andreas Pereira,Pass,556
+351609,92,SavedShot,0.9169999694824219,0.5129999923706055,0.11806999891996384,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Juan Mata,Throughball,556
+351681,26,Goal,0.9730000305175781,0.5270000076293946,0.6770139932632446,Marcus Rashford,h,556,OpenPlay,2019,LeftFoot,11862,Manchester United,Norwich,4,0,2020-01-11 15:00:00,Juan Mata,Cross,556
+351684,31,SavedShot,0.87,0.75,0.057363398373126984,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11862,Manchester United,Norwich,4,0,2020-01-11 15:00:00,,TakeOn,556
+351687,51,Goal,0.885,0.5,0.7611690163612366,Marcus Rashford,h,556,Penalty,2019,RightFoot,11862,Manchester United,Norwich,4,0,2020-01-11 15:00:00,,Standard,556
+365098,21,SavedShot,0.8969999694824219,0.5970000076293945,0.37196001410484314,Marcus Rashford,a,556,OpenPlay,2019,LeftFoot,11936,Tottenham,Manchester United,1,1,2020-06-19 19:15:00,,None,556
+365107,52,MissedShots,0.8969999694824219,0.645,0.01176219992339611,Marcus Rashford,a,556,OpenPlay,2019,Head,11936,Tottenham,Manchester United,1,1,2020-06-19 19:15:00,Aaron Wan-Bissaka,Aerial,556
+366291,12,MissedShots,0.905,0.5520000076293945,0.5903360247612,Marcus Rashford,h,556,OpenPlay,2019,LeftFoot,11950,Manchester United,Sheffield United,3,0,2020-06-24 17:00:00,Anthony Martial,Pass,556
+366294,18,MissedShots,0.875,0.5359999847412109,0.10614600032567978,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11950,Manchester United,Sheffield United,3,0,2020-06-24 17:00:00,Paul Pogba,Chipped,556
+367772,38,MissedShots,0.8030000305175782,0.7240000152587891,0.03546009957790375,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,Harry Maguire,Pass,556
+368555,18,SavedShot,0.754000015258789,0.31799999237060544,0.047688599675893784,Marcus Rashford,h,556,DirectFreekick,2019,RightFoot,11967,Manchester United,Bournemouth,5,2,2020-07-04 14:00:00,,Standard,556
+368561,31,BlockedShot,0.77,0.6509999847412109,0.024047400802373886,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11967,Manchester United,Bournemouth,5,2,2020-07-04 14:00:00,Paul Pogba,Pass,556
+368562,34,Goal,0.885,0.5,0.7611690163612366,Marcus Rashford,h,556,Penalty,2019,RightFoot,11967,Manchester United,Bournemouth,5,2,2020-07-04 14:00:00,,Standard,556
+368572,79,MissedShots,0.9919999694824219,0.3920000076293945,0.08332189917564392,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11967,Manchester United,Bournemouth,5,2,2020-07-04 14:00:00,Daniel James,Cross,556
+370227,55,BlockedShot,0.795,0.6680000305175782,0.03404410183429718,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11974,Aston Villa,Manchester United,0,3,2020-07-09 19:15:00,Paul Pogba,Pass,556
+370232,81,MissedShots,0.735999984741211,0.5120000076293946,0.05523179844021797,Marcus Rashford,a,556,DirectFreekick,2019,RightFoot,11974,Aston Villa,Manchester United,0,3,2020-07-09 19:15:00,,Standard,556
+370234,91,SavedShot,0.904000015258789,0.4,0.589169979095459,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11974,Aston Villa,Manchester United,0,3,2020-07-09 19:15:00,Paul Pogba,Throughball,556
+371240,19,Goal,0.925,0.6370000076293946,0.3406279981136322,Marcus Rashford,h,556,OpenPlay,2019,LeftFoot,11987,Manchester United,Southampton,2,2,2020-07-13 19:00:00,Anthony Martial,Pass,556
+371246,55,MissedShots,0.749000015258789,0.6959999847412109,0.01727529987692833,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11987,Manchester United,Southampton,2,2,2020-07-13 19:00:00,,None,556
+371248,67,BlockedShot,0.955999984741211,0.5520000076293945,0.6201689839363098,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,11987,Manchester United,Southampton,2,2,2020-07-13 19:00:00,Anthony Martial,Pass,556
+372185,45,Goal,0.899000015258789,0.475,0.404011994600296,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11996,Crystal Palace,Manchester United,0,2,2020-07-16 19:15:00,,TakeOn,556
+372193,61,SavedShot,0.8819999694824219,0.6120000076293945,0.13762900233268738,Marcus Rashford,a,556,OpenPlay,2019,LeftFoot,11996,Crystal Palace,Manchester United,0,2,2020-07-16 19:15:00,Anthony Martial,Pass,556
+372201,92,SavedShot,0.8540000152587891,0.7559999847412109,0.04123950004577637,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,11996,Crystal Palace,Manchester United,0,2,2020-07-16 19:15:00,Anthony Martial,Pass,556
+373258,36,SavedShot,0.7190000152587891,0.7140000152587891,0.015782499685883522,Marcus Rashford,h,556,OpenPlay,2019,RightFoot,12007,Manchester United,West Ham,1,1,2020-07-22 17:00:00,Harry Maguire,Pass,556
+373837,41,MissedShots,0.875999984741211,0.5429999923706055,0.08249770104885101,Marcus Rashford,a,556,OpenPlay,2019,RightFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,Paul Pogba,Chipped,556
+373839,46,SavedShot,0.8909999847412109,0.3509999847412109,0.02368050068616867,Marcus Rashford,a,556,FromCorner,2019,RightFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,,Aerial,556
+377629,33,BlockedShot,0.82,0.649000015258789,0.03676699846982956,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14098,Manchester United,Crystal Palace,1,3,2020-09-19 16:30:00,Scott McTominay,Pass,556
+378653,54,Goal,0.9080000305175782,0.5609999847412109,0.5590370297431946,Marcus Rashford,a,556,OpenPlay,2020,LeftFoot,14106,Brighton,Manchester United,2,3,2020-09-26 11:30:00,Bruno Fernandes,Throughball,556
+378657,74,BlockedShot,0.8369999694824218,0.4879999923706055,0.07209859788417816,Marcus Rashford,a,556,SetPiece,2020,RightFoot,14106,Brighton,Manchester United,2,3,2020-09-26 11:30:00,Mason Greenwood,Pass,556
+382171,13,BlockedShot,0.8490000152587891,0.5359999847412109,0.07998160272836685,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Daniel James,Pass,556
+382173,15,MissedShots,0.8480000305175781,0.6619999694824219,0.047783900052309036,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Bruno Fernandes,TakeOn,556
+382177,28,SavedShot,0.8590000152587891,0.785,0.02314860001206398,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Daniel James,Pass,556
+382180,36,BlockedShot,0.895,0.555,0.0753794014453888,Marcus Rashford,a,556,FromCorner,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Scott McTominay,BallTouch,556
+382181,42,SavedShot,0.740999984741211,0.44299999237060544,0.019699199125170708,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Luke Shaw,Pass,556
+382196,70,BlockedShot,0.8280000305175781,0.46799999237060547,0.06418990343809128,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,,Dispossessed,556
+382202,95,Goal,0.8919999694824219,0.6359999847412109,0.3050529956817627,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14481,Newcastle United,Manchester United,1,4,2020-10-17 19:00:00,Bruno Fernandes,Chipped,556
+383526,34,SavedShot,0.8219999694824218,0.3089999961853027,0.029993299394845963,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14491,Manchester United,Chelsea,0,0,2020-10-24 16:30:00,Juan Mata,Pass,556
+383532,68,BlockedShot,0.9269999694824219,0.6759999847412109,0.05886029824614525,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14491,Manchester United,Chelsea,0,0,2020-10-24 16:30:00,Harry Maguire,Chipped,556
+383538,90,SavedShot,0.8169999694824219,0.624000015258789,0.042977601289749146,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14491,Manchester United,Chelsea,0,0,2020-10-24 16:30:00,Bruno Fernandes,Pass,556
+385294,78,BlockedShot,0.7930000305175782,0.3529999923706055,0.030072500929236412,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14500,Manchester United,Arsenal,0,1,2020-11-01 16:30:00,Paul Pogba,Pass,556
+385785,16,MissedShots,0.8190000152587891,0.6659999847412109,0.0263908002525568,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14509,Everton,Manchester United,1,3,2020-11-07 12:30:00,,Rebound,556
+385787,22,MissedShots,0.8469999694824218,0.735999984741211,0.02255379967391491,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14509,Everton,Manchester United,1,3,2020-11-07 12:30:00,Scott McTominay,Chipped,556
+385794,71,SavedShot,0.8319999694824218,0.46799999237060547,0.3178560137748718,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14509,Everton,Manchester United,1,3,2020-11-07 12:30:00,Fred,Throughball,556
+387642,48,SavedShot,0.769000015258789,0.7559999847412109,0.018964499235153198,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14520,Manchester United,West Bromwich Albion,1,0,2020-11-21 20:00:00,Nemanja Matic,Pass,556
+387648,66,SavedShot,0.9519999694824218,0.5659999847412109,0.5631499886512756,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14520,Manchester United,West Bromwich Albion,1,0,2020-11-21 20:00:00,Bruno Fernandes,Pass,556
+389423,51,SavedShot,0.8780000305175781,0.645,0.40463998913764954,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14534,Southampton,Manchester United,2,3,2020-11-29 14:00:00,Bruno Fernandes,Throughball,556
+390372,59,BlockedShot,0.970999984741211,0.6569999694824219,0.07478240132331848,Marcus Rashford,a,556,OpenPlay,2020,LeftFoot,14544,West Ham,Manchester United,1,3,2020-12-05 17:30:00,Bruno Fernandes,TakeOn,556
+390375,69,MissedShots,0.87,0.6659999847412109,0.06339479982852936,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14544,West Ham,Manchester United,1,3,2020-12-05 17:30:00,Bruno Fernandes,Chipped,556
+390377,71,ShotOnPost,0.895,0.43099998474121093,0.3793720006942749,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14544,West Ham,Manchester United,1,3,2020-12-05 17:30:00,Bruno Fernandes,Throughball,556
+390379,77,Goal,0.855999984741211,0.5690000152587891,0.5080810189247131,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14544,West Ham,Manchester United,1,3,2020-12-05 17:30:00,Juan Mata,Throughball,556
+391727,53,MissedShots,0.8580000305175781,0.675,0.043661098927259445,Marcus Rashford,h,556,OpenPlay,2020,LeftFoot,14549,Manchester United,Manchester City,0,0,2020-12-12 17:30:00,Paul Pogba,Pass,556
+393710,22,MissedShots,0.855999984741211,0.625999984741211,0.007461669854819775,Marcus Rashford,a,556,OpenPlay,2020,Head,14560,Sheffield United,Manchester United,2,3,2020-12-17 20:00:00,Bruno Fernandes,Aerial,556
+393711,25,Goal,0.825,0.45799999237060546,0.052587900310754776,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14560,Sheffield United,Manchester United,2,3,2020-12-17 20:00:00,Victor Lindelöf,Chipped,556
+393715,34,SavedShot,0.894000015258789,0.6090000152587891,0.42120400071144104,Marcus Rashford,a,556,OpenPlay,2020,LeftFoot,14560,Sheffield United,Manchester United,2,3,2020-12-17 20:00:00,Anthony Martial,Pass,556
+393722,50,Goal,0.8209999847412109,0.5359999847412109,0.08332870155572891,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14560,Sheffield United,Manchester United,2,3,2020-12-17 20:00:00,Anthony Martial,Pass,556
+393725,70,BlockedShot,0.7169999694824218,0.5,0.044992800801992416,Marcus Rashford,a,556,DirectFreekick,2020,RightFoot,14560,Sheffield United,Manchester United,2,3,2020-12-17 20:00:00,,Standard,556
+394677,9,BlockedShot,0.875999984741211,0.6029999923706054,0.1580200046300888,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14570,Manchester United,Leeds,6,2,2020-12-20 16:30:00,Scott McTominay,TakeOn,556
+394688,43,BlockedShot,0.8530000305175781,0.6029999923706054,0.09264060109853745,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14570,Manchester United,Leeds,6,2,2020-12-20 16:30:00,Luke Shaw,Pass,556
+394690,44,SavedShot,0.8190000152587891,0.5129999923706055,0.039611801505088806,Marcus Rashford,h,556,FromCorner,2020,LeftFoot,14570,Manchester United,Leeds,6,2,2020-12-20 16:30:00,,TakeOn,556
+395597,1,MissedShots,0.93,0.45599998474121095,0.37444499135017395,Marcus Rashford,a,556,OpenPlay,2020,Head,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,Bruno Fernandes,Cross,556
+395601,22,Goal,0.8859999847412109,0.54,0.39166000485420227,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,Bruno Fernandes,Pass,556
+395609,59,SavedShot,0.8780000305175781,0.41,0.3026129901409149,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14579,Leicester,Manchester United,2,2,2020-12-26 12:30:00,Fred,Pass,556
+395982,8,MissedShots,0.7709999847412109,0.7930000305175782,0.01096190046519041,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14592,Manchester United,Wolverhampton Wanderers,1,0,2020-12-29 20:00:00,Mason Greenwood,Pass,556
+395993,63,MissedShots,0.92,0.5790000152587891,0.04219900071620941,Marcus Rashford,h,556,OpenPlay,2020,Head,14592,Manchester United,Wolverhampton Wanderers,1,0,2020-12-29 20:00:00,Bruno Fernandes,Aerial,556
+396000,92,Goal,0.8630000305175781,0.38,0.06036800146102905,Marcus Rashford,h,556,OpenPlay,2020,LeftFoot,14592,Manchester United,Wolverhampton Wanderers,1,0,2020-12-29 20:00:00,Bruno Fernandes,Chipped,556
+396246,24,BlockedShot,0.8619999694824219,0.3820000076293945,0.06903479993343353,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Paul Pogba,BallRecovery,556
+396255,55,SavedShot,0.8540000152587891,0.46599998474121096,0.12745599448680878,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Paul Pogba,TakeOn,556
+396258,64,SavedShot,0.8080000305175781,0.4909999847412109,0.061496801674366,Marcus Rashford,h,556,OpenPlay,2020,LeftFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,Bruno Fernandes,Chipped,556
+396264,76,MissedShots,0.784000015258789,0.34400001525878904,0.014292100444436073,Marcus Rashford,h,556,FromCorner,2020,RightFoot,14596,Manchester United,Aston Villa,2,1,2021-01-01 20:00:00,,Aerial,556
+399476,66,BlockedShot,0.7290000152587891,0.575,0.04841430112719536,Marcus Rashford,a,556,DirectFreekick,2020,RightFoot,14620,Liverpool,Manchester United,0,0,2021-01-17 16:30:00,,Standard,556
+401340,10,MissedShots,0.8390000152587891,0.5379999923706055,0.08287160098552704,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,Aaron Wan-Bissaka,Pass,556
+401352,61,SavedShot,0.6830000305175781,0.5070000076293946,0.03282729908823967,Marcus Rashford,h,556,DirectFreekick,2020,RightFoot,14628,Manchester United,Sheffield United,1,2,2021-01-27 20:15:00,,Standard,556
+401833,31,MissedShots,0.7319999694824219,0.46099998474121096,0.019513800740242004,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14635,Arsenal,Manchester United,0,0,2021-01-30 17:30:00,Bruno Fernandes,Pass,556
+401851,79,MissedShots,0.860999984741211,0.27700000762939453,0.03364729881286621,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14635,Arsenal,Manchester United,0,0,2021-01-30 17:30:00,Aaron Wan-Bissaka,Pass,556
+402470,15,SavedShot,0.785,0.7169999694824218,0.018008900806307793,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14651,Manchester United,Southampton,9,0,2021-02-02 20:15:00,Luke Shaw,Pass,556
+402473,24,Goal,0.9080000305175782,0.5,0.4739769995212555,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14651,Manchester United,Southampton,9,0,2021-02-02 20:15:00,Mason Greenwood,Pass,556
+403466,62,SavedShot,0.9480000305175781,0.6179999923706054,0.3446269929409027,Marcus Rashford,h,556,OpenPlay,2020,LeftFoot,14660,Manchester United,Everton,3,3,2021-02-06 20:00:00,Edinson Cavani,Pass,556
+403470,77,MissedShots,0.8909999847412109,0.37599998474121094,0.10795599967241287,Marcus Rashford,h,556,OpenPlay,2020,LeftFoot,14660,Manchester United,Everton,3,3,2021-02-06 20:00:00,Bruno Fernandes,Pass,556
+404764,79,BlockedShot,0.7559999847412109,0.6509999847412109,0.018535900861024857,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14673,West Bromwich Albion,Manchester United,1,1,2021-02-14 14:00:00,Mason Greenwood,Pass,556
+406200,29,Goal,0.91,0.705,0.04901000112295151,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14681,Manchester United,Newcastle United,3,1,2021-02-21 19:00:00,Harry Maguire,TakeOn,556
+406208,63,SavedShot,0.7380000305175781,0.6759999847412109,0.021474599838256836,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14681,Manchester United,Newcastle United,3,1,2021-02-21 19:00:00,Harry Maguire,TakeOn,556
+407439,13,SavedShot,0.7330000305175781,0.5179999923706055,0.05330580100417137,Marcus Rashford,a,556,DirectFreekick,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,,Standard,556
+407453,62,SavedShot,0.87,0.7080000305175781,0.03189979866147041,Marcus Rashford,a,556,SetPiece,2020,RightFoot,14685,Chelsea,Manchester United,0,0,2021-02-28 16:30:00,,None,556
+408206,15,MissedShots,0.865,0.5609999847412109,0.10002899914979935,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14717,Crystal Palace,Manchester United,0,0,2021-03-03 20:15:00,Luke Shaw,Pass,556
+409107,15,SavedShot,0.730999984741211,0.524000015258789,0.02599089965224266,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14700,Manchester City,Manchester United,0,2,2021-03-07 16:30:00,Fred,Pass,556
+410687,24,MissedShots,0.9440000152587891,0.524000015258789,0.505994975566864,Marcus Rashford,h,556,OpenPlay,2020,Head,14711,Manchester United,West Ham,1,0,2021-03-14 19:15:00,Mason Greenwood,Cross,556
+410689,30,BlockedShot,0.7619999694824219,0.7559999847412109,0.016345100477337837,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14711,Manchester United,West Ham,1,0,2021-03-14 19:15:00,Luke Shaw,Pass,556
+410692,38,SavedShot,0.94,0.6,0.047997500747442245,Marcus Rashford,h,556,OpenPlay,2020,Head,14711,Manchester United,West Ham,1,0,2021-03-14 19:15:00,Bruno Fernandes,Chipped,556
+410696,55,BlockedShot,0.88,0.5670000076293945,0.1220960021018982,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14711,Manchester United,West Ham,1,0,2021-03-14 19:15:00,Bruno Fernandes,Pass,556
+413314,51,SavedShot,0.754000015258789,0.664000015258789,0.01540450006723404,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14731,Manchester United,Brighton,2,1,2021-04-04 18:30:00,,Dispossessed,556
+413317,61,Goal,0.8819999694824219,0.6469999694824219,0.26452600955963135,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14731,Manchester United,Brighton,2,1,2021-04-04 18:30:00,Bruno Fernandes,Pass,556
+414630,15,BlockedShot,0.8969999694824219,0.3529999923706055,0.0879288986325264,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14742,Tottenham,Manchester United,1,3,2021-04-11 15:30:00,Edinson Cavani,Pass,556
+415898,28,SavedShot,0.9290000152587891,0.74,0.038311198353767395,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14751,Manchester United,Burnley,3,1,2021-04-18 15:00:00,Luke Shaw,Pass,556
+415908,60,BlockedShot,0.86,0.5879999923706055,0.09012240171432495,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14751,Manchester United,Burnley,3,1,2021-04-18 15:00:00,Luke Shaw,TakeOn,556
+417806,6,MissedShots,0.86,0.33599998474121096,0.1126680001616478,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14758,Leeds,Manchester United,0,0,2021-04-25 13:00:00,Victor Lindelöf,Throughball,556
+417810,22,BlockedShot,0.754000015258789,0.685,0.015806199982762337,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14758,Leeds,Manchester United,0,0,2021-04-25 13:00:00,Luke Shaw,Pass,556
+417815,44,SavedShot,0.7440000152587891,0.37400001525878906,0.051141198724508286,Marcus Rashford,a,556,DirectFreekick,2020,RightFoot,14758,Leeds,Manchester United,0,0,2021-04-25 13:00:00,,Standard,556
+417818,56,BlockedShot,0.765,0.49400001525878906,0.029139600694179535,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14758,Leeds,Manchester United,0,0,2021-04-25 13:00:00,Mason Greenwood,Pass,556
+420650,4,BlockedShot,0.845,0.6959999847412109,0.0375652015209198,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14776,Aston Villa,Manchester United,1,3,2021-05-09 13:05:00,Paul Pogba,Pass,556
+420661,38,SavedShot,0.7609999847412109,0.39599998474121095,0.019999699667096138,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14776,Aston Villa,Manchester United,1,3,2021-05-09 13:05:00,Bruno Fernandes,Pass,556
+420669,62,BlockedShot,0.7230000305175781,0.63,0.02325109951198101,Marcus Rashford,a,556,OpenPlay,2020,RightFoot,14776,Aston Villa,Manchester United,1,3,2021-05-09 13:05:00,Harry Maguire,Pass,556
+421098,89,MissedShots,0.9009999847412109,0.545,0.031206099316477776,Marcus Rashford,h,556,OpenPlay,2020,Head,14788,Manchester United,Leicester,1,2,2021-05-11 17:00:00,Brandon Williams,Aerial,556
+421663,67,Goal,0.865999984741211,0.595,0.08933199942111969,Marcus Rashford,h,556,OpenPlay,2020,LeftFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Edinson Cavani,Throughball,556
+421672,75,MissedShots,0.909000015258789,0.745999984741211,0.030880099162459373,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Luke Shaw,TakeOn,556
+421676,94,MissedShots,0.879000015258789,0.659000015258789,0.26564300060272217,Marcus Rashford,h,556,OpenPlay,2020,RightFoot,14770,Manchester United,Liverpool,2,4,2021-05-13 19:15:00,Paul Pogba,Chipped,556
+436242,81,Goal,0.855,0.435,0.2509619891643524,Marcus Rashford,a,556,OpenPlay,2021,RightFoot,16450,Leicester,Manchester United,4,2,2021-10-16 14:00:00,Victor Lindelöf,Throughball,556
+438504,9,MissedShots,0.720999984741211,0.5359999847412109,0.017298299819231033,Marcus Rashford,h,556,OpenPlay,2021,RightFoot,16463,Manchester United,Liverpool,0,5,2021-10-24 15:30:00,Fred,Pass,556
+438514,34,BlockedShot,0.9159999847412109,0.4279999923706055,0.01989560015499592,Marcus Rashford,h,556,FromCorner,2021,Head,16463,Manchester United,Liverpool,0,5,2021-10-24 15:30:00,Luke Shaw,Aerial,556
+438515,35,SavedShot,0.860999984741211,0.654000015258789,0.0409649983048439,Marcus Rashford,h,556,OpenPlay,2021,RightFoot,16463,Manchester United,Liverpool,0,5,2021-10-24 15:30:00,Bruno Fernandes,Chipped,556
+439908,85,Goal,0.875999984741211,0.5929999923706055,0.4481709897518158,Marcus Rashford,a,556,OpenPlay,2021,RightFoot,16473,Tottenham,Manchester United,0,3,2021-10-30 16:30:00,Nemanja Matic,Throughball,556
+442512,31,SavedShot,0.9009999847412109,0.4209999847412109,0.2810310125350952,Marcus Rashford,a,556,OpenPlay,2021,RightFoot,16494,Watford,Manchester United,4,1,2021-11-20 15:00:00,Bruno Fernandes,Chipped,556
+445806,49,SavedShot,0.735999984741211,0.43900001525878907,0.019909799098968506,Marcus Rashford,h,556,OpenPlay,2021,RightFoot,16512,Manchester United,Arsenal,3,2,2021-12-02 20:15:00,Bruno Fernandes,Pass,556
+447865,38,MissedShots,0.9030000305175782,0.51,0.04417559877038002,Marcus Rashford,a,556,OpenPlay,2021,Head,16535,Norwich,Manchester United,0,1,2021-12-11 17:30:00,Alex Telles,Aerial,556
+447874,60,MissedShots,0.78,0.7280000305175781,0.014805899932980537,Marcus Rashford,a,556,OpenPlay,2021,RightFoot,16535,Norwich,Manchester United,0,1,2021-12-11 17:30:00,Jadon Sancho,Pass,556
+447884,94,BlockedShot,0.85,0.8040000152587891,0.05380139872431755,Marcus Rashford,a,556,DirectFreekick,2021,RightFoot,16535,Norwich,Manchester United,0,1,2021-12-11 17:30:00,,Standard,556
+450704,48,SavedShot,0.7219999694824218,0.769000015258789,0.012542599812150002,Marcus Rashford,a,556,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Harry Maguire,Pass,556
+450709,62,BlockedShot,0.8690000152587891,0.40599998474121096,0.10004699975252151,Marcus Rashford,a,556,OpenPlay,2021,RightFoot,16561,Newcastle United,Manchester United,1,1,2021-12-27 20:00:00,Bruno Fernandes,TakeOn,556
+454228,76,Goal,0.905,0.35,0.0928025022149086,Marcus Rashford,a,556,OpenPlay,2021,RightFoot,16537,Brentford,Manchester United,1,3,2022-01-19 20:00:00,Bruno Fernandes,Pass,556
+454638,66,MissedShots,0.9309999847412109,0.655,0.08978380262851715,Marcus Rashford,h,556,OpenPlay,2021,LeftFoot,16603,Manchester United,West Ham,1,0,2022-01-22 15:00:00,Cristiano Ronaldo,Pass,556
+454646,92,Goal,0.980999984741211,0.4640000152587891,0.9402199983596802,Marcus Rashford,h,556,OpenPlay,2021,RightFoot,16603,Manchester United,West Ham,1,0,2022-01-22 15:00:00,Edinson Cavani,Pass,556
+456557,7,SavedShot,0.884000015258789,0.3,0.04839469864964485,Marcus Rashford,a,556,OpenPlay,2021,RightFoot,16608,Burnley,Manchester United,1,1,2022-02-08 20:00:00,Diogo Dalot,Pass,556
+456565,39,SavedShot,0.9119999694824219,0.3189999961853027,0.061337899416685104,Marcus Rashford,a,556,OpenPlay,2021,RightFoot,16608,Burnley,Manchester United,1,1,2022-02-08 20:00:00,,Rebound,556
+456566,41,BlockedShot,0.845,0.28899999618530275,0.04252510145306587,Marcus Rashford,a,556,OpenPlay,2021,RightFoot,16608,Burnley,Manchester United,1,1,2022-02-08 20:00:00,Bruno Fernandes,Pass,556
+456824,79,MissedShots,0.84,0.3240000152587891,0.04378439858555794,Marcus Rashford,h,556,OpenPlay,2021,RightFoot,16621,Manchester United,Southampton,1,1,2022-02-12 12:30:00,Bruno Fernandes,Chipped,556
+466522,8,SavedShot,0.845,0.545,0.06120080128312111,Marcus Rashford,a,556,SetPiece,2021,RightFoot,16692,Everton,Manchester United,1,0,2022-04-09 11:30:00,,None,556
+466523,11,SavedShot,0.915,0.5179999923706055,0.11952000111341476,Marcus Rashford,a,556,OpenPlay,2021,Head,16692,Everton,Manchester United,1,0,2022-04-09 11:30:00,Bruno Fernandes,Cross,556
+466530,47,BlockedShot,0.7580000305175781,0.585,0.017201699316501617,Marcus Rashford,a,556,FromCorner,2021,RightFoot,16692,Everton,Manchester United,1,0,2022-04-09 11:30:00,,None,556
+479597,49,BlockedShot,0.8669999694824219,0.605999984741211,0.03814220055937767,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18209,Manchester United,Brighton,1,2,2022-08-07 13:00:00,Diogo Dalot,Cross,556
+479598,51,MissedShots,0.9080000305175782,0.665,0.0806540995836258,Marcus Rashford,h,556,OpenPlay,2022,LeftFoot,18209,Manchester United,Brighton,1,2,2022-08-07 13:00:00,Christian Eriksen,Pass,556
+479600,64,MissedShots,0.9590000152587891,0.595999984741211,0.2800230085849762,Marcus Rashford,h,556,OpenPlay,2022,LeftFoot,18209,Manchester United,Brighton,1,2,2022-08-07 13:00:00,Bruno Fernandes,Cross,556
+480501,23,BlockedShot,0.749000015258789,0.6359999847412109,0.016556400805711746,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18218,Brentford,Manchester United,4,0,2022-08-13 16:30:00,Jadon Sancho,Pass,556
+480505,40,BlockedShot,0.9319999694824219,0.6809999847412109,0.07432139664888382,Marcus Rashford,a,556,OpenPlay,2022,LeftFoot,18218,Brentford,Manchester United,4,0,2022-08-13 16:30:00,Luke Shaw,Pass,556
+483107,3,BlockedShot,0.8440000152587891,0.644000015258789,0.11391100287437439,Marcus Rashford,h,556,OpenPlay,2022,LeftFoot,18231,Manchester United,Liverpool,2,1,2022-08-22 19:00:00,Bruno Fernandes,Throughball,556
+483112,19,BlockedShot,0.8690000152587891,0.39799999237060546,0.15503999590873718,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18231,Manchester United,Liverpool,2,1,2022-08-22 19:00:00,Jadon Sancho,Throughball,556
+483121,52,Goal,0.830999984741211,0.6190000152587891,0.4693779945373535,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18231,Manchester United,Liverpool,2,1,2022-08-22 19:00:00,Anthony Martial,Throughball,556
+483123,55,SavedShot,0.8690000152587891,0.62,0.04432379826903343,Marcus Rashford,h,556,FromCorner,2022,RightFoot,18231,Manchester United,Liverpool,2,1,2022-08-22 19:00:00,Raphael Varane,Pass,556
+483128,75,MissedShots,0.8580000305175781,0.645,0.061139900237321854,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18231,Manchester United,Liverpool,2,1,2022-08-22 19:00:00,,None,556
+483395,43,BlockedShot,0.8430000305175781,0.575,0.06696350127458572,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18232,Southampton,Manchester United,0,1,2022-08-27 11:30:00,Anthony Elanga,Pass,556
+485510,35,BlockedShot,0.805,0.3220000076293945,0.036855701357126236,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18251,Leicester,Manchester United,0,1,2022-09-01 19:00:00,Bruno Fernandes,Pass,556
+485517,81,MissedShots,0.8780000305175781,0.575,0.11107499897480011,Marcus Rashford,a,556,OpenPlay,2022,LeftFoot,18251,Leicester,Manchester United,0,1,2022-09-01 19:00:00,Cristiano Ronaldo,Pass,556
+486694,65,Goal,0.8180000305175781,0.46599998474121096,0.3097130060195923,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18261,Manchester United,Arsenal,3,1,2022-09-04 15:30:00,Bruno Fernandes,Throughball,556
+486698,74,Goal,0.93,0.5590000152587891,0.5191699862480164,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18261,Manchester United,Arsenal,3,1,2022-09-04 15:30:00,Christian Eriksen,Pass,556
+492507,74,MissedShots,0.825,0.61,0.06728559732437134,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18297,Everton,Manchester United,1,2,2022-10-09 18:00:00,Antony,Pass,556
+493585,81,MissedShots,0.749000015258789,0.65,0.050347499549388885,Marcus Rashford,h,556,DirectFreekick,2022,RightFoot,18308,Manchester United,Newcastle United,0,0,2022-10-16 13:00:00,,Standard,556
+493589,94,MissedShots,0.9580000305175781,0.47200000762939454,0.5835790038108826,Marcus Rashford,h,556,OpenPlay,2022,Head,18308,Manchester United,Newcastle United,0,0,2022-10-16 13:00:00,Casemiro,Cross,556
+494508,20,SavedShot,0.885,0.38099998474121094,0.3287299871444702,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18321,Manchester United,Tottenham,2,0,2022-10-19 19:15:00,Fred,Throughball,556
+494510,22,BlockedShot,0.759000015258789,0.5559999847412109,0.022487299516797066,Marcus Rashford,h,556,FromCorner,2022,RightFoot,18321,Manchester United,Tottenham,2,0,2022-10-19 19:15:00,Bruno Fernandes,Pass,556
+494523,48,SavedShot,0.895,0.385,0.08405739814043045,Marcus Rashford,h,556,OpenPlay,2022,LeftFoot,18321,Manchester United,Tottenham,2,0,2022-10-19 19:15:00,Luke Shaw,Chipped,556
+494532,73,SavedShot,0.8909999847412109,0.644000015258789,0.27268698811531067,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18321,Manchester United,Tottenham,2,0,2022-10-19 19:15:00,Bruno Fernandes,Pass,556
+495169,23,BlockedShot,0.7290000152587891,0.3370000076293945,0.04031360149383545,Marcus Rashford,a,556,DirectFreekick,2022,RightFoot,18323,Chelsea,Manchester United,1,1,2022-10-22 15:30:00,,Standard,556
+495170,27,SavedShot,0.8959999847412109,0.3770000076293945,0.3021320104598999,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18323,Chelsea,Manchester United,1,1,2022-10-22 15:30:00,Bruno Fernandes,Pass,556
+495171,32,SavedShot,0.88,0.32,0.08101040124893188,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18323,Chelsea,Manchester United,1,1,2022-10-22 15:30:00,Antony,Pass,556
+497340,3,MissedShots,0.84,0.5129999923706055,0.045053500682115555,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18340,Manchester United,West Ham,1,0,2022-10-30 16:15:00,Diogo Dalot,Cross,556
+497343,14,BlockedShot,0.8690000152587891,0.5509999847412109,0.08844070136547089,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18340,Manchester United,West Ham,1,0,2022-10-30 16:15:00,,BallRecovery,556
+497344,15,SavedShot,0.8909999847412109,0.5579999923706055,0.05964589864015579,Marcus Rashford,h,556,OpenPlay,2022,Head,18340,Manchester United,West Ham,1,0,2022-10-30 16:15:00,Diogo Dalot,Cross,556
+497350,37,Goal,0.950999984741211,0.534000015258789,0.5155280232429504,Marcus Rashford,h,556,OpenPlay,2022,Head,18340,Manchester United,West Ham,1,0,2022-10-30 16:15:00,Christian Eriksen,Cross,556
+497352,50,MissedShots,0.8380000305175781,0.7630000305175781,0.02707519941031933,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18340,Manchester United,West Ham,1,0,2022-10-30 16:15:00,Diogo Dalot,Chipped,556
+500818,20,SavedShot,0.9569999694824218,0.5670000076293945,0.4294390082359314,Marcus Rashford,a,556,OpenPlay,2022,LeftFoot,18354,Fulham,Manchester United,1,2,2022-11-13 16:30:00,Bruno Fernandes,Cross,556
+500826,47,SavedShot,0.879000015258789,0.5929999923706055,0.09130319952964783,Marcus Rashford,a,556,OpenPlay,2022,LeftFoot,18354,Fulham,Manchester United,1,2,2022-11-13 16:30:00,,Rebound,556
+501099,5,BlockedShot,0.8830000305175781,0.5420000076293945,0.0848373994231224,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18370,Manchester United,Nottingham Forest,3,0,2022-12-27 20:00:00,Aaron Wan-Bissaka,Cross,556
+501102,18,Goal,0.895,0.41900001525878905,0.06632419675588608,Marcus Rashford,h,556,FromCorner,2022,RightFoot,18370,Manchester United,Nottingham Forest,3,0,2022-12-27 20:00:00,Christian Eriksen,Pass,556
+501111,66,SavedShot,0.9180000305175782,0.57,0.12127300351858139,Marcus Rashford,h,556,OpenPlay,2022,LeftFoot,18370,Manchester United,Nottingham Forest,3,0,2022-12-27 20:00:00,,None,556
+501650,75,Goal,0.925,0.5579999923706055,0.3404160141944885,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18381,Wolverhampton Wanderers,Manchester United,0,1,2022-12-31 12:30:00,Bruno Fernandes,TakeOn,556
+501651,83,SavedShot,0.950999984741211,0.40900001525878904,0.45932599902153015,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18381,Wolverhampton Wanderers,Manchester United,0,1,2022-12-31 12:30:00,Aaron Wan-Bissaka,Pass,556
+502229,46,BlockedShot,0.740999984741211,0.7290000152587891,0.036657799035310745,Marcus Rashford,h,556,DirectFreekick,2022,RightFoot,18390,Manchester United,Bournemouth,3,0,2023-01-03 20:00:00,,Standard,556
+502235,70,MissedShots,0.7959999847412109,0.265,0.03060620091855526,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18390,Manchester United,Bournemouth,3,0,2023-01-03 20:00:00,Bruno Fernandes,Pass,556
+502245,85,Goal,0.9569999694824218,0.5529999923706055,0.6385890245437622,Marcus Rashford,h,556,OpenPlay,2022,LeftFoot,18390,Manchester United,Bournemouth,3,0,2023-01-03 20:00:00,Bruno Fernandes,Pass,556
+503448,33,BlockedShot,0.9059999847412109,0.7119999694824218,0.4527739882469177,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18397,Manchester United,Manchester City,2,1,2023-01-14 12:30:00,Bruno Fernandes,TakeOn,556
+503450,36,SavedShot,0.92,0.620999984741211,0.31014299392700195,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18397,Manchester United,Manchester City,2,1,2023-01-14 12:30:00,Christian Eriksen,Pass,556
+503456,81,Goal,0.9569999694824218,0.5259999847412109,0.6950590014457703,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18397,Manchester United,Manchester City,2,1,2023-01-14 12:30:00,Alejandro Garnacho,Pass,556
+504322,7,BlockedShot,0.965999984741211,0.6370000076293946,0.07827930152416229,Marcus Rashford,a,556,OpenPlay,2022,LeftFoot,18270,Crystal Palace,Manchester United,1,1,2023-01-18 15:30:00,Bruno Fernandes,Pass,556
+504323,10,SavedShot,0.899000015258789,0.4470000076293945,0.2639769911766052,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18270,Crystal Palace,Manchester United,1,1,2023-01-18 15:30:00,Bruno Fernandes,Foul,556
+504331,38,MissedShots,0.749000015258789,0.6329999923706054,0.0528297983109951,Marcus Rashford,a,556,DirectFreekick,2022,RightFoot,18270,Crystal Palace,Manchester United,1,1,2023-01-18 15:30:00,,Standard,556
+504340,63,MissedShots,0.7330000305175781,0.5729999923706055,0.02623080089688301,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18270,Crystal Palace,Manchester United,1,1,2023-01-18 15:30:00,Lisandro Martínez,Pass,556
+505074,16,Goal,0.7619999694824219,0.6120000076293945,0.020166199654340744,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18402,Arsenal,Manchester United,3,2,2023-01-22 16:30:00,Bruno Fernandes,TakeOn,556
+505085,54,SavedShot,0.8919999694824219,0.6630000305175782,0.07468269765377045,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18402,Arsenal,Manchester United,3,2,2023-01-22 16:30:00,,TakeOn,556
+507130,12,BlockedShot,0.8909999847412109,0.74,0.036826398223638535,Marcus Rashford,h,556,FromCorner,2022,RightFoot,18417,Manchester United,Crystal Palace,2,1,2023-02-04 15:00:00,Bruno Fernandes,Pass,556
+507128,12,MissedShots,0.9459999847412109,0.605,0.10187499970197678,Marcus Rashford,h,556,FromCorner,2022,RightFoot,18417,Manchester United,Crystal Palace,2,1,2023-02-04 15:00:00,,Rebound,556
+507131,26,SavedShot,0.9369999694824219,0.36400001525878906,0.1143840029835701,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18417,Manchester United,Crystal Palace,2,1,2023-02-04 15:00:00,Bruno Fernandes,Pass,556
+507133,30,MissedShots,0.7340000152587891,0.5220000076293946,0.02386000007390976,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18417,Manchester United,Crystal Palace,2,1,2023-02-04 15:00:00,,None,556
+507138,41,MissedShots,0.840999984741211,0.7480000305175781,0.030953800305724144,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18417,Manchester United,Crystal Palace,2,1,2023-02-04 15:00:00,Fred,Pass,556
+507140,55,MissedShots,0.87,0.645,0.06915269792079926,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18417,Manchester United,Crystal Palace,2,1,2023-02-04 15:00:00,Bruno Fernandes,Chipped,556
+507141,61,Goal,0.9230000305175782,0.534000015258789,0.5415779948234558,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18417,Manchester United,Crystal Palace,2,1,2023-02-04 15:00:00,,None,556
+508043,18,BlockedShot,0.7980000305175782,0.255,0.01936729997396469,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18279,Manchester United,Leeds,2,2,2023-02-08 19:00:00,Bruno Fernandes,Pass,556
+508055,54,MissedShots,0.775,0.7319999694824219,0.009121670387685299,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18279,Manchester United,Leeds,2,2,2023-02-08 19:00:00,Wout Weghorst,Chipped,556
+508056,57,MissedShots,0.8569999694824219,0.5329999923706055,0.051758501678705215,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18279,Manchester United,Leeds,2,2,2023-02-08 19:00:00,Marcel Sabitzer,Cross,556
+508057,61,Goal,0.9130000305175782,0.49,0.061170101165771484,Marcus Rashford,h,556,OpenPlay,2022,Head,18279,Manchester United,Leeds,2,2,2023-02-08 19:00:00,Diogo Dalot,Aerial,556
+508900,79,Goal,0.91,0.4859999847412109,0.3110310137271881,Marcus Rashford,a,556,OpenPlay,2022,Head,18426,Leeds,Manchester United,0,2,2023-02-12 14:00:00,Luke Shaw,Cross,556
+510109,4,BlockedShot,0.914000015258789,0.28,0.04884139820933342,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18437,Manchester United,Leicester,3,0,2023-02-19 14:00:00,Marcel Sabitzer,BallRecovery,556
+510114,9,BlockedShot,0.904000015258789,0.45,0.09669890254735947,Marcus Rashford,h,556,OpenPlay,2022,LeftFoot,18437,Manchester United,Leicester,3,0,2023-02-19 14:00:00,Bruno Fernandes,Cross,556
+510121,24,Goal,0.8880000305175781,0.34400001525878904,0.48867499828338623,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18437,Manchester United,Leicester,3,0,2023-02-19 14:00:00,Bruno Fernandes,Throughball,556
+510131,49,SavedShot,0.8569999694824219,0.6509999847412109,0.0806042030453682,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18437,Manchester United,Leicester,3,0,2023-02-19 14:00:00,Marcel Sabitzer,TakeOn,556
+510136,55,Goal,0.8780000305175781,0.5770000076293945,0.366225004196167,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18437,Manchester United,Leicester,3,0,2023-02-19 14:00:00,Fred,Throughball,556
+512830,26,SavedShot,0.85,0.48,0.29708999395370483,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18457,Liverpool,Manchester United,7,0,2023-03-05 16:30:00,Luke Shaw,Chipped,556
+512842,72,ShotOnPost,0.9819999694824219,0.6719999694824219,0.2843709886074066,Marcus Rashford,a,556,OpenPlay,2022,LeftFoot,18457,Liverpool,Manchester United,7,0,2023-03-05 16:30:00,Bruno Fernandes,Throughball,556
+513907,15,SavedShot,0.9419999694824219,0.69,0.21972699463367462,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18468,Manchester United,Southampton,0,0,2023-03-12 14:00:00,Bruno Fernandes,Pass,556
+517544,26,Goal,0.9359999847412109,0.4370000076293945,0.4364149868488312,Marcus Rashford,h,556,FromCorner,2022,RightFoot,18448,Manchester United,Brentford,1,0,2023-04-05 19:00:00,Marcel Sabitzer,HeadPass,556
+517548,39,BlockedShot,0.8109999847412109,0.28899999618530275,0.031300198286771774,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18448,Manchester United,Brentford,1,0,2023-04-05 19:00:00,Bruno Fernandes,Pass,556
+517550,43,SavedShot,0.9730000305175781,0.674000015258789,0.08639489859342575,Marcus Rashford,h,556,OpenPlay,2022,LeftFoot,18448,Manchester United,Brentford,1,0,2023-04-05 19:00:00,Antony,TakeOn,556
+517740,2,BlockedShot,0.8,0.545,0.03246590122580528,Marcus Rashford,h,556,FromCorner,2022,RightFoot,18498,Manchester United,Everton,2,0,2023-04-08 11:30:00,Bruno Fernandes,Pass,556
+517743,7,SavedShot,0.865,0.4520000076293945,0.35615599155426025,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18498,Manchester United,Everton,2,0,2023-04-08 11:30:00,,None,556
+517744,7,MissedShots,0.9440000152587891,0.4209999847412109,0.05277720093727112,Marcus Rashford,h,556,OpenPlay,2022,Head,18498,Manchester United,Everton,2,0,2023-04-08 11:30:00,,None,556
+517752,24,BlockedShot,0.92,0.3579999923706055,0.5324540138244629,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18498,Manchester United,Everton,2,0,2023-04-08 11:30:00,Scott McTominay,Throughball,556
+517754,27,SavedShot,0.9130000305175782,0.63,0.2942419946193695,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18498,Manchester United,Everton,2,0,2023-04-08 11:30:00,Bruno Fernandes,Throughball,556
+517760,41,MissedShots,0.909000015258789,0.4470000076293945,0.2732050120830536,Marcus Rashford,h,556,OpenPlay,2022,Head,18498,Manchester United,Everton,2,0,2023-04-08 11:30:00,Jadon Sancho,Cross,556
+517772,69,MissedShots,0.750999984741211,0.705999984741211,0.017019599676132202,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18498,Manchester United,Everton,2,0,2023-04-08 11:30:00,Scott McTominay,None,556
+522362,12,MissedShots,0.7040000152587891,0.44599998474121094,0.03861198574304581,Marcus Rashford,a,556,DirectFreekick,2022,RightFoot,18525,Tottenham,Manchester United,2,2,2023-04-27 19:15:00,,Standard,556
+522372,38,SavedShot,0.9569999694824218,0.4209999847412109,0.34616976976394653,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18525,Tottenham,Manchester United,2,2,2023-04-27 19:15:00,Bruno Fernandes,Chipped,556
+522374,40,SavedShot,0.8490000152587891,0.705999984741211,0.04691410809755325,Marcus Rashford,a,556,OpenPlay,2022,LeftFoot,18525,Tottenham,Manchester United,2,2,2023-04-27 19:15:00,Christian Eriksen,Chipped,556
+522377,43,Goal,0.905,0.624000015258789,0.35125067830085754,Marcus Rashford,a,556,OpenPlay,2022,LeftFoot,18525,Tottenham,Manchester United,2,2,2023-04-27 19:15:00,Bruno Fernandes,Chipped,556
+522393,83,MissedShots,0.7480000305175781,0.6090000152587891,0.016246773302555084,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18525,Tottenham,Manchester United,2,2,2023-04-27 19:15:00,,None,556
+523112,11,SavedShot,0.93,0.655,0.32762664556503296,Marcus Rashford,h,556,OpenPlay,2022,LeftFoot,18540,Manchester United,Aston Villa,1,0,2023-04-30 13:00:00,Bruno Fernandes,Throughball,556
+523118,38,SavedShot,0.875999984741211,0.6780000305175782,0.05177128314971924,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18540,Manchester United,Aston Villa,1,0,2023-04-30 13:00:00,Casemiro,BallRecovery,556
+523128,69,BlockedShot,0.73,0.43099998474121093,0.021089212968945503,Marcus Rashford,h,556,OpenPlay,2022,LeftFoot,18540,Manchester United,Aston Villa,1,0,2023-04-30 13:00:00,Marcel Sabitzer,Pass,556
+524293,18,BlockedShot,0.9530000305175781,0.6559999847412109,0.143275186419487,Marcus Rashford,a,556,OpenPlay,2022,LeftFoot,18475,Brighton,Manchester United,1,0,2023-05-04 19:00:00,Bruno Fernandes,Throughball,556
+524296,27,SavedShot,0.955,0.6619999694824219,0.08407225459814072,Marcus Rashford,a,556,OpenPlay,2022,LeftFoot,18475,Brighton,Manchester United,1,0,2023-05-04 19:00:00,Bruno Fernandes,TakeOn,556
+524308,55,BlockedShot,0.7780000305175782,0.6719999694824219,0.02432612143456936,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18475,Brighton,Manchester United,1,0,2023-05-04 19:00:00,Bruno Fernandes,Pass,556
+524314,72,BlockedShot,0.735999984741211,0.6469999694824219,0.017314240336418152,Marcus Rashford,a,556,FromCorner,2022,RightFoot,18475,Brighton,Manchester United,1,0,2023-05-04 19:00:00,Bruno Fernandes,Pass,556
+524317,77,SavedShot,0.7040000152587891,0.5179999923706055,0.03939078375697136,Marcus Rashford,a,556,DirectFreekick,2022,RightFoot,18475,Brighton,Manchester United,1,0,2023-05-04 19:00:00,,Standard,556
+525253,1,MissedShots,0.8030000305175782,0.644000015258789,0.07294972240924835,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18550,West Ham,Manchester United,1,0,2023-05-07 18:00:00,,Dispossessed,556
+525258,16,ShotOnPost,0.8859999847412109,0.6990000152587891,0.0478864386677742,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18550,West Ham,Manchester United,1,0,2023-05-07 18:00:00,Bruno Fernandes,Pass,556
+525264,38,MissedShots,0.7140000152587891,0.24200000762939453,0.012183667160570621,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18550,West Ham,Manchester United,1,0,2023-05-07 18:00:00,Aaron Wan-Bissaka,Pass,556
+525265,41,MissedShots,0.955999984741211,0.665,0.010427391156554222,Marcus Rashford,a,556,OpenPlay,2022,Head,18550,West Ham,Manchester United,1,0,2023-05-07 18:00:00,Antony,Cross,556
+525280,76,SavedShot,0.9330000305175781,0.305,0.05641361325979233,Marcus Rashford,a,556,OpenPlay,2022,RightFoot,18550,West Ham,Manchester United,1,0,2023-05-07 18:00:00,Marcel Sabitzer,Pass,556
+528743,77,Goal,0.9740000152587891,0.5159999847412109,0.9310123920440674,Marcus Rashford,h,556,OpenPlay,2022,LeftFoot,18520,Manchester United,Chelsea,4,1,2023-05-25 19:00:00,,Rebound,556
+528742,77,SavedShot,0.9109999847412109,0.47400001525878904,0.5410463809967041,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18520,Manchester United,Chelsea,4,1,2023-05-25 19:00:00,Bruno Fernandes,TakeOn,556
+528741,77,MissedShots,0.8130000305175781,0.7069999694824218,0.03335993364453316,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18520,Manchester United,Chelsea,4,1,2023-05-25 19:00:00,Fred,BallRecovery,556
+528748,91,SavedShot,0.8630000305175781,0.3920000076293945,0.09924069792032242,Marcus Rashford,h,556,OpenPlay,2022,LeftFoot,18520,Manchester United,Chelsea,4,1,2023-05-25 19:00:00,Scott McTominay,Pass,556
+528750,92,BlockedShot,0.755,0.33,0.025117671117186546,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18520,Manchester United,Chelsea,4,1,2023-05-25 19:00:00,Fred,Pass,556
+529859,10,SavedShot,0.7290000152587891,0.4640000152587891,0.0505080446600914,Marcus Rashford,h,556,DirectFreekick,2022,RightFoot,18580,Manchester United,Fulham,2,1,2023-05-28 15:30:00,,Standard,556
+529865,26,MissedShots,0.7380000305175781,0.48700000762939455,0.021603787317872047,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18580,Manchester United,Fulham,2,1,2023-05-28 15:30:00,Fred,Pass,556
+529868,29,BlockedShot,0.8590000152587891,0.32799999237060545,0.038335997611284256,Marcus Rashford,h,556,OpenPlay,2022,LeftFoot,18580,Manchester United,Fulham,2,1,2023-05-28 15:30:00,Fred,Pass,556
+529875,46,MissedShots,0.875999984741211,0.4759999847412109,0.3227667808532715,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18580,Manchester United,Fulham,2,1,2023-05-28 15:30:00,Casemiro,Throughball,556
+529883,72,SavedShot,0.9269999694824219,0.625,0.3281913697719574,Marcus Rashford,h,556,OpenPlay,2022,LeftFoot,18580,Manchester United,Fulham,2,1,2023-05-28 15:30:00,,Rebound,556
+529882,72,BlockedShot,0.875999984741211,0.664000015258789,0.07835960388183594,Marcus Rashford,h,556,OpenPlay,2022,RightFoot,18580,Manchester United,Fulham,2,1,2023-05-28 15:30:00,Bruno Fernandes,Pass,556
+532752,10,SavedShot,0.8930000305175781,0.32,0.059324927628040314,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,22284,Manchester United,Wolverhampton Wanderers,1,0,2023-08-14 19:00:00,Antony,Pass,556
+532758,37,BlockedShot,0.9159999847412109,0.500999984741211,0.060597602277994156,Marcus Rashford,h,556,OpenPlay,2023,Head,22284,Manchester United,Wolverhampton Wanderers,1,0,2023-08-14 19:00:00,Aaron Wan-Bissaka,Chipped,556
+532762,46,BlockedShot,0.88,0.3609999847412109,0.08383027464151382,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,22284,Manchester United,Wolverhampton Wanderers,1,0,2023-08-14 19:00:00,Antony,Pass,556
+532778,81,BlockedShot,0.8640000152587891,0.6129999923706054,0.12816749513149261,Marcus Rashford,h,556,OpenPlay,2023,LeftFoot,22284,Manchester United,Wolverhampton Wanderers,1,0,2023-08-14 19:00:00,Jadon Sancho,TakeOn,556
+533322,12,SavedShot,0.9330000305175781,0.40200000762939453,0.40132415294647217,Marcus Rashford,a,556,OpenPlay,2023,RightFoot,22290,Tottenham,Manchester United,2,0,2023-08-19 16:30:00,Antony,BallTouch,556
+533325,20,BlockedShot,0.865999984741211,0.31,0.10044976323843002,Marcus Rashford,a,556,SetPiece,2023,RightFoot,22290,Tottenham,Manchester United,2,0,2023-08-19 16:30:00,Bruno Fernandes,Throughball,556
+533326,22,MissedShots,0.925,0.41700000762939454,0.24513395130634308,Marcus Rashford,a,556,OpenPlay,2023,Head,22290,Tottenham,Manchester United,2,0,2023-08-19 16:30:00,Bruno Fernandes,Chipped,556
+534752,93,BlockedShot,0.7440000152587891,0.4929999923706055,0.03688819333910942,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,22300,Manchester United,Nottingham Forest,3,2,2023-08-26 14:00:00,Scott McTominay,TakeOn,556
+534751,93,SavedShot,0.919000015258789,0.6840000152587891,0.07137427479028702,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,22300,Manchester United,Nottingham Forest,3,2,2023-08-26 14:00:00,,None,556
+536985,26,Goal,0.8590000152587891,0.575,0.11015787720680237,Marcus Rashford,a,556,OpenPlay,2023,RightFoot,21934,Arsenal,Manchester United,3,1,2023-09-03 15:30:00,Christian Eriksen,Pass,556
+536988,38,MissedShots,0.784000015258789,0.6719999694824219,0.019873900339007378,Marcus Rashford,a,556,OpenPlay,2023,RightFoot,21934,Arsenal,Manchester United,3,1,2023-09-03 15:30:00,Anthony Martial,None,556
+536995,53,BlockedShot,0.914000015258789,0.6409999847412109,0.30147337913513184,Marcus Rashford,a,556,OpenPlay,2023,LeftFoot,21934,Arsenal,Manchester United,3,1,2023-09-03 15:30:00,,Rebound,556
+537000,73,BlockedShot,0.9169999694824219,0.664000015258789,0.08084101974964142,Marcus Rashford,a,556,OpenPlay,2023,RightFoot,21934,Arsenal,Manchester United,3,1,2023-09-03 15:30:00,Bruno Fernandes,Pass,556
+537002,77,BlockedShot,0.85,0.6329999923706054,0.1550668329000473,Marcus Rashford,a,556,OpenPlay,2023,RightFoot,21934,Arsenal,Manchester United,3,1,2023-09-03 15:30:00,Christian Eriksen,TakeOn,556
+537685,5,SavedShot,0.9569999694824218,0.6409999847412109,0.10504523664712906,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,21940,Manchester United,Brighton,1,3,2023-09-16 14:00:00,Sergio Reguilón,TakeOn,556
+537689,10,BlockedShot,0.9119999694824219,0.645,0.0886915773153305,Marcus Rashford,h,556,OpenPlay,2023,LeftFoot,21940,Manchester United,Brighton,1,3,2023-09-16 14:00:00,Sergio Reguilón,Pass,556
+537692,25,BlockedShot,0.7809999847412109,0.5459999847412109,0.029224222525954247,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,21940,Manchester United,Brighton,1,3,2023-09-16 14:00:00,,Dispossessed,556
+537691,25,BlockedShot,0.8530000305175781,0.47,0.062075380235910416,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,21940,Manchester United,Brighton,1,3,2023-09-16 14:00:00,Diogo Dalot,Cross,556
+537694,33,BlockedShot,0.8290000152587891,0.67,0.029486587271094322,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,21940,Manchester United,Brighton,1,3,2023-09-16 14:00:00,Casemiro,Chipped,556
+537695,45,MissedShots,0.855,0.5790000152587891,0.05984494090080261,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,21940,Manchester United,Brighton,1,3,2023-09-16 14:00:00,Victor Lindelöf,Chipped,556
+537697,50,MissedShots,0.93,0.6619999694824219,0.069495789706707,Marcus Rashford,h,556,OpenPlay,2023,LeftFoot,21940,Manchester United,Brighton,1,3,2023-09-16 14:00:00,Rasmus Højlund,Pass,556
+537700,57,BlockedShot,0.860999984741211,0.6559999847412109,0.0666741281747818,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,21940,Manchester United,Brighton,1,3,2023-09-16 14:00:00,Rasmus Højlund,Pass,556
+537701,65,SavedShot,0.7290000152587891,0.5929999923706055,0.047047726809978485,Marcus Rashford,h,556,DirectFreekick,2023,RightFoot,21940,Manchester United,Brighton,1,3,2023-09-16 14:00:00,,Standard,556
+539432,0,MissedShots,0.9690000152587891,0.6459999847412109,0.08327582478523254,Marcus Rashford,a,556,OpenPlay,2023,LeftFoot,21950,Burnley,Manchester United,0,1,2023-09-23 19:00:00,Hannibal Mejbri,Pass,556
+539445,69,BlockedShot,0.8109999847412109,0.3370000076293945,0.04598402976989746,Marcus Rashford,a,556,OpenPlay,2023,RightFoot,21950,Burnley,Manchester United,0,1,2023-09-23 19:00:00,Casemiro,BallRecovery,556
+539449,84,BlockedShot,0.8530000305175781,0.514000015258789,0.13425780832767487,Marcus Rashford,a,556,OpenPlay,2023,RightFoot,21950,Burnley,Manchester United,0,1,2023-09-23 19:00:00,Hannibal Mejbri,Chipped,556
+541172,13,BlockedShot,0.9080000305175782,0.5579999923706055,0.11009465903043747,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,21957,Manchester United,Crystal Palace,0,1,2023-09-30 14:00:00,,CornerAwarded,556
+541171,13,BlockedShot,0.8930000305175781,0.57,0.1693635731935501,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,21957,Manchester United,Crystal Palace,0,1,2023-09-30 14:00:00,Bruno Fernandes,TakeOn,556
+542702,5,MissedShots,0.909000015258789,0.6179999923706054,0.015649758279323578,Marcus Rashford,h,556,OpenPlay,2023,Head,21972,Manchester United,Brentford,2,1,2023-10-07 14:00:00,Casemiro,Aerial,556
+542710,36,SavedShot,0.91,0.700999984741211,0.049832794815301895,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,21972,Manchester United,Brentford,2,1,2023-10-07 14:00:00,Victor Lindelöf,TakeOn,556
+542717,54,MissedShots,0.755,0.7469999694824219,0.008250819519162178,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,21972,Manchester United,Brentford,2,1,2023-10-07 14:00:00,Sofyan Amrabat,Chipped,556
+544345,47,BlockedShot,0.769000015258789,0.585,0.02450680360198021,Marcus Rashford,a,556,OpenPlay,2023,RightFoot,21983,Sheffield United,Manchester United,1,2,2023-10-21 19:00:00,,None,556
+544351,57,MissedShots,0.8969999694824219,0.6170000076293946,0.3397405743598938,Marcus Rashford,a,556,OpenPlay,2023,LeftFoot,21983,Sheffield United,Manchester United,1,2,2023-10-21 19:00:00,Bruno Fernandes,Pass,556
+546211,68,MissedShots,0.9309999847412109,0.43,0.3627910017967224,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,21992,Manchester United,Manchester City,0,3,2023-10-29 15:30:00,Christian Eriksen,Throughball,556
+548341,6,MissedShots,0.9069999694824219,0.2929999923706055,0.04686664417386055,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,22012,Manchester United,Luton,1,0,2023-11-11 15:00:00,,None,556
+548359,69,SavedShot,0.9,0.580999984741211,0.5066009163856506,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,22012,Manchester United,Luton,1,0,2023-11-11 15:00:00,Antony,Pass,556
+550496,55,Goal,0.885,0.5,0.7611688375473022,Marcus Rashford,a,556,Penalty,2023,RightFoot,22017,Everton,Manchester United,0,3,2023-11-26 16:30:00,,Standard,556
+556135,80,MissedShots,0.7719999694824219,0.6480000305175782,0.023504236713051796,Marcus Rashford,a,556,OpenPlay,2023,RightFoot,22072,West Ham,Manchester United,2,0,2023-12-23 12:30:00,Scott McTominay,Pass,556
+556583,30,SavedShot,0.8390000152587891,0.5420000076293945,0.09026827663183212,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,22082,Manchester United,Aston Villa,3,2,2023-12-26 20:00:00,Bruno Fernandes,Pass,556
+556585,34,SavedShot,0.8569999694824219,0.6630000305175782,0.04764222726225853,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,22082,Manchester United,Aston Villa,3,2,2023-12-26 20:00:00,Rasmus Højlund,Pass,556
+556589,43,MissedShots,0.8919999694824219,0.6569999694824219,0.08875253051519394,Marcus Rashford,h,556,OpenPlay,2023,LeftFoot,22082,Manchester United,Aston Villa,3,2,2023-12-26 20:00:00,Bruno Fernandes,Chipped,556
+557116,77,Goal,0.855999984741211,0.5990000152587891,0.07297506183385849,Marcus Rashford,a,556,OpenPlay,2023,RightFoot,22091,Nottingham Forest,Manchester United,2,1,2023-12-30 17:30:00,Alejandro Garnacho,Pass,556
+558648,7,MissedShots,0.870999984741211,0.6480000305175782,0.0364554226398468,Marcus Rashford,h,556,FromCorner,2023,RightFoot,22099,Manchester United,Tottenham,2,2,2024-01-14 16:30:00,Christian Eriksen,Cross,556
+558657,39,Goal,0.875999984741211,0.610999984741211,0.09728687256574631,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,22099,Manchester United,Tottenham,2,2,2024-01-14 16:30:00,Rasmus Højlund,Pass,556
+560834,4,Goal,0.82,0.5329999923706055,0.05191881209611893,Marcus Rashford,a,556,OpenPlay,2023,RightFoot,22111,Wolverhampton Wanderers,Manchester United,3,4,2024-02-01 20:15:00,Rasmus Højlund,Pass,556
+561615,50,MissedShots,0.8640000152587891,0.73,0.054937172681093216,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,22122,Manchester United,West Ham,3,0,2024-02-04 14:00:00,Luke Shaw,Pass,556
+561619,57,MissedShots,0.8480000305175781,0.57,0.05689117684960365,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,22122,Manchester United,West Ham,3,0,2024-02-04 14:00:00,,Rebound,556
+563146,37,BlockedShot,0.945,0.67,0.08539752662181854,Marcus Rashford,a,556,OpenPlay,2023,LeftFoot,22125,Aston Villa,Manchester United,1,2,2024-02-11 16:30:00,Bruno Fernandes,Pass,556
+563149,45,SavedShot,0.894000015258789,0.56,0.33550530672073364,Marcus Rashford,a,556,OpenPlay,2023,RightFoot,22125,Aston Villa,Manchester United,1,2,2024-02-11 16:30:00,Kobbie Mainoo,TakeOn,556
+563154,57,BlockedShot,0.8019999694824219,0.6379999923706055,0.036765869706869125,Marcus Rashford,a,556,OpenPlay,2023,RightFoot,22125,Aston Villa,Manchester United,1,2,2024-02-11 16:30:00,Kobbie Mainoo,Pass,556
+564531,4,SavedShot,0.8180000305175781,0.49900001525878906,0.07443609833717346,Marcus Rashford,a,556,OpenPlay,2023,RightFoot,22139,Luton,Manchester United,1,2,2024-02-18 16:30:00,Alejandro Garnacho,Pass,556
+564534,9,MissedShots,0.785,0.4909999847412109,0.08969171345233917,Marcus Rashford,a,556,OpenPlay,2023,RightFoot,22139,Luton,Manchester United,1,2,2024-02-18 16:30:00,Harry Maguire,BallRecovery,556
+564552,56,SavedShot,0.8090000152587891,0.5129999923706055,0.05972130969166756,Marcus Rashford,a,556,OpenPlay,2023,LeftFoot,22139,Luton,Manchester United,1,2,2024-02-18 16:30:00,Rasmus Højlund,Pass,556
+565241,43,BlockedShot,0.7880000305175782,0.6890000152587891,0.020347053185105324,Marcus Rashford,h,556,FromCorner,2023,RightFoot,22152,Manchester United,Fulham,1,2,2024-02-24 15:00:00,Bruno Fernandes,Pass,556
+565251,72,SavedShot,0.9459999847412109,0.7040000152587891,0.05000000819563866,Marcus Rashford,h,556,OpenPlay,2023,RightFoot,22152,Manchester United,Fulham,1,2,2024-02-24 15:00:00,Alejandro Garnacho,Pass,556
+567264,7,Goal,0.7559999847412109,0.5670000076293945,0.0219804048538208,Marcus Rashford,a,556,OpenPlay,2023,RightFoot,22160,Manchester City,Manchester United,3,1,2024-03-03 15:30:00,Bruno Fernandes,Pass,556
+567270,22,MissedShots,0.9309999847412109,0.36,0.13178394734859467,Marcus Rashford,a,556,OpenPlay,2023,RightFoot,22160,Manchester City,Manchester United,3,1,2024-03-03 15:30:00,Bruno Fernandes,Chipped,556
+567754,6,BlockedShot,0.94,0.6669999694824219,0.11450111120939255,Marcus Rashford,h,556,OpenPlay,2023,LeftFoot,22172,Manchester United,Everton,2,0,2024-03-09 12:30:00,Bruno Fernandes,TakeOn,556
+567767,35,Goal,0.885,0.5,0.7611688375473022,Marcus Rashford,h,556,Penalty,2023,RightFoot,22172,Manchester United,Everton,2,0,2024-03-09 12:30:00,,Standard,556
+571105,41,SavedShot,0.725999984741211,0.625999984741211,0.01625099591910839,Marcus Rashford,a,556,OpenPlay,2023,RightFoot,22187,Brentford,Manchester United,1,1,2024-03-30 20:00:00,Diogo Dalot,Pass,556
+573915,17,MissedShots,0.960999984741211,0.63,0.08063935488462448,Marcus Rashford,a,556,OpenPlay,2023,LeftFoot,22215,Bournemouth,Manchester United,2,2,2024-04-13 16:30:00,Casemiro,Pass,556
+581188,96,BlockedShot,0.914000015258789,0.43200000762939456,0.09224142134189606,Marcus Rashford,h,556,FromCorner,2023,LeftFoot,22231,Manchester United,Newcastle United,3,2,2024-05-15 19:00:00,Christian Eriksen,Pass,556
+590482,39,SavedShot,0.9459999847412109,0.35400001525878905,0.12860620021820068,Marcus Rashford,a,556,OpenPlay,2024,RightFoot,26632,Southampton,Manchester United,0,3,2024-09-14 11:30:00,Amad Diallo Traore,Pass,556
+590483,40,Goal,0.8169999694824219,0.71,0.02122362144291401,Marcus Rashford,a,556,FromCorner,2024,RightFoot,26632,Southampton,Manchester United,0,3,2024-09-14 11:30:00,Amad Diallo Traore,Pass,556
+590487,50,BlockedShot,0.865,0.6220000076293946,0.094303660094738,Marcus Rashford,a,556,OpenPlay,2024,RightFoot,26632,Southampton,Manchester United,0,3,2024-09-14 11:30:00,Christian Eriksen,Pass,556
+590488,59,SavedShot,0.7619999694824219,0.73,0.01579022966325283,Marcus Rashford,a,556,OpenPlay,2024,RightFoot,26632,Southampton,Manchester United,0,3,2024-09-14 11:30:00,,None,556
+595999,4,SavedShot,0.8780000305175781,0.634000015258789,0.17595557868480682,Marcus Rashford,a,556,OpenPlay,2024,RightFoot,26670,Aston Villa,Manchester United,0,0,2024-10-06 13:00:00,,TakeOn,556
+596006,48,SavedShot,0.8019999694824219,0.65,0.03249828517436981,Marcus Rashford,a,556,OpenPlay,2024,RightFoot,26670,Aston Villa,Manchester United,0,0,2024-10-06 13:00:00,Kobbie Mainoo,Pass,556
+597038,83,BlockedShot,0.904000015258789,0.29399999618530276,0.06362666189670563,Marcus Rashford,h,556,OpenPlay,2024,RightFoot,26675,Manchester United,Brentford,2,1,2024-10-19 14:00:00,Christian Eriksen,Pass,556
+597041,88,BlockedShot,0.9519999694824218,0.3220000076293945,0.07091353833675385,Marcus Rashford,h,556,OpenPlay,2024,RightFoot,26675,Manchester United,Brentford,2,1,2024-10-19 14:00:00,,None,556
+600839,46,ShotOnPost,0.924000015258789,0.36900001525878906,0.2514970600605011,Marcus Rashford,h,556,OpenPlay,2024,RightFoot,26697,Manchester United,Chelsea,1,1,2024-11-03 16:30:00,Bruno Fernandes,Cross,556
+600842,58,SavedShot,0.8019999694824219,0.7069999694824218,0.021217459812760353,Marcus Rashford,h,556,FromCorner,2024,RightFoot,26697,Manchester United,Chelsea,1,1,2024-11-03 16:30:00,Bruno Fernandes,Pass,556
+603534,1,Goal,0.9369999694824219,0.46799999237060547,0.44502103328704834,Marcus Rashford,a,556,OpenPlay,2024,LeftFoot,26718,Ipswich,Manchester United,1,1,2024-11-24 16:30:00,Amad Diallo Traore,Cross,556
+604655,33,Goal,0.8619999694824219,0.425,0.04211609065532684,Marcus Rashford,h,556,FromCorner,2024,RightFoot,26727,Manchester United,Everton,4,0,2024-12-01 13:30:00,Bruno Fernandes,Cross,556
+604658,45,Goal,0.92,0.3679999923706055,0.32526683807373047,Marcus Rashford,h,556,OpenPlay,2024,RightFoot,26727,Manchester United,Everton,4,0,2024-12-01 13:30:00,Amad Diallo Traore,Pass,556
+604661,53,BlockedShot,0.899000015258789,0.28600000381469726,0.10187027603387833,Marcus Rashford,h,556,OpenPlay,2024,RightFoot,26727,Manchester United,Everton,4,0,2024-12-01 13:30:00,Amad Diallo Traore,Pass,556
+604666,84,MissedShots,0.8109999847412109,0.49700000762939456,0.10621335357427597,Marcus Rashford,h,556,OpenPlay,2024,RightFoot,26727,Manchester United,Everton,4,0,2024-12-01 13:30:00,Joshua Zirkzee,Pass,556
+606012,94,BlockedShot,0.8190000152587891,0.5720000076293945,0.04348764196038246,Marcus Rashford,h,556,SetPiece,2024,RightFoot,26744,Manchester United,Nottingham Forest,2,3,2024-12-07 17:30:00,,None,556

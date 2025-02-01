@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+592114,72,SavedShot,0.750999984741211,0.5520000076293945,0.0210413821041584,Andy Irving,h,12774,OpenPlay,2024,LeftFoot,26642,West Ham,Chelsea,0,3,2024-09-21 11:30:00,Aaron Cresswell,Pass,12774
+613983,92,BlockedShot,0.7919999694824219,0.4229999923706055,0.03872816637158394,Andy Irving,a,12774,OpenPlay,2024,LeftFoot,26823,Aston Villa,West Ham,1,1,2025-01-26 16:30:00,,BallTouch,12774
+613985,97,SavedShot,0.774000015258789,0.36,0.033815860748291016,Andy Irving,a,12774,OpenPlay,2024,LeftFoot,26823,Aston Villa,West Ham,1,1,2025-01-26 16:30:00,Danny Ings,TakeOn,12774

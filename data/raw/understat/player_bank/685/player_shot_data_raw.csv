@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+20057,56,MissedShots,0.93,0.5029999923706054,0.42208799719810486,John Obi Mikel,a,685,SetPiece,2014,Head,4599,Newcastle United,Chelsea,2,1,2014-12-06 12:45:00,Cesc Fàbregas,Cross,685
+20064,75,MissedShots,0.745999984741211,0.5220000076293946,0.016882799565792084,John Obi Mikel,a,685,OpenPlay,2014,RightFoot,4599,Newcastle United,Chelsea,2,1,2014-12-06 12:45:00,Diego Costa,HeadPass,685
+20721,58,SavedShot,0.8430000305175781,0.61,0.047229599207639694,John Obi Mikel,h,685,OpenPlay,2014,LeftFoot,4406,Chelsea,Crystal Palace,1,0,2015-05-03 13:30:00,Didier Drogba,TakeOn,685
+54207,93,MissedShots,0.7390000152587891,0.485,0.019324300810694695,John Obi Mikel,h,685,OpenPlay,2015,RightFoot,256,Chelsea,Watford,2,2,2015-12-26 19:00:00,Willian,Pass,685
+55942,83,MissedShots,0.7290000152587891,0.45799999237060546,0.020886000245809555,John Obi Mikel,h,685,OpenPlay,2015,RightFoot,295,Chelsea,Everton,3,3,2016-01-16 19:00:00,,TakeOn,685
+54254,46,BlockedShot,0.740999984741211,0.42900001525878906,0.014788799919188023,John Obi Mikel,a,685,OpenPlay,2015,RightFoot,320,Watford,Chelsea,0,0,2016-02-03 23:45:00,,Rebound,685
+59896,52,MissedShots,0.9580000305175781,0.49599998474121093,0.05910170078277588,John Obi Mikel,a,685,FromCorner,2015,Head,344,Southampton,Chelsea,1,2,2016-02-27 19:00:00,Gary Cahill,BallTouch,685
+59616,13,MissedShots,0.81,0.28200000762939453,0.019352000206708908,John Obi Mikel,h,685,OpenPlay,2015,RightFoot,362,Chelsea,Stoke,1,1,2016-03-05 19:00:00,Willian,Pass,685
+59969,67,MissedShots,0.95,0.5179999923706055,0.13756899535655975,John Obi Mikel,h,685,SetPiece,2015,Head,376,Chelsea,West Ham,2,2,2016-03-19 19:00:00,Willian,Cross,685
+59979,83,MissedShots,0.715,0.52,0.013763600029051304,John Obi Mikel,h,685,OpenPlay,2015,RightFoot,376,Chelsea,West Ham,2,2,2016-03-19 19:00:00,,None,685

@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+9307,Iliman Ndiaye,1,10,0,0,0,0,0,0,0,0,S,Sheffield United,0,0,0,0,2020
+9307,Iliman Ndiaye,22,1799,5,3.965167533606291,0,1.3133370205760002,23,14,3,0,F M S,Everton,4,3.2039986960589886,7.780551861971617,4.228815108537674,2024
+9307,Iliman Ndiaye,22,1799,5,3.965167533606291,0,1.3133370205760002,23,14,3,0,F M S,Everton,4,3.2039986960589886,7.780551861971617,4.228815108537674,2025

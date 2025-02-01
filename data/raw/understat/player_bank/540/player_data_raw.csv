@@ -1,0 +1,5 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+540,Darren Randolph,6,540,0,0.07647579908370972,0,0,1,0,0,0,GK,West Ham,0,0.07647579908370972,0.4852911904454231,0.4852911904454231,2015
+540,Darren Randolph,22,1980,0,0,0,0,0,0,1,0,GK,West Ham,0,0,0.7022444903850555,0.7022444903850555,2016
+540,Darren Randolph,2,180,0,0,0,0,0,0,0,0,GK,West Ham,0,0,0,0,2019
+540,Darren Randolph,3,270,0,0,0,0,0,0,0,0,GK,West Ham,0,0,0.2751617059111595,0.2751617059111595,2020

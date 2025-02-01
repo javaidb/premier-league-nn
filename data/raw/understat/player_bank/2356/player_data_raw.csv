@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+2356,Roque Mesa,11,762,0,0.13450849894434214,0,0.12791440170258284,7,5,3,0,M S,Swansea,0,0.13450849894434214,0.6647782996296883,0.48225090838968754,2017

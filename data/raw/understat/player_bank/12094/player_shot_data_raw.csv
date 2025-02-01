@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+538679,91,MissedShots,0.8730000305175781,0.33599998474121096,0.04863787442445755,Mike Trésor,a,12094,OpenPlay,2023,RightFoot,21944,Nottingham Forest,Burnley,1,1,2023-09-18 18:45:00,,Rebound,12094
+542621,21,MissedShots,0.960999984741211,0.445,0.47831594944000244,Mike Trésor,h,12094,OpenPlay,2023,RightFoot,21967,Burnley,Chelsea,1,4,2023-10-07 14:00:00,Wilson Odobert,Chipped,12094
+544044,9,MissedShots,0.835,0.3629999923706055,0.0710967555642128,Mike Trésor,a,12094,OpenPlay,2023,LeftFoot,21977,Brentford,Burnley,3,0,2023-10-21 14:00:00,,TakeOn,12094
+552186,80,BlockedShot,0.745999984741211,0.5890000152587891,0.05674039572477341,Mike Trésor,a,12094,DirectFreekick,2023,RightFoot,22042,Wolverhampton Wanderers,Burnley,1,0,2023-12-05 19:30:00,,Standard,12094
+554459,91,MissedShots,0.735,0.720999984741211,0.006807882804423571,Mike Trésor,h,12094,OpenPlay,2023,RightFoot,22058,Burnley,Everton,0,2,2023-12-16 17:30:00,Josh Brownhill,TakeOn,12094

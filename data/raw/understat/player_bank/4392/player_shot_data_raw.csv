@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+17739,4,OwnGoal,0.04099999904632568,0.4909999847412109,0,Nedum Onuoha,a,4392,FromCorner,2014,LeftFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,,CornerAwarded,4392
+17751,63,BlockedShot,0.8119999694824219,0.40599998474121096,0.05825410038232803,Nedum Onuoha,a,4392,OpenPlay,2014,LeftFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Leroy Fer,TakeOn,4392
+17752,65,MissedShots,0.789000015258789,0.34799999237060547,0.018267499282956123,Nedum Onuoha,a,4392,OpenPlay,2014,RightFoot,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Leroy Fer,Pass,4392
+17760,91,BlockedShot,0.9059999847412109,0.4370000076293945,0.062296099960803986,Nedum Onuoha,a,4392,OpenPlay,2014,Head,4698,West Ham,Queens Park Rangers,2,0,2014-10-05 16:15:00,Bobby Zamora,Cross,4392
+18082,54,MissedShots,0.9330000305175781,0.5259999847412109,0.05929720029234886,Nedum Onuoha,h,4392,FromCorner,2014,Head,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,Niko Kranjcar,Aerial,4392
+18094,72,BlockedShot,0.955999984741211,0.48900001525878906,0.6372089982032776,Nedum Onuoha,h,4392,FromCorner,2014,RightFoot,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,,Rebound,4392
+18033,52,OwnGoal,0.00699999988079071,0.509000015258789,0,Nedum Onuoha,a,4392,OpenPlay,2014,Head,4618,Everton,Queens Park Rangers,3,1,2014-12-15 20:00:00,,None,4392
+19037,33,BlockedShot,0.7119999694824218,0.51,0.008834590204060078,Nedum Onuoha,h,4392,SetPiece,2014,RightFoot,4574,Queens Park Rangers,Manchester United,0,2,2015-01-17 15:00:00,,Aerial,4392
+22272,32,BlockedShot,0.8730000305175781,0.5109999847412109,0.02637919969856739,Nedum Onuoha,a,4392,FromCorner,2014,Head,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Matt Phillips,Cross,4392
+22953,23,MissedShots,0.7219999694824218,0.33,0.00951515045017004,Nedum Onuoha,a,4392,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,Aerial,4392
+22981,74,MissedShots,0.965999984741211,0.4620000076293945,0.4944309890270233,Nedum Onuoha,a,4392,FromCorner,2014,Head,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Joey Barton,Cross,4392

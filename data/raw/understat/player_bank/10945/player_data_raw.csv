@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+10945,Santiago Bueno,12,817,0,0,0,0.190905986353755,0,2,1,0,D S,Wolverhampton Wanderers,0,0,2.1081051090732217,1.93471594247967,2023
+10945,Santiago Bueno,16,1336,0,0.3284060172736645,0,0,6,0,0,0,D S,Wolverhampton Wanderers,0,0.3284060172736645,3.5617046803236008,3.542182996869087,2024
+10945,Santiago Bueno,16,1336,0,0.3284060172736645,0,0,6,0,0,0,D S,Wolverhampton Wanderers,0,0.3284060172736645,3.5617046803236008,3.542182996869087,2025

@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+506,Joel Campbell,4,34,0,0,0,0.08552379906177521,0,2,0,0,S,Arsenal,0,0,0.1540088001638651,0.13456200063228607,2014
+506,Joel Campbell,19,891,3,2.59413100220263,2,2.8309967815876007,19,13,0,0,M S,Arsenal,3,2.59413100220263,7.517784925177693,3.5691321585327387,2015

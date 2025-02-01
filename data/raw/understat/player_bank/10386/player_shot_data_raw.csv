@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+458844,90,SavedShot,0.8269999694824218,0.5990000152587891,0.05073489993810654,Anel Ahmedhodzic,h,10386,OpenPlay,2021,RightFoot,18065,Bordeaux,Monaco,1,1,2022-02-20 16:05:00,,None,10386
+461572,77,MissedShots,0.855,0.5220000076293946,0.030443400144577026,Anel Ahmedhodzic,h,10386,SetPiece,2021,Head,18085,Bordeaux,Troyes,0,2,2022-03-06 14:00:00,Hwang Ui-Jo,Cross,10386
+461576,94,MissedShots,0.924000015258789,0.47900001525878905,0.052183400839567184,Anel Ahmedhodzic,h,10386,FromCorner,2021,Head,18085,Bordeaux,Troyes,0,2,2022-03-06 14:00:00,Hwang Ui-Jo,Aerial,10386
+464581,89,SavedShot,0.740999984741211,0.5770000076293945,0.016046099364757538,Anel Ahmedhodzic,h,10386,OpenPlay,2021,RightFoot,18103,Bordeaux,Montpellier,0,2,2022-03-20 14:00:00,,BallTouch,10386
+467113,32,SavedShot,0.8919999694824219,0.415,0.0474775992333889,Anel Ahmedhodzic,h,10386,SetPiece,2021,Head,18123,Bordeaux,Metz,3,1,2022-04-10 11:00:00,Javairo Dilrosun,Cross,10386
+468828,25,MissedShots,0.794000015258789,0.22899999618530273,0.013856600038707256,Anel Ahmedhodzic,a,10386,OpenPlay,2021,RightFoot,18133,Lyon,Bordeaux,6,1,2022-04-17 15:05:00,,None,10386
+470610,58,SavedShot,0.9769999694824218,0.4779999923706055,0.1466280072927475,Anel Ahmedhodzic,a,10386,FromCorner,2021,Head,18156,Nantes,Bordeaux,5,3,2022-04-24 13:00:00,Marcelo,HeadPass,10386
+477693,56,MissedShots,0.9390000152587891,0.45099998474121095,0.13802599906921387,Anel Ahmedhodzic,a,10386,SetPiece,2021,Head,18200,Brest,Bordeaux,2,4,2022-05-21 19:00:00,Javairo Dilrosun,Cross,10386
+532122,33,MissedShots,0.9130000305175782,0.555,0.06741126626729965,Anel Ahmedhodzic,h,10386,FromCorner,2023,Head,22280,Sheffield United,Crystal Palace,0,1,2023-08-12 14:00:00,Oliver Norwood,Cross,10386
+532132,73,BlockedShot,0.7480000305175781,0.2989999961853027,0.013290452770888805,Anel Ahmedhodzic,h,10386,OpenPlay,2023,RightFoot,22280,Sheffield United,Crystal Palace,0,1,2023-08-12 14:00:00,,None,10386
+532891,45,BlockedShot,0.8869999694824219,0.46099998474121096,0.07720787823200226,Anel Ahmedhodzic,a,10386,OpenPlay,2023,RightFoot,22285,Nottingham Forest,Sheffield United,2,1,2023-08-18 18:45:00,,None,10386
+535231,73,MissedShots,0.7419999694824219,0.3139999961853027,0.013410582207143307,Anel Ahmedhodzic,h,10386,OpenPlay,2023,RightFoot,22303,Sheffield United,Manchester City,1,2,2023-08-27 13:00:00,,BallRecovery,10386
+535240,89,MissedShots,0.9619999694824218,0.535,0.5949807167053223,Anel Ahmedhodzic,h,10386,OpenPlay,2023,RightFoot,22303,Sheffield United,Manchester City,1,2,2023-08-27 13:00:00,Oliver McBurnie,Cross,10386
+539906,70,MissedShots,0.9159999847412109,0.3320000076293945,0.09513337165117264,Anel Ahmedhodzic,h,10386,OpenPlay,2023,RightFoot,21954,Sheffield United,Newcastle United,0,8,2023-09-24 15:30:00,Bénie Traoré,Throughball,10386
+541255,21,MissedShots,0.91,0.4779999923706055,0.05262976884841919,Anel Ahmedhodzic,a,10386,OpenPlay,2023,Head,21960,West Ham,Sheffield United,2,0,2023-09-30 14:00:00,Gustavo Hamer,Aerial,10386
+541268,56,SavedShot,0.9830000305175781,0.44099998474121094,0.08692975342273712,Anel Ahmedhodzic,a,10386,FromCorner,2023,Head,21960,West Ham,Sheffield United,2,0,2023-09-30 14:00:00,Chris Basham,Rebound,10386
+554263,23,BlockedShot,0.899000015258789,0.44,0.07398563623428345,Anel Ahmedhodzic,a,10386,FromCorner,2023,RightFoot,22059,Chelsea,Sheffield United,2,0,2023-12-16 15:00:00,Gustavo Hamer,BallTouch,10386
+556518,68,Goal,0.9269999694824219,0.504000015258789,0.537664532661438,Anel Ahmedhodzic,h,10386,OpenPlay,2023,RightFoot,22084,Sheffield United,Luton,2,3,2023-12-26 15:00:00,,Rebound,10386
+556523,94,MissedShots,0.7440000152587891,0.40099998474121096,0.010477622039616108,Anel Ahmedhodzic,h,10386,OpenPlay,2023,RightFoot,22084,Sheffield United,Luton,2,3,2023-12-26 15:00:00,,Aerial,10386
+560632,83,ShotOnPost,0.914000015258789,0.4909999847412109,0.27706030011177063,Anel Ahmedhodzic,a,10386,OpenPlay,2023,Head,22112,Crystal Palace,Sheffield United,3,2,2024-01-30 20:00:00,Yasser Larouci,Rebound,10386
+561360,76,SavedShot,0.9430000305175781,0.51,0.5692514181137085,Anel Ahmedhodzic,h,10386,FromCorner,2023,RightFoot,22124,Sheffield United,Aston Villa,0,5,2024-02-03 17:30:00,,None,10386
+564349,84,MissedShots,0.975999984741211,0.5670000076293945,0.3846747577190399,Anel Ahmedhodzic,h,10386,OpenPlay,2023,Head,22143,Sheffield United,Brighton,0,5,2024-02-18 14:00:00,Jack Robinson,Cross,10386
+565608,48,BlockedShot,0.924000015258789,0.325,0.05326562374830246,Anel Ahmedhodzic,a,10386,OpenPlay,2023,RightFoot,22154,Wolverhampton Wanderers,Sheffield United,1,0,2024-02-25 13:30:00,Rhian Brewster,BallTouch,10386
+570775,33,SavedShot,0.875,0.56,0.0178851205855608,Anel Ahmedhodzic,h,10386,OpenPlay,2023,Head,22193,Sheffield United,Fulham,3,3,2024-03-30 15:00:00,Jack Robinson,Aerial,10386
+576215,73,MissedShots,0.8780000305175781,0.5529999923706055,0.0835704654455185,Anel Ahmedhodzic,a,10386,FromCorner,2023,RightFoot,22182,Manchester United,Sheffield United,4,2,2024-04-24 19:00:00,,Rebound,10386
+576817,4,Goal,0.9540000152587891,0.47,0.4280233681201935,Anel Ahmedhodzic,a,10386,FromCorner,2023,Head,22240,Newcastle United,Sheffield United,5,1,2024-04-27 14:00:00,Gustavo Hamer,Cross,10386
+576822,16,MissedShots,0.9330000305175781,0.4229999923706055,0.027451802045106888,Anel Ahmedhodzic,a,10386,FromCorner,2023,Head,22240,Newcastle United,Sheffield United,5,1,2024-04-27 14:00:00,Gustavo Hamer,Aerial,10386

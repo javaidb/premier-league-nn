@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+967,Mathieu Debuchy,10,811,1,0.8225503079593182,0,0.398188017308712,8,2,2,0,D,Arsenal,1,0.8225503079593182,3.0027852542698383,2.842829305678606,2014
+967,Mathieu Debuchy,2,147,0,0.028445400297641754,0,0.017912400886416435,1,1,0,0,D,Arsenal,0,0.028445400297641754,0.5083019882440567,0.4798559844493866,2015
+967,Mathieu Debuchy,1,15,0,0,0,0,0,0,0,0,D,Arsenal,0,0,0,0,2016

@@ -1,0 +1,38 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+814,88,MissedShots,0.899000015258789,0.425,0.05295180156826973,Aboubakar Kamara,a,4866,OpenPlay,2014,Head,6145,Lyon,Monaco,2,1,2014-09-12 19:30:00,Nabil Dirar,Cross,4866
+232761,76,MissedShots,0.7619999694824219,0.7659999847412109,0.015394099988043308,Aboubakar Kamara,h,4866,OpenPlay,2018,RightFoot,9201,Fulham,Crystal Palace,0,2,2018-08-11 17:00:00,Luciano Vietto,Pass,4866
+232766,90,SavedShot,0.9719999694824218,0.6459999847412109,0.11987899988889694,Aboubakar Kamara,h,4866,OpenPlay,2018,RightFoot,9201,Fulham,Crystal Palace,0,2,2018-08-11 17:00:00,Luciano Vietto,TakeOn,4866
+249159,60,MissedShots,0.9230000305175782,0.47900001525878905,0.3260760009288788,Aboubakar Kamara,h,4866,OpenPlay,2018,OtherBodyPart,9274,Fulham,Arsenal,1,5,2018-10-07 11:00:00,Cyrus Christie,Cross,4866
+249164,74,MissedShots,0.7169999694824218,0.23600000381469727,0.007761640008538961,Aboubakar Kamara,h,4866,OpenPlay,2018,RightFoot,9274,Fulham,Arsenal,1,5,2018-10-07 11:00:00,Cyrus Christie,Pass,4866
+249500,3,MissedShots,0.86,0.5129999923706055,0.02978380024433136,Aboubakar Kamara,h,4866,OpenPlay,2018,Head,9289,Fulham,Bournemouth,0,3,2018-10-27 14:00:00,Jean Michael Seri,Chipped,4866
+249512,46,MissedShots,0.9519999694824218,0.62,0.013682199642062187,Aboubakar Kamara,h,4866,FromCorner,2018,Head,9289,Fulham,Bournemouth,0,3,2018-10-27 14:00:00,Jean Michael Seri,Aerial,4866
+249517,69,MissedShots,0.924000015258789,0.23,0.027882400900125504,Aboubakar Kamara,h,4866,OpenPlay,2018,RightFoot,9289,Fulham,Bournemouth,0,3,2018-10-27 14:00:00,Tom Cairney,Pass,4866
+249520,82,MissedShots,0.835,0.6609999847412109,0.030566200613975525,Aboubakar Kamara,h,4866,OpenPlay,2018,RightFoot,9289,Fulham,Bournemouth,0,3,2018-10-27 14:00:00,,None,4866
+250700,90,MissedShots,0.6709999847412109,0.355,0.009013989940285683,Aboubakar Kamara,a,4866,OpenPlay,2018,RightFoot,9334,Chelsea,Fulham,2,0,2018-12-02 12:00:00,Calum Chambers,Pass,4866
+250870,25,MissedShots,0.7559999847412109,0.25799999237060545,0.018221400678157806,Aboubakar Kamara,h,4866,OpenPlay,2018,RightFoot,9342,Fulham,Leicester,1,1,2018-12-05 19:45:00,Calum Chambers,Pass,4866
+250875,35,SavedShot,0.745,0.4129999923706055,0.018529899418354034,Aboubakar Kamara,h,4866,OpenPlay,2018,RightFoot,9342,Fulham,Leicester,1,1,2018-12-05 19:45:00,Aleksandar Mitrovic,BallTouch,4866
+250879,41,Goal,0.950999984741211,0.66,0.07882960140705109,Aboubakar Kamara,h,4866,OpenPlay,2018,RightFoot,9342,Fulham,Leicester,1,1,2018-12-05 19:45:00,Aleksandar Mitrovic,Pass,4866
+250888,81,MissedShots,0.9619999694824218,0.67,0.07099100202322006,Aboubakar Kamara,h,4866,OpenPlay,2018,LeftFoot,9342,Fulham,Leicester,1,1,2018-12-05 19:45:00,Ryan Sessegnon,Pass,4866
+251066,66,Goal,0.885,0.5,0.7611690163612366,Aboubakar Kamara,a,4866,Penalty,2018,RightFoot,9349,Manchester United,Fulham,4,1,2018-12-08 15:00:00,,Standard,4866
+251075,87,MissedShots,0.8009999847412109,0.69,0.019122399389743805,Aboubakar Kamara,a,4866,OpenPlay,2018,RightFoot,9349,Manchester United,Fulham,4,1,2018-12-08 15:00:00,Ryan Sessegnon,Pass,4866
+251378,8,SavedShot,0.879000015258789,0.6,0.3401170074939728,Aboubakar Kamara,h,4866,OpenPlay,2018,RightFoot,9364,Fulham,West Ham,0,2,2018-12-15 17:30:00,Aleksandar Mitrovic,Throughball,4866
+251381,26,SavedShot,0.91,0.47400001525878904,0.2128390073776245,Aboubakar Kamara,h,4866,OpenPlay,2018,Head,9364,Fulham,West Ham,0,2,2018-12-15 17:30:00,Denis Odoi,Cross,4866
+251382,27,SavedShot,0.759000015258789,0.47,0.02721649967133999,Aboubakar Kamara,h,4866,OpenPlay,2018,RightFoot,9364,Fulham,West Ham,0,2,2018-12-15 17:30:00,Tom Cairney,Pass,4866
+263620,69,SavedShot,0.879000015258789,0.6909999847412109,0.056845299899578094,Aboubakar Kamara,h,4866,OpenPlay,2018,LeftFoot,9393,Fulham,Huddersfield,1,0,2018-12-29 15:00:00,Aleksandar Mitrovic,HeadPass,4866
+263622,81,SavedShot,0.885,0.5,0.7611690163612366,Aboubakar Kamara,h,4866,Penalty,2018,RightFoot,9393,Fulham,Huddersfield,1,0,2018-12-29 15:00:00,,Standard,4866
+274159,68,Goal,0.9619999694824218,0.4420000076293945,0.5827850103378296,Aboubakar Kamara,a,4866,OpenPlay,2018,RightFoot,9406,Arsenal,Fulham,4,1,2019-01-01 15:00:00,Ryan Sessegnon,Pass,4866
+376487,55,MissedShots,0.8130000305175781,0.3189999961853027,0.020672200247645378,Aboubakar Kamara,h,4866,SetPiece,2020,RightFoot,14086,Fulham,Arsenal,0,3,2020-09-12 11:30:00,,None,4866
+381228,72,SavedShot,0.905,0.5790000152587891,0.5737529993057251,Aboubakar Kamara,a,4866,OpenPlay,2020,RightFoot,14474,Wolverhampton Wanderers,Fulham,1,0,2020-10-04 13:00:00,Aleksandar Mitrovic,Pass,4866
+381229,76,BlockedShot,0.8340000152587891,0.4129999923706055,0.042328301817178726,Aboubakar Kamara,a,4866,FromCorner,2020,RightFoot,14474,Wolverhampton Wanderers,Fulham,1,0,2020-10-04 13:00:00,,None,4866
+399124,87,SavedShot,0.749000015258789,0.555,0.018166599795222282,Aboubakar Kamara,h,4866,OpenPlay,2020,RightFoot,14617,Fulham,Chelsea,0,1,2021-01-16 17:30:00,,Dispossessed,4866
+404711,19,MissedShots,0.86,0.4809999847412109,0.07713670283555984,Aboubakar Kamara,h,4866,OpenPlay,2020,LeftFoot,15998,Dijon,Nimes,0,2,2021-02-14 14:00:00,,None,4866
+406024,3,SavedShot,0.8590000152587891,0.44299999237060544,0.5140420198440552,Aboubakar Kamara,a,4866,OpenPlay,2020,LeftFoot,16007,Lens,Dijon,2,1,2021-02-21 14:00:00,Mounir Chouiar,Throughball,4866
+406038,66,BlockedShot,0.8119999694824219,0.2620000076293945,0.020581400021910667,Aboubakar Kamara,a,4866,OpenPlay,2020,RightFoot,16007,Lens,Dijon,2,1,2021-02-21 14:00:00,Bersant Celina,Pass,4866
+410459,39,MissedShots,0.945,0.6840000152587891,0.247312992811203,Aboubakar Kamara,h,4866,OpenPlay,2020,LeftFoot,16037,Dijon,Bordeaux,1,3,2021-03-14 14:00:00,Ngonda Muzinga,Chipped,4866
+414614,43,MissedShots,0.735,0.67,0.020110299810767174,Aboubakar Kamara,a,4866,OpenPlay,2020,RightFoot,16070,Monaco,Dijon,3,0,2021-04-11 15:05:00,Yassine Benzia,Pass,4866
+414620,57,MissedShots,0.764000015258789,0.3220000076293945,0.03374459967017174,Aboubakar Kamara,a,4866,OpenPlay,2020,RightFoot,16070,Monaco,Dijon,3,0,2021-04-11 15:05:00,Yassine Benzia,Pass,4866
+415708,1,BlockedShot,0.9130000305175782,0.3659999847412109,0.01784750074148178,Aboubakar Kamara,h,4866,FromCorner,2020,Head,16083,Dijon,Nice,2,0,2021-04-18 13:00:00,Yassine Benzia,Cross,4866
+415709,9,SavedShot,0.6909999847412109,0.46299999237060546,0.01271469984203577,Aboubakar Kamara,h,4866,OpenPlay,2020,RightFoot,16083,Dijon,Nice,2,0,2021-04-18 13:00:00,,BallRecovery,4866
+415724,79,BlockedShot,0.855999984741211,0.46599998474121096,0.12466300278902054,Aboubakar Kamara,h,4866,OpenPlay,2020,RightFoot,16083,Dijon,Nice,2,0,2021-04-18 13:00:00,Yassine Benzia,Pass,4866
+417726,1,BlockedShot,0.9,0.26799999237060546,0.03031959943473339,Aboubakar Kamara,a,4866,OpenPlay,2020,RightFoot,16091,Rennes,Dijon,5,1,2021-04-25 13:00:00,Yassine Benzia,Pass,4866
+424569,38,Goal,0.894000015258789,0.6140000152587891,0.07149689644575119,Aboubakar Kamara,a,4866,OpenPlay,2020,RightFoot,16134,Saint-Etienne,Dijon,0,1,2021-05-23 19:00:00,Moussa Konate,Chipped,4866

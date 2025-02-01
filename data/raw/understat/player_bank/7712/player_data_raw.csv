@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+7712,Billy Sharp,25,1045,3,4.138953751884401,2,3.0103288423269987,16,15,1,1,F S,Sheffield United,3,4.138953751884401,5.812584816478193,1.0371485203504562,2019
+7712,Billy Sharp,16,723,3,2.9830773063004017,0,0.5832782126963139,9,4,1,0,F S,Sheffield United,1,1.4607392735779285,2.650699596852064,0.6648954264819622,2020

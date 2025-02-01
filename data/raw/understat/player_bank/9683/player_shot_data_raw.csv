@@ -1,0 +1,3 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+454207,13,BlockedShot,0.919000015258789,0.649000015258789,0.05868050083518028,Mads Bech Sørensen,h,9683,FromCorner,2021,LeftFoot,16537,Brentford,Manchester United,1,3,2022-01-19 20:00:00,,None,9683
+472577,56,BlockedShot,0.8730000305175781,0.54,0.013181399554014206,Mads Bech Sørensen,a,9683,FromCorner,2021,Head,16722,Manchester United,Brentford,3,0,2022-05-02 19:00:00,Mads Roerslev,Aerial,9683

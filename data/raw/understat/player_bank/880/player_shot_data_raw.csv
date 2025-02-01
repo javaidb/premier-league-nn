@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+23167,13,MissedShots,0.9080000305175782,0.3089999961853027,0.06389780342578888,Callum McManaman,h,880,OpenPlay,2014,RightFoot,4534,West Bromwich Albion,Swansea,2,0,2015-02-11 20:00:00,Saido Berahino,Pass,880
+23169,21,BlockedShot,0.78,0.49599998474121093,0.025140199810266495,Callum McManaman,h,880,OpenPlay,2014,LeftFoot,4534,West Bromwich Albion,Swansea,2,0,2015-02-11 20:00:00,,Rebound,880
+20333,88,SavedShot,0.97,0.629000015258789,0.1016089990735054,Callum McManaman,h,880,OpenPlay,2014,LeftFoot,4471,West Bromwich Albion,Liverpool,0,0,2015-04-25 15:00:00,Brown Ideye,Pass,880
+21455,4,SavedShot,0.9530000305175781,0.33799999237060546,0.07463619858026505,Callum McManaman,h,880,OpenPlay,2014,RightFoot,4428,West Bromwich Albion,Chelsea,3,0,2015-05-18 20:00:00,Craig Dawson,Pass,880
+57236,71,MissedShots,0.925,0.6680000305175782,0.07018859684467316,Callum McManaman,h,880,OpenPlay,2015,RightFoot,107,West Bromwich Albion,Chelsea,2,3,2015-08-23 16:30:00,Rickie Lambert,Pass,880
+57718,61,BlockedShot,0.884000015258789,0.39099998474121095,0.06785990297794342,Callum McManaman,a,880,OpenPlay,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,James McClean,Cross,880
+57724,79,MissedShots,0.879000015258789,0.6419999694824219,0.07907070219516754,Callum McManaman,a,880,OpenPlay,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,James Morrison,Pass,880
+58005,58,BlockedShot,0.885,0.6840000152587891,0.05048789829015732,Callum McManaman,h,880,OpenPlay,2015,LeftFoot,125,West Bromwich Albion,Southampton,0,0,2015-09-12 18:00:00,,None,880
+58006,59,MissedShots,0.79,0.5709999847412109,0.03693930059671402,Callum McManaman,h,880,OpenPlay,2015,RightFoot,125,West Bromwich Albion,Southampton,0,0,2015-09-12 18:00:00,Craig Gardner,Pass,880
+58743,92,SavedShot,0.919000015258789,0.68,0.05551160126924515,Callum McManaman,a,880,OpenPlay,2015,RightFoot,151,Crystal Palace,West Bromwich Albion,2,0,2015-10-03 15:45:00,,BallRecovery,880
+53777,86,MissedShots,0.855,0.5070000076293946,0.043822698295116425,Callum McManaman,h,880,OpenPlay,2015,RightFoot,187,West Bromwich Albion,Leicester,2,3,2015-10-31 19:00:00,Rickie Lambert,TakeOn,880
+53778,92,MissedShots,0.825999984741211,0.4370000076293945,0.0405471995472908,Callum McManaman,h,880,OpenPlay,2015,RightFoot,187,West Bromwich Albion,Leicester,2,3,2015-10-31 19:00:00,Rickie Lambert,HeadPass,880

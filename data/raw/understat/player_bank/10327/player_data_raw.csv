@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+10327,Chiquinho,8,191,0,0.5611130073666573,3,1.0862637870013714,5,5,0,0,D S,Wolverhampton Wanderers,0,0.5611130073666573,1.7611470185220242,0.1935874968767166,2021
+10327,Chiquinho,1,5,0,0,0,0.016207994893193245,0,1,0,0,S,Wolverhampton Wanderers,0,0,0.06109914928674698,0.06109914928674698,2024
+10327,Chiquinho,1,5,0,0,0,0.016207994893193245,0,1,0,0,S,Wolverhampton Wanderers,0,0,0.06109914928674698,0.06109914928674698,2025

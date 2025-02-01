@@ -1,0 +1,11 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+51564,64,BlockedShot,0.9359999847412109,0.7140000152587891,0.07848309725522995,Ikechi Anya,a,577,OpenPlay,2015,LeftFoot,83,Everton,Watford,2,2,2015-08-08 18:00:00,Etienne Capoue,Pass,577
+51572,86,MissedShots,0.7219999694824218,0.6329999923706054,0.011635799892246723,Ikechi Anya,a,577,OpenPlay,2015,RightFoot,83,Everton,Watford,2,2,2015-08-08 18:00:00,Ben Watson,TakeOn,577
+57604,66,BlockedShot,0.8519999694824218,0.595999984741211,0.07554180175065994,Ikechi Anya,a,577,OpenPlay,2015,RightFoot,117,Manchester City,Watford,2,0,2015-08-29 18:00:00,Jurado,Pass,577
+57611,90,BlockedShot,0.7330000305175781,0.545,0.01237920019775629,Ikechi Anya,a,577,OpenPlay,2015,RightFoot,117,Manchester City,Watford,2,0,2015-08-29 18:00:00,José Holebas,TakeOn,577
+58557,60,MissedShots,0.73,0.5729999923706055,0.01122129987925291,Ikechi Anya,h,577,SetPiece,2015,LeftFoot,149,Watford,Crystal Palace,0,1,2015-09-27 19:00:00,,None,577
+58681,55,MissedShots,0.865999984741211,0.47099998474121096,0.02664720080792904,Ikechi Anya,a,577,OpenPlay,2015,Head,153,Bournemouth,Watford,1,1,2015-10-03 18:00:00,Odion Ighalo,Cross,577
+58683,67,SavedShot,0.9069999694824219,0.6680000305175782,0.3131980001926422,Ikechi Anya,a,577,OpenPlay,2015,LeftFoot,153,Bournemouth,Watford,1,1,2015-10-03 18:00:00,Almen Abdi,Throughball,577
+59337,18,BlockedShot,0.789000015258789,0.6120000076293945,0.03155609965324402,Ikechi Anya,a,577,OpenPlay,2015,LeftFoot,175,Stoke,Watford,0,2,2015-10-24 18:00:00,Almen Abdi,Pass,577
+53514,51,BlockedShot,0.8590000152587891,0.3170000076293945,0.06886839866638184,Ikechi Anya,h,577,OpenPlay,2015,LeftFoot,186,Watford,West Ham,2,0,2015-10-31 19:00:00,Etienne Capoue,Pass,577
+56431,24,MissedShots,0.9230000305175782,0.710999984741211,0.0511757992208004,Ikechi Anya,a,577,OpenPlay,2015,LeftFoot,445,Liverpool,Watford,2,0,2016-05-08 19:00:00,Almen Abdi,Pass,577

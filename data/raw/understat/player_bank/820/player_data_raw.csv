@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+820,Boaz Myhill,11,932,0,0,0,0,0,0,1,0,GK S,West Bromwich Albion,0,0,0.5710180848836899,0.5710180848836899,2014
+820,Boaz Myhill,23,2070,0,0,0,0,0,0,2,0,GK,West Bromwich Albion,0,0,1.0126017173752189,1.0126017173752189,2015
+820,Boaz Myhill,1,90,0,0,0,0,0,0,1,0,GK,West Bromwich Albion,0,0,0,0,2017

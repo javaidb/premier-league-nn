@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+60591,34,MissedShots,0.7609999847412109,0.6580000305175782,0.016241900622844696,Stephen Kingsley,h,892,OpenPlay,2015,LeftFoot,379,Swansea,Aston Villa,1,0,2016-03-19 21:30:00,,None,892
+56996,67,OwnGoal,0.02,0.509000015258789,0,Stephen Kingsley,a,892,FromCorner,2015,LeftFoot,439,West Ham,Swansea,1,4,2016-05-07 18:00:00,,Save,892
+112140,36,SavedShot,0.7280000305175781,0.7269999694824218,0.012356599792838097,Stephen Kingsley,a,892,OpenPlay,2016,LeftFoot,464,Burnley,Swansea,0,1,2016-08-13 18:00:00,Wayne Routledge,Pass,892
+112154,80,MissedShots,0.7280000305175781,0.545,0.011324699968099594,Stephen Kingsley,a,892,SetPiece,2016,LeftFoot,464,Burnley,Swansea,0,1,2016-08-13 18:00:00,,None,892
+112743,14,MissedShots,0.845999984741211,0.7119999694824218,0.06486369669437408,Stephen Kingsley,h,892,OpenPlay,2016,LeftFoot,474,Swansea,Hull,0,2,2016-08-20 18:00:00,Wayne Routledge,TakeOn,892
+117779,64,MissedShots,0.794000015258789,0.7469999694824219,0.01470009982585907,Stephen Kingsley,h,892,FromCorner,2016,LeftFoot,3343,Swansea,Arsenal,0,4,2017-01-14 19:00:00,,None,892

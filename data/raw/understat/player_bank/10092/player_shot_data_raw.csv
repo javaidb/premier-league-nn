@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+464425,86,SavedShot,0.855,0.6630000305175782,0.05358149856328964,Tariqe Fosu-Henry,a,10092,OpenPlay,2021,RightFoot,16668,Leicester,Brentford,2,1,2022-03-20 14:00:00,Shandon Baptiste,Pass,10092

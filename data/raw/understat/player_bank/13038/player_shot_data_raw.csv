@@ -1,0 +1,6 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+601448,48,MissedShots,0.8090000152587891,0.5320000076293945,0.04416843503713608,Justin Devenny,h,13038,OpenPlay,2024,LeftFoot,26706,Crystal Palace,Fulham,0,2,2024-11-09 15:00:00,Daniel Muñoz,Rebound,13038
+602894,45,Goal,0.879000015258789,0.5829999923706055,0.45421501994132996,Justin Devenny,a,13038,OpenPlay,2024,RightFoot,26716,Aston Villa,Crystal Palace,2,2,2024-11-23 15:00:00,Ismaila Sarr,Pass,13038
+602903,66,BlockedShot,0.7980000305175782,0.29100000381469726,0.06326115131378174,Justin Devenny,a,13038,DirectFreekick,2024,LeftFoot,26716,Aston Villa,Crystal Palace,2,2,2024-11-23 15:00:00,,Standard,13038
+605870,91,BlockedShot,0.8640000152587891,0.5640000152587891,0.09306420385837555,Justin Devenny,h,13038,OpenPlay,2024,LeftFoot,26747,Crystal Palace,Manchester City,2,2,2024-12-07 15:00:00,Tyrick Mitchell,Pass,13038
+612316,78,SavedShot,0.7290000152587891,0.3529999923706055,0.019895857200026512,Justin Devenny,a,13038,OpenPlay,2024,LeftFoot,26821,West Ham,Crystal Palace,0,2,2025-01-18 15:00:00,Chris Richards,BallRecovery,13038

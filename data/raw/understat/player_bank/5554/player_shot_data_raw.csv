@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+120609,51,BlockedShot,0.9159999847412109,0.3509999847412109,0.07731080055236816,Luciano Narsingh,a,5554,OpenPlay,2016,RightFoot,3455,West Ham,Swansea,1,0,2017-04-08 15:00:00,Leroy Fer,Pass,5554
+120615,80,MissedShots,0.87,0.34299999237060547,0.098540298640728,Luciano Narsingh,a,5554,OpenPlay,2016,RightFoot,3455,West Ham,Swansea,1,0,2017-04-08 15:00:00,Leroy Fer,Throughball,5554
+159544,91,SavedShot,0.8919999694824219,0.26399999618530273,0.031216099858283997,Luciano Narsingh,h,5554,OpenPlay,2017,RightFoot,7157,Swansea,Newcastle United,0,1,2017-09-10 16:00:00,Wilfried Bony,Pass,5554
+159621,53,MissedShots,0.8209999847412109,0.37,0.022780699655413628,Luciano Narsingh,h,5554,OpenPlay,2017,LeftFoot,7206,Swansea,Leicester,1,2,2017-10-21 15:00:00,,Rebound,5554
+161271,91,ShotOnPost,0.875,0.385,0.3078399896621704,Luciano Narsingh,h,5554,OpenPlay,2017,RightFoot,7225,Swansea,Brighton,0,1,2017-11-04 15:00:00,Tammy Abraham,Pass,5554
+183247,6,SavedShot,0.8630000305175781,0.28100000381469725,0.03661210089921951,Luciano Narsingh,a,5554,OpenPlay,2017,RightFoot,7293,Everton,Swansea,3,1,2017-12-18 20:00:00,Tammy Abraham,Pass,5554
+183251,22,MissedShots,0.8190000152587891,0.27899999618530275,0.026693100109696388,Luciano Narsingh,a,5554,OpenPlay,2017,LeftFoot,7293,Everton,Swansea,3,1,2017-12-18 20:00:00,Tammy Abraham,Pass,5554
+186061,59,SavedShot,0.8769999694824219,0.41900001525878905,0.08753349632024765,Luciano Narsingh,a,5554,OpenPlay,2017,RightFoot,7327,Watford,Swansea,1,2,2017-12-30 15:00:00,Jordan Ayew,Pass,5554
+186067,89,Goal,0.9390000152587891,0.57,0.5169450044631958,Luciano Narsingh,a,5554,SetPiece,2017,LeftFoot,7327,Watford,Swansea,1,2,2017-12-30 15:00:00,,Rebound,5554
+186427,64,SavedShot,0.9690000152587891,0.34200000762939453,0.0625808984041214,Luciano Narsingh,h,5554,OpenPlay,2017,RightFoot,7338,Swansea,Tottenham,0,2,2018-01-02 19:45:00,Renato Sanches,Pass,5554
+186433,83,BlockedShot,0.8530000305175781,0.305,0.02948400005698204,Luciano Narsingh,h,5554,OpenPlay,2017,RightFoot,7338,Swansea,Tottenham,0,2,2018-01-02 19:45:00,Jordan Ayew,Pass,5554

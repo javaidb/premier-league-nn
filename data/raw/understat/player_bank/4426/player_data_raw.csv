@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+4426,Michael Duff,21,1812,0,0.11047709733247757,0,0.7724526710808277,2,4,4,1,D,Burnley,0,0.11047709733247757,1.8002619706094265,1.7725529707968235,2014

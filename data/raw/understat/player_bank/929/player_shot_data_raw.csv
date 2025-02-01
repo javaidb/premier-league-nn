@@ -1,0 +1,42 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15058,58,BlockedShot,0.725,0.5220000076293946,0.019347600638866425,Adam Johnson,a,929,OpenPlay,2014,LeftFoot,4772,Queens Park Rangers,Sunderland,1,0,2014-08-30 15:00:00,John O&#039;Shea,Pass,929
+15382,3,Goal,0.885,0.6359999847412109,0.05879700183868408,Adam Johnson,h,929,OpenPlay,2014,RightFoot,4724,Sunderland,Tottenham,2,2,2014-09-13 15:00:00,Sebastian Larsson,TakeOn,929
+15397,67,MissedShots,0.7290000152587891,0.44799999237060545,0.01855289936065674,Adam Johnson,h,929,OpenPlay,2014,LeftFoot,4724,Sunderland,Tottenham,2,2,2014-09-13 15:00:00,Emanuele Giaccherini,Pass,929
+15454,50,MissedShots,0.9169999694824219,0.32299999237060545,0.08381850272417068,Adam Johnson,a,929,OpenPlay,2014,LeftFoot,4732,Burnley,Sunderland,0,0,2014-09-20 15:00:00,Sebastian Larsson,TakeOn,929
+15890,11,SavedShot,0.960999984741211,0.68,0.057343099266290665,Adam Johnson,h,929,OpenPlay,2014,LeftFoot,4745,Sunderland,Swansea,0,0,2014-09-27 15:00:00,Connor Wickham,HeadPass,929
+16845,74,BlockedShot,0.7290000152587891,0.5070000076293946,0.018624499440193176,Adam Johnson,a,929,SetPiece,2014,LeftFoot,4703,Southampton,Sunderland,8,0,2014-10-18 15:00:00,Lee Cattermole,Pass,929
+16798,29,SavedShot,0.720999984741211,0.500999984741211,0.019287599250674248,Adam Johnson,a,929,SetPiece,2014,LeftFoot,4672,Leicester,Sunderland,0,0,2014-11-22 15:00:00,Sebastian Larsson,Pass,929
+16800,36,MissedShots,0.76,0.485,0.008989609777927399,Adam Johnson,a,929,FromCorner,2014,LeftFoot,4672,Leicester,Sunderland,0,0,2014-11-22 15:00:00,Sebastian Larsson,Chipped,929
+18310,83,MissedShots,0.8619999694824219,0.49599998474121093,0.3259719908237457,Adam Johnson,h,929,OpenPlay,2014,RightFoot,4686,Sunderland,Chelsea,0,0,2014-11-29 17:30:00,,Rebound,929
+18312,86,MissedShots,0.735,0.595999984741211,0.01987919956445694,Adam Johnson,h,929,OpenPlay,2014,LeftFoot,4686,Sunderland,Chelsea,0,0,2014-11-29 17:30:00,Sebastian Larsson,Pass,929
+18381,55,SavedShot,0.8209999847412109,0.26899999618530274,0.06801260262727737,Adam Johnson,h,929,DirectFreekick,2014,LeftFoot,4613,Sunderland,West Ham,1,1,2014-12-13 15:00:00,,Standard,929
+19082,76,MissedShots,0.9030000305175782,0.3629999923706055,0.122189000248909,Adam Johnson,a,929,OpenPlay,2014,LeftFoot,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,Connor Wickham,TakeOn,929
+19085,89,Goal,0.905,0.4520000076293945,0.5840920209884644,Adam Johnson,a,929,OpenPlay,2014,LeftFoot,4626,Newcastle United,Sunderland,0,1,2014-12-21 13:30:00,William Buckley,Pass,929
+17975,0,Goal,0.9890000152587891,0.5529999923706055,0.6091399788856506,Adam Johnson,h,929,OpenPlay,2014,LeftFoot,4632,Sunderland,Hull,1,3,2014-12-26 15:00:00,,Tackle,929
+18328,63,SavedShot,0.885,0.5659999847412109,0.11374399811029434,Adam Johnson,a,929,OpenPlay,2014,RightFoot,4644,Aston Villa,Sunderland,0,0,2014-12-28 15:00:00,Connor Wickham,Pass,929
+19646,70,Goal,0.885,0.5,0.7611690163612366,Adam Johnson,a,929,Penalty,2014,LeftFoot,4552,Manchester City,Sunderland,3,2,2015-01-01 15:00:00,,Standard,929
+18131,51,ShotOnPost,0.730999984741211,0.585,0.01778320036828518,Adam Johnson,h,929,OpenPlay,2014,LeftFoot,4561,Sunderland,Liverpool,0,1,2015-01-10 12:45:00,Patrick van Aanholt,Pass,929
+19273,80,SavedShot,0.7140000152587891,0.525,0.016390200704336166,Adam Johnson,a,929,OpenPlay,2014,LeftFoot,4576,Tottenham,Sunderland,2,1,2015-01-17 15:00:00,Connor Wickham,Pass,929
+23772,33,BlockedShot,0.7240000152587891,0.4829999923706055,0.020174499601125717,Adam Johnson,h,929,OpenPlay,2014,RightFoot,4585,Sunderland,Burnley,2,0,2015-01-31 15:00:00,Anthony Réveillere,Pass,929
+23514,82,BlockedShot,0.9269999694824219,0.6580000305175782,0.06145529821515083,Adam Johnson,h,929,FromCorner,2014,LeftFoot,4526,Sunderland,Queens Park Rangers,0,2,2015-02-10 19:45:00,,Rebound,929
+21000,87,MissedShots,0.720999984741211,0.3160000038146973,0.01078370027244091,Adam Johnson,h,929,OpenPlay,2014,LeftFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,Jack Rodwell,Pass,929
+20894,84,BlockedShot,0.9169999694824219,0.639000015258789,0.11128199845552444,Adam Johnson,a,929,OpenPlay,2014,LeftFoot,4409,Everton,Sunderland,0,2,2015-05-09 12:45:00,Steven Fletcher,Pass,929
+20830,71,SavedShot,0.8630000305175781,0.3160000038146973,0.03543800115585327,Adam Johnson,h,929,OpenPlay,2014,LeftFoot,4421,Sunderland,Leicester,0,0,2015-05-16 15:00:00,Sebastian Larsson,TakeOn,929
+22049,41,MissedShots,0.75,0.41900001525878905,0.017131300643086433,Adam Johnson,a,929,OpenPlay,2014,LeftFoot,4429,Arsenal,Sunderland,0,0,2015-05-20 19:45:00,Connor Wickham,Pass,929
+22330,47,MissedShots,0.7580000305175781,0.524000015258789,0.04317609965801239,Adam Johnson,a,929,OpenPlay,2014,LeftFoot,4431,Chelsea,Sunderland,3,1,2015-05-24 15:00:00,Vito Mannone,Pass,929
+51581,21,MissedShots,0.7080000305175781,0.3729999923706055,0.01219670008867979,Adam Johnson,a,929,OpenPlay,2015,LeftFoot,84,Leicester,Sunderland,4,2,2015-08-08 18:00:00,Sebastian Larsson,Pass,929
+58410,46,BlockedShot,0.7180000305175781,0.54,0.017177699133753777,Adam Johnson,a,929,OpenPlay,2015,LeftFoot,146,Manchester United,Sunderland,3,0,2015-09-26 18:00:00,Jeremain Lens,Pass,929
+59382,47,Goal,0.885,0.5,0.7611690163612366,Adam Johnson,h,929,Penalty,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,,Standard,929
+59400,71,ShotOnPost,0.7680000305175781,0.28299999237060547,0.021533099934458733,Adam Johnson,h,929,OpenPlay,2015,LeftFoot,177,Sunderland,Newcastle United,3,0,2015-10-25 16:00:00,Jeremain Lens,Pass,929
+59460,14,ShotOnPost,0.86,0.47200000762939454,0.07560089975595474,Adam Johnson,a,929,OpenPlay,2015,RightFoot,188,Everton,Sunderland,6,2,2015-11-01 17:30:00,,Rebound,929
+59473,26,MissedShots,0.7809999847412109,0.669000015258789,0.019342800602316856,Adam Johnson,a,929,OpenPlay,2015,LeftFoot,188,Everton,Sunderland,6,2,2015-11-01 17:30:00,Jermain Defoe,Pass,929
+52766,50,MissedShots,0.7530000305175781,0.65,0.014826199971139431,Adam Johnson,h,929,OpenPlay,2015,LeftFoot,196,Sunderland,Southampton,0,1,2015-11-07 19:00:00,,None,929
+52775,72,MissedShots,0.765,0.37400001525878906,0.0636771023273468,Adam Johnson,h,929,DirectFreekick,2015,LeftFoot,196,Sunderland,Southampton,0,1,2015-11-07 19:00:00,,Standard,929
+52728,90,MissedShots,0.7390000152587891,0.40599998474121096,0.02415109984576702,Adam Johnson,h,929,OpenPlay,2015,LeftFoot,211,Sunderland,Stoke,2,0,2015-11-28 19:00:00,Steven Fletcher,LayOff,929
+54858,88,MissedShots,0.9540000152587891,0.6790000152587891,0.051534898579120636,Adam Johnson,h,929,OpenPlay,2015,LeftFoot,233,Sunderland,Watford,0,1,2015-12-12 19:00:00,Duncan Watmore,HeadPass,929
+53838,39,MissedShots,0.8059999847412109,0.5029999923706054,0.1421550065279007,Adam Johnson,h,929,DirectFreekick,2015,LeftFoot,270,Sunderland,Liverpool,0,1,2015-12-30 23:45:00,,Standard,929
+53842,49,BlockedShot,0.7619999694824219,0.49400001525878906,0.023498699069023132,Adam Johnson,h,929,SetPiece,2015,LeftFoot,270,Sunderland,Liverpool,0,1,2015-12-30 23:45:00,Fabio Borini,Pass,929
+53623,5,MissedShots,0.914000015258789,0.5020000076293946,0.5036789774894714,Adam Johnson,a,929,OpenPlay,2015,RightFoot,286,Swansea,Sunderland,2,4,2016-01-13 23:45:00,Patrick van Aanholt,Pass,929
+52295,53,SavedShot,0.7080000305175781,0.47400001525878904,0.011426599696278572,Adam Johnson,h,929,OpenPlay,2015,LeftFoot,306,Sunderland,Bournemouth,1,1,2016-01-23 19:00:00,,None,929
+52432,81,Goal,0.7559999847412109,0.255,0.0387532003223896,Adam Johnson,a,929,DirectFreekick,2015,LeftFoot,327,Liverpool,Sunderland,2,2,2016-02-06 19:00:00,,Standard,929
+52435,92,BlockedShot,0.759000015258789,0.4370000076293945,0.025981200858950615,Adam Johnson,a,929,OpenPlay,2015,RightFoot,327,Liverpool,Sunderland,2,2,2016-02-06 19:00:00,Patrick van Aanholt,Pass,929

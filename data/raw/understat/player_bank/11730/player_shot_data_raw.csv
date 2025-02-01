@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+541276,84,MissedShots,0.789000015258789,0.615,0.034635528922080994,Anis Ben Slimane,a,11730,OpenPlay,2023,RightFoot,21960,West Ham,Sheffield United,2,0,2023-09-30 14:00:00,Tom Davies,Pass,11730
+541282,95,SavedShot,0.774000015258789,0.44599998474121094,0.012557204812765121,Anis Ben Slimane,a,11730,OpenPlay,2023,RightFoot,21960,West Ham,Sheffield United,2,0,2023-09-30 14:00:00,,Aerial,11730
+552937,55,SavedShot,0.9109999847412109,0.47099998474121096,0.46932846307754517,Anis Ben Slimane,h,11730,OpenPlay,2023,LeftFoot,22052,Sheffield United,Brentford,1,0,2023-12-09 15:00:00,Cameron Archer,Pass,11730
+552938,58,SavedShot,0.7469999694824219,0.6569999694824219,0.020518600940704346,Anis Ben Slimane,h,11730,OpenPlay,2023,RightFoot,22052,Sheffield United,Brentford,1,0,2023-12-09 15:00:00,Cameron Archer,Pass,11730
+552944,81,MissedShots,0.9590000152587891,0.34900001525878904,0.11218105256557465,Anis Ben Slimane,h,11730,OpenPlay,2023,RightFoot,22052,Sheffield United,Brentford,1,0,2023-12-09 15:00:00,,TakeOn,11730
+556520,80,OwnGoal,0.07900000095367432,0.455,0,Anis Ben Slimane,h,11730,OpenPlay,2023,RightFoot,22084,Sheffield United,Luton,2,3,2023-12-26 15:00:00,,None,11730
+556522,90,MissedShots,0.87,0.34799999237060547,0.05794338509440422,Anis Ben Slimane,h,11730,SetPiece,2023,RightFoot,22084,Sheffield United,Luton,2,3,2023-12-26 15:00:00,George Baldock,Pass,11730
+576851,97,BlockedShot,0.8730000305175781,0.29200000762939454,0.035633254796266556,Anis Ben Slimane,a,11730,SetPiece,2023,RightFoot,22240,Newcastle United,Sheffield United,5,1,2024-04-27 14:00:00,Ben Osborn,Pass,11730
+579840,88,BlockedShot,0.865,0.6020000076293945,0.05980970337986946,Anis Ben Slimane,a,11730,OpenPlay,2023,RightFoot,22257,Everton,Sheffield United,1,0,2024-05-11 14:00:00,,Dispossessed,11730

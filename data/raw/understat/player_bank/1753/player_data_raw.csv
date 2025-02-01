@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1753,David Nugent,29,1685,5,6.2299362532794476,2,1.8909171959385276,41,21,3,0,F M S,Leicester,4,4.7075988464057446,7.812487644143403,2.3363884771242738,2014
+1753,David Nugent,4,36,0,0,0,0,0,0,0,0,S,Middlesbrough,0,0,0.08954309672117233,0.08954309672117233,2016

@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14430,34,Goal,0.9619999694824218,0.4470000076293945,0.07641270011663437,Brede Hangeland,a,933,FromCorner,2014,Head,4755,Arsenal,Crystal Palace,2,1,2014-08-16 17:30:00,Jason Puncheon,Aerial,933
+16434,15,Goal,0.9669999694824218,0.4909999847412109,0.7574849724769592,Brede Hangeland,a,933,FromCorner,2014,RightFoot,4712,West Bromwich Albion,Crystal Palace,2,2,2014-10-25 15:00:00,,Rebound,933
+16433,15,BlockedShot,0.96,0.509000015258789,0.1357160061597824,Brede Hangeland,a,933,FromCorner,2014,Head,4712,West Bromwich Albion,Crystal Palace,2,2,2014-10-25 15:00:00,Yannick Bolasie,Cross,933
+24221,87,SavedShot,0.8869999694824219,0.509000015258789,0.01591859944164753,Brede Hangeland,h,933,FromCorner,2014,Head,4533,Crystal Palace,Newcastle United,1,1,2015-02-11 20:00:00,Jason Puncheon,Aerial,933
+58301,21,SavedShot,0.9119999694824219,0.35200000762939454,0.06037360057234764,Brede Hangeland,a,933,FromCorner,2015,RightFoot,138,Tottenham,Crystal Palace,1,0,2015-09-20 16:30:00,Pape Souaré,HeadPass,933
+58318,64,BlockedShot,0.93,0.4620000076293945,0.05156579986214638,Brede Hangeland,a,933,FromCorner,2015,Head,138,Tottenham,Crystal Palace,1,0,2015-09-20 16:30:00,Jason Puncheon,Aerial,933
+58541,12,SavedShot,0.950999984741211,0.4879999923706055,0.22004300355911255,Brede Hangeland,a,933,SetPiece,2015,Head,149,Watford,Crystal Palace,0,1,2015-09-27 19:00:00,Yohan Cabaye,CornerAwarded,933
+58928,42,MissedShots,0.9669999694824218,0.595999984741211,0.05827130004763603,Brede Hangeland,h,933,FromCorner,2015,Head,165,Crystal Palace,West Ham,1,3,2015-10-17 18:00:00,Yohan Cabaye,Cross,933
+52554,47,SavedShot,0.909000015258789,0.544000015258789,0.10217099636793137,Brede Hangeland,h,933,SetPiece,2015,Head,264,Crystal Palace,Swansea,0,0,2015-12-28 19:00:00,Yohan Cabaye,Cross,933

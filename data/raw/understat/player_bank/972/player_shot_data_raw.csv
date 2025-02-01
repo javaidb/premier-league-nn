@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+116688,76,BlockedShot,0.8959999847412109,0.49700000762939456,0.057534199208021164,Jerome Sinclair,a,972,FromCorner,2016,Head,3338,Stoke,Watford,2,0,2017-01-04 00:00:00,Etienne Capoue,Cross,972

@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,1,0.07124289870262146,90,MC,West Bromwich Albion,Liverpool,1,1,2016-05-15,459,2015,57901,0.011469800025224686,0,1,0,0.07124289870262146,0.08271270245313644,0.07124289870262146,1023
+0,0,0,11,Sub,Liverpool,Watford,2,0,2016-05-08,445,2015,62433,0.661063015460968,0,2,0,0,0.7438799738883972,0.7438799738883972,1023
+0,0,0,9,Sub,Swansea,Liverpool,3,1,2016-05-01,433,2015,63490,0,0,0,0,0,0,0,1023

@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+17069,94,MissedShots,0.795,0.6329999923706054,0.021314099431037903,Anthony Réveillere,h,4388,FromCorner,2014,RightFoot,4665,Sunderland,Everton,1,1,2014-11-09 13:30:00,,None,4388
+18386,64,MissedShots,0.8119999694824219,0.7090000152587891,0.019253399223089218,Anthony Réveillere,h,4388,OpenPlay,2014,LeftFoot,4613,Sunderland,West Ham,1,1,2014-12-13 15:00:00,Connor Wickham,Pass,4388
+18389,71,MissedShots,0.7969999694824219,0.675,0.023824499920010567,Anthony Réveillere,h,4388,OpenPlay,2014,LeftFoot,4613,Sunderland,West Ham,1,1,2014-12-13 15:00:00,,None,4388
+20550,57,SavedShot,0.7630000305175781,0.3320000076293945,0.018257100135087967,Anthony Réveillere,h,4388,OpenPlay,2014,LeftFoot,4497,Sunderland,Aston Villa,0,4,2015-03-14 15:00:00,Liam Bridcutt,Pass,4388

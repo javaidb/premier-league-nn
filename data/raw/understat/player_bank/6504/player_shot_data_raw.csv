@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+189375,86,MissedShots,0.9269999694824219,0.485,0.5450019836425781,Michael Obafemi,h,6504,OpenPlay,2017,RightFoot,7355,Southampton,Tottenham,1,1,2018-01-21 16:00:00,Dusan Tadic,Pass,6504
+250332,86,MissedShots,0.8619999694824219,0.41900001525878905,0.10108999907970428,Michael Obafemi,a,6504,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Mario Lemina,TakeOn,6504
+250337,91,BlockedShot,0.9540000152587891,0.4179999923706055,0.12115799635648727,Michael Obafemi,a,6504,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,,Rebound,6504
+250336,91,SavedShot,0.9269999694824219,0.4370000076293945,0.3961920142173767,Michael Obafemi,a,6504,OpenPlay,2018,RightFoot,9320,Fulham,Southampton,3,2,2018-11-24 15:00:00,Mohamed Elyounoussi,Cross,6504
+250653,6,BlockedShot,0.845,0.45799999237060546,0.09242159873247147,Michael Obafemi,h,6504,OpenPlay,2018,LeftFoot,9327,Southampton,Manchester United,2,2,2018-12-01 17:30:00,Nathan Redmond,Pass,6504
+251610,69,MissedShots,0.9059999847412109,0.3509999847412109,0.3408209979534149,Michael Obafemi,a,6504,OpenPlay,2018,RightFoot,9371,Huddersfield,Southampton,1,3,2018-12-22 15:00:00,Jannik Vestergaard,Throughball,6504
+251611,70,Goal,0.9019999694824219,0.4640000152587891,0.43909600377082825,Michael Obafemi,a,6504,OpenPlay,2018,RightFoot,9371,Huddersfield,Southampton,1,3,2018-12-22 15:00:00,Nathan Redmond,Pass,6504
+251615,85,SavedShot,0.865,0.6309999847412109,0.40280699729919434,Michael Obafemi,a,6504,OpenPlay,2018,LeftFoot,9371,Huddersfield,Southampton,1,3,2018-12-22 15:00:00,Oriol Romeu,BallRecovery,6504
+332315,10,BlockedShot,0.8469999694824218,0.7230000305175781,0.052484799176454544,Michael Obafemi,a,6504,OpenPlay,2019,RightFoot,11763,Arsenal,Southampton,2,2,2019-11-23 15:00:00,Pierre-Emile Højbjerg,Pass,6504
+339533,23,BlockedShot,0.8969999694824219,0.6079999923706054,0.03019550070166588,Michael Obafemi,a,6504,SetPiece,2019,OtherBodyPart,11825,Chelsea,Southampton,0,2,2019-12-26 15:00:00,James Ward-Prowse,Aerial,6504
+339534,30,Goal,0.860999984741211,0.44799999237060545,0.1276790052652359,Michael Obafemi,a,6504,OpenPlay,2019,LeftFoot,11825,Chelsea,Southampton,0,2,2019-12-26 15:00:00,Pierre-Emile Højbjerg,Pass,6504
+352131,45,BlockedShot,0.8819999694824219,0.26799999237060546,0.04549119994044304,Michael Obafemi,a,6504,OpenPlay,2019,RightFoot,11882,Crystal Palace,Southampton,0,2,2020-01-21 19:30:00,Stuart Armstrong,Pass,6504
+353021,83,SavedShot,0.914000015258789,0.5779999923706055,0.12104400247335434,Michael Obafemi,h,6504,OpenPlay,2019,RightFoot,11908,Southampton,Aston Villa,2,0,2020-02-22 15:00:00,,Foul,6504
+353023,87,SavedShot,0.785,0.3189999961853027,0.03616330027580261,Michael Obafemi,h,6504,OpenPlay,2019,RightFoot,11908,Southampton,Aston Villa,2,0,2020-02-22 15:00:00,Stuart Armstrong,TakeOn,6504
+353297,30,Goal,0.8830000305175781,0.43900001525878907,0.3876990079879761,Michael Obafemi,a,6504,OpenPlay,2019,RightFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,James Ward-Prowse,Pass,6504
+353304,47,MissedShots,0.914000015258789,0.505,0.08605069667100906,Michael Obafemi,a,6504,OpenPlay,2019,Head,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Pierre-Emile Højbjerg,Cross,6504
+365035,51,MissedShots,0.909000015258789,0.6880000305175781,0.09909000247716904,Michael Obafemi,a,6504,OpenPlay,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Danny Ings,TakeOn,6504
+365040,59,BlockedShot,0.8490000152587891,0.555,0.12097100168466568,Michael Obafemi,a,6504,OpenPlay,2019,RightFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Nathan Redmond,Pass,6504
+365044,69,BlockedShot,0.8580000305175781,0.47200000762939454,0.09214690327644348,Michael Obafemi,a,6504,OpenPlay,2019,LeftFoot,11937,Norwich,Southampton,0,3,2020-06-19 17:00:00,Danny Ings,HeadPass,6504
+371253,95,Goal,0.9869999694824219,0.47,0.9555969834327698,Michael Obafemi,a,6504,FromCorner,2019,RightFoot,11987,Manchester United,Southampton,2,2,2020-07-13 19:00:00,Jan Bednarek,Rebound,6504
+548389,99,MissedShots,0.8030000305175782,0.5790000152587891,0.039593443274497986,Michael Obafemi,a,6504,OpenPlay,2023,RightFoot,22006,Arsenal,Burnley,3,1,2023-11-11 15:00:00,Wilson Odobert,Pass,6504
+551040,77,MissedShots,0.8569999694824219,0.34099998474121096,0.0769781842827797,Michael Obafemi,h,6504,OpenPlay,2023,LeftFoot,22028,Burnley,Sheffield United,5,0,2023-12-02 15:00:00,Johann Berg Gudmundsson,Pass,6504

@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+311080,9,MissedShots,0.9390000152587891,0.544000015258789,0.11508200317621231,Jack O&#039;Connell,h,7705,FromCorner,2019,Head,11660,Sheffield United,Crystal Palace,1,0,2019-08-18 14:00:00,John Fleck,Cross,7705
+311085,25,BlockedShot,0.899000015258789,0.5609999847412109,0.07507339864969254,Jack O&#039;Connell,h,7705,FromCorner,2019,LeftFoot,11660,Sheffield United,Crystal Palace,1,0,2019-08-18 14:00:00,Oliver Norwood,Pass,7705
+311096,70,SavedShot,0.9780000305175781,0.62,0.011150400154292583,Jack O&#039;Connell,h,7705,FromCorner,2019,Head,11660,Sheffield United,Crystal Palace,1,0,2019-08-18 14:00:00,Chris Basham,Aerial,7705
+312506,45,MissedShots,0.9640000152587891,0.38299999237060545,0.026213400065898895,Jack O&#039;Connell,h,7705,FromCorner,2019,Head,11665,Sheffield United,Leicester,1,2,2019-08-24 15:00:00,Oliver Norwood,Cross,7705
+317336,29,MissedShots,0.8690000152587891,0.48700000762939455,0.07848729938268661,Jack O&#039;Connell,h,7705,FromCorner,2019,LeftFoot,11686,Sheffield United,Southampton,0,1,2019-09-14 14:00:00,John Lundstram,HeadPass,7705
+322376,81,BlockedShot,0.9109999847412109,0.3679999923706055,0.011486600153148174,Jack O&#039;Connell,h,7705,FromCorner,2019,Head,11703,Sheffield United,Liverpool,0,1,2019-09-28 11:30:00,John Lundstram,Aerial,7705
+327163,27,MissedShots,0.894000015258789,0.595999984741211,0.02223370037972927,Jack O&#039;Connell,a,7705,FromCorner,2019,Head,11742,West Ham,Sheffield United,1,1,2019-10-26 15:00:00,John Fleck,Cross,7705
+333049,88,MissedShots,0.924000015258789,0.48400001525878905,0.05090110003948212,Jack O&#039;Connell,h,7705,FromCorner,2019,Head,11770,Sheffield United,Manchester United,3,3,2019-11-24 16:30:00,Oliver Norwood,Aerial,7705
+335182,52,SavedShot,0.960999984741211,0.41400001525878904,0.10697299987077713,Jack O&#039;Connell,h,7705,FromCorner,2019,RightFoot,11786,Sheffield United,Newcastle United,0,2,2019-12-05 19:30:00,,None,7705
+339623,9,MissedShots,0.8690000152587891,0.7390000152587891,0.03136289864778519,Jack O&#039;Connell,h,7705,OpenPlay,2019,LeftFoot,11830,Sheffield United,Watford,1,1,2019-12-26 15:00:00,Enda Stevens,Pass,7705
+351987,35,MissedShots,0.7869999694824219,0.6869999694824219,0.023577800020575523,Jack O&#039;Connell,a,7705,OpenPlay,2019,LeftFoot,11863,Arsenal,Sheffield United,1,1,2020-01-18 15:00:00,Enda Stevens,Pass,7705
+352697,28,MissedShots,0.9419999694824219,0.5370000076293945,0.06942679733037949,Jack O&#039;Connell,h,7705,FromCorner,2019,Head,11900,Sheffield United,Bournemouth,2,1,2020-02-09 14:00:00,,None,7705
+352941,90,BlockedShot,0.9069999694824219,0.4779999923706055,0.07329840213060379,Jack O&#039;Connell,h,7705,FromCorner,2019,Head,11909,Sheffield United,Brighton,1,1,2020-02-22 15:00:00,Oliver Norwood,Cross,7705
+353440,32,BlockedShot,0.9209999847412109,0.46599998474121096,0.13350999355316162,Jack O&#039;Connell,h,7705,FromCorner,2019,RightFoot,11929,Sheffield United,Norwich,1,0,2020-03-07 15:00:00,,Rebound,7705

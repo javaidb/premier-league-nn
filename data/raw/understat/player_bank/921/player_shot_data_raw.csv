@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+16312,92,BlockedShot,0.8019999694824219,0.37200000762939456,0.05129750072956085,Darron Gibson,h,921,OpenPlay,2014,RightFoot,4700,Everton,Aston Villa,3,0,2014-10-18 15:00:00,Samuel Eto&#039;o,Pass,921
+17048,17,MissedShots,0.7319999694824219,0.5879999923706055,0.01617470011115074,Darron Gibson,a,921,OpenPlay,2014,RightFoot,4665,Sunderland,Everton,1,1,2014-11-09 13:30:00,Ross Barkley,Pass,921
+23305,77,SavedShot,0.8109999847412109,0.55,0.018375100567936897,Darron Gibson,a,921,OpenPlay,2014,Head,4529,Chelsea,Everton,1,0,2015-02-11 19:45:00,Romelu Lukaku,Chipped,921
+23916,64,MissedShots,0.764000015258789,0.3509999847412109,0.019846700131893158,Darron Gibson,h,921,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,,BallRecovery,921
+23055,92,MissedShots,0.725,0.509000015258789,0.014515900053083897,Darron Gibson,a,921,FromCorner,2014,RightFoot,4481,Arsenal,Everton,2,0,2015-03-01 14:05:00,,None,921
+21477,12,SavedShot,0.7619999694824219,0.5720000076293945,0.023831799626350403,Darron Gibson,a,921,OpenPlay,2014,RightFoot,4488,Stoke,Everton,2,0,2015-03-04 19:45:00,Luke Garbutt,Pass,921
+21482,36,BlockedShot,0.7290000152587891,0.555,0.014617400243878365,Darron Gibson,a,921,FromCorner,2014,RightFoot,4488,Stoke,Everton,2,0,2015-03-04 19:45:00,,None,921
+22794,82,MissedShots,0.7219999694824218,0.6020000076293945,0.021239599213004112,Darron Gibson,h,921,OpenPlay,2014,RightFoot,4500,Everton,Newcastle United,3,0,2015-03-15 16:00:00,,TakeOn,921
+22243,27,BlockedShot,0.850999984741211,0.590999984741211,0.07930760085582733,Darron Gibson,a,921,OpenPlay,2014,RightFoot,4512,Queens Park Rangers,Everton,1,2,2015-03-22 16:00:00,Romelu Lukaku,Pass,921
+22247,54,MissedShots,0.79,0.6370000076293946,0.033413298428058624,Darron Gibson,a,921,OpenPlay,2014,RightFoot,4512,Queens Park Rangers,Everton,1,2,2015-03-22 16:00:00,Leon Osman,Pass,921
+58587,89,SavedShot,0.7430000305175781,0.37900001525878907,0.02177800051867962,Darron Gibson,a,921,OpenPlay,2015,RightFoot,150,West Bromwich Albion,Everton,2,3,2015-09-28 23:00:00,,None,921
+54610,90,MissedShots,0.735,0.3940000152587891,0.017068300396203995,Darron Gibson,a,921,OpenPlay,2015,RightFoot,231,Norwich,Everton,1,1,2015-12-12 16:45:00,Kevin Mirallas,Pass,921
+116427,84,MissedShots,0.765,0.37900001525878907,0.025627000257372856,Darron Gibson,a,921,OpenPlay,2016,RightFoot,3371,Crystal Palace,Sunderland,0,4,2017-02-04 15:00:00,Billy Jones,Pass,921
+119779,46,BlockedShot,0.754000015258789,0.4,0.018723199144005775,Darron Gibson,h,921,OpenPlay,2016,RightFoot,3404,Sunderland,Manchester City,0,2,2017-03-05 16:00:00,,None,921
+120325,30,MissedShots,0.8019999694824219,0.34900001525878904,0.027584200724959373,Darron Gibson,h,921,FromCorner,2016,RightFoot,3423,Sunderland,Burnley,0,0,2017-03-18 15:00:00,Adnan Januzaj,Pass,921
+120330,46,MissedShots,0.745,0.575,0.012982499785721302,Darron Gibson,h,921,SetPiece,2016,RightFoot,3423,Sunderland,Burnley,0,0,2017-03-18 15:00:00,,None,921
+121403,23,MissedShots,0.855999984741211,0.33,0.03883590176701546,Darron Gibson,h,921,SetPiece,2016,RightFoot,3464,Sunderland,West Ham,2,2,2017-04-15 15:00:00,Wahbi Khazri,Pass,921
+119533,3,MissedShots,0.7419999694824219,0.4759999847412109,0.011926000006496906,Darron Gibson,a,921,FromCorner,2016,RightFoot,3413,Middlesbrough,Sunderland,1,0,2017-04-26 19:45:00,Lee Cattermole,HeadPass,921

@@ -1,0 +1,3 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+479629,84,BlockedShot,0.8469999694824218,0.6129999923706054,0.052352599799633026,Halil Dervisoglu,a,9686,OpenPlay,2022,LeftFoot,18210,Leicester,Brentford,2,2,2022-08-07 13:00:00,Ivan Toney,HeadPass,9686
+479630,85,BlockedShot,0.7230000305175781,0.6419999694824219,0.014539799652993679,Halil Dervisoglu,a,9686,OpenPlay,2022,RightFoot,18210,Leicester,Brentford,2,2,2022-08-07 13:00:00,Ivan Toney,Pass,9686

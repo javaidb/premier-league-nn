@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+606989,90,MissedShots,0.9019999694824219,0.3609999847412109,0.10846922546625137,Ali Al-Hamadi,a,12751,OpenPlay,2024,LeftFoot,26758,Wolverhampton Wanderers,Ipswich,1,2,2024-12-14 15:00:00,Omari Hutchinson,TakeOn,12751
+608407,48,BlockedShot,0.855999984741211,0.4620000076293945,0.23512910306453705,Ali Al-Hamadi,h,12751,OpenPlay,2024,LeftFoot,26771,Ipswich,Newcastle United,0,4,2024-12-21 15:00:00,Conor Chaplin,TakeOn,12751
+608415,71,BlockedShot,0.8430000305175781,0.6469999694824219,0.10807790607213974,Ali Al-Hamadi,h,12751,OpenPlay,2024,RightFoot,26771,Ipswich,Newcastle United,0,4,2024-12-21 15:00:00,Sam Morsy,TakeOn,12751
+608417,81,MissedShots,0.855,0.615999984741211,0.08072338998317719,Ali Al-Hamadi,h,12751,OpenPlay,2024,RightFoot,26771,Ipswich,Newcastle United,0,4,2024-12-21 15:00:00,Nathan Broadhead,Pass,12751

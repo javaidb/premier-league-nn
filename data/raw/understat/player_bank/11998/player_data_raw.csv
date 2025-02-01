@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+11998,Hannes Delcroix,12,575,0,0.23279432207345963,0,0.20352116599678993,4,4,2,0,D S,Burnley,0,0.23279432207345963,1.6811544448137283,1.477633286267519,2023

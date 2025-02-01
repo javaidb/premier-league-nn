@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+51988,91,OwnGoal,0.01100000023841858,0.5229999923706055,0,Mark Bunn,a,678,OpenPlay,2015,OtherBodyPart,451,Arsenal,Aston Villa,4,0,2016-05-15 18:00:00,,None,678

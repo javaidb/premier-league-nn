@@ -1,0 +1,5 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+780,Karl Darlow,9,810,0,0,0,0,0,0,0,0,GK,Newcastle United,0,0,0.15052959695458412,0.15052959695458412,2015
+780,Karl Darlow,10,900,0,0,0,0,0,0,0,0,GK,Newcastle United,0,0,0.27450203988701105,0.27450203988701105,2017
+780,Karl Darlow,25,2250,0,0,0,0,0,0,2,0,GK,Newcastle United,0,0,0.9974315781146288,0.9974315781146288,2020
+780,Karl Darlow,8,720,0,0,0,0,0,0,1,0,GK,Newcastle United,0,0,0.5584848849102855,0.5584848849102855,2021

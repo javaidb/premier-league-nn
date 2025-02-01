@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+527034,86,BlockedShot,0.9319999694824219,0.519000015258789,0.05361342057585716,Cameron Peupion,a,11544,FromCorner,2022,Head,18449,Newcastle United,Brighton,4,1,2023-05-18 18:30:00,Estupiñán,Challenge,11544

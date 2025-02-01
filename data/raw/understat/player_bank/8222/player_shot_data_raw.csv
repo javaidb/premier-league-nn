@@ -1,0 +1,13 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+351857,10,SavedShot,0.8009999847412109,0.7290000152587891,0.016901899129152298,Japhet Tanganga,a,8222,OpenPlay,2019,RightFoot,11871,Watford,Tottenham,0,0,2020-01-18 12:30:00,Son Heung-Min,Pass,8222
+353528,28,BlockedShot,0.7859999847412109,0.345,0.023600900545716286,Japhet Tanganga,a,8222,OpenPlay,2019,LeftFoot,11924,Burnley,Tottenham,1,1,2020-03-07 17:30:00,,None,8222
+353541,79,MissedShots,0.705999984741211,0.425,0.012965399771928787,Japhet Tanganga,a,8222,FromCorner,2019,RightFoot,11924,Burnley,Tottenham,1,1,2020-03-07 17:30:00,,None,8222
+413095,66,BlockedShot,0.9640000152587891,0.495,0.14991100132465363,Japhet Tanganga,a,8222,FromCorner,2020,Head,14732,Newcastle United,Tottenham,2,2,2021-04-04 13:05:00,,Aerial,8222
+422430,68,MissedShots,0.9259999847412109,0.47299999237060547,0.05086579918861389,Japhet Tanganga,h,8222,FromCorner,2020,Head,14793,Tottenham,Wolverhampton Wanderers,2,0,2021-05-16 13:05:00,Son Heung-Min,Aerial,8222
+429066,19,SavedShot,0.9469999694824218,0.42900001525878906,0.11324500292539597,Japhet Tanganga,h,8222,FromCorner,2021,LeftFoot,16404,Tottenham,Watford,1,0,2021-08-29 13:00:00,,None,8222
+434202,22,MissedShots,0.9469999694824218,0.5790000152587891,0.08728720247745514,Japhet Tanganga,a,8222,FromCorner,2021,Head,16434,Arsenal,Tottenham,3,1,2021-09-26 15:30:00,Son Heung-Min,Cross,8222
+445761,92,BlockedShot,0.914000015258789,0.29200000762939454,0.07139240205287933,Japhet Tanganga,h,8222,OpenPlay,2021,RightFoot,16515,Tottenham,Brentford,2,0,2021-12-02 19:30:00,Harry Kane,Pass,8222
+450555,10,BlockedShot,0.8059999847412109,0.7380000305175781,0.02345390059053898,Japhet Tanganga,h,8222,OpenPlay,2021,RightFoot,16563,Tottenham,Crystal Palace,3,0,2021-12-26 15:00:00,Son Heung-Min,Pass,8222
+450567,81,BlockedShot,0.91,0.435,0.018581600859761238,Japhet Tanganga,h,8222,FromCorner,2021,Head,16563,Tottenham,Crystal Palace,3,0,2021-12-26 15:00:00,Steven Bergwijn,Aerial,8222
+454171,17,MissedShots,0.9540000152587891,0.4909999847412109,0.10935100167989731,Japhet Tanganga,a,8222,FromCorner,2021,Head,16540,Leicester,Tottenham,2,3,2022-01-19 19:30:00,Davinson Sánchez,Aerial,8222
+454189,63,SavedShot,0.779000015258789,0.35700000762939454,0.025333300232887268,Japhet Tanganga,a,8222,OpenPlay,2021,RightFoot,16540,Leicester,Tottenham,2,3,2022-01-19 19:30:00,Lucas Moura,Pass,8222

@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+294641,18,BlockedShot,0.759000015258789,0.3820000076293945,0.018478399142622948,Ben Wilmot,a,7216,OpenPlay,2018,RightFoot,9821,Lazio,Udinese,2,0,2019-04-17 18:00:00,,None,7216

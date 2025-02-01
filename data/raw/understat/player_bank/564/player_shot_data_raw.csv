@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+115441,28,OwnGoal,0.0030000001192092896,0.49900001525878906,0,Heurelho Gomes,h,564,FromCorner,2016,LeftFoot,2713,Watford,Stoke,0,1,2016-11-27 16:00:00,,None,564

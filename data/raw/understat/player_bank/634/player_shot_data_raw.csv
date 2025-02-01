@@ -1,0 +1,34 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14702,5,SavedShot,0.935,0.46700000762939453,0.059890199452638626,Fraizer Campbell,h,634,FromCorner,2014,Head,4761,Crystal Palace,West Ham,1,3,2014-08-23 15:00:00,Barry Bannan,Aerial,634
+15224,14,MissedShots,0.7619999694824219,0.4470000076293945,0.03414570167660713,Fraizer Campbell,h,634,OpenPlay,2014,RightFoot,4721,Crystal Palace,Burnley,0,0,2014-09-13 15:00:00,Dwight Gayle,LayOff,634
+15488,53,Goal,0.9569999694824218,0.544000015258789,0.08688250184059143,Fraizer Campbell,a,634,OpenPlay,2014,Head,4738,Everton,Crystal Palace,2,3,2014-09-21 16:00:00,Martin Kelly,Aerial,634
+15723,15,SavedShot,0.8969999694824219,0.5279999923706055,0.08425889909267426,Fraizer Campbell,h,634,SetPiece,2014,Head,4743,Crystal Palace,Leicester,2,0,2014-09-27 15:00:00,Jason Puncheon,Cross,634
+15729,28,MissedShots,0.9490000152587891,0.555,0.4698590040206909,Fraizer Campbell,h,634,OpenPlay,2014,Head,4743,Crystal Palace,Leicester,2,0,2014-09-27 15:00:00,Joe Ledley,Aerial,634
+15735,50,Goal,0.9919999694824219,0.49700000762939456,0.9703390002250671,Fraizer Campbell,h,634,FromCorner,2014,RightFoot,4743,Crystal Palace,Leicester,2,0,2014-09-27 15:00:00,Scott Dann,Rebound,634
+15737,70,MissedShots,0.7859999847412109,0.5520000076293945,0.05005110055208206,Fraizer Campbell,h,634,OpenPlay,2014,LeftFoot,4743,Crystal Palace,Leicester,2,0,2014-09-27 15:00:00,James McArthur,Pass,634
+16195,1,SavedShot,0.9319999694824219,0.7169999694824218,0.03575839847326279,Fraizer Campbell,h,634,OpenPlay,2014,LeftFoot,4702,Crystal Palace,Chelsea,1,2,2014-10-18 15:00:00,Joel Ward,TakeOn,634
+16197,10,MissedShots,0.9459999847412109,0.6409999847412109,0.06260699778795242,Fraizer Campbell,h,634,OpenPlay,2014,RightFoot,4702,Crystal Palace,Chelsea,1,2,2014-10-18 15:00:00,,None,634
+16198,14,MissedShots,0.93,0.6930000305175781,0.32598599791526794,Fraizer Campbell,h,634,OpenPlay,2014,LeftFoot,4702,Crystal Palace,Chelsea,1,2,2014-10-18 15:00:00,James McArthur,TakeOn,634
+16214,89,Goal,0.9680000305175781,0.515,0.7128350138664246,Fraizer Campbell,h,634,OpenPlay,2014,RightFoot,4702,Crystal Palace,Chelsea,1,2,2014-10-18 15:00:00,Wilfried Zaha,Pass,634
+16432,14,SavedShot,0.975,0.61,0.036253198981285095,Fraizer Campbell,a,634,SetPiece,2014,Head,4712,West Bromwich Albion,Crystal Palace,2,2,2014-10-25 15:00:00,Joe Ledley,Cross,634
+16437,22,SavedShot,0.7390000152587891,0.45799999237060546,0.02515999972820282,Fraizer Campbell,a,634,OpenPlay,2014,RightFoot,4712,West Bromwich Albion,Crystal Palace,2,2,2014-10-25 15:00:00,Marouane Chamakh,Pass,634
+17163,54,BlockedShot,0.9069999694824219,0.7190000152587891,0.04171919822692871,Fraizer Campbell,h,634,OpenPlay,2014,LeftFoot,4658,Crystal Palace,Sunderland,1,3,2014-11-03 20:00:00,Marouane Chamakh,Pass,634
+16611,39,MissedShots,0.8530000305175781,0.46299999237060546,0.2250320017337799,Fraizer Campbell,a,634,OpenPlay,2014,RightFoot,4661,Manchester United,Crystal Palace,1,0,2014-11-08 15:00:00,Damien Delaney,Pass,634
+16625,78,BlockedShot,0.865,0.3129999923706055,0.0448853000998497,Fraizer Campbell,a,634,OpenPlay,2014,RightFoot,4661,Manchester United,Crystal Palace,1,0,2014-11-08 15:00:00,Joe Ledley,Pass,634
+18419,75,MissedShots,0.7969999694824219,0.6140000152587891,0.036514900624752045,Fraizer Campbell,a,634,OpenPlay,2014,LeftFoot,4681,Swansea,Crystal Palace,1,1,2014-11-29 15:00:00,Joe Ledley,Pass,634
+19324,71,MissedShots,0.825,0.6580000305175782,0.03420399874448776,Fraizer Campbell,h,634,OpenPlay,2014,LeftFoot,4593,Crystal Palace,Aston Villa,0,1,2014-12-02 20:00:00,,BallRecovery,634
+18949,19,MissedShots,0.970999984741211,0.5690000152587891,0.08810439705848694,Fraizer Campbell,a,634,SetPiece,2014,RightFoot,4619,Manchester City,Crystal Palace,3,0,2014-12-20 12:45:00,Yannick Bolasie,HeadPass,634
+17547,5,MissedShots,0.9009999847412109,0.7369999694824219,0.03942339867353439,Fraizer Campbell,h,634,OpenPlay,2014,LeftFoot,4635,Crystal Palace,Southampton,1,3,2014-12-26 15:00:00,James McArthur,Chipped,634
+17713,88,BlockedShot,0.8059999847412109,0.534000015258789,0.06750340014696121,Fraizer Campbell,h,634,OpenPlay,2014,RightFoot,4568,Crystal Palace,Tottenham,2,1,2015-01-10 17:30:00,Jason Puncheon,Pass,634
+24216,46,MissedShots,0.9280000305175782,0.48200000762939454,0.13606999814510345,Fraizer Campbell,h,634,SetPiece,2014,Head,4533,Crystal Palace,Newcastle United,1,1,2015-02-11 20:00:00,Jason Puncheon,Cross,634
+24218,70,Goal,0.9330000305175781,0.505,0.4922100007534027,Fraizer Campbell,h,634,OpenPlay,2014,LeftFoot,4533,Crystal Palace,Newcastle United,1,1,2015-02-11 20:00:00,Yannick Bolasie,Cross,634
+23790,9,BlockedShot,0.9619999694824218,0.38599998474121094,0.03075289912521839,Fraizer Campbell,h,634,FromCorner,2014,Head,4537,Crystal Palace,Arsenal,1,2,2015-02-21 15:00:00,Dwight Gayle,Cross,634
+23792,23,MissedShots,0.89,0.415,0.03068920038640499,Fraizer Campbell,h,634,OpenPlay,2014,Head,4537,Crystal Palace,Arsenal,1,2,2015-02-21 15:00:00,Jordon Mutch,Chipped,634
+58319,64,MissedShots,0.9540000152587891,0.4909999847412109,0.14922399818897247,Fraizer Campbell,a,634,FromCorner,2015,RightFoot,138,Tottenham,Crystal Palace,1,0,2015-09-20 16:30:00,,Rebound,634
+53927,15,MissedShots,0.8209999847412109,0.45,0.029927000403404236,Fraizer Campbell,a,634,OpenPlay,2015,LeftFoot,255,Bournemouth,Crystal Palace,0,0,2015-12-26 19:00:00,Damien Delaney,Cross,634
+55122,24,MissedShots,0.9690000152587891,0.40299999237060546,0.29600799083709717,Fraizer Campbell,h,634,OpenPlay,2015,RightFoot,279,Crystal Palace,Chelsea,0,3,2016-01-03 17:30:00,Jason Puncheon,Cross,634
+53883,88,SavedShot,0.909000015258789,0.505,0.28173398971557617,Fraizer Campbell,h,634,OpenPlay,2015,Head,302,Crystal Palace,Tottenham,1,3,2016-01-23 19:00:00,Damien Delaney,Cross,634
+114423,92,MissedShots,0.9640000152587891,0.500999984741211,0.1176609992980957,Fraizer Campbell,a,634,OpenPlay,2016,LeftFoot,544,Leicester,Crystal Palace,3,1,2016-10-22 18:00:00,Ezekiel Fryers,HeadPass,634
+116848,82,BlockedShot,0.879000015258789,0.40400001525878904,0.017035000026226044,Fraizer Campbell,a,634,OpenPlay,2016,Head,3116,Hull,Crystal Palace,3,3,2016-12-10 19:00:00,Joel Ward,Aerial,634
+116851,88,Goal,0.91,0.48700000762939455,0.24236099421977997,Fraizer Campbell,a,634,OpenPlay,2016,Head,3116,Hull,Crystal Palace,3,3,2016-12-10 19:00:00,Wilfried Zaha,Cross,634
+120920,80,BlockedShot,0.919000015258789,0.43099998474121093,0.06447199732065201,Fraizer Campbell,h,634,FromCorner,2016,Head,3480,Crystal Palace,Burnley,0,2,2017-04-29 17:30:00,Andros Townsend,Cross,634

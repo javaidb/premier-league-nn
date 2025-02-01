@@ -1,0 +1,5 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+2385,Mat Ryan,38,3420,0,0,0,0,0,0,0,0,GK,Brighton,0,0,0.6440804554149508,0.6440804554149508,2017
+2385,Mat Ryan,34,3060,0,0,0,0,0,0,2,0,GK,Brighton,0,0,0.953547933138907,0.953547933138907,2018
+2385,Mat Ryan,38,3420,0,0,0,0,0,0,0,0,GK,Brighton,0,0,4.3156101051718,4.3156101051718,2019
+2385,Mat Ryan,14,1260,0,0,0,0.06032729893922806,0,1,1,0,GK,"Arsenal,Brighton",0,0,1.6561840623617172,1.6561840623617172,2020

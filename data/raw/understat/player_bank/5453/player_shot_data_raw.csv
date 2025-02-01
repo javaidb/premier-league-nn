@@ -1,0 +1,16 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+123704,6,SavedShot,0.8590000152587891,0.355,0.06480380147695541,Moritz Bauer,h,5453,OpenPlay,2016,LeftFoot,2968,Rubin Kazan,Lokomotiv Moscow,2,0,2016-10-31 20:30:00,Rubén Rochina,Pass,5453
+123165,29,MissedShots,0.9019999694824219,0.40700000762939453,0.0424795001745224,Moritz Bauer,a,5453,OpenPlay,2016,Head,4312,Ural,Rubin Kazan,1,0,2017-03-18 11:00:00,Rifat Zhemaletdinov,Cross,5453
+125893,6,MissedShots,0.784000015258789,0.445,0.030221400782465935,Moritz Bauer,a,5453,OpenPlay,2016,RightFoot,4330,Tom Tomsk,Rubin Kazan,2,2,2017-04-10 13:00:00,Maxime Lestienne,BallRecovery,5453
+156270,87,MissedShots,0.8490000152587891,0.2989999961853027,0.03242110088467598,Moritz Bauer,a,5453,OpenPlay,2017,RightFoot,6552,FK Akhmat,Rubin Kazan,1,0,2017-09-25 17:30:00,,None,5453
+157047,29,MissedShots,0.8980000305175782,0.24100000381469727,0.03236889839172363,Moritz Bauer,h,5453,OpenPlay,2017,RightFoot,6591,Rubin Kazan,Zenit St. Petersburg,0,0,2017-11-05 16:00:00,Magomed Ozdoev,Pass,5453
+157011,32,MissedShots,0.8880000305175781,0.3659999847412109,0.07250469923019409,Moritz Bauer,h,5453,OpenPlay,2017,RightFoot,6609,Rubin Kazan,CSKA Moscow,0,1,2017-11-26 11:00:00,,BallTouch,5453
+157445,6,BlockedShot,0.835999984741211,0.48200000762939454,0.08358319848775864,Moritz Bauer,a,5453,OpenPlay,2017,LeftFoot,6614,Lokomotiv Moscow,Rubin Kazan,1,0,2017-12-02 13:30:00,Maksim Kanunnikov,Pass,5453
+157449,36,BlockedShot,0.86,0.37900001525878907,0.05857099965214729,Moritz Bauer,a,5453,OpenPlay,2017,RightFoot,6614,Lokomotiv Moscow,Rubin Kazan,1,0,2017-12-02 13:30:00,,None,5453
+179033,81,BlockedShot,0.909000015258789,0.2560000038146973,0.04555070027709007,Moritz Bauer,h,5453,OpenPlay,2017,RightFoot,6621,Rubin Kazan,SKA-Khabarovsk,3,1,2017-12-09 13:30:00,Elmir Nabiullin,Pass,5453
+194252,54,BlockedShot,0.88,0.32,0.018291400745511055,Moritz Bauer,h,5453,SetPiece,2017,RightFoot,7368,Stoke,Watford,0,0,2018-01-31 20:00:00,,Aerial,5453
+204036,3,BlockedShot,0.815,0.4929999923706055,0.06549020111560822,Moritz Bauer,a,5453,OpenPlay,2017,LeftFoot,7429,Arsenal,Stoke,3,0,2018-04-01 13:30:00,Mame Biram Diouf,LayOff,5453
+209448,11,SavedShot,0.88,0.3390000152587891,0.06979630142450333,Moritz Bauer,a,5453,OpenPlay,2017,RightFoot,7458,West Ham,Stoke,1,1,2018-04-16 19:00:00,Xherdan Shaqiri,Pass,5453
+425937,33,MissedShots,0.7340000152587891,0.524000015258789,0.016829000785946846,Moritz Bauer,a,5453,OpenPlay,2021,LeftFoot,16161,Nizhny Novgorod,FC Ufa,1,2,2021-08-14 14:30:00,Vladislav Kamilov,Pass,5453
+427136,74,SavedShot,0.830999984741211,0.15899999618530272,0.00922416988760233,Moritz Bauer,h,5453,OpenPlay,2021,LeftFoot,16170,FC Ufa,Zenit St. Petersburg,1,1,2021-08-21 15:00:00,Egas Cacintura,Chipped,5453
+435255,81,MissedShots,0.9640000152587891,0.3940000152587891,0.08322770148515701,Moritz Bauer,h,5453,OpenPlay,2021,RightFoot,16215,FC Ufa,Ural,0,1,2021-10-03 11:00:00,Oleg Ivanov,Chipped,5453

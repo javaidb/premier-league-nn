@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+112251,45,Goal,0.9719999694824218,0.43400001525878906,0.14253799617290497,Adama Diomande,h,1694,FromCorner,2016,RightFoot,461,Hull,Leicester,2,1,2016-08-13 15:30:00,Abel Hernández,Rebound,1694
+112264,84,BlockedShot,0.775,0.6819999694824219,0.021670199930667877,Adama Diomande,h,1694,OpenPlay,2016,RightFoot,461,Hull,Leicester,2,1,2016-08-13 15:30:00,Ahmed Elmohamady,Chipped,1694
+112744,14,MissedShots,0.8780000305175781,0.45,0.13769499957561493,Adama Diomande,a,1694,OpenPlay,2016,RightFoot,474,Swansea,Hull,0,2,2016-08-20 18:00:00,Robert Snodgrass,Pass,1694
+112751,35,MissedShots,0.8469999694824218,0.754000015258789,0.025783700868487358,Adama Diomande,a,1694,OpenPlay,2016,RightFoot,474,Swansea,Hull,0,2,2016-08-20 18:00:00,Tom Huddlestone,Chipped,1694
+113201,47,MissedShots,0.7019999694824218,0.534000015258789,0.010454400442540646,Adama Diomande,a,1694,OpenPlay,2016,RightFoot,496,Burnley,Hull,1,1,2016-09-10 18:00:00,Abel Hernández,LayOff,1694
+113204,50,MissedShots,0.924000015258789,0.47299999237060547,0.3818399906158447,Adama Diomande,a,1694,OpenPlay,2016,LeftFoot,496,Burnley,Hull,1,1,2016-09-10 18:00:00,David Meyler,Cross,1694
+114771,89,SavedShot,0.82,0.4879999923706055,0.03464839980006218,Adama Diomande,a,1694,OpenPlay,2016,RightFoot,533,Bournemouth,Hull,6,1,2016-10-15 18:00:00,David Meyler,Chipped,1694
+114772,90,MissedShots,0.8830000305175781,0.5220000076293946,0.040431901812553406,Adama Diomande,a,1694,OpenPlay,2016,Head,533,Bournemouth,Hull,6,1,2016-10-15 18:00:00,David Meyler,Aerial,1694
+116308,89,MissedShots,0.6559999847412109,0.7169999694824218,0.009101849980652332,Adama Diomande,h,1694,OpenPlay,2016,RightFoot,2708,Hull,West Bromwich Albion,1,1,2016-11-26 19:00:00,,BallRecovery,1694
+115745,90,SavedShot,0.7809999847412109,0.8019999694824219,0.015493200160562992,Adama Diomande,a,1694,OpenPlay,2016,RightFoot,3114,Middlesbrough,Hull,1,0,2016-12-06 00:00:00,Sam Clucas,Pass,1694
+116830,16,SavedShot,0.865,0.3940000152587891,0.323606014251709,Adama Diomande,h,1694,OpenPlay,2016,RightFoot,3116,Hull,Crystal Palace,3,3,2016-12-10 19:00:00,Jake Livermore,Throughball,1694
+116838,58,MissedShots,0.88,0.365,0.07177919894456863,Adama Diomande,h,1694,OpenPlay,2016,RightFoot,3116,Hull,Crystal Palace,3,3,2016-12-10 19:00:00,Tom Huddlestone,Chipped,1694
+116839,59,SavedShot,0.899000015258789,0.27899999618530275,0.04469409957528114,Adama Diomande,h,1694,OpenPlay,2016,RightFoot,3116,Hull,Crystal Palace,3,3,2016-12-10 19:00:00,Jake Livermore,Pass,1694
+116843,71,Goal,0.8830000305175781,0.4370000076293945,0.4480159878730774,Adama Diomande,h,1694,OpenPlay,2016,RightFoot,3116,Hull,Crystal Palace,3,3,2016-12-10 19:00:00,Harry Maguire,TakeOn,1694
+116844,75,BlockedShot,0.8730000305175781,0.42700000762939455,0.1029909998178482,Adama Diomande,h,1694,OpenPlay,2016,RightFoot,3116,Hull,Crystal Palace,3,3,2016-12-10 19:00:00,Ahmed Elmohamady,Pass,1694
+118309,74,BlockedShot,0.9019999694824219,0.345,0.10608600080013275,Adama Diomande,a,1694,OpenPlay,2016,RightFoot,3134,Tottenham,Hull,3,0,2016-12-15 00:00:00,,TakeOn,1694
+117302,30,MissedShots,0.9269999694824219,0.5220000076293946,0.13882100582122803,Adama Diomande,h,1694,OpenPlay,2016,RightFoot,3155,Hull,Everton,2,2,2016-12-31 00:00:00,Robert Snodgrass,Cross,1694
+117316,54,MissedShots,0.9059999847412109,0.4520000076293945,0.12040899693965912,Adama Diomande,h,1694,SetPiece,2016,RightFoot,3155,Hull,Everton,2,2,2016-12-31 00:00:00,,Rebound,1694
+116970,4,MissedShots,0.8859999847412109,0.2560000038146973,0.029513100162148476,Adama Diomande,a,1694,OpenPlay,2016,RightFoot,3333,West Bromwich Albion,Hull,3,1,2017-01-02 19:00:00,Robert Snodgrass,Pass,1694
+116978,38,MissedShots,0.855999984741211,0.6,0.10038399696350098,Adama Diomande,a,1694,OpenPlay,2016,RightFoot,3333,West Bromwich Albion,Hull,3,1,2017-01-02 19:00:00,Jake Livermore,Pass,1694
+116992,84,MissedShots,0.91,0.47900001525878905,0.0796952024102211,Adama Diomande,a,1694,OpenPlay,2016,RightFoot,3333,West Bromwich Albion,Hull,3,1,2017-01-02 19:00:00,Ahmed Elmohamady,Cross,1694
+117372,85,MissedShots,0.94,0.53,0.12265399843454361,Adama Diomande,a,1694,FromCorner,2016,Head,3380,Arsenal,Hull,2,0,2017-02-11 12:30:00,Evandro,Cross,1694
+119934,82,MissedShots,0.9390000152587891,0.5920000076293945,0.02973409928381443,Adama Diomande,a,1694,FromCorner,2016,Head,3427,Everton,Hull,4,0,2017-03-18 15:00:00,Kamil Grosicki,CornerAwarded,1694

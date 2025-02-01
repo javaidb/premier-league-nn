@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+455,Artur Boruc,32,2880,0,0,0,0.09384150058031082,0,1,2,0,GK,Bournemouth,0,0,2.9451161976903677,2.9451161976903677,2015
+455,Artur Boruc,35,3150,0,0,0,0.022906100377440453,0,1,2,0,GK,Bournemouth,0,0,2.6897914987057447,2.666885493323207,2016
+455,Artur Boruc,12,1080,0,0,0,0,0,0,2,0,GK,Bournemouth,0,0,1.5033307950943708,1.5033307950943708,2018

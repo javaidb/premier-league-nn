@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+1000,Federico Fazio,20,1780,0,0.49277750588953495,0,0.037802720442414284,11,3,2,1,D,Tottenham,0,0.49277750588953495,4.650256037712097,4.612453039735556,2014

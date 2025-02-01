@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+60602,93,MissedShots,0.730999984741211,0.41200000762939454,0.014583799988031387,Timothy Fosu-Mensah,a,549,OpenPlay,2015,RightFoot,368,West Bromwich Albion,Manchester United,1,0,2016-03-06 20:00:00,,BallTouch,549
+61122,10,BlockedShot,0.8159999847412109,0.3120000076293945,0.02999969944357872,Timothy Fosu-Mensah,a,549,OpenPlay,2015,LeftFoot,402,Tottenham,Manchester United,3,0,2016-04-10 19:00:00,Juan Mata,Pass,549
+112538,28,BlockedShot,0.7980000305175782,0.315,0.03191259875893593,Timothy Fosu-Mensah,h,549,OpenPlay,2016,RightFoot,3516,Manchester United,Crystal Palace,2,0,2017-05-21 15:00:00,Wayne Rooney,Pass,549
+159332,58,MissedShots,0.7369999694824219,0.27399999618530274,0.011334200389683247,Timothy Fosu-Mensah,h,549,OpenPlay,2017,LeftFoot,7141,Crystal Palace,Swansea,0,2,2017-08-26 15:00:00,James McArthur,Pass,549
+160473,91,BlockedShot,0.86,0.3370000076293945,0.07259619981050491,Timothy Fosu-Mensah,h,549,OpenPlay,2017,RightFoot,7191,Crystal Palace,Chelsea,2,1,2017-10-14 15:00:00,Wilfried Zaha,Pass,549
+182859,17,MissedShots,0.784000015258789,0.3509999847412109,0.0348534993827343,Timothy Fosu-Mensah,h,549,OpenPlay,2017,LeftFoot,7282,Crystal Palace,Watford,2,1,2017-12-12 20:00:00,,TakeOn,549
+188726,46,MissedShots,0.7119999694824218,0.46,0.01350380014628172,Timothy Fosu-Mensah,a,549,FromCorner,2017,RightFoot,7349,Arsenal,Crystal Palace,4,1,2018-01-20 15:00:00,,None,549
+194115,52,MissedShots,0.845,0.29700000762939455,0.03667439892888069,Timothy Fosu-Mensah,a,549,OpenPlay,2017,RightFoot,7360,West Ham,Crystal Palace,1,1,2018-01-30 19:45:00,Andros Townsend,Pass,549
+193683,15,BlockedShot,0.710999984741211,0.49700000762939456,0.01391180045902729,Timothy Fosu-Mensah,h,549,OpenPlay,2017,LeftFoot,7373,Crystal Palace,Newcastle United,1,1,2018-02-04 14:15:00,Wilfried Zaha,Pass,549
+193702,74,MissedShots,0.7669999694824219,0.28600000381469726,0.01646910049021244,Timothy Fosu-Mensah,h,549,OpenPlay,2017,LeftFoot,7373,Crystal Palace,Newcastle United,1,1,2018-02-04 14:15:00,Wilfried Zaha,Pass,549
+204136,88,MissedShots,0.7390000152587891,0.505,0.017958499491214752,Timothy Fosu-Mensah,h,549,OpenPlay,2017,LeftFoot,7432,Crystal Palace,Liverpool,1,2,2018-03-31 12:30:00,,None,549
+233159,47,MissedShots,0.74,0.29700000762939455,0.014505799859762192,Timothy Fosu-Mensah,a,549,OpenPlay,2018,RightFoot,9209,Tottenham,Fulham,3,1,2018-08-18 17:00:00,Tom Cairney,Pass,549
+233264,34,SavedShot,0.7719999694824219,0.3089999961853027,0.02210650034248829,Timothy Fosu-Mensah,h,549,OpenPlay,2018,LeftFoot,9220,Fulham,Burnley,4,2,2018-08-26 17:00:00,André Schürrle,Pass,549
+233286,81,MissedShots,0.789000015258789,0.29700000762939455,0.028234900906682014,Timothy Fosu-Mensah,h,549,OpenPlay,2018,RightFoot,9220,Fulham,Burnley,4,2,2018-08-26 17:00:00,Jean Michael Seri,Pass,549
+249513,46,MissedShots,0.77,0.23100000381469726,0.015588399954140186,Timothy Fosu-Mensah,h,549,OpenPlay,2018,LeftFoot,9289,Fulham,Bournemouth,0,3,2018-10-27 14:00:00,Kevin McDonald,Pass,549
+249980,28,OwnGoal,0.065,0.5629999923706055,0,Timothy Fosu-Mensah,a,549,FromCorner,2018,Head,9306,Huddersfield,Fulham,1,0,2018-11-05 20:00:00,,None,549
+373259,36,MissedShots,0.9019999694824219,0.40900001525878904,0.08578140288591385,Timothy Fosu-Mensah,h,549,OpenPlay,2019,RightFoot,12007,Manchester United,West Ham,1,1,2020-07-22 17:00:00,Brandon Williams,Cross,549
+377622,12,BlockedShot,0.7269999694824218,0.3629999923706055,0.015449300408363342,Timothy Fosu-Mensah,h,549,OpenPlay,2020,RightFoot,14098,Manchester United,Crystal Palace,1,3,2020-09-19 16:30:00,Bruno Fernandes,Pass,549
+403192,28,SavedShot,0.94,0.35200000762939454,0.10131199657917023,Timothy Fosu-Mensah,h,549,OpenPlay,2020,RightFoot,15312,Bayer Leverkusen,VfB Stuttgart,5,2,2021-02-06 14:30:00,Florian Wirtz,Pass,549
+404208,26,MissedShots,0.8419999694824218,0.32,0.04437049850821495,Timothy Fosu-Mensah,h,549,OpenPlay,2020,RightFoot,15323,Bayer Leverkusen,Mainz 05,2,2,2021-02-13 14:30:00,Leon Bailey,Pass,549
+485861,89,SavedShot,0.7659999847412109,0.6819999694824219,0.019558999687433243,Timothy Fosu-Mensah,h,549,OpenPlay,2022,RightFoot,19379,Bayer Leverkusen,Freiburg,2,3,2022-09-03 13:30:00,Nadiem Amiri,Pass,549
+494986,82,SavedShot,0.740999984741211,0.345,0.01690799929201603,Timothy Fosu-Mensah,h,549,OpenPlay,2022,RightFoot,19433,Bayer Leverkusen,Wolfsburg,2,2,2022-10-22 13:30:00,Callum Hudson-Odoi,Pass,549
+512762,69,BlockedShot,0.825,0.3659999847412109,0.026515500620007515,Timothy Fosu-Mensah,h,549,OpenPlay,2022,RightFoot,19541,Bayer Leverkusen,Hertha Berlin,4,1,2023-03-05 14:30:00,,Rebound,549

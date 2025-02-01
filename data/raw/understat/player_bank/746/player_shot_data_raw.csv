@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15742,83,BlockedShot,0.764000015258789,0.4909999847412109,0.018458299338817596,Danny Simpson,a,746,SetPiece,2014,RightFoot,4743,Crystal Palace,Leicester,2,0,2014-09-27 15:00:00,,None,746
+23898,9,MissedShots,0.8130000305175781,0.305,0.025600800290703773,Danny Simpson,a,746,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,,None,746
+58807,24,BlockedShot,0.86,0.33799999237060546,0.04130849987268448,Danny Simpson,a,746,OpenPlay,2015,RightFoot,155,Norwich,Leicester,1,2,2015-10-03 18:00:00,,Rebound,746
+54333,82,SavedShot,0.965999984741211,0.345,0.1092580035328865,Danny Simpson,a,746,OpenPlay,2015,RightFoot,205,Newcastle United,Leicester,0,3,2015-11-21 19:00:00,Marc Albrighton,Pass,746
+55258,87,BlockedShot,0.8140000152587891,0.37200000762939456,0.04186460003256798,Danny Simpson,a,746,OpenPlay,2015,RightFoot,222,Swansea,Leicester,0,3,2015-12-05 19:00:00,Andy King,Cross,746
+53448,23,MissedShots,0.7969999694824219,0.43599998474121093,0.015985500067472458,Danny Simpson,h,746,OpenPlay,2015,RightFoot,312,Leicester,Liverpool,2,0,2016-02-02 23:45:00,,Aerial,746
+60478,93,MissedShots,0.7680000305175781,0.3340000152587891,0.026458099484443665,Danny Simpson,a,746,OpenPlay,2015,LeftFoot,366,Watford,Leicester,0,1,2016-03-05 21:30:00,,Interception,746
+59707,70,SavedShot,0.95,0.42700000762939455,0.4930439889431,Danny Simpson,h,746,OpenPlay,2015,RightFoot,392,Leicester,Southampton,1,0,2016-04-03 16:30:00,Jamie Vardy,Pass,746
+52014,63,MissedShots,0.7969999694824219,0.3170000076293945,0.035034000873565674,Danny Simpson,a,746,OpenPlay,2015,RightFoot,452,Chelsea,Leicester,1,1,2016-05-15 18:00:00,,TakeOn,746
+115185,91,BlockedShot,0.9159999847412109,0.47900001525878905,0.08501390367746353,Danny Simpson,h,746,OpenPlay,2016,Head,2711,Leicester,Middlesbrough,2,2,2016-11-26 19:00:00,Christian Fuchs,Cross,746
+115916,94,BlockedShot,0.9209999847412109,0.32099998474121094,0.021939100697636604,Danny Simpson,a,746,FromCorner,2016,RightFoot,3108,Sunderland,Leicester,2,1,2016-12-03 15:00:00,,Aerial,746
+160476,34,SavedShot,0.850999984741211,0.35700000762939454,0.02015089988708496,Danny Simpson,h,746,OpenPlay,2017,RightFoot,7192,Leicester,West Bromwich Albion,1,1,2017-10-16 20:00:00,,Aerial,746
+179279,25,MissedShots,0.9719999694824218,0.41200000762939454,0.10057099908590317,Danny Simpson,a,746,OpenPlay,2017,RightFoot,7277,Newcastle United,Leicester,2,3,2017-12-09 17:30:00,Demarai Gray,Cross,746
+179280,29,MissedShots,0.9290000152587891,0.34599998474121096,0.012138600461184978,Danny Simpson,a,746,OpenPlay,2017,Head,7277,Newcastle United,Leicester,2,3,2017-12-09 17:30:00,Ben Chilwell,Cross,746

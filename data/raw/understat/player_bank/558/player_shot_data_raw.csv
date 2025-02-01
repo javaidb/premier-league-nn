@@ -1,0 +1,239 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+58964,76,MissedShots,0.8080000305175781,0.48,0.04997849836945534,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,166,Everton,Manchester United,0,3,2015-10-17 18:00:00,,None,558
+59308,83,ShotOnPost,0.904000015258789,0.5659999847412109,0.13184599578380585,Jesse Lingard,h,558,OpenPlay,2015,RightFoot,179,Manchester United,Manchester City,0,0,2015-10-25 18:05:00,Anthony Martial,Throughball,558
+55268,40,BlockedShot,0.8969999694824219,0.61,0.10427399724721909,Jesse Lingard,h,558,OpenPlay,2015,LeftFoot,193,Manchester United,West Bromwich Albion,2,0,2015-11-07 19:00:00,Anthony Martial,Pass,558
+55272,51,Goal,0.8059999847412109,0.6530000305175782,0.03074680082499981,Jesse Lingard,h,558,OpenPlay,2015,RightFoot,193,Manchester United,West Bromwich Albion,2,0,2015-11-07 19:00:00,,None,558
+55275,72,MissedShots,0.81,0.740999984741211,0.027229899540543556,Jesse Lingard,h,558,OpenPlay,2015,RightFoot,193,Manchester United,West Bromwich Albion,2,0,2015-11-07 19:00:00,Wayne Rooney,Pass,558
+55286,46,SavedShot,0.8590000152587891,0.59,0.10452199727296829,Jesse Lingard,a,558,OpenPlay,2015,LeftFoot,201,Watford,Manchester United,1,2,2015-11-21 16:45:00,Memphis Depay,Pass,558
+55297,83,SavedShot,0.8080000305175781,0.500999984741211,0.2953130006790161,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,201,Watford,Manchester United,1,2,2015-11-21 16:45:00,Daley Blind,Chipped,558
+55300,89,SavedShot,0.874000015258789,0.654000015258789,0.04492409899830818,Jesse Lingard,a,558,FromCorner,2015,LeftFoot,201,Watford,Manchester United,1,2,2015-11-21 16:45:00,Andreas Pereira,Pass,558
+54274,31,BlockedShot,0.759000015258789,0.590999984741211,0.026326199993491173,Jesse Lingard,h,558,OpenPlay,2015,RightFoot,226,Manchester United,West Ham,0,0,2015-12-05 19:00:00,Chris Smalling,TakeOn,558
+54279,49,MissedShots,0.705,0.634000015258789,0.012574000284075737,Jesse Lingard,h,558,OpenPlay,2015,RightFoot,226,Manchester United,West Ham,0,0,2015-12-05 19:00:00,Matteo Darmian,Pass,558
+54288,81,MissedShots,0.9059999847412109,0.4209999847412109,0.0802571028470993,Jesse Lingard,h,558,SetPiece,2015,RightFoot,226,Manchester United,West Ham,0,0,2015-12-05 19:00:00,,None,558
+54661,37,Goal,0.955,0.6430000305175781,0.1332930028438568,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,Wayne Rooney,Pass,558
+54668,55,MissedShots,0.9080000305175782,0.5929999923706055,0.4025059938430786,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,281,Newcastle United,Manchester United,3,3,2016-01-12 23:45:00,Ander Herrera,Pass,558
+54646,45,MissedShots,0.7959999847412109,0.29700000762939455,0.02329839952290058,Jesse Lingard,h,558,OpenPlay,2015,LeftFoot,303,Manchester United,Southampton,0,1,2016-01-23 19:00:00,Anthony Martial,TakeOn,558
+54988,13,Goal,0.9619999694824218,0.45,0.5302410125732422,Jesse Lingard,h,558,OpenPlay,2015,Head,317,Manchester United,Stoke,3,0,2016-02-03 00:00:00,Cameron Borthwick-Jackson,Cross,558
+55994,44,BlockedShot,0.8080000305175781,0.46799999237060547,0.04122510179877281,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Wayne Rooney,Pass,558
+56001,50,BlockedShot,0.7880000305175782,0.30100000381469727,0.02196340076625347,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Juan Mata,Pass,558
+56002,52,SavedShot,0.8209999847412109,0.5540000152587891,0.04872189834713936,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Anthony Martial,Pass,558
+56003,60,Goal,0.8730000305175781,0.48900001525878906,0.104203000664711,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Wayne Rooney,Pass,558
+56004,64,MissedShots,0.81,0.715,0.030664600431919098,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,330,Chelsea,Manchester United,1,1,2016-02-07 20:00:00,Cameron Borthwick-Jackson,Pass,558
+60582,53,MissedShots,0.789000015258789,0.7419999694824219,0.02174610085785389,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,368,West Bromwich Albion,Manchester United,1,0,2016-03-06 20:00:00,Marcos Rojo,Pass,558
+60589,59,BlockedShot,0.91,0.7230000305175781,0.045748401433229446,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,368,West Bromwich Albion,Manchester United,1,0,2016-03-06 20:00:00,Anthony Martial,Pass,558
+59915,37,BlockedShot,0.7869999694824219,0.27399999618530274,0.01767200045287609,Jesse Lingard,h,558,OpenPlay,2015,LeftFoot,393,Manchester United,Everton,1,0,2016-04-03 19:00:00,Juan Mata,Pass,558
+61120,4,BlockedShot,0.8130000305175781,0.5420000076293945,0.07540509849786758,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,402,Tottenham,Manchester United,3,0,2016-04-10 19:00:00,,TakeOn,558
+61138,58,MissedShots,0.884000015258789,0.720999984741211,0.03343459963798523,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,402,Tottenham,Manchester United,3,0,2016-04-10 19:00:00,Anthony Martial,Pass,558
+61157,38,SavedShot,0.8719999694824219,0.31799999237060544,0.031244000419974327,Jesse Lingard,h,558,FromCorner,2015,LeftFoot,417,Manchester United,Crystal Palace,2,0,2016-04-20 23:00:00,Juan Mata,Pass,558
+61166,61,SavedShot,0.8969999694824219,0.5279999923706055,0.5196070075035095,Jesse Lingard,h,558,OpenPlay,2015,RightFoot,417,Manchester United,Crystal Palace,2,0,2016-04-20 23:00:00,Marcus Rashford,Pass,558
+57157,13,SavedShot,0.9030000305175782,0.43,0.13482899963855743,Jesse Lingard,h,558,OpenPlay,2015,RightFoot,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,Marouane Fellaini,Pass,558
+57174,55,SavedShot,0.8519999694824218,0.705,0.04301619902253151,Jesse Lingard,h,558,OpenPlay,2015,RightFoot,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,Daley Blind,TakeOn,558
+56650,29,SavedShot,0.7930000305175782,0.629000015258789,0.030841700732707977,Jesse Lingard,a,558,OpenPlay,2015,RightFoot,437,Norwich,Manchester United,0,1,2016-05-07 15:45:00,Ander Herrera,Pass,558
+52060,58,BlockedShot,0.8469999694824218,0.53,0.09357749670743942,Jesse Lingard,h,558,OpenPlay,2015,RightFoot,460,Manchester United,Bournemouth,3,1,2016-05-17 23:00:00,Anthony Martial,Pass,558
+113832,63,MissedShots,0.8480000305175781,0.3240000152587891,0.0573354996740818,Jesse Lingard,h,558,OpenPlay,2016,RightFoot,511,Manchester United,Leicester,4,1,2016-09-24 15:30:00,Antonio Valencia,Pass,558
+114364,26,SavedShot,0.9419999694824219,0.544000015258789,0.47835999727249146,Jesse Lingard,h,558,OpenPlay,2016,RightFoot,527,Manchester United,Stoke,1,1,2016-10-02 15:00:00,Zlatan Ibrahimovic,Cross,558
+114367,37,BlockedShot,0.855999984741211,0.56,0.026583600789308548,Jesse Lingard,h,558,FromCorner,2016,LeftFoot,527,Manchester United,Stoke,1,1,2016-10-02 15:00:00,,Aerial,558
+114292,27,SavedShot,0.9590000152587891,0.39799999237060546,0.09692049771547318,Jesse Lingard,a,558,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,,Rebound,558
+114300,57,SavedShot,0.7330000305175781,0.5990000152587891,0.016128599643707275,Jesse Lingard,a,558,OpenPlay,2016,RightFoot,550,Chelsea,Manchester United,4,0,2016-10-23 19:00:00,Ander Herrera,Pass,558
+114781,23,BlockedShot,0.7780000305175782,0.7119999694824218,0.01769150048494339,Jesse Lingard,h,558,FromCorner,2016,RightFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,Juan Mata,Pass,558
+114790,41,SavedShot,0.8830000305175781,0.4909999847412109,0.06648480147123337,Jesse Lingard,h,558,OpenPlay,2016,Head,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,Ander Herrera,Cross,558
+114798,55,SavedShot,0.8030000305175782,0.46099998474121096,0.054330598562955856,Jesse Lingard,h,558,OpenPlay,2016,RightFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,Paul Pogba,LayOff,558
+114804,63,BlockedShot,0.81,0.500999984741211,0.05307859927415848,Jesse Lingard,h,558,OpenPlay,2016,RightFoot,2682,Manchester United,Burnley,0,0,2016-10-29 18:00:00,Juan Mata,Pass,558
+115293,33,MissedShots,0.9540000152587891,0.47200000762939454,0.13090099394321442,Jesse Lingard,h,558,OpenPlay,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Zlatan Ibrahimovic,HeadPass,558
+115299,46,SavedShot,0.8690000152587891,0.41,0.12216799706220627,Jesse Lingard,h,558,OpenPlay,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,Juan Mata,Throughball,558
+115305,73,SavedShot,0.8080000305175781,0.5520000076293945,0.03830530121922493,Jesse Lingard,h,558,OpenPlay,2016,RightFoot,2716,Manchester United,West Ham,1,1,2016-11-27 20:30:00,,Rebound,558
+117928,78,SavedShot,0.9319999694824219,0.425,0.13427799940109253,Jesse Lingard,a,558,OpenPlay,2016,RightFoot,3130,Crystal Palace,Manchester United,1,2,2016-12-15 00:00:00,Zlatan Ibrahimovic,Throughball,558
+115952,44,MissedShots,0.8859999847412109,0.35700000762939454,0.3082900047302246,Jesse Lingard,a,558,OpenPlay,2016,RightFoot,3140,West Bromwich Albion,Manchester United,0,2,2016-12-17 21:30:00,Matteo Darmian,Rebound,558
+116575,15,BlockedShot,0.85,0.7240000152587891,0.032078299671411514,Jesse Lingard,h,558,OpenPlay,2016,RightFoot,3147,Manchester United,Sunderland,3,1,2016-12-26 19:00:00,Michael Carrick,Pass,558
+116588,41,MissedShots,0.8530000305175781,0.6229999923706054,0.07024619728326797,Jesse Lingard,h,558,OpenPlay,2016,LeftFoot,3147,Manchester United,Sunderland,3,1,2016-12-26 19:00:00,Zlatan Ibrahimovic,Pass,558
+117078,34,ShotOnPost,0.975999984741211,0.48200000762939454,0.9022650122642517,Jesse Lingard,a,558,OpenPlay,2016,LeftFoot,3335,West Ham,Manchester United,0,2,2017-01-02 21:15:00,,Rebound,558
+117081,47,MissedShots,0.7930000305175782,0.7080000305175781,0.021644599735736847,Jesse Lingard,a,558,OpenPlay,2016,RightFoot,3335,West Ham,Manchester United,0,2,2017-01-02 21:15:00,Henrikh Mkhitaryan,Pass,558
+118731,86,ShotOnPost,0.7669999694824219,0.4879999923706055,0.027666399255394936,Jesse Lingard,a,558,OpenPlay,2016,RightFoot,3354,Stoke,Manchester United,1,1,2017-01-21 18:00:00,Zlatan Ibrahimovic,Pass,558
+117762,90,BlockedShot,0.8540000152587891,0.47200000762939454,0.12368399649858475,Jesse Lingard,h,558,OpenPlay,2016,LeftFoot,3381,Manchester United,Watford,2,0,2017-02-11 15:00:00,Ander Herrera,Pass,558
+120132,17,BlockedShot,0.750999984741211,0.745,0.015749899670481682,Jesse Lingard,a,558,OpenPlay,2016,RightFoot,3425,Middlesbrough,Manchester United,1,3,2017-03-19 12:00:00,Juan Mata,Pass,558
+120134,21,BlockedShot,0.855999984741211,0.64,0.061473000794649124,Jesse Lingard,a,558,OpenPlay,2016,RightFoot,3425,Middlesbrough,Manchester United,1,3,2017-03-19 12:00:00,Marcus Rashford,Pass,558
+120141,33,BlockedShot,0.8030000305175782,0.6430000305175781,0.03791369870305061,Jesse Lingard,a,558,OpenPlay,2016,RightFoot,3425,Middlesbrough,Manchester United,1,3,2017-03-19 12:00:00,Ashley Young,Pass,558
+120145,61,Goal,0.7619999694824219,0.5579999923706055,0.05637560039758682,Jesse Lingard,a,558,OpenPlay,2016,RightFoot,3425,Middlesbrough,Manchester United,1,3,2017-03-19 12:00:00,Juan Mata,Pass,558
+119550,9,MissedShots,0.86,0.3120000076293945,0.04227060079574585,Jesse Lingard,h,558,OpenPlay,2016,RightFoot,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,,None,558
+119569,90,BlockedShot,0.7569999694824219,0.5690000152587891,0.022802699357271194,Jesse Lingard,h,558,OpenPlay,2016,LeftFoot,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,Michael Carrick,Pass,558
+119316,11,MissedShots,0.7559999847412109,0.6040000152587891,0.022521300241351128,Jesse Lingard,h,558,OpenPlay,2016,RightFoot,3446,Manchester United,Everton,1,1,2017-04-04 20:00:00,Michael Carrick,Pass,558
+119339,84,BlockedShot,0.749000015258789,0.63,0.01909009926021099,Jesse Lingard,h,558,OpenPlay,2016,RightFoot,3446,Manchester United,Everton,1,1,2017-04-04 20:00:00,Henrikh Mkhitaryan,Pass,558
+120290,1,SavedShot,0.7669999694824219,0.6790000152587891,0.017713399603962898,Jesse Lingard,a,558,OpenPlay,2016,RightFoot,3452,Sunderland,Manchester United,0,3,2017-04-09 13:30:00,Luke Shaw,Pass,558
+120291,5,BlockedShot,0.789000015258789,0.4640000152587891,0.02487329952418804,Jesse Lingard,a,558,FromCorner,2016,RightFoot,3452,Sunderland,Manchester United,0,3,2017-04-09 13:30:00,Marouane Fellaini,Pass,558
+120297,28,SavedShot,0.8109999847412109,0.5129999923706055,0.06062519922852516,Jesse Lingard,a,558,OpenPlay,2016,RightFoot,3452,Sunderland,Manchester United,0,3,2017-04-09 13:30:00,Paul Pogba,TakeOn,558
+121215,51,MissedShots,0.8219999694824218,0.46299999237060546,0.08591470122337341,Jesse Lingard,h,558,OpenPlay,2016,RightFoot,3460,Manchester United,Chelsea,2,0,2017-04-16 16:00:00,Marcus Rashford,Pass,558
+120658,29,BlockedShot,0.7559999847412109,0.5029999923706054,0.028234999626874924,Jesse Lingard,a,558,OpenPlay,2016,LeftFoot,3472,Burnley,Manchester United,0,2,2017-04-23 14:15:00,Wayne Rooney,Pass,558
+120953,16,SavedShot,0.9590000152587891,0.5709999847412109,0.3710089921951294,Jesse Lingard,h,558,OpenPlay,2016,LeftFoot,3482,Manchester United,Swansea,1,1,2017-04-30 12:00:00,Anthony Martial,Chipped,558
+120959,42,MissedShots,0.7709999847412109,0.6630000305175782,0.01906760036945343,Jesse Lingard,h,558,OpenPlay,2016,RightFoot,3482,Manchester United,Swansea,1,1,2017-04-30 12:00:00,Ashley Young,Pass,558
+120969,83,SavedShot,0.9590000152587891,0.39099998474121095,0.05936770141124725,Jesse Lingard,h,558,OpenPlay,2016,Head,3482,Manchester United,Swansea,1,1,2017-04-30 12:00:00,Ashley Young,Cross,558
+120484,58,MissedShots,0.784000015258789,0.549000015258789,0.03421960026025772,Jesse Lingard,a,558,OpenPlay,2016,RightFoot,3507,Tottenham,Manchester United,2,1,2017-05-14 16:30:00,Anthony Martial,Pass,558
+158759,81,BlockedShot,0.899000015258789,0.6469999694824219,0.09032230079174042,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7145,Manchester United,Leicester,2,0,2017-08-26 17:30:00,Marcus Rashford,Pass,558
+158776,69,MissedShots,0.909000015258789,0.59,0.10181400179862976,Jesse Lingard,h,558,OpenPlay,2017,LeftFoot,7168,Manchester United,Everton,4,0,2017-09-17 16:00:00,Ashley Young,Cross,558
+158778,73,BlockedShot,0.8640000152587891,0.6840000152587891,0.059006400406360626,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7168,Manchester United,Everton,4,0,2017-09-17 16:00:00,Juan Mata,Chipped,558
+158780,77,SavedShot,0.8819999694824219,0.5129999923706055,0.11215200275182724,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7168,Manchester United,Everton,4,0,2017-09-17 16:00:00,,None,558
+160250,73,MissedShots,0.840999984741211,0.620999984741211,0.07527279853820801,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7180,Manchester United,Crystal Palace,4,0,2017-09-30 15:00:00,Romelu Lukaku,Pass,558
+160089,89,MissedShots,0.8540000152587891,0.35400001525878905,0.10951399803161621,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7218,Manchester United,Tottenham,1,0,2017-10-28 12:30:00,Ander Herrera,BallRecovery,558
+160974,44,SavedShot,0.9309999847412109,0.624000015258789,0.37169599533081055,Jesse Lingard,a,558,OpenPlay,2017,LeftFoot,7251,Watford,Manchester United,2,4,2017-11-28 20:00:00,,Rebound,558
+160990,82,MissedShots,0.84,0.24100000381469727,0.04014449939131737,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7251,Watford,Manchester United,2,4,2017-11-28 20:00:00,Romelu Lukaku,Pass,558
+160993,85,Goal,0.8380000305175781,0.4640000152587891,0.20337699353694916,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7251,Watford,Manchester United,2,4,2017-11-28 20:00:00,Ander Herrera,TakeOn,558
+161374,10,Goal,0.8980000305175782,0.4279999923706055,0.4197869896888733,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7266,Arsenal,Manchester United,1,3,2017-12-02 17:30:00,Anthony Martial,Pass,558
+161392,51,SavedShot,0.8769999694824219,0.4179999923706055,0.34311699867248535,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7266,Arsenal,Manchester United,1,3,2017-12-02 17:30:00,Anthony Martial,Throughball,558
+161400,62,Goal,0.9690000152587891,0.5209999847412109,0.934033989906311,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7266,Arsenal,Manchester United,1,3,2017-12-02 17:30:00,Paul Pogba,Pass,558
+182902,0,MissedShots,0.9119999694824219,0.43099998474121093,0.09921260178089142,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7283,Manchester United,Bournemouth,1,0,2017-12-13 20:00:00,,None,558
+182915,59,BlockedShot,0.845999984741211,0.4809999847412109,0.08999670296907425,Jesse Lingard,h,558,OpenPlay,2017,LeftFoot,7283,Manchester United,Bournemouth,1,0,2017-12-13 20:00:00,Juan Mata,Pass,558
+182838,34,Goal,0.805,0.415,0.06066010147333145,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7295,West Bromwich Albion,Manchester United,1,2,2017-12-17 14:15:00,Juan Mata,Pass,558
+182846,58,SavedShot,0.8180000305175781,0.38599998474121094,0.10043899714946747,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7295,West Bromwich Albion,Manchester United,1,2,2017-12-17 14:15:00,Romelu Lukaku,Pass,558
+183057,4,SavedShot,0.759000015258789,0.44299999237060544,0.026749100536108017,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7302,Leicester,Manchester United,2,2,2017-12-23 19:45:00,Romelu Lukaku,Pass,558
+183078,71,MissedShots,0.9030000305175782,0.30700000762939456,0.05375650152564049,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7302,Leicester,Manchester United,2,2,2017-12-23 19:45:00,,Rebound,558
+183077,71,ShotOnPost,0.92,0.43099998474121093,0.8422979712486267,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7302,Leicester,Manchester United,2,2,2017-12-23 19:45:00,Romelu Lukaku,TakeOn,558
+185593,50,SavedShot,0.9519999694824218,0.5129999923706055,0.5461429953575134,Jesse Lingard,h,558,OpenPlay,2017,LeftFoot,7314,Manchester United,Burnley,2,2,2017-12-26 15:00:00,Ashley Young,Cross,558
+185596,52,Goal,0.8980000305175782,0.42400001525878905,0.05976640060544014,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7314,Manchester United,Burnley,2,2,2017-12-26 15:00:00,Ashley Young,Cross,558
+185605,90,Goal,0.8730000305175781,0.555,0.08635549992322922,Jesse Lingard,h,558,SetPiece,2017,RightFoot,7314,Manchester United,Burnley,2,2,2017-12-26 15:00:00,,Rebound,558
+186144,43,MissedShots,0.9259999847412109,0.5540000152587891,0.3441599905490875,Jesse Lingard,h,558,OpenPlay,2017,Head,7324,Manchester United,Southampton,0,0,2017-12-30 17:30:00,Henrikh Mkhitaryan,Cross,558
+186156,89,BlockedShot,0.8640000152587891,0.5459999847412109,0.10772699862718582,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7324,Manchester United,Southampton,0,0,2017-12-30 17:30:00,Juan Mata,Pass,558
+186356,40,MissedShots,0.7959999847412109,0.6329999923706054,0.03201949968934059,Jesse Lingard,a,558,OpenPlay,2017,LeftFoot,7333,Everton,Manchester United,0,2,2018-01-01 17:30:00,Paul Pogba,Pass,558
+186362,59,BlockedShot,0.7709999847412109,0.39799999237060546,0.03296700119972229,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7333,Everton,Manchester United,0,2,2018-01-01 17:30:00,Nemanja Matic,Pass,558
+186369,77,SavedShot,0.8130000305175781,0.565,0.055577199906110764,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7333,Everton,Manchester United,0,2,2018-01-01 17:30:00,Paul Pogba,Pass,558
+186370,79,MissedShots,0.794000015258789,0.66,0.026931799948215485,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7333,Everton,Manchester United,0,2,2018-01-01 17:30:00,Paul Pogba,Pass,558
+186372,80,Goal,0.8119999694824219,0.649000015258789,0.07181130349636078,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7333,Everton,Manchester United,0,2,2018-01-01 17:30:00,Paul Pogba,TakeOn,558
+188116,65,BlockedShot,0.835,0.4370000076293945,0.04133540019392967,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7344,Manchester United,Stoke,3,0,2018-01-15 20:00:00,,Rebound,558
+188775,78,BlockedShot,0.8569999694824219,0.43400001525878906,0.10548199713230133,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7351,Burnley,Manchester United,0,1,2018-01-20 15:00:00,Anthony Martial,Pass,558
+193545,2,SavedShot,0.9169999694824219,0.48700000762939455,0.4961409866809845,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7367,Tottenham,Manchester United,2,0,2018-01-31 20:00:00,,None,558
+193749,7,SavedShot,0.8390000152587891,0.5590000152587891,0.05519919842481613,Jesse Lingard,h,558,OpenPlay,2017,LeftFoot,7376,Manchester United,Huddersfield,2,0,2018-02-03 15:00:00,Alexis Sánchez,TakeOn,558
+193751,18,BlockedShot,0.755,0.6819999694824219,0.011032099835574627,Jesse Lingard,h,558,SetPiece,2017,RightFoot,7376,Manchester United,Huddersfield,2,0,2018-02-03 15:00:00,,None,558
+193754,33,SavedShot,0.7569999694824219,0.43,0.024811599403619766,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7376,Manchester United,Huddersfield,2,0,2018-02-03 15:00:00,Alexis Sánchez,Pass,558
+193762,48,MissedShots,0.815,0.48200000762939454,0.049388300627470016,Jesse Lingard,h,558,FromCorner,2017,RightFoot,7376,Manchester United,Huddersfield,2,0,2018-02-03 15:00:00,,Rebound,558
+193927,31,BlockedShot,0.86,0.6419999694824219,0.06509999930858612,Jesse Lingard,a,558,OpenPlay,2017,LeftFoot,7383,Newcastle United,Manchester United,1,0,2018-02-11 14:15:00,Alexis Sánchez,Pass,558
+197833,74,Goal,0.914000015258789,0.4209999847412109,0.2369060069322586,Jesse Lingard,h,558,OpenPlay,2017,Head,7393,Manchester United,Chelsea,2,1,2018-02-25 14:05:00,Romelu Lukaku,Cross,558
+199603,39,MissedShots,0.7780000305175782,0.6569999694824219,0.02436939999461174,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7401,Crystal Palace,Manchester United,2,3,2018-03-05 20:00:00,Nemanja Matic,Pass,558
+199615,70,MissedShots,0.9440000152587891,0.4640000152587891,0.4808189868927002,Jesse Lingard,a,558,OpenPlay,2017,Head,7401,Crystal Palace,Manchester United,2,3,2018-03-05 20:00:00,Romelu Lukaku,Cross,558
+203954,10,SavedShot,0.8109999847412109,0.33099998474121095,0.04417889937758446,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7435,Manchester United,Swansea,2,0,2018-03-31 15:00:00,Paul Pogba,BallRecovery,558
+203955,15,MissedShots,0.8490000152587891,0.44599998474121094,0.09914129972457886,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7435,Manchester United,Swansea,2,0,2018-03-31 15:00:00,Antonio Valencia,Pass,558
+203957,30,MissedShots,0.845999984741211,0.45799999237060546,0.10973499715328217,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7435,Manchester United,Swansea,2,0,2018-03-31 15:00:00,Romelu Lukaku,TakeOn,558
+203958,40,BlockedShot,0.8819999694824219,0.5690000152587891,0.10578099638223648,Jesse Lingard,h,558,OpenPlay,2017,LeftFoot,7435,Manchester United,Swansea,2,0,2018-03-31 15:00:00,Alexis Sánchez,BallTouch,558
+207033,59,MissedShots,0.7440000152587891,0.635,0.021266700699925423,Jesse Lingard,a,558,OpenPlay,2017,LeftFoot,7445,Manchester City,Manchester United,2,3,2018-04-07 16:30:00,Alexis Sánchez,Pass,558
+209197,46,BlockedShot,0.8619999694824219,0.40900001525878904,0.06378480046987534,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7453,Manchester United,West Bromwich Albion,0,1,2018-04-15 15:00:00,,Rebound,558
+209203,69,MissedShots,0.8030000305175782,0.485,0.05378210172057152,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7453,Manchester United,West Bromwich Albion,0,1,2018-04-15 15:00:00,Juan Mata,Pass,558
+209205,73,BlockedShot,0.8190000152587891,0.49,0.06005369871854782,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7453,Manchester United,West Bromwich Albion,0,1,2018-04-15 15:00:00,Juan Mata,Pass,558
+212472,29,BlockedShot,0.7780000305175782,0.31,0.024735400453209877,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7473,Manchester United,Arsenal,2,1,2018-04-29 15:30:00,Romelu Lukaku,Pass,558
+212482,61,BlockedShot,0.86,0.6079999923706054,0.08612419664859772,Jesse Lingard,h,558,OpenPlay,2017,RightFoot,7473,Manchester United,Arsenal,2,1,2018-04-29 15:30:00,Paul Pogba,LayOff,558
+212864,71,SavedShot,0.8080000305175781,0.534000015258789,0.05078209936618805,Jesse Lingard,a,558,OpenPlay,2017,LeftFoot,7484,Brighton,Manchester United,1,0,2018-05-04 20:00:00,Nemanja Matic,Pass,558
+212869,86,MissedShots,0.865999984741211,0.5690000152587891,0.08635669946670532,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7484,Brighton,Manchester United,1,0,2018-05-04 20:00:00,Marcus Rashford,Pass,558
+214444,20,SavedShot,0.7280000305175781,0.5659999847412109,0.02050209976732731,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7428,West Ham,Manchester United,0,0,2018-05-10 19:45:00,Paul Pogba,Pass,558
+214451,45,SavedShot,0.7280000305175781,0.67,0.013179400004446507,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7428,West Ham,Manchester United,0,0,2018-05-10 19:45:00,Alexis Sánchez,Pass,558
+214452,46,BlockedShot,0.855,0.36400001525878906,0.10035599768161774,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7428,West Ham,Manchester United,0,0,2018-05-10 19:45:00,Paul Pogba,TakeOn,558
+214455,54,SavedShot,0.750999984741211,0.5790000152587891,0.02119790017604828,Jesse Lingard,a,558,OpenPlay,2017,RightFoot,7428,West Ham,Manchester United,0,0,2018-05-10 19:45:00,Paul Pogba,Pass,558
+233350,34,MissedShots,0.8719999694824219,0.46599998474121096,0.035894498229026794,Jesse Lingard,h,558,FromCorner,2018,Head,9226,Manchester United,Tottenham,0,3,2018-08-27 22:00:00,,None,558
+233360,60,BlockedShot,0.895,0.5220000076293946,0.0750880017876625,Jesse Lingard,h,558,OpenPlay,2018,RightFoot,9226,Manchester United,Tottenham,0,3,2018-08-27 22:00:00,Romelu Lukaku,HeadPass,558
+233367,78,BlockedShot,0.865,0.45599998474121095,0.10114199668169022,Jesse Lingard,h,558,OpenPlay,2018,RightFoot,9226,Manchester United,Tottenham,0,3,2018-08-27 22:00:00,Romelu Lukaku,Pass,558
+233372,87,SavedShot,0.725,0.5590000152587891,0.013414200395345688,Jesse Lingard,h,558,OpenPlay,2018,RightFoot,9226,Manchester United,Tottenham,0,3,2018-08-27 22:00:00,Luke Shaw,Pass,558
+233492,2,MissedShots,0.8419999694824218,0.5179999923706055,0.08192460238933563,Jesse Lingard,a,558,OpenPlay,2018,RightFoot,9232,Burnley,Manchester United,0,2,2018-09-02 15:00:00,Alexis Sánchez,Pass,558
+233494,8,BlockedShot,0.9159999847412109,0.4779999923706055,0.13954900205135345,Jesse Lingard,a,558,OpenPlay,2018,RightFoot,9232,Burnley,Manchester United,0,2,2018-09-02 15:00:00,Antonio Valencia,Pass,558
+233495,9,MissedShots,0.81,0.5629999923706055,0.055050600320100784,Jesse Lingard,a,558,OpenPlay,2018,RightFoot,9232,Burnley,Manchester United,0,2,2018-09-02 15:00:00,Alexis Sánchez,Pass,558
+233500,43,BlockedShot,0.8219999694824218,0.4909999847412109,0.05296510085463524,Jesse Lingard,a,558,OpenPlay,2018,RightFoot,9232,Burnley,Manchester United,0,2,2018-09-02 15:00:00,Romelu Lukaku,TakeOn,558
+234208,65,SavedShot,0.7380000305175781,0.5070000076293946,0.019512800499796867,Jesse Lingard,h,558,OpenPlay,2018,RightFoot,9248,Manchester United,Wolverhampton Wanderers,1,1,2018-09-22 14:00:00,Anthony Martial,Pass,558
+234211,73,MissedShots,0.8569999694824219,0.5209999847412109,0.02848229929804802,Jesse Lingard,h,558,OpenPlay,2018,Head,9248,Manchester United,Wolverhampton Wanderers,1,1,2018-09-22 14:00:00,Anthony Martial,Chipped,558
+249772,88,SavedShot,0.87,0.40400001525878904,0.09944500029087067,Jesse Lingard,a,558,OpenPlay,2018,RightFoot,9297,Bournemouth,Manchester United,1,2,2018-11-03 12:30:00,Marcus Rashford,Pass,558
+250286,2,BlockedShot,0.805,0.5159999847412109,0.055563200265169144,Jesse Lingard,h,558,OpenPlay,2018,RightFoot,9319,Manchester United,Crystal Palace,0,0,2018-11-24 15:00:00,Romelu Lukaku,LayOff,558
+250290,21,BlockedShot,0.775,0.664000015258789,0.019602300599217415,Jesse Lingard,h,558,OpenPlay,2018,RightFoot,9319,Manchester United,Crystal Palace,0,0,2018-11-24 15:00:00,Anthony Martial,Pass,558
+250293,29,SavedShot,0.9130000305175782,0.5509999847412109,0.1352979987859726,Jesse Lingard,h,558,OpenPlay,2018,RightFoot,9319,Manchester United,Crystal Palace,0,0,2018-11-24 15:00:00,Anthony Martial,Pass,558
+250967,68,Goal,0.8980000305175782,0.47,0.44491899013519287,Jesse Lingard,h,558,OpenPlay,2018,RightFoot,9344,Manchester United,Arsenal,2,2,2018-12-05 20:00:00,,None,558
+251453,32,Goal,0.9359999847412109,0.5279999923706055,0.5324100255966187,Jesse Lingard,a,558,OpenPlay,2018,RightFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,,None,558
+251473,74,MissedShots,0.8130000305175781,0.3509999847412109,0.028096500784158707,Jesse Lingard,a,558,OpenPlay,2018,RightFoot,9362,Liverpool,Manchester United,3,1,2018-12-16 16:00:00,Romelu Lukaku,Pass,558
+251676,38,SavedShot,0.8230000305175781,0.7419999694824219,0.028155699372291565,Jesse Lingard,a,558,OpenPlay,2018,RightFoot,9374,Cardiff,Manchester United,1,5,2018-12-22 17:30:00,Anthony Martial,Pass,558
+251681,56,Goal,0.885,0.5,0.7611690163612366,Jesse Lingard,a,558,Penalty,2018,RightFoot,9374,Cardiff,Manchester United,1,5,2018-12-22 17:30:00,,Standard,558
+251694,89,Goal,0.92,0.40799999237060547,0.4977929890155792,Jesse Lingard,a,558,OpenPlay,2018,RightFoot,9374,Cardiff,Manchester United,1,5,2018-12-22 17:30:00,Paul Pogba,TakeOn,558
+251773,14,SavedShot,0.7580000305175781,0.634000015258789,0.022890400141477585,Jesse Lingard,h,558,OpenPlay,2018,RightFoot,9380,Manchester United,Huddersfield,3,1,2018-12-26 15:00:00,Paul Pogba,Pass,558
+274561,10,MissedShots,0.9369999694824219,0.5579999923706055,0.10971199721097946,Jesse Lingard,a,558,OpenPlay,2018,RightFoot,9408,Tottenham,Manchester United,0,1,2019-01-13 16:30:00,,None,558
+274715,52,MissedShots,0.9530000305175781,0.4520000076293945,0.5796980261802673,Jesse Lingard,h,558,OpenPlay,2018,RightFoot,9421,Manchester United,Brighton,2,1,2019-01-19 15:00:00,Marcus Rashford,Cross,558
+275300,11,BlockedShot,0.850999984741211,0.6430000305175781,0.10711699724197388,Jesse Lingard,a,558,OpenPlay,2018,RightFoot,9440,Leicester,Manchester United,0,1,2019-02-03 14:05:00,Luke Shaw,TakeOn,558
+275305,30,SavedShot,0.8830000305175781,0.39799999237060546,0.10720399767160416,Jesse Lingard,a,558,OpenPlay,2018,LeftFoot,9440,Leicester,Manchester United,0,1,2019-02-03 14:05:00,Ashley Young,Pass,558
+287524,79,SavedShot,0.8719999694824219,0.6869999694824219,0.058917101472616196,Jesse Lingard,h,558,OpenPlay,2018,RightFoot,9509,Manchester United,Watford,2,1,2019-03-30 15:00:00,Marcus Rashford,Pass,558
+291000,0,MissedShots,0.7619999694824219,0.5720000076293945,0.02415809966623783,Jesse Lingard,a,558,OpenPlay,2018,RightFoot,9517,Wolverhampton Wanderers,Manchester United,2,1,2019-04-02 19:45:00,,Dispossessed,558
+291005,16,SavedShot,0.9330000305175781,0.4779999923706055,0.4061889946460724,Jesse Lingard,a,558,OpenPlay,2018,Head,9517,Wolverhampton Wanderers,Manchester United,2,1,2019-04-02 19:45:00,Romelu Lukaku,Chipped,558
+291015,48,BlockedShot,0.8159999847412109,0.509000015258789,0.05404140055179596,Jesse Lingard,a,558,SetPiece,2018,RightFoot,9517,Wolverhampton Wanderers,Manchester United,2,1,2019-04-02 19:45:00,Romelu Lukaku,Pass,558
+296808,15,MissedShots,0.905,0.35700000762939454,0.06887640058994293,Jesse Lingard,h,558,OpenPlay,2018,RightFoot,9501,Manchester United,Manchester City,0,2,2019-04-24 20:00:00,Paul Pogba,Chipped,558
+301384,24,SavedShot,0.77,0.40099998474121096,0.027216700837016106,Jesse Lingard,h,558,OpenPlay,2018,RightFoot,9570,Manchester United,Cardiff,0,2,2019-05-12 14:00:00,Andreas Pereira,Pass,558
+301406,82,MissedShots,0.8769999694824219,0.34799999237060547,0.07266510277986526,Jesse Lingard,h,558,OpenPlay,2018,RightFoot,9570,Manchester United,Cardiff,0,2,2019-05-12 14:00:00,Anthony Martial,Pass,558
+315583,84,BlockedShot,0.735,0.48200000762939454,0.020253200083971024,Jesse Lingard,a,558,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Ashley Young,Pass,558
+315585,86,MissedShots,0.740999984741211,0.534000015258789,0.020725300535559654,Jesse Lingard,a,558,OpenPlay,2019,RightFoot,11673,Southampton,Manchester United,1,1,2019-08-31 12:30:00,Paul Pogba,Pass,558
+321036,77,BlockedShot,0.870999984741211,0.6079999923706054,0.05880250036716461,Jesse Lingard,a,558,OpenPlay,2019,RightFoot,11700,West Ham,Manchester United,2,0,2019-09-22 13:00:00,,None,558
+328059,82,MissedShots,0.7530000305175781,0.57,0.03625579923391342,Jesse Lingard,a,558,OpenPlay,2019,RightFoot,11739,Norwich,Manchester United,1,3,2019-10-27 16:30:00,Harry Maguire,Pass,558
+331332,74,BlockedShot,0.9390000152587891,0.3370000076293945,0.08725299686193466,Jesse Lingard,h,558,OpenPlay,2019,RightFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,Scott McTominay,Pass,558
+333044,75,BlockedShot,0.735,0.5329999923706055,0.02092830091714859,Jesse Lingard,a,558,OpenPlay,2019,RightFoot,11770,Sheffield United,Manchester United,3,3,2019-11-24 16:30:00,Harry Maguire,Pass,558
+333048,82,MissedShots,0.840999984741211,0.6,0.07289350032806396,Jesse Lingard,a,558,OpenPlay,2019,LeftFoot,11770,Sheffield United,Manchester United,3,3,2019-11-24 16:30:00,,None,558
+334513,85,SavedShot,0.9890000152587891,0.33599998474121096,0.11329799890518188,Jesse Lingard,h,558,OpenPlay,2019,RightFoot,11782,Manchester United,Aston Villa,2,2,2019-12-01 16:30:00,Marcus Rashford,Throughball,558
+335113,23,BlockedShot,0.845,0.749000015258789,0.036473698914051056,Jesse Lingard,h,558,OpenPlay,2019,RightFoot,11788,Manchester United,Tottenham,2,1,2019-12-04 19:30:00,,None,558
+335116,27,MissedShots,0.885,0.6029999923706054,0.11668699979782104,Jesse Lingard,h,558,OpenPlay,2019,RightFoot,11788,Manchester United,Tottenham,2,1,2019-12-04 19:30:00,Ashley Young,Pass,558
+335818,8,SavedShot,0.945,0.6609999847412109,0.07983429729938507,Jesse Lingard,a,558,OpenPlay,2019,LeftFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,Marcus Rashford,Pass,558
+335839,66,SavedShot,0.9459999847412109,0.6719999694824219,0.0934453010559082,Jesse Lingard,a,558,OpenPlay,2019,LeftFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,Daniel James,Pass,558
+335842,82,SavedShot,0.9119999694824219,0.544000015258789,0.1315770000219345,Jesse Lingard,a,558,OpenPlay,2019,RightFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,Andreas Pereira,Cross,558
+337452,0,MissedShots,0.92,0.5029999923706054,0.48041799664497375,Jesse Lingard,h,558,OpenPlay,2019,RightFoot,11809,Manchester United,Everton,1,1,2019-12-15 14:00:00,,TakeOn,558
+339188,23,BlockedShot,0.8590000152587891,0.7569999694824219,0.027600200846791267,Jesse Lingard,a,558,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Marcus Rashford,Pass,558
+339191,33,MissedShots,0.7819999694824219,0.37900001525878907,0.2977930009365082,Jesse Lingard,a,558,OpenPlay,2019,RightFoot,11821,Watford,Manchester United,2,0,2019-12-22 14:00:00,Anthony Martial,Throughball,558
+351600,52,BlockedShot,0.7809999847412109,0.38,0.029426399618387222,Jesse Lingard,a,558,OpenPlay,2019,RightFoot,11844,Arsenal,Manchester United,2,0,2020-01-01 20:00:00,Anthony Martial,Pass,558
+352316,71,BlockedShot,0.7440000152587891,0.7519999694824219,0.013614200055599213,Jesse Lingard,h,558,OpenPlay,2019,RightFoot,11879,Manchester United,Burnley,0,2,2020-01-22 20:15:00,Luke Shaw,Pass,558
+352320,78,BlockedShot,0.8619999694824219,0.629000015258789,0.07440239936113358,Jesse Lingard,h,558,OpenPlay,2019,RightFoot,11879,Manchester United,Burnley,0,2,2020-01-22 20:15:00,Luke Shaw,Pass,558
+352325,94,SavedShot,0.8619999694824219,0.4779999923706055,0.07447049766778946,Jesse Lingard,h,558,OpenPlay,2019,RightFoot,11879,Manchester United,Burnley,0,2,2020-01-22 20:15:00,,BallTouch,558
+372204,97,BlockedShot,0.845999984741211,0.605999984741211,0.08934179693460464,Jesse Lingard,a,558,OpenPlay,2019,RightFoot,11996,Crystal Palace,Manchester United,0,2,2020-07-16 19:15:00,Timothy Fosu-Mensah,Pass,558
+373851,97,Goal,0.8590000152587891,0.5890000152587891,0.35207700729370117,Jesse Lingard,a,558,OpenPlay,2019,LeftFoot,12018,Leicester,Manchester United,0,2,2020-07-26 15:00:00,,Tackle,558
+402850,10,BlockedShot,0.8159999847412109,0.519000015258789,0.07983040064573288,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14645,Aston Villa,West Ham,1,3,2021-02-03 20:15:00,,TakeOn,558
+402852,14,SavedShot,0.7659999847412109,0.6990000152587891,0.021093100309371948,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14645,Aston Villa,West Ham,1,3,2021-02-03 20:15:00,Said Benrahma,Pass,558
+402855,19,BlockedShot,0.7169999694824218,0.509000015258789,0.013918600045144558,Jesse Lingard,a,558,FromCorner,2020,RightFoot,14645,Aston Villa,West Ham,1,3,2021-02-03 20:15:00,,None,558
+402856,20,BlockedShot,0.7119999694824218,0.46,0.019137699156999588,Jesse Lingard,a,558,SetPiece,2020,RightFoot,14645,Aston Villa,West Ham,1,3,2021-02-03 20:15:00,Aaron Cresswell,Pass,558
+402865,55,Goal,0.894000015258789,0.6509999847412109,0.12442799657583237,Jesse Lingard,a,558,OpenPlay,2020,LeftFoot,14645,Aston Villa,West Ham,1,3,2021-02-03 20:15:00,Michail Antonio,Chipped,558
+402874,82,Goal,0.9030000305175782,0.31799999237060544,0.10685399919748306,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14645,Aston Villa,West Ham,1,3,2021-02-03 20:15:00,Michail Antonio,Pass,558
+405036,13,SavedShot,0.8490000152587891,0.615,0.07441049814224243,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14674,West Ham,Sheffield United,3,0,2021-02-15 18:00:00,Manuel Lanzini,Pass,558
+405037,23,SavedShot,0.9319999694824219,0.6859999847412109,0.10546199977397919,Jesse Lingard,h,558,OpenPlay,2020,LeftFoot,14674,West Ham,Sheffield United,3,0,2021-02-15 18:00:00,Manuel Lanzini,Chipped,558
+405047,64,SavedShot,0.710999984741211,0.46299999237060546,0.02701219916343689,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14674,West Ham,Sheffield United,3,0,2021-02-15 18:00:00,Tomas Soucek,Pass,558
+405049,69,SavedShot,0.7480000305175781,0.6659999847412109,0.018753599375486374,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14674,West Ham,Sheffield United,3,0,2021-02-15 18:00:00,Ben Johnson,Pass,558
+405052,80,MissedShots,0.8880000305175781,0.5690000152587891,0.10564800351858139,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14674,West Ham,Sheffield United,3,0,2021-02-15 18:00:00,,None,558
+405825,46,Goal,0.88,0.6569999694824219,0.08068279922008514,Jesse Lingard,h,558,OpenPlay,2020,LeftFoot,14683,West Ham,Tottenham,2,1,2021-02-21 12:00:00,Pablo Fornals,Pass,558
+406560,18,BlockedShot,0.9490000152587891,0.6819999694824219,0.023118799552321434,Jesse Lingard,a,558,OpenPlay,2020,LeftFoot,14689,Manchester City,West Ham,2,1,2021-02-27 12:30:00,,Aerial,558
+406558,18,BlockedShot,0.7780000305175782,0.6329999923706054,0.025110699236392975,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14689,Manchester City,West Ham,2,1,2021-02-27 12:30:00,Aaron Cresswell,Pass,558
+406564,39,SavedShot,0.8159999847412109,0.31,0.030076999217271805,Jesse Lingard,a,558,OpenPlay,2020,LeftFoot,14689,Manchester City,West Ham,2,1,2021-02-27 12:30:00,Vladimir Coufal,Pass,558
+406565,42,MissedShots,0.9290000152587891,0.4540000152587891,0.505141019821167,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14689,Manchester City,West Ham,2,1,2021-02-27 12:30:00,Vladimir Coufal,Pass,558
+409371,20,Goal,0.955,0.5120000076293946,0.6730620265007019,Jesse Lingard,h,558,SetPiece,2020,LeftFoot,14704,West Ham,Leeds,2,0,2021-03-08 20:00:00,,Rebound,558
+409370,20,SavedShot,0.885,0.5,0.7611690163612366,Jesse Lingard,h,558,Penalty,2020,RightFoot,14704,West Ham,Leeds,2,0,2021-03-08 20:00:00,,Standard,558
+409375,33,MissedShots,0.8580000305175781,0.7230000305175781,0.03569440171122551,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14704,West Ham,Leeds,2,0,2021-03-08 20:00:00,Said Benrahma,Pass,558
+411843,14,Goal,0.8319999694824218,0.555,0.06787379831075668,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14724,West Ham,Arsenal,3,3,2021-03-21 15:00:00,Michail Antonio,Pass,558
+411867,79,MissedShots,0.84,0.6430000305175781,0.05349700152873993,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14724,West Ham,Arsenal,3,3,2021-03-21 15:00:00,Michail Antonio,TakeOn,558
+413464,5,Goal,0.9019999694824219,0.600999984741211,0.4166400134563446,Jesse Lingard,a,558,OpenPlay,2020,LeftFoot,14734,Wolverhampton Wanderers,West Ham,2,3,2021-04-05 19:15:00,Vladimir Coufal,Pass,558
+413466,11,SavedShot,0.8590000152587891,0.6630000305175782,0.06937699764966965,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14734,Wolverhampton Wanderers,West Ham,2,3,2021-04-05 19:15:00,Arthur Masuaku,Pass,558
+414481,28,Goal,0.840999984741211,0.39099998474121095,0.06245119869709015,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14744,West Ham,Leicester,3,2,2021-04-11 13:05:00,Vladimir Coufal,Pass,558
+414483,37,SavedShot,0.845,0.4229999923706055,0.12264899909496307,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14744,West Ham,Leicester,3,2,2021-04-11 13:05:00,Vladimir Coufal,Pass,558
+414484,43,Goal,0.850999984741211,0.5059999847412109,0.3354319930076599,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14744,West Ham,Leicester,3,2,2021-04-11 13:05:00,Jarrod Bowen,Pass,558
+415140,51,BlockedShot,0.7859999847412109,0.6840000152587891,0.020139100030064583,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14752,Newcastle United,West Ham,3,2,2021-04-17 11:30:00,Tomas Soucek,Pass,558
+415143,58,BlockedShot,0.7980000305175782,0.7559999847412109,0.012139399535953999,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14752,Newcastle United,West Ham,3,2,2021-04-17 11:30:00,Ben Johnson,Pass,558
+415145,61,MissedShots,0.765,0.710999984741211,0.011532199569046497,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14752,Newcastle United,West Ham,3,2,2021-04-17 11:30:00,Pablo Fornals,Pass,558
+415150,79,Goal,0.885,0.5,0.7611690163612366,Jesse Lingard,a,558,Penalty,2020,RightFoot,14752,Newcastle United,West Ham,3,2,2021-04-17 11:30:00,,Standard,558
+417429,34,BlockedShot,0.7580000305175781,0.5370000076293945,0.026819100603461266,Jesse Lingard,h,558,OpenPlay,2020,LeftFoot,14763,West Ham,Chelsea,0,1,2021-04-24 16:30:00,Pablo Fornals,Pass,558
+417437,58,SavedShot,0.715,0.9380000305175781,0.021266400814056396,Jesse Lingard,h,558,DirectFreekick,2020,RightFoot,14763,West Ham,Chelsea,0,1,2021-04-24 16:30:00,,Standard,558
+417439,59,MissedShots,0.835,0.7169999694824218,0.029590899124741554,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14763,West Ham,Chelsea,0,1,2021-04-24 16:30:00,,Rebound,558
+419570,89,SavedShot,0.9,0.32799999237060545,0.10672300308942795,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14766,Burnley,West Ham,1,2,2021-05-03 19:15:00,Pablo Fornals,Pass,558
+420739,20,BlockedShot,0.7440000152587891,0.45799999237060546,0.02327279932796955,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14783,West Ham,Everton,0,1,2021-05-09 15:30:00,Michail Antonio,Pass,558
+420743,25,BlockedShot,0.955999984741211,0.3120000076293945,0.04994779825210571,Jesse Lingard,h,558,FromCorner,2020,RightFoot,14783,West Ham,Everton,0,1,2021-05-09 15:30:00,Pablo Fornals,Rebound,558
+422048,40,BlockedShot,0.7859999847412109,0.6040000152587891,0.024585699662566185,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14785,Brighton,West Ham,1,1,2021-05-15 19:00:00,Aaron Cresswell,Pass,558
+422060,59,MissedShots,0.765,0.6430000305175781,0.019663600251078606,Jesse Lingard,a,558,OpenPlay,2020,LeftFoot,14785,Brighton,West Ham,1,1,2021-05-15 19:00:00,Declan Rice,Pass,558
+423383,39,SavedShot,0.88,0.7609999847412109,0.029877599328756332,Jesse Lingard,a,558,OpenPlay,2020,RightFoot,14804,West Bromwich Albion,West Ham,1,3,2021-05-19 19:15:00,Pablo Fornals,Pass,558
+424123,19,MissedShots,0.7369999694824219,0.710999984741211,0.010615999810397625,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14813,West Ham,Southampton,3,0,2021-05-23 15:00:00,,None,558
+424136,35,SavedShot,0.8109999847412109,0.8040000152587891,0.028210099786520004,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14813,West Ham,Southampton,3,0,2021-05-23 15:00:00,Pablo Fornals,Pass,558
+424140,46,BlockedShot,0.8909999847412109,0.5509999847412109,0.11509200185537338,Jesse Lingard,h,558,OpenPlay,2020,RightFoot,14813,West Ham,Southampton,3,0,2021-05-23 15:00:00,Tomas Soucek,Rebound,558
+429919,91,Goal,0.865,0.5220000076293946,0.369022011756897,Jesse Lingard,h,558,OpenPlay,2021,RightFoot,16410,Manchester United,Newcastle United,4,1,2021-09-11 14:00:00,Paul Pogba,Pass,558
+431773,88,Goal,0.855,0.654000015258789,0.05469369888305664,Jesse Lingard,a,558,OpenPlay,2021,RightFoot,16424,West Ham,Manchester United,1,2,2021-09-19 13:00:00,Nemanja Matic,Pass,558
+436248,87,SavedShot,0.8009999847412109,0.6659999847412109,0.026205599308013916,Jesse Lingard,a,558,OpenPlay,2021,RightFoot,16450,Leicester,Manchester United,4,2,2021-10-16 14:00:00,Bruno Fernandes,Pass,558
+445815,84,SavedShot,0.924000015258789,0.6930000305175781,0.062042299658060074,Jesse Lingard,h,558,OpenPlay,2021,LeftFoot,16512,Manchester United,Arsenal,3,2,2021-12-02 20:15:00,Alex Telles,Chipped,558
+456586,93,BlockedShot,0.7859999847412109,0.610999984741211,0.02671629935503006,Jesse Lingard,a,558,OpenPlay,2021,RightFoot,16608,Burnley,Manchester United,1,1,2022-02-08 20:00:00,Jadon Sancho,Pass,558
+468121,9,MissedShots,0.835,0.5840000152587891,0.0954350009560585,Jesse Lingard,h,558,OpenPlay,2021,RightFoot,16702,Manchester United,Norwich,3,2,2022-04-16 14:00:00,Anthony Elanga,LayOff,558
+468126,30,SavedShot,0.909000015258789,0.4129999923706055,0.12446200102567673,Jesse Lingard,h,558,OpenPlay,2021,RightFoot,16702,Manchester United,Norwich,3,2,2022-04-16 14:00:00,Diogo Dalot,Pass,558
+468135,49,SavedShot,0.735,0.505,0.015410199761390686,Jesse Lingard,h,558,FromCorner,2021,RightFoot,16702,Manchester United,Norwich,3,2,2022-04-16 14:00:00,Harry Maguire,None,558
+479308,38,BlockedShot,0.9009999847412109,0.38799999237060545,0.07895790040493011,Jesse Lingard,a,558,OpenPlay,2022,RightFoot,18206,Newcastle United,Nottingham Forest,2,0,2022-08-06 14:00:00,,None,558
+480884,46,BlockedShot,0.8909999847412109,0.5329999923706055,0.1272210031747818,Jesse Lingard,h,558,OpenPlay,2022,RightFoot,18219,Nottingham Forest,West Ham,1,0,2022-08-14 13:00:00,Harry Toffolo,Pass,558
+484473,17,BlockedShot,0.7380000305175781,0.615,0.017902500927448273,Jesse Lingard,h,558,OpenPlay,2022,RightFoot,18241,Nottingham Forest,Tottenham,0,2,2022-08-28 15:30:00,Lewis O&#039;Brien,Pass,558
+485864,18,BlockedShot,0.7880000305175782,0.4640000152587891,0.04340299963951111,Jesse Lingard,h,558,OpenPlay,2022,LeftFoot,18254,Nottingham Forest,Bournemouth,2,3,2022-09-03 14:00:00,Ryan Yates,BallRecovery,558
+485870,46,SavedShot,0.76,0.7019999694824218,0.017934899777173996,Jesse Lingard,h,558,FromCorner,2022,RightFoot,18254,Nottingham Forest,Bournemouth,2,3,2022-09-03 14:00:00,Morgan Gibbs-White,Pass,558
+491195,38,BlockedShot,0.865999984741211,0.5220000076293946,0.11037900298833847,Jesse Lingard,a,558,OpenPlay,2022,RightFoot,18287,Leicester,Nottingham Forest,4,0,2022-10-03 19:00:00,Brennan Johnson,Pass,558
+494761,30,SavedShot,0.845,0.639000015258789,0.08204209804534912,Jesse Lingard,h,558,OpenPlay,2022,LeftFoot,18327,Nottingham Forest,Liverpool,1,0,2022-10-22 11:30:00,Taiwo Awoniyi,Pass,558
+497140,31,MissedShots,0.7730000305175782,0.5420000076293945,0.0261525996029377,Jesse Lingard,a,558,OpenPlay,2022,RightFoot,18332,Arsenal,Nottingham Forest,5,0,2022-10-30 14:00:00,,BallRecovery,558
+497143,42,BlockedShot,0.8690000152587891,0.4259999847412109,0.06835699826478958,Jesse Lingard,a,558,OpenPlay,2022,RightFoot,18332,Arsenal,Nottingham Forest,5,0,2022-10-30 14:00:00,,BallRecovery,558
+500159,74,MissedShots,0.8930000305175781,0.5629999923706055,0.1254120022058487,Jesse Lingard,h,558,OpenPlay,2022,RightFoot,18358,Nottingham Forest,Crystal Palace,1,0,2022-11-12 15:00:00,Brennan Johnson,Pass,558

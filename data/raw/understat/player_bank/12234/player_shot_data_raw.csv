@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+566693,83,MissedShots,0.8909999847412109,0.46599998474121096,0.05905846878886223,Tawanda Chirewa,a,12234,OpenPlay,2023,Head,22161,Newcastle United,Wolverhampton Wanderers,3,0,2024-03-02 15:00:00,Nélson Semedo,Cross,12234
+575182,23,SavedShot,0.775,0.6569999694824219,0.02430770918726921,Tawanda Chirewa,h,12234,OpenPlay,2023,RightFoot,22234,Wolverhampton Wanderers,Arsenal,0,2,2024-04-20 18:30:00,Hee-Chan Hwang,Pass,12234
+576318,88,BlockedShot,0.78,0.5279999923706055,0.025506488978862762,Tawanda Chirewa,h,12234,OpenPlay,2023,RightFoot,22184,Wolverhampton Wanderers,Bournemouth,0,1,2024-04-24 18:45:00,Mario Lemina,Pass,12234

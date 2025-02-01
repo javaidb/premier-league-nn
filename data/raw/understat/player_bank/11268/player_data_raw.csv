@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+11268,David Ozoh,1,1,0,0,0,0,0,0,0,0,S,Crystal Palace,0,0,0,0,2022
+11268,David Ozoh,9,133,0,0,0,0,0,0,1,0,S,Crystal Palace,0,0,0.742124617099762,0.742124617099762,2023

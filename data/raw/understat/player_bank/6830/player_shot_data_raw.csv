@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+233305,72,SavedShot,0.9169999694824219,0.6409999847412109,0.09615620225667953,Danny Ward,a,6830,OpenPlay,2018,LeftFoot,9219,Huddersfield,Cardiff,0,0,2018-08-25 17:00:00,Víctor Camarasa,Pass,6830
+233540,57,MissedShots,0.87,0.24200000762939453,0.026850899681448936,Danny Ward,h,6830,OpenPlay,2018,LeftFoot,9235,Cardiff,Arsenal,2,3,2018-09-02 12:30:00,Bruno Ecuele Manga,Pass,6830
+233546,69,Goal,0.8830000305175781,0.475,0.04845219850540161,Danny Ward,h,6830,SetPiece,2018,Head,9235,Cardiff,Arsenal,2,3,2018-09-02 12:30:00,Sean Morrison,HeadPass,6830
+234080,35,SavedShot,0.775,0.34200000762939453,0.01853260025382042,Danny Ward,h,6830,OpenPlay,2018,LeftFoot,9252,Cardiff,Manchester City,0,5,2018-09-22 14:00:00,Víctor Camarasa,HeadPass,6830
+275934,90,MissedShots,0.889000015258789,0.5459999847412109,0.040165700018405914,Danny Ward,h,6830,OpenPlay,2018,Head,9469,Cardiff,Everton,0,3,2019-02-26 19:45:00,Joe Bennett,Aerial,6830
+297431,80,SavedShot,0.91,0.534000015258789,0.10682599991559982,Danny Ward,a,6830,SetPiece,2018,Head,9553,Fulham,Cardiff,1,0,2019-04-27 15:00:00,Junior Hoilett,Cross,6830
+297433,85,SavedShot,0.8959999847412109,0.2670000076293945,0.04477569833397865,Danny Ward,a,6830,OpenPlay,2018,LeftFoot,9553,Fulham,Cardiff,1,0,2019-04-27 15:00:00,Lee Peltier,Pass,6830
+297439,91,SavedShot,0.945,0.5840000152587891,0.07708960026502609,Danny Ward,a,6830,FromCorner,2018,Head,9553,Fulham,Cardiff,1,0,2019-04-27 15:00:00,Junior Hoilett,Cross,6830
+299482,12,BlockedShot,0.9069999694824219,0.2670000076293945,0.0390327014029026,Danny Ward,h,6830,OpenPlay,2018,RightFoot,9564,Cardiff,Crystal Palace,2,3,2019-05-04 16:30:00,,None,6830
+299483,26,BlockedShot,0.7909999847412109,0.44799999237060545,0.04059699922800064,Danny Ward,h,6830,OpenPlay,2018,RightFoot,9564,Cardiff,Crystal Palace,2,3,2019-05-04 16:30:00,Bobby Reid,Pass,6830
+299496,49,MissedShots,0.8690000152587891,0.43,0.07432480156421661,Danny Ward,h,6830,SetPiece,2018,LeftFoot,9564,Cardiff,Crystal Palace,2,3,2019-05-04 16:30:00,Joe Bennett,Chipped,6830

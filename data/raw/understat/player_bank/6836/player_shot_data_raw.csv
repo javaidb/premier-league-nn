@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+232756,60,BlockedShot,0.7269999694824218,0.37400001525878906,0.013830199837684631,Kevin McDonald,h,6836,OpenPlay,2018,RightFoot,9201,Fulham,Crystal Palace,0,2,2018-08-11 17:00:00,,BallTouch,6836
+233281,66,MissedShots,0.7440000152587891,0.46599998474121096,0.027358699589967728,Kevin McDonald,h,6836,FromCorner,2018,RightFoot,9220,Fulham,Burnley,4,2,2018-08-26 17:00:00,André Schürrle,Pass,6836
+233486,75,MissedShots,0.7169999694824218,0.40400001525878904,0.017866000533103943,Kevin McDonald,a,6836,OpenPlay,2018,RightFoot,9233,Brighton,Fulham,2,2,2018-09-01 14:00:00,Jean Michael Seri,Pass,6836
+249375,77,MissedShots,0.815,0.46,0.050313800573349,Kevin McDonald,a,6836,OpenPlay,2018,RightFoot,9282,Cardiff,Fulham,4,2,2018-10-20 14:00:00,Ryan Sessegnon,Pass,6836

@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+801,Graham Dorrans,21,1608,1,1.5093517256900668,3,2.654246101155877,20,25,5,0,M S,West Bromwich Albion,1,0.7481827093288302,4.214195780456066,2.6841545552015305,2014
+801,Graham Dorrans,21,1289,0,0.5596574051305652,1,1.159778194501996,16,15,2,0,M S,Norwich,0,0.5596574051305652,3.570578595623374,2.449030422605574,2015

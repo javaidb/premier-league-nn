@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+8905,Conor Townsend,25,2237,0,0.82282321061939,2,2.6485062204301357,11,23,0,0,D M,West Bromwich Albion,0,0.82282321061939,6.119824014604092,3.785737205296755,2020
+8905,Conor Townsend,2,38,0,0,0,0.3220240231603384,0,2,0,0,S,Ipswich,0,0,0.3220240231603384,0,2024
+8905,Conor Townsend,2,38,0,0,0,0.3220240231603384,0,2,0,0,S,Ipswich,0,0,0.3220240231603384,0,2025

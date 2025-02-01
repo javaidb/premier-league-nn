@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,1,0.018815500661730766,5,Sub,West Bromwich Albion,Crystal Palace,2,2,2014-10-25,4712,2014,19190,0,0,0,0,0.018815500661730766,0.018815500661730766,0,4505
+0,1,0.021039700135588646,7,Sub,Liverpool,West Bromwich Albion,2,1,2014-10-04,4691,2014,19866,0,0,0,0,0.021039700135588646,0.021039700135588646,0,4505
+0,0,0,18,Sub,West Bromwich Albion,Everton,0,2,2014-09-13,4725,2014,18116,0,0,0,0,0,0,0,4505

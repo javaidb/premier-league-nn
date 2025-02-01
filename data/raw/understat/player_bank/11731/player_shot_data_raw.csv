@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+556499,30,MissedShots,0.7619999694824219,0.5620000076293945,0.01832941547036171,Andre Brooks,h,11731,FromCorner,2023,LeftFoot,22084,Sheffield United,Luton,2,3,2023-12-26 15:00:00,,None,11731
+556507,44,BlockedShot,0.81,0.5659999847412109,0.04163395240902901,Andre Brooks,h,11731,OpenPlay,2023,RightFoot,22084,Sheffield United,Luton,2,3,2023-12-26 15:00:00,,None,11731
+559249,17,MissedShots,0.870999984741211,0.6020000076293945,0.06680572777986526,Andre Brooks,h,11731,OpenPlay,2023,LeftFoot,22101,Sheffield United,West Ham,2,2,2024-01-21 14:00:00,,Rebound,11731
+559266,60,BlockedShot,0.8140000152587891,0.495,0.06150456890463829,Andre Brooks,h,11731,OpenPlay,2023,LeftFoot,22101,Sheffield United,West Ham,2,2,2024-01-21 14:00:00,Jayden Bogle,Pass,11731
+560634,84,SavedShot,0.8480000305175781,0.3870000076293945,0.04987345263361931,Andre Brooks,a,11731,OpenPlay,2023,LeftFoot,22112,Crystal Palace,Sheffield United,3,2,2024-01-30 20:00:00,,Rebound,11731
+576831,30,MissedShots,0.9209999847412109,0.56,0.12498725205659866,Andre Brooks,a,11731,FromCorner,2023,LeftFoot,22240,Newcastle United,Sheffield United,5,1,2024-04-27 14:00:00,,Rebound,11731
+576837,49,MissedShots,0.779000015258789,0.665,0.024486450478434563,Andre Brooks,a,11731,OpenPlay,2023,LeftFoot,22240,Newcastle United,Sheffield United,5,1,2024-04-27 14:00:00,Anel Ahmedhodzic,Pass,11731
+578469,31,BlockedShot,0.8119999694824219,0.5159999847412109,0.055578943341970444,Andre Brooks,h,11731,OpenPlay,2023,RightFoot,22254,Sheffield United,Nottingham Forest,1,3,2024-05-04 14:00:00,Cameron Archer,Pass,11731
+579823,40,SavedShot,0.889000015258789,0.30200000762939455,0.05126146599650383,Andre Brooks,a,11731,OpenPlay,2023,LeftFoot,22257,Everton,Sheffield United,1,0,2024-05-11 14:00:00,Ben Brereton Díaz,Pass,11731

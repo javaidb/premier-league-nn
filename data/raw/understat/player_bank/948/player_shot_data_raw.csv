@@ -1,0 +1,111 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+46677,45,BlockedShot,0.740999984741211,0.41200000762939454,0.054125599563121796,Alessandro Diamanti,a,948,DirectFreekick,2014,LeftFoot,4997,Genoa,Fiorentina,1,1,2015-01-31 17:00:00,,Standard,948
+46683,57,MissedShots,0.7290000152587891,0.34700000762939454,0.012969099916517735,Alessandro Diamanti,a,948,OpenPlay,2014,LeftFoot,4997,Genoa,Fiorentina,1,1,2015-01-31 17:00:00,Matías Fernández,Pass,948
+46686,65,SavedShot,0.765,0.6830000305175781,0.018033800646662712,Alessandro Diamanti,a,948,OpenPlay,2014,LeftFoot,4997,Genoa,Fiorentina,1,1,2015-01-31 17:00:00,José Basanta,Pass,948
+46886,15,SavedShot,0.7040000152587891,0.5609999847412109,0.011349800042808056,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Nenad Tomovic,GoodSkill,948
+46888,29,MissedShots,0.775,0.40700000762939453,0.02907310053706169,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Borja Valero,Pass,948
+46896,48,SavedShot,0.7580000305175781,0.4179999923706055,0.02431360073387623,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Matías Fernández,Pass,948
+46897,49,SavedShot,0.850999984741211,0.5709999847412109,0.10066100209951401,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Borja Valero,TakeOn,948
+46898,51,MissedShots,0.750999984741211,0.40400001525878904,0.018859000876545906,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Nenad Tomovic,Pass,948
+46899,66,SavedShot,0.8490000152587891,0.285,0.02711920067667961,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,Mohamed Salah,Pass,948
+46902,75,Goal,0.9330000305175781,0.38799999237060545,0.4328159987926483,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4929,Fiorentina,Atalanta,3,2,2015-02-08 11:30:00,,TakeOn,948
+47198,21,MissedShots,0.7959999847412109,0.22600000381469726,0.045888300985097885,Alessandro Diamanti,a,948,DirectFreekick,2014,LeftFoot,4937,Sassuolo,Fiorentina,1,3,2015-02-14 17:00:00,,Standard,948
+47213,61,BlockedShot,0.7280000305175781,0.49900001525878906,0.05086719989776611,Alessandro Diamanti,a,948,DirectFreekick,2014,LeftFoot,4937,Sassuolo,Fiorentina,1,3,2015-02-14 17:00:00,,Standard,948
+47218,76,SavedShot,0.77,0.3609999847412109,0.02236259914934635,Alessandro Diamanti,a,948,OpenPlay,2014,LeftFoot,4937,Sassuolo,Fiorentina,1,3,2015-02-14 17:00:00,Alberto Gilardino,Pass,948
+47273,7,SavedShot,0.7330000305175781,0.46900001525878904,0.01952660083770752,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4952,Fiorentina,Torino,1,1,2015-02-22 19:45:00,Josip Ilicic,Pass,948
+47279,17,MissedShots,0.745,0.3609999847412109,0.02152400091290474,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4952,Fiorentina,Torino,1,1,2015-02-22 19:45:00,Nenad Tomovic,Pass,948
+47287,42,BlockedShot,0.8059999847412109,0.5779999923706055,0.12445300072431564,Alessandro Diamanti,h,948,DirectFreekick,2014,LeftFoot,4952,Fiorentina,Torino,1,1,2015-02-22 19:45:00,,Standard,948
+47391,9,SavedShot,0.7659999847412109,0.2720000076293945,0.044845499098300934,Alessandro Diamanti,a,948,DirectFreekick,2014,LeftFoot,4886,Inter,Fiorentina,0,1,2015-03-01 17:00:00,,Standard,948
+47394,28,BlockedShot,0.740999984741211,0.28600000381469726,0.015525300055742264,Alessandro Diamanti,a,948,OpenPlay,2014,LeftFoot,4886,Inter,Fiorentina,0,1,2015-03-01 17:00:00,Josip Ilicic,Pass,948
+47936,14,MissedShots,0.7340000152587891,0.3129999923706055,0.01659039966762066,Alessandro Diamanti,a,948,OpenPlay,2014,LeftFoot,4897,Lazio,Fiorentina,4,0,2015-03-09 18:00:00,,TakeOn,948
+47937,18,BlockedShot,0.875999984741211,0.325,0.03327380120754242,Alessandro Diamanti,a,948,OpenPlay,2014,LeftFoot,4897,Lazio,Fiorentina,4,0,2015-03-09 18:00:00,Manuel Pasqual,Cross,948
+48269,4,BlockedShot,0.8430000305175781,0.68,0.04748069867491722,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4837,Fiorentina,Sampdoria,2,0,2015-04-04 17:30:00,Mario Gomez,LayOff,948
+48272,17,MissedShots,0.9130000305175782,0.425,0.4129140079021454,Alessandro Diamanti,h,948,OpenPlay,2014,RightFoot,4837,Fiorentina,Sampdoria,2,0,2015-04-04 17:30:00,Marcos Alonso,BlockedPass,948
+48275,29,BlockedShot,0.8380000305175781,0.185,0.020358100533485413,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4837,Fiorentina,Sampdoria,2,0,2015-04-04 17:30:00,Gonzalo Rodríguez,Pass,948
+48279,48,BlockedShot,0.8,0.6170000076293946,0.014744900166988373,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4837,Fiorentina,Sampdoria,2,0,2015-04-04 17:30:00,,Aerial,948
+48284,58,BlockedShot,0.8630000305175781,0.2879999923706055,0.03786789998412132,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4837,Fiorentina,Sampdoria,2,0,2015-04-04 17:30:00,Mohamed Salah,Pass,948
+48286,60,Goal,0.8430000305175781,0.7340000152587891,0.037271998822689056,Alessandro Diamanti,h,948,FromCorner,2014,RightFoot,4837,Fiorentina,Sampdoria,2,0,2015-04-04 17:30:00,Milan Badelj,Pass,948
+49104,8,BlockedShot,0.8059999847412109,0.42400001525878905,0.12527400255203247,Alessandro Diamanti,h,948,DirectFreekick,2014,LeftFoot,4860,Fiorentina,Verona,0,1,2015-04-20 19:45:00,,Standard,948
+49105,10,BlockedShot,0.750999984741211,0.715,0.015196800231933594,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4860,Fiorentina,Verona,0,1,2015-04-20 19:45:00,Milan Badelj,Pass,948
+49112,27,MissedShots,0.7269999694824218,0.40400001525878904,0.04608900099992752,Alessandro Diamanti,h,948,DirectFreekick,2014,LeftFoot,4860,Fiorentina,Verona,0,1,2015-04-20 19:45:00,,Standard,948
+49119,45,BlockedShot,0.8919999694824219,0.5420000076293945,0.12480399757623672,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4860,Fiorentina,Verona,0,1,2015-04-20 19:45:00,Andrea Lazzari,Pass,948
+49121,48,BlockedShot,0.86,0.5729999923706055,0.09651940315961838,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4860,Fiorentina,Verona,0,1,2015-04-20 19:45:00,Manuel Pasqual,Pass,948
+49126,66,SavedShot,0.885,0.5,0.7612990140914917,Alessandro Diamanti,h,948,Penalty,2014,LeftFoot,4860,Fiorentina,Verona,0,1,2015-04-20 19:45:00,,Standard,948
+49131,81,BlockedShot,0.805,0.46299999237060546,0.0555742010474205,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4860,Fiorentina,Verona,0,1,2015-04-20 19:45:00,Mohamed Salah,Pass,948
+49462,18,MissedShots,0.749000015258789,0.25799999237060545,0.011122399941086769,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,,None,948
+49468,30,BlockedShot,0.769000015258789,0.33099998474121095,0.012200100347399712,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Manuel Pasqual,Chipped,948
+49471,37,BlockedShot,0.8190000152587891,0.26600000381469724,0.022909799590706825,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Borja Valero,Pass,948
+49473,45,MissedShots,0.9519999694824218,0.3390000152587891,0.06577540189027786,Alessandro Diamanti,h,948,OpenPlay,2014,RightFoot,4869,Fiorentina,Cagliari,1,3,2015-04-26 17:00:00,Nenad Tomovic,Pass,948
+51123,71,MissedShots,0.7219999694824218,0.5640000152587891,0.016030900180339813,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4785,Fiorentina,Cesena,3,1,2015-05-03 14:00:00,,None,948
+50492,84,MissedShots,0.76,0.6179999923706054,0.008621970191597939,Alessandro Diamanti,h,948,FromCorner,2014,LeftFoot,4807,Fiorentina,Parma,3,0,2015-05-18 18:00:00,Josip Ilicic,Chipped,948
+50493,85,MissedShots,0.8590000152587891,0.27399999618530274,0.07477010041475296,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4807,Fiorentina,Parma,3,0,2015-05-18 18:00:00,Milan Badelj,Chipped,948
+50494,87,SavedShot,0.7580000305175781,0.6530000305175782,0.02344449982047081,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4807,Fiorentina,Parma,3,0,2015-05-18 18:00:00,Milan Badelj,Pass,948
+50496,89,BlockedShot,0.76,0.6170000076293946,0.02192400023341179,Alessandro Diamanti,h,948,OpenPlay,2014,LeftFoot,4807,Fiorentina,Parma,3,0,2015-05-18 18:00:00,Josip Ilicic,Pass,948
+57142,68,MissedShots,0.71,0.48200000762939454,0.014098400250077248,Alessandro Diamanti,h,948,OpenPlay,2015,LeftFoot,109,Watford,Southampton,0,0,2015-08-23 19:00:00,Etienne Capoue,Pass,948
+93910,93,BlockedShot,0.725,0.48,0.016588399186730385,Alessandro Diamanti,a,948,OpenPlay,2015,LeftFoot,751,Frosinone,Atalanta,0,0,2016-01-23 21:00:00,Germán Denis,Pass,948
+95293,11,MissedShots,0.8769999694824219,0.6719999694824219,0.05487069860100746,Alessandro Diamanti,a,948,OpenPlay,2015,RightFoot,780,Verona,Atalanta,2,1,2016-02-03 23:45:00,Alejandro Gomez,Pass,948
+95294,15,BlockedShot,0.715,0.42,0.04191790148615837,Alessandro Diamanti,a,948,DirectFreekick,2015,LeftFoot,780,Verona,Atalanta,2,1,2016-02-03 23:45:00,,Standard,948
+95301,34,MissedShots,0.534000015258789,0.65,0.009044219739735126,Alessandro Diamanti,a,948,OpenPlay,2015,LeftFoot,780,Verona,Atalanta,2,1,2016-02-03 23:45:00,Andrea Masiello,Pass,948
+95307,52,MissedShots,0.8180000305175781,0.285,0.02626180090010166,Alessandro Diamanti,a,948,OpenPlay,2015,LeftFoot,780,Verona,Atalanta,2,1,2016-02-03 23:45:00,Alejandro Gomez,Pass,948
+95312,62,SavedShot,0.8580000305175781,0.47400001525878904,0.3270359933376312,Alessandro Diamanti,a,948,OpenPlay,2015,LeftFoot,780,Verona,Atalanta,2,1,2016-02-03 23:45:00,Marco Borriello,Pass,948
+95314,64,MissedShots,0.750999984741211,0.205,0.012564199976623058,Alessandro Diamanti,a,948,OpenPlay,2015,LeftFoot,780,Verona,Atalanta,2,1,2016-02-03 23:45:00,Marten de Roon,Pass,948
+94813,30,BlockedShot,0.8440000152587891,0.34400001525878904,0.0413254015147686,Alessandro Diamanti,h,948,OpenPlay,2015,LeftFoot,789,Atalanta,Empoli,0,0,2016-02-07 21:00:00,Jasmin Kurtic,Chipped,948
+94814,33,MissedShots,0.78,0.26299999237060545,0.01388929970562458,Alessandro Diamanti,h,948,OpenPlay,2015,LeftFoot,789,Atalanta,Empoli,0,0,2016-02-07 21:00:00,Jasmin Kurtic,Pass,948
+94822,60,MissedShots,0.8480000305175781,0.38799999237060545,0.057565998286008835,Alessandro Diamanti,h,948,OpenPlay,2015,LeftFoot,789,Atalanta,Empoli,0,0,2016-02-07 21:00:00,,None,948
+96055,6,MissedShots,0.8009999847412109,0.46599998474121096,0.02863439917564392,Alessandro Diamanti,a,948,OpenPlay,2015,LeftFoot,798,Sampdoria,Atalanta,0,0,2016-02-14 18:00:00,Jasmin Kurtic,HeadPass,948
+96995,21,BlockedShot,0.6940000152587891,0.37099998474121093,0.0325470007956028,Alessandro Diamanti,a,948,DirectFreekick,2015,LeftFoot,817,Carpi,Atalanta,1,1,2016-02-28 18:00:00,,Standard,948
+96997,29,MissedShots,0.7580000305175781,0.29,0.016058700159192085,Alessandro Diamanti,a,948,OpenPlay,2015,LeftFoot,817,Carpi,Atalanta,1,1,2016-02-28 18:00:00,Mauricio Pinilla,Pass,948
+97610,75,BlockedShot,0.8030000305175782,0.4540000152587891,0.04014889895915985,Alessandro Diamanti,h,948,OpenPlay,2015,LeftFoot,826,Atalanta,Juventus,0,2,2016-03-06 18:00:00,,Dispossessed,948
+97617,94,BlockedShot,0.7819999694824219,0.7480000305175781,0.011529900133609772,Alessandro Diamanti,h,948,OpenPlay,2015,LeftFoot,826,Atalanta,Juventus,0,2,2016-03-06 18:00:00,Marco D&#039;Alessandro,Pass,948
+98477,45,Goal,0.935,0.52,0.588034987449646,Alessandro Diamanti,h,948,OpenPlay,2015,LeftFoot,843,Atalanta,Bologna,2,0,2016-03-20 15:30:00,Mauricio Pinilla,Pass,948
+99043,78,SavedShot,0.825999984741211,0.6869999694824219,0.04245010018348694,Alessandro Diamanti,h,948,OpenPlay,2015,LeftFoot,858,Atalanta,AC Milan,2,1,2016-04-03 17:00:00,Mauricio Pinilla,Pass,948
+100494,89,BlockedShot,0.805,0.5870000076293945,0.11894600093364716,Alessandro Diamanti,a,948,DirectFreekick,2015,LeftFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,,Standard,948
+100495,90,BlockedShot,0.740999984741211,0.6370000076293946,0.04849720001220703,Alessandro Diamanti,a,948,DirectFreekick,2015,LeftFoot,884,Palermo,Atalanta,2,2,2016-04-20 22:45:00,,Standard,948
+101009,10,SavedShot,0.7240000152587891,0.23899999618530274,0.010270699858665466,Alessandro Diamanti,h,948,OpenPlay,2015,LeftFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,Marco Borriello,Pass,948
+101010,15,MissedShots,0.81,0.24399999618530274,0.015911700204014778,Alessandro Diamanti,h,948,OpenPlay,2015,LeftFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,,None,948
+101020,58,BlockedShot,0.8290000152587891,0.5479999923706055,0.08592859655618668,Alessandro Diamanti,h,948,OpenPlay,2015,RightFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,Luca Cigarini,Pass,948
+101023,64,SavedShot,0.8059999847412109,0.36900001525878906,0.023443099111318588,Alessandro Diamanti,h,948,SetPiece,2015,LeftFoot,896,Atalanta,Chievo,1,0,2016-04-24 17:00:00,Marco Sportiello,Pass,948
+101530,41,MissedShots,0.745999984741211,0.40099998474121096,0.021081700921058655,Alessandro Diamanti,a,948,OpenPlay,2015,LeftFoot,910,Napoli,Atalanta,2,1,2016-05-02 23:00:00,Marco D&#039;Alessandro,Pass,948
+145876,10,SavedShot,0.7859999847412109,0.43400001525878906,0.03445670008659363,Alessandro Diamanti,a,948,OpenPlay,2016,LeftFoot,967,Crotone,Palermo,1,1,2016-09-18 17:00:00,Ilija Nestorovski,Pass,948
+145881,39,MissedShots,0.750999984741211,0.35900001525878905,0.018811700865626335,Alessandro Diamanti,a,948,OpenPlay,2016,LeftFoot,967,Crotone,Palermo,1,1,2016-09-18 17:00:00,Roland Sallai,Pass,948
+145883,51,MissedShots,0.879000015258789,0.37400001525878906,0.06915520131587982,Alessandro Diamanti,a,948,OpenPlay,2016,RightFoot,967,Crotone,Palermo,1,1,2016-09-18 17:00:00,Andrea Rispoli,Pass,948
+145890,72,BlockedShot,0.7630000305175781,0.425,0.07109670341014862,Alessandro Diamanti,a,948,DirectFreekick,2016,LeftFoot,967,Crotone,Palermo,1,1,2016-09-18 17:00:00,,Standard,948
+146353,3,SavedShot,0.764000015258789,0.2620000076293945,0.04245090112090111,Alessandro Diamanti,a,948,DirectFreekick,2016,LeftFoot,979,Atalanta,Palermo,0,1,2016-09-21 22:45:00,,Standard,948
+147838,50,MissedShots,0.7930000305175782,0.29100000381469726,0.017349500209093094,Alessandro Diamanti,a,948,OpenPlay,2016,LeftFoot,993,Sampdoria,Palermo,1,1,2016-10-02 17:00:00,,None,948
+148167,26,MissedShots,0.915,0.69,0.06009040027856827,Alessandro Diamanti,h,948,OpenPlay,2016,LeftFoot,1009,Palermo,Torino,1,4,2016-10-17 22:45:00,Ivaylo Chochev,Pass,948
+148672,37,MissedShots,0.8159999847412109,0.4,0.13152700662612915,Alessandro Diamanti,a,948,DirectFreekick,2016,LeftFoot,1019,Roma,Palermo,4,1,2016-10-23 22:45:00,,Standard,948
+148676,55,SavedShot,0.7869999694824219,0.35200000762939454,0.027706200256943703,Alessandro Diamanti,a,948,OpenPlay,2016,LeftFoot,1019,Roma,Palermo,4,1,2016-10-23 22:45:00,Thiago Cionek,Pass,948
+149228,20,MissedShots,0.7669999694824219,0.29200000762939454,0.021701399236917496,Alessandro Diamanti,h,948,OpenPlay,2016,LeftFoot,3289,Palermo,Udinese,1,3,2016-10-27 22:45:00,,BallRecovery,948
+149616,69,MissedShots,0.735,0.40299999237060546,0.014546000398695469,Alessandro Diamanti,a,948,OpenPlay,2016,LeftFoot,2745,Cagliari,Palermo,2,1,2016-11-01 00:00:00,Mato Jajalo,Pass,948
+149617,72,BlockedShot,0.7780000305175782,0.43,0.08653540164232254,Alessandro Diamanti,a,948,DirectFreekick,2016,LeftFoot,2745,Cagliari,Palermo,2,1,2016-11-01 00:00:00,,Standard,948
+149618,72,MissedShots,0.784000015258789,0.4209999847412109,0.020695799961686134,Alessandro Diamanti,a,948,SetPiece,2016,LeftFoot,2745,Cagliari,Palermo,2,1,2016-11-01 00:00:00,,Rebound,948
+150259,60,MissedShots,0.8780000305175781,0.34200000762939453,0.05528559908270836,Alessandro Diamanti,h,948,OpenPlay,2016,RightFoot,2749,Palermo,AC Milan,1,2,2016-11-06 18:00:00,Ilija Nestorovski,Pass,948
+150261,66,SavedShot,0.855,0.29100000381469726,0.03788420185446739,Alessandro Diamanti,h,948,OpenPlay,2016,LeftFoot,2749,Palermo,AC Milan,1,2,2016-11-06 18:00:00,Ilija Nestorovski,Pass,948
+151262,5,BlockedShot,0.8080000305175781,0.500999984741211,0.05710370093584061,Alessandro Diamanti,h,948,OpenPlay,2016,LeftFoot,2768,Palermo,Lazio,0,1,2016-11-27 15:30:00,Michel Morganella,Pass,948
+151269,28,MissedShots,0.7030000305175781,0.615,0.014584099873900414,Alessandro Diamanti,h,948,OpenPlay,2016,LeftFoot,2768,Palermo,Lazio,0,1,2016-11-27 15:30:00,Ilija Nestorovski,Pass,948
+152446,91,MissedShots,0.845999984741211,0.24600000381469728,0.02362219989299774,Alessandro Diamanti,h,948,FromCorner,2016,LeftFoot,3080,Palermo,Chievo,0,2,2016-12-11 18:00:00,Andrea Rispoli,Pass,948
+152448,92,BlockedShot,0.7580000305175781,0.345,0.01660729944705963,Alessandro Diamanti,h,948,FromCorner,2016,LeftFoot,3080,Palermo,Chievo,0,2,2016-12-11 18:00:00,,TakeOn,948
+152855,87,BlockedShot,0.7759999847412109,0.66,0.02257319912314415,Alessandro Diamanti,a,948,OpenPlay,2016,LeftFoot,3096,Genoa,Palermo,3,4,2016-12-18 23:45:00,Ilija Nestorovski,Pass,948
+153848,88,BlockedShot,0.88,0.6880000305175781,0.026405299082398415,Alessandro Diamanti,a,948,OpenPlay,2016,LeftFoot,3520,Empoli,Palermo,1,0,2017-01-07 21:00:00,Norbert Balogh,TakeOn,948
+144763,67,MissedShots,0.7709999847412109,0.6179999923706054,0.020904500037431717,Alessandro Diamanti,a,948,OpenPlay,2016,LeftFoot,3534,Sassuolo,Palermo,4,1,2017-01-15 18:00:00,Mato Jajalo,Pass,948
+144769,85,MissedShots,0.76,0.30700000762939456,0.02035369910299778,Alessandro Diamanti,a,948,SetPiece,2016,LeftFoot,3534,Sassuolo,Palermo,4,1,2017-01-15 18:00:00,Andrea Rispoli,Pass,948
+144770,86,MissedShots,0.7559999847412109,0.6619999694824219,0.011088799685239792,Alessandro Diamanti,a,948,OpenPlay,2016,LeftFoot,3534,Sassuolo,Palermo,4,1,2017-01-15 18:00:00,Norbert Balogh,Chipped,948
+147823,91,SavedShot,0.9059999847412109,0.620999984741211,0.10387200117111206,Alessandro Diamanti,h,948,OpenPlay,2016,LeftFoot,3599,Palermo,Sampdoria,1,1,2017-02-26 11:30:00,Ilija Nestorovski,Pass,948
+148461,90,SavedShot,0.7609999847412109,0.31799999237060544,0.051102299243211746,Alessandro Diamanti,a,948,DirectFreekick,2016,LeftFoot,3609,Torino,Palermo,3,1,2017-03-05 14:00:00,,Standard,948
+148940,49,SavedShot,0.86,0.6969999694824218,0.036371998488903046,Alessandro Diamanti,h,948,OpenPlay,2016,LeftFoot,3618,Palermo,Roma,0,3,2017-03-12 19:45:00,Ivaylo Chochev,BallRecovery,948
+149493,30,MissedShots,0.7169999694824218,0.6859999847412109,0.014886699616909027,Alessandro Diamanti,a,948,OpenPlay,2016,LeftFoot,3629,Udinese,Palermo,4,1,2017-03-19 17:00:00,Ilija Nestorovski,BallRecovery,948
+149500,69,SavedShot,0.7030000305175781,0.355,0.033942800015211105,Alessandro Diamanti,a,948,DirectFreekick,2016,LeftFoot,3629,Udinese,Palermo,4,1,2017-03-19 17:00:00,,Standard,948
+150546,61,SavedShot,0.805,0.355,0.02646620012819767,Alessandro Diamanti,a,948,OpenPlay,2016,LeftFoot,3647,AC Milan,Palermo,4,0,2017-04-09 14:00:00,Andrea Rispoli,Pass,948
+150555,80,BlockedShot,0.779000015258789,0.38599998474121094,0.01804790087044239,Alessandro Diamanti,a,948,OpenPlay,2016,LeftFoot,3647,AC Milan,Palermo,4,0,2017-04-09 14:00:00,Ilija Nestorovski,Pass,948
+150972,81,MissedShots,0.835,0.485,0.31762900948524475,Alessandro Diamanti,h,948,OpenPlay,2016,LeftFoot,3653,Palermo,Bologna,0,0,2017-04-15 14:00:00,Simone Lo Faso,Pass,948
+152037,31,Goal,0.7959999847412109,0.66,0.07842180132865906,Alessandro Diamanti,h,948,DirectFreekick,2016,LeftFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,,Standard,948
+152047,65,MissedShots,0.4259999847412109,0.7869999694824219,0.00685968017205596,Alessandro Diamanti,h,948,OpenPlay,2016,LeftFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,,BallRecovery,948
+152053,88,MissedShots,0.8059999847412109,0.5940000152587891,0.1175139993429184,Alessandro Diamanti,h,948,DirectFreekick,2016,LeftFoot,3673,Palermo,Fiorentina,2,0,2017-04-30 14:00:00,,Standard,948
+152666,3,BlockedShot,0.730999984741211,0.645,0.013534200377762318,Alessandro Diamanti,a,948,OpenPlay,2016,LeftFoot,3688,Chievo,Palermo,1,1,2017-05-07 14:00:00,Haitam Aleesami,Pass,948
+152676,69,SavedShot,0.7769999694824219,0.649000015258789,0.02208559960126877,Alessandro Diamanti,a,948,OpenPlay,2016,LeftFoot,3688,Chievo,Palermo,1,1,2017-05-07 14:00:00,Mato Jajalo,Pass,948
+152677,70,MissedShots,0.8519999694824218,0.3,0.03887160122394562,Alessandro Diamanti,a,948,OpenPlay,2016,LeftFoot,3688,Chievo,Palermo,1,1,2017-05-07 14:00:00,Giancarlo Gonzalez,Pass,948
+152680,75,BlockedShot,0.9480000305175781,0.11100000381469727,0.04413200169801712,Alessandro Diamanti,a,948,DirectFreekick,2016,LeftFoot,3688,Chievo,Palermo,1,1,2017-05-07 14:00:00,,Standard,948
+152684,92,MissedShots,0.8780000305175781,0.740999984741211,0.0325951986014843,Alessandro Diamanti,a,948,OpenPlay,2016,LeftFoot,3688,Chievo,Palermo,1,1,2017-05-07 14:00:00,Simone Lo Faso,Pass,948
+153084,8,MissedShots,0.745,0.7609999847412109,0.012651699595153332,Alessandro Diamanti,h,948,OpenPlay,2016,LeftFoot,3694,Palermo,Genoa,1,0,2017-05-14 14:00:00,Haitam Aleesami,Pass,948
+153737,67,SavedShot,0.7190000152587891,0.35900001525878905,0.011270100250840187,Alessandro Diamanti,a,948,OpenPlay,2016,LeftFoot,3708,Pescara,Palermo,2,0,2017-05-22 19:45:00,Mato Jajalo,Chipped,948
+153741,79,MissedShots,0.6980000305175781,0.32,0.030725600197911263,Alessandro Diamanti,a,948,DirectFreekick,2016,LeftFoot,3708,Pescara,Palermo,2,0,2017-05-22 19:45:00,,Standard,948

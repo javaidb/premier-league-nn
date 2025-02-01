@@ -1,0 +1,3 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14727,93,MissedShots,0.8519999694824218,0.2720000076293945,0.024039100855588913,Jonathan Williams,h,1060,OpenPlay,2014,RightFoot,4761,Crystal Palace,West Ham,1,3,2014-08-23 15:00:00,Joel Ward,Chipped,1060
+15243,75,MissedShots,0.885,0.6170000076293946,0.09653300046920776,Jonathan Williams,h,1060,OpenPlay,2014,RightFoot,4721,Crystal Palace,Burnley,0,0,2014-09-13 15:00:00,Jason Puncheon,Pass,1060

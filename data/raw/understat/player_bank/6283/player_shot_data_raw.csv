@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+159170,70,BlockedShot,0.8980000305175782,0.5179999923706055,0.07800620049238205,Levi Lumeka,a,6283,OpenPlay,2017,Head,7156,Burnley,Crystal Palace,1,0,2017-09-10 13:30:00,Andros Townsend,Cross,6283

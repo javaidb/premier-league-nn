@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+309892,4,MissedShots,0.8690000152587891,0.629000015258789,0.07037080079317093,Marco Stiepermann,a,7694,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Teemu Pukki,Pass,7694
+309894,9,MissedShots,0.84,0.6140000152587891,0.04457490146160126,Marco Stiepermann,a,7694,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Teemu Pukki,Pass,7694
+309900,25,SavedShot,0.8030000305175782,0.49,0.05499729886651039,Marco Stiepermann,a,7694,OpenPlay,2019,LeftFoot,11643,Liverpool,Norwich,4,1,2019-08-09 20:00:00,Emiliano Buendía,Pass,7694
+310553,26,BlockedShot,0.759000015258789,0.3120000076293945,0.020654499530792236,Marco Stiepermann,h,7694,OpenPlay,2019,LeftFoot,11657,Norwich,Newcastle United,3,1,2019-08-17 15:00:00,Todd Cantwell,Pass,7694
+310566,77,SavedShot,0.7909999847412109,0.6120000076293945,0.05025539919734001,Marco Stiepermann,h,7694,OpenPlay,2019,LeftFoot,11657,Norwich,Newcastle United,3,1,2019-08-17 15:00:00,Tom Trybull,Pass,7694
+315754,32,SavedShot,0.8009999847412109,0.649000015258789,0.033485498279333115,Marco Stiepermann,a,7694,OpenPlay,2019,LeftFoot,11674,West Ham,Norwich,2,0,2019-08-31 15:00:00,Moritz Leitner,Pass,7694
+315758,59,BlockedShot,0.8969999694824219,0.624000015258789,0.0659433975815773,Marco Stiepermann,a,7694,FromCorner,2019,RightFoot,11674,West Ham,Norwich,2,0,2019-08-31 15:00:00,,TakeOn,7694
+322726,26,BlockedShot,0.865999984741211,0.6680000305175782,0.04173870012164116,Marco Stiepermann,a,7694,OpenPlay,2019,LeftFoot,11709,Crystal Palace,Norwich,2,0,2019-09-28 14:00:00,Teemu Pukki,Pass,7694
+322735,57,MissedShots,0.8119999694824219,0.610999984741211,0.039991699159145355,Marco Stiepermann,a,7694,OpenPlay,2019,LeftFoot,11709,Crystal Palace,Norwich,2,0,2019-09-28 14:00:00,Teemu Pukki,Pass,7694
+324156,7,BlockedShot,0.855999984741211,0.41200000762939454,0.07349099963903427,Marco Stiepermann,h,7694,OpenPlay,2019,LeftFoot,11717,Norwich,Aston Villa,1,5,2019-10-05 15:00:00,Todd Cantwell,BallTouch,7694
+324155,7,SavedShot,0.855999984741211,0.5220000076293946,0.12860000133514404,Marco Stiepermann,h,7694,OpenPlay,2019,LeftFoot,11717,Norwich,Aston Villa,1,5,2019-10-05 15:00:00,,Dispossessed,7694
+324157,8,MissedShots,0.87,0.40400001525878904,0.09000959992408752,Marco Stiepermann,h,7694,OpenPlay,2019,LeftFoot,11717,Norwich,Aston Villa,1,5,2019-10-05 15:00:00,Emiliano Buendía,Pass,7694
+324172,28,BlockedShot,0.9630000305175781,0.5179999923706055,0.15950199961662292,Marco Stiepermann,h,7694,OpenPlay,2019,LeftFoot,11717,Norwich,Aston Villa,1,5,2019-10-05 15:00:00,Teemu Pukki,Rebound,7694
+329171,10,ShotOnPost,0.825,0.32599998474121095,0.04516749829053879,Marco Stiepermann,a,7694,OpenPlay,2019,LeftFoot,11746,Brighton,Norwich,2,0,2019-11-02 15:00:00,Emiliano Buendía,TakeOn,7694
+335098,59,MissedShots,0.8169999694824219,0.66,0.0290933009237051,Marco Stiepermann,a,7694,OpenPlay,2019,LeftFoot,11790,Southampton,Norwich,2,1,2019-12-04 19:30:00,Teemu Pukki,Pass,7694
+337065,93,SavedShot,0.8180000305175781,0.49400001525878906,0.059358399361371994,Marco Stiepermann,a,7694,OpenPlay,2019,LeftFoot,11807,Leicester,Norwich,1,1,2019-12-14 15:00:00,Onel Hernández,Pass,7694
+339619,83,BlockedShot,0.874000015258789,0.43599998474121093,0.0673447996377945,Marco Stiepermann,a,7694,OpenPlay,2019,LeftFoot,11823,Aston Villa,Norwich,1,0,2019-12-26 15:00:00,,None,7694
+339838,9,SavedShot,0.88,0.3940000152587891,0.08148530125617981,Marco Stiepermann,h,7694,OpenPlay,2019,LeftFoot,11839,Norwich,Tottenham,2,2,2019-12-28 17:30:00,,BallRecovery,7694
+370349,9,BlockedShot,0.919000015258789,0.445,0.13771800696849823,Marco Stiepermann,h,7694,OpenPlay,2019,LeftFoot,11988,Norwich,West Ham,0,4,2020-07-11 11:30:00,Onel Hernández,Pass,7694

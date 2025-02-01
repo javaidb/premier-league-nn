@@ -1,0 +1,18 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+352514,33,BlockedShot,0.9480000305175781,0.40200000762939453,0.09917879849672318,Mbwana Samatta,a,8287,OpenPlay,2019,RightFoot,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,,None,8287
+352527,69,Goal,0.935,0.4779999923706055,0.47585999965667725,Mbwana Samatta,a,8287,OpenPlay,2019,Head,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,,Rebound,8287
+352530,73,SavedShot,0.905,0.57,0.05925390124320984,Mbwana Samatta,a,8287,OpenPlay,2019,Head,11883,Bournemouth,Aston Villa,2,1,2020-02-01 15:00:00,Frederic Guilbert,Cross,8287
+352788,18,BlockedShot,0.8930000305175781,0.48700000762939455,0.0809490978717804,Mbwana Samatta,h,8287,FromCorner,2019,LeftFoot,11894,Aston Villa,Tottenham,2,3,2020-02-16 14:00:00,,Dispossessed,8287
+352790,21,MissedShots,0.9309999847412109,0.44,0.06693589687347412,Mbwana Samatta,h,8287,OpenPlay,2019,Head,11894,Aston Villa,Tottenham,2,3,2020-02-16 14:00:00,,Aerial,8287
+352791,23,BlockedShot,0.955999984741211,0.5770000076293945,0.04538450017571449,Mbwana Samatta,h,8287,FromCorner,2019,Head,11894,Aston Villa,Tottenham,2,3,2020-02-16 14:00:00,Jack Grealish,Aerial,8287
+353018,67,BlockedShot,0.879000015258789,0.45,0.07759089767932892,Mbwana Samatta,a,8287,OpenPlay,2019,RightFoot,11908,Southampton,Aston Villa,2,0,2020-02-22 15:00:00,Frederic Guilbert,Cross,8287
+353591,7,MissedShots,0.9380000305175781,0.45099998474121095,0.4700140058994293,Mbwana Samatta,a,8287,SetPiece,2019,LeftFoot,11927,Leicester,Aston Villa,4,0,2020-03-09 20:00:00,Conor Hourihane,Cross,8287
+366344,13,MissedShots,0.9230000305175782,0.5479999923706055,0.2990820109844208,Mbwana Samatta,a,8287,OpenPlay,2019,Head,11949,Newcastle United,Aston Villa,1,1,2020-06-24 17:00:00,Anwar El Ghazi,Cross,8287
+366364,90,MissedShots,0.745,0.40599998474121096,0.02158690057694912,Mbwana Samatta,a,8287,OpenPlay,2019,RightFoot,11949,Newcastle United,Aston Villa,1,1,2020-06-24 17:00:00,Jack Grealish,Pass,8287
+366798,76,MissedShots,0.884000015258789,0.4929999923706055,0.026355300098657608,Mbwana Samatta,h,8287,OpenPlay,2019,Head,11954,Aston Villa,Wolverhampton Wanderers,0,1,2020-06-27 11:30:00,John McGinn,Aerial,8287
+370746,30,MissedShots,0.9180000305175782,0.5029999923706054,0.339123010635376,Mbwana Samatta,h,8287,OpenPlay,2019,Head,11983,Aston Villa,Crystal Palace,2,0,2020-07-12 13:15:00,Ahmed Elmohamady,Cross,8287
+371856,14,MissedShots,0.894000015258789,0.555,0.06990669667720795,Mbwana Samatta,a,8287,OpenPlay,2019,Head,11997,Everton,Aston Villa,1,1,2020-07-16 17:00:00,Ahmed Elmohamady,Cross,8287
+371863,47,BlockedShot,0.8859999847412109,0.59,0.0883810967206955,Mbwana Samatta,a,8287,OpenPlay,2019,LeftFoot,11997,Everton,Aston Villa,1,1,2020-07-16 17:00:00,Douglas Luiz,Chipped,8287
+373810,14,SavedShot,0.9009999847412109,0.5120000076293946,0.08917669951915741,Mbwana Samatta,a,8287,OpenPlay,2019,Head,12013,West Ham,Aston Villa,1,1,2020-07-26 15:00:00,Frederic Guilbert,Cross,8287
+373815,46,MissedShots,0.8819999694824219,0.5529999923706055,0.08720769733190536,Mbwana Samatta,a,8287,OpenPlay,2019,LeftFoot,12013,West Ham,Aston Villa,1,1,2020-07-26 15:00:00,Conor Hourihane,Cross,8287
+373818,50,MissedShots,0.9619999694824218,0.425,0.13189400732517242,Mbwana Samatta,a,8287,SetPiece,2019,Head,12013,West Ham,Aston Villa,1,1,2020-07-26 15:00:00,Conor Hourihane,Cross,8287

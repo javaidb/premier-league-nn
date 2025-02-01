@@ -1,0 +1,19 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+208435,56,BlockedShot,0.7480000305175781,0.6459999847412109,0.024105099961161613,Hamza Choudhury,a,6418,FromCorner,2017,RightFoot,7449,Burnley,Leicester,2,1,2018-04-14 14:00:00,Riyad Mahrez,Pass,6418
+215619,59,BlockedShot,0.7330000305175781,0.44299999237060544,0.011738100089132786,Hamza Choudhury,a,6418,SetPiece,2017,RightFoot,7490,Tottenham,Leicester,5,4,2018-05-13 15:00:00,,None,6418
+251805,39,SavedShot,0.9719999694824218,0.42200000762939455,0.38051700592041016,Hamza Choudhury,h,6418,OpenPlay,2018,RightFoot,9382,Leicester,Manchester City,2,1,2018-12-26 15:00:00,Marc Albrighton,Cross,6418
+274486,42,BlockedShot,0.749000015258789,0.3970000076293945,0.02102779969573021,Hamza Choudhury,h,6418,OpenPlay,2018,RightFoot,9410,Leicester,Southampton,1,2,2019-01-12 15:00:00,James Maddison,Pass,6418
+297753,73,SavedShot,0.779000015258789,0.4329999923706055,0.032117899507284164,Hamza Choudhury,h,6418,OpenPlay,2018,RightFoot,9552,Leicester,Arsenal,3,0,2019-04-28 12:00:00,James Maddison,Pass,6418
+301331,8,MissedShots,0.8019999694824219,0.42400001525878905,0.040969401597976685,Hamza Choudhury,h,6418,OpenPlay,2018,RightFoot,9572,Leicester,Chelsea,0,0,2019-05-12 14:00:00,,None,6418
+310223,9,BlockedShot,0.8059999847412109,0.4370000076293945,0.04317760095000267,Hamza Choudhury,h,6418,SetPiece,2019,RightFoot,11651,Leicester,Wolverhampton Wanderers,0,0,2019-08-11 14:00:00,,BallTouch,6418
+311174,56,BlockedShot,0.8219999694824218,0.685,0.03933440148830414,Hamza Choudhury,a,6418,FromCorner,2019,RightFoot,11661,Chelsea,Leicester,1,1,2019-08-18 16:30:00,Christian Fuchs,Pass,6418
+317285,45,SavedShot,0.885,0.33299999237060546,0.048982199281454086,Hamza Choudhury,a,6418,OpenPlay,2019,LeftFoot,11684,Manchester United,Leicester,1,0,2019-09-14 14:00:00,,None,6418
+339881,85,BlockedShot,0.8769999694824219,0.3579999923706055,0.08262740075588226,Hamza Choudhury,a,6418,OpenPlay,2019,RightFoot,11842,West Ham,Leicester,1,2,2019-12-28 17:30:00,Harvey Barnes,Pass,6418
+351522,86,Goal,0.7809999847412109,0.4420000076293945,0.043341800570487976,Hamza Choudhury,a,6418,OpenPlay,2019,RightFoot,11849,Newcastle United,Leicester,0,3,2020-01-01 15:00:00,Wilfred Ndidi,Pass,6418
+352380,47,MissedShots,0.9630000305175781,0.4,0.01681089960038662,Hamza Choudhury,h,6418,FromCorner,2019,Head,11886,Leicester,Chelsea,2,2,2020-02-01 12:30:00,James Maddison,Aerial,6418
+353168,6,MissedShots,0.9009999847412109,0.525,0.06237899884581566,Hamza Choudhury,a,6418,FromCorner,2019,Head,11919,Norwich,Leicester,1,0,2020-02-28 20:00:00,James Maddison,Cross,6418
+402638,49,MissedShots,0.8109999847412109,0.515,0.029316499829292297,Hamza Choudhury,a,6418,FromCorner,2020,RightFoot,14647,Fulham,Leicester,0,2,2021-02-03 18:00:00,Harvey Barnes,HeadPass,6418
+407922,11,SavedShot,0.9159999847412109,0.47200000762939454,0.382191002368927,Hamza Choudhury,a,6418,OpenPlay,2020,LeftFoot,14716,Burnley,Leicester,1,1,2021-03-03 18:00:00,Timothy Castagne,Cross,6418
+407934,50,MissedShots,0.7609999847412109,0.54,0.021113300696015358,Hamza Choudhury,a,6418,FromCorner,2020,RightFoot,14716,Burnley,Leicester,1,1,2021-03-03 18:00:00,Caglar Söyüncü,Pass,6418
+407933,50,BlockedShot,0.7340000152587891,0.539000015258789,0.015176700428128242,Hamza Choudhury,a,6418,FromCorner,2020,RightFoot,14716,Burnley,Leicester,1,1,2021-03-03 18:00:00,,None,6418
+454192,69,MissedShots,0.9030000305175782,0.3110000038146973,0.020226800814270973,Hamza Choudhury,h,6418,FromCorner,2021,LeftFoot,16540,Leicester,Tottenham,2,3,2022-01-19 19:30:00,,Aerial,6418

@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+5567,Nathan Holland,2,24,0,0.00977701973170042,0,0,1,0,0,0,S,West Ham,0,0.00977701973170042,0.00977701973170042,0,2019

@@ -1,0 +1,5 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,1,0.3061160147190094,90,FW,Leicester,Queens Park Rangers,5,1,2015-05-24,4436,2014,25968,0,0,0,0,0.3061160147190094,0.3061160147190094,0,4445
+0,0,0,40,Sub,Queens Park Rangers,Newcastle United,2,1,2015-05-16,4420,2014,23349,0,0,0,0,0,0.09973199665546417,0.09973199665546417,4445
+0,0,0,3,Sub,Crystal Palace,Queens Park Rangers,3,1,2015-03-14,4493,2014,25589,0,0,0,0,0,0,0,4445
+0,0,0,1,Sub,Queens Park Rangers,Tottenham,1,2,2015-03-07,4492,2014,26699,0,0,0,0,0,0,0,4445

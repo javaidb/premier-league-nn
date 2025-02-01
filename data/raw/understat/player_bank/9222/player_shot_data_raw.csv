@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+396463,90,BlockedShot,0.905,0.3970000076293945,0.10344500094652176,Antwoine Hackford,a,9222,OpenPlay,2020,RightFoot,14604,Crystal Palace,Sheffield United,2,0,2021-01-02 15:00:00,Chris Basham,Pass,9222

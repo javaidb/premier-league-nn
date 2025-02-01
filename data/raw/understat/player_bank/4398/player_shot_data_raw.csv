@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+19182,84,BlockedShot,0.8469999694824218,0.7290000152587891,0.021177399903535843,Clint Hill,h,4398,OpenPlay,2014,RightFoot,4622,Queens Park Rangers,West Bromwich Albion,3,2,2014-12-20 15:00:00,,Rebound,4398
+18826,87,BlockedShot,0.93,0.5920000076293945,0.05379350110888481,Clint Hill,h,4398,FromCorner,2014,Head,4641,Queens Park Rangers,Crystal Palace,0,0,2014-12-28 15:00:00,Joey Barton,Cross,4398
+17441,30,MissedShots,0.9290000152587891,0.5659999847412109,0.10897800326347351,Clint Hill,a,4398,FromCorner,2014,RightFoot,4564,Burnley,Queens Park Rangers,2,1,2015-01-10 15:00:00,Steven Caulker,Pass,4398
+22280,54,Goal,0.915,0.44299999237060544,0.06859079748392105,Clint Hill,a,4398,FromCorner,2014,Head,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Matt Phillips,Cross,4398
+20569,50,SavedShot,0.8580000305175781,0.700999984741211,0.029206199571490288,Clint Hill,h,4398,SetPiece,2014,RightFoot,4458,Queens Park Rangers,Chelsea,0,1,2015-04-12 13:30:00,Karl Henry,Pass,4398
+21374,90,MissedShots,0.825999984741211,0.355,0.03912670165300369,Clint Hill,a,4398,SetPiece,2014,LeftFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,Sandro,Interception,4398
+22958,34,MissedShots,0.895,0.5029999923706054,0.05606750026345253,Clint Hill,a,4398,FromCorner,2014,Head,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Joey Barton,Cross,4398

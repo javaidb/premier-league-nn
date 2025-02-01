@@ -1,0 +1,5 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+11242,Divin Mubama,3,30,0,0,0,0.05916547402739525,0,1,0,0,S,West Ham,0,0,0.3962714932858944,0.33710601925849915,2022
+11242,Divin Mubama,5,67,0,0.05428127571940422,0,0,1,0,0,0,S,West Ham,0,0.05428127571940422,0.05428127571940422,0,2023
+11242,Divin Mubama,1,26,0,0.06255101412534714,0,0,1,0,0,0,S,Manchester City,0,0.06255101412534714,0,0,2024
+11242,Divin Mubama,1,26,0,0.06255101412534714,0,0,1,0,0,0,S,Manchester City,0,0.06255101412534714,0,0,2025

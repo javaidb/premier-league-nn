@@ -1,0 +1,64 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14517,40,BlockedShot,0.774000015258789,0.46599998474121096,0.0309711005538702,Darren Fletcher,h,809,OpenPlay,2014,RightFoot,4749,Manchester United,Swansea,1,2,2014-08-16 12:45:00,Juan Mata,Pass,809
+23168,21,BlockedShot,0.78,0.46099998474121096,0.03417300060391426,Darren Fletcher,h,809,OpenPlay,2014,RightFoot,4534,West Bromwich Albion,Swansea,2,0,2015-02-11 20:00:00,Callum McManaman,Pass,809
+23866,79,MissedShots,0.9290000152587891,0.37099998474121093,0.08373740315437317,Darren Fletcher,h,809,SetPiece,2014,RightFoot,4546,West Bromwich Albion,Southampton,1,0,2015-02-28 15:00:00,,Rebound,809
+20961,26,MissedShots,0.860999984741211,0.425,0.06091710180044174,Darren Fletcher,h,809,FromCorner,2014,RightFoot,4496,West Bromwich Albion,Stoke,1,0,2015-03-14 15:00:00,,None,809
+20972,68,BlockedShot,0.8040000152587891,0.47900001525878905,0.05057530105113983,Darren Fletcher,h,809,OpenPlay,2014,RightFoot,4496,West Bromwich Albion,Stoke,1,0,2015-03-14 15:00:00,,Rebound,809
+22737,77,BlockedShot,0.779000015258789,0.500999984741211,0.030292600393295288,Darren Fletcher,h,809,OpenPlay,2014,RightFoot,4445,West Bromwich Albion,Queens Park Rangers,1,4,2015-04-04 15:00:00,Victor Anichebe,Pass,809
+21602,7,Goal,0.9640000152587891,0.41,0.07187840342521667,Darren Fletcher,h,809,FromCorner,2014,Head,4456,West Bromwich Albion,Leicester,2,3,2015-04-11 15:00:00,Chris Brunt,Cross,809
+20330,79,SavedShot,0.784000015258789,0.2720000076293945,0.019179899245500565,Darren Fletcher,h,809,OpenPlay,2014,LeftFoot,4471,West Bromwich Albion,Liverpool,0,0,2015-04-25 15:00:00,Callum McManaman,Pass,809
+21556,2,MissedShots,0.7680000305175781,0.43,0.018029600381851196,Darren Fletcher,a,809,SetPiece,2014,RightFoot,4405,Manchester United,West Bromwich Albion,0,1,2015-05-02 17:30:00,,None,809
+21915,91,BlockedShot,0.8590000152587891,0.39,0.05091559886932373,Darren Fletcher,a,809,FromCorner,2014,RightFoot,4433,Arsenal,West Bromwich Albion,4,1,2015-05-24 15:00:00,,None,809
+57716,55,BlockedShot,0.8019999694824219,0.49599998474121093,0.060189999639987946,Darren Fletcher,a,809,OpenPlay,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,,None,809
+58053,30,SavedShot,0.7190000152587891,0.5529999923706055,0.018097400665283203,Darren Fletcher,a,809,OpenPlay,2015,LeftFoot,133,Aston Villa,West Bromwich Albion,0,1,2015-09-19 18:00:00,Craig Dawson,Pass,809
+58578,52,MissedShots,0.965999984741211,0.585,0.08761440217494965,Darren Fletcher,h,809,FromCorner,2015,Head,150,West Bromwich Albion,Everton,2,3,2015-09-28 23:00:00,Jonny Evans,Cross,809
+55274,71,MissedShots,0.845,0.4520000076293945,0.01865999959409237,Darren Fletcher,a,809,SetPiece,2015,Head,193,Manchester United,West Bromwich Albion,2,0,2015-11-07 19:00:00,Stéphane Sessegnon,Cross,809
+55605,27,BlockedShot,0.835999984741211,0.42700000762939455,0.053534600883722305,Darren Fletcher,a,809,OpenPlay,2015,RightFoot,252,Swansea,West Bromwich Albion,1,0,2015-12-26 19:00:00,Chris Brunt,Interception,809
+54371,27,BlockedShot,0.874000015258789,0.525,0.08284860104322433,Darren Fletcher,h,809,OpenPlay,2015,RightFoot,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,James Morrison,Cross,809
+54373,36,BlockedShot,0.7959999847412109,0.4420000076293945,0.04031889885663986,Darren Fletcher,h,809,OpenPlay,2015,RightFoot,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,Stéphane Sessegnon,Pass,809
+54375,39,MissedShots,0.8480000305175781,0.43400001525878906,0.05957990139722824,Darren Fletcher,h,809,SetPiece,2015,RightFoot,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,,Rebound,809
+54374,39,BlockedShot,0.8390000152587891,0.4470000076293945,0.05728650093078613,Darren Fletcher,h,809,SetPiece,2015,RightFoot,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,,None,809
+54387,77,Goal,0.92,0.524000015258789,0.3426089882850647,Darren Fletcher,h,809,OpenPlay,2015,Head,261,West Bromwich Albion,Newcastle United,1,0,2015-12-28 19:00:00,Claudio Yacob,Cross,809
+52596,41,MissedShots,0.8690000152587891,0.43599998474121093,0.09452430158853531,Darren Fletcher,h,809,SetPiece,2015,RightFoot,272,West Bromwich Albion,Stoke,2,1,2016-01-02 19:00:00,Stéphane Sessegnon,Pass,809
+52601,62,MissedShots,0.8080000305175781,0.555,0.061456501483917236,Darren Fletcher,h,809,OpenPlay,2015,LeftFoot,272,West Bromwich Albion,Stoke,2,1,2016-01-02 19:00:00,,None,809
+52608,91,BlockedShot,0.7930000305175782,0.425,0.03720540180802345,Darren Fletcher,h,809,OpenPlay,2015,RightFoot,272,West Bromwich Albion,Stoke,2,1,2016-01-02 19:00:00,,None,809
+54154,12,BlockedShot,0.9209999847412109,0.3579999923706055,0.05365850031375885,Darren Fletcher,a,809,OpenPlay,2015,RightFoot,287,Chelsea,West Bromwich Albion,2,2,2016-01-13 23:45:00,Craig Gardner,Cross,809
+55202,1,SavedShot,0.9230000305175782,0.525,0.0610664002597332,Darren Fletcher,h,809,OpenPlay,2015,Head,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,Craig Dawson,Aerial,809
+55211,41,MissedShots,0.9219999694824219,0.5459999847412109,0.3701480031013489,Darren Fletcher,h,809,OpenPlay,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,James McClean,Cross,809
+55215,54,MissedShots,0.9280000305175782,0.4520000076293945,0.12852799892425537,Darren Fletcher,h,809,OpenPlay,2015,Head,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,James McClean,Cross,809
+55218,62,BlockedShot,0.875,0.5420000076293945,0.08624380081892014,Darren Fletcher,h,809,OpenPlay,2015,LeftFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,James McClean,Cross,809
+55235,91,BlockedShot,0.9669999694824218,0.5370000076293945,0.6614289879798889,Darren Fletcher,h,809,FromCorner,2015,RightFoot,318,West Bromwich Albion,Swansea,1,1,2016-02-03 00:00:00,,Rebound,809
+52929,43,BlockedShot,0.730999984741211,0.5829999923706055,0.014486200176179409,Darren Fletcher,a,809,FromCorner,2015,RightFoot,322,Newcastle United,West Bromwich Albion,1,0,2016-02-06 19:00:00,,None,809
+60868,11,BlockedShot,0.779000015258789,0.3659999847412109,0.026193000376224518,Darren Fletcher,h,809,OpenPlay,2015,RightFoot,378,West Bromwich Albion,Norwich,0,1,2016-03-19 19:00:00,Craig Gardner,Pass,809
+60657,25,BlockedShot,0.885,0.38799999237060545,0.08181130141019821,Darren Fletcher,a,809,OpenPlay,2015,RightFoot,419,Arsenal,West Bromwich Albion,2,0,2016-04-21 22:45:00,Stéphane Sessegnon,Pass,809
+112830,48,SavedShot,0.9009999847412109,0.3970000076293945,0.35712099075317383,Darren Fletcher,h,809,OpenPlay,2016,RightFoot,477,West Bromwich Albion,Everton,1,2,2016-08-20 18:00:00,Salomón Rondón,None,809
+113125,6,MissedShots,0.9519999694824218,0.555,0.058970801532268524,Darren Fletcher,h,809,FromCorner,2016,Head,489,West Bromwich Albion,Middlesbrough,0,0,2016-08-28 16:30:00,Jonny Evans,Rebound,809
+113184,51,BlockedShot,0.779000015258789,0.5159999847412109,0.0336030013859272,Darren Fletcher,a,809,OpenPlay,2016,RightFoot,495,Bournemouth,West Bromwich Albion,1,0,2016-09-10 18:00:00,Sam Field,Pass,809
+113192,67,MissedShots,0.8580000305175781,0.38,0.04758710041642189,Darren Fletcher,a,809,FromCorner,2016,RightFoot,495,Bournemouth,West Bromwich Albion,1,0,2016-09-10 18:00:00,,None,809
+114435,59,SavedShot,0.769000015258789,0.48200000762939454,0.04138150066137314,Darren Fletcher,a,809,OpenPlay,2016,RightFoot,523,Sunderland,West Bromwich Albion,1,1,2016-10-01 18:00:00,,None,809
+115633,6,BlockedShot,0.7119999694824218,0.38,0.013834699988365173,Darren Fletcher,a,809,OpenPlay,2016,RightFoot,2696,Leicester,West Bromwich Albion,1,2,2016-11-06 20:30:00,Salomón Rondón,Pass,809
+115998,36,Goal,0.97,0.43900001525878907,0.562483012676239,Darren Fletcher,h,809,OpenPlay,2016,RightFoot,2706,West Bromwich Albion,Burnley,4,0,2016-11-22 00:00:00,Matt Phillips,Chipped,809
+115950,40,MissedShots,0.8580000305175781,0.4640000152587891,0.08469939976930618,Darren Fletcher,h,809,OpenPlay,2016,RightFoot,3140,West Bromwich Albion,Manchester United,0,2,2016-12-17 21:30:00,Matt Phillips,Pass,809
+117703,89,BlockedShot,0.84,0.5070000076293946,0.06061499938368797,Darren Fletcher,a,809,SetPiece,2016,LeftFoot,3160,Southampton,West Bromwich Albion,1,2,2016-12-31 19:00:00,,None,809
+117872,47,MissedShots,0.645,0.2989999961853027,0.005585189908742905,Darren Fletcher,a,809,OpenPlay,2016,RightFoot,3340,Tottenham,West Bromwich Albion,4,0,2017-01-14 16:30:00,,None,809
+118766,29,Goal,0.91,0.5840000152587891,0.09070160239934921,Darren Fletcher,h,809,FromCorner,2016,LeftFoot,3355,West Bromwich Albion,Sunderland,2,0,2017-01-21 18:00:00,Gareth McAuley,HeadPass,809
+117252,17,SavedShot,0.8119999694824219,0.47400001525878904,0.06320119649171829,Darren Fletcher,h,809,OpenPlay,2016,RightFoot,3375,West Bromwich Albion,Stoke,1,0,2017-02-04 15:00:00,Nacer Chadli,Pass,809
+117269,73,BlockedShot,0.9059999847412109,0.40799999237060547,0.11902999877929688,Darren Fletcher,h,809,OpenPlay,2016,RightFoot,3375,West Bromwich Albion,Stoke,1,0,2017-02-04 15:00:00,,Rebound,809
+120524,33,SavedShot,0.909000015258789,0.3240000152587891,0.11845599859952927,Darren Fletcher,h,809,OpenPlay,2016,RightFoot,3420,West Bromwich Albion,Arsenal,3,1,2017-03-18 12:30:00,Jake Livermore,Throughball,809
+119561,50,MissedShots,0.8919999694824219,0.45,0.1222589984536171,Darren Fletcher,a,809,OpenPlay,2016,RightFoot,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,Craig Dawson,Pass,809
+119567,85,SavedShot,0.7609999847412109,0.61,0.02215220034122467,Darren Fletcher,a,809,OpenPlay,2016,RightFoot,3436,Manchester United,West Bromwich Albion,0,0,2017-04-01 15:00:00,Chris Brunt,Pass,809
+119267,72,BlockedShot,0.7619999694824219,0.38299999237060545,0.020123999565839767,Darren Fletcher,a,809,OpenPlay,2016,RightFoot,3443,Watford,West Bromwich Albion,2,0,2017-04-04 19:45:00,James Morrison,Pass,809
+119269,76,MissedShots,0.7680000305175781,0.509000015258789,0.012187300249934196,Darren Fletcher,a,809,OpenPlay,2016,RightFoot,3443,Watford,West Bromwich Albion,2,0,2017-04-04 19:45:00,,Aerial,809
+121569,82,MissedShots,0.9180000305175782,0.3920000076293945,0.020771099254488945,Darren Fletcher,h,809,OpenPlay,2016,Head,3469,West Bromwich Albion,Liverpool,0,1,2017-04-16 13:30:00,Chris Brunt,Aerial,809
+120574,12,BlockedShot,0.750999984741211,0.48,0.020023200660943985,Darren Fletcher,h,809,OpenPlay,2016,RightFoot,3508,West Bromwich Albion,Chelsea,0,1,2017-05-12 20:00:00,,None,809
+158251,57,MissedShots,0.7659999847412109,0.61,0.022010700777173042,Darren Fletcher,a,809,OpenPlay,2017,RightFoot,7125,Everton,Stoke,1,0,2017-08-12 15:00:00,Joe Allen,Pass,809
+158556,62,MissedShots,0.7319999694824219,0.515,0.015106500126421452,Darren Fletcher,h,809,FromCorner,2017,RightFoot,7135,Stoke,Arsenal,1,0,2017-08-19 17:30:00,,None,809
+158993,91,BlockedShot,0.735999984741211,0.44099998474121094,0.015432200394570827,Darren Fletcher,a,809,OpenPlay,2017,RightFoot,7146,West Bromwich Albion,Stoke,1,1,2017-08-27 13:30:00,,None,809
+159855,42,BlockedShot,0.8190000152587891,0.41200000762939454,0.03423289954662323,Darren Fletcher,h,809,FromCorner,2017,LeftFoot,7170,Stoke,Chelsea,0,4,2017-09-23 15:00:00,,None,809
+160318,6,BlockedShot,0.825,0.48700000762939455,0.08733280003070831,Darren Fletcher,h,809,OpenPlay,2017,RightFoot,7181,Stoke,Southampton,2,1,2017-09-30 15:00:00,,TakeOn,809
+160330,38,BlockedShot,0.8090000152587891,0.345,0.015717100352048874,Darren Fletcher,h,809,FromCorner,2017,RightFoot,7181,Stoke,Southampton,2,1,2017-09-30 15:00:00,,Aerial,809
+160111,15,Goal,0.8190000152587891,0.555,0.017057999968528748,Darren Fletcher,a,809,FromCorner,2017,RightFoot,7216,Watford,Stoke,0,1,2017-10-28 15:00:00,Xherdan Shaqiri,Chipped,809
+161302,27,BlockedShot,0.774000015258789,0.5279999923706055,0.02608869969844818,Darren Fletcher,h,809,OpenPlay,2017,RightFoot,7258,Stoke,Liverpool,0,3,2017-11-29 20:00:00,Mame Biram Diouf,Pass,809
+182695,75,MissedShots,0.7609999847412109,0.44299999237060544,0.012466699816286564,Darren Fletcher,a,809,OpenPlay,2017,RightFoot,7279,Burnley,Stoke,1,0,2017-12-12 19:45:00,,Aerial,809
+185348,5,SavedShot,0.7609999847412109,0.5590000152587891,0.02424290031194687,Darren Fletcher,h,809,OpenPlay,2017,RightFoot,7306,Stoke,West Bromwich Albion,3,1,2017-12-23 15:00:00,Xherdan Shaqiri,LayOff,809
+185354,27,MissedShots,0.7230000305175781,0.5329999923706055,0.019568299874663353,Darren Fletcher,h,809,OpenPlay,2017,RightFoot,7306,Stoke,West Bromwich Albion,3,1,2017-12-23 15:00:00,,None,809

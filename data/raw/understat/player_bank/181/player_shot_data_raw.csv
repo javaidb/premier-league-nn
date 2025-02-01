@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+77746,11,OwnGoal,0.07,0.40400001525878904,0,Bernd Leno,h,181,OpenPlay,2015,RightFoot,1091,Bayer Leverkusen,Augsburg,1,1,2015-10-04 19:30:00,,None,181
+416996,75,OwnGoal,0.017000000476837158,0.545,0,Bernd Leno,h,181,OpenPlay,2020,RightFoot,14755,Arsenal,Everton,0,1,2021-04-23 19:00:00,,Challenge,181
+551722,19,OwnGoal,0.004000000059604645,0.5279999923706055,0,Bernd Leno,a,181,SetPiece,2023,OtherBodyPart,22030,Liverpool,Fulham,4,3,2023-12-03 14:00:00,,None,181

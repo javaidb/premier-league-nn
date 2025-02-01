@@ -1,0 +1,20 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+179214,72,MissedShots,0.769000015258789,0.47400001525878904,0.020294899120926857,Jonathan Hogg,h,6301,FromCorner,2017,RightFoot,7274,Huddersfield,Brighton,2,0,2017-12-09 15:00:00,,None,6301
+185993,8,MissedShots,0.789000015258789,0.49,0.015463300049304962,Jonathan Hogg,h,6301,FromCorner,2017,LeftFoot,7322,Huddersfield,Burnley,0,0,2017-12-30 15:00:00,Christopher Schindler,Aerial,6301
+188829,55,SavedShot,0.74,0.415,0.012111599557101727,Jonathan Hogg,a,6301,SetPiece,2017,RightFoot,7356,Stoke,Huddersfield,2,0,2018-01-20 15:00:00,,None,6301
+188835,72,MissedShots,0.7659999847412109,0.40599998474121096,0.020881200209259987,Jonathan Hogg,a,6301,SetPiece,2017,RightFoot,7356,Stoke,Huddersfield,2,0,2018-01-20 15:00:00,Scott Malone,HeadPass,6301
+200039,18,BlockedShot,0.8109999847412109,0.524000015258789,0.04971269890666008,Jonathan Hogg,h,6301,OpenPlay,2017,RightFoot,7413,Huddersfield,Swansea,0,0,2018-03-10 15:00:00,,None,6301
+200045,31,MissedShots,0.9230000305175782,0.43099998474121093,0.04081150144338608,Jonathan Hogg,h,6301,FromCorner,2017,OtherBodyPart,7413,Huddersfield,Swansea,0,0,2018-03-10 15:00:00,Tom Ince,Aerial,6301
+200051,50,MissedShots,0.7340000152587891,0.5509999847412109,0.016527699306607246,Jonathan Hogg,h,6301,OpenPlay,2017,RightFoot,7413,Huddersfield,Swansea,0,0,2018-03-10 15:00:00,Alex Pritchard,Pass,6301
+201468,93,SavedShot,0.725999984741211,0.425,0.010288000106811523,Jonathan Hogg,h,6301,OpenPlay,2017,RightFoot,7421,Huddersfield,Crystal Palace,0,2,2018-03-17 15:00:00,,None,6301
+206942,36,BlockedShot,0.870999984741211,0.53,0.10246100276708603,Jonathan Hogg,a,6301,OpenPlay,2017,LeftFoot,7441,Brighton,Huddersfield,1,1,2018-04-07 14:00:00,Terence Kongolo,Pass,6301
+208482,81,MissedShots,0.78,0.46,0.014325300231575966,Jonathan Hogg,h,6301,OpenPlay,2017,RightFoot,7451,Huddersfield,Watford,1,0,2018-04-14 14:00:00,,Aerial,6301
+215728,85,BlockedShot,0.74,0.44599998474121094,0.018595300614833832,Jonathan Hogg,h,6301,OpenPlay,2017,RightFoot,7494,Huddersfield,Arsenal,0,1,2018-05-13 15:00:00,Laurent Depoitre,Pass,6301
+249084,10,MissedShots,0.86,0.5609999847412109,0.06316539645195007,Jonathan Hogg,a,6301,FromCorner,2018,RightFoot,9272,Burnley,Huddersfield,1,1,2018-10-06 14:00:00,,None,6301
+249105,87,BlockedShot,0.8109999847412109,0.37900001525878907,0.02666589990258217,Jonathan Hogg,a,6301,FromCorner,2018,RightFoot,9272,Burnley,Huddersfield,1,1,2018-10-06 14:00:00,,None,6301
+249404,30,ShotOnPost,0.7319999694824219,0.524000015258789,0.01711539924144745,Jonathan Hogg,h,6301,OpenPlay,2018,RightFoot,9284,Huddersfield,Liverpool,0,1,2018-10-20 16:30:00,,None,6301
+249983,45,SavedShot,0.8159999847412109,0.45,0.02506070025265217,Jonathan Hogg,h,6301,FromCorner,2018,Head,9306,Huddersfield,Fulham,1,0,2018-11-05 20:00:00,,None,6301
+275896,5,BlockedShot,0.7930000305175782,0.44299999237060544,0.01560869999229908,Jonathan Hogg,h,6301,OpenPlay,2018,RightFoot,9468,Huddersfield,Wolverhampton Wanderers,1,0,2019-02-26 19:45:00,,Aerial,6301
+275911,66,MissedShots,0.98,0.41700000762939454,0.05008849874138832,Jonathan Hogg,h,6301,OpenPlay,2018,Head,9468,Huddersfield,Wolverhampton Wanderers,1,0,2019-02-26 19:45:00,Karlan Grant,Chipped,6301
+295287,23,BlockedShot,0.8569999694824219,0.29700000762939455,0.039186399430036545,Jonathan Hogg,h,6301,OpenPlay,2018,RightFoot,9541,Huddersfield,Watford,1,2,2019-04-20 15:00:00,Tommy Smith,Pass,6301
+295290,29,MissedShots,0.7319999694824219,0.4229999923706055,0.018163099884986877,Jonathan Hogg,h,6301,FromCorner,2018,RightFoot,9541,Huddersfield,Watford,1,2,2019-04-20 15:00:00,,Rebound,6301

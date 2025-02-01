@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+778,Henri Saivet,4,150,0,0,0,0.015325600281357765,0,1,0,0,M S,Newcastle United,0,0,0.23047260381281376,0.23047260381281376,2015
+778,Henri Saivet,1,86,1,0.03902139887213707,0,0,1,0,0,0,M,Newcastle United,1,0.03902139887213707,0.5357739925384521,0.5357739925384521,2017

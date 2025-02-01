@@ -1,0 +1,3 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+6031,Christopher Schindler,37,3269,0,0.7634108904749155,1,2.4467064440250397,10,9,6,1,D,Huddersfield,0,0.7634108904749155,4.538168107159436,3.7439578557386994,2017
+6031,Christopher Schindler,37,3266,1,1.041323009878397,0,0.4046876132488251,13,2,4,1,D,Huddersfield,1,1.041323009878397,3.2034810883924365,2.518890212289989,2018

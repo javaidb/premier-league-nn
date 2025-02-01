@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+158649,23,BlockedShot,0.9169999694824219,0.575,0.08258660137653351,Christopher Schindler,h,6031,OpenPlay,2017,Head,7161,Huddersfield,Leicester,1,1,2017-09-16 15:00:00,Aaron Mooy,Cross,6031
+160298,10,MissedShots,0.97,0.40400001525878904,0.09456580132246017,Christopher Schindler,h,6031,FromCorner,2017,RightFoot,7221,Huddersfield,West Bromwich Albion,1,0,2017-11-04 15:00:00,,None,6031
+160729,53,MissedShots,0.955999984741211,0.674000015258789,0.01183329988270998,Christopher Schindler,a,6031,FromCorner,2017,Head,7254,Arsenal,Huddersfield,5,0,2017-11-29 19:45:00,Aaron Mooy,Aerial,6031
+182780,3,MissedShots,0.93,0.33599998474121096,0.010780000127851963,Christopher Schindler,a,6031,FromCorner,2017,Head,7296,Watford,Huddersfield,1,4,2017-12-16 15:00:00,Aaron Mooy,Aerial,6031
+183170,14,ShotOnPost,0.9219999694824219,0.4129999923706055,0.0747326985001564,Christopher Schindler,a,6031,SetPiece,2017,Head,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Florent Hadergjonaj,Cross,6031
+183176,28,MissedShots,0.895,0.5629999923706055,0.1705860048532486,Christopher Schindler,a,6031,OpenPlay,2017,Head,7307,Southampton,Huddersfield,1,1,2017-12-23 15:00:00,Florent Hadergjonaj,Cross,6031
+187407,38,MissedShots,0.965999984741211,0.575999984741211,0.10700099915266037,Christopher Schindler,h,6031,FromCorner,2017,Head,7342,Huddersfield,West Ham,1,4,2018-01-13 15:00:00,Aaron Mooy,Cross,6031
+187418,73,MissedShots,0.9009999847412109,0.5670000076293945,0.06878229975700378,Christopher Schindler,h,6031,FromCorner,2017,RightFoot,7342,Huddersfield,West Ham,1,4,2018-01-13 15:00:00,Zanka,HeadPass,6031
+200040,19,MissedShots,0.9059999847412109,0.5459999847412109,0.024051200598478317,Christopher Schindler,h,6031,FromCorner,2017,Head,7413,Huddersfield,Swansea,0,0,2018-03-10 15:00:00,Rajiv van La Parra,Aerial,6031
+215709,4,BlockedShot,0.9530000305175781,0.519000015258789,0.1184919998049736,Christopher Schindler,h,6031,FromCorner,2017,RightFoot,7494,Huddersfield,Arsenal,0,1,2018-05-13 15:00:00,,BallTouch,6031
+233816,35,MissedShots,0.8809999847412109,0.455,0.08499850332736969,Christopher Schindler,h,6031,OpenPlay,2018,RightFoot,9240,Huddersfield,Crystal Palace,0,1,2018-09-15 14:00:00,Philip Billing,HeadPass,6031
+233832,89,MissedShots,0.815,0.4520000076293945,0.050639498978853226,Christopher Schindler,h,6031,SetPiece,2018,RightFoot,9240,Huddersfield,Crystal Palace,0,1,2018-09-15 14:00:00,Steve Mounie,BallTouch,6031
+249094,51,MissedShots,0.91,0.47,0.08454319834709167,Christopher Schindler,a,6031,FromCorner,2018,Head,9272,Burnley,Huddersfield,1,1,2018-10-06 14:00:00,Chris Löwe,Cross,6031
+249100,65,Goal,0.8669999694824219,0.48200000762939454,0.03421710059046745,Christopher Schindler,a,6031,OpenPlay,2018,Head,9272,Burnley,Huddersfield,1,1,2018-10-06 14:00:00,Chris Löwe,Cross,6031
+249979,28,MissedShots,0.92,0.48200000762939454,0.10120300203561783,Christopher Schindler,h,6031,FromCorner,2018,Head,9306,Huddersfield,Fulham,1,0,2018-11-05 20:00:00,Chris Löwe,Cross,6031
+251886,94,MissedShots,0.8819999694824219,0.4209999847412109,0.014699099585413933,Christopher Schindler,a,6031,OpenPlay,2018,Head,9338,Bournemouth,Huddersfield,2,1,2018-12-04 19:45:00,Erik Durm,Aerial,6031
+251336,20,MissedShots,0.9030000305175782,0.55,0.05687899887561798,Christopher Schindler,h,6031,FromCorner,2018,Head,9363,Huddersfield,Newcastle United,0,1,2018-12-15 15:00:00,Chris Löwe,Cross,6031
+251339,37,MissedShots,0.9430000305175781,0.6580000305175782,0.012563499622046947,Christopher Schindler,h,6031,FromCorner,2018,Head,9363,Huddersfield,Newcastle United,0,1,2018-12-15 15:00:00,Juninho Bacuna,Cross,6031
+263629,93,SavedShot,0.899000015258789,0.53,0.031212100759148598,Christopher Schindler,a,6031,OpenPlay,2018,Head,9393,Fulham,Huddersfield,1,0,2018-12-29 15:00:00,Florent Hadergjonaj,Aerial,6031
+274276,17,BlockedShot,0.9640000152587891,0.5709999847412109,0.11477699875831604,Christopher Schindler,h,6031,OpenPlay,2018,RightFoot,9401,Huddersfield,Burnley,1,2,2019-01-02 19:45:00,Terence Kongolo,None,6031
+275779,48,MissedShots,0.870999984741211,0.57,0.010024599730968475,Christopher Schindler,a,6031,SetPiece,2018,Head,9458,Newcastle United,Huddersfield,2,0,2019-02-23 15:00:00,Aaron Mooy,Aerial,6031
+287599,89,SavedShot,0.8859999847412109,0.44799999237060545,0.05235769972205162,Christopher Schindler,a,6031,SetPiece,2018,Head,9513,Crystal Palace,Huddersfield,2,0,2019-03-30 15:00:00,Alex Pritchard,Cross,6031
+301427,73,MissedShots,0.965,0.4370000076293945,0.3932090103626251,Christopher Schindler,a,6031,FromCorner,2018,Head,9569,Southampton,Huddersfield,1,1,2019-05-12 14:00:00,Alex Pritchard,Cross,6031

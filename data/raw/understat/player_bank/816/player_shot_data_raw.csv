@@ -1,0 +1,36 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14794,82,SavedShot,0.9269999694824219,0.57,0.2989870011806488,Rickie Lambert,a,816,OpenPlay,2014,Head,4768,Manchester City,Liverpool,3,1,2014-08-25 20:00:00,Daniel Sturridge,Cross,816
+17131,18,SavedShot,0.8630000305175781,0.29,0.036375898867845535,Rickie Lambert,h,816,OpenPlay,2014,RightFoot,4691,Liverpool,West Bromwich Albion,2,1,2014-10-04 15:00:00,Martin Skrtel,Chipped,816
+17135,39,BlockedShot,0.8680000305175781,0.44099998474121094,0.13683100044727325,Rickie Lambert,h,816,OpenPlay,2014,LeftFoot,4691,Liverpool,West Bromwich Albion,2,1,2014-10-04 15:00:00,Raheem Sterling,Pass,816
+17140,58,MissedShots,0.8619999694824219,0.5459999847412109,0.10114599764347076,Rickie Lambert,h,816,OpenPlay,2014,RightFoot,4691,Liverpool,West Bromwich Albion,2,1,2014-10-04 15:00:00,Jordan Henderson,Pass,816
+16365,1,Goal,0.8569999694824219,0.5570000076293945,0.323293000459671,Rickie Lambert,a,816,OpenPlay,2014,RightFoot,4676,Crystal Palace,Liverpool,3,1,2014-11-23 13:30:00,Adam Lallana,Throughball,816
+16370,27,MissedShots,0.9390000152587891,0.534000015258789,0.10874400287866592,Rickie Lambert,a,816,SetPiece,2014,Head,4676,Crystal Palace,Liverpool,3,1,2014-11-23 13:30:00,Steven Gerrard,Chipped,816
+16372,33,MissedShots,0.9359999847412109,0.3840000152587891,0.04870859906077385,Rickie Lambert,a,816,OpenPlay,2014,Head,4676,Crystal Palace,Liverpool,3,1,2014-11-23 13:30:00,Joe Allen,Cross,816
+17870,26,MissedShots,0.7,0.45,0.037330400198698044,Rickie Lambert,h,816,DirectFreekick,2014,RightFoot,4682,Liverpool,Stoke,1,0,2014-11-29 15:00:00,,Standard,816
+17879,56,BlockedShot,0.6919999694824219,0.39599998474121095,0.008641090244054794,Rickie Lambert,h,816,OpenPlay,2014,RightFoot,4682,Liverpool,Stoke,1,0,2014-11-29 15:00:00,Raheem Sterling,TakeOn,816
+17885,66,SavedShot,0.855999984741211,0.525,0.10192299634218216,Rickie Lambert,h,816,OpenPlay,2014,RightFoot,4682,Liverpool,Stoke,1,0,2014-11-29 15:00:00,Glen Johnson,Pass,816
+17894,84,ShotOnPost,0.9130000305175782,0.544000015258789,0.11663799732923508,Rickie Lambert,h,816,OpenPlay,2014,Head,4682,Liverpool,Stoke,1,0,2014-11-29 15:00:00,Jordan Henderson,Cross,816
+19943,22,MissedShots,0.92,0.5740000152587891,0.08715510368347168,Rickie Lambert,h,816,OpenPlay,2014,Head,4604,Liverpool,Sunderland,0,0,2014-12-06 15:00:00,Adam Lallana,Cross,816
+18469,78,Goal,0.835,0.37200000762939456,0.07298710197210312,Rickie Lambert,a,816,OpenPlay,2014,RightFoot,4571,Aston Villa,Liverpool,0,2,2015-01-17 15:00:00,Raheem Sterling,Pass,816
+24187,82,BlockedShot,0.7519999694824219,0.5420000076293945,0.015693899244070053,Rickie Lambert,a,816,OpenPlay,2014,RightFoot,4521,Everton,Liverpool,0,0,2015-02-07 17:30:00,Daniel Sturridge,Chipped,816
+24188,83,SavedShot,0.855,0.435,0.09361360222101212,Rickie Lambert,a,816,OpenPlay,2014,RightFoot,4521,Everton,Liverpool,0,0,2015-02-07 17:30:00,Steven Gerrard,Pass,816
+21346,15,SavedShot,0.8109999847412109,0.634000015258789,0.04050799831748009,Rickie Lambert,h,816,OpenPlay,2014,RightFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,,BallRecovery,816
+21362,57,BlockedShot,0.6969999694824218,0.5590000152587891,0.036092501133680344,Rickie Lambert,h,816,DirectFreekick,2014,RightFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,,Standard,816
+21363,64,SavedShot,0.895,0.5970000076293945,0.13322100043296814,Rickie Lambert,h,816,OpenPlay,2014,LeftFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,,TakeOn,816
+21370,79,MissedShots,0.8859999847412109,0.47400001525878904,0.0391509011387825,Rickie Lambert,h,816,FromCorner,2014,Head,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,Jordan Henderson,Cross,816
+51697,27,MissedShots,0.700999984741211,0.46,0.0379238985478878,Rickie Lambert,h,816,DirectFreekick,2015,RightFoot,90,West Bromwich Albion,Manchester City,0,3,2015-08-10 23:00:00,,Standard,816
+51703,48,MissedShots,0.730999984741211,0.4779999923706055,0.05205149948596954,Rickie Lambert,h,816,DirectFreekick,2015,RightFoot,90,West Bromwich Albion,Manchester City,0,3,2015-08-10 23:00:00,,Standard,816
+51928,13,BlockedShot,0.700999984741211,0.4209999847412109,0.012857900001108646,Rickie Lambert,a,816,OpenPlay,2015,RightFoot,96,Watford,West Bromwich Albion,0,0,2015-08-15 18:00:00,James Morrison,Pass,816
+51931,27,MissedShots,0.9330000305175781,0.47200000762939454,0.11720000207424164,Rickie Lambert,a,816,FromCorner,2015,Head,96,Watford,West Bromwich Albion,0,0,2015-08-15 18:00:00,Craig Gardner,Cross,816
+57237,75,BlockedShot,0.7280000305175781,0.635,0.015593199990689754,Rickie Lambert,h,816,OpenPlay,2015,RightFoot,107,West Bromwich Albion,Chelsea,2,3,2015-08-23 16:30:00,Callum McManaman,Pass,816
+57709,38,SavedShot,0.7119999694824218,0.32099998474121094,0.01652969978749752,Rickie Lambert,a,816,SetPiece,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,James Morrison,Pass,816
+57723,79,BlockedShot,0.7180000305175781,0.47200000762939454,0.020827200263738632,Rickie Lambert,a,816,OpenPlay,2015,RightFoot,112,Stoke,West Bromwich Albion,0,1,2015-08-29 18:00:00,James Morrison,Pass,816
+58586,86,MissedShots,0.8690000152587891,0.5259999847412109,0.07369550317525864,Rickie Lambert,h,816,OpenPlay,2015,RightFoot,150,West Bromwich Albion,Everton,2,3,2015-09-28 23:00:00,James Chester,Cross,816
+53775,83,Goal,0.885,0.5,0.7611690163612366,Rickie Lambert,h,816,Penalty,2015,RightFoot,187,West Bromwich Albion,Leicester,2,3,2015-10-31 19:00:00,,Standard,816
+53780,95,MissedShots,0.970999984741211,0.3990000152587891,0.07983289659023285,Rickie Lambert,h,816,OpenPlay,2015,RightFoot,187,West Bromwich Albion,Leicester,2,3,2015-10-31 19:00:00,James McClean,HeadPass,816
+53229,49,MissedShots,0.845,0.31799999237060544,0.04107680171728134,Rickie Lambert,a,816,OpenPlay,2015,LeftFoot,218,West Ham,West Bromwich Albion,1,1,2015-11-29 18:05:00,Darren Fletcher,Pass,816
+53231,59,SavedShot,0.745,0.32799999237060545,0.04537200182676315,Rickie Lambert,a,816,DirectFreekick,2015,RightFoot,218,West Ham,West Bromwich Albion,1,1,2015-11-29 18:05:00,,Standard,816
+55610,51,SavedShot,0.899000015258789,0.534000015258789,0.0616316981613636,Rickie Lambert,a,816,OpenPlay,2015,Head,252,Swansea,West Bromwich Albion,1,0,2015-12-26 19:00:00,Chris Brunt,Cross,816
+55612,72,MissedShots,0.9259999847412109,0.605999984741211,0.10587400197982788,Rickie Lambert,a,816,OpenPlay,2015,RightFoot,252,Swansea,West Bromwich Albion,1,0,2015-12-26 19:00:00,Stéphane Sessegnon,Pass,816
+112841,78,BlockedShot,0.9309999847412109,0.524000015258789,0.11427800357341766,Rickie Lambert,h,816,OpenPlay,2016,RightFoot,477,West Bromwich Albion,Everton,1,2,2016-08-20 18:00:00,James McClean,Cross,816
+112845,89,BlockedShot,0.865,0.38799999237060545,0.05884839966893196,Rickie Lambert,h,816,OpenPlay,2016,RightFoot,477,West Bromwich Albion,Everton,1,2,2016-08-20 18:00:00,James McClean,Pass,816

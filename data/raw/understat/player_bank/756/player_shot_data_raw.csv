@@ -1,0 +1,98 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14465,17,SavedShot,0.8680000305175781,0.5879999923706055,0.060924600809812546,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4750,Leicester,Everton,2,2,2014-08-16 15:00:00,Kasper Schmeichel,Pass,756
+14469,21,Goal,0.905,0.5370000076293945,0.4533489942550659,Leonardo Ulloa,h,756,FromCorner,2014,RightFoot,4750,Leicester,Everton,2,2,2014-08-16 15:00:00,,None,756
+14477,53,MissedShots,0.8859999847412109,0.5590000152587891,0.04551469907164574,Leonardo Ulloa,h,756,OpenPlay,2014,Head,4750,Leicester,Everton,2,2,2014-08-16 15:00:00,Riyad Mahrez,Cross,756
+14951,5,MissedShots,0.8830000305175781,0.45599998474121095,0.11558900028467178,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4778,Leicester,Arsenal,1,1,2014-08-31 16:00:00,Ritchie de Laet,Cross,756
+14957,21,Goal,0.9130000305175782,0.48,0.03818390145897865,Leonardo Ulloa,h,756,OpenPlay,2014,Head,4778,Leicester,Arsenal,1,1,2014-08-31 16:00:00,Jeffrey Schlupp,Aerial,756
+14972,52,MissedShots,0.9,0.6530000305175782,0.29737499356269836,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4778,Leicester,Arsenal,1,1,2014-08-31 16:00:00,Riyad Mahrez,TakeOn,756
+15367,63,Goal,0.9490000152587891,0.4209999847412109,0.3537740111351013,Leonardo Ulloa,a,756,OpenPlay,2014,LeftFoot,4723,Stoke,Leicester,0,1,2014-09-13 15:00:00,Paul Konchesky,Cross,756
+15505,16,Goal,0.8969999694824219,0.4490000152587891,0.05096939951181412,Leonardo Ulloa,h,756,OpenPlay,2014,Head,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Jamie Vardy,Cross,756
+15518,60,BlockedShot,0.9459999847412109,0.5379999923706055,0.11184000223875046,Leonardo Ulloa,h,756,OpenPlay,2014,Head,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,David Nugent,Goal,756
+15523,67,MissedShots,0.8490000152587891,0.3029999923706055,0.042153600603342056,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,Jamie Vardy,LayOff,756
+15528,82,Goal,0.885,0.5,0.7611690163612366,Leonardo Ulloa,h,756,Penalty,2014,RightFoot,4736,Leicester,Manchester United,5,3,2014-09-21 13:30:00,,Standard,756
+15743,86,BlockedShot,0.8919999694824219,0.595999984741211,0.10211999714374542,Leonardo Ulloa,a,756,OpenPlay,2014,LeftFoot,4743,Crystal Palace,Leicester,2,0,2014-09-27 15:00:00,David Nugent,Pass,756
+15960,78,SavedShot,0.8719999694824219,0.5029999923706054,0.01846270076930523,Leonardo Ulloa,h,756,OpenPlay,2014,Head,4651,Leicester,West Bromwich Albion,0,1,2014-11-01 15:00:00,Ritchie de Laet,Aerial,756
+16797,25,BlockedShot,0.77,0.6419999694824219,0.01948929950594902,Leonardo Ulloa,h,756,OpenPlay,2014,LeftFoot,4672,Leicester,Sunderland,0,0,2014-11-22 15:00:00,Esteban Cambiasso,Pass,756
+16802,40,MissedShots,0.955,0.585,0.04552140086889267,Leonardo Ulloa,h,756,FromCorner,2014,Head,4672,Leicester,Sunderland,0,0,2014-11-22 15:00:00,,None,756
+16816,77,MissedShots,0.9080000305175782,0.4879999923706055,0.07732989639043808,Leonardo Ulloa,h,756,FromCorner,2014,Head,4672,Leicester,Sunderland,0,0,2014-11-22 15:00:00,Matthew James,Cross,756
+18073,41,MissedShots,0.905,0.43900001525878907,0.08398929983377457,Leonardo Ulloa,a,756,OpenPlay,2014,Head,4684,Queens Park Rangers,Leicester,3,2,2014-11-29 15:00:00,Riyad Mahrez,Cross,756
+18971,20,ShotOnPost,0.945,0.30700000762939456,0.043810099363327026,Leonardo Ulloa,h,756,OpenPlay,2014,LeftFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,Rebound,756
+18981,54,MissedShots,0.805,0.580999984741211,0.058889999985694885,Leonardo Ulloa,h,756,OpenPlay,2014,LeftFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,Esteban Cambiasso,LayOff,756
+18996,95,SavedShot,0.9069999694824219,0.49599998474121093,0.05817979946732521,Leonardo Ulloa,h,756,OpenPlay,2014,Head,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,Marc Albrighton,Aerial,756
+19795,12,Goal,0.9619999694824218,0.4540000152587891,0.6515269875526428,Leonardo Ulloa,a,756,OpenPlay,2014,RightFoot,4607,Aston Villa,Leicester,2,1,2014-12-07 16:00:00,,Rebound,756
+18157,79,BlockedShot,0.8280000305175781,0.5609999847412109,0.06249120086431503,Leonardo Ulloa,h,756,OpenPlay,2014,LeftFoot,4614,Leicester,Manchester City,0,1,2014-12-13 15:00:00,Riyad Mahrez,Pass,756
+18162,93,MissedShots,0.9180000305175782,0.5709999847412109,0.09063009917736053,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4614,Leicester,Manchester City,0,1,2014-12-13 15:00:00,Wes Morgan,HeadPass,756
+19600,91,SavedShot,0.9580000305175781,0.42,0.3123370110988617,Leonardo Ulloa,a,756,OpenPlay,2014,Head,4620,West Ham,Leicester,2,0,2014-12-20 15:00:00,Danny Simpson,Cross,756
+17763,17,SavedShot,0.8080000305175781,0.7630000305175781,0.0198379997164011,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4637,Leicester,Tottenham,1,2,2014-12-26 15:00:00,Jeffrey Schlupp,Pass,756
+17770,35,MissedShots,0.9819999694824219,0.34400001525878904,0.07663580030202866,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4637,Leicester,Tottenham,1,2,2014-12-26 15:00:00,Daniel Drinkwater,TakeOn,756
+17772,38,ShotOnPost,0.9359999847412109,0.51,0.4186609983444214,Leonardo Ulloa,h,756,OpenPlay,2014,Head,4637,Leicester,Tottenham,1,2,2014-12-26 15:00:00,Riyad Mahrez,Cross,756
+17776,47,Goal,0.975999984741211,0.445,0.142645001411438,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4637,Leicester,Tottenham,1,2,2014-12-26 15:00:00,Riyad Mahrez,Pass,756
+17788,85,BlockedShot,0.9159999847412109,0.5659999847412109,0.09031739830970764,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4637,Leicester,Tottenham,1,2,2014-12-26 15:00:00,Daniel Drinkwater,Cross,756
+17923,41,MissedShots,0.9319999694824219,0.5790000152587891,0.30500298738479614,Leonardo Ulloa,h,756,OpenPlay,2014,Head,4567,Leicester,Aston Villa,1,0,2015-01-10 15:00:00,,Rebound,756
+20384,47,MissedShots,0.919000015258789,0.529000015258789,0.31658700108528137,Leonardo Ulloa,a,756,OpenPlay,2014,Head,4505,Tottenham,Leicester,4,3,2015-03-21 15:00:00,Ritchie de Laet,Cross,756
+21845,1,MissedShots,0.78,0.6140000152587891,0.021087000146508217,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Riyad Mahrez,Pass,756
+21603,14,MissedShots,0.9030000305175782,0.415,0.05565059930086136,Leonardo Ulloa,a,756,FromCorner,2014,RightFoot,4456,West Bromwich Albion,Leicester,2,3,2015-04-11 15:00:00,Matthew James,Cross,756
+21608,41,MissedShots,0.9159999847412109,0.5729999923706055,0.3851670026779175,Leonardo Ulloa,a,756,OpenPlay,2014,LeftFoot,4456,West Bromwich Albion,Leicester,2,3,2015-04-11 15:00:00,David Nugent,HeadPass,756
+20898,14,Goal,0.895,0.5629999923706055,0.32402798533439636,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4463,Leicester,Swansea,2,0,2015-04-18 15:00:00,Wes Morgan,LayOff,756
+20899,20,MissedShots,0.8580000305175781,0.525,0.012795500457286835,Leonardo Ulloa,h,756,FromCorner,2014,Head,4463,Leicester,Swansea,2,0,2015-04-18 15:00:00,Esteban Cambiasso,Aerial,756
+20912,54,MissedShots,0.93,0.445,0.4467410147190094,Leonardo Ulloa,h,756,OpenPlay,2014,Head,4463,Leicester,Swansea,2,0,2015-04-18 15:00:00,Jamie Vardy,Aerial,756
+21151,0,Goal,0.955999984741211,0.5609999847412109,0.12190999835729599,Leonardo Ulloa,h,756,FromCorner,2014,Head,4399,Leicester,Newcastle United,3,0,2015-05-02 12:45:00,Marc Albrighton,Cross,756
+21153,6,SavedShot,0.8959999847412109,0.6409999847412109,0.018331799656152725,Leonardo Ulloa,h,756,OpenPlay,2014,Head,4399,Leicester,Newcastle United,3,0,2015-05-02 12:45:00,Jeffrey Schlupp,Cross,756
+21165,47,Goal,0.885,0.5,0.7611690163612366,Leonardo Ulloa,h,756,Penalty,2014,RightFoot,4399,Leicester,Newcastle United,3,0,2015-05-02 12:45:00,,Standard,756
+21171,56,BlockedShot,0.9269999694824219,0.5520000076293945,0.04043420031666756,Leonardo Ulloa,h,756,FromCorner,2014,Head,4399,Leicester,Newcastle United,3,0,2015-05-02 12:45:00,Marc Albrighton,Aerial,756
+21173,58,SavedShot,0.9359999847412109,0.505,0.4828149974346161,Leonardo Ulloa,h,756,OpenPlay,2014,Head,4399,Leicester,Newcastle United,3,0,2015-05-02 12:45:00,Riyad Mahrez,Cross,756
+21304,41,MissedShots,0.915,0.495,0.11142700165510178,Leonardo Ulloa,h,756,SetPiece,2014,Head,4412,Leicester,Southampton,2,0,2015-05-09 15:00:00,Esteban Cambiasso,Cross,756
+20824,47,MissedShots,0.955999984741211,0.42900001525878906,0.11024200171232224,Leonardo Ulloa,a,756,FromCorner,2014,Head,4421,Sunderland,Leicester,0,0,2015-05-16 15:00:00,Marc Albrighton,Cross,756
+20823,47,BlockedShot,0.909000015258789,0.43900001525878907,0.07076460123062134,Leonardo Ulloa,a,756,FromCorner,2014,RightFoot,4421,Sunderland,Leicester,0,0,2015-05-16 15:00:00,Riyad Mahrez,Cross,756
+22945,1,MissedShots,0.884000015258789,0.7180000305175781,0.04292619973421097,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Jamie Vardy,Pass,756
+22955,29,MissedShots,0.865,0.5529999923706055,0.07934220135211945,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Marc Albrighton,Cross,756
+22962,45,MissedShots,0.8330000305175781,0.4520000076293945,0.08677999675273895,Leonardo Ulloa,h,756,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Marc Albrighton,Pass,756
+22970,50,Goal,0.9169999694824219,0.48700000762939455,0.4269999861717224,Leonardo Ulloa,h,756,FromCorner,2014,OtherBodyPart,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,Wes Morgan,Rebound,756
+57896,66,MissedShots,0.875,0.505,0.025206400081515312,Leonardo Ulloa,h,756,OpenPlay,2015,Head,129,Leicester,Aston Villa,3,2,2015-09-13 19:00:00,Daniel Drinkwater,Chipped,756
+53756,19,MissedShots,0.8930000305175781,0.6040000152587891,0.025439800694584846,Leonardo Ulloa,a,756,OpenPlay,2015,Head,187,West Bromwich Albion,Leicester,2,3,2015-10-31 19:00:00,,Aerial,756
+53763,39,SavedShot,0.91,0.5920000076293945,0.18156300485134125,Leonardo Ulloa,a,756,OpenPlay,2015,Head,187,West Bromwich Albion,Leicester,2,3,2015-10-31 19:00:00,Riyad Mahrez,Cross,756
+54311,7,BlockedShot,0.9519999694824218,0.4909999847412109,0.6672660112380981,Leonardo Ulloa,a,756,OpenPlay,2015,RightFoot,205,Newcastle United,Leicester,0,3,2015-11-21 19:00:00,Riyad Mahrez,Pass,756
+54319,41,MissedShots,0.9390000152587891,0.4370000076293945,0.04659600183367729,Leonardo Ulloa,a,756,FromCorner,2015,Head,205,Newcastle United,Leicester,0,3,2015-11-21 19:00:00,Christian Fuchs,Aerial,756
+54321,58,BlockedShot,0.9490000152587891,0.4420000076293945,0.11849699914455414,Leonardo Ulloa,a,756,FromCorner,2015,Head,205,Newcastle United,Leicester,0,3,2015-11-21 19:00:00,Christian Fuchs,Cross,756
+54323,61,Goal,0.935,0.5459999847412109,0.4138239920139313,Leonardo Ulloa,a,756,OpenPlay,2015,Head,205,Newcastle United,Leicester,0,3,2015-11-21 19:00:00,Riyad Mahrez,Cross,756
+56143,65,SavedShot,0.899000015258789,0.5109999847412109,0.5851140022277832,Leonardo Ulloa,h,756,OpenPlay,2015,RightFoot,216,Leicester,Manchester United,1,1,2015-11-28 21:30:00,Riyad Mahrez,TakeOn,756
+56145,72,MissedShots,0.7980000305175782,0.38,0.03271849825978279,Leonardo Ulloa,h,756,OpenPlay,2015,LeftFoot,216,Leicester,Manchester United,1,1,2015-11-28 21:30:00,,None,756
+55241,38,MissedShots,0.865999984741211,0.5770000076293945,0.1125129982829094,Leonardo Ulloa,a,756,OpenPlay,2015,RightFoot,222,Swansea,Leicester,0,3,2015-12-05 19:00:00,Riyad Mahrez,Chipped,756
+55257,86,BlockedShot,0.7090000152587891,0.525,0.018529100343585014,Leonardo Ulloa,a,756,OpenPlay,2015,RightFoot,222,Swansea,Leicester,0,3,2015-12-05 19:00:00,Daniel Drinkwater,Pass,756
+53826,91,MissedShots,0.835,0.35700000762939454,0.0649581030011177,Leonardo Ulloa,h,756,OpenPlay,2015,LeftFoot,240,Leicester,Chelsea,2,1,2015-12-15 00:00:00,Shinji Okazaki,Pass,756
+55903,92,SavedShot,0.875999984741211,0.5179999923706055,0.11592599749565125,Leonardo Ulloa,a,756,OpenPlay,2015,RightFoot,245,Everton,Leicester,2,3,2015-12-19 19:00:00,,Tackle,756
+55553,25,MissedShots,0.785,0.36700000762939455,0.013054500333964825,Leonardo Ulloa,h,756,OpenPlay,2015,RightFoot,274,Leicester,Bournemouth,0,0,2016-01-02 19:00:00,,Aerial,756
+55556,33,MissedShots,0.9080000305175782,0.5609999847412109,0.031241800636053085,Leonardo Ulloa,h,756,SetPiece,2015,Head,274,Leicester,Bournemouth,0,0,2016-01-02 19:00:00,Riyad Mahrez,Aerial,756
+55397,75,BlockedShot,0.905,0.5320000076293945,0.11338900029659271,Leonardo Ulloa,a,756,OpenPlay,2015,RightFoot,290,Tottenham,Leicester,0,1,2016-01-14 00:00:00,Shinji Okazaki,BallTouch,756
+54400,65,MissedShots,0.87,0.34900001525878904,0.09839610010385513,Leonardo Ulloa,h,756,OpenPlay,2015,RightFoot,304,Leicester,Stoke,3,0,2016-01-23 19:00:00,Daniel Drinkwater,TakeOn,756
+54408,86,Goal,0.9440000152587891,0.4759999847412109,0.6166269779205322,Leonardo Ulloa,h,756,OpenPlay,2015,RightFoot,304,Leicester,Stoke,3,0,2016-01-23 19:00:00,Riyad Mahrez,None,756
+56170,88,Goal,0.975999984741211,0.53,0.7314130067825317,Leonardo Ulloa,h,756,OpenPlay,2015,LeftFoot,343,Leicester,Norwich,1,0,2016-02-27 19:00:00,Jamie Vardy,None,756
+60937,82,SavedShot,0.9,0.34700000762939454,0.30198100209236145,Leonardo Ulloa,a,756,OpenPlay,2015,RightFoot,401,Sunderland,Leicester,0,2,2016-04-10 16:30:00,N&#039;Golo Kanté,Pass,756
+56483,94,Goal,0.885,0.5,0.7611690163612366,Leonardo Ulloa,h,756,Penalty,2015,RightFoot,411,Leicester,West Ham,2,2,2016-04-17 16:30:00,,Standard,756
+57343,29,Goal,0.9230000305175782,0.519000015258789,0.35791200399398804,Leonardo Ulloa,h,756,SetPiece,2015,Head,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Daniel Drinkwater,Aerial,756
+57350,59,Goal,0.99,0.46599998474121096,0.9741790294647217,Leonardo Ulloa,h,756,OpenPlay,2015,RightFoot,425,Leicester,Swansea,4,0,2016-04-24 19:15:00,Jeffrey Schlupp,Pass,756
+57165,37,MissedShots,0.9,0.40900001525878904,0.046101100742816925,Leonardo Ulloa,a,756,OpenPlay,2015,Head,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,Riyad Mahrez,Cross,756
+57171,50,MissedShots,0.9530000305175781,0.5220000076293946,0.0815197005867958,Leonardo Ulloa,a,756,FromCorner,2015,Head,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,Christian Fuchs,Aerial,756
+57172,53,BlockedShot,0.8090000152587891,0.49700000762939456,0.017491400241851807,Leonardo Ulloa,a,756,SetPiece,2015,RightFoot,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,,Aerial,756
+57173,53,MissedShots,0.9119999694824219,0.5629999923706055,0.02062069997191429,Leonardo Ulloa,a,756,FromCorner,2015,Head,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,Christian Fuchs,Aerial,756
+57177,63,MissedShots,0.875999984741211,0.41,0.028519099578261375,Leonardo Ulloa,a,756,SetPiece,2015,Head,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,Daniel Drinkwater,Cross,756
+57184,79,MissedShots,0.8859999847412109,0.5929999923706055,0.07863520085811615,Leonardo Ulloa,a,756,OpenPlay,2015,RightFoot,434,Manchester United,Leicester,1,1,2016-05-01 17:05:00,Riyad Mahrez,Chipped,756
+56321,74,MissedShots,0.95,0.415,0.03060780093073845,Leonardo Ulloa,h,756,FromCorner,2015,Head,443,Leicester,Everton,3,1,2016-05-07 20:30:00,Riyad Mahrez,Aerial,756
+56325,79,MissedShots,0.874000015258789,0.48400001525878905,0.05014840140938759,Leonardo Ulloa,h,756,OpenPlay,2015,Head,443,Leicester,Everton,3,1,2016-05-07 20:30:00,Riyad Mahrez,Chipped,756
+56326,82,MissedShots,0.919000015258789,0.43099998474121093,0.06501740217208862,Leonardo Ulloa,h,756,FromCorner,2015,Head,443,Leicester,Everton,3,1,2016-05-07 20:30:00,Christian Fuchs,Cross,756
+56329,85,MissedShots,0.9030000305175782,0.41200000762939454,0.06108180060982704,Leonardo Ulloa,h,756,OpenPlay,2015,Head,443,Leicester,Everton,3,1,2016-05-07 20:30:00,Christian Fuchs,Cross,756
+56334,91,MissedShots,0.865999984741211,0.4640000152587891,0.019204899668693542,Leonardo Ulloa,h,756,FromCorner,2015,Head,443,Leicester,Everton,3,1,2016-05-07 20:30:00,Demarai Gray,Cross,756
+114333,93,MissedShots,0.825,0.649000015258789,0.04188629984855652,Leonardo Ulloa,h,756,OpenPlay,2016,RightFoot,528,Leicester,Southampton,0,0,2016-10-02 17:15:00,Daniel Drinkwater,Pass,756
+114997,94,MissedShots,0.909000015258789,0.53,0.046848900616168976,Leonardo Ulloa,a,756,SetPiece,2016,Head,2678,Tottenham,Leicester,1,1,2016-10-29 18:00:00,Christian Fuchs,Aerial,756
+117530,90,SavedShot,0.9459999847412109,0.4909999847412109,0.6261439919471741,Leonardo Ulloa,a,756,SetPiece,2016,RightFoot,3125,Bournemouth,Leicester,1,0,2016-12-13 23:45:00,Jamie Vardy,Pass,756
+115719,73,Goal,0.9490000152587891,0.5420000076293945,0.4259989857673645,Leonardo Ulloa,a,756,OpenPlay,2016,Head,3138,Stoke,Leicester,2,2,2016-12-17 19:00:00,Demarai Gray,Cross,756
+116396,64,SavedShot,0.9369999694824219,0.5670000076293945,0.20558899641036987,Leonardo Ulloa,h,756,OpenPlay,2016,Head,3148,Leicester,Everton,0,2,2016-12-26 15:00:00,Danny Simpson,Chipped,756
+116567,68,SavedShot,0.950999984741211,0.5059999847412109,0.05946899950504303,Leonardo Ulloa,a,756,FromCorner,2016,Head,3330,Middlesbrough,Leicester,0,0,2017-01-02 16:30:00,Christian Fuchs,SubstitutionOn,756
+116569,90,MissedShots,0.9230000305175782,0.4520000076293945,0.1295360028743744,Leonardo Ulloa,a,756,OpenPlay,2016,Head,3330,Middlesbrough,Leicester,0,0,2017-01-02 16:30:00,Marc Albrighton,Cross,756
+119915,78,BlockedShot,0.9519999694824218,0.4540000152587891,0.12687399983406067,Leonardo Ulloa,a,756,FromCorner,2016,Head,3458,Everton,Leicester,4,2,2017-04-09 16:00:00,Riyad Mahrez,Cross,756
+119917,87,SavedShot,0.9269999694824219,0.44099998474121094,0.09095770120620728,Leonardo Ulloa,a,756,FromCorner,2016,Head,3458,Everton,Leicester,4,2,2017-04-09 16:00:00,Riyad Mahrez,Cross,756
+120715,49,BlockedShot,0.874000015258789,0.515,0.05730560049414635,Leonardo Ulloa,a,756,OpenPlay,2016,Head,3468,Crystal Palace,Leicester,2,2,2017-04-15 15:00:00,Marc Albrighton,Cross,756
+120724,73,MissedShots,0.895,0.5709999847412109,0.0898338034749031,Leonardo Ulloa,a,756,OpenPlay,2016,LeftFoot,3468,Crystal Palace,Leicester,2,2,2017-04-15 15:00:00,,None,756
+185627,84,SavedShot,0.9319999694824219,0.5629999923706055,0.08932860195636749,Leonardo Ulloa,a,756,FromCorner,2017,Head,7317,Watford,Leicester,2,1,2017-12-26 15:00:00,Marc Albrighton,Cross,756
+208470,91,MissedShots,0.909000015258789,0.55,0.036934200674295425,Leonardo Ulloa,a,756,OpenPlay,2017,Head,7450,Crystal Palace,Brighton,3,2,2018-04-14 14:00:00,Beram Kayal,Aerial,756
+214340,19,Goal,0.970999984741211,0.5420000076293945,0.5564060211181641,Leonardo Ulloa,a,756,OpenPlay,2017,Head,7424,Manchester City,Brighton,3,1,2018-05-09 20:00:00,Davy Pröpper,Cross,756

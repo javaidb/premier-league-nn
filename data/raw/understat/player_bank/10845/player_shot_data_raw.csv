@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+494421,46,BlockedShot,0.88,0.5529999923706055,0.07177449762821198,Flynn Downes,a,10845,OpenPlay,2022,RightFoot,18320,Liverpool,West Ham,1,0,2022-10-19 18:30:00,,None,10845
+496053,18,BlockedShot,0.8630000305175781,0.5309999847412109,0.07817120105028152,Flynn Downes,h,10845,OpenPlay,2022,LeftFoot,18330,West Ham,Bournemouth,2,0,2022-10-24 19:00:00,,Rebound,10845
+516838,69,MissedShots,0.9290000152587891,0.555,0.09466809779405594,Flynn Downes,h,10845,FromCorner,2022,Head,18491,West Ham,Southampton,1,0,2023-04-02 13:00:00,Emerson,Cross,10845
+521418,77,SavedShot,0.8180000305175781,0.545,0.07950882613658905,Flynn Downes,a,10845,OpenPlay,2022,RightFoot,18513,Bournemouth,West Ham,0,4,2023-04-23 13:00:00,Declan Rice,Pass,10845
+584795,62,BlockedShot,0.86,0.41200000762939454,0.07251161336898804,Flynn Downes,a,10845,OpenPlay,2024,RightFoot,26606,Newcastle United,Southampton,1,0,2024-08-17 14:00:00,Adam Armstrong,Pass,10845
+589177,93,MissedShots,0.825999984741211,0.529000015258789,0.02367425337433815,Flynn Downes,a,10845,OpenPlay,2024,RightFoot,26623,Brentford,Southampton,3,1,2024-08-31 14:00:00,,Aerial,10845
+592359,70,BlockedShot,0.7280000305175781,0.44400001525878907,0.02109825797379017,Flynn Downes,h,10845,OpenPlay,2024,RightFoot,26643,Southampton,Ipswich,1,1,2024-09-21 14:00:00,,None,10845
+595552,98,BlockedShot,0.815,0.5270000076293946,0.019479133188724518,Flynn Downes,a,10845,OpenPlay,2024,RightFoot,26666,Arsenal,Southampton,3,1,2024-10-05 14:00:00,,Aerial,10845
+597110,31,SavedShot,0.9540000152587891,0.4179999923706055,0.5381451845169067,Flynn Downes,h,10845,OpenPlay,2024,RightFoot,26678,Southampton,Leicester,2,3,2024-10-19 14:00:00,Taylor Harwood-Bellis,Rebound,10845
+603455,32,SavedShot,0.9009999847412109,0.40700000762939453,0.06947635114192963,Flynn Downes,h,10845,FromCorner,2024,RightFoot,26721,Southampton,Liverpool,2,3,2024-11-24 14:00:00,Tyler Dibling,Pass,10845
+603823,58,Goal,0.8769999694824219,0.5129999923706055,0.07855141162872314,Flynn Downes,a,10845,OpenPlay,2024,RightFoot,26723,Brighton,Southampton,1,1,2024-11-29 20:00:00,,Rebound,10845
+609171,42,MissedShots,0.7709999847412109,0.31,0.013619690202176571,Flynn Downes,h,10845,OpenPlay,2024,RightFoot,26780,Southampton,West Ham,0,1,2024-12-26 15:00:00,,Rebound,10845
+612649,23,BlockedShot,0.8719999694824219,0.6419999694824219,0.04001324996352196,Flynn Downes,a,10845,FromCorner,2024,LeftFoot,26820,Nottingham Forest,Southampton,3,2,2025-01-19 14:00:00,Jan Bednarek,BallTouch,10845

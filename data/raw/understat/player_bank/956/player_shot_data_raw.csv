@@ -1,0 +1,760 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+18756,68,SavedShot,0.764000015258789,0.6790000152587891,0.01946369931101799,Andrej Kramaric,h,956,OpenPlay,2014,RightFoot,4573,Leicester,Stoke,0,1,2015-01-17 15:00:00,Jeffrey Schlupp,Pass,956
+23475,51,MissedShots,0.840999984741211,0.5579999923706055,0.03488919883966446,Andrej Kramaric,a,956,OpenPlay,2014,RightFoot,4583,Manchester United,Leicester,3,1,2015-01-31 15:00:00,Wes Morgan,Cross,956
+23838,46,BlockedShot,0.8480000305175781,0.6580000305175782,0.054582901298999786,Andrej Kramaric,a,956,OpenPlay,2014,LeftFoot,4525,Arsenal,Leicester,2,1,2015-02-10 19:45:00,Esteban Cambiasso,Pass,956
+23840,51,SavedShot,0.884000015258789,0.7090000152587891,0.049132999032735825,Andrej Kramaric,a,956,OpenPlay,2014,RightFoot,4525,Arsenal,Leicester,2,1,2015-02-10 19:45:00,Esteban Cambiasso,Pass,956
+23843,60,Goal,0.8680000305175781,0.6,0.025874799117445946,Andrej Kramaric,a,956,FromCorner,2014,RightFoot,4525,Arsenal,Leicester,2,1,2015-02-10 19:45:00,,Aerial,956
+23841,60,SavedShot,0.8969999694824219,0.30200000762939455,0.04570690169930458,Andrej Kramaric,a,956,OpenPlay,2014,RightFoot,4525,Arsenal,Leicester,2,1,2015-02-10 19:45:00,,Dispossessed,956
+23848,77,SavedShot,0.865,0.34200000762939453,0.3676539957523346,Andrej Kramaric,a,956,OpenPlay,2014,RightFoot,4525,Arsenal,Leicester,2,1,2015-02-10 19:45:00,Riyad Mahrez,Pass,956
+23903,27,MissedShots,0.8390000152587891,0.6430000305175781,0.04699080064892769,Andrej Kramaric,a,956,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,Matthew James,Pass,956
+23904,30,BlockedShot,0.9,0.6409999847412109,0.10086599737405777,Andrej Kramaric,a,956,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,,TakeOn,956
+23926,89,MissedShots,0.8169999694824219,0.4540000152587891,0.05848509818315506,Andrej Kramaric,a,956,OpenPlay,2014,RightFoot,4543,Everton,Leicester,2,2,2015-02-22 14:05:00,David Nugent,Pass,956
+21074,42,SavedShot,0.74,0.45599998474121095,0.01921750046312809,Andrej Kramaric,a,956,OpenPlay,2014,RightFoot,4486,Manchester City,Leicester,2,0,2015-03-04 19:45:00,Esteban Cambiasso,Pass,956
+21073,42,BlockedShot,0.805,0.664000015258789,0.029805399477481842,Andrej Kramaric,a,956,OpenPlay,2014,RightFoot,4486,Manchester City,Leicester,2,0,2015-03-04 19:45:00,Jeffrey Schlupp,Pass,956
+21080,51,BlockedShot,0.8230000305175781,0.7040000152587891,0.08049439638853073,Andrej Kramaric,a,956,DirectFreekick,2014,RightFoot,4486,Manchester City,Leicester,2,0,2015-03-04 19:45:00,,Standard,956
+22869,7,MissedShots,0.815,0.7559999847412109,0.021716399118304253,Andrej Kramaric,h,956,OpenPlay,2014,LeftFoot,4495,Leicester,Hull,0,0,2015-03-14 15:00:00,Matthew James,Pass,956
+22875,36,MissedShots,0.745,0.5870000076293945,0.017683599144220352,Andrej Kramaric,h,956,OpenPlay,2014,RightFoot,4495,Leicester,Hull,0,0,2015-03-14 15:00:00,Esteban Cambiasso,TakeOn,956
+21870,82,BlockedShot,0.8880000305175781,0.5940000152587891,0.33177000284194946,Andrej Kramaric,h,956,OpenPlay,2014,LeftFoot,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Jamie Vardy,Pass,956
+21873,85,MissedShots,0.9069999694824219,0.5129999923706055,0.04765870049595833,Andrej Kramaric,h,956,SetPiece,2014,Head,4442,Leicester,West Ham,2,1,2015-04-04 15:00:00,Matthew James,Aerial,956
+20910,49,MissedShots,0.81,0.5690000152587891,0.07547640055418015,Andrej Kramaric,h,956,OpenPlay,2014,RightFoot,4463,Leicester,Swansea,2,0,2015-04-18 15:00:00,Marc Albrighton,Pass,956
+20913,55,MissedShots,0.8630000305175781,0.585,0.09401150047779083,Andrej Kramaric,h,956,OpenPlay,2014,RightFoot,4463,Leicester,Swansea,2,0,2015-04-18 15:00:00,Jamie Vardy,BallTouch,956
+21987,91,MissedShots,0.855999984741211,0.6359999847412109,0.06966160237789154,Andrej Kramaric,a,956,OpenPlay,2014,LeftFoot,4473,Burnley,Leicester,0,1,2015-04-25 15:00:00,,None,956
+20834,87,BlockedShot,0.8619999694824219,0.29700000762939455,0.043703701347112656,Andrej Kramaric,a,956,OpenPlay,2014,RightFoot,4421,Sunderland,Leicester,0,0,2015-05-16 15:00:00,Jamie Vardy,Pass,956
+20835,91,MissedShots,0.7809999847412109,0.28899999618530275,0.015572000294923782,Andrej Kramaric,a,956,OpenPlay,2014,LeftFoot,4421,Sunderland,Leicester,0,0,2015-05-16 15:00:00,,None,956
+22984,85,Goal,0.92,0.355,0.4131459891796112,Andrej Kramaric,h,956,OpenPlay,2014,RightFoot,4436,Leicester,Queens Park Rangers,5,1,2015-05-24 15:00:00,,None,956
+58368,88,SavedShot,0.9419999694824219,0.5220000076293946,0.4252740144729614,Andrej Kramaric,h,956,OpenPlay,2015,RightFoot,144,Leicester,Arsenal,2,5,2015-09-26 18:00:00,Riyad Mahrez,Cross,956
+80302,40,SavedShot,0.8859999847412109,0.33799999237060546,0.062087301164865494,Andrej Kramaric,a,956,OpenPlay,2015,RightFoot,1191,Bayern Munich,Hoffenheim,2,0,2016-01-31 20:30:00,Jiloan Hamad,Pass,956
+80311,55,MissedShots,0.8819999694824219,0.3840000152587891,0.2650200128555298,Andrej Kramaric,a,956,OpenPlay,2015,RightFoot,1191,Bayern Munich,Hoffenheim,2,0,2016-01-31 20:30:00,Jonathan Schmid,Chipped,956
+80697,16,BlockedShot,0.8919999694824219,0.425,0.0668255016207695,Andrej Kramaric,h,956,FromCorner,2015,RightFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Jonathan Schmid,Pass,956
+80698,23,MissedShots,0.875,0.649000015258789,0.062052201479673386,Andrej Kramaric,h,956,OpenPlay,2015,RightFoot,1200,Hoffenheim,Darmstadt,0,2,2016-02-07 20:30:00,Jonathan Schmid,Chipped,956
+80868,9,Goal,0.9359999847412109,0.5579999923706055,0.1358570009469986,Andrej Kramaric,a,956,OpenPlay,2015,Head,1206,Werder Bremen,Hoffenheim,1,1,2016-02-13 18:30:00,Tobias Strobl,Cross,956
+80880,53,SavedShot,0.8980000305175782,0.4809999847412109,0.05369490012526512,Andrej Kramaric,a,956,OpenPlay,2015,Head,1206,Werder Bremen,Hoffenheim,1,1,2016-02-13 18:30:00,Eduardo Vargas,Chipped,956
+81628,72,BlockedShot,0.865999984741211,0.59,0.08834370225667953,Andrej Kramaric,h,956,OpenPlay,2015,RightFoot,1232,Hoffenheim,Augsburg,2,1,2016-03-02 23:00:00,Kevin Volland,Pass,956
+81759,38,BlockedShot,0.8719999694824219,0.645,0.05929009988903999,Andrej Kramaric,a,956,OpenPlay,2015,RightFoot,1237,VfB Stuttgart,Hoffenheim,5,1,2016-03-05 18:30:00,Jeremy Toljan,Pass,956
+81770,62,MissedShots,0.8919999694824219,0.3060000038146973,0.038051899522542953,Andrej Kramaric,a,956,OpenPlay,2015,RightFoot,1237,VfB Stuttgart,Hoffenheim,5,1,2016-03-05 18:30:00,,None,956
+81772,66,MissedShots,0.8909999847412109,0.6669999694824219,0.08658330142498016,Andrej Kramaric,a,956,OpenPlay,2015,LeftFoot,1237,VfB Stuttgart,Hoffenheim,5,1,2016-03-05 18:30:00,Fabian Schär,Chipped,956
+81773,72,Goal,0.9130000305175782,0.33299999237060546,0.0704990029335022,Andrej Kramaric,a,956,OpenPlay,2015,RightFoot,1237,VfB Stuttgart,Hoffenheim,5,1,2016-03-05 18:30:00,Nadiem Amiri,Pass,956
+82088,2,Goal,0.8680000305175781,0.655,0.3350690007209778,Andrej Kramaric,h,956,OpenPlay,2015,RightFoot,1247,Hoffenheim,Wolfsburg,1,0,2016-03-12 18:30:00,Kevin Volland,TakeOn,956
+82104,59,MissedShots,0.8230000305175781,0.6530000305175782,0.05122629925608635,Andrej Kramaric,h,956,OpenPlay,2015,RightFoot,1247,Hoffenheim,Wolfsburg,1,0,2016-03-12 18:30:00,Philipp Ochs,Pass,956
+82239,3,SavedShot,0.86,0.5970000076293945,0.09940149635076523,Andrej Kramaric,a,956,OpenPlay,2015,RightFoot,1257,Hamburger SV,Hoffenheim,1,3,2016-03-19 18:30:00,Kevin Volland,Pass,956
+82247,19,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,a,956,Penalty,2015,RightFoot,1257,Hamburger SV,Hoffenheim,1,3,2016-03-19 18:30:00,,Standard,956
+82259,56,SavedShot,0.9119999694824219,0.74,0.05671979859471321,Andrej Kramaric,a,956,OpenPlay,2015,LeftFoot,1257,Hamburger SV,Hoffenheim,1,3,2016-03-19 18:30:00,Kevin Volland,BallRecovery,956
+82525,12,SavedShot,0.8969999694824219,0.3160000038146973,0.1137320026755333,Andrej Kramaric,h,956,OpenPlay,2015,RightFoot,1272,Hoffenheim,FC Cologne,1,1,2016-04-03 19:30:00,Kevin Volland,Throughball,956
+82534,45,BlockedShot,0.9080000305175782,0.49900001525878906,0.0828884020447731,Andrej Kramaric,h,956,SetPiece,2015,RightFoot,1272,Hoffenheim,FC Cologne,1,1,2016-04-03 19:30:00,,None,956
+82542,82,BlockedShot,0.7719999694824219,0.524000015258789,0.03293230012059212,Andrej Kramaric,h,956,OpenPlay,2015,RightFoot,1272,Hoffenheim,FC Cologne,1,1,2016-04-03 19:30:00,Sebastian Rudy,Pass,956
+82546,90,SavedShot,0.8630000305175781,0.7480000305175781,0.027885500341653824,Andrej Kramaric,h,956,OpenPlay,2015,RightFoot,1272,Hoffenheim,FC Cologne,1,1,2016-04-03 19:30:00,Ermin Bicakcic,Pass,956
+82747,11,SavedShot,0.7709999847412109,0.345,0.06963899731636047,Andrej Kramaric,a,956,OpenPlay,2015,LeftFoot,1278,Eintracht Frankfurt,Hoffenheim,0,2,2016-04-09 17:30:00,Kevin Volland,Chipped,956
+82752,33,SavedShot,0.894000015258789,0.5870000076293945,0.34206900000572205,Andrej Kramaric,a,956,OpenPlay,2015,RightFoot,1278,Eintracht Frankfurt,Hoffenheim,0,2,2016-04-09 17:30:00,,Rebound,956
+82751,33,SavedShot,0.8880000305175781,0.59,0.06377869844436646,Andrej Kramaric,a,956,OpenPlay,2015,RightFoot,1278,Eintracht Frankfurt,Hoffenheim,0,2,2016-04-09 17:30:00,Eduardo Vargas,Cross,956
+82759,58,BlockedShot,0.870999984741211,0.46700000762939453,0.04836399853229523,Andrej Kramaric,a,956,FromCorner,2015,LeftFoot,1278,Eintracht Frankfurt,Hoffenheim,0,2,2016-04-09 17:30:00,Kevin Volland,Cross,956
+82763,88,SavedShot,0.9380000305175781,0.27299999237060546,0.054348401725292206,Andrej Kramaric,a,956,OpenPlay,2015,RightFoot,1278,Eintracht Frankfurt,Hoffenheim,0,2,2016-04-09 17:30:00,Eugen Polanski,TakeOn,956
+82977,14,SavedShot,0.8190000152587891,0.85,0.012823100201785564,Andrej Kramaric,h,956,OpenPlay,2015,RightFoot,1283,Hoffenheim,Hertha Berlin,2,1,2016-04-16 17:30:00,,Interception,956
+82988,51,BlockedShot,0.850999984741211,0.515,0.09858330339193344,Andrej Kramaric,h,956,OpenPlay,2015,LeftFoot,1283,Hoffenheim,Hertha Berlin,2,1,2016-04-16 17:30:00,Nadiem Amiri,Pass,956
+82990,57,MissedShots,0.815,0.26600000381469724,0.025360599160194397,Andrej Kramaric,h,956,OpenPlay,2015,RightFoot,1283,Hoffenheim,Hertha Berlin,2,1,2016-04-16 17:30:00,Nadiem Amiri,Pass,956
+83083,0,MissedShots,0.825,0.6,0.03725510090589523,Andrej Kramaric,a,956,OpenPlay,2015,RightFoot,1298,Borussia M.Gladbach,Hoffenheim,3,1,2016-04-24 17:30:00,Nadiem Amiri,Chipped,956
+83092,23,SavedShot,0.8480000305175781,0.7,0.024926500394940376,Andrej Kramaric,a,956,OpenPlay,2015,RightFoot,1298,Borussia M.Gladbach,Hoffenheim,3,1,2016-04-24 17:30:00,Fabian Schär,Chipped,956
+83101,53,Goal,0.9230000305175782,0.515,0.44981899857521057,Andrej Kramaric,a,956,OpenPlay,2015,RightFoot,1298,Borussia M.Gladbach,Hoffenheim,3,1,2016-04-24 17:30:00,Kevin Volland,Pass,956
+83115,78,SavedShot,0.7780000305175782,0.20200000762939452,0.007525950204581022,Andrej Kramaric,a,956,OpenPlay,2015,RightFoot,1298,Borussia M.Gladbach,Hoffenheim,3,1,2016-04-24 17:30:00,,None,956
+83451,50,SavedShot,0.889000015258789,0.5829999923706055,0.10506899654865265,Andrej Kramaric,h,956,OpenPlay,2015,LeftFoot,1302,Hoffenheim,Ingolstadt,2,1,2016-04-30 17:30:00,Eugen Polanski,Pass,956
+83452,52,SavedShot,0.885,0.5,0.7577769756317139,Andrej Kramaric,h,956,Penalty,2015,RightFoot,1302,Hoffenheim,Ingolstadt,2,1,2016-04-30 17:30:00,,Standard,956
+83651,4,SavedShot,0.9059999847412109,0.3340000152587891,0.31972798705101013,Andrej Kramaric,a,956,OpenPlay,2015,RightFoot,1315,Hannover 96,Hoffenheim,1,0,2016-05-07 17:30:00,Kevin Volland,Pass,956
+83659,25,BlockedShot,0.7759999847412109,0.735,0.03516890108585358,Andrej Kramaric,a,956,OpenPlay,2015,RightFoot,1315,Hannover 96,Hoffenheim,1,0,2016-05-07 17:30:00,Kevin Volland,Pass,956
+83663,32,MissedShots,0.96,0.534000015258789,0.5849779844284058,Andrej Kramaric,a,956,SetPiece,2015,Head,1315,Hannover 96,Hoffenheim,1,0,2016-05-07 17:30:00,Kevin Volland,Cross,956
+83668,50,BlockedShot,0.759000015258789,0.44099998474121094,0.023203300312161446,Andrej Kramaric,a,956,OpenPlay,2015,RightFoot,1315,Hannover 96,Hoffenheim,1,0,2016-05-07 17:30:00,Nadiem Amiri,Pass,956
+83676,86,MissedShots,0.6909999847412109,0.57,0.011116200126707554,Andrej Kramaric,a,956,OpenPlay,2015,RightFoot,1315,Hannover 96,Hoffenheim,1,0,2016-05-07 17:30:00,Philipp Ochs,Tackle,956
+83847,49,BlockedShot,0.789000015258789,0.5920000076293945,0.035801999270915985,Andrej Kramaric,h,956,OpenPlay,2015,LeftFoot,1322,Hoffenheim,Schalke 04,1,4,2016-05-14 17:30:00,Kevin Volland,Pass,956
+83855,69,SavedShot,0.8419999694824218,0.4640000152587891,0.3036249876022339,Andrej Kramaric,h,956,OpenPlay,2015,RightFoot,1322,Hoffenheim,Schalke 04,1,4,2016-05-14 17:30:00,Sebastian Rudy,Pass,956
+83857,78,SavedShot,0.8580000305175781,0.625,0.10120899975299835,Andrej Kramaric,h,956,OpenPlay,2015,RightFoot,1322,Hoffenheim,Schalke 04,1,4,2016-05-14 17:30:00,Mark Uth,Pass,956
+127536,18,MissedShots,0.7719999694824219,0.6880000305175781,0.022479400038719177,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,1335,Hoffenheim,RasenBallsport Leipzig,2,2,2016-08-28 19:30:00,Lukas Rupp,Pass,956
+127825,20,ShotOnPost,0.8859999847412109,0.4,0.0725959986448288,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,1344,Mainz 05,Hoffenheim,4,4,2016-09-11 19:30:00,,Rebound,956
+127824,20,BlockedShot,0.870999984741211,0.585,0.0259638000279665,Andrej Kramaric,a,956,OpenPlay,2016,Head,1344,Mainz 05,Hoffenheim,4,4,2016-09-11 19:30:00,Ermin Bicakcic,Cross,956
+127833,48,BlockedShot,0.8380000305175781,0.3529999923706055,0.035032499581575394,Andrej Kramaric,a,956,OpenPlay,2016,LeftFoot,1344,Mainz 05,Hoffenheim,4,4,2016-09-11 19:30:00,,None,956
+127846,74,SavedShot,0.904000015258789,0.5120000076293946,0.12545600533485413,Andrej Kramaric,a,956,FromCorner,2016,RightFoot,1344,Mainz 05,Hoffenheim,4,4,2016-09-11 19:30:00,,Rebound,956
+128335,3,BlockedShot,0.8119999694824219,0.6409999847412109,0.03595760092139244,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,1347,Hoffenheim,Wolfsburg,0,0,2016-09-17 17:30:00,,None,956
+128343,13,SavedShot,0.8159999847412109,0.624000015258789,0.10052800178527832,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,1347,Hoffenheim,Wolfsburg,0,0,2016-09-17 17:30:00,Mark Uth,Chipped,956
+128348,22,MissedShots,0.9669999694824218,0.6430000305175781,0.08120279759168625,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,1347,Hoffenheim,Wolfsburg,0,0,2016-09-17 17:30:00,Nadiem Amiri,Pass,956
+128352,37,BlockedShot,0.835,0.639000015258789,0.04726240038871765,Andrej Kramaric,h,956,OpenPlay,2016,LeftFoot,1347,Hoffenheim,Wolfsburg,0,0,2016-09-17 17:30:00,Sandro Wagner,Pass,956
+128359,60,MissedShots,0.745,0.580999984741211,0.016071699559688568,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,1347,Hoffenheim,Wolfsburg,0,0,2016-09-17 17:30:00,Pavel Kaderábek,None,956
+128542,21,BlockedShot,0.894000015258789,0.5070000076293946,0.11593399941921234,Andrej Kramaric,a,956,FromCorner,2016,RightFoot,1356,Darmstadt,Hoffenheim,1,1,2016-09-20 22:00:00,,Rebound,956
+128541,21,BlockedShot,0.865,0.4929999923706055,0.047484900802373886,Andrej Kramaric,a,956,FromCorner,2016,RightFoot,1356,Darmstadt,Hoffenheim,1,1,2016-09-20 22:00:00,Sebastian Rudy,Cross,956
+128546,45,Goal,0.7580000305175781,0.46799999237060547,0.025136400014162064,Andrej Kramaric,a,956,OpenPlay,2016,LeftFoot,1356,Darmstadt,Hoffenheim,1,1,2016-09-20 22:00:00,Sebastian Rudy,Pass,956
+128775,7,MissedShots,0.9219999694824219,0.6270000076293946,0.3508099913597107,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Kerem Demirbay,Throughball,956
+128776,16,Goal,0.915,0.48400001525878905,0.2981809973716736,Andrej Kramaric,h,956,OpenPlay,2016,Head,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Pavel Kaderábek,Cross,956
+128782,43,MissedShots,0.740999984741211,0.5109999847412109,0.0284487996250391,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Pavel Kaderábek,BallRecovery,956
+128789,59,MissedShots,0.785,0.375,0.028742900118231773,Andrej Kramaric,h,956,OpenPlay,2016,LeftFoot,1370,Hoffenheim,Schalke 04,2,1,2016-09-25 17:30:00,Kerem Demirbay,Rebound,956
+128958,18,SavedShot,0.7559999847412109,0.17299999237060548,0.019362300634384155,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,1375,Ingolstadt,Hoffenheim,1,2,2016-10-01 17:30:00,Kerem Demirbay,Pass,956
+128961,30,MissedShots,0.8109999847412109,0.7380000305175781,0.02778109908103943,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,1375,Ingolstadt,Hoffenheim,1,2,2016-10-01 17:30:00,Kerem Demirbay,Pass,956
+128970,64,SavedShot,0.775,0.31,0.11868400126695633,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,1375,Ingolstadt,Hoffenheim,1,2,2016-10-01 17:30:00,Nadiem Amiri,TakeOn,956
+128974,70,MissedShots,0.8619999694824219,0.3370000076293945,0.07588060200214386,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,1375,Ingolstadt,Hoffenheim,1,2,2016-10-01 17:30:00,Sebastian Rudy,Pass,956
+128981,82,BlockedShot,0.8769999694824219,0.590999984741211,0.349139004945755,Andrej Kramaric,a,956,OpenPlay,2016,LeftFoot,1375,Ingolstadt,Hoffenheim,1,2,2016-10-01 17:30:00,,Rebound,956
+128983,88,ShotOnPost,0.8630000305175781,0.544000015258789,0.35481300950050354,Andrej Kramaric,a,956,OpenPlay,2016,LeftFoot,1375,Ingolstadt,Hoffenheim,1,2,2016-10-01 17:30:00,Ádám Szalai,Chipped,956
+128986,90,MissedShots,0.8540000152587891,0.49,0.48136499524116516,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,1375,Ingolstadt,Hoffenheim,1,2,2016-10-01 17:30:00,Lukas Rupp,Throughball,956
+129251,78,BlockedShot,0.7809999847412109,0.44299999237060544,0.03242399916052818,Andrej Kramaric,h,956,OpenPlay,2016,LeftFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Nadiem Amiri,Pass,956
+129252,80,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,h,956,Penalty,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,,Standard,956
+129255,88,BlockedShot,0.9069999694824219,0.6780000305175782,0.08390320092439651,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Nadiem Amiri,Pass,956
+129257,92,BlockedShot,0.879000015258789,0.5109999847412109,0.29696300625801086,Andrej Kramaric,h,956,SetPiece,2016,LeftFoot,1385,Hoffenheim,Freiburg,2,1,2016-10-15 17:30:00,Eugen Polanski,Chipped,956
+129501,11,BlockedShot,0.755,0.669000015258789,0.009625240229070187,Andrej Kramaric,h,956,SetPiece,2016,RightFoot,3306,Hoffenheim,Hertha Berlin,1,0,2016-10-30 18:30:00,,Aerial,956
+129506,23,BlockedShot,0.84,0.6430000305175781,0.03555440157651901,Andrej Kramaric,h,956,FromCorner,2016,RightFoot,3306,Hoffenheim,Hertha Berlin,1,0,2016-10-30 18:30:00,,None,956
+129516,57,MissedShots,0.759000015258789,0.5829999923706055,0.051411498337984085,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3306,Hoffenheim,Hertha Berlin,1,0,2016-10-30 18:30:00,Kerem Demirbay,Pass,956
+129518,72,MissedShots,0.6190000152587891,0.735,0.007136560045182705,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3306,Hoffenheim,Hertha Berlin,1,0,2016-10-30 18:30:00,Kevin Vogt,Chipped,956
+129520,76,SavedShot,0.965,0.615,0.1777449995279312,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3306,Hoffenheim,Hertha Berlin,1,0,2016-10-30 18:30:00,Lukas Rupp,TakeOn,956
+129523,87,SavedShot,0.915,0.46700000762939453,0.5110070109367371,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3306,Hoffenheim,Hertha Berlin,1,0,2016-10-30 18:30:00,Nadiem Amiri,Pass,956
+129530,22,SavedShot,0.8190000152587891,0.6480000305175782,0.03896709904074669,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,2809,Bayern Munich,Hoffenheim,1,1,2016-11-05 18:30:00,Kerem Demirbay,TakeOn,956
+130767,2,MissedShots,0.915,0.505,0.5064359903335571,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,2822,Hoffenheim,Hamburger SV,2,2,2016-11-20 18:30:00,Nadiem Amiri,Pass,956
+130768,4,MissedShots,0.9230000305175782,0.539000015258789,0.0630687028169632,Andrej Kramaric,h,956,OpenPlay,2016,Head,2822,Hoffenheim,Hamburger SV,2,2,2016-11-20 18:30:00,Pavel Kaderábek,Aerial,956
+130771,9,SavedShot,0.9419999694824219,0.6909999847412109,0.04662090167403221,Andrej Kramaric,h,956,FromCorner,2016,RightFoot,2822,Hoffenheim,Hamburger SV,2,2,2016-11-20 18:30:00,Steven Zuber,Pass,956
+130789,59,MissedShots,0.9019999694824219,0.590999984741211,0.08946429938077927,Andrej Kramaric,h,956,OpenPlay,2016,LeftFoot,2822,Hoffenheim,Hamburger SV,2,2,2016-11-20 18:30:00,Nadiem Amiri,Cross,956
+130792,64,MissedShots,0.8859999847412109,0.6790000152587891,0.021398000419139862,Andrej Kramaric,h,956,OpenPlay,2016,LeftFoot,2822,Hoffenheim,Hamburger SV,2,2,2016-11-20 18:30:00,,Aerial,956
+130793,70,MissedShots,0.9180000305175782,0.5990000152587891,0.08885859698057175,Andrej Kramaric,h,956,SetPiece,2016,LeftFoot,2822,Hoffenheim,Hamburger SV,2,2,2016-11-20 18:30:00,Lukas Rupp,Pass,956
+130924,25,MissedShots,0.7390000152587891,0.39,0.01862959936261177,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,2826,Borussia M.Gladbach,Hoffenheim,1,1,2016-11-26 18:30:00,Sandro Wagner,Pass,956
+130939,62,MissedShots,0.6990000152587891,0.4779999923706055,0.015105100348591805,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,2826,Borussia M.Gladbach,Hoffenheim,1,1,2016-11-26 18:30:00,Sebastian Rudy,Pass,956
+130948,79,MissedShots,0.7819999694824219,0.48900001525878906,0.035795100033283234,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,2826,Borussia M.Gladbach,Hoffenheim,1,1,2016-11-26 18:30:00,Niklas Süle,Pass,956
+130716,7,SavedShot,0.7819999694824219,0.5609999847412109,0.0320872999727726,Andrej Kramaric,h,956,OpenPlay,2016,LeftFoot,3196,Hoffenheim,FC Cologne,4,0,2016-12-03 18:30:00,,None,956
+130726,49,SavedShot,0.86,0.5109999847412109,0.04132309928536415,Andrej Kramaric,h,956,SetPiece,2016,Head,3196,Hoffenheim,FC Cologne,4,0,2016-12-03 18:30:00,Sebastian Rudy,Chipped,956
+131677,88,SavedShot,0.89,0.509000015258789,0.3167969882488251,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Pavel Kaderábek,Chipped,956
+131678,90,MissedShots,0.795,0.33599998474121096,0.02000119909644127,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3210,Hoffenheim,Borussia Dortmund,2,2,2016-12-16 19:30:00,Pavel Kaderábek,HeadPass,956
+130387,74,MissedShots,0.92,0.645,0.09144839644432068,Andrej Kramaric,h,956,OpenPlay,2016,LeftFoot,3224,Hoffenheim,Werder Bremen,1,1,2016-12-21 23:00:00,,None,956
+130672,59,BlockedShot,0.825999984741211,0.7480000305175781,0.029483700171113014,Andrej Kramaric,a,956,OpenPlay,2016,LeftFoot,3725,Augsburg,Hoffenheim,0,2,2017-01-21 17:30:00,Nadiem Amiri,Pass,956
+130673,63,Goal,0.9630000305175781,0.505,0.7919960021972656,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3725,Augsburg,Hoffenheim,0,2,2017-01-21 17:30:00,Mark Uth,Pass,956
+132317,16,BlockedShot,0.8159999847412109,0.325,0.05839589983224869,Andrej Kramaric,h,956,OpenPlay,2016,LeftFoot,3742,Hoffenheim,Mainz 05,4,0,2017-02-04 14:30:00,Pavel Kaderábek,Pass,956
+132332,50,BlockedShot,0.8090000152587891,0.5259999847412109,0.11687500029802322,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3742,Hoffenheim,Mainz 05,4,0,2017-02-04 14:30:00,Mark Uth,Chipped,956
+131796,50,MissedShots,0.94,0.3729999923706055,0.02655700035393238,Andrej Kramaric,h,956,FromCorner,2016,Head,3760,Hoffenheim,Darmstadt,2,0,2017-02-18 14:30:00,Sebastian Rudy,Cross,956
+131799,60,SavedShot,0.745999984741211,0.5,0.01162210013717413,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3760,Hoffenheim,Darmstadt,2,0,2017-02-18 14:30:00,,Aerial,956
+131800,62,SavedShot,0.7909999847412109,0.654000015258789,0.05289680138230324,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3760,Hoffenheim,Darmstadt,2,0,2017-02-18 14:30:00,Marco Terrazzino,Pass,956
+131802,63,Goal,0.9359999847412109,0.34700000762939454,0.1097320020198822,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3760,Hoffenheim,Darmstadt,2,0,2017-02-18 14:30:00,Marco Terrazzino,Throughball,956
+131806,92,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,h,956,Penalty,2016,RightFoot,3760,Hoffenheim,Darmstadt,2,0,2017-02-18 14:30:00,,Standard,956
+133291,76,Goal,0.8580000305175781,0.5220000076293946,0.3171460032463074,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3780,Hoffenheim,Ingolstadt,5,2,2017-03-04 14:30:00,Kerem Demirbay,Pass,956
+133295,85,SavedShot,0.9369999694824219,0.4540000152587891,0.14774000644683838,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3780,Hoffenheim,Ingolstadt,5,2,2017-03-04 14:30:00,,TakeOn,956
+133298,89,MissedShots,0.9490000152587891,0.7090000152587891,0.08425319939851761,Andrej Kramaric,h,956,OpenPlay,2016,LeftFoot,3780,Hoffenheim,Ingolstadt,5,2,2017-03-04 14:30:00,Kevin Vogt,TakeOn,956
+134126,17,BlockedShot,0.875999984741211,0.5279999923706055,0.08818080276250839,Andrej Kramaric,a,956,OpenPlay,2016,LeftFoot,3788,Freiburg,Hoffenheim,1,1,2017-03-11 14:30:00,Steven Zuber,Chipped,956
+134130,24,SavedShot,0.8009999847412109,0.6880000305175781,0.01697240024805069,Andrej Kramaric,a,956,SetPiece,2016,RightFoot,3788,Freiburg,Hoffenheim,1,1,2017-03-11 14:30:00,,Rebound,956
+134129,24,BlockedShot,0.8009999847412109,0.6880000305175781,0.07659900188446045,Andrej Kramaric,a,956,DirectFreekick,2016,RightFoot,3788,Freiburg,Hoffenheim,1,1,2017-03-11 14:30:00,,Standard,956
+134134,35,SavedShot,0.7290000152587891,0.3160000038146973,0.01950939930975437,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3788,Freiburg,Hoffenheim,1,1,2017-03-11 14:30:00,Sebastian Rudy,Pass,956
+134140,59,Goal,0.8030000305175782,0.639000015258789,0.03482450172305107,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3788,Freiburg,Hoffenheim,1,1,2017-03-11 14:30:00,Benjamin Hübner,Pass,956
+132718,2,BlockedShot,0.9490000152587891,0.655,0.08735200017690659,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3799,Hoffenheim,Bayer Leverkusen,1,0,2017-03-18 14:30:00,Sandro Wagner,Pass,956
+133075,7,SavedShot,0.8619999694824219,0.23899999618530274,0.027254100888967514,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3803,Hertha Berlin,Hoffenheim,1,3,2017-03-31 19:30:00,Jeremy Toljan,Pass,956
+133078,7,MissedShots,0.9259999847412109,0.47299999237060547,0.13785600662231445,Andrej Kramaric,a,956,FromCorner,2016,RightFoot,3803,Hertha Berlin,Hoffenheim,1,3,2017-03-31 19:30:00,,Rebound,956
+133077,7,BlockedShot,0.9259999847412109,0.47299999237060547,0.13785600662231445,Andrej Kramaric,a,956,FromCorner,2016,LeftFoot,3803,Hertha Berlin,Hoffenheim,1,3,2017-03-31 19:30:00,,Rebound,956
+133083,24,MissedShots,0.750999984741211,0.6619999694824219,0.018414700403809547,Andrej Kramaric,a,956,OpenPlay,2016,LeftFoot,3803,Hertha Berlin,Hoffenheim,1,3,2017-03-31 19:30:00,Nadiem Amiri,Pass,956
+133086,38,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,a,956,Penalty,2016,RightFoot,3803,Hertha Berlin,Hoffenheim,1,3,2017-03-31 19:30:00,,Standard,956
+133088,43,MissedShots,0.7619999694824219,0.6029999923706054,0.024361800402402878,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3803,Hertha Berlin,Hoffenheim,1,3,2017-03-31 19:30:00,Nadiem Amiri,Pass,956
+133095,58,MissedShots,0.875,0.4779999923706055,0.06095400080084801,Andrej Kramaric,a,956,SetPiece,2016,RightFoot,3803,Hertha Berlin,Hoffenheim,1,3,2017-03-31 19:30:00,Sebastian Rudy,Cross,956
+133099,65,ShotOnPost,0.8080000305175781,0.500999984741211,0.04174640029668808,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3803,Hertha Berlin,Hoffenheim,1,3,2017-03-31 19:30:00,,Rebound,956
+133098,65,ShotOnPost,0.784000015258789,0.4779999923706055,0.0336511991918087,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3803,Hertha Berlin,Hoffenheim,1,3,2017-03-31 19:30:00,Sandro Wagner,Pass,956
+133106,85,Goal,0.9830000305175781,0.48200000762939454,0.9775339961051941,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3803,Hertha Berlin,Hoffenheim,1,3,2017-03-31 19:30:00,Sandro Wagner,Pass,956
+134335,1,BlockedShot,0.88,0.40799999237060547,0.12335100024938583,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3815,Hoffenheim,Bayern Munich,1,0,2017-04-04 19:00:00,Kerem Demirbay,Throughball,956
+134337,7,MissedShots,0.8280000305175781,0.41900001525878905,0.06116209924221039,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3815,Hoffenheim,Bayern Munich,1,0,2017-04-04 19:00:00,,BallRecovery,956
+134345,20,Goal,0.775,0.45799999237060546,0.02957179956138134,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3815,Hoffenheim,Bayern Munich,1,0,2017-04-04 19:00:00,,None,956
+134361,66,MissedShots,0.9,0.40599998474121096,0.10546199977397919,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3815,Hoffenheim,Bayern Munich,1,0,2017-04-04 19:00:00,Steven Zuber,Chipped,956
+134709,34,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,a,956,Penalty,2016,RightFoot,3826,Hamburger SV,Hoffenheim,2,1,2017-04-08 14:30:00,,Standard,956
+134717,75,BlockedShot,0.7290000152587891,0.34200000762939453,0.015017800033092499,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3826,Hamburger SV,Hoffenheim,2,1,2017-04-08 14:30:00,Sandro Wagner,Pass,956
+134720,79,SavedShot,0.8430000305175781,0.6020000076293945,0.053931400179862976,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3826,Hamburger SV,Hoffenheim,2,1,2017-04-08 14:30:00,Mark Uth,Chipped,956
+133113,20,MissedShots,0.9159999847412109,0.6880000305175781,0.0397087000310421,Andrej Kramaric,h,956,OpenPlay,2016,LeftFoot,3838,Hoffenheim,Borussia M.Gladbach,5,3,2017-04-15 14:30:00,Sebastian Rudy,Cross,956
+133114,21,ShotOnPost,0.735,0.3509999847412109,0.01986289955675602,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3838,Hoffenheim,Borussia M.Gladbach,5,3,2017-04-15 14:30:00,,BallRecovery,956
+133129,88,MissedShots,0.9380000305175781,0.3659999847412109,0.11434599757194519,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3838,Hoffenheim,Borussia M.Gladbach,5,3,2017-04-15 14:30:00,Kerem Demirbay,Pass,956
+133740,3,MissedShots,0.955999984741211,0.6430000305175781,0.07307259738445282,Andrej Kramaric,a,956,OpenPlay,2016,LeftFoot,3842,FC Cologne,Hoffenheim,1,1,2017-04-21 19:30:00,Steven Zuber,Chipped,956
+133742,13,SavedShot,0.7119999694824218,0.37099998474121093,0.01606619916856289,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3842,FC Cologne,Hoffenheim,1,1,2017-04-21 19:30:00,Ádám Szalai,Pass,956
+134692,6,BlockedShot,0.899000015258789,0.6930000305175781,0.0462225005030632,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3852,Hoffenheim,Eintracht Frankfurt,1,0,2017-04-30 16:30:00,Kerem Demirbay,Chipped,956
+134696,29,BlockedShot,0.8330000305175781,0.6179999923706054,0.05727300047874451,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3852,Hoffenheim,Eintracht Frankfurt,1,0,2017-04-30 16:30:00,Kerem Demirbay,Pass,956
+134860,85,Goal,0.885,0.5,0.7576149702072144,Andrej Kramaric,a,956,Penalty,2016,RightFoot,3860,Borussia Dortmund,Hoffenheim,2,1,2017-05-06 14:30:00,,Standard,956
+133333,10,Goal,0.925,0.67,0.0731801986694336,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Ádám Szalai,Chipped,956
+133343,48,Goal,0.865,0.655,0.07015799731016159,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Steven Zuber,Pass,956
+133345,50,SavedShot,0.8569999694824219,0.5670000076293945,0.0859208032488823,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,,None,956
+133358,86,SavedShot,0.8569999694824219,0.34,0.30827000737190247,Andrej Kramaric,a,956,OpenPlay,2016,RightFoot,3871,Werder Bremen,Hoffenheim,3,5,2017-05-13 14:30:00,Kerem Demirbay,Chipped,956
+128001,2,MissedShots,0.7780000305175782,0.4229999923706055,0.02202419936656952,Andrej Kramaric,h,956,FromCorner,2016,LeftFoot,3881,Hoffenheim,Augsburg,0,0,2017-05-20 14:30:00,,None,956
+128009,42,SavedShot,0.7030000305175781,0.6419999694824219,0.03600820153951645,Andrej Kramaric,h,956,DirectFreekick,2016,RightFoot,3881,Hoffenheim,Augsburg,0,0,2017-05-20 14:30:00,,Standard,956
+128017,67,ShotOnPost,0.7719999694824219,0.5429999923706055,0.04768339917063713,Andrej Kramaric,h,956,OpenPlay,2016,RightFoot,3881,Hoffenheim,Augsburg,0,0,2017-05-20 14:30:00,Ádám Szalai,Pass,956
+165815,83,Goal,0.7340000152587891,0.5879999923706055,0.01718270033597946,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8260,Hoffenheim,Werder Bremen,1,0,2017-08-19 14:30:00,Ádám Szalai,Dispossessed,956
+166128,46,Goal,0.895,0.61,0.28615498542785645,Andrej Kramaric,a,956,OpenPlay,2017,LeftFoot,8271,Bayer Leverkusen,Hoffenheim,2,2,2017-08-26 14:30:00,Sandro Wagner,Chipped,956
+166135,73,BlockedShot,0.8919999694824219,0.7440000152587891,0.033267900347709656,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8271,Bayer Leverkusen,Hoffenheim,2,2,2017-08-26 14:30:00,Jeremy Toljan,Pass,956
+167190,61,MissedShots,0.9369999694824219,0.5790000152587891,0.08168990164995193,Andrej Kramaric,h,956,FromCorner,2017,Head,8292,Hoffenheim,Hertha Berlin,1,1,2017-09-17 12:30:00,Kerem Demirbay,Cross,956
+167194,82,BlockedShot,0.845999984741211,0.3340000152587891,0.04675399884581566,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8292,Hoffenheim,Hertha Berlin,1,1,2017-09-17 12:30:00,Kerem Demirbay,Pass,956
+167223,65,MissedShots,0.7609999847412109,0.47,0.026829000562429428,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8303,Mainz 05,Hoffenheim,2,3,2017-09-20 19:30:00,Benjamin Hübner,Pass,956
+167230,75,MissedShots,0.8859999847412109,0.4809999847412109,0.06010400131344795,Andrej Kramaric,a,956,OpenPlay,2017,Head,8303,Mainz 05,Hoffenheim,2,3,2017-09-20 19:30:00,Nico Schulz,Cross,956
+167232,91,SavedShot,0.759000015258789,0.37400001525878906,0.0638376995921135,Andrej Kramaric,a,956,DirectFreekick,2017,RightFoot,8303,Mainz 05,Hoffenheim,2,3,2017-09-20 19:30:00,,Standard,956
+166661,89,SavedShot,0.7280000305175781,0.5570000076293945,0.052429698407649994,Andrej Kramaric,h,956,DirectFreekick,2017,RightFoot,8309,Hoffenheim,Schalke 04,2,0,2017-09-23 14:30:00,,Standard,956
+167048,23,BlockedShot,0.725,0.27100000381469724,0.037198200821876526,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8316,Freiburg,Hoffenheim,3,2,2017-10-01 12:30:00,Lukas Rupp,Chipped,956
+167054,50,BlockedShot,0.9319999694824219,0.7530000305175781,0.04673689976334572,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8316,Freiburg,Hoffenheim,3,2,2017-10-01 12:30:00,Steven Zuber,TakeOn,956
+167065,82,SavedShot,0.7880000305175782,0.7390000152587891,0.01948460005223751,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8316,Freiburg,Hoffenheim,3,2,2017-10-01 12:30:00,Sandro Wagner,Pass,956
+167636,47,SavedShot,0.855,0.620999984741211,0.07034909725189209,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8324,Hoffenheim,Augsburg,2,2,2017-10-14 14:30:00,Dennis Geiger,Pass,956
+167638,51,BlockedShot,0.870999984741211,0.5820000076293945,0.05577630177140236,Andrej Kramaric,h,956,FromCorner,2017,RightFoot,8324,Hoffenheim,Augsburg,2,2,2017-10-14 14:30:00,,BallTouch,956
+167643,66,MissedShots,0.91,0.5670000076293945,0.2941820025444031,Andrej Kramaric,h,956,OpenPlay,2017,Head,8324,Hoffenheim,Augsburg,2,2,2017-10-14 14:30:00,Pavel Kaderábek,Cross,956
+167648,72,MissedShots,0.794000015258789,0.72,0.062077999114990234,Andrej Kramaric,h,956,DirectFreekick,2017,RightFoot,8324,Hoffenheim,Augsburg,2,2,2017-10-14 14:30:00,,Standard,956
+167658,92,MissedShots,0.735,0.38,0.050675198435783386,Andrej Kramaric,h,956,DirectFreekick,2017,RightFoot,8324,Hoffenheim,Augsburg,2,2,2017-10-14 14:30:00,,Standard,956
+168419,12,SavedShot,0.865999984741211,0.6719999694824219,0.0578170008957386,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8339,Wolfsburg,Hoffenheim,1,1,2017-10-22 17:00:00,Sandro Wagner,BallRecovery,956
+168421,18,BlockedShot,0.77,0.6809999847412109,0.03645839914679527,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8339,Wolfsburg,Hoffenheim,1,1,2017-10-22 17:00:00,Kevin Vogt,Pass,956
+168428,43,BlockedShot,0.825999984741211,0.33799999237060546,0.03736079856753349,Andrej Kramaric,a,956,OpenPlay,2017,LeftFoot,8339,Wolfsburg,Hoffenheim,1,1,2017-10-22 17:00:00,,None,956
+168429,52,MissedShots,0.9030000305175782,0.34,0.2793790102005005,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8339,Wolfsburg,Hoffenheim,1,1,2017-10-22 17:00:00,Kerem Demirbay,Pass,956
+168439,79,SavedShot,0.805,0.62,0.05847499892115593,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8339,Wolfsburg,Hoffenheim,1,1,2017-10-22 17:00:00,Kevin Vogt,Pass,956
+168559,86,MissedShots,0.84,0.4809999847412109,0.07574740052223206,Andrej Kramaric,h,956,OpenPlay,2017,LeftFoot,8341,Hoffenheim,Borussia M.Gladbach,1,3,2017-10-28 14:30:00,Sandro Wagner,LayOff,956
+168626,67,BlockedShot,0.7530000305175781,0.6840000152587891,0.017715100198984146,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8374,Hamburger SV,Hoffenheim,3,0,2017-11-26 14:30:00,Nico Schulz,Pass,956
+168891,86,SavedShot,0.9069999694824219,0.7119999694824218,0.08237239718437195,Andrej Kramaric,h,956,OpenPlay,2017,LeftFoot,8377,Hoffenheim,RasenBallsport Leipzig,4,0,2017-12-02 14:30:00,Mark Uth,Chipped,956
+179782,62,MissedShots,0.879000015258789,0.4640000152587891,0.28468701243400574,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8388,Hannover 96,Hoffenheim,2,0,2017-12-10 14:30:00,Pavel Kaderábek,BallTouch,956
+184149,76,MissedShots,0.735999984741211,0.519000015258789,0.020288800820708275,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8403,Borussia Dortmund,Hoffenheim,2,1,2017-12-16 17:30:00,Kerem Demirbay,Pass,956
+187224,64,SavedShot,0.9319999694824219,0.53,0.5395910143852234,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8415,Werder Bremen,Hoffenheim,1,1,2018-01-13 14:30:00,Pavel Kaderábek,Pass,956
+187230,77,MissedShots,0.764000015258789,0.675,0.057338401675224304,Andrej Kramaric,a,956,DirectFreekick,2017,RightFoot,8415,Werder Bremen,Hoffenheim,1,1,2018-01-13 14:30:00,,Standard,956
+189822,80,SavedShot,0.775,0.6140000152587891,0.025536399334669113,Andrej Kramaric,a,956,OpenPlay,2017,LeftFoot,8431,Bayern Munich,Hoffenheim,5,2,2018-01-27 14:30:00,Serge Gnabry,Pass,956
+194707,6,MissedShots,0.7240000152587891,0.47200000762939454,0.01598850078880787,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8439,Hertha Berlin,Hoffenheim,1,1,2018-02-03 14:30:00,Dennis Geiger,Interception,956
+194709,25,BlockedShot,0.8419999694824218,0.3529999923706055,0.04836820065975189,Andrej Kramaric,a,956,OpenPlay,2017,LeftFoot,8439,Hertha Berlin,Hoffenheim,1,1,2018-02-03 14:30:00,Serge Gnabry,Pass,956
+194713,37,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,a,956,Penalty,2017,RightFoot,8439,Hertha Berlin,Hoffenheim,1,1,2018-02-03 14:30:00,,Standard,956
+194714,40,BlockedShot,0.87,0.38299999237060545,0.09911999851465225,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8439,Hertha Berlin,Hoffenheim,1,1,2018-02-03 14:30:00,Nadiem Amiri,Pass,956
+194716,41,MissedShots,0.8569999694824219,0.5790000152587891,0.09470350295305252,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8439,Hertha Berlin,Hoffenheim,1,1,2018-02-03 14:30:00,Nico Schulz,Pass,956
+194724,81,MissedShots,0.765,0.534000015258789,0.02757819928228855,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8439,Hertha Berlin,Hoffenheim,1,1,2018-02-03 14:30:00,Florian Grillitsch,Pass,956
+194995,2,ShotOnPost,0.9209999847412109,0.5629999923706055,0.09955629706382751,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8454,Hoffenheim,Mainz 05,4,2,2018-02-10 14:30:00,Nico Schulz,Cross,956
+194997,20,MissedShots,0.8390000152587891,0.6880000305175781,0.035929299890995026,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8454,Hoffenheim,Mainz 05,4,2,2018-02-10 14:30:00,,None,956
+195013,61,BlockedShot,0.779000015258789,0.5479999923706055,0.01604910008609295,Andrej Kramaric,h,956,FromCorner,2017,RightFoot,8454,Hoffenheim,Mainz 05,4,2,2018-02-10 14:30:00,,Aerial,956
+195017,66,Goal,0.9780000305175781,0.509000015258789,0.853941023349762,Andrej Kramaric,h,956,SetPiece,2017,RightFoot,8454,Hoffenheim,Mainz 05,4,2,2018-02-10 14:30:00,,None,956
+195016,66,SavedShot,0.9630000305175781,0.53,0.6924639940261841,Andrej Kramaric,h,956,SetPiece,2017,RightFoot,8454,Hoffenheim,Mainz 05,4,2,2018-02-10 14:30:00,,Rebound,956
+195019,75,MissedShots,0.8030000305175782,0.645,0.03649590164422989,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8454,Hoffenheim,Mainz 05,4,2,2018-02-10 14:30:00,Serge Gnabry,Pass,956
+195022,83,MissedShots,0.8519999694824218,0.710999984741211,0.04563229903578758,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8454,Hoffenheim,Mainz 05,4,2,2018-02-10 14:30:00,Ermin Bicakcic,Pass,956
+195023,87,Goal,0.725,0.5109999847412109,0.052332598716020584,Andrej Kramaric,h,956,DirectFreekick,2017,RightFoot,8454,Hoffenheim,Mainz 05,4,2,2018-02-10 14:30:00,,Standard,956
+196411,52,MissedShots,0.8830000305175781,0.624000015258789,0.008887680247426033,Andrej Kramaric,a,956,SetPiece,2017,Head,8461,Schalke 04,Hoffenheim,2,1,2018-02-17 17:30:00,Nadiem Amiri,Aerial,956
+196419,73,SavedShot,0.7380000305175781,0.6669999694824219,0.013410800136625767,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8461,Schalke 04,Hoffenheim,2,1,2018-02-17 17:30:00,Mark Uth,Pass,956
+196420,77,Goal,0.9159999847412109,0.4779999923706055,0.06885109841823578,Andrej Kramaric,a,956,OpenPlay,2017,Head,8461,Schalke 04,Hoffenheim,2,1,2018-02-17 17:30:00,Pavel Kaderábek,Aerial,956
+197299,56,Goal,0.774000015258789,0.43,0.08685120195150375,Andrej Kramaric,h,956,DirectFreekick,2017,RightFoot,8469,Hoffenheim,Freiburg,1,1,2018-02-24 14:30:00,,Standard,956
+198789,16,SavedShot,0.875,0.33099998474121095,0.056214701384305954,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Florian Grillitsch,BallRecovery,956
+198793,25,BlockedShot,0.8730000305175781,0.524000015258789,0.03534799814224243,Andrej Kramaric,a,956,OpenPlay,2017,Head,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Nico Schulz,Cross,956
+198795,29,Goal,0.860999984741211,0.4759999847412109,0.03171810135245323,Andrej Kramaric,a,956,OpenPlay,2017,Head,8481,Augsburg,Hoffenheim,0,2,2018-03-03 14:30:00,Benjamin Hübner,Cross,956
+199914,0,BlockedShot,0.7530000305175781,0.40400001525878904,0.020885000005364418,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,,BallRecovery,956
+199917,15,SavedShot,0.81,0.27700000762939453,0.02247380092740059,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Pavel Kaderábek,Pass,956
+199920,25,BlockedShot,0.85,0.38599998474121094,0.08380559831857681,Andrej Kramaric,h,956,OpenPlay,2017,LeftFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Dennis Geiger,Pass,956
+199923,31,BlockedShot,0.91,0.62,0.1050029993057251,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,,Rebound,956
+199925,39,SavedShot,0.86,0.634000015258789,0.08215100318193436,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8486,Hoffenheim,Wolfsburg,3,0,2018-03-10 14:30:00,Dennis Geiger,Pass,956
+201303,27,MissedShots,0.8569999694824219,0.519000015258789,0.34167900681495667,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Nico Schulz,Pass,956
+201312,57,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,a,956,Penalty,2017,RightFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,,Standard,956
+201317,75,MissedShots,0.6980000305175781,0.4,0.01881200075149536,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,Pavel Kaderábek,Pass,956
+201328,91,SavedShot,0.8490000152587891,0.519000015258789,0.0693167969584465,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8496,Borussia M.Gladbach,Hoffenheim,3,3,2018-03-17 14:30:00,,None,956
+204510,39,SavedShot,0.7069999694824218,0.47299999237060547,0.04313429817557335,Andrej Kramaric,h,956,DirectFreekick,2017,RightFoot,8506,Hoffenheim,FC Cologne,6,0,2018-03-31 14:30:00,,Standard,956
+204512,47,MissedShots,0.9540000152587891,0.4640000152587891,0.5421040058135986,Andrej Kramaric,h,956,OpenPlay,2017,Head,8506,Hoffenheim,FC Cologne,6,0,2018-03-31 14:30:00,Nico Schulz,Cross,956
+207350,18,BlockedShot,0.8590000152587891,0.5109999847412109,0.07536359876394272,Andrej Kramaric,a,956,OpenPlay,2017,LeftFoot,8516,Eintracht Frankfurt,Hoffenheim,1,1,2018-04-08 16:00:00,,None,956
+207356,36,ShotOnPost,0.7369999694824219,0.5870000076293945,0.02089410088956356,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8516,Eintracht Frankfurt,Hoffenheim,1,1,2018-04-08 16:00:00,Lukas Rupp,Pass,956
+208332,28,BlockedShot,0.9430000305175781,0.345,0.13702499866485596,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8521,Hoffenheim,Hamburger SV,2,0,2018-04-14 13:30:00,Ádám Szalai,Throughball,956
+208342,47,BlockedShot,0.784000015258789,0.39099998474121095,0.08852030336856842,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8521,Hoffenheim,Hamburger SV,2,0,2018-04-14 13:30:00,Nadiem Amiri,Pass,956
+208355,83,SavedShot,0.8519999694824218,0.620999984741211,0.11245899647474289,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8521,Hoffenheim,Hamburger SV,2,0,2018-04-14 13:30:00,Kerem Demirbay,Pass,956
+210331,60,BlockedShot,0.909000015258789,0.42900001525878906,0.11707700043916702,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8530,RasenBallsport Leipzig,Hoffenheim,2,5,2018-04-21 13:30:00,Nadiem Amiri,Pass,956
+210334,73,MissedShots,0.805,0.37,0.04215409979224205,Andrej Kramaric,a,956,OpenPlay,2017,LeftFoot,8530,RasenBallsport Leipzig,Hoffenheim,2,5,2018-04-21 13:30:00,Nadiem Amiri,Pass,956
+211381,6,SavedShot,0.9009999847412109,0.6759999847412109,0.0587288998067379,Andrej Kramaric,h,956,SetPiece,2017,RightFoot,8539,Hoffenheim,Hannover 96,3,1,2018-04-27 18:30:00,Nadiem Amiri,Chipped,956
+211383,15,Goal,0.965999984741211,0.49900001525878906,0.9203190207481384,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8539,Hoffenheim,Hannover 96,3,1,2018-04-27 18:30:00,Serge Gnabry,Pass,956
+211392,49,Goal,0.895,0.37900001525878907,0.04257870092988014,Andrej Kramaric,h,956,FromCorner,2017,RightFoot,8539,Hoffenheim,Hannover 96,3,1,2018-04-27 18:30:00,Kerem Demirbay,Cross,956
+211394,53,BlockedShot,0.8809999847412109,0.7119999694824218,0.07412400096654892,Andrej Kramaric,h,956,OpenPlay,2017,LeftFoot,8539,Hoffenheim,Hannover 96,3,1,2018-04-27 18:30:00,Kerem Demirbay,Pass,956
+211408,85,Goal,0.7040000152587891,0.62,0.0564224012196064,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8539,Hoffenheim,Hannover 96,3,1,2018-04-27 18:30:00,Nico Schulz,Chipped,956
+213111,8,SavedShot,0.8830000305175781,0.38599998474121094,0.0972713977098465,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8549,VfB Stuttgart,Hoffenheim,2,0,2018-05-05 14:30:00,Mark Uth,Pass,956
+213112,11,MissedShots,0.8590000152587891,0.6229999923706054,0.06735330075025558,Andrej Kramaric,a,956,OpenPlay,2017,LeftFoot,8549,VfB Stuttgart,Hoffenheim,2,0,2018-05-05 14:30:00,Nadiem Amiri,Pass,956
+213118,56,BlockedShot,0.764000015258789,0.6270000076293946,0.023957600817084312,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8549,VfB Stuttgart,Hoffenheim,2,0,2018-05-05 14:30:00,Mark Uth,Pass,956
+213120,59,BlockedShot,0.8419999694824218,0.705999984741211,0.03201660141348839,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8549,VfB Stuttgart,Hoffenheim,2,0,2018-05-05 14:30:00,Nico Schulz,Pass,956
+213126,77,SavedShot,0.7469999694824219,0.504000015258789,0.01874700002372265,Andrej Kramaric,a,956,OpenPlay,2017,RightFoot,8549,VfB Stuttgart,Hoffenheim,2,0,2018-05-05 14:30:00,Nadiem Amiri,Pass,956
+213132,90,SavedShot,0.77,0.33299999237060546,0.016489699482917786,Andrej Kramaric,a,956,FromCorner,2017,RightFoot,8549,VfB Stuttgart,Hoffenheim,2,0,2018-05-05 14:30:00,,None,956
+214533,19,SavedShot,0.73,0.575,0.0166011992841959,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8557,Hoffenheim,Borussia Dortmund,3,1,2018-05-12 14:30:00,Ádám Szalai,Pass,956
+214534,25,Goal,0.8319999694824218,0.6079999923706054,0.05874300003051758,Andrej Kramaric,h,956,OpenPlay,2017,RightFoot,8557,Hoffenheim,Borussia Dortmund,3,1,2018-05-12 14:30:00,Mark Uth,BallRecovery,956
+221610,64,BlockedShot,0.85,0.7480000305175781,0.034555498510599136,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Nico Schulz,Pass,956
+221611,68,MissedShots,0.7780000305175782,0.49400001525878906,0.04580580070614815,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Leonardo Bittencourt,Pass,956
+221617,87,MissedShots,0.740999984741211,0.46900001525878904,0.03967700153589249,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Ádám Szalai,LayOff,956
+221619,93,Goal,0.9319999694824219,0.5429999923706055,0.6313269734382629,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10350,Hoffenheim,Freiburg,3,1,2018-09-01 13:30:00,Leonardo Bittencourt,Rebound,956
+223483,30,SavedShot,0.865,0.625,0.17871899902820587,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10359,Fortuna Duesseldorf,Hoffenheim,2,1,2018-09-15 13:30:00,Leonardo Bittencourt,TakeOn,956
+223484,31,MissedShots,0.9580000305175781,0.54,0.6806349754333496,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10359,Fortuna Duesseldorf,Hoffenheim,2,1,2018-09-15 13:30:00,Joelinton,Pass,956
+223496,74,MissedShots,0.76,0.40299999237060546,0.023896699771285057,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10359,Fortuna Duesseldorf,Hoffenheim,2,1,2018-09-15 13:30:00,Florian Grillitsch,Pass,956
+223497,77,BlockedShot,0.91,0.47200000762939454,0.08896449953317642,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10359,Fortuna Duesseldorf,Hoffenheim,2,1,2018-09-15 13:30:00,Pavel Kaderábek,Cross,956
+223503,83,MissedShots,0.7480000305175781,0.3629999923706055,0.019388899207115173,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10359,Fortuna Duesseldorf,Hoffenheim,2,1,2018-09-15 13:30:00,Nico Schulz,Pass,956
+224879,23,BlockedShot,0.7980000305175782,0.7269999694824218,0.023346399888396263,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10365,Hoffenheim,Borussia Dortmund,1,1,2018-09-22 13:30:00,Kevin Vogt,LayOff,956
+224881,27,MissedShots,0.8019999694824219,0.35400001525878905,0.023932799696922302,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10365,Hoffenheim,Borussia Dortmund,1,1,2018-09-22 13:30:00,,Rebound,956
+224887,48,BlockedShot,0.8490000152587891,0.5429999923706055,0.10601600259542465,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10365,Hoffenheim,Borussia Dortmund,1,1,2018-09-22 13:30:00,Steven Zuber,Pass,956
+224895,77,MissedShots,0.745999984741211,0.4620000076293945,0.06518690288066864,Andrej Kramaric,h,956,DirectFreekick,2018,RightFoot,10365,Hoffenheim,Borussia Dortmund,1,1,2018-09-22 13:30:00,,Standard,956
+226267,73,BlockedShot,0.8809999847412109,0.5070000076293946,0.12812800705432892,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10374,Hannover 96,Hoffenheim,1,3,2018-09-25 18:30:00,Joelinton,Pass,956
+226268,74,SavedShot,0.7480000305175781,0.580999984741211,0.027669699862599373,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10374,Hannover 96,Hoffenheim,1,3,2018-09-25 18:30:00,Pavel Kaderábek,Pass,956
+226273,83,BlockedShot,0.8119999694824219,0.6090000152587891,0.056565698236227036,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10374,Hannover 96,Hoffenheim,1,3,2018-09-25 18:30:00,Ádám Szalai,Pass,956
+227861,84,BlockedShot,0.7580000305175781,0.4209999847412109,0.01807199977338314,Andrej Kramaric,h,956,OpenPlay,2018,LeftFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,Vincenzo Grifo,Chipped,956
+227864,92,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,h,956,Penalty,2018,RightFoot,10385,Hoffenheim,RasenBallsport Leipzig,1,2,2018-09-29 13:30:00,,Standard,956
+255552,22,SavedShot,0.7330000305175781,0.6459999847412109,0.01656549982726574,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Nico Schulz,Pass,956
+255554,24,SavedShot,0.765,0.5579999923706055,0.03219839930534363,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Reiss Nelson,TakeOn,956
+255555,30,SavedShot,0.8419999694824218,0.46,0.06526610255241394,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Reiss Nelson,Pass,956
+255561,51,MissedShots,0.8469999694824218,0.519000015258789,0.06985720247030258,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,,None,956
+255564,60,SavedShot,0.9590000152587891,0.5179999923706055,0.6717519760131836,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Nico Schulz,Pass,956
+255573,91,SavedShot,0.8430000305175781,0.48700000762939455,0.10920199751853943,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10408,Nuernberg,Hoffenheim,1,3,2018-10-20 13:30:00,Ádám Szalai,Chipped,956
+255782,40,BlockedShot,0.8969999694824219,0.6680000305175782,0.2062389999628067,Andrej Kramaric,h,956,OpenPlay,2018,LeftFoot,10409,Hoffenheim,VfB Stuttgart,4,0,2018-10-27 16:30:00,Kerem Demirbay,Pass,956
+255790,52,SavedShot,0.8480000305175781,0.585,0.10661499947309494,Andrej Kramaric,h,956,OpenPlay,2018,LeftFoot,10409,Hoffenheim,VfB Stuttgart,4,0,2018-10-27 16:30:00,Reiss Nelson,Pass,956
+256186,15,BlockedShot,0.799000015258789,0.7469999694824219,0.022119799628853798,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10427,Hoffenheim,Augsburg,2,1,2018-11-10 14:30:00,Kerem Demirbay,Pass,956
+256205,51,MissedShots,0.8090000152587891,0.6790000152587891,0.028588399291038513,Andrej Kramaric,h,956,OpenPlay,2018,LeftFoot,10427,Hoffenheim,Augsburg,2,1,2018-11-10 14:30:00,Nico Schulz,Pass,956
+256212,64,Goal,0.9069999694824219,0.41200000762939454,0.5062440037727356,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10427,Hoffenheim,Augsburg,2,1,2018-11-10 14:30:00,Joelinton,Pass,956
+256216,82,BlockedShot,0.86,0.59,0.06437060236930847,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10427,Hoffenheim,Augsburg,2,1,2018-11-10 14:30:00,Kerem Demirbay,Chipped,956
+256456,9,Goal,0.8959999847412109,0.34700000762939454,0.06400740146636963,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,Oliver Baumann,Pass,956
+256463,26,BlockedShot,0.7719999694824219,0.5729999923706055,0.03550339862704277,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,Ádám Szalai,Pass,956
+256466,33,MissedShots,0.855999984741211,0.6120000076293945,0.3071039915084839,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,Joelinton,Pass,956
+256484,74,SavedShot,0.8109999847412109,0.575,0.056443601846694946,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10440,Hertha Berlin,Hoffenheim,3,3,2018-11-24 14:30:00,Joelinton,Pass,956
+256768,2,MissedShots,0.7809999847412109,0.3,0.021066199988126755,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10445,Hoffenheim,Schalke 04,1,1,2018-12-01 17:30:00,Ishak Belfodil,Pass,956
+256769,4,BlockedShot,0.845999984741211,0.5720000076293945,0.08297260105609894,Andrej Kramaric,h,956,OpenPlay,2018,LeftFoot,10445,Hoffenheim,Schalke 04,1,1,2018-12-01 17:30:00,Ishak Belfodil,Pass,956
+256788,58,Goal,0.885,0.5,0.7576959729194641,Andrej Kramaric,h,956,Penalty,2018,RightFoot,10445,Hoffenheim,Schalke 04,1,1,2018-12-01 17:30:00,,Standard,956
+256789,62,SavedShot,0.7280000305175781,0.5379999923706055,0.05336349830031395,Andrej Kramaric,h,956,DirectFreekick,2018,RightFoot,10445,Hoffenheim,Schalke 04,1,1,2018-12-01 17:30:00,,Standard,956
+257115,48,MissedShots,0.8030000305175782,0.7019999694824218,0.018735399469733238,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Ádám Szalai,HeadPass,956
+257122,69,BlockedShot,0.7909999847412109,0.7669999694824219,0.048768799751996994,Andrej Kramaric,a,956,DirectFreekick,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,,Standard,956
+257125,70,Goal,0.9940000152587891,0.52,0.9649990200996399,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Pavel Kaderábek,None,956
+257131,80,BlockedShot,0.7519999694824219,0.5109999847412109,0.023667100816965103,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Reiss Nelson,TakeOn,956
+257132,85,BlockedShot,0.8590000152587891,0.6719999694824219,0.05285859853029251,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10462,Wolfsburg,Hoffenheim,2,2,2018-12-08 14:30:00,Nico Schulz,Pass,956
+257253,5,MissedShots,0.9319999694824219,0.5979999923706054,0.09210159629583359,Andrej Kramaric,h,956,OpenPlay,2018,LeftFoot,10463,Hoffenheim,Borussia M.Gladbach,0,0,2018-12-15 14:30:00,,None,956
+257616,9,BlockedShot,0.7619999694824219,0.42700000762939455,0.025176899507641792,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Joelinton,Pass,956
+257618,11,BlockedShot,0.8969999694824219,0.5279999923706055,0.3280259966850281,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Joelinton,Cross,956
+257629,45,SavedShot,0.784000015258789,0.4179999923706055,0.09559810161590576,Andrej Kramaric,a,956,DirectFreekick,2018,RightFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,,Standard,956
+257647,82,SavedShot,0.9590000152587891,0.47,0.6031759977340698,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Nico Schulz,Cross,956
+257652,91,BlockedShot,0.9280000305175782,0.5929999923706055,0.044394899159669876,Andrej Kramaric,a,956,OpenPlay,2018,Head,10474,Werder Bremen,Hoffenheim,1,1,2018-12-19 19:30:00,Reiss Nelson,Aerial,956
+278237,3,SavedShot,0.8640000152587891,0.54,0.038221199065446854,Andrej Kramaric,h,956,SetPiece,2018,Head,10497,Hoffenheim,Bayern Munich,1,3,2019-01-18 19:30:00,Kerem Demirbay,Cross,956
+278251,45,BlockedShot,0.8080000305175781,0.3770000076293945,0.017167599871754646,Andrej Kramaric,h,956,FromCorner,2018,RightFoot,10497,Hoffenheim,Bayern Munich,1,3,2019-01-18 19:30:00,,Aerial,956
+278253,47,BlockedShot,0.8630000305175781,0.5879999923706055,0.056328099220991135,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10497,Hoffenheim,Bayern Munich,1,3,2019-01-18 19:30:00,Joelinton,None,956
+278591,36,SavedShot,0.9,0.6270000076293946,0.1925240010023117,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Dennis Geiger,TakeOn,956
+278601,58,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,a,956,Penalty,2018,RightFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,,Standard,956
+278605,71,Goal,0.9209999847412109,0.6,0.3967750072479248,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10504,Freiburg,Hoffenheim,2,4,2019-01-26 14:30:00,Kerem Demirbay,Pass,956
+280820,14,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,h,956,Penalty,2018,RightFoot,10515,Hoffenheim,Fortuna Duesseldorf,1,1,2019-02-02 14:30:00,,Standard,956
+280838,91,MissedShots,0.7519999694824219,0.6,0.06326799839735031,Andrej Kramaric,h,956,DirectFreekick,2018,RightFoot,10515,Hoffenheim,Fortuna Duesseldorf,1,1,2019-02-02 14:30:00,,Standard,956
+279199,11,SavedShot,0.794000015258789,0.754000015258789,0.022760899737477303,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10526,Hoffenheim,Hannover 96,3,0,2019-02-16 14:30:00,Kevin Vogt,TakeOn,956
+279218,66,MissedShots,0.905,0.4570000076293945,0.24457700550556183,Andrej Kramaric,h,956,FromCorner,2018,Head,10526,Hoffenheim,Hannover 96,3,0,2019-02-16 14:30:00,Kerem Demirbay,Cross,956
+279222,74,SavedShot,0.8619999694824219,0.629000015258789,0.10631699860095978,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10526,Hoffenheim,Hannover 96,3,0,2019-02-16 14:30:00,Leonardo Bittencourt,TakeOn,956
+279223,78,MissedShots,0.754000015258789,0.5520000076293945,0.028192900121212006,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10526,Hoffenheim,Hannover 96,3,0,2019-02-16 14:30:00,Leonardo Bittencourt,Tackle,956
+279560,21,Goal,0.9630000305175781,0.5420000076293945,0.7618399858474731,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10537,RasenBallsport Leipzig,Hoffenheim,1,1,2019-02-25 19:30:00,,Rebound,956
+279572,77,MissedShots,0.9690000152587891,0.625,0.05820009857416153,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10537,RasenBallsport Leipzig,Hoffenheim,1,1,2019-02-25 19:30:00,Pavel Kaderábek,Cross,956
+279578,95,BlockedShot,0.815,0.649000015258789,0.041104599833488464,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10537,RasenBallsport Leipzig,Hoffenheim,1,1,2019-02-25 19:30:00,Nico Schulz,BallRecovery,956
+279657,86,MissedShots,0.8490000152587891,0.6809999847412109,0.055888500064611435,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10547,Eintracht Frankfurt,Hoffenheim,3,2,2019-03-02 14:30:00,Reiss Nelson,Pass,956
+285138,9,BlockedShot,0.7680000305175781,0.5179999923706055,0.027012899518013,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10554,Hoffenheim,Nuernberg,2,1,2019-03-10 14:30:00,,None,956
+285144,20,SavedShot,0.850999984741211,0.6869999694824219,0.03607739880681038,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10554,Hoffenheim,Nuernberg,2,1,2019-03-10 14:30:00,Nadiem Amiri,Chipped,956
+285145,23,BlockedShot,0.85,0.6270000076293946,0.06451050192117691,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10554,Hoffenheim,Nuernberg,2,1,2019-03-10 14:30:00,Nico Schulz,Pass,956
+285146,24,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,h,956,Penalty,2018,RightFoot,10554,Hoffenheim,Nuernberg,2,1,2019-03-10 14:30:00,,Standard,956
+285161,77,Goal,0.94,0.4929999923706055,0.11096099764108658,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10554,Hoffenheim,Nuernberg,2,1,2019-03-10 14:30:00,,None,956
+286199,14,MissedShots,0.91,0.6359999847412109,0.30942198634147644,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10562,VfB Stuttgart,Hoffenheim,1,1,2019-03-16 14:30:00,,Rebound,956
+286200,16,BlockedShot,0.9719999694824218,0.36700000762939455,0.533765971660614,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10562,VfB Stuttgart,Hoffenheim,1,1,2019-03-16 14:30:00,Kerem Demirbay,TakeOn,956
+286204,26,SavedShot,0.8530000305175781,0.725999984741211,0.028305400162935257,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10562,VfB Stuttgart,Hoffenheim,1,1,2019-03-16 14:30:00,Ermin Bicakcic,Pass,956
+286208,35,BlockedShot,0.88,0.5879999923706055,0.1033099964261055,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10562,VfB Stuttgart,Hoffenheim,1,1,2019-03-16 14:30:00,Joelinton,Pass,956
+286211,41,Goal,0.9169999694824219,0.5509999847412109,0.46660101413726807,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10562,VfB Stuttgart,Hoffenheim,1,1,2019-03-16 14:30:00,Ishak Belfodil,BallTouch,956
+286213,56,BlockedShot,0.84,0.3029999923706055,0.04701869934797287,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10562,VfB Stuttgart,Hoffenheim,1,1,2019-03-16 14:30:00,Nico Schulz,Pass,956
+287160,13,MissedShots,0.544000015258789,0.48900001525878906,0.008605459704995155,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Kerem Demirbay,BallRecovery,956
+287165,31,SavedShot,0.8959999847412109,0.5790000152587891,0.09038969874382019,Andrej Kramaric,h,956,OpenPlay,2018,Head,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Kerem Demirbay,Cross,956
+287181,78,Goal,0.9930000305175781,0.4540000152587891,0.9739320278167725,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10571,Hoffenheim,Bayer Leverkusen,4,1,2019-03-29 19:30:00,Ishak Belfodil,None,956
+292610,4,BlockedShot,0.8669999694824219,0.7140000152587891,0.03875330090522766,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10586,Augsburg,Hoffenheim,0,4,2019-04-07 14:30:00,Kerem Demirbay,Chipped,956
+292612,5,Goal,0.915,0.4779999923706055,0.5175769925117493,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10586,Augsburg,Hoffenheim,0,4,2019-04-07 14:30:00,,None,956
+292616,23,SavedShot,0.9619999694824218,0.625,0.3525109887123108,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10586,Augsburg,Hoffenheim,0,4,2019-04-07 14:30:00,Ádám Szalai,None,956
+292624,46,MissedShots,0.8590000152587891,0.44299999237060544,0.10794299840927124,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10586,Augsburg,Hoffenheim,0,4,2019-04-07 14:30:00,Ádám Szalai,Pass,956
+294009,6,ShotOnPost,0.9259999847412109,0.6359999847412109,0.05028960108757019,Andrej Kramaric,h,956,OpenPlay,2018,LeftFoot,10589,Hoffenheim,Hertha Berlin,2,0,2019-04-14 12:30:00,Pavel Kaderábek,Cross,956
+294012,9,BlockedShot,0.895,0.6170000076293946,0.08341719955205917,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10589,Hoffenheim,Hertha Berlin,2,0,2019-04-14 12:30:00,Ishak Belfodil,BallTouch,956
+294013,12,MissedShots,0.97,0.5359999847412109,0.4850659966468811,Andrej Kramaric,h,956,FromCorner,2018,Head,10589,Hoffenheim,Hertha Berlin,2,0,2019-04-14 12:30:00,Pavel Kaderábek,HeadPass,956
+294014,14,MissedShots,0.7859999847412109,0.6079999923706054,0.03057749941945076,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10589,Hoffenheim,Hertha Berlin,2,0,2019-04-14 12:30:00,Ádám Szalai,Pass,956
+294015,16,MissedShots,0.8809999847412109,0.4909999847412109,0.02542169950902462,Andrej Kramaric,h,956,OpenPlay,2018,Head,10589,Hoffenheim,Hertha Berlin,2,0,2019-04-14 12:30:00,Nadiem Amiri,Aerial,956
+294017,23,MissedShots,0.8640000152587891,0.5640000152587891,0.039988599717617035,Andrej Kramaric,h,956,SetPiece,2018,Head,10589,Hoffenheim,Hertha Berlin,2,0,2019-04-14 12:30:00,Kerem Demirbay,Chipped,956
+294026,54,BlockedShot,0.845999984741211,0.57,0.12502099573612213,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10589,Hoffenheim,Hertha Berlin,2,0,2019-04-14 12:30:00,Nadiem Amiri,TakeOn,956
+294028,57,MissedShots,0.8180000305175781,0.48400001525878905,0.06897050142288208,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10589,Hoffenheim,Hertha Berlin,2,0,2019-04-14 12:30:00,Ádám Szalai,Pass,956
+294038,89,SavedShot,0.9209999847412109,0.5179999923706055,0.4450109899044037,Andrej Kramaric,h,956,OpenPlay,2018,Head,10589,Hoffenheim,Hertha Berlin,2,0,2019-04-14 12:30:00,Pavel Kaderábek,Chipped,956
+294039,91,BlockedShot,0.9480000305175781,0.624000015258789,0.06248829886317253,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10589,Hoffenheim,Hertha Berlin,2,0,2019-04-14 12:30:00,Nico Schulz,TakeOn,956
+295648,44,Goal,0.9059999847412109,0.3629999923706055,0.3448610007762909,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10600,Schalke 04,Hoffenheim,2,5,2019-04-20 19:30:00,Kerem Demirbay,Throughball,956
+295655,74,BlockedShot,0.85,0.4879999923706055,0.12023100256919861,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10600,Schalke 04,Hoffenheim,2,5,2019-04-20 19:30:00,,None,956
+295661,85,BlockedShot,0.8009999847412109,0.6580000305175782,0.08807030320167542,Andrej Kramaric,a,956,DirectFreekick,2018,RightFoot,10600,Schalke 04,Hoffenheim,2,5,2019-04-20 19:30:00,,Standard,956
+298124,14,ShotOnPost,0.885,0.5,0.7576959729194641,Andrej Kramaric,h,956,Penalty,2018,RightFoot,10608,Hoffenheim,Wolfsburg,1,4,2019-04-28 14:30:00,,Standard,956
+298147,74,SavedShot,0.8619999694824219,0.5570000076293945,0.08972220122814178,Andrej Kramaric,h,956,OpenPlay,2018,LeftFoot,10608,Hoffenheim,Wolfsburg,1,4,2019-04-28 14:30:00,,TakeOn,956
+299199,5,MissedShots,0.845999984741211,0.6659999847412109,0.043853599578142166,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10619,Borussia M.Gladbach,Hoffenheim,2,2,2019-05-04 14:30:00,Florian Grillitsch,Pass,956
+299202,20,MissedShots,0.7019999694824218,0.5579999923706055,0.014243800193071365,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10619,Borussia M.Gladbach,Hoffenheim,2,2,2019-05-04 14:30:00,Ádám Szalai,Pass,956
+299203,22,SavedShot,0.9130000305175782,0.485,0.1005370020866394,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10619,Borussia M.Gladbach,Hoffenheim,2,2,2019-05-04 14:30:00,Kerem Demirbay,Cross,956
+299205,29,SavedShot,0.8830000305175781,0.610999984741211,0.06040110066533089,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10619,Borussia M.Gladbach,Hoffenheim,2,2,2019-05-04 14:30:00,Pavel Kaderábek,Cross,956
+299213,39,SavedShot,0.9630000305175781,0.6719999694824219,0.07632289826869965,Andrej Kramaric,a,956,OpenPlay,2018,LeftFoot,10619,Borussia M.Gladbach,Hoffenheim,2,2,2019-05-04 14:30:00,Kerem Demirbay,Pass,956
+299223,69,MissedShots,0.9590000152587891,0.46,0.46086499094963074,Andrej Kramaric,a,956,FromCorner,2018,RightFoot,10619,Borussia M.Gladbach,Hoffenheim,2,2,2019-05-04 14:30:00,Kerem Demirbay,Cross,956
+300708,37,ShotOnPost,0.8690000152587891,0.3970000076293945,0.3790780007839203,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10625,Hoffenheim,Werder Bremen,0,1,2019-05-11 14:30:00,Ishak Belfodil,Pass,956
+300723,80,SavedShot,0.9119999694824219,0.5940000152587891,0.2931100130081177,Andrej Kramaric,h,956,OpenPlay,2018,RightFoot,10625,Hoffenheim,Werder Bremen,0,1,2019-05-11 14:30:00,Joelinton,Chipped,956
+302235,8,BlockedShot,0.84,0.415,0.07103460282087326,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10642,Mainz 05,Hoffenheim,4,2,2019-05-18 13:30:00,Ishak Belfodil,Pass,956
+302244,33,Goal,0.71,0.555,0.0436084009706974,Andrej Kramaric,a,956,DirectFreekick,2018,RightFoot,10642,Mainz 05,Hoffenheim,4,2,2019-05-18 13:30:00,,Standard,956
+302249,49,BlockedShot,0.895,0.4640000152587891,0.4657379984855652,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10642,Mainz 05,Hoffenheim,4,2,2019-05-18 13:30:00,,Rebound,956
+302263,83,MissedShots,0.500999984741211,0.49900001525878906,0.007465079892426729,Andrej Kramaric,a,956,OpenPlay,2018,RightFoot,10642,Mainz 05,Hoffenheim,4,2,2019-05-18 13:30:00,,BallTouch,956
+302264,87,SavedShot,0.710999984741211,0.525,0.04495299980044365,Andrej Kramaric,a,956,DirectFreekick,2018,RightFoot,10642,Mainz 05,Hoffenheim,4,2,2019-05-18 13:30:00,,Standard,956
+326472,70,Goal,0.9,0.4979999923706055,0.5552870035171509,Andrej Kramaric,h,956,OpenPlay,2019,RightFoot,12473,Hoffenheim,Schalke 04,2,0,2019-10-20 17:00:00,,Rebound,956
+327014,18,MissedShots,0.91,0.4879999923706055,0.2629930078983307,Andrej Kramaric,a,956,SetPiece,2019,Head,12482,Hertha Berlin,Hoffenheim,2,3,2019-10-26 14:30:00,Robert Skov,Cross,956
+327018,27,SavedShot,0.8059999847412109,0.6079999923706054,0.038127098232507706,Andrej Kramaric,a,956,OpenPlay,2019,RightFoot,12482,Hertha Berlin,Hoffenheim,2,3,2019-10-26 14:30:00,Robert Skov,Pass,956
+327023,37,Goal,0.9290000152587891,0.4470000076293945,0.29855701327323914,Andrej Kramaric,a,956,FromCorner,2019,Head,12482,Hertha Berlin,Hoffenheim,2,3,2019-10-26 14:30:00,Robert Skov,Cross,956
+327022,37,SavedShot,0.7530000305175781,0.5770000076293945,0.08933400362730026,Andrej Kramaric,a,956,OpenPlay,2019,RightFoot,12482,Hertha Berlin,Hoffenheim,2,3,2019-10-26 14:30:00,Florian Grillitsch,Chipped,956
+327033,78,SavedShot,0.955,0.4779999923706055,0.5970460176467896,Andrej Kramaric,a,956,SetPiece,2019,RightFoot,12482,Hertha Berlin,Hoffenheim,2,3,2019-10-26 14:30:00,,None,956
+327034,78,BlockedShot,0.9630000305175781,0.5029999923706054,0.7450140118598938,Andrej Kramaric,a,956,SetPiece,2019,RightFoot,12482,Hertha Berlin,Hoffenheim,2,3,2019-10-26 14:30:00,,Rebound,956
+333068,46,BlockedShot,0.8040000152587891,0.645,0.023539600893855095,Andrej Kramaric,h,956,FromCorner,2019,RightFoot,12506,Hoffenheim,Mainz 05,1,5,2019-11-24 17:00:00,,None,956
+333078,82,Goal,0.9130000305175782,0.45,0.07874680310487747,Andrej Kramaric,h,956,OpenPlay,2019,RightFoot,12506,Hoffenheim,Mainz 05,1,5,2019-11-24 17:00:00,,None,956
+333082,85,SavedShot,0.9009999847412109,0.3970000076293945,0.07521689683198929,Andrej Kramaric,h,956,FromCorner,2019,LeftFoot,12506,Hoffenheim,Mainz 05,1,5,2019-11-24 17:00:00,Konstantinos Stafylidis,None,956
+333084,87,SavedShot,0.9019999694824219,0.6969999694824218,0.06033039838075638,Andrej Kramaric,h,956,OpenPlay,2019,RightFoot,12506,Hoffenheim,Mainz 05,1,5,2019-11-24 17:00:00,Konstantinos Stafylidis,Pass,956
+333573,5,Goal,0.9269999694824219,0.605999984741211,0.3627299964427948,Andrej Kramaric,h,956,OpenPlay,2019,LeftFoot,12518,Hoffenheim,Fortuna Duesseldorf,1,1,2019-11-30 14:30:00,Florian Grillitsch,Throughball,956
+333586,68,SavedShot,0.9269999694824219,0.555,0.09494149684906006,Andrej Kramaric,h,956,FromCorner,2019,Head,12518,Hoffenheim,Fortuna Duesseldorf,1,1,2019-11-30 14:30:00,Robert Skov,Cross,956
+333590,74,MissedShots,0.85,0.47299999237060547,0.009300259873270988,Andrej Kramaric,h,956,SetPiece,2019,Head,12518,Hoffenheim,Fortuna Duesseldorf,1,1,2019-11-30 14:30:00,Robert Skov,Aerial,956
+335602,25,MissedShots,0.86,0.585,0.05947820097208023,Andrej Kramaric,a,956,OpenPlay,2019,RightFoot,12521,RasenBallsport Leipzig,Hoffenheim,3,1,2019-12-07 14:30:00,Pavel Kaderábek,BallTouch,956
+335614,56,BlockedShot,0.8619999694824219,0.68,0.04838639870285988,Andrej Kramaric,a,956,OpenPlay,2019,LeftFoot,12521,RasenBallsport Leipzig,Hoffenheim,3,1,2019-12-07 14:30:00,Dennis Geiger,Pass,956
+335617,61,BlockedShot,0.8209999847412109,0.685,0.03347549960017204,Andrej Kramaric,a,956,OpenPlay,2019,RightFoot,12521,RasenBallsport Leipzig,Hoffenheim,3,1,2019-12-07 14:30:00,Florian Grillitsch,Pass,956
+336711,75,MissedShots,0.7519999694824219,0.5570000076293945,0.06837110221385956,Andrej Kramaric,h,956,DirectFreekick,2019,RightFoot,12531,Hoffenheim,Augsburg,2,4,2019-12-13 19:30:00,,Standard,956
+338046,39,MissedShots,0.8619999694824219,0.5459999847412109,0.3560909926891327,Andrej Kramaric,a,956,OpenPlay,2019,RightFoot,12546,Union Berlin,Hoffenheim,0,2,2019-12-17 19:30:00,Ihlas Bebou,Pass,956
+338328,86,Goal,0.91,0.534000015258789,0.09839490056037903,Andrej Kramaric,h,956,OpenPlay,2019,Head,12549,Hoffenheim,Borussia Dortmund,2,1,2019-12-20 19:30:00,Sargis Adamyan,Cross,956
+362575,56,MissedShots,0.9290000152587891,0.48700000762939455,0.1188730001449585,Andrej Kramaric,h,956,FromCorner,2019,Head,12557,Hoffenheim,Eintracht Frankfurt,1,2,2020-01-18 14:30:00,Sebastian Rudy,Cross,956
+362576,59,SavedShot,0.899000015258789,0.6619999694824219,0.03878699988126755,Andrej Kramaric,h,956,OpenPlay,2019,LeftFoot,12557,Hoffenheim,Eintracht Frankfurt,1,2,2020-01-18 14:30:00,Sebastian Rudy,Cross,956
+356281,16,MissedShots,0.8969999694824219,0.645,0.29650700092315674,Andrej Kramaric,a,956,OpenPlay,2019,LeftFoot,12571,Werder Bremen,Hoffenheim,0,3,2020-01-26 14:30:00,Christoph Baumgartner,Pass,956
+356282,17,SavedShot,0.7859999847412109,0.5670000076293945,0.044108498841524124,Andrej Kramaric,a,956,OpenPlay,2019,RightFoot,12571,Werder Bremen,Hoffenheim,0,3,2020-01-26 14:30:00,Christoph Baumgartner,LayOff,956
+356294,64,BlockedShot,0.9630000305175781,0.45799999237060546,0.14771200716495514,Andrej Kramaric,a,956,FromCorner,2019,RightFoot,12571,Werder Bremen,Hoffenheim,0,3,2020-01-26 14:30:00,Stefan Posch,Rebound,956
+356609,20,BlockedShot,0.8130000305175781,0.705,0.024713600054383278,Andrej Kramaric,h,956,OpenPlay,2019,RightFoot,12576,Hoffenheim,Bayer Leverkusen,2,1,2020-02-01 14:30:00,Philipp Pentke,Chipped,956
+356610,22,Goal,0.9719999694824218,0.5179999923706055,0.6799049973487854,Andrej Kramaric,h,956,OpenPlay,2019,LeftFoot,12576,Hoffenheim,Bayer Leverkusen,2,1,2020-02-01 14:30:00,Pavel Kaderábek,Cross,956
+356614,31,BlockedShot,0.8009999847412109,0.6079999923706054,0.03494109958410263,Andrej Kramaric,h,956,OpenPlay,2019,RightFoot,12576,Hoffenheim,Bayer Leverkusen,2,1,2020-02-01 14:30:00,Christoph Baumgartner,Pass,956
+356623,50,SavedShot,0.8380000305175781,0.710999984741211,0.10446300357580185,Andrej Kramaric,h,956,OpenPlay,2019,RightFoot,12576,Hoffenheim,Bayer Leverkusen,2,1,2020-02-01 14:30:00,Munas Dabbur,TakeOn,956
+356634,79,ShotOnPost,0.9230000305175782,0.5459999847412109,0.49699199199676514,Andrej Kramaric,h,956,OpenPlay,2019,LeftFoot,12576,Hoffenheim,Bayer Leverkusen,2,1,2020-02-01 14:30:00,Sargis Adamyan,Pass,956
+356637,92,SavedShot,0.8080000305175781,0.524000015258789,0.14739400148391724,Andrej Kramaric,h,956,DirectFreekick,2019,RightFoot,12576,Hoffenheim,Bayer Leverkusen,2,1,2020-02-01 14:30:00,,Standard,956
+358868,59,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,h,956,Penalty,2019,RightFoot,12594,Hoffenheim,Wolfsburg,2,3,2020-02-15 14:30:00,,Standard,956
+358870,67,MissedShots,0.8619999694824219,0.3160000038146973,0.04536610096693039,Andrej Kramaric,h,956,OpenPlay,2019,RightFoot,12594,Hoffenheim,Wolfsburg,2,3,2020-02-15 14:30:00,,None,956
+358881,92,BlockedShot,0.9790000152587891,0.4929999923706055,0.26430800557136536,Andrej Kramaric,h,956,SetPiece,2019,Head,12594,Hoffenheim,Wolfsburg,2,3,2020-02-15 14:30:00,Stefan Posch,HeadPass,956
+364113,70,MissedShots,0.92,0.634000015258789,0.019073499366641045,Andrej Kramaric,h,956,OpenPlay,2019,Head,12675,Hoffenheim,RasenBallsport Leipzig,0,2,2020-06-12 18:30:00,Jacob Bruun Larsen,Chipped,956
+365278,0,SavedShot,0.9059999847412109,0.47400001525878904,0.45381298661231995,Andrej Kramaric,h,956,OpenPlay,2019,RightFoot,12693,Hoffenheim,Union Berlin,4,0,2020-06-20 13:30:00,,Start,956
+365282,20,SavedShot,0.7709999847412109,0.6759999847412109,0.06100570037961006,Andrej Kramaric,h,956,DirectFreekick,2019,RightFoot,12693,Hoffenheim,Union Berlin,4,0,2020-06-20 13:30:00,,Standard,956
+365287,38,Goal,0.94,0.5770000076293945,0.12408199906349182,Andrej Kramaric,h,956,SetPiece,2019,LeftFoot,12693,Hoffenheim,Union Berlin,4,0,2020-06-20 13:30:00,,Rebound,956
+366829,7,Goal,0.805,0.4779999923706055,0.05300379917025566,Andrej Kramaric,a,956,OpenPlay,2019,RightFoot,12700,Borussia Dortmund,Hoffenheim,0,4,2020-06-27 13:30:00,Pavel Kaderábek,Pass,956
+366830,10,MissedShots,0.904000015258789,0.545,0.11486800014972687,Andrej Kramaric,a,956,OpenPlay,2019,Head,12700,Borussia Dortmund,Hoffenheim,0,4,2020-06-27 13:30:00,Pavel Kaderábek,Cross,956
+366832,16,MissedShots,0.8959999847412109,0.34,0.1327819973230362,Andrej Kramaric,a,956,OpenPlay,2019,RightFoot,12700,Borussia Dortmund,Hoffenheim,0,4,2020-06-27 13:30:00,Sebastian Rudy,Throughball,956
+366834,29,Goal,0.9519999694824218,0.5020000076293946,0.6743249893188477,Andrej Kramaric,a,956,OpenPlay,2019,RightFoot,12700,Borussia Dortmund,Hoffenheim,0,4,2020-06-27 13:30:00,Robert Skov,Rebound,956
+366839,47,Goal,0.8640000152587891,0.5129999923706055,0.35083699226379395,Andrej Kramaric,a,956,OpenPlay,2019,RightFoot,12700,Borussia Dortmund,Hoffenheim,0,4,2020-06-27 13:30:00,Ihlas Bebou,TakeOn,956
+366840,49,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,a,956,Penalty,2019,RightFoot,12700,Borussia Dortmund,Hoffenheim,0,4,2020-06-27 13:30:00,,Standard,956
+377496,2,Goal,0.9030000305175782,0.5179999923706055,0.7697820067405701,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,14176,FC Cologne,Hoffenheim,2,3,2020-09-19 13:30:00,,TakeOn,956
+377499,16,SavedShot,0.904000015258789,0.4929999923706055,0.5977290272712708,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,14176,FC Cologne,Hoffenheim,2,3,2020-09-19 13:30:00,Dennis Geiger,Pass,956
+377504,35,MissedShots,0.7580000305175781,0.549000015258789,0.022082500159740448,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,14176,FC Cologne,Hoffenheim,2,3,2020-09-19 13:30:00,Munas Dabbur,None,956
+377505,47,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,a,956,Penalty,2020,RightFoot,14176,FC Cologne,Hoffenheim,2,3,2020-09-19 13:30:00,,Standard,956
+377519,91,Goal,0.86,0.4159999847412109,0.09369199723005295,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,14176,FC Cologne,Hoffenheim,2,3,2020-09-19 13:30:00,Mijat Gacinovic,Pass,956
+379504,30,SavedShot,0.8619999694824219,0.5270000076293946,0.10139500349760056,Andrej Kramaric,h,956,OpenPlay,2020,LeftFoot,14189,Hoffenheim,Bayern Munich,4,1,2020-09-27 13:30:00,Munas Dabbur,HeadPass,956
+379505,32,BlockedShot,0.8090000152587891,0.685,0.04980599880218506,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,14189,Hoffenheim,Bayern Munich,4,1,2020-09-27 13:30:00,,TakeOn,956
+379509,45,SavedShot,0.9030000305175782,0.735,0.03774389997124672,Andrej Kramaric,h,956,OpenPlay,2020,LeftFoot,14189,Hoffenheim,Bayern Munich,4,1,2020-09-27 13:30:00,Dennis Geiger,Pass,956
+379519,76,Goal,0.9369999694824219,0.38799999237060545,0.12551000714302063,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,14189,Hoffenheim,Bayern Munich,4,1,2020-09-27 13:30:00,Ihlas Bebou,Pass,956
+379521,83,BlockedShot,0.9259999847412109,0.605,0.11748199909925461,Andrej Kramaric,h,956,OpenPlay,2020,LeftFoot,14189,Hoffenheim,Bayern Munich,4,1,2020-09-27 13:30:00,Ihlas Bebou,Cross,956
+379523,87,MissedShots,0.8830000305175781,0.4179999923706055,0.3147299885749817,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,14189,Hoffenheim,Bayern Munich,4,1,2020-09-27 13:30:00,Ihlas Bebou,Pass,956
+379526,91,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,h,956,Penalty,2020,RightFoot,14189,Hoffenheim,Bayern Munich,4,1,2020-09-27 13:30:00,,Standard,956
+379528,93,MissedShots,0.8730000305175781,0.519000015258789,0.11359799653291702,Andrej Kramaric,h,956,OpenPlay,2020,LeftFoot,14189,Hoffenheim,Bayern Munich,4,1,2020-09-27 13:30:00,Robert Skov,Cross,956
+380460,17,Goal,0.8680000305175781,0.4279999923706055,0.09942299872636795,Andrej Kramaric,a,956,OpenPlay,2020,LeftFoot,15163,Eintracht Frankfurt,Hoffenheim,2,1,2020-10-03 13:30:00,Christoph Baumgartner,Pass,956
+380461,33,SavedShot,0.9869999694824219,0.5940000152587891,0.09463579952716827,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15163,Eintracht Frankfurt,Hoffenheim,2,1,2020-10-03 13:30:00,Munas Dabbur,HeadPass,956
+380464,38,MissedShots,0.874000015258789,0.33599998474121096,0.0805668979883194,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15163,Eintracht Frankfurt,Hoffenheim,2,1,2020-10-03 13:30:00,Pavel Kaderábek,Pass,956
+380483,90,MissedShots,0.815,0.5070000076293946,0.05601869896054268,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15163,Eintracht Frankfurt,Hoffenheim,2,1,2020-10-03 13:30:00,Ihlas Bebou,Pass,956
+387265,21,BlockedShot,0.894000015258789,0.3890000152587891,0.03184249997138977,Andrej Kramaric,h,956,SetPiece,2020,Head,15205,Hoffenheim,VfB Stuttgart,3,3,2020-11-21 14:30:00,Dennis Geiger,Cross,956
+387267,24,SavedShot,0.8069999694824219,0.515,0.03476899862289429,Andrej Kramaric,h,956,FromCorner,2020,RightFoot,15205,Hoffenheim,VfB Stuttgart,3,3,2020-11-21 14:30:00,Dennis Geiger,Cross,956
+387271,29,SavedShot,0.775,0.5979999923706054,0.025669900700449944,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15205,Hoffenheim,VfB Stuttgart,3,3,2020-11-21 14:30:00,Christoph Baumgartner,BallRecovery,956
+387282,53,MissedShots,0.8590000152587891,0.5720000076293945,0.0529978983104229,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15205,Hoffenheim,VfB Stuttgart,3,3,2020-11-21 14:30:00,Stefan Posch,Cross,956
+387283,60,SavedShot,0.8969999694824219,0.62,0.4999690055847168,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15205,Hoffenheim,VfB Stuttgart,3,3,2020-11-21 14:30:00,,TakeOn,956
+387289,70,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,h,956,Penalty,2020,RightFoot,15205,Hoffenheim,VfB Stuttgart,3,3,2020-11-21 14:30:00,,Standard,956
+391129,25,MissedShots,0.825999984741211,0.33799999237060546,0.048972200602293015,Andrej Kramaric,h,956,OpenPlay,2020,LeftFoot,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Christoph Baumgartner,Pass,956
+391132,37,SavedShot,0.935,0.53,0.11288399994373322,Andrej Kramaric,h,956,FromCorner,2020,Head,15222,Hoffenheim,Augsburg,3,1,2020-12-07 19:30:00,Sebastian Rudy,Cross,956
+393101,5,SavedShot,0.8819999694824219,0.6959999847412109,0.06565680354833603,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15246,Hoffenheim,RasenBallsport Leipzig,0,1,2020-12-16 19:30:00,Christoph Baumgartner,TakeOn,956
+393102,21,BlockedShot,0.865,0.46299999237060546,0.046135399490594864,Andrej Kramaric,h,956,FromCorner,2020,LeftFoot,15246,Hoffenheim,RasenBallsport Leipzig,0,1,2020-12-16 19:30:00,Robert Skov,Cross,956
+393884,35,ShotOnPost,0.754000015258789,0.4279999923706055,0.021992500871419907,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Stefan Posch,Pass,956
+393896,74,Goal,0.914000015258789,0.53,0.49477800726890564,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15249,Borussia M.Gladbach,Hoffenheim,1,2,2020-12-19 14:30:00,Ihlas Bebou,Cross,956
+396433,47,MissedShots,0.955,0.44,0.35099101066589355,Andrej Kramaric,h,956,FromCorner,2020,Head,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Ihlas Bebou,Rebound,956
+396439,60,MissedShots,0.9630000305175781,0.5890000152587891,0.07900600135326385,Andrej Kramaric,h,956,FromCorner,2020,Head,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Robert Skov,Cross,956
+396445,82,SavedShot,0.7669999694824219,0.6959999847412109,0.015406399965286255,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15259,Hoffenheim,Freiburg,1,3,2021-01-02 14:30:00,Munas Dabbur,Pass,956
+397799,15,SavedShot,0.7609999847412109,0.415,0.023200899362564087,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15271,Schalke 04,Hoffenheim,4,0,2021-01-09 14:30:00,Ihlas Bebou,Pass,956
+397805,29,SavedShot,0.924000015258789,0.4779999923706055,0.5446779727935791,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15271,Schalke 04,Hoffenheim,4,0,2021-01-09 14:30:00,Mijat Gacinovic,Pass,956
+397812,44,BlockedShot,0.7280000305175781,0.5070000076293946,0.054106198251247406,Andrej Kramaric,a,956,DirectFreekick,2020,RightFoot,15271,Schalke 04,Hoffenheim,4,0,2021-01-09 14:30:00,,Standard,956
+397820,77,BlockedShot,0.875,0.7030000305175781,0.04095359891653061,Andrej Kramaric,a,956,OpenPlay,2020,LeftFoot,15271,Schalke 04,Hoffenheim,4,0,2021-01-09 14:30:00,Stefan Posch,Pass,956
+397822,82,BlockedShot,0.9180000305175782,0.4370000076293945,0.12689700722694397,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15271,Schalke 04,Hoffenheim,4,0,2021-01-09 14:30:00,Mijat Gacinovic,Pass,956
+397824,88,BlockedShot,0.815,0.6459999847412109,0.04108529910445213,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15271,Schalke 04,Hoffenheim,4,0,2021-01-09 14:30:00,Marco John,Pass,956
+398890,27,SavedShot,0.7219999694824218,0.385,0.0176279004663229,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15277,Hoffenheim,Arminia Bielefeld,0,0,2021-01-16 14:30:00,Sebastian Rudy,Pass,956
+398895,46,SavedShot,0.8480000305175781,0.5870000076293945,0.07247819751501083,Andrej Kramaric,h,956,OpenPlay,2020,LeftFoot,15277,Hoffenheim,Arminia Bielefeld,0,0,2021-01-16 14:30:00,Diadie Samassékou,BallRecovery,956
+398899,55,MissedShots,0.84,0.615,0.05313520133495331,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15277,Hoffenheim,Arminia Bielefeld,0,0,2021-01-16 14:30:00,Kasim Nuhu,Chipped,956
+399766,18,BlockedShot,0.924000015258789,0.54,0.10327199846506119,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,,None,956
+399772,41,SavedShot,0.7780000305175782,0.345,0.033824898302555084,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,,BallRecovery,956
+399779,67,Goal,0.919000015258789,0.5379999923706055,0.48920199275016785,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Diadie Samassékou,Rebound,956
+399783,78,SavedShot,0.7759999847412109,0.6819999694824219,0.023628700524568558,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,Christoph Baumgartner,Pass,956
+399785,87,Goal,0.81,0.7240000152587891,0.06920500099658966,Andrej Kramaric,a,956,DirectFreekick,2020,RightFoot,15288,Hertha Berlin,Hoffenheim,0,3,2021-01-19 19:30:00,,Standard,956
+400994,6,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,h,956,Penalty,2020,RightFoot,15295,Hoffenheim,FC Cologne,3,0,2021-01-24 17:00:00,,Standard,956
+400997,26,SavedShot,0.769000015258789,0.6569999694824219,0.04008509963750839,Andrej Kramaric,h,956,OpenPlay,2020,LeftFoot,15295,Hoffenheim,FC Cologne,3,0,2021-01-24 17:00:00,,TakeOn,956
+401005,41,MissedShots,0.8330000305175781,0.5059999847412109,0.10968200117349625,Andrej Kramaric,h,956,OpenPlay,2020,LeftFoot,15295,Hoffenheim,FC Cologne,3,0,2021-01-24 17:00:00,Mijat Gacinovic,Pass,956
+401010,59,MissedShots,0.8090000152587891,0.72,0.07007019966840744,Andrej Kramaric,h,956,DirectFreekick,2020,RightFoot,15295,Hoffenheim,FC Cologne,3,0,2021-01-24 17:00:00,,Standard,956
+401013,74,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,h,956,Penalty,2020,RightFoot,15295,Hoffenheim,FC Cologne,3,0,2021-01-24 17:00:00,,Standard,956
+401645,43,Goal,0.9069999694824219,0.49200000762939455,0.290569007396698,Andrej Kramaric,a,956,OpenPlay,2020,LeftFoot,15302,Bayern Munich,Hoffenheim,4,1,2021-01-30 14:30:00,Ihlas Bebou,Cross,956
+401654,64,MissedShots,0.9080000305175782,0.4879999923706055,0.10320699959993362,Andrej Kramaric,a,956,OpenPlay,2020,Head,15302,Bayern Munich,Hoffenheim,4,1,2021-01-30 14:30:00,Pavel Kaderábek,Cross,956
+401655,66,BlockedShot,0.8619999694824219,0.38599998474121094,0.03559520095586777,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15302,Bayern Munich,Hoffenheim,4,1,2021-01-30 14:30:00,Pavel Kaderábek,HeadPass,956
+403803,68,MissedShots,0.8090000152587891,0.5120000076293946,0.061434000730514526,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15313,Hoffenheim,Eintracht Frankfurt,1,3,2021-02-07 14:30:00,Sebastian Rudy,Pass,956
+403804,76,BlockedShot,0.799000015258789,0.4470000076293945,0.01640300080180168,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15313,Hoffenheim,Eintracht Frankfurt,1,3,2021-02-07 14:30:00,Ihlas Bebou,HeadPass,956
+406141,63,BlockedShot,0.909000015258789,0.46299999237060546,0.4365369975566864,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15330,Hoffenheim,Werder Bremen,4,0,2021-02-21 17:00:00,Ihlas Bebou,Cross,956
+407131,52,BlockedShot,0.8040000152587891,0.515,0.047858599573373795,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15343,Union Berlin,Hoffenheim,1,1,2021-02-28 12:30:00,Christoph Baumgartner,TakeOn,956
+407132,52,MissedShots,0.7919999694824219,0.5729999923706055,0.016928499564528465,Andrej Kramaric,a,956,FromCorner,2020,RightFoot,15343,Union Berlin,Hoffenheim,1,1,2021-02-28 12:30:00,,Aerial,956
+407134,64,MissedShots,0.865999984741211,0.5729999923706055,0.0661998987197876,Andrej Kramaric,a,956,OpenPlay,2020,LeftFoot,15343,Union Berlin,Hoffenheim,1,1,2021-02-28 12:30:00,Sebastian Rudy,Chipped,956
+408506,40,Goal,0.93,0.5279999923706055,0.4280630052089691,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15353,Hoffenheim,Wolfsburg,2,1,2021-03-06 14:30:00,Pavel Kaderábek,Cross,956
+408516,66,MissedShots,0.8230000305175781,0.645,0.1183369979262352,Andrej Kramaric,h,956,DirectFreekick,2020,RightFoot,15353,Hoffenheim,Wolfsburg,2,1,2021-03-06 14:30:00,,Standard,956
+410614,29,SavedShot,0.7930000305175782,0.59,0.030247600749135017,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Christoph Baumgartner,Pass,956
+410615,32,BlockedShot,0.845999984741211,0.2989999961853027,0.03359320014715195,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Christoph Baumgartner,Pass,956
+410617,38,SavedShot,0.9069999694824219,0.4979999923706055,0.229436993598938,Andrej Kramaric,a,956,OpenPlay,2020,Head,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Pavel Kaderábek,Cross,956
+410619,45,BlockedShot,0.7219999694824218,0.509000015258789,0.05068890005350113,Andrej Kramaric,a,956,DirectFreekick,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,,Standard,956
+410623,56,MissedShots,0.7519999694824219,0.43900001525878907,0.023386599496006966,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Florian Grillitsch,Pass,956
+410627,69,MissedShots,0.775,0.4909999847412109,0.037851300090551376,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,Munas Dabbur,Pass,956
+410629,82,MissedShots,0.8540000152587891,0.62,0.048368901014328,Andrej Kramaric,a,956,OpenPlay,2020,LeftFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,,None,956
+410633,89,BlockedShot,0.9059999847412109,0.5579999923706055,0.10275200009346008,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15364,VfB Stuttgart,Hoffenheim,2,0,2021-03-14 17:00:00,,Rebound,956
+411624,29,BlockedShot,0.725,0.3139999961853027,0.039080001413822174,Andrej Kramaric,h,956,DirectFreekick,2020,RightFoot,15366,Hoffenheim,Mainz 05,1,2,2021-03-21 12:30:00,,Standard,956
+411629,53,MissedShots,0.8959999847412109,0.4490000152587891,0.05897710099816322,Andrej Kramaric,h,956,OpenPlay,2020,Head,15366,Hoffenheim,Mainz 05,1,2,2021-03-21 12:30:00,Ihlas Bebou,Cross,956
+414913,48,BlockedShot,0.8969999694824219,0.6730000305175782,0.06136130169034004,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15384,Hoffenheim,Bayer Leverkusen,0,0,2021-04-12 18:30:00,Christoph Baumgartner,Pass,956
+415014,75,BlockedShot,0.8580000305175781,0.4640000152587891,0.09976290166378021,Andrej Kramaric,a,956,OpenPlay,2020,LeftFoot,15393,RasenBallsport Leipzig,Hoffenheim,0,0,2021-04-16 18:30:00,Pavel Kaderábek,Pass,956
+416469,47,Goal,0.914000015258789,0.5670000076293945,0.09586720168590546,Andrej Kramaric,h,956,FromCorner,2020,RightFoot,15403,Hoffenheim,Borussia M.Gladbach,3,2,2021-04-21 18:30:00,,None,956
+416474,64,Goal,0.8590000152587891,0.504000015258789,0.10092899948358536,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15403,Hoffenheim,Borussia M.Gladbach,3,2,2021-04-21 18:30:00,Pavel Kaderábek,Pass,956
+416478,80,MissedShots,0.7240000152587891,0.65,0.02382889948785305,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15403,Hoffenheim,Borussia M.Gladbach,3,2,2021-04-21 18:30:00,Chris Richards,Pass,956
+417135,4,MissedShots,0.6940000152587891,0.47299999237060547,0.010125500150024891,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15414,Freiburg,Hoffenheim,1,1,2021-04-24 13:30:00,Diadie Samassékou,Chipped,956
+417137,16,MissedShots,0.855,0.3509999847412109,0.055037498474121094,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15414,Freiburg,Hoffenheim,1,1,2021-04-24 13:30:00,Robert Skov,Pass,956
+417144,30,SavedShot,0.919000015258789,0.4,0.07457700371742249,Andrej Kramaric,a,956,FromCorner,2020,RightFoot,15414,Freiburg,Hoffenheim,1,1,2021-04-24 13:30:00,Sargis Adamyan,Pass,956
+417147,39,Goal,0.9769999694824218,0.5609999847412109,0.6436110138893127,Andrej Kramaric,a,956,OpenPlay,2020,Head,15414,Freiburg,Hoffenheim,1,1,2021-04-24 13:30:00,Ihlas Bebou,Cross,956
+417156,68,MissedShots,0.7319999694824219,0.5120000076293946,0.024303700774908066,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15414,Freiburg,Hoffenheim,1,1,2021-04-24 13:30:00,Christoph Baumgartner,Pass,956
+417162,87,BlockedShot,0.7580000305175781,0.644000015258789,0.020537400618195534,Andrej Kramaric,a,956,OpenPlay,2020,RightFoot,15414,Freiburg,Hoffenheim,1,1,2021-04-24 13:30:00,Christoph Baumgartner,Pass,956
+420003,25,SavedShot,0.8930000305175781,0.42700000762939455,0.04728730022907257,Andrej Kramaric,h,956,OpenPlay,2020,Head,15421,Hoffenheim,Schalke 04,4,2,2021-05-08 13:30:00,Ryan Sessegnon,Cross,956
+420006,42,SavedShot,0.9059999847412109,0.524000015258789,0.09792540222406387,Andrej Kramaric,h,956,OpenPlay,2020,Head,15421,Hoffenheim,Schalke 04,4,2,2021-05-08 13:30:00,Ryan Sessegnon,Cross,956
+420010,46,Goal,0.725999984741211,0.5209999847412109,0.05273739993572235,Andrej Kramaric,h,956,DirectFreekick,2020,RightFoot,15421,Hoffenheim,Schalke 04,4,2,2021-05-08 13:30:00,,Standard,956
+420019,70,SavedShot,0.8119999694824219,0.31,0.042789701372385025,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15421,Hoffenheim,Schalke 04,4,2,2021-05-08 13:30:00,Pavel Kaderábek,Pass,956
+421954,4,Goal,0.905,0.43900001525878907,0.5555989742279053,Andrej Kramaric,a,956,OpenPlay,2020,LeftFoot,15436,Arminia Bielefeld,Hoffenheim,1,1,2021-05-15 13:30:00,Sargis Adamyan,Pass,956
+421974,74,SavedShot,0.919000015258789,0.48700000762939455,0.3993130028247833,Andrej Kramaric,a,956,OpenPlay,2020,Head,15436,Arminia Bielefeld,Hoffenheim,1,1,2021-05-15 13:30:00,Pavel Kaderábek,Pass,956
+421975,86,MissedShots,0.925,0.524000015258789,0.13461600244045258,Andrej Kramaric,a,956,OpenPlay,2020,Head,15436,Arminia Bielefeld,Hoffenheim,1,1,2021-05-15 13:30:00,Ihlas Bebou,Cross,956
+423660,12,MissedShots,0.5270000076293946,0.6930000305175781,0.008087609894573689,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15439,Hoffenheim,Hertha Berlin,2,1,2021-05-22 13:30:00,Kevin Vogt,Pass,956
+423673,51,BlockedShot,0.850999984741211,0.4759999847412109,0.08440530300140381,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15439,Hoffenheim,Hertha Berlin,2,1,2021-05-22 13:30:00,Ihlas Bebou,Pass,956
+423681,83,BlockedShot,0.905,0.5279999923706055,0.19374799728393555,Andrej Kramaric,h,956,OpenPlay,2020,LeftFoot,15439,Hoffenheim,Hertha Berlin,2,1,2021-05-22 13:30:00,Sargis Adamyan,TakeOn,956
+423683,90,Goal,0.8640000152587891,0.44599998474121094,0.10119900107383728,Andrej Kramaric,h,956,OpenPlay,2020,RightFoot,15439,Hoffenheim,Hertha Berlin,2,1,2021-05-22 13:30:00,Ihlas Bebou,Pass,956
+423685,91,BlockedShot,0.815,0.5429999923706055,0.06516370177268982,Andrej Kramaric,h,956,OpenPlay,2020,LeftFoot,15439,Hoffenheim,Hertha Berlin,2,1,2021-05-22 13:30:00,Sargis Adamyan,Pass,956
+425750,32,BlockedShot,0.9069999694824219,0.5309999847412109,0.13006499409675598,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17518,Augsburg,Hoffenheim,0,4,2021-08-14 13:30:00,Jacob Bruun Larsen,Rebound,956
+425752,34,SavedShot,0.8580000305175781,0.5029999923706054,0.10428699851036072,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17518,Augsburg,Hoffenheim,0,4,2021-08-14 13:30:00,Kevin Akpoguma,Pass,956
+425762,75,SavedShot,0.9209999847412109,0.5429999923706055,0.4898569881916046,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17518,Augsburg,Hoffenheim,0,4,2021-08-14 13:30:00,,Rebound,956
+425765,83,SavedShot,0.595,0.515,0.009747049771249294,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17518,Augsburg,Hoffenheim,0,4,2021-08-14 13:30:00,Georginio Rutter,BallRecovery,956
+425767,89,BlockedShot,0.764000015258789,0.3579999923706055,0.06407909840345383,Andrej Kramaric,a,956,DirectFreekick,2021,RightFoot,17518,Augsburg,Hoffenheim,0,4,2021-08-14 13:30:00,,Standard,956
+428362,2,ShotOnPost,0.919000015258789,0.4570000076293945,0.06079870089888573,Andrej Kramaric,a,956,OpenPlay,2021,Head,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Sebastian Rudy,Aerial,956
+428375,45,BlockedShot,0.9,0.5220000076293946,0.043617501854896545,Andrej Kramaric,a,956,OpenPlay,2021,Head,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,David Raum,Aerial,956
+428378,55,BlockedShot,0.85,0.4620000076293945,0.06087980046868324,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,,None,956
+428379,58,SavedShot,0.855,0.5,0.576026976108551,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,Christoph Baumgartner,Throughball,956
+428386,73,SavedShot,0.775,0.3320000076293945,0.06530030071735382,Andrej Kramaric,a,956,DirectFreekick,2021,RightFoot,17534,Borussia Dortmund,Hoffenheim,3,2,2021-08-27 18:30:00,,Standard,956
+429664,9,BlockedShot,0.8190000152587891,0.655,0.031347598880529404,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17544,Hoffenheim,Mainz 05,0,2,2021-09-11 13:30:00,Dennis Geiger,Chipped,956
+429678,60,MissedShots,0.784000015258789,0.5459999847412109,0.10301200300455093,Andrej Kramaric,h,956,DirectFreekick,2021,RightFoot,17544,Hoffenheim,Mainz 05,0,2,2021-09-11 13:30:00,,Standard,956
+429683,92,MissedShots,0.904000015258789,0.5279999923706055,0.07166749984025955,Andrej Kramaric,h,956,FromCorner,2021,Head,17544,Hoffenheim,Mainz 05,0,2,2021-09-11 13:30:00,David Raum,Cross,956
+431212,14,MissedShots,0.9080000305175782,0.5670000076293945,0.30948400497436523,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17555,Arminia Bielefeld,Hoffenheim,0,0,2021-09-18 13:30:00,Christoph Baumgartner,Cross,956
+431214,29,BlockedShot,0.775,0.6140000152587891,0.03502560034394264,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17555,Arminia Bielefeld,Hoffenheim,0,0,2021-09-18 13:30:00,Jacob Bruun Larsen,LayOff,956
+431215,34,MissedShots,0.9469999694824218,0.4570000076293945,0.14691099524497986,Andrej Kramaric,a,956,OpenPlay,2021,Head,17555,Arminia Bielefeld,Hoffenheim,0,0,2021-09-18 13:30:00,David Raum,Cross,956
+431222,46,MissedShots,0.935,0.665,0.04354240000247955,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17555,Arminia Bielefeld,Hoffenheim,0,0,2021-09-18 13:30:00,Pavel Kaderábek,Cross,956
+431223,56,SavedShot,0.9009999847412109,0.46700000762939453,0.0448727011680603,Andrej Kramaric,a,956,OpenPlay,2021,Head,17555,Arminia Bielefeld,Hoffenheim,0,0,2021-09-18 13:30:00,David Raum,Aerial,956
+433292,8,MissedShots,0.8119999694824219,0.524000015258789,0.03464290127158165,Andrej Kramaric,h,956,OpenPlay,2021,LeftFoot,17566,Hoffenheim,Wolfsburg,3,1,2021-09-25 13:30:00,Christoph Baumgartner,HeadPass,956
+433302,38,MissedShots,0.855999984741211,0.700999984741211,0.02361379936337471,Andrej Kramaric,h,956,FromCorner,2021,RightFoot,17566,Hoffenheim,Wolfsburg,3,1,2021-09-25 13:30:00,David Raum,TakeOn,956
+433303,46,Goal,0.945,0.45299999237060545,0.32760000228881836,Andrej Kramaric,h,956,FromCorner,2021,Head,17566,Hoffenheim,Wolfsburg,3,1,2021-09-25 13:30:00,Chris Richards,Pass,956
+434801,1,SavedShot,0.860999984741211,0.545,0.029596799984574318,Andrej Kramaric,a,956,OpenPlay,2021,Head,17574,VfB Stuttgart,Hoffenheim,3,1,2021-10-02 13:30:00,Pavel Kaderábek,Chipped,956
+434806,15,MissedShots,0.774000015258789,0.5659999847412109,0.029761599376797676,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17574,VfB Stuttgart,Hoffenheim,3,1,2021-10-02 13:30:00,Florian Grillitsch,Pass,956
+434812,26,MissedShots,0.889000015258789,0.37,0.0707027018070221,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17574,VfB Stuttgart,Hoffenheim,3,1,2021-10-02 13:30:00,Ihlas Bebou,Pass,956
+434814,32,SavedShot,0.9180000305175782,0.6809999847412109,0.05504100024700165,Andrej Kramaric,a,956,OpenPlay,2021,LeftFoot,17574,VfB Stuttgart,Hoffenheim,3,1,2021-10-02 13:30:00,Sargis Adamyan,Pass,956
+434815,37,BlockedShot,0.889000015258789,0.7559999847412109,0.05363230034708977,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17574,VfB Stuttgart,Hoffenheim,3,1,2021-10-02 13:30:00,Diadie Samassékou,TakeOn,956
+434823,67,MissedShots,0.945,0.48700000762939455,0.14079000055789948,Andrej Kramaric,a,956,OpenPlay,2021,Head,17574,VfB Stuttgart,Hoffenheim,3,1,2021-10-02 13:30:00,David Raum,Chipped,956
+435908,7,SavedShot,0.9030000305175782,0.4520000076293945,0.4278309941291809,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17581,Hoffenheim,FC Cologne,5,0,2021-10-15 18:30:00,,None,956
+435918,49,SavedShot,0.7809999847412109,0.4879999923706055,0.034932199865579605,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17581,Hoffenheim,FC Cologne,5,0,2021-10-15 18:30:00,,None,956
+435926,79,SavedShot,0.8680000305175781,0.5379999923706055,0.11561699956655502,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17581,Hoffenheim,FC Cologne,5,0,2021-10-15 18:30:00,David Raum,Cross,956
+435927,81,ShotOnPost,0.74,0.5179999923706055,0.06165489926934242,Andrej Kramaric,h,956,DirectFreekick,2021,RightFoot,17581,Hoffenheim,FC Cologne,5,0,2021-10-15 18:30:00,,Standard,956
+437623,10,MissedShots,0.9580000305175781,0.43900001525878907,0.07809720188379288,Andrej Kramaric,a,956,OpenPlay,2021,Head,17596,Bayern Munich,Hoffenheim,4,0,2021-10-23 13:30:00,David Raum,Aerial,956
+439305,18,Goal,0.8880000305175781,0.44299999237060544,0.10438799858093262,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17599,Hoffenheim,Hertha Berlin,2,0,2021-10-29 18:30:00,,Rebound,956
+439307,22,MissedShots,0.884000015258789,0.5220000076293946,0.06503800302743912,Andrej Kramaric,h,956,SetPiece,2021,Head,17599,Hoffenheim,Hertha Berlin,2,0,2021-10-29 18:30:00,Robert Skov,Cross,956
+439309,27,MissedShots,0.9209999847412109,0.605,0.015339300036430359,Andrej Kramaric,h,956,FromCorner,2021,Head,17599,Hoffenheim,Hertha Berlin,2,0,2021-10-29 18:30:00,Dennis Geiger,Aerial,956
+439308,27,BlockedShot,0.7869999694824219,0.37599998474121094,0.037046998739242554,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17599,Hoffenheim,Hertha Berlin,2,0,2021-10-29 18:30:00,Sebastian Rudy,Pass,956
+441029,15,MissedShots,0.8209999847412109,0.33599998474121096,0.03511640056967735,Andrej Kramaric,a,956,OpenPlay,2021,LeftFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,Florian Grillitsch,Pass,956
+441044,81,BlockedShot,0.8469999694824218,0.5670000076293945,0.05741630122065544,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17607,Bochum,Hoffenheim,2,0,2021-11-06 14:30:00,Georginio Rutter,BallTouch,956
+447639,62,MissedShots,0.6370000076293946,0.4979999923706055,0.013294399715960026,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17646,Freiburg,Hoffenheim,1,2,2021-12-11 14:30:00,Ihlas Bebou,Pass,956
+449010,48,MissedShots,0.8480000305175781,0.49700000762939456,0.028804399073123932,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17657,Bayer Leverkusen,Hoffenheim,2,2,2021-12-15 19:30:00,,Aerial,956
+449012,49,MissedShots,0.9490000152587891,0.46900001525878904,0.09889770299196243,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17657,Bayer Leverkusen,Hoffenheim,2,2,2021-12-15 19:30:00,,None,956
+449011,49,SavedShot,0.9290000152587891,0.46900001525878904,0.4669640064239502,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17657,Bayer Leverkusen,Hoffenheim,2,2,2021-12-15 19:30:00,Angelo Stiller,Cross,956
+449017,65,ShotOnPost,0.925,0.5329999923706055,0.06951180100440979,Andrej Kramaric,a,956,OpenPlay,2021,Head,17657,Bayer Leverkusen,Hoffenheim,2,2,2021-12-15 19:30:00,David Raum,Aerial,956
+449022,73,SavedShot,0.9080000305175782,0.6509999847412109,0.06699720025062561,Andrej Kramaric,a,956,SetPiece,2021,RightFoot,17657,Bayer Leverkusen,Hoffenheim,2,2,2021-12-15 19:30:00,Chris Richards,HeadPass,956
+449025,80,BlockedShot,0.8530000305175781,0.4809999847412109,0.08347970247268677,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17657,Bayer Leverkusen,Hoffenheim,2,2,2021-12-15 19:30:00,Georginio Rutter,Pass,956
+449426,51,BlockedShot,0.9019999694824219,0.5729999923706055,0.07820480316877365,Andrej Kramaric,h,956,FromCorner,2021,LeftFoot,17664,Hoffenheim,Borussia M.Gladbach,1,1,2021-12-18 14:30:00,Georginio Rutter,Pass,956
+449432,73,BlockedShot,0.7719999694824219,0.3270000076293945,0.06227770075201988,Andrej Kramaric,h,956,DirectFreekick,2021,RightFoot,17664,Hoffenheim,Borussia M.Gladbach,1,1,2021-12-18 14:30:00,,Standard,956
+452107,36,SavedShot,0.825,0.635,0.04036309942603111,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17672,Hoffenheim,Augsburg,3,1,2022-01-08 14:30:00,,BallRecovery,956
+452110,43,BlockedShot,0.7830000305175782,0.5879999923706055,0.03515459969639778,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17672,Hoffenheim,Augsburg,3,1,2022-01-08 14:30:00,Kevin Vogt,Chipped,956
+452113,57,BlockedShot,0.8980000305175782,0.635,0.08876709640026093,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17672,Hoffenheim,Augsburg,3,1,2022-01-08 14:30:00,David Raum,Pass,956
+453202,51,SavedShot,0.825999984741211,0.6969999694824218,0.030597999691963196,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,David Raum,Pass,956
+453211,81,BlockedShot,0.750999984741211,0.35400001525878905,0.05557680130004883,Andrej Kramaric,a,956,DirectFreekick,2021,RightFoot,17684,Union Berlin,Hoffenheim,2,1,2022-01-15 14:30:00,,Standard,956
+454557,45,Goal,0.8859999847412109,0.5590000152587891,0.07311560213565826,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17690,Hoffenheim,Borussia Dortmund,2,3,2022-01-22 14:30:00,Ihlas Bebou,Cross,956
+454562,60,MissedShots,0.91,0.4179999923706055,0.10881400108337402,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17690,Hoffenheim,Borussia Dortmund,2,3,2022-01-22 14:30:00,Ihlas Bebou,Pass,956
+455733,46,SavedShot,0.8819999694824219,0.4209999847412109,0.10235799849033356,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17700,Mainz 05,Hoffenheim,2,0,2022-02-05 14:30:00,Munas Dabbur,Pass,956
+458124,32,BlockedShot,0.8030000305175782,0.5220000076293946,0.051898300647735596,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17720,Wolfsburg,Hoffenheim,1,2,2022-02-19 14:30:00,Georginio Rutter,Pass,956
+458130,64,SavedShot,0.8209999847412109,0.7719999694824219,0.02075590007007122,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17720,Wolfsburg,Hoffenheim,1,2,2022-02-19 14:30:00,Diadie Samassékou,Pass,956
+458136,74,MissedShots,0.855,0.6370000076293946,0.06084970012307167,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17720,Wolfsburg,Hoffenheim,1,2,2022-02-19 14:30:00,Jacob Bruun Larsen,Pass,956
+458137,77,Goal,0.94,0.5070000076293946,0.595071017742157,Andrej Kramaric,a,956,OpenPlay,2021,LeftFoot,17720,Wolfsburg,Hoffenheim,1,2,2022-02-19 14:30:00,Christoph Baumgartner,None,956
+459345,40,MissedShots,0.865999984741211,0.5690000152587891,0.07463689893484116,Andrej Kramaric,h,956,OpenPlay,2021,LeftFoot,17726,Hoffenheim,VfB Stuttgart,2,1,2022-02-25 19:30:00,,None,956
+461772,5,MissedShots,0.8119999694824219,0.6790000152587891,0.029960500076413155,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17733,FC Cologne,Hoffenheim,0,1,2022-03-06 16:30:00,Ihlas Bebou,Pass,956
+461773,19,MissedShots,0.9380000305175781,0.5270000076293946,0.5119550228118896,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17733,FC Cologne,Hoffenheim,0,1,2022-03-06 16:30:00,David Raum,Cross,956
+461776,24,BlockedShot,0.8230000305175781,0.5579999923706055,0.05052269995212555,Andrej Kramaric,a,956,OpenPlay,2021,LeftFoot,17733,FC Cologne,Hoffenheim,0,1,2022-03-06 16:30:00,David Raum,Chipped,956
+461785,65,SavedShot,0.9109999847412109,0.485,0.5129140019416809,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17733,FC Cologne,Hoffenheim,0,1,2022-03-06 16:30:00,Georginio Rutter,Pass,956
+462435,4,BlockedShot,0.9209999847412109,0.6120000076293945,0.1398790031671524,Andrej Kramaric,h,956,OpenPlay,2021,LeftFoot,17743,Hoffenheim,Bayern Munich,1,1,2022-03-12 14:30:00,David Raum,Pass,956
+462434,4,SavedShot,0.9080000305175782,0.5870000076293945,0.1443140059709549,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17743,Hoffenheim,Bayern Munich,1,1,2022-03-12 14:30:00,Georginio Rutter,Pass,956
+462450,57,SavedShot,0.885,0.5729999923706055,0.3687010109424591,Andrej Kramaric,h,956,OpenPlay,2021,LeftFoot,17743,Hoffenheim,Bayern Munich,1,1,2022-03-12 14:30:00,David Raum,Pass,956
+462457,78,SavedShot,0.8930000305175781,0.5059999847412109,0.43263500928878784,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17743,Hoffenheim,Bayern Munich,1,1,2022-03-12 14:30:00,Jacob Bruun Larsen,Pass,956
+463977,9,MissedShots,0.8580000305175781,0.7119999694824218,0.04056759923696518,Andrej Kramaric,a,956,OpenPlay,2021,LeftFoot,17753,Hertha Berlin,Hoffenheim,3,0,2022-03-19 14:30:00,David Raum,BallTouch,956
+465123,12,BlockedShot,0.8469999694824218,0.654000015258789,0.05368660017848015,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17761,Hoffenheim,Bochum,1,2,2022-04-02 13:30:00,David Raum,Pass,956
+465126,19,SavedShot,0.8619999694824219,0.41,0.08866330236196518,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17761,Hoffenheim,Bochum,1,2,2022-04-02 13:30:00,Ihlas Bebou,Pass,956
+465127,23,SavedShot,0.750999984741211,0.40099998474121096,0.02352450042963028,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17761,Hoffenheim,Bochum,1,2,2022-04-02 13:30:00,Kevin Vogt,Pass,956
+465134,48,MissedShots,0.855999984741211,0.5220000076293946,0.120169997215271,Andrej Kramaric,h,956,OpenPlay,2021,Head,17761,Hoffenheim,Bochum,1,2,2022-04-02 13:30:00,Angelo Stiller,Chipped,956
+465135,50,SavedShot,0.850999984741211,0.5270000076293946,0.3420169949531555,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17761,Hoffenheim,Bochum,1,2,2022-04-02 13:30:00,Christoph Baumgartner,Pass,956
+465145,77,SavedShot,0.845,0.625,0.059111300855875015,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17761,Hoffenheim,Bochum,1,2,2022-04-02 13:30:00,David Raum,Pass,956
+467635,39,BlockedShot,0.8430000305175781,0.3990000152587891,0.057877298444509506,Andrej Kramaric,a,956,SetPiece,2021,RightFoot,17775,RasenBallsport Leipzig,Hoffenheim,3,0,2022-04-10 17:30:00,Ihlas Bebou,Pass,956
+468858,10,SavedShot,0.8909999847412109,0.59,0.12375900149345398,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17780,Hoffenheim,Greuther Fuerth,0,0,2022-04-17 15:30:00,,TakeOn,956
+468862,23,BlockedShot,0.874000015258789,0.32799999237060545,0.052356600761413574,Andrej Kramaric,h,956,FromCorner,2021,LeftFoot,17780,Hoffenheim,Greuther Fuerth,0,0,2022-04-17 15:30:00,Diadie Samassékou,Rebound,956
+468872,69,BlockedShot,0.8069999694824219,0.5929999923706055,0.04797489941120148,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17780,Hoffenheim,Greuther Fuerth,0,0,2022-04-17 15:30:00,Kevin Akpoguma,Dispossessed,956
+468875,81,BlockedShot,0.8380000305175781,0.4279999923706055,0.0779011994600296,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17780,Hoffenheim,Greuther Fuerth,0,0,2022-04-17 15:30:00,Håvard Nordtveit,Pass,956
+468877,85,SavedShot,0.8059999847412109,0.56,0.04356420040130615,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17780,Hoffenheim,Greuther Fuerth,0,0,2022-04-17 15:30:00,Jacob Bruun Larsen,Pass,956
+468878,90,MissedShots,0.9319999694824219,0.44299999237060544,0.10074099898338318,Andrej Kramaric,h,956,FromCorner,2021,Head,17780,Hoffenheim,Greuther Fuerth,0,0,2022-04-17 15:30:00,Robert Skov,Cross,956
+469909,89,SavedShot,0.875999984741211,0.5170000076293946,0.3063009977340698,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17791,Eintracht Frankfurt,Hoffenheim,2,2,2022-04-23 13:30:00,Ihlas Bebou,Cross,956
+471842,15,SavedShot,0.8919999694824219,0.635,0.018781200051307678,Andrej Kramaric,h,956,OpenPlay,2021,Head,17798,Hoffenheim,Freiburg,3,4,2022-04-30 16:30:00,Pavel Kaderábek,Cross,956
+471846,31,Goal,0.95,0.5370000076293945,0.5259860157966614,Andrej Kramaric,h,956,OpenPlay,2021,RightFoot,17798,Hoffenheim,Freiburg,3,4,2022-04-30 16:30:00,David Raum,Cross,956
+471847,36,BlockedShot,0.8380000305175781,0.655,0.05046290159225464,Andrej Kramaric,h,956,OpenPlay,2021,LeftFoot,17798,Hoffenheim,Freiburg,3,4,2022-04-30 16:30:00,Ihlas Bebou,BallTouch,956
+471864,77,MissedShots,0.9169999694824219,0.48900001525878906,0.044958099722862244,Andrej Kramaric,h,956,FromCorner,2021,Head,17798,Hoffenheim,Freiburg,3,4,2022-04-30 16:30:00,David Raum,Aerial,956
+473107,62,BlockedShot,0.955999984741211,0.46700000762939453,0.1229579970240593,Andrej Kramaric,h,956,FromCorner,2021,RightFoot,17808,Hoffenheim,Bayer Leverkusen,2,4,2022-05-07 13:30:00,,None,956
+473114,78,MissedShots,0.8809999847412109,0.5629999923706055,0.07941749691963196,Andrej Kramaric,h,956,OpenPlay,2021,LeftFoot,17808,Hoffenheim,Bayer Leverkusen,2,4,2022-05-07 13:30:00,,Rebound,956
+475663,2,Goal,0.9469999694824218,0.509000015258789,0.6194390058517456,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17817,Borussia M.Gladbach,Hoffenheim,5,1,2022-05-14 13:30:00,Robert Skov,Pass,956
+475666,15,MissedShots,0.88,0.519000015258789,0.5520489811897278,Andrej Kramaric,a,956,OpenPlay,2021,RightFoot,17817,Borussia M.Gladbach,Hoffenheim,5,1,2022-05-14 13:30:00,David Raum,Pass,956
+475685,77,MissedShots,0.7780000305175782,0.585999984741211,0.028740400448441505,Andrej Kramaric,a,956,OpenPlay,2021,LeftFoot,17817,Borussia M.Gladbach,Hoffenheim,5,1,2022-05-14 13:30:00,Christoph Baumgartner,Pass,956
+475688,86,MissedShots,0.9669999694824218,0.6079999923706054,0.20986300706863403,Andrej Kramaric,a,956,FromCorner,2021,Head,17817,Borussia M.Gladbach,Hoffenheim,5,1,2022-05-14 13:30:00,David Raum,Cross,956
+480202,11,BlockedShot,0.850999984741211,0.40700000762939453,0.04945269972085953,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19355,Hoffenheim,Bochum,3,2,2022-08-13 13:30:00,Robert Skov,Cross,956
+480205,13,SavedShot,0.8619999694824219,0.3820000076293945,0.08310409635305405,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19355,Hoffenheim,Bochum,3,2,2022-08-13 13:30:00,Robert Skov,Pass,956
+480219,41,SavedShot,0.8680000305175781,0.49400001525878906,0.10845799744129181,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19355,Hoffenheim,Bochum,3,2,2022-08-13 13:30:00,Robert Skov,Pass,956
+480225,58,SavedShot,0.885,0.5,0.7577769756317139,Andrej Kramaric,h,956,Penalty,2022,RightFoot,19355,Hoffenheim,Bochum,3,2,2022-08-13 13:30:00,,Standard,956
+480231,77,BlockedShot,0.870999984741211,0.5370000076293945,0.07834439724683762,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19355,Hoffenheim,Bochum,3,2,2022-08-13 13:30:00,,None,956
+481685,34,Goal,0.9630000305175781,0.5159999847412109,0.6433069705963135,Andrej Kramaric,a,956,OpenPlay,2022,Head,19365,Bayer Leverkusen,Hoffenheim,0,3,2022-08-20 13:30:00,,None,956
+481694,73,BlockedShot,0.925,0.6530000305175782,0.1015160009264946,Andrej Kramaric,a,956,OpenPlay,2022,LeftFoot,19365,Bayer Leverkusen,Hoffenheim,0,3,2022-08-20 13:30:00,Georginio Rutter,Pass,956
+483501,9,MissedShots,0.9069999694824219,0.6990000152587891,0.10310900211334229,Andrej Kramaric,h,956,OpenPlay,2022,LeftFoot,19372,Hoffenheim,Augsburg,1,0,2022-08-27 13:30:00,Dennis Geiger,Chipped,956
+483510,31,MissedShots,0.805,0.32599998474121095,0.022112099453806877,Andrej Kramaric,h,956,OpenPlay,2022,LeftFoot,19372,Hoffenheim,Augsburg,1,0,2022-08-27 13:30:00,Dennis Geiger,Chipped,956
+485556,53,SavedShot,0.8319999694824218,0.654000015258789,0.03917580097913742,Andrej Kramaric,a,956,OpenPlay,2022,LeftFoot,19378,Borussia Dortmund,Hoffenheim,1,0,2022-09-02 18:30:00,,None,956
+485558,59,MissedShots,0.755,0.5579999923706055,0.0706804022192955,Andrej Kramaric,a,956,DirectFreekick,2022,RightFoot,19378,Borussia Dortmund,Hoffenheim,1,0,2022-09-02 18:30:00,,Standard,956
+487440,24,MissedShots,0.970999984741211,0.6,0.30417999625205994,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19390,Hoffenheim,Mainz 05,4,1,2022-09-10 13:30:00,Georginio Rutter,Chipped,956
+487444,43,MissedShots,0.885,0.5,0.7577769756317139,Andrej Kramaric,h,956,Penalty,2022,RightFoot,19390,Hoffenheim,Mainz 05,4,1,2022-09-10 13:30:00,,Standard,956
+487448,52,Goal,0.9519999694824218,0.47200000762939454,0.5959280133247375,Andrej Kramaric,h,956,OpenPlay,2022,LeftFoot,19390,Hoffenheim,Mainz 05,4,1,2022-09-10 13:30:00,Georginio Rutter,Chipped,956
+489607,55,MissedShots,0.8669999694824219,0.6980000305175781,0.04216780140995979,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19404,Hoffenheim,Freiburg,0,0,2022-09-18 17:30:00,,None,956
+490828,18,MissedShots,0.885,0.43900001525878907,0.06718719750642776,Andrej Kramaric,a,956,FromCorner,2022,RightFoot,19411,Hertha Berlin,Hoffenheim,1,1,2022-10-02 13:30:00,Dennis Geiger,Pass,956
+490833,24,Goal,0.9380000305175781,0.5220000076293946,0.5971099734306335,Andrej Kramaric,a,956,OpenPlay,2022,LeftFoot,19411,Hertha Berlin,Hoffenheim,1,1,2022-10-02 13:30:00,Ozan Kabak,Rebound,956
+490839,44,ShotOnPost,0.8930000305175781,0.664000015258789,0.054683901369571686,Andrej Kramaric,a,956,OpenPlay,2022,LeftFoot,19411,Hertha Berlin,Hoffenheim,1,1,2022-10-02 13:30:00,Angelino,Chipped,956
+491283,38,MissedShots,0.8119999694824219,0.6469999694824219,0.03439730033278465,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19417,Hoffenheim,Werder Bremen,1,2,2022-10-07 18:30:00,Munas Dabbur,Pass,956
+491284,46,MissedShots,0.8619999694824219,0.37099998474121093,0.048733700066804886,Andrej Kramaric,h,956,FromCorner,2022,LeftFoot,19417,Hoffenheim,Werder Bremen,1,2,2022-10-07 18:30:00,,None,956
+497981,39,MissedShots,0.7919999694824219,0.5370000076293945,0.1162090003490448,Andrej Kramaric,h,956,DirectFreekick,2022,RightFoot,19452,Hoffenheim,RasenBallsport Leipzig,1,3,2022-11-05 14:30:00,,Standard,956
+497998,81,MissedShots,0.7140000152587891,0.47099998474121096,0.011185499839484692,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19452,Hoffenheim,RasenBallsport Leipzig,1,3,2022-11-05 14:30:00,,TakeOn,956
+499461,83,SavedShot,0.9359999847412109,0.5629999923706055,0.12950600683689117,Andrej Kramaric,a,956,OpenPlay,2022,Head,19463,Eintracht Frankfurt,Hoffenheim,4,2,2022-11-09 19:30:00,Christoph Baumgartner,Cross,956
+500052,21,SavedShot,0.8380000305175781,0.53,0.021271299570798874,Andrej Kramaric,h,956,SetPiece,2022,Head,19471,Hoffenheim,Wolfsburg,1,2,2022-11-12 14:30:00,Angelino,Cross,956
+504581,90,MissedShots,0.8669999694824219,0.41900001525878905,0.051048800349235535,Andrej Kramaric,a,956,OpenPlay,2022,RightFoot,19479,Union Berlin,Hoffenheim,3,1,2023-01-21 14:30:00,Christoph Baumgartner,HeadPass,956
+505361,10,Goal,0.9309999847412109,0.524000015258789,0.408486008644104,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19490,Hoffenheim,VfB Stuttgart,2,2,2023-01-24 19:30:00,Angelino,Chipped,956
+505380,93,Goal,0.894000015258789,0.3,0.044035401195287704,Andrej Kramaric,h,956,OpenPlay,2022,LeftFoot,19490,Hoffenheim,VfB Stuttgart,2,2,2023-01-24 19:30:00,,None,956
+505725,62,BlockedShot,0.925,0.6090000152587891,0.0696140006184578,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19500,Hoffenheim,Borussia M.Gladbach,1,4,2023-01-28 14:30:00,,None,956
+505729,69,MissedShots,0.8640000152587891,0.28899999618530275,0.0414603017270565,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19500,Hoffenheim,Borussia M.Gladbach,1,4,2023-01-28 14:30:00,Ihlas Bebou,Pass,956
+505730,76,MissedShots,0.870999984741211,0.605999984741211,0.07892289757728577,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19500,Hoffenheim,Borussia M.Gladbach,1,4,2023-01-28 14:30:00,Finn Becker,Pass,956
+505735,96,BlockedShot,0.8280000305175781,0.39799999237060546,0.06543490290641785,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19500,Hoffenheim,Borussia M.Gladbach,1,4,2023-01-28 14:30:00,Angelino,Pass,956
+506963,76,SavedShot,0.9169999694824219,0.5690000152587891,0.25977399945259094,Andrej Kramaric,a,956,OpenPlay,2022,RightFoot,19510,Bochum,Hoffenheim,5,2,2023-02-04 14:30:00,Kasper Dolberg,HeadPass,956
+508299,70,SavedShot,0.925,0.3729999923706055,0.08759699761867523,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19518,Hoffenheim,Bayer Leverkusen,1,3,2023-02-11 14:30:00,Kevin Akpoguma,Pass,956
+508303,82,SavedShot,0.945,0.34299999237060547,0.05009090155363083,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19518,Hoffenheim,Bayer Leverkusen,1,3,2023-02-11 14:30:00,,Rebound,956
+508305,92,BlockedShot,0.7580000305175781,0.59,0.021669000387191772,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19518,Hoffenheim,Bayer Leverkusen,1,3,2023-02-11 14:30:00,Stanley N&#039;Soki,Pass,956
+509343,81,SavedShot,0.850999984741211,0.44599998474121094,0.08648049831390381,Andrej Kramaric,a,956,OpenPlay,2022,LeftFoot,19529,Augsburg,Hoffenheim,1,0,2023-02-17 19:30:00,Fisnik Asllani,Pass,956
+510725,14,BlockedShot,0.8380000305175781,0.500999984741211,0.07323569804430008,Andrej Kramaric,h,956,OpenPlay,2022,LeftFoot,19536,Hoffenheim,Borussia Dortmund,0,1,2023-02-25 14:30:00,Christoph Baumgartner,BallTouch,956
+510741,48,BlockedShot,0.8619999694824219,0.519000015258789,0.0900539979338646,Andrej Kramaric,h,956,OpenPlay,2022,LeftFoot,19536,Hoffenheim,Borussia Dortmund,0,1,2023-02-25 14:30:00,Ihlas Bebou,Pass,956
+510742,58,SavedShot,0.875,0.5029999923706054,0.10323899984359741,Andrej Kramaric,h,956,SetPiece,2022,RightFoot,19536,Hoffenheim,Borussia Dortmund,0,1,2023-02-25 14:30:00,Sebastian Rudy,Pass,956
+510748,70,BlockedShot,0.7780000305175782,0.46599998474121096,0.03176179900765419,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19536,Hoffenheim,Borussia Dortmund,0,1,2023-02-25 14:30:00,Angelino,Pass,956
+514916,19,SavedShot,0.894000015258789,0.625999984741211,0.28817498683929443,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19562,Hoffenheim,Hertha Berlin,3,1,2023-03-18 14:30:00,Kevin Vogt,Chipped,956
+514918,23,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,h,956,Penalty,2022,RightFoot,19562,Hoffenheim,Hertha Berlin,3,1,2023-03-18 14:30:00,,Standard,956
+514924,36,Goal,0.885,0.5,0.7577769756317139,Andrej Kramaric,h,956,Penalty,2022,RightFoot,19562,Hoffenheim,Hertha Berlin,3,1,2023-03-18 14:30:00,,Standard,956
+514932,62,BlockedShot,0.8630000305175781,0.4279999923706055,0.0716622993350029,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19562,Hoffenheim,Hertha Berlin,3,1,2023-03-18 14:30:00,,Rebound,956
+517130,49,Goal,0.9619999694824218,0.4779999923706055,0.6129710078239441,Andrej Kramaric,a,956,OpenPlay,2022,Head,19573,Werder Bremen,Hoffenheim,1,2,2023-04-02 15:30:00,Angelino,Cross,956
+518881,19,MissedShots,0.8530000305175781,0.635,0.03616340085864067,Andrej Kramaric,h,956,FromCorner,2022,LeftFoot,19580,Hoffenheim,Schalke 04,2,0,2023-04-09 17:30:00,Dennis Geiger,Cross,956
+518887,34,BlockedShot,0.840999984741211,0.40700000762939453,0.15251900255680084,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19580,Hoffenheim,Schalke 04,2,0,2023-04-09 17:30:00,Christoph Baumgartner,Throughball,956
+518892,52,SavedShot,0.874000015258789,0.5990000152587891,0.07023540139198303,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19580,Hoffenheim,Schalke 04,2,0,2023-04-09 17:30:00,Pavel Kaderábek,Cross,956
+519372,70,Goal,0.7519999694824219,0.5659999847412109,0.06748279929161072,Andrej Kramaric,a,956,DirectFreekick,2022,RightFoot,19585,Bayern Munich,Hoffenheim,1,1,2023-04-15 13:30:00,,Standard,956
+520798,43,BlockedShot,0.7769999694824219,0.40599998474121096,0.08509952574968338,Andrej Kramaric,h,956,DirectFreekick,2022,RightFoot,19598,Hoffenheim,FC Cologne,1,3,2023-04-22 13:30:00,,Standard,956
+520802,49,MissedShots,0.75,0.35700000762939454,0.015402157790958881,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19598,Hoffenheim,FC Cologne,1,3,2023-04-22 13:30:00,Munas Dabbur,Pass,956
+520804,56,BlockedShot,0.9059999847412109,0.5,0.12243723124265671,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19598,Hoffenheim,FC Cologne,1,3,2023-04-22 13:30:00,Pavel Kaderábek,Pass,956
+524584,32,MissedShots,0.7140000152587891,0.33,0.012973824515938759,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19616,Hoffenheim,Eintracht Frankfurt,3,1,2023-05-06 13:30:00,,None,956
+524585,34,SavedShot,0.8640000152587891,0.605999984741211,0.09573797136545181,Andrej Kramaric,h,956,OpenPlay,2022,LeftFoot,19616,Hoffenheim,Eintracht Frankfurt,3,1,2023-05-06 13:30:00,Ihlas Bebou,Pass,956
+524589,40,Goal,0.885,0.5,0.75777667760849,Andrej Kramaric,h,956,Penalty,2022,RightFoot,19616,Hoffenheim,Eintracht Frankfurt,3,1,2023-05-06 13:30:00,,Standard,956
+525832,6,ShotOnPost,0.735,0.34299999237060547,0.017399758100509644,Andrej Kramaric,a,956,OpenPlay,2022,LeftFoot,19627,Wolfsburg,Hoffenheim,2,1,2023-05-13 13:30:00,Ihlas Bebou,Pass,956
+525836,35,BlockedShot,0.8690000152587891,0.3579999923706055,0.08828528970479965,Andrej Kramaric,a,956,OpenPlay,2022,LeftFoot,19627,Wolfsburg,Hoffenheim,2,1,2023-05-13 13:30:00,Christoph Baumgartner,Pass,956
+527394,35,Goal,0.885,0.5,0.75777667760849,Andrej Kramaric,h,956,Penalty,2022,RightFoot,19634,Hoffenheim,Union Berlin,4,2,2023-05-20 13:30:00,,Standard,956
+527400,61,BlockedShot,0.85,0.73,0.03340696170926094,Andrej Kramaric,h,956,OpenPlay,2022,RightFoot,19634,Hoffenheim,Union Berlin,4,2,2023-05-20 13:30:00,Ihlas Bebou,Pass,956
+527411,89,Goal,0.975999984741211,0.49599998474121093,0.9231976270675659,Andrej Kramaric,h,956,OpenPlay,2022,LeftFoot,19634,Hoffenheim,Union Berlin,4,2,2023-05-20 13:30:00,Munas Dabbur,Pass,956
+528976,2,MissedShots,0.6179999923706054,0.335,0.007055067922919989,Andrej Kramaric,a,956,OpenPlay,2022,RightFoot,19647,VfB Stuttgart,Hoffenheim,1,1,2023-05-27 13:30:00,,None,956
+528979,24,MissedShots,0.96,0.4490000152587891,0.5021388530731201,Andrej Kramaric,a,956,OpenPlay,2022,Head,19647,VfB Stuttgart,Hoffenheim,1,1,2023-05-27 13:30:00,Angelino,Aerial,956
+528999,82,MissedShots,0.7390000152587891,0.5609999847412109,0.021412095054984093,Andrej Kramaric,a,956,OpenPlay,2022,RightFoot,19647,VfB Stuttgart,Hoffenheim,1,1,2023-05-27 13:30:00,Jacob Bruun Larsen,Pass,956
+533041,4,BlockedShot,0.845,0.669000015258789,0.04382016509771347,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23068,Hoffenheim,Freiburg,1,2,2023-08-19 13:30:00,John Brooks,Pass,956
+533047,17,BlockedShot,0.789000015258789,0.6,0.031080210581421852,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23068,Hoffenheim,Freiburg,1,2,2023-08-19 13:30:00,Marius Bülter,Pass,956
+533059,51,MissedShots,0.775,0.5179999923706055,0.021936537697911263,Andrej Kramaric,h,956,SetPiece,2023,RightFoot,23068,Hoffenheim,Freiburg,1,2,2023-08-19 13:30:00,John Brooks,HeadPass,956
+534527,31,SavedShot,0.7390000152587891,0.575999984741211,0.05752760171890259,Andrej Kramaric,a,956,DirectFreekick,2023,RightFoot,23078,FC Heidenheim,Hoffenheim,2,3,2023-08-26 13:30:00,,Standard,956
+534534,51,ShotOnPost,0.924000015258789,0.8069999694824219,0.07296128571033478,Andrej Kramaric,a,956,DirectFreekick,2023,RightFoot,23078,FC Heidenheim,Hoffenheim,2,3,2023-08-26 13:30:00,,Standard,956
+534547,89,Goal,0.885,0.5,0.75777667760849,Andrej Kramaric,a,956,Penalty,2023,RightFoot,23078,FC Heidenheim,Hoffenheim,2,3,2023-08-26 13:30:00,,Standard,956
+536120,44,BlockedShot,0.8159999847412109,0.5420000076293945,0.16045653820037842,Andrej Kramaric,h,956,DirectFreekick,2023,RightFoot,23085,Hoffenheim,Wolfsburg,3,1,2023-09-02 13:30:00,,Standard,956
+537431,0,Goal,0.919000015258789,0.6070000076293945,0.3621513843536377,Andrej Kramaric,a,956,OpenPlay,2023,LeftFoot,23097,FC Cologne,Hoffenheim,1,3,2023-09-16 13:30:00,,None,956
+537444,50,MissedShots,0.945,0.3039999961853027,0.014297186397016048,Andrej Kramaric,a,956,OpenPlay,2023,Head,23097,FC Cologne,Hoffenheim,1,3,2023-09-16 13:30:00,Robert Skov,Cross,956
+537458,91,MissedShots,0.750999984741211,0.745999984741211,0.03967571631073952,Andrej Kramaric,a,956,DirectFreekick,2023,RightFoot,23097,FC Cologne,Hoffenheim,1,3,2023-09-16 13:30:00,,Standard,956
+537459,92,MissedShots,0.7969999694824219,0.5129999923706055,0.12976054847240448,Andrej Kramaric,a,956,OpenPlay,2023,RightFoot,23097,FC Cologne,Hoffenheim,1,3,2023-09-16 13:30:00,Mërgim Berisha,Chipped,956
+538953,21,Goal,0.885,0.5,0.75777667760849,Andrej Kramaric,a,956,Penalty,2023,RightFoot,23106,Union Berlin,Hoffenheim,0,2,2023-09-23 13:30:00,,Standard,956
+540708,6,SavedShot,0.6919999694824219,0.33,0.011697832494974136,Andrej Kramaric,h,956,OpenPlay,2023,LeftFoot,23110,Hoffenheim,Borussia Dortmund,1,3,2023-09-29 18:30:00,Ihlas Bebou,Pass,956
+540711,24,Goal,0.885,0.5,0.75777667760849,Andrej Kramaric,h,956,Penalty,2023,RightFoot,23110,Hoffenheim,Borussia Dortmund,1,3,2023-09-29 18:30:00,,Standard,956
+540719,36,MissedShots,0.75,0.654000015258789,0.053746964782476425,Andrej Kramaric,h,956,DirectFreekick,2023,RightFoot,23110,Hoffenheim,Borussia Dortmund,1,3,2023-09-29 18:30:00,,Standard,956
+546702,91,BlockedShot,0.815,0.664000015258789,0.03488350287079811,Andrej Kramaric,h,956,OpenPlay,2023,LeftFoot,23152,Hoffenheim,Bayer Leverkusen,2,3,2023-11-04 14:30:00,Marius Bülter,Pass,956
+551137,70,MissedShots,0.8819999694824219,0.3970000076293945,0.08305320888757706,Andrej Kramaric,a,956,OpenPlay,2023,LeftFoot,23177,Borussia M.Gladbach,Hoffenheim,2,1,2023-12-02 14:30:00,Wout Weghorst,BallTouch,956
+552503,29,BlockedShot,0.86,0.675,0.048525430262088776,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23187,Hoffenheim,Bochum,3,1,2023-12-08 19:30:00,Marius Bülter,Pass,956
+552509,42,Goal,0.9159999847412109,0.580999984741211,0.34969642758369446,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23187,Hoffenheim,Bochum,3,1,2023-12-08 19:30:00,Grischa Prömel,TakeOn,956
+552523,71,BlockedShot,0.8219999694824218,0.5640000152587891,0.05993945524096489,Andrej Kramaric,h,956,OpenPlay,2023,LeftFoot,23187,Hoffenheim,Bochum,3,1,2023-12-08 19:30:00,,None,956
+554387,24,SavedShot,0.94,0.590999984741211,0.026713591068983078,Andrej Kramaric,a,956,FromCorner,2023,Head,23192,RasenBallsport Leipzig,Hoffenheim,3,1,2023-12-16 17:30:00,Marius Bülter,Aerial,956
+554391,30,SavedShot,0.8440000152587891,0.3870000076293945,0.07168523967266083,Andrej Kramaric,a,956,OpenPlay,2023,RightFoot,23192,RasenBallsport Leipzig,Hoffenheim,3,1,2023-12-16 17:30:00,Grischa Prömel,Pass,956
+554403,71,BlockedShot,0.8619999694824219,0.4809999847412109,0.0610588975250721,Andrej Kramaric,a,956,OpenPlay,2023,LeftFoot,23192,RasenBallsport Leipzig,Hoffenheim,3,1,2023-12-16 17:30:00,Grischa Prömel,HeadPass,956
+554407,81,MissedShots,0.8130000305175781,0.6530000305175782,0.10213568061590195,Andrej Kramaric,a,956,DirectFreekick,2023,RightFoot,23192,RasenBallsport Leipzig,Hoffenheim,3,1,2023-12-16 17:30:00,,Standard,956
+555284,7,MissedShots,0.9180000305175782,0.47,0.057941559702157974,Andrej Kramaric,h,956,OpenPlay,2023,Head,23205,Hoffenheim,Darmstadt,3,3,2023-12-19 19:30:00,Pavel Kaderábek,Aerial,956
+555286,13,Goal,0.885,0.5,0.75777667760849,Andrej Kramaric,h,956,Penalty,2023,RightFoot,23205,Hoffenheim,Darmstadt,3,3,2023-12-19 19:30:00,,Standard,956
+555299,49,MissedShots,0.8540000152587891,0.65,0.06049571558833122,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23205,Hoffenheim,Darmstadt,3,3,2023-12-19 19:30:00,Kevin Vogt,Chipped,956
+557823,9,MissedShots,0.755,0.37599998474121094,0.030921559780836105,Andrej Kramaric,a,956,OpenPlay,2023,RightFoot,23209,Bayern Munich,Hoffenheim,3,0,2024-01-12 19:30:00,Maximilian Beier,Pass,956
+557829,38,SavedShot,0.88,0.675,0.059506021440029144,Andrej Kramaric,a,956,OpenPlay,2023,RightFoot,23209,Bayern Munich,Hoffenheim,3,0,2024-01-12 19:30:00,Marius Bülter,Pass,956
+557834,51,MissedShots,0.835999984741211,0.315,0.03608221933245659,Andrej Kramaric,a,956,OpenPlay,2023,LeftFoot,23209,Bayern Munich,Hoffenheim,3,0,2024-01-12 19:30:00,Marius Bülter,Pass,956
+557844,63,SavedShot,0.8159999847412109,0.53,0.3315575122833252,Andrej Kramaric,a,956,OpenPlay,2023,RightFoot,23209,Bayern Munich,Hoffenheim,3,0,2024-01-12 19:30:00,,None,956
+558888,16,SavedShot,0.9259999847412109,0.48200000762939454,0.5386468768119812,Andrej Kramaric,a,956,OpenPlay,2023,RightFoot,23220,Freiburg,Hoffenheim,3,2,2024-01-20 14:30:00,Pavel Kaderábek,Pass,956
+559812,39,BlockedShot,0.855999984741211,0.5640000152587891,0.07967375963926315,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23232,Hoffenheim,FC Heidenheim,1,1,2024-01-27 14:30:00,Maximilian Beier,Pass,956
+559816,51,Goal,0.885,0.5,0.75777667760849,Andrej Kramaric,h,956,Penalty,2023,RightFoot,23232,Hoffenheim,FC Heidenheim,1,1,2024-01-27 14:30:00,,Standard,956
+559825,66,MissedShots,0.7140000152587891,0.4879999923706055,0.021036749705672264,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23232,Hoffenheim,FC Heidenheim,1,1,2024-01-27 14:30:00,John Brooks,Pass,956
+559830,84,SavedShot,0.865,0.4809999847412109,0.095339335501194,Andrej Kramaric,h,956,OpenPlay,2023,LeftFoot,23232,Hoffenheim,FC Heidenheim,1,1,2024-01-27 14:30:00,Wout Weghorst,Pass,956
+561740,11,MissedShots,0.9080000305175782,0.534000015258789,0.14411522448062897,Andrej Kramaric,a,956,OpenPlay,2023,LeftFoot,23239,Wolfsburg,Hoffenheim,2,2,2024-02-04 14:30:00,Wout Weghorst,Pass,956
+561745,24,SavedShot,0.769000015258789,0.519000015258789,0.03309783712029457,Andrej Kramaric,a,956,OpenPlay,2023,LeftFoot,23239,Wolfsburg,Hoffenheim,2,2,2024-02-04 14:30:00,Wout Weghorst,Pass,956
+561747,26,MissedShots,0.9059999847412109,0.5520000076293945,0.1377415806055069,Andrej Kramaric,a,956,OpenPlay,2023,RightFoot,23239,Wolfsburg,Hoffenheim,2,2,2024-02-04 14:30:00,Maximilian Beier,Pass,956
+561752,46,MissedShots,0.7709999847412109,0.385,0.07492527365684509,Andrej Kramaric,a,956,DirectFreekick,2023,RightFoot,23239,Wolfsburg,Hoffenheim,2,2,2024-02-04 14:30:00,,Standard,956
+563187,93,Goal,0.8819999694824219,0.48900001525878906,0.07781939953565598,Andrej Kramaric,h,956,OpenPlay,2023,LeftFoot,23247,Hoffenheim,FC Cologne,1,1,2024-02-11 16:30:00,Ozan Kabak,HeadPass,956
+563770,1,BlockedShot,0.9159999847412109,0.5259999847412109,0.1398964822292328,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23259,Hoffenheim,Union Berlin,0,1,2024-02-17 14:30:00,,Rebound,956
+563788,70,BlockedShot,0.7959999847412109,0.44,0.03911715745925903,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23259,Hoffenheim,Union Berlin,0,1,2024-02-17 14:30:00,Ihlas Bebou,Pass,956
+570618,39,SavedShot,0.8180000305175781,0.63,0.046500612050294876,Andrej Kramaric,a,956,OpenPlay,2023,LeftFoot,23301,Bayer Leverkusen,Hoffenheim,2,1,2024-03-30 14:30:00,Maximilian Beier,Chipped,956
+572951,19,Goal,0.785,0.5209999847412109,0.04013919085264206,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23314,Hoffenheim,Augsburg,3,1,2024-04-07 13:30:00,Wout Weghorst,Pass,956
+573614,48,BlockedShot,0.7780000305175782,0.48400001525878905,0.03379453718662262,Andrej Kramaric,a,956,OpenPlay,2023,RightFoot,23320,Mainz 05,Hoffenheim,4,1,2024-04-13 13:30:00,Maximilian Beier,Pass,956
+574894,20,SavedShot,0.705,0.3529999923706055,0.01842980645596981,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23332,Hoffenheim,Borussia M.Gladbach,4,3,2024-04-20 13:30:00,Florian Grillitsch,Pass,956
+574897,29,BlockedShot,0.8830000305175781,0.7090000152587891,0.04317803680896759,Andrej Kramaric,h,956,FromCorner,2023,RightFoot,23332,Hoffenheim,Borussia M.Gladbach,4,3,2024-04-20 13:30:00,Florian Grillitsch,Pass,956
+574904,44,SavedShot,0.850999984741211,0.515,0.09927461296319962,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23332,Hoffenheim,Borussia M.Gladbach,4,3,2024-04-20 13:30:00,Maximilian Beier,Pass,956
+574910,49,SavedShot,0.8830000305175781,0.5129999923706055,0.10912001132965088,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23332,Hoffenheim,Borussia M.Gladbach,4,3,2024-04-20 13:30:00,,Rebound,956
+574912,51,MissedShots,0.8130000305175781,0.6959999847412109,0.081943079829216,Andrej Kramaric,h,956,DirectFreekick,2023,RightFoot,23332,Hoffenheim,Borussia M.Gladbach,4,3,2024-04-20 13:30:00,,Standard,956
+574925,72,MissedShots,0.8019999694824219,0.37599998474121094,0.03935505449771881,Andrej Kramaric,h,956,OpenPlay,2023,LeftFoot,23332,Hoffenheim,Borussia M.Gladbach,4,3,2024-04-20 13:30:00,Maximilian Beier,Pass,956
+576479,72,Goal,0.9830000305175781,0.504000015258789,0.8906271457672119,Andrej Kramaric,a,956,OpenPlay,2023,RightFoot,23341,Bochum,Hoffenheim,3,2,2024-04-26 18:30:00,David Jurásek,Rebound,956
+576484,83,Goal,0.8440000152587891,0.6619999694824219,0.03611487150192261,Andrej Kramaric,a,956,OpenPlay,2023,RightFoot,23341,Bochum,Hoffenheim,3,2,2024-04-26 18:30:00,Florian Grillitsch,Chipped,956
+578026,19,SavedShot,0.7769999694824219,0.4129999923706055,0.03024405613541603,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23349,Hoffenheim,RasenBallsport Leipzig,1,1,2024-05-03 18:30:00,Kevin Akpoguma,Pass,956
+578030,36,SavedShot,0.9569999694824218,0.649000015258789,0.08178599178791046,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23349,Hoffenheim,RasenBallsport Leipzig,1,1,2024-05-03 18:30:00,Kevin Akpoguma,Pass,956
+578035,48,SavedShot,0.9,0.5720000076293945,0.3747924864292145,Andrej Kramaric,h,956,OpenPlay,2023,LeftFoot,23349,Hoffenheim,RasenBallsport Leipzig,1,1,2024-05-03 18:30:00,Marius Bülter,Throughball,956
+578041,58,MissedShots,0.7130000305175781,0.4909999847412109,0.017977233976125717,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23349,Hoffenheim,RasenBallsport Leipzig,1,1,2024-05-03 18:30:00,Florian Grillitsch,Pass,956
+578044,69,SavedShot,0.799000015258789,0.43200000762939456,0.03782998397946358,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23349,Hoffenheim,RasenBallsport Leipzig,1,1,2024-05-03 18:30:00,,None,956
+578049,89,Goal,0.9269999694824219,0.49900001525878906,0.32439103722572327,Andrej Kramaric,h,956,OpenPlay,2023,Head,23349,Hoffenheim,RasenBallsport Leipzig,1,1,2024-05-03 18:30:00,Marius Bülter,Chipped,956
+580384,28,MissedShots,0.5179999923706055,0.66,0.009984130039811134,Andrej Kramaric,a,956,OpenPlay,2023,RightFoot,23361,Darmstadt,Hoffenheim,0,6,2024-05-12 13:30:00,Kevin Akpoguma,Pass,956
+580394,64,MissedShots,0.9030000305175782,0.49,0.5331951379776001,Andrej Kramaric,a,956,OpenPlay,2023,RightFoot,23361,Darmstadt,Hoffenheim,0,6,2024-05-12 13:30:00,Pavel Kaderábek,Pass,956
+580399,77,MissedShots,0.875,0.6409999847412109,0.10355885326862335,Andrej Kramaric,a,956,OpenPlay,2023,RightFoot,23361,Darmstadt,Hoffenheim,0,6,2024-05-12 13:30:00,Finn Becker,Chipped,956
+581732,17,BlockedShot,0.8169999694824219,0.57,0.07406937330961227,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23367,Hoffenheim,Bayern Munich,4,2,2024-05-18 13:30:00,Anton Stach,Pass,956
+581738,47,SavedShot,0.8930000305175781,0.6459999847412109,0.4415615499019623,Andrej Kramaric,h,956,OpenPlay,2023,LeftFoot,23367,Hoffenheim,Bayern Munich,4,2,2024-05-18 13:30:00,Maximilian Beier,Pass,956
+581744,64,SavedShot,0.745999984741211,0.600999984741211,0.01241870317608118,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23367,Hoffenheim,Bayern Munich,4,2,2024-05-18 13:30:00,Umut Tohumcu,TakeOn,956
+581746,67,Goal,0.9319999694824219,0.49400001525878906,0.5483704209327698,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23367,Hoffenheim,Bayern Munich,4,2,2024-05-18 13:30:00,Ihlas Bebou,Pass,956
+581751,84,Goal,0.840999984741211,0.5279999923706055,0.07376199960708618,Andrej Kramaric,h,956,OpenPlay,2023,RightFoot,23367,Hoffenheim,Bayern Munich,4,2,2024-05-18 13:30:00,Tom Bischof,Pass,956
+581752,86,Goal,0.904000015258789,0.4779999923706055,0.3908618092536926,Andrej Kramaric,h,956,OpenPlay,2023,LeftFoot,23367,Hoffenheim,Bayern Munich,4,2,2024-05-18 13:30:00,,TakeOn,956
+585975,5,Goal,0.885,0.5,0.75777667760849,Andrej Kramaric,h,956,Penalty,2024,RightFoot,27744,Hoffenheim,Holstein Kiel,3,2,2024-08-24 13:30:00,,Standard,956
+585987,36,Goal,0.9359999847412109,0.509000015258789,0.4982033669948578,Andrej Kramaric,h,956,OpenPlay,2024,Head,27744,Hoffenheim,Holstein Kiel,3,2,2024-08-24 13:30:00,Marius Bülter,Cross,956
+585992,43,SavedShot,0.9359999847412109,0.3509999847412109,0.08761884272098541,Andrej Kramaric,h,956,OpenPlay,2024,RightFoot,27744,Hoffenheim,Holstein Kiel,3,2,2024-08-24 13:30:00,Marius Bülter,Cross,956
+586010,86,Goal,0.9319999694824219,0.3970000076293945,0.35599419474601746,Andrej Kramaric,h,956,OpenPlay,2024,RightFoot,27744,Hoffenheim,Holstein Kiel,3,2,2024-08-24 13:30:00,,Rebound,956
+589015,53,Goal,0.9690000152587891,0.539000015258789,0.5767129063606262,Andrej Kramaric,a,956,OpenPlay,2024,LeftFoot,27756,Eintracht Frankfurt,Hoffenheim,3,1,2024-08-31 13:30:00,Adam Hlozek,Cross,956
+589017,58,MissedShots,0.8269999694824218,0.5870000076293945,0.0430581234395504,Andrej Kramaric,a,956,OpenPlay,2024,RightFoot,27756,Eintracht Frankfurt,Hoffenheim,3,1,2024-08-31 13:30:00,,None,956
+590728,61,MissedShots,0.764000015258789,0.3609999847412109,0.0646856427192688,Andrej Kramaric,h,956,DirectFreekick,2024,RightFoot,27761,Hoffenheim,Bayer Leverkusen,1,4,2024-09-14 13:30:00,,Standard,956
+590732,76,BlockedShot,0.7569999694824219,0.345,0.018460320308804512,Andrej Kramaric,h,956,OpenPlay,2024,RightFoot,27761,Hoffenheim,Bayer Leverkusen,1,4,2024-09-14 13:30:00,Tom Bischof,Pass,956
+590736,82,BlockedShot,0.9319999694824219,0.6819999694824219,0.057384952902793884,Andrej Kramaric,h,956,FromCorner,2024,LeftFoot,27761,Hoffenheim,Bayer Leverkusen,1,4,2024-09-14 13:30:00,Marius Bülter,Rebound,956
+590737,84,BlockedShot,0.9030000305175782,0.639000015258789,0.0405125617980957,Andrej Kramaric,h,956,FromCorner,2024,LeftFoot,27761,Hoffenheim,Bayer Leverkusen,1,4,2024-09-14 13:30:00,Tom Bischof,Cross,956
+596953,10,Goal,0.8159999847412109,0.5079999923706054,0.31766176223754883,Andrej Kramaric,h,956,OpenPlay,2024,RightFoot,27799,Hoffenheim,Bochum,3,1,2024-10-19 13:30:00,,None,956
+596955,15,MissedShots,0.94,0.44599998474121094,0.4425617754459381,Andrej Kramaric,h,956,OpenPlay,2024,RightFoot,27799,Hoffenheim,Bochum,3,1,2024-10-19 13:30:00,Alexander Prass,Cross,956
+596956,23,ShotOnPost,0.945,0.6559999847412109,0.3067372739315033,Andrej Kramaric,h,956,OpenPlay,2024,RightFoot,27799,Hoffenheim,Bochum,3,1,2024-10-19 13:30:00,,TakeOn,956
+596959,38,SavedShot,0.8440000152587891,0.5029999923706054,0.3476024270057678,Andrej Kramaric,h,956,OpenPlay,2024,RightFoot,27799,Hoffenheim,Bochum,3,1,2024-10-19 13:30:00,Alexander Prass,Pass,956
+596963,53,MissedShots,0.9519999694824218,0.5829999923706055,0.12168050557374954,Andrej Kramaric,h,956,SetPiece,2024,Head,27799,Hoffenheim,Bochum,3,1,2024-10-19 13:30:00,Tom Bischof,Cross,956
+599280,50,BlockedShot,0.85,0.539000015258789,0.07933367788791656,Andrej Kramaric,a,956,OpenPlay,2024,RightFoot,27807,FC Heidenheim,Hoffenheim,0,0,2024-10-27 18:30:00,,BallTouch,956
+599283,56,MissedShots,0.73,0.5359999847412109,0.020270681008696556,Andrej Kramaric,a,956,OpenPlay,2024,LeftFoot,27807,FC Heidenheim,Hoffenheim,0,0,2024-10-27 18:30:00,Valentin Gendrey,Pass,956
+599284,58,MissedShots,0.7340000152587891,0.38799999237060545,0.020126011222600937,Andrej Kramaric,a,956,OpenPlay,2024,LeftFoot,27807,FC Heidenheim,Hoffenheim,0,0,2024-10-27 18:30:00,Tom Bischof,Pass,956
+600009,42,BlockedShot,0.875,0.524000015258789,0.10150926560163498,Andrej Kramaric,h,956,OpenPlay,2024,RightFoot,27818,Hoffenheim,St. Pauli,0,2,2024-11-02 14:30:00,Adam Hlozek,Pass,956
+602103,68,MissedShots,0.855,0.624000015258789,0.07349825650453568,Andrej Kramaric,a,956,OpenPlay,2024,RightFoot,27827,Augsburg,Hoffenheim,0,0,2024-11-10 14:30:00,David Jurásek,Pass,956
+606533,22,MissedShots,0.9119999694824219,0.575,0.08360549807548523,Andrej Kramaric,h,956,OpenPlay,2024,Head,27852,Hoffenheim,Freiburg,1,1,2024-12-08 16:30:00,Alexander Prass,Cross,956
+606540,48,MissedShots,0.9119999694824219,0.3920000076293945,0.07591334730386734,Andrej Kramaric,h,956,OpenPlay,2024,RightFoot,27852,Hoffenheim,Freiburg,1,1,2024-12-08 16:30:00,Tom Bischof,Cross,956
+606541,49,BlockedShot,0.860999984741211,0.6630000305175782,0.046197276562452316,Andrej Kramaric,h,956,OpenPlay,2024,LeftFoot,27852,Hoffenheim,Freiburg,1,1,2024-12-08 16:30:00,Adam Hlozek,Pass,956
+607645,5,MissedShots,0.8330000305175781,0.36400001525878906,0.03381453454494476,Andrej Kramaric,a,956,FromCorner,2024,LeftFoot,27860,Borussia Dortmund,Hoffenheim,1,1,2024-12-15 16:30:00,Tom Bischof,Cross,956
+607648,15,MissedShots,0.9719999694824218,0.7,0.10080819576978683,Andrej Kramaric,a,956,OpenPlay,2024,RightFoot,27860,Borussia Dortmund,Hoffenheim,1,1,2024-12-15 16:30:00,Anton Stach,Chipped,956
+608238,51,BlockedShot,0.8969999694824219,0.6669999694824219,0.059591539204120636,Andrej Kramaric,h,956,OpenPlay,2024,LeftFoot,27872,Hoffenheim,Borussia M.Gladbach,1,2,2024-12-21 14:30:00,Jacob Bruun Larsen,Pass,956
+608239,57,Goal,0.885,0.5,0.75777667760849,Andrej Kramaric,h,956,Penalty,2024,RightFoot,27872,Hoffenheim,Borussia M.Gladbach,1,2,2024-12-21 14:30:00,,Standard,956
+608245,87,SavedShot,0.9409999847412109,0.5579999923706055,0.48160576820373535,Andrej Kramaric,h,956,OpenPlay,2024,RightFoot,27872,Hoffenheim,Borussia M.Gladbach,1,2,2024-12-21 14:30:00,Mërgim Berisha,HeadPass,956
+610620,73,BlockedShot,0.749000015258789,0.6630000305175782,0.009999371133744717,Andrej Kramaric,h,956,OpenPlay,2024,RightFoot,27879,Hoffenheim,Wolfsburg,0,1,2025-01-11 14:30:00,,Aerial,956
+611707,92,MissedShots,0.879000015258789,0.5,0.0585879348218441,Andrej Kramaric,a,956,OpenPlay,2024,RightFoot,27888,Bayern Munich,Hoffenheim,5,0,2025-01-15 19:30:00,Pavel Kaderábek,Cross,956
+612126,45,Goal,0.885,0.6170000076293946,0.09280772507190704,Andrej Kramaric,a,956,OpenPlay,2024,LeftFoot,27903,Holstein Kiel,Hoffenheim,1,3,2025-01-18 14:30:00,,None,956
+612135,81,MissedShots,0.8480000305175781,0.385,0.06714817881584167,Andrej Kramaric,a,956,OpenPlay,2024,RightFoot,27903,Holstein Kiel,Hoffenheim,1,3,2025-01-18 14:30:00,,None,956
+613857,2,MissedShots,0.8640000152587891,0.685,0.06497243046760559,Andrej Kramaric,h,956,OpenPlay,2024,LeftFoot,27906,Hoffenheim,Eintracht Frankfurt,2,2,2025-01-26 14:30:00,Max Moerstedt,Pass,956
+613865,37,BlockedShot,0.8669999694824219,0.3990000152587891,0.041334208101034164,Andrej Kramaric,h,956,FromCorner,2024,LeftFoot,27906,Hoffenheim,Eintracht Frankfurt,2,2,2025-01-26 14:30:00,Tom Bischof,Cross,956
+613874,50,SavedShot,0.8109999847412109,0.6969999694824218,0.028210176154971123,Andrej Kramaric,h,956,OpenPlay,2024,RightFoot,27906,Hoffenheim,Eintracht Frankfurt,2,2,2025-01-26 14:30:00,David Jurásek,Pass,956
+613881,69,ShotOnPost,0.96,0.40900001525878904,0.41257473826408386,Andrej Kramaric,h,956,OpenPlay,2024,RightFoot,27906,Hoffenheim,Eintracht Frankfurt,2,2,2025-01-26 14:30:00,David Jurásek,Pass,956
+613889,81,MissedShots,0.8269999694824218,0.6419999694824219,0.03940931707620621,Andrej Kramaric,h,956,OpenPlay,2024,RightFoot,27906,Hoffenheim,Eintracht Frankfurt,2,2,2025-01-26 14:30:00,,None,956

@@ -1,0 +1,691 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14490,20,SavedShot,0.8530000305175781,0.695,0.04070330038666725,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Philippe Coutinho,Pass,618
+14491,22,Goal,0.855999984741211,0.49599998474121093,0.31140899658203125,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Jordan Henderson,Throughball,618
+14496,47,SavedShot,0.8159999847412109,0.3770000076293945,0.057601198554039,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Jordan Henderson,Pass,618
+14497,53,MissedShots,0.745,0.44299999237060544,0.025481099262833595,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4756,Liverpool,Southampton,2,1,2014-08-17 13:30:00,Philippe Coutinho,Pass,618
+14779,8,MissedShots,0.8569999694824219,0.47,0.0726696029305458,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4768,Manchester City,Liverpool,3,1,2014-08-25 20:00:00,Steven Gerrard,Chipped,618
+15104,7,Goal,0.9590000152587891,0.615,0.3454749882221222,Raheem Sterling,a,618,OpenPlay,2014,LeftFoot,4777,Tottenham,Liverpool,0,3,2014-08-31 13:30:00,Jordan Henderson,Pass,618
+15121,69,SavedShot,0.94,0.524000015258789,0.3451710045337677,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4777,Tottenham,Liverpool,0,3,2014-08-31 13:30:00,Emre Can,TakeOn,618
+15123,74,SavedShot,0.9680000305175781,0.6459999847412109,0.0837097018957138,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4777,Tottenham,Liverpool,0,3,2014-08-31 13:30:00,Lazar Markovic,Pass,618
+15289,65,MissedShots,0.775,0.625,0.021044999361038208,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4726,Liverpool,Aston Villa,0,1,2014-09-13 17:30:00,Alberto Moreno,Pass,618
+15294,81,MissedShots,0.86,0.5109999847412109,0.0666147992014885,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4726,Liverpool,Aston Villa,0,1,2014-09-13 17:30:00,,Rebound,618
+15656,19,BlockedShot,0.845,0.715,0.021937299519777298,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4734,West Ham,Liverpool,3,1,2014-09-20 17:30:00,Fabio Borini,Pass,618
+15658,25,Goal,0.835,0.3579999923706055,0.025190500542521477,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4734,West Ham,Liverpool,3,1,2014-09-20 17:30:00,,Rebound,618
+15664,47,MissedShots,0.8230000305175781,0.435,0.060021400451660156,Raheem Sterling,a,618,OpenPlay,2014,LeftFoot,4734,West Ham,Liverpool,3,1,2014-09-20 17:30:00,Adam Lallana,Pass,618
+15665,50,BlockedShot,0.87,0.25799999237060545,0.037898700684309006,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4734,West Ham,Liverpool,3,1,2014-09-20 17:30:00,,TakeOn,618
+15776,5,SavedShot,0.8880000305175781,0.75,0.03329100087285042,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4739,Liverpool,Everton,1,1,2014-09-27 12:45:00,Jordan Henderson,Pass,618
+15778,8,BlockedShot,0.8180000305175781,0.6759999847412109,0.023368800058960915,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4739,Liverpool,Everton,1,1,2014-09-27 12:45:00,,Rebound,618
+15793,43,SavedShot,0.915,0.710999984741211,0.0778890997171402,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4739,Liverpool,Everton,1,1,2014-09-27 12:45:00,Jordan Henderson,Pass,618
+15798,62,BlockedShot,0.7609999847412109,0.6370000076293946,0.0168721005320549,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4739,Liverpool,Everton,1,1,2014-09-27 12:45:00,,None,618
+17129,13,BlockedShot,0.8630000305175781,0.6309999847412109,0.09793470054864883,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4691,Liverpool,West Bromwich Albion,2,1,2014-10-04 15:00:00,Steven Gerrard,TakeOn,618
+17144,66,BlockedShot,0.8690000152587891,0.35700000762939454,0.11888500303030014,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4691,Liverpool,West Bromwich Albion,2,1,2014-10-04 15:00:00,Jordan Henderson,TakeOn,618
+17363,15,BlockedShot,0.7240000152587891,0.5170000076293946,0.013482999987900257,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4713,Liverpool,Hull,0,0,2014-10-25 15:00:00,,None,618
+17368,46,BlockedShot,0.8619999694824219,0.5609999847412109,0.09801480174064636,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4713,Liverpool,Hull,0,0,2014-10-25 15:00:00,Joe Allen,Pass,618
+17372,63,SavedShot,0.7919999694824219,0.6480000305175782,0.019689999520778656,Raheem Sterling,h,618,FromCorner,2014,RightFoot,4713,Liverpool,Hull,0,0,2014-10-25 15:00:00,,None,618
+17374,67,MissedShots,0.875999984741211,0.33599998474121096,0.06725390255451202,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4713,Liverpool,Hull,0,0,2014-10-25 15:00:00,Rickie Lambert,Pass,618
+16464,20,BlockedShot,0.84,0.46599998474121096,0.06051890179514885,Raheem Sterling,h,618,FromCorner,2014,LeftFoot,4659,Liverpool,Chelsea,1,2,2014-11-08 12:45:00,,Rebound,618
+16474,52,SavedShot,0.9030000305175782,0.6819999694824219,0.061719801276922226,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4659,Liverpool,Chelsea,1,2,2014-11-08 12:45:00,Philippe Coutinho,Pass,618
+16384,68,BlockedShot,0.8380000305175781,0.7030000305175781,0.036681100726127625,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4676,Crystal Palace,Liverpool,3,1,2014-11-23 13:30:00,Joe Allen,LayOff,618
+17883,60,MissedShots,0.894000015258789,0.6930000305175781,0.05417640134692192,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4682,Liverpool,Stoke,1,0,2014-11-29 15:00:00,,Interception,618
+18984,62,MissedShots,0.735999984741211,0.49700000762939456,0.05124890059232712,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4590,Leicester,Liverpool,1,3,2014-12-02 19:45:00,,BallRecovery,618
+19952,56,MissedShots,0.6940000152587891,0.6309999847412109,0.009661479853093624,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4604,Liverpool,Sunderland,0,0,2014-12-06 15:00:00,Alberto Moreno,TakeOn,618
+19961,83,BlockedShot,0.8680000305175781,0.40099998474121096,0.09166710078716278,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4604,Liverpool,Sunderland,0,0,2014-12-06 15:00:00,Lazar Markovic,Pass,618
+18250,11,SavedShot,0.9269999694824219,0.5979999923706054,0.38423898816108704,Raheem Sterling,a,618,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Adam Lallana,Throughball,618
+18253,22,SavedShot,0.960999984741211,0.654000015258789,0.06969720125198364,Raheem Sterling,a,618,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Alberto Moreno,TakeOn,618
+18257,41,SavedShot,0.9,0.5420000076293945,0.08769190311431885,Raheem Sterling,a,618,OpenPlay,2014,Head,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Jordan Henderson,Cross,618
+18260,50,SavedShot,0.8859999847412109,0.6,0.264367014169693,Raheem Sterling,a,618,OpenPlay,2014,LeftFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,,None,618
+18266,59,BlockedShot,0.775,0.6880000305175781,0.01473269984126091,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4616,Manchester United,Liverpool,3,0,2014-12-14 13:30:00,Alberto Moreno,Pass,618
+18869,67,MissedShots,0.875,0.6959999847412109,0.04127800092101097,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4627,Liverpool,Arsenal,2,2,2014-12-21 16:00:00,Adam Lallana,Pass,618
+18874,79,BlockedShot,0.8109999847412109,0.7090000152587891,0.050146300345659256,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4627,Liverpool,Arsenal,2,2,2014-12-21 16:00:00,Fabio Borini,TakeOn,618
+18878,90,SavedShot,0.865999984741211,0.764000015258789,0.025862399488687515,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4627,Liverpool,Arsenal,2,2,2014-12-21 16:00:00,Steven Gerrard,Pass,618
+18879,92,MissedShots,0.7480000305175781,0.6880000305175781,0.01699809916317463,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4627,Liverpool,Arsenal,2,2,2014-12-21 16:00:00,Philippe Coutinho,Pass,618
+19766,4,MissedShots,0.905,0.7119999694824218,0.04275809973478317,Raheem Sterling,a,618,OpenPlay,2014,LeftFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Philippe Coutinho,Pass,618
+19780,61,Goal,0.8819999694824219,0.6140000152587891,0.579770028591156,Raheem Sterling,a,618,OpenPlay,2014,LeftFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Philippe Coutinho,TakeOn,618
+19790,88,MissedShots,0.7930000305175782,0.7090000152587891,0.021354200318455696,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4630,Burnley,Liverpool,0,1,2014-12-26 15:00:00,Rickie Lambert,Pass,618
+18525,12,SavedShot,0.8690000152587891,0.5570000076293945,0.07453940063714981,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4648,Liverpool,Swansea,4,1,2014-12-29 20:00:00,Alberto Moreno,Cross,618
+18536,46,MissedShots,0.7190000152587891,0.47200000762939454,0.01845790073275566,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4648,Liverpool,Swansea,4,1,2014-12-29 20:00:00,,None,618
+18541,53,ShotOnPost,0.9330000305175781,0.6020000076293945,0.39469000697135925,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4648,Liverpool,Swansea,4,1,2014-12-29 20:00:00,Jordan Henderson,Cross,618
+18544,63,ShotOnPost,0.9930000305175781,0.6969999694824218,0.12379000335931778,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4648,Liverpool,Swansea,4,1,2014-12-29 20:00:00,Adam Lallana,TakeOn,618
+18548,73,SavedShot,0.825,0.705999984741211,0.044211599975824356,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4648,Liverpool,Swansea,4,1,2014-12-29 20:00:00,Philippe Coutinho,Pass,618
+19545,36,MissedShots,0.8180000305175781,0.27899999618530275,0.02635749988257885,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Jordan Henderson,TakeOn,618
+19559,81,SavedShot,0.77,0.730999984741211,0.014826600439846516,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4559,Liverpool,Leicester,2,2,2015-01-01 15:00:00,Steven Gerrard,TakeOn,618
+18455,37,SavedShot,0.8730000305175781,0.40599998474121096,0.2250719964504242,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4571,Aston Villa,Liverpool,0,2,2015-01-17 15:00:00,Lucas Leiva,BallRecovery,618
+18467,74,BlockedShot,0.9030000305175782,0.5029999923706054,0.12720799446105957,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4571,Aston Villa,Liverpool,0,2,2015-01-17 15:00:00,Rickie Lambert,HeadPass,618
+23357,38,BlockedShot,0.805,0.735999984741211,0.021762600168585777,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4582,Liverpool,West Ham,2,0,2015-01-31 15:00:00,Lucas Leiva,HeadPass,618
+23363,49,MissedShots,0.7819999694824219,0.3390000152587891,0.02579369954764843,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4582,Liverpool,West Ham,2,0,2015-01-31 15:00:00,Lazar Markovic,Pass,618
+23364,50,Goal,0.915,0.539000015258789,0.4672220051288605,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4582,Liverpool,West Ham,2,0,2015-01-31 15:00:00,Philippe Coutinho,Throughball,618
+24168,1,BlockedShot,0.865,0.6079999923706054,0.08178330212831497,Raheem Sterling,a,618,OpenPlay,2014,LeftFoot,4521,Everton,Liverpool,0,0,2015-02-07 17:30:00,Alberto Moreno,Pass,618
+24170,7,MissedShots,0.8959999847412109,0.7440000152587891,0.10571199655532837,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4521,Everton,Liverpool,0,0,2015-02-07 17:30:00,Philippe Coutinho,Throughball,618
+24172,16,BlockedShot,0.89,0.7380000305175781,0.037112198770046234,Raheem Sterling,a,618,OpenPlay,2014,LeftFoot,4521,Everton,Liverpool,0,0,2015-02-07 17:30:00,Alberto Moreno,Pass,618
+24177,32,BlockedShot,0.8519999694824218,0.7130000305175781,0.03463149815797806,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4521,Everton,Liverpool,0,0,2015-02-07 17:30:00,Philippe Coutinho,Pass,618
+24180,51,SavedShot,0.875999984741211,0.674000015258789,0.05656519904732704,Raheem Sterling,a,618,OpenPlay,2014,LeftFoot,4521,Everton,Liverpool,0,0,2015-02-07 17:30:00,Philippe Coutinho,Pass,618
+24181,52,SavedShot,0.9680000305175781,0.649000015258789,0.11665599793195724,Raheem Sterling,a,618,OpenPlay,2014,LeftFoot,4521,Everton,Liverpool,0,0,2015-02-07 17:30:00,Philippe Coutinho,Throughball,618
+24201,72,Goal,0.8690000152587891,0.524000015258789,0.3702920079231262,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4544,Southampton,Liverpool,0,2,2015-02-22 16:15:00,,None,618
+23337,45,SavedShot,0.889000015258789,0.6079999923706054,0.10922800004482269,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4480,Liverpool,Manchester City,2,1,2015-03-01 12:00:00,,TakeOn,618
+23339,51,MissedShots,0.9359999847412109,0.524000015258789,0.1176690012216568,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4480,Liverpool,Manchester City,2,1,2015-03-01 12:00:00,,None,618
+20861,76,SavedShot,0.94,0.6959999847412109,0.07723420113325119,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4491,Liverpool,Burnley,2,0,2015-03-04 20:00:00,Philippe Coutinho,Pass,618
+20753,76,MissedShots,0.9440000152587891,0.38799999237060545,0.3692219853401184,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4502,Swansea,Liverpool,0,1,2015-03-16 20:00:00,Daniel Sturridge,Throughball,618
+20786,18,BlockedShot,0.86,0.3509999847412109,0.06302099674940109,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4440,Arsenal,Liverpool,4,1,2015-04-04 12:45:00,Lazar Markovic,Pass,618
+20788,24,MissedShots,0.7819999694824219,0.40599998474121096,0.04139399901032448,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4440,Arsenal,Liverpool,4,1,2015-04-04 12:45:00,Lazar Markovic,TakeOn,618
+20794,51,MissedShots,0.8540000152587891,0.5520000076293945,0.07657109946012497,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4440,Arsenal,Liverpool,4,1,2015-04-04 12:45:00,Alberto Moreno,Pass,618
+20798,56,BlockedShot,0.7619999694824219,0.6179999923706054,0.024010300636291504,Raheem Sterling,a,618,FromCorner,2014,RightFoot,4440,Arsenal,Liverpool,4,1,2015-04-04 12:45:00,Jordan Henderson,Cross,618
+22922,8,Goal,0.8880000305175781,0.6179999923706054,0.07583869993686676,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4460,Liverpool,Newcastle United,2,0,2015-04-13 20:00:00,Jordan Henderson,Chipped,618
+22926,25,SavedShot,0.7719999694824219,0.5509999847412109,0.03628600016236305,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4460,Liverpool,Newcastle United,2,0,2015-04-13 20:00:00,Philippe Coutinho,Pass,618
+22934,55,MissedShots,0.9230000305175782,0.565,0.4621500074863434,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4460,Liverpool,Newcastle United,2,0,2015-04-13 20:00:00,,None,618
+22943,83,MissedShots,0.919000015258789,0.555,0.09357470273971558,Raheem Sterling,h,618,SetPiece,2014,LeftFoot,4460,Liverpool,Newcastle United,2,0,2015-04-13 20:00:00,Jordan Henderson,Chipped,618
+20702,77,SavedShot,0.784000015258789,0.6309999847412109,0.0236090999096632,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4478,Hull,Liverpool,1,0,2015-04-28 19:45:00,Jordan Henderson,Chipped,618
+20703,81,SavedShot,0.8719999694824219,0.6609999847412109,0.050510700792074203,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4478,Hull,Liverpool,1,0,2015-04-28 19:45:00,Philippe Coutinho,Pass,618
+21361,53,MissedShots,0.9390000152587891,0.555,0.40676000714302063,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,Jordan Henderson,Cross,618
+21371,84,MissedShots,0.8119999694824219,0.6270000076293946,0.041697099804878235,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4400,Liverpool,Queens Park Rangers,2,1,2015-05-02 15:00:00,Jordon Ibe,Pass,618
+20466,15,MissedShots,0.7719999694824219,0.4279999923706055,0.028339499607682228,Raheem Sterling,a,618,OpenPlay,2014,RightFoot,4417,Chelsea,Liverpool,1,1,2015-05-10 16:00:00,Emre Can,Pass,618
+20476,64,SavedShot,0.8090000152587891,0.4929999923706055,0.07637990266084671,Raheem Sterling,a,618,OpenPlay,2014,LeftFoot,4417,Chelsea,Liverpool,1,1,2015-05-10 16:00:00,Martin Skrtel,TakeOn,618
+22400,31,SavedShot,0.8669999694824219,0.42200000762939455,0.10959500074386597,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4425,Liverpool,Crystal Palace,1,3,2015-05-16 17:30:00,Philippe Coutinho,Pass,618
+22416,73,MissedShots,0.759000015258789,0.5670000076293945,0.01775749959051609,Raheem Sterling,h,618,FromCorner,2014,RightFoot,4425,Liverpool,Crystal Palace,1,3,2015-05-16 17:30:00,,None,618
+22417,74,BlockedShot,0.8580000305175781,0.6680000305175782,0.05479399859905243,Raheem Sterling,h,618,OpenPlay,2014,RightFoot,4425,Liverpool,Crystal Palace,1,3,2015-05-16 17:30:00,Jordan Henderson,LayOff,618
+22420,84,BlockedShot,0.745999984741211,0.6759999847412109,0.0174087006598711,Raheem Sterling,h,618,OpenPlay,2014,LeftFoot,4425,Liverpool,Crystal Palace,1,3,2015-05-16 17:30:00,Alberto Moreno,Pass,618
+51699,40,SavedShot,0.91,0.5690000152587891,0.25537601113319397,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,90,West Bromwich Albion,Manchester City,0,3,2015-08-10 23:00:00,Fernandinho,BallRecovery,618
+51702,46,SavedShot,0.955,0.649000015258789,0.10262099653482437,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,90,West Bromwich Albion,Manchester City,0,3,2015-08-10 23:00:00,David Silva,Pass,618
+51805,34,MissedShots,0.7919999694824219,0.4209999847412109,0.04102339968085289,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,99,Manchester City,Chelsea,3,0,2015-08-16 19:00:00,Sergio Agüero,Pass,618
+51810,66,BlockedShot,0.7619999694824219,0.7319999694824219,0.020928900688886642,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,99,Manchester City,Chelsea,3,0,2015-08-16 19:00:00,Yaya Touré,Pass,618
+56591,27,SavedShot,0.7980000305175782,0.725999984741211,0.02297919988632202,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,108,Everton,Manchester City,0,2,2015-08-23 19:00:00,David Silva,Pass,618
+57592,23,BlockedShot,0.884000015258789,0.6179999923706054,0.09748010337352753,Raheem Sterling,h,618,OpenPlay,2015,LeftFoot,117,Manchester City,Watford,2,0,2015-08-29 18:00:00,Yaya Touré,Pass,618
+57594,26,SavedShot,0.899000015258789,0.629000015258789,0.15208600461483002,Raheem Sterling,h,618,OpenPlay,2015,LeftFoot,117,Manchester City,Watford,2,0,2015-08-29 18:00:00,Fernandinho,TakeOn,618
+57598,46,Goal,0.9459999847412109,0.46799999237060547,0.5380409955978394,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,117,Manchester City,Watford,2,0,2015-08-29 18:00:00,Bacary Sagna,Cross,618
+58509,26,SavedShot,0.825,0.5420000076293945,0.07255270332098007,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,,None,618
+58521,58,SavedShot,0.8419999694824218,0.6780000305175782,0.037327900528907776,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,Aleksandar Kolarov,Pass,618
+58527,69,MissedShots,0.8380000305175781,0.505,0.060604799538850784,Raheem Sterling,a,618,FromCorner,2015,RightFoot,141,Tottenham,Manchester City,4,1,2015-09-26 15:45:00,,Rebound,618
+58781,27,BlockedShot,0.845,0.45799999237060546,0.057551901787519455,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,154,Manchester City,Newcastle United,6,1,2015-10-03 18:00:00,,None,618
+58968,6,Goal,0.9690000152587891,0.524000015258789,0.8788220286369324,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,167,Manchester City,Bournemouth,5,1,2015-10-17 18:00:00,Wilfried Bony,Pass,618
+58974,28,Goal,0.899000015258789,0.48,0.2694939970970154,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,167,Manchester City,Bournemouth,5,1,2015-10-17 18:00:00,Kevin De Bruyne,TakeOn,618
+58977,47,Goal,0.96,0.3609999847412109,0.3109079897403717,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,167,Manchester City,Bournemouth,5,1,2015-10-17 18:00:00,,Rebound,618
+58983,60,MissedShots,0.7340000152587891,0.48,0.02690739929676056,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,167,Manchester City,Bournemouth,5,1,2015-10-17 18:00:00,Kevin De Bruyne,Pass,618
+58984,61,MissedShots,0.95,0.66,0.07820329815149307,Raheem Sterling,h,618,OpenPlay,2015,LeftFoot,167,Manchester City,Bournemouth,5,1,2015-10-17 18:00:00,,None,618
+58985,62,MissedShots,0.9219999694824219,0.4620000076293945,0.625557005405426,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,167,Manchester City,Bournemouth,5,1,2015-10-17 18:00:00,Wilfried Bony,Throughball,618
+59291,11,BlockedShot,0.8569999694824219,0.575,0.0926181972026825,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,179,Manchester United,Manchester City,0,0,2015-10-25 18:05:00,Fernandinho,Pass,618
+59499,87,BlockedShot,0.85,0.48200000762939454,0.3518809974193573,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,183,Manchester City,Norwich,2,1,2015-10-31 19:00:00,Fernandinho,Pass,618
+54299,52,SavedShot,0.9540000152587891,0.534000015258789,0.5486530065536499,Raheem Sterling,a,618,OpenPlay,2015,Head,198,Aston Villa,Manchester City,0,0,2015-11-08 17:30:00,Jesús Navas,Cross,618
+54300,58,BlockedShot,0.865,0.5109999847412109,0.10876099765300751,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,198,Aston Villa,Manchester City,0,0,2015-11-08 17:30:00,Jesús Navas,Pass,618
+54302,63,BlockedShot,0.88,0.7180000305175781,0.03208709880709648,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,198,Aston Villa,Manchester City,0,0,2015-11-08 17:30:00,Fernandinho,Pass,618
+54303,66,MissedShots,0.7819999694824219,0.6430000305175781,0.02322250045835972,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,198,Aston Villa,Manchester City,0,0,2015-11-08 17:30:00,Kevin De Bruyne,TakeOn,618
+54045,3,BlockedShot,0.8019999694824219,0.6909999847412109,0.02699360065162182,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,208,Manchester City,Liverpool,1,4,2015-11-21 21:30:00,Kevin De Bruyne,Pass,618
+54058,58,BlockedShot,0.8209999847412109,0.44799999237060545,0.07035910338163376,Raheem Sterling,h,618,OpenPlay,2015,LeftFoot,208,Manchester City,Liverpool,1,4,2015-11-21 21:30:00,Kevin De Bruyne,Pass,618
+56191,0,SavedShot,0.8969999694824219,0.669000015258789,0.060030799359083176,Raheem Sterling,h,618,OpenPlay,2015,LeftFoot,215,Manchester City,Southampton,3,1,2015-11-28 19:00:00,Yaya Touré,Chipped,618
+56205,34,MissedShots,0.919000015258789,0.40599998474121096,0.13162699341773987,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,215,Manchester City,Southampton,3,1,2015-11-28 19:00:00,Kevin De Bruyne,Cross,618
+55021,69,SavedShot,0.97,0.3509999847412109,0.07009100168943405,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,221,Stoke,Manchester City,2,0,2015-12-05 16:45:00,Jesús Navas,Pass,618
+55025,88,MissedShots,0.8680000305175781,0.6759999847412109,0.05172299966216087,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,221,Stoke,Manchester City,2,0,2015-12-05 16:45:00,Kevin De Bruyne,Pass,618
+55540,72,SavedShot,0.8109999847412109,0.74,0.02036380022764206,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,250,Arsenal,Manchester City,2,1,2015-12-22 00:00:00,Kevin De Bruyne,Pass,618
+54681,11,Goal,0.93,0.565,0.11677499860525131,Raheem Sterling,h,618,OpenPlay,2015,Head,258,Manchester City,Sunderland,4,1,2015-12-26 19:00:00,Kevin De Bruyne,Cross,618
+54699,50,BlockedShot,0.7780000305175782,0.3820000076293945,0.019037900492548943,Raheem Sterling,h,618,FromCorner,2015,RightFoot,258,Manchester City,Sunderland,4,1,2015-12-26 19:00:00,,None,618
+53067,26,SavedShot,0.88,0.3840000152587891,0.0742236003279686,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,269,Leicester,Manchester City,0,0,2015-12-29 23:45:00,Bacary Sagna,Chipped,618
+53068,26,SavedShot,0.8030000305175782,0.3579999923706055,0.022297300398349762,Raheem Sterling,a,618,FromCorner,2015,RightFoot,269,Leicester,Manchester City,0,0,2015-12-29 23:45:00,,None,618
+53070,31,SavedShot,0.85,0.7019999694824218,0.03635619953274727,Raheem Sterling,a,618,OpenPlay,2015,LeftFoot,269,Leicester,Manchester City,0,0,2015-12-29 23:45:00,Aleksandar Kolarov,Pass,618
+53088,65,BlockedShot,0.784000015258789,0.6409999847412109,0.018819600343704224,Raheem Sterling,a,618,FromCorner,2015,RightFoot,269,Leicester,Manchester City,0,0,2015-12-29 23:45:00,,None,618
+52370,28,MissedShots,0.9,0.4329999923706055,0.09211280196905136,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,278,Watford,Manchester City,1,2,2016-01-02 21:30:00,,None,618
+54413,19,MissedShots,0.8619999694824219,0.6719999694824219,0.0550789013504982,Raheem Sterling,h,618,OpenPlay,2015,LeftFoot,288,Manchester City,Everton,0,0,2016-01-13 23:45:00,Kevin De Bruyne,Pass,618
+54421,53,MissedShots,0.8919999694824219,0.66,0.06534899771213531,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,288,Manchester City,Everton,0,0,2016-01-13 23:45:00,,BallRecovery,618
+54422,54,BlockedShot,0.9009999847412109,0.51,0.09940440207719803,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,288,Manchester City,Everton,0,0,2016-01-13 23:45:00,,None,618
+54425,64,SavedShot,0.9409999847412109,0.3120000076293945,0.07868140190839767,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,288,Manchester City,Everton,0,0,2016-01-13 23:45:00,Fernando,TakeOn,618
+54429,72,BlockedShot,0.875999984741211,0.705,0.04622520133852959,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,288,Manchester City,Everton,0,0,2016-01-13 23:45:00,Kevin De Bruyne,Pass,618
+54432,78,BlockedShot,0.884000015258789,0.7019999694824218,0.03976939991116524,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,288,Manchester City,Everton,0,0,2016-01-13 23:45:00,David Silva,Pass,618
+52670,56,MissedShots,0.895,0.6530000305175782,0.04915890097618103,Raheem Sterling,h,618,OpenPlay,2015,LeftFoot,321,Manchester City,Leicester,1,3,2016-02-06 16:45:00,,None,618
+52674,65,MissedShots,0.8209999847412109,0.7609999847412109,0.019339699298143387,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,321,Manchester City,Leicester,1,3,2016-02-06 16:45:00,David Silva,Pass,618
+55620,23,BlockedShot,0.9019999694824219,0.41200000762939454,0.04999300092458725,Raheem Sterling,h,618,SetPiece,2015,RightFoot,340,Manchester City,Tottenham,1,2,2016-02-14 20:15:00,,Aerial,618
+55640,93,BlockedShot,0.8519999694824218,0.685,0.04330179840326309,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,340,Manchester City,Tottenham,1,2,2016-02-14 20:15:00,Nicolás Otamendi,Pass,618
+61168,27,MissedShots,0.7659999847412109,0.775,0.013248899951577187,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,357,Liverpool,Manchester City,3,0,2016-03-03 00:00:00,David Silva,Pass,618
+59949,62,SavedShot,0.8630000305175781,0.6509999847412109,0.07495489716529846,Raheem Sterling,h,618,OpenPlay,2015,LeftFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,David Silva,BallRecovery,618
+59950,65,Goal,0.9259999847412109,0.565,0.4178209900856018,Raheem Sterling,h,618,OpenPlay,2015,RightFoot,364,Manchester City,Aston Villa,4,0,2016-03-05 19:00:00,Jesús Navas,Cross,618
+57323,19,SavedShot,0.9130000305175782,0.5329999923706055,0.4803909957408905,Raheem Sterling,a,618,OpenPlay,2015,RightFoot,435,Southampton,Manchester City,4,2,2016-05-01 19:30:00,Kelechi Iheanacho,Pass,618
+112272,18,MissedShots,0.8190000152587891,0.30100000381469727,0.05642540007829666,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,467,Manchester City,Sunderland,2,1,2016-08-13 20:30:00,Sergio Agüero,TakeOn,618
+112695,10,MissedShots,0.8090000152587891,0.5179999923706055,0.05790330097079277,Raheem Sterling,a,618,OpenPlay,2016,RightFoot,472,Stoke,Manchester City,1,4,2016-08-20 15:30:00,Kevin De Bruyne,Pass,618
+112699,22,SavedShot,0.8919999694824219,0.695,0.05733029916882515,Raheem Sterling,a,618,OpenPlay,2016,RightFoot,472,Stoke,Manchester City,1,4,2016-08-20 15:30:00,David Silva,Pass,618
+113025,5,BlockedShot,0.835,0.34900001525878904,0.050398100167512894,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Nolito,Pass,618
+113026,6,Goal,0.915,0.515,0.508342981338501,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,Nolito,Pass,618
+113048,88,MissedShots,0.925,0.6990000152587891,0.07331369817256927,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,David Silva,Pass,618
+113051,91,Goal,0.9819999694824219,0.6659999847412109,0.16534599661827087,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,490,Manchester City,West Ham,3,1,2016-08-28 19:00:00,David Silva,TakeOn,618
+113255,31,BlockedShot,0.8109999847412109,0.37400001525878906,0.05368629842996597,Raheem Sterling,a,618,OpenPlay,2016,LeftFoot,491,Manchester United,Manchester City,1,2,2016-09-10 15:30:00,Kevin De Bruyne,Pass,618
+113565,31,BlockedShot,0.89,0.33799999237060546,0.06976109743118286,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,504,Manchester City,Bournemouth,4,0,2016-09-17 18:00:00,,None,618
+113568,38,SavedShot,0.909000015258789,0.6,0.12711699306964874,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,504,Manchester City,Bournemouth,4,0,2016-09-17 18:00:00,Kelechi Iheanacho,Pass,618
+113571,47,Goal,0.9719999694824218,0.46700000762939453,0.9705569744110107,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,504,Manchester City,Bournemouth,4,0,2016-09-17 18:00:00,Kelechi Iheanacho,Pass,618
+113576,56,SavedShot,0.7780000305175782,0.629000015258789,0.037906501442193985,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,504,Manchester City,Bournemouth,4,0,2016-09-17 18:00:00,Ilkay Gündogan,TakeOn,618
+113578,63,ShotOnPost,0.960999984741211,0.5940000152587891,0.12200800329446793,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,504,Manchester City,Bournemouth,4,0,2016-09-17 18:00:00,,BallRecovery,618
+113936,58,BlockedShot,0.855999984741211,0.48,0.09900470077991486,Raheem Sterling,a,618,OpenPlay,2016,RightFoot,515,Swansea,Manchester City,1,3,2016-09-24 15:00:00,Kevin De Bruyne,Pass,618
+113943,76,Goal,0.915,0.590999984741211,0.5362399816513062,Raheem Sterling,a,618,OpenPlay,2016,RightFoot,515,Swansea,Manchester City,1,3,2016-09-24 15:00:00,Kevin De Bruyne,TakeOn,618
+114540,69,SavedShot,0.7730000305175782,0.6940000152587891,0.013429099693894386,Raheem Sterling,a,618,OpenPlay,2016,RightFoot,529,Tottenham,Manchester City,2,0,2016-10-02 17:15:00,Aleksandar Kolarov,Pass,618
+114000,19,SavedShot,0.7719999694824219,0.6530000305175782,0.024133900180459023,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,534,Manchester City,Everton,1,1,2016-10-15 18:00:00,David Silva,Pass,618
+114507,44,MissedShots,0.865999984741211,0.7419999694824219,0.029285600408911705,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,549,Manchester City,Southampton,1,1,2016-10-23 16:30:00,Fernandinho,Pass,618
+114519,88,BlockedShot,0.8080000305175781,0.3940000152587891,0.040219299495220184,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,549,Manchester City,Southampton,1,1,2016-10-23 16:30:00,Ilkay Gündogan,Pass,618
+115032,3,SavedShot,0.835,0.27,0.023599499836564064,Raheem Sterling,a,618,OpenPlay,2016,LeftFoot,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,,None,618
+115034,17,SavedShot,0.8530000305175781,0.6759999847412109,0.04487309977412224,Raheem Sterling,a,618,OpenPlay,2016,LeftFoot,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,,None,618
+115051,63,BlockedShot,0.8919999694824219,0.30700000762939456,0.08001770079135895,Raheem Sterling,a,618,OpenPlay,2016,RightFoot,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,Sergio Agüero,Pass,618
+115054,68,MissedShots,0.8630000305175781,0.40599998474121096,0.148376002907753,Raheem Sterling,a,618,OpenPlay,2016,RightFoot,2680,West Bromwich Albion,Manchester City,0,4,2016-10-29 18:00:00,,TakeOn,618
+115424,70,MissedShots,0.9519999694824218,0.46099998474121096,0.43347400426864624,Raheem Sterling,a,618,OpenPlay,2016,OtherBodyPart,2703,Crystal Palace,Manchester City,1,2,2016-11-19 19:00:00,Kevin De Bruyne,Cross,618
+116171,45,BlockedShot,0.91,0.4640000152587891,0.1358889937400818,Raheem Sterling,a,618,OpenPlay,2016,RightFoot,2707,Burnley,Manchester City,1,2,2016-11-26 16:30:00,Sergio Agüero,Pass,618
+118165,56,ShotOnPost,0.825999984741211,0.515,0.1798049956560135,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,3132,Manchester City,Watford,2,0,2016-12-15 00:00:00,Yaya Touré,TakeOn,618
+118581,5,MissedShots,0.9319999694824219,0.4759999847412109,0.36550000309944153,Raheem Sterling,h,618,OpenPlay,2016,Head,3142,Manchester City,Arsenal,2,1,2016-12-18 20:00:00,Kevin De Bruyne,Cross,618
+118585,26,BlockedShot,0.8819999694824219,0.6780000305175782,0.05796419829130173,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,3142,Manchester City,Arsenal,2,1,2016-12-18 20:00:00,Kevin De Bruyne,Pass,618
+118594,61,MissedShots,0.7340000152587891,0.7290000152587891,0.012327699922025204,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,3142,Manchester City,Arsenal,2,1,2016-12-18 20:00:00,,BallRecovery,618
+118597,70,Goal,0.9019999694824219,0.36900001525878906,0.0697358027100563,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,3142,Manchester City,Arsenal,2,1,2016-12-18 20:00:00,Kevin De Bruyne,Chipped,618
+116319,36,MissedShots,0.7859999847412109,0.435,0.03738899901509285,Raheem Sterling,a,618,OpenPlay,2016,LeftFoot,3152,Hull,Manchester City,0,3,2016-12-26 21:15:00,Kevin De Bruyne,Pass,618
+116326,53,BlockedShot,0.775,0.34200000762939453,0.01926100067794323,Raheem Sterling,a,618,OpenPlay,2016,RightFoot,3152,Hull,Manchester City,0,3,2016-12-26 21:15:00,,None,618
+116335,93,MissedShots,0.9630000305175781,0.66,0.11936099827289581,Raheem Sterling,a,618,OpenPlay,2016,LeftFoot,3152,Hull,Manchester City,0,3,2016-12-26 21:15:00,Yaya Touré,TakeOn,618
+117503,45,BlockedShot,0.8219999694824218,0.27,0.022524800151586533,Raheem Sterling,a,618,OpenPlay,2016,LeftFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,,None,618
+117507,56,MissedShots,0.97,0.33,0.04877689853310585,Raheem Sterling,a,618,OpenPlay,2016,RightFoot,3162,Liverpool,Manchester City,1,0,2016-12-31 21:30:00,Yaya Touré,Chipped,618
+116444,54,BlockedShot,0.8159999847412109,0.6409999847412109,0.040014300495386124,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,3332,Manchester City,Burnley,2,1,2017-01-02 15:00:00,Kevin De Bruyne,Pass,618
+117273,24,SavedShot,0.915,0.3840000152587891,0.12437599897384644,Raheem Sterling,a,618,OpenPlay,2016,RightFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,Kevin De Bruyne,Throughball,618
+117276,37,MissedShots,0.7419999694824219,0.5629999923706055,0.015724699944257736,Raheem Sterling,a,618,FromCorner,2016,LeftFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,,None,618
+117279,47,BlockedShot,0.8059999847412109,0.7090000152587891,0.020608000457286835,Raheem Sterling,a,618,FromCorner,2016,RightFoot,3348,Everton,Manchester City,4,0,2017-01-15 17:30:00,Kevin De Bruyne,Pass,618
+118496,38,SavedShot,0.8480000305175781,0.62,0.04698900133371353,Raheem Sterling,h,618,FromCorner,2016,RightFoot,3356,Manchester City,Tottenham,2,2,2017-01-21 20:30:00,David Silva,Pass,618
+118497,43,BlockedShot,0.8640000152587891,0.5570000076293945,0.07400699704885483,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,3356,Manchester City,Tottenham,2,2,2017-01-21 20:30:00,,None,618
+118502,75,SavedShot,0.91,0.54,0.14586800336837769,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,3356,Manchester City,Tottenham,2,2,2017-01-21 20:30:00,Aleksandar Kolarov,Throughball,618
+119011,2,MissedShots,0.8080000305175781,0.40400001525878904,0.03183019906282425,Raheem Sterling,a,618,FromCorner,2016,RightFoot,3367,West Ham,Manchester City,0,4,2017-02-01 22:45:00,David Silva,Cross,618
+119018,26,MissedShots,0.9630000305175781,0.40599998474121096,0.08531250059604645,Raheem Sterling,a,618,OpenPlay,2016,Head,3367,West Ham,Manchester City,0,4,2017-02-01 22:45:00,David Silva,Cross,618
+119024,52,MissedShots,0.7759999847412109,0.4809999847412109,0.03241740167140961,Raheem Sterling,a,618,FromCorner,2016,LeftFoot,3367,West Ham,Manchester City,0,4,2017-02-01 22:45:00,,Rebound,618
+116855,10,BlockedShot,0.9359999847412109,0.524000015258789,0.14824099838733673,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,3378,Manchester City,Swansea,2,1,2017-02-05 13:30:00,David Silva,Pass,618
+117461,26,SavedShot,0.89,0.53,0.400644987821579,Raheem Sterling,a,618,OpenPlay,2016,RightFoot,3389,Bournemouth,Manchester City,0,2,2017-02-13 20:00:00,Leroy Sané,Pass,618
+117464,28,Goal,0.9719999694824218,0.44099998474121094,0.609300971031189,Raheem Sterling,a,618,OpenPlay,2016,RightFoot,3389,Bournemouth,Manchester City,0,2,2017-02-13 20:00:00,,None,618
+117469,40,MissedShots,0.7580000305175781,0.5829999923706055,0.01725029945373535,Raheem Sterling,a,618,FromCorner,2016,RightFoot,3389,Bournemouth,Manchester City,0,2,2017-02-13 20:00:00,,None,618
+120046,81,SavedShot,0.8730000305175781,0.49900001525878906,0.3833580017089844,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,3426,Manchester City,Liverpool,1,1,2017-03-19 16:30:00,David Silva,Throughball,618
+119996,13,BlockedShot,0.7780000305175782,0.40799999237060547,0.027116000652313232,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,3457,Manchester City,Hull,3,1,2017-04-08 15:00:00,Leroy Sané,Pass,618
+119999,16,BlockedShot,0.8809999847412109,0.38799999237060545,0.08695709705352783,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,3457,Manchester City,Hull,3,1,2017-04-08 15:00:00,Sergio Agüero,Pass,618
+120012,43,BlockedShot,0.8480000305175781,0.38299999237060545,0.08727020025253296,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,3457,Manchester City,Hull,3,1,2017-04-08 15:00:00,Sergio Agüero,Pass,618
+118610,42,MissedShots,0.835,0.33,0.04267280176281929,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,3398,Manchester City,Manchester United,0,0,2017-04-27 20:00:00,Sergio Agüero,Pass,618
+118612,46,SavedShot,0.860999984741211,0.590999984741211,0.09267719835042953,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,3398,Manchester City,Manchester United,0,0,2017-04-27 20:00:00,Kevin De Bruyne,Pass,618
+118619,70,SavedShot,0.7809999847412109,0.28899999618530275,0.021229999139904976,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,3398,Manchester City,Manchester United,0,0,2017-04-27 20:00:00,Kevin De Bruyne,Pass,618
+120986,51,BlockedShot,0.8719999694824219,0.3579999923706055,0.053857799619436264,Raheem Sterling,a,618,OpenPlay,2016,LeftFoot,3483,Middlesbrough,Manchester City,2,2,2017-04-30 14:05:00,Fernandinho,Chipped,618
+120989,57,BlockedShot,0.7819999694824219,0.46299999237060546,0.03624609857797623,Raheem Sterling,a,618,FromCorner,2016,RightFoot,3483,Middlesbrough,Manchester City,2,2,2017-04-30 14:05:00,Jesús Navas,Pass,618
+121579,31,BlockedShot,0.8780000305175781,0.40599998474121096,0.1431259959936142,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,3497,Manchester City,Crystal Palace,5,0,2017-05-06 12:30:00,,Rebound,618
+121594,61,MissedShots,0.909000015258789,0.524000015258789,0.10605300217866898,Raheem Sterling,h,618,OpenPlay,2016,Head,3497,Manchester City,Crystal Palace,5,0,2017-05-06 12:30:00,Leroy Sané,Cross,618
+121598,81,Goal,0.875999984741211,0.4520000076293945,0.09661559760570526,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,3497,Manchester City,Crystal Palace,5,0,2017-05-06 12:30:00,Pablo Zabaleta,HeadPass,618
+121799,22,BlockedShot,0.8719999694824219,0.5579999923706055,0.10405399650335312,Raheem Sterling,h,618,OpenPlay,2016,LeftFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,Gaël Clichy,Pass,618
+121807,44,SavedShot,0.914000015258789,0.35700000762939454,0.06576749682426453,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,Leroy Sané,Cross,618
+121813,70,BlockedShot,0.9630000305175781,0.31799999237060544,0.07513339817523956,Raheem Sterling,h,618,OpenPlay,2016,RightFoot,3503,Manchester City,Leicester,2,1,2017-05-13 12:30:00,Gabriel Jesus,BallRecovery,618
+158529,63,MissedShots,0.8619999694824219,0.3370000076293945,0.05755620077252388,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7138,Manchester City,Everton,1,1,2017-08-21 20:00:00,David Silva,Pass,618
+158531,71,MissedShots,0.710999984741211,0.46599998474121096,0.01603900082409382,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7138,Manchester City,Everton,1,1,2017-08-21 20:00:00,David Silva,Pass,618
+158533,73,MissedShots,0.8719999694824219,0.34599998474121096,0.06649090349674225,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7138,Manchester City,Everton,1,1,2017-08-21 20:00:00,Sergio Agüero,Pass,618
+158537,81,Goal,0.87,0.515,0.07052899897098541,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7138,Manchester City,Everton,1,1,2017-08-21 20:00:00,,None,618
+159188,19,SavedShot,0.789000015258789,0.7319999694824219,0.017010299488902092,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7139,Bournemouth,Manchester City,1,2,2017-08-26 12:30:00,Benjamin Mendy,Pass,618
+159197,54,BlockedShot,0.865999984741211,0.5770000076293945,0.09847839921712875,Raheem Sterling,a,618,OpenPlay,2017,LeftFoot,7139,Bournemouth,Manchester City,1,2,2017-08-26 12:30:00,Benjamin Mendy,Pass,618
+159206,91,MissedShots,0.8019999694824219,0.33799999237060546,0.020386699587106705,Raheem Sterling,a,618,FromCorner,2017,RightFoot,7139,Bournemouth,Manchester City,1,2,2017-08-26 12:30:00,,None,618
+159208,96,Goal,0.905,0.4520000076293945,0.1038070023059845,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7139,Bournemouth,Manchester City,1,2,2017-08-26 12:30:00,Danilo,Cross,618
+158943,22,BlockedShot,0.7580000305175781,0.43,0.017548000440001488,Raheem Sterling,a,618,FromCorner,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,,None,618
+158961,74,MissedShots,0.895,0.3820000076293945,0.11465500295162201,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Sergio Agüero,Pass,618
+158965,84,MissedShots,0.8180000305175781,0.6619999694824219,0.04795999825000763,Raheem Sterling,a,618,OpenPlay,2017,LeftFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,Bernardo Silva,Pass,618
+158966,88,Goal,0.885,0.5,0.7611690163612366,Raheem Sterling,a,618,Penalty,2017,RightFoot,7164,Watford,Manchester City,0,6,2017-09-16 15:00:00,,Standard,618
+159712,15,SavedShot,0.8519999694824218,0.7269999694824218,0.029246099293231964,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7173,Manchester City,Crystal Palace,5,0,2017-09-23 15:00:00,Kevin De Bruyne,Chipped,618
+159723,45,BlockedShot,0.845,0.519000015258789,0.10126300156116486,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7173,Manchester City,Crystal Palace,5,0,2017-09-23 15:00:00,Leroy Sané,Pass,618
+159727,50,Goal,0.92,0.4759999847412109,0.5201699733734131,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7173,Manchester City,Crystal Palace,5,0,2017-09-23 15:00:00,Leroy Sané,Pass,618
+159728,53,MissedShots,0.94,0.35400001525878905,0.41597500443458557,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7173,Manchester City,Crystal Palace,5,0,2017-09-23 15:00:00,,None,618
+159731,58,Goal,0.9719999694824218,0.505,0.9110050201416016,Raheem Sterling,h,618,OpenPlay,2017,LeftFoot,7173,Manchester City,Crystal Palace,5,0,2017-09-23 15:00:00,Sergio Agüero,Pass,618
+160102,53,MissedShots,0.8490000152587891,0.6229999923706054,0.03581950068473816,Raheem Sterling,a,618,FromCorner,2017,LeftFoot,7185,Chelsea,Manchester City,0,1,2017-09-30 17:30:00,Kevin De Bruyne,Cross,618
+160107,78,BlockedShot,0.8380000305175781,0.355,0.0654681995511055,Raheem Sterling,a,618,OpenPlay,2017,LeftFoot,7185,Chelsea,Manchester City,0,1,2017-09-30 17:30:00,Bernardo Silva,Pass,618
+160516,10,MissedShots,0.884000015258789,0.29399999618530276,0.0465972013771534,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7194,Manchester City,Stoke,7,2,2017-10-14 15:00:00,Gabriel Jesus,Pass,618
+160520,18,Goal,0.9359999847412109,0.44299999237060544,0.5302069783210754,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7194,Manchester City,Stoke,7,2,2017-10-14 15:00:00,Leroy Sané,Pass,618
+160521,20,MissedShots,0.91,0.500999984741211,0.05050300061702728,Raheem Sterling,h,618,OpenPlay,2017,Head,7194,Manchester City,Stoke,7,2,2017-10-14 15:00:00,,Aerial,618
+160177,63,Goal,0.9719999694824218,0.515,0.8826130032539368,Raheem Sterling,a,618,OpenPlay,2017,LeftFoot,7215,West Bromwich Albion,Manchester City,2,3,2017-10-28 15:00:00,Kyle Walker,Pass,618
+160765,39,MissedShots,0.7580000305175781,0.445,0.017845699563622475,Raheem Sterling,a,618,FromCorner,2017,LeftFoot,7235,Leicester,Manchester City,0,2,2017-11-18 15:00:00,,None,618
+161214,37,MissedShots,0.9290000152587891,0.40799999237060547,0.11765199899673462,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7245,Huddersfield,Manchester City,1,2,2017-11-26 16:00:00,,Rebound,618
+161223,83,Goal,0.93,0.47,0.5363950133323669,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7245,Huddersfield,Manchester City,1,2,2017-11-26 16:00:00,,Rebound,618
+161229,13,SavedShot,0.8030000305175782,0.6759999847412109,0.052681099623441696,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7257,Manchester City,Southampton,2,1,2017-11-29 20:00:00,Kevin De Bruyne,Pass,618
+161257,95,Goal,0.8069999694824219,0.585,0.04967910051345825,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7257,Manchester City,Southampton,2,1,2017-11-29 20:00:00,Kevin De Bruyne,Pass,618
+160665,26,MissedShots,0.84,0.3129999923706055,0.027495499700307846,Raheem Sterling,h,618,FromCorner,2017,LeftFoot,7262,Manchester City,West Ham,2,1,2017-12-03 16:00:00,Kevin De Bruyne,Pass,618
+160671,52,BlockedShot,0.9290000152587891,0.5629999923706055,0.12186100333929062,Raheem Sterling,h,618,OpenPlay,2017,LeftFoot,7262,Manchester City,West Ham,2,1,2017-12-03 16:00:00,Leroy Sané,Pass,618
+160672,54,BlockedShot,0.8180000305175781,0.4490000152587891,0.05604340136051178,Raheem Sterling,h,618,OpenPlay,2017,LeftFoot,7262,Manchester City,West Ham,2,1,2017-12-03 16:00:00,David Silva,Pass,618
+179249,15,SavedShot,0.8930000305175781,0.6040000152587891,0.0781003013253212,Raheem Sterling,a,618,OpenPlay,2017,LeftFoot,7276,Manchester United,Manchester City,1,2,2017-12-10 16:30:00,,None,618
+179252,29,BlockedShot,0.8969999694824219,0.425,0.08916939795017242,Raheem Sterling,a,618,OpenPlay,2017,LeftFoot,7276,Manchester United,Manchester City,1,2,2017-12-10 16:30:00,Fernandinho,Chipped,618
+179254,41,BlockedShot,0.805,0.544000015258789,0.04512159898877144,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7276,Manchester United,Manchester City,1,2,2017-12-10 16:30:00,,None,618
+185298,5,BlockedShot,0.879000015258789,0.5979999923706054,0.12515099346637726,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7281,Swansea,Manchester City,0,4,2017-12-13 19:45:00,Bernardo Silva,Throughball,618
+185309,38,BlockedShot,0.8780000305175781,0.5729999923706055,0.09874530136585236,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7281,Swansea,Manchester City,0,4,2017-12-13 19:45:00,,None,618
+185317,72,MissedShots,0.865999984741211,0.5709999847412109,0.2949559986591339,Raheem Sterling,a,618,SetPiece,2017,RightFoot,7281,Swansea,Manchester City,0,4,2017-12-13 19:45:00,Kevin De Bruyne,Chipped,618
+185319,81,BlockedShot,0.830999984741211,0.5629999923706055,0.09659469872713089,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7281,Swansea,Manchester City,0,4,2017-12-13 19:45:00,Bernardo Silva,Pass,618
+182707,23,MissedShots,0.865,0.5379999923706055,0.1375100016593933,Raheem Sterling,h,618,OpenPlay,2017,LeftFoot,7298,Manchester City,Tottenham,4,1,2017-12-16 17:30:00,,TakeOn,618
+182721,66,MissedShots,0.9390000152587891,0.49700000762939456,0.620045006275177,Raheem Sterling,h,618,OpenPlay,2017,LeftFoot,7298,Manchester City,Tottenham,4,1,2017-12-16 17:30:00,,Rebound,618
+182724,74,MissedShots,0.89,0.4640000152587891,0.41502898931503296,Raheem Sterling,h,618,SetPiece,2017,LeftFoot,7298,Manchester City,Tottenham,4,1,2017-12-16 17:30:00,,Rebound,618
+182725,79,Goal,0.965999984741211,0.4540000152587891,0.7648410201072693,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7298,Manchester City,Tottenham,4,1,2017-12-16 17:30:00,Leroy Sané,Pass,618
+182727,87,SavedShot,0.8219999694824218,0.5540000152587891,0.07956709712743759,Raheem Sterling,h,618,OpenPlay,2017,LeftFoot,7298,Manchester City,Tottenham,4,1,2017-12-16 17:30:00,Kevin De Bruyne,Pass,618
+182728,89,Goal,0.925,0.48,0.5495150089263916,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7298,Manchester City,Tottenham,4,1,2017-12-16 17:30:00,Bernardo Silva,Pass,618
+183125,52,Goal,0.9230000305175782,0.34,0.30011698603630066,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7308,Manchester City,Bournemouth,4,0,2017-12-23 15:00:00,Sergio Agüero,Chipped,618
+183131,87,BlockedShot,0.785,0.36900001525878906,0.028256699442863464,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7308,Manchester City,Bournemouth,4,0,2017-12-23 15:00:00,,None,618
+185731,30,Goal,0.965999984741211,0.625,0.07713399827480316,Raheem Sterling,a,618,OpenPlay,2017,LeftFoot,7315,Newcastle United,Manchester City,0,1,2017-12-27 19:45:00,Kevin De Bruyne,Chipped,618
+185735,41,SavedShot,0.8580000305175781,0.5720000076293945,0.09077119827270508,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7315,Newcastle United,Manchester City,0,1,2017-12-27 19:45:00,Gabriel Jesus,Pass,618
+185736,49,MissedShots,0.9380000305175781,0.710999984741211,0.06326290220022202,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7315,Newcastle United,Manchester City,0,1,2017-12-27 19:45:00,Ilkay Gündogan,TakeOn,618
+186438,0,Goal,0.9469999694824218,0.4329999923706055,0.3919120132923126,Raheem Sterling,h,618,OpenPlay,2017,LeftFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Leroy Sané,Cross,618
+186443,17,MissedShots,0.8690000152587891,0.42900001525878906,0.0772852972149849,Raheem Sterling,h,618,SetPiece,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,,Rebound,618
+186449,41,MissedShots,0.9359999847412109,0.27700000762939453,0.08431749790906906,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Fernandinho,Chipped,618
+186461,88,SavedShot,0.9319999694824219,0.31799999237060544,0.07909510284662247,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7335,Manchester City,Watford,3,1,2018-01-02 20:00:00,Bernardo Silva,Pass,618
+188917,31,SavedShot,0.8519999694824218,0.3820000076293945,0.07543089985847473,Raheem Sterling,h,618,OpenPlay,2017,LeftFoot,7354,Manchester City,Newcastle United,3,1,2018-01-20 17:30:00,Sergio Agüero,Pass,618
+188928,70,SavedShot,0.899000015258789,0.45099998474121095,0.13604199886322021,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7354,Manchester City,Newcastle United,3,1,2018-01-20 17:30:00,Leroy Sané,Pass,618
+194226,46,MissedShots,0.919000015258789,0.590999984741211,0.43529200553894043,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7366,Manchester City,West Bromwich Albion,3,0,2018-01-31 20:00:00,Ilkay Gündogan,TakeOn,618
+193654,17,MissedShots,0.6969999694824218,0.575,0.009543269872665405,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7372,Burnley,Manchester City,1,1,2018-02-03 12:30:00,,None,618
+193657,28,SavedShot,0.8230000305175781,0.6840000152587891,0.04184110090136528,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7372,Burnley,Manchester City,1,1,2018-02-03 12:30:00,Sergio Agüero,Pass,618
+193658,29,SavedShot,0.9309999847412109,0.519000015258789,0.13535000383853912,Raheem Sterling,a,618,OpenPlay,2017,LeftFoot,7372,Burnley,Manchester City,1,1,2018-02-03 12:30:00,,None,618
+193668,54,MissedShots,0.9009999847412109,0.5629999923706055,0.13674600422382355,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7372,Burnley,Manchester City,1,1,2018-02-03 12:30:00,Sergio Agüero,Pass,618
+193674,70,MissedShots,0.9640000152587891,0.5329999923706055,0.679885983467102,Raheem Sterling,a,618,OpenPlay,2017,LeftFoot,7372,Burnley,Manchester City,1,1,2018-02-03 12:30:00,Kyle Walker,Pass,618
+193897,2,Goal,0.9719999694824218,0.524000015258789,0.645721971988678,Raheem Sterling,h,618,OpenPlay,2017,LeftFoot,7382,Manchester City,Leicester,5,1,2018-02-10 17:30:00,Kevin De Bruyne,Cross,618
+193903,40,BlockedShot,0.965999984741211,0.6229999923706054,0.15669000148773193,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7382,Manchester City,Leicester,5,1,2018-02-10 17:30:00,Kevin De Bruyne,TakeOn,618
+201028,57,BlockedShot,0.759000015258789,0.56,0.02538199909031391,Raheem Sterling,a,618,FromCorner,2017,RightFoot,7416,Stoke,Manchester City,0,2,2018-03-12 20:00:00,Leroy Sané,Pass,618
+201026,57,SavedShot,0.97,0.4229999923706055,0.11340200155973434,Raheem Sterling,a,618,OpenPlay,2017,LeftFoot,7416,Stoke,Manchester City,0,2,2018-03-12 20:00:00,David Silva,TakeOn,618
+204142,17,MissedShots,0.7669999694824219,0.6079999923706054,0.02461180090904236,Raheem Sterling,a,618,FromCorner,2017,RightFoot,7433,Everton,Manchester City,1,3,2018-03-31 17:30:00,David Silva,Pass,618
+204148,26,MissedShots,0.845,0.534000015258789,0.05525260046124458,Raheem Sterling,a,618,OpenPlay,2017,LeftFoot,7433,Everton,Manchester City,1,3,2018-03-31 17:30:00,,Rebound,618
+204149,31,BlockedShot,0.8130000305175781,0.32,0.043912600725889206,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7433,Everton,Manchester City,1,3,2018-03-31 17:30:00,Gabriel Jesus,Pass,618
+204151,36,Goal,0.899000015258789,0.46,0.4735960066318512,Raheem Sterling,a,618,OpenPlay,2017,LeftFoot,7433,Everton,Manchester City,1,3,2018-03-31 17:30:00,David Silva,Pass,618
+207025,32,MissedShots,0.889000015258789,0.505,0.5255450010299683,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7445,Manchester City,Manchester United,2,3,2018-04-07 16:30:00,David Silva,Throughball,618
+207026,35,MissedShots,0.879000015258789,0.44299999237060544,0.14417299628257751,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7445,Manchester City,Manchester United,2,3,2018-04-07 16:30:00,David Silva,Throughball,618
+207027,40,SavedShot,0.855999984741211,0.5670000076293945,0.11023099720478058,Raheem Sterling,h,618,OpenPlay,2017,LeftFoot,7445,Manchester City,Manchester United,2,3,2018-04-07 16:30:00,Leroy Sané,Pass,618
+207043,89,ShotOnPost,0.96,0.5070000076293946,0.6719250082969666,Raheem Sterling,h,618,FromCorner,2017,LeftFoot,7445,Manchester City,Manchester United,2,3,2018-04-07 16:30:00,Nicolás Otamendi,Rebound,618
+208824,7,MissedShots,0.815,0.5420000076293945,0.058813098818063736,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7457,Tottenham,Manchester City,1,3,2018-04-14 18:45:00,David Silva,BallRecovery,618
+208836,64,SavedShot,0.8490000152587891,0.46599998474121096,0.10191900283098221,Raheem Sterling,a,618,OpenPlay,2017,LeftFoot,7457,Tottenham,Manchester City,1,3,2018-04-14 18:45:00,David Silva,Pass,618
+208838,70,BlockedShot,0.9469999694824218,0.4620000076293945,0.9303410053253174,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7457,Tottenham,Manchester City,1,3,2018-04-14 18:45:00,,TakeOn,618
+208841,71,Goal,0.9690000152587891,0.5479999923706055,0.6257749795913696,Raheem Sterling,a,618,FromCorner,2017,LeftFoot,7457,Tottenham,Manchester City,1,3,2018-04-14 18:45:00,,Rebound,618
+208842,74,BlockedShot,0.9,0.6,0.12815099954605103,Raheem Sterling,a,618,OpenPlay,2017,LeftFoot,7457,Tottenham,Manchester City,1,3,2018-04-14 18:45:00,Kevin De Bruyne,Pass,618
+211056,15,Goal,0.9740000152587891,0.4909999847412109,0.9003170132637024,Raheem Sterling,h,618,OpenPlay,2017,RightFoot,7465,Manchester City,Swansea,5,0,2018-04-22 15:30:00,Fabian Delph,Pass,618
+212342,19,MissedShots,0.8690000152587891,0.595999984741211,0.10949400067329407,Raheem Sterling,a,618,OpenPlay,2017,LeftFoot,7478,West Ham,Manchester City,1,4,2018-04-29 13:15:00,Ilkay Gündogan,Pass,618
+212345,26,BlockedShot,0.825,0.34,0.05091020092368126,Raheem Sterling,a,618,OpenPlay,2017,LeftFoot,7478,West Ham,Manchester City,1,4,2018-04-29 13:15:00,,TakeOn,618
+212352,46,SavedShot,0.8680000305175781,0.41900001525878905,0.1093830019235611,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7478,West Ham,Manchester City,1,4,2018-04-29 13:15:00,Leroy Sané,Pass,618
+212357,61,SavedShot,0.8469999694824218,0.3029999923706055,0.3635709881782532,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7478,West Ham,Manchester City,1,4,2018-04-29 13:15:00,Gabriel Jesus,Throughball,618
+212360,76,BlockedShot,0.8530000305175781,0.4540000152587891,0.09216520190238953,Raheem Sterling,a,618,OpenPlay,2017,LeftFoot,7478,West Ham,Manchester City,1,4,2018-04-29 13:15:00,Fabian Delph,Cross,618
+212362,81,MissedShots,0.8330000305175781,0.5529999923706055,0.08777239918708801,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7478,West Ham,Manchester City,1,4,2018-04-29 13:15:00,Yaya Touré,Pass,618
+215555,38,MissedShots,0.7559999847412109,0.46799999237060547,0.033636998385190964,Raheem Sterling,a,618,OpenPlay,2017,RightFoot,7498,Southampton,Manchester City,0,1,2018-05-13 15:00:00,,TakeOn,618
+215560,60,BlockedShot,0.885,0.37099998474121093,0.05049680173397064,Raheem Sterling,a,618,FromCorner,2017,RightFoot,7498,Southampton,Manchester City,0,1,2018-05-13 15:00:00,,TakeOn,618
+232695,8,SavedShot,0.9590000152587891,0.649000015258789,0.10035599768161774,Raheem Sterling,a,618,OpenPlay,2018,LeftFoot,9206,Arsenal,Manchester City,0,2,2018-08-12 18:00:00,Sergio Agüero,TakeOn,618
+232696,10,BlockedShot,0.794000015258789,0.33,0.02397190034389496,Raheem Sterling,a,618,OpenPlay,2018,LeftFoot,9206,Arsenal,Manchester City,0,2,2018-08-12 18:00:00,,None,618
+232697,13,Goal,0.8119999694824219,0.534000015258789,0.07156209647655487,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9206,Arsenal,Manchester City,0,2,2018-08-12 18:00:00,Benjamin Mendy,TakeOn,618
+233443,21,SavedShot,0.7380000305175781,0.5179999923706055,0.0162626001983881,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9217,Wolverhampton Wanderers,Manchester City,1,1,2018-08-25 14:30:00,,None,618
+233452,49,MissedShots,0.9019999694824219,0.6759999847412109,0.07599160075187683,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9217,Wolverhampton Wanderers,Manchester City,1,1,2018-08-25 14:30:00,Sergio Agüero,Pass,618
+233667,7,Goal,0.8590000152587891,0.6430000305175781,0.06656160205602646,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9234,Manchester City,Newcastle United,2,1,2018-09-01 16:30:00,Benjamin Mendy,Pass,618
+233683,57,BlockedShot,0.875999984741211,0.6309999847412109,0.09212719649076462,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9234,Manchester City,Newcastle United,2,1,2018-09-01 16:30:00,David Silva,Pass,618
+233689,70,MissedShots,0.8619999694824219,0.5570000076293945,0.11093399673700333,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9234,Manchester City,Newcastle United,2,1,2018-09-01 16:30:00,David Silva,Pass,618
+233837,4,MissedShots,0.865999984741211,0.3320000076293945,0.07405579835176468,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Bernardo Silva,Pass,618
+233839,14,SavedShot,0.874000015258789,0.36900001525878906,0.33195099234580994,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Bernardo Silva,Throughball,618
+233852,45,SavedShot,0.879000015258789,0.41,0.14928799867630005,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Fernandinho,TakeOn,618
+233854,46,Goal,0.9769999694824218,0.5220000076293946,0.9513049721717834,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,Sergio Agüero,Pass,618
+233861,65,BlockedShot,0.8119999694824219,0.515,0.056067198514938354,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9239,Manchester City,Fulham,3,0,2018-09-15 14:00:00,,None,618
+234094,79,SavedShot,0.7959999847412109,0.715,0.06044720113277435,Raheem Sterling,a,618,DirectFreekick,2018,RightFoot,9252,Cardiff,Manchester City,0,5,2018-09-22 14:00:00,,Standard,618
+234097,87,BlockedShot,0.870999984741211,0.42700000762939455,0.09653130173683167,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9252,Cardiff,Manchester City,0,5,2018-09-22 14:00:00,Riyad Mahrez,HeadPass,618
+234387,28,Goal,0.970999984741211,0.44599998474121094,0.7855169773101807,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9260,Manchester City,Brighton,2,0,2018-09-29 14:00:00,Leroy Sané,Pass,618
+234392,38,SavedShot,0.909000015258789,0.36900001525878906,0.09359540045261383,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9260,Manchester City,Brighton,2,0,2018-09-29 14:00:00,,None,618
+234395,41,BlockedShot,0.8730000305175781,0.6459999847412109,0.10447400063276291,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9260,Manchester City,Brighton,2,0,2018-09-29 14:00:00,,TakeOn,618
+249725,11,BlockedShot,0.92,0.649000015258789,0.10129299759864807,Raheem Sterling,a,618,OpenPlay,2018,LeftFoot,9296,Tottenham,Manchester City,0,1,2018-10-29 19:00:00,David Silva,Pass,618
+249733,54,BlockedShot,0.9330000305175781,0.544000015258789,0.5506129860877991,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9296,Tottenham,Manchester City,0,1,2018-10-29 19:00:00,David Silva,Pass,618
+249931,46,Goal,0.919000015258789,0.4909999847412109,0.5584549903869629,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Sergio Agüero,Pass,618
+249932,47,BlockedShot,0.865,0.39,0.09480240195989609,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Bernardo Silva,Pass,618
+249942,66,Goal,0.9440000152587891,0.34200000762939453,0.08818709850311279,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Sergio Agüero,Pass,618
+249953,92,SavedShot,0.825,0.54,0.0756348967552185,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9300,Manchester City,Southampton,6,1,2018-11-04 15:00:00,Sergio Agüero,BallRecovery,618
+250209,5,BlockedShot,0.965999984741211,0.645,0.06591089814901352,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,David Silva,Chipped,618
+250215,33,BlockedShot,0.815,0.475,0.0777541995048523,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Sergio Agüero,Pass,618
+250220,53,BlockedShot,0.899000015258789,0.7,0.07647290080785751,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9315,Manchester City,Manchester United,3,1,2018-11-11 16:30:00,Bernardo Silva,Pass,618
+250257,18,Goal,0.9719999694824218,0.4759999847412109,0.8550270199775696,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9317,West Ham,Manchester City,0,4,2018-11-24 15:00:00,Leroy Sané,Pass,618
+250570,52,MissedShots,0.89,0.5379999923706055,0.23587200045585632,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9329,Manchester City,Bournemouth,3,1,2018-12-01 15:00:00,Nicolás Otamendi,TakeOn,618
+250573,56,Goal,0.9519999694824218,0.44299999237060544,0.5761659741401672,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9329,Manchester City,Bournemouth,3,1,2018-12-01 15:00:00,,Rebound,618
+251149,8,SavedShot,0.9169999694824219,0.5279999923706055,0.13575099408626556,Raheem Sterling,a,618,OpenPlay,2018,LeftFoot,9352,Chelsea,Manchester City,2,0,2018-12-08 17:30:00,,None,618
+251167,88,BlockedShot,0.9340000152587891,0.6719999694824219,0.048923999071121216,Raheem Sterling,a,618,FromCorner,2018,LeftFoot,9352,Chelsea,Manchester City,2,0,2018-12-08 17:30:00,,None,618
+251257,68,Goal,0.9569999694824218,0.48900001525878906,0.6059370040893555,Raheem Sterling,h,618,OpenPlay,2018,Head,9361,Manchester City,Everton,3,1,2018-12-15 12:30:00,Fernandinho,Chipped,618
+251570,15,MissedShots,0.914000015258789,0.40299999237060546,0.0921998992562294,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9370,Manchester City,Crystal Palace,2,3,2018-12-22 15:00:00,Bernardo Silva,Cross,618
+263766,54,SavedShot,0.9390000152587891,0.6730000305175782,0.2373889982700348,Raheem Sterling,a,618,OpenPlay,2018,LeftFoot,9389,Southampton,Manchester City,1,3,2018-12-30 14:15:00,David Silva,Pass,618
+274364,89,MissedShots,0.8569999694824219,0.49900001525878906,0.09732969850301743,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9400,Manchester City,Liverpool,2,1,2019-01-03 20:00:00,,None,618
+274598,29,MissedShots,0.865999984741211,0.3089999961853027,0.06072570011019707,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9409,Manchester City,Wolverhampton Wanderers,3,0,2019-01-14 20:00:00,David Silva,TakeOn,618
+274603,43,SavedShot,0.9169999694824219,0.509000015258789,0.05372849851846695,Raheem Sterling,h,618,OpenPlay,2018,Head,9409,Manchester City,Wolverhampton Wanderers,3,0,2019-01-14 20:00:00,Danilo,Aerial,618
+274608,68,SavedShot,0.919000015258789,0.4540000152587891,0.5710890293121338,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9409,Manchester City,Wolverhampton Wanderers,3,0,2019-01-14 20:00:00,Leroy Sané,Throughball,618
+274824,53,Goal,0.9619999694824218,0.48700000762939455,0.6436489820480347,Raheem Sterling,a,618,OpenPlay,2018,Head,9423,Huddersfield,Manchester City,0,3,2019-01-20 13:30:00,Leroy Sané,Cross,618
+275324,4,SavedShot,0.7530000305175781,0.5359999847412109,0.017385900020599365,Raheem Sterling,h,618,FromCorner,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,,None,618
+275326,17,BlockedShot,0.8690000152587891,0.38799999237060545,0.05552250146865845,Raheem Sterling,h,618,FromCorner,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,,None,618
+275344,86,BlockedShot,0.8059999847412109,0.3029999923706055,0.03416230157017708,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9439,Manchester City,Arsenal,3,1,2019-02-03 16:30:00,Bernardo Silva,Pass,618
+275385,67,BlockedShot,0.8930000305175781,0.645,0.07316660135984421,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9461,Everton,Manchester City,0,2,2019-02-06 19:45:00,,Rebound,618
+275601,3,Goal,0.91,0.5829999923706055,0.443354994058609,Raheem Sterling,h,618,SetPiece,2018,RightFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,,None,618
+275626,79,Goal,0.9319999694824219,0.48700000762939455,0.5897970199584961,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9454,Manchester City,Chelsea,6,0,2019-02-10 16:00:00,Oleksandr Zinchenko,Pass,618
+276031,63,SavedShot,0.8780000305175781,0.580999984741211,0.10394799709320068,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9475,Manchester City,West Ham,1,0,2019-02-27 20:00:00,,BallTouch,618
+276034,64,SavedShot,0.8009999847412109,0.6509999847412109,0.032925598323345184,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9475,Manchester City,West Ham,1,0,2019-02-27 20:00:00,Kevin De Bruyne,TakeOn,618
+276037,76,MissedShots,0.9059999847412109,0.5179999923706055,0.4766939878463745,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9475,Manchester City,West Ham,1,0,2019-02-27 20:00:00,Bernardo Silva,Pass,618
+276240,40,MissedShots,0.82,0.740999984741211,0.02320370078086853,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9486,Bournemouth,Manchester City,0,1,2019-03-02 15:00:00,Ilkay Gündogan,Pass,618
+276247,63,SavedShot,0.905,0.31,0.15052400529384613,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9486,Bournemouth,Manchester City,0,1,2019-03-02 15:00:00,Bernardo Silva,Throughball,618
+276246,63,SavedShot,0.8159999847412109,0.6659999847412109,0.04300070181488991,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9486,Bournemouth,Manchester City,0,1,2019-03-02 15:00:00,David Silva,Pass,618
+284664,25,MissedShots,0.8530000305175781,0.64,0.039630498737096786,Raheem Sterling,h,618,FromCorner,2018,RightFoot,9489,Manchester City,Watford,3,1,2019-03-09 17:30:00,,None,618
+284666,30,BlockedShot,0.8780000305175781,0.39099998474121095,0.11218100041151047,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9489,Manchester City,Watford,3,1,2019-03-09 17:30:00,Bernardo Silva,Pass,618
+284669,45,Goal,0.9059999847412109,0.605999984741211,0.07982750236988068,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9489,Manchester City,Watford,3,1,2019-03-09 17:30:00,,None,618
+284670,49,Goal,0.9830000305175781,0.5259999847412109,0.9632019996643066,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9489,Manchester City,Watford,3,1,2019-03-09 17:30:00,Riyad Mahrez,Pass,618
+284671,58,Goal,0.9159999847412109,0.5379999923706055,0.14213700592517853,Raheem Sterling,h,618,OpenPlay,2018,RightFoot,9489,Manchester City,Watford,3,1,2019-03-09 17:30:00,David Silva,Throughball,618
+287292,8,BlockedShot,0.8059999847412109,0.6309999847412109,0.05038490146398544,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9512,Fulham,Manchester City,0,2,2019-03-30 12:30:00,Kevin De Bruyne,Pass,618
+287293,9,BlockedShot,0.8569999694824219,0.63,0.03488840162754059,Raheem Sterling,a,618,FromCorner,2018,RightFoot,9512,Fulham,Manchester City,0,2,2019-03-30 12:30:00,Ilkay Gündogan,TakeOn,618
+287297,14,BlockedShot,0.87,0.5420000076293945,0.11005499958992004,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9512,Fulham,Manchester City,0,2,2019-03-30 12:30:00,Sergio Agüero,Pass,618
+287310,60,SavedShot,0.855999984741211,0.75,0.03634769842028618,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9512,Fulham,Manchester City,0,2,2019-03-30 12:30:00,Oleksandr Zinchenko,BallRecovery,618
+287316,86,MissedShots,0.8540000152587891,0.585,0.11200100183486938,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9512,Fulham,Manchester City,0,2,2019-03-30 12:30:00,Ilkay Gündogan,Pass,618
+294154,9,MissedShots,0.9169999694824219,0.485,0.4872649908065796,Raheem Sterling,a,618,OpenPlay,2018,LeftFoot,9534,Crystal Palace,Manchester City,1,3,2019-04-14 14:05:00,David Silva,Pass,618
+294155,14,Goal,0.9230000305175782,0.345,0.465380996465683,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9534,Crystal Palace,Manchester City,1,3,2019-04-14 14:05:00,Kevin De Bruyne,Throughball,618
+294163,52,BlockedShot,0.759000015258789,0.35700000762939454,0.02601649984717369,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9534,Crystal Palace,Manchester City,1,3,2019-04-14 14:05:00,,BallRecovery,618
+294167,62,Goal,0.92,0.4470000076293945,0.47999700903892517,Raheem Sterling,a,618,OpenPlay,2018,LeftFoot,9534,Crystal Palace,Manchester City,1,3,2019-04-14 14:05:00,Leroy Sané,Pass,618
+294178,83,MissedShots,0.9230000305175782,0.305,0.07603920251131058,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9534,Crystal Palace,Manchester City,1,3,2019-04-14 14:05:00,Kevin De Bruyne,Pass,618
+294924,70,SavedShot,0.9330000305175781,0.5420000076293945,0.4380129873752594,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9540,Manchester City,Tottenham,1,0,2019-04-20 12:30:00,Leroy Sané,Cross,618
+296806,14,SavedShot,0.799000015258789,0.6619999694824219,0.02960599958896637,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9501,Manchester United,Manchester City,0,2,2019-04-24 20:00:00,David Silva,Pass,618
+296812,42,SavedShot,0.8959999847412109,0.5070000076293946,0.13235299289226532,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9501,Manchester United,Manchester City,0,2,2019-04-24 20:00:00,Sergio Agüero,Pass,618
+298067,35,MissedShots,0.91,0.4370000076293945,0.04898739978671074,Raheem Sterling,a,618,OpenPlay,2018,Head,9555,Burnley,Manchester City,0,1,2019-04-28 14:05:00,Bernardo Silva,Aerial,618
+298075,51,BlockedShot,0.9,0.5320000076293945,0.0990179032087326,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9555,Burnley,Manchester City,0,1,2019-04-28 14:05:00,Leroy Sané,None,618
+298079,56,BlockedShot,0.9019999694824219,0.61,0.11284399777650833,Raheem Sterling,a,618,OpenPlay,2018,RightFoot,9555,Burnley,Manchester City,0,1,2019-04-28 14:05:00,Sergio Agüero,Pass,618
+300376,42,BlockedShot,0.799000015258789,0.31799999237060544,0.020359499379992485,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9560,Manchester City,Leicester,1,0,2019-05-06 19:00:00,Phil Foden,Pass,618
+300379,51,MissedShots,0.9630000305175781,0.47400001525878904,0.4532470107078552,Raheem Sterling,h,618,FromCorner,2018,Head,9560,Manchester City,Leicester,1,0,2019-05-06 19:00:00,David Silva,HeadPass,618
+300381,53,MissedShots,0.835,0.6530000305175782,0.04773769900202751,Raheem Sterling,h,618,OpenPlay,2018,LeftFoot,9560,Manchester City,Leicester,1,0,2019-05-06 19:00:00,Ilkay Gündogan,Pass,618
+301228,60,SavedShot,0.895,0.6430000305175781,0.10253100097179413,Raheem Sterling,a,618,OpenPlay,2018,LeftFoot,9576,Brighton,Manchester City,1,4,2019-05-12 14:00:00,Ilkay Gündogan,Pass,618
+309929,49,SavedShot,0.889000015258789,0.55,0.040737301111221313,Raheem Sterling,a,618,OpenPlay,2019,Head,11644,West Ham,Manchester City,0,5,2019-08-10 12:30:00,Oleksandr Zinchenko,Aerial,618
+309930,50,Goal,0.8819999694824219,0.605999984741211,0.43306899070739746,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11644,West Ham,Manchester City,0,5,2019-08-10 12:30:00,Kevin De Bruyne,Pass,618
+309935,74,Goal,0.92,0.4540000152587891,0.5830140113830566,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11644,West Ham,Manchester City,0,5,2019-08-10 12:30:00,Riyad Mahrez,Throughball,618
+309937,90,Goal,0.9109999847412109,0.4209999847412109,0.5324270129203796,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11644,West Ham,Manchester City,0,5,2019-08-10 12:30:00,Riyad Mahrez,Throughball,618
+310767,6,BlockedShot,0.8919999694824219,0.5420000076293945,0.12739300727844238,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Kyle Walker,Pass,618
+310770,8,MissedShots,0.8580000305175781,0.6759999847412109,0.05304240062832832,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Oleksandr Zinchenko,Pass,618
+310772,19,Goal,0.9740000152587891,0.595999984741211,0.2065179944038391,Raheem Sterling,h,618,OpenPlay,2019,Head,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Kevin De Bruyne,Cross,618
+310786,53,SavedShot,0.8590000152587891,0.565,0.35727301239967346,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,Kevin De Bruyne,Throughball,618
+310789,59,BlockedShot,0.87,0.6309999847412109,0.06791500002145767,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,,BallRecovery,618
+310799,95,BlockedShot,0.8780000305175781,0.615999984741211,0.06801190227270126,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,11659,Manchester City,Tottenham,2,2,2019-08-17 17:30:00,,None,618
+312926,42,Goal,0.9130000305175782,0.5570000076293945,0.44748398661613464,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,David Silva,Throughball,618
+312931,50,BlockedShot,0.9590000152587891,0.51,0.18295399844646454,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11671,Bournemouth,Manchester City,1,3,2019-08-25 14:00:00,,Rebound,618
+317519,11,BlockedShot,0.9069999694824219,0.6719999694824219,0.07273620367050171,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Sergio Agüero,Pass,618
+317521,20,BlockedShot,0.774000015258789,0.6229999923706054,0.023858899250626564,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,,None,618
+317524,30,ShotOnPost,0.915,0.5629999923706055,0.5551549792289734,Raheem Sterling,a,618,OpenPlay,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Bernardo Silva,Aerial,618
+317533,54,BlockedShot,0.9130000305175782,0.5120000076293946,0.06076459959149361,Raheem Sterling,a,618,OpenPlay,2019,Head,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,,Aerial,618
+317541,85,BlockedShot,0.8230000305175781,0.5029999923706054,0.041717201471328735,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,John Stones,Chipped,618
+317549,93,SavedShot,0.885,0.6509999847412109,0.06057490035891533,Raheem Sterling,a,618,SetPiece,2019,RightFoot,11689,Norwich,Manchester City,3,2,2019-09-14 16:30:00,Rodri,Chipped,618
+322857,59,MissedShots,0.905,0.49700000762939456,0.4367479979991913,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Riyad Mahrez,Throughball,618
+322859,68,SavedShot,0.9180000305175782,0.519000015258789,0.11281699687242508,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,Kyle Walker,Cross,618
+322858,68,BlockedShot,0.8419999694824218,0.5159999847412109,0.06650040298700333,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,,None,618
+322867,83,Goal,0.925,0.5570000076293945,0.1242469996213913,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11711,Everton,Manchester City,1,3,2019-09-28 16:30:00,,None,618
+324659,32,SavedShot,0.8209999847412109,0.6509999847412109,0.04104350134730339,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11716,Manchester City,Wolverhampton Wanderers,0,2,2019-10-06 14:00:00,David Silva,Pass,618
+324663,62,BlockedShot,0.88,0.7269999694824218,0.03680869936943054,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11716,Manchester City,Wolverhampton Wanderers,0,2,2019-10-06 14:00:00,Oleksandr Zinchenko,Pass,618
+324667,67,BlockedShot,0.840999984741211,0.5379999923706055,0.07110650092363358,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11716,Manchester City,Wolverhampton Wanderers,0,2,2019-10-06 14:00:00,Sergio Agüero,BallTouch,618
+325885,51,ShotOnPost,0.8690000152587891,0.634000015258789,0.0949145033955574,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,Gabriel Jesus,Pass,618
+325887,54,MissedShots,0.8619999694824219,0.6270000076293946,0.09864470362663269,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,David Silva,TakeOn,618
+325893,78,MissedShots,0.915,0.5840000152587891,0.5050609707832336,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,David Silva,Pass,618
+325896,86,MissedShots,0.905,0.46,0.5329030156135559,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11726,Crystal Palace,Manchester City,0,2,2019-10-19 17:30:00,João Cancelo,Pass,618
+326919,12,BlockedShot,0.8530000305175781,0.5570000076293945,0.09256629645824432,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,Kevin De Bruyne,Pass,618
+326920,18,BlockedShot,0.875999984741211,0.5879999923706055,0.10302700102329254,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,Ilkay Gündogan,Pass,618
+326928,37,MissedShots,0.905,0.515,0.05883530154824257,Raheem Sterling,h,618,OpenPlay,2019,Head,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,Ilkay Gündogan,Chipped,618
+326930,45,Goal,0.91,0.605999984741211,0.3636910021305084,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,11737,Manchester City,Aston Villa,3,0,2019-10-26 12:30:00,,None,618
+329214,64,MissedShots,0.8809999847412109,0.5690000152587891,0.08057849854230881,Raheem Sterling,h,618,FromCorner,2019,RightFoot,11749,Manchester City,Southampton,2,1,2019-11-02 15:00:00,Gabriel Jesus,LayOff,618
+331547,8,MissedShots,0.9109999847412109,0.5879999923706055,0.14768899977207184,Raheem Sterling,a,618,SetPiece,2019,Head,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Kevin De Bruyne,Cross,618
+331564,52,BlockedShot,0.8159999847412109,0.5070000076293946,0.08058050274848938,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Bernardo Silva,TakeOn,618
+331569,76,MissedShots,0.8530000305175781,0.5540000152587891,0.08318500220775604,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Ilkay Gündogan,Pass,618
+331572,82,BlockedShot,0.8819999694824219,0.715999984741211,0.04398790001869202,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11755,Liverpool,Manchester City,3,1,2019-11-10 16:30:00,Angelino,Pass,618
+333416,17,BlockedShot,0.865,0.669000015258789,0.049240000545978546,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,,None,618
+333419,21,Goal,0.88,0.534000015258789,0.3792409896850586,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,David Silva,Pass,618
+333422,32,SavedShot,0.81,0.66,0.03196069970726967,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,Benjamin Mendy,Pass,618
+333443,91,SavedShot,0.960999984741211,0.40400001525878904,0.30876800417900085,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11777,Newcastle United,Manchester City,2,2,2019-11-30 12:30:00,Kevin De Bruyne,Chipped,618
+334865,17,BlockedShot,0.889000015258789,0.6270000076293946,0.09305170178413391,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11784,Burnley,Manchester City,1,4,2019-12-03 20:15:00,Angelino,Pass,618
+334867,31,SavedShot,0.9619999694824218,0.4929999923706055,0.6334459781646729,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11784,Burnley,Manchester City,1,4,2019-12-03 20:15:00,Kevin De Bruyne,Cross,618
+334877,65,BlockedShot,0.875999984741211,0.655,0.0824010968208313,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11784,Burnley,Manchester City,1,4,2019-12-03 20:15:00,Kevin De Bruyne,Pass,618
+335824,24,BlockedShot,0.9730000305175781,0.6840000152587891,0.0399710014462471,Raheem Sterling,h,618,FromCorner,2019,RightFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,,None,618
+335837,64,BlockedShot,0.84,0.66,0.051557399332523346,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11797,Manchester City,Manchester United,1,2,2019-12-07 17:30:00,David Silva,Pass,618
+337715,14,Goal,0.9309999847412109,0.44,0.5176650285720825,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11803,Arsenal,Manchester City,0,3,2019-12-15 16:30:00,Kevin De Bruyne,Pass,618
+337726,61,BlockedShot,0.8430000305175781,0.5820000076293945,0.08717299997806549,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11803,Arsenal,Manchester City,0,3,2019-12-15 16:30:00,Kevin De Bruyne,Pass,618
+337728,74,BlockedShot,0.7609999847412109,0.5670000076293945,0.041460998356342316,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11803,Arsenal,Manchester City,0,3,2019-12-15 16:30:00,Bernardo Silva,Pass,618
+337731,89,MissedShots,0.8819999694824219,0.6140000152587891,0.11244600266218185,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11803,Arsenal,Manchester City,0,3,2019-12-15 16:30:00,Kevin De Bruyne,Pass,618
+338750,24,SavedShot,0.9819999694824219,0.4109999847412109,0.05942609906196594,Raheem Sterling,h,618,FromCorner,2019,RightFoot,11817,Manchester City,Leicester,3,1,2019-12-21 17:30:00,Kevin De Bruyne,Cross,618
+338759,55,BlockedShot,0.875999984741211,0.42900001525878906,0.10693199932575226,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11817,Manchester City,Leicester,3,1,2019-12-21 17:30:00,Kyle Walker,Pass,618
+339694,24,Goal,0.9390000152587891,0.4779999923706055,0.6059219837188721,Raheem Sterling,a,618,SetPiece,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,,Rebound,618
+339693,24,SavedShot,0.885,0.5,0.7611690163612366,Raheem Sterling,a,618,Penalty,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,,Standard,618
+339695,28,MissedShots,0.8780000305175781,0.32,0.06391359865665436,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,Fernandinho,Chipped,618
+339703,49,Goal,0.874000015258789,0.6,0.34091898798942566,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,Kevin De Bruyne,Throughball,618
+339717,92,ShotOnPost,0.8030000305175782,0.5690000152587891,0.12217699736356735,Raheem Sterling,a,618,DirectFreekick,2019,RightFoot,11832,Wolverhampton Wanderers,Manchester City,3,2,2019-12-27 19:45:00,,Standard,618
+339953,35,BlockedShot,0.769000015258789,0.7319999694824219,0.014983199536800385,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11837,Manchester City,Sheffield United,2,0,2019-12-29 18:00:00,Bernardo Silva,Pass,618
+351891,15,MissedShots,0.960999984741211,0.515,0.1376039981842041,Raheem Sterling,h,618,FromCorner,2019,Head,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,Kevin De Bruyne,Cross,618
+351893,27,MissedShots,0.965,0.5720000076293945,0.08244460076093674,Raheem Sterling,h,618,OpenPlay,2019,Head,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,Bernardo Silva,Aerial,618
+351897,50,MissedShots,0.8830000305175781,0.595999984741211,0.08832579851150513,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,David Silva,Pass,618
+351902,55,BlockedShot,0.865,0.34900001525878904,0.10261300206184387,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11864,Manchester City,Crystal Palace,2,2,2020-01-18 15:00:00,Kevin De Bruyne,Throughball,618
+352179,18,SavedShot,0.8859999847412109,0.46700000762939453,0.5194889903068542,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11875,Sheffield United,Manchester City,0,1,2020-01-21 19:30:00,Riyad Mahrez,Pass,618
+352181,25,MissedShots,0.7909999847412109,0.6930000305175781,0.019045699387788773,Raheem Sterling,a,618,FromCorner,2019,RightFoot,11875,Sheffield United,Manchester City,0,1,2020-01-21 19:30:00,Fernandinho,Pass,618
+352191,64,MissedShots,0.9540000152587891,0.27700000762939453,0.036039598286151886,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11875,Sheffield United,Manchester City,0,1,2020-01-21 19:30:00,Fernandinho,Pass,618
+352196,84,MissedShots,0.914000015258789,0.575,0.08748549968004227,Raheem Sterling,a,618,FromCorner,2019,RightFoot,11875,Sheffield United,Manchester City,0,1,2020-01-21 19:30:00,Nicolás Otamendi,Pass,618
+352197,87,BlockedShot,0.8909999847412109,0.33599998474121096,0.10368599742650986,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11875,Sheffield United,Manchester City,0,1,2020-01-21 19:30:00,Riyad Mahrez,Pass,618
+352634,35,BlockedShot,0.9219999694824219,0.48200000762939454,0.536873996257782,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11890,Tottenham,Manchester City,2,0,2020-02-02 16:30:00,Ilkay Gündogan,Pass,618
+353571,9,SavedShot,0.9,0.6580000305175782,0.055262599140405655,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11932,Manchester United,Manchester City,2,0,2020-03-08 16:30:00,Phil Foden,Chipped,618
+353586,74,MissedShots,0.919000015258789,0.5220000076293946,0.40080100297927856,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11932,Manchester United,Manchester City,2,0,2020-03-08 16:30:00,Riyad Mahrez,Cross,618
+353588,89,SavedShot,0.8130000305175781,0.5720000076293945,0.02984059974551201,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11932,Manchester United,Manchester City,2,0,2020-03-08 16:30:00,João Cancelo,Chipped,618
+364857,33,SavedShot,0.865,0.7119999694824218,0.03748739883303642,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,David Silva,Pass,618
+364860,38,MissedShots,0.925,0.4,0.12801000475883484,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,Kevin De Bruyne,Throughball,618
+364861,46,Goal,0.965,0.385,0.08434990048408508,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11917,Manchester City,Arsenal,3,0,2020-06-17 19:15:00,,None,618
+366625,56,ShotOnPost,0.8109999847412109,0.5459999847412109,0.2823379933834076,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Riyad Mahrez,Pass,618
+366627,66,MissedShots,0.870999984741211,0.6819999694824219,0.03400300070643425,Raheem Sterling,a,618,FromCorner,2019,RightFoot,11946,Chelsea,Manchester City,2,1,2020-06-25 19:15:00,Aymeric Laporte,None,618
+368407,34,Goal,0.905,0.5540000152587891,0.1586350053548813,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Phil Foden,Pass,618
+368410,49,BlockedShot,0.8119999694824219,0.57,0.15382400155067444,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Phil Foden,TakeOn,618
+368418,65,MissedShots,0.8969999694824219,0.41900001525878905,0.3439289927482605,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,11959,Manchester City,Liverpool,4,0,2020-07-02 19:15:00,Kevin De Bruyne,Pass,618
+369222,29,MissedShots,0.8909999847412109,0.615,0.06492439657449722,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,,Rebound,618
+369219,29,SavedShot,0.889000015258789,0.6759999847412109,0.05927729979157448,Raheem Sterling,a,618,OpenPlay,2019,LeftFoot,11970,Southampton,Manchester City,1,0,2020-07-05 18:00:00,Gabriel Jesus,Pass,618
+369717,63,BlockedShot,0.8619999694824219,0.6359999847412109,0.08495719730854034,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,11979,Manchester City,Newcastle United,5,0,2020-07-08 17:00:00,Kevin De Bruyne,Pass,618
+369724,90,Goal,0.8819999694824219,0.49599998474121093,0.4355820119380951,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,11979,Manchester City,Newcastle United,5,0,2020-07-08 17:00:00,David Silva,Pass,618
+370573,20,Goal,0.7730000305175782,0.5690000152587891,0.029969599097967148,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11985,Brighton,Manchester City,0,5,2020-07-11 19:00:00,Gabriel Jesus,HeadPass,618
+370589,50,SavedShot,0.945,0.505,0.6308919787406921,Raheem Sterling,a,618,SetPiece,2019,RightFoot,11985,Brighton,Manchester City,0,5,2020-07-11 19:00:00,Bernardo Silva,Rebound,618
+370590,52,Goal,0.9580000305175781,0.519000015258789,0.6215029954910278,Raheem Sterling,a,618,OpenPlay,2019,Head,11985,Brighton,Manchester City,0,5,2020-07-11 19:00:00,Riyad Mahrez,Cross,618
+370593,60,MissedShots,0.749000015258789,0.49700000762939456,0.02930930070579052,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,11985,Brighton,Manchester City,0,5,2020-07-11 19:00:00,Kevin De Bruyne,Pass,618
+370596,80,Goal,0.9590000152587891,0.5820000076293945,0.053486499935388565,Raheem Sterling,a,618,OpenPlay,2019,Head,11985,Brighton,Manchester City,0,5,2020-07-11 19:00:00,,Aerial,618
+372979,21,BlockedShot,0.8190000152587891,0.7269999694824218,0.025189800187945366,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,12011,Watford,Manchester City,0,4,2020-07-21 17:00:00,Rodri,Pass,618
+372985,30,Goal,0.89,0.36700000762939455,0.050255998969078064,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,12011,Watford,Manchester City,0,4,2020-07-21 17:00:00,Kyle Walker,Cross,618
+372987,39,Goal,0.9519999694824218,0.5220000076293946,0.6477680206298828,Raheem Sterling,a,618,SetPiece,2019,LeftFoot,12011,Watford,Manchester City,0,4,2020-07-21 17:00:00,,Rebound,618
+372986,39,SavedShot,0.885,0.5,0.7611690163612366,Raheem Sterling,a,618,Penalty,2019,RightFoot,12011,Watford,Manchester City,0,4,2020-07-21 17:00:00,,Standard,618
+372992,46,SavedShot,0.8230000305175781,0.27899999618530275,0.035735901445150375,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,12011,Watford,Manchester City,0,4,2020-07-21 17:00:00,Kevin De Bruyne,Pass,618
+372996,62,SavedShot,0.8809999847412109,0.34,0.2263070046901703,Raheem Sterling,a,618,OpenPlay,2019,RightFoot,12011,Watford,Manchester City,0,4,2020-07-21 17:00:00,Kevin De Bruyne,Pass,618
+373738,6,MissedShots,0.8719999694824219,0.46700000762939453,0.11082500219345093,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,David Silva,Pass,618
+373741,22,MissedShots,0.950999984741211,0.4779999923706055,0.11838799715042114,Raheem Sterling,h,618,OpenPlay,2019,Head,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,Phil Foden,Aerial,618
+373759,58,MissedShots,0.894000015258789,0.649000015258789,0.12156099826097488,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,Gabriel Jesus,Pass,618
+373762,73,BlockedShot,0.8959999847412109,0.5929999923706055,0.13347899913787842,Raheem Sterling,h,618,OpenPlay,2019,RightFoot,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,Kyle Walker,Pass,618
+373765,78,Goal,0.9380000305175781,0.5879999923706055,0.5438349843025208,Raheem Sterling,h,618,OpenPlay,2019,LeftFoot,12017,Manchester City,Norwich,5,0,2020-07-26 15:00:00,Kevin De Bruyne,Throughball,618
+378530,29,SavedShot,0.9059999847412109,0.7030000305175781,0.0685025006532669,Raheem Sterling,a,618,OpenPlay,2020,LeftFoot,14105,Wolverhampton Wanderers,Manchester City,1,3,2020-09-21 19:15:00,Phil Foden,Pass,618
+379606,16,SavedShot,0.9169999694824219,0.3079999923706055,0.07587079703807831,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,Riyad Mahrez,Pass,618
+379616,67,MissedShots,0.9669999694824218,0.590999984741211,0.1077290028333664,Raheem Sterling,h,618,OpenPlay,2020,Head,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,Kevin De Bruyne,Cross,618
+379621,83,BlockedShot,0.8190000152587891,0.5690000152587891,0.15467000007629395,Raheem Sterling,h,618,DirectFreekick,2020,RightFoot,14112,Manchester City,Leicester,2,5,2020-09-27 15:30:00,,Standard,618
+380687,1,MissedShots,0.7830000305175782,0.649000015258789,0.02720469981431961,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14469,Leeds,Manchester City,1,1,2020-10-03 16:30:00,Kevin De Bruyne,Pass,618
+380694,16,Goal,0.8480000305175781,0.5870000076293945,0.1197500005364418,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14469,Leeds,Manchester City,1,1,2020-10-03 16:30:00,Ferrán Torres,TakeOn,618
+380703,54,BlockedShot,0.8819999694824219,0.605,0.11102599650621414,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14469,Leeds,Manchester City,1,1,2020-10-03 16:30:00,Phil Foden,Pass,618
+380718,84,MissedShots,0.794000015258789,0.5790000152587891,0.05664319917559624,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14469,Leeds,Manchester City,1,1,2020-10-03 16:30:00,,TakeOn,618
+380720,87,MissedShots,0.919000015258789,0.5059999847412109,0.049991000443696976,Raheem Sterling,a,618,FromCorner,2020,Head,14469,Leeds,Manchester City,1,1,2020-10-03 16:30:00,Kevin De Bruyne,Aerial,618
+382097,15,BlockedShot,0.7390000152587891,0.545,0.022432999685406685,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14480,Manchester City,Arsenal,1,0,2020-10-17 16:30:00,Rodri,Pass,618
+382099,22,Goal,0.88,0.4490000152587891,0.34586301445961,Raheem Sterling,h,618,OpenPlay,2020,LeftFoot,14480,Manchester City,Arsenal,1,0,2020-10-17 16:30:00,,Rebound,618
+383129,85,SavedShot,0.889000015258789,0.6,0.32984399795532227,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14493,West Ham,Manchester City,1,1,2020-10-24 11:30:00,Kevin De Bruyne,Pass,618
+384410,7,BlockedShot,0.845999984741211,0.7469999694824219,0.020512299612164497,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14502,Sheffield United,Manchester City,0,1,2020-10-31 12:30:00,João Cancelo,Pass,618
+384421,48,BlockedShot,0.8440000152587891,0.6580000305175782,0.05811930075287819,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14502,Sheffield United,Manchester City,0,1,2020-10-31 12:30:00,Kevin De Bruyne,Pass,618
+386774,24,SavedShot,0.93,0.6659999847412109,0.03941180184483528,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14511,Manchester City,Liverpool,1,1,2020-11-08 16:30:00,Kevin De Bruyne,Cross,618
+387555,82,MissedShots,0.9580000305175781,0.59,0.09090329706668854,Raheem Sterling,a,618,SetPiece,2020,LeftFoot,14523,Tottenham,Manchester City,2,0,2020-11-21 17:30:00,Kevin De Bruyne,Chipped,618
+390153,2,SavedShot,0.9119999694824219,0.6079999923706054,0.3483099937438965,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Riyad Mahrez,Pass,618
+390155,4,Goal,0.9009999847412109,0.40299999237060546,0.357356995344162,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Kevin De Bruyne,Pass,618
+390164,31,SavedShot,0.9,0.5920000076293945,0.35244300961494446,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Riyad Mahrez,Chipped,618
+390165,44,BlockedShot,0.91,0.6609999847412109,0.08949039876461029,Raheem Sterling,h,618,OpenPlay,2020,LeftFoot,14540,Manchester City,Fulham,2,0,2020-12-05 15:00:00,Rodri,Pass,618
+391716,20,BlockedShot,0.894000015258789,0.664000015258789,0.0688055008649826,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14549,Manchester United,Manchester City,0,0,2020-12-12 17:30:00,Kevin De Bruyne,Pass,618
+392724,56,SavedShot,0.9819999694824219,0.39599998474121095,0.3097420036792755,Raheem Sterling,h,618,FromCorner,2020,RightFoot,14564,Manchester City,West Bromwich Albion,1,1,2020-12-15 20:00:00,,Rebound,618
+392738,93,SavedShot,0.95,0.5220000076293946,0.500639021396637,Raheem Sterling,h,618,OpenPlay,2020,Head,14564,Manchester City,West Bromwich Albion,1,1,2020-12-15 20:00:00,Kevin De Bruyne,Cross,618
+393979,10,MissedShots,0.7659999847412109,0.6459999847412109,0.017464399337768555,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14572,Southampton,Manchester City,0,1,2020-12-19 15:00:00,,None,618
+393983,15,Goal,0.889000015258789,0.509000015258789,0.12834499776363373,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14572,Southampton,Manchester City,0,1,2020-12-19 15:00:00,Kevin De Bruyne,Pass,618
+395718,36,SavedShot,0.9569999694824218,0.3729999923706055,0.08799339830875397,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14581,Manchester City,Newcastle United,2,0,2020-12-26 20:00:00,João Cancelo,Chipped,618
+395722,50,BlockedShot,0.899000015258789,0.6430000305175781,0.1042260006070137,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14581,Manchester City,Newcastle United,2,0,2020-12-26 20:00:00,Ilkay Gündogan,Pass,618
+396942,33,ShotOnPost,0.925,0.6419999694824219,0.1234230026602745,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14603,Chelsea,Manchester City,1,3,2021-01-03 16:30:00,Kevin De Bruyne,BallRecovery,618
+398707,82,BlockedShot,0.875,0.6930000305175781,0.06005590036511421,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14614,Manchester City,Brighton,1,0,2021-01-13 18:00:00,Kevin De Bruyne,Pass,618
+398708,91,MissedShots,0.885,0.5,0.7611690163612366,Raheem Sterling,h,618,Penalty,2020,RightFoot,14614,Manchester City,Brighton,1,0,2021-01-13 18:00:00,,Standard,618
+399534,22,BlockedShot,0.8440000152587891,0.7030000305175781,0.02657970041036606,Raheem Sterling,h,618,FromCorner,2020,RightFoot,14621,Manchester City,Crystal Palace,4,0,2021-01-17 19:15:00,Kevin De Bruyne,Pass,618
+399545,87,Goal,0.8159999847412109,0.664000015258789,0.09446649998426437,Raheem Sterling,h,618,DirectFreekick,2020,RightFoot,14621,Manchester City,Crystal Palace,4,0,2021-01-17 19:15:00,,Standard,618
+399949,31,MissedShots,0.9159999847412109,0.4759999847412109,0.14131100475788116,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,Rodri,Rebound,618
+399954,46,BlockedShot,0.885,0.28,0.04179000109434128,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14089,Manchester City,Aston Villa,2,0,2021-01-20 20:00:00,João Cancelo,Pass,618
+401207,34,BlockedShot,0.92,0.28299999237060547,0.0410120002925396,Raheem Sterling,a,618,OpenPlay,2020,LeftFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,Phil Foden,Cross,618
+401213,56,Goal,0.9740000152587891,0.52,0.9427940249443054,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,Riyad Mahrez,Pass,618
+401212,56,BlockedShot,0.8630000305175781,0.5120000076293946,0.12600000202655792,Raheem Sterling,a,618,OpenPlay,2020,LeftFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,Ferrán Torres,Pass,618
+401215,72,BlockedShot,0.9219999694824219,0.6580000305175782,0.0820000022649765,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14629,West Bromwich Albion,Manchester City,0,5,2021-01-26 20:15:00,,Dispossessed,618
+402647,37,Goal,0.9580000305175781,0.5029999923706054,0.6128529906272888,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14646,Burnley,Manchester City,0,2,2021-02-03 18:00:00,Ilkay Gündogan,Cross,618
+402651,49,SavedShot,0.889000015258789,0.615,0.2681120038032532,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14646,Burnley,Manchester City,0,2,2021-02-03 18:00:00,Ilkay Gündogan,Pass,618
+402657,89,SavedShot,0.8540000152587891,0.57,0.0961432009935379,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14646,Burnley,Manchester City,0,2,2021-02-03 18:00:00,Ilkay Gündogan,Pass,618
+403869,75,Goal,0.9830000305175781,0.5220000076293946,0.8310530185699463,Raheem Sterling,a,618,OpenPlay,2020,Head,14659,Liverpool,Manchester City,1,4,2021-02-07 16:30:00,Bernardo Silva,Chipped,618
+404431,88,SavedShot,0.9230000305175782,0.4490000152587891,0.11448600143194199,Raheem Sterling,h,618,FromCorner,2020,RightFoot,14671,Manchester City,Tottenham,3,0,2021-02-13 17:30:00,Phil Foden,Pass,618
+406110,1,Goal,0.9490000152587891,0.504000015258789,0.5598289966583252,Raheem Sterling,a,618,OpenPlay,2020,Head,14675,Arsenal,Manchester City,0,1,2021-02-21 16:30:00,Riyad Mahrez,Cross,618
+406111,5,SavedShot,0.9,0.46599998474121096,0.42419999837875366,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14675,Arsenal,Manchester City,0,1,2021-02-21 16:30:00,,TakeOn,618
+406124,55,BlockedShot,0.86,0.72,0.043388400226831436,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14675,Arsenal,Manchester City,0,1,2021-02-21 16:30:00,Kevin De Bruyne,Pass,618
+407731,1,SavedShot,0.9290000152587891,0.66,0.3204610049724579,Raheem Sterling,h,618,OpenPlay,2020,LeftFoot,14720,Manchester City,Wolverhampton Wanderers,4,1,2021-03-02 20:00:00,João Cancelo,Throughball,618
+407734,40,BlockedShot,0.8809999847412109,0.6880000305175781,0.06816200166940689,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14720,Manchester City,Wolverhampton Wanderers,4,1,2021-03-02 20:00:00,Riyad Mahrez,Pass,618
+407752,73,MissedShots,0.9619999694824218,0.44299999237060544,0.12390699982643127,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14720,Manchester City,Wolverhampton Wanderers,4,1,2021-03-02 20:00:00,Riyad Mahrez,Cross,618
+407754,76,ShotOnPost,0.784000015258789,0.6719999694824219,0.031228600069880486,Raheem Sterling,h,618,FromCorner,2020,RightFoot,14720,Manchester City,Wolverhampton Wanderers,4,1,2021-03-02 20:00:00,Kevin De Bruyne,Pass,618
+407753,76,BlockedShot,0.8059999847412109,0.735999984741211,0.011518100276589394,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14720,Manchester City,Wolverhampton Wanderers,4,1,2021-03-02 20:00:00,,Aerial,618
+409123,51,SavedShot,0.85,0.7030000305175781,0.039622098207473755,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14700,Manchester City,Manchester United,0,2,2021-03-07 16:30:00,Oleksandr Zinchenko,Pass,618
+409130,84,MissedShots,0.93,0.55,0.3138909935951233,Raheem Sterling,h,618,OpenPlay,2020,Head,14700,Manchester City,Manchester United,0,2,2021-03-07 16:30:00,Kevin De Bruyne,Cross,618
+413680,16,MissedShots,0.7859999847412109,0.6759999847412109,0.019643200561404228,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14740,Manchester City,Leeds,1,2,2021-04-10 11:30:00,Gabriel Jesus,Pass,618
+413681,18,SavedShot,0.8930000305175781,0.6869999694824219,0.05017219856381416,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14740,Manchester City,Leeds,1,2,2021-04-10 11:30:00,Fernandinho,Pass,618
+413686,35,MissedShots,0.75,0.6719999694824219,0.018730400130152702,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14740,Manchester City,Leeds,1,2,2021-04-10 11:30:00,Fernandinho,Pass,618
+413687,37,MissedShots,0.87,0.5479999923706055,0.10680299997329712,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14740,Manchester City,Leeds,1,2,2021-04-10 11:30:00,Fernandinho,Pass,618
+413693,53,MissedShots,0.93,0.4370000076293945,0.10537800192832947,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14740,Manchester City,Leeds,1,2,2021-04-10 11:30:00,Ferrán Torres,Cross,618
+418484,13,MissedShots,0.835999984741211,0.7709999847412109,0.023267999291419983,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14768,Crystal Palace,Manchester City,0,2,2021-05-01 11:30:00,Gabriel Jesus,Pass,618
+418486,16,MissedShots,0.9069999694824219,0.51,0.1877630054950714,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14768,Crystal Palace,Manchester City,0,2,2021-05-01 11:30:00,Aymeric Laporte,TakeOn,618
+418494,61,ShotOnPost,0.9319999694824219,0.6859999847412109,0.0869653970003128,Raheem Sterling,a,618,OpenPlay,2020,LeftFoot,14768,Crystal Palace,Manchester City,0,2,2021-05-01 11:30:00,Gabriel Jesus,Pass,618
+418502,77,BlockedShot,0.9069999694824219,0.59,0.12557299435138702,Raheem Sterling,a,618,OpenPlay,2020,LeftFoot,14768,Crystal Palace,Manchester City,0,2,2021-05-01 11:30:00,Sergio Agüero,Cross,618
+418504,81,MissedShots,0.735999984741211,0.605,0.04942519962787628,Raheem Sterling,a,618,DirectFreekick,2020,RightFoot,14768,Crystal Palace,Manchester City,0,2,2021-05-01 11:30:00,,Standard,618
+418505,82,MissedShots,0.8390000152587891,0.5479999923706055,0.08357889950275421,Raheem Sterling,a,618,OpenPlay,2020,RightFoot,14768,Crystal Palace,Manchester City,0,2,2021-05-01 11:30:00,Oleksandr Zinchenko,Pass,618
+418507,88,BlockedShot,0.840999984741211,0.6079999923706054,0.041887298226356506,Raheem Sterling,a,618,FromCorner,2020,RightFoot,14768,Crystal Palace,Manchester City,0,2,2021-05-01 11:30:00,,None,618
+420213,34,SavedShot,0.7759999847412109,0.624000015258789,0.025640500709414482,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,,Tackle,618
+420216,43,Goal,0.9169999694824219,0.5729999923706055,0.4375619888305664,Raheem Sterling,h,618,OpenPlay,2020,LeftFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,Sergio Agüero,Pass,618
+420227,81,BlockedShot,0.905,0.33799999237060546,0.058128200471401215,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14781,Manchester City,Chelsea,1,2,2021-05-08 16:30:00,João Cancelo,Chipped,618
+424097,87,BlockedShot,0.8580000305175781,0.6890000152587891,0.06071529909968376,Raheem Sterling,h,618,OpenPlay,2020,RightFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Fernandinho,Pass,618
+424098,90,SavedShot,0.855,0.590999984741211,0.2266950011253357,Raheem Sterling,h,618,OpenPlay,2020,LeftFoot,14811,Manchester City,Everton,5,0,2021-05-23 15:00:00,Kevin De Bruyne,Pass,618
+426441,48,SavedShot,0.85,0.705999984741211,0.03247459977865219,Raheem Sterling,a,618,OpenPlay,2021,RightFoot,16385,Tottenham,Manchester City,1,0,2021-08-15 15:30:00,Benjamin Mendy,Pass,618
+427005,70,Goal,0.9519999694824218,0.5120000076293946,0.7018330097198486,Raheem Sterling,h,618,OpenPlay,2021,RightFoot,16387,Manchester City,Norwich,5,0,2021-08-21 14:00:00,Gabriel Jesus,Pass,618
+427009,88,MissedShots,0.81,0.645,0.03367149829864502,Raheem Sterling,h,618,FromCorner,2021,RightFoot,16387,Manchester City,Norwich,5,0,2021-08-21 14:00:00,Riyad Mahrez,Pass,618
+428481,64,BlockedShot,0.9690000152587891,0.629000015258789,0.1112150028347969,Raheem Sterling,h,618,OpenPlay,2021,RightFoot,16396,Manchester City,Arsenal,5,0,2021-08-28 11:30:00,Jack Grealish,Pass,618
+428483,67,MissedShots,0.8140000152587891,0.575999984741211,0.034858498722314835,Raheem Sterling,h,618,FromCorner,2021,RightFoot,16396,Manchester City,Arsenal,5,0,2021-08-28 11:30:00,Jack Grealish,Pass,618
+428482,67,SavedShot,0.9390000152587891,0.5670000076293945,0.3650819957256317,Raheem Sterling,h,618,OpenPlay,2021,Head,16396,Manchester City,Arsenal,5,0,2021-08-28 11:30:00,Riyad Mahrez,Chipped,618
+428485,76,SavedShot,0.8880000305175781,0.4179999923706055,0.4347360134124756,Raheem Sterling,h,618,OpenPlay,2021,RightFoot,16396,Manchester City,Arsenal,5,0,2021-08-28 11:30:00,Riyad Mahrez,Throughball,618
+429946,77,MissedShots,0.9590000152587891,0.585,0.12711100280284882,Raheem Sterling,a,618,OpenPlay,2021,RightFoot,16409,Leicester,Manchester City,0,1,2021-09-11 14:00:00,Jack Grealish,Chipped,618
+431370,25,MissedShots,0.874000015258789,0.69,0.036241501569747925,Raheem Sterling,h,618,SetPiece,2021,RightFoot,16421,Manchester City,Southampton,0,0,2021-09-18 14:00:00,Jack Grealish,Pass,618
+431369,25,BlockedShot,0.8869999694824219,0.6959999847412109,0.04063599929213524,Raheem Sterling,h,618,SetPiece,2021,RightFoot,16421,Manchester City,Southampton,0,0,2021-09-18 14:00:00,,None,618
+431382,65,MissedShots,0.99,0.40299999237060546,0.05613870173692703,Raheem Sterling,h,618,OpenPlay,2021,RightFoot,16421,Manchester City,Southampton,0,0,2021-09-18 14:00:00,Jack Grealish,Cross,618
+431390,89,BlockedShot,0.92,0.7230000305175781,0.06146259978413582,Raheem Sterling,h,618,OpenPlay,2021,RightFoot,16421,Manchester City,Southampton,0,0,2021-09-18 14:00:00,,TakeOn,618
+436261,39,BlockedShot,0.8969999694824219,0.5570000076293945,0.11066199839115143,Raheem Sterling,h,618,OpenPlay,2021,RightFoot,16451,Manchester City,Burnley,2,0,2021-10-16 14:00:00,Riyad Mahrez,Cross,618
+443148,26,MissedShots,0.9459999847412109,0.4640000152587891,0.47441399097442627,Raheem Sterling,h,618,OpenPlay,2021,Head,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,Phil Foden,Cross,618
+443152,29,SavedShot,0.9259999847412109,0.32,0.050557300448417664,Raheem Sterling,h,618,OpenPlay,2021,LeftFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,,Rebound,618
+443153,43,Goal,0.8959999847412109,0.44799999237060545,0.3768309950828552,Raheem Sterling,h,618,OpenPlay,2021,RightFoot,16490,Manchester City,Everton,3,0,2021-11-21 14:00:00,João Cancelo,Throughball,618
+444711,27,MissedShots,0.7909999847412109,0.73,0.02163420058786869,Raheem Sterling,h,618,OpenPlay,2021,RightFoot,16504,Manchester City,West Ham,2,1,2021-11-28 14:00:00,Bernardo Silva,Pass,618
+444721,68,MissedShots,0.7859999847412109,0.4909999847412109,0.02508619986474514,Raheem Sterling,h,618,FromCorner,2021,LeftFoot,16504,Manchester City,West Ham,2,1,2021-11-28 14:00:00,,None,618
+446380,3,Goal,0.9590000152587891,0.4640000152587891,0.569586992263794,Raheem Sterling,a,618,OpenPlay,2021,Head,16523,Watford,Manchester City,1,3,2021-12-04 17:30:00,Phil Foden,Cross,618
+446381,7,SavedShot,0.8730000305175781,0.36900001525878906,0.10517200082540512,Raheem Sterling,a,618,OpenPlay,2021,LeftFoot,16523,Watford,Manchester City,1,3,2021-12-04 17:30:00,,TakeOn,618
+446397,49,BlockedShot,0.845,0.3509999847412109,0.04896790161728859,Raheem Sterling,a,618,OpenPlay,2021,LeftFoot,16523,Watford,Manchester City,1,3,2021-12-04 17:30:00,,None,618
+446398,51,SavedShot,0.8930000305175781,0.36700000762939455,0.1200300008058548,Raheem Sterling,a,618,OpenPlay,2021,RightFoot,16523,Watford,Manchester City,1,3,2021-12-04 17:30:00,Bernardo Silva,Pass,618
+446410,78,MissedShots,0.8080000305175781,0.6969999694824218,0.026265300810337067,Raheem Sterling,a,618,OpenPlay,2021,RightFoot,16523,Watford,Manchester City,1,3,2021-12-04 17:30:00,Bernardo Silva,Pass,618
+446411,80,BlockedShot,0.8830000305175781,0.6619999694824219,0.089302197098732,Raheem Sterling,a,618,OpenPlay,2021,RightFoot,16523,Watford,Manchester City,1,3,2021-12-04 17:30:00,Bernardo Silva,Pass,618
+447430,1,SavedShot,0.9219999694824219,0.32799999237060545,0.07459650188684464,Raheem Sterling,h,618,OpenPlay,2021,RightFoot,16534,Manchester City,Wolverhampton Wanderers,1,0,2021-12-11 12:30:00,João Cancelo,Pass,618
+447446,65,Goal,0.885,0.5,0.7611690163612366,Raheem Sterling,h,618,Penalty,2021,RightFoot,16534,Manchester City,Wolverhampton Wanderers,1,0,2021-12-11 12:30:00,,Standard,618
+447453,88,SavedShot,0.7219999694824218,0.425,0.019759200513362885,Raheem Sterling,h,618,OpenPlay,2021,RightFoot,16534,Manchester City,Wolverhampton Wanderers,1,0,2021-12-11 12:30:00,,BallRecovery,618
+449750,54,MissedShots,0.815,0.6709999847412109,0.021968400105834007,Raheem Sterling,a,618,FromCorner,2021,RightFoot,16550,Newcastle United,Manchester City,0,4,2021-12-19 14:15:00,,None,618
+449751,56,SavedShot,0.8619999694824219,0.745999984741211,0.04893390089273453,Raheem Sterling,a,618,OpenPlay,2021,RightFoot,16550,Newcastle United,Manchester City,0,4,2021-12-19 14:15:00,Bernardo Silva,Pass,618
+449758,85,Goal,0.970999984741211,0.485,0.9121410250663757,Raheem Sterling,a,618,OpenPlay,2021,LeftFoot,16550,Newcastle United,Manchester City,0,4,2021-12-19 14:15:00,Gabriel Jesus,Pass,618
+450601,24,Goal,0.885,0.5,0.7611690163612366,Raheem Sterling,h,618,Penalty,2021,RightFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,,Standard,618
+450605,34,SavedShot,0.8919999694824219,0.48200000762939454,0.40767601132392883,Raheem Sterling,h,618,FromCorner,2021,RightFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Bernardo Silva,Pass,618
+450622,86,Goal,0.9630000305175781,0.5029999923706054,0.7068420052528381,Raheem Sterling,h,618,FromCorner,2021,LeftFoot,16560,Manchester City,Leicester,6,3,2021-12-26 15:00:00,Rúben Dias,Rebound,618
+450952,65,MissedShots,0.7919999694824219,0.7230000305175781,0.021637000143527985,Raheem Sterling,a,618,OpenPlay,2021,RightFoot,16576,Arsenal,Manchester City,1,2,2022-01-01 12:30:00,Bernardo Silva,Pass,618
+453053,67,MissedShots,0.8909999847412109,0.3220000076293945,0.06572440266609192,Raheem Sterling,h,618,OpenPlay,2021,RightFoot,16590,Manchester City,Chelsea,1,0,2022-01-15 12:30:00,Phil Foden,Pass,618
+454766,34,MissedShots,0.9169999694824219,0.2610000038146973,0.04866519942879677,Raheem Sterling,a,618,OpenPlay,2021,LeftFoot,16604,Southampton,Manchester City,1,1,2022-01-22 17:30:00,Bernardo Silva,TakeOn,618
+454767,37,SavedShot,0.9290000152587891,0.47400001525878904,0.44082000851631165,Raheem Sterling,a,618,OpenPlay,2021,RightFoot,16604,Southampton,Manchester City,1,1,2022-01-22 17:30:00,Phil Foden,Cross,618
+456640,32,MissedShots,0.9059999847412109,0.575,0.2673580050468445,Raheem Sterling,h,618,FromCorner,2021,RightFoot,16615,Manchester City,Brentford,2,0,2022-02-09 19:45:00,Phil Foden,Chipped,618
+456652,68,SavedShot,0.845,0.445,0.3507370054721832,Raheem Sterling,h,618,OpenPlay,2021,RightFoot,16615,Manchester City,Brentford,2,0,2022-02-09 19:45:00,,BallRecovery,618
+457209,24,SavedShot,0.865999984741211,0.524000015258789,0.10683800280094147,Raheem Sterling,a,618,OpenPlay,2021,LeftFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Oleksandr Zinchenko,Pass,618
+457210,30,Goal,0.860999984741211,0.6680000305175782,0.026207100600004196,Raheem Sterling,a,618,OpenPlay,2021,RightFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Kyle Walker,Cross,618
+457228,69,Goal,0.9680000305175781,0.47200000762939454,0.5001189708709717,Raheem Sterling,a,618,FromCorner,2021,Head,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,Rúben Dias,HeadPass,618
+457231,89,SavedShot,0.885,0.5,0.7611690163612366,Raheem Sterling,a,618,Penalty,2021,RightFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,,Standard,618
+457232,89,Goal,0.980999984741211,0.5259999847412109,0.9425780177116394,Raheem Sterling,a,618,SetPiece,2021,LeftFoot,16623,Norwich,Manchester City,0,4,2022-02-12 17:30:00,,Rebound,618
+458472,41,BlockedShot,0.8680000305175781,0.5870000076293945,0.07223749905824661,Raheem Sterling,h,618,OpenPlay,2021,RightFoot,16632,Manchester City,Tottenham,2,3,2022-02-19 17:30:00,,None,618
+465219,40,MissedShots,0.8169999694824219,0.37599998474121094,0.07362779974937439,Raheem Sterling,a,618,OpenPlay,2021,RightFoot,16684,Burnley,Manchester City,0,2,2022-04-02 14:00:00,Phil Foden,Chipped,618
+465231,83,BlockedShot,0.860999984741211,0.32099998474121094,0.06519030034542084,Raheem Sterling,a,618,OpenPlay,2021,LeftFoot,16684,Burnley,Manchester City,0,2,2022-04-02 14:00:00,Bernardo Silva,Pass,618
+467480,4,SavedShot,0.894000015258789,0.534000015258789,0.40620699524879456,Raheem Sterling,h,618,OpenPlay,2021,RightFoot,16690,Manchester City,Liverpool,2,2,2022-04-10 15:30:00,Gabriel Jesus,Pass,618
+469999,36,MissedShots,0.894000015258789,0.515,0.49718600511550903,Raheem Sterling,h,618,OpenPlay,2021,RightFoot,16707,Manchester City,Watford,5,1,2022-04-23 14:00:00,Gabriel Jesus,Pass,618
+471789,41,BlockedShot,0.905,0.6170000076293946,0.36901700496673584,Raheem Sterling,a,618,OpenPlay,2021,RightFoot,16723,Leeds,Manchester City,0,4,2022-04-30 16:30:00,Gabriel Jesus,Pass,618
+471791,51,MissedShots,0.8669999694824219,0.3970000076293945,0.12731899321079254,Raheem Sterling,a,618,OpenPlay,2021,LeftFoot,16723,Leeds,Manchester City,0,4,2022-04-30 16:30:00,Gabriel Jesus,TakeOn,618
+471790,52,BlockedShot,0.785,0.36400001525878906,0.021491600200533867,Raheem Sterling,a,618,SetPiece,2021,LeftFoot,16723,Leeds,Manchester City,0,4,2022-04-30 16:30:00,Rodri,Pass,618
+471799,74,BlockedShot,0.845999984741211,0.43,0.09432759881019592,Raheem Sterling,a,618,OpenPlay,2021,LeftFoot,16723,Leeds,Manchester City,0,4,2022-04-30 16:30:00,João Cancelo,Pass,618
+474280,18,Goal,0.9730000305175781,0.5359999847412109,0.6403579711914062,Raheem Sterling,h,618,OpenPlay,2021,Head,16727,Manchester City,Newcastle United,5,0,2022-05-08 15:30:00,João Cancelo,HeadPass,618
+474303,92,Goal,0.9169999694824219,0.42900001525878906,0.4656650125980377,Raheem Sterling,h,618,OpenPlay,2021,RightFoot,16727,Manchester City,Newcastle United,5,0,2022-05-08 15:30:00,Jack Grealish,Pass,618
+475289,75,MissedShots,0.9690000152587891,0.4129999923706055,0.4104810059070587,Raheem Sterling,a,618,OpenPlay,2021,RightFoot,16696,Wolverhampton Wanderers,Manchester City,1,5,2022-05-11 19:15:00,Phil Foden,Chipped,618
+475291,83,Goal,0.9719999694824218,0.5359999847412109,0.8305789828300476,Raheem Sterling,a,618,OpenPlay,2021,RightFoot,16696,Wolverhampton Wanderers,Manchester City,1,5,2022-05-11 19:15:00,,Rebound,618
+475292,85,MissedShots,0.874000015258789,0.62,0.4043709933757782,Raheem Sterling,a,618,OpenPlay,2021,RightFoot,16696,Wolverhampton Wanderers,Manchester City,1,5,2022-05-11 19:15:00,Kevin De Bruyne,Throughball,618
+479437,21,BlockedShot,0.9390000152587891,0.4159999847412109,0.13714100420475006,Raheem Sterling,a,618,OpenPlay,2022,RightFoot,18208,Everton,Chelsea,0,1,2022-08-06 16:30:00,César Azpilicueta,Pass,618
+479442,46,BlockedShot,0.8440000152587891,0.47400001525878904,0.0801296979188919,Raheem Sterling,a,618,OpenPlay,2022,RightFoot,18208,Everton,Chelsea,0,1,2022-08-06 16:30:00,N&#039;Golo Kanté,Pass,618
+479453,82,BlockedShot,0.91,0.5420000076293945,0.34946098923683167,Raheem Sterling,a,618,OpenPlay,2022,LeftFoot,18208,Everton,Chelsea,0,1,2022-08-06 16:30:00,Marc Cucurella,Cross,618
+481008,29,BlockedShot,0.845,0.6530000305175782,0.06005999818444252,Raheem Sterling,h,618,OpenPlay,2022,RightFoot,18220,Chelsea,Tottenham,2,2,2022-08-14 15:30:00,Ruben Loftus-Cheek,Pass,618
+481014,60,MissedShots,0.895,0.4809999847412109,0.14204399287700653,Raheem Sterling,h,618,OpenPlay,2022,RightFoot,18220,Chelsea,Tottenham,2,2,2022-08-14 15:30:00,Ruben Loftus-Cheek,Pass,618
+482397,0,MissedShots,0.850999984741211,0.5690000152587891,0.07900899648666382,Raheem Sterling,a,618,OpenPlay,2022,RightFoot,18228,Leeds,Chelsea,3,0,2022-08-21 13:00:00,Conor Gallagher,Pass,618
+483677,46,Goal,0.779000015258789,0.6459999847412109,0.02396469935774803,Raheem Sterling,h,618,OpenPlay,2022,RightFoot,18235,Chelsea,Leicester,2,1,2022-08-27 14:00:00,Marc Cucurella,Pass,618
+483678,50,ShotOnPost,0.86,0.4209999847412109,0.5026640295982361,Raheem Sterling,h,618,OpenPlay,2022,RightFoot,18235,Chelsea,Leicester,2,1,2022-08-27 14:00:00,,None,618
+483684,62,Goal,0.9780000305175781,0.51,0.7087770104408264,Raheem Sterling,h,618,OpenPlay,2022,RightFoot,18235,Chelsea,Leicester,2,1,2022-08-27 14:00:00,Reece James,Cross,618
+484923,13,SavedShot,0.8419999694824218,0.514000015258789,0.1629980057477951,Raheem Sterling,a,618,OpenPlay,2022,LeftFoot,18244,Southampton,Chelsea,2,1,2022-08-30 18:45:00,Mason Mount,TakeOn,618
+484926,22,Goal,0.93,0.485,0.5662660002708435,Raheem Sterling,a,618,OpenPlay,2022,RightFoot,18244,Southampton,Chelsea,2,1,2022-08-30 18:45:00,,None,618
+490092,23,BlockedShot,0.899000015258789,0.4490000152587891,0.09025929868221283,Raheem Sterling,a,618,OpenPlay,2022,RightFoot,18284,Crystal Palace,Chelsea,1,2,2022-10-01 14:00:00,Reece James,Cross,618
+490093,23,ShotOnPost,0.9569999694824218,0.4420000076293945,0.5610179901123047,Raheem Sterling,a,618,OpenPlay,2022,RightFoot,18284,Crystal Palace,Chelsea,1,2,2022-10-01 14:00:00,,Rebound,618
+490105,78,SavedShot,0.9130000305175782,0.3110000038146973,0.053051501512527466,Raheem Sterling,a,618,OpenPlay,2022,RightFoot,18284,Crystal Palace,Chelsea,1,2,2022-10-01 14:00:00,,None,618
+493552,39,ShotOnPost,0.86,0.5429999923706055,0.11292199790477753,Raheem Sterling,a,618,OpenPlay,2022,RightFoot,18302,Aston Villa,Chelsea,0,2,2022-10-16 13:00:00,Kai Havertz,Pass,618
+493561,71,MissedShots,0.9069999694824219,0.5359999847412109,0.10553000122308731,Raheem Sterling,a,618,OpenPlay,2022,Head,18302,Aston Villa,Chelsea,0,2,2022-10-16 13:00:00,Conor Gallagher,Cross,618
+493563,83,SavedShot,0.8690000152587891,0.3659999847412109,0.23751600086688995,Raheem Sterling,a,618,OpenPlay,2022,RightFoot,18302,Aston Villa,Chelsea,0,2,2022-10-16 13:00:00,César Azpilicueta,Pass,618
+494473,83,BlockedShot,0.9230000305175782,0.6040000152587891,0.1158600002527237,Raheem Sterling,a,618,OpenPlay,2022,LeftFoot,18314,Brentford,Chelsea,0,0,2022-10-19 18:30:00,Pierre-Emerick Aubameyang,Pass,618
+501082,46,SavedShot,0.915,0.3139999961853027,0.0755717009305954,Raheem Sterling,h,618,OpenPlay,2022,RightFoot,18365,Chelsea,Bournemouth,2,0,2022-12-27 17:30:00,Mason Mount,Pass,618
+501972,15,Goal,0.955999984741211,0.4520000076293945,0.6001480221748352,Raheem Sterling,a,618,OpenPlay,2022,RightFoot,18378,Nottingham Forest,Chelsea,1,1,2023-01-01 16:30:00,,None,618
+509667,51,BlockedShot,0.87,0.6229999923706054,0.07052809745073318,Raheem Sterling,h,618,OpenPlay,2022,LeftFoot,18435,Chelsea,Southampton,0,1,2023-02-18 15:00:00,Benoit Badiashile Mukinayi,Pass,618
+509672,67,BlockedShot,0.879000015258789,0.46599998474121096,0.10034800320863724,Raheem Sterling,h,618,OpenPlay,2022,RightFoot,18435,Chelsea,Southampton,0,1,2023-02-18 15:00:00,Kai Havertz,Pass,618
+509673,70,BlockedShot,0.9640000152587891,0.47200000762939454,0.5500419735908508,Raheem Sterling,h,618,OpenPlay,2022,Head,18435,Chelsea,Southampton,0,1,2023-02-18 15:00:00,Kai Havertz,Cross,618
+509674,70,BlockedShot,0.955999984741211,0.48700000762939455,0.15033400058746338,Raheem Sterling,h,618,OpenPlay,2022,LeftFoot,18435,Chelsea,Southampton,0,1,2023-02-18 15:00:00,,Rebound,618
+511226,69,SavedShot,0.9159999847412109,0.3940000152587891,0.037963200360536575,Raheem Sterling,a,618,OpenPlay,2022,Head,18450,Tottenham,Chelsea,2,0,2023-02-26 13:30:00,Enzo Fernández,Chipped,618
+512164,46,MissedShots,0.925,0.4209999847412109,0.41829100251197815,Raheem Sterling,h,618,OpenPlay,2022,LeftFoot,18456,Chelsea,Leeds,1,0,2023-03-04 15:00:00,Ruben Loftus-Cheek,Pass,618
+512169,62,MissedShots,0.779000015258789,0.6869999694824219,0.045587699860334396,Raheem Sterling,h,618,OpenPlay,2022,RightFoot,18456,Chelsea,Leeds,1,0,2023-03-04 15:00:00,João Félix,Pass,618
+522149,32,MissedShots,0.8180000305175781,0.33,0.03356447070837021,Raheem Sterling,h,618,OpenPlay,2022,LeftFoot,18529,Chelsea,Brentford,0,2,2023-04-26 18:45:00,Conor Gallagher,Pass,618
+522159,60,BlockedShot,0.7959999847412109,0.624000015258789,0.02624637261033058,Raheem Sterling,h,618,SetPiece,2022,RightFoot,18529,Chelsea,Brentford,0,2,2023-04-26 18:45:00,Enzo Fernández,Pass,618
+525972,17,BlockedShot,0.89,0.5870000076293945,0.10530737787485123,Raheem Sterling,h,618,OpenPlay,2022,LeftFoot,18555,Chelsea,Nottingham Forest,2,2,2023-05-13 14:00:00,Enzo Fernández,Throughball,618
+525976,26,BlockedShot,0.785,0.500999984741211,0.045738838613033295,Raheem Sterling,h,618,OpenPlay,2022,RightFoot,18555,Chelsea,Nottingham Forest,2,2,2023-05-13 14:00:00,,TakeOn,618
+525981,50,Goal,0.895,0.5429999923706055,0.08054081350564957,Raheem Sterling,h,618,OpenPlay,2022,RightFoot,18555,Chelsea,Nottingham Forest,2,2,2023-05-13 14:00:00,,None,618
+525987,57,Goal,0.8719999694824219,0.6229999923706054,0.11275169998407364,Raheem Sterling,h,618,OpenPlay,2022,RightFoot,18555,Chelsea,Nottingham Forest,2,2,2023-05-13 14:00:00,Ruben Loftus-Cheek,TakeOn,618
+525991,80,MissedShots,0.955999984741211,0.595999984741211,0.05384507402777672,Raheem Sterling,h,618,OpenPlay,2022,Head,18555,Chelsea,Nottingham Forest,2,2,2023-05-13 14:00:00,Thiago Silva,Chipped,618
+528096,32,SavedShot,0.870999984741211,0.5640000152587891,0.30257296562194824,Raheem Sterling,a,618,OpenPlay,2022,LeftFoot,18566,Manchester City,Chelsea,1,0,2023-05-21 15:00:00,Kai Havertz,Pass,618
+528106,62,SavedShot,0.76,0.6840000152587891,0.014878524467349052,Raheem Sterling,a,618,OpenPlay,2022,RightFoot,18566,Manchester City,Chelsea,1,0,2023-05-21 15:00:00,Ruben Loftus-Cheek,TakeOn,618
+529739,26,MissedShots,0.9269999694824219,0.3820000076293945,0.15990835428237915,Raheem Sterling,h,618,SetPiece,2022,LeftFoot,18575,Chelsea,Newcastle United,1,1,2023-05-28 15:30:00,Enzo Fernández,TakeOn,618
+529747,45,BlockedShot,0.9640000152587891,0.5579999923706055,0.11935397237539291,Raheem Sterling,h,618,OpenPlay,2022,LeftFoot,18575,Chelsea,Newcastle United,1,1,2023-05-28 15:30:00,,None,618
+529753,61,SavedShot,0.7430000305175781,0.72,0.014725793153047562,Raheem Sterling,h,618,OpenPlay,2022,RightFoot,18575,Chelsea,Newcastle United,1,1,2023-05-28 15:30:00,Enzo Fernández,Pass,618
+529755,68,MissedShots,0.9069999694824219,0.5540000152587891,0.09469291567802429,Raheem Sterling,h,618,OpenPlay,2022,LeftFoot,18575,Chelsea,Newcastle United,1,1,2023-05-28 15:30:00,,None,618
+529759,77,BlockedShot,0.8690000152587891,0.5570000076293945,0.10353730618953705,Raheem Sterling,h,618,OpenPlay,2022,RightFoot,18575,Chelsea,Newcastle United,1,1,2023-05-28 15:30:00,Carney Chukwuemeka,Pass,618
+533858,61,BlockedShot,0.955999984741211,0.345,0.046832047402858734,Raheem Sterling,a,618,OpenPlay,2023,LeftFoot,22293,West Ham,Chelsea,3,1,2023-08-20 15:30:00,Mykhailo Mudryk,Cross,618
+534383,4,BlockedShot,0.9590000152587891,0.37900001525878907,0.20344902575016022,Raheem Sterling,h,618,OpenPlay,2023,LeftFoot,22295,Chelsea,Luton,3,0,2023-08-25 19:00:00,Nicolas Jackson,TakeOn,618
+534385,6,SavedShot,0.9019999694824219,0.505,0.08568841218948364,Raheem Sterling,h,618,SetPiece,2023,RightFoot,22295,Chelsea,Luton,3,0,2023-08-25 19:00:00,,None,618
+534388,16,Goal,0.9069999694824219,0.3990000152587891,0.14426741003990173,Raheem Sterling,h,618,OpenPlay,2023,LeftFoot,22295,Chelsea,Luton,3,0,2023-08-25 19:00:00,Malo Gusto,TakeOn,618
+534400,65,MissedShots,0.94,0.32799999237060545,0.3530460298061371,Raheem Sterling,h,618,OpenPlay,2023,RightFoot,22295,Chelsea,Luton,3,0,2023-08-25 19:00:00,Nicolas Jackson,Pass,618
+534402,67,Goal,0.914000015258789,0.455,0.46830520033836365,Raheem Sterling,h,618,OpenPlay,2023,RightFoot,22295,Chelsea,Luton,3,0,2023-08-25 19:00:00,Malo Gusto,Pass,618
+536302,1,BlockedShot,0.9319999694824219,0.5209999847412109,0.12592735886573792,Raheem Sterling,h,618,OpenPlay,2023,LeftFoot,21930,Chelsea,Nottingham Forest,0,1,2023-09-02 14:00:00,Ben Chilwell,Cross,618
+536311,44,BlockedShot,0.899000015258789,0.3170000076293945,0.05541788786649704,Raheem Sterling,h,618,OpenPlay,2023,RightFoot,21930,Chelsea,Nottingham Forest,0,1,2023-09-02 14:00:00,Enzo Fernández,Pass,618
+536328,95,MissedShots,0.89,0.32599998474121095,0.06464161723852158,Raheem Sterling,h,618,OpenPlay,2023,RightFoot,21930,Chelsea,Nottingham Forest,0,1,2023-09-02 14:00:00,Axel Disasi,Pass,618
+538090,10,MissedShots,0.9290000152587891,0.33799999237060546,0.3177104592323303,Raheem Sterling,a,618,OpenPlay,2023,RightFoot,21942,Bournemouth,Chelsea,0,0,2023-09-17 13:00:00,Conor Gallagher,Throughball,618
+538094,21,BlockedShot,0.924000015258789,0.4570000076293945,0.10236816853284836,Raheem Sterling,a,618,OpenPlay,2023,RightFoot,21942,Bournemouth,Chelsea,0,0,2023-09-17 13:00:00,,None,618
+538099,49,ShotOnPost,0.8109999847412109,0.66,0.09149276465177536,Raheem Sterling,a,618,DirectFreekick,2023,RightFoot,21942,Bournemouth,Chelsea,0,0,2023-09-17 13:00:00,,Standard,618
+538106,73,MissedShots,0.7919999694824219,0.7380000305175781,0.020345954224467278,Raheem Sterling,a,618,OpenPlay,2023,RightFoot,21942,Bournemouth,Chelsea,0,0,2023-09-17 13:00:00,Cole Palmer,Pass,618
+539616,46,SavedShot,0.970999984741211,0.41400001525878904,0.30558744072914124,Raheem Sterling,h,618,OpenPlay,2023,RightFoot,21947,Chelsea,Aston Villa,0,1,2023-09-24 13:00:00,Thiago Silva,Chipped,618
+542619,13,MissedShots,0.7980000305175782,0.6270000076293946,0.02635379321873188,Raheem Sterling,a,618,OpenPlay,2023,RightFoot,21967,Burnley,Chelsea,1,4,2023-10-07 14:00:00,Cole Palmer,TakeOn,618
+542622,36,SavedShot,0.9719999694824218,0.645,0.05355025827884674,Raheem Sterling,a,618,OpenPlay,2023,LeftFoot,21967,Burnley,Chelsea,1,4,2023-10-07 14:00:00,Moisés Caicedo,Chipped,618
+542629,64,Goal,0.905,0.635,0.33254632353782654,Raheem Sterling,a,618,OpenPlay,2023,LeftFoot,21967,Burnley,Chelsea,1,4,2023-10-07 14:00:00,Conor Gallagher,Pass,618
+545218,19,MissedShots,0.899000015258789,0.39799999237060546,0.350678414106369,Raheem Sterling,h,618,OpenPlay,2023,RightFoot,21989,Chelsea,Brentford,0,2,2023-10-28 11:30:00,,None,618
+545224,53,BlockedShot,0.8219999694824218,0.57,0.06572046130895615,Raheem Sterling,h,618,OpenPlay,2023,LeftFoot,21989,Chelsea,Brentford,0,2,2023-10-28 11:30:00,Nicolas Jackson,Pass,618
+547906,20,BlockedShot,0.8859999847412109,0.725999984741211,0.03310326859354973,Raheem Sterling,a,618,OpenPlay,2023,RightFoot,22004,Tottenham,Chelsea,1,4,2023-11-06 20:00:00,Reece James,Chipped,618
+547913,50,SavedShot,0.8159999847412109,0.665,0.03457149863243103,Raheem Sterling,a,618,OpenPlay,2023,RightFoot,22004,Tottenham,Chelsea,1,4,2023-11-06 20:00:00,Marc Cucurella,Pass,618
+547914,53,BlockedShot,0.875,0.695,0.03674859181046486,Raheem Sterling,a,618,OpenPlay,2023,RightFoot,22004,Tottenham,Chelsea,1,4,2023-11-06 20:00:00,Enzo Fernández,TakeOn,618
+549090,36,Goal,0.9690000152587891,0.504000015258789,0.899151623249054,Raheem Sterling,h,618,OpenPlay,2023,RightFoot,22009,Chelsea,Manchester City,4,4,2023-11-12 16:30:00,Reece James,Pass,618
+549092,40,MissedShots,0.8830000305175781,0.6930000305175781,0.065186507999897,Raheem Sterling,h,618,OpenPlay,2023,RightFoot,22009,Chelsea,Manchester City,4,4,2023-11-12 16:30:00,Marc Cucurella,Pass,618
+549740,22,Goal,0.789000015258789,0.5779999923706055,0.09771940112113953,Raheem Sterling,a,618,DirectFreekick,2023,RightFoot,22021,Newcastle United,Chelsea,4,1,2023-11-25 15:00:00,,Standard,618
+549741,24,SavedShot,0.8130000305175781,0.754000015258789,0.021793948486447334,Raheem Sterling,a,618,OpenPlay,2023,RightFoot,22021,Newcastle United,Chelsea,4,1,2023-11-25 15:00:00,Cole Palmer,Pass,618
+553410,76,BlockedShot,0.8909999847412109,0.35700000762939454,0.07017283141613007,Raheem Sterling,a,618,OpenPlay,2023,LeftFoot,22048,Everton,Chelsea,2,0,2023-12-10 14:00:00,Cole Palmer,Pass,618
+554269,67,SavedShot,0.8719999694824219,0.6140000152587891,0.3102896809577942,Raheem Sterling,h,618,OpenPlay,2023,RightFoot,22059,Chelsea,Sheffield United,2,0,2023-12-16 15:00:00,Thiago Silva,Chipped,618
+556429,28,MissedShots,0.8009999847412109,0.625999984741211,0.09607379138469696,Raheem Sterling,a,618,DirectFreekick,2023,RightFoot,22073,Wolverhampton Wanderers,Chelsea,2,1,2023-12-24 13:00:00,,Standard,618
+556431,31,SavedShot,0.8780000305175781,0.5559999847412109,0.3698137700557709,Raheem Sterling,a,618,OpenPlay,2023,RightFoot,22073,Wolverhampton Wanderers,Chelsea,2,1,2023-12-24 13:00:00,,BallRecovery,618
+556447,65,BlockedShot,0.9030000305175782,0.365,0.08047617971897125,Raheem Sterling,a,618,OpenPlay,2023,RightFoot,22073,Wolverhampton Wanderers,Chelsea,2,1,2023-12-24 13:00:00,Cole Palmer,Pass,618
+557887,12,BlockedShot,0.860999984741211,0.7090000152587891,0.038065824657678604,Raheem Sterling,h,618,OpenPlay,2023,RightFoot,22097,Chelsea,Fulham,1,0,2024-01-13 12:30:00,Enzo Fernández,Pass,618
+557894,30,BlockedShot,0.919000015258789,0.68,0.05737926810979843,Raheem Sterling,h,618,OpenPlay,2023,RightFoot,22097,Chelsea,Fulham,1,0,2024-01-13 12:30:00,Levi Colwill,Chipped,618
+557901,52,ShotOnPost,0.93,0.495,0.4407455623149872,Raheem Sterling,h,618,OpenPlay,2023,Head,22097,Chelsea,Fulham,1,0,2024-01-13 12:30:00,Enzo Fernández,Cross,618
+561573,28,MissedShots,0.919000015258789,0.32099998474121094,0.0508926659822464,Raheem Sterling,h,618,SetPiece,2023,RightFoot,22120,Chelsea,Wolverhampton Wanderers,2,4,2024-02-04 14:00:00,Ben Chilwell,Pass,618
+561580,46,MissedShots,0.8640000152587891,0.56,0.3659946322441101,Raheem Sterling,h,618,OpenPlay,2023,LeftFoot,22120,Chelsea,Wolverhampton Wanderers,2,4,2024-02-04 14:00:00,Ben Chilwell,Pass,618
+563439,82,BlockedShot,0.91,0.5929999923706055,0.12005894631147385,Raheem Sterling,a,618,OpenPlay,2023,RightFoot,22126,Crystal Palace,Chelsea,1,3,2024-02-12 20:00:00,Cole Palmer,Pass,618
+564040,12,SavedShot,0.8190000152587891,0.6990000152587891,0.05424922704696655,Raheem Sterling,a,618,OpenPlay,2023,RightFoot,22140,Manchester City,Chelsea,1,1,2024-02-17 17:30:00,Enzo Fernández,Pass,618
+564047,41,Goal,0.8909999847412109,0.59,0.38647598028182983,Raheem Sterling,a,618,OpenPlay,2023,RightFoot,22140,Manchester City,Chelsea,1,1,2024-02-17 17:30:00,Nicolas Jackson,TakeOn,618
+564056,55,SavedShot,0.9209999847412109,0.5070000076293946,0.4011473059654236,Raheem Sterling,a,618,OpenPlay,2023,RightFoot,22140,Manchester City,Chelsea,1,1,2024-02-17 17:30:00,Malo Gusto,Cross,618
+569019,49,SavedShot,0.855,0.4779999923706055,0.0514739491045475,Raheem Sterling,h,618,OpenPlay,2023,RightFoot,22169,Chelsea,Newcastle United,3,2,2024-03-11 20:00:00,Conor Gallagher,HeadPass,618
+569021,53,MissedShots,0.894000015258789,0.315,0.0814734622836113,Raheem Sterling,h,618,OpenPlay,2023,RightFoot,22169,Chelsea,Newcastle United,3,2,2024-03-11 20:00:00,Cole Palmer,Pass,618
+569023,58,BlockedShot,0.855,0.4909999847412109,0.31398850679397583,Raheem Sterling,h,618,OpenPlay,2023,RightFoot,22169,Chelsea,Newcastle United,3,2,2024-03-11 20:00:00,Nicolas Jackson,HeadPass,618
+570742,84,MissedShots,0.9269999694824219,0.5570000076293945,0.295012503862381,Raheem Sterling,h,618,OpenPlay,2023,Head,22188,Chelsea,Burnley,2,2,2024-03-30 15:00:00,Cole Palmer,Chipped,618
+570745,88,SavedShot,0.92,0.65,0.07093934714794159,Raheem Sterling,h,618,OpenPlay,2023,LeftFoot,22188,Chelsea,Burnley,2,2,2024-03-30 15:00:00,Enzo Fernández,Chipped,618
+570746,90,BlockedShot,0.7240000152587891,0.6029999923706054,0.01624738983809948,Raheem Sterling,h,618,OpenPlay,2023,RightFoot,22188,Chelsea,Burnley,2,2,2024-03-30 15:00:00,Cole Palmer,Pass,618
+575980,67,SavedShot,0.755,0.34799999237060547,0.053078215569257736,Raheem Sterling,a,618,DirectFreekick,2023,RightFoot,22175,Arsenal,Chelsea,5,0,2024-04-23 19:00:00,,Standard,618
+580145,79,Goal,0.875999984741211,0.634000015258789,0.07287535071372986,Raheem Sterling,a,618,OpenPlay,2023,RightFoot,22261,Nottingham Forest,Chelsea,2,3,2024-05-11 16:30:00,Moisés Caicedo,TakeOn,618
+581209,82,SavedShot,0.769000015258789,0.730999984741211,0.045160386711359024,Raheem Sterling,a,618,DirectFreekick,2023,RightFoot,22226,Brighton,Chelsea,1,2,2024-05-15 18:45:00,,Standard,618
+582219,30,MissedShots,0.769000015258789,0.3089999961853027,0.026185940951108932,Raheem Sterling,h,618,OpenPlay,2023,RightFoot,22269,Chelsea,Bournemouth,2,1,2024-05-19 15:00:00,Cole Palmer,Chipped,618
+582229,47,Goal,0.960999984741211,0.66,0.30331599712371826,Raheem Sterling,h,618,OpenPlay,2023,LeftFoot,22269,Chelsea,Bournemouth,2,1,2024-05-19 15:00:00,Cole Palmer,TakeOn,618
+595519,6,MissedShots,0.9390000152587891,0.595999984741211,0.12472463399171829,Raheem Sterling,h,618,OpenPlay,2024,LeftFoot,26666,Arsenal,Southampton,3,1,2024-10-05 14:00:00,Gabriel Jesus,Pass,618
+595530,44,BlockedShot,0.8819999694824219,0.5659999847412109,0.1111937090754509,Raheem Sterling,h,618,OpenPlay,2024,RightFoot,26666,Arsenal,Southampton,3,1,2024-10-05 14:00:00,Gabriel Jesus,Pass,618
+604426,84,MissedShots,0.9059999847412109,0.664000015258789,0.09635237604379654,Raheem Sterling,a,618,OpenPlay,2024,LeftFoot,26730,West Ham,Arsenal,2,5,2024-11-30 17:30:00,Declan Rice,Pass,618
+604427,88,MissedShots,0.7919999694824219,0.3579999923706055,0.0808124989271164,Raheem Sterling,a,618,DirectFreekick,2024,RightFoot,26730,West Ham,Arsenal,2,5,2024-11-30 17:30:00,,Standard,618
+611841,45,BlockedShot,0.9230000305175782,0.6530000305175782,0.10035835206508636,Raheem Sterling,h,618,OpenPlay,2024,RightFoot,26802,Arsenal,Tottenham,2,1,2025-01-15 20:00:00,Leandro Trossard,Pass,618
+611847,58,BlockedShot,0.9059999847412109,0.37799999237060544,0.09402220696210861,Raheem Sterling,h,618,OpenPlay,2024,LeftFoot,26802,Arsenal,Tottenham,2,1,2025-01-15 20:00:00,,Rebound,618

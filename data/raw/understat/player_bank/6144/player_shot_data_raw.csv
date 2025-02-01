@@ -1,0 +1,223 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+165836,10,SavedShot,0.755,0.425,0.02543400041759014,Sébastien Haller,a,6144,OpenPlay,2017,LeftFoot,8266,Freiburg,Eintracht Frankfurt,0,0,2017-08-20 14:30:00,Daichi Kamada,Pass,6144
+165841,31,BlockedShot,0.9059999847412109,0.5709999847412109,0.08637029677629471,Sébastien Haller,a,6144,OpenPlay,2017,RightFoot,8266,Freiburg,Eintracht Frankfurt,0,0,2017-08-20 14:30:00,Jetro Willems,Cross,6144
+165844,35,ShotOnPost,0.8690000152587891,0.47400001525878904,0.5154950022697449,Sébastien Haller,a,6144,OpenPlay,2017,RightFoot,8266,Freiburg,Eintracht Frankfurt,0,0,2017-08-20 14:30:00,,None,6144
+166100,20,ShotOnPost,0.9230000305175782,0.54,0.04551979899406433,Sébastien Haller,h,6144,FromCorner,2017,Head,8270,Eintracht Frankfurt,Wolfsburg,0,1,2017-08-26 14:30:00,Jetro Willems,Aerial,6144
+166105,38,MissedShots,0.919000015258789,0.509000015258789,0.13210199773311615,Sébastien Haller,h,6144,SetPiece,2017,Head,8270,Eintracht Frankfurt,Wolfsburg,0,1,2017-08-26 14:30:00,Jetro Willems,Cross,6144
+166107,40,SavedShot,0.9530000305175781,0.615999984741211,0.07255309820175171,Sébastien Haller,h,6144,OpenPlay,2017,LeftFoot,8270,Eintracht Frankfurt,Wolfsburg,0,1,2017-08-26 14:30:00,,None,6144
+166605,10,BlockedShot,0.960999984741211,0.40099998474121096,0.08569660037755966,Sébastien Haller,h,6144,OpenPlay,2017,RightFoot,8288,Eintracht Frankfurt,Augsburg,1,2,2017-09-16 14:30:00,Timothy Chandler,Cross,6144
+166620,58,MissedShots,0.9069999694824219,0.5209999847412109,0.09163220226764679,Sébastien Haller,h,6144,OpenPlay,2017,RightFoot,8288,Eintracht Frankfurt,Augsburg,1,2,2017-09-16 14:30:00,Mijat Gacinovic,Cross,6144
+166808,21,Goal,0.885,0.5,0.7577769756317139,Sébastien Haller,a,6144,Penalty,2017,RightFoot,8299,FC Cologne,Eintracht Frankfurt,0,1,2017-09-20 17:30:00,,Standard,6144
+166821,50,MissedShots,0.905,0.5729999923706055,0.10190100222826004,Sébastien Haller,a,6144,OpenPlay,2017,LeftFoot,8299,FC Cologne,Eintracht Frankfurt,0,1,2017-09-20 17:30:00,Taleb Tawatha,Cross,6144
+166557,57,MissedShots,0.9590000152587891,0.4279999923706055,0.11864899843931198,Sébastien Haller,a,6144,SetPiece,2017,Head,8308,RasenBallsport Leipzig,Eintracht Frankfurt,2,1,2017-09-23 14:30:00,Jetro Willems,Cross,6144
+167238,10,MissedShots,0.9159999847412109,0.47900001525878905,0.05810889974236488,Sébastien Haller,h,6144,OpenPlay,2017,Head,8320,Eintracht Frankfurt,VfB Stuttgart,2,1,2017-09-30 14:30:00,Timothy Chandler,Aerial,6144
+167256,82,SavedShot,0.915,0.5790000152587891,0.09205389767885208,Sébastien Haller,h,6144,FromCorner,2017,RightFoot,8320,Eintracht Frankfurt,VfB Stuttgart,2,1,2017-09-30 14:30:00,,None,6144
+167258,92,Goal,0.8919999694824219,0.5820000076293945,0.07388930022716522,Sébastien Haller,h,6144,SetPiece,2017,RightFoot,8320,Eintracht Frankfurt,VfB Stuttgart,2,1,2017-09-30 14:30:00,,None,6144
+167878,9,Goal,0.899000015258789,0.46,0.4420349895954132,Sébastien Haller,a,6144,OpenPlay,2017,RightFoot,8329,Hannover 96,Eintracht Frankfurt,1,2,2017-10-14 14:30:00,Marius Wolf,Throughball,6144
+168254,33,MissedShots,0.87,0.5870000076293945,0.07653780281543732,Sébastien Haller,h,6144,OpenPlay,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Marius Wolf,Pass,6144
+168259,47,BlockedShot,0.874000015258789,0.485,0.07200770080089569,Sébastien Haller,h,6144,OpenPlay,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,,None,6144
+168268,63,Goal,0.885,0.5,0.7577769756317139,Sébastien Haller,h,6144,Penalty,2017,RightFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,,Standard,6144
+168275,77,SavedShot,0.9059999847412109,0.59,0.08307050168514252,Sébastien Haller,h,6144,FromCorner,2017,LeftFoot,8336,Eintracht Frankfurt,Borussia Dortmund,2,2,2017-10-21 14:30:00,Ante Rebic,HeadPass,6144
+168790,25,MissedShots,0.8730000305175781,0.575,0.013401700183749199,Sébastien Haller,a,6144,FromCorner,2017,Head,8346,Mainz 05,Eintracht Frankfurt,1,1,2017-10-27 19:30:00,Jetro Willems,Aerial,6144
+167574,88,Goal,0.9059999847412109,0.4929999923706055,0.3392780125141144,Sébastien Haller,h,6144,OpenPlay,2017,RightFoot,8353,Eintracht Frankfurt,Werder Bremen,2,1,2017-11-03 19:30:00,Taleb Tawatha,Cross,6144
+179726,63,MissedShots,0.8909999847412109,0.4329999923706055,0.015402399934828281,Sébastien Haller,h,6144,SetPiece,2017,Head,8391,Eintracht Frankfurt,Bayern Munich,0,1,2017-12-09 14:30:00,Jetro Willems,Aerial,6144
+183784,64,Goal,0.9530000305175781,0.5109999847412109,0.6243259906768799,Sébastien Haller,h,6144,OpenPlay,2017,RightFoot,8407,Eintracht Frankfurt,Schalke 04,2,2,2017-12-16 14:30:00,,None,6144
+187235,9,SavedShot,0.8380000305175781,0.575,0.1207519993185997,Sébastien Haller,h,6144,OpenPlay,2017,LeftFoot,8416,Eintracht Frankfurt,Freiburg,1,1,2018-01-13 14:30:00,Omar Mascarell,LayOff,6144
+187238,14,MissedShots,0.8680000305175781,0.3220000076293945,0.04857020080089569,Sébastien Haller,h,6144,OpenPlay,2017,RightFoot,8416,Eintracht Frankfurt,Freiburg,1,1,2018-01-13 14:30:00,,None,6144
+187239,15,BlockedShot,0.7369999694824219,0.5659999847412109,0.021699899807572365,Sébastien Haller,h,6144,OpenPlay,2017,RightFoot,8416,Eintracht Frankfurt,Freiburg,1,1,2018-01-13 14:30:00,Timothy Chandler,Pass,6144
+187242,27,Goal,0.9469999694824218,0.5320000076293945,0.5053210258483887,Sébastien Haller,h,6144,FromCorner,2017,RightFoot,8416,Eintracht Frankfurt,Freiburg,1,1,2018-01-13 14:30:00,Timothy Chandler,HeadPass,6144
+187245,39,MissedShots,0.905,0.3940000152587891,0.11928299814462662,Sébastien Haller,h,6144,OpenPlay,2017,RightFoot,8416,Eintracht Frankfurt,Freiburg,1,1,2018-01-13 14:30:00,Branimir Hrgota,Pass,6144
+187250,78,MissedShots,0.9019999694824219,0.425,0.07139729708433151,Sébastien Haller,h,6144,OpenPlay,2017,Head,8416,Eintracht Frankfurt,Freiburg,1,1,2018-01-13 14:30:00,Kevin-Prince Boateng,Cross,6144
+188620,17,Goal,0.9009999847412109,0.34900001525878904,0.08170720189809799,Sébastien Haller,a,6144,OpenPlay,2017,RightFoot,8429,Wolfsburg,Eintracht Frankfurt,1,3,2018-01-20 14:30:00,Marius Wolf,Pass,6144
+188632,42,MissedShots,0.8769999694824219,0.27899999618530275,0.05578770115971565,Sébastien Haller,a,6144,OpenPlay,2017,RightFoot,8429,Wolfsburg,Eintracht Frankfurt,1,3,2018-01-20 14:30:00,,Interception,6144
+195066,71,MissedShots,0.9319999694824219,0.435,0.05604470148682594,Sébastien Haller,h,6144,SetPiece,2017,Head,8456,Eintracht Frankfurt,FC Cologne,4,2,2018-02-10 14:30:00,Marius Wolf,Aerial,6144
+197003,66,MissedShots,0.9359999847412109,0.5820000076293945,0.028223099187016487,Sébastien Haller,h,6144,FromCorner,2017,Head,8462,Eintracht Frankfurt,RasenBallsport Leipzig,2,1,2018-02-19 19:30:00,Marius Wolf,Aerial,6144
+198719,81,SavedShot,0.8640000152587891,0.64,0.33980798721313477,Sébastien Haller,h,6144,OpenPlay,2017,RightFoot,8480,Eintracht Frankfurt,Hannover 96,1,0,2018-03-03 14:30:00,Ante Rebic,Throughball,6144
+207369,68,ShotOnPost,0.8909999847412109,0.5520000076293945,0.03392560034990311,Sébastien Haller,h,6144,OpenPlay,2017,Head,8516,Eintracht Frankfurt,Hoffenheim,1,1,2018-04-08 16:00:00,Marco Fabián,Aerial,6144
+207371,89,MissedShots,0.8590000152587891,0.33299999237060546,0.046208299696445465,Sébastien Haller,h,6144,OpenPlay,2017,LeftFoot,8516,Eintracht Frankfurt,Hoffenheim,1,1,2018-04-08 16:00:00,Marco Fabián,Chipped,6144
+208395,71,BlockedShot,0.89,0.49700000762939456,0.05615239962935448,Sébastien Haller,a,6144,OpenPlay,2017,RightFoot,8525,Bayer Leverkusen,Eintracht Frankfurt,4,1,2018-04-14 13:30:00,Timothy Chandler,Aerial,6144
+208400,92,BlockedShot,0.9059999847412109,0.44,0.07228360325098038,Sébastien Haller,a,6144,OpenPlay,2017,RightFoot,8525,Bayer Leverkusen,Eintracht Frankfurt,4,1,2018-04-14 13:30:00,Timothy Chandler,Cross,6144
+211550,77,Goal,0.9590000152587891,0.47400001525878904,0.5935860276222229,Sébastien Haller,a,6144,OpenPlay,2017,RightFoot,8538,Bayern Munich,Eintracht Frankfurt,4,1,2018-04-28 13:30:00,,None,6144
+214594,13,MissedShots,0.7780000305175782,0.27899999618530275,0.018087899312376976,Sébastien Haller,a,6144,OpenPlay,2017,RightFoot,8560,Schalke 04,Eintracht Frankfurt,1,0,2018-05-12 14:30:00,Mijat Gacinovic,Pass,6144
+214600,59,SavedShot,0.9440000152587891,0.24899999618530275,0.026819400489330292,Sébastien Haller,a,6144,OpenPlay,2017,RightFoot,8560,Schalke 04,Eintracht Frankfurt,1,0,2018-05-12 14:30:00,Omar Mascarell,Pass,6144
+220013,44,MissedShots,0.9269999694824219,0.53,0.054409999400377274,Sébastien Haller,a,6144,FromCorner,2018,Head,10342,Freiburg,Eintracht Frankfurt,0,2,2018-08-25 16:30:00,Jetro Willems,Aerial,6144
+220023,81,Goal,0.8590000152587891,0.500999984741211,0.357012003660202,Sébastien Haller,a,6144,OpenPlay,2018,RightFoot,10342,Freiburg,Eintracht Frankfurt,0,2,2018-08-25 16:30:00,Jonathan de Guzmán,Throughball,6144
+221546,13,MissedShots,0.9019999694824219,0.539000015258789,0.3298650085926056,Sébastien Haller,h,6144,OpenPlay,2018,RightFoot,10348,Eintracht Frankfurt,Werder Bremen,1,2,2018-09-01 13:30:00,Filip Kostic,Cross,6144
+221548,17,MissedShots,0.6780000305175782,0.5129999923706055,0.015207299962639809,Sébastien Haller,h,6144,OpenPlay,2018,RightFoot,10348,Eintracht Frankfurt,Werder Bremen,1,2,2018-09-01 13:30:00,Jetro Willems,Pass,6144
+221552,53,Goal,0.885,0.5,0.7577769756317139,Sébastien Haller,h,6144,Penalty,2018,RightFoot,10348,Eintracht Frankfurt,Werder Bremen,1,2,2018-09-01 13:30:00,,Standard,6144
+223166,67,Goal,0.92,0.41900001525878905,0.0803757980465889,Sébastien Haller,a,6144,OpenPlay,2018,RightFoot,10355,Borussia Dortmund,Eintracht Frankfurt,3,1,2018-09-14 18:30:00,,None,6144
+225957,1,BlockedShot,0.784000015258789,0.5059999847412109,0.0146441999822855,Sébastien Haller,h,6144,OpenPlay,2018,RightFoot,10372,Eintracht Frankfurt,RasenBallsport Leipzig,1,1,2018-09-23 16:00:00,Luka Jovic,Aerial,6144
+225960,25,SavedShot,0.9209999847412109,0.5329999923706055,0.1269560009241104,Sébastien Haller,h,6144,OpenPlay,2018,Head,10372,Eintracht Frankfurt,RasenBallsport Leipzig,1,1,2018-09-23 16:00:00,Luka Jovic,Cross,6144
+226750,79,MissedShots,0.9269999694824219,0.5529999923706055,0.0869079977273941,Sébastien Haller,a,6144,OpenPlay,2018,RightFoot,10380,Borussia M.Gladbach,Eintracht Frankfurt,3,1,2018-09-26 18:30:00,,None,6144
+255415,3,SavedShot,0.88,0.5379999923706055,0.02648710086941719,Sébastien Haller,h,6144,OpenPlay,2018,Head,10403,Eintracht Frankfurt,Fortuna Duesseldorf,7,1,2018-10-19 18:30:00,Filip Kostic,Aerial,6144
+255418,15,BlockedShot,0.9219999694824219,0.5179999923706055,0.12889400124549866,Sébastien Haller,h,6144,SetPiece,2018,Head,10403,Eintracht Frankfurt,Fortuna Duesseldorf,7,1,2018-10-19 18:30:00,Jonathan de Guzmán,Cross,6144
+255419,19,Goal,0.885,0.5,0.7577769756317139,Sébastien Haller,h,6144,Penalty,2018,RightFoot,10403,Eintracht Frankfurt,Fortuna Duesseldorf,7,1,2018-10-19 18:30:00,,Standard,6144
+255429,45,SavedShot,0.9669999694824218,0.5570000076293945,0.20269200205802917,Sébastien Haller,h,6144,FromCorner,2018,Head,10403,Eintracht Frankfurt,Fortuna Duesseldorf,7,1,2018-10-19 18:30:00,David Abraham,BallTouch,6144
+255433,49,Goal,0.9059999847412109,0.5459999847412109,0.5379130244255066,Sébastien Haller,h,6144,OpenPlay,2018,RightFoot,10403,Eintracht Frankfurt,Fortuna Duesseldorf,7,1,2018-10-19 18:30:00,,None,6144
+255434,50,SavedShot,0.8919999694824219,0.6309999847412109,0.2558259963989258,Sébastien Haller,h,6144,OpenPlay,2018,LeftFoot,10403,Eintracht Frankfurt,Fortuna Duesseldorf,7,1,2018-10-19 18:30:00,Makoto Hasebe,TakeOn,6144
+255442,74,BlockedShot,0.9359999847412109,0.645,0.20639699697494507,Sébastien Haller,h,6144,OpenPlay,2018,RightFoot,10403,Eintracht Frankfurt,Fortuna Duesseldorf,7,1,2018-10-19 18:30:00,Marc Stendera,TakeOn,6144
+255824,91,Goal,0.955,0.5329999923706055,0.5675600171089172,Sébastien Haller,a,6144,OpenPlay,2018,RightFoot,10417,Nuernberg,Eintracht Frankfurt,1,1,2018-10-28 11:30:00,Danny da Costa,Cross,6144
+255881,10,Goal,0.9519999694824218,0.41700000762939454,0.4450159966945648,Sébastien Haller,a,6144,OpenPlay,2018,RightFoot,10425,VfB Stuttgart,Eintracht Frankfurt,0,3,2018-11-02 19:30:00,,Rebound,6144
+255884,31,SavedShot,0.9,0.5829999923706055,0.5012720227241516,Sébastien Haller,a,6144,OpenPlay,2018,RightFoot,10425,VfB Stuttgart,Eintracht Frankfurt,0,3,2018-11-02 19:30:00,Filip Kostic,Pass,6144
+255898,65,SavedShot,0.9180000305175782,0.6480000305175782,0.2872830033302307,Sébastien Haller,a,6144,OpenPlay,2018,RightFoot,10425,VfB Stuttgart,Eintracht Frankfurt,0,3,2018-11-02 19:30:00,Ante Rebic,Pass,6144
+256397,79,Goal,0.955999984741211,0.5070000076293946,0.6380079984664917,Sébastien Haller,h,6144,FromCorner,2018,LeftFoot,10430,Eintracht Frankfurt,Schalke 04,3,0,2018-11-11 17:00:00,,Rebound,6144
+256399,88,MissedShots,0.875,0.4620000076293945,0.28582099080085754,Sébastien Haller,h,6144,OpenPlay,2018,RightFoot,10430,Eintracht Frankfurt,Schalke 04,3,0,2018-11-11 17:00:00,Danny da Costa,Cross,6144
+256503,46,Goal,0.8519999694824218,0.6840000152587891,0.4688029885292053,Sébastien Haller,a,6144,OpenPlay,2018,RightFoot,10441,Augsburg,Eintracht Frankfurt,1,3,2018-11-24 14:30:00,Luka Jovic,Throughball,6144
+256519,87,BlockedShot,0.879000015258789,0.6020000076293945,0.12274599820375443,Sébastien Haller,a,6144,OpenPlay,2018,RightFoot,10441,Augsburg,Eintracht Frankfurt,1,3,2018-11-24 14:30:00,Mijat Gacinovic,Pass,6144
+256524,90,SavedShot,0.8919999694824219,0.580999984741211,0.3438650071620941,Sébastien Haller,a,6144,OpenPlay,2018,RightFoot,10441,Augsburg,Eintracht Frankfurt,1,3,2018-11-24 14:30:00,Ante Rebic,Pass,6144
+256932,79,BlockedShot,0.9640000152587891,0.4209999847412109,0.12392999976873398,Sébastien Haller,h,6144,OpenPlay,2018,LeftFoot,10449,Eintracht Frankfurt,Wolfsburg,1,2,2018-12-02 17:00:00,Ante Rebic,Pass,6144
+257136,9,BlockedShot,0.9069999694824219,0.3509999847412109,0.06746739894151688,Sébastien Haller,a,6144,OpenPlay,2018,RightFoot,10458,Hertha Berlin,Eintracht Frankfurt,1,0,2018-12-08 17:30:00,,None,6144
+257141,19,MissedShots,0.9330000305175781,0.4329999923706055,0.10466799885034561,Sébastien Haller,a,6144,OpenPlay,2018,RightFoot,10458,Hertha Berlin,Eintracht Frankfurt,1,0,2018-12-08 17:30:00,Danny da Costa,Cross,6144
+257159,92,SavedShot,0.8519999694824218,0.6120000076293945,0.008462349884212017,Sébastien Haller,a,6144,OpenPlay,2018,Head,10458,Hertha Berlin,Eintracht Frankfurt,1,0,2018-12-08 17:30:00,Makoto Hasebe,Aerial,6144
+257373,20,MissedShots,0.9469999694824218,0.56,0.14258399605751038,Sébastien Haller,h,6144,OpenPlay,2018,RightFoot,10467,Eintracht Frankfurt,Bayer Leverkusen,2,1,2018-12-16 17:00:00,Ante Rebic,Pass,6144
+257377,40,SavedShot,0.9330000305175781,0.68,0.08467890322208405,Sébastien Haller,h,6144,OpenPlay,2018,LeftFoot,10467,Eintracht Frankfurt,Bayer Leverkusen,2,1,2018-12-16 17:00:00,Ante Rebic,Pass,6144
+257391,75,MissedShots,0.909000015258789,0.5309999847412109,0.029754599556326866,Sébastien Haller,h,6144,FromCorner,2018,Head,10467,Eintracht Frankfurt,Bayer Leverkusen,2,1,2018-12-16 17:00:00,Jetro Willems,Aerial,6144
+257394,87,BlockedShot,0.8719999694824219,0.2979999923706055,0.05287579819560051,Sébastien Haller,h,6144,OpenPlay,2018,RightFoot,10467,Eintracht Frankfurt,Bayer Leverkusen,2,1,2018-12-16 17:00:00,Luka Jovic,Pass,6144
+257562,22,MissedShots,0.8859999847412109,0.5420000076293945,0.026511799544095993,Sébastien Haller,a,6144,OpenPlay,2018,Head,10476,Mainz 05,Eintracht Frankfurt,2,2,2018-12-19 19:30:00,Jonathan de Guzmán,Aerial,6144
+257571,45,BlockedShot,0.870999984741211,0.29200000762939454,0.05021040141582489,Sébastien Haller,a,6144,OpenPlay,2018,RightFoot,10476,Mainz 05,Eintracht Frankfurt,2,2,2018-12-19 19:30:00,Danny da Costa,TakeOn,6144
+257573,49,SavedShot,0.9269999694824219,0.5459999847412109,0.06571870297193527,Sébastien Haller,a,6144,OpenPlay,2018,Head,10476,Mainz 05,Eintracht Frankfurt,2,2,2018-12-19 19:30:00,,None,6144
+257800,7,BlockedShot,0.8880000305175781,0.34900001525878904,0.07935360074043274,Sébastien Haller,h,6144,OpenPlay,2018,RightFoot,10487,Eintracht Frankfurt,Bayern Munich,0,3,2018-12-22 17:30:00,Danny da Costa,Pass,6144
+257815,76,MissedShots,0.9309999847412109,0.5059999847412109,0.13558700680732727,Sébastien Haller,h,6144,OpenPlay,2018,Head,10487,Eintracht Frankfurt,Bayern Munich,0,3,2018-12-22 17:30:00,Nicolai Müller,Cross,6144
+278318,35,Goal,0.9569999694824218,0.509000015258789,0.4739519953727722,Sébastien Haller,h,6144,FromCorner,2018,Head,10492,Eintracht Frankfurt,Freiburg,3,1,2019-01-19 14:30:00,Ante Rebic,HeadPass,6144
+278681,17,MissedShots,0.9230000305175782,0.519000015258789,0.36391401290893555,Sébastien Haller,a,6144,SetPiece,2018,Head,10503,Werder Bremen,Eintracht Frankfurt,2,2,2019-01-26 17:30:00,Jonathan de Guzmán,Cross,6144
+278682,20,BlockedShot,0.9230000305175782,0.5579999923706055,0.03468690067529678,Sébastien Haller,a,6144,FromCorner,2018,Head,10503,Werder Bremen,Eintracht Frankfurt,2,2,2019-01-26 17:30:00,Jonathan de Guzmán,Aerial,6144
+278694,65,MissedShots,0.86,0.615,0.041854601353406906,Sébastien Haller,a,6144,OpenPlay,2018,RightFoot,10503,Werder Bremen,Eintracht Frankfurt,2,2,2019-01-26 17:30:00,Danny da Costa,Cross,6144
+278696,67,Goal,0.885,0.5,0.7577769756317139,Sébastien Haller,a,6144,Penalty,2018,RightFoot,10503,Werder Bremen,Eintracht Frankfurt,2,2,2019-01-26 17:30:00,,Standard,6144
+279302,36,MissedShots,0.9269999694824219,0.4540000152587891,0.12786899507045746,Sébastien Haller,h,6144,OpenPlay,2018,Head,10529,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2019-02-17 14:30:00,Filip Kostic,Cross,6144
+279301,36,MissedShots,0.8819999694824219,0.43599998474121093,0.02743219956755638,Sébastien Haller,h,6144,OpenPlay,2018,Head,10529,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2019-02-17 14:30:00,Danny da Costa,Aerial,6144
+279307,55,BlockedShot,0.8909999847412109,0.5459999847412109,0.031219899654388428,Sébastien Haller,h,6144,FromCorner,2018,Head,10529,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2019-02-17 14:30:00,Jonathan de Guzmán,BallTouch,6144
+279310,58,SavedShot,0.9680000305175781,0.580999984741211,0.04611939936876297,Sébastien Haller,h,6144,FromCorner,2018,Head,10529,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2019-02-17 14:30:00,Martin Hinteregger,CornerAwarded,6144
+279317,83,MissedShots,0.8380000305175781,0.39599998474121095,0.067603200674057,Sébastien Haller,h,6144,OpenPlay,2018,LeftFoot,10529,Eintracht Frankfurt,Borussia M.Gladbach,1,1,2019-02-17 14:30:00,Danny da Costa,Pass,6144
+279527,61,MissedShots,0.9519999694824218,0.46799999237060547,0.4808099865913391,Sébastien Haller,a,6144,SetPiece,2018,Head,10540,Hannover 96,Eintracht Frankfurt,0,3,2019-02-24 14:30:00,,None,6144
+279659,88,Goal,0.905,0.534000015258789,0.2935259938240051,Sébastien Haller,h,6144,FromCorner,2018,Head,10547,Eintracht Frankfurt,Hoffenheim,3,2,2019-03-02 14:30:00,Mijat Gacinovic,Cross,6144
+285562,90,Goal,0.915,0.455,0.927761971950531,Sébastien Haller,a,6144,OpenPlay,2018,LeftFoot,10558,Fortuna Duesseldorf,Eintracht Frankfurt,0,3,2019-03-11 19:30:00,Gonçalo Paciência,TakeOn,6144
+285563,92,Goal,0.965999984741211,0.44099998474121094,0.605351984500885,Sébastien Haller,a,6144,OpenPlay,2018,RightFoot,10558,Fortuna Duesseldorf,Eintracht Frankfurt,0,3,2019-03-11 19:30:00,Filip Kostic,Cross,6144
+286791,63,BlockedShot,0.9490000152587891,0.3920000076293945,0.12772700190544128,Sébastien Haller,h,6144,OpenPlay,2018,RightFoot,10570,Eintracht Frankfurt,Nuernberg,1,0,2019-03-17 14:30:00,Danny da Costa,Pass,6144
+302433,49,Goal,0.965999984741211,0.5179999923706055,0.71595698595047,Sébastien Haller,a,6144,FromCorner,2018,RightFoot,10635,Bayern Munich,Eintracht Frankfurt,5,1,2019-05-18 13:30:00,,Rebound,6144
+309926,34,SavedShot,0.88,0.4620000076293945,0.07705289870500565,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11644,West Ham,Manchester City,0,5,2019-08-10 12:30:00,Michail Antonio,HeadPass,6144
+312547,21,SavedShot,0.9459999847412109,0.500999984741211,0.12404700368642807,Sébastien Haller,a,6144,OpenPlay,2019,RightFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Andriy Yarmolenko,HeadPass,6144
+312556,42,MissedShots,0.955999984741211,0.5309999847412109,0.0841602012515068,Sébastien Haller,a,6144,FromCorner,2019,Head,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Manuel Lanzini,Aerial,6144
+312564,63,Goal,0.9569999694824218,0.500999984741211,0.6775670051574707,Sébastien Haller,a,6144,OpenPlay,2019,RightFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,Felipe Anderson,Pass,6144
+312569,72,Goal,0.980999984741211,0.4809999847412109,0.9362149834632874,Sébastien Haller,a,6144,FromCorner,2019,RightFoot,11667,Watford,West Ham,1,3,2019-08-24 15:00:00,,Rebound,6144
+315750,16,MissedShots,0.8859999847412109,0.5520000076293945,0.03254200145602226,Sébastien Haller,h,6144,FromCorner,2019,Head,11674,West Ham,Norwich,2,0,2019-08-31 15:00:00,Manuel Lanzini,Cross,6144
+315751,23,Goal,0.9430000305175781,0.524000015258789,0.6117849946022034,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11674,West Ham,Norwich,2,0,2019-08-31 15:00:00,Arthur Masuaku,Pass,6144
+315755,53,BlockedShot,0.8430000305175781,0.615,0.0806737020611763,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11674,West Ham,Norwich,2,0,2019-08-31 15:00:00,Felipe Anderson,Pass,6144
+315766,79,SavedShot,0.9540000152587891,0.38799999237060545,0.4061500132083893,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11674,West Ham,Norwich,2,0,2019-08-31 15:00:00,,Rebound,6144
+318436,20,MissedShots,0.9119999694824219,0.5109999847412109,0.058464400470256805,Sébastien Haller,a,6144,OpenPlay,2019,Head,11692,Aston Villa,West Ham,0,0,2019-09-16 19:00:00,Felipe Anderson,Aerial,6144
+318447,72,BlockedShot,0.875,0.4909999847412109,0.11664099991321564,Sébastien Haller,a,6144,OpenPlay,2019,LeftFoot,11692,Aston Villa,West Ham,0,0,2019-09-16 19:00:00,Ryan Fredericks,Pass,6144
+321027,37,BlockedShot,0.8119999694824219,0.5540000152587891,0.058496300131082535,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11700,West Ham,Manchester United,2,0,2019-09-22 13:00:00,Mark Noble,Pass,6144
+322597,48,SavedShot,0.9619999694824218,0.519000015258789,0.12118999660015106,Sébastien Haller,a,6144,OpenPlay,2019,RightFoot,11707,Bournemouth,West Ham,2,2,2019-09-28 14:00:00,,None,6144
+322603,60,MissedShots,0.9130000305175782,0.445,0.02371950075030327,Sébastien Haller,a,6144,FromCorner,2019,Head,11707,Bournemouth,West Ham,2,2,2019-09-28 14:00:00,Pablo Fornals,Aerial,6144
+324273,28,SavedShot,0.9419999694824219,0.48200000762939454,0.6061810255050659,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11720,West Ham,Crystal Palace,1,2,2019-10-05 17:30:00,Andriy Yarmolenko,Pass,6144
+324281,53,Goal,0.915,0.46700000762939453,0.14081799983978271,Sébastien Haller,h,6144,OpenPlay,2019,LeftFoot,11720,West Ham,Crystal Palace,1,2,2019-10-05 17:30:00,Ryan Fredericks,Pass,6144
+324285,68,BlockedShot,0.879000015258789,0.44599998474121094,0.08252079784870148,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11720,West Ham,Crystal Palace,1,2,2019-10-05 17:30:00,Ryan Fredericks,Cross,6144
+325318,47,SavedShot,0.885,0.4159999847412109,0.018687700852751732,Sébastien Haller,a,6144,OpenPlay,2019,Head,11727,Everton,West Ham,2,0,2019-10-19 12:30:00,Arthur Masuaku,Aerial,6144
+325329,83,BlockedShot,0.93,0.315,0.051137398928403854,Sébastien Haller,a,6144,OpenPlay,2019,RightFoot,11727,Everton,West Ham,2,0,2019-10-19 12:30:00,Angelo Ogbonna,BallTouch,6144
+329280,40,SavedShot,0.875999984741211,0.44599998474121094,0.05266210064291954,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Felipe Anderson,Cross,6144
+329287,52,MissedShots,0.895,0.37900001525878907,0.030727099627256393,Sébastien Haller,h,6144,OpenPlay,2019,Head,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,,Aerial,6144
+329291,65,MissedShots,0.9080000305175782,0.445,0.07541380077600479,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Felipe Anderson,Chipped,6144
+329293,70,MissedShots,0.8119999694824219,0.4909999847412109,0.07068320363759995,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,,TakeOn,6144
+329294,72,SavedShot,0.9519999694824218,0.575999984741211,0.09820640087127686,Sébastien Haller,h,6144,FromCorner,2019,Head,11752,West Ham,Newcastle United,2,3,2019-11-02 15:00:00,Felipe Anderson,Cross,6144
+330588,49,SavedShot,0.7719999694824219,0.64,0.023783700540661812,Sébastien Haller,a,6144,OpenPlay,2019,RightFoot,11753,Burnley,West Ham,3,0,2019-11-09 15:00:00,Robert Snodgrass,Pass,6144
+331910,7,MissedShots,0.9119999694824219,0.5270000076293946,0.05394810065627098,Sébastien Haller,h,6144,OpenPlay,2019,Head,11772,West Ham,Tottenham,2,3,2019-11-23 12:30:00,Ryan Fredericks,Aerial,6144
+331928,72,BlockedShot,0.894000015258789,0.5659999847412109,0.11868999898433685,Sébastien Haller,h,6144,OpenPlay,2019,LeftFoot,11772,West Ham,Tottenham,2,3,2019-11-23 12:30:00,Robert Snodgrass,Pass,6144
+331930,76,MissedShots,0.815,0.485,0.05701090022921562,Sébastien Haller,h,6144,OpenPlay,2019,LeftFoot,11772,West Ham,Tottenham,2,3,2019-11-23 12:30:00,Michail Antonio,Pass,6144
+331933,88,MissedShots,0.9019999694824219,0.49700000762939456,0.06877899914979935,Sébastien Haller,h,6144,FromCorner,2019,Head,11772,West Ham,Tottenham,2,3,2019-11-23 12:30:00,Robert Snodgrass,Cross,6144
+331934,90,SavedShot,0.9069999694824219,0.5209999847412109,0.05804929882287979,Sébastien Haller,h,6144,OpenPlay,2019,Head,11772,West Ham,Tottenham,2,3,2019-11-23 12:30:00,Robert Snodgrass,Aerial,6144
+337164,28,MissedShots,0.9309999847412109,0.46099998474121096,0.10818199813365936,Sébastien Haller,a,6144,FromCorner,2019,Head,11811,Southampton,West Ham,0,1,2019-12-14 17:30:00,Robert Snodgrass,Cross,6144
+337165,36,Goal,0.8780000305175781,0.5459999847412109,0.06998249888420105,Sébastien Haller,a,6144,OpenPlay,2019,LeftFoot,11811,Southampton,West Ham,0,1,2019-12-14 17:30:00,Pablo Fornals,HeadPass,6144
+337174,72,SavedShot,0.9030000305175782,0.48900001525878906,0.11628100275993347,Sébastien Haller,a,6144,OpenPlay,2019,LeftFoot,11811,Southampton,West Ham,0,1,2019-12-14 17:30:00,Declan Rice,Cross,6144
+337175,76,SavedShot,0.8930000305175781,0.485,0.04904549941420555,Sébastien Haller,a,6144,OpenPlay,2019,Head,11811,Southampton,West Ham,0,1,2019-12-14 17:30:00,Michail Antonio,Aerial,6144
+339560,72,MissedShots,0.8930000305175781,0.5429999923706055,0.023393500596284866,Sébastien Haller,a,6144,SetPiece,2019,Head,11826,Crystal Palace,West Ham,2,1,2019-12-26 15:00:00,Mark Noble,Aerial,6144
+339859,6,BlockedShot,0.745999984741211,0.5479999923706055,0.02358829975128174,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11842,West Ham,Leicester,1,2,2019-12-28 17:30:00,Declan Rice,Pass,6144
+339868,43,MissedShots,0.89,0.515,0.03056659922003746,Sébastien Haller,h,6144,OpenPlay,2019,Head,11842,West Ham,Leicester,1,2,2019-12-28 17:30:00,Declan Rice,Aerial,6144
+339871,48,MissedShots,0.9630000305175781,0.5820000076293945,0.11008399724960327,Sébastien Haller,h,6144,FromCorner,2019,RightFoot,11842,West Ham,Leicester,1,2,2019-12-28 17:30:00,,None,6144
+339870,48,BlockedShot,0.9619999694824218,0.5729999923706055,0.08868619799613953,Sébastien Haller,h,6144,FromCorner,2019,LeftFoot,11842,West Ham,Leicester,1,2,2019-12-28 17:30:00,Arthur Masuaku,End,6144
+351527,23,MissedShots,0.9340000152587891,0.3920000076293945,0.0558817982673645,Sébastien Haller,h,6144,FromCorner,2019,RightFoot,11843,West Ham,Bournemouth,4,0,2020-01-01 17:30:00,Robert Snodgrass,Cross,6144
+351528,25,Goal,0.9080000305175782,0.4379999923706055,0.1184459999203682,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11843,West Ham,Bournemouth,4,0,2020-01-01 17:30:00,Ryan Fredericks,Cross,6144
+351634,14,MissedShots,0.8919999694824219,0.7130000305175781,0.0665614977478981,Sébastien Haller,a,6144,OpenPlay,2019,RightFoot,11855,Sheffield United,West Ham,1,0,2020-01-10 20:00:00,Felipe Anderson,TakeOn,6144
+351652,87,MissedShots,0.935,0.435,0.2967129945755005,Sébastien Haller,a,6144,SetPiece,2019,Head,11855,Sheffield United,West Ham,1,0,2020-01-10 20:00:00,Robert Snodgrass,Cross,6144
+351917,18,MissedShots,0.9059999847412109,0.5209999847412109,0.05243860185146332,Sébastien Haller,h,6144,OpenPlay,2019,Head,11872,West Ham,Everton,1,1,2020-01-18 15:00:00,Mark Noble,Aerial,6144
+351918,24,SavedShot,0.9490000152587891,0.34,0.27440300583839417,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11872,West Ham,Everton,1,1,2020-01-18 15:00:00,Mark Noble,Pass,6144
+351921,32,MissedShots,0.9319999694824219,0.515,0.44191300868988037,Sébastien Haller,h,6144,OpenPlay,2019,Head,11872,West Ham,Everton,1,1,2020-01-18 15:00:00,Aaron Cresswell,Aerial,6144
+351930,55,BlockedShot,0.8859999847412109,0.66,0.05806029960513115,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11872,West Ham,Everton,1,1,2020-01-18 15:00:00,,None,6144
+351932,59,SavedShot,0.8719999694824219,0.5270000076293946,0.04510039836168289,Sébastien Haller,h,6144,OpenPlay,2019,Head,11872,West Ham,Everton,1,1,2020-01-18 15:00:00,Aaron Cresswell,Cross,6144
+353161,74,SavedShot,0.8669999694824219,0.3340000152587891,0.08444040268659592,Sébastien Haller,a,6144,OpenPlay,2019,RightFoot,11911,Liverpool,West Ham,3,2,2020-02-24 20:00:00,Michail Antonio,Pass,6144
+353294,18,SavedShot,0.9130000305175782,0.5070000076293946,0.1256529986858368,Sébastien Haller,h,6144,OpenPlay,2019,Head,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Michail Antonio,Cross,6144
+353301,39,Goal,0.9930000305175781,0.4370000076293945,0.5951560139656067,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,Michail Antonio,Aerial,6144
+353308,62,MissedShots,0.9019999694824219,0.44,0.037066999822854996,Sébastien Haller,h,6144,OpenPlay,2019,Head,11922,West Ham,Southampton,3,1,2020-02-29 15:00:00,,Aerial,6144
+353513,82,SavedShot,0.95,0.39799999237060546,0.08212819695472717,Sébastien Haller,a,6144,OpenPlay,2019,RightFoot,11923,Arsenal,West Ham,1,0,2020-03-07 15:00:00,Jarrod Bowen,Cross,6144
+369671,61,SavedShot,0.9,0.44299999237060544,0.3884179890155792,Sébastien Haller,h,6144,OpenPlay,2019,LeftFoot,11982,West Ham,Burnley,0,1,2020-07-08 17:00:00,Michail Antonio,Rebound,6144
+372283,72,SavedShot,0.735,0.7569999694824219,0.012854199856519699,Sébastien Haller,h,6144,OpenPlay,2019,RightFoot,12001,West Ham,Watford,3,1,2020-07-17 19:00:00,,None,6144
+373819,58,BlockedShot,0.914000015258789,0.5279999923706055,0.06005270034074783,Sébastien Haller,h,6144,OpenPlay,2019,Head,12013,West Ham,Aston Villa,1,1,2020-07-26 15:00:00,,None,6144
+373822,71,MissedShots,0.909000015258789,0.5320000076293945,0.05380040034651756,Sébastien Haller,h,6144,OpenPlay,2019,Head,12013,West Ham,Aston Villa,1,1,2020-07-26 15:00:00,Mark Noble,Aerial,6144
+376662,67,MissedShots,0.955,0.4109999847412109,0.12294899672269821,Sébastien Haller,h,6144,FromCorner,2020,RightFoot,14091,West Ham,Newcastle United,0,2,2020-09-12 19:00:00,,Rebound,6144
+376669,83,SavedShot,0.9230000305175782,0.40900001525878904,0.020549599081277847,Sébastien Haller,h,6144,FromCorner,2020,Head,14091,West Ham,Newcastle United,0,2,2020-09-12 19:00:00,Ryan Fredericks,Aerial,6144
+379809,92,Goal,0.9319999694824219,0.46,0.1302659958600998,Sébastien Haller,h,6144,OpenPlay,2020,Head,14113,West Ham,Wolverhampton Wanderers,4,0,2020-09-27 18:00:00,Arthur Masuaku,Cross,6144
+386202,6,ShotOnPost,0.9519999694824218,0.52,0.08010710030794144,Sébastien Haller,h,6144,FromCorner,2020,Head,14514,West Ham,Fulham,1,0,2020-11-07 20:00:00,Aaron Cresswell,Aerial,6144
+386204,9,SavedShot,0.8819999694824219,0.500999984741211,0.03162509948015213,Sébastien Haller,h,6144,OpenPlay,2020,Head,14514,West Ham,Fulham,1,0,2020-11-07 20:00:00,Vladimir Coufal,Aerial,6144
+386219,86,MissedShots,0.9309999847412109,0.5820000076293945,0.06605889648199081,Sébastien Haller,h,6144,FromCorner,2020,Head,14514,West Ham,Fulham,1,0,2020-11-07 20:00:00,Aaron Cresswell,Cross,6144
+387840,51,SavedShot,0.9519999694824218,0.53,0.12899500131607056,Sébastien Haller,a,6144,OpenPlay,2020,RightFoot,14522,Sheffield United,West Ham,0,1,2020-11-22 14:00:00,Declan Rice,Chipped,6144
+387842,55,Goal,0.8190000152587891,0.47299999237060547,0.044046301394701004,Sébastien Haller,a,6144,OpenPlay,2020,RightFoot,14522,Sheffield United,West Ham,0,1,2020-11-22 14:00:00,,Rebound,6144
+387846,69,MissedShots,0.9540000152587891,0.5359999847412109,0.6423310041427612,Sébastien Haller,a,6144,OpenPlay,2020,RightFoot,14522,Sheffield United,West Ham,0,1,2020-11-22 14:00:00,Arthur Masuaku,Pass,6144
+387850,80,BlockedShot,0.899000015258789,0.5,0.14336100220680237,Sébastien Haller,a,6144,OpenPlay,2020,RightFoot,14522,Sheffield United,West Ham,0,1,2020-11-22 14:00:00,Vladimir Coufal,Pass,6144
+390365,42,MissedShots,0.914000015258789,0.595999984741211,0.03344679996371269,Sébastien Haller,h,6144,OpenPlay,2020,Head,14544,West Ham,Manchester United,1,3,2020-12-05 17:30:00,Vladimir Coufal,Aerial,6144
+390367,46,MissedShots,0.9,0.425,0.10377100110054016,Sébastien Haller,h,6144,OpenPlay,2020,RightFoot,14544,West Ham,Manchester United,1,3,2020-12-05 17:30:00,Jarrod Bowen,Cross,6144
+390376,70,BlockedShot,0.8730000305175781,0.5109999847412109,0.013115700334310532,Sébastien Haller,h,6144,SetPiece,2020,Head,14544,West Ham,Manchester United,1,3,2020-12-05 17:30:00,Aaron Cresswell,Aerial,6144
+391312,9,SavedShot,0.909000015258789,0.52,0.04534120112657547,Sébastien Haller,a,6144,OpenPlay,2020,Head,14548,Leeds,West Ham,1,2,2020-12-11 20:00:00,Tomas Soucek,HeadPass,6144
+391314,11,SavedShot,0.889000015258789,0.47900001525878905,0.09966970235109329,Sébastien Haller,a,6144,OpenPlay,2020,RightFoot,14548,Leeds,West Ham,1,2,2020-12-11 20:00:00,Jarrod Bowen,Pass,6144
+391326,52,BlockedShot,0.91,0.4859999847412109,0.10618399828672409,Sébastien Haller,a,6144,OpenPlay,2020,RightFoot,14548,Leeds,West Ham,1,2,2020-12-11 20:00:00,Jarrod Bowen,Cross,6144
+391327,53,SavedShot,0.9069999694824219,0.49700000762939456,0.039489999413490295,Sébastien Haller,a,6144,FromCorner,2020,Head,14548,Leeds,West Ham,1,2,2020-12-11 20:00:00,Angelo Ogbonna,Aerial,6144
+391340,86,SavedShot,0.8980000305175782,0.47099998474121096,0.12121500074863434,Sébastien Haller,a,6144,OpenPlay,2020,RightFoot,14548,Leeds,West Ham,1,2,2020-12-11 20:00:00,,None,6144
+393486,54,Goal,0.9119999694824219,0.5070000076293946,0.10678400099277496,Sébastien Haller,h,6144,OpenPlay,2020,RightFoot,14561,West Ham,Crystal Palace,1,1,2020-12-16 20:00:00,Vladimir Coufal,Cross,6144
+393488,76,MissedShots,0.9009999847412109,0.4779999923706055,0.09518139809370041,Sébastien Haller,h,6144,OpenPlay,2020,Head,14561,West Ham,Crystal Palace,1,1,2020-12-16 20:00:00,Vladimir Coufal,Cross,6144
+393490,92,MissedShots,0.9009999847412109,0.4520000076293945,0.07450450211763382,Sébastien Haller,h,6144,OpenPlay,2020,Head,14561,West Ham,Crystal Palace,1,1,2020-12-16 20:00:00,Vladimir Coufal,Cross,6144
+394884,47,MissedShots,0.9119999694824219,0.515,0.0404651015996933,Sébastien Haller,a,6144,OpenPlay,2020,Head,14567,Chelsea,West Ham,3,0,2020-12-21 20:00:00,Aaron Cresswell,Aerial,6144
+395770,46,SavedShot,0.905,0.5570000076293945,0.06827110052108765,Sébastien Haller,h,6144,OpenPlay,2020,Head,14583,West Ham,Brighton,2,2,2020-12-27 14:15:00,Declan Rice,Cross,6144
+395906,25,MissedShots,0.889000015258789,0.49700000762939456,0.08187960088253021,Sébastien Haller,a,6144,SetPiece,2020,RightFoot,14588,Southampton,West Ham,0,0,2020-12-29 18:00:00,,None,6144
+396219,23,MissedShots,0.955999984741211,0.49900001525878906,0.1150600016117096,Sébastien Haller,a,6144,FromCorner,2020,Head,14595,Everton,West Ham,0,1,2021-01-01 17:30:00,,Aerial,6144
+506981,50,Goal,0.925,0.49599998474121093,0.357463002204895,Sébastien Haller,h,6144,FromCorner,2022,Head,19504,Borussia Dortmund,Freiburg,5,1,2023-02-04 14:30:00,Raphael Guerreiro,Cross,6144
+506984,53,BlockedShot,0.8680000305175781,0.5590000152587891,0.1051580011844635,Sébastien Haller,h,6144,OpenPlay,2022,RightFoot,19504,Borussia Dortmund,Freiburg,5,1,2023-02-04 14:30:00,Nico Schlotterbeck,Foul,6144
+506985,54,BlockedShot,0.8980000305175782,0.4620000076293945,0.05998289957642555,Sébastien Haller,h,6144,FromCorner,2022,Head,19504,Borussia Dortmund,Freiburg,5,1,2023-02-04 14:30:00,Julian Brandt,Cross,6144
+508278,86,SavedShot,0.9819999694824219,0.5879999923706055,0.35268598794937134,Sébastien Haller,a,6144,OpenPlay,2022,RightFoot,19521,Werder Bremen,Borussia Dortmund,0,2,2023-02-11 14:30:00,Jude Bellingham,Cross,6144
+510729,32,SavedShot,0.865999984741211,0.5970000076293945,0.07747829705476761,Sébastien Haller,a,6144,OpenPlay,2022,LeftFoot,19536,Hoffenheim,Borussia Dortmund,0,1,2023-02-25 14:30:00,,Dispossessed,6144
+510731,33,SavedShot,0.960999984741211,0.549000015258789,0.5926290154457092,Sébastien Haller,a,6144,FromCorner,2022,RightFoot,19536,Hoffenheim,Borussia Dortmund,0,1,2023-02-25 14:30:00,Nico Schlotterbeck,Rebound,6144
+510736,40,MissedShots,0.915,0.549000015258789,0.08179879933595657,Sébastien Haller,a,6144,FromCorner,2022,Head,19536,Hoffenheim,Borussia Dortmund,0,1,2023-02-25 14:30:00,Julian Brandt,Cross,6144
+513714,17,BlockedShot,0.9719999694824218,0.445,0.12832799553871155,Sébastien Haller,a,6144,OpenPlay,2022,RightFoot,19556,Schalke 04,Borussia Dortmund,2,2,2023-03-11 17:30:00,,Clearance,6144
+515236,16,Goal,0.9059999847412109,0.5420000076293945,0.4768249988555908,Sébastien Haller,h,6144,OpenPlay,2022,LeftFoot,19558,Borussia Dortmund,FC Cologne,6,1,2023-03-18 17:30:00,Raphael Guerreiro,Pass,6144
+515250,68,Goal,0.97,0.5020000076293946,0.8481559753417969,Sébastien Haller,h,6144,SetPiece,2022,RightFoot,19558,Borussia Dortmund,FC Cologne,6,1,2023-03-18 17:30:00,,Rebound,6144
+516614,49,SavedShot,0.9309999847412109,0.485,0.3605549931526184,Sébastien Haller,a,6144,OpenPlay,2022,RightFoot,19574,Bayern Munich,Borussia Dortmund,4,2,2023-04-01 16:30:00,Marius Wolf,Cross,6144
+517958,35,SavedShot,0.8830000305175781,0.524000015258789,0.04195670038461685,Sébastien Haller,h,6144,OpenPlay,2022,Head,19576,Borussia Dortmund,Union Berlin,2,1,2023-04-08 13:30:00,Donyell Malen,Aerial,6144
+517961,42,SavedShot,0.9730000305175781,0.4420000076293945,0.5133619904518127,Sébastien Haller,h,6144,OpenPlay,2022,Head,19576,Borussia Dortmund,Union Berlin,2,1,2023-04-08 13:30:00,Raphael Guerreiro,Chipped,6144
+517971,72,SavedShot,0.9259999847412109,0.5220000076293946,0.11313799768686295,Sébastien Haller,h,6144,FromCorner,2022,Head,19576,Borussia Dortmund,Union Berlin,2,1,2023-04-08 13:30:00,Julian Brandt,Cross,6144
+519314,9,SavedShot,0.875999984741211,0.42200000762939455,0.09756039828062057,Sébastien Haller,a,6144,OpenPlay,2022,LeftFoot,19591,VfB Stuttgart,Borussia Dortmund,3,3,2023-04-15 13:30:00,Raphael Guerreiro,Pass,6144
+519318,25,Goal,0.9319999694824219,0.41900001525878905,0.33612000942230225,Sébastien Haller,a,6144,OpenPlay,2022,RightFoot,19591,VfB Stuttgart,Borussia Dortmund,3,3,2023-04-15 13:30:00,Donyell Malen,Cross,6144
+521055,56,MissedShots,0.9059999847412109,0.4929999923706055,0.030048413202166557,Sébastien Haller,h,6144,FromCorner,2022,Head,19594,Borussia Dortmund,Eintracht Frankfurt,4,0,2023-04-22 16:30:00,Julian Brandt,Aerial,6144
+522459,6,MissedShots,0.9359999847412109,0.4620000076293945,0.5363259315490723,Sébastien Haller,a,6144,OpenPlay,2022,RightFoot,19609,Bochum,Borussia Dortmund,1,1,2023-04-28 18:30:00,Donyell Malen,Pass,6144
+525177,27,Goal,0.9630000305175781,0.4879999923706055,0.7282813787460327,Sébastien Haller,h,6144,OpenPlay,2022,RightFoot,19612,Borussia Dortmund,Wolfsburg,6,0,2023-05-07 15:30:00,Karim Adeyemi,Pass,6144
+525184,52,BlockedShot,0.899000015258789,0.415,0.1572870910167694,Sébastien Haller,h,6144,OpenPlay,2022,RightFoot,19612,Borussia Dortmund,Wolfsburg,6,0,2023-05-07 15:30:00,Karim Adeyemi,Throughball,6144
+526190,4,BlockedShot,0.8490000152587891,0.4229999923706055,0.11234566569328308,Sébastien Haller,h,6144,OpenPlay,2022,RightFoot,19622,Borussia Dortmund,Borussia M.Gladbach,5,2,2023-05-13 16:30:00,Julian Ryerson,TakeOn,6144
+526193,10,MissedShots,0.8640000152587891,0.5779999923706055,0.027948416769504547,Sébastien Haller,h,6144,SetPiece,2022,RightFoot,19622,Borussia Dortmund,Borussia M.Gladbach,5,2,2023-05-13 16:30:00,Julian Brandt,Cross,6144
+526197,15,MissedShots,0.955,0.5729999923706055,0.56406569480896,Sébastien Haller,h,6144,OpenPlay,2022,LeftFoot,19622,Borussia Dortmund,Borussia M.Gladbach,5,2,2023-05-13 16:30:00,,None,6144
+526199,19,Goal,0.9430000305175781,0.45799999237060546,0.6070721745491028,Sébastien Haller,h,6144,OpenPlay,2022,RightFoot,19622,Borussia Dortmund,Borussia M.Gladbach,5,2,2023-05-13 16:30:00,Donyell Malen,Pass,6144
+526203,31,Goal,0.889000015258789,0.47400001525878904,0.12613555788993835,Sébastien Haller,h,6144,OpenPlay,2022,RightFoot,19622,Borussia Dortmund,Borussia M.Gladbach,5,2,2023-05-13 16:30:00,Donyell Malen,Cross,6144
+528146,10,BlockedShot,0.9,0.485,0.06693793088197708,Sébastien Haller,a,6144,FromCorner,2022,Head,19635,Augsburg,Borussia Dortmund,0,3,2023-05-21 15:30:00,Raphael Guerreiro,Cross,6144
+528148,19,SavedShot,0.88,0.5379999923706055,0.11436130851507187,Sébastien Haller,a,6144,OpenPlay,2022,RightFoot,19635,Augsburg,Borussia Dortmund,0,3,2023-05-21 15:30:00,Julian Brandt,Pass,6144
+528166,57,Goal,0.924000015258789,0.34799999237060547,0.31487083435058594,Sébastien Haller,a,6144,OpenPlay,2022,RightFoot,19635,Augsburg,Borussia Dortmund,0,3,2023-05-21 15:30:00,,None,6144
+528170,81,MissedShots,0.9059999847412109,0.5320000076293945,0.05973000451922417,Sébastien Haller,a,6144,OpenPlay,2022,Head,19635,Augsburg,Borussia Dortmund,0,3,2023-05-21 15:30:00,Marius Wolf,Aerial,6144
+528173,83,Goal,0.945,0.545,0.6021305918693542,Sébastien Haller,a,6144,OpenPlay,2022,LeftFoot,19635,Augsburg,Borussia Dortmund,0,3,2023-05-21 15:30:00,,Rebound,6144
+528873,6,BlockedShot,0.8090000152587891,0.519000015258789,0.04843161627650261,Sébastien Haller,h,6144,OpenPlay,2022,RightFoot,19639,Borussia Dortmund,Mainz 05,2,2,2023-05-27 13:30:00,Mats Hummels,Pass,6144
+528877,18,SavedShot,0.885,0.5,0.75777667760849,Sébastien Haller,h,6144,Penalty,2022,RightFoot,19639,Borussia Dortmund,Mainz 05,2,2,2023-05-27 13:30:00,,Standard,6144
+528892,58,MissedShots,0.9819999694824219,0.5670000076293945,0.36625006794929504,Sébastien Haller,h,6144,OpenPlay,2022,RightFoot,19639,Borussia Dortmund,Mainz 05,2,2,2023-05-27 13:30:00,Youssoufa Moukoko,Cross,6144
+528901,75,SavedShot,0.9469999694824218,0.57,0.0484430268406868,Sébastien Haller,h,6144,OpenPlay,2022,Head,19639,Borussia Dortmund,Mainz 05,2,2,2023-05-27 13:30:00,Julien Duranville,Aerial,6144
+533408,30,BlockedShot,0.9169999694824219,0.5659999847412109,0.023955758661031723,Sébastien Haller,h,6144,FromCorner,2023,Head,23071,Borussia Dortmund,FC Cologne,1,0,2023-08-19 16:30:00,Julian Brandt,Aerial,6144
+534575,5,SavedShot,0.915,0.5479999923706055,0.050285737961530685,Sébastien Haller,a,6144,OpenPlay,2023,Head,23077,Bochum,Borussia Dortmund,1,1,2023-08-26 13:30:00,Julian Brandt,Aerial,6144
+534596,58,MissedShots,0.9290000152587891,0.5279999923706055,0.13892307877540588,Sébastien Haller,a,6144,FromCorner,2023,RightFoot,23077,Bochum,Borussia Dortmund,1,1,2023-08-26 13:30:00,Donyell Malen,Rebound,6144
+537544,9,MissedShots,0.9069999694824219,0.544000015258789,0.10119763016700745,Sébastien Haller,a,6144,OpenPlay,2023,LeftFoot,23094,Freiburg,Borussia Dortmund,2,4,2023-09-16 13:30:00,Karim Adeyemi,CornerAwarded,6144
+537558,47,BlockedShot,0.8630000305175781,0.495,0.09038640558719635,Sébastien Haller,a,6144,OpenPlay,2023,RightFoot,23094,Freiburg,Borussia Dortmund,2,4,2023-09-16 13:30:00,Donyell Malen,Pass,6144
+543610,91,BlockedShot,0.9130000305175782,0.4490000152587891,0.12381938099861145,Sébastien Haller,h,6144,OpenPlay,2023,RightFoot,23128,Borussia Dortmund,Werder Bremen,1,0,2023-10-20 18:30:00,Giovanni Reyna,Cross,6144
+572598,96,SavedShot,0.905,0.485,0.0281125046312809,Sébastien Haller,h,6144,FromCorner,2023,Head,23308,Borussia Dortmund,VfB Stuttgart,0,1,2024-04-06 16:30:00,Jadon Sancho,Aerial,6144
+591902,12,MissedShots,0.8780000305175781,0.53,0.029080726206302643,Sébastien Haller,h,6144,OpenPlay,2024,Head,27047,Leganes,Athletic Club,0,2,2024-09-19 17:00:00,Valentin Rosier,Aerial,6144
+591905,21,SavedShot,0.8619999694824219,0.5279999923706055,0.132889524102211,Sébastien Haller,h,6144,OpenPlay,2024,LeftFoot,27047,Leganes,Athletic Club,0,2,2024-09-19 17:00:00,,Rebound,6144
+594213,52,MissedShots,0.875,0.555,0.0950646623969078,Sébastien Haller,a,6144,OpenPlay,2024,LeftFoot,27060,Rayo Vallecano,Leganes,1,1,2024-09-28 14:15:00,Javi Hernández,Pass,6144
+595177,12,BlockedShot,0.9069999694824219,0.46299999237060546,0.10114327818155289,Sébastien Haller,h,6144,SetPiece,2024,Head,27065,Leganes,Valencia,0,0,2024-10-04 19:00:00,Roberto López,Cross,6144

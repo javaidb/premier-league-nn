@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,1,Sub,Aston Villa,Bournemouth,1,2,2016-04-09,398,2015,66621,0,0,0,0,0,0,0,471
+0,0,0,1,Sub,Swansea,Bournemouth,2,2,2015-11-21,202,2015,60714,0,0,0,0,0,0,0,471
+0,0,0,22,Sub,Manchester City,Bournemouth,5,1,2015-10-17,167,2015,65036,0,0,0,0,0,0,0,471

@@ -1,0 +1,27 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+15019,56,SavedShot,0.7619999694824219,0.5209999847412109,0.03372110053896904,Martin Kelly,a,525,OpenPlay,2014,RightFoot,4771,Newcastle United,Crystal Palace,3,3,2014-08-30 15:00:00,Joel Ward,Pass,525
+15030,82,MissedShots,0.7559999847412109,0.72,0.009306229650974274,Martin Kelly,a,525,OpenPlay,2014,RightFoot,4771,Newcastle United,Crystal Palace,3,3,2014-08-30 15:00:00,Glenn Murray,TakeOn,525
+16367,9,MissedShots,0.75,0.30700000762939456,0.016977600753307343,Martin Kelly,h,525,OpenPlay,2014,LeftFoot,4676,Crystal Palace,Liverpool,3,1,2014-11-23 13:30:00,Jason Puncheon,Pass,525
+18424,92,SavedShot,0.7530000305175781,0.6909999847412109,0.013982400298118591,Martin Kelly,a,525,OpenPlay,2014,RightFoot,4681,Swansea,Crystal Palace,1,1,2014-11-29 15:00:00,Yannick Bolasie,Pass,525
+19310,29,SavedShot,0.765,0.23100000381469726,0.012074099853634834,Martin Kelly,h,525,OpenPlay,2014,LeftFoot,4593,Crystal Palace,Aston Villa,0,1,2014-12-02 20:00:00,Yannick Bolasie,Pass,525
+17938,3,BlockedShot,0.7769999694824219,0.48200000762939454,0.03234529867768288,Martin Kelly,h,525,OpenPlay,2014,RightFoot,4611,Crystal Palace,Stoke,1,1,2014-12-13 15:00:00,,None,525
+19343,78,MissedShots,0.7730000305175782,0.7090000152587891,0.02181600034236908,Martin Kelly,a,525,OpenPlay,2014,RightFoot,4557,Aston Villa,Crystal Palace,0,0,2015-01-01 15:00:00,Dwight Gayle,Pass,525
+17697,46,MissedShots,0.7930000305175782,0.76,0.01347730029374361,Martin Kelly,h,525,OpenPlay,2014,RightFoot,4568,Crystal Palace,Tottenham,2,1,2015-01-10 17:30:00,Dwight Gayle,Pass,525
+20453,78,SavedShot,0.749000015258789,0.669000015258789,0.012289400212466717,Martin Kelly,a,525,OpenPlay,2014,RightFoot,4484,Southampton,Crystal Palace,1,0,2015-03-03 19:45:00,,Rebound,525
+20996,65,MissedShots,0.8009999847412109,0.715,0.021427499130368233,Martin Kelly,a,525,OpenPlay,2014,RightFoot,4452,Sunderland,Crystal Palace,1,4,2015-04-11 15:00:00,,None,525
+58320,66,BlockedShot,0.7330000305175781,0.415,0.014624600298702717,Martin Kelly,a,525,OpenPlay,2015,RightFoot,138,Tottenham,Crystal Palace,1,0,2015-09-20 16:30:00,Yohan Cabaye,Pass,525
+119518,64,ShotOnPost,0.9469999694824218,0.39599998474121095,0.08164440095424652,Martin Kelly,a,525,SetPiece,2016,RightFoot,3447,Southampton,Crystal Palace,3,1,2017-04-05 19:45:00,Christian Benteke,HeadPass,525
+119801,28,BlockedShot,0.9130000305175782,0.5179999923706055,0.09897279739379883,Martin Kelly,h,525,SetPiece,2016,LeftFoot,3459,Crystal Palace,Arsenal,3,0,2017-04-10 20:00:00,Mamadou Sakho,HeadPass,525
+119216,87,BlockedShot,0.9159999847412109,0.42700000762939455,0.057903699576854706,Martin Kelly,h,525,FromCorner,2016,Head,3415,Crystal Palace,Tottenham,0,1,2017-04-26 20:00:00,Andros Townsend,Cross,525
+159329,45,SavedShot,0.9440000152587891,0.5309999847412109,0.12427999824285507,Martin Kelly,h,525,FromCorner,2017,Head,7141,Crystal Palace,Swansea,0,2,2017-08-26 15:00:00,Jason Puncheon,Cross,525
+187386,41,BlockedShot,0.8269999694824218,0.5329999923706055,0.052324600517749786,Martin Kelly,h,525,SetPiece,2017,LeftFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,,None,525
+187387,42,BlockedShot,0.950999984741211,0.7030000305175781,0.050181299448013306,Martin Kelly,h,525,SetPiece,2017,RightFoot,7341,Crystal Palace,Burnley,1,0,2018-01-13 15:00:00,,BlockedPass,525
+188729,48,SavedShot,0.9319999694824219,0.4520000076293945,0.11496499925851822,Martin Kelly,a,525,FromCorner,2017,RightFoot,7349,Arsenal,Crystal Palace,4,1,2018-01-20 15:00:00,,None,525
+194116,54,MissedShots,0.8980000305175782,0.3579999923706055,0.008069150149822235,Martin Kelly,a,525,SetPiece,2017,Head,7360,West Ham,Crystal Palace,1,1,2018-01-30 19:45:00,Patrick van Aanholt,Aerial,525
+200145,31,OwnGoal,0.02,0.49900001525878906,0,Martin Kelly,a,525,OpenPlay,2017,LeftFoot,7411,Chelsea,Crystal Palace,2,1,2018-03-10 17:30:00,,Save,525
+275434,53,MissedShots,0.8859999847412109,0.45799999237060546,0.13307900726795197,Martin Kelly,h,525,SetPiece,2018,Head,9448,Crystal Palace,West Ham,1,1,2019-02-09 15:00:00,Patrick van Aanholt,Cross,525
+295953,11,MissedShots,0.9540000152587891,0.544000015258789,0.5792760252952576,Martin Kelly,a,525,FromCorner,2018,RightFoot,9546,Arsenal,Crystal Palace,2,3,2019-04-21 16:00:00,Scott Dann,Rebound,525
+299479,2,SavedShot,0.9319999694824219,0.5420000076293945,0.05429619923233986,Martin Kelly,a,525,FromCorner,2018,Head,9564,Cardiff,Crystal Palace,2,3,2019-05-04 16:30:00,Andros Townsend,Aerial,525
+299486,30,OwnGoal,0.12699999809265136,0.52,0,Martin Kelly,a,525,OpenPlay,2018,LeftFoot,9564,Cardiff,Crystal Palace,2,3,2019-05-04 16:30:00,,None,525
+337957,86,MissedShots,0.9069999694824219,0.2610000038146973,0.0362371988594532,Martin Kelly,h,525,OpenPlay,2019,RightFoot,11806,Crystal Palace,Brighton,1,1,2019-12-16 19:45:00,Wilfried Zaha,Pass,525
+339787,38,MissedShots,0.7880000305175782,0.34200000762939453,0.02473519928753376,Martin Kelly,a,525,OpenPlay,2019,RightFoot,11840,Southampton,Crystal Palace,1,1,2019-12-28 15:00:00,Wilfried Zaha,Pass,525

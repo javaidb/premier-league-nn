@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+194190,84,OwnGoal,0.00699999988079071,0.5070000076293946,0,Karl Darlow,h,780,FromCorner,2017,Head,7364,Newcastle United,Burnley,1,1,2018-01-31 19:45:00,,End,780

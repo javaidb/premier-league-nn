@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14668,87,SavedShot,0.8819999694824219,0.6430000305175781,0.11757300049066544,Siem de Jong,a,774,OpenPlay,2014,RightFoot,4759,Aston Villa,Newcastle United,0,0,2014-08-23 12:45:00,Ayoze Pérez,Throughball,774
+15021,67,BlockedShot,0.74,0.5179999923706055,0.021219400689005852,Siem de Jong,h,774,OpenPlay,2014,RightFoot,4771,Newcastle United,Crystal Palace,3,3,2014-08-30 15:00:00,Daryl Janmaat,Pass,774
+22818,86,Goal,0.925,0.42900001525878906,0.27610498666763306,Siem de Jong,h,774,OpenPlay,2014,RightFoot,4470,Newcastle United,Swansea,2,3,2015-04-25 15:00:00,Jack Colback,Cross,774
+22819,93,MissedShots,0.8669999694824219,0.245,0.02824220061302185,Siem de Jong,h,774,OpenPlay,2014,RightFoot,4470,Newcastle United,Swansea,2,3,2015-04-25 15:00:00,Adam Armstrong,HeadPass,774
+21179,87,MissedShots,0.8619999694824219,0.30100000381469727,0.028707899153232574,Siem de Jong,a,774,OpenPlay,2014,RightFoot,4399,Leicester,Newcastle United,3,0,2015-05-02 12:45:00,Adam Armstrong,Pass,774
+58043,80,SavedShot,0.8430000305175781,0.5279999923706055,0.05341999977827072,Siem de Jong,a,774,OpenPlay,2015,LeftFoot,130,West Ham,Newcastle United,2,0,2015-09-14 23:00:00,,None,774
+58214,68,MissedShots,0.904000015258789,0.5129999923706055,0.07352740317583084,Siem de Jong,h,774,OpenPlay,2015,Head,132,Newcastle United,Watford,1,2,2015-09-19 18:00:00,Daryl Janmaat,Cross,774
+58217,78,SavedShot,0.845,0.4470000076293945,0.07528209686279297,Siem de Jong,h,774,OpenPlay,2015,RightFoot,132,Newcastle United,Watford,1,2,2015-09-19 18:00:00,Georginio Wijnaldum,Pass,774
+56033,71,BlockedShot,0.860999984741211,0.539000015258789,0.04301819950342178,Siem de Jong,a,774,OpenPlay,2015,LeftFoot,214,Crystal Palace,Newcastle United,5,1,2015-11-28 19:00:00,,Aerial,774
+55090,4,BlockedShot,0.8619999694824219,0.41,0.09377080202102661,Siem de Jong,a,774,OpenPlay,2015,LeftFoot,239,Tottenham,Newcastle United,1,2,2015-12-13 20:00:00,Papiss Demba Cissé,Pass,774
+52272,56,MissedShots,0.9730000305175781,0.4329999923706055,0.4874899983406067,Siem de Jong,h,774,OpenPlay,2015,Head,247,Newcastle United,Aston Villa,1,1,2015-12-19 21:30:00,Georginio Wijnaldum,Cross,774
+54890,93,SavedShot,0.865,0.38599998474121094,0.053653400391340256,Siem de Jong,a,774,OpenPlay,2015,RightFoot,273,Arsenal,Newcastle United,1,0,2016-01-02 19:00:00,Florian Thauvin,Cross,774
+60965,84,MissedShots,0.85,0.43900001525878907,0.0809255987405777,Siem de Jong,a,774,OpenPlay,2015,LeftFoot,373,Leicester,Newcastle United,1,0,2016-03-14 00:00:00,Aleksandar Mitrovic,LayOff,774

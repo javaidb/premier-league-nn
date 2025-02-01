@@ -1,0 +1,24 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+589167,66,SavedShot,0.750999984741211,0.35200000762939454,0.022480173036456108,Tyler Dibling,a,10586,OpenPlay,2024,LeftFoot,26623,Brentford,Southampton,3,1,2024-08-31 14:00:00,Joe Ayodele-Aribo,TakeOn,10586
+589170,77,MissedShots,0.745999984741211,0.395,0.014249701052904129,Tyler Dibling,a,10586,OpenPlay,2024,LeftFoot,26623,Brentford,Southampton,3,1,2024-08-31 14:00:00,Yukinari Sugawara,TakeOn,10586
+590469,6,SavedShot,0.8680000305175781,0.28899999618530275,0.03929006680846214,Tyler Dibling,h,10586,OpenPlay,2024,LeftFoot,26632,Southampton,Manchester United,0,3,2024-09-14 11:30:00,Yukinari Sugawara,Pass,10586
+592345,4,Goal,0.9109999847412109,0.48200000762939454,0.4789488911628723,Tyler Dibling,h,10586,OpenPlay,2024,LeftFoot,26643,Southampton,Ipswich,1,1,2024-09-21 14:00:00,Adam Lallana,Pass,10586
+595020,1,BlockedShot,0.88,0.27,0.049311429262161255,Tyler Dibling,a,10586,OpenPlay,2024,LeftFoot,26661,Bournemouth,Southampton,3,1,2024-09-30 19:00:00,Flynn Downes,TakeOn,10586
+595533,48,BlockedShot,0.9059999847412109,0.3170000076293945,0.0684124007821083,Tyler Dibling,a,10586,OpenPlay,2024,LeftFoot,26666,Arsenal,Southampton,3,1,2024-10-05 14:00:00,Taylor Harwood-Bellis,TakeOn,10586
+595543,77,BlockedShot,0.7219999694824218,0.5429999923706055,0.016695965081453323,Tyler Dibling,a,10586,OpenPlay,2024,LeftFoot,26666,Arsenal,Southampton,3,1,2024-10-05 14:00:00,Flynn Downes,Pass,10586
+597118,62,SavedShot,0.870999984741211,0.3220000076293945,0.068446584045887,Tyler Dibling,h,10586,OpenPlay,2024,LeftFoot,26678,Southampton,Leicester,2,3,2024-10-19 14:00:00,Taylor Harwood-Bellis,Pass,10586
+601503,58,MissedShots,0.845,0.2670000076293945,0.06133110448718071,Tyler Dibling,a,10586,OpenPlay,2024,LeftFoot,26711,Wolverhampton Wanderers,Southampton,2,0,2024-11-09 15:00:00,Mateus Fernandes,Pass,10586
+603461,52,MissedShots,0.765,0.56,0.02889833226799965,Tyler Dibling,h,10586,OpenPlay,2024,LeftFoot,26721,Southampton,Liverpool,2,3,2024-11-24 14:00:00,Ryan Fraser,Pass,10586
+603829,79,SavedShot,0.8959999847412109,0.2979999923706055,0.05378424748778343,Tyler Dibling,a,10586,OpenPlay,2024,LeftFoot,26723,Brighton,Southampton,1,1,2024-11-29 20:00:00,Joe Ayodele-Aribo,TakeOn,10586
+603830,82,BlockedShot,0.7709999847412109,0.47900001525878905,0.02077746018767357,Tyler Dibling,a,10586,SetPiece,2024,LeftFoot,26723,Brighton,Southampton,1,1,2024-11-29 20:00:00,,None,10586
+607791,63,BlockedShot,0.7280000305175781,0.35200000762939454,0.011917664669454098,Tyler Dibling,h,10586,OpenPlay,2024,LeftFoot,26759,Southampton,Tottenham,0,5,2024-12-15 19:00:00,Mateus Fernandes,Pass,10586
+607794,73,SavedShot,0.7609999847412109,0.275,0.010050946846604347,Tyler Dibling,h,10586,OpenPlay,2024,LeftFoot,26759,Southampton,Tottenham,0,5,2024-12-15 19:00:00,,Dispossessed,10586
+607795,78,MissedShots,0.794000015258789,0.3840000152587891,0.021479303017258644,Tyler Dibling,h,10586,OpenPlay,2024,LeftFoot,26759,Southampton,Tottenham,0,5,2024-12-15 19:00:00,Nathan Wood,HeadPass,10586
+609190,94,MissedShots,0.8619999694824219,0.40599998474121096,0.06101552024483681,Tyler Dibling,h,10586,OpenPlay,2024,LeftFoot,26780,Southampton,West Ham,0,1,2024-12-26 15:00:00,James Bree,BallRecovery,10586
+609460,14,Goal,0.9740000152587891,0.5,0.9131478071212769,Tyler Dibling,a,10586,OpenPlay,2024,LeftFoot,26784,Crystal Palace,Southampton,2,1,2024-12-29 15:00:00,Adam Armstrong,Rebound,10586
+609469,42,BlockedShot,0.865999984741211,0.44799999237060545,0.08653862029314041,Tyler Dibling,a,10586,OpenPlay,2024,LeftFoot,26784,Crystal Palace,Southampton,2,1,2024-12-29 15:00:00,Paul Onuachu,BallTouch,10586
+609938,41,MissedShots,0.8640000152587891,0.33099998474121095,0.040428705513477325,Tyler Dibling,h,10586,OpenPlay,2024,LeftFoot,26799,Southampton,Brentford,0,5,2025-01-04 15:00:00,Joe Ayodele-Aribo,Pass,10586
+609951,77,MissedShots,0.73,0.5479999923706055,0.01636754535138607,Tyler Dibling,h,10586,OpenPlay,2024,LeftFoot,26799,Southampton,Brentford,0,5,2025-01-04 15:00:00,Joe Ayodele-Aribo,Pass,10586
+611884,27,SavedShot,0.879000015258789,0.3820000076293945,0.14861492812633514,Tyler Dibling,a,10586,OpenPlay,2024,LeftFoot,26811,Manchester United,Southampton,3,1,2025-01-16 20:00:00,James Bree,TakeOn,10586
+611887,29,MissedShots,0.774000015258789,0.4829999923706055,0.03127143532037735,Tyler Dibling,a,10586,OpenPlay,2024,LeftFoot,26811,Manchester United,Southampton,3,1,2025-01-16 20:00:00,Mateus Fernandes,Pass,10586
+611892,43,SavedShot,0.8090000152587891,0.545,0.06504755467176437,Tyler Dibling,a,10586,OpenPlay,2024,LeftFoot,26811,Manchester United,Southampton,3,1,2025-01-16 20:00:00,Joe Ayodele-Aribo,BallTouch,10586

@@ -1,0 +1,9 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+532902,77,SavedShot,0.8630000305175781,0.385,0.3212226927280426,Bénie Traoré,a,11729,OpenPlay,2023,RightFoot,22285,Nottingham Forest,Sheffield United,2,1,2023-08-18 18:45:00,,None,11729
+558485,56,SavedShot,0.845,0.5359999847412109,0.08870632946491241,Bénie Traoré,h,11729,OpenPlay,2023,RightFoot,23529,Nantes,Clermont Foot,1,2,2024-01-14 14:00:00,Abdoul Kader Bamba,Pass,11729
+562975,22,MissedShots,0.73,0.4179999923706055,0.019966866821050644,Bénie Traoré,a,11729,OpenPlay,2023,RightFoot,23552,Toulouse,Nantes,1,2,2024-02-11 14:00:00,,None,11729
+568927,65,SavedShot,0.759000015258789,0.455,0.01641765609383583,Bénie Traoré,a,11729,SetPiece,2023,LeftFoot,23589,Marseille,Nantes,2,0,2024-03-10 19:45:00,,None,11729
+580784,51,ShotOnPost,0.8830000305175781,0.34,0.06608381122350693,Bénie Traoré,h,11729,OpenPlay,2023,RightFoot,23665,Nantes,Lille,1,2,2024-05-12 19:00:00,Mostafa Mohamed,Pass,11729
+580793,84,SavedShot,0.9430000305175781,0.40900001525878904,0.35392504930496216,Bénie Traoré,h,11729,OpenPlay,2023,RightFoot,23665,Nantes,Lille,1,2,2024-05-12 19:00:00,Abdoul Kader Bamba,Cross,11729
+582863,14,SavedShot,0.8780000305175781,0.8180000305175781,0.05866672471165657,Bénie Traoré,a,11729,DirectFreekick,2023,RightFoot,23675,Monaco,Nantes,4,0,2024-05-19 19:00:00,,Standard,11729
+582870,54,BlockedShot,0.875,0.4570000076293945,0.13819411396980286,Bénie Traoré,a,11729,OpenPlay,2023,RightFoot,23675,Monaco,Nantes,4,0,2024-05-19 19:00:00,Tinotenda Kadewere,Pass,11729

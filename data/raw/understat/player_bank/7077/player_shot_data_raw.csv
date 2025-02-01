@@ -1,0 +1,14 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+249363,43,MissedShots,0.9209999847412109,0.40900001525878904,0.04623179882764816,Denis Odoi,a,7077,FromCorner,2018,Head,9282,Cardiff,Fulham,4,2,2018-10-20 14:00:00,Jean Michael Seri,Cross,7077
+249510,37,MissedShots,0.9419999694824219,0.4229999923706055,0.08461260050535202,Denis Odoi,h,7077,FromCorner,2018,Head,9289,Fulham,Bournemouth,0,3,2018-10-27 14:00:00,Jean Michael Seri,Cross,7077
+250171,37,MissedShots,0.49,0.16299999237060547,0.006244979798793793,Denis Odoi,a,7077,OpenPlay,2018,RightFoot,9313,Liverpool,Fulham,2,0,2018-11-11 12:00:00,,None,7077
+250894,89,MissedShots,0.909000015258789,0.4640000152587891,0.045074500143527985,Denis Odoi,h,7077,SetPiece,2018,Head,9342,Fulham,Leicester,1,1,2018-12-05 19:45:00,Jean Michael Seri,Aerial,7077
+250899,93,MissedShots,0.93,0.4209999847412109,0.3131040036678314,Denis Odoi,h,7077,FromCorner,2018,RightFoot,9342,Fulham,Leicester,1,1,2018-12-05 19:45:00,Tom Cairney,Chipped,7077
+274443,22,OwnGoal,0.03799999952316284,0.39799999237060546,0,Denis Odoi,a,7077,OpenPlay,2018,Head,9415,Burnley,Fulham,2,1,2019-01-12 15:00:00,,Dispossessed,7077
+274835,11,MissedShots,0.9080000305175782,0.515,0.10720500349998474,Denis Odoi,h,7077,FromCorner,2018,RightFoot,9424,Fulham,Tottenham,1,2,2019-01-20 16:00:00,,None,7077
+274836,12,MissedShots,0.695,0.45599998474121095,0.012743099592626095,Denis Odoi,h,7077,OpenPlay,2018,RightFoot,9424,Fulham,Tottenham,1,2,2019-01-20 16:00:00,Ryan Babel,Pass,7077
+274914,57,BlockedShot,0.8719999694824219,0.545,0.06271760165691376,Denis Odoi,h,7077,FromCorner,2018,RightFoot,9429,Fulham,Brighton,4,2,2019-01-29 19:45:00,Maxime Le Marchand,HeadPass,7077
+276316,34,MissedShots,0.8069999694824219,0.295,0.018449600785970688,Denis Odoi,h,7077,OpenPlay,2018,RightFoot,9482,Fulham,Chelsea,1,2,2019-03-03 14:05:00,Ryan Sessegnon,Cross,7077
+295316,37,SavedShot,0.945,0.59,0.023700900375843048,Denis Odoi,a,7077,FromCorner,2018,Head,9545,Bournemouth,Fulham,0,1,2019-04-20 15:00:00,Ryan Babel,Aerial,7077
+376477,6,SavedShot,0.785,0.24899999618530275,0.02052750065922737,Denis Odoi,h,7077,OpenPlay,2020,LeftFoot,14086,Fulham,Arsenal,0,3,2020-09-12 11:30:00,Ivan Cavaleiro,Pass,7077
+377545,93,MissedShots,0.7609999847412109,0.6370000076293946,0.019498199224472046,Denis Odoi,a,7077,OpenPlay,2020,LeftFoot,14097,Leeds,Fulham,4,3,2020-09-19 14:00:00,Michael Hector,Pass,7077

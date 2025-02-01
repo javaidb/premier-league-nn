@@ -1,0 +1,12 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+331329,71,SavedShot,0.874000015258789,0.5940000152587891,0.12041299790143967,Brandon Williams,h,8075,OpenPlay,2019,RightFoot,11761,Manchester United,Brighton,3,1,2019-11-10 14:00:00,Anthony Martial,Pass,8075
+333043,71,Goal,0.8769999694824219,0.6359999847412109,0.02769869938492775,Brandon Williams,a,8075,OpenPlay,2019,RightFoot,11770,Sheffield United,Manchester United,3,3,2019-11-24 16:30:00,,Aerial,8075
+351680,14,MissedShots,0.8219999694824218,0.6309999847412109,0.03895629942417145,Brandon Williams,h,8075,OpenPlay,2019,RightFoot,11862,Manchester United,Norwich,4,0,2020-01-11 15:00:00,Andreas Pereira,Pass,8075
+351692,56,MissedShots,0.975999984741211,0.5429999923706055,0.7050399780273438,Brandon Williams,h,8075,OpenPlay,2019,RightFoot,11862,Manchester United,Norwich,4,0,2020-01-11 15:00:00,,None,8075
+352851,12,MissedShots,0.874000015258789,0.31,0.03253909945487976,Brandon Williams,a,8075,FromCorner,2019,RightFoot,11896,Chelsea,Manchester United,0,2,2020-02-17 20:00:00,,None,8075
+367776,65,BlockedShot,0.899000015258789,0.5059999847412109,0.07323729991912842,Brandon Williams,a,8075,OpenPlay,2019,Head,11956,Brighton,Manchester United,0,3,2020-06-30 19:15:00,Aaron Wan-Bissaka,Cross,8075
+424160,42,SavedShot,0.91,0.345,0.26944899559020996,Brandon Williams,a,8075,OpenPlay,2020,RightFoot,14814,Wolverhampton Wanderers,Manchester United,1,2,2021-05-23 15:00:00,Nemanja Matic,Pass,8075
+446742,45,MissedShots,0.8490000152587891,0.549000015258789,0.0585549995303154,Brandon Williams,a,8075,OpenPlay,2021,RightFoot,16522,Tottenham,Norwich,3,0,2021-12-05 14:00:00,Pierre Lees-Melou,Cross,8075
+467280,92,MissedShots,0.7580000305175781,0.6990000152587891,0.015518800355494022,Brandon Williams,h,8075,OpenPlay,2021,RightFoot,16688,Norwich,Burnley,2,0,2022-04-10 13:00:00,Milot Rashica,Pass,8075
+471648,31,SavedShot,0.7269999694824218,0.4420000076293945,0.01763409934937954,Brandon Williams,a,8075,OpenPlay,2021,RightFoot,16725,Aston Villa,Norwich,2,0,2022-04-30 14:00:00,Milot Rashica,Pass,8075
+471652,44,MissedShots,0.9330000305175781,0.55,0.0636001005768776,Brandon Williams,a,8075,SetPiece,2021,Head,16725,Aston Villa,Norwich,2,0,2022-04-30 14:00:00,Grant Hanley,Aerial,8075

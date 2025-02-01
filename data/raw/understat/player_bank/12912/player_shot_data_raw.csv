@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+585662,83,BlockedShot,0.85,0.49900001525878906,0.08465122431516647,Lucas Bergvall,a,12912,OpenPlay,2024,RightFoot,26611,Leicester,Tottenham,1,1,2024-08-19 19:00:00,Dominic Solanke,Pass,12912
+594818,85,MissedShots,0.720999984741211,0.63,0.05327362194657326,Lucas Bergvall,a,12912,OpenPlay,2024,RightFoot,26660,Manchester United,Tottenham,0,3,2024-09-29 15:30:00,Dejan Kulusevski,Pass,12912
+612614,32,MissedShots,0.759000015258789,0.5379999923706055,0.020202483981847763,Lucas Bergvall,a,12912,OpenPlay,2024,RightFoot,26815,Everton,Tottenham,3,2,2025-01-19 14:00:00,Dejan Kulusevski,Pass,12912

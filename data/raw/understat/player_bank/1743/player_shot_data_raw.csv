@@ -1,0 +1,23 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+113475,58,BlockedShot,0.915,0.47299999237060547,0.09835399687290192,Bruno Martins Indi,a,1743,SetPiece,2016,RightFoot,508,Crystal Palace,Stoke,4,1,2016-09-18 17:15:00,Jonathan Walters,HeadPass,1743
+114357,3,SavedShot,0.615999984741211,0.7419999694824219,0.020933600142598152,Bruno Martins Indi,a,1743,DirectFreekick,2016,LeftFoot,527,Manchester United,Stoke,1,1,2016-10-02 15:00:00,,Standard,1743
+115692,92,BlockedShot,0.9259999847412109,0.48200000762939454,0.10450299829244614,Bruno Martins Indi,h,1743,FromCorner,2016,RightFoot,2699,Stoke,Bournemouth,0,1,2016-11-19 19:00:00,Peter Crouch,Card,1743
+115691,92,BlockedShot,0.909000015258789,0.49900001525878906,0.031289201229810715,Bruno Martins Indi,h,1743,FromCorner,2016,Head,2699,Stoke,Bournemouth,0,1,2016-11-19 19:00:00,Charlie Adam,Aerial,1743
+115431,6,SavedShot,0.8959999847412109,0.45599998474121095,0.09423039853572845,Bruno Martins Indi,a,1743,SetPiece,2016,LeftFoot,2713,Watford,Stoke,0,1,2016-11-27 16:00:00,Charlie Adam,Rebound,1743
+115798,9,ShotOnPost,0.960999984741211,0.519000015258789,0.5032430291175842,Bruno Martins Indi,h,1743,FromCorner,2016,Head,3107,Stoke,Burnley,2,0,2016-12-03 19:00:00,Xherdan Shaqiri,Cross,1743
+116487,3,MissedShots,0.909000015258789,0.6270000076293946,0.016700899228453636,Bruno Martins Indi,a,1743,FromCorner,2016,Head,3118,Arsenal,Stoke,3,1,2016-12-10 19:00:00,Xherdan Shaqiri,Cross,1743
+117214,45,Goal,0.91,0.5259999847412109,0.08711700141429901,Bruno Martins Indi,a,1743,SetPiece,2016,LeftFoot,3158,Chelsea,Stoke,4,2,2016-12-31 19:00:00,,None,1743
+117940,43,BlockedShot,0.9159999847412109,0.5309999847412109,0.08703219890594482,Bruno Martins Indi,h,1743,FromCorner,2016,Head,3383,Stoke,Crystal Palace,1,0,2017-02-11 15:00:00,Charlie Adam,Cross,1743
+118750,57,SavedShot,0.9269999694824219,0.42200000762939455,0.056182701140642166,Bruno Martins Indi,a,1743,OpenPlay,2016,Head,3397,Tottenham,Stoke,4,0,2017-02-26 13:30:00,Charlie Adam,Aerial,1743
+119685,55,MissedShots,0.9230000305175782,0.525,0.10349000245332718,Bruno Martins Indi,h,1743,FromCorner,2016,Head,3403,Stoke,Middlesbrough,2,0,2017-03-04 15:00:00,Glenn Whelan,Cross,1743
+119431,17,SavedShot,0.8819999694824219,0.5609999847412109,0.08160100132226944,Bruno Martins Indi,a,1743,SetPiece,2016,LeftFoot,3418,Manchester City,Stoke,0,0,2017-03-08 20:00:00,Phil Bardsley,Chipped,1743
+120069,76,BlockedShot,0.895,0.4620000076293945,0.058187201619148254,Bruno Martins Indi,a,1743,SetPiece,2016,Head,3441,Burnley,Stoke,1,0,2017-04-04 19:45:00,Peter Crouch,HeadPass,1743
+120217,67,MissedShots,0.9580000305175781,0.6,0.08091910183429718,Bruno Martins Indi,h,1743,SetPiece,2016,Head,3451,Stoke,Liverpool,1,2,2017-04-08 15:00:00,Marko Arnautovic,Cross,1743
+120866,38,MissedShots,0.9230000305175782,0.48,0.04938409850001335,Bruno Martins Indi,a,1743,FromCorner,2016,Head,3478,Swansea,Stoke,2,0,2017-04-22 15:00:00,Marko Arnautovic,Aerial,1743
+120881,88,MissedShots,0.8769999694824219,0.545,0.06586000323295593,Bruno Martins Indi,a,1743,FromCorner,2016,LeftFoot,3478,Swansea,Stoke,2,0,2017-04-22 15:00:00,Joe Allen,Pass,1743
+121042,55,BlockedShot,0.764000015258789,0.5629999923706055,0.021650800481438637,Bruno Martins Indi,h,1743,SetPiece,2016,LeftFoot,3485,Stoke,West Ham,0,0,2017-04-29 15:00:00,Joe Allen,Pass,1743
+120279,62,SavedShot,0.9269999694824219,0.46099998474121096,0.05868089944124222,Bruno Martins Indi,h,1743,FromCorner,2016,Head,3505,Stoke,Arsenal,1,4,2017-05-13 17:30:00,Geoff Cameron,HeadPass,1743
+158972,8,MissedShots,0.9530000305175781,0.565,0.11751200258731842,Bruno Martins Indi,a,1743,FromCorner,2017,LeftFoot,7146,West Bromwich Albion,Stoke,1,1,2017-08-27 13:30:00,Ryan Shawcross,None,1743
+161310,60,BlockedShot,0.745,0.485,0.01648229919373989,Bruno Martins Indi,h,1743,FromCorner,2017,LeftFoot,7258,Stoke,Liverpool,0,3,2017-11-29 20:00:00,,None,1743
+201030,63,MissedShots,0.9480000305175781,0.445,0.10576099902391434,Bruno Martins Indi,h,1743,SetPiece,2017,LeftFoot,7416,Stoke,Manchester City,0,2,2018-03-12 20:00:00,Eric Maxim Choupo-Moting,HeadPass,1743
+209474,92,BlockedShot,0.9640000152587891,0.485,0.1470790058374405,Bruno Martins Indi,a,1743,SetPiece,2017,Head,7458,West Ham,Stoke,1,1,2018-04-16 19:00:00,Xherdan Shaqiri,Cross,1743

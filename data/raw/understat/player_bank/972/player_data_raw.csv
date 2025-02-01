@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+972,Jerome Sinclair,2,22,0,0,0,0.05215829983353615,0,1,0,0,S,Liverpool,0,0,0.05215829983353615,0,2014
+972,Jerome Sinclair,5,110,0,0.057534199208021164,0,0.024063199758529663,1,1,0,0,F S,Watford,0,0.057534199208021164,0.024063199758529663,0,2016
+972,Jerome Sinclair,4,26,0,0,0,0.07847130298614502,0,1,0,0,S,Watford,0,0,0.3549393117427826,0.2764680087566376,2017

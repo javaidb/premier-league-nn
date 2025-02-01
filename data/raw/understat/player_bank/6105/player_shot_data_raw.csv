@@ -1,0 +1,8 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+185383,43,MissedShots,0.725,0.565,0.010850000195205212,Gaëtan Bong,h,6105,SetPiece,2017,LeftFoot,7291,Brighton,Burnley,0,0,2017-12-16 15:00:00,,None,6105
+187489,90,MissedShots,0.745,0.6170000076293946,0.013181700371205807,Gaëtan Bong,a,6105,FromCorner,2017,LeftFoot,7348,West Bromwich Albion,Brighton,2,0,2018-01-13 15:00:00,,Aerial,6105
+200024,59,OwnGoal,0.04400000095367432,0.5329999923706055,0,Gaëtan Bong,a,6105,OpenPlay,2017,RightFoot,7412,Everton,Brighton,2,0,2018-03-10 15:00:00,,None,6105
+204078,48,MissedShots,0.759000015258789,0.7069999694824218,0.011987599544227123,Gaëtan Bong,h,6105,OpenPlay,2017,LeftFoot,7430,Brighton,Leicester,0,2,2018-03-31 15:00:00,,Rebound,6105
+209527,24,SavedShot,0.7480000305175781,0.6909999847412109,0.016248900443315506,Gaëtan Bong,h,6105,OpenPlay,2017,LeftFoot,7462,Brighton,Tottenham,1,1,2018-04-17 18:45:00,Beram Kayal,Pass,6105
+275158,54,MissedShots,0.8190000152587891,0.515,0.05787640064954758,Gaëtan Bong,h,6105,OpenPlay,2018,RightFoot,9446,Brighton,Watford,0,0,2019-02-02 15:00:00,Pascal Groß,Pass,6105
+275892,85,MissedShots,0.7080000305175781,0.49400001525878906,0.01160420011729002,Gaëtan Bong,a,6105,SetPiece,2018,LeftFoot,9467,Leicester,Brighton,2,1,2019-02-26 19:45:00,,Rebound,6105

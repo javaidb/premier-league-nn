@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+16686,66,OwnGoal,0.048000001907348634,0.500999984741211,0,Richard Dunne,h,4444,SetPiece,2014,LeftFoot,4706,Queens Park Rangers,Liverpool,2,3,2014-10-19 13:30:00,,Foul,4444
+17082,44,SavedShot,0.879000015258789,0.3770000076293945,0.012092499993741512,Richard Dunne,a,4444,FromCorner,2014,Head,4670,Newcastle United,Queens Park Rangers,1,0,2014-11-22 15:00:00,Joey Barton,Cross,4444
+18031,51,MissedShots,0.8619999694824219,0.5129999923706055,0.06267320364713669,Richard Dunne,a,4444,FromCorner,2014,LeftFoot,4618,Everton,Queens Park Rangers,3,1,2014-12-15 20:00:00,Yun Suk-Young,Pass,4444
+19168,47,SavedShot,0.919000015258789,0.509000015258789,0.18734200298786163,Richard Dunne,h,4444,FromCorner,2014,Head,4622,Queens Park Rangers,West Bromwich Albion,3,2,2014-12-20 15:00:00,Joey Barton,Aerial,4444
+17446,47,BlockedShot,0.925,0.5309999847412109,0.05818049982190132,Richard Dunne,a,4444,FromCorner,2014,Head,4564,Burnley,Queens Park Rangers,2,1,2015-01-10 15:00:00,Eduardo Vargas,HeadPass,4444
+19036,30,MissedShots,0.8680000305175781,0.524000015258789,0.07439830154180527,Richard Dunne,h,4444,FromCorner,2014,RightFoot,4574,Queens Park Rangers,Manchester United,0,2,2015-01-17 15:00:00,,None,4444
+23690,81,MissedShots,0.935,0.5559999847412109,0.12781600654125214,Richard Dunne,a,4444,SetPiece,2014,Head,4584,Stoke,Queens Park Rangers,3,1,2015-01-31 15:00:00,Mauricio Isla,Cross,4444
+22913,73,SavedShot,0.9669999694824218,0.4640000152587891,0.5001199841499329,Richard Dunne,h,4444,FromCorner,2014,Head,4469,Queens Park Rangers,West Ham,0,0,2015-04-25 15:00:00,Matt Phillips,Cross,4444
+22915,78,SavedShot,0.9730000305175781,0.38799999237060545,0.02488880045711994,Richard Dunne,h,4444,FromCorner,2014,Head,4469,Queens Park Rangers,West Ham,0,0,2015-04-25 15:00:00,Matt Phillips,Cross,4444

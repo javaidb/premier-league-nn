@@ -1,0 +1,2 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+55748,94,MissedShots,0.905,0.44299999237060544,0.01867770031094551,Lukasz Fabianski,a,706,FromCorner,2015,Head,275,Manchester United,Swansea,2,1,2016-01-02 19:00:00,Gylfi Sigurdsson,Aerial,706

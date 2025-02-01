@@ -1,0 +1,7 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+534666,67,BlockedShot,0.9119999694824219,0.43099998474121093,0.06607918441295624,Youssef Chermiti,h,11984,FromCorner,2023,RightFoot,22299,Everton,Wolverhampton Wanderers,0,1,2023-08-26 14:00:00,Ashley Young,Cross,11984
+550508,90,MissedShots,0.7240000152587891,0.6630000305175782,0.010813700966536999,Youssef Chermiti,h,11984,OpenPlay,2023,RightFoot,22017,Everton,Manchester United,0,3,2023-11-26 16:30:00,Arnaut Danjuma Groeneveld,BallRecovery,11984
+560992,87,SavedShot,0.9,0.48400001525878905,0.34960487484931946,Youssef Chermiti,h,11984,OpenPlay,2023,RightFoot,22121,Everton,Tottenham,2,2,2024-02-03 12:30:00,Lewis Dobbin,Cross,11984
+576935,36,BlockedShot,0.8430000305175781,0.34,0.037977349013090134,Youssef Chermiti,h,11984,OpenPlay,2023,RightFoot,22237,Everton,Brentford,1,0,2024-04-27 16:30:00,Abdoulaye Doucouré,Pass,11984
+579839,86,MissedShots,0.85,0.2979999923706055,0.04965735226869583,Youssef Chermiti,h,11984,OpenPlay,2023,RightFoot,22257,Everton,Sheffield United,1,0,2024-05-11 14:00:00,James Garner,Pass,11984
+579842,95,SavedShot,0.9219999694824219,0.655,0.08938461542129517,Youssef Chermiti,h,11984,OpenPlay,2023,LeftFoot,22257,Everton,Sheffield United,1,0,2024-05-11 14:00:00,Lewis Dobbin,BlockedPass,11984

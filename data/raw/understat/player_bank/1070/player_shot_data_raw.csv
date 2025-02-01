@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+52124,57,BlockedShot,0.740999984741211,0.37200000762939456,0.016944700852036476,Sullay Kaikai,a,1070,OpenPlay,2015,LeftFoot,455,Southampton,Crystal Palace,4,1,2016-05-15 18:00:00,Emmanuel Adebayor,Pass,1070
+52126,59,SavedShot,0.875,0.46,0.07520259916782379,Sullay Kaikai,a,1070,OpenPlay,2015,LeftFoot,455,Southampton,Crystal Palace,4,1,2016-05-15 18:00:00,Dwight Gayle,Cross,1070
+52134,76,BlockedShot,0.8569999694824219,0.6719999694824219,0.0341717004776001,Sullay Kaikai,a,1070,OpenPlay,2015,RightFoot,455,Southampton,Crystal Palace,4,1,2016-05-15 18:00:00,Mile Jedinak,Chipped,1070

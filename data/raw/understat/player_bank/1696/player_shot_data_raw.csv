@@ -1,0 +1,4 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+114261,34,BlockedShot,0.8619999694824219,0.36900001525878906,0.06204820051789284,Markus Henriksen,h,1696,SetPiece,2016,RightFoot,524,Hull,Chelsea,0,2,2016-10-01 18:00:00,Adama Diomande,HeadPass,1696
+119310,81,MissedShots,0.9309999847412109,0.27399999618530274,0.04315660148859024,Markus Henriksen,h,1696,OpenPlay,2016,RightFoot,3433,Hull,West Ham,2,1,2017-04-01 15:00:00,Lazar Markovic,Chipped,1696
+121020,74,BlockedShot,0.7909999847412109,0.27700000762939453,0.02027600072324276,Markus Henriksen,a,1696,OpenPlay,2016,RightFoot,3484,Southampton,Hull,0,0,2017-04-29 15:00:00,Kamil Grosicki,Pass,1696

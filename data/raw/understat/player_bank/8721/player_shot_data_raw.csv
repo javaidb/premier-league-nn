@@ -1,0 +1,5 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+429213,85,BlockedShot,0.89,0.33,0.04962940141558647,Jamie Shackleton,a,8721,OpenPlay,2021,RightFoot,16403,Burnley,Leeds,1,1,2021-08-29 13:00:00,,None,8721
+429216,86,SavedShot,0.895,0.27399999618530274,0.038390301167964935,Jamie Shackleton,a,8721,OpenPlay,2021,LeftFoot,16403,Burnley,Leeds,1,1,2021-08-29 13:00:00,Raphinha,Pass,8721
+434872,75,MissedShots,0.7619999694824219,0.325,0.0234398003667593,Jamie Shackleton,h,8721,OpenPlay,2021,RightFoot,16440,Leeds,Watford,1,0,2021-10-02 14:00:00,,None,8721
+459560,93,MissedShots,0.8680000305175781,0.31,0.05584539845585823,Jamie Shackleton,h,8721,OpenPlay,2021,RightFoot,16642,Leeds,Tottenham,0,4,2022-02-26 12:30:00,Daniel James,Pass,8721

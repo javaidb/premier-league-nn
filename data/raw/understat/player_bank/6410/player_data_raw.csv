@@ -1,0 +1,4 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+6410,Jack Simpson,1,74,0,0,0,0,0,0,0,0,D,Bournemouth,0,0,0,0,2017
+6410,Jack Simpson,6,407,0,0.3693768884986639,0,0,2,0,0,0,D S,Bournemouth,0,0.3693768884986639,0.34872959926724434,0.34872959926724434,2018
+6410,Jack Simpson,4,237,0,0.011818800121545792,0,0.034685298800468445,1,1,0,0,D S,Bournemouth,0,0.011818800121545792,0.046504098922014236,0,2019

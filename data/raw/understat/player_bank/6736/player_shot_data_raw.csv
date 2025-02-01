@@ -1,0 +1,28 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+317633,33,MissedShots,0.9680000305175781,0.624000015258789,0.02167380042374134,Ibrahima Diallo,h,6736,FromCorner,2019,Head,12752,Brest,Rennes,0,0,2019-09-14 18:00:00,Mathias Autret,Cross,6736
+321756,77,MissedShots,0.6840000152587891,0.5740000152587891,0.013384499587118626,Ibrahima Diallo,h,6736,OpenPlay,2019,RightFoot,12770,Brest,Lyon,2,2,2019-09-25 17:00:00,Romain Perraud,Pass,6736
+337250,86,MissedShots,0.73,0.53,0.01511630043387413,Ibrahima Diallo,h,6736,FromCorner,2019,LeftFoot,12888,Brest,Nice,0,0,2019-12-14 19:00:00,,None,6736
+339059,16,SavedShot,0.654000015258789,0.455,0.011386999860405922,Ibrahima Diallo,a,6736,OpenPlay,2019,RightFoot,12889,Montpellier,Brest,4,0,2019-12-21 19:45:00,Alexandre Mendy,Pass,6736
+339084,78,SavedShot,0.745,0.6430000305175781,0.016598699614405632,Ibrahima Diallo,a,6736,OpenPlay,2019,LeftFoot,12889,Montpellier,Brest,4,0,2019-12-21 19:45:00,Paul Lasne,Pass,6736
+379345,56,MissedShots,0.6819999694824219,0.5329999923706055,0.014788099564611912,Ibrahima Diallo,a,6736,OpenPlay,2020,RightFoot,14219,Angers,Brest,3,2,2020-09-27 13:00:00,Romain Perraud,Pass,6736
+401188,45,MissedShots,0.7390000152587891,0.47,0.02072729915380478,Ibrahima Diallo,h,6736,OpenPlay,2020,LeftFoot,14632,Southampton,Arsenal,1,3,2021-01-26 20:15:00,Stuart Armstrong,Pass,6736
+401196,85,MissedShots,0.9630000305175781,0.5979999923706054,0.42035698890686035,Ibrahima Diallo,h,6736,SetPiece,2020,LeftFoot,14632,Southampton,Arsenal,1,3,2021-01-26 20:15:00,,Rebound,6736
+412905,39,BlockedShot,0.715999984741211,0.42700000762939455,0.016332300379872322,Ibrahima Diallo,h,6736,OpenPlay,2020,RightFoot,14733,Southampton,Burnley,3,2,2021-04-04 11:00:00,,Rebound,6736
+412908,46,BlockedShot,0.794000015258789,0.36400001525878906,0.03163919970393181,Ibrahima Diallo,h,6736,OpenPlay,2020,RightFoot,14733,Southampton,Burnley,3,2,2021-04-04 11:00:00,,Dispossessed,6736
+420361,70,SavedShot,0.8490000152587891,0.52,0.054918598383665085,Ibrahima Diallo,a,6736,OpenPlay,2020,LeftFoot,14780,Liverpool,Southampton,2,0,2021-05-08 19:15:00,Michael Obafemi,HeadPass,6736
+424121,4,MissedShots,0.7559999847412109,0.6509999847412109,0.01617100089788437,Ibrahima Diallo,a,6736,OpenPlay,2020,LeftFoot,14813,West Ham,Southampton,3,0,2021-05-23 15:00:00,Nathan Redmond,Pass,6736
+424138,45,BlockedShot,0.8059999847412109,0.4759999847412109,0.048306599259376526,Ibrahima Diallo,a,6736,OpenPlay,2020,RightFoot,14813,West Ham,Southampton,3,0,2021-05-23 15:00:00,Takumi Minamino,Pass,6736
+425858,86,BlockedShot,0.9390000152587891,0.4640000152587891,0.05865029990673065,Ibrahima Diallo,a,6736,SetPiece,2021,Head,16380,Everton,Southampton,3,1,2021-08-14 14:00:00,James Ward-Prowse,BallTouch,6736
+429882,81,MissedShots,0.9459999847412109,0.39,0.12031199783086777,Ibrahima Diallo,h,6736,OpenPlay,2021,RightFoot,16411,Southampton,West Ham,0,0,2021-09-11 14:00:00,Valentino Livramento,Pass,6736
+437739,52,MissedShots,0.725999984741211,0.39099998474121095,0.019340800121426582,Ibrahima Diallo,h,6736,OpenPlay,2021,RightFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,,BallRecovery,6736
+437748,83,SavedShot,0.7469999694824219,0.5279999923706055,0.021432800218462944,Ibrahima Diallo,h,6736,OpenPlay,2021,RightFoot,16464,Southampton,Burnley,2,2,2021-10-23 14:00:00,Nathan Redmond,BallTouch,6736
+452941,36,ShotOnPost,0.794000015258789,0.6759999847412109,0.026073800399899483,Ibrahima Diallo,h,6736,FromCorner,2021,RightFoot,16551,Southampton,Brentford,4,1,2022-01-11 21:45:00,James Ward-Prowse,Cross,6736
+452945,56,SavedShot,0.87,0.76,0.036416199058294296,Ibrahima Diallo,h,6736,OpenPlay,2021,RightFoot,16551,Southampton,Brentford,4,1,2022-01-11 21:45:00,Oriol Romeu,Pass,6736
+454786,85,SavedShot,0.8069999694824219,0.3729999923706055,0.036506399512290955,Ibrahima Diallo,h,6736,OpenPlay,2021,LeftFoot,16604,Southampton,Manchester City,1,1,2022-01-22 17:30:00,,None,6736
+465289,56,SavedShot,0.76,0.705999984741211,0.01785139925777912,Ibrahima Diallo,a,6736,OpenPlay,2021,LeftFoot,16681,Leeds,Southampton,1,1,2022-04-02 14:00:00,Oriol Romeu,Pass,6736
+479346,89,BlockedShot,0.8090000152587891,0.48900001525878906,0.049223098903894424,Ibrahima Diallo,a,6736,OpenPlay,2022,RightFoot,18207,Tottenham,Southampton,4,1,2022-08-06 14:00:00,James Ward-Prowse,BallTouch,6736
+485917,17,MissedShots,0.6980000305175781,0.305,0.014480100013315678,Ibrahima Diallo,a,6736,OpenPlay,2022,RightFoot,18256,Wolverhampton Wanderers,Southampton,1,0,2022-09-03 14:00:00,James Ward-Prowse,Pass,6736
+493679,80,MissedShots,0.700999984741211,0.325,0.011220600455999374,Ibrahima Diallo,h,6736,OpenPlay,2022,RightFoot,18309,Southampton,West Ham,1,1,2022-10-16 13:00:00,James Ward-Prowse,Pass,6736
+500946,45,BlockedShot,0.7659999847412109,0.3840000152587891,0.01487329974770546,Ibrahima Diallo,h,6736,OpenPlay,2022,RightFoot,18371,Southampton,Brighton,1,3,2022-12-26 15:00:00,Moussa Djenepo,Pass,6736
+503607,33,MissedShots,0.785,0.5309999847412109,0.03147689998149872,Ibrahima Diallo,a,6736,OpenPlay,2022,RightFoot,18396,Everton,Southampton,1,2,2023-01-14 15:00:00,Samuel Edozie,Pass,6736
+503617,59,MissedShots,0.7519999694824219,0.5790000152587891,0.016577599570155144,Ibrahima Diallo,a,6736,FromCorner,2022,RightFoot,18396,Everton,Southampton,1,2,2023-01-14 15:00:00,,None,6736

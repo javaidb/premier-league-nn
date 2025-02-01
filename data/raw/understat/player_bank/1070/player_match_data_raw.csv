@@ -1,0 +1,4 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,12,Sub,Liverpool,Crystal Palace,1,0,2017-08-19,7134,2017,176202,0,0,0,0,0,0,0,1070
+0,0,0,21,Sub,Manchester United,Crystal Palace,2,0,2017-05-21,3516,2016,125329,0,0,0,0,0,0,0,1070
+0,3,0.1263190060853958,42,Sub,Southampton,Crystal Palace,4,1,2016-05-15,455,2015,57798,0.36958301067352295,0,2,0,0.1263190060853958,0.18547800183296204,0.0341717004776001,1070

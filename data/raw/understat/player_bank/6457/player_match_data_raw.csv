@@ -1,0 +1,3 @@
+goals,shots,xG,time,position,h_team,a_team,h_goals,a_goals,date,id,season,roster_id,xA,assists,key_passes,npg,npxG,xGChain,xGBuildup,ref_player_id
+0,0,0,34,Sub,Southampton,Bournemouth,3,3,2019-04-27,9549,2018,328321,0,0,0,0,0,0.05234900116920471,0.05234900116920471,6457
+0,0,0,60,MC,Burnley,Bournemouth,1,2,2018-05-13,7492,2017,240167,0.022522199898958206,0,1,0,0,0.017591100186109543,0.017591100186109543,6457

@@ -1,0 +1,10 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+586137,12,MissedShots,0.805,0.6559999847412109,0.02145395055413246,Yukinari Sugawara,h,12761,FromCorner,2024,LeftFoot,26616,Southampton,Nottingham Forest,0,1,2024-08-24 14:00:00,,None,12761
+589157,44,SavedShot,0.8009999847412109,0.5720000076293945,0.0280403234064579,Yukinari Sugawara,a,12761,FromCorner,2024,RightFoot,26623,Brentford,Southampton,3,1,2024-08-31 14:00:00,,None,12761
+589173,89,MissedShots,0.7919999694824219,0.73,0.054524488747119904,Yukinari Sugawara,a,12761,DirectFreekick,2024,RightFoot,26623,Brentford,Southampton,3,1,2024-08-31 14:00:00,,Standard,12761
+589178,94,Goal,0.8669999694824219,0.36200000762939455,0.023449387401342392,Yukinari Sugawara,a,12761,OpenPlay,2024,LeftFoot,26623,Brentford,Southampton,3,1,2024-08-31 14:00:00,Adam Lallana,HeadPass,12761
+590474,22,BlockedShot,0.904000015258789,0.27,0.03414851799607277,Yukinari Sugawara,h,12761,OpenPlay,2024,LeftFoot,26632,Southampton,Manchester United,0,3,2024-09-14 11:30:00,Tyler Dibling,TakeOn,12761
+601506,93,MissedShots,0.9119999694824219,0.28200000762939453,0.03260114789009094,Yukinari Sugawara,a,12761,OpenPlay,2024,RightFoot,26711,Wolverhampton Wanderers,Southampton,2,0,2024-11-09 15:00:00,,None,12761
+607797,88,BlockedShot,0.9059999847412109,0.23899999618530274,0.019882015883922577,Yukinari Sugawara,h,12761,OpenPlay,2024,RightFoot,26759,Southampton,Tottenham,0,5,2024-12-15 19:00:00,,None,12761
+608641,60,BlockedShot,0.7930000305175782,0.405,0.023647576570510864,Yukinari Sugawara,a,12761,FromCorner,2024,RightFoot,26763,Fulham,Southampton,0,0,2024-12-22 14:00:00,,None,12761
+609170,42,BlockedShot,0.86,0.28,0.035514917224645615,Yukinari Sugawara,h,12761,OpenPlay,2024,LeftFoot,26780,Southampton,West Ham,0,1,2024-12-26 15:00:00,Mateus Fernandes,Pass,12761

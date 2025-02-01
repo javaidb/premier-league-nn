@@ -1,0 +1,2 @@
+id,player_name,games,time,goals,xG,assists,xA,shots,key_passes,yellow_cards,red_cards,position,team_title,npg,npxG,xGChain,xGBuildup,season
+8257,Gedson Fernandes,7,51,0,0.01995060034096241,0,0.09191019833087921,1,2,0,0,S,Tottenham,0,0.01995060034096241,0.26796009577810764,0.15609929710626602,2019

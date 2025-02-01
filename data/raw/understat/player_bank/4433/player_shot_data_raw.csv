@@ -1,0 +1,15 @@
+id,minute,result,X,Y,xG,player,h_a,player_id,situation,season,shotType,match_id,h_team,a_team,h_goals,a_goals,date,player_assisted,lastAction,ref_player_id
+14597,64,MissedShots,0.92,0.529000015258789,0.09586939960718155,Ron Vlaar,a,4433,FromCorner,2014,Head,4752,Stoke,Aston Villa,0,1,2014-08-16 15:00:00,Charles N&#039;Zogbia,Cross,4433
+15965,9,SavedShot,0.8109999847412109,0.6859999847412109,0.0193875003606081,Ron Vlaar,a,4433,SetPiece,2014,RightFoot,4662,West Ham,Aston Villa,0,0,2014-11-08 15:00:00,,None,4433
+18595,94,MissedShots,0.68,0.5920000076293945,0.009899700060486794,Ron Vlaar,a,4433,OpenPlay,2014,RightFoot,4612,West Bromwich Albion,Aston Villa,1,0,2014-12-13 15:00:00,,None,4433
+18681,47,MissedShots,0.9180000305175782,0.3940000152587891,0.05296599864959717,Ron Vlaar,h,4433,FromCorner,2014,RightFoot,4624,Aston Villa,Manchester United,1,1,2014-12-20 15:00:00,Fabian Delph,Cross,4433
+18334,74,MissedShots,0.9419999694824219,0.615999984741211,0.0313321016728878,Ron Vlaar,h,4433,FromCorner,2014,Head,4644,Aston Villa,Sunderland,0,0,2014-12-28 15:00:00,Jack Grealish,Cross,4433
+18335,75,MissedShots,0.7119999694824218,0.6329999923706054,0.012746100313961506,Ron Vlaar,h,4433,FromCorner,2014,LeftFoot,4644,Aston Villa,Sunderland,0,0,2014-12-28 15:00:00,,None,4433
+22262,8,MissedShots,0.9280000305175782,0.5720000076293945,0.07361669838428497,Ron Vlaar,h,4433,FromCorner,2014,Head,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Jack Grealish,Cross,4433
+22269,22,SavedShot,0.8769999694824219,0.42,0.06039870157837868,Ron Vlaar,h,4433,OpenPlay,2014,RightFoot,4450,Aston Villa,Queens Park Rangers,3,3,2015-04-07 19:45:00,Gabriel Agbonlahor,HeadPass,4433
+21418,49,MissedShots,0.8530000305175781,0.6,0.05028880015015602,Ron Vlaar,a,4433,FromCorner,2014,RightFoot,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,,None,4433
+21424,82,MissedShots,0.9790000152587891,0.40599998474121096,0.014996900223195553,Ron Vlaar,a,4433,FromCorner,2014,Head,4455,Tottenham,Aston Villa,0,1,2015-04-11 15:00:00,Joe Cole,Aerial,4433
+22635,26,BlockedShot,0.7909999847412109,0.5729999923706055,0.03217649832367897,Ron Vlaar,a,4433,FromCorner,2014,LeftFoot,4475,Manchester City,Aston Villa,3,2,2015-04-25 17:30:00,Ashley Westwood,Pass,4433
+20518,28,MissedShots,0.965999984741211,0.4979999923706055,0.5399069786071777,Ron Vlaar,h,4433,FromCorner,2014,Head,4401,Aston Villa,Everton,3,2,2015-05-02 15:00:00,Jack Grealish,Cross,4433
+22102,16,MissedShots,0.879000015258789,0.5309999847412109,0.08021850138902664,Ron Vlaar,h,4433,SetPiece,2014,RightFoot,4430,Aston Villa,Burnley,0,1,2015-05-24 15:00:00,Nathan Baker,HeadPass,4433
+22116,73,MissedShots,0.94,0.5120000076293946,0.08041950315237045,Ron Vlaar,h,4433,FromCorner,2014,Head,4430,Aston Villa,Burnley,0,1,2015-05-24 15:00:00,,Aerial,4433
